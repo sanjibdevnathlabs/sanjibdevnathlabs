@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Palantir exec defends company’s immigration surveillance work](https://techcrunch.com/2025/04/20/palantir-exec-defends-companys-immigration-surveillance-work/)
+- [OpenAI’s o3 AI model scores lower on a benchmark than the company initially implied](https://techcrunch.com/2025/04/20/openais-o3-ai-model-scores-lower-on-a-benchmark-than-the-company-initially-implied/)
 - [Kids sure love video game movies](https://techcrunch.com/2025/04/20/kids-sure-love-video-game-movies/)
 - [SpaceX launching Dragon cargo capsule to ISS early April 21: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-dragon-cargo-capsule-to-iss-early-april-21-watch-it-live)
 - [Your politeness could be costly for OpenAI](https://techcrunch.com/2025/04/20/your-politeness-could-be-costly-for-openai/)
-- [SpaceX launches 10th batch of &#39;proliferated architecture&#39; spy satellites for US government &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-10th-batch-of-proliferated-architecture-spy-satellites-for-us-government-video)
-- [Uncovered emails showed how Meta struggled to keep Facebook culturally relevant](https://techcrunch.com/2025/04/20/uncovered-emails-showed-how-meta-struggled-to-keep-facebook-culturally-relevant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
