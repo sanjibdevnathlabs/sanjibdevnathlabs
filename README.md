@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s oldest active astronaut lands with space station crewmates on his 70th birthday](https://www.space.com/space-exploration/international-space-station/nasas-oldest-active-astronaut-lands-with-space-station-crewmates-on-his-70th-birthday)
 - [Congress has questions about 23andMe bankruptcy](https://techcrunch.com/2025/04/19/congress-has-questions-about-23andme-bankruptcy/)
 - [Robots run a half marathon, slowly](https://techcrunch.com/2025/04/19/robots-run-a-half-marathon-slowly/)
 - [Lunt SunOculars 8x32 solar binoculars review](https://www.space.com/stargazing/astronomy-kit/lunt-sunoculars-8x32-solar-binoculars-review)
 - [Week in Review: Google loses a major antitrust case](https://techcrunch.com/2025/04/19/week-in-review-google-loses-a-major-antitrust-case/)
-- [Famed AI researcher launches controversial startup to replace all human workers everywhere](https://techcrunch.com/2025/04/19/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
