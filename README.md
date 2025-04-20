@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your politeness could be costly for OpenAI](https://techcrunch.com/2025/04/20/your-politeness-could-be-costly-for-openai/)
 - [SpaceX launches 10th batch of &#39;proliferated architecture&#39; spy satellites for US government &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-10th-batch-of-proliferated-architecture-spy-satellites-for-us-government-video)
 - [Uncovered emails showed how Meta struggled to keep Facebook culturally relevant](https://techcrunch.com/2025/04/20/uncovered-emails-showed-how-meta-struggled-to-keep-facebook-culturally-relevant/)
 - [When is the best time to see the Lyrid meteor shower 2025?](https://www.space.com/best-time-see-lyrid-meteor-shower-2025)
 - [Gamma-ray bursts reveal largest structure in the universe is bigger and closer to Earth than we knew: &#39;The jury is still out on what it all means.&#39;](https://www.space.com/the-universe/gamma-ray-bursts-reveal-largest-structure-in-the-universe-is-bigger-and-closer-to-earth-than-we-knew-the-jury-is-still-out-on-what-it-all-means)
-- [NASA&#39;s oldest active astronaut lands with space station crewmates on his 70th birthday](https://www.space.com/space-exploration/international-space-station/nasas-oldest-active-astronaut-lands-with-space-station-crewmates-on-his-70th-birthday)
 <!-- BLOG-POST-LIST:END -->
 
 ---
