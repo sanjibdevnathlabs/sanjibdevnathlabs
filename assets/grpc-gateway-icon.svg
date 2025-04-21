@@ -1,0 +1,33 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#f5f5f5" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- Gateway Structure -->
+  <rect x="70" y="50" width="60" height="100" rx="5" ry="5" fill="#2980b9"/>
+  
+  <!-- Gateway Windows -->
+  <rect x="80" y="60" width="40" height="20" rx="3" ry="3" fill="#f5f5f5"/>
+  <rect x="80" y="90" width="40" height="20" rx="3" ry="3" fill="#f5f5f5"/>
+  <rect x="80" y="120" width="40" height="20" rx="3" ry="3" fill="#f5f5f5"/>
+  
+  <!-- Left Side (gRPC) -->
+  <g transform="translate(30, 85)">
+    <rect x="0" y="0" width="25" height="30" rx="3" ry="3" fill="#3498db"/>
+    <text x="12.5" y="19" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="white">gRPC</text>
+  </g>
+  
+  <!-- Right Side (REST) -->
+  <g transform="translate(145, 85)">
+    <rect x="0" y="0" width="25" height="30" rx="3" ry="3" fill="#e74c3c"/>
+    <text x="12.5" y="19" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="white">REST</text>
+  </g>
+  
+  <!-- Connection Lines -->
+  <!-- Left Connection -->
+  <path d="M55 100 L70 100" stroke="#3498db" stroke-width="3" stroke-linecap="round"/>
+  <!-- Right Connection -->
+  <path d="M130 100 L145 100" stroke="#e74c3c" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Gateway Text -->
+  <text x="100" y="170" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#2c3e50">gRPC-Gateway</text>
+</svg>

@@ -25,7 +25,7 @@ I'm a software developer with a passion for designing and building applications 
 [<img align="left" title="laravel" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />][laravel]
 [<img align="left" title="flask" alt="Flask" width="26px" src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=FFFFFF" />][flask]
 [<img align="left" title="spring" alt="Spring" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />][spring]
-[<img align="left" title="socket io" alt="SocketIO" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" />][socketio]
+[<img align="left" title="socket io" alt="SocketIO" width="26px" src="./assets/Socket.io.png" />][socketio]
 [<img align="left" title="gin" alt="Gin" width="26px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" />][gin]
 
 <br />
@@ -33,10 +33,10 @@ I'm a software developer with a passion for designing and building applications 
 
 ### API & RPC Frameworks
 [<img align="left" title="grpc" alt="gRPC" width="26px" src="https://grpc.io/img/logos/grpc-icon-color.png" />][grpc]
-[<img align="left" title="protobuf" alt="Protocol Buffers" width="26px" src="https://developers.google.com/static/protocol-buffers/images/logo.png" />][protobuf]
-[<img align="left" title="buf" alt="Buf" width="26px" src="https://buf.build/logo.svg" />][buf]
-[<img align="left" title="grpc-gateway" alt="gRPC Gateway" width="26px" src="https://cncf-branding.netlify.app/img/projects/grpc/icon/color/grpc-icon-color.png" />][grpc-gateway]
-[<img align="left" title="twirp" alt="Twirp" width="26px" src="https://user-images.githubusercontent.com/89193/30998737-9ac77adc-a494-11e7-8967-40b04cf9331c.png" />][twirp]
+[<img align="left" title="protobuf" alt="Protocol Buffers" width="26px" src="./assets/protobuf-svgrepo-com.svg" />][protobuf]
+[<img align="left" title="buf" alt="Buf" width="26px" src="./assets/buf-icon.svg" />][buf]
+[<img align="left" title="grpc-gateway" alt="gRPC Gateway" width="26px" src="./assets/grpc-gateway-icon.svg" />][grpc-gateway]
+[<img align="left" title="twirp" alt="Twirp" width="26px" src="./assets/twirp-icon.svg" />][twirp]
 
 <br />
 <br />
@@ -44,7 +44,7 @@ I'm a software developer with a passion for designing and building applications 
 ### SQL Databases
 [<img align="left" title="mysql" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="left" title="postgress" alt="Postgress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][plsql]
-[<img align="left" title="tidb" alt="TiDB" width="26px" src="https://pingcap.com/images/pingcap-logo.png" />][tidb]
+[<img align="left" title="tidb" alt="TiDB" width="26px" src="./assets/tidb.svg" />][tidb]
 [<img align="left" title="trino" alt="Trino" width="26px" src="https://trino.io/assets/trino-og.png" />][trino]
 
 <br />
@@ -65,8 +65,8 @@ I'm a software developer with a passion for designing and building applications 
 ### Search & Messaging
 [<img align="left" title="elasticsearch" alt="ElasticSearch" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png" />][elasticsearch]
 [<img align="left" title="kafka" alt="Kafka" width="21px" src="https://www.pinclipart.com/picdir/middle/573-5739191_kafka-stream-icon-clipart.png" />][kafka]
-[<img align="left" title="sqs" alt="SQS" width="26px" src="https://symbols.getvecta.com/stencil_9/32_sqs-queue.c761af0b96.svg" />][sqs]
-[<img align="left" title="sns" alt="SNS" width="26px" src="https://symbols.getvecta.com/stencil_9/31_sns-topic.573420e565.svg" />][sns]
+[<img align="left" title="sqs" alt="SQS" width="26px" src="./assets/Simple Queue Service.png" />][sqs]
+[<img align="left" title="sns" alt="SNS" width="26px" src="./assets/aws-sns.svg" />][sns]
 [<img align="left" title="opensearch" alt="OpenSearch" width="26px" src="https://opensearch.org/assets/brand/SVG/Logo/opensearch_logo_default.svg" />][opensearch]
 
 <br />
@@ -115,7 +115,7 @@ I'm a software developer with a passion for designing and building applications 
 
 ### Operating Systems
 [<img align="left" title="ubuntu" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][ubuntu]
-[<img align="left" title="macos" alt="macOS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/1024px-MacOS_logo.svg.png" />][macos]
+[<img align="left" title="macos" alt="macOS" width="26px" src="./assets/mac-os.png" />][macos]
 [<img align="left" title="windows" alt="Windows" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" />][windows]
 
 <br />

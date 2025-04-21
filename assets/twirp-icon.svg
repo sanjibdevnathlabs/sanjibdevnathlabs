@@ -1,0 +1,29 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#f8f9fa" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- Twirp Logo Base -->
+  <circle cx="100" cy="100" r="60" fill="#6f42c1" opacity="0.9"/>
+  
+  <!-- Twirp "Twist" Design -->
+  <path d="M100 40 C130 70, 130 130, 100 160 C70 130, 70 70, 100 40" fill="#9c69e2" stroke="#6f42c1" stroke-width="2"/>
+  <path d="M160 100 C130 130, 70 130, 40 100 C70 70, 130 70, 160 100" fill="#9c69e2" stroke="#6f42c1" stroke-width="2"/>
+  
+  <!-- Connection Points (HTTP + RPC) -->
+  <circle cx="100" cy="40" r="8" fill="#fd7e14" stroke="#e0e0e0" stroke-width="1"/>
+  <circle cx="160" cy="100" r="8" fill="#fd7e14" stroke="#e0e0e0" stroke-width="1"/>
+  <circle cx="100" cy="160" r="8" fill="#fd7e14" stroke="#e0e0e0" stroke-width="1"/>
+  <circle cx="40" cy="100" r="8" fill="#fd7e14" stroke="#e0e0e0" stroke-width="1"/>
+  
+  <!-- Central Hub -->
+  <circle cx="100" cy="100" r="15" fill="#fd7e14" stroke="#e0e0e0" stroke-width="1"/>
+  
+  <!-- Protocol labels (positioned outside the connection points) -->
+  <text x="100" y="25" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle" fill="#212529">HTTP</text>
+  <text x="100" y="185" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle" fill="#212529">RPC</text>
+  <text x="25" y="100" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle" transform="rotate(-90, 25, 100)" fill="#212529">HTTP</text>
+  <text x="175" y="100" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle" transform="rotate(90, 175, 100)" fill="#212529">RPC</text>
+  
+  <!-- Twirp Text (moved up from the RPC label) -->
+  <text x="100" cy="100" y="145" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#212529">Twirp</text>
+</svg>
