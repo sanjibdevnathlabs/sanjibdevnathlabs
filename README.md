@@ -96,7 +96,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [NASA&#39;s Curiosity rover finds major clue that Mars was once habitable](https://www.space.com/space-exploration/mars-rovers/nasas-curiosity-rover-finds-major-clue-that-mars-was-once-habitable)
 - [Ultralight dark matter may have helped monstrous black holes form in the early universe](https://www.space.com/the-universe/black-holes/ultralight-dark-matter-may-have-helped-monstrous-black-holes-form-in-the-early-universe)
-- [SpaceX launches its 32nd Dragon cargo mission to the ISS for NASA](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-its-32nd-dragon-cargo-mission-to-the-iss-for-nasa)
+- [SpaceX launches its 32nd Dragon cargo mission to the ISS for NASA &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-its-32nd-dragon-cargo-mission-to-the-iss-for-nasa)
 - [Palantir exec defends company’s immigration surveillance work](https://techcrunch.com/2025/04/20/palantir-exec-defends-companys-immigration-surveillance-work/)
 - [OpenAI’s o3 AI model scores lower on a benchmark than the company initially implied](https://techcrunch.com/2025/04/20/openais-o3-ai-model-scores-lower-on-a-benchmark-than-the-company-initially-implied/)
 <!-- BLOG-POST-LIST:END -->
