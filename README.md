@@ -75,7 +75,7 @@
 
 ---
 
-[![Sanjib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjib1990)](https://github.com/sanjib1990/github-readme-stats)
+[![Sanjib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjibdevnathlabs)](https://github.com/sanjibdevnathlabs)
 
 ---
 
