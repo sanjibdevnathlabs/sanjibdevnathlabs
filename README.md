@@ -146,11 +146,11 @@ I'm a software developer with a passion for designing and building applications 
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Feds accuse Uber of charging customers for subscriptions without consent](https://techcrunch.com/2025/04/21/feds-accuse-uber-of-charging-customers-for-subscriptions-without-consent/)
+- [Bezos-backed EV startup pitched investors on ‘Transformer’-like customization](https://techcrunch.com/2025/04/21/bezos-backed-ev-startup-pitched-investors-on-transformer-like-customization/)
 - [Tariff turmoil may have killed the tech M&amp;A market’s comeback](https://techcrunch.com/2025/04/21/tariff-turmoil-may-have-killed-the-tech-ma-markets-comeback/)
 - [Twinkling star reveals the secrets of turbulent plasma in our cosmic neighborhood](https://www.space.com/the-universe/stars/twinkling-star-reveals-the-secrets-of-turbulent-plasma-in-our-cosmic-neighborhood)
 - [PHNX Materials found a way to decarbonize concrete using dirty coal waste](https://techcrunch.com/2025/04/21/phnx-materials-found-a-way-to-decarbonize-concrete-using-dirty-coal-waste/)
-- [a16z acqui-hires VC tech podcaster Erik Torenberg, who joins as new partner](https://techcrunch.com/2025/04/21/a16z-acqui-hires-vc-tech-podcaster-erik-torenberg-who-joins-as-new-partner/)
-- [Bluesky launches blue check verification](https://techcrunch.com/2025/04/21/bluesky-launches-blue-check-verification/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
