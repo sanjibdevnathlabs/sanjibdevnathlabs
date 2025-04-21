@@ -25,7 +25,7 @@ I'm a software developer with a passion for designing and building applications 
 [<img align="left" title="laravel" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />][laravel]
 [<img align="left" title="flask" alt="Flask" width="26px" src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=FFFFFF" />][flask]
 [<img align="left" title="spring" alt="Spring" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />][spring]
-[<img align="left" title="socket io" alt="SocketIO" width="26px" src="./assets/Socket.io.png" style="background-color: white; padding-right: 4px;" />][socketio]
+[<img align="left" title="socket io" alt="SocketIO" width="26px" src="./assets/Socket.io.png" style="background: white; padding-right: 4px;" />][socketio]
 [<img align="left" title="gin" alt="Gin" width="20px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" style="padding-left: 5px;" />][gin]
 
 <br />
