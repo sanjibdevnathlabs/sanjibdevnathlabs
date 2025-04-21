@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [20 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/04/21/7-new-tech-unicorns-were-minted-in-2025-so-far/)
+- [Put your brand at the center of the AI conversation — host a Side Event during TechCrunch Sessions: AI](https://techcrunch.com/2025/04/21/put-your-brand-at-the-center-of-the-ai-conversation-host-a-side-event-during-techcrunch-sessions-ai/)
+- [Final weeks to secure your spot in the AI spotlight at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/21/final-weeks-to-secure-your-spot-in-the-ai-spotlight-at-techcrunch-sessions-ai/)
 - [Instagram is using AI to find teens lying about their age and restricting their accounts](https://techcrunch.com/2025/04/21/instagram-is-using-ai-to-find-teens-lying-about-their-age-and-restricting-their-accounts/)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/04/21/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [Tesla reportedly delays launch of new low-cost model by months](https://techcrunch.com/2025/04/21/tesla-reportedly-delays-launch-of-new-low-cost-model-by-months/)
-- [How did this ancient black hole get so big?](https://www.space.com/the-universe/black-holes/how-did-this-ancient-black-hole-get-so-big)
-- [Airbnb will now show users the total cost of their stay right away](https://techcrunch.com/2025/04/21/airbnb-will-automatically-display-total-price-to-all-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
