@@ -1,6 +1,6 @@
 ### Hi there, I'm Sanjib Devnath 👋
 
-I'm a software developer with a passion for designing and building applications using a diverse range of technologies. I enjoy exploring and implementing new tech, and I've recently been diving into the world of AI, working with various models and tools. I'm always excited to learn and experiment with cutting-edge solutions!
+I'm a software developer passionate about designing and building applications with diverse technologies. I'm driven by a continuous learning mindset and enjoy experimenting with cutting-edge tech!
 
 [<img align="left" alt="sanjib-devnath-76a55642 | LinkedIn" title="sanjib-devnath-76a55642 | LinkedIn" src="https://img.shields.io/badge/-Sanjib-informational?style=plastic&logo=linkedin&color=0A66C2" />][linkedin]
 
