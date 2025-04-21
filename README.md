@@ -25,8 +25,8 @@ I'm a software developer with a passion for designing and building applications 
 [<img align="left" title="laravel" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />][laravel]
 [<img align="left" title="flask" alt="Flask" width="26px" src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=FFFFFF" />][flask]
 [<img align="left" title="spring" alt="Spring" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />][spring]
-[<img align="left" title="socket io" alt="SocketIO" width="26px" src="./assets/Socket.io.png" />][socketio]
-[<img align="left" title="gin" alt="Gin" width="26px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" />][gin]
+[<img align="left" title="socket io" alt="SocketIO" width="26px" src="./assets/Socket.io.png" style="background-color: red; padding-right: 4px;" />][socketio]
+[<img align="left" title="gin" alt="Gin" width="20px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" style="padding-left: 5px;" />][gin]
 
 <br />
 <br />
@@ -44,8 +44,8 @@ I'm a software developer with a passion for designing and building applications 
 ### SQL Databases
 [<img align="left" title="mysql" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="left" title="postgress" alt="Postgress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][plsql]
-[<img align="left" title="tidb" alt="TiDB" width="26px" src="./assets/tidb.svg" />][tidb]
-[<img align="left" title="trino" alt="Trino" width="26px" src="https://trino.io/assets/trino-og.png" />][trino]
+[<img align="left" title="tidb" alt="TiDB" width="60px" src="./assets/tidb.svg" />][tidb]
+[<img align="left" title="trino" alt="Trino" width="60px" src="https://trino.io/assets/trino-og.png" />][trino]
 
 <br />
 <br />
@@ -67,7 +67,7 @@ I'm a software developer with a passion for designing and building applications 
 [<img align="left" title="kafka" alt="Kafka" width="21px" src="https://www.pinclipart.com/picdir/middle/573-5739191_kafka-stream-icon-clipart.png" />][kafka]
 [<img align="left" title="sqs" alt="SQS" width="26px" src="./assets/Simple Queue Service.png" />][sqs]
 [<img align="left" title="sns" alt="SNS" width="26px" src="./assets/aws-sns.svg" />][sns]
-[<img align="left" title="opensearch" alt="OpenSearch" width="26px" src="https://opensearch.org/assets/brand/SVG/Logo/opensearch_logo_default.svg" />][opensearch]
+[<img align="left" title="opensearch" alt="OpenSearch" width="70px" src="https://opensearch.org/assets/brand/SVG/Logo/opensearch_logo_default.svg" />][opensearch]
 
 <br />
 <br />
@@ -146,9 +146,7 @@ I'm a software developer with a passion for designing and building applications 
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Feds accuse Uber of charging customers for subscriptions without consent](https://techcrunch.com/2025/04/21/feds-accuse-uber-of-charging-customers-for-subscriptions-without-consent/)
-- [Bezos-backed EV startup pitched investors on ‘Transformer’-like customization](https://techcrunch.com/2025/04/21/bezos-backed-ev-startup-pitched-investors-on-transformer-like-customization/)
-- [Tariff turmoil may have killed the tech M&amp;A market’s comeback](https://techcrunch.com/2025/04/21/tariff-turmoil-may-have-killed-the-tech-ma-markets-comeback/)
+- [Tariff turmoil may have killed the tech M&amp;A market's comeback](https://techcrunch.com/2025/04/21/tariff-turmoil-may-have-killed-the-tech-ma-markets-comeback/)
 - [Twinkling star reveals the secrets of turbulent plasma in our cosmic neighborhood](https://www.space.com/the-universe/stars/twinkling-star-reveals-the-secrets-of-turbulent-plasma-in-our-cosmic-neighborhood)
 - [PHNX Materials found a way to decarbonize concrete using dirty coal waste](https://techcrunch.com/2025/04/21/phnx-materials-found-a-way-to-decarbonize-concrete-using-dirty-coal-waste/)
 <!-- BLOG-POST-LIST:END -->
@@ -202,8 +200,6 @@ I'm a software developer with a passion for designing and building applications 
 [buf]: https://buf.build/
 [grpc-gateway]: https://github.com/grpc-ecosystem/grpc-gateway
 [twirp]: https://github.com/twitchtv/twirp
-[tidb]: https://pingcap.com/tidb/
-[trino]: https://trino.io/
 [dynamodb]: https://aws.amazon.com/dynamodb/
 [cassandra]: https://cassandra.apache.org/
 [sqs]: https://aws.amazon.com/sqs/
