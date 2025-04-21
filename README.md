@@ -200,6 +200,8 @@ I'm a software developer with a passion for designing and building applications 
 [buf]: https://buf.build/
 [grpc-gateway]: https://github.com/grpc-ecosystem/grpc-gateway
 [twirp]: https://github.com/twitchtv/twirp
+[tidb]: https://pingcap.com/tidb/
+[trino]: https://trino.io/
 [dynamodb]: https://aws.amazon.com/dynamodb/
 [cassandra]: https://cassandra.apache.org/
 [sqs]: https://aws.amazon.com/sqs/
