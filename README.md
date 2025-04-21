@@ -19,8 +19,8 @@ I'm a software developer with a passion for designing and building applications 
 [<img align="left" title="type script" alt="TypScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
 [<img align="left" title="expressJS" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][express]
 [<img align="left" title="laravel" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />][laravel]
-[<img align="left" title="flask" alt="Flask" width="19px" src="https://www.pngkey.com/png/detail/98-985032_flask-logo-flask-python-icon.png" />][flask]
-[<img align="left" title="spring" alt="Spring" width="26px" src="https://www.javadevjournal.com/wp-content/uploads/2018/02/spring-boot-icon-200x196.png" />][spring]
+[<img align="left" title="flask" alt="Flask" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />][flask]
+[<img align="left" title="spring" alt="Spring" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />][spring]
 [<img align="left" title="socket io" alt="SocketIO" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" />][socketio]
 
 <br />
@@ -51,7 +51,7 @@ I'm a software developer with a passion for designing and building applications 
 [<img align="left" title="intellij" alt="Intellij" width="26px" src="https://logonoid.com/images/thumbs/intellij-idea-logo.png" />][intellij]
 [<img align="left" title="goland" alt="GoLand" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg" />][goland]
 [<img align="left" title="aws" alt="AWS" width="26px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" />][aws]
-[<img align="left" title="terraform" alt="Terraform" width="35px" src="https://jaxlondon.com/wp-content/uploads/2017/08/terraform_Logo.png" />][terraform]
+[<img align="left" title="terraform" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" />][terraform]
 [<img align="left" title="kubernetes" alt="Kubernetes" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][kubernetes]
 [<img align="left" title="ubuntu" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][ubuntu]
 [<img align="left" title="LangChain" alt="LangChain" width="26px" src="https://cdn.simpleicons.org/langchain/FFFFFF" />][langchain]
@@ -60,7 +60,6 @@ I'm a software developer with a passion for designing and building applications 
 [<img align="left" title="Argo CD" alt="Argo CD" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" />][argocd]
 [<img align="left" title="Cursor" alt="Cursor" width="26px" src="https://custom.typingmind.com/model-icons/cursor.png" />][cursor]
 [<img align="left" title="GitHub Copilot" alt="GitHub Copilot" width="26px" src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" />][copilot]
-[<img align="left" title="Terraform" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" />][terraform]
 [<img align="left" title="Prompt Engineering" alt="Prompt Engineering" width="26px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-prompt-edutainment-flaticons-lineal-color-flat-icons.png" />][prompt-engineering]
 
 <br />
@@ -132,8 +131,8 @@ I'm a software developer with a passion for designing and building applications 
 [kafka]: https://kafka.apache.org/
 [plsql]: https://www.postgresql.org/
 [git]: https://git-scm.com/
-[elasticsearch]: https://git-scm.com/
-[kibana]: https://git-scm.com/
+[elasticsearch]: https://www.elastic.co/elasticsearch/
+[kibana]: https://www.elastic.co/kibana/
 
 [langchain]: https://www.langchain.com/
 [prometheus]: https://prometheus.io/
