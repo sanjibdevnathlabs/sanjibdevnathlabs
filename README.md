@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Git Version Control _final_new_final.new - Computerphile](https://www.youtube.com/watch?v=lJu5xwbGgRk)
-- [make CRAZY money in tech &lpar;top 5 Entry-Level Certs&rpar;](https://www.youtube.com/watch?v=W2tTsjkX76o)
-- [Vite in 100 Seconds](https://www.youtube.com/watch?v=KCrXgy8qtjM)
-- [S3:E6: Making Ethical Decisions in Software Design with Prof. Daniel Jackson &amp; Serena Booth](https://www.youtube.com/watch?v=8IOr7KejV_I)
-- [The Shocking State of JavaScript // The Code Report](https://www.youtube.com/watch?v=1L2hrG-7i2Y)
+- [Saying Goodbye….](https://www.youtube.com/watch?v=LQAOeZBdZ2k)
+- [OpenAI launches &quot;genius&quot; o4 model with a programming CLI tool...](https://www.youtube.com/watch?v=O-Vu-DMIU40)
+- [4chan penetrated by a gang of soyjaks…](https://www.youtube.com/watch?v=XNratwOrSiY)
+- [Shortest Path Algorithm Problem - Computerphile](https://www.youtube.com/watch?v=1fFO27FPM9A)
+- [Local AI has a Secret Weakness](https://www.youtube.com/watch?v=Flqljv8clcY)
 <!-- YOUTUBE:END -->
 
 ---
@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [On This Day in Space! Feb. 26, 1966: 1st launch of Saturn 1B rocket](https://www.space.com/39251-on-this-day-in-space.html)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
-- [This crater on dwarf planet Ceres that may hold another icy volcano, scientists say](https://www.space.com/ceres-active-zone-cryovolcanoes)
-- [Mysterious repeating fast radio burst from space looks strangely familiar, scientists realize](https://www.space.com/galactic-burst-m81-crab-nebula)
+- [An AI doctoral candidate in California says they had their student visa revoked](https://techcrunch.com/2025/04/21/an-ai-doctoral-candidate-in-california-says-they-had-their-student-visa-revoked/)
+- [Colorful Eagle Nebula glows in stunning new image from Hubble Telescope](https://www.space.com/space-exploration/hubble-space-telescope/colorful-eagle-nebula-glows-in-stunning-new-image-from-hubble-telescope)
+- [20 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/04/21/7-new-tech-unicorns-were-minted-in-2025-so-far/)
+- [Put your brand at the center of the AI conversation — host a Side Event during TechCrunch Sessions: AI](https://techcrunch.com/2025/04/21/put-your-brand-at-the-center-of-the-ai-conversation-host-a-side-event-during-techcrunch-sessions-ai/)
+- [Final weeks to secure your spot in the AI spotlight at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/21/final-weeks-to-secure-your-spot-in-the-ai-spotlight-at-techcrunch-sessions-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
