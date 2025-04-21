@@ -26,6 +26,17 @@ I'm a software developer with a passion for designing and building applications 
 [<img align="left" title="flask" alt="Flask" width="26px" src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=FFFFFF" />][flask]
 [<img align="left" title="spring" alt="Spring" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />][spring]
 [<img align="left" title="socket io" alt="SocketIO" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" />][socketio]
+[<img align="left" title="gin" alt="Gin" width="26px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" />][gin]
+
+<br />
+<br />
+
+### API & RPC Frameworks
+[<img align="left" title="grpc" alt="gRPC" width="26px" src="https://grpc.io/img/logos/grpc-icon-color.png" />][grpc]
+[<img align="left" title="protobuf" alt="Protocol Buffers" width="26px" src="https://developers.google.com/static/protocol-buffers/images/logo.png" />][protobuf]
+[<img align="left" title="buf" alt="Buf" width="26px" src="https://buf.build/logo.svg" />][buf]
+[<img align="left" title="grpc-gateway" alt="gRPC Gateway" width="26px" src="https://cncf-branding.netlify.app/img/projects/grpc/icon/color/grpc-icon-color.png" />][grpc-gateway]
+[<img align="left" title="twirp" alt="Twirp" width="26px" src="https://user-images.githubusercontent.com/89193/30998737-9ac77adc-a494-11e7-8967-40b04cf9331c.png" />][twirp]
 
 <br />
 <br />
@@ -33,6 +44,8 @@ I'm a software developer with a passion for designing and building applications 
 ### SQL Databases
 [<img align="left" title="mysql" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="left" title="postgress" alt="Postgress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][plsql]
+[<img align="left" title="tidb" alt="TiDB" width="26px" src="https://pingcap.com/images/pingcap-logo.png" />][tidb]
+[<img align="left" title="trino" alt="Trino" width="26px" src="https://trino.io/assets/trino-og.png" />][trino]
 
 <br />
 <br />
@@ -43,6 +56,8 @@ I'm a software developer with a passion for designing and building applications 
 [<img align="left" title="neo4j" alt="Neo4J" width="26px" src="https://www.iotone.com/files/vendor/logo_Neo4j.jpg" />][neo4j]
 [<img align="left" title="arangodb" alt="ArangoDB" width="26px" src="./assets/logos--arangodb-icon.png" />][arangodb]
 [<img align="left" title="redis" alt="Redis" width="26px" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" />][redis]
+[<img align="left" title="dynamodb" alt="DynamoDB" width="26px" src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" />][dynamodb]
+[<img align="left" title="cassandra" alt="Cassandra" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" />][cassandra]
 
 <br />
 <br />
@@ -50,6 +65,9 @@ I'm a software developer with a passion for designing and building applications 
 ### Search & Messaging
 [<img align="left" title="elasticsearch" alt="ElasticSearch" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png" />][elasticsearch]
 [<img align="left" title="kafka" alt="Kafka" width="21px" src="https://www.pinclipart.com/picdir/middle/573-5739191_kafka-stream-icon-clipart.png" />][kafka]
+[<img align="left" title="sqs" alt="SQS" width="26px" src="https://symbols.getvecta.com/stencil_9/32_sqs-queue.c761af0b96.svg" />][sqs]
+[<img align="left" title="sns" alt="SNS" width="26px" src="https://symbols.getvecta.com/stencil_9/31_sns-topic.573420e565.svg" />][sns]
+[<img align="left" title="opensearch" alt="OpenSearch" width="26px" src="https://opensearch.org/assets/brand/SVG/Logo/opensearch_logo_default.svg" />][opensearch]
 
 <br />
 <br />
@@ -97,6 +115,8 @@ I'm a software developer with a passion for designing and building applications 
 
 ### Operating Systems
 [<img align="left" title="ubuntu" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][ubuntu]
+[<img align="left" title="macos" alt="macOS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/1024px-MacOS_logo.svg.png" />][macos]
+[<img align="left" title="windows" alt="Windows" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" />][windows]
 
 <br />
 <br />
@@ -176,3 +196,18 @@ I'm a software developer with a passion for designing and building applications 
 [argocd]: https://argo-cd.readthedocs.io/
 [cursor]: https://cursor.sh/
 [copilot]: https://github.com/features/copilot
+[gin]: https://gin-gonic.com/
+[grpc]: https://grpc.io/
+[protobuf]: https://developers.google.com/protocol-buffers
+[buf]: https://buf.build/
+[grpc-gateway]: https://github.com/grpc-ecosystem/grpc-gateway
+[twirp]: https://github.com/twitchtv/twirp
+[tidb]: https://pingcap.com/tidb/
+[trino]: https://trino.io/
+[dynamodb]: https://aws.amazon.com/dynamodb/
+[cassandra]: https://cassandra.apache.org/
+[sqs]: https://aws.amazon.com/sqs/
+[sns]: https://aws.amazon.com/sns/
+[opensearch]: https://opensearch.org/
+[macos]: https://www.apple.com/macos/
+[windows]: https://www.microsoft.com/windows/
