@@ -78,11 +78,11 @@ I'm a software developer with a passion for designing and building applications 
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Can ChatGPT plan your retirement?](https://www.youtube.com/watch?v=zey9DSS1LOU)
 - [Saying Goodbye….](https://www.youtube.com/watch?v=LQAOeZBdZ2k)
 - [OpenAI launches &quot;genius&quot; o4 model with a programming CLI tool...](https://www.youtube.com/watch?v=O-Vu-DMIU40)
 - [4chan penetrated by a gang of soyjaks…](https://www.youtube.com/watch?v=XNratwOrSiY)
 - [Shortest Path Algorithm Problem - Computerphile](https://www.youtube.com/watch?v=1fFO27FPM9A)
-- [Local AI has a Secret Weakness](https://www.youtube.com/watch?v=Flqljv8clcY)
 <!-- YOUTUBE:END -->
 
 ---
