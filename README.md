@@ -58,9 +58,10 @@ I'm a software developer with a passion for designing and building applications 
 [<img align="left" title="Prometheus" alt="Prometheus" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" />][prometheus]
 [<img align="left" title="Grafana" alt="Grafana" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" />][grafana]
 [<img align="left" title="Argo CD" alt="Argo CD" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" />][argocd]
-[<img align="left" title="Cursor" alt="Cursor" width="26px" src="https://raw.githubusercontent.com/getcursor/cursor/main/resources/icon_256x256.png" />][cursor]
+[<img align="left" title="Cursor" alt="Cursor" width="26px" src="https://custom.typingmind.com/model-icons/cursor.png" />][cursor]
 [<img align="left" title="GitHub Copilot" alt="GitHub Copilot" width="26px" src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" />][copilot]
-[<img align="left" title="Prompt Engineering" alt="Prompt Engineering" width="26px" src="https://img.icons8.com/external-obvious-flat-kerismaker/48/external-prompt-coding-flat-obvious-flat-kerismaker.png" />][prompt-engineering]
+[<img align="left" title="Terraform" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" />][terraform]
+[<img align="left" title="Prompt Engineering" alt="Prompt Engineering" width="26px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-prompt-edutainment-flaticons-lineal-color-flat-icons.png" />][prompt-engineering]
 
 <br />
 <br />
@@ -118,7 +119,7 @@ I'm a software developer with a passion for designing and building applications 
 [pycharm]: https://www.jetbrains.com/pycharm/
 [goland]: https://www.jetbrains.com/go/
 [kubernetes]: https://kubernetes.io/
-[terraform]: https://www.hashicorp.com/products/terraform
+[terraform]: https://www.terraform.io/
 [laravel]: https://laravel.com/
 [express]: https://expressjs.com/
 [flask]: https://flask.palletsprojects.com/en/2.0.x/
@@ -138,7 +139,6 @@ I'm a software developer with a passion for designing and building applications 
 [prometheus]: https://prometheus.io/
 [grafana]: https://grafana.com/
 [argocd]: https://argo-cd.readthedocs.io/
-
 [cursor]: https://cursor.sh/
 [copilot]: https://github.com/features/copilot
 [prompt-engineering]: # # Link intentionally omitted as there is no single canonical URL
