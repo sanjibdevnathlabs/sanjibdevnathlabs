@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla reportedly delays launch of new low-cost model by months](https://techcrunch.com/2025/04/21/tesla-reportedly-delays-launch-of-new-low-cost-model-by-months/)
+- [How did this ancient black hole get so big?](https://www.space.com/the-universe/black-holes/how-did-this-ancient-black-hole-get-so-big)
+- [Airbnb will now show users the total cost of their stay right away](https://techcrunch.com/2025/04/21/airbnb-will-automatically-display-total-price-to-all-users/)
 - [NASA&#39;s Curiosity rover finds major clue that Mars was once habitable](https://www.space.com/space-exploration/mars-rovers/nasas-curiosity-rover-finds-major-clue-that-mars-was-once-habitable)
 - [Ultralight dark matter may have helped monstrous black holes form in the early universe](https://www.space.com/the-universe/black-holes/ultralight-dark-matter-may-have-helped-monstrous-black-holes-form-in-the-early-universe)
-- [SpaceX launches its 32nd Dragon cargo mission to the ISS for NASA &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-its-32nd-dragon-cargo-mission-to-the-iss-for-nasa)
-- [Palantir exec defends company’s immigration surveillance work](https://techcrunch.com/2025/04/20/palantir-exec-defends-companys-immigration-surveillance-work/)
-- [OpenAI’s o3 AI model scores lower on a benchmark than the company initially implied](https://techcrunch.com/2025/04/20/openais-o3-ai-model-scores-lower-on-a-benchmark-than-the-company-initially-implied/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
