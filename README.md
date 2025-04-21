@@ -59,8 +59,8 @@ I'm a software developer with a passion for designing and building applications 
 [<img align="left" title="Grafana" alt="Grafana" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" />][grafana]
 [<img align="left" title="Argo CD" alt="Argo CD" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" />][argocd]
 [<img align="left" title="Cursor" alt="Cursor" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cursor/cursor-original.svg" />][cursor]
-[<img align="left" title="GitHub Copilot" alt="GitHub Copilot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/copilot/copilot.png" />][copilot]
-[<img align="left" title="Prompt Engineering" alt="Prompt Engineering" width="26px" src="https://raw.githubusercontent.com/webmaxru/prompt-engineering-logo/main/assets/pe-logo.svg" />][prompt-engineering]
+[<img align="left" title="GitHub Copilot" alt="GitHub Copilot" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubcopilot/githubcopilot-original.svg" />][copilot]
+[<img align="left" title="Prompt Engineering" alt="Prompt Engineering" width="26px" src="https://raw.githubusercontent.com/webmaxru/prompt-engineering-logo/main/assets/pe-logo-transparent-bg.png" />][prompt-engineering]
 
 <br />
 <br />
