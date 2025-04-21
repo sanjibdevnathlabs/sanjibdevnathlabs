@@ -8,15 +8,19 @@ I'm a software developer with a passion for designing and building applications 
 
 ## 🛠️ Skills & Technologies
 
-### Languages & Frameworks
-
+### Programming Languages
 [<img align="left" title="python" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" title="java" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
 [<img align="left" title="golang" alt="GoLang" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" />][golang]
 [<img align="left" title="javascript" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" title="nodejs" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" title="php" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />][php]
 [<img align="left" title="type script" alt="TypScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
+
+<br />
+<br />
+
+### Web & Application Frameworks
+[<img align="left" title="nodejs" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" title="expressJS" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][express]
 [<img align="left" title="laravel" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />][laravel]
 [<img align="left" title="flask" alt="Flask" width="26px" src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=FFFFFF" />][flask]
@@ -26,40 +30,73 @@ I'm a software developer with a passion for designing and building applications 
 <br />
 <br />
 
-### Databases & Data
-
+### SQL Databases
 [<img align="left" title="mysql" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="left" title="postgress" alt="Postgress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][plsql]
+
+<br />
+<br />
+
+### NoSQL & Graph Databases
 [<img align="left" title="mongodb" alt="MongoDB" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png" />][mongodb]
 [<img align="left" title="gremlin" alt="Gremlin" width="26px" src="https://tinkerpop.apache.org/docs/3.5.1/images/gremlin-standing.png" />][gremlin]
 [<img align="left" title="neo4j" alt="Neo4J" width="26px" src="https://www.iotone.com/files/vendor/logo_Neo4j.jpg" />][neo4j]
 [<img align="left" title="arangodb" alt="ArangoDB" width="26px" src="./assets/logos--arangodb-icon.png" />][arangodb]
 [<img align="left" title="redis" alt="Redis" width="26px" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" />][redis]
+
+<br />
+<br />
+
+### Search & Messaging
 [<img align="left" title="elasticsearch" alt="ElasticSearch" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png" />][elasticsearch]
 [<img align="left" title="kafka" alt="Kafka" width="21px" src="https://www.pinclipart.com/picdir/middle/573-5739191_kafka-stream-icon-clipart.png" />][kafka]
 
 <br />
 <br />
 
-### DevOps, Cloud & Tools
-
+### Version Control & CI/CD
 [<img align="left" title="git" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" title="Argo CD" alt="Argo CD" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" />][argocd]
+
+<br />
+<br />
+
+### Cloud & Infrastructure
+[<img align="left" title="aws" alt="AWS" width="26px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" />][aws]
+[<img align="left" title="terraform" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" />][terraform]
 [<img align="left" title="docker" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
+[<img align="left" title="kubernetes" alt="Kubernetes" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][kubernetes]
+
+<br />
+<br />
+
+### Monitoring & Observability
+[<img align="left" title="Prometheus" alt="Prometheus" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" />][prometheus]
+[<img align="left" title="Grafana" alt="Grafana" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" />][grafana]
+
+<br />
+<br />
+
+### Development Tools & IDE
 [<img align="left" title="vscode" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" title="phpstrom" alt="PHPstrom" width="26px" src="https://logonoid.com/images/phpstorm-logo.png" />][phpstrom]
 [<img align="left" title="pycharm" alt="Pycharm" width="26px" src="https://logonoid.com/images/pycharm-logo.png" />][pycharm]
 [<img align="left" title="intellij" alt="Intellij" width="26px" src="https://logonoid.com/images/thumbs/intellij-idea-logo.png" />][intellij]
 [<img align="left" title="goland" alt="GoLand" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg" />][goland]
-[<img align="left" title="aws" alt="AWS" width="26px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" />][aws]
-[<img align="left" title="terraform" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" />][terraform]
-[<img align="left" title="kubernetes" alt="Kubernetes" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][kubernetes]
-[<img align="left" title="ubuntu" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][ubuntu]
-[<img align="left" title="LangChain" alt="LangChain" width="26px" src="https://cdn.simpleicons.org/langchain/FFFFFF" />][langchain]
-[<img align="left" title="Prometheus" alt="Prometheus" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" />][prometheus]
-[<img align="left" title="Grafana" alt="Grafana" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" />][grafana]
-[<img align="left" title="Argo CD" alt="Argo CD" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" />][argocd]
 [<img align="left" title="Cursor" alt="Cursor" width="26px" src="https://img.icons8.com/?size=100&id=DiGZkjCzyZXn&format=png&color=000000" />][cursor]
 [<img align="left" title="GitHub Copilot" alt="GitHub Copilot" width="26px" src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" />][copilot]
+
+<br />
+<br />
+
+### AI & LLM Frameworks
+[<img align="left" title="LangChain" alt="LangChain" width="26px" src="https://cdn.simpleicons.org/langchain/FFFFFF" />][langchain]
+
+<br />
+<br />
+
+### Operating Systems
+[<img align="left" title="ubuntu" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][ubuntu]
 
 <br />
 <br />
