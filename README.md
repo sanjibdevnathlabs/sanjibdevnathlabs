@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Skies Space to build satellite fleet around the moon to map the ancient universe](https://www.space.com/the-universe/blue-skies-space-to-build-satellite-fleet-around-the-moon-to-map-the-ancient-universe)
+- [Flipkart to relocate HQ to India ahead of IPO](https://techcrunch.com/2025/04/21/flipkart-to-relocate-hq-to-india-ahead-of-ipo/)
+- [ChatGPT search is growing quickly in Europe, OpenAI data suggests](https://techcrunch.com/2025/04/21/chatgpt-search-is-growing-quickly-in-europe-openai-data-suggests/)
 - [&#39;The Fantastic Four: First Steps&#39; trailer shown at CinemaCon now arrives for us all &lpar;video&rpar;](https://www.space.com/entertainment/the-fantastic-four-first-steps-trailer-shown-at-cinemacon-now-arrives-for-us-all-video)
 - [Mark Zuckerberg once suggested spinning out Instagram as a solution to its ‘cannibalization’ of Facebook](https://techcrunch.com/2025/04/21/mark-zuckerberg-once-suggested-spinning-out-instagram-as-a-solution-to-its-cannibalization-of-facebook/)
-- [Feds accuse Uber of charging customers for subscriptions without consent](https://techcrunch.com/2025/04/21/feds-accuse-uber-of-charging-customers-for-subscriptions-without-consent/)
-- [Bezos-backed EV startup pitched investors on ‘Transformer’-like customization](https://techcrunch.com/2025/04/21/bezos-backed-ev-startup-pitched-investors-on-transformer-like-customization/)
-- [Tariff turmoil may have killed the tech M&amp;A market’s comeback](https://techcrunch.com/2025/04/21/tariff-turmoil-may-have-killed-the-tech-ma-markets-comeback/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
