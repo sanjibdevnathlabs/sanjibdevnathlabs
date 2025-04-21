@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram is using AI to find teens lying about their age and restricting their accounts](https://techcrunch.com/2025/04/21/instagram-is-using-ai-to-find-teens-lying-about-their-age-and-restricting-their-accounts/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/04/21/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [Tesla reportedly delays launch of new low-cost model by months](https://techcrunch.com/2025/04/21/tesla-reportedly-delays-launch-of-new-low-cost-model-by-months/)
 - [How did this ancient black hole get so big?](https://www.space.com/the-universe/black-holes/how-did-this-ancient-black-hole-get-so-big)
 - [Airbnb will now show users the total cost of their stay right away](https://techcrunch.com/2025/04/21/airbnb-will-automatically-display-total-price-to-all-users/)
-- [NASA&#39;s Curiosity rover finds major clue that Mars was once habitable](https://www.space.com/space-exploration/mars-rovers/nasas-curiosity-rover-finds-major-clue-that-mars-was-once-habitable)
-- [Ultralight dark matter may have helped monstrous black holes form in the early universe](https://www.space.com/the-universe/black-holes/ultralight-dark-matter-may-have-helped-monstrous-black-holes-form-in-the-early-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
