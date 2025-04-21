@@ -78,11 +78,11 @@ I'm a software developer with a passion for designing and building applications 
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Cisco U Spotlight is BACK! And it&#39;s kind of amazing.](https://www.youtube.com/watch?v=TwG6-TRg5Rs)
 - [Can ChatGPT plan your retirement?](https://www.youtube.com/watch?v=zey9DSS1LOU)
 - [Saying Goodbye….](https://www.youtube.com/watch?v=LQAOeZBdZ2k)
 - [OpenAI launches &quot;genius&quot; o4 model with a programming CLI tool...](https://www.youtube.com/watch?v=O-Vu-DMIU40)
 - [4chan penetrated by a gang of soyjaks…](https://www.youtube.com/watch?v=XNratwOrSiY)
-- [Shortest Path Algorithm Problem - Computerphile](https://www.youtube.com/watch?v=1fFO27FPM9A)
 <!-- YOUTUBE:END -->
 
 ---
