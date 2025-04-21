@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ultralight dark matter may have helped monstrous black holes form in the early universe](https://www.space.com/the-universe/black-holes/ultralight-dark-matter-may-have-helped-monstrous-black-holes-form-in-the-early-universe)
+- [SpaceX launches its 32nd Dragon cargo mission to the ISS for NASA](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-its-32nd-dragon-cargo-mission-to-the-iss-for-nasa)
 - [Palantir exec defends company’s immigration surveillance work](https://techcrunch.com/2025/04/20/palantir-exec-defends-companys-immigration-surveillance-work/)
 - [OpenAI’s o3 AI model scores lower on a benchmark than the company initially implied](https://techcrunch.com/2025/04/20/openais-o3-ai-model-scores-lower-on-a-benchmark-than-the-company-initially-implied/)
 - [Kids sure love video game movies](https://techcrunch.com/2025/04/20/kids-sure-love-video-game-movies/)
-- [SpaceX launching Dragon cargo capsule to ISS early April 21: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-dragon-cargo-capsule-to-iss-early-april-21-watch-it-live)
-- [Your politeness could be costly for OpenAI](https://techcrunch.com/2025/04/20/your-politeness-could-be-costly-for-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
