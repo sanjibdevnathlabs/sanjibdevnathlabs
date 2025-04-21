@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluesky launches blue check verification](https://techcrunch.com/2025/04/21/bluesky-launches-blue-check-verification/)
+- [Reddit briefly down for users worldwide](https://techcrunch.com/2025/04/21/reddit-briefly-down-for-users-worldwide/)
 - [An AI doctoral candidate in California says they had their student visa revoked](https://techcrunch.com/2025/04/21/an-ai-doctoral-candidate-in-california-says-they-had-their-student-visa-revoked/)
 - [Colorful Eagle Nebula glows in stunning new image from Hubble Telescope](https://www.space.com/space-exploration/hubble-space-telescope/colorful-eagle-nebula-glows-in-stunning-new-image-from-hubble-telescope)
 - [20 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/04/21/7-new-tech-unicorns-were-minted-in-2025-so-far/)
-- [Put your brand at the center of the AI conversation — host a Side Event during TechCrunch Sessions: AI](https://techcrunch.com/2025/04/21/put-your-brand-at-the-center-of-the-ai-conversation-host-a-side-event-during-techcrunch-sessions-ai/)
-- [Final weeks to secure your spot in the AI spotlight at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/21/final-weeks-to-secure-your-spot-in-the-ai-spotlight-at-techcrunch-sessions-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
