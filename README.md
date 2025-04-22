@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Khloe Kardashian launches consumer brand backed by Serena Ventures, WME](https://techcrunch.com/2025/04/22/khloe-kardashian-launches-consumer-brand-backed-by-serena-ventures-wme/)
+- [ELVIS in orbit: New 3D microscope arrives at the ISS to study microbes in space](https://www.space.com/space-exploration/international-space-station/elvis-in-orbit-new-3d-microscope-arrives-at-the-iss-to-study-microbes-in-space)
+- [Vibe coding helps Supabase nab $200M at $2B valuation just seven months after its last raise](https://techcrunch.com/2025/04/22/vibe-coding-helps-supabase-nab-200m-at-2b-valuation-just-seven-months-after-its-last-raise/)
+- [Character.AI unveils AvatarFX, an AI video model to create lifelike chatbots](https://techcrunch.com/2025/04/22/character-ai-unveils-avatarfx-an-ai-video-model-to-create-lifelike-chatbots/)
 - [Burning questions &lpar;and some answers&rpar; about Bluesky’s new verification system](https://techcrunch.com/2025/04/22/burning-questions-and-some-answers-about-blueskys-new-verification-system/)
-- [Scientists confused by missing coastal features on Titan, Saturn&#39;s largest moon](https://www.space.com/the-universe/saturn/scientists-confused-by-missing-coastal-features-on-titan-saturns-largest-moon)
-- [It&#39;s alive! It&#39;s alive! Orion throws back its cover | Space picture of the day for April 22, 2025](https://www.space.com/space-exploration/artemis/its-alive-its-alive-orion-throws-back-its-cover-space-picture-of-the-day-for-april-22-2025)
-- [Yousa in big doo-doo now, as Darth Jar Jar makes his way to Fortnite in the new Star Wars collaboration &lpar;video&rpar;](https://www.space.com/entertainment/space-games-toys/yousa-in-big-doo-doo-now-as-darth-jar-jar-makes-his-way-to-fortnite-in-the-new-star-wars-collaboration-video)
-- [Has the James Webb Space Telescope discovered a &#39;missing&#39; supermassive black hole? &lpar;video&rpar;](https://www.space.com/the-universe/black-holes/has-the-james-webb-space-telescope-discovered-a-missing-supermassive-black-hole-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
