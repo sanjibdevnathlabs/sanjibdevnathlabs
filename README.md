@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We took a guided tour of the solar system in Elite Dangerous, and now you can too &lpar;interview&rpar;](https://www.space.com/entertainment/space-games-toys/we-took-a-guided-tour-of-the-solar-system-in-elite-dangerous-and-now-you-can-too)
+- [Ex-Meta engineer raises $14M for Lace AI, a revenue generation software startup](https://techcrunch.com/2025/04/22/ex-meta-engineer-raises-14m-for-lace-an-ai-powered-revenue-generation-software-startup/)
+- [India’s EV startup Ather cuts IPO size to $308M, seeking $1.4B post-money valuation](https://techcrunch.com/2025/04/22/indias-ev-startup-ather-cuts-ipo-size-to-308m-seeking-1-4b-post-money-valuation/)
+- [Two undergrads built an AI speech model to rival NotebookLM](https://techcrunch.com/2025/04/22/two-undergrads-built-an-ai-speech-model-to-rival-notebooklm/)
 - [Don&#39;t miss the Lyrid meteor shower peak tonight: Here&#39;s what to expect](https://www.space.com/stargazing/meteors-showers/dont-miss-the-lyrid-meteor-shower-peak-tonight-heres-what-to-expect)
-- [Marvel&#39;s screw-ups get their chance at redemption in the final &#39;Thunderbolts&#39; trailer &lpar;video&rpar;](https://www.space.com/entertainment/marvels-screw-ups-get-their-chance-at-redemption-in-the-final-thunderbolts-trailer-video)
-- [Adaptive Computer wants to reinvent the PC with ‘vibe’ coding for non-programmers](https://techcrunch.com/2025/04/22/adaptive-computer-wants-to-reinvent-the-pc-with-vibe-coding-for-non-programmers/)
-- [US Space Force now has a framework for fighting a war in space](https://www.space.com/space-exploration/satellites/us-space-force-now-has-a-framework-for-fighting-a-war-in-space)
-- [Marks &amp; Spencer confirms cybersecurity incident amid ongoing disruption](https://techcrunch.com/2025/04/22/marks-spencer-confirms-cybersecurity-incident-amid-ongoing-disruption/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
