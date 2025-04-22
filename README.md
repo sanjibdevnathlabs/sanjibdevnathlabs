@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers discover doomed planet shedding a Mount Everest&#39;s worth of material every orbit, leaving behind a comet-like tail](https://www.space.com/the-universe/exoplanets/astronomers-discover-doomed-planet-shedding-a-mount-everests-worth-of-material-every-orbit-leaving-behind-a-comet-like-tail)
 - [Uber customers can now earn Delta SkyMiles from rides or deliveries](https://techcrunch.com/2025/04/22/uber-customers-can-now-earn-delta-skymiles-from-rides-or-deliveries/)
 - [Superpower wants to help people detect and address health issues before symptoms appear](https://techcrunch.com/2025/04/22/superpower-wants-to-help-people-detect-and-address-health-issues-before-symptoms-appear/)
 - [Amateur astronomers capture groundbreaking photos of sun&#39;s corona during partial solar eclipse](https://www.space.com/stargazing/eclipses/amateur-astronomers-capture-groundbreaking-photos-of-suns-corona-during-partial-solar-eclipse)
 - [Crowdsourced AI benchmarks have serious flaws, some experts say](https://techcrunch.com/2025/04/22/crowdsourced-ai-benchmarks-have-serious-flaws-some-experts-say/)
-- [Italian Space Agency mourns death of Pope Francis](https://www.space.com/space-exploration/italian-space-agency-mourns-death-of-pope-francis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
