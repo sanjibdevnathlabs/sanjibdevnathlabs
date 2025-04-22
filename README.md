@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber customers can now earn Delta SkyMiles from rides or deliveries](https://techcrunch.com/2025/04/22/uber-customers-can-now-earn-delta-skymiles-from-rides-or-deliveries/)
+- [Superpower wants to help people detect and address health issues before symptoms appear](https://techcrunch.com/2025/04/22/superpower-wants-to-help-people-detect-and-address-health-issues-before-symptoms-appear/)
+- [Amateur astronomers capture groundbreaking photos of sun&#39;s corona during partial solar eclipse](https://www.space.com/stargazing/eclipses/amateur-astronomers-capture-groundbreaking-photos-of-suns-corona-during-partial-solar-eclipse)
+- [Crowdsourced AI benchmarks have serious flaws, some experts say](https://techcrunch.com/2025/04/22/crowdsourced-ai-benchmarks-have-serious-flaws-some-experts-say/)
 - [Italian Space Agency mourns death of Pope Francis](https://www.space.com/space-exploration/italian-space-agency-mourns-death-of-pope-francis)
-- [Social media is not wholly terrible for teen mental health, study says](https://techcrunch.com/2025/04/22/social-media-is-not-wholly-terrible-for-teen-mental-health-study-says/)
-- [Manychat taps $140M to boost its business messaging platform with AI](https://techcrunch.com/2025/04/22/manychat-taps-140m-to-boost-its-business-messaging-platform-with-ai/)
-- [Our galactic neighbor Andromeda has a bunch of satellite galaxies — and they&#39;re weirdly pointing at us](https://www.space.com/the-universe/galaxies/our-galactic-neighbor-andromeda-has-a-bunch-of-satellite-galaxies-and-theyre-weirdly-pointing-at-us)
-- [Watch SpaceX Dragon cargo capsule arrive at the ISS today](https://www.space.com/space-exploration/international-space-station/watch-spacex-dragon-cargo-capsule-arrive-at-the-iss-today)
 <!-- BLOG-POST-LIST:END -->
 
 ---
