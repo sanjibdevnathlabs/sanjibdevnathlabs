@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Can ChatGPT plan your retirement?](https://www.youtube.com/watch?v=7GF78YQz62w)
 - [You’re using ChatGPT WRONG](https://www.youtube.com/watch?v=D-ZlJPKk7kM)
 - [Cisco U Spotlight is BACK! And it&#39;s kind of amazing.](https://www.youtube.com/watch?v=TwG6-TRg5Rs)
 - [Can ChatGPT plan your retirement?](https://www.youtube.com/watch?v=zey9DSS1LOU)
 - [Saying Goodbye….](https://www.youtube.com/watch?v=LQAOeZBdZ2k)
-- [OpenAI launches &quot;genius&quot; o4 model with a programming CLI tool...](https://www.youtube.com/watch?v=O-Vu-DMIU40)
 <!-- YOUTUBE:END -->
 
 ---
