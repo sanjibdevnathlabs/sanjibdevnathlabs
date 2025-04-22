@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI exec says the company would buy Google’s Chrome browser if offered the chance](https://techcrunch.com/2025/04/22/openai-exec-says-the-company-would-buy-googles-chrome-browser-if-offered-the-chance/)
+- [Tesla profits drop 71% on weak sales and anti-Elon Musk sentiment](https://techcrunch.com/2025/04/22/tesla-profits-drop-71-on-weak-sales-and-anti-elon-musk-sentiment/)
 - [Fixing the Hubble Space Telescope: A timeline of NASA&#39;s shuttle servicing missions](https://www.space.com/space-exploration/hubble-space-telescope/fixing-the-hubble-space-telescope-a-timeline-of-nasas-shuttle-servicing-missions)
 - [Happy Earth Day 2025! Write your name in NASA satellite images and celebrate our planet &lpar;video&rpar;](https://www.space.com/space-exploration/happy-earth-day-2025-write-your-name-in-nasa-satellite-images-and-celebrate-our-planet-video)
 - [A Chinese AI video startup appears to be blocking politically sensitive images](https://techcrunch.com/2025/04/22/a-chinese-ai-video-startup-appears-to-be-blocking-politically-sensitive-images/)
-- [Tesla earnings Q1 2025: What we’re watching for](https://techcrunch.com/2025/04/22/tesla-earnings-q1-2025-what-were-watching-for/)
-- [Khloe Kardashian launches consumer brand backed by Serena Ventures, WME](https://techcrunch.com/2025/04/22/khloe-kardashian-launches-consumer-brand-backed-by-serena-ventures-wme/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
