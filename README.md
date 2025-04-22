@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rivian elects Cohere’s CEO to its board in latest signal the EV maker is bullish on AI](https://techcrunch.com/2025/04/21/rivian-elects-coheres-ceo-to-its-board-in-latest-signal-the-ev-maker-is-bullish-on-ai/)
 - [Tomorrow: Join Ali Ghodsi and Dario Amodei for a fireside chat](https://techcrunch.com/2025/04/21/tomorrow-join-ali-ghodsi-and-dario-amodei-for-a-fireside-chat/)
 - [Columbia student suspended over interview cheating tool raises $5.3M to ‘cheat on everything’](https://techcrunch.com/2025/04/21/columbia-student-suspended-over-interview-cheating-tool-raises-5-3m-to-cheat-on-everything/)
 - [SpaceX launch creates a &#39;nebula&#39; | Space picture of the day for April 21, 2025](https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-creates-a-nebula-space-picture-of-the-day-for-april-21-2025)
 - [Don Pettit, NASA&#39;s oldest active astronaut at 70, arrives in Houston after 7-month space mission &lpar;photo&rpar;](https://www.space.com/space-exploration/international-space-station/don-pettit-nasas-oldest-active-astronaut-at-70-arrives-in-houston-after-7-month-space-mission-photo)
-- [Amazon&#39;s Kuiper 1 internet satellites get new April 28 launch date on Atlas V rocket after delay](https://www.space.com/space-exploration/launches-spacecraft/amazons-kuiper-1-internet-satellites-get-new-april-28-launch-date-on-atlas-v-rocket-after-delay)
 <!-- BLOG-POST-LIST:END -->
 
 ---
