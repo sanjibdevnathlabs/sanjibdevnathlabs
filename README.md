@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Our galactic neighbor Andromeda has a bunch of satellite galaxies — and they&#39;re weirdly pointing at us](https://www.space.com/the-universe/galaxies/our-galactic-neighbor-andromeda-has-a-bunch-of-satellite-galaxies-and-theyre-weirdly-pointing-at-us)
 - [Watch SpaceX Dragon cargo capsule arrive at the ISS today](https://www.space.com/space-exploration/international-space-station/watch-spacex-dragon-cargo-capsule-arrive-at-the-iss-today)
 - [SpaceX launches European reentry capsule on &#39;Bandwagon-3&#39; rideshare mission](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-european-reentry-capsule-on-bandwagon-3-rideshare-mission)
 - [Rivian elects Cohere’s CEO to its board in latest signal the EV maker is bullish on AI](https://techcrunch.com/2025/04/21/rivian-elects-coheres-ceo-to-its-board-in-latest-signal-the-ev-maker-is-bullish-on-ai/)
 - [Tomorrow: Join Ali Ghodsi and Dario Amodei for a fireside chat](https://techcrunch.com/2025/04/21/tomorrow-join-ali-ghodsi-and-dario-amodei-for-a-fireside-chat/)
-- [Columbia student suspended over interview cheating tool raises $5.3M to ‘cheat on everything’](https://techcrunch.com/2025/04/21/columbia-student-suspended-over-interview-cheating-tool-raises-5-3m-to-cheat-on-everything/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
