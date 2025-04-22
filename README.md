@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fixing the Hubble Space Telescope: A timeline of NASA&#39;s shuttle servicing missions](https://www.space.com/space-exploration/hubble-space-telescope/fixing-the-hubble-space-telescope-a-timeline-of-nasas-shuttle-servicing-missions)
+- [Happy Earth Day 2025! Write your name in NASA satellite images and celebrate our planet &lpar;video&rpar;](https://www.space.com/space-exploration/happy-earth-day-2025-write-your-name-in-nasa-satellite-images-and-celebrate-our-planet-video)
+- [A Chinese AI video startup appears to be blocking politically sensitive images](https://techcrunch.com/2025/04/22/a-chinese-ai-video-startup-appears-to-be-blocking-politically-sensitive-images/)
+- [Tesla earnings Q1 2025: What we’re watching for](https://techcrunch.com/2025/04/22/tesla-earnings-q1-2025-what-were-watching-for/)
 - [Khloe Kardashian launches consumer brand backed by Serena Ventures, WME](https://techcrunch.com/2025/04/22/khloe-kardashian-launches-consumer-brand-backed-by-serena-ventures-wme/)
-- [ELVIS in orbit: New 3D microscope arrives at the ISS to study microbes in space](https://www.space.com/space-exploration/international-space-station/elvis-in-orbit-new-3d-microscope-arrives-at-the-iss-to-study-microbes-in-space)
-- [Vibe coding helps Supabase nab $200M at $2B valuation just seven months after its last raise](https://techcrunch.com/2025/04/22/vibe-coding-helps-supabase-nab-200m-at-2b-valuation-just-seven-months-after-its-last-raise/)
-- [Character.AI unveils AvatarFX, an AI video model to create lifelike chatbots](https://techcrunch.com/2025/04/22/character-ai-unveils-avatarfx-an-ai-video-model-to-create-lifelike-chatbots/)
-- [Burning questions &lpar;and some answers&rpar; about Bluesky’s new verification system](https://techcrunch.com/2025/04/22/burning-questions-and-some-answers-about-blueskys-new-verification-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
