@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Has the James Webb Space Telescope discovered a &#39;missing&#39; supermassive black hole? &lpar;video&rpar;](https://www.space.com/the-universe/black-holes/has-the-james-webb-space-telescope-discovered-a-missing-supermassive-black-hole-video)
+- [Meta releases its CapCut rival Edits globally](https://techcrunch.com/2025/04/22/meta-releases-its-capcut-rival-edits-globally/)
+- [NASA&#39;s Lucy probe captures 1st close-up images of asteroid Donaldjohanson, revealing &#39;strikingly complicated geology&#39;](https://www.space.com/the-universe/asteroids/nasas-lucy-probe-captures-1st-close-up-images-of-asteroid-donaldjohanson-revealing-strikingly-complicated-geology)
 - [We took a guided tour of the solar system in Elite Dangerous, and now you can too &lpar;interview&rpar;](https://www.space.com/entertainment/space-games-toys/we-took-a-guided-tour-of-the-solar-system-in-elite-dangerous-and-now-you-can-too)
 - [Ex-Meta engineer raises $14M for Lace AI, a revenue generation software startup](https://techcrunch.com/2025/04/22/ex-meta-engineer-raises-14m-for-lace-an-ai-powered-revenue-generation-software-startup/)
-- [India’s EV startup Ather cuts IPO size to $308M, seeking $1.4B post-money valuation](https://techcrunch.com/2025/04/22/indias-ev-startup-ather-cuts-ipo-size-to-308m-seeking-1-4b-post-money-valuation/)
-- [Two undergrads built an AI speech model to rival NotebookLM](https://techcrunch.com/2025/04/22/two-undergrads-built-an-ai-speech-model-to-rival-notebooklm/)
-- [Don&#39;t miss the Lyrid meteor shower peak tonight: Here&#39;s what to expect](https://www.space.com/stargazing/meteors-showers/dont-miss-the-lyrid-meteor-shower-peak-tonight-heres-what-to-expect)
 <!-- BLOG-POST-LIST:END -->
 
 ---
