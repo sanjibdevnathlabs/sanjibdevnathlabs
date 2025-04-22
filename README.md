@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronomers discover doomed planet shedding a Mount Everest&#39;s worth of material every orbit, leaving behind a comet-like tail](https://www.space.com/the-universe/exoplanets/astronomers-discover-doomed-planet-shedding-a-mount-everests-worth-of-material-every-orbit-leaving-behind-a-comet-like-tail)
-- [Uber customers can now earn Delta SkyMiles from rides or deliveries](https://techcrunch.com/2025/04/22/uber-customers-can-now-earn-delta-skymiles-from-rides-or-deliveries/)
-- [Superpower wants to help people detect and address health issues before symptoms appear](https://techcrunch.com/2025/04/22/superpower-wants-to-help-people-detect-and-address-health-issues-before-symptoms-appear/)
-- [Amateur astronomers capture groundbreaking photos of sun&#39;s corona during partial solar eclipse](https://www.space.com/stargazing/eclipses/amateur-astronomers-capture-groundbreaking-photos-of-suns-corona-during-partial-solar-eclipse)
-- [Crowdsourced AI benchmarks have serious flaws, some experts say](https://techcrunch.com/2025/04/22/crowdsourced-ai-benchmarks-have-serious-flaws-some-experts-say/)
+- [Don&#39;t miss the Lyrid meteor shower peak tonight: Here&#39;s what to expect](https://www.space.com/stargazing/meteors-showers/dont-miss-the-lyrid-meteor-shower-peak-tonight-heres-what-to-expect)
+- [Marvel&#39;s screw-ups get their chance at redemption in the final &#39;Thunderbolts&#39; trailer &lpar;video&rpar;](https://www.space.com/entertainment/marvels-screw-ups-get-their-chance-at-redemption-in-the-final-thunderbolts-trailer-video)
+- [Adaptive Computer wants to reinvent the PC with ‘vibe’ coding for non-programmers](https://techcrunch.com/2025/04/22/adaptive-computer-wants-to-reinvent-the-pc-with-vibe-coding-for-non-programmers/)
+- [US Space Force now has a framework for fighting a war in space](https://www.space.com/space-exploration/satellites/us-space-force-now-has-a-framework-for-fighting-a-war-in-space)
+- [Marks &amp; Spencer confirms cybersecurity incident amid ongoing disruption](https://techcrunch.com/2025/04/22/marks-spencer-confirms-cybersecurity-incident-amid-ongoing-disruption/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
