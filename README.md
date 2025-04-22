@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Burning questions &lpar;and some answers&rpar; about Bluesky’s new verification system](https://techcrunch.com/2025/04/22/burning-questions-and-some-answers-about-blueskys-new-verification-system/)
+- [Scientists confused by missing coastal features on Titan, Saturn&#39;s largest moon](https://www.space.com/the-universe/saturn/scientists-confused-by-missing-coastal-features-on-titan-saturns-largest-moon)
+- [It&#39;s alive! It&#39;s alive! Orion throws back its cover | Space picture of the day for April 22, 2025](https://www.space.com/space-exploration/artemis/its-alive-its-alive-orion-throws-back-its-cover-space-picture-of-the-day-for-april-22-2025)
+- [Yousa in big doo-doo now, as Darth Jar Jar makes his way to Fortnite in the new Star Wars collaboration &lpar;video&rpar;](https://www.space.com/entertainment/space-games-toys/yousa-in-big-doo-doo-now-as-darth-jar-jar-makes-his-way-to-fortnite-in-the-new-star-wars-collaboration-video)
 - [Has the James Webb Space Telescope discovered a &#39;missing&#39; supermassive black hole? &lpar;video&rpar;](https://www.space.com/the-universe/black-holes/has-the-james-webb-space-telescope-discovered-a-missing-supermassive-black-hole-video)
-- [Meta releases its CapCut rival Edits globally](https://techcrunch.com/2025/04/22/meta-releases-its-capcut-rival-edits-globally/)
-- [NASA&#39;s Lucy probe captures 1st close-up images of asteroid Donaldjohanson, revealing &#39;strikingly complicated geology&#39;](https://www.space.com/the-universe/asteroids/nasas-lucy-probe-captures-1st-close-up-images-of-asteroid-donaldjohanson-revealing-strikingly-complicated-geology)
-- [We took a guided tour of the solar system in Elite Dangerous, and now you can too &lpar;interview&rpar;](https://www.space.com/entertainment/space-games-toys/we-took-a-guided-tour-of-the-solar-system-in-elite-dangerous-and-now-you-can-too)
-- [Ex-Meta engineer raises $14M for Lace AI, a revenue generation software startup](https://techcrunch.com/2025/04/22/ex-meta-engineer-raises-14m-for-lace-an-ai-powered-revenue-generation-software-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
