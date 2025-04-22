@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT’s responses will now include Washington Post articles](https://techcrunch.com/2025/04/22/chatgpts-responses-will-now-include-washington-post-articles/)
+- [Elon Musk says he may keep doing DOGE work for ‘the remainder’ of Trump’s term](https://techcrunch.com/2025/04/22/elon-musk-says-he-may-keep-doing-doge-work-for-the-remainder-of-trumps-term/)
 - [OpenAI exec says the company would buy Google’s Chrome browser if offered the chance](https://techcrunch.com/2025/04/22/openai-exec-says-the-company-would-buy-googles-chrome-browser-if-offered-the-chance/)
 - [Tesla profits drop 71% on weak sales and anti-Elon Musk sentiment](https://techcrunch.com/2025/04/22/tesla-profits-drop-71-on-weak-sales-and-anti-elon-musk-sentiment/)
 - [Fixing the Hubble Space Telescope: A timeline of NASA&#39;s shuttle servicing missions](https://www.space.com/space-exploration/hubble-space-telescope/fixing-the-hubble-space-telescope-a-timeline-of-nasas-shuttle-servicing-missions)
-- [Happy Earth Day 2025! Write your name in NASA satellite images and celebrate our planet &lpar;video&rpar;](https://www.space.com/space-exploration/happy-earth-day-2025-write-your-name-in-nasa-satellite-images-and-celebrate-our-planet-video)
-- [A Chinese AI video startup appears to be blocking politically sensitive images](https://techcrunch.com/2025/04/22/a-chinese-ai-video-startup-appears-to-be-blocking-politically-sensitive-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
