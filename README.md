@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers discover dark matter &#39;bridge&#39; linking colliding galaxies: &#39;This is the missing piece we&#39;ve been looking for.&#39;](https://www.space.com/the-universe/astronomers-discover-dark-matter-bridge-linking-colliding-galaxies-this-is-the-missing-piece-weve-been-looking-for)
+- [StrictlyVC heads to Athens for in-depth conversations on European innovation and investment](https://techcrunch.com/2025/04/23/strictlyvc-heads-to-athens-for-in-depth-conversations-on-european-innovation-and-investment/)
 - [Tech resilience, breakout startups, and banking reinvented: The big conversations at StrictlyVC London in May](https://techcrunch.com/2025/04/22/how-to-build-resilient-tech-nazo-moosa-of-paladin-talks-cyber-ai-and-deep-tech-at-strictlyvc-london/)
 - [Noxtua raises $92M for its sovereign AI tuned for the German legal system](https://techcrunch.com/2025/04/22/noxtua-raises-92m-for-its-sovereign-ai-tuned-for-the-german-legal-system/)
 - [Intel reportedly plans to lay off over 21,000 employees](https://techcrunch.com/2025/04/22/intel-reportedly-plans-to-lay-off-over-21000-employees/)
-- [Meta’s Oversight Board seeks details on the company’s new hate speech policies](https://techcrunch.com/2025/04/22/metas-oversight-board-seeks-details-on-new-hate-speech-policies/)
-- [StrictlyVC heads to Athens for in-depth conversations on European innovation and investment](https://techcrunch.com/2025/04/22/strictlyvc-heads-to-athens-for-in-depth-conversations-on-european-innovation-and-investment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
