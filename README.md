@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix aims to be a trillion-dollar company, says co-CEO](https://techcrunch.com/2025/04/23/netflix-aims-to-be-a-trillion-dollar-company-says-co-ceo/)
+- [19 US fintech startups have raised over $50M in 2025 so far](https://techcrunch.com/2025/04/23/19-us-fintech-startups-have-raised-over-50m-in-2025-so-far/)
+- [South Korea sends 4th spy satellite to orbit on SpaceX rideshare launch](https://www.space.com/space-exploration/satellites/south-korea-sends-4th-spy-satellite-to-orbit-on-spacex-rideshare-launch)
+- [Don&#39;t miss a &#39;mini planet parade&#39; early on April 24 as the moon, Venus and Saturn line up in the morning sky](https://www.space.com/stargazing/dont-miss-a-mini-planet-parade-early-on-april-24-as-the-moon-venus-and-saturn-line-up-in-the-morning-sky)
 - [African Space Agency celebrates official inauguration,  joining global push for space innovation](https://www.space.com/space-exploration/african-space-agency-celebrates-official-inauguration-joining-global-push-for-space-innovation)
-- [Discord appoints former Activision Blizzard exec Humam Sakhnini as CEO](https://techcrunch.com/2025/04/23/discord-appoints-former-activision-blizzard-exec-humam-sakhnini-as-ceo/)
-- [OpenAI’s GPT-4.1 may be less aligned than the company’s previous AI models](https://techcrunch.com/2025/04/23/openais-gpt-4-1-may-be-less-aligned-than-the-companys-previous-ai-models/)
-- [DOJ reportedly probes Disney-FuboTV deal over competition concerns](https://techcrunch.com/2025/04/23/doj-reportedly-probes-disney-fubotv-deal-over-competition-concerns/)
-- [Anti-Musk protests are now an official risk to Tesla’s business](https://techcrunch.com/2025/04/23/anti-musk-protests-are-now-an-official-risk-to-teslas-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
