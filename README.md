@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta’s Threads opens up ads to global advertisers](https://techcrunch.com/2025/04/23/metas-threads-opens-up-ads-to-global-advertisers/)
-- [Amazon’s Starlink competitor runs into production delays](https://techcrunch.com/2025/04/23/amazons-starlink-competitor-runs-into-production-delays/)
-- [AI note-taking app Fireflies adds new ways to extract insights from meeting notes](https://techcrunch.com/2025/04/23/ai-powered-notetaker-fireflies-ai-release-mini-apps-to-extract-insights-out-of-meeting-notes/)
-- [WhatsApp’s latest feature makes your messages even more private](https://techcrunch.com/2025/04/23/whatsapps-latest-feature-makes-your-messages-even-more-private/)
-- [Incredible photo catches the sun rising behind the world&#39;s largest telescope](https://www.space.com/space-exploration/tech/incredible-photo-catches-the-sun-rising-behind-the-worlds-largest-telescope)
+- [Star Wars anime fans rejoice! &#39;Star Wars: Visions&#39; returns for Volume 3, and &#39;The Ninth Jedi&#39; is getting its own spin-off series](https://www.space.com/entertainment/space-movies-shows/star-wars-anime-fans-rejoice-star-wars-visions-returns-for-volume-3-and-the-ninth-jedi-is-getting-its-own-spin-off-series)
+- [Google Gemini has 350M monthly users, reveals court hearing](https://techcrunch.com/2025/04/23/google-gemini-has-350m-monthly-users-reveals-court-hearing/)
+- [China reveals Shenzhou 20 astronaut crew launching to Tiangong space station](https://www.space.com/space-exploration/human-spaceflight/china-reveals-shenzhou-20-astronaut-crew-launching-to-tiangong-space-station)
+- [NASA&#39;s SPHEREx team rings bell at New York Stock Exchange | Space picture of the day for April 23, 2025](https://www.space.com/space-exploration/launches-spacecraft/nasas-spherex-team-rings-bell-at-new-york-stock-exchange-space-picture-of-the-day-for-april-23-2025)
+- [Bring a plus-one to TechCrunch Sessions: AI and save 50% on their ticket through May 4](https://techcrunch.com/2025/04/23/bring-a-plus-one-to-techcrunch-sessions-ai-and-save-50-on-their-ticket-through-may-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
