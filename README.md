@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Froda secures $23M Series B for its debt financing platform for SMEs](https://techcrunch.com/2025/04/23/froda-secures-23m-series-b-for-its-debt-financing-platform-for-smes/)
+- [Xprize Carbon awarded to a dirt simple carbon removal technology](https://techcrunch.com/2025/04/23/xprize-carbon-awarded-to-a-dirt-simple-carbon-removal-technology/)
 - [Gorgeous deep space photo captures the Andromeda Galaxy surrounded by glowing gas](https://www.space.com/stargazing/gorgeous-deep-space-photo-captures-andromeda-galaxy-surrounded-by-stars)
 - [Astronomers discover dark matter &#39;bridge&#39; linking colliding galaxies: &#39;This is the missing piece we&#39;ve been looking for.&#39;](https://www.space.com/the-universe/astronomers-discover-dark-matter-bridge-linking-colliding-galaxies-this-is-the-missing-piece-weve-been-looking-for)
 - [StrictlyVC heads to Athens for in-depth conversations on European innovation and investment](https://techcrunch.com/2025/04/23/strictlyvc-heads-to-athens-for-in-depth-conversations-on-european-innovation-and-investment/)
-- [Tech resilience, breakout startups, and banking reinvented: The big conversations at StrictlyVC London in May](https://techcrunch.com/2025/04/22/how-to-build-resilient-tech-nazo-moosa-of-paladin-talks-cyber-ai-and-deep-tech-at-strictlyvc-london/)
-- [Noxtua raises $92M for its sovereign AI tuned for the German legal system](https://techcrunch.com/2025/04/22/noxtua-raises-92m-for-its-sovereign-ai-tuned-for-the-german-legal-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
