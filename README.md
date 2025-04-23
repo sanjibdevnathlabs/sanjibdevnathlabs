@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The U.S. doesn’t refine cobalt. This startup wants to change that.](https://techcrunch.com/2025/04/23/the-u-s-refines-zero-cobalt-this-startup-wants-to-change-that/)
-- [Cynomi cinches $37M for its AI-based ‘virtual CISO’ for SMB cybersecurity](https://techcrunch.com/2025/04/23/cynomi-cinches-37m-for-its-ai-based-virtual-ciso-for-smb-cybersecurity/)
-- [Froda secures $23M Series B for its debt financing platform for SMEs](https://techcrunch.com/2025/04/23/froda-secures-23m-series-b-for-its-debt-financing-platform-for-smes/)
-- [Xprize Carbon awarded to a dirt simple carbon removal technology](https://techcrunch.com/2025/04/23/xprize-carbon-awarded-to-a-dirt-simple-carbon-removal-technology/)
-- [Gorgeous deep space photo captures the Andromeda Galaxy surrounded by glowing gas](https://www.space.com/stargazing/gorgeous-deep-space-photo-captures-andromeda-galaxy-surrounded-by-stars)
+- [Linktree rolls out a suite of monetization features for creators](https://techcrunch.com/2025/04/23/linktree-rolls-out-a-suite-of-monetization-features-for-creators/)
+- [Endor Labs, which builds tools to scan AI-generated code for vulnerabilities, lands $93M](https://techcrunch.com/2025/04/23/endor-labs-which-builds-tools-to-scan-ai-generated-code-for-vulnerabilities-lands-93m/)
+- [YouTube TV is getting a redesign this summer](https://techcrunch.com/2025/04/23/youtube-adds-new-features-to-improve-playback-and-creator-experinces/)
+- [The Hubble Space Telescope turns 35 as NASA budget cuts loom. How many more birthdays will it have?](https://www.space.com/space-exploration/hubble-space-telescope/the-hubble-space-telescope-turns-35-as-nasa-budget-cuts-loom-how-many-more-birthdays-will-it-have)
+- [Datadog acquires AI-powered observability startup Metaplane](https://techcrunch.com/2025/04/23/datadog-acquires-ai-powered-observability-startup-metaplane/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
