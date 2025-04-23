@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI makes its upgraded image generator available to developers](https://techcrunch.com/2025/04/23/openai-makes-its-upgraded-image-generator-available-to-developers/)
-- [Who is Sentry and his monstrous alter ego, the Void, in Marvel&#39;s &#39;Thunderbolts*?&#39;](https://www.space.com/entertainment/who-is-sentry-and-his-monstrous-alter-ego-the-void-in-marvels-thunderbolts)
-- [Star Wars anime fans rejoice! &#39;Star Wars: Visions&#39; returns for Volume 3, and &#39;The Ninth Jedi&#39; is getting its own spin-off series](https://www.space.com/entertainment/space-movies-shows/star-wars-anime-fans-rejoice-star-wars-visions-returns-for-volume-3-and-the-ninth-jedi-is-getting-its-own-spin-off-series)
-- [Google Gemini has 350M monthly users, reveals court hearing](https://techcrunch.com/2025/04/23/google-gemini-has-350m-monthly-users-reveals-court-hearing/)
-- [China reveals Shenzhou 20 astronaut crew launching to Tiangong space station](https://www.space.com/space-exploration/human-spaceflight/china-reveals-shenzhou-20-astronaut-crew-launching-to-tiangong-space-station)
+- [African Space Agency celebrates official inauguration,  joining global push for space innovation](https://www.space.com/space-exploration/african-space-agency-celebrates-official-inauguration-joining-global-push-for-space-innovation)
+- [Discord appoints former Activision Blizzard exec Humam Sakhnini as CEO](https://techcrunch.com/2025/04/23/discord-appoints-former-activision-blizzard-exec-humam-sakhnini-as-ceo/)
+- [OpenAI’s GPT-4.1 may be less aligned than the company’s previous AI models](https://techcrunch.com/2025/04/23/openais-gpt-4-1-may-be-less-aligned-than-the-companys-previous-ai-models/)
+- [DOJ reportedly probes Disney-FuboTV deal over competition concerns](https://techcrunch.com/2025/04/23/doj-reportedly-probes-disney-fubotv-deal-over-competition-concerns/)
+- [Anti-Musk protests are now an official risk to Tesla’s business](https://techcrunch.com/2025/04/23/anti-musk-protests-are-now-an-official-risk-to-teslas-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
