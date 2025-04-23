@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Noxtua raises $92M for its sovereign AI tuned for the German legal system](https://techcrunch.com/2025/04/22/noxtua-raises-92m-for-its-sovereign-ai-tuned-for-the-german-legal-system/)
 - [Intel reportedly plans to lay off over 21,000 employees](https://techcrunch.com/2025/04/22/intel-reportedly-plans-to-lay-off-over-21000-employees/)
 - [Meta’s Oversight Board seeks details on the company’s new hate speech policies](https://techcrunch.com/2025/04/22/metas-oversight-board-seeks-details-on-new-hate-speech-policies/)
 - [StrictlyVC heads to Athens for in-depth conversations on European innovation and investment](https://techcrunch.com/2025/04/22/strictlyvc-heads-to-athens-for-in-depth-conversations-on-european-innovation-and-investment/)
 - [Tesla profits drop 71% on weak sales and anti-Elon Musk sentiment](https://techcrunch.com/2025/04/22/tesla-profits-drop-71-on-weak-sales-and-anti-elon-musk-sentiment/)
-- [xAI’s Grok chatbot can now ‘see’ the world around it](https://techcrunch.com/2025/04/22/xais-grok-chatbot-can-now-see-the-world-around-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
