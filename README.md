@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket Lab introduces line of customizable solar arrays for satellites](https://www.space.com/space-exploration/tech/rocket-lab-introduces-line-of-customizable-solar-arrays-for-satellites)
+- [Windsurf slashes prices as competition with Cursor heats up](https://techcrunch.com/2025/04/23/windsurf-slashes-prices-as-competition-with-cursor-heats-up/)
 - [Watch live as China launches Shenzhou 20 astronauts to Tiangong space station on April 24](https://www.space.com/space-exploration/launches-spacecraft/watch-live-as-china-launches-shenzhou-20-astronauts-to-tiangong-space-station-on-april-24)
 - [Tesla begins ‘FSD Supervised’ ride-hail tests with employees in Austin, Bay Area](https://techcrunch.com/2025/04/23/tesla-begins-fsd-supervised-ride-hail-tests-with-employees-in-austin-bay-area/)
 - [Government censorship comes to Bluesky, but not its third-party apps … yet](https://techcrunch.com/2025/04/23/government-censorship-comes-to-bluesky-but-not-its-third-party-apps-yet/)
-- [OpenAI seeks to make its upcoming open AI model best-in-class](https://techcrunch.com/2025/04/23/openai-seeks-to-make-its-upcoming-open-ai-model-best-in-class/)
-- [Here are the 19 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/04/23/here-are-the-19-us-ai-startups-that-have-raised-100m-or-more-in-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
