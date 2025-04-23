@@ -135,7 +135,7 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [Can This Tiny Board Replace Your Entire HomeLab? – Zima Board 2](https://www.youtube.com/watch?v=6WYBvbn-mgQ)
-- [What is Cuda? - Computerphile](https://www.youtube.com/watch?v=K9anz4aB0S0)
+- [What is CUDA? - Computerphile](https://www.youtube.com/watch?v=K9anz4aB0S0)
 - [Can ChatGPT plan your retirement?](https://www.youtube.com/watch?v=7GF78YQz62w)
 - [You’re using ChatGPT WRONG](https://www.youtube.com/watch?v=D-ZlJPKk7kM)
 - [Cisco U Spotlight is BACK! And it&#39;s kind of amazing.](https://www.youtube.com/watch?v=TwG6-TRg5Rs)
