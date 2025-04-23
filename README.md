@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Linktree rolls out a suite of monetization features for creators](https://techcrunch.com/2025/04/23/linktree-rolls-out-a-suite-of-monetization-features-for-creators/)
-- [Endor Labs, which builds tools to scan AI-generated code for vulnerabilities, lands $93M](https://techcrunch.com/2025/04/23/endor-labs-which-builds-tools-to-scan-ai-generated-code-for-vulnerabilities-lands-93m/)
-- [YouTube TV is getting a redesign this summer](https://techcrunch.com/2025/04/23/youtube-adds-new-features-to-improve-playback-and-creator-experinces/)
-- [The Hubble Space Telescope turns 35 as NASA budget cuts loom. How many more birthdays will it have?](https://www.space.com/space-exploration/hubble-space-telescope/the-hubble-space-telescope-turns-35-as-nasa-budget-cuts-loom-how-many-more-birthdays-will-it-have)
-- [Datadog acquires AI-powered observability startup Metaplane](https://techcrunch.com/2025/04/23/datadog-acquires-ai-powered-observability-startup-metaplane/)
+- [Durin digs up $3.4M to automate drills for critical minerals exploration](https://techcrunch.com/2025/04/23/durin-digs-up-3-4m-to-automate-drills-for-critical-minerals-exploration/)
+- [SpaceX launches 3 rockets from 3 pads in less than 37 hours &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-3-rockets-from-3-pads-in-less-than-37-hours-photos)
+- [Blue Shield of California shared the private health data of millions with Google for years](https://techcrunch.com/2025/04/23/blue-shield-of-california-shared-the-private-health-data-of-millions-with-google-for-years/)
+- [Last chance! This Apple TV+ offer is one of the best streaming deals we&#39;ve ever seen – but hurry, there&#39;s only one day left to grab 70% off](https://www.space.com/entertainment/last-chance-this-apple-tv-offer-only-one-day-left-to-grab-70-percent-off)
+- [Lyrid meteor shower 2025 delights stargazers with the help of a dramatic fireball display &lpar;photos&rpar;](https://www.space.com/stargazing/meteors-showers/lyrid-meteor-shower-2025-delights-stargazers-with-the-help-of-a-dramatic-fireball-display-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
