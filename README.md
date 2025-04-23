@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The U.S. doesn’t refine cobalt. This startup wants to change that.](https://techcrunch.com/2025/04/23/the-u-s-refines-zero-cobalt-this-startup-wants-to-change-that/)
+- [Cynomi cinches $37M for its AI-based ‘virtual CISO’ for SMB cybersecurity](https://techcrunch.com/2025/04/23/cynomi-cinches-37m-for-its-ai-based-virtual-ciso-for-smb-cybersecurity/)
 - [Froda secures $23M Series B for its debt financing platform for SMEs](https://techcrunch.com/2025/04/23/froda-secures-23m-series-b-for-its-debt-financing-platform-for-smes/)
 - [Xprize Carbon awarded to a dirt simple carbon removal technology](https://techcrunch.com/2025/04/23/xprize-carbon-awarded-to-a-dirt-simple-carbon-removal-technology/)
 - [Gorgeous deep space photo captures the Andromeda Galaxy surrounded by glowing gas](https://www.space.com/stargazing/gorgeous-deep-space-photo-captures-andromeda-galaxy-surrounded-by-stars)
-- [Astronomers discover dark matter &#39;bridge&#39; linking colliding galaxies: &#39;This is the missing piece we&#39;ve been looking for.&#39;](https://www.space.com/the-universe/astronomers-discover-dark-matter-bridge-linking-colliding-galaxies-this-is-the-missing-piece-weve-been-looking-for)
-- [StrictlyVC heads to Athens for in-depth conversations on European innovation and investment](https://techcrunch.com/2025/04/23/strictlyvc-heads-to-athens-for-in-depth-conversations-on-european-innovation-and-investment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
