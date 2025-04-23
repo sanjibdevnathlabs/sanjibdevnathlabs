@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Durin digs up $3.4M to automate drills for critical minerals exploration](https://techcrunch.com/2025/04/23/durin-digs-up-3-4m-to-automate-drills-for-critical-minerals-exploration/)
-- [SpaceX launches 3 rockets from 3 pads in less than 37 hours &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-3-rockets-from-3-pads-in-less-than-37-hours-photos)
-- [Blue Shield of California shared the private health data of millions with Google for years](https://techcrunch.com/2025/04/23/blue-shield-of-california-shared-the-private-health-data-of-millions-with-google-for-years/)
-- [Last chance! This Apple TV+ offer is one of the best streaming deals we&#39;ve ever seen – but hurry, there&#39;s only one day left to grab 70% off](https://www.space.com/entertainment/last-chance-this-apple-tv-offer-only-one-day-left-to-grab-70-percent-off)
-- [Lyrid meteor shower 2025 delights stargazers with the help of a dramatic fireball display &lpar;photos&rpar;](https://www.space.com/stargazing/meteors-showers/lyrid-meteor-shower-2025-delights-stargazers-with-the-help-of-a-dramatic-fireball-display-photos)
+- [Meta’s Threads opens up ads to global advertisers](https://techcrunch.com/2025/04/23/metas-threads-opens-up-ads-to-global-advertisers/)
+- [Amazon’s Starlink competitor runs into production delays](https://techcrunch.com/2025/04/23/amazons-starlink-competitor-runs-into-production-delays/)
+- [AI note-taking app Fireflies adds new ways to extract insights from meeting notes](https://techcrunch.com/2025/04/23/ai-powered-notetaker-fireflies-ai-release-mini-apps-to-extract-insights-out-of-meeting-notes/)
+- [WhatsApp’s latest feature makes your messages even more private](https://techcrunch.com/2025/04/23/whatsapps-latest-feature-makes-your-messages-even-more-private/)
+- [Incredible photo catches the sun rising behind the world&#39;s largest telescope](https://www.space.com/space-exploration/tech/incredible-photo-catches-the-sun-rising-behind-the-worlds-largest-telescope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
