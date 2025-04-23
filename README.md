@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel reportedly plans to lay off over 21,000 employees](https://techcrunch.com/2025/04/22/intel-reportedly-plans-to-lay-off-over-21000-employees/)
+- [Meta’s Oversight Board seeks details on the company’s new hate speech policies](https://techcrunch.com/2025/04/22/metas-oversight-board-seeks-details-on-new-hate-speech-policies/)
 - [StrictlyVC heads to Athens for in-depth conversations on European innovation and investment](https://techcrunch.com/2025/04/22/strictlyvc-heads-to-athens-for-in-depth-conversations-on-european-innovation-and-investment/)
 - [Tesla profits drop 71% on weak sales and anti-Elon Musk sentiment](https://techcrunch.com/2025/04/22/tesla-profits-drop-71-on-weak-sales-and-anti-elon-musk-sentiment/)
 - [xAI’s Grok chatbot can now ‘see’ the world around it](https://techcrunch.com/2025/04/22/xais-grok-chatbot-can-now-see-the-world-around-it/)
-- [Why OpenAI wanted to buy Cursor but opted for the fast-growing Windsurf](https://techcrunch.com/2025/04/22/why-openai-wanted-to-buy-cursor-but-opted-for-the-fast-growing-windsurf/)
-- [ChatGPT’s responses will now include Washington Post articles](https://techcrunch.com/2025/04/22/chatgpts-responses-will-now-include-washington-post-articles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
