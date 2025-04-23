@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch live as China launches Shenzhou 20 astronauts to Tiangong space station on April 24](https://www.space.com/space-exploration/launches-spacecraft/watch-live-as-china-launches-shenzhou-20-astronauts-to-tiangong-space-station-on-april-24)
+- [Tesla begins ‘FSD Supervised’ ride-hail tests with employees in Austin, Bay Area](https://techcrunch.com/2025/04/23/tesla-begins-fsd-supervised-ride-hail-tests-with-employees-in-austin-bay-area/)
+- [Government censorship comes to Bluesky, but not its third-party apps … yet](https://techcrunch.com/2025/04/23/government-censorship-comes-to-bluesky-but-not-its-third-party-apps-yet/)
+- [OpenAI seeks to make its upcoming open AI model best-in-class](https://techcrunch.com/2025/04/23/openai-seeks-to-make-its-upcoming-open-ai-model-best-in-class/)
 - [Here are the 19 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/04/23/here-are-the-19-us-ai-startups-that-have-raised-100m-or-more-in-2025/)
-- [Can Hubble still hang? How the space telescope compares to its successors after 35 years of cosmic adventures](https://www.space.com/space-exploration/hubble-space-telescope/can-hubble-still-hang-how-the-space-telescope-compares-to-its-successors-after-35-years-of-cosmic-adventures)
-- [Netflix aims to be a trillion-dollar company, says co-CEO](https://techcrunch.com/2025/04/23/netflix-aims-to-be-a-trillion-dollar-company-says-co-ceo/)
-- [19 US fintech startups have raised over $50M in 2025 so far](https://techcrunch.com/2025/04/23/19-us-fintech-startups-have-raised-over-50m-in-2025-so-far/)
-- [South Korea sends 4th spy satellite to orbit on SpaceX rideshare launch](https://www.space.com/space-exploration/satellites/south-korea-sends-4th-spy-satellite-to-orbit-on-spacex-rideshare-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
