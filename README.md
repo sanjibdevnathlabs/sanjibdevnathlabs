@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists discover super-Earth exoplanets are more common in the universe than we thought](https://www.space.com/the-universe/exoplanets/scientists-discover-super-earth-exoplanets-are-more-common-in-the-universe-than-we-thought)
+- [Facebook cracks down on spammy content by cutting reach and monetization](https://techcrunch.com/2025/04/24/facebook-cracks-down-on-spammy-content-by-cutting-reach-and-monetization/)
+- [China&#39;s Shenzhou 20 astronauts arrive at Tiangong space station](https://www.space.com/space-exploration/missions/chinas-shenzhou-20-astronauts-arrive-at-tiangong-space-station)
 - [The 1st &#39;Predator: Badlands&#39; trailer looks amazing, but it&#39;s the &#39;Alien&#39; universe teases that have us most excited &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-1st-predator-badlands-trailer-looks-amazing-but-its-the-alien-universe-teases-that-have-us-most-excited-video)
 - [TikTok adds support for ALT text for photos](https://techcrunch.com/2025/04/24/tiktok-adds-support-for-alt-text-for-photos/)
-- [James Webb Space Telescope finds a wild black hole growth spurt in galaxies at &#39;cosmic noon&#39;](https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-space-telescope-finds-a-wild-black-hole-growth-spurt-in-galaxies-at-cosmic-noon)
-- [Anthropic is launching a new program to study AI ‘model welfare’](https://techcrunch.com/2025/04/24/anthropic-is-launching-a-new-program-to-study-ai-model-welfare/)
-- [Spotify’s AI playlist rolls out to Asia and more markets](https://techcrunch.com/2025/04/24/spotifys-ai-playlist-rolls-out-to-asia-and-more-markets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
