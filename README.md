@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Could astronauts visit the Hubble Space Telescope again?](https://www.space.com/space-exploration/hubble-space-telescope/could-astronauts-visit-the-hubble-space-telescope-again)
+- [RepAir Carbon is making carbon removal machines inspired by batteries](https://techcrunch.com/2025/04/24/repair-carbon-is-making-carbon-removal-machines-inspired-by-batteries/)
+- [Founders, your moment is now: Apply for TechCrunch Startup Battlefield 200](https://techcrunch.com/2025/04/24/founders-your-moment-is-now-apply-for-startup-battlefield-200/)
+- [Revolut, the $45B neobank, posts $1B profit in 2024](https://techcrunch.com/2025/04/24/revolut-the-45b-neobank-posts-1b-profit-in-2024/)
 - [Climate change is officially the leading threat to imperiled species in the United States](https://www.space.com/the-universe/climate-change/climate-change-is-officially-the-leading-threat-to-imperiled-species-in-the-united-states)
-- [Dropbox adds new features to Dash, its AI-powered search tool](https://techcrunch.com/2025/04/24/dropbox-adds-new-features-to-its-ai-powered-search-tool-dash/)
-- [World&#39;s largest solar telescope gains powerful new &#39;eye&#39; to study the sun&#39;s secrets](https://www.space.com/the-universe/sun/worlds-largest-solar-telescope-gains-powerful-new-eye-to-study-the-suns-secrets)
-- [Uber, Volkswagen pair up to launch robotaxi service in US with self-driving, electric microbuses](https://techcrunch.com/2025/04/24/uber-and-volkswagen-pair-up-to-launch-robotaxi-service-with-self-driving-electric-microbuses/)
-- [Best star projectors for kids: Night-lights and ambient toys to soothe young space fans](https://www.space.com/stargazing/astronomy-kit/best-star-projectors-for-kids)
 <!-- BLOG-POST-LIST:END -->
 
 ---
