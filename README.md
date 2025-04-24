@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Telescope snaps stunning portraits of Mars, a celestial moth and more in spectacular 35th anniversary photos](https://www.space.com/space-exploration/hubble-space-telescope/hubble-telescope-snaps-stunning-portraits-of-mars-a-celestial-moth-and-more-in-spectacular-35th-anniversary-photos)
+- [How do you define cheating in the age of AI?](https://techcrunch.com/video/how-do-you-define-cheating-in-the-age-of-ai/)
+- [OpenAI rolls out a ‘lightweight’ version of its ChatGPT deep research tool](https://techcrunch.com/2025/04/24/openai-rolls-out-a-lightweight-version-of-its-chatgpt-deep-research-tool/)
 - [Perplexity CEO says its browser will track everything users do online to sell ‘hyper personalized’ ads](https://techcrunch.com/2025/04/24/perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/)
 - [Mars is covered in evidence of ancient lakes, rain and snow — but scientists aren&#39;t sure how that&#39;s possible](https://www.space.com/the-universe/mars/mars-is-covered-in-evidence-of-ancient-lakes-rain-and-snow-but-scientists-arent-sure-how-thats-possible)
-- [Intel reverses course, opts not to spin out Intel Capital](https://techcrunch.com/2025/04/24/intel-reverses-course-opts-not-to-spin-out-intel-capital/)
-- [Intel mandates four days in the office](https://techcrunch.com/2025/04/24/intel-mandates-four-days-in-the-office/)
-- [Public comments to White House on AI policy touch on copyright, tariffs](https://techcrunch.com/2025/04/24/public-comments-to-white-house-on-ai-policy-touch-on-copyright-tariffs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
