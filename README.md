@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe wants to create a robots.txt styled indicator for images used in AI training](https://techcrunch.com/2025/04/24/adobe-wants-to-create-a-robots-txt-styled-indicator-for-images-used-in-ai-training/)
+- [Adobe releases new Firefly image generation models and a redesigned Firefly web app](https://techcrunch.com/2025/04/24/adobe-releases-new-firefly-image-generation-models-and-a-redesigned-firefly-web-app/)
+- [Aging gracefully: The Hubble Telescope is in &#39;excellent technical condition&#39; on its 35th birthday, its chief scientist says](https://www.space.com/space-exploration/hubble-space-telescope/aging-gracefully-the-hubble-telescope-is-in-excellent-technical-condition-on-its-35th-birthday-its-chief-scientist-says)
 - [Mystery will may reveal Zappos founder’s final wishes](https://techcrunch.com/2025/04/23/mystery-will-may-reveal-zappos-founders-final-wishes/)
 - [IBM affected by DOGE cuts, downplays impact during Q1 earnings call](https://techcrunch.com/2025/04/23/ibm-affected-by-doge-cuts-downplays-impact-during-q1-earnings-call/)
-- [Rocket Lab introduces line of customizable solar arrays for satellites](https://www.space.com/space-exploration/tech/rocket-lab-introduces-line-of-customizable-solar-arrays-for-satellites)
-- [Windsurf slashes prices as competition with Cursor heats up](https://techcrunch.com/2025/04/23/windsurf-slashes-prices-as-competition-with-cursor-heats-up/)
-- [Watch live as China launches Shenzhou 20 astronauts to Tiangong space station on April 24](https://www.space.com/space-exploration/launches-spacecraft/watch-live-as-china-launches-shenzhou-20-astronauts-to-tiangong-space-station-on-april-24)
 <!-- BLOG-POST-LIST:END -->
 
 ---
