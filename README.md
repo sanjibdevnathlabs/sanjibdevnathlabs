@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [World&#39;s largest solar telescope gains powerful new &#39;eye&#39; to study the sun&#39;s secrets](https://www.space.com/the-universe/sun/worlds-largest-solar-telescope-gains-powerful-new-eye-to-study-the-suns-secrets)
+- [Uber, Volkswagen pair up to launch robotaxi service in US with self-driving, electric microbuses](https://techcrunch.com/2025/04/24/uber-and-volkswagen-pair-up-to-launch-robotaxi-service-with-self-driving-electric-microbuses/)
+- [Best star projectors for kids: Night-lights and ambient toys to soothe young space fans](https://www.space.com/stargazing/astronomy-kit/best-star-projectors-for-kids)
 - [This tool estimates how much electricity your chatbot messages consume](https://techcrunch.com/2025/04/24/this-tool-estimates-how-much-electricity-your-chatbot-messages-consume/)
 - [Happy 35th birthday, Hubble Telescope! 10 times the iconic observatory blew astronomers&#39; minds &lpar;photos&rpar;](https://www.space.com/space-exploration/hubble-space-telescope/happy-35th-birthday-hubble-telescope-10-times-the-iconic-observatory-blew-astronomers-minds-photos)
-- [British startup Isembard lands $9M to reshore manufacturing for critical industries](https://techcrunch.com/2025/04/24/british-startup-isembard-lands-9m-to-reshore-manufacturing-for-critical-industries/)
-- [Adobe wants to create a robots.txt styled indicator for images used in AI training](https://techcrunch.com/2025/04/24/adobe-wants-to-create-a-robots-txt-styled-indicator-for-images-used-in-ai-training/)
-- [Adobe releases new Firefly image generation models and a redesigned Firefly web app](https://techcrunch.com/2025/04/24/adobe-releases-new-firefly-image-generation-models-and-a-redesigned-firefly-web-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
