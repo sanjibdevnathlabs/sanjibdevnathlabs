@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Threads officially moves to Threads.com and updates its web app](https://techcrunch.com/2025/04/24/threads-officially-moves-to-threads-com-and-updates-its-web-app/)
-- [See a cosmic &#39;smiley face&#39; in the early morning sky as the moon greets Saturn and Venus tomorrow](https://www.space.com/stargazing/see-a-cosmic-smiley-face-in-the-early-morning-sky-as-the-moon-greets-saturn-and-venus-tomorrow)
-- [Pope Francis’ funeral to stream on YouTube](https://techcrunch.com/2025/04/24/pope-francis-funeral-to-stream-on-youtube/)
-- [Flex acquires a16z-backed Maza for $40M as fintech M&amp;A heats up](https://techcrunch.com/2025/04/24/flex-acquires-a16z-backed-maza-for-40m-as-fintech-ma-heats-up/)
-- [Within six years, building the leading AI data center may cost $200B](https://techcrunch.com/2025/04/24/within-six-years-building-the-leading-ai-data-center-may-cost-200b/)
+- [Evernote founder’s video startup mmhmm becomes Airtime, launches new products](https://techcrunch.com/2025/04/24/evernote-founders-video-startup-mmhmm-becomes-airtime-launches-new-products/)
+- [Report: Neumann’s Flow raises $100M+, more than doubles valuation to $2.5B](https://techcrunch.com/2025/04/24/report-neumanns-flow-raises-100m-more-than-doubles-valuation-to-2-5b/)
+- [OpenAI wants its ‘open’ AI model to call models in the cloud for help](https://techcrunch.com/2025/04/24/openai-wants-its-open-ai-model-to-call-models-in-the-cloud-for-help/)
+- [OpenAI may be developing its own social platform but who’s it for?](https://techcrunch.com/video/openai-may-be-developing-its-own-social-platform-but-whos-it-for/)
+- [You’re invited to a fireside chat with Baiju Bhatt on Sand Hill Road on June 18 at StrictlyVC](https://techcrunch.com/2025/04/24/youre-invited-to-a-fireside-chat-with-baiju-bhatt-on-sand-hill-road-on-june-18-at-strictlyvc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
