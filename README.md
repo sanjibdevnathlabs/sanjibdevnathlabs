@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Speak at TechCrunch Disrupt 2025: Applications now open](https://techcrunch.com/2025/04/24/speak-at-techcrunch-disrupt-2025-applications-now-open/)
+- [Fan-favorite Clone Wars character returns for &#39;Star Wars Outlaws&#39; DLC in May, plus we&#39;re getting a Nintendo Switch 2 port](https://www.space.com/entertainment/space-games-toys/fan-favorite-clone-wars-character-returns-for-star-wars-outlaws-dlc-in-may-plus-were-getting-a-nintendo-switch-2-port)
 - [Could astronauts visit the Hubble Space Telescope again?](https://www.space.com/space-exploration/hubble-space-telescope/could-astronauts-visit-the-hubble-space-telescope-again)
 - [RepAir Carbon is making carbon removal machines inspired by batteries](https://techcrunch.com/2025/04/24/repair-carbon-is-making-carbon-removal-machines-inspired-by-batteries/)
 - [Founders, your moment is now: Apply for TechCrunch Startup Battlefield 200](https://techcrunch.com/2025/04/24/founders-your-moment-is-now-apply-for-startup-battlefield-200/)
-- [Revolut, the $45B neobank, posts $1B profit in 2024](https://techcrunch.com/2025/04/24/revolut-the-45b-neobank-posts-1b-profit-in-2024/)
-- [Climate change is officially the leading threat to imperiled species in the United States](https://www.space.com/the-universe/climate-change/climate-change-is-officially-the-leading-threat-to-imperiled-species-in-the-united-states)
 <!-- BLOG-POST-LIST:END -->
 
 ---
