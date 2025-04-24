@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Public comments to White House on AI policy touch on copyright, tariffs](https://techcrunch.com/2025/04/24/public-comments-to-white-house-on-ai-policy-touch-on-copyright-tariffs/)
+- [Planning on rewatching &#39;Revenge of the Sith&#39; for its 20th anniversary? Here&#39;s why &#39;The Clone Wars&#39; finale makes it a better movie](https://www.space.com/entertainment/space-movies-shows/planning-on-rewatching-revenge-of-the-sith-for-its-20th-anniversary-heres-why-the-clone-wars-finale-makes-it-a-better-movie)
+- [Astro Teller is joining us at TechCrunch Disrupt 2025 in October](https://techcrunch.com/2025/04/24/astro-teller-is-joining-us-at-techcrunch-disrupt-2025-in-october/)
 - [Evernote founder’s video startup mmhmm becomes Airtime, launches new products](https://techcrunch.com/2025/04/24/evernote-founders-video-startup-mmhmm-becomes-airtime-launches-new-products/)
-- [Report: Neumann’s Flow raises $100M+, more than doubles valuation to $2.5B](https://techcrunch.com/2025/04/24/report-neumanns-flow-raises-100m-more-than-doubles-valuation-to-2-5b/)
-- [OpenAI wants its ‘open’ AI model to call models in the cloud for help](https://techcrunch.com/2025/04/24/openai-wants-its-open-ai-model-to-call-models-in-the-cloud-for-help/)
-- [OpenAI may be developing its own social platform but who’s it for?](https://techcrunch.com/video/openai-may-be-developing-its-own-social-platform-but-whos-it-for/)
-- [You’re invited to a fireside chat with Baiju Bhatt on Sand Hill Road on June 18 at StrictlyVC](https://techcrunch.com/2025/04/24/youre-invited-to-a-fireside-chat-with-baiju-bhatt-on-sand-hill-road-on-june-18-at-strictlyvc/)
+- [Report: Adam Neumann’s Flow raises $100M+, more than doubles valuation to $2.5B](https://techcrunch.com/2025/04/24/report-adam-neumanns-flow-raises-100m-more-than-doubles-valuation-to-2-5b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
