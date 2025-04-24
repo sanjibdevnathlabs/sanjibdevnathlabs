@@ -148,9 +148,9 @@ I'm a software developer passionate about designing and building applications wi
 <!-- BLOG-POST-LIST:START -->
 - [Mystery will may reveal Zappos founder’s final wishes](https://techcrunch.com/2025/04/23/mystery-will-may-reveal-zappos-founders-final-wishes/)
 - [IBM affected by DOGE cuts, downplays impact during Q1 earnings call](https://techcrunch.com/2025/04/23/ibm-affected-by-doge-cuts-downplays-impact-during-q1-earnings-call/)
+- [Rocket Lab introduces line of customizable solar arrays for satellites](https://www.space.com/space-exploration/tech/rocket-lab-introduces-line-of-customizable-solar-arrays-for-satellites)
 - [Windsurf slashes prices as competition with Cursor heats up](https://techcrunch.com/2025/04/23/windsurf-slashes-prices-as-competition-with-cursor-heats-up/)
-- [Tesla begins ‘FSD Supervised’ ride-hail tests with employees in Austin, Bay Area](https://techcrunch.com/2025/04/23/tesla-begins-fsd-supervised-ride-hail-tests-with-employees-in-austin-bay-area/)
-- [Government censorship comes to Bluesky, but not its third-party apps … yet](https://techcrunch.com/2025/04/23/government-censorship-comes-to-bluesky-but-not-its-third-party-apps-yet/)
+- [Watch live as China launches Shenzhou 20 astronauts to Tiangong space station on April 24](https://www.space.com/space-exploration/launches-spacecraft/watch-live-as-china-launches-shenzhou-20-astronauts-to-tiangong-space-station-on-april-24)
 <!-- BLOG-POST-LIST:END -->
 
 ---
