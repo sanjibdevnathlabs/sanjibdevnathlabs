@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists discover super-Earth exoplanets are more common in the universe than we thought](https://www.space.com/the-universe/exoplanets/scientists-discover-super-earth-exoplanets-are-more-common-in-the-universe-than-we-thought)
-- [Facebook cracks down on spammy content by cutting reach and monetization](https://techcrunch.com/2025/04/24/facebook-cracks-down-on-spammy-content-by-cutting-reach-and-monetization/)
-- [China&#39;s Shenzhou 20 astronauts arrive at Tiangong space station](https://www.space.com/space-exploration/missions/chinas-shenzhou-20-astronauts-arrive-at-tiangong-space-station)
-- [The 1st &#39;Predator: Badlands&#39; trailer looks amazing, but it&#39;s the &#39;Alien&#39; universe teases that have us most excited &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-1st-predator-badlands-trailer-looks-amazing-but-its-the-alien-universe-teases-that-have-us-most-excited-video)
-- [TikTok adds support for ALT text for photos](https://techcrunch.com/2025/04/24/tiktok-adds-support-for-alt-text-for-photos/)
+- [Threads officially moves to Threads.com and updates its web app](https://techcrunch.com/2025/04/24/threads-officially-moves-to-threads-com-and-updates-its-web-app/)
+- [See a cosmic &#39;smiley face&#39; in the early morning sky as the moon greets Saturn and Venus tomorrow](https://www.space.com/stargazing/see-a-cosmic-smiley-face-in-the-early-morning-sky-as-the-moon-greets-saturn-and-venus-tomorrow)
+- [Pope Francis’ funeral to stream on YouTube](https://techcrunch.com/2025/04/24/pope-francis-funeral-to-stream-on-youtube/)
+- [Flex acquires a16z-backed Maza for $40M as fintech M&amp;A heats up](https://techcrunch.com/2025/04/24/flex-acquires-a16z-backed-maza-for-40m-as-fintech-ma-heats-up/)
+- [Within six years, building the leading AI data center may cost $200B](https://techcrunch.com/2025/04/24/within-six-years-building-the-leading-ai-data-center-may-cost-200b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
