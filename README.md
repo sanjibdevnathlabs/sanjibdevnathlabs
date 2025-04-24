@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity CEO says its browser will track everything users do online to sell ‘hyper personalized’ ads](https://techcrunch.com/2025/04/24/perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/)
+- [Mars is covered in evidence of ancient lakes, rain and snow — but scientists aren&#39;t sure how that&#39;s possible](https://www.space.com/the-universe/mars/mars-is-covered-in-evidence-of-ancient-lakes-rain-and-snow-but-scientists-arent-sure-how-thats-possible)
+- [Intel reverses course, opts not to spin out Intel Capital](https://techcrunch.com/2025/04/24/intel-reverses-course-opts-not-to-spin-out-intel-capital/)
+- [Intel mandates four days in the office](https://techcrunch.com/2025/04/24/intel-mandates-four-days-in-the-office/)
 - [Public comments to White House on AI policy touch on copyright, tariffs](https://techcrunch.com/2025/04/24/public-comments-to-white-house-on-ai-policy-touch-on-copyright-tariffs/)
-- [Planning on rewatching &#39;Revenge of the Sith&#39; for its 20th anniversary? Here&#39;s why &#39;The Clone Wars&#39; finale makes it a better movie](https://www.space.com/entertainment/space-movies-shows/planning-on-rewatching-revenge-of-the-sith-for-its-20th-anniversary-heres-why-the-clone-wars-finale-makes-it-a-better-movie)
-- [Astro Teller is joining us at TechCrunch Disrupt 2025 in October](https://techcrunch.com/2025/04/24/astro-teller-is-joining-us-at-techcrunch-disrupt-2025-in-october/)
-- [Evernote founder’s video startup mmhmm becomes Airtime, launches new products](https://techcrunch.com/2025/04/24/evernote-founders-video-startup-mmhmm-becomes-airtime-launches-new-products/)
-- [Report: Adam Neumann’s Flow raises $100M+, more than doubles valuation to $2.5B](https://techcrunch.com/2025/04/24/report-adam-neumanns-flow-raises-100m-more-than-doubles-valuation-to-2-5b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
