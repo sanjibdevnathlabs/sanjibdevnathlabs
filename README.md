@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 1st &#39;Predator: Badlands&#39; trailer looks amazing, but it&#39;s the &#39;Alien&#39; universe teases that have us most excited &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-1st-predator-badlands-trailer-looks-amazing-but-its-the-alien-universe-teases-that-have-us-most-excited-video)
 - [TikTok adds support for ALT text for photos](https://techcrunch.com/2025/04/24/tiktok-adds-support-for-alt-text-for-photos/)
 - [James Webb Space Telescope finds a wild black hole growth spurt in galaxies at &#39;cosmic noon&#39;](https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-space-telescope-finds-a-wild-black-hole-growth-spurt-in-galaxies-at-cosmic-noon)
 - [Anthropic is launching a new program to study AI ‘model welfare’](https://techcrunch.com/2025/04/24/anthropic-is-launching-a-new-program-to-study-ai-model-welfare/)
 - [Spotify’s AI playlist rolls out to Asia and more markets](https://techcrunch.com/2025/04/24/spotifys-ai-playlist-rolls-out-to-asia-and-more-markets/)
-- [Speak at TechCrunch Disrupt 2025: Applications now open](https://techcrunch.com/2025/04/24/speak-at-techcrunch-disrupt-2025-applications-now-open/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
