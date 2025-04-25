@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The sun might be spitting out particles that create water on the moon](https://www.space.com/the-universe/sun/the-sun-might-be-spitting-out-particles-that-create-water-on-the-moon)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/04/25/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [Startups Weekly: Tech IPOs and deals proceed, but price matters](https://techcrunch.com/2025/04/25/startups-weekly-tech-ipos-and-deals-proceed-but-price-matters/)
 - [Stuck on Strands? Here are the constellations you need to know for today&#39;s star-themed puzzle](https://www.space.com/stargazing/constellations/stuck-on-strands-here-are-the-constellations-you-need-to-know-for-todays-star-themed-puzzle)
 - [Lost in space: Why some meteorites look less &#39;shocked&#39; than others](https://www.space.com/the-universe/asteroids/lost-in-space-why-some-meteorites-look-less-shocked-than-others)
-- [An OpenAI researcher who worked on GPT-4.5 had their green card denied](https://techcrunch.com/2025/04/25/an-openai-researcher-who-worked-on-gpt-4-5-had-their-green-card-denied/)
-- [&#39;Pacific Rim&#39; TV show is coming to Prime Video, and it&#39;s going to be a prequel to the movies](https://www.space.com/entertainment/space-movies-shows/pacific-rim-tv-show-is-coming-to-prime-video-and-its-going-to-be-a-prequel-to-the-movies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
