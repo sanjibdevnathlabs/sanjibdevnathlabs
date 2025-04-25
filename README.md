@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wait, how did a decentralized service like Bluesky go down?](https://techcrunch.com/2025/04/24/wait-how-did-a-decentralized-service-like-bluesky-go-down/)
+- [Anthropic CEO wants to open the black box of AI models by 2027](https://techcrunch.com/2025/04/24/anthropic-ceo-wants-to-open-the-black-box-of-ai-models-by-2027/)
 - [Hubble Telescope snaps stunning portraits of Mars, a celestial moth and more in spectacular 35th anniversary photos](https://www.space.com/space-exploration/hubble-space-telescope/hubble-telescope-snaps-stunning-portraits-of-mars-a-celestial-moth-and-more-in-spectacular-35th-anniversary-photos)
 - [How do you define cheating in the age of AI?](https://techcrunch.com/video/how-do-you-define-cheating-in-the-age-of-ai/)
 - [OpenAI rolls out a ‘lightweight’ version of its ChatGPT deep research tool](https://techcrunch.com/2025/04/24/openai-rolls-out-a-lightweight-version-of-its-chatgpt-deep-research-tool/)
-- [Perplexity CEO says its browser will track everything users do online to sell ‘hyper personalized’ ads](https://techcrunch.com/2025/04/24/perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/)
-- [Mars is covered in evidence of ancient lakes, rain and snow — but scientists aren&#39;t sure how that&#39;s possible](https://www.space.com/the-universe/mars/mars-is-covered-in-evidence-of-ancient-lakes-rain-and-snow-but-scientists-arent-sure-how-thats-possible)
 <!-- BLOG-POST-LIST:END -->
 
 ---
