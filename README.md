@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An OpenAI researcher who worked on GPT-4.5 had their green card denied](https://techcrunch.com/2025/04/25/an-openai-researcher-who-worked-on-gpt-4-5-had-their-green-card-denied/)
+- [&#39;Pacific Rim&#39; TV show is coming to Prime Video, and it&#39;s going to be a prequel to the movies](https://www.space.com/entertainment/space-movies-shows/pacific-rim-tv-show-is-coming-to-prime-video-and-its-going-to-be-a-prequel-to-the-movies)
+- [SpaceX Crew-11 astronauts put things into perspective | Space photo of the day for April 24, 2025](https://www.space.com/space-exploration/international-space-station/spacex-crew-11-astronauts-put-things-into-perspective-space-photo-of-the-day-for-april-24-2025)
 - [The brightest star in the night sky shows off this spring: How to see a scintillating Sirius](https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius)
 - [Google’s AI search numbers are growing, and that’s by design](https://techcrunch.com/2025/04/25/googles-ai-search-numbers-are-growing-and-thats-by-design/)
-- [Roelof Botha, the head of Sequoia Capital, is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/04/25/roelof-botha-the-head-of-sequoia-capital-is-coming-to-techcrunch-disrupt-2025/)
-- [Last day to boost your brand and host a Side Event at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/25/last-day-to-boost-your-brand-and-host-a-side-event-at-techcrunch-sessions-ai/)
-- [Prince Harry meets, funds youth groups advocating for social media and AI safety](https://techcrunch.com/2025/04/25/prince-harry-meets-funds-youth-advocating-for-social-media-and-ai-safety/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
