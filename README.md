@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Data breach at Connecticut’s Yale New Haven Health affects over 5 million](https://techcrunch.com/2025/04/25/data-breach-at-connecticut-yale-new-haven-health-affects-over-5-million/)
+- [Why are meteor showers so unpredictable? The sun may be to blame](https://www.space.com/stargazing/meteors-showers/why-are-meteor-showers-so-unpredictable-the-sun-may-be-to-blame)
 - [Amateur astrophotographer captures a stunning galaxy 24 million light-years from Earth &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/amateur-astrophotographer-captures-a-stunning-galaxy-24-million-light-years-from-earth-photo)
 - [New moon of April 2025 sees Venus and Saturn join up in the sky this weekend](https://www.space.com/the-universe/moon/new-moon-of-april-2025-sees-venus-and-saturn-join-up-in-the-sky-this-weekend)
-- [SpaceX Falcon 9 rocket launches 28 Starlink satellites, aces droneship booster landing &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-74-b1069-ccsfs)
-- [TechCrunch StrictlyVC in Athens in May will feature a special guest: the Greece Prime Minister](https://techcrunch.com/2025/04/24/techcrunch-strictlyvc-in-athens-will-feature-a-special-guest-the-greek-prime-minister/)
-- [Bezos-backed Slate Auto debuts analog EV pickup truck that is decidedly anti-Tesla](https://techcrunch.com/2025/04/24/bezos-backed-slate-auto-debuts-analog-ev-pickup-truck-that-is-decidedly-anti-tesla/)
+- [SpaceX Falcon 9 rocket launches 28 Starlink satellites, aces droneship booster landing &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-74-b1069-ccsfs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
