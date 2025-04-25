@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups Weekly: Tech IPOs and deals proceed, but price matters](https://techcrunch.com/2025/04/25/startups-weekly-tech-ipos-and-deals-proceed-but-price-matters/)
+- [Stuck on Strands? Here are the constellations you need to know for today&#39;s star-themed puzzle](https://www.space.com/stargazing/constellations/stuck-on-strands-here-are-the-constellations-you-need-to-know-for-todays-star-themed-puzzle)
+- [Lost in space: Why some meteorites look less &#39;shocked&#39; than others](https://www.space.com/the-universe/asteroids/lost-in-space-why-some-meteorites-look-less-shocked-than-others)
 - [An OpenAI researcher who worked on GPT-4.5 had their green card denied](https://techcrunch.com/2025/04/25/an-openai-researcher-who-worked-on-gpt-4-5-had-their-green-card-denied/)
 - [&#39;Pacific Rim&#39; TV show is coming to Prime Video, and it&#39;s going to be a prequel to the movies](https://www.space.com/entertainment/space-movies-shows/pacific-rim-tv-show-is-coming-to-prime-video-and-its-going-to-be-a-prequel-to-the-movies)
-- [SpaceX Crew-11 astronauts put things into perspective | Space photo of the day for April 24, 2025](https://www.space.com/space-exploration/international-space-station/spacex-crew-11-astronauts-put-things-into-perspective-space-photo-of-the-day-for-april-24-2025)
-- [The brightest star in the night sky shows off this spring: How to see a scintillating Sirius](https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius)
-- [Google’s AI search numbers are growing, and that’s by design](https://techcrunch.com/2025/04/25/googles-ai-search-numbers-are-growing-and-thats-by-design/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
