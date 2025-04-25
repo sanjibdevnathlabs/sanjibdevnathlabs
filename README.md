@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Falcon 9 rocket launches 28 Starlink satellites, aces droneship booster landing &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-74-b1069-ccsfs)
+- [TechCrunch StrictlyVC in Athens in May will feature a special guest: the Greece Prime Minister](https://techcrunch.com/2025/04/24/techcrunch-strictlyvc-in-athens-will-feature-a-special-guest-the-greek-prime-minister/)
 - [Bezos-backed Slate Auto debuts analog EV pickup truck that is decidedly anti-Tesla](https://techcrunch.com/2025/04/24/bezos-backed-slate-auto-debuts-analog-ev-pickup-truck-that-is-decidedly-anti-tesla/)
 - [Faraday Future founder named co-CEO three years after being sidelined by internal probe](https://techcrunch.com/2025/04/24/faraday-future-founder-named-co-ceo-three-years-after-being-sidelined-by-internal-probe/)
 - [Wait, how did a decentralized service like Bluesky go down?](https://techcrunch.com/2025/04/24/wait-how-did-a-decentralized-service-like-bluesky-go-down/)
-- [Anthropic CEO wants to open the black box of AI models by 2027](https://techcrunch.com/2025/04/24/anthropic-ceo-wants-to-open-the-black-box-of-ai-models-by-2027/)
-- [Hubble Telescope snaps stunning portraits of Mars, a celestial moth and more in spectacular 35th anniversary photos](https://www.space.com/space-exploration/hubble-space-telescope/hubble-telescope-snaps-stunning-portraits-of-mars-a-celestial-moth-and-more-in-spectacular-35th-anniversary-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
