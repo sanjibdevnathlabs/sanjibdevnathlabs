@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Faraday Future founder named co-CEO three years after being sidelined by internal probe](https://techcrunch.com/2025/04/24/faraday-future-founder-named-co-ceo-three-years-after-being-sidelined-by-internal-probe/)
 - [Wait, how did a decentralized service like Bluesky go down?](https://techcrunch.com/2025/04/24/wait-how-did-a-decentralized-service-like-bluesky-go-down/)
 - [Anthropic CEO wants to open the black box of AI models by 2027](https://techcrunch.com/2025/04/24/anthropic-ceo-wants-to-open-the-black-box-of-ai-models-by-2027/)
 - [Hubble Telescope snaps stunning portraits of Mars, a celestial moth and more in spectacular 35th anniversary photos](https://www.space.com/space-exploration/hubble-space-telescope/hubble-telescope-snaps-stunning-portraits-of-mars-a-celestial-moth-and-more-in-spectacular-35th-anniversary-photos)
 - [How do you define cheating in the age of AI?](https://techcrunch.com/video/how-do-you-define-cheating-in-the-age-of-ai/)
-- [OpenAI rolls out a ‘lightweight’ version of its ChatGPT deep research tool](https://techcrunch.com/2025/04/24/openai-rolls-out-a-lightweight-version-of-its-chatgpt-deep-research-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
