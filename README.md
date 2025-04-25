@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Mobility: Slate’s ‘transformer’ EV truck breaks cover and Tesla’s dueling realities](https://techcrunch.com/2025/04/25/techcrunch-mobility-slates-transformer-ev-truck-breaks-cover-and-teslas-dueling-realities/)
 - [Senators press Jared Isaacman, Trump&#39;s pick for NASA chief, on his ties to Elon Musk](https://www.space.com/space-exploration/senators-press-jared-isaacman-trumps-pick-for-nasa-chief-on-his-ties-to-elon-musk)
 - [Anthropic sent a takedown notice to a dev trying to reverse-engineer its coding tool](https://techcrunch.com/2025/04/25/anthropic-sent-a-takedown-notice-to-a-dev-trying-to-reverse-engineer-its-coding-tool/)
 - [&#39;This character is noble, and he&#39;s beautiful&#39;: James Gunn explains how he cracked Superman in new behind-the-scenes footage &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/this-character-is-noble-and-hes-beautiful-james-gunn-explains-how-he-cracked-superman-in-new-behind-the-scenes-footage-video)
 - [Deel files countersuit against Rippling as rivalry escalates](https://techcrunch.com/2025/04/25/deel-files-countersuit-against-rippling-as-rivalry-escalates/)
-- [Slate Auto eyes former Indiana printing plant for its EV truck production](https://techcrunch.com/2025/04/25/slate-auto-eyes-former-indiana-printing-plant-for-its-ev-truck-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
