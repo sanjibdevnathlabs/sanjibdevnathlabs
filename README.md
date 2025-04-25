@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Senators press Jared Isaacman, Trump&#39;s pick for NASA chief, on his ties to Elon Musk](https://www.space.com/space-exploration/senators-press-jared-isaacman-trumps-pick-for-nasa-chief-on-his-ties-to-elon-musk)
+- [Anthropic sent a takedown notice to a dev trying to reverse-engineer its coding tool](https://techcrunch.com/2025/04/25/anthropic-sent-a-takedown-notice-to-a-dev-trying-to-reverse-engineer-its-coding-tool/)
 - [&#39;This character is noble, and he&#39;s beautiful&#39;: James Gunn explains how he cracked Superman in new behind-the-scenes footage &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/this-character-is-noble-and-hes-beautiful-james-gunn-explains-how-he-cracked-superman-in-new-behind-the-scenes-footage-video)
 - [Deel files countersuit against Rippling as rivalry escalates](https://techcrunch.com/2025/04/25/deel-files-countersuit-against-rippling-as-rivalry-escalates/)
 - [Slate Auto eyes former Indiana printing plant for its EV truck production](https://techcrunch.com/2025/04/25/slate-auto-eyes-former-indiana-printing-plant-for-its-ev-truck-production/)
-- [TechCrunch StrictlyVC in Athens in May will feature a special guest: Greece’s prime minister](https://techcrunch.com/2025/04/25/techcrunch-strictlyvc-in-athens-will-feature-a-special-guest-the-greek-prime-minister/)
-- [Hubble helps explore the wreckage of a supernova star explosion in a satellite galaxy of the Milky Way &lpar;image&rpar;](https://www.space.com/the-universe/hubble-helps-explore-the-wreckage-of-a-supernova-star-explosion-in-a-satellite-galaxy-of-the-milky-way-image)
 <!-- BLOG-POST-LIST:END -->
 
 ---
