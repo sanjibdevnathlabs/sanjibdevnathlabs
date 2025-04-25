@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The brightest star in the night sky shows off this spring: How to see a scintillating Sirius](https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius)
+- [Google’s AI search numbers are growing, and that’s by design](https://techcrunch.com/2025/04/25/googles-ai-search-numbers-are-growing-and-thats-by-design/)
+- [Roelof Botha, the head of Sequoia Capital, is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/04/25/roelof-botha-the-head-of-sequoia-capital-is-coming-to-techcrunch-disrupt-2025/)
 - [Last day to boost your brand and host a Side Event at TechCrunch Sessions: AI](https://techcrunch.com/2025/04/25/last-day-to-boost-your-brand-and-host-a-side-event-at-techcrunch-sessions-ai/)
 - [Prince Harry meets, funds youth groups advocating for social media and AI safety](https://techcrunch.com/2025/04/25/prince-harry-meets-funds-youth-advocating-for-social-media-and-ai-safety/)
-- [Chinese AI startup Manus reportedly gets funding from Benchmark at $500M valuation](https://techcrunch.com/2025/04/25/chinese-ai-startup-manus-reportedly-gets-funding-from-benchmark-at-500m-valuation/)
-- [Data breach at Connecticut’s Yale New Haven Health affects over 5 million](https://techcrunch.com/2025/04/25/data-breach-at-connecticut-yale-new-haven-health-affects-over-5-million/)
-- [Why are meteor showers so unpredictable? The sun may be to blame](https://www.space.com/stargazing/meteors-showers/why-are-meteor-showers-so-unpredictable-the-sun-may-be-to-blame)
 <!-- BLOG-POST-LIST:END -->
 
 ---
