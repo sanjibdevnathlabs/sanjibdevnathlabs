@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lego Star Wars AT-AT Driver Helmet review](https://www.space.com/entertainment/space-games-toys/lego-star-wars-at-at-driver-helmet-review)
+- [How the Hubble Telescope became the &#39;Energizer bunny of spacecraft,&#39; according to one of its astronaut visitors](https://www.space.com/space-exploration/hubble-space-telescope/how-the-hubble-telescope-became-the-energizer-bunny-of-spacecraft-best-nasa-ambassador-according-to-hubble-hugging-astronaut)
+- [The TechCrunch Cyber Glossary](https://techcrunch.com/2025/04/25/techcrunch-reference-guide-to-security-terminology/)
 - [The sun might be spitting out particles that create water on the moon](https://www.space.com/the-universe/sun/the-sun-might-be-spitting-out-particles-that-create-water-on-the-moon)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/04/25/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [Startups Weekly: Tech IPOs and deals proceed, but price matters](https://techcrunch.com/2025/04/25/startups-weekly-tech-ipos-and-deals-proceed-but-price-matters/)
-- [Stuck on Strands? Here are the constellations you need to know for today&#39;s star-themed puzzle](https://www.space.com/stargazing/constellations/stuck-on-strands-here-are-the-constellations-you-need-to-know-for-todays-star-themed-puzzle)
-- [Lost in space: Why some meteorites look less &#39;shocked&#39; than others](https://www.space.com/the-universe/asteroids/lost-in-space-why-some-meteorites-look-less-shocked-than-others)
 <!-- BLOG-POST-LIST:END -->
 
 ---
