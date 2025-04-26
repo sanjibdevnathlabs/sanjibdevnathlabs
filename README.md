@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The OpenAI mafia: 15 of the most notable startups founded by alumni](https://techcrunch.com/2025/04/26/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/)
+- [The new &#39;Doctor Who&#39; episode &#39;The Well&#39; is actually a sequel to a David Tennant classic](https://www.space.com/entertainment/space-movies-shows/the-new-doctor-who-episode-the-well-is-actually-a-sequel-to-a-david-tennant-classic)
+- [This Week In Space podcast: Episode 158 — Hubble&#39;s 35th Birthday](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-158-hubbles-35th-birthday)
 - [Instagram Edits topped 7M downloads in first week, a bigger launch than CapCut’s](https://techcrunch.com/2025/04/26/instagram-edits-topped-7m-downloads-in-first-week-a-bigger-launch-than-capcuts/)
 - [International Dark Sky Week 2025: See these 10 night sky sights to celebrate](https://www.space.com/stargazing/international-dark-sky-week-2025-see-these-10-night-sky-sights-to-celebrate)
-- [&#39;We learned so much that we didn&#39;t know&#39;: Firefly Aerospace&#39;s Blue Ghost moon lander mission was full of surprises](https://www.space.com/space-exploration/private-spaceflight/we-learned-so-much-that-we-didnt-know-firefly-aerospaces-blue-ghost-moon-lander-mission-was-full-of-surprises)
-- [Musk’s xAI Holdings is reportedly raising the second-largest private funding round ever](https://techcrunch.com/2025/04/25/musks-xai-holdings-is-reportedly-raising-the-second-largest-private-funding-round-ever/)
-- [DoorDash seeks dismissal of Uber lawsuit](https://techcrunch.com/2025/04/25/doordash-seeks-dismissal-of-uber-lawsuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
