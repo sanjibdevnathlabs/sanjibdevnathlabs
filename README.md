@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon’s big book sale just happens to overlap with Independent Bookstore Day](https://techcrunch.com/2025/04/26/amazons-big-book-sale-just-happens-to-overlap-with-independent-bookstore-day/)
 - [Meet the &#39;Doctor Who&#39; actors who brought the retrofuturistic robots to life for season 2&#39;s &#39;The Robot Revolution&#39; &lpar;interview&rpar;](https://www.space.com/entertainment/meet-the-doctor-who-actors-who-brought-the-retrofuturistic-robots-to-life-for-season-2s-the-robot-revolution-interview)
 - [Government officials are kind of bad at the internet](https://techcrunch.com/2025/04/26/government-officials-are-kind-of-bad-at-the-internet/)
 - [Lately’s new gamified app helps people arrive on time](https://techcrunch.com/2025/04/26/latelys-new-gamified-app-helps-people-arrive-on-time/)
 - [NASA&#39;s Dragonfly nuclear-powered helicopter clears key hurdle ahead of 2028 launch toward huge Saturn moon Titan](https://www.space.com/space-exploration/missions/nasas-dragonfly-nuclear-powered-helicopter-clears-key-hurdle-ahead-of-2028-launch-toward-huge-saturn-moon-titan)
-- [The OpenAI mafia: 15 of the most notable startups founded by alumni](https://techcrunch.com/2025/04/26/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
