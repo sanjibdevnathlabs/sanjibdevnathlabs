@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet the &#39;Doctor Who&#39; actors who brought the retrofuturistic robots to life for season 2&#39;s &#39;The Robot Revolution&#39; &lpar;interview&rpar;](https://www.space.com/entertainment/meet-the-doctor-who-actors-who-brought-the-retrofuturistic-robots-to-life-for-season-2s-the-robot-revolution-interview)
+- [Government officials are kind of bad at the internet](https://techcrunch.com/2025/04/26/government-officials-are-kind-of-bad-at-the-internet/)
 - [Lately’s new gamified app helps people arrive on time](https://techcrunch.com/2025/04/26/latelys-new-gamified-app-helps-people-arrive-on-time/)
 - [NASA&#39;s Dragonfly nuclear-powered helicopter clears key hurdle ahead of 2028 launch toward huge Saturn moon Titan](https://www.space.com/space-exploration/missions/nasas-dragonfly-nuclear-powered-helicopter-clears-key-hurdle-ahead-of-2028-launch-toward-huge-saturn-moon-titan)
 - [The OpenAI mafia: 15 of the most notable startups founded by alumni](https://techcrunch.com/2025/04/26/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/)
-- [The new &#39;Doctor Who&#39; episode &#39;The Well&#39; is actually a sequel to a David Tennant classic](https://www.space.com/entertainment/space-movies-shows/the-new-doctor-who-episode-the-well-is-actually-a-sequel-to-a-david-tennant-classic)
-- [This Week In Space podcast: Episode 158 — Hubble&#39;s 35th Birthday](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-158-hubbles-35th-birthday)
 <!-- BLOG-POST-LIST:END -->
 
 ---
