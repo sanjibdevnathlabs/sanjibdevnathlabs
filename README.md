@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram Edits topped 7M downloads in first week, a bigger launch than CapCut’s](https://techcrunch.com/2025/04/26/instagram-edits-topped-7m-downloads-in-first-week-a-bigger-launch-than-capcuts/)
 - [International Dark Sky Week 2025: See these 10 night sky sights to celebrate](https://www.space.com/stargazing/international-dark-sky-week-2025-see-these-10-night-sky-sights-to-celebrate)
 - [&#39;We learned so much that we didn&#39;t know&#39;: Firefly Aerospace&#39;s Blue Ghost moon lander mission was full of surprises](https://www.space.com/space-exploration/private-spaceflight/we-learned-so-much-that-we-didnt-know-firefly-aerospaces-blue-ghost-moon-lander-mission-was-full-of-surprises)
 - [Musk’s xAI Holdings is reportedly raising the second-largest private funding round ever](https://techcrunch.com/2025/04/25/musks-xai-holdings-is-reportedly-raising-the-second-largest-private-funding-round-ever/)
 - [DoorDash seeks dismissal of Uber lawsuit](https://techcrunch.com/2025/04/25/doordash-seeks-dismissal-of-uber-lawsuit/)
-- [TechCrunch Mobility: Slate’s ‘transformer’ EV truck breaks cover and Tesla’s dueling realities](https://techcrunch.com/2025/04/25/techcrunch-mobility-slates-transformer-ev-truck-breaks-cover-and-teslas-dueling-realities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
