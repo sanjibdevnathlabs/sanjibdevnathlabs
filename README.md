@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4chan is back online, says it’s been ‘starved of money’](https://techcrunch.com/2025/04/27/4chan-is-back-online-says-its-been-starved-of-money/)
 - [Welcome to Chat Haus, the coworking space for AI chatbots](https://techcrunch.com/2025/04/27/welcome-to-chat-haus-the-coworking-space-for-ai-chatbots/)
 - [Report finds Meta’s celebrity-voiced chatbots could discuss sex with minors](https://techcrunch.com/2025/04/27/report-finds-metas-celebrity-voiced-chatbots-could-discuss-sex-with-minors/)
 - [Best bookmarking apps to help organize and declutter your digital life](https://techcrunch.com/2025/04/27/best-bookmarking-apps-to-help-organize-and-declutter-your-digital-life/)
 - [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/04/27/here-are-latin-americas-biggest-startups-based-on-valuation/)
-- [Uranus passed between Earth and a distant star this month — and NASA caught the rare event](https://www.space.com/the-universe/uranus/uranus-passed-between-earth-and-a-distant-star-this-month-and-nasa-caught-the-rare-event)
 <!-- BLOG-POST-LIST:END -->
 
 ---
