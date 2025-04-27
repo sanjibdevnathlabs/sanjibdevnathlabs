@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Faint Neptune joins Venus and Saturn to form a planetary triangle in the pre-dawn sky on April 28](https://www.space.com/stargazing/faint-neptune-joins-venus-and-saturn-to-form-a-planetary-triangle-in-the-pre-dawn-sky-on-april-28)
 - [The RealReal founder Julie Wainwright has a startling new memoir](https://techcrunch.com/2025/04/26/the-realreal-founder-julie-wainwright-has-a-startling-new-memoir/)
 - [Google’s DeepMind UK team reportedly seeks to unionize](https://techcrunch.com/2025/04/26/googles-deepmind-uk-team-reportedly-seeks-to-unionize/)
 - [Google will stop supporting early Nest thermostats on October 25](https://techcrunch.com/2025/04/26/google-will-stop-supporting-early-nest-thermostats-on-october-25/)
 - [Week in Review: Cluely helps you cheat on everything](https://techcrunch.com/2025/04/26/week-in-review-cluely-helps-you-cheat-on-everything/)
-- [Amazon’s big book sale just happens to overlap with Independent Bookstore Day](https://techcrunch.com/2025/04/26/amazons-big-book-sale-just-happens-to-overlap-with-independent-bookstore-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
