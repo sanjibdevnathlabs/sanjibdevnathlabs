@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to Chat Haus, the coworking space for AI chatbots](https://techcrunch.com/2025/04/27/welcome-to-chat-haus-the-coworking-space-for-ai-chatbots/)
+- [Report finds Meta’s celebrity-voiced chatbots could discuss sex with minors](https://techcrunch.com/2025/04/27/report-finds-metas-celebrity-voiced-chatbots-could-discuss-sex-with-minors/)
 - [Best bookmarking apps to help organize and declutter your digital life](https://techcrunch.com/2025/04/27/best-bookmarking-apps-to-help-organize-and-declutter-your-digital-life/)
 - [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/04/27/here-are-latin-americas-biggest-startups-based-on-valuation/)
 - [Uranus passed between Earth and a distant star this month — and NASA caught the rare event](https://www.space.com/the-universe/uranus/uranus-passed-between-earth-and-a-distant-star-this-month-and-nasa-caught-the-rare-event)
-- [20 years ago, &#39;Star Wars: Republic Commando&#39; made us care about the clones long before &#39;The Clone Wars&#39; and &#39;The Bad Batch&#39;](https://www.space.com/entertainment/space-games-toys/20-years-ago-star-wars-republic-commando-made-us-care-about-the-clones-long-before-the-clone-wars-and-the-bad-batch)
-- [Trump administration cancels lease for NASA&#39;s Goddard Institute for Space Studies lab in New York City](https://www.space.com/the-universe/earth/trump-administration-cancels-lease-for-nasas-goddard-institute-for-space-studies-lab-in-new-york-city)
 <!-- BLOG-POST-LIST:END -->
 
 ---
