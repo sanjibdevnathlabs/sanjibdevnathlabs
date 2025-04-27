@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [20 years ago, &#39;Star Wars: Republic Commando&#39; made us care about the clones long before &#39;The Clone Wars&#39; and &#39;The Bad Batch&#39;](https://www.space.com/entertainment/space-games-toys/20-years-ago-star-wars-republic-commando-made-us-care-about-the-clones-long-before-the-clone-wars-and-the-bad-batch)
 - [Trump administration cancels lease for NASA&#39;s Goddard Institute for Space Studies lab in New York City](https://www.space.com/the-universe/earth/trump-administration-cancels-lease-for-nasas-goddard-institute-for-space-studies-lab-in-new-york-city)
 - [Faint Neptune joins Venus and Saturn to form a planetary triangle in the pre-dawn sky on April 28](https://www.space.com/stargazing/faint-neptune-joins-venus-and-saturn-to-form-a-planetary-triangle-in-the-pre-dawn-sky-on-april-28)
 - [The RealReal founder Julie Wainwright has a startling new memoir](https://techcrunch.com/2025/04/26/the-realreal-founder-julie-wainwright-has-a-startling-new-memoir/)
 - [Google’s DeepMind UK team reportedly seeks to unionize](https://techcrunch.com/2025/04/26/googles-deepmind-uk-team-reportedly-seeks-to-unionize/)
-- [Google will stop supporting early Nest thermostats on October 25](https://techcrunch.com/2025/04/26/google-will-stop-supporting-early-nest-thermostats-on-october-25/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
