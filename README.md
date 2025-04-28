@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s Shenzhou 20 astronauts take control of Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/missions/chinas-shenzhou-20-astronauts-take-control-of-tiangong-space-station-video)
+- [Hugging Face releases a 3D-printed robotic arm starting at $100](https://techcrunch.com/2025/04/28/hugging-face-releases-a-3d-printed-robotic-arm-starting-at-100/)
+- [Huawei aims to take on Nvidia’s H100 with new AI chip](https://techcrunch.com/2025/04/28/huawei-aims-to-take-on-nvidias-h100-with-new-ai-chip/)
 - [YouTube support affected by European power outages, too](https://techcrunch.com/2025/04/28/youtube-support-affected-by-european-power-outages-too/)
 - [OpenAI upgrades ChatGPT search with shopping features](https://techcrunch.com/2025/04/28/openai-upgrades-chatgpt-search-with-shopping-features/)
-- [The Outer Worlds 2: Release window, trailers, story details &amp; everything else we know](https://www.space.com/entertainment/space-games-toys/the-outer-worlds-2-release-window-trailers-story-details-and-everything-else-we-know)
-- [Meta Quest 3S review: Fantastic VR performance at a budget price](https://www.space.com/tech/meta-quest-3s-review)
-- [Scientists find giant, hidden gas cloud only 300 light-years away: &#39;This cloud is literally glowing in the dark&#39;](https://www.space.com/the-universe/scientists-find-giant-hidden-gas-cloud-only-300-light-years-away-this-cloud-is-literally-glowing-in-the-dark)
 <!-- BLOG-POST-LIST:END -->
 
 ---
