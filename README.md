@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers gaze into &#39;dark nebula&#39; 60 times the size of the solar system &lpar;video&rpar;](https://www.space.com/the-universe/astronomers-gaze-into-dark-nebula-60-times-the-size-of-the-solar-system-video)
+- [UK fintech Sprive closes $7.3M round to facilitate mortgage overpayments](https://techcrunch.com/2025/04/28/uk-fintech-sprive-closes-7-3m-round-to-facilitate-mortgage-overpayments/)
+- [Vote for the session you want to see at TechCrunch All Stage on July 15](https://techcrunch.com/2025/04/28/vote-for-the-session-you-want-to-see-at-techcrunch-all-stage-on-july-15/)
+- [Lego Marvel Rocket &amp; Baby Groot Minifigure set is now 20% cheaper in this Amazon Sci-Fi deal](https://www.space.com/entertainment/space-games-toys/lego-marvel-rocket-and-baby-groot-set-20-percent-cheaper-at-amazon)
 - [Final 7 days: Save $210 + 50% off a second ticket to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/28/final-7-days-save-210-50-off-a-second-ticket-to-techcrunch-sessions-ai/)
-- [StrictlyVC heads to london and Athens this May: Featuring Prime Minister of Greece and Europe’s leading tech and VC voices](https://techcrunch.com/2025/04/28/strictlyvc-heads-global-this-may-featuring-the-prime-minister-of-greece-and-europes-leading-tech-and-vc-voices/)
-- [Amazon-backed Glacier gets $16M to expand its robot recycling fleet](https://techcrunch.com/2025/04/28/amazon-backed-glacier-gets-16m-to-expand-its-robot-recycling-fleet/)
-- [March 2025 featured fires, floods and record-setting warmth in the US](https://www.space.com/the-universe/climate-change/march-2025-featured-fires-floods-and-record-setting-warmth-in-the-us)
-- [Meet the companies racing to build quantum chips](https://techcrunch.com/2025/04/28/meet-the-companies-racing-to-build-quantum-chips/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
