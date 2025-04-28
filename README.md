@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Final 7 days: Save $210 + 50% off a second ticket to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/28/final-7-days-save-210-50-off-a-second-ticket-to-techcrunch-sessions-ai/)
+- [StrictlyVC heads to london and Athens this May: Featuring Prime Minister of Greece and Europe’s leading tech and VC voices](https://techcrunch.com/2025/04/28/strictlyvc-heads-global-this-may-featuring-the-prime-minister-of-greece-and-europes-leading-tech-and-vc-voices/)
+- [Amazon-backed Glacier gets $16M to expand its robot recycling fleet](https://techcrunch.com/2025/04/28/amazon-backed-glacier-gets-16m-to-expand-its-robot-recycling-fleet/)
+- [March 2025 featured fires, floods and record-setting warmth in the US](https://www.space.com/the-universe/climate-change/march-2025-featured-fires-floods-and-record-setting-warmth-in-the-us)
 - [Meet the companies racing to build quantum chips](https://techcrunch.com/2025/04/28/meet-the-companies-racing-to-build-quantum-chips/)
-- [IBM pledges to spend $150B in the US over the next few years](https://techcrunch.com/2025/04/28/ibm-pledges-to-spend-150b-in-the-u-s-over-the-next-few-years/)
-- [AI animation startup Cheehoo lands $10M funding from Greycroft](https://techcrunch.com/2025/04/28/ai-animation-startup-cheehoo-lands-10m-funding-from-greycroft/)
-- [Satellite images reveal how Earth&#39;s surface moved during deadly Myanmar earthquake](https://www.space.com/the-universe/earth/satellite-images-reveal-how-earths-surface-moved-during-deadly-myanmar-earthquake)
-- [Volution doubles-down on booming UK fintech with new $100M fund](https://techcrunch.com/2025/04/28/volution-doubles-down-on-booming-uk-fintech-with-new-100m-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
