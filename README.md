@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon launches 27 satellites to begin building huge &#39;Project Kuiper&#39; internet constellation](https://www.space.com/space-exploration/launches-spacecraft/amazon-launches-27-satellites-to-begin-building-huge-project-kuiper-internet-constellation)
+- [OpenAI is fixing a ‘bug’ that allowed minors to generate erotic conversations](https://techcrunch.com/2025/04/28/openai-is-fixing-a-bug-that-allowed-minors-to-generate-erotic-conversations/)
+- [Deel officially agrees to be served legal papers in Rippling’s lawsuit](https://techcrunch.com/2025/04/28/deel-officially-agrees/)
 - [Watch Vega-C rocket launch European forest-monitoring satellite to orbit on April 29](https://www.space.com/space-exploration/launches-spacecraft/vega-c-rocket-launch-esa-biomass-forest-monitoring-satellite)
 - [Alibaba unveils Qwen 3, a family of ‘hybrid’ AI reasoning models](https://techcrunch.com/2025/04/28/alibaba-unveils-qwen-3-a-family-of-hybrid-ai-reasoning-models/)
-- [Pine Barrens ablaze as seen from orbit | Space photo of the day for April 28, 2025](https://www.space.com/the-universe/earth/pine-barrens-ablaze-as-seen-from-orbit-space-photo-of-the-day-for-april-28-2025)
-- [SpaceX Falcon 9 rocket launches 1st of 2 planned Starlink launches in 2 days, lands booster at sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-11-9-b1063-vsfb)
-- [&#39;I didn&#39;t look too good because I didn&#39;t feel too good&#39;: NASA astronaut Don Pettit explains why he seemed so unwell after landing &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/i-didnt-look-too-good-because-i-didnt-feel-too-good-nasa-astronaut-don-pettit-explains-why-he-seemed-so-unwell-after-landing-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
