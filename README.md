@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [StrictlyVC heads to london and Athens this May: Featuring Prime Minister of Greece and Europe’s leading tech and VC voices](https://techcrunch.com/2025/04/27/strictlyvc-heads-global-this-may-featuring-the-prime-minister-of-greece-and-europes-leading-tech-and-vc-voices/)
 - [From coding tests to billion-dollar startups, Ali Partovi’s eight-year experiment is paying off](https://techcrunch.com/2025/04/27/from-coding-tests-to-billion-dollar-startups-ali-partovis-eight-year-experiment-is-paying-off/)
 - [Early cancer detection startup Craif raises $22M](https://techcrunch.com/2025/04/27/craif-a-non-invasive-early-cancer-detection-platform-grabs-22m/)
 - [4chan is back online, says it’s been ‘starved of money’](https://techcrunch.com/2025/04/27/4chan-is-back-online-says-its-been-starved-of-money/)
 - [Welcome to Chat Haus, the coworking space for AI chatbots](https://techcrunch.com/2025/04/27/welcome-to-chat-haus-the-coworking-space-for-ai-chatbots/)
-- [Report finds Meta’s celebrity-voiced chatbots could discuss sex with minors](https://techcrunch.com/2025/04/27/report-finds-metas-celebrity-voiced-chatbots-could-discuss-sex-with-minors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
