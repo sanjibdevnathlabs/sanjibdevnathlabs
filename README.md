@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Citizen Lab say exiled Uyghur leaders targeted with Windows spyware](https://techcrunch.com/2025/04/28/citizen-lab-say-exiled-uyghur-leaders-targeted-with-windows-spyware/)
+- [A failed Soviet Venus lander will fall back to Earth after being stranded for 53 years](https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-lander-will-fall-back-to-earth-after-being-stranded-for-53-years)
+- [Citizen Lab says exiled Uyghur leaders targeted with Windows spyware](https://techcrunch.com/2025/04/28/citizen-lab-says-exiled-uyghur-leaders-targeted-with-windows-spyware/)
 - [Google shifts Android news to a virtual event ahead of its I/O developer conference](https://techcrunch.com/2025/04/28/google-shifts-android-news-to-a-virtual-event-ahead-of-its-i-o-developer-conference/)
 - [What happens inside neutron stars, the universe&#39;s densest known objects?](https://www.space.com/the-universe/stars/what-happens-inside-neutron-stars-the-universes-densest-known-objects)
 - [Astronomers gaze into &#39;dark nebula&#39; 60 times the size of the solar system &lpar;video&rpar;](https://www.space.com/the-universe/astronomers-gaze-into-dark-nebula-60-times-the-size-of-the-solar-system-video)
-- [UK fintech Sprive closes $7.3M round to facilitate mortgage overpayments](https://techcrunch.com/2025/04/28/uk-fintech-sprive-closes-7-3m-round-to-facilitate-mortgage-overpayments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
