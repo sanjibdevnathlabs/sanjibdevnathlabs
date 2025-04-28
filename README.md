@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Citizen Lab say exiled Uyghur leaders targeted with Windows spyware](https://techcrunch.com/2025/04/28/citizen-lab-say-exiled-uyghur-leaders-targeted-with-windows-spyware/)
+- [Google shifts Android news to a virtual event ahead of its I/O developer conference](https://techcrunch.com/2025/04/28/google-shifts-android-news-to-a-virtual-event-ahead-of-its-i-o-developer-conference/)
+- [What happens inside neutron stars, the universe&#39;s densest known objects?](https://www.space.com/the-universe/stars/what-happens-inside-neutron-stars-the-universes-densest-known-objects)
 - [Astronomers gaze into &#39;dark nebula&#39; 60 times the size of the solar system &lpar;video&rpar;](https://www.space.com/the-universe/astronomers-gaze-into-dark-nebula-60-times-the-size-of-the-solar-system-video)
 - [UK fintech Sprive closes $7.3M round to facilitate mortgage overpayments](https://techcrunch.com/2025/04/28/uk-fintech-sprive-closes-7-3m-round-to-facilitate-mortgage-overpayments/)
-- [Vote for the session you want to see at TechCrunch All Stage on July 15](https://techcrunch.com/2025/04/28/vote-for-the-session-you-want-to-see-at-techcrunch-all-stage-on-july-15/)
-- [Lego Marvel Rocket &amp; Baby Groot Minifigure set is now 20% cheaper in this Amazon Sci-Fi deal](https://www.space.com/entertainment/space-games-toys/lego-marvel-rocket-and-baby-groot-set-20-percent-cheaper-at-amazon)
-- [Final 7 days: Save $210 + 50% off a second ticket to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/28/final-7-days-save-210-50-off-a-second-ticket-to-techcrunch-sessions-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
