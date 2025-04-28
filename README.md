@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Newly launched NASA satellites open eyes to start studying &#39;auroral electrojets&#39; in Earth&#39;s atmosphere](https://www.space.com/stargazing/aurora-borealis/newly-launched-nasa-satellites-open-eyes-to-start-studying-auroral-electrojets-in-earths-atmosphere)
-- [Scientists use the JWST to study an extremely ancient galaxy piercing through the Cosmic Dark Ages](https://www.space.com/space-exploration/james-webb-space-telescope/scientists-use-the-jwst-to-study-an-extremely-ancient-galaxy-piercing-through-the-cosmic-dark-ages)
-- [OmniRetail shakes up Africa’s B2B e-commerce market with $20M Series A](https://techcrunch.com/2025/04/28/omniretail-shakes-up-africas-b2b-e-commerce-market-with-20m-series-a/)
-- [SpaceX launches 250th Starlink satellite mission, lands rocket at sea &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-250th-starlink-satellite-mission-lands-rocket-at-sea-photos)
-- [StrictlyVC heads to london and Athens this May: Featuring Prime Minister of Greece and Europe’s leading tech and VC voices](https://techcrunch.com/2025/04/27/strictlyvc-heads-global-this-may-featuring-the-prime-minister-of-greece-and-europes-leading-tech-and-vc-voices/)
+- [Meet the companies racing to build quantum chips](https://techcrunch.com/2025/04/28/meet-the-companies-racing-to-build-quantum-chips/)
+- [IBM pledges to spend $150B in the US over the next few years](https://techcrunch.com/2025/04/28/ibm-pledges-to-spend-150b-in-the-u-s-over-the-next-few-years/)
+- [AI animation startup Cheehoo lands $10M funding from Greycroft](https://techcrunch.com/2025/04/28/ai-animation-startup-cheehoo-lands-10m-funding-from-greycroft/)
+- [Satellite images reveal how Earth&#39;s surface moved during deadly Myanmar earthquake](https://www.space.com/the-universe/earth/satellite-images-reveal-how-earths-surface-moved-during-deadly-myanmar-earthquake)
+- [Volution doubles-down on booming UK fintech with new $100M fund](https://techcrunch.com/2025/04/28/volution-doubles-down-on-booming-uk-fintech-with-new-100m-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
