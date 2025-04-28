@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Falcon 9 rocket launches 1st of 2 planned Starlink launches in 2 days, lands booster at sea](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-11-9-b1063-vsfb)
+- [Watch Vega-C rocket launch European forest-monitoring satellite to orbit on April 29](https://www.space.com/space-exploration/launches-spacecraft/vega-c-rocket-launch-esa-biomass-forest-monitoring-satellite)
+- [Alibaba unveils Qwen 3, a family of ‘hybrid’ AI reasoning models](https://techcrunch.com/2025/04/28/alibaba-unveils-qwen-3-a-family-of-hybrid-ai-reasoning-models/)
+- [Pine Barrens ablaze as seen from orbit | Space photo of the day for April 28, 2025](https://www.space.com/the-universe/earth/pine-barrens-ablaze-as-seen-from-orbit-space-photo-of-the-day-for-april-28-2025)
+- [SpaceX Falcon 9 rocket launches 1st of 2 planned Starlink launches in 2 days, lands booster at sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-11-9-b1063-vsfb)
 - [&#39;I didn&#39;t look too good because I didn&#39;t feel too good&#39;: NASA astronaut Don Pettit explains why he seemed so unwell after landing &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/i-didnt-look-too-good-because-i-didnt-feel-too-good-nasa-astronaut-don-pettit-explains-why-he-seemed-so-unwell-after-landing-video)
-- [Mysterious financier asks judge to stop Canoo asset sale](https://techcrunch.com/2025/04/28/mysterious-financier-asks-judge-to-stop-canoo-asset-sale/)
-- [China&#39;s Shenzhou 20 astronauts take control of Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/missions/chinas-shenzhou-20-astronauts-take-control-of-tiangong-space-station-video)
-- [Hugging Face releases a 3D-printed robotic arm starting at $100](https://techcrunch.com/2025/04/28/hugging-face-releases-a-3d-printed-robotic-arm-starting-at-100/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
