@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Newly launched NASA satellites open eyes to start studying &#39;auroral electrojets&#39; in Earth&#39;s atmosphere](https://www.space.com/stargazing/aurora-borealis/newly-launched-nasa-satellites-open-eyes-to-start-studying-auroral-electrojets-in-earths-atmosphere)
+- [Scientists use the JWST to study an extremely ancient galaxy piercing through the Cosmic Dark Ages](https://www.space.com/space-exploration/james-webb-space-telescope/scientists-use-the-jwst-to-study-an-extremely-ancient-galaxy-piercing-through-the-cosmic-dark-ages)
 - [OmniRetail shakes up Africa’s B2B e-commerce market with $20M Series A](https://techcrunch.com/2025/04/28/omniretail-shakes-up-africas-b2b-e-commerce-market-with-20m-series-a/)
 - [SpaceX launches 250th Starlink satellite mission, lands rocket at sea &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-250th-starlink-satellite-mission-lands-rocket-at-sea-photos)
 - [StrictlyVC heads to london and Athens this May: Featuring Prime Minister of Greece and Europe’s leading tech and VC voices](https://techcrunch.com/2025/04/27/strictlyvc-heads-global-this-may-featuring-the-prime-minister-of-greece-and-europes-leading-tech-and-vc-voices/)
-- [From coding tests to billion-dollar startups, Ali Partovi’s eight-year experiment is paying off](https://techcrunch.com/2025/04/27/from-coding-tests-to-billion-dollar-startups-ali-partovis-eight-year-experiment-is-paying-off/)
-- [Early cancer detection startup Craif raises $22M](https://techcrunch.com/2025/04/27/craif-a-non-invasive-early-cancer-detection-platform-grabs-22m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
