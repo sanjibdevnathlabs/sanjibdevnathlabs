@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Temu adds ‘import charges’ after Trump tariffs](https://techcrunch.com/2025/04/28/temu-adds-import-charges-after-trump-tariffs/)
-- [NYT bestseller Daniel Wilson&#39;s next book is &#39;Hole in the Sky&#39;, an alien first contact story on a Cherokee reservation, and it&#39;s already been picked up by Netflix &lpar;interview&rpar;](https://www.space.com/entertainment/nyt-bestseller-daniel-wilsons-next-book-is-hole-in-the-sky-an-alien-first-contact-story-on-a-cherokee-reservation-and-its-already-been-picked-up-by-netflix-interview)
-- [A failed Soviet Venus lander will fall back to Earth after being stranded for 53 years](https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-lander-will-fall-back-to-earth-after-being-stranded-for-53-years)
-- [Citizen Lab says exiled Uyghur leaders targeted with Windows spyware](https://techcrunch.com/2025/04/28/citizen-lab-says-exiled-uyghur-leaders-targeted-with-windows-spyware/)
-- [Google shifts Android news to a virtual event ahead of its I/O developer conference](https://techcrunch.com/2025/04/28/google-shifts-android-news-to-a-virtual-event-ahead-of-its-i-o-developer-conference/)
+- [YouTube support affected by European power outages, too](https://techcrunch.com/2025/04/28/youtube-support-affected-by-european-power-outages-too/)
+- [OpenAI upgrades ChatGPT search with shopping features](https://techcrunch.com/2025/04/28/openai-upgrades-chatgpt-search-with-shopping-features/)
+- [The Outer Worlds 2: Release window, trailers, story details &amp; everything else we know](https://www.space.com/entertainment/space-games-toys/the-outer-worlds-2-release-window-trailers-story-details-and-everything-else-we-know)
+- [Meta Quest 3S review: Fantastic VR performance at a budget price](https://www.space.com/tech/meta-quest-3s-review)
+- [Scientists find giant, hidden gas cloud only 300 light-years away: &#39;This cloud is literally glowing in the dark&#39;](https://www.space.com/the-universe/scientists-find-giant-hidden-gas-cloud-only-300-light-years-away-this-cloud-is-literally-glowing-in-the-dark)
 <!-- BLOG-POST-LIST:END -->
 
 ---
