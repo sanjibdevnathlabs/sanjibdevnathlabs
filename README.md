@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Final 6 days: Save big and bring a plus-one for 50% off to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/29/6-days-left-to-secure-a-ticket-deal-for-techcrunch-sessions-ai/)
-- [AI designs 50 gravitational wave detectors that could outperform human-made ones](https://www.space.com/space-exploration/tech/ai-designs-50-gravitational-wave-detectors-that-could-outperform-human-made-ones)
-- [Amazon Prime Day to return in July despite threat of tariffs](https://techcrunch.com/2025/04/29/amazon-prime-day-to-return-in-july-despite-threat-of-tariffs/)
-- [Hoofprint Biome boosts cow nutrition while slashing methane burps](https://techcrunch.com/2025/04/29/hoofprint-biome-boosts-cow-nutrition-while-slashing-methane-burps/)
-- [Near Space Labs nabs $20M to take its high-res imaging Swift robots into the stratosphere](https://techcrunch.com/2025/04/29/near-space-labs-nabs-20m-to-take-its-high-res-imaging-swift-robots-into-the-stratosphere/)
+- [Indian court orders blocking of Proton Mail](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/)
+- [US Army launches hypersonic missile from Cape Canaveral Space Force Station](https://www.space.com/space-exploration/launches-spacecraft/us-army-launches-dark-eagle-hypersonic-missile-from-cape-canaveral-space-force-station)
+- [Spotify adds 5M premium users and hits record operating income](https://techcrunch.com/2025/04/29/spotify-adds-5m-premium-users-and-hits-record-operating-income/)
+- [The deadline to book your exhibit table for TechCrunch Sessions: AI is May 9](https://techcrunch.com/2025/04/29/the-deadline-to-book-your-exhibit-table-for-techcrunch-sessions-ai-is-may-9/)
+- [Anthropic co-founder Jared Kaplan is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/29/anthropic-co-founder-jared-kaplan-is-coming-to-techcrunch-sessions-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
