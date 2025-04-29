@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Yelp debuts AI voice agents for restaurants and service providers](https://techcrunch.com/2025/04/29/yelp-is-adding-ai-powered-voice-agents-for-restaurants-and-services/)
 - [Government hackers are leading the use of attributed zero-days, Google says](https://techcrunch.com/2025/04/29/government-hackers-are-leading-the-use-of-attributed-zero-days-google-says/)
 - [See a wafer-thin crescent moon leapfrog Jupiter this week](https://www.space.com/stargazing/see-a-wafer-thin-crescent-moon-leapfrog-jupiter-this-week)
 - [A16z backs UK startup Dex to scale ‘AI talent agent’ and recruitment matchmaker](https://techcrunch.com/2025/04/29/a16z-backs-uk-startup-dex-to-scale-ai-talent-agent-and-recruitment-matchmaker/)
 - [40-year-old spy satellite photos are helping find forgotten land mines in Cambodia](https://www.space.com/space-exploration/satellites/40-year-old-spy-satellite-photos-are-helping-find-forgotten-land-mines-in-cambodia)
-- [Grouphug is a stealth-mode startup that plans use AI inside WhatsApp groups](https://techcrunch.com/2025/04/29/grouphug-is-a-stealth-mode-startup-that-plans-use-ai-inside-whatsapp-groups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
