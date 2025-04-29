@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [40-year-old spy satellite photos are helping find forgotten land mines in Cambodia](https://www.space.com/space-exploration/satellites/40-year-old-spy-satellite-photos-are-helping-find-forgotten-land-mines-in-cambodia)
 - [Grouphug is a stealth-mode startup that plans use AI inside WhatsApp groups](https://techcrunch.com/2025/04/29/grouphug-is-a-stealth-mode-startup-that-plans-use-ai-inside-whatsapp-groups/)
 - [IXI raises $36.5M from Amazon and others to bring autofocus to prescription glasses](https://techcrunch.com/2025/04/28/ixi-raises-36-5m-from-amazon-and-more-to-bring-the-concept-of-autofocus-to-prescription-glasses/)
-- [Reddit now supports translation of posts and comments into Hindi](https://techcrunch.com/2025/04/28/reddit-now-supports-translation-of-posts-and-comments-into-hindi/)
+- [Reddit now supports translation of posts and comments to Hindi](https://techcrunch.com/2025/04/28/reddit-now-supports-translation-of-posts-and-comments-into-hindi/)
 - [EWOR launches ‘founder fellowship’ program with $68M fund](https://techcrunch.com/2025/04/28/are-ewor-fellowships-the-real-project-europe-is-looking-for/)
-- [Brand-new Falcon 9 rocket sends 23 Starlink satellites to orbit on SpaceX&#39;s 2nd launch of the day](https://www.space.com/space-exploration/launches-spacecraft/brand-new-falcon-9-rocket-sends-23-starlink-satellites-to-orbit-on-spacexs-2nd-launch-of-the-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
