@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Indian court orders blocking of Proton Mail](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/)
-- [US Army launches hypersonic missile from Cape Canaveral Space Force Station](https://www.space.com/space-exploration/launches-spacecraft/us-army-launches-dark-eagle-hypersonic-missile-from-cape-canaveral-space-force-station)
-- [Spotify adds 5M premium users and hits record operating income](https://techcrunch.com/2025/04/29/spotify-adds-5m-premium-users-and-hits-record-operating-income/)
-- [The deadline to book your exhibit table for TechCrunch Sessions: AI is May 9](https://techcrunch.com/2025/04/29/the-deadline-to-book-your-exhibit-table-for-techcrunch-sessions-ai-is-may-9/)
-- [Anthropic co-founder Jared Kaplan is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/04/29/anthropic-co-founder-jared-kaplan-is-coming-to-techcrunch-sessions-ai/)
+- [Google launches AI tools for practicing languages through personalized lessons](https://techcrunch.com/2025/04/29/google-launches-ai-tools-for-practicing-languages-through-personalized-lessons/)
+- [Google Wallet to add support for digital IDs in more states](https://techcrunch.com/2025/04/29/google-wallet-to-add-support-for-digital-ids-in-more-states/)
+- [Google’s NotebookLM expands its AI podcast feature to more languages](https://techcrunch.com/2025/04/29/googles-notebooklm-expands-its-ai-podcast-feature-to-more-languages/)
+- [We got a trio of new &#39;Alien: Earth&#39; trailers last week, and one hints at alien &#39;monsters&#39; that aren&#39;t the xenomorphs &lpar;video&rpar;](https://www.space.com/entertainment/we-got-a-trio-of-new-alien-earth-trailers-last-week-and-one-hints-at-alien-monsters-that-arent-the-xenomorphs-video)
+- [Meta launches a standalone AI app to compete with ChatGPT](https://techcrunch.com/2025/04/29/meta-launches-a-standalone-ai-app-to-compete-with-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
