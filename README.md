@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch Trump&#39;s pick for NASA chief Jared Isaacman return to Capitol Hill for Senate vote on April 30](https://www.space.com/space-exploration/watch-trumps-pick-for-nasa-chief-jared-isaacman-return-to-capitol-hill-for-senate-vote-tomorrow)
-- [Tank for 1st Artemis touchdown on the moon | Space photo of the day for April 29, 2025](https://www.space.com/space-exploration/artemis/tank-for-1st-artemis-touchdown-on-the-moon-space-photo-of-the-day-for-april-29-2025)
-- [Google launches AI tools for practicing languages through personalized lessons](https://techcrunch.com/2025/04/29/google-launches-ai-tools-for-practicing-languages-through-personalized-lessons/)
-- [Google Wallet to add support for digital IDs in more states](https://techcrunch.com/2025/04/29/google-wallet-to-add-support-for-digital-ids-in-more-states/)
-- [Google’s NotebookLM expands its AI podcast feature to more languages](https://techcrunch.com/2025/04/29/googles-notebooklm-expands-its-ai-podcast-feature-to-more-languages/)
+- [Amateur astronomer captures detailed photos of Croc&#39;s Eye and Whirlpool galaxies from backyard observatory](https://www.space.com/stargazing/amateur-astronomer-captures-detailed-photos-of-crocs-eye-and-whirlpool-galaxies-from-backyard-observatory)
+- [Meta says its Llama AI models have been downloaded 1.2B times](https://techcrunch.com/2025/04/29/meta-says-its-llama-ai-models-have-been-downloaded-1-2b-times/)
+- [Amazon’s first 27 internet satellites launch to space](https://techcrunch.com/2025/04/29/amazons-first-27-internet-satellites-launch-to-space/)
+- [Tesla board member Joe Gebbia actually bought some stock](https://techcrunch.com/2025/04/29/a-tesla-board-member-actually-bought-some-stock/)
+- [Meta previews an API for its Llama AI models](https://techcrunch.com/2025/04/29/meta-previews-an-api-for-its-llama-ai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
