@@ -136,7 +136,7 @@ I'm a software developer passionate about designing and building applications wi
 <!-- YOUTUBE:START -->
 - [7 Programming Myths that waste your time](https://www.youtube.com/watch?v=niWpfRyvs2U)
 - [CI/CD Explained: The DevOps Skill That Makes You 10x More Valuable](https://www.youtube.com/watch?v=AknbizcLq4w)
-- [Is this AI&#39;s Version of Moore&#39;s Law? - Computerphile](https://www.youtube.com/watch?v=evSFeqTZdqs)
+- [AI&#39;s Version of Moore&#39;s Law? - Computerphile](https://www.youtube.com/watch?v=evSFeqTZdqs)
 - [Why Finance is crucial to cancer drug development](https://www.youtube.com/watch?v=Ps7jwrpbE-4)
 - [Lec 5: Production Theory](https://www.youtube.com/watch?v=Q7-mCKOzNUI)
 <!-- YOUTUBE:END -->
