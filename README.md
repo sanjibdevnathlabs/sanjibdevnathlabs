@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Freepik releases an ‘open’ AI image generator trained on licensed data](https://techcrunch.com/2025/04/29/freepik-releases-an-open-ai-image-generator-trained-on-licensed-data/)
+- [Google Play sees 47% decline in apps since start of last year](https://techcrunch.com/2025/04/29/google-play-sees-47-decline-in-apps-since-start-of-last-year/)
+- [NASA engineer Ed Smylie, who led carbon dioxide fix on Apollo 13, dies at 95](https://www.space.com/space-exploration/apollo/nasa-engineer-ed-smylie-who-led-carbon-dioxide-fix-on-apollo-13-dies-at-95)
+- [Firefly Aerospace&#39;s Alpha rocket fails during launch, falls into the sea near Antarctica](https://www.space.com/space-exploration/launches-spacecraft/firefly-aerospaces-alpha-rocket-fails-during-6th-ever-launch-falls-into-the-sea-near-antarctica)
 - [OpenAI rolls back update that made ChatGPT ‘too sycophant-y’](https://techcrunch.com/2025/04/29/openai-rolls-back-update-that-made-chatgpt-too-sycophant-y/)
-- [Next private astronaut mission to the ISS will launch on May 29 with Axiom Space](https://www.space.com/space-exploration/private-spaceflight/next-private-astronaut-mission-to-the-iss-will-launch-on-may-29-with-axiom-space)
-- [Troubled startup CaaStle is now facing two new lawsuits and more allegations](https://techcrunch.com/2025/04/29/troubled-startup-caastle-is-now-facing-two-new-lawsuits-and-more-allegations/)
-- [New record! 6 rockets launch in less than 24 hours](https://www.space.com/space-exploration/launches-spacecraft/new-record-6-rockets-launch-in-less-than-24-hours)
-- [Amateur astronomer captures detailed photos of Croc&#39;s Eye and Whirlpool galaxies from backyard observatory](https://www.space.com/stargazing/amateur-astronomer-captures-detailed-photos-of-crocs-eye-and-whirlpool-galaxies-from-backyard-observatory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
