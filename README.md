@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Figure AI sent cease-and-desist letters to secondary markets brokers](https://techcrunch.com/2025/04/29/figure-ai-sent-cease-and-desist-letters-to-secondary-markets-brokers/)
+- [See photos snapped in space by Europe&#39;s 1st private reentry capsule](https://www.space.com/space-exploration/launches-spacecraft/see-photos-snapped-in-space-by-europes-1st-private-reentry-capsule)
 - [Startups launch products to catch people using AI cheating app Cluely](https://techcrunch.com/2025/04/29/startups-launch-products-to-catch-people-using-ai-cheating-app-cluely/)
 - [Snapchat abandons plans for a simplified version of its app](https://techcrunch.com/2025/04/29/snapchat-abandons-plans-for-a-simplified-version-of-its-app/)
 - [Freepik releases an ‘open’ AI image generator trained on licensed data](https://techcrunch.com/2025/04/29/freepik-releases-an-open-ai-image-generator-trained-on-licensed-data/)
-- [Google Play sees 47% decline in apps since start of last year](https://techcrunch.com/2025/04/29/google-play-sees-47-decline-in-apps-since-start-of-last-year/)
-- [NASA engineer Ed Smylie, who led carbon dioxide fix on Apollo 13, dies at 95](https://www.space.com/space-exploration/apollo/nasa-engineer-ed-smylie-who-led-carbon-dioxide-fix-on-apollo-13-dies-at-95)
 <!-- BLOG-POST-LIST:END -->
 
 ---
