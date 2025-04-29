@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are EWOR fellowships the real project Europe is looking for?](https://techcrunch.com/2025/04/28/are-ewor-fellowships-the-real-project-europe-is-looking-for/)
+- [Brand-new Falcon 9 rocket sends 23 Starlink satellites to orbit on SpaceX&#39;s 2nd launch of the day](https://www.space.com/space-exploration/launches-spacecraft/brand-new-falcon-9-rocket-sends-23-starlink-satellites-to-orbit-on-spacexs-2nd-launch-of-the-day)
 - [Amazon launches 27 satellites to begin building huge &#39;Project Kuiper&#39; internet constellation &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/amazon-launches-27-satellites-to-begin-building-huge-project-kuiper-internet-constellation)
 - [OpenAI is fixing a ‘bug’ that allowed minors to generate erotic conversations](https://techcrunch.com/2025/04/28/openai-is-fixing-a-bug-that-allowed-minors-to-generate-erotic-conversations/)
 - [Deel officially agrees to be served legal papers in Rippling’s lawsuit](https://techcrunch.com/2025/04/28/deel-officially-agrees/)
-- [Watch Vega-C rocket launch European forest-monitoring satellite to orbit on April 29](https://www.space.com/space-exploration/launches-spacecraft/vega-c-rocket-launch-esa-biomass-forest-monitoring-satellite)
-- [Alibaba unveils Qwen3, a family of ‘hybrid’ AI reasoning models](https://techcrunch.com/2025/04/28/alibaba-unveils-qwen-3-a-family-of-hybrid-ai-reasoning-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
