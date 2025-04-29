@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CI/CD Explained: The DevOps Skill That Makes You 10x More Valuable](https://www.youtube.com/watch?v=AknbizcLq4w)
+- [Why Finance is crucial to cancer drug development](https://www.youtube.com/watch?v=Ps7jwrpbE-4)
 - [Lec 5: Production Theory](https://www.youtube.com/watch?v=Q7-mCKOzNUI)
 - [Finance for public good](https://www.youtube.com/watch?v=7b3FKRPVg9o)
 - [Navigating OER Space: MIT Libraries Open Educational Resources Guide](https://www.youtube.com/watch?v=87zifNe2tjc)
-- [Can This Tiny Board Replace Your Entire HomeLab? – Zima Board 2](https://www.youtube.com/watch?v=6WYBvbn-mgQ)
-- [What is CUDA? - Computerphile](https://www.youtube.com/watch?v=K9anz4aB0S0)
 <!-- YOUTUBE:END -->
 
 ---
