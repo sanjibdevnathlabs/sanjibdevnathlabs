@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI rolls back update that made ChatGPT ‘too sycophant-y’](https://techcrunch.com/2025/04/29/openai-rolls-back-update-that-made-chatgpt-too-sycophant-y/)
+- [Next private astronaut mission to the ISS will launch on May 29 with Axiom Space](https://www.space.com/space-exploration/private-spaceflight/next-private-astronaut-mission-to-the-iss-will-launch-on-may-29-with-axiom-space)
+- [Troubled startup CaaStle is now facing two new lawsuits and more allegations](https://techcrunch.com/2025/04/29/troubled-startup-caastle-is-now-facing-two-new-lawsuits-and-more-allegations/)
+- [New record! 6 rockets launch in less than 24 hours](https://www.space.com/space-exploration/launches-spacecraft/new-record-6-rockets-launch-in-less-than-24-hours)
 - [Amateur astronomer captures detailed photos of Croc&#39;s Eye and Whirlpool galaxies from backyard observatory](https://www.space.com/stargazing/amateur-astronomer-captures-detailed-photos-of-crocs-eye-and-whirlpool-galaxies-from-backyard-observatory)
-- [Meta says its Llama AI models have been downloaded 1.2B times](https://techcrunch.com/2025/04/29/meta-says-its-llama-ai-models-have-been-downloaded-1-2b-times/)
-- [Amazon’s first 27 internet satellites launch to space](https://techcrunch.com/2025/04/29/amazons-first-27-internet-satellites-launch-to-space/)
-- [Tesla board member Joe Gebbia actually bought some stock](https://techcrunch.com/2025/04/29/a-tesla-board-member-actually-bought-some-stock/)
-- [Meta previews an API for its Llama AI models](https://techcrunch.com/2025/04/29/meta-previews-an-api-for-its-llama-ai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
