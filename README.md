@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hoofprint Biome boosts cow nutrition while slashing methane burps](https://techcrunch.com/2025/04/29/hoofprint-biome-boosts-cow-nutrition-while-slashing-methane-burps/)
+- [Near Space Labs nabs $20M to take its high-res imaging Swift robots into the stratosphere](https://techcrunch.com/2025/04/29/near-space-labs-nabs-20m-to-take-its-high-res-imaging-swift-robots-into-the-stratosphere/)
+- [The pursuit of truths: A letter on the boy who cried aliens &lpar;op-ed&rpar;](https://www.space.com/space-exploration/search-for-life/the-pursuit-of-truths-a-letter-on-the-boy-who-cried-aliens-op-ed)
 - [Here’s how to watch LlamaCon, Meta’s first AI developer event](https://techcrunch.com/2025/04/29/heres-how-to-watch-llamacon-metas-first-ai-developer-event/)
 - [Yelp debuts AI voice agents for restaurants and service providers](https://techcrunch.com/2025/04/29/yelp-is-adding-ai-powered-voice-agents-for-restaurants-and-services/)
-- [Government hackers are leading the use of attributed zero-days, Google says](https://techcrunch.com/2025/04/29/government-hackers-are-leading-the-use-of-attributed-zero-days-google-says/)
-- [See a wafer-thin crescent moon leapfrog Jupiter this week](https://www.space.com/stargazing/see-a-wafer-thin-crescent-moon-leapfrog-jupiter-this-week)
-- [A16z backs UK startup Dex to scale ‘AI talent agent’ and recruitment matchmaker](https://techcrunch.com/2025/04/29/a16z-backs-uk-startup-dex-to-scale-ai-talent-agent-and-recruitment-matchmaker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
