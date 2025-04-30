@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JetBrains releases Mellum, an ‘open’ AI coding model](https://techcrunch.com/2025/04/30/jetbrains-releases-mellum-an-open-ai-coding-model/)
+- [These are the sharpest images yet of planets being born around distant stars](https://www.space.com/astronomy/exoplanets/these-are-the-sharpest-images-yet-of-planets-being-born-around-distant-stars)
 - [Orb, a new app by Ookla’s ex-CEO, offers a broader picture of your internet connection](https://techcrunch.com/2025/04/30/former-ookla-ceos-new-app-aims-to-measure-internet-reliablity-along-with-speed/)
 - [These ARE the Lego Star Wars deals you&#39;re looking for](https://www.space.com/entertainment/these-are-the-lego-star-wars-deals-youre-looking-for)
-- [Anthropic suggests tweaks to proposed U.S. AI chip export controls](https://techcrunch.com/2025/04/30/anthropic-suggests-tweaks-to-proposed-u-s-ai-chip-export-controls/)
-- [Social Agent’s new app lets you book a photographer within 30 minutes](https://techcrunch.com/2025/04/30/social-agents-new-app-lets-you-book-a-photographer-within-30-minutes/)
-- [Duolingo launches 148 courses created with AI after sharing plans to replace contractors with AI](https://techcrunch.com/2025/04/30/duolingo-launches-148-courses-created-with-ai-after-sharing-plans-to-replace-contractors-with-ai/)
+- [Anthropic suggests tweaks to proposed US AI chip export controls](https://techcrunch.com/2025/04/30/anthropic-suggests-tweaks-to-proposed-u-s-ai-chip-export-controls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
