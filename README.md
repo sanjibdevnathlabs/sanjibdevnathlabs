@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple notifies new victims of spyware attacks across the world](https://techcrunch.com/2025/04/30/apple-notifies-new-victims-of-spyware-attacks-across-the-world/)
+- [NASA is looking to privatize astronaut rescue services](https://www.space.com/space-exploration/private-spaceflight/nasa-is-looking-to-privatize-astronaut-rescue-services)
+- [Gruve.ai promises software-like margins for AI tech consulting, disrupting decades-old Industry](https://techcrunch.com/2025/04/30/gruve-ai-promises-software-like-margins-for-ai-tech-consulting-disrupting-decades-old-industry/)
 - [JetBrains releases Mellum, an ‘open’ AI coding model](https://techcrunch.com/2025/04/30/jetbrains-releases-mellum-an-open-ai-coding-model/)
 - [These are the sharpest images yet of planets being born around distant stars](https://www.space.com/astronomy/exoplanets/these-are-the-sharpest-images-yet-of-planets-being-born-around-distant-stars)
-- [Orb, a new app by Ookla’s ex-CEO, offers a broader picture of your internet connection](https://techcrunch.com/2025/04/30/former-ookla-ceos-new-app-aims-to-measure-internet-reliablity-along-with-speed/)
-- [These ARE the Lego Star Wars deals you&#39;re looking for](https://www.space.com/entertainment/these-are-the-lego-star-wars-deals-youre-looking-for)
-- [Anthropic suggests tweaks to proposed US AI chip export controls](https://techcrunch.com/2025/04/30/anthropic-suggests-tweaks-to-proposed-u-s-ai-chip-export-controls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
