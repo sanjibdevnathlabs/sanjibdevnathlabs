@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sarah Tavel, Benchmark’s first woman GP, transitions to venture partner](https://techcrunch.com/2025/04/29/sarah-tavel-benchmarks-first-woman-gp-transitions-to-venture-partner/)
+- [OpenAI explains why ChatGPT became too sycophantic](https://techcrunch.com/2025/04/29/openai-explains-why-chatgpt-became-too-sycophantic/)
 - [Microsoft CEO says up to 30% of the company’s code was written by AI](https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/)
 - [Meta’s LlamaCon was all about undercutting OpenAI](https://techcrunch.com/2025/04/29/metas-llamacon-was-all-about-undercutting-openai/)
 - [Waymo and Toyota are dating — if they get serious, a new autonomous vehicle could be created](https://techcrunch.com/2025/04/29/waymo-and-toyota-are-dating-if-they-get-serious-a-new-autonomous-vehicle-could-be-created/)
-- [Figure AI sent cease-and-desist letters to secondary markets brokers](https://techcrunch.com/2025/04/29/figure-ai-sent-cease-and-desist-letters-to-secondary-markets-brokers/)
-- [See photos snapped in space by Europe&#39;s 1st private reentry capsule](https://www.space.com/space-exploration/launches-spacecraft/see-photos-snapped-in-space-by-europes-1st-private-reentry-capsule)
 <!-- BLOG-POST-LIST:END -->
 
 ---
