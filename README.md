@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek upgrades its AI model for math problem solving](https://techcrunch.com/2025/04/30/deepseek-upgrades-its-ai-model-for-math-problem-solving/)
+- [Cast AI raises $108M to get the max out of AI, Kubernetes and other workloads](https://techcrunch.com/2025/04/30/cast-ai-raises-108m-to-get-the-max-out-of-ai-kubernetes-and-other-workloads/)
+- [AI sales tax startup Kintsugi had doubled its valuation in 6 months](https://techcrunch.com/2025/04/30/ai-sales-tax-startup-kintsugi-had-doubled-its-valuation-in-6-months/)
+- [John Lithgow to launch into life of Apollo 11 astronaut in new podcast &#39;BUZZ&#39;](https://www.space.com/space-exploration/apollo/john-lithgow-to-launch-into-life-of-apollo-11-astronaut-in-new-podcast-buzz)
 - [How to edit a solar eclipse photograph: A step-by-step guide](https://www.space.com/stargazing/eclipses/how-to-edit-a-solar-eclipse-photograph)
-- [How to see a celestial &#39;gazelle&#39; cross the night sky close to the Big Dipper this week](https://www.space.com/stargazing/how-to-see-a-celestial-gazelle-cross-the-night-sky-close-to-the-big-dipper-this-week)
-- [Capture May&#39;s full moon and the Eta Aquarid meteor shower with the best DSLR for astrophotography, now $600 off](https://www.space.com/stargazing/astronomy-kit/capture-mays-full-moon-and-the-eta-aquarid-meteor-shower-with-the-best-dslr-for-astrophotography-now-usd600-off)
-- [What can ripples in spacetime reveal about black holes? Quite a bit, it turns out](https://www.space.com/the-universe/black-holes/what-can-ripples-in-spacetime-reveal-about-black-holes-quite-a-bit-it-turns-out)
-- [X is rolling out support for 4K video uploads](https://techcrunch.com/2025/04/30/x-is-rolling-out-support-for-4k-video-uploads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
