@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nuvo, a network for B2B trade, has nabbed $34M from Sequoia and Spark Capital](https://techcrunch.com/2025/04/30/nuvo-a-network-for-b2b-trade-has-nabbed-34m-from-a-whos-who-list-of-investors/)
-- [5 days left: $210 ticket discount and 50% off on the second for TechCrunch Sessions AI](https://techcrunch.com/2025/04/30/5-days-left-210-ticket-discount-and-50-off-on-the-second-for-techcrunch-sessions-ai/)
-- [Amateur astrophotographer captures gorgeous view of Bode&#39;s galaxy from Death Valley](https://www.space.com/stargazing/amateur-astrophotographer-captures-gorgeous-view-of-bodes-galaxy-from-death-valley)
-- [UK retail giant Co-op warns of disruption as it battles cyberattack](https://techcrunch.com/2025/04/30/uk-retail-giant-co-op-warns-of-disruption-as-it-battles-cyberattack/)
-- [Intel’s chief commercial officer and sales lead, Christoph Schell, resigns](https://techcrunch.com/2025/04/30/intels-chief-commercial-officer-and-sales-lead-christoph-schell-resigns/)
+- [Duolingo launches 148 courses created with AI after sharing plans to replace contractors with AI](https://techcrunch.com/2025/04/30/duolingo-launches-148-courses-created-with-ai-after-sharing-plans-to-replace-contractors-with-ai/)
+- [Cast your vote: Help shape the TechCrunch All Stage agenda](https://techcrunch.com/2025/04/30/cast-your-vote-help-shape-the-techcrunch-all-stage-agenda/)
+- [You really need to check out &#39;Moonrise&#39;, Netflix&#39;s awesome new sci-fi anime from the director of &#39;Attack on Titan&#39;](https://www.space.com/entertainment/you-really-need-to-check-out-moonrise-netflixs-awesome-new-sci-fi-anime-from-the-director-of-attack-on-titan)
+- [Side Event submission deadline extended for TechCrunch Sessions: AI](https://techcrunch.com/2025/04/30/side-event-submission-deadline-extended-for-techcrunch-sessions-ai/)
+- [Wikipedia says it will use AI, but not to replace human volunteers](https://techcrunch.com/2025/04/30/__trashed-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
