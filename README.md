@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple notifies new victims of spyware attacks across the world](https://techcrunch.com/2025/04/30/apple-notifies-new-victims-of-spyware-attacks-across-the-world/)
-- [NASA is looking to privatize astronaut rescue services](https://www.space.com/space-exploration/private-spaceflight/nasa-is-looking-to-privatize-astronaut-rescue-services)
-- [Gruve.ai promises software-like margins for AI tech consulting, disrupting decades-old Industry](https://techcrunch.com/2025/04/30/gruve-ai-promises-software-like-margins-for-ai-tech-consulting-disrupting-decades-old-industry/)
-- [JetBrains releases Mellum, an ‘open’ AI coding model](https://techcrunch.com/2025/04/30/jetbrains-releases-mellum-an-open-ai-coding-model/)
-- [These are the sharpest images yet of planets being born around distant stars](https://www.space.com/astronomy/exoplanets/these-are-the-sharpest-images-yet-of-planets-being-born-around-distant-stars)
+- [A thousand stars are fleeing home in a hurry, and scientists don&#39;t know why](https://www.space.com/astronomy/stars/a-thousand-stars-are-fleeing-home-in-a-hurry-and-scientists-dont-know-why)
+- [Petzl Tikka Core headlamp review](https://www.space.com/tech/petzl-tikka-core-headlamp-review)
+- [Rivian’s reportedly sitting on a stockpile of tariff-free batteries](https://techcrunch.com/2025/04/30/rivians-reportedly-sitting-on-a-stockpile-of-tariff-free-batteries/)
+- [New Horizons&#39; new map of the galaxy | Space photo of the day for April 30, 2025](https://www.space.com/space-exploration/new-horizons/new-horizons-new-map-of-the-galaxy-space-photo-of-the-day-for-april-30-2025)
+- [If you own Ray-Ban Meta glasses, you should double-check your privacy settings](https://techcrunch.com/2025/04/30/if-you-own-ray-ban-meta-glasses-you-should-double-check-your-privacy-settings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
