@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Visa and Mastercard unveil AI-powered shopping](https://techcrunch.com/2025/04/30/visa-and-mastercard-unveil-ai-powered-shopping/)
+- [Threads tops 350M monthly users after adding 30M in the quarter](https://techcrunch.com/2025/04/30/threads-tops-350m-monthly-users-after-adding-30m-in-the-quarter/)
 - [Pinterest launches new tools to fight AI slop](https://techcrunch.com/2025/04/30/pinterest-launches-new-tools-to-fight-ai-slop/)
 - [Amazon updates Q Business to let companies build public-facing chatbots](https://techcrunch.com/2025/04/30/amazon-updates-q-business-to-let-companies-build-public-facing-chatbots/)
 - [Cyclones on Jupiter and a moon with flowing magma: NASA Juno probe&#39;s latest discoveries are awesome](https://www.space.com/astronomy/jupiter/cyclones-on-jupiter-and-a-moon-with-flowing-magma-nasa-juno-probes-latest-discoveries-are-awesome)
-- [A thousand stars are fleeing home in a hurry, and scientists don&#39;t know why](https://www.space.com/astronomy/stars/a-thousand-stars-are-fleeing-home-in-a-hurry-and-scientists-dont-know-why)
-- [Petzl Tikka Core headlamp review](https://www.space.com/tech/petzl-tikka-core-headlamp-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
