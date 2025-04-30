@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to edit a solar eclipse photograph: A step-by-step guide](https://www.space.com/stargazing/eclipses/how-to-edit-a-solar-eclipse-photograph)
 - [How to see a celestial &#39;gazelle&#39; cross the night sky close to the Big Dipper this week](https://www.space.com/stargazing/how-to-see-a-celestial-gazelle-cross-the-night-sky-close-to-the-big-dipper-this-week)
 - [Capture May&#39;s full moon and the Eta Aquarid meteor shower with the best DSLR for astrophotography, now $600 off](https://www.space.com/stargazing/astronomy-kit/capture-mays-full-moon-and-the-eta-aquarid-meteor-shower-with-the-best-dslr-for-astrophotography-now-usd600-off)
 - [What can ripples in spacetime reveal about black holes? Quite a bit, it turns out](https://www.space.com/the-universe/black-holes/what-can-ripples-in-spacetime-reveal-about-black-holes-quite-a-bit-it-turns-out)
 - [X is rolling out support for 4K video uploads](https://techcrunch.com/2025/04/30/x-is-rolling-out-support-for-4k-video-uploads/)
-- [China&#39;s Shenzhou 19 astronauts return to Earth after 6 months aboard Tiangong space station &lpar;photos&rpar;](https://www.space.com/space-exploration/human-spaceflight/chinas-shenzhou-19-astronauts-return-to-earth-after-6-months-aboard-tiangong-space-station-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
