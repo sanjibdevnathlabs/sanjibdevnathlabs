@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek upgrades its AI model for math problem solving](https://techcrunch.com/2025/04/30/deepseek-upgrades-its-ai-model-for-math-problem-solving/)
-- [Cast AI raises $108M to get the max out of AI, Kubernetes and other workloads](https://techcrunch.com/2025/04/30/cast-ai-raises-108m-to-get-the-max-out-of-ai-kubernetes-and-other-workloads/)
+- [Intel’s chief commercial officer and sales lead, Christoph Schell, resigns](https://techcrunch.com/2025/04/30/intels-chief-commercial-officer-and-sales-lead-christoph-schell-resigns/)
+- [Supio, an AI-powered legal analysis platform, lands $60M](https://techcrunch.com/2025/04/30/supio-an-ai-powered-legal-platform-lands-60m-in-fresh-capital/)
+- [DeepSeek upgrades its math-focused AI model Prover](https://techcrunch.com/2025/04/30/deepseek-upgrades-its-ai-model-for-math-problem-solving/)
+- [Cast AI raises $108M to get the most out of AI, Kubernetes and other workloads](https://techcrunch.com/2025/04/30/cast-ai-raises-108m-to-get-the-max-out-of-ai-kubernetes-and-other-workloads/)
 - [AI sales tax startup Kintsugi had doubled its valuation in 6 months](https://techcrunch.com/2025/04/30/ai-sales-tax-startup-kintsugi-had-doubled-its-valuation-in-6-months/)
-- [John Lithgow to launch into life of Apollo 11 astronaut in new podcast &#39;BUZZ&#39;](https://www.space.com/space-exploration/apollo/john-lithgow-to-launch-into-life-of-apollo-11-astronaut-in-new-podcast-buzz)
-- [How to edit a solar eclipse photograph: A step-by-step guide](https://www.space.com/stargazing/eclipses/how-to-edit-a-solar-eclipse-photograph)
 <!-- BLOG-POST-LIST:END -->
 
 ---
