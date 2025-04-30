@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Orb, a new app by Ookla’s ex-CEO, offers a broader picture of your internet connection](https://techcrunch.com/2025/04/30/former-ookla-ceos-new-app-aims-to-measure-internet-reliablity-along-with-speed/)
+- [These ARE the Lego Star Wars deals you&#39;re looking for](https://www.space.com/entertainment/these-are-the-lego-star-wars-deals-youre-looking-for)
+- [Anthropic suggests tweaks to proposed U.S. AI chip export controls](https://techcrunch.com/2025/04/30/anthropic-suggests-tweaks-to-proposed-u-s-ai-chip-export-controls/)
+- [Social Agent’s new app lets you book a photographer within 30 minutes](https://techcrunch.com/2025/04/30/social-agents-new-app-lets-you-book-a-photographer-within-30-minutes/)
 - [Duolingo launches 148 courses created with AI after sharing plans to replace contractors with AI](https://techcrunch.com/2025/04/30/duolingo-launches-148-courses-created-with-ai-after-sharing-plans-to-replace-contractors-with-ai/)
-- [Cast your vote: Help shape the TechCrunch All Stage agenda](https://techcrunch.com/2025/04/30/cast-your-vote-help-shape-the-techcrunch-all-stage-agenda/)
-- [You really need to check out &#39;Moonrise&#39;, Netflix&#39;s awesome new sci-fi anime from the director of &#39;Attack on Titan&#39;](https://www.space.com/entertainment/you-really-need-to-check-out-moonrise-netflixs-awesome-new-sci-fi-anime-from-the-director-of-attack-on-titan)
-- [Side Event submission deadline extended for TechCrunch Sessions: AI](https://techcrunch.com/2025/04/30/side-event-submission-deadline-extended-for-techcrunch-sessions-ai/)
-- [Wikipedia says it will use AI, but not to replace human volunteers](https://techcrunch.com/2025/04/30/__trashed-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
