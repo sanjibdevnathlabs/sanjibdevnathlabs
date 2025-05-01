@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Evidence of controversial Planet 9 uncovered in sky surveys taken 23 years apart](https://www.space.com/astronomy/solar-system/evidence-of-controversial-planet-9-uncovered-in-sky-surveys-taken-23-years-apart)
+- [Aurora launches commercial self-driving truck service in Texas](https://techcrunch.com/2025/05/01/aurora-launches-commercial-self-driving-truck-service-in-texas/)
 - [MoviePass explores a daily fantasy platform for film buffs](https://techcrunch.com/2025/05/01/moviepass-explores-a-daily-fantasy-platform-tailored-for-film-enthusiasts/)
 - [Asteroid Vesta is at its brightest this week. Here&#39;s how to find it in the night sky](https://www.space.com/stargazing/asteroid-vesta-is-at-its-brightest-this-week-heres-how-to-find-it-in-the-night-sky)
 - [Google is reportedly showing ads in chats with some third-party AI chatbots](https://techcrunch.com/2025/05/01/google-is-reportedly-showing-ads-in-chats-with-some-third-party-ai-chatbots/)
-- [James Webb Space Telescope captures thousands of galaxies in a cosmic &#39;feast&#39; &lpar;image&rpar;](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-captures-thousands-of-galaxies-in-a-cosmic-feast-image)
-- [The Eta Aquarid meteor shower peaks May 6. Here&#39;s what to expect from the &#39;crumbs&#39; of Halley&#39;s Comet](https://www.space.com/stargazing/meteor-showers/the-eta-aquarid-meteor-shower-peaks-may-6-heres-what-to-expect-from-the-crumbs-of-halleys-comet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
