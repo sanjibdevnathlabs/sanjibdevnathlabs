@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Metroid games in order: Chronological and release](https://www.space.com/entertainment/space-games/metroid-games-in-order-chronological-and-release)
-- [NASA astronauts prep ISS for new solar arrays on 5th-ever all-female spacewalk](https://www.space.com/space-exploration/international-space-station/nasa-astronauts-prep-iss-for-new-solar-arrays-on-5th-ever-all-female-spacewalk)
-- [Fintech Bench conducts layoff while others still work month-to-month](https://techcrunch.com/2025/05/01/fintech-bench-conducts-layoff-while-others-still-work-month-to-month/)
-- [FAA grounds Firefly Aerospace&#39;s Alpha rocket until failure investigation is complete](https://www.space.com/space-exploration/launches-spacecraft/faa-grounds-firefly-aerospaces-alpha-rocket-until-failure-investigation-is-complete)
-- [Psyche spacecraft&#39;s sci-fi thrusters suffer glitch on way to metal-rich asteroid](https://www.space.com/space-exploration/asteroid-comet-missions/psyche-spacecrafts-sci-fi-thrusters-suffer-glitch-on-way-to-metal-rich-asteroid)
+- [NASA still trying to revive silent Lunar Trailblazer moon orbiter](https://www.space.com/space-exploration/missions/nasa-still-trying-to-revive-silent-lunar-trailblazer-moon-orbiter)
+- [Peacock trained TikTokers to make content, and now four creators are getting original series](https://techcrunch.com/2025/05/01/peacock-trained-tiktokers-to-make-content-and-now-four-creators-are-getting-original-series/)
+- [Rising star defense tech startup Mach Industries is raising $100 million, sources say](https://techcrunch.com/2025/05/01/rising-star-defense-tech-startup-mach-industries-is-raising-100-million-sources-say/)
+- [Stripe shows iOS developers how to avoid Apple’s App Store commission](https://techcrunch.com/2025/05/01/stripe-shows-ios-developers-how-to-avoid-apples-app-store-commission/)
+- [Buzzy investing app Dub lands $30M Series A](https://techcrunch.com/2025/05/01/buzzy-investing-app-dub-lands-30m-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
