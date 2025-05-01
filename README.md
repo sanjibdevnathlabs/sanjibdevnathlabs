@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple CEO Tim Cook says tariffs to add $900M in costs in Q3, but future uncertain](https://techcrunch.com/2025/05/01/apple-ceo-tim-cook-says-tariffs-to-add-900m-in-costs-in-q3/)
 - [NASA still trying to revive silent Lunar Trailblazer moon orbiter](https://www.space.com/space-exploration/missions/nasa-still-trying-to-revive-silent-lunar-trailblazer-moon-orbiter)
 - [Peacock trained TikTokers to make content, and now four creators are getting original series](https://techcrunch.com/2025/05/01/peacock-trained-tiktokers-to-make-content-and-now-four-creators-are-getting-original-series/)
 - [Rising star defense tech startup Mach Industries is raising $100 million, sources say](https://techcrunch.com/2025/05/01/rising-star-defense-tech-startup-mach-industries-is-raising-100-million-sources-say/)
 - [Stripe shows iOS developers how to avoid Apple’s App Store commission](https://techcrunch.com/2025/05/01/stripe-shows-ios-developers-how-to-avoid-apples-app-store-commission/)
-- [Buzzy investing app Dub lands $30M Series A](https://techcrunch.com/2025/05/01/buzzy-investing-app-dub-lands-30m-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
