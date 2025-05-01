@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Eta Aquarid meteor shower peaks May 6. Here&#39;s what to expect from the &#39;crumbs&#39; of Halley&#39;s Comet](https://www.space.com/stargazing/meteor-showers/the-eta-aquarid-meteor-shower-peaks-may-6-heres-what-to-expect-from-the-crumbs-of-halleys-comet)
+- [WhatsApp now has more than 3 billion users a month](https://techcrunch.com/2025/05/01/whatsapp-now-has-more-than-3-billion-users/)
 - [Doubts mount further over signs of alien life on K2-18b: &#39;This is evidence of the scientific process at work&#39;](https://www.space.com/space-exploration/search-for-life/doubts-mount-further-over-signs-of-alien-life-on-k2-18b-this-is-evidence-of-the-scientific-process-at-work)
 - [From tech pioneers to ‘extremists’: Belarusian founders face exile and statelessness](https://techcrunch.com/2025/05/01/branded-extremists-for-building-startups-belarusian-tech-pioneers-face-a-stateless-life-in-exile/)
 - [Tesla’s board reportedly sought a successor while Musk wheeled around Washington](https://techcrunch.com/2025/04/30/teslas-board-reportedly-sought-a-successor-while-musk-wheeled-around-washington/)
-- [Watch 2 NASA astronauts perform the 5th-ever all-female spacewalk today](https://www.space.com/space-exploration/international-space-station/watch-2-nasa-astronauts-perform-the-5th-ever-all-female-spacewalk-today)
-- [Microsoft’s most capable new Phi 4 AI model rivals the performance of far larger systems](https://techcrunch.com/2025/04/30/microsofts-most-capable-new-phi-4-ai-model-rivals-the-performance-of-far-larger-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
