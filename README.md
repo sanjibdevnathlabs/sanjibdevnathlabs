@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman’s World unveils a mobile verification device](https://techcrunch.com/2025/04/30/sam-altmans-world-unveils-a-mobile-verification-device/)
+- [World partners with Tinder, Visa to bring its ID-verifying tech to more places](https://techcrunch.com/2025/04/30/world-partners-with-tinder-visa-to-bring-its-id-verifying-tech-to-more-places/)
+- [Meta forecasted it would make $1.4T in revenue from generative AI by 2035](https://techcrunch.com/2025/04/30/meta-forecasted-it-would-make-1-4t-in-revenue-from-generative-ai-by-2035/)
+- [Epic Games just scored a win against Apple](https://techcrunch.com/2025/04/30/epic-games-just-scored-a-win-against-apple/)
 - [Amazon launches Nova Premier, its most capable AI model yet](https://techcrunch.com/2025/04/30/amazon-launches-nova-premier-its-largest-ai-model-yet/)
-- [Study accuses LM Arena of helping top AI labs game its benchmark](https://techcrunch.com/2025/04/30/study-accuses-lm-arena-of-helping-top-ai-labs-game-its-benchmark/)
-- [Microsoft expects some AI capacity constraints this quarter](https://techcrunch.com/2025/04/30/microsoft-expects-some-ai-capacity-constraints-this-quarter/)
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/30/tech-layoffs-2025-list/)
-- [Google’s Gemini chatbot gets upgraded image-creation tools](https://techcrunch.com/2025/04/30/googles-gemini-chatbot-gets-upgraded-image-creation-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
