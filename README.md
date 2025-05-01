@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Metroid games in order: Chronological and release](https://www.space.com/entertainment/space-games/metroid-games-in-order-chronological-and-release)
+- [NASA astronauts prep ISS for new solar arrays on 5th-ever all-female spacewalk](https://www.space.com/space-exploration/international-space-station/nasa-astronauts-prep-iss-for-new-solar-arrays-on-5th-ever-all-female-spacewalk)
+- [Fintech Bench conducts layoff while others still work month-to-month](https://techcrunch.com/2025/05/01/fintech-bench-conducts-layoff-while-others-still-work-month-to-month/)
 - [FAA grounds Firefly Aerospace&#39;s Alpha rocket until failure investigation is complete](https://www.space.com/space-exploration/launches-spacecraft/faa-grounds-firefly-aerospaces-alpha-rocket-until-failure-investigation-is-complete)
 - [Psyche spacecraft&#39;s sci-fi thrusters suffer glitch on way to metal-rich asteroid](https://www.space.com/space-exploration/asteroid-comet-missions/psyche-spacecrafts-sci-fi-thrusters-suffer-glitch-on-way-to-metal-rich-asteroid)
-- [Ai2’s new small AI model outperforms similarly-sized models from Google, Meta](https://techcrunch.com/2025/05/01/ai2s-new-small-ai-model-outperforms-similarly-sized-models-from-google-meta/)
-- [These 5000-year-old Egyptian coffins depict the Milky Way galaxy, astrophysicist says](https://www.space.com/astronomy/these-5000-year-old-egyptian-coffins-depict-the-milky-way-galaxy-astrophysicist-says)
-- [Nvidia takes aim at Anthropic’s support of chip export controls](https://techcrunch.com/2025/05/01/nvidia-takes-aim-at-anthropics-support-of-chip-export-controls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
