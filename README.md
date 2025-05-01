@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FAA grounds Firefly Aerospace&#39;s Alpha rocket until failure investigation is complete](https://www.space.com/space-exploration/launches-spacecraft/faa-grounds-firefly-aerospaces-alpha-rocket-until-failure-investigation-is-complete)
+- [Psyche spacecraft&#39;s sci-fi thrusters suffer glitch on way to metal-rich asteroid](https://www.space.com/space-exploration/asteroid-comet-missions/psyche-spacecrafts-sci-fi-thrusters-suffer-glitch-on-way-to-metal-rich-asteroid)
+- [Ai2’s new small AI model outperforms similarly-sized models from Google, Meta](https://techcrunch.com/2025/05/01/ai2s-new-small-ai-model-outperforms-similarly-sized-models-from-google-meta/)
 - [These 5000-year-old Egyptian coffins depict the Milky Way galaxy, astrophysicist says](https://www.space.com/astronomy/these-5000-year-old-egyptian-coffins-depict-the-milky-way-galaxy-astrophysicist-says)
 - [Nvidia takes aim at Anthropic’s support of chip export controls](https://techcrunch.com/2025/05/01/nvidia-takes-aim-at-anthropics-support-of-chip-export-controls/)
-- [May Mobility to launch robotaxis on Uber platform this year in Texas](https://techcrunch.com/2025/05/01/may-mobility-to-launch-robotaxis-on-uber-platform-this-year-in-texas/)
-- [International Space Station fires thrusters to avoid Chinese rocket debris](https://www.space.com/space-exploration/international-space-station/international-space-station-fires-thrusters-to-avoid-chinese-rocket-debris)
-- [Epic Games is launching webshops to allow developers to circumvent app store fees after new ruling](https://techcrunch.com/2025/05/01/epic-games-is-launching-webshops-to-allow-developers-to-circumvent-app-store-fees-after-new-ruling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
