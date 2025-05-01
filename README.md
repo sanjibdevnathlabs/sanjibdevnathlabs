@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Last call to volunteer at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/01/last-call-to-volunteer-at-techcrunch-sessions-ai/)
-- [The 10 best sci-fi TV shows of the 1970s](https://www.space.com/entertainment/space-movies-shows/the-10-best-sci-fi-tv-shows-of-the-1970s)
-- [Xbox consoles, controllers, and games are getting more expensive](https://techcrunch.com/2025/05/01/xbox-consoles-controllers-and-games-are-getting-more-expensive/)
-- [Instacart acquires Wynshop to provide tools for grocers and retailers](https://techcrunch.com/2025/05/01/instacart-acquires-wynshop-to-provide-tools-for-grocers-and-retailers/)
-- [ISS astronaut shares recipe for a &#39;ranger&#39; burger | Space photo of the day for May 1, 2025](https://www.space.com/space-exploration/international-space-station/iss-astronaut-shares-recipe-for-a-ranger-burger-space-photo-of-the-day-for-may-1-2025)
+- [Read the juiciest bits from the court ruling against Apple over its anticompetitive App Store practices](https://techcrunch.com/2025/05/01/read-the-juiciest-bits-from-the-court-ruling-against-apple-over-its-anticompetitive-app-store-practices/)
+- [Google’s AI Mode gets expanded access and additional functionality](https://techcrunch.com/2025/05/01/googles-ai-mode-gets-expanded-access-and-additional-functionality/)
+- [See Saturn and Venus flank ghostly Neptune in the pre-dawn sky on May 2](https://www.space.com/stargazing/see-saturn-and-venus-flank-ghostly-neptune-in-the-pre-dawn-sky-on-may-2)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/05/01/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [Tesla’s board reportedly sought a successor while Musk wheeled around Washington](https://techcrunch.com/2025/05/01/teslas-board-reportedly-sought-a-successor-while-musk-wheeled-around-washington/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
