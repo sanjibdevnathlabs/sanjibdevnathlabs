@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon launches Nova Premier, its most capable AI model yet](https://techcrunch.com/2025/04/30/amazon-launches-nova-premier-its-largest-ai-model-yet/)
+- [Study accuses LM Arena of helping top AI labs game its benchmark](https://techcrunch.com/2025/04/30/study-accuses-lm-arena-of-helping-top-ai-labs-game-its-benchmark/)
 - [Microsoft expects some AI capacity constraints this quarter](https://techcrunch.com/2025/04/30/microsoft-expects-some-ai-capacity-constraints-this-quarter/)
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/30/tech-layoffs-2025-list/)
-- [Google’s Gemini chatbot gets upgraded image creation tools](https://techcrunch.com/2025/04/30/googles-gemini-chatbot-gets-upgraded-image-creation-tools/)
-- [Visa and Mastercard unveil AI-powered shopping](https://techcrunch.com/2025/04/30/visa-and-mastercard-unveil-ai-powered-shopping/)
-- [Threads tops 350M monthly users after adding 30M in the quarter](https://techcrunch.com/2025/04/30/threads-tops-350m-monthly-users-after-adding-30m-in-the-quarter/)
+- [Google’s Gemini chatbot gets upgraded image-creation tools](https://techcrunch.com/2025/04/30/googles-gemini-chatbot-gets-upgraded-image-creation-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
