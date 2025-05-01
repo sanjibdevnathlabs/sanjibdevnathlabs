@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch 2 NASA astronauts perform the 5th-ever all-female spacewalk today](https://www.space.com/space-exploration/international-space-station/watch-2-nasa-astronauts-perform-the-5th-ever-all-female-spacewalk-today)
+- [Microsoft’s most capable new Phi 4 AI model rivals the performance of far larger systems](https://techcrunch.com/2025/04/30/microsofts-most-capable-new-phi-4-ai-model-rivals-the-performance-of-far-larger-systems/)
 - [Sam Altman’s World unveils a mobile verification device](https://techcrunch.com/2025/04/30/sam-altmans-world-unveils-a-mobile-verification-device/)
 - [World partners with Tinder, Visa to bring its ID-verifying tech to more places](https://techcrunch.com/2025/04/30/world-partners-with-tinder-visa-to-bring-its-id-verifying-tech-to-more-places/)
 - [Meta forecasted it would make $1.4T in revenue from generative AI by 2035](https://techcrunch.com/2025/04/30/meta-forecasted-it-would-make-1-4t-in-revenue-from-generative-ai-by-2035/)
-- [Epic Games just scored a win against Apple](https://techcrunch.com/2025/04/30/epic-games-just-scored-a-win-against-apple/)
-- [Amazon launches Nova Premier, its most capable AI model yet](https://techcrunch.com/2025/04/30/amazon-launches-nova-premier-its-largest-ai-model-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
