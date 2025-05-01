@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Read the juiciest bits from the court ruling against Apple over its anticompetitive App Store practices](https://techcrunch.com/2025/05/01/read-the-juiciest-bits-from-the-court-ruling-against-apple-over-its-anticompetitive-app-store-practices/)
-- [Google’s AI Mode gets expanded access and additional functionality](https://techcrunch.com/2025/05/01/googles-ai-mode-gets-expanded-access-and-additional-functionality/)
-- [See Saturn and Venus flank ghostly Neptune in the pre-dawn sky on May 2](https://www.space.com/stargazing/see-saturn-and-venus-flank-ghostly-neptune-in-the-pre-dawn-sky-on-may-2)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/05/01/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [Tesla’s board reportedly sought a successor while Musk wheeled around Washington](https://techcrunch.com/2025/05/01/teslas-board-reportedly-sought-a-successor-while-musk-wheeled-around-washington/)
+- [May Mobility to launch robotaxis on Uber platform this year in Texas](https://techcrunch.com/2025/05/01/may-mobility-to-launch-robotaxis-on-uber-platform-this-year-in-texas/)
+- [International Space Station fires thrusters to avoid Chinese rocket debris](https://www.space.com/space-exploration/international-space-station/international-space-station-fires-thrusters-to-avoid-chinese-rocket-debris)
+- [Epic Games is launching webshops to allow developers to circumvent app store fees after new ruling](https://techcrunch.com/2025/05/01/epic-games-is-launching-webshops-to-allow-developers-to-circumvent-app-store-fees-after-new-ruling/)
+- [Anthropic lets users connect more apps to Claude](https://techcrunch.com/2025/05/01/anthropic-lets-you-connect-apps-to-claude/)
+- [Fivetran acquires Census to become end-to-end data movement platform](https://techcrunch.com/2025/05/01/fivetran-acquires-census-to-become-end-to-end-data-movement-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
