@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Evidence of controversial Planet 9 uncovered in sky surveys taken 23 years apart](https://www.space.com/astronomy/solar-system/evidence-of-controversial-planet-9-uncovered-in-sky-surveys-taken-23-years-apart)
-- [Aurora launches commercial self-driving truck service in Texas](https://techcrunch.com/2025/05/01/aurora-launches-commercial-self-driving-truck-service-in-texas/)
-- [MoviePass explores a daily fantasy platform for film buffs](https://techcrunch.com/2025/05/01/moviepass-explores-a-daily-fantasy-platform-tailored-for-film-enthusiasts/)
-- [Asteroid Vesta is at its brightest this week. Here&#39;s how to find it in the night sky](https://www.space.com/stargazing/asteroid-vesta-is-at-its-brightest-this-week-heres-how-to-find-it-in-the-night-sky)
-- [Google is reportedly showing ads in chats with some third-party AI chatbots](https://techcrunch.com/2025/05/01/google-is-reportedly-showing-ads-in-chats-with-some-third-party-ai-chatbots/)
+- [Last call to volunteer at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/01/last-call-to-volunteer-at-techcrunch-sessions-ai/)
+- [The 10 best sci-fi TV shows of the 1970s](https://www.space.com/entertainment/space-movies-shows/the-10-best-sci-fi-tv-shows-of-the-1970s)
+- [Xbox consoles, controllers, and games are getting more expensive](https://techcrunch.com/2025/05/01/xbox-consoles-controllers-and-games-are-getting-more-expensive/)
+- [Instacart acquires Wynshop to provide tools for grocers and retailers](https://techcrunch.com/2025/05/01/instacart-acquires-wynshop-to-provide-tools-for-grocers-and-retailers/)
+- [ISS astronaut shares recipe for a &#39;ranger&#39; burger | Space photo of the day for May 1, 2025](https://www.space.com/space-exploration/international-space-station/iss-astronaut-shares-recipe-for-a-ranger-burger-space-photo-of-the-day-for-may-1-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
