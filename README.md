@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google is reportedly showing ads in chats with some third-party AI chatbots](https://techcrunch.com/2025/05/01/google-is-reportedly-showing-ads-in-chats-with-some-third-party-ai-chatbots/)
+- [James Webb Space Telescope captures thousands of galaxies in a cosmic &#39;feast&#39; &lpar;image&rpar;](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-captures-thousands-of-galaxies-in-a-cosmic-feast-image)
 - [The Eta Aquarid meteor shower peaks May 6. Here&#39;s what to expect from the &#39;crumbs&#39; of Halley&#39;s Comet](https://www.space.com/stargazing/meteor-showers/the-eta-aquarid-meteor-shower-peaks-may-6-heres-what-to-expect-from-the-crumbs-of-halleys-comet)
 - [WhatsApp now has more than 3 billion users a month](https://techcrunch.com/2025/05/01/whatsapp-now-has-more-than-3-billion-users/)
 - [Doubts mount further over signs of alien life on K2-18b: &#39;This is evidence of the scientific process at work&#39;](https://www.space.com/space-exploration/search-for-life/doubts-mount-further-over-signs-of-alien-life-on-k2-18b-this-is-evidence-of-the-scientific-process-at-work)
-- [From tech pioneers to ‘extremists’: Belarusian founders face exile and statelessness](https://techcrunch.com/2025/05/01/branded-extremists-for-building-startups-belarusian-tech-pioneers-face-a-stateless-life-in-exile/)
-- [Tesla’s board reportedly sought a successor while Musk wheeled around Washington](https://techcrunch.com/2025/04/30/teslas-board-reportedly-sought-a-successor-while-musk-wheeled-around-washington/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
