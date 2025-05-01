@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These 5000-year-old Egyptian coffins depict the Milky Way galaxy, astrophysicist says](https://www.space.com/astronomy/these-5000-year-old-egyptian-coffins-depict-the-milky-way-galaxy-astrophysicist-says)
+- [Nvidia takes aim at Anthropic’s support of chip export controls](https://techcrunch.com/2025/05/01/nvidia-takes-aim-at-anthropics-support-of-chip-export-controls/)
 - [May Mobility to launch robotaxis on Uber platform this year in Texas](https://techcrunch.com/2025/05/01/may-mobility-to-launch-robotaxis-on-uber-platform-this-year-in-texas/)
 - [International Space Station fires thrusters to avoid Chinese rocket debris](https://www.space.com/space-exploration/international-space-station/international-space-station-fires-thrusters-to-avoid-chinese-rocket-debris)
 - [Epic Games is launching webshops to allow developers to circumvent app store fees after new ruling](https://techcrunch.com/2025/05/01/epic-games-is-launching-webshops-to-allow-developers-to-circumvent-app-store-fees-after-new-ruling/)
-- [Anthropic lets users connect more apps to Claude](https://techcrunch.com/2025/05/01/anthropic-lets-you-connect-apps-to-claude/)
-- [Fivetran acquires Census to become end-to-end data movement platform](https://techcrunch.com/2025/05/01/fivetran-acquires-census-to-become-end-to-end-data-movement-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
