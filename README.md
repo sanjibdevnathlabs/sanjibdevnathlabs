@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From tech pioneers to ‘extremists’: Belarusian founders face exile and statelessness](https://techcrunch.com/2025/05/01/branded-extremists-for-building-startups-belarusian-tech-pioneers-face-a-stateless-life-in-exile/)
 - [Tesla’s board reportedly sought a successor while Musk wheeled around Washington](https://techcrunch.com/2025/04/30/teslas-board-reportedly-sought-a-successor-while-musk-wheeled-around-washington/)
 - [Watch 2 NASA astronauts perform the 5th-ever all-female spacewalk today](https://www.space.com/space-exploration/international-space-station/watch-2-nasa-astronauts-perform-the-5th-ever-all-female-spacewalk-today)
 - [Microsoft’s most capable new Phi 4 AI model rivals the performance of far larger systems](https://techcrunch.com/2025/04/30/microsofts-most-capable-new-phi-4-ai-model-rivals-the-performance-of-far-larger-systems/)
 - [Sam Altman’s World unveils a mobile verification device](https://techcrunch.com/2025/04/30/sam-altmans-world-unveils-a-mobile-verification-device/)
-- [World partners with Tinder, Visa to bring its ID-verifying tech to more places](https://techcrunch.com/2025/04/30/world-partners-with-tinder-visa-to-bring-its-id-verifying-tech-to-more-places/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
