@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber’s latest autonomous vehicle partner? Chinese startup Momenta](https://techcrunch.com/2025/05/02/ubers-latest-autonomous-vehicle-partner-chinese-startup-momenta/)
+- [Look up! How to see the Eta Aquarid meteor shower 2025 peak overnight on May 5-6](https://www.space.com/stargazing/look-up-how-to-see-the-eta-aquarid-meteor-shower-2025-peak-overnight-on-may-5-6)
+- [&#39;Borderlands 4&#39; shows off new planet Kairos in gameplay deep dive, and it&#39;s coming a week earlier than we expected &lpar;video&rpar;](https://www.space.com/entertainment/space-games/borderlands-4-shows-off-new-planet-kairos-in-gameplay-deep-dive-and-its-coming-a-week-earlier-than-we-expected-video)
+- [Dating app Raw exposed users’ location data and personal information](https://techcrunch.com/2025/05/02/dating-app-raw-exposed-users-location-data-personal-information/)
 - [Startups Weekly: Drama or game-changer? You decide](https://techcrunch.com/2025/05/02/startups-weekly-drama-or-game-changer-you-decide/)
-- [Trump administration proposes slashing NASA budget by 24%](https://www.space.com/space-exploration/trump-administration-proposes-slashing-nasa-budget-by-24-percent)
-- [Gaze at a cluster of glowing galaxies | Space photo of the day for May 2, 2025](https://www.space.com/astronomy/galaxies/gaze-at-a-cluster-of-glowing-galaxies-space-photo-of-the-day-for-may-2-2025)
-- [Ara Partners’ new $800M fund will decarbonize old industrial assets](https://techcrunch.com/2025/05/02/ara-partners-new-800m-fund-will-decarbonize-old-industrial-assets/)
-- [SpaceX fires up Starship spacecraft ahead of 9th test flight &lpar;photo&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-spacecraft-ahead-of-9th-test-flight-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
