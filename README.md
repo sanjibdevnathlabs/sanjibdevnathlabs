@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ara Partners new $800M fund will decarbonize old industrial assets](https://techcrunch.com/2025/05/02/ara-partners-new-800m-fund-will-decarbonize-old-industrial-assets/)
+- [Startups Weekly: Drama or game-changer? You decide](https://techcrunch.com/2025/05/02/startups-weekly-drama-or-game-changer-you-decide/)
+- [Trump administration proposes slashing NASA budget by 24%](https://www.space.com/space-exploration/trump-administration-proposes-slashing-nasa-budget-by-24-percent)
+- [Gaze at a cluster of glowing galaxies | Space photo of the day for May 2, 2025](https://www.space.com/astronomy/galaxies/gaze-at-a-cluster-of-glowing-galaxies-space-photo-of-the-day-for-may-2-2025)
+- [Ara Partners’ new $800M fund will decarbonize old industrial assets](https://techcrunch.com/2025/05/02/ara-partners-new-800m-fund-will-decarbonize-old-industrial-assets/)
 - [SpaceX fires up Starship spacecraft ahead of 9th test flight &lpar;photo&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-spacecraft-ahead-of-9th-test-flight-photo)
-- [OpenAI pledges to make changes to prevent future ChatGPT sycophancy](https://techcrunch.com/2025/05/02/openai-pledges-to-make-changes-to-prevent-future-chatgpt-sycophancy/)
-- [Google’s NotebookLM Android and iOS apps are available for pre-order](https://techcrunch.com/2025/05/02/googles-notebooklm-android-and-ios-apps-are-available-for-pre-order/)
-- [New JWST observations of &#39;trans-Neptunian objects&#39; could help reveal our solar system&#39;s past](https://www.space.com/astronomy/james-webb-space-telescope/new-jwst-observations-of-trans-neptunian-objects-could-help-reveal-our-solar-systems-past)
 <!-- BLOG-POST-LIST:END -->
 
 ---
