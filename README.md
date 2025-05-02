@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Uber’s latest autonomous vehicle partner? Chinese startup Momenta](https://techcrunch.com/2025/05/02/ubers-latest-autonomous-vehicle-partner-chinese-startup-momenta/)
-- [Look up! How to see the Eta Aquarid meteor shower 2025 peak overnight on May 5-6](https://www.space.com/stargazing/look-up-how-to-see-the-eta-aquarid-meteor-shower-2025-peak-overnight-on-may-5-6)
-- [&#39;Borderlands 4&#39; shows off new planet Kairos in gameplay deep dive, and it&#39;s coming a week earlier than we expected &lpar;video&rpar;](https://www.space.com/entertainment/space-games/borderlands-4-shows-off-new-planet-kairos-in-gameplay-deep-dive-and-its-coming-a-week-earlier-than-we-expected-video)
-- [Dating app Raw exposed users’ location data and personal information](https://techcrunch.com/2025/05/02/dating-app-raw-exposed-users-location-data-personal-information/)
-- [Startups Weekly: Drama or game-changer? You decide](https://techcrunch.com/2025/05/02/startups-weekly-drama-or-game-changer-you-decide/)
+- [Ruko F11PRO 2 drone review](https://www.space.com/tech/ruko-f11pro-2-drone-review)
+- [One of Google’s recent Gemini AI models scores worse on safety](https://techcrunch.com/2025/05/02/one-of-googles-recent-gemini-ai-models-scores-worse-on-safety/)
+- [Apple and Anthropic reportedly partner to build an AI coding platform](https://techcrunch.com/2025/05/02/apple-and-anthropic-reportedly-partner-to-build-an-ai-coding-platform/)
+- [Reshaping our return to the moon: Trump&#39;s 2026 budget gives Artemis a major facelift](https://www.space.com/space-exploration/reshaping-our-return-to-the-moon-trumps-2026-budget-gives-artemis-a-major-facelift)
+- [Experts alarmed as White House proposes &#39;largest single-year cut to NASA in American history&#39;](https://www.space.com/space-exploration/experts-alarmed-as-white-house-proposes-largest-single-year-cut-to-nasa-in-american-history)
 <!-- BLOG-POST-LIST:END -->
 
 ---
