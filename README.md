@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Falcon 9 rocket launches 28 Starlink satellites to orbit from Florida &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-75-b1080-ccsfs)
 - [Amazon CEO says 100,000 users now have Alexa+](https://techcrunch.com/2025/05/01/amazon-ceo-says-100000-users-now-have-alexa/)
 - [Reddit’s AI play is for the Google crowd, not just the community scrollers](https://techcrunch.com/2025/05/01/reddits-ai-play-is-for-the-google-crowd-not-just-the-community-scrollers/)
 - [Despite paying $900M in tariffs, Apple’s Tim Cook isn’t announcing price increases — yet](https://techcrunch.com/2025/05/01/despite-paying-900m-in-tariffs-apples-tim-cook-isnt-announcing-price-increases-yet/)
 - [Apple CEO Tim Cook says tariffs to add $900M in costs in Q3, but future uncertain](https://techcrunch.com/2025/05/01/apple-ceo-tim-cook-says-tariffs-to-add-900m-in-costs-in-q3/)
-- [NASA still trying to revive silent Lunar Trailblazer moon orbiter](https://www.space.com/space-exploration/missions/nasa-still-trying-to-revive-silent-lunar-trailblazer-moon-orbiter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
