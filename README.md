@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope finds coldest exoplanet ever seen, and it orbits a dead star](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-finds-coldest-exoplanet-ever-seen-and-it-orbits-a-dead-star)
+- [Aurora launches its driverless commercial trucking service, and a surprise bidder joins Canoo’s bankruptcy case](https://techcrunch.com/2025/05/02/aurora-launches-its-driverless-commercial-trucking-service-and-a-surprise-bidder-joins-canoos-bankruptcy-case/)
+- [Will SpaceX&#39;s Starbase become a city? Voters will decide on May 3](https://www.space.com/space-exploration/private-spaceflight/will-spacexs-starbase-become-a-city-voters-will-decide-on-may-3)
 - [Google will soon start letting kids under 13 use its Gemini chatbot](https://techcrunch.com/2025/05/02/google-will-soon-start-letting-kids-under-13-use-its-gemini-chatbot/)
 - [Ruko F11PRO 2 drone review](https://www.space.com/tech/ruko-f11pro-2-drone-review)
-- [One of Google’s recent Gemini AI models scores worse on safety](https://techcrunch.com/2025/05/02/one-of-googles-recent-gemini-ai-models-scores-worse-on-safety/)
-- [Apple and Anthropic reportedly partner to build an AI coding platform](https://techcrunch.com/2025/05/02/apple-and-anthropic-reportedly-partner-to-build-an-ai-coding-platform/)
-- [Reshaping our return to the moon: Trump&#39;s 2026 budget gives Artemis a major facelift](https://www.space.com/space-exploration/reshaping-our-return-to-the-moon-trumps-2026-budget-gives-artemis-a-major-facelift)
 <!-- BLOG-POST-LIST:END -->
 
 ---
