@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New images of Soviet Venus lander falling to Earth suggest its parachute may be out](https://www.space.com/space-exploration/launches-spacecraft/new-images-of-soviet-venus-lander-falling-to-earth-suggest-its-parachute-may-be-out)
+- [Airbnb is quietly rolling out an AI customer service bot in the US](https://techcrunch.com/2025/05/02/airbnb-is-quietly-rolling-out-an-ai-customer-service-bot-in-the-us/)
 - [NASA just got the Orion spacecraft that will fly astronauts around the moon on Artemis 2 in 2026](https://www.space.com/space-exploration/artemis/nasa-just-got-the-orion-spacecraft-that-will-fly-astronauts-around-the-moon-on-artemis-2-in-2026)
 - [See the moon and Mars buzz a cosmic Beehive this weekend](https://www.space.com/stargazing/see-the-moon-and-mars-buzz-the-beehive-this-weekend)
 - [This strange bacteria aligns to Earth&#39;s magnetic field and needs friends to survive](https://www.space.com/space-exploration/search-for-life/this-strange-bacteria-aligns-to-earths-magnetic-field-and-needs-friends-to-survive)
-- [Apple changes US App Store rules to let apps link to external payment systems](https://techcrunch.com/2025/05/02/apple-changes-us-app-store-rules-to-let-apps-redirect-users-to-their-own-websites-for-payments/)
-- [SpaceX Falcon 9 rocket launches 28 Starlink satellites to orbit from Florida &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-75-b1080-ccsfs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
