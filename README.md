@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ara Partners new $800M fund will decarbonize old industrial assets](https://techcrunch.com/2025/05/02/ara-partners-new-800m-fund-will-decarbonize-old-industrial-assets/)
+- [SpaceX fires up Starship spacecraft ahead of 9th test flight &lpar;photo&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-spacecraft-ahead-of-9th-test-flight-photo)
+- [OpenAI pledges to make changes to prevent future ChatGPT sycophancy](https://techcrunch.com/2025/05/02/openai-pledges-to-make-changes-to-prevent-future-chatgpt-sycophancy/)
+- [Google’s NotebookLM Android and iOS apps are available for pre-order](https://techcrunch.com/2025/05/02/googles-notebooklm-android-and-ios-apps-are-available-for-pre-order/)
 - [New JWST observations of &#39;trans-Neptunian objects&#39; could help reveal our solar system&#39;s past](https://www.space.com/astronomy/james-webb-space-telescope/new-jwst-observations-of-trans-neptunian-objects-could-help-reveal-our-solar-systems-past)
-- [DARPA wants a spacecraft to search for water on the moon](https://www.space.com/astronomy/moon/darpa-wants-a-spacecraft-to-search-for-water-on-the-moon)
-- [Apple approves Spotify app update that allows U.S. users to access pricing info, external payment links](https://techcrunch.com/2025/05/02/apple-approves-spotify-app-update-that-allows-u-s-users-to-access-pricing-info-external-payment-links/)
-- [New images of Soviet Venus lander falling to Earth suggest its parachute may be out](https://www.space.com/space-exploration/launches-spacecraft/new-images-of-soviet-venus-lander-falling-to-earth-suggest-its-parachute-may-be-out)
-- [Airbnb is quietly rolling out an AI customer service bot in the US](https://techcrunch.com/2025/05/02/airbnb-is-quietly-rolling-out-an-ai-customer-service-bot-in-the-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
