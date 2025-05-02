@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google will soon start letting kids under 13 use its Gemini chatbot](https://techcrunch.com/2025/05/02/google-will-soon-start-letting-kids-under-13-use-its-gemini-chatbot/)
 - [Ruko F11PRO 2 drone review](https://www.space.com/tech/ruko-f11pro-2-drone-review)
 - [One of Google’s recent Gemini AI models scores worse on safety](https://techcrunch.com/2025/05/02/one-of-googles-recent-gemini-ai-models-scores-worse-on-safety/)
 - [Apple and Anthropic reportedly partner to build an AI coding platform](https://techcrunch.com/2025/05/02/apple-and-anthropic-reportedly-partner-to-build-an-ai-coding-platform/)
 - [Reshaping our return to the moon: Trump&#39;s 2026 budget gives Artemis a major facelift](https://www.space.com/space-exploration/reshaping-our-return-to-the-moon-trumps-2026-budget-gives-artemis-a-major-facelift)
-- [Experts alarmed as White House proposes &#39;largest single-year cut to NASA in American history&#39;](https://www.space.com/space-exploration/experts-alarmed-as-white-house-proposes-largest-single-year-cut-to-nasa-in-american-history)
 <!-- BLOG-POST-LIST:END -->
 
 ---
