@@ -148,7 +148,7 @@ I'm a software developer passionate about designing and building applications wi
 <!-- BLOG-POST-LIST:START -->
 - [See the moon and Mars buzz a cosmic Beehive this weekend](https://www.space.com/stargazing/see-the-moon-and-mars-buzz-the-beehive-this-weekend)
 - [This strange bacteria aligns to Earth&#39;s magnetic field and needs friends to survive](https://www.space.com/space-exploration/search-for-life/this-strange-bacteria-aligns-to-earths-magnetic-field-and-needs-friends-to-survive)
-- [Apple changes US App Store rules to let apps redirect users to their own websites for payments](https://techcrunch.com/2025/05/02/apple-changes-us-app-store-rules-to-let-apps-redirect-users-to-their-own-websites-for-payments/)
+- [Apple changes US App Store rules to let apps link to external payment systems](https://techcrunch.com/2025/05/02/apple-changes-us-app-store-rules-to-let-apps-redirect-users-to-their-own-websites-for-payments/)
 - [SpaceX Falcon 9 rocket launches 28 Starlink satellites to orbit from Florida &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-75-b1080-ccsfs)
 - [Amazon CEO says 100,000 users now have Alexa+](https://techcrunch.com/2025/05/01/amazon-ceo-says-100000-users-now-have-alexa/)
 <!-- BLOG-POST-LIST:END -->
