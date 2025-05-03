@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A whole &#39;population&#39; of minimoons may be lurking near Earth, researchers say](https://www.space.com/astronomy/solar-system/a-whole-population-of-minimoons-may-be-lurking-near-earth-researchers-say)
 - [AI chatbots are ‘juicing engagement’ instead of being useful, Instagram co-founder warns](https://techcrunch.com/2025/05/02/ai-chatbots-are-juicing-engagement-instead-of-being-useful-instagram-co-founder-warns/)
 - [James Webb Space Telescope finds coldest exoplanet ever seen, and it orbits a dead star](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-finds-coldest-exoplanet-ever-seen-and-it-orbits-a-dead-star)
 - [TechCrunch Mobility: Aurora launches its driverless commercial trucking service, and a surprise bidder joins Canoo’s bankruptcy case](https://techcrunch.com/2025/05/02/techcrunch-mobility-aurora-launches-its-driverless-commercial-trucking-service-and-a-surprise-bidder-joins-canoos-bankruptcy-case/)
 - [Will SpaceX&#39;s Starbase become a city? Voters will decide on May 3](https://www.space.com/space-exploration/private-spaceflight/will-spacexs-starbase-become-a-city-voters-will-decide-on-may-3)
-- [Google will soon start letting kids under 13 use its Gemini chatbot](https://techcrunch.com/2025/05/02/google-will-soon-start-letting-kids-under-13-use-its-gemini-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
