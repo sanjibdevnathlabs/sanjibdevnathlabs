@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Temu stops shipping products from China to the U.S.](https://techcrunch.com/2025/05/03/temu-stops-shipping-products-from-china-to-the-u-s/)
 - [Warren Buffett will step down as Berkshire Hathaway CEO](https://techcrunch.com/2025/05/03/warren-buffett-will-step-down-as-berkshire-hathaway-ceo/)
 - [Week in Review: Apple won’t raise prices — yet](https://techcrunch.com/2025/05/03/week-in-review-apple-wont-raise-prices-yet/)
 - [Google’s Gemini has beaten Pokémon Blue &lpar;with a little help&rpar;](https://techcrunch.com/2025/05/03/googles-gemini-has-beaten-pokemon-blue-with-a-little-help/)
 - [eBay and Etsy are relatively confident despite tariff pressures](https://techcrunch.com/2025/05/03/ebay-and-etsy-are-relatively-confident-despite-tariff-pressures/)
-- [This Week In Space podcast: Episode 159 — AI in Space!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-159-ai-in-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
