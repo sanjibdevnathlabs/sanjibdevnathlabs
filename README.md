@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astrophotographer captures the moon and Jupiter suspended above one of Europe&#39;s oldest lakes &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotographer-captures-the-moon-and-jupiter-suspended-above-one-of-europes-oldest-lakes-photo)
 - [How Riot Games is fighting the war against video game hackers](https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/)
 - [A whole &#39;population&#39; of minimoons may be lurking near Earth, researchers say](https://www.space.com/astronomy/solar-system/a-whole-population-of-minimoons-may-be-lurking-near-earth-researchers-say)
 - [AI chatbots are ‘juicing engagement’ instead of being useful, Instagram co-founder warns](https://techcrunch.com/2025/05/02/ai-chatbots-are-juicing-engagement-instead-of-being-useful-instagram-co-founder-warns/)
 - [James Webb Space Telescope finds coldest exoplanet ever seen, and it orbits a dead star](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-finds-coldest-exoplanet-ever-seen-and-it-orbits-a-dead-star)
-- [TechCrunch Mobility: Aurora launches its driverless commercial trucking service, and a surprise bidder joins Canoo’s bankruptcy case](https://techcrunch.com/2025/05/02/techcrunch-mobility-aurora-launches-its-driverless-commercial-trucking-service-and-a-surprise-bidder-joins-canoos-bankruptcy-case/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
