@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Revelo’s LatAm talent network sees strong demand from US companies, thanks to AI](https://techcrunch.com/2025/05/04/revelos-latam-talent-network-sees-strong-demand-from-us-companies-thanks-to-ai/)
 - [Backstage access: Spotify’s dev tools side-hustle is growing legs](https://techcrunch.com/2025/05/04/backstage-access-spotifys-dev-tools-side-hustle-is-growing-legs/)
 - [This iconic &#39;Star Wars&#39; Rebel pilot helmet from the Battle of Hoth could fetch $400K at auction](https://www.space.com/entertainment/this-iconic-star-wars-rebel-pilot-helmet-from-the-battle-of-hoth-could-fetch-usd400k-at-auction)
 - [&#39;Falcon&#39; flies on Star Wars Day: SpaceX launches Starlink satellites from Florida &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/falcon-flies-on-star-wars-day-spacex-launches-starlink-satellites-from-florida-photos)
 - [Forget Darth Vader and the Emperor: The Empire has never been scarier than in &#39;Andor&#39; season 2](https://www.space.com/entertainment/space-movies-shows/forget-darth-vader-and-the-emperor-the-empire-has-never-been-scarier-than-in-andor-season-2)
-- [What would it be like living on Tatooine from &#39;Star Wars&#39;? This exoplanet orbiting twin suns could tell us](https://www.space.com/astronomy/exoplanets/what-would-it-be-like-living-on-tatooine-from-star-wars-this-exoplanet-orbiting-twin-suns-could-tell-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
