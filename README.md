@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [For Star Wars Day, May the 4th, you&#39;ll have to use all your Jedi powers to grab this Lego set — Jango Fett&#39;s Starship WILL sell out fast](https://www.space.com/entertainment/for-star-wars-day-may-the-4th-youll-have-to-use-all-your-jedi-powers-to-grab-this-lego-set-jango-fetts-starship-will-sell-out-fast)
 - [Get everybody&#39;s favorite droid at its lowest-ever price for Star Wars Day!](https://www.space.com/entertainment/get-everybodys-favorite-droid-at-its-lowest-ever-price-for-star-wars-day)
 - [Temu stops shipping products from China to the U.S.](https://techcrunch.com/2025/05/03/temu-stops-shipping-products-from-china-to-the-u-s/)
 - [Warren Buffett will step down as Berkshire Hathaway CEO](https://techcrunch.com/2025/05/03/warren-buffett-will-step-down-as-berkshire-hathaway-ceo/)
 - [Week in Review: Apple won’t raise prices — yet](https://techcrunch.com/2025/05/03/week-in-review-apple-wont-raise-prices-yet/)
-- [Google’s Gemini has beaten Pokémon Blue &lpar;with a little help&rpar;](https://techcrunch.com/2025/05/03/googles-gemini-has-beaten-pokemon-blue-with-a-little-help/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
