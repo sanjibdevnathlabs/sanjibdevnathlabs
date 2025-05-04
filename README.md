@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Backstage access: Spotify’s dev tools side-hustle is growing legs](https://techcrunch.com/2025/05/04/backstage-access-spotifys-dev-tools-side-hustle-is-growing-legs/)
+- [This iconic &#39;Star Wars&#39; Rebel pilot helmet from the Battle of Hoth could fetch $400K at auction](https://www.space.com/entertainment/this-iconic-star-wars-rebel-pilot-helmet-from-the-battle-of-hoth-could-fetch-usd400k-at-auction)
+- [&#39;Falcon&#39; flies on Star Wars Day: SpaceX launches Starlink satellites from Florida &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/falcon-flies-on-star-wars-day-spacex-launches-starlink-satellites-from-florida-photos)
 - [Forget Darth Vader and the Emperor: The Empire has never been scarier than in &#39;Andor&#39; season 2](https://www.space.com/entertainment/space-movies-shows/forget-darth-vader-and-the-emperor-the-empire-has-never-been-scarier-than-in-andor-season-2)
 - [What would it be like living on Tatooine from &#39;Star Wars&#39;? This exoplanet orbiting twin suns could tell us](https://www.space.com/astronomy/exoplanets/what-would-it-be-like-living-on-tatooine-from-star-wars-this-exoplanet-orbiting-twin-suns-could-tell-us)
-- [For Star Wars Day, May the 4th, you&#39;ll have to use all your Jedi powers to grab this Lego set — Jango Fett&#39;s Starship WILL sell out fast](https://www.space.com/entertainment/for-star-wars-day-may-the-4th-youll-have-to-use-all-your-jedi-powers-to-grab-this-lego-set-jango-fetts-starship-will-sell-out-fast)
-- [Get everybody&#39;s favorite droid at its lowest-ever price for Star Wars Day!](https://www.space.com/entertainment/get-everybodys-favorite-droid-at-its-lowest-ever-price-for-star-wars-day)
-- [Temu stops shipping products from China to the U.S.](https://techcrunch.com/2025/05/03/temu-stops-shipping-products-from-china-to-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
