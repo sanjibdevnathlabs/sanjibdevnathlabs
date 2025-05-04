@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Residents of SpaceX’s Starbase launch site vote to incorporate as a city](https://techcrunch.com/2025/05/04/residents-of-spacexs-starbase-launch-site-vote-to-incorporate-as-a-city/)
 - [10 must-have &#39;Star Wars&#39; books and novels coming soon to your galaxy](https://www.space.com/entertainment/space-books/10-must-have-star-wars-books-and-novels-coming-soon-to-your-galaxy)
 - [Revelo’s LatAm talent network sees strong demand from US companies, thanks to AI](https://techcrunch.com/2025/05/04/revelos-latam-talent-network-sees-strong-demand-from-us-companies-thanks-to-ai/)
 - [Backstage access: Spotify’s dev tools side-hustle is growing legs](https://techcrunch.com/2025/05/04/backstage-access-spotifys-dev-tools-side-hustle-is-growing-legs/)
 - [This iconic &#39;Star Wars&#39; Rebel pilot helmet from the Battle of Hoth could fetch $400K at auction](https://www.space.com/entertainment/this-iconic-star-wars-rebel-pilot-helmet-from-the-battle-of-hoth-could-fetch-usd400k-at-auction)
-- [&#39;Falcon&#39; flies on Star Wars Day: SpaceX launches Starlink satellites from Florida &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/falcon-flies-on-star-wars-day-spacex-launches-starlink-satellites-from-florida-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
