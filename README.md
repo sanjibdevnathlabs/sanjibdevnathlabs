@@ -150,7 +150,7 @@ I'm a software developer passionate about designing and building applications wi
 - [A giant crater on the moon may hold remnants of an ancient magma ocean. Artemis astronauts could bring home samples of it](https://www.space.com/astronomy/moon/a-giant-crater-on-the-moon-may-hold-remnants-of-an-ancient-magma-ocean-artemis-astronauts-could-bring-home-samples-of-it)
 - [Tesla sales continue to slump across Europe despite April EV sales swell](https://techcrunch.com/2025/05/05/tesla-sales-continue-to-slump-across-europe-despite-april-ev-sales-swell/)
 - [Datadog acquires Eppo, a feature flagging and experimentation platform](https://techcrunch.com/2025/05/05/datadog-acquires-eppo-a-feature-flagging-and-experimentation-platform/)
-- [Skype shutting down today — these are the best alternatives](https://techcrunch.com/2025/05/05/skype-shuts-down-in-may-these-are-the-best-alternatives/)
+- [Skype is shutting down today — these are the best alternatives](https://techcrunch.com/2025/05/05/skype-shuts-down-in-may-these-are-the-best-alternatives/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
