@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Eta Aquarid meteor shower peaks tonight: Here&#39;s how to see fragments of Halley&#39;s comet burn up in the atmosphere](https://www.space.com/stargazing/meteor-showers/the-eta-aquarid-meteor-shower-peaks-tonight-heres-how-to-see-fragments-of-halleys-comet-burn-up-in-the-atmosphere)
-- [What time is it on the moon? US House space committee wants a standard lunar clock](https://www.space.com/astronomy/moon/what-time-is-it-on-the-moon-us-house-space-committee-wants-a-standard-lunar-clock)
-- [TeleMessage, a modified Signal clone used by US govt. officials, has been hacked](https://techcrunch.com/2025/05/05/telemessage-a-modified-signal-clone-used-by-us-govt-officials-has-been-hacked/)
-- [Apple plans to split iPhone 18 launch into two phases in 2026](https://techcrunch.com/2025/05/05/apple-plans-to-split-iphone-18-launch-into-two-phases-in-2026/)
-- [Scientists chased a falling spacecraft with a plane to understand satellite air pollution](https://www.space.com/space-exploration/satellites/scientists-chased-a-falling-spacecraft-with-a-plane-to-understand-satellite-air-pollution)
+- [Pinterest updates visual search with more AI-powered features](https://techcrunch.com/2025/05/05/pinterest-updates-visual-search-with-more-ai-powered-features/)
+- [A giant crater on the moon may hold remnants of an ancient magma ocean. Artemis astronauts could bring home samples of it](https://www.space.com/astronomy/moon/a-giant-crater-on-the-moon-may-hold-remnants-of-an-ancient-magma-ocean-artemis-astronauts-could-bring-home-samples-of-it)
+- [Tesla sales continue to slump across Europe despite April EV sales swell](https://techcrunch.com/2025/05/05/tesla-sales-continue-to-slump-across-europe-despite-april-ev-sales-swell/)
+- [Datadog acquires Eppo, a feature flagging and experimentation platform](https://techcrunch.com/2025/05/05/datadog-acquires-eppo-a-feature-flagging-and-experimentation-platform/)
+- [Skype shutting down today — these are the best alternatives](https://techcrunch.com/2025/05/05/skype-shuts-down-in-may-these-are-the-best-alternatives/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
