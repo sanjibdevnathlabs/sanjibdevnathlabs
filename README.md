@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google is making TV and movies to convince you that tech is not evil](https://techcrunch.com/2025/05/05/google-is-making-tv-and-movies-to-convince-you-that-tech-is-not-evil/)
+- [Anthropic launches a program to support scientific research](https://techcrunch.com/2025/05/05/anthropic-launches-a-program-to-support-scientific-research/)
+- [Apple appeals decision that forced it to allow links to external payments in apps](https://techcrunch.com/2025/05/05/apple-appeals-decision-that-forced-it-to-allow-links-to-external-payments-in-apps/)
+- [Skype shuts down after 23 years](https://techcrunch.com/video/skype-shuts-down-after-23-years/)
 - [Rork’s founders were almost broke when a viral tweet led to $2.8M and a16z](https://techcrunch.com/2025/05/05/rorks-founders-were-almost-broke-when-a-viral-tweet-led-to-2-8m-and-a16z/)
-- [A new startup called Bono aims to modernize the way people donate to charities](https://techcrunch.com/2025/05/05/a-new-startup-called-bono-aims-to-modernize-the-way-people-donate-to-charities/)
-- [New US Space Force documentary &#39;Always Above&#39; lands in planetariums](https://www.space.com/entertainment/new-us-space-force-documentary-always-above-lands-in-planetariums)
-- [Hubble spies a skewed spiral galaxy | Space photo of the day for May 5, 2025](https://www.space.com/astronomy/hubble-space-telescope/hubble-spies-a-skewed-spiral-galaxy-space-photo-of-the-day-for-may-5-2025)
-- [Pinterest updates visual search with more AI-powered features](https://techcrunch.com/2025/05/05/pinterest-updates-visual-search-with-more-ai-powered-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
