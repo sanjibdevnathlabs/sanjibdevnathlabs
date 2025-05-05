@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anysphere, which makes Cursor, has reportedly raised $900M at $9B valuation](https://techcrunch.com/2025/05/04/cursor-is-reportedly-raising-funds-at-9-billion-valuation-from-thrive-a16z-and-accel/)
 - [MoneyFellows raises $13M to take its group savings model outside Egypt](https://techcrunch.com/2025/05/04/moneyfellows-raises-13m-to-take-its-group-savings-model-outside-egypt/)
 - [Is Duolingo the face of an AI jobs crisis?](https://techcrunch.com/2025/05/04/is-duolingo-the-face-of-an-ai-jobs-crisis/)
 - [Trump says he’s willing to delay TikTok ban again](https://techcrunch.com/2025/05/04/trump-says-hes-willing-to-delay-tiktok-ban-again/)
 - [Residents of SpaceX’s Starbase launch site vote to incorporate as a city](https://techcrunch.com/2025/05/04/residents-of-spacexs-starbase-launch-site-vote-to-incorporate-as-a-city/)
-- [10 must-have &#39;Star Wars&#39; books and novels coming soon to your galaxy](https://www.space.com/entertainment/space-books/10-must-have-star-wars-books-and-novels-coming-soon-to-your-galaxy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
