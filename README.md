@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI reverses course, says its nonprofit will remain in control of its business operations](https://techcrunch.com/2025/05/05/openai-reverses-course-says-its-nonprofit-will-remain-in-control-of-its-business-operations/)
+- [20 years ago, &#39;Star Wars: Episode III – Revenge of the Sith&#39; hit theaters... but 2 weeks earlier, the tie-in game had already spoiled the ending](https://www.space.com/entertainment/20-years-ago-star-wars-episode-iii-revenge-of-the-sith-hit-theaters-but-2-weeks-earlier-the-tie-in-game-had-already-spoiled-the-ending)
+- [Over 250 CEOs sign open letter supporting K-12 AI and computer science education](https://techcrunch.com/2025/05/05/over-250-ceos-sign-open-letter-supporting-k-12-ai-and-computer-science-education/)
 - [Google is making TV and movies to convince you that tech is not evil](https://techcrunch.com/2025/05/05/google-is-making-tv-and-movies-to-convince-you-that-tech-is-not-evil/)
 - [Anthropic launches a program to support scientific research](https://techcrunch.com/2025/05/05/anthropic-launches-a-program-to-support-scientific-research/)
-- [Apple appeals decision that forced it to allow links to external payments in apps](https://techcrunch.com/2025/05/05/apple-appeals-decision-that-forced-it-to-allow-links-to-external-payments-in-apps/)
-- [Skype shuts down after 23 years](https://techcrunch.com/video/skype-shuts-down-after-23-years/)
-- [Rork’s founders were almost broke when a viral tweet led to $2.8M and a16z](https://techcrunch.com/2025/05/05/rorks-founders-were-almost-broke-when-a-viral-tweet-led-to-2-8m-and-a16z/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
