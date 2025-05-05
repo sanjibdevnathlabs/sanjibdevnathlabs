@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/05/05/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/)
-- [Layoffs hit General Fusion as the fusion power startup runs short on cash](https://techcrunch.com/2025/05/05/layoffs-hit-general-fusion-as-the-fusion-power-startup-runs-short-on-cash/)
-- [NASA&#39;s Artemis 2 moon rocket gets 2nd stage even as Trump tries to scrap Space Launch System &lpar;photos&rpar;](https://www.space.com/space-exploration/artemis/nasas-artemis-2-moon-rocket-gets-2nd-stage-even-as-trump-tries-to-scrap-space-launch-system-photos)
-- [Elon Musk took a chainsaw to the US government. Tesla is taking the hit.](https://techcrunch.com/2025/05/05/elon-musk-took-a-chainsaw-to-the-us-government-tesla-is-taking-the-hit/)
-- [TeleMessage, a modified Signal clone used by US government officials, has been hacked](https://techcrunch.com/2025/05/05/telemessage-a-modified-signal-clone-used-by-us-government-officials-has-been-hacked/)
+- [A stealth AI model beat DALL-E and Midjourney on a popular benchmark. Its creator just landed $30M.](https://techcrunch.com/2025/05/05/a-stealth-ai-model-beat-dall-e-and-midjourney-on-a-popular-benchmark-its-creator-just-landed-30m/)
+- [Google accidentally reveals details about its new Android design language, Material 3 Expressive](https://techcrunch.com/2025/05/05/google-accidentally-reveals-details-about-its-new-android-design-language-material-3-expressive/)
+- [Meet the companies racing to build quantum chips](https://techcrunch.com/2025/05/05/meet-the-companies-racing-to-build-quantum-chips/)
+- [Here are Latin America’s biggest startups based on valuation](https://techcrunch.com/2025/05/05/here-are-latin-americas-biggest-startups-based-on-valuation/)
+- [Anduril is working on the difficult AI-related task of real-time edge computing](https://techcrunch.com/2025/05/05/anduril-is-working-on-the-difficult-ai-related-task-of-real-time-edge-computing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
