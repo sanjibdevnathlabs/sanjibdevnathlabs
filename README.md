@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rork’s founders were almost broke when a viral tweet led to $2.8M and a16z](https://techcrunch.com/2025/05/05/rorks-founders-were-almost-broke-when-a-viral-tweet-led-to-2-8m-and-a16z/)
+- [A new startup called Bono aims to modernize the way people donate to charities](https://techcrunch.com/2025/05/05/a-new-startup-called-bono-aims-to-modernize-the-way-people-donate-to-charities/)
+- [New US Space Force documentary &#39;Always Above&#39; lands in planetariums](https://www.space.com/entertainment/new-us-space-force-documentary-always-above-lands-in-planetariums)
+- [Hubble spies a skewed spiral galaxy | Space photo of the day for May 5, 2025](https://www.space.com/astronomy/hubble-space-telescope/hubble-spies-a-skewed-spiral-galaxy-space-photo-of-the-day-for-may-5-2025)
 - [Pinterest updates visual search with more AI-powered features](https://techcrunch.com/2025/05/05/pinterest-updates-visual-search-with-more-ai-powered-features/)
-- [A giant crater on the moon may hold remnants of an ancient magma ocean. Artemis astronauts could bring home samples of it](https://www.space.com/astronomy/moon/a-giant-crater-on-the-moon-may-hold-remnants-of-an-ancient-magma-ocean-artemis-astronauts-could-bring-home-samples-of-it)
-- [Tesla sales continue to slump across Europe despite April EV sales swell](https://techcrunch.com/2025/05/05/tesla-sales-continue-to-slump-across-europe-despite-april-ev-sales-swell/)
-- [Datadog acquires Eppo, a feature flagging and experimentation platform](https://techcrunch.com/2025/05/05/datadog-acquires-eppo-a-feature-flagging-and-experimentation-platform/)
-- [Skype is shutting down today — these are the best alternatives](https://techcrunch.com/2025/05/05/skype-shuts-down-in-may-these-are-the-best-alternatives/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
