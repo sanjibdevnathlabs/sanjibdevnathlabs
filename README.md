@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What time is it on the moon? US House space committee wants a standard lunar clock](https://www.space.com/astronomy/moon/what-time-is-it-on-the-moon-us-house-space-committee-wants-a-standard-lunar-clock)
+- [TeleMessage, a modified Signal clone used by US govt. officials, has been hacked](https://techcrunch.com/2025/05/05/telemessage-a-modified-signal-clone-used-by-us-govt-officials-has-been-hacked/)
 - [Apple plans to split iPhone 18 launch into two phases in 2026](https://techcrunch.com/2025/05/05/apple-plans-to-split-iphone-18-launch-into-two-phases-in-2026/)
 - [Scientists chased a falling spacecraft with a plane to understand satellite air pollution](https://www.space.com/space-exploration/satellites/scientists-chased-a-falling-spacecraft-with-a-plane-to-understand-satellite-air-pollution)
 - [Anysphere, which makes Cursor, has reportedly raised $900M at $9B valuation](https://techcrunch.com/2025/05/04/cursor-is-reportedly-raising-funds-at-9-billion-valuation-from-thrive-a16z-and-accel/)
-- [MoneyFellows raises $13M to take its group savings model outside Egypt](https://techcrunch.com/2025/05/04/moneyfellows-raises-13m-to-take-its-group-savings-model-outside-egypt/)
-- [Is Duolingo the face of an AI jobs crisis?](https://techcrunch.com/2025/05/04/is-duolingo-the-face-of-an-ai-jobs-crisis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
