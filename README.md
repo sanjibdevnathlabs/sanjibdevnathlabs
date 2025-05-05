@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube is testing a discounted two-person Premium subscription tier](https://techcrunch.com/2025/05/05/youtube-is-testing-a-discounted-two-person-premium-subscription-tier/)
+- [GlobalX, airline used for Trump deportations, gets hacked: report](https://techcrunch.com/2025/05/05/globalx-airline-used-for-trump-deportations-gets-hacked-report/)
+- [11x CEO Hasan Sukkar steps down](https://techcrunch.com/2025/05/05/11x-ceo-hasan-sukkar-steps-down/)
 - [OpenAI reverses course, says its nonprofit will remain in control of its business operations](https://techcrunch.com/2025/05/05/openai-reverses-course-says-its-nonprofit-will-remain-in-control-of-its-business-operations/)
 - [20 years ago, &#39;Star Wars: Episode III – Revenge of the Sith&#39; hit theaters... but 2 weeks earlier, the tie-in game had already spoiled the ending](https://www.space.com/entertainment/20-years-ago-star-wars-episode-iii-revenge-of-the-sith-hit-theaters-but-2-weeks-earlier-the-tie-in-game-had-already-spoiled-the-ending)
-- [Over 250 CEOs sign open letter supporting K-12 AI and computer science education](https://techcrunch.com/2025/05/05/over-250-ceos-sign-open-letter-supporting-k-12-ai-and-computer-science-education/)
-- [Google is making TV and movies to convince you that tech is not evil](https://techcrunch.com/2025/05/05/google-is-making-tv-and-movies-to-convince-you-that-tech-is-not-evil/)
-- [Anthropic launches a program to support scientific research](https://techcrunch.com/2025/05/05/anthropic-launches-a-program-to-support-scientific-research/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
