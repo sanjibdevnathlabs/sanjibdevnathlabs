@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube is testing a discounted two-person Premium subscription tier](https://techcrunch.com/2025/05/05/youtube-is-testing-a-discounted-two-person-premium-subscription-tier/)
-- [GlobalX, airline used for Trump deportations, gets hacked: report](https://techcrunch.com/2025/05/05/globalx-airline-used-for-trump-deportations-gets-hacked-report/)
-- [11x CEO Hasan Sukkar steps down](https://techcrunch.com/2025/05/05/11x-ceo-hasan-sukkar-steps-down/)
-- [OpenAI reverses course, says its nonprofit will remain in control of its business operations](https://techcrunch.com/2025/05/05/openai-reverses-course-says-its-nonprofit-will-remain-in-control-of-its-business-operations/)
-- [20 years ago, &#39;Star Wars: Episode III – Revenge of the Sith&#39; hit theaters... but 2 weeks earlier, the tie-in game had already spoiled the ending](https://www.space.com/entertainment/20-years-ago-star-wars-episode-iii-revenge-of-the-sith-hit-theaters-but-2-weeks-earlier-the-tie-in-game-had-already-spoiled-the-ending)
+- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/05/05/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/)
+- [Layoffs hit General Fusion as the fusion power startup runs short on cash](https://techcrunch.com/2025/05/05/layoffs-hit-general-fusion-as-the-fusion-power-startup-runs-short-on-cash/)
+- [NASA&#39;s Artemis 2 moon rocket gets 2nd stage even as Trump tries to scrap Space Launch System &lpar;photos&rpar;](https://www.space.com/space-exploration/artemis/nasas-artemis-2-moon-rocket-gets-2nd-stage-even-as-trump-tries-to-scrap-space-launch-system-photos)
+- [Elon Musk took a chainsaw to the US government. Tesla is taking the hit.](https://techcrunch.com/2025/05/05/elon-musk-took-a-chainsaw-to-the-us-government-tesla-is-taking-the-hit/)
+- [TeleMessage, a modified Signal clone used by US government officials, has been hacked](https://techcrunch.com/2025/05/05/telemessage-a-modified-signal-clone-used-by-us-government-officials-has-been-hacked/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
