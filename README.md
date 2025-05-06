@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX gets FAA approval for 25 Starship launches per year](https://www.space.com/space-exploration/private-spaceflight/spacex-gets-faa-approval-for-25-starship-launches-per-year)
+- [Substack launches audio-only livestream feature](https://techcrunch.com/2025/05/06/substack-launches-audio-only-livestream-feature/)
 - [IBM CEO urges the Trump Administration to increase — not cut — federal AI R&amp;D funding](https://techcrunch.com/2025/05/06/ibm-ceo-urges-the-trump-administration-to-increase-not-cut-federal-ai-rd-funding/)
 - [Rivian cuts delivery guidance because of Trump’s tariffs and trade wars](https://techcrunch.com/2025/05/06/rivian-cuts-delivery-guidance-because-of-trumps-tariffs-and-trade-wars/)
 - [Stratolaunch&#39;s Talon-A2 prototype goes hypersonic after dropping from world&#39;s largest airplane &lpar;photos&rpar;](https://www.space.com/technology/stratolaunchs-talon-a2-prototype-goes-hypersonic-after-dropping-from-worlds-largest-airplane-photos)
-- [Reddit will tighten verification to keep out human-like AI bots](https://techcrunch.com/2025/05/06/reddit-will-tighten-verification-to-keep-out-human-like-ai-bots/)
-- [Patreon’s app can now accept web payments after U.S. App Store changes](https://techcrunch.com/2025/05/06/patreons-app-can-now-accept-web-payments-after-u-s-app-store-changes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
