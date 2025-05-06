@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hugging Face releases a free Operator-like agentic AI tool](https://techcrunch.com/2025/05/06/hugging-face-releases-a-free-operator-like-agentic-ai-tool/)
+- [Rivian earnings: EV maker cuts delivery guidance because of Trump’s tariffs and trade wars](https://techcrunch.com/2025/05/06/rivian-earnings-ev-maker-cuts-delivery-guidance-because-of-trumps-tariffs-and-trade-wars/)
+- [NSO Group must pay more than $167 million in damages to WhatsApp for spyware campaign](https://techcrunch.com/2025/05/06/nso-group-must-pay-more-than-167-million-in-damages-to-whatsapp-for-spyware-campaign/)
 - [SpaceX gets FAA approval for 25 Starship launches per year](https://www.space.com/space-exploration/private-spaceflight/spacex-gets-faa-approval-for-25-starship-launches-per-year)
 - [Substack launches audio-only livestream feature](https://techcrunch.com/2025/05/06/substack-launches-audio-only-livestream-feature/)
-- [IBM CEO urges the Trump Administration to increase — not cut — federal AI R&amp;D funding](https://techcrunch.com/2025/05/06/ibm-ceo-urges-the-trump-administration-to-increase-not-cut-federal-ai-rd-funding/)
-- [Rivian cuts delivery guidance because of Trump’s tariffs and trade wars](https://techcrunch.com/2025/05/06/rivian-cuts-delivery-guidance-because-of-trumps-tariffs-and-trade-wars/)
-- [Stratolaunch&#39;s Talon-A2 prototype goes hypersonic after dropping from world&#39;s largest airplane &lpar;photos&rpar;](https://www.space.com/technology/stratolaunchs-talon-a2-prototype-goes-hypersonic-after-dropping-from-worlds-largest-airplane-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
