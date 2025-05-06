@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Unblocked raises $20M for AI to help devs understand codebases](https://techcrunch.com/2025/05/06/unblocked-raises-20-million-for-its-ai-assistant-to-help-devs-understand-legacy-codebases/)
-- [NewLimit, founded by Coinbase CEO Brian Armstorng, raises $130M to develop age-reversing treatments](https://techcrunch.com/2025/05/06/newlimit-founded-by-coinbase-ceo-brian-armstorng-raises-130m-to-develop-age-reversing-therapies/)
-- [Uber Eats comes to Turkey via  $700M Trendyol Go acquisition](https://techcrunch.com/2025/05/06/uber-eats-comes-to-turkey-via-700m-trendyol-go-acquisition/)
-- [Can the Celestiq EV make Cadillac great again? Don’t rule it out](https://techcrunch.com/2025/05/06/can-the-celestiq-ev-make-cadillac-great-again-dont-rule-it-out/)
-- [Cnaught wants to make carbon credits easy for businesses small and large](https://techcrunch.com/2025/05/06/cnaught-wants-to-make-carbon-credits-easy-for-businesses-small-and-large/)
+- [Rooms and a view | Space photo of the day for May 6, 2025](https://www.space.com/space-exploration/international-space-station/rooms-and-a-view-space-photo-of-the-day-for-may-6-2025)
+- [Particle brings its AI-powered news reader to the web](https://techcrunch.com/2025/05/06/particle-brings-its-ai-powered-news-reader-to-the-web/)
+- [Finom, a challenger bank aimed at SMBs, lands $105M in growth funding from General Catalyst](https://techcrunch.com/2025/05/06/finom-a-challenger-bank-aimed-at-smbs-lands-104m-in-growth-funding-from-general-catalyst/)
+- [Google’s new ‘Simplify’ feature for iOS uses AI to make dense text easier to understand](https://techcrunch.com/2025/05/06/googles-new-simplify-feature-for-ios-uses-ai-to-make-dense-text-easier-to-understand/)
+- [Google debuts an updated Gemini 2.5 Pro AI model ahead of I/O](https://techcrunch.com/2025/05/06/google-debuts-an-updated-gemini-2-5-pro-ai-model-ahead-of-i-o/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
