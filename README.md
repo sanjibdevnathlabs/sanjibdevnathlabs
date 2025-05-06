@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Subroutines in Low Level Code - Computerphile](https://www.youtube.com/watch?v=1su3lAh-k4o)
 - [The growing divide among React developers…](https://www.youtube.com/watch?v=lLJbHHeFSsE)
 - [If you see this, you might be hacked.](https://www.youtube.com/watch?v=XS6615BRiX4)
 - [Meet the new Bernard Hackwell](https://www.youtube.com/watch?v=8fMRim06fAE)
 - [Redditors shocked to learn they’re arguing with AI bots](https://www.youtube.com/watch?v=5aN4Xg0VvCs)
-- [7 Programming Myths that waste your time](https://www.youtube.com/watch?v=niWpfRyvs2U)
 <!-- YOUTUBE:END -->
 
 ---
