@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Agree.com raises $7.2M to take on Docusign, Bill.com with AI](https://techcrunch.com/2025/05/06/agree-com-raises-7-2m-to-take-on-docusign-bill-com-with-ai/)
-- [Lego and Lunar Outpost to roll out &#39;Moon Rover Space Vehicle&#39; in August](https://www.space.com/entertainment/space-toys-lego/lego-and-lunar-outpost-to-roll-out-moon-rover-space-vehicle-in-august)
-- [Relevance AI raises $24M to help businesses build AI agents](https://techcrunch.com/2025/05/06/relevance-ai-raises-24m-series-b-to-help-anyone-build-teams-of-ai-agents/)
-- [Instacart launches Fizz, a new app for ordering drinks and snacks for parties](https://techcrunch.com/2025/05/06/instacart-launches-fizz-a-new-app-for-ordering-drinks-and-snacks-for-parties/)
-- [Meet Posha, a countertop robot that cooks your meals for you](https://techcrunch.com/2025/05/06/meet-posha-a-countertop-robot-that-cooks-your-meals-for-you/)
+- [Unblocked raises $20M for AI to help devs understand codebases](https://techcrunch.com/2025/05/06/unblocked-raises-20-million-for-its-ai-assistant-to-help-devs-understand-legacy-codebases/)
+- [NewLimit, founded by Coinbase CEO Brian Armstorng, raises $130M to develop age-reversing treatments](https://techcrunch.com/2025/05/06/newlimit-founded-by-coinbase-ceo-brian-armstorng-raises-130m-to-develop-age-reversing-therapies/)
+- [Uber Eats comes to Turkey via  $700M Trendyol Go acquisition](https://techcrunch.com/2025/05/06/uber-eats-comes-to-turkey-via-700m-trendyol-go-acquisition/)
+- [Can the Celestiq EV make Cadillac great again? Don’t rule it out](https://techcrunch.com/2025/05/06/can-the-celestiq-ev-make-cadillac-great-again-dont-rule-it-out/)
+- [Cnaught wants to make carbon credits easy for businesses small and large](https://techcrunch.com/2025/05/06/cnaught-wants-to-make-carbon-credits-easy-for-businesses-small-and-large/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
