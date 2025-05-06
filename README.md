@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo ramps up robotaxi production at new Arizona factory](https://techcrunch.com/2025/05/05/waymo-ramps-up-robotaxi-production-at-new-arizona-factory/)
 - [Uber and WeRide set their robotaxi sights on 15 more cities](https://techcrunch.com/2025/05/05/uber-and-weride-set-their-robotaxi-sights-on-15-more-cities/)
 - [FTC bans hidden fees for live events and short-term rentals, effective May 12](https://techcrunch.com/2025/05/05/ftc-bans-hidden-fees-for-live-events-and-short-term-rentals-effective-may-12/)
 - [People struggle to get useful health advice from chatbots, study finds](https://techcrunch.com/2025/05/05/people-struggle-to-get-useful-health-advice-from-chatbots-study-finds/)
-- [A stealth AI model beat DALL-E and Midjourney on a popular benchmark. Its creator just landed $30M.](https://techcrunch.com/2025/05/05/a-stealth-ai-model-beat-dall-e-and-midjourney-on-a-popular-benchmark-its-creator-just-landed-30m/)
-- [Google accidentally reveals details about its new Android design language, Material 3 Expressive](https://techcrunch.com/2025/05/05/google-accidentally-reveals-details-about-its-new-android-design-language-material-3-expressive/)
+- [A stealth AI model beat DALL-E and Midjourney on a popular benchmark — its creator just landed $30M](https://techcrunch.com/2025/05/05/a-stealth-ai-model-beat-dall-e-and-midjourney-on-a-popular-benchmark-its-creator-just-landed-30m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
