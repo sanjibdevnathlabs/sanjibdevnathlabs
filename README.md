@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blinq lands $25M to further its mission to make business cards passé](https://techcrunch.com/2025/05/06/blinq-grabs-25m-series-a-for-its-digital-business-card-platform/)
 - [DoorDash to buy UK’s Deliveroo for $3.86B](https://techcrunch.com/2025/05/06/doordash-to-buy-uks-deliveroo-for-3-86b/)
 - [Musk clashes with neighbors in exclusive Austin suburb](https://techcrunch.com/2025/05/05/musk-clashes-with-neighbors-in-exclusive-austin-suburb/)
 - [Employer.com scoops up another fintech in purchase of MainStreet.com](https://techcrunch.com/2025/05/05/employer-com-scoops-up-another-fintech-in-purchase-of-mainstreet-com/)
 - [Waymo ramps up robotaxi production at new Arizona factory](https://techcrunch.com/2025/05/05/waymo-ramps-up-robotaxi-production-at-new-arizona-factory/)
-- [Uber and WeRide set their robotaxi sights on 15 more cities](https://techcrunch.com/2025/05/05/uber-and-weride-set-their-robotaxi-sights-on-15-more-cities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
