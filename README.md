@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agree.com raises $7.2M to take on Docusign, Bill.com with AI](https://techcrunch.com/2025/05/06/agree-com-raises-7-2m-to-take-on-docusign-bill-com-with-ai/)
+- [Lego and Lunar Outpost to roll out &#39;Moon Rover Space Vehicle&#39; in August](https://www.space.com/entertainment/space-toys-lego/lego-and-lunar-outpost-to-roll-out-moon-rover-space-vehicle-in-august)
 - [Relevance AI raises $24M to help businesses build AI agents](https://techcrunch.com/2025/05/06/relevance-ai-raises-24m-series-b-to-help-anyone-build-teams-of-ai-agents/)
 - [Instacart launches Fizz, a new app for ordering drinks and snacks for parties](https://techcrunch.com/2025/05/06/instacart-launches-fizz-a-new-app-for-ordering-drinks-and-snacks-for-parties/)
 - [Meet Posha, a countertop robot that cooks your meals for you](https://techcrunch.com/2025/05/06/meet-posha-a-countertop-robot-that-cooks-your-meals-for-you/)
-- [Spotify now shows how many times people listened to podcast episodes](https://techcrunch.com/2025/05/06/spotify-now-shows-how-many-times-people-listened-to-podcast-episodes/)
-- [Yellowstone holds potentially untapped cache of &#39;carbon-free&#39; helium for rockets, reactors and superconductors](https://www.space.com/space-exploration/yellowstone-holds-potentially-untapped-cache-of-carbon-free-helium-for-rockets-reactors-and-superconductors)
 <!-- BLOG-POST-LIST:END -->
 
 ---
