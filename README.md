@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon-owned Zoox issues recall following robotaxi crash](https://techcrunch.com/2025/05/06/amazon-owned-zoox-issues-recall-following-robotaxi-crash/)
+- [See what it&#39;s like to witness Earth&#39;s poles from space in this stunning 4-hour SpaceX video](https://www.space.com/space-exploration/private-spaceflight/see-what-its-like-to-witness-earths-poles-from-space-in-this-stunning-4-hour-spacex-video)
+- [TechCrunch Sessions: AI welcomes Tanka CEO Kisson Lin to talk AI-native startups](https://techcrunch.com/2025/05/06/techcrunch-sessions-ai-welcomes-tanka-ceo-kisson-lin-to-talk-ai-native-startups/)
 - [FutureHouse previews an AI tool for ‘data-driven’ biology discovery](https://techcrunch.com/2025/05/06/futurehouse-previews-an-ai-tool-for-data-driven-biology-discovery/)
 - [Amazon Kindle’s iOS app adds new ‘Get Book’ button following Apple payments ruling](https://techcrunch.com/2025/05/06/amazon-kindles-ios-app-adds-new-get-book-button-following-apple-payments-ruling/)
-- [NASA&#39;s 747 Shuttle Carrier Aircraft to lift off May 15 as Lego Icons model](https://www.space.com/entertainment/space-toys-lego/nasas-747-shuttle-carrier-aircraft-to-lift-off-may-15-as-lego-icons-model)
-- [Uber turns to Chinese companies to snap up robotaxi market share in Europe, Middle East](https://techcrunch.com/2025/05/06/uber-turns-to-chinese-companies-to-snap-up-robotaxi-market-share-in-europe-middle-east/)
-- [Asteroid Vesta could be a fragment of a solar system planet, but which one?](https://www.space.com/astronomy/asteroids/asteroid-vesta-could-be-a-fragment-of-a-solar-system-planet-but-which-one)
 <!-- BLOG-POST-LIST:END -->
 
 ---
