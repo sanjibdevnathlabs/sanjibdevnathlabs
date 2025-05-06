@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rooms and a view | Space photo of the day for May 6, 2025](https://www.space.com/space-exploration/international-space-station/rooms-and-a-view-space-photo-of-the-day-for-may-6-2025)
-- [Particle brings its AI-powered news reader to the web](https://techcrunch.com/2025/05/06/particle-brings-its-ai-powered-news-reader-to-the-web/)
-- [Finom, a challenger bank aimed at SMBs, lands $105M in growth funding from General Catalyst](https://techcrunch.com/2025/05/06/finom-a-challenger-bank-aimed-at-smbs-lands-104m-in-growth-funding-from-general-catalyst/)
-- [Google’s new ‘Simplify’ feature for iOS uses AI to make dense text easier to understand](https://techcrunch.com/2025/05/06/googles-new-simplify-feature-for-ios-uses-ai-to-make-dense-text-easier-to-understand/)
-- [Google debuts an updated Gemini 2.5 Pro AI model ahead of I/O](https://techcrunch.com/2025/05/06/google-debuts-an-updated-gemini-2-5-pro-ai-model-ahead-of-i-o/)
+- [NASA&#39;s 747 Shuttle Carrier Aircraft to lift off May 15 as Lego Icons model](https://www.space.com/entertainment/space-toys-lego/nasas-747-shuttle-carrier-aircraft-to-lift-off-may-15-as-lego-icons-model)
+- [Uber turns to Chinese companies to snap up robotaxi market share in Europe, Middle East](https://techcrunch.com/2025/05/06/uber-turns-to-chinese-companies-to-snap-up-robotaxi-market-share-in-europe-middle-east/)
+- [Asteroid Vesta could be a fragment of a solar system planet, but which one?](https://www.space.com/astronomy/asteroids/asteroid-vesta-could-be-a-fragment-of-a-solar-system-planet-but-which-one)
+- [What OpenAI’s restructuring plan means for its corporate future](https://techcrunch.com/2025/05/06/what-openais-restructuring-plan-means-for-its-corporate-future/)
+- [Can the Cadillac Celestiq EV make GM’s luxury brand great again? Don’t rule it out](https://techcrunch.com/2025/05/06/can-the-cadillac-celestiq-ev-make-gms-luxury-brand-great-again-dont-rule-it-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
