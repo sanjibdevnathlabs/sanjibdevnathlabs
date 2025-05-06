@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Going fast, this child-friendly Celestron Firstscope 76mm is under $58](https://www.space.com/stargazing/skywatching-kit/going-fast-this-child-friendly-celestron-firstscope-76mm-is-under-usd58)
-- [Boosted by defense and Starlink, Orca AI pulls in $72.5M for its autonomous shipping platform](https://techcrunch.com/2025/05/06/boosted-by-defense-and-starlink-orca-ai-pulls-in-72-5m-for-its-autonomous-shipping-platform/)
-- [&#39;Right now, we are in what has to be a Golden Age of asteroid exploration.&#39; Scientists celebrate NASA&#39;s latest space rock flyby](https://www.space.com/space-exploration/launches-spacecraft/right-now-we-are-in-what-has-to-be-a-golden-age-of-asteroid-exploration-scientists-celebrate-nasas-latest-space-rock-flyby)
-- [US DoJ wants Google to sell two of its ad products](https://techcrunch.com/2025/05/06/us-doj-wants-google-to-sell-two-of-its-ad-products/)
-- [Blinq lands $25M to further its mission to make business cards passé](https://techcrunch.com/2025/05/06/blinq-grabs-25m-series-a-for-its-digital-business-card-platform/)
+- [Relevance AI raises $24M to help businesses build AI agents](https://techcrunch.com/2025/05/06/relevance-ai-raises-24m-series-b-to-help-anyone-build-teams-of-ai-agents/)
+- [Instacart launches Fizz, a new app for ordering drinks and snacks for parties](https://techcrunch.com/2025/05/06/instacart-launches-fizz-a-new-app-for-ordering-drinks-and-snacks-for-parties/)
+- [Meet Posha, a countertop robot that cooks your meals for you](https://techcrunch.com/2025/05/06/meet-posha-a-countertop-robot-that-cooks-your-meals-for-you/)
+- [Spotify now shows how many times people listened to podcast episodes](https://techcrunch.com/2025/05/06/spotify-now-shows-how-many-times-people-listened-to-podcast-episodes/)
+- [Yellowstone holds potentially untapped cache of &#39;carbon-free&#39; helium for rockets, reactors and superconductors](https://www.space.com/space-exploration/yellowstone-holds-potentially-untapped-cache-of-carbon-free-helium-for-rockets-reactors-and-superconductors)
 <!-- BLOG-POST-LIST:END -->
 
 ---
