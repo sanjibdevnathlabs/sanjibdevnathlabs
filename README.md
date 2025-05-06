@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Musk clashes with neighbors in exclusive Austin suburb](https://techcrunch.com/2025/05/05/musk-clashes-with-neighbors-in-exclusive-austin-suburb/)
+- [Employer.com scoops up another fintech in purchase of MainStreet.com](https://techcrunch.com/2025/05/05/employer-com-scoops-up-another-fintech-in-purchase-of-mainstreet-com/)
 - [Waymo ramps up robotaxi production at new Arizona factory](https://techcrunch.com/2025/05/05/waymo-ramps-up-robotaxi-production-at-new-arizona-factory/)
 - [Uber and WeRide set their robotaxi sights on 15 more cities](https://techcrunch.com/2025/05/05/uber-and-weride-set-their-robotaxi-sights-on-15-more-cities/)
 - [FTC bans hidden fees for live events and short-term rentals, effective May 12](https://techcrunch.com/2025/05/05/ftc-bans-hidden-fees-for-live-events-and-short-term-rentals-effective-may-12/)
-- [People struggle to get useful health advice from chatbots, study finds](https://techcrunch.com/2025/05/05/people-struggle-to-get-useful-health-advice-from-chatbots-study-finds/)
-- [A stealth AI model beat DALL-E and Midjourney on a popular benchmark — its creator just landed $30M](https://techcrunch.com/2025/05/05/a-stealth-ai-model-beat-dall-e-and-midjourney-on-a-popular-benchmark-its-creator-just-landed-30m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
