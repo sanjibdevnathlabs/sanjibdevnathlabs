@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Uber-rival BluSmart investors propose resolution with $30M backing for its revival](https://techcrunch.com/2025/05/07/uber-rival-blusmart-investors-propose-resolution-with-30m-backing-for-its-revival/)
+- [&#39;Destiny 2&#39; is getting four new expansions, including a &#39;Star Wars&#39; crossover that adds lightsabers and blasters &lpar;video&rpar;](https://www.space.com/entertainment/space-games/destiny-2-is-getting-four-new-expansions-including-a-star-wars-crossover-that-adds-lightsabers-and-blasters)
+- [Amazon debuts a warehouse robot with a sense of ‘touch’](https://techcrunch.com/2025/05/07/amazon-debuts-a-warehouse-robot-with-a-sense-of-touch/)
+- [New court filing shows that Meta execs agreed that Facebook was losing to TikTok](https://techcrunch.com/2025/05/07/new-court-filing-shows-that-meta-execs-agreed-that-facebook-was-losing-to-tiktok/)
+- [BluSmart investors propose $30M in new funding to revive the Uber rival](https://techcrunch.com/2025/05/07/blusmart-investors-propose-resolution-30m-in-new-funding-to-revive-the-uber-rival/)
 - [James Webb Space Telescope finds water in the air of exotic &#39;sub-Neptune&#39; exoplanet](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-finds-water-in-the-air-of-exotic-sub-neptune-exoplanet)
-- [OpenAI wants to team up with governments to grow AI infrastructure](https://techcrunch.com/2025/05/07/openai-wants-to-team-up-with-governments-to-grow-ai-infrastructure/)
-- [NASA gets keys to Orion | Space photo of the day for May 7, 2025](https://www.space.com/space-exploration/artemis/nasa-gets-keys-to-orion-space-photo-of-the-day-for-may-7-2025)
-- [ServiceNow acquires Data.World months after snatching up Moveworks](https://techcrunch.com/2025/05/07/servicenow-acquires-data-world-two-months-after-acquiring-moveworks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
