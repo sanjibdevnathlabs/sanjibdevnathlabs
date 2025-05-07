@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mistral claims its newest AI model delivers leading performance for the price](https://techcrunch.com/2025/05/07/mistral-claims-its-newest-ai-model-delivers-leading-performance-for-the-price/)
-- [Belgian artist of &#39;Fallen Astronaut&#39; figurine on the moon dies at 99](https://www.space.com/space-exploration/apollo/belgian-artist-of-fallen-astronaut-figurine-on-the-moon-dies-at-99)
-- [Spotify’s latest update gives users more control over their listening experience](https://techcrunch.com/2025/05/07/spotifys-latest-update-gives-users-more-control-over-their-listening-experience/)
-- [Ford hikes Mustang Mach-E price due to Trump’s tariffs](https://techcrunch.com/2025/05/07/ford-hikes-mustang-mach-e-price-due-to-trumps-tariffs/)
-- [Trump admin plans to shutter money-saving Energy Star program](https://techcrunch.com/2025/05/07/trump-admin-plans-to-shutter-money-saving-energy-star-program/)
+- [Uber invests $100M in WeRide to fuel robotaxi expansion across 15 more cities](https://techcrunch.com/2025/05/07/uber-and-weride-set-their-robotaxi-sights-on-15-more-cities/)
+- [Amazon to invest $4B in Chile to launch AWS infrastructure region](https://techcrunch.com/2025/05/07/amazon-to-invest-4b-in-chile-to-launch-aws-infrastructure-region/)
+- [Lunar laser: China makes 1st daytime laser-ranging measurement from Earth to the moon](https://www.space.com/astronomy/moon/lunar-laser-china-makes-1st-daytime-laser-ranging-measurement-from-earth-to-the-moon)
+- [CrowdStrike says it will lay off 500 workers](https://techcrunch.com/2025/05/07/crowdstrike-says-it-will-lay-off-500-workers/)
+- [The web series is back – only this time, they’re TikToks](https://techcrunch.com/2025/05/07/the-web-series-is-back-only-this-time-theyre-tiktoks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
