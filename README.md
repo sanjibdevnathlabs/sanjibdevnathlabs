@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mistral claims its newest AI model delivers leading performance for the price](https://techcrunch.com/2025/05/07/mistral-claims-its-newest-ai-model-delivers-leading-performance-for-the-price/)
+- [Belgian artist of &#39;Fallen Astronaut&#39; figurine on the moon dies at 99](https://www.space.com/space-exploration/apollo/belgian-artist-of-fallen-astronaut-figurine-on-the-moon-dies-at-99)
+- [Spotify’s latest update gives users more control over their listening experience](https://techcrunch.com/2025/05/07/spotifys-latest-update-gives-users-more-control-over-their-listening-experience/)
 - [Ford hikes Mustang Mach-E price due to Trump’s tariffs](https://techcrunch.com/2025/05/07/ford-hikes-mustang-mach-e-price-due-to-trumps-tariffs/)
 - [Trump admin plans to shutter money-saving Energy Star program](https://techcrunch.com/2025/05/07/trump-admin-plans-to-shutter-money-saving-energy-star-program/)
-- [Game, Sett, Funding: a startup building AI agents for game development emerges from stealth with $27M](https://techcrunch.com/2025/05/07/game-sett-funding-a-startup-building-ai-agents-for-game-development-emerges-from-stealth-with-27m/)
-- [VSCO is launching an AI-powered collaborative moodboard](https://techcrunch.com/2025/05/07/vsco-is-launching-an-ai-powered-collaborative-moodboard/)
-- [AI data startup WisdomAI nabs $23M with a smart way to avoid hallucinations](https://techcrunch.com/2025/05/07/ai-data-startup-wisdomai-nabs-23m-with-a-smart-way-to-avoid-hallucinations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
