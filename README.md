@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Destiny 2&#39; is getting four new expansions, including a &#39;Star Wars&#39; crossover that adds lightsabers and blasters &lpar;video&rpar;](https://www.space.com/entertainment/space-games/destiny-2-is-getting-four-new-expansions-including-a-star-wars-crossover-that-adds-lightsabers-and-blasters)
-- [Amazon debuts a warehouse robot with a sense of ‘touch’](https://techcrunch.com/2025/05/07/amazon-debuts-a-warehouse-robot-with-a-sense-of-touch/)
-- [New court filing shows that Meta execs agreed that Facebook was losing to TikTok](https://techcrunch.com/2025/05/07/new-court-filing-shows-that-meta-execs-agreed-that-facebook-was-losing-to-tiktok/)
-- [BluSmart investors propose $30M in new funding to revive the Uber rival](https://techcrunch.com/2025/05/07/blusmart-investors-propose-resolution-30m-in-new-funding-to-revive-the-uber-rival/)
-- [James Webb Space Telescope finds water in the air of exotic &#39;sub-Neptune&#39; exoplanet](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-finds-water-in-the-air-of-exotic-sub-neptune-exoplanet)
+- [Snap Map reaches new milestone of 400M monthly active users](https://techcrunch.com/2025/05/07/snap-map-reaches-new-milestone-of-400m-monthly-active-users/)
+- [NASA diagnoses fracture in a &#39;huge cosmic bone&#39; using X-ray observatory](https://www.space.com/astronomy/galaxies/nasa-diagnoses-fracture-in-a-huge-cosmic-bone-using-x-ray-observatory)
+- [Laurie Leshin stepping down as director of NASA’s Jet Propulsion Lab](https://www.space.com/space-exploration/laurie-leshin-stepping-down-as-director-of-nasas-jet-propulsion-lab)
+- [Lucid Motors’ Gravity SUV dealing with early ‘hiccups,’ interim CEO says](https://techcrunch.com/2025/05/07/lucid-motors-gravity-suv-dealing-with-early-hiccups-interim-ceo-says/)
+- [SpaceX’s Starlink has become a big benefactor of Trump’s tariff trade war, leaked memos show](https://techcrunch.com/2025/05/07/spacexs-starlink-has-become-a-big-benefactor-of-trumps-tariff-trade-war-leaked-memos-show/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
