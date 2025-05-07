@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Breathe lands $21M Series B to predict battery performance](https://techcrunch.com/2025/05/07/breathe-lands-21m-series-b-to-predict-battery-performance/)
+- [Netflix debuts its generative AI-powered search tool](https://techcrunch.com/2025/05/07/netflix-debuts-its-generative-ai-powered-search-tool/)
+- [Netflix is getting into short videos with a new vertical feed for mobile](https://techcrunch.com/2025/05/07/netflix-is-getting-into-short-videos-with-a-new-vertical-feed-for-mobile/)
+- [Kapor Capital’s managing partner Ulili Onovakpuri is leaving the firm](https://techcrunch.com/2025/05/07/kapor-capitals-managing-partner-ulili-onovakpuri-is-leaving-the-firm/)
 - [&#39;Gears of War: Reloaded&#39; chainsaws its way into Xbox, PS5, and PC this summer, and everyone will be playing together](https://www.space.com/entertainment/space-games/gears-of-war-reloaded-chainsaws-its-way-into-xbox-ps5-and-pc-this-summer-and-everyone-will-be-playing-together)
-- [Ox Security lands a fresh $60M to scan for vulnerabilities in code](https://techcrunch.com/2025/05/07/ox-security-lands-a-fresh-60m-to-scan-for-vulnerabilities-in-code/)
-- [Mitsubishi in talks to source its new EVs for Australia, New Zealand from Foxconn unit](https://techcrunch.com/2025/05/07/mitsubishi-in-talks-to-source-its-new-evs-for-australia-new-zealand-from-foxconn-unit/)
-- [Amazon is working on an AI code generation tool](https://techcrunch.com/2025/05/07/amazon-is-working-on-an-ai-code-generating-tool/)
-- [Japan&#39;s Resilience moon lander arrives in lunar orbit ahead of historic touchdown try](https://www.space.com/astronomy/moon/japans-resilience-moon-lander-arrives-in-lunar-orbit-ahead-of-historic-touchdown-try)
 <!-- BLOG-POST-LIST:END -->
 
 ---
