@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Breathe lands $21M Series B to predict battery performance](https://techcrunch.com/2025/05/07/breathe-lands-21m-series-b-to-predict-battery-performance/)
-- [Netflix debuts its generative AI-powered search tool](https://techcrunch.com/2025/05/07/netflix-debuts-its-generative-ai-powered-search-tool/)
-- [Netflix is getting into short videos with a new vertical feed for mobile](https://techcrunch.com/2025/05/07/netflix-is-getting-into-short-videos-with-a-new-vertical-feed-for-mobile/)
-- [Kapor Capital’s managing partner Ulili Onovakpuri is leaving the firm](https://techcrunch.com/2025/05/07/kapor-capitals-managing-partner-ulili-onovakpuri-is-leaving-the-firm/)
-- [&#39;Gears of War: Reloaded&#39; chainsaws its way into Xbox, PS5, and PC this summer, and everyone will be playing together](https://www.space.com/entertainment/space-games/gears-of-war-reloaded-chainsaws-its-way-into-xbox-ps5-and-pc-this-summer-and-everyone-will-be-playing-together)
+- [Ford hikes Mustang Mach-E price due to Trump’s tariffs](https://techcrunch.com/2025/05/07/ford-hikes-mustang-mach-e-price-due-to-trumps-tariffs/)
+- [Trump admin plans to shutter money-saving Energy Star program](https://techcrunch.com/2025/05/07/trump-admin-plans-to-shutter-money-saving-energy-star-program/)
+- [Game, Sett, Funding: a startup building AI agents for game development emerges from stealth with $27M](https://techcrunch.com/2025/05/07/game-sett-funding-a-startup-building-ai-agents-for-game-development-emerges-from-stealth-with-27m/)
+- [VSCO is launching an AI-powered collaborative moodboard](https://techcrunch.com/2025/05/07/vsco-is-launching-an-ai-powered-collaborative-moodboard/)
+- [AI data startup WisdomAI nabs $23M with a smart way to avoid hallucinations](https://techcrunch.com/2025/05/07/ai-data-startup-wisdomai-nabs-23m-with-a-smart-way-to-avoid-hallucinations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
