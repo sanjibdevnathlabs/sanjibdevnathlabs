@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Where does the universe&#39;s gold come from? Giant flares from extreme magnetic stars offer a clue](https://www.space.com/astronomy/stars/where-does-the-universes-gold-come-from-giant-flares-from-extreme-magnetic-stars-offer-a-clue)
 - [OpenAI expects to cut share of revenue it pays Microsoft by 2030](https://techcrunch.com/2025/05/07/openai-expects-to-cut-share-of-revenue-it-pays-microsoft-by-2030/)
 - [Amid Greek tech boom, a prominent seed-stage firm locks down €75 million](https://techcrunch.com/2025/05/06/amid-greek-tech-boom-a-prominent-seed-stage-firm-locks-down-e75-million/)
 - [SpaceX Falcon 9 rocket launches 28 Starlink satellites to orbit from  Florida &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-93-b1085-ccsfs)
 - [Hugging Face releases a free Operator-like agentic AI tool](https://techcrunch.com/2025/05/06/hugging-face-releases-a-free-operator-like-agentic-ai-tool/)
-- [Rivian earnings: EV maker cuts delivery guidance because of Trump’s tariffs and trade wars](https://techcrunch.com/2025/05/06/rivian-earnings-ev-maker-cuts-delivery-guidance-because-of-trumps-tariffs-and-trade-wars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
