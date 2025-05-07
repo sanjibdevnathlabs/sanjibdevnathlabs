@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Gears of War: Reloaded&#39; chainsaws its way into Xbox, PS5, and PC this summer, and everyone will be playing together](https://www.space.com/entertainment/space-games/gears-of-war-reloaded-chainsaws-its-way-into-xbox-ps5-and-pc-this-summer-and-everyone-will-be-playing-together)
+- [Ox Security lands a fresh $60M to scan for vulnerabilities in code](https://techcrunch.com/2025/05/07/ox-security-lands-a-fresh-60m-to-scan-for-vulnerabilities-in-code/)
+- [Mitsubishi in talks to source its new EVs for Australia, New Zealand from Foxconn unit](https://techcrunch.com/2025/05/07/mitsubishi-in-talks-to-source-its-new-evs-for-australia-new-zealand-from-foxconn-unit/)
 - [Amazon is working on an AI code generation tool](https://techcrunch.com/2025/05/07/amazon-is-working-on-an-ai-code-generating-tool/)
 - [Japan&#39;s Resilience moon lander arrives in lunar orbit ahead of historic touchdown try](https://www.space.com/astronomy/moon/japans-resilience-moon-lander-arrives-in-lunar-orbit-ahead-of-historic-touchdown-try)
-- [Where does the universe&#39;s gold come from? Giant flares from extreme magnetic stars offer a clue](https://www.space.com/astronomy/stars/where-does-the-universes-gold-come-from-giant-flares-from-extreme-magnetic-stars-offer-a-clue)
-- [OpenAI expects to cut share of revenue it pays Microsoft by 2030](https://techcrunch.com/2025/05/07/openai-expects-to-cut-share-of-revenue-it-pays-microsoft-by-2030/)
-- [Amid Greek tech boom, a prominent seed-stage firm locks down €75 million](https://techcrunch.com/2025/05/06/amid-greek-tech-boom-a-prominent-seed-stage-firm-locks-down-e75-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
