@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Uber invests $100M in WeRide to fuel robotaxi expansion across 15 more cities](https://techcrunch.com/2025/05/07/uber-and-weride-set-their-robotaxi-sights-on-15-more-cities/)
-- [Amazon to invest $4B in Chile to launch AWS infrastructure region](https://techcrunch.com/2025/05/07/amazon-to-invest-4b-in-chile-to-launch-aws-infrastructure-region/)
-- [Lunar laser: China makes 1st daytime laser-ranging measurement from Earth to the moon](https://www.space.com/astronomy/moon/lunar-laser-china-makes-1st-daytime-laser-ranging-measurement-from-earth-to-the-moon)
-- [CrowdStrike says it will lay off 500 workers](https://techcrunch.com/2025/05/07/crowdstrike-says-it-will-lay-off-500-workers/)
-- [The web series is back – only this time, they’re TikToks](https://techcrunch.com/2025/05/07/the-web-series-is-back-only-this-time-theyre-tiktoks/)
+- [Figma releases new AI-powered tools for creating site, app prototypes, and marketing assets](https://techcrunch.com/2025/05/07/figma-releases-new-ai-powered-tools-for-creating-site-app-prototypes-and-marketing-assets/)
+- [Carta abandons startup shutdown business, instead backs SimpleClosure’s $15M Series A](https://techcrunch.com/2025/05/07/carta-abandons-startup-shutdown-business-instead-backs-simpleclosures-15m-series-a/)
+- [3D-print a realistic supernova remnant with NASA&#39;s new models of Chandra X-ray images](https://www.space.com/astronomy/3d-print-a-realistic-supernova-remnant-with-nasas-new-models-of-chandra-x-ray-images)
+- [Microsoft adopts Google’s standard for linking up AI agents](https://techcrunch.com/2025/05/07/microsoft-adopts-googles-standard-for-linking-up-ai-agents/)
+- [Get closer to the Flower Moon with 27% off these SkyMaster 12x60 binoculars from Celestron](https://www.space.com/stargazing/skywatching-kit/get-closer-to-the-flower-moon-with-27-off-these-skymaster-12x60-binoculars-from-celestron)
 <!-- BLOG-POST-LIST:END -->
 
 ---
