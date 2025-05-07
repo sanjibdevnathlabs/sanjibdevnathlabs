@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI and the FDA are reportedly discussing AI for drug evaluations](https://techcrunch.com/2025/05/07/openai-and-the-fda-are-reportedly-discussing-ai-for-drug-evaluations/)
-- [The Papal ‘conclave cam’ is slow TV](https://techcrunch.com/2025/05/07/the-papal-conclave-cam-is-slow-tv/)
-- [Hours before a solar eclipse, spruce trees &#39;talk&#39; to each other](https://www.space.com/stargazing/solar-eclipses/hours-before-a-solar-eclipse-spruce-trees-talk-to-each-other)
-- [Delta debuts its Patreon-supported iOS app update after US App Store policy change](https://techcrunch.com/2025/05/07/delta-debuts-its-patreon-supported-ios-app-update-after-us-app-store-policy-change/)
-- [Rove, founded by a 22-year-old, is helping Gen Z earn airline miles without credit cards](https://techcrunch.com/2025/05/07/rove-founded-by-a-22-year-old-is-helping-gen-z-earn-airline-miles-without-credit-cards/)
+- [&#39;Eventually, all life on Earth will be destroyed by the sun&#39;: Elon Musk explains his drive to colonize Mars](https://www.space.com/astronomy/mars/eventually-all-life-on-earth-will-be-destroyed-by-the-sun-elon-musk-explains-his-drive-to-colonize-mars)
+- [Fastino trains AI models on cheap gaming GPUs and just raised $17.5M led by Khosla](https://techcrunch.com/2025/05/07/fastino-trains-ai-models-on-cheap-gaming-gpus-and-just-raised-17-5m-led-by-khosla/)
+- [Stripe unveils AI foundation model for payments, reveals ‘deeper partnership’ with Nvidia](https://techcrunch.com/2025/05/07/stripe-unveils-ai-foundation-model-for-payments-reveals-deeper-partnership-with-nvidia/)
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/05/07/tech-layoffs-2025-list/)
+- [Tesla’s ‘Robotaxi’ and ‘Cybercab’ trademarks hit roadblocks ahead of June launch](https://techcrunch.com/2025/05/07/teslas-robotaxi-and-cybercab-trademarks-hit-roadblocks-ahead-of-june-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
