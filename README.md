@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Snap Map reaches new milestone of 400M monthly active users](https://techcrunch.com/2025/05/07/snap-map-reaches-new-milestone-of-400m-monthly-active-users/)
-- [NASA diagnoses fracture in a &#39;huge cosmic bone&#39; using X-ray observatory](https://www.space.com/astronomy/galaxies/nasa-diagnoses-fracture-in-a-huge-cosmic-bone-using-x-ray-observatory)
-- [Laurie Leshin stepping down as director of NASA’s Jet Propulsion Lab](https://www.space.com/space-exploration/laurie-leshin-stepping-down-as-director-of-nasas-jet-propulsion-lab)
-- [Lucid Motors’ Gravity SUV dealing with early ‘hiccups,’ interim CEO says](https://techcrunch.com/2025/05/07/lucid-motors-gravity-suv-dealing-with-early-hiccups-interim-ceo-says/)
-- [SpaceX’s Starlink has become a big benefactor of Trump’s tariff trade war, leaked memos show](https://techcrunch.com/2025/05/07/spacexs-starlink-has-become-a-big-benefactor-of-trumps-tariff-trade-war-leaked-memos-show/)
+- [OpenAI and the FDA are reportedly discussing AI for drug evaluations](https://techcrunch.com/2025/05/07/openai-and-the-fda-are-reportedly-discussing-ai-for-drug-evaluations/)
+- [The Papal ‘conclave cam’ is slow TV](https://techcrunch.com/2025/05/07/the-papal-conclave-cam-is-slow-tv/)
+- [Hours before a solar eclipse, spruce trees &#39;talk&#39; to each other](https://www.space.com/stargazing/solar-eclipses/hours-before-a-solar-eclipse-spruce-trees-talk-to-each-other)
+- [Delta debuts its Patreon-supported iOS app update after US App Store policy change](https://techcrunch.com/2025/05/07/delta-debuts-its-patreon-supported-ios-app-update-after-us-app-store-policy-change/)
+- [Rove, founded by a 22-year-old, is helping Gen Z earn airline miles without credit cards](https://techcrunch.com/2025/05/07/rove-founded-by-a-22-year-old-is-helping-gen-z-earn-airline-miles-without-credit-cards/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
