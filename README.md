@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber-rival BluSmart investors propose resolution with $30M backing for its revival](https://techcrunch.com/2025/05/07/uber-rival-blusmart-investors-propose-resolution-with-30m-backing-for-its-revival/)
+- [James Webb Space Telescope finds water in the air of exotic &#39;sub-Neptune&#39; exoplanet](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-finds-water-in-the-air-of-exotic-sub-neptune-exoplanet)
+- [OpenAI wants to team up with governments to grow AI infrastructure](https://techcrunch.com/2025/05/07/openai-wants-to-team-up-with-governments-to-grow-ai-infrastructure/)
+- [NASA gets keys to Orion | Space photo of the day for May 7, 2025](https://www.space.com/space-exploration/artemis/nasa-gets-keys-to-orion-space-photo-of-the-day-for-may-7-2025)
 - [ServiceNow acquires Data.World months after snatching up Moveworks](https://techcrunch.com/2025/05/07/servicenow-acquires-data-world-two-months-after-acquiring-moveworks/)
-- [Old Soviet Venus lander&#39;s fall to Earth will be no ordinary space junk crash. Here&#39;s why](https://www.space.com/space-exploration/launches-spacecraft/old-soviet-venus-landers-fall-to-earth-will-be-no-ordinary-space-junk-crash-heres-why)
-- [Apple is looking to add AI search engines to Safari](https://techcrunch.com/2025/05/07/apple-is-looking-to-add-ai-search-engines-to-safari/)
-- [Sun unleashes jaw-dropping filament eruption — but Earth dodges the blast &lpar;photo&rpar;](https://www.space.com/astronomy/sun/sun-unleashes-jaw-dropping-filament-eruption-but-earth-dodges-the-blast-photo)
-- [Figma releases new AI-powered tools for creating sites, app prototypes, and marketing assets](https://techcrunch.com/2025/05/07/figma-releases-new-ai-powered-tools-for-creating-sites-app-prototypes-and-marketing-assets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
