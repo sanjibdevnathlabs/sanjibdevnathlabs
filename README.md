@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Figma releases new AI-powered tools for creating site, app prototypes, and marketing assets](https://techcrunch.com/2025/05/07/figma-releases-new-ai-powered-tools-for-creating-site-app-prototypes-and-marketing-assets/)
-- [Carta abandons startup shutdown business, instead backs SimpleClosure’s $15M Series A](https://techcrunch.com/2025/05/07/carta-abandons-startup-shutdown-business-instead-backs-simpleclosures-15m-series-a/)
-- [3D-print a realistic supernova remnant with NASA&#39;s new models of Chandra X-ray images](https://www.space.com/astronomy/3d-print-a-realistic-supernova-remnant-with-nasas-new-models-of-chandra-x-ray-images)
-- [Microsoft adopts Google’s standard for linking up AI agents](https://techcrunch.com/2025/05/07/microsoft-adopts-googles-standard-for-linking-up-ai-agents/)
-- [Get closer to the Flower Moon with 27% off these SkyMaster 12x60 binoculars from Celestron](https://www.space.com/stargazing/skywatching-kit/get-closer-to-the-flower-moon-with-27-off-these-skymaster-12x60-binoculars-from-celestron)
+- [ServiceNow acquires Data.World months after snatching up Moveworks](https://techcrunch.com/2025/05/07/servicenow-acquires-data-world-two-months-after-acquiring-moveworks/)
+- [Old Soviet Venus lander&#39;s fall to Earth will be no ordinary space junk crash. Here&#39;s why](https://www.space.com/space-exploration/launches-spacecraft/old-soviet-venus-landers-fall-to-earth-will-be-no-ordinary-space-junk-crash-heres-why)
+- [Apple is looking to add AI search engines to Safari](https://techcrunch.com/2025/05/07/apple-is-looking-to-add-ai-search-engines-to-safari/)
+- [Sun unleashes jaw-dropping filament eruption — but Earth dodges the blast &lpar;photo&rpar;](https://www.space.com/astronomy/sun/sun-unleashes-jaw-dropping-filament-eruption-but-earth-dodges-the-blast-photo)
+- [Figma releases new AI-powered tools for creating sites, app prototypes, and marketing assets](https://techcrunch.com/2025/05/07/figma-releases-new-ai-powered-tools-for-creating-sites-app-prototypes-and-marketing-assets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
