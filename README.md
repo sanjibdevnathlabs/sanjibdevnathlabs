@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe weighs fallout from proposed NASA budget cuts threatening joint missions](https://www.space.com/space-exploration/europe-assessing-fallout-from-proposed-nasa-budget-cuts-threatening-joint-missions)
 - [Match to lay off 13% of staff](https://techcrunch.com/2025/05/08/match-to-lay-off-13-of-staff/)
 - [Amazon’s newest AI tool is designed to enhance product listings](https://techcrunch.com/2025/05/08/amazons-newest-ai-tool-is-designed-to-enhance-product-listings/)
 - [Earth&#39;s skies pulse in sync with the sun&#39;s solar flares](https://www.space.com/astronomy/sun/earths-skies-pulse-in-sync-with-the-suns-solar-flares)
 - [Reddit intros new profile tools for its business customers](https://techcrunch.com/2025/05/08/reddit-intros-new-profile-tools-for-business-customers/)
-- [Asking chatbots for short answers can increase hallucinations, study finds](https://techcrunch.com/2025/05/08/asking-chatbots-for-short-answers-can-increase-hallucinations-study-finds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
