@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram Threads is getting video ads](https://techcrunch.com/2025/05/08/instagram-threads-is-getting-video-ads/)
-- [US Space Force test fires thrusters for moon surveillance spacecraft](https://www.space.com/space-exploration/satellites/us-space-force-test-fires-thrusters-for-moon-surveillance-spacecraft)
-- [PowerSchool paid a hacker’s ransom, but now schools say they are being extorted](https://techcrunch.com/2025/05/08/powerschool-paid-a-hackers-ransom-but-now-schools-say-they-are-being-extorted/)
-- [Satellites show 28 US cities are sinking, including NYC and Chicago: &#39;Infrastructure can be silently compromised&#39;](https://www.space.com/space-exploration/satellites/satellites-show-28-us-cities-are-sinking-including-nyc-and-chicago-infrastructure-can-be-silently-compromised)
-- [Google rolls out AI tools to protect Chrome users against scams](https://techcrunch.com/2025/05/08/google-rolls-out-ai-tools-to-protect-chrome-users-against-scams/)
+- [Ex-Synapse CEO reportedly trying to raise $100M for his new humanoid robotics venture](https://techcrunch.com/2025/05/08/ex-synapse-ceo-reportedly-trying-to-raise-100m-for-his-new-humanoid-robotics-venture/)
+- [Social media startup Fizz sues Instacart and Partiful for trademark infringement over new Fizz app](https://techcrunch.com/2025/05/08/social-media-startup-fizz-sues-instacart-and-partiful-for-trademark-infringement-over-new-fizz-app/)
+- [What will happen to VIPER? NASA shifts into reverse on canceled moon rover](https://www.space.com/astronomy/moon/what-will-happen-to-viper-nasa-shifts-into-reverse-on-canceled-moon-rover)
+- [Meta taps former Google DeepMind director to lead its AI research lab](https://techcrunch.com/2025/05/08/meta-taps-former-google-deepmind-director-to-lead-its-ai-research-lab/)
+- [A failed Soviet Venus probe is falling to Earth. Here&#39;s what it might look like](https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-probe-is-falling-to-earth-heres-what-it-might-look-like)
 <!-- BLOG-POST-LIST:END -->
 
 ---
