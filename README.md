@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;The Rocky Horror Picture Show&#39; returns to theaters later this year for 50th anniversary of Transylvanian aliens landing on Earth](https://www.space.com/entertainment/space-movies-shows/the-rocky-horror-picture-show-returns-to-theaters-later-this-year-for-50th-anniversary-of-transylvanian-aliens-landing-on-earth)
+- [Why Hims &amp; Hers turned to the autonomous vehicle industry to find an AI-savvy CTO](https://techcrunch.com/2025/05/08/hims-hers-ceo-turned-to-the-autonomous-vehicle-industry-to-find-an-ai-savvy-exec/)
 - [Apple tries to delay ruling that bars it from taking a cut on external app payments](https://techcrunch.com/2025/05/08/apple-urges-court-to-suspend-ruling-that-bars-it-from-taking-a-cut-on-external-app-payments/)
 - [India delays 1st Gaganyaan astronaut launch to 2027](https://www.space.com/space-exploration/human-spaceflight/india-delays-1st-gaganyaan-astronaut-launch-to-2027)
 - [Our moon may have once been as hellish as Jupiter&#39;s super volcanic moon Io](https://www.space.com/astronomy/moon/the-moon-may-have-once-resembled-jupiters-io-the-most-volcanic-body-in-the-solar-system)
-- [Bosch Ventures is turning its attention to North America with new $270M fund](https://techcrunch.com/2025/05/08/bosch-ventures-new-270m-fund-is-turning-its-attention-to-north-america/)
-- [Instacart CEO Fidji Simo is joining OpenAI](https://techcrunch.com/2025/05/07/instacart-ceo-fidji-simo-is-joining-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
