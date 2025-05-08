@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aurora co-founder Sterling Anderson is leaving the self-driving truck startup](https://techcrunch.com/2025/05/08/aurora-co-founder-sterling-anderson-is-leaving-the-self-driving-truck-startup/)
+- [Appfigures: Apple made over $10B from US App Store comissions last year](https://techcrunch.com/2025/05/08/appfigures-apple-made-over-10b-from-us-app-store-comissions-last-year/)
+- [ChatGPT’s deep research tool gets a GitHub connector to answer questions about code](https://techcrunch.com/2025/05/08/chatgpts-deep-research-tool-gets-a-github-connector-to-answer-questions-about-code/)
 - [A failed Soviet Venus probe is falling to Earth, and an astronomer will attempt to catch it on camera on May 8](https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-probe-is-falling-to-earth-and-an-astronomer-will-attempt-to-catch-it-on-camera-on-may-8)
 - [Ex-Synapse CEO reportedly trying to raise $100M for his new humanoid robotics venture](https://techcrunch.com/2025/05/08/ex-synapse-ceo-reportedly-trying-to-raise-100m-for-his-new-humanoid-robotics-venture/)
-- [Social media startup Fizz sues Instacart and Partiful for trademark infringement over new Fizz app](https://techcrunch.com/2025/05/08/social-media-startup-fizz-sues-instacart-and-partiful-for-trademark-infringement-over-new-fizz-app/)
-- [What will happen to VIPER? NASA shifts into reverse on canceled moon rover](https://www.space.com/astronomy/moon/what-will-happen-to-viper-nasa-shifts-into-reverse-on-canceled-moon-rover)
-- [Meta taps former Google DeepMind director to lead its AI research lab](https://techcrunch.com/2025/05/08/meta-taps-former-google-deepmind-director-to-lead-its-ai-research-lab/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
