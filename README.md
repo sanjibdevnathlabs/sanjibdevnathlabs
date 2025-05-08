@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit intros new profile tools for business customers](https://techcrunch.com/2025/05/08/reddit-intros-new-profile-tools-for-business-customers/)
+- [Match to lay off 13% of staff](https://techcrunch.com/2025/05/08/match-to-lay-off-13-of-staff/)
+- [Amazon’s newest AI tool is designed to enhance product listings](https://techcrunch.com/2025/05/08/amazons-newest-ai-tool-is-designed-to-enhance-product-listings/)
+- [Earth&#39;s skies pulse in sync with the sun&#39;s solar flares](https://www.space.com/astronomy/sun/earths-skies-pulse-in-sync-with-the-suns-solar-flares)
+- [Reddit intros new profile tools for its business customers](https://techcrunch.com/2025/05/08/reddit-intros-new-profile-tools-for-business-customers/)
 - [Asking chatbots for short answers can increase hallucinations, study finds](https://techcrunch.com/2025/05/08/asking-chatbots-for-short-answers-can-increase-hallucinations-study-finds/)
-- [VC firm Insight Partners confirms personal data stolen during January hack](https://techcrunch.com/2025/05/08/vc-firm-insight-partners-confirms-personal-data-stolen-during-january-hack/)
-- [&#39;The Rocky Horror Picture Show&#39; returns to theaters later this year for 50th anniversary of Transylvanian aliens landing on Earth](https://www.space.com/entertainment/space-movies-shows/the-rocky-horror-picture-show-returns-to-theaters-later-this-year-for-50th-anniversary-of-transylvanian-aliens-landing-on-earth)
-- [Why Hims &amp; Hers turned to the autonomous vehicle industry to find an AI-savvy CTO](https://techcrunch.com/2025/05/08/hims-hers-ceo-turned-to-the-autonomous-vehicle-industry-to-find-an-ai-savvy-exec/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
