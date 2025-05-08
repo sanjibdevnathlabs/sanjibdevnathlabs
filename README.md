@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One of Elon Musk’s long-time VCs is suing his former employer after allegedly being fired](https://techcrunch.com/2025/05/08/one-of-elon-musks-long-time-vcs-is-suing-his-former-employer-after-allegedly-being-fired/)
 - [China uses &#39;gravity slingshot&#39; to rescue pair of wayward moon satellites](https://www.space.com/astronomy/moon/china-uses-gravity-slingshot-to-rescue-pair-of-wayward-moon-satellites)
 - [Microsoft employees are banned from using DeepSeek app, president says](https://techcrunch.com/2025/05/08/microsoft-employees-are-banned-from-using-deepseek-app-president-says/)
 - [A timeline of South Korean telco giant SKT’s data breach](https://techcrunch.com/2025/05/08/a-timeline-of-south-korean-telco-giant-skts-data-breach/)
 - [Aurora to add night driving, new routes as it ramps driverless trucking](https://techcrunch.com/2025/05/08/aurora-to-add-night-driving-new-routes-as-it-ramps-driverless-trucking/)
-- [Aurora co-founder Sterling Anderson is leaving the self-driving truck startup](https://techcrunch.com/2025/05/08/aurora-co-founder-sterling-anderson-is-leaving-the-self-driving-truck-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
