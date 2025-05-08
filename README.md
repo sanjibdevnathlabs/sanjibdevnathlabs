@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia leads $1.5B tender offer for sales automation startup Clay](https://techcrunch.com/2025/05/08/clay-authorizes-employee-tender-at-a-1-5b-valuation-led-by-sequoia/)
+- [Teenage drama is interrupted by extraterrestrial phenomena in this exclusive clip for &#39;Watch the Skies&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/teenage-drama-is-interrupted-by-extraterrestrial-phenomena-in-this-exclusive-clip-for-watch-the-skies-video)
 - [A stadium-sized asteroid will fly past Earth on May 9, and you can watch it live &lpar;video&rpar;](https://www.space.com/stargazing/a-stadium-sized-asteroid-will-fly-past-earth-on-may-9-and-you-can-watch-it-live-video)
 - [OpenAI launches a data residency program in Asia](https://techcrunch.com/2025/05/08/openai-launches-a-data-residency-program-in-asia/)
 - [Bill Gates tells his foundation to spend it all by 2045](https://techcrunch.com/2025/05/08/bill-gates-tells-his-foundation-to-spend-it-all-by-2045/)
-- [Europe weighs fallout from proposed NASA budget cuts threatening joint missions](https://www.space.com/space-exploration/europe-assessing-fallout-from-proposed-nasa-budget-cuts-threatening-joint-missions)
-- [Match to lay off 13% of staff](https://techcrunch.com/2025/05/08/match-to-lay-off-13-of-staff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
