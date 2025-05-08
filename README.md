@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China uses &#39;gravity slingshot&#39; to rescue pair of wayward moon satellites](https://www.space.com/astronomy/moon/china-uses-gravity-slingshot-to-rescue-pair-of-wayward-moon-satellites)
+- [Microsoft employees are banned from using DeepSeek app, president says](https://techcrunch.com/2025/05/08/microsoft-employees-are-banned-from-using-deepseek-app-president-says/)
+- [A timeline of South Korean telco giant SKT’s data breach](https://techcrunch.com/2025/05/08/a-timeline-of-south-korean-telco-giant-skts-data-breach/)
+- [Aurora to add night driving, new routes as it ramps driverless trucking](https://techcrunch.com/2025/05/08/aurora-to-add-night-driving-new-routes-as-it-ramps-driverless-trucking/)
 - [Aurora co-founder Sterling Anderson is leaving the self-driving truck startup](https://techcrunch.com/2025/05/08/aurora-co-founder-sterling-anderson-is-leaving-the-self-driving-truck-startup/)
-- [Appfigures: Apple made over $10B from US App Store comissions last year](https://techcrunch.com/2025/05/08/appfigures-apple-made-over-10b-from-us-app-store-comissions-last-year/)
-- [ChatGPT’s deep research tool gets a GitHub connector to answer questions about code](https://techcrunch.com/2025/05/08/chatgpts-deep-research-tool-gets-a-github-connector-to-answer-questions-about-code/)
-- [A failed Soviet Venus probe is falling to Earth, and an astronomer will attempt to catch it on camera on May 8](https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-probe-is-falling-to-earth-and-an-astronomer-will-attempt-to-catch-it-on-camera-on-may-8)
-- [Ex-Synapse CEO reportedly trying to raise $100M for his new humanoid robotics venture](https://techcrunch.com/2025/05/08/ex-synapse-ceo-reportedly-trying-to-raise-100m-for-his-new-humanoid-robotics-venture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
