@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram Threads is getting video ads](https://techcrunch.com/2025/05/08/instagram-threads-is-getting-video-ads/)
+- [US Space Force test fires thrusters for moon surveillance spacecraft](https://www.space.com/space-exploration/satellites/us-space-force-test-fires-thrusters-for-moon-surveillance-spacecraft)
+- [PowerSchool paid a hacker’s ransom, but now schools say they are being extorted](https://techcrunch.com/2025/05/08/powerschool-paid-a-hackers-ransom-but-now-schools-say-they-are-being-extorted/)
+- [Satellites show 28 US cities are sinking, including NYC and Chicago: &#39;Infrastructure can be silently compromised&#39;](https://www.space.com/space-exploration/satellites/satellites-show-28-us-cities-are-sinking-including-nyc-and-chicago-infrastructure-can-be-silently-compromised)
 - [Google rolls out AI tools to protect Chrome users against scams](https://techcrunch.com/2025/05/08/google-rolls-out-ai-tools-to-protect-chrome-users-against-scams/)
-- [Astronaut Scott Kelly joins &#39;Mission Dry&#39;, stars in Goodnites underwear campaign film](https://www.space.com/space-exploration/human-spaceflight/astronaut-scott-kelly-joins-mission-dry-stars-in-goodnites-underwear-campaign-film)
-- [China’s Geely moves to take EV startup Zeekr private amid trade war with US](https://techcrunch.com/2025/05/08/chinas-geely-moves-to-take-ev-startup-zeekr-private-amid-trade-war-with-us/)
-- [Planet hunter Plato gets its eyes | Space photo of the day for May 7, 2025](https://www.space.com/astronomy/exoplanets/planet-hunter-plato-gets-its-eyes-space-photo-of-the-day-for-may-7-2025)
-- [Exhibit your startup at TechCrunch Sessions: AI while you still can!](https://techcrunch.com/2025/05/08/exhibit-your-startup-at-techcrunch-sessions-ai-while-you-still-can/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
