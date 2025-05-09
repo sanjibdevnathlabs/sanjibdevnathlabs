@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Department of Labor just dropped its investigation into Scale AI](https://techcrunch.com/2025/05/09/the-department-of-labor-just-dropped-its-investigation-into-scale-ai/)
+- [President Trump nominates former Air Force colonel Matt Anderson to be NASA&#39;s deputy chief](https://www.space.com/space-exploration/president-trump-nominates-former-air-force-colonel-matt-anderson-to-be-nasas-deputy-chief)
+- [Greece is having a Big Tech moment](https://techcrunch.com/video/greece-is-having-a-big-tech-moment/)
 - [Doomed star circling supermassive black hole could be ripped apart in less than 6 years](https://www.space.com/astronomy/black-holes/doomed-star-circling-supermassive-black-hole-could-be-ripped-apart-in-less-than-6-years)
 - [TechCrunch Mobility: Tesla denied ‘Robotaxi’ trademark, Aurora loses a co-founder, and tariffs start to take a toll](https://techcrunch.com/2025/05/09/techcrunch-mobility-tesla-denied-robotaxi-trademark-aurora-loses-a-co-founder-and-tariffs-start-to-take-a-toll/)
-- [Epic Games and Spotify test Apple’s new App Store rules](https://techcrunch.com/2025/05/09/epic-games-and-spotify-test-apples-new-app-store-rules/)
-- [Serena-backed health tech lands first FDA approval for home cervical cancer test](https://techcrunch.com/2025/05/09/serena-backed-health-tech-lands-first-fda-approval-for-home-cervical-cancer-test/)
-- [US military taps Rocket Lab’s new Neutron launcher for ‘point to point’ cargo test flight in 2026](https://www.space.com/space-exploration/launches-spacecraft/us-military-taps-rocket-labs-new-neutron-launcher-for-point-to-point-cargo-test-flight-in-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
