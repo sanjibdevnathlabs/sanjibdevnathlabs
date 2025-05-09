@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The US isn&#39;t prepared for a big solar storm, exercise finds](https://www.space.com/astronomy/earth/the-us-isnt-prepared-for-a-big-solar-storm-exercise-finds)
+- [X timelines aren’t updating for many users](https://techcrunch.com/2025/05/09/x-timelines-arent-updating-for-many-users/)
 - [Apple said to be developing new chips for smart glasses, Macs, and more](https://techcrunch.com/2025/05/09/apple-said-to-be-developing-new-chips-for-smart-glasses-macs-and-more/)
 - [Florida bill requiring encryption backdoors for social media accounts has failed](https://techcrunch.com/2025/05/09/florida-bill-requiring-encryption-backdoors-for-social-media-accounts-has-failed/)
 - [Best solar telescopes 2025: Safely observe sun spots and solar eclipses](https://www.space.com/stargazing/skywatching-kit/best-solar-telescopes-safely-observe-sun-spots-and-solar-eclipses)
-- [See the world&#39;s largest iceberg stranded in the South Atlantic &lpar;satellite photo&rpar;](https://www.space.com/astronomy/earth/see-the-worlds-largest-iceberg-stranded-in-the-south-atlantic-satellite-photo)
-- [Watch the moon and bright star Spica meet in a celestial dance on May 9](https://www.space.com/stargazing/watch-the-moon-and-bright-star-spica-meet-in-a-celestial-dance-on-may-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
