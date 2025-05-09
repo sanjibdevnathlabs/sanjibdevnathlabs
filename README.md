@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/05/09/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
-- [Startups Weekly: Different paths on the road to liquidity](https://techcrunch.com/2025/05/09/startups-weekly-different-paths-on-the-road-to-liquidity/)
-- [We finally have a release date for &#39;Foundation&#39; season 3 on Apple TV+, thanks to this first-look trailer &lpar;video&rpar;](https://www.space.com/entertainment/we-finally-have-a-release-date-for-foundation-season-3-on-apple-tv-thanks-to-this-first-look-trailer-video)
-- [Rippling raises $450M at a $16.8B valuation, reveals YC is a customer](https://techcrunch.com/2025/05/09/rippling-raises-450m-at-a-16-8b-valuation-reveals-yc-is-a-customer/)
-- [Face to face with a galaxy | Space photo of the day for May 9, 2025](https://www.space.com/astronomy/hubble-space-telescope/face-to-face-with-a-galaxy-space-photo-of-the-day-for-may-9-2025)
+- [Doomed star circling supermassive black hole could be ripped apart in less than 6 years](https://www.space.com/astronomy/black-holes/doomed-star-circling-supermassive-black-hole-could-be-ripped-apart-in-less-than-6-years)
+- [TechCrunch Mobility: Tesla denied ‘Robotaxi’ trademark, Aurora loses a co-founder, and tariffs start to take a toll](https://techcrunch.com/2025/05/09/techcrunch-mobility-tesla-denied-robotaxi-trademark-aurora-loses-a-co-founder-and-tariffs-start-to-take-a-toll/)
+- [Epic Games and Spotify test Apple’s new App Store rules](https://techcrunch.com/2025/05/09/epic-games-and-spotify-test-apples-new-app-store-rules/)
+- [Serena-backed health tech lands first FDA approval for home cervical cancer test](https://techcrunch.com/2025/05/09/serena-backed-health-tech-lands-first-fda-approval-for-home-cervical-cancer-test/)
+- [US military taps Rocket Lab’s new Neutron launcher for ‘point to point’ cargo test flight in 2026](https://www.space.com/space-exploration/launches-spacecraft/us-military-taps-rocket-labs-new-neutron-launcher-for-point-to-point-cargo-test-flight-in-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
