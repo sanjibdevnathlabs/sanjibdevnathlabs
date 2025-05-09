@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google I/O 2025: What to expect, including updates to Gemini and Android 16](https://techcrunch.com/2025/05/09/google-i-o-2025-what-to-expect-including-updates-to-gemini-and-android-16/)
+- [Remember Moviefone? Well, it’s back.](https://techcrunch.com/2025/05/09/remember-moviefone-well-its-back/)
 - [AI-dubbed Swedish sci-fi movie &#39;Watch the Skies&#39; came about after the director had coffee and tarts with a local UFO chaser group &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/ai-dubbed-swedish-sci-fi-movie-watch-the-skies-came-about-after-the-director-had-coffee-and-cake-with-a-local-ufo-chaser-group-interview)
 - [These investors are betting on Greece’s founders](https://techcrunch.com/video/these-investors-are-betting-on-greeces-founders/)
 - [The Department of Labor just dropped its investigation into Scale AI](https://techcrunch.com/2025/05/09/the-department-of-labor-just-dropped-its-investigation-into-scale-ai/)
-- [President Trump nominates former Air Force colonel Matt Anderson to be NASA&#39;s deputy chief](https://www.space.com/space-exploration/president-trump-nominates-former-air-force-colonel-matt-anderson-to-be-nasas-deputy-chief)
-- [Greece is having a Big Tech moment](https://techcrunch.com/video/greece-is-having-a-big-tech-moment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
