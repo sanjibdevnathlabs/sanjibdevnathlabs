@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/05/09/tech-layoffs-2025-list/)
-- [Full &#39;Flower Moon&#39; 2025 blooms on May 12: Here&#39;s where to look](https://www.space.com/stargazing/mays-full-flower-moon-2025-blooms-on-may-12-heres-where-to-look)
-- [Microsoft Build 2025: How to watch this year’s conference](https://techcrunch.com/2025/05/09/microsoft-build-2025-how-to-watch-this-years-conference/)
-- [Google inks deal to develop 1.8 GW of advanced nuclear power](https://techcrunch.com/2025/05/09/google-inks-deal-to-develop-1-8-gw-of-advanced-nuclear-power/)
-- [CoreWeave reportedly looks to raise $1.5B in debt as IPO disappoints](https://techcrunch.com/2025/05/09/coreweave-reportedly-looks-to-raise-1-5b-in-debt-as-ipo-disappoints/)
+- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/05/09/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
+- [Startups Weekly: Different paths on the road to liquidity](https://techcrunch.com/2025/05/09/startups-weekly-different-paths-on-the-road-to-liquidity/)
+- [We finally have a release date for &#39;Foundation&#39; season 3 on Apple TV+, thanks to this first-look trailer &lpar;video&rpar;](https://www.space.com/entertainment/we-finally-have-a-release-date-for-foundation-season-3-on-apple-tv-thanks-to-this-first-look-trailer-video)
+- [Rippling raises $450M at a $16.8B valuation, reveals YC is a customer](https://techcrunch.com/2025/05/09/rippling-raises-450m-at-a-16-8b-valuation-reveals-yc-is-a-customer/)
+- [Face to face with a galaxy | Space photo of the day for May 9, 2025](https://www.space.com/astronomy/hubble-space-telescope/face-to-face-with-a-galaxy-space-photo-of-the-day-for-may-9-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
