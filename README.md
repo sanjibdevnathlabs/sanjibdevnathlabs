@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Telescope sees wandering black hole slurping up stellar spaghetti](https://www.space.com/astronomy/black-holes/hubble-telescope-sees-wandering-black-hole-slurping-up-stellar-spaghetti)
-- [The US isn&#39;t prepared for a big solar storm, exercise finds](https://www.space.com/astronomy/earth/the-us-isnt-prepared-for-a-big-solar-storm-exercise-finds)
-- [X timelines aren’t updating for many users](https://techcrunch.com/2025/05/09/x-timelines-arent-updating-for-many-users/)
-- [Apple said to be developing new chips for smart glasses, Macs, and more](https://techcrunch.com/2025/05/09/apple-said-to-be-developing-new-chips-for-smart-glasses-macs-and-more/)
-- [Florida bill requiring encryption backdoors for social media accounts has failed](https://techcrunch.com/2025/05/09/florida-bill-requiring-encryption-backdoors-for-social-media-accounts-has-failed/)
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/05/09/tech-layoffs-2025-list/)
+- [Full &#39;Flower Moon&#39; 2025 blooms on May 12: Here&#39;s where to look](https://www.space.com/stargazing/mays-full-flower-moon-2025-blooms-on-may-12-heres-where-to-look)
+- [Microsoft Build 2025: How to watch this year’s conference](https://techcrunch.com/2025/05/09/microsoft-build-2025-how-to-watch-this-years-conference/)
+- [Google inks deal to develop 1.8 GW of advanced nuclear power](https://techcrunch.com/2025/05/09/google-inks-deal-to-develop-1-8-gw-of-advanced-nuclear-power/)
+- [CoreWeave reportedly looks to raise $1.5B in debt as IPO disappoints](https://techcrunch.com/2025/05/09/coreweave-reportedly-looks-to-raise-1-5b-in-debt-as-ipo-disappoints/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
