@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple said to be developing new chips for smart glasses, Macs, and more](https://techcrunch.com/2025/05/09/apple-said-to-be-developing-new-chips-for-smart-glasses-macs-and-more/)
+- [Florida bill requiring encryption backdoors for social media accounts has failed](https://techcrunch.com/2025/05/09/florida-bill-requiring-encryption-backdoors-for-social-media-accounts-has-failed/)
+- [Best solar telescopes 2025: Safely observe sun spots and solar eclipses](https://www.space.com/stargazing/skywatching-kit/best-solar-telescopes-safely-observe-sun-spots-and-solar-eclipses)
+- [See the world&#39;s largest iceberg stranded in the South Atlantic &lpar;satellite photo&rpar;](https://www.space.com/astronomy/earth/see-the-worlds-largest-iceberg-stranded-in-the-south-atlantic-satellite-photo)
 - [Watch the moon and bright star Spica meet in a celestial dance on May 9](https://www.space.com/stargazing/watch-the-moon-and-bright-star-spica-meet-in-a-celestial-dance-on-may-9)
-- [ZWO Seestar S30 all-in-one smart telescope review](https://www.space.com/stargazing/astronomy-kit/zwo-seestar-s30-all-in-one-smart-telescope-review)
-- [This is your last chance to exhibit at TechCrunch Sessions: AI — don’t miss out](https://techcrunch.com/2025/05/09/this-is-your-last-chance-to-exhibit-at-techcrunch-sessions-ai-dont-miss-out/)
-- [Cosmic imposter bathes distant nebula in fiery red glow: &#39;This star should not be here&#39;](https://www.space.com/astronomy/stars/cosmic-imposter-bathes-distant-nebula-in-fiery-red-glow-this-star-should-not-be-here)
-- [A failed Soviet Venus probe is expected to fall to Earth today, but when and where? Here&#39;s what we know](https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-probe-is-expected-to-fall-to-earth-today-but-when-and-where-heres-what-we-know)
 <!-- BLOG-POST-LIST:END -->
 
 ---
