@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amateur astronomer reveals a colorful portrait of Earth&#39;s closest star-forming neighbor &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/amateur-astronomer-reveals-a-colorful-portrait-of-earths-closest-star-forming-neighbor-photo)
+- [Failed Soviet Venus lander Kosmos 482 crashes to Earth after 53 years in orbit](https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit)
 - [This Week In Space podcast: Episode 160 — The Amazing Dr. Goddard](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-160-the-amazing-dr-goddard)
 - [TechCrunch All Stage 2025 welcomes Boldstart partner Ellen Chisa to talk early-stage enterprise bets](https://techcrunch.com/2025/05/10/techcrunch-all-stage-2025-welcomes-boldstart-partner-ellen-chisa-to-talk-early-stage-enterprise-bets/)
 - [Five things we learned from WhatsApp vs. NSO Group spyware lawsuit](https://techcrunch.com/2025/05/10/five-things-we-learned-from-whatsapp-vs-nso-group-spyware-lawsuit/)
-- [It&#39;s been one year since the most intense solar storm in decades created worldwide auroras. What have we learned?](https://www.space.com/astronomy/sun/its-been-one-year-since-the-most-intense-solar-storm-in-decades-created-worldwide-auroras-what-have-we-learned)
-- [TechCrunch All Stage 2025: Prepare 4 VC’s Jason Kraus will instruct on how to turn chaos into momentum](https://techcrunch.com/2025/05/10/techcrunch-all-stage-2025-prepare-4-vcs-jason-kraus-will-instruct-on-how-to-turn-chaos-into-momentum/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
