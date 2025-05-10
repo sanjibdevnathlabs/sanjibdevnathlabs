@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The near joy of biking with Ray-Ban Meta glasses](https://techcrunch.com/2025/05/10/the-near-joy-of-biking-with-ray-ban-meta-glasses/)
 - [A timeline of the U.S. semiconductor market in 2025](https://techcrunch.com/2025/05/10/a-timeline-of-the-u-s-semiconductor-market-in-2025/)
 - [Need for speed? Watch this thrilling video from historic Stratolaunch Talon-A2 hypersonic flight &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/need-for-speed-watch-this-thrilling-video-from-historic-stratolaunch-talon-a2-hypersonic-flight-video)
 - [Whitney Wolfe Herd on burning out —  and bouncing back](https://techcrunch.com/2025/05/10/whitney-wolfe-herd-on-burning-out-and-bouncing-bac/)
 - [Amateur astronomer reveals a colorful portrait of Earth&#39;s closest star-forming neighbor &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/amateur-astronomer-reveals-a-colorful-portrait-of-earths-closest-star-forming-neighbor-photo)
-- [Failed Soviet Venus lander Kosmos 482 crashes to Earth after 53 years in orbit](https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
