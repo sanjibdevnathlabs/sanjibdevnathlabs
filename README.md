@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC delays enforcement of click-to-cancel rule](https://techcrunch.com/2025/05/10/ftc-delays-enforcement-of-click-to-cancel-rule/)
 - [Week in Review: Instacart CEO heads to OpenAI](https://techcrunch.com/2025/05/10/week-in-review-instacart-ceo-heads-to-openai/)
 - [Google will pay Texas $1.4 billion to settle privacy lawsuits](https://techcrunch.com/2025/05/10/google-will-pay-texas-1-4-billion-to-settle-privacy-lawsuits/)
 - [OpenAI’s enterprise adoption appears to be accelerating, at the expense of rivals](https://techcrunch.com/2025/05/10/openais-enterprise-adoption-appears-to-be-accelerating-at-the-expense-of-rivals/)
 - [The near joy of biking with Ray-Ban Meta glasses](https://techcrunch.com/2025/05/10/the-near-joy-of-biking-with-ray-ban-meta-glasses/)
-- [A timeline of the U.S. semiconductor market in 2025](https://techcrunch.com/2025/05/10/a-timeline-of-the-u-s-semiconductor-market-in-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
