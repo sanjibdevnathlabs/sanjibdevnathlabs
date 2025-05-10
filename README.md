@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Week in Review: Instacart CEO heads to OpenAI](https://techcrunch.com/2025/05/10/week-in-review-instacart-ceo-heads-to-openai/)
+- [Google will pay Texas $1.4 billion to settle privacy lawsuits](https://techcrunch.com/2025/05/10/google-will-pay-texas-1-4-billion-to-settle-privacy-lawsuits/)
 - [OpenAI’s enterprise adoption appears to be accelerating, at the expense of rivals](https://techcrunch.com/2025/05/10/openais-enterprise-adoption-appears-to-be-accelerating-at-the-expense-of-rivals/)
 - [The near joy of biking with Ray-Ban Meta glasses](https://techcrunch.com/2025/05/10/the-near-joy-of-biking-with-ray-ban-meta-glasses/)
 - [A timeline of the U.S. semiconductor market in 2025](https://techcrunch.com/2025/05/10/a-timeline-of-the-u-s-semiconductor-market-in-2025/)
-- [Need for speed? Watch this thrilling video from historic Stratolaunch Talon-A2 hypersonic flight &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/need-for-speed-watch-this-thrilling-video-from-historic-stratolaunch-talon-a2-hypersonic-flight-video)
-- [Whitney Wolfe Herd on burning out —  and bouncing back](https://techcrunch.com/2025/05/10/whitney-wolfe-herd-on-burning-out-and-bouncing-bac/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
