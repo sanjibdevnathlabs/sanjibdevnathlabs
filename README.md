@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The face looks familiar, but who&#39;s the other Time Lord in &#39;Doctor Who: The Story &amp; the Engine&#39;?](https://www.space.com/entertainment/space-movies-shows/the-face-looks-familiar-but-whos-the-other-time-lord-in-doctor-who-the-story-and-the-engine)
 - [FTC delays enforcement of click-to-cancel rule](https://techcrunch.com/2025/05/10/ftc-delays-enforcement-of-click-to-cancel-rule/)
 - [Week in Review: Instacart CEO heads to OpenAI](https://techcrunch.com/2025/05/10/week-in-review-instacart-ceo-heads-to-openai/)
 - [Google will pay Texas $1.4 billion to settle privacy lawsuits](https://techcrunch.com/2025/05/10/google-will-pay-texas-1-4-billion-to-settle-privacy-lawsuits/)
 - [OpenAI’s enterprise adoption appears to be accelerating, at the expense of rivals](https://techcrunch.com/2025/05/10/openais-enterprise-adoption-appears-to-be-accelerating-at-the-expense-of-rivals/)
-- [The near joy of biking with Ray-Ban Meta glasses](https://techcrunch.com/2025/05/10/the-near-joy-of-biking-with-ray-ban-meta-glasses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
