@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s been one year since the most intense solar storm in decades created worldwide auroras. What have we learned?](https://www.space.com/astronomy/sun/its-been-one-year-since-the-most-intense-solar-storm-in-decades-created-worldwide-auroras-what-have-we-learned)
 - [TechCrunch All Stage 2025: Prepare 4 VC’s Jason Kraus will instruct on how to turn chaos into momentum](https://techcrunch.com/2025/05/10/techcrunch-all-stage-2025-prepare-4-vcs-jason-kraus-will-instruct-on-how-to-turn-chaos-into-momentum/)
 - [SpaceX launches 28 Starlink satellites to orbit from Florida](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-28-starlink-satellites-to-orbit-from-florida)
 - [SpaceX Falcon 9 rocket launches Starlink satellites from California, lands on ship at sea](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-3-b1081-vsfb)
 - [Scaling startups in the European market](https://techcrunch.com/video/scaling-startups-in-the-european-market/)
-- [Investing in overlooked European ecosystems](https://techcrunch.com/video/investing-in-overlooked-european-ecosystems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
