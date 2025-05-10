@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Falcon 9 rocket launches Starlink satellites from California, lands on ship at sea](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-3-b1081-vsfb)
 - [Scaling startups in the European market](https://techcrunch.com/video/scaling-startups-in-the-european-market/)
 - [Investing in overlooked European ecosystems](https://techcrunch.com/video/investing-in-overlooked-european-ecosystems/)
 - [The US is reviewing Benchmark’s investment into Chinese AI startup Manus](https://techcrunch.com/2025/05/09/the-us-is-reviewing-benchmarks-investment-into-chinese-ai-startup-manus/)
 - [Google I/O 2025: What to expect, including updates to Gemini and Android 16](https://techcrunch.com/2025/05/09/google-i-o-2025-what-to-expect-including-updates-to-gemini-and-android-16/)
-- [Remember Moviefone? Well, it’s back.](https://techcrunch.com/2025/05/09/remember-moviefone-well-its-back/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
