@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Calling citizen scientists! Help NASA&#39;s Galaxy Zoo classify galaxies seen by James Webb Space Telescope](https://www.space.com/astronomy/james-webb-space-telescope/calling-citizen-scientists-help-nasas-galaxy-zoo-classify-galaxies-seen-by-james-webb-space-telescope)
+- [&#39;Star Wars: Tales of the Underworld&#39; producer talks bringing back Asajj Ventress and Cad Bane for Disney+ series &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/star-wars-tales-of-the-underworld-producer-talks-bringing-back-asajj-ventress-and-cad-bane-for-disney-series-exclusive)
+- [Microsoft and OpenAI may be renegotiating their partnership](https://techcrunch.com/2025/05/11/microsoft-and-openai-may-be-renegotiating-their-partnership/)
 - [The Backbone Pro controller makes mobile gaming worth the hassle](https://techcrunch.com/2025/05/11/the-backbone-pro-controller-makes-mobile-gaming-worth-the-hassle/)
 - [Amazon offers peek at new human jobs in an AI bot world](https://techcrunch.com/2025/05/11/amazon-offers-peek-at-new-human-jobs-in-an-ai-bot-world/)
-- [Playmobil, ESA partner on toy starter pack for a space mission on the moon](https://www.space.com/entertainment/space-toys-lego/playmobil-esa-partner-on-toy-starter-pack-for-a-space-mission-on-the-moon)
-- [New Mexico&#39;s Spaceport America looks up and into the future](https://www.space.com/space-exploration/launches-spacecraft/new-mexicos-spaceport-america-looks-up-and-into-the-future)
-- [I went to STARMUS La Palma for science and music — I came back in love](https://www.space.com/stargazing/i-went-to-starmus-la-palma-for-science-and-music-i-came-back-in-love)
 <!-- BLOG-POST-LIST:END -->
 
 ---
