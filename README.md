@@ -149,8 +149,8 @@ I'm a software developer passionate about designing and building applications wi
 - [New Mexico&#39;s Spaceport America looks up and into the future](https://www.space.com/space-exploration/launches-spacecraft/new-mexicos-spaceport-america-looks-up-and-into-the-future)
 - [I went to STARMUS La Palma for science and music — I came back in love](https://www.space.com/stargazing/i-went-to-starmus-la-palma-for-science-and-music-i-came-back-in-love)
 - [The Greek revival you’re not watching &lpar;but probably should be&rpar;](https://techcrunch.com/2025/05/11/the-greek-revival-youre-not-watching-but-probably-should-be/)
-- [Egypt’s Nawy, the largest proptech in Africa, lands a $52M Series A to take on MENA](https://techcrunch.com/2025/05/11/egypts-nawy-the-largest-proptech-in-africa-lands-a-52m-series-a-to-take-on-mena/)
 - [Elizabeth Holmes’ partner reportedly fundraising for new blood-testing startup](https://techcrunch.com/2025/05/10/elizabeth-holmes-partner-reportedly-fundraising-for-new-blood-testing-startup/)
+- [The face looks familiar, but who&#39;s the other Time Lord in &#39;Doctor Who: The Story &amp; the Engine&#39;?](https://www.space.com/entertainment/space-movies-shows/the-face-looks-familiar-but-whos-the-other-time-lord-in-doctor-who-the-story-and-the-engine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
