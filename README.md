@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Egypt’s Nawy, the largest proptech in Africa, lands a $52M Series A to take on MENA](https://techcrunch.com/2025/05/11/egypts-nawy-the-largest-proptech-in-africa-lands-a-52m-series-a-to-take-on-mena/)
 - [Elizabeth Holmes’ partner reportedly fundraising for new blood-testing startup](https://techcrunch.com/2025/05/10/elizabeth-holmes-partner-reportedly-fundraising-for-new-blood-testing-startup/)
 - [The face looks familiar, but who&#39;s the other Time Lord in &#39;Doctor Who: The Story &amp; the Engine&#39;?](https://www.space.com/entertainment/space-movies-shows/the-face-looks-familiar-but-whos-the-other-time-lord-in-doctor-who-the-story-and-the-engine)
 - [FTC delays enforcement of click-to-cancel rule](https://techcrunch.com/2025/05/10/ftc-delays-enforcement-of-click-to-cancel-rule/)
 - [Week in Review: Instacart CEO heads to OpenAI](https://techcrunch.com/2025/05/10/week-in-review-instacart-ceo-heads-to-openai/)
-- [Google will pay Texas $1.4 billion to settle privacy lawsuits](https://techcrunch.com/2025/05/10/google-will-pay-texas-1-4-billion-to-settle-privacy-lawsuits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
