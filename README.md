@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s Stargate project reportedly struggling to get off the ground, thanks to tariffs](https://techcrunch.com/2025/05/12/openais-stargate-project-reportedly-struggling-to-get-off-the-ground-thanks-to-tariffs/)
+- [GM taps Aurora co-founder for new chief product officer role](https://techcrunch.com/2025/05/12/gm-taps-aurora-co-founder-for-new-chief-product-officer-role/)
+- [Google’s Gemma AI models surpass 150M downloads](https://techcrunch.com/2025/05/12/googles-gemma-ai-models-surpass-150m-downloads/)
 - [JWST watches auroras on Jupiter glow hundreds of times brighter than those on Earth &lpar;video&rpar;](https://www.space.com/astronomy/jupiter/jwst-watches-auroras-on-jupiter-glow-hundreds-of-times-brighter-than-those-on-earth-video)
 - [InventWood is about to mass produce wood that’s stronger than steel](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/)
-- [Ancient zircon crystals shed light on 1 billion-year-old meteorite strike in Scotland](https://www.space.com/stargazing/meteor-showers/ancient-zircon-crystals-shed-light-on-1-billion-year-old-meteorite-strike-in-scotland)
-- [Sci-fi cult classic &#39;Event Horizon&#39; scares up a prequel comic series later this year and we can&#39;t wait](https://www.space.com/entertainment/sci-fi-cult-classic-event-horizon-scares-up-a-prequel-comic-series-later-this-year-and-we-cant-wait)
-- [This American VC is betting on European defense tech; that’s still very unusual](https://techcrunch.com/2025/05/12/this-american-vc-is-betting-on-european-defense-tech-thats-still-very-unusual/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
