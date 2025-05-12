@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google launches new initiative to back startups building AI](https://techcrunch.com/2025/05/12/google-launches-new-initiative-to-back-startups-building-ai/)
+- [Watch flower-like antenna of European forest-watching satellite &#39;bloom&#39; in space &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-flower-like-antenna-of-european-forest-watching-satellite-bloom-in-space-video)
+- [Saudi prince launches AI venture as Trump, Musk, Altman, and Zuckerberg arrive for conference](https://techcrunch.com/2025/05/12/saudi-prince-launches-ai-venture-as-trump-musk-altman-and-zuckerberg-arrive-for-conference/)
+- [Sam Altman apparently does not respect olive oil](https://techcrunch.com/2025/05/12/sam-altman-apparently-does-not-respect-olive-oil/)
 - [Every &#39;Star Wars: Tales of the Underworld&#39; episode, ranked from worst to best](https://www.space.com/entertainment/space-movies-shows/every-star-wars-tales-of-the-underworld-episode-ranked-from-worst-to-best)
-- [Vertical view of a very large telescope | Space photo of the day for May 12, 2025](https://www.space.com/astronomy/vertical-view-of-a-very-large-telescope-space-photo-of-the-day-for-may-12-2025)
-- [OpenAI’s Stargate project reportedly struggling to get off the ground, thanks to tariffs](https://techcrunch.com/2025/05/12/openais-stargate-project-reportedly-struggling-to-get-off-the-ground-thanks-to-tariffs/)
-- [GM taps Aurora co-founder for new chief product officer role](https://techcrunch.com/2025/05/12/gm-taps-aurora-co-founder-for-new-chief-product-officer-role/)
-- [Google’s Gemma AI models surpass 150M downloads](https://techcrunch.com/2025/05/12/googles-gemma-ai-models-surpass-150m-downloads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
