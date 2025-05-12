@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Improvements in ‘reasoning’ AI models may slow down soon, analysis finds](https://techcrunch.com/2025/05/12/improvements-in-reasoning-ai-models-may-slow-down-soon-analysis-finds/)
 - [Europe&#39;s Proba-3 satellites ace landmark formation-flying test &lpar;video&rpar;](https://www.space.com/space-exploration/satellites/europes-proba-3-satellites-ace-landmark-formation-flying-test-video)
 - [AllTrails debuts $80/year membership that includes AI-powered smart routes](https://techcrunch.com/2025/05/12/alltrails-debuts-a-80-year-membership-that-includes-ai-powered-smart-routes/)
 - [NASA turns the screams of a dying star into music](https://www.space.com/astronomy/nasa-turns-the-screams-of-a-dying-star-into-music)
 - [Microsoft Build 2025: What to expect, from Azure to Copilot upgrades](https://techcrunch.com/2025/05/12/microsoft-build-2025-what-to-expect-from-azure-to-copilot-upgrades/)
-- [Sensors designed to detect nuclear detonations can help track space debris falling to Earth](https://www.space.com/technology/sensors-designed-to-detect-nuclear-detonations-can-help-track-space-debris-falling-to-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
