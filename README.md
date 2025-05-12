@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JWST watches auroras on Jupiter glow hundreds of times brighter than those on Earth &lpar;video&rpar;](https://www.space.com/astronomy/jupiter/jwst-watches-auroras-on-jupiter-glow-hundreds-of-times-brighter-than-those-on-earth-video)
+- [InventWood is about to mass produce wood that’s stronger than steel](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/)
+- [Ancient zircon crystals shed light on 1 billion-year-old meteorite strike in Scotland](https://www.space.com/stargazing/meteor-showers/ancient-zircon-crystals-shed-light-on-1-billion-year-old-meteorite-strike-in-scotland)
 - [Sci-fi cult classic &#39;Event Horizon&#39; scares up a prequel comic series later this year and we can&#39;t wait](https://www.space.com/entertainment/sci-fi-cult-classic-event-horizon-scares-up-a-prequel-comic-series-later-this-year-and-we-cant-wait)
 - [This American VC is betting on European defense tech; that’s still very unusual](https://techcrunch.com/2025/05/12/this-american-vc-is-betting-on-european-defense-tech-thats-still-very-unusual/)
-- [Apple reportedly plans to hike prices of upcoming iPhones](https://techcrunch.com/2025/05/12/apple-reportedly-plans-to-hike-prices-of-upcoming-iphones/)
-- [NASA celebrated this employee&#39;s story of resilience, then tried to scrub it from the internet. Then fired her.](https://www.space.com/space-exploration/nasa-celebrated-this-employees-story-of-resilience-then-tried-to-scrub-it-from-the-internet-then-fired-her)
-- [Tech stocks look set to jump as U.S. and China pause reciprocal tariffs](https://techcrunch.com/2025/05/12/tech-stocks-look-set-to-jump-as-u-s-and-china-pause-reciprocal-tariffs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
