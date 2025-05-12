@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA turns the screams of a dying star into music](https://www.space.com/astronomy/nasa-turns-the-screams-of-a-dying-star-into-music)
+- [Microsoft Build 2025: What to expect, from Azure to Copilot upgrades](https://techcrunch.com/2025/05/12/microsoft-build-2025-what-to-expect-from-azure-to-copilot-upgrades/)
 - [Sensors designed to detect nuclear detonations can help track space debris falling to Earth](https://www.space.com/technology/sensors-designed-to-detect-nuclear-detonations-can-help-track-space-debris-falling-to-earth)
 - [Tesla’s robotaxi plans have the attention of federal investigators](https://techcrunch.com/2025/05/12/teslas-robotaxi-plans-have-the-attention-of-federal-investigators/)
 - [Slate Auto crosses 100,000 refundable reservations in two weeks](https://techcrunch.com/2025/05/12/slate-auto-crosses-100000-refundable-reservations-in-two-weeks/)
-- [&#39;Battlefield Earth&#39; is Hollywood&#39;s most infamous sci-fi flop, but 25 years on, director Roger Christian is still proud of his work with Travolta &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/battlefield-earth-is-hollywoods-most-infamous-sci-fi-flop-but-25-years-on-director-roger-christian-is-still-proud-of-his-work-with-travolta-exclusive)
-- [Google I/O 2025: How to watch all the AI and Android reveals](https://techcrunch.com/2025/05/12/google-i-o-2025-how-to-watch-all-the-ai-and-android-reveals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
