@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Every &#39;Star Wars: Tales of the Underworld&#39; episode, ranked from worst to best](https://www.space.com/entertainment/space-movies-shows/every-star-wars-tales-of-the-underworld-episode-ranked-from-worst-to-best)
+- [Vertical view of a very large telescope | Space photo of the day for May 12, 2025](https://www.space.com/astronomy/vertical-view-of-a-very-large-telescope-space-photo-of-the-day-for-may-12-2025)
 - [OpenAI’s Stargate project reportedly struggling to get off the ground, thanks to tariffs](https://techcrunch.com/2025/05/12/openais-stargate-project-reportedly-struggling-to-get-off-the-ground-thanks-to-tariffs/)
 - [GM taps Aurora co-founder for new chief product officer role](https://techcrunch.com/2025/05/12/gm-taps-aurora-co-founder-for-new-chief-product-officer-role/)
 - [Google’s Gemma AI models surpass 150M downloads](https://techcrunch.com/2025/05/12/googles-gemma-ai-models-surpass-150m-downloads/)
-- [JWST watches auroras on Jupiter glow hundreds of times brighter than those on Earth &lpar;video&rpar;](https://www.space.com/astronomy/jupiter/jwst-watches-auroras-on-jupiter-glow-hundreds-of-times-brighter-than-those-on-earth-video)
-- [InventWood is about to mass produce wood that’s stronger than steel](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
