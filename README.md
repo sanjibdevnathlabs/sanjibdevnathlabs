@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Alien: Rogue Incursion&#39; set to burst onto PS5 and PC this fall with non-VR &#39;Evolved Edition&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-games/alien-rogue-incursion-set-to-burst-onto-ps5-and-pc-this-fall-with-non-vr-evolved-edition-video)
+- [Congressman is investigating fintech Ramp’s attempt to win $25M federal contract](https://techcrunch.com/2025/05/12/congressman-is-investigating-fintech-ramps-attempt-to-win-25m-federal-contract/)
+- [&#39;Marsquakes&#39; reveal clues about a hidden body of water on Mars](https://www.space.com/astronomy/mars/marsquakes-reveal-clues-about-a-hidden-body-of-water-on-mars)
+- [Mercury’s CEO formalizes bets on early-stage founders with a $26M fund](https://techcrunch.com/2025/05/12/mercurys-ceo-formalizes-bets-on-early-stage-founders-with-a-26m-fund/)
 - [Google launches new initiative to back startups building AI](https://techcrunch.com/2025/05/12/google-launches-new-initiative-to-back-startups-building-ai/)
-- [Watch flower-like antenna of European forest-watching satellite &#39;bloom&#39; in space &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-flower-like-antenna-of-european-forest-watching-satellite-bloom-in-space-video)
-- [Saudi prince launches AI venture as Trump, Musk, Altman, and Zuckerberg arrive for conference](https://techcrunch.com/2025/05/12/saudi-prince-launches-ai-venture-as-trump-musk-altman-and-zuckerberg-arrive-for-conference/)
-- [Sam Altman apparently does not respect olive oil](https://techcrunch.com/2025/05/12/sam-altman-apparently-does-not-respect-olive-oil/)
-- [Every &#39;Star Wars: Tales of the Underworld&#39; episode, ranked from worst to best](https://www.space.com/entertainment/space-movies-shows/every-star-wars-tales-of-the-underworld-episode-ranked-from-worst-to-best)
 <!-- BLOG-POST-LIST:END -->
 
 ---
