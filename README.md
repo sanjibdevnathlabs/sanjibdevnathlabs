@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Egypt’s Nawy, the largest proptech in Africa, raises $52M to take on MENA](https://techcrunch.com/2025/05/11/egypts-nawy-lands-a-52m-series-a-to-take-on-mena/)
 - [23andMe customers notified of bankruptcy and potential claims — deadline to file is July 14](https://techcrunch.com/2025/05/11/23andme-customers-notified-of-bankruptcy-and-potential-claims-deadline-to-file-is-july-14/)
 - [Trump fires Copyright Office director after report raises questions about AI training](https://techcrunch.com/2025/05/11/trump-fires-copyright-office-director-after-report-raises-questions-about-ai-training/)
 - [How do you keep reusable spacecraft cool during reentry? Make them &#39;sweat&#39;](https://www.space.com/technology/how-do-you-keep-reusable-spacecraft-cool-during-reentry-make-them-sweat)
 - [Fitness tracker Whoop faces unhappy customers over upgrade policy](https://techcrunch.com/2025/05/11/fitness-tracker-whoop-faces-unhappy-customers-over-upgrade-policy/)
-- [Calling citizen scientists! Help NASA&#39;s Galaxy Zoo classify galaxies seen by James Webb Space Telescope](https://www.space.com/astronomy/james-webb-space-telescope/calling-citizen-scientists-help-nasas-galaxy-zoo-classify-galaxies-seen-by-james-webb-space-telescope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
