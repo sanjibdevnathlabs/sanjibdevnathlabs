@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sci-fi cult classic &#39;Event Horizon&#39; scares up a prequel comic series later this year and we can&#39;t wait](https://www.space.com/entertainment/sci-fi-cult-classic-event-horizon-scares-up-a-prequel-comic-series-later-this-year-and-we-cant-wait)
+- [This American VC is betting on European defense tech; that’s still very unusual](https://techcrunch.com/2025/05/12/this-american-vc-is-betting-on-european-defense-tech-thats-still-very-unusual/)
 - [Apple reportedly plans to hike prices of upcoming iPhones](https://techcrunch.com/2025/05/12/apple-reportedly-plans-to-hike-prices-of-upcoming-iphones/)
 - [NASA celebrated this employee&#39;s story of resilience, then tried to scrub it from the internet. Then fired her.](https://www.space.com/space-exploration/nasa-celebrated-this-employees-story-of-resilience-then-tried-to-scrub-it-from-the-internet-then-fired-her)
 - [Tech stocks look set to jump as U.S. and China pause reciprocal tariffs](https://techcrunch.com/2025/05/12/tech-stocks-look-set-to-jump-as-u-s-and-china-pause-reciprocal-tariffs/)
-- [The 2025 full Flower Moon rises tonight: Here&#39;s what to expect](https://www.space.com/stargazing/the-2025-full-flower-moon-rises-tonight-heres-how-to-see-it)
-- [Egypt’s Nawy, the largest proptech in Africa, raises $52M to take on MENA](https://techcrunch.com/2025/05/11/egypts-nawy-lands-a-52m-series-a-to-take-on-mena/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
