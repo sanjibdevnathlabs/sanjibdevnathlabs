@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch the sun unleash 600,000-mile-long eruption in fiery outburst &lpar;video&rpar;](https://www.space.com/watch-sun-unleash-600000-mile-long-eruption-video)
-- [Notion takes on AI-notetakers like Granola with its own transcription feature](https://techcrunch.com/2025/05/13/notion-takes-on-ai-notetakers-like-granola-with-its-own-transcription-feature/)
-- [Amazon Prime Video in India to get ads starting in June](https://techcrunch.com/2025/05/13/amazon-prime-video-in-india-to-get-ads-starting-in-june/)
-- [At TechCrunch All Stage 2025, Rob Biederman will help founders rethink how to scale](https://techcrunch.com/2025/05/13/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/)
-- [GM’s new ‘manganese rich’ battery promises cheaper EVs in 2028](https://techcrunch.com/2025/05/13/gms-new-manganese-rich-battery-promises-cheaper-evs-in-2028/)
+- [Live 4K video from space! See Earth from the ISS with sharp-eyed Sen cameras](https://www.space.com/astronomy/earth/live-4k-video-from-space-see-earth-from-the-iss-with-sharp-eyed-sen-cameras)
+- [Apple Music introduces Sound Therapy, songs for focusing, relaxing and sleep](https://techcrunch.com/2025/05/13/apple-music-introduces-sound-therapy-songs-for-focusing-relaxing-and-sleep/)
+- [Trump admin officially rescinds Biden’s AI diffusion rules](https://techcrunch.com/2025/05/13/trump-admin-officially-rescinds-bidens-ai-diffusion-rule/)
+- [House GOP wants to cut parts of the Inflation Reduction Act while sparing others](https://techcrunch.com/2025/05/13/house-gop-wants-to-cut-parts-of-the-inflation-reduction-act-while-sparing-others/)
+- [Left-wing Twitch streamer Hasan Piker says he was detained and questioned at airport](https://techcrunch.com/2025/05/13/left-wing-twitch-streamer-hasan-piker-says-he-was-detained-and-questioned-at-airport/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
