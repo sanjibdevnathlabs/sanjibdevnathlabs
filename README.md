@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [Hash Collisions &amp; The Birthday Paradox - Computerphile](https://www.youtube.com/watch?v=jsraR-el8_o)
+- [Coding, Growth Mindset, and Rubber Ducks?](https://www.youtube.com/watch?v=p8918BiV01c)
 - [Google must be cooking up something big...](https://www.youtube.com/watch?v=59wV96Kc3dQ)
 - [Subroutines in Low Level Code - Computerphile](https://www.youtube.com/watch?v=1su3lAh-k4o)
 - [The growing divide among React developers…](https://www.youtube.com/watch?v=lLJbHHeFSsE)
-- [If you see this, you might be hacked.](https://www.youtube.com/watch?v=XS6615BRiX4)
 <!-- YOUTUBE:END -->
 
 ---
