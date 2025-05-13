@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Robinhood grows its footprint in Canada by acquiring WonderFi](https://techcrunch.com/2025/05/13/robinhood-grows-its-footprint-in-canada-by-acquiring-wonderfi/)
+- [Marks &amp; Spencer confirms customers’ personal data was stolen in hack](https://techcrunch.com/2025/05/13/marks-spencer-confirms-customers-personal-data-was-stolen-in-hack/)
+- [DJI Mavic 4 Pro drone review](https://www.space.com/technology/drones/dji-mavic-4-pro-drone-review)
 - [Realta Fusion taps $36M in fresh funds for its fusion-in-a-bottle reactor](https://techcrunch.com/2025/05/13/realta-fusion-taps-36m-in-fresh-funds-for-its-fusion-in-a-bottle-reactor/)
 - [Modern-day alchemy! Scientists turn lead into gold at the Large Hadron Collider](https://www.space.com/astronomy/modern-day-alchemy-scientists-turn-lead-into-gold-at-the-large-hadron-collider)
-- [May&#39;s full Flower Moon delights skywatchers worldwide with stunning lunar display &lpar;photos&rpar;](https://www.space.com/stargazing/mays-full-flower-moon-delights-skywatchers-worldwide-with-stunning-lunar-display-photos)
-- [Trump&#39;s 2026 budget plan would cancel NASA&#39;s Mars Sample Return mission. Experts say that&#39;s a &#39;major step back&#39;](https://www.space.com/space-exploration/mars-rovers/the-trump-administration-wants-to-cancel-nasas-mars-sample-return-mission-experts-say-thats-a-major-step-back)
-- [Meta to start selling its Ray-Ban smart glasses in India from May 19](https://techcrunch.com/2025/05/13/meta-to-start-selling-its-ray-ban-smart-glasses-in-india-from-may-19/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
