@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [xAI’s promised safety report is MIA](https://techcrunch.com/2025/05/13/xais-promised-safety-report-is-mia/)
+- [SpaceX fires up Starship spacecraft again ahead of 9th test flight  &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-spacecraft-again-ahead-of-9th-test-flight-video-photos)
+- [New York-focused VC Work-Bench has raised a fresh $160M](https://techcrunch.com/2025/05/13/new-york-focused-vc-work-bench-has-raised-a-fresh-160m/)
 - [NFT phenom CryptoPunks was just sold to a nonprofit](https://techcrunch.com/2025/05/13/nft-phenom-cryptopunks-was-just-sold-to-a-nonprofit/)
 - [NASA&#39;s Europa Clipper probe snaps ghostly thermal portrait of Mars en route to Jupiter](https://www.space.com/astronomy/mars/nasas-europa-clipper-probe-snaps-ghostly-thermal-portrait-of-mars-en-route-to-jupiter)
-- [Anthropic, Google score win by nabbing OpenAI-backed Harvey as a user](https://techcrunch.com/2025/05/13/anthropic-google-score-win-by-nabbing-openai-backed-harvey-as-a-user/)
-- [Seven things we learned from WhatsApp vs. NSO Group spyware lawsuit](https://techcrunch.com/2025/05/13/seven-things-we-learned-from-whatsapp-vs-nso-group-spyware-lawsuit/)
-- [A tiny glass bead from the moon offers clues to its hidden interior](https://www.space.com/astronomy/moon/a-tiny-glass-bead-from-the-moon-offers-clues-to-its-hidden-interior)
 <!-- BLOG-POST-LIST:END -->
 
 ---
