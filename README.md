@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Y Combinator says Google is a ‘monopolist’ that has ‘stunted’ the startup ecosystem](https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/)
+- [AWS enters into ‘strategic partnership’ with Saudi Arabia-backed Humain](https://techcrunch.com/2025/05/13/aws-enters-into-strategic-partnership-with-saudi-arabia-backed-humain/)
+- [Lanterns: Release window, plot, cast &amp; everything we know about DC Studios&#39; Green Lantern show](https://www.space.com/entertainment/space-movies-shows/lanterns-release-date-plot-cast-and-everything-we-know-about-dc-studios-green-lantern-show)
+- [Airbnb expands into services and experiences, plans more social and AI features](https://techcrunch.com/2025/05/13/airbnb-lauches-services-and-experinces-as-it-thinks-about-connecting-travelers/)
 - [He&#39;s the 17-time WWE world champion, but John Cena still can&#39;t get into the Justice League in the &#39;Peacemaker&#39; season 2 trailer &lpar;video&rpar;](https://www.space.com/entertainment/hes-the-17-time-wwe-world-champion-but-john-cena-still-cant-get-into-the-justice-league-in-the-peacemaker-season-2-trailer-video)
-- [Tencent hires WizardLM team, a Microsoft AI group with an odd history](https://techcrunch.com/2025/05/13/tencent-hires-wizardlm-team-a-microsoft-ai-group-with-an-odd-history/)
-- [TikTok launches TikTok AI Alive, a new image-to-video tool](https://techcrunch.com/2025/05/13/tiktok-launches-tiktok-ai-alive-a-new-image-to-video-tool/)
-- [Elon Musk’s The Boring Company might be in line for an Amtrak contract](https://techcrunch.com/2025/05/13/elon-musks-the-boring-company-might-be-in-line-for-an-amtrak-contract/)
-- [UP.Labs-Porsche’s newest startup wants to be the Plaid of automotive retail](https://techcrunch.com/2025/05/13/up-labs-porsches-newest-startup-wants-to-be-the-plaid-of-automotive-retail/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
