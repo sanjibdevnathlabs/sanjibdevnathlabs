@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch the sun unleash 600,000-mile-long eruption in fiery outburst &lpar;video&rpar;](https://www.space.com/watch-sun-unleash-600000-mile-long-eruption-video)
+- [Notion takes on AI-notetakers like Granola with its own transcription feature](https://techcrunch.com/2025/05/13/notion-takes-on-ai-notetakers-like-granola-with-its-own-transcription-feature/)
+- [Amazon Prime Video in India to get ads starting in June](https://techcrunch.com/2025/05/13/amazon-prime-video-in-india-to-get-ads-starting-in-june/)
 - [At TechCrunch All Stage 2025, Rob Biederman will help founders rethink how to scale](https://techcrunch.com/2025/05/13/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/)
 - [GM’s new ‘manganese rich’ battery promises cheaper EVs in 2028](https://techcrunch.com/2025/05/13/gms-new-manganese-rich-battery-promises-cheaper-evs-in-2028/)
-- [Hubble captures &#39;candyfloss&#39; clouds | Space photo of the day for May 13, 2025](https://www.space.com/astronomy/hubble-space-telescope/hubble-captures-candyfloss-clouds-space-photo-of-the-day-for-may-13-2025)
-- [Apple announces new accessibility features, including future support for brain implants](https://techcrunch.com/2025/05/13/apple-announces-new-accessibility-features-including-future-support-for-brain-implants/)
-- [Spotify updates its AI DJ to let you use voice commands](https://techcrunch.com/2025/05/13/spotifys-ai-dj/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
