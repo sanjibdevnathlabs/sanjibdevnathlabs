@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Attend TechCrunch Sessions: AI with this new, limited-time discount](https://techcrunch.com/2025/05/13/attend-techcrunch-sessions-ai-with-this-new-limited-time-discount/)
+- [Google tests replacing ‘I’m Feeling Lucky’ with ‘AI Mode’](https://techcrunch.com/2025/05/13/google-tests-replacing-im-feeling-lucky-with-ai-mode/)
+- [$25B-valued Chime files for an IPO, reveals $33M deal with Dallas Mavericks](https://techcrunch.com/2025/05/13/25b-valued-chime-files-for-an-ipo-reveals-33m-deal-with-dallas-mavericks/)
 - [xAI’s promised safety report is MIA](https://techcrunch.com/2025/05/13/xais-promised-safety-report-is-mia/)
 - [SpaceX fires up Starship spacecraft again ahead of 9th test flight  &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-spacecraft-again-ahead-of-9th-test-flight-video-photos)
-- [New York-focused VC Work-Bench has raised a fresh $160M](https://techcrunch.com/2025/05/13/new-york-focused-vc-work-bench-has-raised-a-fresh-160m/)
-- [NFT phenom CryptoPunks was just sold to a nonprofit](https://techcrunch.com/2025/05/13/nft-phenom-cryptopunks-was-just-sold-to-a-nonprofit/)
-- [NASA&#39;s Europa Clipper probe snaps ghostly thermal portrait of Mars en route to Jupiter](https://www.space.com/astronomy/mars/nasas-europa-clipper-probe-snaps-ghostly-thermal-portrait-of-mars-en-route-to-jupiter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
