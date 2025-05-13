@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Live 4K video from space! See Earth from the ISS with sharp-eyed Sen cameras](https://www.space.com/astronomy/earth/live-4k-video-from-space-see-earth-from-the-iss-with-sharp-eyed-sen-cameras)
-- [Apple Music introduces Sound Therapy, songs for focusing, relaxing and sleep](https://techcrunch.com/2025/05/13/apple-music-introduces-sound-therapy-songs-for-focusing-relaxing-and-sleep/)
-- [Trump admin officially rescinds Biden’s AI diffusion rules](https://techcrunch.com/2025/05/13/trump-admin-officially-rescinds-bidens-ai-diffusion-rule/)
-- [House GOP wants to cut parts of the Inflation Reduction Act while sparing others](https://techcrunch.com/2025/05/13/house-gop-wants-to-cut-parts-of-the-inflation-reduction-act-while-sparing-others/)
-- [Left-wing Twitch streamer Hasan Piker says he was detained and questioned at airport](https://techcrunch.com/2025/05/13/left-wing-twitch-streamer-hasan-piker-says-he-was-detained-and-questioned-at-airport/)
+- [Elon Musk’s The Boring Company might be in line for an Amtrak contract](https://techcrunch.com/2025/05/13/elon-musks-the-boring-company-might-be-in-line-for-an-amtrak-contract/)
+- [UP.Labs-Porsche’s newest startup wants to be the Plaid of automotive retail](https://techcrunch.com/2025/05/13/up-labs-porsches-newest-startup-wants-to-be-the-plaid-of-automotive-retail/)
+- [Google announces 1B+ RCS messages sent in the U.S. daily](https://techcrunch.com/2025/05/13/google-announces-1b-rcs-messages-sent-in-the-u-s-daily/)
+- [Google announces new security features for Android for protection against scam and theft](https://techcrunch.com/2025/05/13/google-announces-new-security-features-for-android-for-protection-against-scam-and-theft/)
+- [Google is adding new device-level features for its Advanded Protection program](https://techcrunch.com/2025/05/13/google-is-adding-new-device-level-features-for-its-advanded-protection-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
