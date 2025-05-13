@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify updates its AI DJ to let you use voice commands](https://techcrunch.com/2025/05/13/spotifys-ai-dj/)
+- [Watch red supergiant star Antares shine close to the near-full moon on May 13](https://www.space.com/stargazing/watch-red-supergiant-star-antares-shine-close-to-the-near-full-moon-on-may-13)
+- [Insurtech Bestow lands $120M Series D from Goldman Sachs, Smith Point Capital](https://techcrunch.com/2025/05/13/insurtech-bestow-lands-120m-series-d-from-goldman-sachs-smith-point-capital/)
 - [Robinhood grows its footprint in Canada by acquiring WonderFi](https://techcrunch.com/2025/05/13/robinhood-grows-its-footprint-in-canada-by-acquiring-wonderfi/)
 - [Marks &amp; Spencer confirms customers’ personal data was stolen in hack](https://techcrunch.com/2025/05/13/marks-spencer-confirms-customers-personal-data-was-stolen-in-hack/)
-- [DJI Mavic 4 Pro drone review](https://www.space.com/technology/drones/dji-mavic-4-pro-drone-review)
-- [Realta Fusion taps $36M in fresh funds for its fusion-in-a-bottle reactor](https://techcrunch.com/2025/05/13/realta-fusion-taps-36m-in-fresh-funds-for-its-fusion-in-a-bottle-reactor/)
-- [Modern-day alchemy! Scientists turn lead into gold at the Large Hadron Collider](https://www.space.com/astronomy/modern-day-alchemy-scientists-turn-lead-into-gold-at-the-large-hadron-collider)
 <!-- BLOG-POST-LIST:END -->
 
 ---
