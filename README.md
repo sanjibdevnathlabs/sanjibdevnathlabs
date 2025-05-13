@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Realta Fusion taps $36M in fresh funds for its fusion-in-a-bottle reactor](https://techcrunch.com/2025/05/13/realta-fusion-taps-36m-in-fresh-funds-for-its-fusion-in-a-bottle-reactor/)
+- [Modern-day alchemy! Scientists turn lead into gold at the Large Hadron Collider](https://www.space.com/astronomy/modern-day-alchemy-scientists-turn-lead-into-gold-at-the-large-hadron-collider)
+- [May&#39;s full Flower Moon delights skywatchers worldwide with stunning lunar display &lpar;photos&rpar;](https://www.space.com/stargazing/mays-full-flower-moon-delights-skywatchers-worldwide-with-stunning-lunar-display-photos)
 - [Trump&#39;s 2026 budget plan would cancel NASA&#39;s Mars Sample Return mission. Experts say that&#39;s a &#39;major step back&#39;](https://www.space.com/space-exploration/mars-rovers/the-trump-administration-wants-to-cancel-nasas-mars-sample-return-mission-experts-say-thats-a-major-step-back)
 - [Meta to start selling its Ray-Ban smart glasses in India from May 19](https://techcrunch.com/2025/05/13/meta-to-start-selling-its-ray-ban-smart-glasses-in-india-from-may-19/)
-- [SpaceX launches 26 Starlink satellites to orbit from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-26-starlink-satellites-to-orbit-from-california)
-- [SpaceX Falcon 9 rocket launches 28 Starlink satellites to orbit on record-breaking 28th flight](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launches-28-starlink-satellites-to-orbit-on-record-breaking-28th-flight)
-- [Anthropic co-founder Jared Kaplan is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/12/anthropic-co-founder-jared-kaplan-is-coming-to-techcrunch-sessions-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
