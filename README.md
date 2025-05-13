@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [At TechCrunch All Stage 2025, Rob Biederman will help founders rethink how to scale](https://techcrunch.com/2025/05/13/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/)
+- [GM’s new ‘manganese rich’ battery promises cheaper EVs in 2028](https://techcrunch.com/2025/05/13/gms-new-manganese-rich-battery-promises-cheaper-evs-in-2028/)
+- [Hubble captures &#39;candyfloss&#39; clouds | Space photo of the day for May 13, 2025](https://www.space.com/astronomy/hubble-space-telescope/hubble-captures-candyfloss-clouds-space-photo-of-the-day-for-may-13-2025)
+- [Apple announces new accessibility features, including future support for brain implants](https://techcrunch.com/2025/05/13/apple-announces-new-accessibility-features-including-future-support-for-brain-implants/)
 - [Spotify updates its AI DJ to let you use voice commands](https://techcrunch.com/2025/05/13/spotifys-ai-dj/)
-- [Watch red supergiant star Antares shine close to the near-full moon on May 13](https://www.space.com/stargazing/watch-red-supergiant-star-antares-shine-close-to-the-near-full-moon-on-may-13)
-- [Insurtech Bestow lands $120M Series D from Goldman Sachs, Smith Point Capital](https://techcrunch.com/2025/05/13/insurtech-bestow-lands-120m-series-d-from-goldman-sachs-smith-point-capital/)
-- [Robinhood grows its footprint in Canada by acquiring WonderFi](https://techcrunch.com/2025/05/13/robinhood-grows-its-footprint-in-canada-by-acquiring-wonderfi/)
-- [Marks &amp; Spencer confirms customers’ personal data was stolen in hack](https://techcrunch.com/2025/05/13/marks-spencer-confirms-customers-personal-data-was-stolen-in-hack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
