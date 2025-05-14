@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Falcon 9 rocket launches Starlink satellites from Cape Canaveral, lands at sea](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-67-b1090-ccsfs)
+- [OpenAI pledges to publish AI safety test results more often](https://techcrunch.com/2025/05/14/openai-pledges-to-publish-ai-safety-test-results-more-often/)
 - [SpaceX will launch Starship&#39;s 9th test flight next week, Elon Musk says](https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-starships-9th-test-flight-next-week-elon-musk-says)
 - [Stability AI releases an audio-generating model that can run on smartphones](https://techcrunch.com/2025/05/14/stability-ai-releases-an-audio-generating-model-that-can-run-on-smartphones/)
 - [Astronaut sees &#39;Flower Moon&#39; from orbit | Space photo of the day for May 13, 2025](https://www.space.com/astronomy/moon/astronaut-sees-flower-moon-from-orbit-space-photo-of-the-day-for-may-13-2025)
-- [Pinterest finally admits mass bans were a mistake caused by an ‘internal error’](https://techcrunch.com/2025/05/14/pinterest-finally-admits-mass-bans-were-a-mistake-caused-by-an-internal-error/)
-- [A new bipartisan bill aims to lift the 52-year ban on supersonic flight](https://techcrunch.com/2025/05/14/a-new-bipartisan-bill-aims-to-lift-the-52-year-ban-on-supersonic-flight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
