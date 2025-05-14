@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Venus&#39; crust is surprisingly thin. Could this explain why it&#39;s so geologically active?](https://www.space.com/astronomy/venus/venus-crust-is-surprisingly-thin-could-this-explain-why-its-so-geologically-active)
+- [The latest Apple Maps update will bring out your bougie side](https://techcrunch.com/2025/05/14/the-latest-apple-maps-update-will-bring-out-your-bougie-side/)
+- [Netflix adds more live TV to its lineup](https://techcrunch.com/2025/05/14/netflix-adds-more-live-tv-to-its-lineup/)
 - [That&#39;s a hat trick! Varda successfully returns 3rd space capsule from orbit](https://www.space.com/space-exploration/launches-spacecraft/thats-a-hat-trick-varda-successfully-returns-3rd-space-capsule-from-orbit)
 - [Waymo recalls 1,200 robotaxis following low-speed collisions with gates and chains](https://techcrunch.com/2025/05/14/waymo-recalls-1200-robotaxis-following-low-speed-collisions-with-gates-and-chains/)
-- [Grok is unpromptedly telling X users about South African ‘white genocide’](https://techcrunch.com/2025/05/14/grok-is-unpromptedly-telling-x-users-about-south-african-genocide/)
-- [Foxconn gets nod for $435M project to make more of Apple chips in India, eventually](https://techcrunch.com/2025/05/14/foxconn-gets-nod-for-435m-project-to-make-more-of-apple-chips-in-india-eventually/)
-- [The Kids Online Safety Act is back, with the potential to change the internet](https://techcrunch.com/2025/05/14/the-kids-online-safety-act-is-back-with-the-potential-to-change-the-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
