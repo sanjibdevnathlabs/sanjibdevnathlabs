@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Alien: Earth&#39; is almost ready to burst out, as FX reveals the release date, plot details, and shows off the cast](https://www.space.com/entertainment/space-movies-shows/alien-earth-is-almost-ready-to-burst-out-as-fx-reveals-the-release-date-plot-details-and-shows-off-the-cast)
+- [OpenAI brings its GPT-4.1 models to ChatGPT](https://techcrunch.com/2025/05/14/openai-brings-its-gpt-4-1-models-to-chatgpt/)
+- [White House scraps plan to block data brokers from selling Americans’ sensitive data](https://techcrunch.com/2025/05/14/white-house-scraps-plan-to-block-data-brokers-from-selling-americans-sensitive-data/)
+- [How this VC spots the global game changers](https://techcrunch.com/video/how-this-vc-spots-the-global-game-changers/)
 - [The future of digital finance is customer-centric](https://techcrunch.com/video/the-future-of-digital-finance-is-customer-centric/)
-- [Mars Sample Return now! &lpar;op-ed&rpar;](https://www.space.com/astronomy/mars/mars-sample-return-now-op-ed)
-- [Scaling innovative companies at the intersection of cybersecurity, AI, and resilience](https://techcrunch.com/video/scaling-innovative-companies-at-the-intersection-of-cybersecurity-ai-and-resilience/)
-- [Radiologists aren’t going anywhere](https://techcrunch.com/2025/05/14/radiologists-arent-going-anywhere/)
-- [SoundCloud backtracks on AI-related terms-of-use updates](https://techcrunch.com/2025/05/14/soundcloud-backtracks-on-ai-related-terms-of-use-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
