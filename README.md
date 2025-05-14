@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Alien: Earth&#39; is almost ready to burst out, as FX reveals the release date, plot details, and shows off the cast](https://www.space.com/entertainment/space-movies-shows/alien-earth-is-almost-ready-to-burst-out-as-fx-reveals-the-release-date-plot-details-and-shows-off-the-cast)
-- [OpenAI brings its GPT-4.1 models to ChatGPT](https://techcrunch.com/2025/05/14/openai-brings-its-gpt-4-1-models-to-chatgpt/)
-- [White House scraps plan to block data brokers from selling Americans’ sensitive data](https://techcrunch.com/2025/05/14/white-house-scraps-plan-to-block-data-brokers-from-selling-americans-sensitive-data/)
-- [How this VC spots the global game changers](https://techcrunch.com/video/how-this-vc-spots-the-global-game-changers/)
-- [The future of digital finance is customer-centric](https://techcrunch.com/video/the-future-of-digital-finance-is-customer-centric/)
+- [That&#39;s a hat trick! Varda successfully returns 3rd space capsule from orbit](https://www.space.com/space-exploration/launches-spacecraft/thats-a-hat-trick-varda-successfully-returns-3rd-space-capsule-from-orbit)
+- [Waymo recalls 1,200 robotaxis following low-speed collisions with gates and chains](https://techcrunch.com/2025/05/14/waymo-recalls-1200-robotaxis-following-low-speed-collisions-with-gates-and-chains/)
+- [Grok is unpromptedly telling X users about South African ‘white genocide’](https://techcrunch.com/2025/05/14/grok-is-unpromptedly-telling-x-users-about-south-african-genocide/)
+- [Foxconn gets nod for $435M project to make more of Apple chips in India, eventually](https://techcrunch.com/2025/05/14/foxconn-gets-nod-for-435m-project-to-make-more-of-apple-chips-in-india-eventually/)
+- [The Kids Online Safety Act is back, with the potential to change the internet](https://techcrunch.com/2025/05/14/the-kids-online-safety-act-is-back-with-the-potential-to-change-the-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
