@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI note-taking app Granola raises $43M at $250M valuation, launches collaborative features](https://techcrunch.com/2025/05/14/ai-note-taking-app-granola-raises-43m-at-250m-valuation-launches-collaborative-features/)
-- [China is sharing priceless moon samples with international partners, but NASA can&#39;t be a part of it](https://www.space.com/astronomy/moon/china-is-sharing-priceless-moon-samples-with-international-partners-but-nasa-cant-be-a-part-of-it)
-- [Tensor9 helps vendors deploy their software into any environment using digital twins](https://techcrunch.com/2025/05/14/tensor9-helps-vendors-deploy-their-software-into-any-environment-using-digital-twins/)
-- [Australia&#39;s first ever home-grown orbital rocket ready for debut launch today](https://www.space.com/space-exploration/launches-spacecraft/australias-first-ever-home-grown-orbital-rocket-ready-for-debut-launch-today)
-- [Databricks to buy open-source database startup Neon for $1B](https://techcrunch.com/2025/05/14/databricks-to-buy-open-source-database-startup-neon-for-1b/)
+- [OpenAI may build data centers in the UAE](https://techcrunch.com/2025/05/14/openai-may-build-data-centers-in-the-uae/)
+- [Volcanoes shaped the moon from the inside out, scientists find: &#39;Our team was genuinely puzzled&#39;](https://www.space.com/astronomy/moon/volcanoes-shaped-the-moon-from-the-inside-out-scientists-find-our-team-was-genuinely-puzzled)
+- [DeepMind claims its newest AI tool is a whiz at math and science problems](https://techcrunch.com/2025/05/14/deepmind-claims-its-newest-ai-tool-is-a-whiz-at-math-and-science-problems/)
+- [TikTok rolls out new accessibility tools, including AI-generated ALT text](https://techcrunch.com/2025/05/14/tiktok-rolls-out-new-accessibility-tools-including-ai-generated-alt-text/)
+- [Uber to introduce fixed-route shuttles in major US cities designed for commuters](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
