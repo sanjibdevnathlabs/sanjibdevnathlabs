@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save 14% on Obi-Wan&#39;s Dark Series Force FX lightsaber, now at its lowest price this year](https://www.space.com/technology/obi-wans-dark-series-force-fx-lightsaber-is-now-at-its-lowest-price-this-year-14-percent-off)
 - [Here&#39;s why the private Athena lunar lander toppled over on the moon](https://www.space.com/astronomy/moon/heres-why-the-private-athena-lunar-lander-toppled-over-on-the-moon)
 - [YouTube introduces an interactive product feed for shoppable TV ads](https://techcrunch.com/2025/05/14/youtube-introduces-an-interactive-product-feed-for-shoppable-tv-ads/)
 - [YouTube targets TV dollars with NFL deal, bingeable ‘shows’ from creators](https://techcrunch.com/2025/05/14/youtube-targets-tv-dollars-with-nfl-deal-bingeable-shows-from-creators/)
 - [YouTube viewers will start seeing ads after ‘peak’ moments in videos](https://techcrunch.com/2025/05/14/youtube-viewers-will-start-seeing-ads-after-peak-moments-in-videos/)
-- [Venus&#39; crust is surprisingly thin. Could this explain why it&#39;s so geologically active?](https://www.space.com/astronomy/venus/venus-crust-is-surprisingly-thin-could-this-explain-why-its-so-geologically-active)
 <!-- BLOG-POST-LIST:END -->
 
 ---
