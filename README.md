@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Databricks to buy open-source database startup Neon for $1B](https://techcrunch.com/2025/05/14/databricks-to-buy-open-source-database-startup-neon-for-1b/)
+- [Strongest solar flare of 2025 erupts from sun, sparking radio blackouts across Europe, Asia and the Middle East](https://www.space.com/astronomy/sun/strongest-solar-flare-of-2025-erupts-from-sun-sparking-radio-blackouts-europe-asia-middle-east)
 - [TensorWave raises $100M to grow its AMD-powered cloud infrastructure](https://techcrunch.com/2025/05/14/tensorwave-raises-100m-for-its-amd-powered-ai-cloud/)
 - [Canon EOS R6 Mark II review](https://www.space.com/stargazing/skywatching-kit/canon-eos-r6-mark-ii-review)
 - [A spaceship moving near the speed of light would appear rotated, special relativity experiment proves](https://www.space.com/science/a-spaceship-moving-near-the-speed-of-light-would-appear-rotated-special-relativity-experiment-proves)
-- [After the Arecibo collapse in 2020, a lone NASA radar dish in the Mojave desert stepped up as a leading asteroid hunter](https://www.space.com/astronomy/asteroids/after-the-arecibo-collapse-in-2020-a-lone-nasa-radar-dish-in-the-mojave-desert-stepped-up-as-a-leading-asteroid-hunter)
-- [Attend TechCrunch Sessions: AI with this new, limited-time discount](https://techcrunch.com/2025/05/13/attend-techcrunch-sessions-ai-with-this-new-limited-time-discount/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
