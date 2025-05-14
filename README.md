@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TensorWave raises $100M to grow its AMD-powered cloud infrastructure](https://techcrunch.com/2025/05/14/tensorwave-raises-100m-for-its-amd-powered-ai-cloud/)
+- [Canon EOS R6 Mark II review](https://www.space.com/stargazing/skywatching-kit/canon-eos-r6-mark-ii-review)
 - [A spaceship moving near the speed of light would appear rotated, special relativity experiment proves](https://www.space.com/science/a-spaceship-moving-near-the-speed-of-light-would-appear-rotated-special-relativity-experiment-proves)
 - [After the Arecibo collapse in 2020, a lone NASA radar dish in the Mojave desert stepped up as a leading asteroid hunter](https://www.space.com/astronomy/asteroids/after-the-arecibo-collapse-in-2020-a-lone-nasa-radar-dish-in-the-mojave-desert-stepped-up-as-a-leading-asteroid-hunter)
 - [Attend TechCrunch Sessions: AI with this new, limited-time discount](https://techcrunch.com/2025/05/13/attend-techcrunch-sessions-ai-with-this-new-limited-time-discount/)
-- [Google tests replacing ‘I’m Feeling Lucky’ with ‘AI Mode’](https://techcrunch.com/2025/05/13/google-tests-replacing-im-feeling-lucky-with-ai-mode/)
-- [$25B-valued Chime files for an IPO, reveals $33M deal with Dallas Mavericks](https://techcrunch.com/2025/05/13/25b-valued-chime-files-for-an-ipo-reveals-33m-deal-with-dallas-mavericks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
