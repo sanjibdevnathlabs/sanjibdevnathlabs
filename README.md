@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI note-taking app Granola raises $43M at $250M valuation, launches collaborative features](https://techcrunch.com/2025/05/14/ai-note-taking-app-granola-raises-43m-at-250m-valuation-launches-collaborative-features/)
+- [China is sharing priceless moon samples with international partners, but NASA can&#39;t be a part of it](https://www.space.com/astronomy/moon/china-is-sharing-priceless-moon-samples-with-international-partners-but-nasa-cant-be-a-part-of-it)
 - [Tensor9 helps vendors deploy their software into any environment using digital twins](https://techcrunch.com/2025/05/14/tensor9-helps-vendors-deploy-their-software-into-any-environment-using-digital-twins/)
 - [Australia&#39;s first ever home-grown orbital rocket ready for debut launch today](https://www.space.com/space-exploration/launches-spacecraft/australias-first-ever-home-grown-orbital-rocket-ready-for-debut-launch-today)
 - [Databricks to buy open-source database startup Neon for $1B](https://techcrunch.com/2025/05/14/databricks-to-buy-open-source-database-startup-neon-for-1b/)
-- [Strongest solar flare of 2025 erupts from sun, sparking radio blackouts across Europe, Asia and the Middle East &lpar;video&rpar;](https://www.space.com/astronomy/sun/strongest-solar-flare-of-2025-erupts-from-sun-sparking-radio-blackouts-europe-asia-middle-east)
-- [TensorWave raises $100M to grow its AMD-powered cloud infrastructure](https://techcrunch.com/2025/05/14/tensorwave-raises-100m-for-its-amd-powered-ai-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
