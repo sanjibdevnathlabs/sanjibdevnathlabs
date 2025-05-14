@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Falcon 9 rocket launches Starlink satellites from Cape Canaveral, lands at sea](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-67-b1090-ccsfs)
-- [OpenAI pledges to publish AI safety test results more often](https://techcrunch.com/2025/05/14/openai-pledges-to-publish-ai-safety-test-results-more-often/)
-- [SpaceX will launch Starship&#39;s 9th test flight next week, Elon Musk says](https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-starships-9th-test-flight-next-week-elon-musk-says)
-- [Stability AI releases an audio-generating model that can run on smartphones](https://techcrunch.com/2025/05/14/stability-ai-releases-an-audio-generating-model-that-can-run-on-smartphones/)
-- [Astronaut sees &#39;Flower Moon&#39; from orbit | Space photo of the day for May 13, 2025](https://www.space.com/astronomy/moon/astronaut-sees-flower-moon-from-orbit-space-photo-of-the-day-for-may-13-2025)
+- [The future of digital finance is customer-centric](https://techcrunch.com/video/the-future-of-digital-finance-is-customer-centric/)
+- [Mars Sample Return now! &lpar;op-ed&rpar;](https://www.space.com/astronomy/mars/mars-sample-return-now-op-ed)
+- [Scaling innovative companies at the intersection of cybersecurity, AI, and resilience](https://techcrunch.com/video/scaling-innovative-companies-at-the-intersection-of-cybersecurity-ai-and-resilience/)
+- [Radiologists aren’t going anywhere](https://techcrunch.com/2025/05/14/radiologists-arent-going-anywhere/)
+- [SoundCloud backtracks on AI-related terms-of-use updates](https://techcrunch.com/2025/05/14/soundcloud-backtracks-on-ai-related-terms-of-use-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
