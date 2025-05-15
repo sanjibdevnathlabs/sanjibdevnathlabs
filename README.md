@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Doji raises $14M to make virtual try-ons fun through your avatars](https://techcrunch.com/2025/05/15/doji-raises-14m-to-make-virtual-try-ons-fun-through-your-avatars/)
-- [SpaceX&#39;s next private astronaut launch to ISS, Ax-4, delayed to June 8](https://www.space.com/space-exploration/private-spaceflight/spacexs-next-private-astronaut-launch-to-iss-ax-4-delayed-to-june-8)
-- [Acorns acquires family wealth and digital memory platform EarlyBird](https://techcrunch.com/2025/05/15/acorns-acquires-family-wealth-and-digital-memory-platform-earlybird/)
-- [Roblox now lets creators sell physical products within their experiences](https://techcrunch.com/2025/05/15/roblox-now-lets-creators-sell-physical-products-within-their-experiences/)
-- [Canon EOS R5 Mark II review](https://www.space.com/stargazing/skywatching-kit/canon-eos-r5-mark-ii-review)
+- [Host a tailored Side Event at All Stage 2025 in Boston](https://techcrunch.com/2025/05/15/host-a-tailored-side-event-at-all-stage-2025-in-boston/)
+- [Bain bets on Indian domestic work startup Pronto even as rivals face criticism](https://techcrunch.com/2025/05/15/bain-bets-on-indian-domestic-work-startup-pronto-even-as-rivals-face-criticism/)
+- [Threads now lets creators add up to 5 links to profiles, track clicks](https://techcrunch.com/2025/05/15/threads-now-lets-creators-add-up-to-5-links-to-profiles-track-clicks/)
+- [Amateur astronomer captures Cigar Galaxy and Bode&#39;s Galaxy swimming in a spectral nebula &lpar;photo&rpar;](https://www.space.com/stargazing/amateur-astronomer-captures-cigar-galaxy-and-bodes-galaxy-swimming-in-a-spectral-nebula-photo)
+- [Apple finally launches next-gen ‘CarPlay Ultra’ software, starting with Aston Martin](https://techcrunch.com/2025/05/15/apple-finally-launches-next-gen-carplay-ultra-software-starting-with-aston-martin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
