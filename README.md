@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Programmers bore the brunt of Microsoft’s layoffs in its home state as AI writes up to 30% of its code](https://techcrunch.com/2025/05/15/programmers-bore-the-brunt-of-microsofts-layoffs-in-its-home-state-as-ai-writes-up-to-30-of-its-code/)
+- [Anthropic’s lawyer was forced to apologize after Claude hallucinated a legal citation](https://techcrunch.com/2025/05/15/anthropics-lawyer-was-forced-to-apologize-after-claude-hallucinated-a-legal-citation/)
+- [Eight feet keep PACE | Space photo of the day for May 15, 2025](https://www.space.com/space-exploration/launches-spacecraft/eight-feet-keep-pace-space-photo-of-the-day-for-may-15-2025)
 - [Fieldstone Bio is building microbes that can sense everything from TNT to arsenic](https://techcrunch.com/2025/05/15/fieldstone-bio-is-building-microbes-that-can-sense-everything-from-tnt-to-arsenic/)
 - [Lucid’s record quarter got a lift from rental sales and company leases](https://techcrunch.com/2025/05/15/lucids-record-quarter-got-a-lift-from-rental-sales-and-company-leases/)
-- [&#39;Why not a dolphin Jesus?&#39; — &#39;Love, Death + Robots&#39; creators talk us through this season&#39;s sci-fi episodes &lpar;exclusive&rpar;](https://www.space.com/entertainment/why-not-a-dolphin-jesus-love-death-robots-creators-talk-us-through-this-seasons-sci-fi-episodes-exclusive)
-- [We finally have a premiere date for &#39;Star Trek: Strange New Worlds&#39; Season 3](https://www.space.com/entertainment/we-finally-have-a-premiere-date-for-star-trek-strange-new-worlds-season-3)
-- [Startups Weekly: A brighter outlook, but don’t get carried away](https://techcrunch.com/2025/05/15/startups-weekly-a-brighter-outlook-but-dont-get-carried-away/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
