@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cognichip emerges from stealth with the goal of using generative AI to develop new chips](https://techcrunch.com/2025/05/15/cognichip-emerges-from-stealth-with-the-goal-of-using-generative-ai-to-develop-new-chips/)
+- [Google rolls out new AI and accessibility features to Android and Chrome](https://techcrunch.com/2025/05/15/google-rolls-out-new-ai-and-accessibility-features-to-android-and-chrome/)
+- [Best sci-fi romance movies of all time, ranked](https://www.space.com/entertainment/space-movies-shows/best-sci-fi-romance-movies-of-all-time-ranked)
+- [US Mint begins sales of $1 coin honoring innovative NASA space shuttle](https://www.space.com/space-exploration/space-shuttle/us-mint-begins-sales-of-usd1-coin-honoring-innovative-nasa-space-shuttle)
 - [Host a tailored Side Event at All Stage 2025 in Boston](https://techcrunch.com/2025/05/15/host-a-tailored-side-event-at-all-stage-2025-in-boston/)
-- [Bain bets on Indian domestic work startup Pronto even as rivals face criticism](https://techcrunch.com/2025/05/15/bain-bets-on-indian-domestic-work-startup-pronto-even-as-rivals-face-criticism/)
-- [Threads now lets creators add up to 5 links to profiles, track clicks](https://techcrunch.com/2025/05/15/threads-now-lets-creators-add-up-to-5-links-to-profiles-track-clicks/)
-- [Amateur astronomer captures Cigar Galaxy and Bode&#39;s Galaxy swimming in a spectral nebula &lpar;photo&rpar;](https://www.space.com/stargazing/amateur-astronomer-captures-cigar-galaxy-and-bodes-galaxy-swimming-in-a-spectral-nebula-photo)
-- [Apple finally launches next-gen ‘CarPlay Ultra’ software, starting with Aston Martin](https://techcrunch.com/2025/05/15/apple-finally-launches-next-gen-carplay-ultra-software-starting-with-aston-martin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
