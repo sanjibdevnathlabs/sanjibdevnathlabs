@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Doji raises $14M to make virtual try-ons fun through your avatars](https://techcrunch.com/2025/05/15/doji-raises-14m-to-make-virtual-try-ons-fun-through-your-avatars/)
+- [SpaceX&#39;s next private astronaut launch to ISS, Ax-4, delayed to June 8](https://www.space.com/space-exploration/private-spaceflight/spacexs-next-private-astronaut-launch-to-iss-ax-4-delayed-to-june-8)
 - [Acorns acquires family wealth and digital memory platform EarlyBird](https://techcrunch.com/2025/05/15/acorns-acquires-family-wealth-and-digital-memory-platform-earlybird/)
 - [Roblox now lets creators sell physical products within their experiences](https://techcrunch.com/2025/05/15/roblox-now-lets-creators-sell-physical-products-within-their-experiences/)
 - [Canon EOS R5 Mark II review](https://www.space.com/stargazing/skywatching-kit/canon-eos-r5-mark-ii-review)
-- [Perseverance Mars rover becomes 1st spacecraft to spot auroras from the surface of another world](https://www.space.com/astronomy/mars/perseverance-mars-rover-becomes-1st-spacecraft-to-spot-auroras-from-the-surface-of-another-world)
-- [The latest &#39;Superman&#39; trailer looks fantastic, but beware if spoilers are your kryptonite &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-latest-superman-trailer-looks-fantastic-but-beware-if-spoilers-are-your-kryptonite-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
