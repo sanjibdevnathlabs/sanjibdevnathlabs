@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is NASA ready for the Red Planet? US senator&#39;s &#39;Mission to MARS Act&#39; aims to modernize Johnson Space Center](https://www.space.com/space-exploration/is-nasa-ready-for-the-red-planet-us-senators-mission-to-mars-act-aims-to-modernize-johnson-space-center)
+- [TikTok rolls out a new meditation feature to help you get off the app and sleep](https://techcrunch.com/2025/05/15/tiktok-rolls-out-a-new-meditation-feature-to-help-you-get-off-the-app-and-sleep/)
 - [Trump&#39;s proposed 2026 NASA budget cuts will cede our space &#39;position of leadership to other nations&#39;, top scientists say](https://www.space.com/space-exploration/nasa-science-chairs-say-trumps-2026-budget-will-cede-this-position-of-leadership-to-other-nations)
 - [Cognichip emerges from stealth with the goal of using generative AI to develop new chips](https://techcrunch.com/2025/05/15/cognichip-emerges-from-stealth-with-the-goal-of-using-generative-ai-to-develop-new-chips/)
 - [Google rolls out new AI and accessibility features to Android and Chrome](https://techcrunch.com/2025/05/15/google-rolls-out-new-ai-and-accessibility-features-to-android-and-chrome/)
-- [Best sci-fi romance movies of all time, ranked](https://www.space.com/entertainment/space-movies-shows/best-sci-fi-romance-movies-of-all-time-ranked)
-- [US Mint begins sales of $1 coin honoring innovative NASA space shuttle](https://www.space.com/space-exploration/space-shuttle/us-mint-begins-sales-of-usd1-coin-honoring-innovative-nasa-space-shuttle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
