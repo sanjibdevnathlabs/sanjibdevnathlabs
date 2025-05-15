@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vibe coding startup Windsurf launches in-house AI models](https://techcrunch.com/2025/05/15/vibe-coding-startup-windsurf-launches-in-house-ai-models/)
+- [Norway becomes 55th nation to sign NASA Artemis Accords for peaceful space exploration](https://www.space.com/space-exploration/artemis/norway-becomes-55th-nation-to-sign-nasa-artemis-accords-for-peaceful-space-exploration)
+- [Viral outrage over Apple’s EU payment warnings misses key fact](https://techcrunch.com/2025/05/15/viral-outrage-over-apples-eu-payment-warnings-misses-key-fact/)
+- [Fake fired Twitter worker ‘Rahul Ligma’ is a real engineer with an AI data startup used by Harvard](https://techcrunch.com/2025/05/15/fake-fired-twitter-worker-rahul-ligma-is-a-real-engineer-with-an-ai-data-startup-used-by-harvard/)
 - [NASA resurrects Voyager 1 interstellar spacecraft&#39;s thrusters after 20 years: &#39;These thrusters were considered dead&#39;](https://www.space.com/space-exploration/missions/nasa-resurrects-voyager-1-interstellar-spacecrafts-thrusters-after-20-years-these-thrusters-were-considered-dead)
-- [Redpoint raises $650M 3 years after its last big early-stage fund](https://techcrunch.com/2025/05/15/redpoint-raises-650m-3-years-after-its-last-big-early-stage-fund/)
-- [Sprinter Health raises $55M to expand its at-home healthcare service](https://techcrunch.com/2025/05/15/sprinter-health-raises-55m-to-expand-its-at-home-healthcare-service/)
-- [Programmers bore the brunt of Microsoft’s layoffs in its home state as AI writes up to 30% of its code](https://techcrunch.com/2025/05/15/programmers-bore-the-brunt-of-microsofts-layoffs-in-its-home-state-as-ai-writes-up-to-30-of-its-code/)
-- [Anthropic’s lawyer was forced to apologize after Claude hallucinated a legal citation](https://techcrunch.com/2025/05/15/anthropics-lawyer-was-forced-to-apologize-after-claude-hallucinated-a-legal-citation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
