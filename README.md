@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Acorns acquires family wealth and digital memory platform EarlyBird](https://techcrunch.com/2025/05/15/acorns-acquires-family-wealth-and-digital-memory-platform-earlybird/)
+- [Roblox now lets creators sell physical products within their experiences](https://techcrunch.com/2025/05/15/roblox-now-lets-creators-sell-physical-products-within-their-experiences/)
+- [Canon EOS R5 Mark II review](https://www.space.com/stargazing/skywatching-kit/canon-eos-r5-mark-ii-review)
+- [Perseverance Mars rover becomes 1st spacecraft to spot auroras from the surface of another world](https://www.space.com/astronomy/mars/perseverance-mars-rover-becomes-1st-spacecraft-to-spot-auroras-from-the-surface-of-another-world)
 - [The latest &#39;Superman&#39; trailer looks fantastic, but beware if spoilers are your kryptonite &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-latest-superman-trailer-looks-fantastic-but-beware-if-spoilers-are-your-kryptonite-video)
-- [Coinbase says customers’ personal information stolen in data breach](https://techcrunch.com/2025/05/15/coinbase-says-customers-personal-information-stolen-in-data-breach/)
-- [Trump tells Apple’s CEO to stop expanding iPhone production in India](https://techcrunch.com/2025/05/15/trump-tells-apples-ceo-to-stop-expanding-iphone-production-in-india/)
-- [South Korea delays decision on letting Google move hi-res map data overseas](https://techcrunch.com/2025/05/15/south-korea-delays-decision-on-letting-google-move-hi-res-map-data-overseas/)
-- [Hedra, the app used to make talking baby podcasts, raises $32M from a16z](https://techcrunch.com/2025/05/15/hedra-the-app-used-to-make-talking-baby-podcasts-raises-32m-from-a16z/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
