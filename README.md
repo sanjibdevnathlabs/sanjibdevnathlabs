@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe coding startup Windsurf launches in-house AI models](https://techcrunch.com/2025/05/15/vibe-coding-startup-windsurf-launches-in-house-ai-models/)
+- [Sam Altman’s goal for ChatGPT to remember ‘your whole life’ is both exciting and disturbing](https://techcrunch.com/2025/05/15/sam-altmans-goal-for-chatgpt-to-remember-your-whole-life-is-both-exciting-and-disturbing/)
+- [Launch of Australia&#39;s 1st homegrown orbital rocket delayed indefinitely due to payload fairing issue](https://www.space.com/space-exploration/launches-spacecraft/launch-of-australias-1st-homegrown-orbital-rocket-delayed-indefinitely-due-to-payload-fairing-issue)
+- [Vibe-coding startup Windsurf launches in-house AI models](https://techcrunch.com/2025/05/15/vibe-coding-startup-windsurf-launches-in-house-ai-models/)
 - [Norway becomes 55th nation to sign NASA Artemis Accords for peaceful space exploration](https://www.space.com/space-exploration/artemis/norway-becomes-55th-nation-to-sign-nasa-artemis-accords-for-peaceful-space-exploration)
 - [Viral outrage over Apple’s EU payment warnings misses key fact](https://techcrunch.com/2025/05/15/viral-outrage-over-apples-eu-payment-warnings-misses-key-fact/)
-- [Fake fired Twitter worker ‘Rahul Ligma’ is a real engineer with an AI data startup used by Harvard](https://techcrunch.com/2025/05/15/fake-fired-twitter-worker-rahul-ligma-is-a-real-engineer-with-an-ai-data-startup-used-by-harvard/)
-- [NASA resurrects Voyager 1 interstellar spacecraft&#39;s thrusters after 20 years: &#39;These thrusters were considered dead&#39;](https://www.space.com/space-exploration/missions/nasa-resurrects-voyager-1-interstellar-spacecrafts-thrusters-after-20-years-these-thrusters-were-considered-dead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
