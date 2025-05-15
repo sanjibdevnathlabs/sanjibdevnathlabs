@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is NASA ready for the Red Planet? US senator&#39;s &#39;Mission to MARS Act&#39; aims to modernize Johnson Space Center](https://www.space.com/space-exploration/is-nasa-ready-for-the-red-planet-us-senators-mission-to-mars-act-aims-to-modernize-johnson-space-center)
-- [TikTok rolls out a new meditation feature to help you get off the app and sleep](https://techcrunch.com/2025/05/15/tiktok-rolls-out-a-new-meditation-feature-to-help-you-get-off-the-app-and-sleep/)
-- [Trump&#39;s proposed 2026 NASA budget cuts will cede our space &#39;position of leadership to other nations&#39;, top scientists say](https://www.space.com/space-exploration/nasa-science-chairs-say-trumps-2026-budget-will-cede-this-position-of-leadership-to-other-nations)
-- [Cognichip emerges from stealth with the goal of using generative AI to develop new chips](https://techcrunch.com/2025/05/15/cognichip-emerges-from-stealth-with-the-goal-of-using-generative-ai-to-develop-new-chips/)
-- [Google rolls out new AI and accessibility features to Android and Chrome](https://techcrunch.com/2025/05/15/google-rolls-out-new-ai-and-accessibility-features-to-android-and-chrome/)
+- [Fieldstone Bio is building microbes that can sense everything from TNT to arsenic](https://techcrunch.com/2025/05/15/fieldstone-bio-is-building-microbes-that-can-sense-everything-from-tnt-to-arsenic/)
+- [Lucid’s record quarter got a lift from rental sales and company leases](https://techcrunch.com/2025/05/15/lucids-record-quarter-got-a-lift-from-rental-sales-and-company-leases/)
+- [&#39;Why not a dolphin Jesus?&#39; — &#39;Love, Death + Robots&#39; creators talk us through this season&#39;s sci-fi episodes &lpar;exclusive&rpar;](https://www.space.com/entertainment/why-not-a-dolphin-jesus-love-death-robots-creators-talk-us-through-this-seasons-sci-fi-episodes-exclusive)
+- [We finally have a premiere date for &#39;Star Trek: Strange New Worlds&#39; Season 3](https://www.space.com/entertainment/we-finally-have-a-premiere-date-for-star-trek-strange-new-worlds-season-3)
+- [Startups Weekly: A brighter outlook, but don’t get carried away](https://techcrunch.com/2025/05/15/startups-weekly-a-brighter-outlook-but-dont-get-carried-away/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
