@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists calculate when the universe will end — it&#39;s sooner than expected](https://www.space.com/astronomy/scientists-calculate-when-the-universe-will-end-its-sooner-than-expected)
 - [Harvey reportedly in discussions to raise $250M at $5B valuation](https://techcrunch.com/2025/05/15/harvey-reportedly-in-discussions-to-raise-250m-at-5b-valuation/)
 - [Billionaire founder of Luminar replaced as CEO following ethics inquiry](https://techcrunch.com/2025/05/14/billionaire-founder-of-luminar-replaced-as-ceo-following-ethics-inquiry/)
 - [Save 14% on Obi-Wan&#39;s Dark Series Force FX lightsaber, now at its lowest price this year](https://www.space.com/technology/obi-wans-dark-series-force-fx-lightsaber-is-now-at-its-lowest-price-this-year-14-percent-off)
 - [Here&#39;s why the private Athena lunar lander toppled over on the moon](https://www.space.com/astronomy/moon/heres-why-the-private-athena-lunar-lander-toppled-over-on-the-moon)
-- [YouTube introduces an interactive product feed for shoppable TV ads](https://techcrunch.com/2025/05/14/youtube-introduces-an-interactive-product-feed-for-shoppable-tv-ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
