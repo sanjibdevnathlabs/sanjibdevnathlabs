@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [5 weird &lpar;but useful&rpar; data structures in computer science](https://www.youtube.com/watch?v=6fnmXX8RK0s)
 - [Coding, Growth Mindset, and Rubber Ducks?](https://www.youtube.com/watch?v=p8918BiV01c)
 - [Hash Collisions &amp; The Birthday Paradox - Computerphile](https://www.youtube.com/watch?v=jsraR-el8_o)
 - [Google must be cooking up something big...](https://www.youtube.com/watch?v=59wV96Kc3dQ)
 - [Subroutines in Low Level Code - Computerphile](https://www.youtube.com/watch?v=1su3lAh-k4o)
-- [The growing divide among React developers…](https://www.youtube.com/watch?v=lLJbHHeFSsE)
 <!-- YOUTUBE:END -->
 
 ---
