@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arc’s new 24-foot electric boat is its cheapest yet](https://techcrunch.com/2025/05/16/arcs-new-24-foot-electric-boat-is-its-cheapest-yet/)
+- [NASA continues building next-gen Roman Space Telescope despite budget worries](https://www.space.com/space-exploration/missions/nasa-continues-building-next-gen-roman-space-telescope-despite-budget-worries)
 - [From Leaping Leo to the Big Dipper: Here&#39;s how to see the bright stars of spring rising in the east this season](https://www.space.com/stargazing/from-leaping-leo-to-the-big-dipper-heres-how-to-see-the-bright-stars-of-spring-rising-in-the-east-this-season)
 - [TechCrunch Mobility: Google’s Gemini is coming to your car, chaos comes for Luminar, and the Amazonification of Uber 2.0](https://techcrunch.com/2025/05/16/techcrunch-mobility-googles-gemini-is-coming-to-your-car-chaos-comes-for-luminar-and-the-amazonification-of-uber-2-0/)
 - [The Nuclear Company raises $51M to develop massive reactor sites](https://techcrunch.com/2025/05/16/the-nuclear-company-raises-51m-to-develop-massive-reactor-sites/)
-- [‘Exodus: The Archimedes Engine’ author Peter F. Hamilton talks building a brand-new sci-fi video game universe for Exodus &lpar;exclusive&rpar;](https://www.space.com/entertainment/exodus-the-archimedes-engine-author-peter-f-hamilton-talks-building-a-brand-new-sci-fi-video-game-universe-for-exodus-exclusive)
-- [AI video startup Moonvalley lands $53M, according to filing](https://techcrunch.com/2025/05/16/ai-video-startup-moonvalley-lands-53m-according-to-filing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
