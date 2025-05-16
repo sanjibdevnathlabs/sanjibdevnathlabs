@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar storms and cyberattacks can both cause blackouts. Knowing the difference could save billions of dollars](https://www.space.com/astronomy/earth/solar-storms-and-cyberattacks-can-both-cause-blackouts-knowing-the-difference-could-save-billions-of-dollars)
 - [Why scientists are so excited about the highest-energy &#39;ghost particle&#39; ever seen](https://www.space.com/science/particle-physics/why-scientists-are-so-excited-about-the-highest-energy-ghost-particle-ever-seen)
 - [xAI blames Grok’s obsession with white genocide on an ‘unauthorized modification’](https://techcrunch.com/2025/05/15/xai-blames-groks-obsession-with-white-genocide-on-an-unauthorized-modification/)
 - [Sam Altman’s goal for ChatGPT to remember ‘your whole life’ is both exciting and disturbing](https://techcrunch.com/2025/05/15/sam-altmans-goal-for-chatgpt-to-remember-your-whole-life-is-both-exciting-and-disturbing/)
 - [Launch of Australia&#39;s 1st homegrown orbital rocket delayed indefinitely due to payload fairing issue](https://www.space.com/space-exploration/launches-spacecraft/launch-of-australias-1st-homegrown-orbital-rocket-delayed-indefinitely-due-to-payload-fairing-issue)
-- [Vibe-coding startup Windsurf launches in-house AI models](https://techcrunch.com/2025/05/15/vibe-coding-startup-windsurf-launches-in-house-ai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
