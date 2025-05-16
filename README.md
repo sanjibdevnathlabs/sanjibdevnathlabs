@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From Leaping Leo to the Big Dipper: Here&#39;s how to see the bright stars of spring rising in the east this season](https://www.space.com/stargazing/from-leaping-leo-to-the-big-dipper-heres-how-to-see-the-bright-stars-of-spring-rising-in-the-east-this-season)
+- [TechCrunch Mobility: Google’s Gemini is coming to your car, chaos comes for Luminar, and the Amazonification of Uber 2.0](https://techcrunch.com/2025/05/16/techcrunch-mobility-googles-gemini-is-coming-to-your-car-chaos-comes-for-luminar-and-the-amazonification-of-uber-2-0/)
+- [The Nuclear Company raises $51M to develop massive reactor sites](https://techcrunch.com/2025/05/16/the-nuclear-company-raises-51m-to-develop-massive-reactor-sites/)
 - [‘Exodus: The Archimedes Engine’ author Peter F. Hamilton talks building a brand-new sci-fi video game universe for Exodus &lpar;exclusive&rpar;](https://www.space.com/entertainment/exodus-the-archimedes-engine-author-peter-f-hamilton-talks-building-a-brand-new-sci-fi-video-game-universe-for-exodus-exclusive)
 - [AI video startup Moonvalley lands $53M, according to filing](https://techcrunch.com/2025/05/16/ai-video-startup-moonvalley-lands-53m-according-to-filing/)
-- [Perseverance watches moonrise on Mars | Space photo of the day for May 16, 2025](https://www.space.com/space-exploration/mars-rovers/perseverance-watches-moonrise-on-mars-space-photo-of-the-day-for-may-16-2025)
-- [TechCrunch and VivaTech partner for the VivaTech Innovation of the Year](https://techcrunch.com/2025/05/16/techcrunch-and-vivatech-partner-for-the-vivatech-innovation-of-the-year/)
-- [SpaceX launches 26 Starlink satellites to orbit from California &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-26-starlink-satellites-to-orbit-from-california-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
