@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best model rocket deals 2025: Discounts on Estes, Revell and more](https://www.space.com/technology/best-model-rocket-deals)
-- [US and China need a space hotline for orbital emergencies, experts say](https://www.space.com/space-exploration/launches-spacecraft/us-and-china-need-a-space-hotline-for-orbital-emergencies-experts-say)
-- [Solar storms and cyberattacks can both cause blackouts. Knowing the difference could save billions of dollars](https://www.space.com/astronomy/earth/solar-storms-and-cyberattacks-can-both-cause-blackouts-knowing-the-difference-could-save-billions-of-dollars)
-- [Why scientists are so excited about the highest-energy &#39;ghost particle&#39; ever seen](https://www.space.com/science/particle-physics/why-scientists-are-so-excited-about-the-highest-energy-ghost-particle-ever-seen)
-- [xAI blames Grok’s obsession with white genocide on an ‘unauthorized modification’](https://techcrunch.com/2025/05/15/xai-blames-groks-obsession-with-white-genocide-on-an-unauthorized-modification/)
+- [The Nuclear Company raises $46M to develop massive reactor sites](https://techcrunch.com/2025/05/16/the-nuclear-company-raises-46m-to-develop-massive-reactor-sites/)
+- [Giant young star is growing by 2 Jupiter masses every year, new study shows](https://www.space.com/astronomy/stars/giant-young-star-is-growing-by-2-jupiter-masses-every-year-new-study-shows)
+- [Epic Games says Apple is blocking Fortnite from the US and EU App Stores](https://techcrunch.com/2025/05/16/epic-games-says-apple-is-blocking-fortnite-from-the-us-and-eu-app-stores/)
+- [This has to be the ultimate sci-fi streaming bundle for 2025 – Save 43% on a Disney Plus subscription bundle in this huge streaming deal](https://www.space.com/entertainment/ultimate-sci-fi-streaming-bundle-for-2025-save-43-percent-on-a-disney-plus-subscription-bundle-in-this-huge-streaming-deal)
+- [Chipotle president Jack Hartung joins Tesla’s board ahead of Tesla Diner launch](https://techcrunch.com/2025/05/16/chipotle-president-jack-hartung-joins-teslas-board-ahead-of-tesla-diner-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
