@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch and VivaTech Partner for the VivaTech Innovation of the Year](https://techcrunch.com/2025/05/16/techcrunch-and-vivatech-partner-for-the-vivatech-innovation-of-the-year/)
+- [‘Exodus: The Archimedes Engine’ author Peter F. Hamilton talks building a brand-new sci-fi video game universe for Exodus &lpar;exclusive&rpar;](https://www.space.com/entertainment/exodus-the-archimedes-engine-author-peter-f-hamilton-talks-building-a-brand-new-sci-fi-video-game-universe-for-exodus-exclusive)
+- [AI video startup Moonvalley lands $53M, according to filing](https://techcrunch.com/2025/05/16/ai-video-startup-moonvalley-lands-53m-according-to-filing/)
+- [Perseverance watches moonrise on Mars | Space photo of the day for May 16, 2025](https://www.space.com/space-exploration/mars-rovers/perseverance-watches-moonrise-on-mars-space-photo-of-the-day-for-may-16-2025)
+- [TechCrunch and VivaTech partner for the VivaTech Innovation of the Year](https://techcrunch.com/2025/05/16/techcrunch-and-vivatech-partner-for-the-vivatech-innovation-of-the-year/)
 - [SpaceX launches 26 Starlink satellites to orbit from California &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-26-starlink-satellites-to-orbit-from-california-video)
-- [Spotify responds to creator backlash at public podcast play counts](https://techcrunch.com/2025/05/16/spotify-responds-to-creator-backlash-at-public-podcast-play-counts/)
-- [NASA picks Rocket Lab to launch shoebox-sized Aspera space telescope in 2026](https://www.space.com/space-exploration/missions/nasa-picks-rocket-lab-to-launch-shoebox-sized-aspera-space-telescope-in-2026)
-- [OpenAI launches Codex, an AI coding agent, in ChatGPT](https://techcrunch.com/2025/05/16/openai-launches-codex-an-ai-coding-agent-in-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
