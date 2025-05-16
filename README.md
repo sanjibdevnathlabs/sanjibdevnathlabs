@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch and VivaTech Partner for the VivaTech Innovation of the Year](https://techcrunch.com/2025/05/16/techcrunch-and-vivatech-partner-for-the-vivatech-innovation-of-the-year/)
+- [SpaceX launches 26 Starlink satellites to orbit from California &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-26-starlink-satellites-to-orbit-from-california-video)
+- [Spotify responds to creator backlash at public podcast play counts](https://techcrunch.com/2025/05/16/spotify-responds-to-creator-backlash-at-public-podcast-play-counts/)
 - [NASA picks Rocket Lab to launch shoebox-sized Aspera space telescope in 2026](https://www.space.com/space-exploration/missions/nasa-picks-rocket-lab-to-launch-shoebox-sized-aspera-space-telescope-in-2026)
 - [OpenAI launches Codex, an AI coding agent, in ChatGPT](https://techcrunch.com/2025/05/16/openai-launches-codex-an-ai-coding-agent-in-chatgpt/)
-- [After adding its own billing option on iOS, Apple asks Patreon to move it to an external browser](https://techcrunch.com/2025/05/16/after-adding-its-own-billing-option-on-ios-apple-asks-patreon-to-move-it-to-an-external-browser/)
-- [Mystery investor’s attempt to stop Canoo asset sale shot down by judge](https://techcrunch.com/2025/05/16/mystery-investors-attempt-to-stop-canoo-asset-sale-shot-down-by-judge/)
-- [The Nuclear Company raises $46M to develop massive reactor sites](https://techcrunch.com/2025/05/16/the-nuclear-company-raises-46m-to-develop-massive-reactor-sites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
