@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;It&#39;s funny science fiction, but it&#39;s not parody&#39; — &#39;Murderbot&#39; creators talk nailing the tone for Apple TV+’s latest sci-fi series &lpar;exclusive&rpar;](https://www.space.com/entertainment/its-funny-science-fiction-but-its-not-parody-murderbot-creators-talk-nailing-the-tone-for-apple-tv-s-latest-sci-fi-series-exclusive)
+- [AI startup Cohere acquires Ottogrid, a platform for conducting market research](https://techcrunch.com/2025/05/16/ai-startup-cohere-acquires-ottogrid-a-platform-for-conducting-market-research/)
 - [Arc’s new 24-foot electric boat is its cheapest yet](https://techcrunch.com/2025/05/16/arcs-new-24-foot-electric-boat-is-its-cheapest-yet/)
 - [NASA continues building next-gen Roman Space Telescope despite budget worries](https://www.space.com/space-exploration/missions/nasa-continues-building-next-gen-roman-space-telescope-despite-budget-worries)
 - [From Leaping Leo to the Big Dipper: Here&#39;s how to see the bright stars of spring rising in the east this season](https://www.space.com/stargazing/from-leaping-leo-to-the-big-dipper-heres-how-to-see-the-bright-stars-of-spring-rising-in-the-east-this-season)
-- [TechCrunch Mobility: Google’s Gemini is coming to your car, chaos comes for Luminar, and the Amazonification of Uber 2.0](https://techcrunch.com/2025/05/16/techcrunch-mobility-googles-gemini-is-coming-to-your-car-chaos-comes-for-luminar-and-the-amazonification-of-uber-2-0/)
-- [The Nuclear Company raises $51M to develop massive reactor sites](https://techcrunch.com/2025/05/16/the-nuclear-company-raises-51m-to-develop-massive-reactor-sites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
