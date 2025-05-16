@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [xAI blames Grok’s obsession with white genocide on an ‘unauthorized modification’](https://techcrunch.com/2025/05/15/xai-blames-groks-obsession-with-white-genocide-on-an-unauthorized-modification/)
 - [Sam Altman’s goal for ChatGPT to remember ‘your whole life’ is both exciting and disturbing](https://techcrunch.com/2025/05/15/sam-altmans-goal-for-chatgpt-to-remember-your-whole-life-is-both-exciting-and-disturbing/)
 - [Launch of Australia&#39;s 1st homegrown orbital rocket delayed indefinitely due to payload fairing issue](https://www.space.com/space-exploration/launches-spacecraft/launch-of-australias-1st-homegrown-orbital-rocket-delayed-indefinitely-due-to-payload-fairing-issue)
 - [Vibe-coding startup Windsurf launches in-house AI models](https://techcrunch.com/2025/05/15/vibe-coding-startup-windsurf-launches-in-house-ai-models/)
 - [Norway becomes 55th nation to sign NASA Artemis Accords for peaceful space exploration](https://www.space.com/space-exploration/artemis/norway-becomes-55th-nation-to-sign-nasa-artemis-accords-for-peaceful-space-exploration)
-- [Viral outrage over Apple’s EU payment warnings misses key fact](https://techcrunch.com/2025/05/15/viral-outrage-over-apples-eu-payment-warnings-misses-key-fact/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
