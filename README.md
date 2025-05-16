@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US Representatives worry Trump&#39;s NASA budget plan will make it harder to track dangerous asteroids](https://www.space.com/astronomy/asteroids/us-representatives-worry-trumps-nasa-budget-plan-will-make-it-harder-to-track-dangerous-asteroids)
+- [Watch Rocket Lab launch private Japanese Earth-observing satellite early May 17](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-private-japanese-earth-observing-satellite-early-may-17)
+- [US man who hacked SEC’s X account to spike Bitcoin price sentenced to prison](https://techcrunch.com/2025/05/16/us-man-who-hacked-secs-x-account-to-spike-bitcoin-price-sentenced-to-prison/)
 - [&#39;It&#39;s funny science fiction, but it&#39;s not parody&#39; — &#39;Murderbot&#39; creators talk nailing the tone for Apple TV+’s latest sci-fi series &lpar;exclusive&rpar;](https://www.space.com/entertainment/its-funny-science-fiction-but-its-not-parody-murderbot-creators-talk-nailing-the-tone-for-apple-tv-s-latest-sci-fi-series-exclusive)
 - [AI startup Cohere acquires Ottogrid, a platform for conducting market research](https://techcrunch.com/2025/05/16/ai-startup-cohere-acquires-ottogrid-a-platform-for-conducting-market-research/)
-- [Arc’s new 24-foot electric boat is its cheapest yet](https://techcrunch.com/2025/05/16/arcs-new-24-foot-electric-boat-is-its-cheapest-yet/)
-- [NASA continues building next-gen Roman Space Telescope despite budget worries](https://www.space.com/space-exploration/missions/nasa-continues-building-next-gen-roman-space-telescope-despite-budget-worries)
-- [From Leaping Leo to the Big Dipper: Here&#39;s how to see the bright stars of spring rising in the east this season](https://www.space.com/stargazing/from-leaping-leo-to-the-big-dipper-heres-how-to-see-the-bright-stars-of-spring-rising-in-the-east-this-season)
 <!-- BLOG-POST-LIST:END -->
 
 ---
