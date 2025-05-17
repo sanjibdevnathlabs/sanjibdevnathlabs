@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Laser-powered fusion experiment more than doubles its power output](https://techcrunch.com/2025/05/17/laser-powered-fusion-experiment-more-than-doubles-its-power-output/)
+- [Who is the mysterious woman in the Doctor&#39;s &#39;The Interstellar Song Contest&#39; visions?](https://www.space.com/entertainment/space-movies-shows/who-is-the-mysterious-woman-in-the-doctors-the-interstellar-song-contest-visions)
 - [TechCrunch Week in Review: Coinbase gets hacked](https://techcrunch.com/2025/05/17/techcrunch-week-in-review-coinbase-gets-hacked/)
 - [Epic Games asks judge to force Apple to approve Fortnite](https://techcrunch.com/2025/05/17/epic-games-asks-judge-to-force-apple-to-approve-fortnite/)
 - [Every episode of Netflix&#39;s &#39;Love, Death + Robots&#39; Volume 4, ranked](https://www.space.com/entertainment/every-episode-of-netflixs-love-death-robots-volume-4-ranked)
-- [Y Combinator startup Firecrawl is ready to pay $1M to hire three AI agents as employees](https://techcrunch.com/2025/05/17/y-combinator-startup-firecrawl-is-ready-to-pay-1m-to-hire-three-ai-agents-as-employees/)
-- [The space doctors are in! Season 2 of Prime Video&#39;s &#39;The Second Best Hospital in the Galaxy&#39; gets a wacky new teaser and release date &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-space-doctors-are-in-season-2-of-prime-videos-the-second-best-hospital-in-the-galaxy-gets-a-wacky-new-teaser-and-release-date-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
