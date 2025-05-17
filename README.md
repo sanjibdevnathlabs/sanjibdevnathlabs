@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Every episode of Netflix&#39;s &#39;Love, Death + Robots&#39; Volume 4, ranked](https://www.space.com/entertainment/every-episode-of-netflixs-love-death-robots-volume-4-ranked)
+- [Y Combinator startup Firecrawl is ready to pay $1M to hire three AI agents as employees](https://techcrunch.com/2025/05/17/y-combinator-startup-firecrawl-is-ready-to-pay-1m-to-hire-three-ai-agents-as-employees/)
 - [The space doctors are in! Season 2 of Prime Video&#39;s &#39;The Second Best Hospital in the Galaxy&#39; gets a wacky new teaser and release date &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-space-doctors-are-in-season-2-of-prime-videos-the-second-best-hospital-in-the-galaxy-gets-a-wacky-new-teaser-and-release-date-video)
 - [Can we actually build a thriving economy on and around the moon?](https://www.space.com/astronomy/moon/can-we-actually-build-a-thriving-economy-on-and-around-the-moon)
 - [This Week In Space podcast: Episode 161 — The TWiS Comedy Hour!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-161-the-twis-comedy-hour)
-- [Watch India launch its 2nd space mission of the year tonight](https://www.space.com/space-exploration/launches-spacecraft/watch-india-launch-its-2nd-space-mission-of-the-year-tonight)
-- [Build, don’t bind: Accel’s Sonali De Rycker on Europe’s AI crossroads](https://techcrunch.com/2025/05/16/build-dont-bind-accels-sonali-de-rycker-on-europes-ai-crossroads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
