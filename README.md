@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can we actually build a thriving economy on and around the moon?](https://www.space.com/astronomy/moon/can-we-actually-build-a-thriving-economy-on-and-around-the-moon)
+- [This Week In Space podcast: Episode 161 — The TWiS Comedy Hour!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-161-the-twis-comedy-hour)
 - [Watch India launch its 2nd space mission of the year tonight](https://www.space.com/space-exploration/launches-spacecraft/watch-india-launch-its-2nd-space-mission-of-the-year-tonight)
 - [Build, don’t bind: Accel’s Sonali De Rycker on Europe’s AI crossroads](https://techcrunch.com/2025/05/16/build-dont-bind-accels-sonali-de-rycker-on-europes-ai-crossroads/)
 - [OpenAI’s planned data center in Abu Dhabi would be bigger than Monaco](https://techcrunch.com/2025/05/16/openais-planned-data-center-in-abu-dhabi-would-be-bigger-than-monaco/)
-- [Google I/O 2025: What to expect, including updates to Gemini and Android 16](https://techcrunch.com/2025/05/16/google-i-o-2025-what-to-expect-including-updates-to-gemini-and-android-16/)
-- [Thousands of people have embarked on a virtual road trip via Google Street View](https://techcrunch.com/2025/05/16/thousands-of-people-have-embarked-on-a-virtual-road-trip-via-google-street-view/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
