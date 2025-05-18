@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Venus Aerospace debuts potentially revolutionary rocket engine with landmark 1st flight &lpar;video&rpar;](https://www.space.com/technology/venus-aerospace-debuts-potentially-revolutionary-rocket-engine-with-landmark-1st-flight-video)
 - [Not-so-clean rooms: Scientists discover 26 new microbe species in NASA spacecraft facility](https://www.space.com/space-exploration/search-for-life/not-so-clean-rooms-scientists-discover-26-new-microbe-species-in-nasa-spacecraft-facility)
 - [National Air and Space Museum to reveal more renovated galleries on July 28](https://www.space.com/space-exploration/national-air-and-space-museum-to-reveal-more-renovated-galleries-on-july-28)
 - [Canon RF 24mm f/1.4L VCM lens review](https://www.space.com/stargazing/skywatching-kit/canon-rf-24mm-f-1-4l-vcm-lens-review)
 - [Amateur astrophotographer catches a cosmic sunflower in bloom](https://www.space.com/stargazing/astrophotography/amateur-astrophotographer-catches-a-cosmic-sunflower-in-bloom)
-- [Indian rocket launch fails, Earth-observation satellite lost](https://www.space.com/space-exploration/launches-spacecraft/indian-rocket-launch-fails-earth-observation-satellite-lost)
 <!-- BLOG-POST-LIST:END -->
 
 ---
