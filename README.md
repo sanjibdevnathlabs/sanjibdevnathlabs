@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Grok says it’s ‘skeptical’ about Holocaust death toll, then blames ‘programming error’](https://techcrunch.com/2025/05/18/grok-says-its-skeptical-about-holocaust-death-toll-then-blames-programming-error/)
 - [Heybike’s Alpha step-through e-bike is an affordable, all-terrain dreamboat](https://techcrunch.com/2025/05/18/heybikes-alpha-step-through-e-bike-is-an-affordable-all-terrain-dreamboat/)
 - [U.S. lawmakers have concerns about Apple-Alibaba deal](https://techcrunch.com/2025/05/18/u-s-lawmakers-have-concerns-about-apple-alibaba-deal/)
 - [Venus Aerospace debuts potentially revolutionary rocket engine with landmark 1st flight &lpar;video&rpar;](https://www.space.com/technology/venus-aerospace-debuts-potentially-revolutionary-rocket-engine-with-landmark-1st-flight-video)
 - [Not-so-clean rooms: Scientists discover 26 new microbe species in NASA spacecraft facility](https://www.space.com/space-exploration/search-for-life/not-so-clean-rooms-scientists-discover-26-new-microbe-species-in-nasa-spacecraft-facility)
-- [National Air and Space Museum to reveal more renovated galleries on July 28](https://www.space.com/space-exploration/national-air-and-space-museum-to-reveal-more-renovated-galleries-on-july-28)
 <!-- BLOG-POST-LIST:END -->
 
 ---
