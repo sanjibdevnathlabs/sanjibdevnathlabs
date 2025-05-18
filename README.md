@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian rocket launch fails, Earth-observation satellite lost](https://www.space.com/space-exploration/launches-spacecraft/indian-rocket-launch-fails-earth-observation-satellite-lost)
 - [Microsoft’s Satya Nadella is choosing chatbots over podcasts](https://techcrunch.com/2025/05/17/microsofts-satya-nadella-is-choosing-chatbots-over-podcasts/)
 - [MIT disavows doctoral student paper on AI’s productivity benefits](https://techcrunch.com/2025/05/17/mit-disavows-doctoral-students-paper-on-ai-productivity-benefits/)
 - [Laser-powered fusion experiment more than doubles its power output](https://techcrunch.com/2025/05/17/laser-powered-fusion-experiment-more-than-doubles-its-power-output/)
 - [Who is the mysterious woman in the Doctor&#39;s &#39;The Interstellar Song Contest&#39; visions?](https://www.space.com/entertainment/space-movies-shows/who-is-the-mysterious-woman-in-the-doctors-the-interstellar-song-contest-visions)
-- [TechCrunch Week in Review: Coinbase gets hacked](https://techcrunch.com/2025/05/17/techcrunch-week-in-review-coinbase-gets-hacked/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
