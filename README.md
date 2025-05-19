@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Clock’s ticking: Save up to $900 on TechCrunch Disrupt 2025 tickets before prices rise](https://techcrunch.com/2025/05/19/clocks-ticking-save-up-to-900-on-techcrunch-disrupt-2025-tickets-before-prices-rise/)
-- [14,000 years ago, the most powerful solar storm ever recorded hit Earth. &#39;This event establishes a new worst-case scenario&#39;](https://www.space.com/astronomy/sun/14-000-years-ago-the-most-powerful-solar-storm-ever-recorded-hit-earth-this-event-establishes-a-new-worst-case-scenario)
-- [The moon reaches its half-lit final quarter phase this week: Here&#39;s what to expect](https://www.space.com/stargazing/the-moon-hits-its-final-quarter-phase-later-this-week-heres-what-to-expect)
-- [Mysterious white streak spotted over US skies during surprise aurora storm. What was it? &lpar;photos&rpar;](https://www.space.com/stargazing/mysterious-white-streak-spotted-over-us-skies-during-surprise-aurora-storm-what-was-it-photos)
-- [Deel wants Rippling to hand over any agreements involving paying the alleged spy](https://techcrunch.com/2025/05/19/deel-wants-rippling-to-hand-over-any-agreements-involving-paying-deels-alleged-spy/)
+- [Dark streaks on Mars may not come from water after all, scientists say](https://www.space.com/astronomy/mars/dark-streaks-on-mars-may-not-come-from-water-after-all-scientists-say)
+- [Bluesky takes on ‘Sports Twitter’ with NBA playoff feature](https://techcrunch.com/2025/05/19/bluesky-takes-on-sports-twitter-with-nba-playoff-feature/)
+- [Pharma giant Regeneron to buy 23andMe and its customers’ data for $256M](https://techcrunch.com/2025/05/19/pharma-giant-regeneron-to-buy-23andme-and-its-customers-data-for-256m/)
+- [Nikola’s hydrogen trucks hit the auction block](https://techcrunch.com/2025/05/19/nikolas-hydrogen-trucks-hit-the-auction-block/)
+- [Ex-Siri head reportedly wanted Apple to choose Google’s Gemini over ChatGPT](https://techcrunch.com/2025/05/19/ex-siri-head-reportedly-wanted-apple-to-choose-googles-gemini-over-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
