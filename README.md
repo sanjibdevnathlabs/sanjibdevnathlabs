@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple approves Spotify update so US users can buy audiobooks within the app](https://techcrunch.com/2025/05/19/apple-approves-spotify-update-so-us-users-can-buy-audiobooks-within-the-app/)
+- [Headline Asia closes $145M fund to fuel investments in Asia-Pacific](https://techcrunch.com/2025/05/19/headline-asias-145m-fund-v-is-first-new-significant-vc-fund-raised-in-months/)
+- [SpaceX gets updated Starship launch license but still awaits Flight 9 approval](https://www.space.com/space-exploration/launches-spacecraft/spacex-gets-updated-starship-launch-license-but-still-awaits-flight-9-approval)
+- [Google launches stand-alone NotebookLM apps for Android and iOS](https://techcrunch.com/2025/05/19/google-launches-standalone-notebooklm-app-for-android/)
 - [James Webb Space Telescope discovers an alien planetary system&#39;s icy edge](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-discovers-an-alien-planetary-systems-icy-edge)
-- [Trump signs bill criminalizing revenge porn and explicit deepfakes](https://techcrunch.com/2025/05/19/trump-signs-bill-criminalizing-revenge-porn-and-explicit-deepfakes/)
-- [Google inks another massive solar power deal to electrify its data centers](https://techcrunch.com/2025/05/19/google-inks-another-massive-solar-power-deal-to-electrify-its-data-centers/)
-- [Our galaxy&#39;s swirling gases and magnetic lines create cosmic artwork in new simulation](https://www.space.com/astronomy/our-galaxys-swirling-gases-and-magnetic-lines-create-cosmic-artwork-in-new-simulation)
-- [Watch China’s private Ceres-1 rocket launch 4 satellites from a ship at sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-chinas-private-ceres-1-rocket-launch-4-satellites-from-a-ship-at-sea-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
