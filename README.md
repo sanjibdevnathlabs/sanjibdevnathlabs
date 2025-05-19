@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump to sign bill criminalizing revenge porn and explicit deepfakes](https://techcrunch.com/2025/05/19/trump-to-sign-bill-criminalizing-revenge-porn-and-explicit-deepfakes/)
 - [Cocospy stalkerware apps go offline after data breach](https://techcrunch.com/2025/05/19/cocospy-stalkerware-apps-go-offline-after-data-breach/)
 - [Curious circles on Venus suggest its surface is still changing](https://www.space.com/astronomy/venus/curious-circles-on-venus-suggest-its-surface-is-still-changing)
 - [AI dev tools for Windows get a fresh coat of paint](https://techcrunch.com/2025/05/19/microsoft-gives-its-ai-dev-tools-for-windows-a-fresh-coat-of-paint/)
 - [Microsoft wants to tap AI to accelerate scientific discovery](https://techcrunch.com/2025/05/19/microsoft-wants-to-tap-ai-to-accelerate-scientific-discovery/)
-- [It’ll soon be free to publish apps to the Microsoft Store](https://techcrunch.com/2025/05/19/itll-soon-be-free-to-publish-apps-to-the-microsoft-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
