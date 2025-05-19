@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope discovers an alien planetary system&#39;s icy edge](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-discovers-an-alien-planetary-systems-icy-edge)
+- [Trump signs bill criminalizing revenge porn and explicit deepfakes](https://techcrunch.com/2025/05/19/trump-signs-bill-criminalizing-revenge-porn-and-explicit-deepfakes/)
+- [Google inks another massive solar power deal to electrify its data centers](https://techcrunch.com/2025/05/19/google-inks-another-massive-solar-power-deal-to-electrify-its-data-centers/)
 - [Our galaxy&#39;s swirling gases and magnetic lines create cosmic artwork in new simulation](https://www.space.com/astronomy/our-galaxys-swirling-gases-and-magnetic-lines-create-cosmic-artwork-in-new-simulation)
 - [Watch China’s private Ceres-1 rocket launch 4 satellites from a ship at sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-chinas-private-ceres-1-rocket-launch-4-satellites-from-a-ship-at-sea-video)
-- [AMD strikes a deal to sell ZT Systems’ server-manufacturing business for $3B](https://techcrunch.com/2025/05/19/amd-strikes-a-deal-to-sell-zt-systems-server-manufacturing-business-for-3b/)
-- [Google launches stand-alone NotebookLM app for Android](https://techcrunch.com/2025/05/19/google-launches-standalone-notebooklm-app-for-android/)
-- [Trump to sign bill criminalizing revenge porn and explicit deepfakes](https://techcrunch.com/2025/05/19/trump-to-sign-bill-criminalizing-revenge-porn-and-explicit-deepfakes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
