@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dark streaks on Mars may not come from water after all, scientists say](https://www.space.com/astronomy/mars/dark-streaks-on-mars-may-not-come-from-water-after-all-scientists-say)
-- [Bluesky takes on ‘Sports Twitter’ with NBA playoff feature](https://techcrunch.com/2025/05/19/bluesky-takes-on-sports-twitter-with-nba-playoff-feature/)
-- [Pharma giant Regeneron to buy 23andMe and its customers’ data for $256M](https://techcrunch.com/2025/05/19/pharma-giant-regeneron-to-buy-23andme-and-its-customers-data-for-256m/)
-- [Nikola’s hydrogen trucks hit the auction block](https://techcrunch.com/2025/05/19/nikolas-hydrogen-trucks-hit-the-auction-block/)
-- [Ex-Siri head reportedly wanted Apple to choose Google’s Gemini over ChatGPT](https://techcrunch.com/2025/05/19/ex-siri-head-reportedly-wanted-apple-to-choose-googles-gemini-over-chatgpt/)
+- [Cocospy stalkerware apps go offline after data breach](https://techcrunch.com/2025/05/19/cocospy-stalkerware-apps-go-offline-after-data-breach/)
+- [Curious circles on Venus suggest its surface is still changing](https://www.space.com/astronomy/venus/curious-circles-on-venus-suggest-its-surface-is-still-changing)
+- [AI dev tools for Windows get a fresh coat of paint](https://techcrunch.com/2025/05/19/microsoft-gives-its-ai-dev-tools-for-windows-a-fresh-coat-of-paint/)
+- [Microsoft wants to tap AI to accelerate scientific discovery](https://techcrunch.com/2025/05/19/microsoft-wants-to-tap-ai-to-accelerate-scientific-discovery/)
+- [It’ll soon be free to publish apps to the Microsoft Store](https://techcrunch.com/2025/05/19/itll-soon-be-free-to-publish-apps-to-the-microsoft-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
