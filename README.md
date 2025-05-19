@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch China’s private Ceres-1 rocket launch 4 satellites from a ship at sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-chinas-private-ceres-1-rocket-launch-4-satellites-from-a-ship-at-sea-video)
+- [AMD strikes a deal to sell ZT Systems’ server-manufacturing business for $3B](https://techcrunch.com/2025/05/19/amd-strikes-a-deal-to-sell-zt-systems-server-manufacturing-business-for-3b/)
+- [Google launches stand-alone NotebookLM app for Android](https://techcrunch.com/2025/05/19/google-launches-standalone-notebooklm-app-for-android/)
 - [Trump to sign bill criminalizing revenge porn and explicit deepfakes](https://techcrunch.com/2025/05/19/trump-to-sign-bill-criminalizing-revenge-porn-and-explicit-deepfakes/)
 - [Cocospy stalkerware apps go offline after data breach](https://techcrunch.com/2025/05/19/cocospy-stalkerware-apps-go-offline-after-data-breach/)
-- [Curious circles on Venus suggest its surface is still changing](https://www.space.com/astronomy/venus/curious-circles-on-venus-suggest-its-surface-is-still-changing)
-- [AI dev tools for Windows get a fresh coat of paint](https://techcrunch.com/2025/05/19/microsoft-gives-its-ai-dev-tools-for-windows-a-fresh-coat-of-paint/)
-- [Microsoft wants to tap AI to accelerate scientific discovery](https://techcrunch.com/2025/05/19/microsoft-wants-to-tap-ai-to-accelerate-scientific-discovery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
