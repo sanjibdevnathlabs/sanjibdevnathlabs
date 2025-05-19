@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deel wants Rippling to hand over any agreements involving paying the alleged spy](https://techcrunch.com/2025/05/19/deel-wants-rippling-to-hand-over-any-agreements-involving-paying-deels-alleged-spy/)
 - [Uber eyes B2B logistics push in India through state-backed open commerce network](https://techcrunch.com/2025/05/19/uber-eyes-b2b-logistics-push-in-india-through-state-backed-open-commerce-network/)
 - [VUZ gets $12M for its immersive video experiences across emerging markets and the U.S.](https://techcrunch.com/2025/05/18/vuz-gets-12m-to-scale-immersive-video-experiences-across-emerging-markets-and-the-u-s/)
 - [All about the abandoned Apollo capsule in &#39;The Last of Us&#39; &lpar;Season 2, Episode 6&rpar;](https://www.space.com/entertainment/space-movies-shows/all-about-the-abandoned-apollo-capsule-in-the-last-of-us-season-2-episode-6)
 - [Crypto elite increasingly worried about their personal safety](https://techcrunch.com/2025/05/18/crypto-elite-increasingly-worried-about-their-personal-safety/)
-- [Grok says it’s ‘skeptical’ about Holocaust death toll, then blames ‘programming error’](https://techcrunch.com/2025/05/18/grok-says-its-skeptical-about-holocaust-death-toll-then-blames-programming-error/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
