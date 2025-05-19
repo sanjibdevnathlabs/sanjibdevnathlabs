@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Clock’s ticking: Save up to $900 on TechCrunch Disrupt 2025 tickets before prices rise](https://techcrunch.com/2025/05/19/clocks-ticking-save-up-to-900-on-techcrunch-disrupt-2025-tickets-before-prices-rise/)
+- [14,000 years ago, the most powerful solar storm ever recorded hit Earth. &#39;This event establishes a new worst-case scenario&#39;](https://www.space.com/astronomy/sun/14-000-years-ago-the-most-powerful-solar-storm-ever-recorded-hit-earth-this-event-establishes-a-new-worst-case-scenario)
 - [The moon reaches its half-lit final quarter phase this week: Here&#39;s what to expect](https://www.space.com/stargazing/the-moon-hits-its-final-quarter-phase-later-this-week-heres-what-to-expect)
 - [Mysterious white streak spotted over US skies during surprise aurora storm. What was it? &lpar;photos&rpar;](https://www.space.com/stargazing/mysterious-white-streak-spotted-over-us-skies-during-surprise-aurora-storm-what-was-it-photos)
 - [Deel wants Rippling to hand over any agreements involving paying the alleged spy](https://techcrunch.com/2025/05/19/deel-wants-rippling-to-hand-over-any-agreements-involving-paying-deels-alleged-spy/)
-- [Uber eyes B2B logistics push in India through state-backed open commerce network](https://techcrunch.com/2025/05/19/uber-eyes-b2b-logistics-push-in-india-through-state-backed-open-commerce-network/)
-- [VUZ gets $12M for its immersive video experiences across emerging markets and the U.S.](https://techcrunch.com/2025/05/18/vuz-gets-12m-to-scale-immersive-video-experiences-across-emerging-markets-and-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
