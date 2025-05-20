@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Volunteer at TechCrunch All Stage in Boston](https://techcrunch.com/2025/05/20/volunteer-at-techcrunch-all-stage-in-boston/)
-- [The 100th woman in space: Emily Calandrelli talks about her Blue Origin flight and inspiring the next generation](https://www.space.com/space-exploration/human-spaceflight/the-100th-woman-in-space-emily-calandrelli-talks-about-her-blue-origin-flight-and-inspiring-the-next-generation)
-- [Once worth over $1B, Microsoft-backed Builder.ai is running out of money](https://techcrunch.com/2025/05/20/once-worth-over-1b-microsoft-backed-builder-ai-is-running-out-of-money/)
-- [Agentic AI platform Manus launches a paid plan for teams](https://techcrunch.com/2025/05/20/agentic-ai-platform-manus-launches-a-paid-plan-for-teams/)
-- [Keep raises $12M in increasingly competitive Canadian corporate spend market](https://techcrunch.com/2025/05/20/keep-raises-12m-in-increasingly-competitive-canadian-corporate-spend-market/)
+- [Last 2 weeks: Savings of up to $600 on TechCrunch Sessions: AI tickets](https://techcrunch.com/2025/05/20/last-2-weeks-savings-of-up-to-600-on-techcrunch-sessions-ai-tickets/)
+- [House-size asteroid will pass between Earth and moon on May 21](https://www.space.com/stargazing/house-size-asteroid-will-pass-between-earth-and-moon-on-may-21)
+- [Google I/O 2025: How to watch all the AI and Android reveals](https://techcrunch.com/2025/05/20/google-i-o-2025-how-to-watch-all-the-ai-and-android-reveals/)
+- [Amazon’s Danielle Perszyk is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/amazons-danielle-perszyk-is-coming-to-techcrunch-sessions-ai/)
+- [Apple will hold WWDC from June 9 to June 13](https://techcrunch.com/2025/05/20/apple-will-hold-wwdc-from-june-9/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
