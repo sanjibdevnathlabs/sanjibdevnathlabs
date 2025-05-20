@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo gets OK to expand robotaxi service into more of Silicon Valley](https://techcrunch.com/2025/05/19/waymo-gets-ok-to-expand-robotaxi-service-into-more-of-silicon-valley/)
+- [Klarna’s revenue per employee soars to nearly $1M thanks to AI efficiency push](https://techcrunch.com/2025/05/19/klarnas-revenue-per-employee-soars-to-nearly-1m-thanks-to-ai-efficiency-push/)
 - [Waymo and Uber are giving some riders early access to Atlanta robotaxi service](https://techcrunch.com/2025/05/19/waymo-and-uber-are-giving-some-riders-early-access-to-atlanta-robotaxi-service/)
 - [Billionaire founder of Luminar replaced as CEO following ethics inquiry](https://techcrunch.com/2025/05/19/billionaire-founder-of-luminar-replaced-as-ceo-following-ethics-inquiry/)
 - [Moon mining machine: Interlune unveils helium-3 harvester prototype &lpar;photo&rpar;](https://www.space.com/astronomy/moon/moon-mining-machine-interlune-unveils-helium-3-harvester-prototype-photo)
-- [Judge pressures Apple to approve Fortnite or return to court](https://techcrunch.com/2025/05/19/judge-pressures-apple-to-approve-fortnite-or-return-to-court/)
-- [Apple approves Spotify update so US users can buy audiobooks within the app](https://techcrunch.com/2025/05/19/apple-approves-spotify-update-so-us-users-can-buy-audiobooks-within-the-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
