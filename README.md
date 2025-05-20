@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twelve Labs CEO Jae Lee is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/twelve-labs-ceo-jae-lee-is-coming-to-techcrunch-sessions-ai/)
+- [Powerful Mother&#39;s Day geomagnetic storm created radio-disrupting bubbles in Earth&#39;s upper atmosphere](https://www.space.com/astronomy/earth/powerful-mothers-day-geomagnetic-storm-created-radio-disrupting-bubbles-in-earths-upper-atmosphere)
+- [Apple reportedly plans to let developers build on top of its AI](https://techcrunch.com/2025/05/20/apple-reportedly-plans-to-let-developers-build-on-top-of-its-ai/)
+- [NASA&#39;s X-59 jet takes &#39;flight&#39; without leaving the ground | Space photo of the day for May 20, 2025](https://www.space.com/technology/aerospace/nasas-x-59-jet-takes-flight-without-leaving-the-ground-space-photo-of-the-day-for-may-20-2025)
 - [Last 2 weeks: Savings of up to $600 on TechCrunch Sessions: AI tickets](https://techcrunch.com/2025/05/20/last-2-weeks-savings-of-up-to-600-on-techcrunch-sessions-ai-tickets/)
-- [House-size asteroid will pass between Earth and moon on May 21](https://www.space.com/stargazing/house-size-asteroid-will-pass-between-earth-and-moon-on-may-21)
-- [Google I/O 2025: How to watch all the AI and Android reveals](https://techcrunch.com/2025/05/20/google-i-o-2025-how-to-watch-all-the-ai-and-android-reveals/)
-- [Amazon’s Danielle Perszyk is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/amazons-danielle-perszyk-is-coming-to-techcrunch-sessions-ai/)
-- [Apple will hold WWDC from June 9 to June 13](https://techcrunch.com/2025/05/20/apple-will-hold-wwdc-from-june-9/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
