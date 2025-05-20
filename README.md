@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The latest Google Gemma AI model can run on phones](https://techcrunch.com/2025/05/20/the-newest-google-gemma-ai-model-can-run-on-phones/)
+- [Google commits $150M to develop AI glasses with Warby Parker](https://techcrunch.com/2025/05/20/google-commits-150m-to-develop-ai-glasses-with-warby-parker/)
+- [Amanda Scales, a Musk hire who helped lead DOGE, has returned to xAI](https://techcrunch.com/2025/05/20/amanda-scales-a-musk-hire-who-helped-lead-doge-has-returned-to-xai/)
+- [Musk says Tesla’s self-driving tests will be geofenced to ‘the safest’ parts of Austin](https://techcrunch.com/2025/05/20/musk-says-teslas-self-driving-tests-will-be-geofenced-to-the-safest-parts-of-austin/)
 - [Last Week: Exhibit your startup at TechCrunch Sessions AI](https://techcrunch.com/2025/05/20/exhibit-your-startup-at-techcrunch-sessions-ai-while-you-still-can/)
-- [Rob Biederman will help founders rethink how to scale at TechCrunch All Stage 2025](https://techcrunch.com/2025/05/20/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/)
-- [Lightning on alien worlds may fail to spark life, simulations suggest](https://www.space.com/astronomy/exoplanets/lightning-on-alien-worlds-may-fail-to-spark-life-simulations-suggest)
-- [Host a tailored Side Event at All Stage 2025 in Boston](https://techcrunch.com/2025/05/20/host-a-tailored-side-event-at-all-stage-2025-in-boston/)
-- [Intel is reportedly exploring a sale for its networking and edge unit](https://techcrunch.com/2025/05/20/intel-is-reportedly-exploring-a-sale-for-its-networking-and-edge-unit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
