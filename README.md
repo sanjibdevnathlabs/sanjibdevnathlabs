@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Take a closer look at the moon and galaxies with the SkyMaster 15x70 binoculars from Celestron: Now only $76!](https://www.space.com/stargazing/skywatching-kit/take-a-closer-look-at-the-moon-and-galaxies-with-the-skymaster-15x70-binoculars-from-celestron-now-only-usd76)
+- [Affiniti’s 20- and 22-year-old founders raise $17M led by SignalFire just 6 months after an $11M seed](https://techcrunch.com/2025/05/20/affinitis-20-and-22-year-old-founders-raise-17m-led-by-signalfire-just-6-months-after-an-11m-seed/)
 - [Has Polaris always been the North Star? How Earth&#39;s 26,000 year cycle changes the &#39;pole star&#39;](https://www.space.com/stargazing/has-polaris-always-been-the-north-star-how-earths-26-000-year-cycle-changes-the-pole-star)
 - [NASA names geomagnetic storm for 1st time, honoring a space weather scientist who died suddenly in 2024](https://www.space.com/stargazing/auroras/nasa-names-geomagnetic-storm-for-1st-time-honoring-a-space-weather-scientist-who-died-suddenly-in-2024)
 - [Monzo’s pivot from cool to corporate: ‘freshness is not about gimmicks’](https://techcrunch.com/2025/05/19/monzos-pivot-from-cool-to-corporate-freshness-is-not-about-gimmicks/)
-- [Sylndr, with fresh $15.7M, allows users to buy, sell, finance, and service used cars in Egypt](https://techcrunch.com/2025/05/19/sylndr-with-fresh-15-7m-allows-users-to-buy-sell-finance-and-service-used-cars-in-egypt/)
-- [Waymo gets OK to expand robotaxi service into more of Silicon Valley](https://techcrunch.com/2025/05/19/waymo-gets-ok-to-expand-robotaxi-service-into-more-of-silicon-valley/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
