@@ -138,7 +138,7 @@ I'm a software developer passionate about designing and building applications wi
 - [Google’s AlphaEvolve is making new discoveries in math…](https://www.youtube.com/watch?v=jCTvblRXnzg)
 - [Alleviating poverty and sharing knowledge globally with Esther Duflo](https://www.youtube.com/watch?v=t4RdDaTLcjY)
 - [5 weird &lpar;but useful&rpar; data structures in computer science](https://www.youtube.com/watch?v=6fnmXX8RK0s)
-- [Programming, Growth Mindset, and Rubber Ducks?](https://www.youtube.com/watch?v=p8918BiV01c)
+- [MIT Programmer on GenAI, Growth Mindset, and Rubber Ducks?](https://www.youtube.com/watch?v=p8918BiV01c)
 <!-- YOUTUBE:END -->
 
 ---
