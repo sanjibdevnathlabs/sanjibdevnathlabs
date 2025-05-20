@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twelve Labs CEO Jae Lee is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/twelve-labs-ceo-jae-lee-is-coming-to-techcrunch-sessions-ai/)
-- [Powerful Mother&#39;s Day geomagnetic storm created radio-disrupting bubbles in Earth&#39;s upper atmosphere](https://www.space.com/astronomy/earth/powerful-mothers-day-geomagnetic-storm-created-radio-disrupting-bubbles-in-earths-upper-atmosphere)
-- [Apple reportedly plans to let developers build on top of its AI](https://techcrunch.com/2025/05/20/apple-reportedly-plans-to-let-developers-build-on-top-of-its-ai/)
-- [NASA&#39;s X-59 jet takes &#39;flight&#39; without leaving the ground | Space photo of the day for May 20, 2025](https://www.space.com/technology/aerospace/nasas-x-59-jet-takes-flight-without-leaving-the-ground-space-photo-of-the-day-for-may-20-2025)
-- [Last 2 weeks: Savings of up to $600 on TechCrunch Sessions: AI tickets](https://techcrunch.com/2025/05/20/last-2-weeks-savings-of-up-to-600-on-techcrunch-sessions-ai-tickets/)
+- [You’ve got 6 days to save $900 on TechCrunch Disrupt 2025 tickets](https://techcrunch.com/2025/05/20/youve-got-6-days-to-save-900-on-techcrunch-disrupt-2025-tickets/)
+- [Google I/O 2025: Everything announced at this year’s developer conference](https://techcrunch.com/2025/05/20/google-i-o-2025-everything-announced-at-this-years-developer-conference/)
+- [Google Play adds topic pages, audio previews, and new subscription tools for developers](https://techcrunch.com/2025/05/20/google-play-adds-topic-pages-audio-previews-and-subscription-tools-for-developers/)
+- [Google rolls out Project Mariner, its web-browsing AI agent](https://techcrunch.com/2025/05/20/google-rolls-out-project-mariner-its-web-browsing-ai-agent/)
+- [Google updates the Gemini app with real-time AI video, Deep Research, and more](https://techcrunch.com/2025/05/20/google-updates-the-gemini-app-with-real-time-ai-video-deep-research-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
