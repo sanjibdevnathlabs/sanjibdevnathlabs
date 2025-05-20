@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google DeepMind’s Logan Kilpatrick is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/google-deepminds-logan-kilpatrick-is-coming-to-techcrunch-sessions-ai/)
-- [Amazon Music tests an AI-powered search experience for fans to learn more about their favorite artists](https://techcrunch.com/2025/05/20/amazon-music-tests-an-ai-powered-search-experience-for-fans-to-learn-more-about-their-favorite-artists/)
-- [Why do dwarf galaxies line up? &#39;Zippers&#39; and &#39;twisters&#39; in the early universe may solve a galactic mystery](https://www.space.com/astronomy/dark-universe/why-do-dwarf-galaxies-line-up-zippers-and-twisters-in-the-early-universe-may-solve-a-galactic-mystery)
-- [Adaptation Ventures is a new angel investor group focused on disability and accessibility tech](https://techcrunch.com/2025/05/20/adaptation-ventures-is-a-new-angel-investor-group-focused-on-disability-and-accessibility-tech/)
-- [SparkCharge raises $30M to help fleets electrify without commitments](https://techcrunch.com/2025/05/20/sparkcharge-raises-30m-to-help-fleets-electrify-without-commitments/)
+- [Volunteer at TechCrunch All Stage in Boston](https://techcrunch.com/2025/05/20/volunteer-at-techcrunch-all-stage-in-boston/)
+- [The 100th woman in space: Emily Calandrelli talks about her Blue Origin flight and inspiring the next generation](https://www.space.com/space-exploration/human-spaceflight/the-100th-woman-in-space-emily-calandrelli-talks-about-her-blue-origin-flight-and-inspiring-the-next-generation)
+- [Once worth over $1B, Microsoft-backed Builder.ai is running out of money](https://techcrunch.com/2025/05/20/once-worth-over-1b-microsoft-backed-builder-ai-is-running-out-of-money/)
+- [Agentic AI platform Manus launches a paid plan for teams](https://techcrunch.com/2025/05/20/agentic-ai-platform-manus-launches-a-paid-plan-for-teams/)
+- [Keep raises $12M in increasingly competitive Canadian corporate spend market](https://techcrunch.com/2025/05/20/keep-raises-12m-in-increasingly-competitive-canadian-corporate-spend-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
