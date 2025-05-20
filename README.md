@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Gravitee, a platform that helps companies manage APIs, raises $60M](https://techcrunch.com/2025/05/20/gravitee-a-platform-that-helps-companies-manage-apis-raises-60m/)
-- [In a good sign for consumer internet startups, Creator Ventures raises $45M](https://techcrunch.com/2025/05/20/in-a-good-sign-for-consumer-internet-startups-creator-ventures-raises-45m/)
-- [Did Predator just harpoon a plane out of the sky? Oh, count us in for &#39;Predator: Killer of Killers&#39; after this latest trailer &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/did-predator-just-harpoon-a-plane-out-of-the-sky-oh-count-us-in-for-predator-killer-of-killers-after-this-latest-trailer-video)
-- [Take a closer look at the moon and galaxies with the SkyMaster 15x70 binoculars from Celestron: Now only $76!](https://www.space.com/stargazing/skywatching-kit/take-a-closer-look-at-the-moon-and-galaxies-with-the-skymaster-15x70-binoculars-from-celestron-now-only-usd76)
-- [Affiniti’s 20- and 22-year-old founders raise $17M led by SignalFire just 6 months after an $11M seed](https://techcrunch.com/2025/05/20/affinitis-20-and-22-year-old-founders-raise-17m-led-by-signalfire-just-6-months-after-an-11m-seed/)
+- [SparkCharge raises $30M to help fleets electrify without commitments](https://techcrunch.com/2025/05/20/sparkcharge-raises-30m-to-help-fleets-electrify-without-commitments/)
+- [Alation acquires Numbers Station to bolster its AI agent offerings](https://techcrunch.com/2025/05/20/alation-acquires-numbers-station-to-bolster-its-ai-agent-offerings/)
+- [South Loop Ventures closes $21M fund in Houston to build up local tech ecosystem](https://techcrunch.com/2025/05/20/south-loop-ventures-closes-21m-fund-in-houston-to-build-up-local-tech-ecosystem/)
+- [Brex partners with former competitor Zip, with an eye on reducing cash burn to get to an IPO](https://techcrunch.com/2025/05/20/brex-partners-with-former-competitor-zip-with-an-eye-on-reducing-cash-burn-to-get-to-an-ipo/)
+- [&#39;We don&#39;t know how bad it could get&#39;: Are we ready for the worst space weather?](https://www.space.com/astronomy/sun/we-dont-know-how-bad-it-could-get-are-we-ready-for-the-worst-space-weather)
 <!-- BLOG-POST-LIST:END -->
 
 ---
