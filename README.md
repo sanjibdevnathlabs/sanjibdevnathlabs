@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lightning on alien worlds may fail to spark life, simulations suggest](https://www.space.com/astronomy/exoplanets/lightning-on-alien-worlds-may-fail-to-spark-life-simulations-suggest)
+- [Host a tailored Side Event at All Stage 2025 in Boston](https://techcrunch.com/2025/05/20/host-a-tailored-side-event-at-all-stage-2025-in-boston/)
+- [Intel is reportedly exploring a sale for its networking and edge unit](https://techcrunch.com/2025/05/20/intel-is-reportedly-exploring-a-sale-for-its-networking-and-edge-unit/)
 - [You’ve got 6 days to save $900 on TechCrunch Disrupt 2025 tickets](https://techcrunch.com/2025/05/20/youve-got-6-days-to-save-900-on-techcrunch-disrupt-2025-tickets/)
 - [Google I/O 2025: Everything announced at this year’s developer conference](https://techcrunch.com/2025/05/20/google-i-o-2025-everything-announced-at-this-years-developer-conference/)
-- [Google Play adds topic pages, audio previews, and new subscription tools for developers](https://techcrunch.com/2025/05/20/google-play-adds-topic-pages-audio-previews-and-subscription-tools-for-developers/)
-- [Google rolls out Project Mariner, its web-browsing AI agent](https://techcrunch.com/2025/05/20/google-rolls-out-project-mariner-its-web-browsing-ai-agent/)
-- [Google updates the Gemini app with real-time AI video, Deep Research, and more](https://techcrunch.com/2025/05/20/google-updates-the-gemini-app-with-real-time-ai-video-deep-research-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
