@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google DeepMind’s Logan Kilpatrick is coming to TechCrunch Sessions: AI](https://techcrunch.com/2025/05/20/google-deepminds-logan-kilpatrick-is-coming-to-techcrunch-sessions-ai/)
+- [Amazon Music tests an AI-powered search experience for fans to learn more about their favorite artists](https://techcrunch.com/2025/05/20/amazon-music-tests-an-ai-powered-search-experience-for-fans-to-learn-more-about-their-favorite-artists/)
+- [Why do dwarf galaxies line up? &#39;Zippers&#39; and &#39;twisters&#39; in the early universe may solve a galactic mystery](https://www.space.com/astronomy/dark-universe/why-do-dwarf-galaxies-line-up-zippers-and-twisters-in-the-early-universe-may-solve-a-galactic-mystery)
+- [Adaptation Ventures is a new angel investor group focused on disability and accessibility tech](https://techcrunch.com/2025/05/20/adaptation-ventures-is-a-new-angel-investor-group-focused-on-disability-and-accessibility-tech/)
 - [SparkCharge raises $30M to help fleets electrify without commitments](https://techcrunch.com/2025/05/20/sparkcharge-raises-30m-to-help-fleets-electrify-without-commitments/)
-- [Alation acquires Numbers Station to bolster its AI agent offerings](https://techcrunch.com/2025/05/20/alation-acquires-numbers-station-to-bolster-its-ai-agent-offerings/)
-- [South Loop Ventures closes $21M fund in Houston to build up local tech ecosystem](https://techcrunch.com/2025/05/20/south-loop-ventures-closes-21m-fund-in-houston-to-build-up-local-tech-ecosystem/)
-- [Brex partners with former competitor Zip, with an eye on reducing cash burn to get to an IPO](https://techcrunch.com/2025/05/20/brex-partners-with-former-competitor-zip-with-an-eye-on-reducing-cash-burn-to-get-to-an-ipo/)
-- [&#39;We don&#39;t know how bad it could get&#39;: Are we ready for the worst space weather?](https://www.space.com/astronomy/sun/we-dont-know-how-bad-it-could-get-are-we-ready-for-the-worst-space-weather)
 <!-- BLOG-POST-LIST:END -->
 
 ---
