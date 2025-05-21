@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shopify launches an AI-powered store builder as part of its latest update](https://techcrunch.com/2025/05/21/shopify-launches-an-ai-powered-store-builder-as-part-of-its-latest-update/)
+- [TechCrunch Disrupt 2025 Early Bird savings end on May 25](https://techcrunch.com/2025/05/21/techcrunch-disrupt-2025-early-bird-savings-end-on-may-25/)
+- [The physics of the universe appear to be fine-tuned for life. Why?](https://www.space.com/science/astrophysics/the-physics-of-the-universe-appear-to-be-fine-tuned-for-life-why)
 - [Coinbase says its data breach affects at least 69,000 customers](https://techcrunch.com/2025/05/21/coinbase-says-its-data-breach-affects-at-least-69000-customers/)
 - [Apollo for Reddit dev Christian Selig to join Digg as an advisor](https://techcrunch.com/2025/05/21/apollo-for-reddit-dev-christian-selig-to-join-digg-as-an-advisor/)
-- [Watch tile-shedding private Chinese rocket launch 6 satellites to orbit &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-tile-shedding-private-chinese-rocket-launch-6-satellites-to-orbit-video)
-- [Get a massive 68% off a year&#39;s subscription to Peacock TV ahead of the Memorial Day weekend](https://www.space.com/entertainment/memorial-day-streaming-deal-69-percent-off-peacock-2025)
-- [Uber Freight bets big on AI tools to grow its business](https://techcrunch.com/2025/05/21/uber-freight-bets-big-on-ai-tools-to-grow-its-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
