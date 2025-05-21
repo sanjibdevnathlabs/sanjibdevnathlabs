@@ -150,7 +150,7 @@ I'm a software developer passionate about designing and building applications wi
 - [See the crescent moon rise close to Saturn and Neptune early on May 22](https://www.space.com/stargazing/see-the-crescent-moon-rise-close-to-saturn-and-neptune-early-on-may-22)
 - [Perseverance rover rolls into &#39;Crocodile&#39; region on Mars to hunt for super-old rocks](https://www.space.com/astronomy/mars/perseverance-rover-rolls-into-crocodile-region-on-mars-to-hunt-for-super-old-rocks)
 - [Fortnite returns to the US App Store after a five-year gap](https://techcrunch.com/2025/05/20/fortnite-returns-to-the-us-app-store-after-a-five-year-gap/)
-- [SpaceX launches 23 Starlink satellites to orbit on brand-new Falcon 9 rocket after abort &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-23-starlink-satellites-to-orbit-on-brand-new-falcon-9-rocket-after-abort-photos)
+- [SpaceX launches 23 Starlink satellites to orbit on brand-new Falcon 9 rocket after abort &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-23-starlink-satellites-to-orbit-on-brand-new-falcon-9-rocket-after-abort-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
