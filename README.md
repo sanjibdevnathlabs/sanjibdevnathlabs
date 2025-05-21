@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New species of space-adapted bacteria discovered on China&#39;s Tiangong space station](https://www.space.com/space-exploration/human-spaceflight/new-species-of-space-adapted-bacteria-discovered-on-chinas-tiangong-space-station)
+- [Trump administration may sell deep-sea mining leases at startup’s urging](https://techcrunch.com/2025/05/21/trump-administration-may-sell-deep-sea-mining-leases-at-startups-urging/)
+- [NASA legend Gene Kranz returns to mission control | Space photo of the day for May 21, 2025](https://www.space.com/space-exploration/apollo/nasa-legend-gene-kranz-returns-to-mission-control-space-photo-of-the-day-for-may-21-2025)
+- [Tensions flare between the US and China over Huawei’s AI chips](https://techcrunch.com/2025/05/21/tensions-flare-between-the-us-and-china-over-huaweis-ai-chips/)
 - [Amazon rolls out short-form AI-powered audio product summaries for select items](https://techcrunch.com/2025/05/21/amazon-rolls-out-short-form-ai-powered-audio-product-summaries-for-select-items/)
-- [Siro lands $50M to expand its AI-powered coaching for sales reps](https://techcrunch.com/2025/05/21/siro-lands-50m-from-signalfire-to-expand-its-ai-powered-coaching-solution-for-on-ground-sales-reps/)
-- [Google is bringing ads to AI Mode](https://techcrunch.com/2025/05/21/google-is-bringing-ads-to-ai-mode/)
-- [TED’s app launches a short-form video feature ahead of potential TikTok ban](https://techcrunch.com/2025/05/21/teds-app-launches-a-short-form-video-feature-ahead-of-potential-tiktok-ban/)
-- [&#39;Star Wars: The Empire Strikes Back&#39; at 45: Stop-motion master Phil Tippett on creating the iconic Battle of Hoth &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/star-wars-the-empire-strikes-back-at-45-stop-motion-master-phil-tippett-on-creating-the-iconic-battle-of-hoth-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
