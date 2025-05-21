@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ax-4 private astronaut mission to the ISS is &#39;go&#39; for its June 8 SpaceX launch](https://www.space.com/space-exploration/private-spaceflight/ax-4-private-astronaut-mission-to-the-iss-is-go-for-its-june-8-spacex-launch)
+- [Jupiter used to be twice as big as it is now — it could have held 2,000 Earths](https://www.space.com/astronomy/jupiter/jupiter-used-to-be-twice-as-big-as-it-is-now-it-could-have-held-2-000-earths)
+- [Spotify says support for external payments on iOS has already boosted subscriptions](https://techcrunch.com/2025/05/21/spotify-says-support-for-external-payments-on-ios-has-already-boosted-subscriptions/)
 - [LM Arena, the organization behind popular AI leaderboards, lands $100M](https://techcrunch.com/2025/05/21/lm-arena-the-organization-behind-popular-ai-leaderboards-lands-100m/)
 - [Wyden: AT&amp;T, T-Mobile, and Verizon weren’t notifying senators of surveillance requests](https://techcrunch.com/2025/05/21/wyden-att-t-mobile-and-verizon-werent-notifying-senators-of-surveillance-requests/)
-- [Spotify’s new ‘Upcoming Releases’ hub highlights future albums you may like](https://techcrunch.com/2025/05/21/spotifys-new-upcoming-releases-hub-highlights-future-albums-you-may-like/)
-- [US military launches unarmed intercontinental ballistic missile on 4,200-mile test flight &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/us-military-launches-unarmed-intercontinental-ballistic-missile-on-4-200-mile-test-flight-video)
-- [Jony Ive to lead OpenAI’s design work following $6.5B acquisition of his company](https://techcrunch.com/2025/05/21/jony-ive-to-lead-openais-design-work-following-6-5b-acquisition-of-his-company/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
