@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Shopify launches an AI-powered store builder as part of its latest update](https://techcrunch.com/2025/05/21/shopify-launches-an-ai-powered-store-builder-as-part-of-its-latest-update/)
-- [TechCrunch Disrupt 2025 Early Bird savings end on May 25](https://techcrunch.com/2025/05/21/techcrunch-disrupt-2025-early-bird-savings-end-on-may-25/)
-- [The physics of the universe appear to be fine-tuned for life. Why?](https://www.space.com/science/astrophysics/the-physics-of-the-universe-appear-to-be-fine-tuned-for-life-why)
-- [Coinbase says its data breach affects at least 69,000 customers](https://techcrunch.com/2025/05/21/coinbase-says-its-data-breach-affects-at-least-69000-customers/)
-- [Apollo for Reddit dev Christian Selig to join Digg as an advisor](https://techcrunch.com/2025/05/21/apollo-for-reddit-dev-christian-selig-to-join-digg-as-an-advisor/)
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/05/21/tech-layoffs-2025-list/)
+- [Einride founder steps down as CEO amid push to scale electric, autonomous trucks](https://techcrunch.com/2025/05/21/einride-founder-steps-down-as-ceo-amid-push-to-scale-electric-autonomous-trucks/)
+- [Mistral’s new Devstral AI model was designed for coding](https://techcrunch.com/2025/05/21/mistrals-new-devstral-model-was-designed-for-coding/)
+- [TechCrunch Sessions: AI welcomes Tanka CEO Kisson Lin to talk AI-native startups](https://techcrunch.com/2025/05/21/techcrunch-sessions-ai-welcomes-tanka-ceo-kisson-lin-to-talk-ai-native-startups/)
+- [Google’s AI agents will bring you the web now](https://techcrunch.com/2025/05/21/googles-ai-agents-will-bring-you-the-web-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
