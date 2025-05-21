@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New species of space-adapted bacteria discovered on China&#39;s Tiangong space station](https://www.space.com/space-exploration/human-spaceflight/new-species-of-space-adapted-bacteria-discovered-on-chinas-tiangong-space-station)
-- [Trump administration may sell deep-sea mining leases at startup’s urging](https://techcrunch.com/2025/05/21/trump-administration-may-sell-deep-sea-mining-leases-at-startups-urging/)
-- [NASA legend Gene Kranz returns to mission control | Space photo of the day for May 21, 2025](https://www.space.com/space-exploration/apollo/nasa-legend-gene-kranz-returns-to-mission-control-space-photo-of-the-day-for-may-21-2025)
-- [Tensions flare between the US and China over Huawei’s AI chips](https://techcrunch.com/2025/05/21/tensions-flare-between-the-us-and-china-over-huaweis-ai-chips/)
-- [Amazon rolls out short-form AI-powered audio product summaries for select items](https://techcrunch.com/2025/05/21/amazon-rolls-out-short-form-ai-powered-audio-product-summaries-for-select-items/)
+- [Spotify’s new ‘Upcoming Releases’ hub highlights future albums you may like](https://techcrunch.com/2025/05/21/spotifys-new-upcoming-releases-hub-highlights-future-albums-you-may-like/)
+- [US military launches unarmed intercontinental ballistic missile on 4,200-mile test flight &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/us-military-launches-unarmed-intercontinental-ballistic-missile-on-4-200-mile-test-flight-video)
+- [Jony Ive to lead OpenAI’s design work following $6.5B acquisition of his company](https://techcrunch.com/2025/05/21/jony-ive-to-lead-openais-design-work-following-6-5b-acquisition-of-his-company/)
+- [Filed raises $17M to automate the drudgery of tax prep](https://techcrunch.com/2025/05/21/filed-raises-17m-to-automate-the-drudgery-of-tax-prep/)
+- [Meta launches program to encourage startups to use its Llama AI models](https://techcrunch.com/2025/05/21/meta-launches-program-to-encourage-startups-to-use-its-llama-ai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
