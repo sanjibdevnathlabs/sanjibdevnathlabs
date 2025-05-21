@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Klarna used an AI avatar of its CEO to deliver earnings, it said](https://techcrunch.com/2025/05/21/klarna-used-an-ai-avatar-of-its-ceo-to-deliver-earnings-it-said/)
 - [U.S. Space Force general selected to lead Trump&#39;s $175 billion Golden Dome space defense program](https://www.space.com/space-exploration/satellites/u-s-space-force-general-selected-to-lead-trumps-usd175-billion-golden-dome-space-defense-program)
 - [Ax-4 private astronaut mission to the ISS is &#39;go&#39; for its June 8 SpaceX launch](https://www.space.com/space-exploration/private-spaceflight/ax-4-private-astronaut-mission-to-the-iss-is-go-for-its-june-8-spacex-launch)
 - [Jupiter used to be twice as big as it is now — it could have held 2,000 Earths](https://www.space.com/astronomy/jupiter/jupiter-used-to-be-twice-as-big-as-it-is-now-it-could-have-held-2-000-earths)
 - [Spotify says support for external payments on iOS has already boosted subscriptions](https://techcrunch.com/2025/05/21/spotify-says-support-for-external-payments-on-ios-has-already-boosted-subscriptions/)
-- [LM Arena, the organization behind popular AI leaderboards, lands $100M](https://techcrunch.com/2025/05/21/lm-arena-the-organization-behind-popular-ai-leaderboards-lands-100m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
