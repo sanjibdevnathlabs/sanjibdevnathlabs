@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/05/21/tech-layoffs-2025-list/)
-- [Einride founder steps down as CEO amid push to scale electric, autonomous trucks](https://techcrunch.com/2025/05/21/einride-founder-steps-down-as-ceo-amid-push-to-scale-electric-autonomous-trucks/)
-- [Mistral’s new Devstral AI model was designed for coding](https://techcrunch.com/2025/05/21/mistrals-new-devstral-model-was-designed-for-coding/)
-- [TechCrunch Sessions: AI welcomes Tanka CEO Kisson Lin to talk AI-native startups](https://techcrunch.com/2025/05/21/techcrunch-sessions-ai-welcomes-tanka-ceo-kisson-lin-to-talk-ai-native-startups/)
-- [Google’s AI agents will bring you the web now](https://techcrunch.com/2025/05/21/googles-ai-agents-will-bring-you-the-web-now/)
+- [Amazon rolls out short-form AI-powered audio product summaries for select items](https://techcrunch.com/2025/05/21/amazon-rolls-out-short-form-ai-powered-audio-product-summaries-for-select-items/)
+- [Siro lands $50M to expand its AI-powered coaching for sales reps](https://techcrunch.com/2025/05/21/siro-lands-50m-from-signalfire-to-expand-its-ai-powered-coaching-solution-for-on-ground-sales-reps/)
+- [Google is bringing ads to AI Mode](https://techcrunch.com/2025/05/21/google-is-bringing-ads-to-ai-mode/)
+- [TED’s app launches a short-form video feature ahead of potential TikTok ban](https://techcrunch.com/2025/05/21/teds-app-launches-a-short-form-video-feature-ahead-of-potential-tiktok-ban/)
+- [&#39;Star Wars: The Empire Strikes Back&#39; at 45: Stop-motion master Phil Tippett on creating the iconic Battle of Hoth &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/star-wars-the-empire-strikes-back-at-45-stop-motion-master-phil-tippett-on-creating-the-iconic-battle-of-hoth-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
