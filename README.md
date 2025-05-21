@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LM Arena, the organization behind popular AI leaderboards, lands $100M](https://techcrunch.com/2025/05/21/lm-arena-the-organization-behind-popular-ai-leaderboards-lands-100m/)
+- [Wyden: AT&amp;T, T-Mobile, and Verizon weren’t notifying senators of surveillance requests](https://techcrunch.com/2025/05/21/wyden-att-t-mobile-and-verizon-werent-notifying-senators-of-surveillance-requests/)
 - [Spotify’s new ‘Upcoming Releases’ hub highlights future albums you may like](https://techcrunch.com/2025/05/21/spotifys-new-upcoming-releases-hub-highlights-future-albums-you-may-like/)
 - [US military launches unarmed intercontinental ballistic missile on 4,200-mile test flight &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/us-military-launches-unarmed-intercontinental-ballistic-missile-on-4-200-mile-test-flight-video)
 - [Jony Ive to lead OpenAI’s design work following $6.5B acquisition of his company](https://techcrunch.com/2025/05/21/jony-ive-to-lead-openais-design-work-following-6-5b-acquisition-of-his-company/)
-- [Filed raises $17M to automate the drudgery of tax prep](https://techcrunch.com/2025/05/21/filed-raises-17m-to-automate-the-drudgery-of-tax-prep/)
-- [Meta launches program to encourage startups to use its Llama AI models](https://techcrunch.com/2025/05/21/meta-launches-program-to-encourage-startups-to-use-its-llama-ai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
