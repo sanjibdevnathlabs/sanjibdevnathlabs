@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Signal’s new Windows update prevents the system from capturing screenshots of chats](https://techcrunch.com/2025/05/22/signals-new-windows-update-prevents-the-system-from-capturing-screenshots-of-chats/)
 - [OpenAI’s next big bet won’t be a wearable: report](https://techcrunch.com/2025/05/21/openais-next-big-bet-wont-be-a-wearable-report/)
 - [Alt Carbon scores $12M seed to scale carbon removal in India](https://techcrunch.com/2025/05/21/alt-carbon-scores-12m-seed-to-scale-carbon-removal-in-india/)
 - [Luminar secures up to $200M following CEO departure and layoffs](https://techcrunch.com/2025/05/21/luminar-secures-up-to-200m-following-ceo-departure-and-layoffs/)
 - [Klarna used an AI avatar of its CEO to deliver earnings, it said](https://techcrunch.com/2025/05/21/klarna-used-an-ai-avatar-of-its-ceo-to-deliver-earnings-it-said/)
-- [U.S. Space Force general selected to lead Trump&#39;s $175 billion Golden Dome space defense program](https://www.space.com/space-exploration/satellites/u-s-space-force-general-selected-to-lead-trumps-usd175-billion-golden-dome-space-defense-program)
 <!-- BLOG-POST-LIST:END -->
 
 ---
