@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hinge Health pops 17%, but joins growing ranks of down round IPOs](https://techcrunch.com/2025/05/22/hinge-health-pops-17-but-joins-growing-ranks-of-down-round-ipos/)
+- [Klarna CEO and Sutter Hill take victory lap after Jony Ive’s OpenAI deal](https://techcrunch.com/2025/05/22/klarna-ceo-and-sutter-hill-take-victory-lap-after-jony-ives-openai-deal/)
+- [Bluesky will begin verifying ‘notable’ users](https://techcrunch.com/2025/05/22/bluesky-will-begin-verifying-notable-users/)
+- [NASA&#39;s Jet Propulsion Lab ending telework policy for over 1,000 employees](https://www.space.com/space-exploration/nasas-jet-propulsion-lab-ending-telework-policy-for-over-1-000-employees)
 - [Anthropic’s latest flagship AI sure seems to love using the ‘cyclone’ emoji](https://techcrunch.com/2025/05/22/anthropics-latest-flagship-ai-sure-seems-to-love-using-the-cyclone-emoji/)
-- [Tinder CEO to step down in July](https://techcrunch.com/2025/05/22/tinder-ceo-to-step-down-in-july/)
-- [&#39;Supergirl: Woman of Tomorrow&#39;: Release date, plot, cast, and everything we know about Kara Zor-El&#39;s DCU movie](https://www.space.com/entertainment/space-movies-shows/supergirl-woman-of-tomorrow-release-date-plot-cast-and-everything-we-know)
-- [Senate votes to revoke California’s ability to set air pollution standards](https://techcrunch.com/2025/05/22/senate-votes-to-revoke-californias-ability-to-set-air-pollution-standards/)
-- [A safety institute advised against releasing an early version of Anthropic’s Claude Opus 4 AI model](https://techcrunch.com/2025/05/22/a-safety-institute-advised-against-releasing-an-early-version-of-anthropics-claude-opus-4-ai-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
