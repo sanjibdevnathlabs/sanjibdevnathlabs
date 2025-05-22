@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [37 Linux Commands you NEED to Know](https://www.youtube.com/watch?v=6P-vjgPx9ww)
 - [Alleviating poverty and sharing knowledge globally with Esther Duflo](https://www.youtube.com/watch?v=t4RdDaTLcjY)
 - [Google goes wild, again... 11 things you missed at I/O](https://www.youtube.com/watch?v=NLjnOsP_q1U)
 - [&#39;Forbidden&#39; AI Technique - Computerphile](https://www.youtube.com/watch?v=Xx4Tpsk_fnM)
 - [Microsoft just opened the flood gates…](https://www.youtube.com/watch?v=NIgrGqmoeHs)
-- [AI vs Programmers: 4 Critical Skills You Need To Win the Race](https://www.youtube.com/watch?v=Nn08HVq4BHA)
 <!-- YOUTUBE:END -->
 
 ---
