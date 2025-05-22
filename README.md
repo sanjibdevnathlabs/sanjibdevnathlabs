@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Borderlands games in order: Chronological and release](https://www.space.com/entertainment/space-games/borderlands-games-in-order-chronological-and-release)
+- [Meta adds another 650 MW of solar power to its AI push](https://techcrunch.com/2025/05/22/meta-adds-another-650-mw-of-solar-power-to-its-ai-push/)
+- [Anthropic’s new Claude 4 AI models can reason over many steps](https://techcrunch.com/2025/05/22/anthropics-new-claude-4-ai-models-can-reason-over-many-steps/)
 - [SpaceX’s Starship cleared to return to flight with expanded ‘hazard areas’](https://techcrunch.com/2025/05/22/spacexs-starship-cleared-to-return-to-flight-with-expanded-hazard-areas/)
 - [From near to far, from here to there, Hubble sees galaxies everywhere | Space photo of the day for May 22, 2025](https://www.space.com/astronomy/hubble-space-telescope/from-near-to-far-from-here-to-there-hubble-sees-galaxies-everywhere-space-photo-of-the-day-for-may-22-2025)
-- [Chinese astronauts add debris shields to Tiangong space station during 8-hour spacewalk &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/chinese-astronauts-add-debris-shields-to-tiangong-space-station-during-8-hour-spacewalk-video)
-- [Vercel debuts an AI model optimized for web development](https://techcrunch.com/2025/05/22/vercel-debuts-an-ai-model-optimized-for-web-development/)
-- [RevenueCat raises $50M as it expands beyond mobile app monetization](https://techcrunch.com/2025/05/22/revenuecat-raises-50m-as-it-expands-beyond-mobile-app-monetization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
