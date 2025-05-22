@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Supergirl: Woman of Tomorrow&#39;: Release date, plot, cast, and everything we know about Kara Zor-El&#39;s DCU movie](https://www.space.com/entertainment/space-movies-shows/supergirl-woman-of-tomorrow-release-date-plot-cast-and-everything-we-know)
+- [Senate votes to revoke California’s ability to set air pollution standards](https://techcrunch.com/2025/05/22/senate-votes-to-revoke-californias-ability-to-set-air-pollution-standards/)
+- [A safety institute advised against releasing an early version of Anthropic’s Claude Opus 4 AI model](https://techcrunch.com/2025/05/22/a-safety-institute-advised-against-releasing-an-early-version-of-anthropics-claude-opus-4-ai-model/)
 - [Microsoft says Lumma password stealer malware found on 394,000 Windows PCs](https://techcrunch.com/2025/05/22/microsoft-says-lumma-password-stealer-malware-found-on-394000-windows-pcs/)
 - [Mozilla is shutting down read-it-later app Pocket](https://techcrunch.com/2025/05/22/mozilla-is-shutting-down-read-it-later-app-pocket/)
-- [Scientists find rare double-star system where one star orbited inside the other](https://www.space.com/astronomy/stars/scientists-find-rare-double-star-system-where-one-star-orbited-inside-the-other)
-- [SpaceX gets FAA approval for Flight 9 of Starship megarocket](https://www.space.com/space-exploration/launches-spacecraft/spacex-gets-faa-approval-for-flight-9-of-starship-megarocket)
-- [Anthropic’s new AI model turns to blackmail when engineers try to take it offline](https://techcrunch.com/2025/05/22/anthropics-new-ai-model-turns-to-blackmail-when-engineers-try-to-take-it-offline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
