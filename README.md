@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Swarovski Optik AX Visio 10x32 binoculars review](https://www.space.com/stargazing/skywatching-kit/swarovski-optik-ax-visio-10x32-binoculars-review)
+- [No, solar storms didn&#39;t crash Spain&#39;s internet — but here&#39;s what they can do](https://www.space.com/astronomy/sun/no-solar-storms-didnt-crash-spains-internet-but-heres-what-they-can-do)
 - [Astronomers want direct images of exoplanets. They may need &#39;quantum-level&#39; tech to get them](https://www.space.com/astronomy/exoplanets/astronomers-want-direct-images-of-exoplanets-they-may-need-quantum-level-tech-to-get-them)
 - [Signal’s new Windows update prevents the system from capturing screenshots of chats](https://techcrunch.com/2025/05/22/signals-new-windows-update-prevents-the-system-from-capturing-screenshots-of-chats/)
 - [OpenAI’s next big bet won’t be a wearable: report](https://techcrunch.com/2025/05/21/openais-next-big-bet-wont-be-a-wearable-report/)
-- [Alt Carbon scores $12M seed to scale carbon removal in India](https://techcrunch.com/2025/05/21/alt-carbon-scores-12m-seed-to-scale-carbon-removal-in-india/)
-- [Luminar secures up to $200M following CEO departure and layoffs](https://techcrunch.com/2025/05/21/luminar-secures-up-to-200m-following-ceo-departure-and-layoffs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
