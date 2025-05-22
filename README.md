@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX&#39;s 32nd Cargo Dragon spacecraft undock from the ISS today](https://www.space.com/space-exploration/international-space-station/watch-spacexs-32nd-cargo-dragon-spacecraft-undock-from-the-iss-today)
 - [Best smart binoculars 2025: Learn, share and be guided around the night sky](https://www.space.com/stargazing/skywatching-kit/best-smart-binoculars)
 - [Swarovski Optik AX Visio 10x32 binoculars review](https://www.space.com/stargazing/skywatching-kit/swarovski-optik-ax-visio-10x32-binoculars-review)
 - [No, solar storms didn&#39;t crash Spain&#39;s internet — but here&#39;s what they can do](https://www.space.com/astronomy/sun/no-solar-storms-didnt-crash-spains-internet-but-heres-what-they-can-do)
 - [Astronomers want direct images of exoplanets. They may need &#39;quantum-level&#39; tech to get them](https://www.space.com/astronomy/exoplanets/astronomers-want-direct-images-of-exoplanets-they-may-need-quantum-level-tech-to-get-them)
-- [Signal’s new Windows update prevents the system from capturing screenshots of chats](https://techcrunch.com/2025/05/22/signals-new-windows-update-prevents-the-system-from-capturing-screenshots-of-chats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
