@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Borderlands games in order: Chronological and release](https://www.space.com/entertainment/space-games/borderlands-games-in-order-chronological-and-release)
-- [Meta adds another 650 MW of solar power to its AI push](https://techcrunch.com/2025/05/22/meta-adds-another-650-mw-of-solar-power-to-its-ai-push/)
-- [Anthropic’s new Claude 4 AI models can reason over many steps](https://techcrunch.com/2025/05/22/anthropics-new-claude-4-ai-models-can-reason-over-many-steps/)
-- [SpaceX’s Starship cleared to return to flight with expanded ‘hazard areas’](https://techcrunch.com/2025/05/22/spacexs-starship-cleared-to-return-to-flight-with-expanded-hazard-areas/)
-- [From near to far, from here to there, Hubble sees galaxies everywhere | Space photo of the day for May 22, 2025](https://www.space.com/astronomy/hubble-space-telescope/from-near-to-far-from-here-to-there-hubble-sees-galaxies-everywhere-space-photo-of-the-day-for-may-22-2025)
+- [Microsoft says Lumma password stealer malware found on 394,000 Windows PCs](https://techcrunch.com/2025/05/22/microsoft-says-lumma-password-stealer-malware-found-on-394000-windows-pcs/)
+- [Mozilla is shutting down read-it-later app Pocket](https://techcrunch.com/2025/05/22/mozilla-is-shutting-down-read-it-later-app-pocket/)
+- [Scientists find rare double-star system where one star orbited inside the other](https://www.space.com/astronomy/stars/scientists-find-rare-double-star-system-where-one-star-orbited-inside-the-other)
+- [SpaceX gets FAA approval for Flight 9 of Starship megarocket](https://www.space.com/space-exploration/launches-spacecraft/spacex-gets-faa-approval-for-flight-9-of-starship-megarocket)
+- [Anthropic’s new AI model turns to blackmail when engineers try to take it offline](https://techcrunch.com/2025/05/22/anthropics-new-ai-model-turns-to-blackmail-when-engineers-try-to-take-it-offline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
