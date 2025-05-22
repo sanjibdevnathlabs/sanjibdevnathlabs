@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The wild story of how gut health AI toilet startup Throne raised $4M led by Moxxie](https://techcrunch.com/2025/05/22/the-wild-story-of-how-gut-health-ai-toilet-startup-throne-raised-4m-led-by-moxxie/)
+- [The complete Side Events lineup at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/22/the-complete-side-events-lineup-at-techcrunch-sessions-ai/)
+- [Virgin Galactic on track to start flying customers again in 2026](https://www.space.com/space-exploration/private-spaceflight/virgin-galactic-on-track-to-start-flying-customers-again-in-2026)
+- [OpenAI teams up with Cisco, Oracle to build UAE data center](https://techcrunch.com/2025/05/22/openai-teams-up-with-cisco-oracle-to-build-uae-data-center/)
 - [4 days left: Up to $900 off your ticket and 90% off for your +1 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/22/4-days-left-up-to-900-off-your-ticket-and-90-off-for-your-1-at-techcrunch-disrupt-2025/)
-- [Mark Rocket, a former ambassador and more: Blue Origin reveals passengers for 12th space tourism launch](https://www.space.com/space-exploration/private-spaceflight/mark-rocket-a-former-ambassador-and-more-blue-origin-reveals-passengers-for-12th-space-tourism-launch)
-- [Strava is buying up athletic training apps – first Runna, and now The Breakaway](https://techcrunch.com/2025/05/22/strava-is-buying-up-athletic-training-apps-first-runna-and-now-the-breakaway/)
-- [The moon and Venus kick off Memorial Day weekend with a lovely conjunction early on May 23](https://www.space.com/stargazing/the-moon-and-venus-kick-off-memorial-day-weekend-with-a-lovely-conjunction-early-on-may-23)
-- [Watch SpaceX&#39;s 32nd Cargo Dragon spacecraft undock from the ISS today](https://www.space.com/space-exploration/international-space-station/watch-spacexs-32nd-cargo-dragon-spacecraft-undock-from-the-iss-today)
 <!-- BLOG-POST-LIST:END -->
 
 ---
