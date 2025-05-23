@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Khosla Ventures among VCs experimenting with AI-infused roll-ups of mature companies](https://techcrunch.com/2025/05/23/khosla-ventures-among-vcs-experimenting-with-ai-infused-roll-ups-of-mature-companies/)
 - [Venus, Saturn and the moon dazzle at dawn in &#39;romantic&#39; photo from Chew Valley Lake &lpar;photo&rpar;](https://www.space.com/stargazing/venus-saturn-and-the-moon-dazzle-at-dawn-in-romantic-photo-from-chew-valley-lake-photo)
 - [Zoox issues second robotaxi software recall in a month following collision](https://techcrunch.com/2025/05/23/zoox-issues-second-robotaxi-software-recall-in-a-month-following-collision/)
 - [Lightning from above | Space photo of the day for May 23, 2025](https://www.space.com/space-exploration/international-space-station/lightning-from-above-space-photo-of-the-day-for-may-23-2025)
 - [Landa promised real estate investing for $5. Now it’s gone dark.](https://techcrunch.com/2025/05/23/landa-promised-real-estate-investing-for-5-now-its-gone-dark/)
-- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/05/23/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
