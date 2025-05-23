@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Startups Weekly: Cutting through Google I/O noise](https://techcrunch.com/2025/05/23/startups-weekly-cutting-through-google-i-o-noise/)
-- [Microsoft says its Aurora AI can accurately predict air quality, typhoons, and more](https://techcrunch.com/2025/05/23/microsoft-says-its-aurora-ai-can-accurately-predict-air-quality-typhoons-and-more/)
-- [&#39;Mickey 17&#39; starts streaming on HBO Max today, and you absolutely need to watch this underrated sci-fi romp](https://www.space.com/entertainment/space-movies-shows/mickey-17-starts-streaming-on-hbo-max-today-and-you-absolutely-need-to-watch-this-underrated-sci-fi-romp)
-- [Why do the numbers that shape our universe exist at all?](https://www.space.com/science/astrophysics/why-do-the-numbers-that-shape-our-universe-exist-at-all)
-- [Discord seeks to solve a problem that it created](https://techcrunch.com/2025/05/23/discord-seeks-to-solve-a-problem-that-it-created/)
+- [Marjorie Taylor Greene picked a fight with Grok](https://techcrunch.com/2025/05/23/marjorie-taylor-greene-picked-a-fight-with-grok/)
+- [The moon doesn&#39;t have a magnetic field, so why does it have magnetic rocks?](https://www.space.com/astronomy/moon/the-moon-doesnt-have-a-magnetic-field-so-why-does-it-have-magnetic-rocks)
+- [TechCrunch Mobility: Uber Freight’s AI bet, Tesla’s robotaxi caveat, and Nikola’s trucks hit the auction block](https://techcrunch.com/2025/05/23/techcrunch-mobility-uber-freights-ai-bet-teslas-robotaxi-caveat-and-nikolas-trucks-hit-the-auction-block/)
+- [OpenAI upgrades the AI model powering its Operator agent](https://techcrunch.com/2025/05/23/openai-upgrades-the-ai-model-powering-its-operator-agent/)
+- [I search deals for a living and $230 off this DJI Mini 4 Pro combo might be the best Memorial Day drone deal out there](https://www.space.com/technology/drones/230-dollars-off-dji-mini-4-pro-combo-might-be-the-best-memorial-day-drone-deal-out-there)
 <!-- BLOG-POST-LIST:END -->
 
 ---
