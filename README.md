@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan tests its Mars moon sample-return probe ahead of 2026 launch &lpar;photo&rpar;](https://www.space.com/astronomy/mars/japan-tests-its-mars-moon-sample-return-probe-ahead-of-2026-launch-photo)
 - [After Klarna, Zoom’s CEO also uses an AI avatar on quarterly call](https://techcrunch.com/2025/05/22/after-klarna-zooms-ceo-also-uses-an-ai-avatar-on-quarterly-call/)
 - [Anthropic CEO claims AI models hallucinate less than humans](https://techcrunch.com/2025/05/22/anthropic-ceo-claims-ai-models-hallucinate-less-than-humans/)
 - [Hinge Health pops 17%, but joins growing ranks of down-round IPOs](https://techcrunch.com/2025/05/22/hinge-health-pops-17-but-joins-growing-ranks-of-down-round-ipos/)
 - [Klarna CEO and Sutter Hill take victory lap after Jony Ive’s OpenAI deal](https://techcrunch.com/2025/05/22/klarna-ceo-and-sutter-hill-take-victory-lap-after-jony-ives-openai-deal/)
-- [Bluesky will begin verifying ‘notable’ users](https://techcrunch.com/2025/05/22/bluesky-will-begin-verifying-notable-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
