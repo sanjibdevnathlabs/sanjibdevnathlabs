@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lightning from above | Space photo of the day for May 23, 2025](https://www.space.com/space-exploration/international-space-station/lightning-from-above-space-photo-of-the-day-for-may-23-2025)
+- [Landa promised real estate investing for $5. Now it’s gone dark.](https://techcrunch.com/2025/05/23/landa-promised-real-estate-investing-for-5-now-its-gone-dark/)
+- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/05/23/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/)
+- [Apple CEO reportedly urged Texas’ governor to ditch online child safety bill](https://techcrunch.com/2025/05/23/apple-ceo-reportedly-urged-texas-governor-to-ditch-online-child-safety-bill/)
 - [Kesha is now a startup founder](https://techcrunch.com/2025/05/23/kesha-is-now-a-startup-founder/)
-- [Marjorie Taylor Greene picked a fight with Grok](https://techcrunch.com/2025/05/23/marjorie-taylor-greene-picked-a-fight-with-grok/)
-- [The moon doesn&#39;t have a magnetic field, so why does it have magnetic rocks?](https://www.space.com/astronomy/moon/the-moon-doesnt-have-a-magnetic-field-so-why-does-it-have-magnetic-rocks)
-- [TechCrunch Mobility: Uber Freight’s AI bet, Tesla’s robotaxi caveat, and Nikola’s trucks hit the auction block](https://techcrunch.com/2025/05/23/techcrunch-mobility-uber-freights-ai-bet-teslas-robotaxi-caveat-and-nikolas-trucks-hit-the-auction-block/)
-- [OpenAI upgrades the AI model powering its Operator agent](https://techcrunch.com/2025/05/23/openai-upgrades-the-ai-model-powering-its-operator-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
