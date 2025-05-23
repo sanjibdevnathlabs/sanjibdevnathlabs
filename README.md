@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups Weekly: Cutting through Google I/O noise](https://techcrunch.com/2025/05/23/startups-weekly-cutting-through-google-i-o-noise/)
+- [Microsoft says its Aurora AI can accurately predict air quality, typhoons, and more](https://techcrunch.com/2025/05/23/microsoft-says-its-aurora-ai-can-accurately-predict-air-quality-typhoons-and-more/)
+- [&#39;Mickey 17&#39; starts streaming on HBO Max today, and you absolutely need to watch this underrated sci-fi romp](https://www.space.com/entertainment/space-movies-shows/mickey-17-starts-streaming-on-hbo-max-today-and-you-absolutely-need-to-watch-this-underrated-sci-fi-romp)
+- [Why do the numbers that shape our universe exist at all?](https://www.space.com/science/astrophysics/why-do-the-numbers-that-shape-our-universe-exist-at-all)
 - [Discord seeks to solve a problem that it created](https://techcrunch.com/2025/05/23/discord-seeks-to-solve-a-problem-that-it-created/)
-- [Best Memorial Day star projector deals — 6 big savings on the best models and more](https://www.space.com/technology/best-memorial-day-star-projector-deals-big-savings-may-2025)
-- [Digg founder Kevin Rose offers to buy Pocket from Mozilla](https://techcrunch.com/2025/05/23/digg-founder-kevin-rose-offers-to-buy-pocket-from-mozilla/)
-- [Netflix&#39;s snowy alien invasion series &#39;The Eternaut&#39; is the sci-fi hidden gem of 2025](https://www.space.com/entertainment/netflixs-snowy-alien-invasion-series-the-eternaut-is-the-sci-fi-hidden-gem-of-2025)
-- [10 best Amazon Memorial Day deals — telescopes, star projectors, Lego Star Wars](https://www.space.com/technology/best-amazon-memorial-day-deals-the-10-best-telescopes-star-projectors-lego-star-wars-may-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
