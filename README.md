@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kesha is now a startup founder](https://techcrunch.com/2025/05/23/kesha-is-now-a-startup-founder/)
 - [Marjorie Taylor Greene picked a fight with Grok](https://techcrunch.com/2025/05/23/marjorie-taylor-greene-picked-a-fight-with-grok/)
 - [The moon doesn&#39;t have a magnetic field, so why does it have magnetic rocks?](https://www.space.com/astronomy/moon/the-moon-doesnt-have-a-magnetic-field-so-why-does-it-have-magnetic-rocks)
 - [TechCrunch Mobility: Uber Freight’s AI bet, Tesla’s robotaxi caveat, and Nikola’s trucks hit the auction block](https://techcrunch.com/2025/05/23/techcrunch-mobility-uber-freights-ai-bet-teslas-robotaxi-caveat-and-nikolas-trucks-hit-the-auction-block/)
 - [OpenAI upgrades the AI model powering its Operator agent](https://techcrunch.com/2025/05/23/openai-upgrades-the-ai-model-powering-its-operator-agent/)
-- [I search deals for a living and $230 off this DJI Mini 4 Pro combo might be the best Memorial Day drone deal out there](https://www.space.com/technology/drones/230-dollars-off-dji-mini-4-pro-combo-might-be-the-best-memorial-day-drone-deal-out-there)
 <!-- BLOG-POST-LIST:END -->
 
 ---
