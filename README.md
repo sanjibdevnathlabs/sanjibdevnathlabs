@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Discord seeks to solve a problem that it created](https://techcrunch.com/2025/05/23/discord-seeks-to-solve-a-problem-that-it-created/)
+- [Best Memorial Day star projector deals — 6 big savings on the best models and more](https://www.space.com/technology/best-memorial-day-star-projector-deals-big-savings-may-2025)
+- [Digg founder Kevin Rose offers to buy Pocket from Mozilla](https://techcrunch.com/2025/05/23/digg-founder-kevin-rose-offers-to-buy-pocket-from-mozilla/)
 - [Netflix&#39;s snowy alien invasion series &#39;The Eternaut&#39; is the sci-fi hidden gem of 2025](https://www.space.com/entertainment/netflixs-snowy-alien-invasion-series-the-eternaut-is-the-sci-fi-hidden-gem-of-2025)
 - [10 best Amazon Memorial Day deals — telescopes, star projectors, Lego Star Wars](https://www.space.com/technology/best-amazon-memorial-day-deals-the-10-best-telescopes-star-projectors-lego-star-wars-may-2025)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/05/23/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [California prepares to sue feds after Senate revokes the state’s EV rule](https://techcrunch.com/2025/05/23/california-prepares-to-sue-feds-after-senate-revokes-the-states-ev-rule/)
-- [At TechCrunch Sessions: AI, Artemis Seaford and Ion Stoica confront the ethical crisis — when AI crosses the line](https://techcrunch.com/2025/05/23/when-ai-crosses-the-line-artemis-seaford-and-ion-stoica-confront-the-ethical-crisis-at-techcrunch-sessions-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
