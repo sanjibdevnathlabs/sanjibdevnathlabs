@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump threatens 25% tariffs on iPhones made outside the US](https://techcrunch.com/2025/05/23/trump-threatens-25-tariffs-on-iphones-made-outside-the-us/)
+- [When lightning bolts collide, do they unleash powerful gamma-ray flashes?](https://www.space.com/astronomy/earth/when-lightning-bolts-collide-do-they-unleash-powerful-gamma-ray-flashes)
 - [Best model rocket sets 2025: NASA, Blue Origin, Estes, National Geographic and more](https://www.space.com/entertainment/best-model-rocket-sets)
 - [Mysterious hacking group Careto was run by the Spanish government, sources say](https://techcrunch.com/2025/05/23/mysterious-hacking-group-careto-was-run-by-the-spanish-government-sources-say/)
 - [Could deciphering dolphin language help us communicate with ET?](https://www.space.com/space-exploration/search-for-life/could-deciphering-dolphin-language-help-us-communicate-with-et)
-- [Japan tests its Mars moon sample-return probe ahead of 2026 launch &lpar;photo&rpar;](https://www.space.com/astronomy/mars/japan-tests-its-mars-moon-sample-return-probe-ahead-of-2026-launch-photo)
-- [After Klarna, Zoom’s CEO also uses an AI avatar on quarterly call](https://techcrunch.com/2025/05/22/after-klarna-zooms-ceo-also-uses-an-ai-avatar-on-quarterly-call/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
