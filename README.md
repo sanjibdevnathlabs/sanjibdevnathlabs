@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tick tock: Just 3 days left to save up to $900 on your TechCrunch Disrupt 2025 pass](https://techcrunch.com/2025/05/23/tick-tock-just-3-days-left-to-save-up-to-900-on-your-techcrunch-disrupt-2025-pass/)
-- [Best camera lenses 2025: The best lenses for photos and videos](https://www.space.com/stargazing/skywatching-kit/best-camera-lenses-for-photos-and-videos)
-- [Private Japanese moon probe snaps photo of lunar south pole ahead of June 5 landing](https://www.space.com/astronomy/moon/private-japanese-moon-probe-snaps-photo-of-lunar-south-pole-ahead-of-june-5-landing)
-- [Apple could launch AI-powered smart glasses in 2026](https://techcrunch.com/2025/05/23/apple-could-launch-ai-powered-smart-glasses-in-2026/)
-- [Trump threatens 25% tariffs on iPhones made outside the US](https://techcrunch.com/2025/05/23/trump-threatens-25-tariffs-on-iphones-made-outside-the-us/)
+- [Netflix&#39;s snowy alien invasion series &#39;The Eternaut&#39; is the sci-fi hidden gem of 2025](https://www.space.com/entertainment/netflixs-snowy-alien-invasion-series-the-eternaut-is-the-sci-fi-hidden-gem-of-2025)
+- [10 best Amazon Memorial Day deals — telescopes, star projectors, Lego Star Wars](https://www.space.com/technology/best-amazon-memorial-day-deals-the-10-best-telescopes-star-projectors-lego-star-wars-may-2025)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/05/23/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [California prepares to sue feds after Senate revokes the state’s EV rule](https://techcrunch.com/2025/05/23/california-prepares-to-sue-feds-after-senate-revokes-the-states-ev-rule/)
+- [At TechCrunch Sessions: AI, Artemis Seaford and Ion Stoica confront the ethical crisis — when AI crosses the line](https://techcrunch.com/2025/05/23/when-ai-crosses-the-line-artemis-seaford-and-ion-stoica-confront-the-ethical-crisis-at-techcrunch-sessions-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
