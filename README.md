@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tick tock: Just 3 days left to save up to $900 on your TechCrunch Disrupt 2025 pass](https://techcrunch.com/2025/05/23/tick-tock-just-3-days-left-to-save-up-to-900-on-your-techcrunch-disrupt-2025-pass/)
+- [Best camera lenses 2025: The best lenses for photos and videos](https://www.space.com/stargazing/skywatching-kit/best-camera-lenses-for-photos-and-videos)
+- [Private Japanese moon probe snaps photo of lunar south pole ahead of June 5 landing](https://www.space.com/astronomy/moon/private-japanese-moon-probe-snaps-photo-of-lunar-south-pole-ahead-of-june-5-landing)
+- [Apple could launch AI-powered smart glasses in 2026](https://techcrunch.com/2025/05/23/apple-could-launch-ai-powered-smart-glasses-in-2026/)
 - [Trump threatens 25% tariffs on iPhones made outside the US](https://techcrunch.com/2025/05/23/trump-threatens-25-tariffs-on-iphones-made-outside-the-us/)
-- [When lightning bolts collide, do they unleash powerful gamma-ray flashes?](https://www.space.com/astronomy/earth/when-lightning-bolts-collide-do-they-unleash-powerful-gamma-ray-flashes)
-- [Best model rocket sets 2025: NASA, Blue Origin, Estes, National Geographic and more](https://www.space.com/entertainment/best-model-rocket-sets)
-- [Mysterious hacking group Careto was run by the Spanish government, sources say](https://techcrunch.com/2025/05/23/mysterious-hacking-group-careto-was-run-by-the-spanish-government-sources-say/)
-- [Could deciphering dolphin language help us communicate with ET?](https://www.space.com/space-exploration/search-for-life/could-deciphering-dolphin-language-help-us-communicate-with-et)
 <!-- BLOG-POST-LIST:END -->
 
 ---
