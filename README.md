@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AI Sandbagging - Computerphile](https://www.youtube.com/watch?v=pYP0ynR8h-k)
 - [What is a problem that you see in the world, one that you are actively trying to solve?](https://www.youtube.com/watch?v=Oc-iNQSxUMQ)
 - [37 INSANE Linux Commands you NEED to Know in 2025](https://www.youtube.com/watch?v=6P-vjgPx9ww)
 - [Alleviating poverty and sharing knowledge globally with Esther Duflo](https://www.youtube.com/watch?v=t4RdDaTLcjY)
 - [Google goes wild, again... 11 things you missed at I/O](https://www.youtube.com/watch?v=NLjnOsP_q1U)
-- [&#39;Forbidden&#39; AI Technique - Computerphile](https://www.youtube.com/watch?v=Xx4Tpsk_fnM)
 <!-- YOUTUBE:END -->
 
 ---
