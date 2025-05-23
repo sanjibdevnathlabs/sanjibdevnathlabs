@@ -150,7 +150,7 @@ I'm a software developer passionate about designing and building applications wi
 - [Hinge Health pops 17%, but joins growing ranks of down-round IPOs](https://techcrunch.com/2025/05/22/hinge-health-pops-17-but-joins-growing-ranks-of-down-round-ipos/)
 - [Klarna CEO and Sutter Hill take victory lap after Jony Ive’s OpenAI deal](https://techcrunch.com/2025/05/22/klarna-ceo-and-sutter-hill-take-victory-lap-after-jony-ives-openai-deal/)
 - [Bluesky will begin verifying ‘notable’ users](https://techcrunch.com/2025/05/22/bluesky-will-begin-verifying-notable-users/)
-- [NASA&#39;s Jet Propulsion Lab ending telework policy for over 1,000 employees](https://www.space.com/space-exploration/nasas-jet-propulsion-lab-ending-telework-policy-for-over-1-000-employees)
+- [NASA&#39;s Jet Propulsion Lab ending telework policy for nearly 5,500 employees](https://www.space.com/space-exploration/nasas-jet-propulsion-lab-ending-telework-policy-for-over-1-000-employees)
 <!-- BLOG-POST-LIST:END -->
 
 ---
