@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Naukri exposed recruiter email addresses, researcher says](https://techcrunch.com/2025/05/23/naukri-exposed-recruiter-email-addresses-researcher-says/)
 - [SpaceX launches Starlink satellites from Space Force base in California, lands on ship at sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-11-16-b1075-vsfb-ocisly)
 - [What time is SpaceX&#39;s Starship Flight 9 launch on May 27?](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-9-launch-what-time)
 - [Khosla Ventures among VCs experimenting with AI-infused roll-ups of mature companies](https://techcrunch.com/2025/05/23/khosla-ventures-among-vcs-experimenting-with-ai-infused-roll-ups-of-mature-companies/)
 - [Venus, Saturn and the moon dazzle at dawn in &#39;romantic&#39; photo from Chew Valley Lake &lpar;photo&rpar;](https://www.space.com/stargazing/venus-saturn-and-the-moon-dazzle-at-dawn-in-romantic-photo-from-chew-valley-lake-photo)
-- [Zoox issues second robotaxi software recall in a month following collision](https://techcrunch.com/2025/05/23/zoox-issues-second-robotaxi-software-recall-in-a-month-following-collision/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
