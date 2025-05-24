@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists spot high-speed galaxy collision 11 billion light-years away: &#39;We hence call this system the cosmic joust&#39;](https://www.space.com/astronomy/galaxies/scientists-spot-high-speed-galaxy-collision-11-billion-light-years-away-we-hence-call-this-system-the-cosmic-joust)
+- [This Week In Space podcast: Episode 162 — Lunar Landing Day](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-162-lunar-landing-day)
 - [YgiTK Northern Galaxy Lights star projector review](https://www.space.com/technology/ygitk-northern-galaxy-lights-star-projector-review)
 - [Naukri exposed recruiter email addresses, researcher says](https://techcrunch.com/2025/05/23/naukri-exposed-recruiter-email-addresses-researcher-says/)
 - [SpaceX launches Starlink satellites from Space Force base in California, lands on ship at sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-11-16-b1075-vsfb-ocisly)
-- [What time is SpaceX&#39;s Starship Flight 9 launch on May 27?](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-9-launch-what-time)
-- [Khosla Ventures among VCs experimenting with AI-infused roll-ups of mature companies](https://techcrunch.com/2025/05/23/khosla-ventures-among-vcs-experimenting-with-ai-infused-roll-ups-of-mature-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
