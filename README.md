@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Week in Review: Notorious hacking group tied to the Spanish government](https://techcrunch.com/2025/05/24/notorious-hacking-group-tied-to-the-spanish-government/)
 - [Best star projectors under $100 in 2025](https://www.space.com/technology/best-star-projectors-under-100-dollars)
 - [Scientists spot high-speed galaxy collision 11 billion light-years away: &#39;We hence call this system the cosmic joust&#39;](https://www.space.com/astronomy/galaxies/scientists-spot-high-speed-galaxy-collision-11-billion-light-years-away-we-hence-call-this-system-the-cosmic-joust)
 - [This Week In Space podcast: Episode 162 — Lunar Landing Day](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-162-lunar-landing-day)
 - [YgiTK Northern Galaxy Lights star projector review](https://www.space.com/technology/ygitk-northern-galaxy-lights-star-projector-review)
-- [Naukri exposed recruiter email addresses, researcher says](https://techcrunch.com/2025/05/23/naukri-exposed-recruiter-email-addresses-researcher-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
