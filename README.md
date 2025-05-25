@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best night vision monoculars in 2025](https://www.space.com/stargazing/skywatching-kit/best-night-vision-monoculars)
 - [Why Intempus thinks robots should have a human physiological state](https://techcrunch.com/2025/05/25/why-intempus-thinks-robots-should-have-a-human-physiological-state/)
 - [48 hours left: What you won’t want to miss at the 20th TechCrunch Disrupt in October](https://techcrunch.com/2025/05/25/48-hours-left-what-you-wont-want-to-miss-at-the-20th-techcrunch-disrupt-in-october/)
 - [Last 24 hours: TechCrunch Disrupt 2025 Early Bird Deals will fly away after today](https://techcrunch.com/2025/05/25/last-24-hours-techcrunch-disrupt-2025-early-bird-deals-will-fly-away-after-today/)
 - [China signs deal with Russia to build a power plant on the moon — potentially leaving the US in the dust](https://www.space.com/astronomy/moon/china-signs-deal-with-russia-to-build-a-power-plant-on-the-moon-potentially-leaving-the-us-in-the-dust)
-- [Marvel delays &#39;Avengers: Doomsday&#39; and &#39;Avengers: Secret Wars&#39; by 7 months each](https://www.space.com/entertainment/space-movies-shows/marvel-delays-avengers-doomsday-and-avengers-secret-wars-by-7-months-each)
 <!-- BLOG-POST-LIST:END -->
 
 ---
