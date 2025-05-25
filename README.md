@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New 8K-resolution photos of the sun show off incredible details of raging sunspots](https://www.space.com/astronomy/sun/new-8k-resolution-photos-of-the-sun-show-off-incredible-details-of-raging-sunspots)
 - [Scientists question possible signs of life on exoplanet K2-18b in new study: &#39;We never saw more than insignificant hints&#39;](https://www.space.com/space-exploration/search-for-life/scientists-question-possible-signs-of-life-on-exoplanet-k2-18b-in-new-study-we-never-saw-more-than-insignificant-hints)
 - [Why a new anti-revenge porn law has free speech experts alarmed](https://techcrunch.com/2025/05/24/why-a-new-anti-revenge-porn-law-has-free-speech-experts-alarmed/)
 - [SpaceX reveals why its Starship Flight 8 Ship exploded, failure traced to  &#39;flash&#39; in rocket&#39;s engines](https://www.space.com/space-exploration/private-spaceflight/spacex-knows-why-its-starship-flight-8-ship-exploded-traced-to-flash-in-rocket-engines)
 - [Who is the &#39;one who is lost&#39; in &#39;Doctor Who&#39; &#39;Wish World&#39;?](https://www.space.com/entertainment/space-movies-shows/who-is-the-one-who-is-lost-in-doctor-who-wish-world)
-- [Week in Review: Notorious hacking group tied to the Spanish government](https://techcrunch.com/2025/05/24/notorious-hacking-group-tied-to-the-spanish-government/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
