@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Intempus thinks robots should have a human physiological state](https://techcrunch.com/2025/05/25/why-intempus-thinks-robots-should-have-a-human-physiological-state/)
+- [48 hours left: What you won’t want to miss at the 20th TechCrunch Disrupt in October](https://techcrunch.com/2025/05/25/48-hours-left-what-you-wont-want-to-miss-at-the-20th-techcrunch-disrupt-in-october/)
+- [Last 24 hours: TechCrunch Disrupt 2025 Early Bird Deals will fly away after today](https://techcrunch.com/2025/05/25/last-24-hours-techcrunch-disrupt-2025-early-bird-deals-will-fly-away-after-today/)
+- [China signs deal with Russia to build a power plant on the moon — potentially leaving the US in the dust](https://www.space.com/astronomy/moon/china-signs-deal-with-russia-to-build-a-power-plant-on-the-moon-potentially-leaving-the-us-in-the-dust)
 - [Marvel delays &#39;Avengers: Doomsday&#39; and &#39;Avengers: Secret Wars&#39; by 7 months each](https://www.space.com/entertainment/space-movies-shows/marvel-delays-avengers-doomsday-and-avengers-secret-wars-by-7-months-each)
-- [New 8K-resolution photos of the sun show off incredible details of raging sunspots](https://www.space.com/astronomy/sun/new-8k-resolution-photos-of-the-sun-show-off-incredible-details-of-raging-sunspots)
-- [Scientists question possible signs of life on exoplanet K2-18b in new study: &#39;We never saw more than insignificant hints&#39;](https://www.space.com/space-exploration/search-for-life/scientists-question-possible-signs-of-life-on-exoplanet-k2-18b-in-new-study-we-never-saw-more-than-insignificant-hints)
-- [Why a new anti-revenge porn law has free speech experts alarmed](https://techcrunch.com/2025/05/24/why-a-new-anti-revenge-porn-law-has-free-speech-experts-alarmed/)
-- [SpaceX reveals why its Starship Flight 8 Ship exploded, failure traced to  &#39;flash&#39; in rocket&#39;s engines](https://www.space.com/space-exploration/private-spaceflight/spacex-knows-why-its-starship-flight-8-ship-exploded-traced-to-flash-in-rocket-engines)
 <!-- BLOG-POST-LIST:END -->
 
 ---
