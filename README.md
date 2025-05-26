@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best cameras under $2000 2025: Top picks to suit any budget](https://www.space.com/stargazing/skywatching-kit/best-cameras-under-2000-dollars)
+- [Best streaming services for Sci-Fi fans in 2025: Disney Plus, Netflix, Hulu, Apple TV Plus, and more](https://www.space.com/entertainment/best-streaming-platforms-for-sci-fi-fans)
 - [New moon of May 2025 leaves the night sky dark to see the summer constellations tonight](https://www.space.com/stargazing/new-moon-of-may-2025-leaves-the-night-sky-dark-to-see-the-summer-constellations-tonight)
 - [Tesla opened Cybertruck trade-ins, and the numbers aren’t pretty](https://techcrunch.com/2025/05/25/tesla-opened-cybertruck-trade-ins-and-the-numbers-arent-pretty/)
 - [From LLMs to hallucinations, here’s a simple guide to common AI terms](https://techcrunch.com/2025/05/25/from-llms-to-hallucinations-heres-a-simple-guide-to-common-ai-terms/)
-- [Best night vision monoculars in 2025](https://www.space.com/stargazing/skywatching-kit/best-night-vision-monoculars)
-- [Why Intempus thinks robots should have a human physiological state](https://techcrunch.com/2025/05/25/why-intempus-thinks-robots-should-have-a-human-physiological-state/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
