@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Just 2 weeks left to apply: Startup Battlefield 200](https://techcrunch.com/2025/05/26/just-2-weeks-left-to-apply-startup-battlefield-200/)
 - [Here are the nuclear fission startups backed by Big Tech](https://techcrunch.com/2025/05/26/here-are-the-nuclear-fission-startups-backed-by-big-tech/)
 - [Vote for the sessions you want to see at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/26/vote-for-the-sessions-you-want-to-see-at-techcrunch-disrupt-2025/)
 - [New theory could finally make &#39;quantum gravity&#39; a reality — and prove Einstein wrong](https://www.space.com/astronomy/new-theory-could-finally-make-quantum-gravity-a-reality-and-prove-einstein-wrong)
 - [Best cameras under $2000 2025: Top picks to suit any budget](https://www.space.com/stargazing/skywatching-kit/best-cameras-under-2000-dollars)
-- [Best streaming services for Sci-Fi fans in 2025: Disney Plus, Netflix, Hulu, Apple TV Plus, and more](https://www.space.com/entertainment/best-streaming-platforms-for-sci-fi-fans)
 <!-- BLOG-POST-LIST:END -->
 
 ---
