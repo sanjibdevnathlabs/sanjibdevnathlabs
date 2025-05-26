@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New moon of May 2025 leaves the night sky dark to see the summer constellations tonight](https://www.space.com/stargazing/new-moon-of-may-2025-leaves-the-night-sky-dark-to-see-the-summer-constellations-tonight)
 - [Tesla opened Cybertruck trade-ins, and the numbers aren’t pretty](https://techcrunch.com/2025/05/25/tesla-opened-cybertruck-trade-ins-and-the-numbers-arent-pretty/)
 - [From LLMs to hallucinations, here’s a simple guide to common AI terms](https://techcrunch.com/2025/05/25/from-llms-to-hallucinations-heres-a-simple-guide-to-common-ai-terms/)
 - [Best night vision monoculars in 2025](https://www.space.com/stargazing/skywatching-kit/best-night-vision-monoculars)
 - [Why Intempus thinks robots should have a human physiological state](https://techcrunch.com/2025/05/25/why-intempus-thinks-robots-should-have-a-human-physiological-state/)
-- [48 hours left: What you won’t want to miss at the 20th TechCrunch Disrupt in October](https://techcrunch.com/2025/05/25/48-hours-left-what-you-wont-want-to-miss-at-the-20th-techcrunch-disrupt-in-october/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
