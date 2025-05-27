@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gridcare thinks more than 100 MW of data center capacity is hiding in the grid](https://techcrunch.com/2025/05/27/gridcare-thinks-more-than-100-mw-of-data-center-capacity-is-hiding-in-the-grid/)
 - [Scientists worry Trump&#39;s budget cuts will halt satellite air pollution studies: &#39;It&#39;s incredibly short-sighted&#39;](https://www.space.com/space-exploration/satellites/scientists-worry-trumps-budget-cuts-will-halt-satellite-air-pollution-studies-its-incredibly-short-sighted)
 - [See Jupiter pair up with a sliver of the moon tonight](https://www.space.com/stargazing/see-jupiter-pair-up-with-a-sliver-of-the-moon-tonight)
 - [Samsung may invest in $100M round for medical imaging startup Exo](https://techcrunch.com/2025/05/27/samsung-may-invest-in-100m-round-for-medical-imaging-startup-exo/)
 - [The Browser Company mulls selling or open-sourcing Arc Browser amid AI-focused pivot](https://techcrunch.com/2025/05/27/the-browser-company-mulls-selling-or-open-sourcing-arc-browser-amid-ai-focused-pivot/)
-- [One of Europe’s top AI researchers raised a $13M seed to crack the ‘holy grail’ of models](https://techcrunch.com/2025/05/26/one-of-europes-top-ai-researchers-raised-a-13m-seed-to-crack-the-holy-grail-of-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
