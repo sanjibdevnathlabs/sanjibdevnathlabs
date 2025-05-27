@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Salesforce acquires Informatica for $8 billion](https://techcrunch.com/2025/05/27/salesforce-acquires-informatica-for-8-billion/)
+- [Tesla loses more ground in Europe, while BYD makes gains](https://techcrunch.com/2025/05/27/tesla-loses-more-ground-in-europe-while-byd-makes-gains/)
+- [YouTube tops Disney and Netflix in TV viewing, Nielsen finds](https://techcrunch.com/2025/05/27/youtube-tops-disney-and-netflix-in-tv-viewing-nielsen-finds/)
 - [WhatsApp launches long-awaited iPad app](https://techcrunch.com/2025/05/27/whatsapp-launches-long-awaited-ipad-app/)
 - [Ahead of WWDC, Apple says App Store blocked $2B in fraud transactions last year, $9B in past 5 years](https://techcrunch.com/2025/05/27/ahead-of-wwdc-apple-says-app-store-blocked-2b-in-fraud-transactions-last-year-9b-in-past-5-years/)
-- [Two more heavy hitters join StrictlyVC’s star-studded lineup in Menlo Park](https://techcrunch.com/2025/05/27/two-more-heavy-hitters-join-strictlyvcs-star-studded-lineup-in-menlo-park/)
-- [How to watch SpaceX&#39;s Starship Flight 9 launch and Elon Musk&#39;s Mars update today](https://www.space.com/space-exploration/launches-spacecraft/how-to-watch-spacexs-starship-flight-9-launch-and-elon-musks-mars-update-today)
-- [Netflix CPO Eunice Kim is coming to TechCrunch Disrupt 2025 to talk tech, tools, and yes, its password-sharing strategy](https://techcrunch.com/2025/05/27/netflix-cpo-eunice-kim-is-coming-to-techcrunch-disrupt-2025-to-talk-tech-tools-and-yes-its-password-sharing-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
