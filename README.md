@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Report: TuSimple sent sensitive self-driving data to China after US national security agreement](https://techcrunch.com/2025/05/27/report-tusimple-sent-sensitive-self-driving-data-to-china-after-us-national-security-agreement/)
 - [Salesforce acquires Informatica for $8 billion](https://techcrunch.com/2025/05/27/salesforce-acquires-informatica-for-8-billion/)
 - [Tesla loses more ground in Europe, while BYD makes gains](https://techcrunch.com/2025/05/27/tesla-loses-more-ground-in-europe-while-byd-makes-gains/)
 - [YouTube tops Disney and Netflix in TV viewing, Nielsen finds](https://techcrunch.com/2025/05/27/youtube-tops-disney-and-netflix-in-tv-viewing-nielsen-finds/)
 - [WhatsApp launches long-awaited iPad app](https://techcrunch.com/2025/05/27/whatsapp-launches-long-awaited-ipad-app/)
-- [Ahead of WWDC, Apple says App Store blocked $2B in fraud transactions last year, $9B in past 5 years](https://techcrunch.com/2025/05/27/ahead-of-wwdc-apple-says-app-store-blocked-2b-in-fraud-transactions-last-year-9b-in-past-5-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
