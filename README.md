@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp launches long-awaited iPad app](https://techcrunch.com/2025/05/27/whatsapp-launches-long-awaited-ipad-app/)
+- [Ahead of WWDC, Apple says App Store blocked $2B in fraud transactions last year, $9B in past 5 years](https://techcrunch.com/2025/05/27/ahead-of-wwdc-apple-says-app-store-blocked-2b-in-fraud-transactions-last-year-9b-in-past-5-years/)
+- [Two more heavy hitters join StrictlyVC’s star-studded lineup in Menlo Park](https://techcrunch.com/2025/05/27/two-more-heavy-hitters-join-strictlyvcs-star-studded-lineup-in-menlo-park/)
+- [How to watch SpaceX&#39;s Starship Flight 9 launch and Elon Musk&#39;s Mars update today](https://www.space.com/space-exploration/launches-spacecraft/how-to-watch-spacexs-starship-flight-9-launch-and-elon-musks-mars-update-today)
 - [Netflix CPO Eunice Kim is coming to TechCrunch Disrupt 2025 to talk tech, tools, and yes, its password-sharing strategy](https://techcrunch.com/2025/05/27/netflix-cpo-eunice-kim-is-coming-to-techcrunch-disrupt-2025-to-talk-tech-tools-and-yes-its-password-sharing-strategy/)
-- [Building with OpenAI: Hao Sang takes the stage at TechCrunch Sessions: AI to share what startups need to get right](https://techcrunch.com/2025/05/27/building-with-openai-hao-sang-takes-the-stage-at-techcrunch-sessions-ai-to-share-what-startups-need-to-get-right/)
-- [Best wide-angle camera lenses 2025: Discover the ideal wide-angle for your camera](https://www.space.com/stargazing/skywatching-kit/best-wide-angle-camera-lenses)
-- [Rocket Lab backer Outset raises $25M to fund New Zealand’s deep tech moonshots](https://techcrunch.com/2025/05/27/rocket-lab-backer-outset-ventures-raises-25m-for-new-zealand-deep-tech-bets/)
-- [NASA satellites show Antarctica has gained ice despite rising global temperatures. How is that possible?](https://www.space.com/astronomy/earth/nasa-satellites-show-antarctica-has-gained-ice-despite-rising-global-temperatures-how-is-that-possible)
 <!-- BLOG-POST-LIST:END -->
 
 ---
