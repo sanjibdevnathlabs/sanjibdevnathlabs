@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One of Europe’s top AI researchers raised a $13M seed to crack the ‘holy grail’ of models](https://techcrunch.com/2025/05/26/one-of-europes-top-ai-researchers-raised-a-13m-seed-to-crack-the-holy-grail-of-models/)
 - [Why landing your first tech job is way harder than you expected](https://techcrunch.com/2025/05/26/why-landing-your-first-tech-job-is-way-harder-than-you-expected/)
 - [Four VW execs found guilty in trial that transformed Europe’s auto market](https://techcrunch.com/2025/05/26/four-vw-execs-found-guilty-in-trial-that-transformed-europes-auto-market/)
 - [Just 2 weeks left to apply: Startup Battlefield 200](https://techcrunch.com/2025/05/26/just-2-weeks-left-to-apply-startup-battlefield-200/)
 - [Here are the nuclear fission startups backed by Big Tech](https://techcrunch.com/2025/05/26/here-are-the-nuclear-fission-startups-backed-by-big-tech/)
-- [Vote for the sessions you want to see at TechCrunch Disrupt 2025](https://techcrunch.com/2025/05/26/vote-for-the-sessions-you-want-to-see-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
