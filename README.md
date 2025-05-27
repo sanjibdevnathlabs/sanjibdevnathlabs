@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix CPO Eunice Kim is coming to TechCrunch Disrupt 2025 to talk tech, tools, and yes, its password-sharing strategy](https://techcrunch.com/2025/05/27/netflix-cpo-eunice-kim-is-coming-to-techcrunch-disrupt-2025-to-talk-tech-tools-and-yes-its-password-sharing-strategy/)
+- [Building with OpenAI: Hao Sang takes the stage at TechCrunch Sessions: AI to share what startups need to get right](https://techcrunch.com/2025/05/27/building-with-openai-hao-sang-takes-the-stage-at-techcrunch-sessions-ai-to-share-what-startups-need-to-get-right/)
+- [Best wide-angle camera lenses 2025: Discover the ideal wide-angle for your camera](https://www.space.com/stargazing/skywatching-kit/best-wide-angle-camera-lenses)
 - [Rocket Lab backer Outset raises $25M to fund New Zealand’s deep tech moonshots](https://techcrunch.com/2025/05/27/rocket-lab-backer-outset-ventures-raises-25m-for-new-zealand-deep-tech-bets/)
 - [NASA satellites show Antarctica has gained ice despite rising global temperatures. How is that possible?](https://www.space.com/astronomy/earth/nasa-satellites-show-antarctica-has-gained-ice-despite-rising-global-temperatures-how-is-that-possible)
-- [Gridcare thinks more than 100 MW of data center capacity is hiding in the grid](https://techcrunch.com/2025/05/27/gridcare-thinks-more-than-100-mw-of-data-center-capacity-is-hiding-in-the-grid/)
-- [Scientists worry Trump&#39;s budget cuts will halt satellite air pollution studies: &#39;It&#39;s incredibly short-sighted&#39;](https://www.space.com/space-exploration/satellites/scientists-worry-trumps-budget-cuts-will-halt-satellite-air-pollution-studies-its-incredibly-short-sighted)
-- [See Jupiter pair up with a sliver of the moon tonight](https://www.space.com/stargazing/see-jupiter-pair-up-with-a-sliver-of-the-moon-tonight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
