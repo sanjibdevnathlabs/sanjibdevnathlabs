@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Texas signs into law online saftey bill reportedly opposed by Apple’s Tim Cook](https://techcrunch.com/2025/05/27/texas-signs-into-law-online-saftey-bill-reportedly-opposed-by-apples-tim-cook/)
+- [Rivr’s dog-like robots join Veho vans to solve ‘last-100-yards’ parcel delivery in Austin](https://techcrunch.com/2025/05/27/veho-is-piloting-rivrs-dog-like-robots-for-last-100-yards-parcel-delivery-in-austin/)
+- [How to watch the 2025 Humans to the Moon &amp; Mars Summit May 28 and 29](https://www.space.com/astronomy/mars/how-to-watch-the-2025-humans-to-the-moon-and-mars-summit-may-28-and-29)
+- [Meta reportedly splits its AI team to build products faster](https://techcrunch.com/2025/05/27/meta-reportedly-splits-its-ai-team-to-build-products-faster/)
 - [JWST peers through a cosmic lens in &#39;deepest gaze&#39; to date | Space photo of the day for May 27, 2025](https://www.space.com/astronomy/james-webb-space-telescope/jwst-peers-through-a-cosmic-lens-in-deepest-gaze-to-date-space-photo-of-the-day-for-may-27-2025)
-- [AI may already be shrinking entry-level jobs in tech, new research suggests](https://techcrunch.com/2025/05/27/ai-may-already-be-shrinking-entry-level-jobs-in-tech-new-research-suggests/)
-- [How to see Manhattanhenge 2025: Expert tips for catching New York&#39;s iconic sunset spectacle](https://www.space.com/stargazing/how-to-see-manhattanhenge-2025-expert-tips-for-catching-new-yorks-iconic-sunset-spectacle)
-- [WordPress has formed an AI team](https://techcrunch.com/2025/05/27/wordpress-has-formed-an-ai-team/)
-- [SpaceX launches fresh group of Starlink satellites from foggy Vandenberg Space Force Base, successfully lands booster &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-1-b1082-vsfb-ocisly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
