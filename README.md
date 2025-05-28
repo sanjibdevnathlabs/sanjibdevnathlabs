@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GameStop bought $500 million of Bitcoin](https://techcrunch.com/2025/05/28/gamestop-bought-500-million-of-bitcoin/)
+- [Stellantis pivots to Google’s Android as in-car partnership with Amazon ends](https://techcrunch.com/2025/05/28/stellantis-pivots-to-googles-android-as-in-car-partnership-with-amazon-ends/)
+- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/05/28/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
 - [DeepSeek updates its R1 reasoning AI model, releases it on Hugging Face](https://techcrunch.com/2025/05/28/deepseek-updates-its-r1-reasoning-ai-model-releases-it-on-hugging-face/)
 - [Karat Financial is bringing business banking to creators](https://techcrunch.com/2025/05/28/karat-financial-is-bringing-business-banking-to-creators/)
-- [Odyssey’s new AI model streams 3D interactive worlds](https://techcrunch.com/2025/05/28/odysseys-new-ai-model-streams-3d-interactive-worlds/)
-- [Spotify amps up podcast discovery with new features](https://techcrunch.com/2025/05/28/spotify-amps-up-podcast-discovery-with-new-features/)
-- [Google Photos debuts redesigned editor with new AI tools](https://techcrunch.com/2025/05/28/google-photos-debuts-redesigned-editor-with-new-ai-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
