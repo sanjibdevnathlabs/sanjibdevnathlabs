@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek updates its R1 reasoning AI model, releases it on Hugging Face](https://techcrunch.com/2025/05/28/deepseek-updates-its-r1-reasoning-ai-model-releases-it-on-hugging-face/)
+- [Karat Financial is bringing business banking to creators](https://techcrunch.com/2025/05/28/karat-financial-is-bringing-business-banking-to-creators/)
+- [Odyssey’s new AI model streams 3D interactive worlds](https://techcrunch.com/2025/05/28/odysseys-new-ai-model-streams-3d-interactive-worlds/)
 - [Spotify amps up podcast discovery with new features](https://techcrunch.com/2025/05/28/spotify-amps-up-podcast-discovery-with-new-features/)
 - [Google Photos debuts redesigned editor with new AI tools](https://techcrunch.com/2025/05/28/google-photos-debuts-redesigned-editor-with-new-ai-tools/)
-- [25 years ago, &#39;Mission to Mars&#39; and &#39;Red Planet&#39; had a bad Martian movie showdown. Was there a winner?](https://www.space.com/entertainment/space-movies-shows/25-years-ago-mission-to-mars-and-red-planet-had-a-bad-martian-movie-showdown-was-there-a-winner)
-- [Meta wants to open more retail stores](https://techcrunch.com/2025/05/28/meta-wants-to-open-more-retail-stores/)
-- [Netflix co-founder Reed Hastings joins Anthropic’s board](https://techcrunch.com/2025/05/28/netflix-co-founder-reed-hastings-joins-anthropics-board/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
