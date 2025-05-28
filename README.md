@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Data broker giant LexisNexis says breach exposed personal information of over 364,000 people](https://techcrunch.com/2025/05/28/data-broker-giant-lexisnexis-says-breach-exposed-personal-information-of-over-364000-people/)
-- [How small businesses can actually benefit from agentic AI, with Tkxel CEO Umair Javed at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/28/how-small-businesses-can-actually-benefit-from-agentic-ai-with-tkxel-ceo-umair-javed-at-techcrunch-sessions-ai/)
-- [Best dedicated astrophotography cameras in 2025](https://www.space.com/stargazing/skywatching-kit/best-dedicated-astrophotography-cameras)
-- [A &#39;smiley face&#39; will appear in the night sky on May 29: Here&#39;s how to see it](https://www.space.com/stargazing/a-smiley-face-will-appear-in-the-night-sky-on-may-29-heres-how-to-see-it)
-- [SpaceX launches 27 Starlink satellites from Florida, lands rocket on ship at sea](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-32-b1080-ksc-jrti)
+- [Astronomers discover mystery cosmic body bursting with X-rays: &#39;This object is unlike anything we have seen before&#39;](https://www.space.com/astronomy/mystery-deepens-cosmic-energy-lpt-askap-j1832-0911)
+- [Discord explores virtual rewards for its ad product as it prepares for a potential IPO](https://techcrunch.com/2025/05/28/discord-explores-virtual-rewards-for-its-ad-product-as-it-prepares-for-a-potential-ipo/)
+- [With iOS 19 on the way, Apple looks toward mobile gaming](https://techcrunch.com/2025/05/28/with-ios-19-on-the-way-apple-looks-toward-mobile-gaming/)
+- [Help shape TechCrunch Disrupt 2025: Vote for your favorite sessions](https://techcrunch.com/2025/05/28/help-shape-techcrunch-disrupt-2025-vote-for-your-favorite-sessions/)
+- [How to seize the opportunity and compete with an incumbent, with Linear COO Cristina Cordova at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/28/how-to-seize-the-opportunity-and-compete-with-an-incumbent-with-linear-coo-cristina-cordova-at-techcrunch-sessions-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
