@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jeff Bezos&#39; Blue Origin targeting May 31 for 12th space tourism launch](https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-blue-origin-targeting-may-31-for-12th-space-tourism-launch)
+- [&#39;This is an attack on NASA.&#39; Space agency&#39;s largest union speaks out as DOGE cuts shutter science institute located above &#39;Seinfeld&#39; diner in NYC](https://www.space.com/space-exploration/this-is-an-attack-on-nasa-space-agencys-largest-union-speaks-out-as-doge-cuts-shutter-science-institute-located-above-seinfeld-diner-in-nyc)
+- [Dozens of unsold Tesla Cybertrucks are piling up at Detroit parking lot](https://techcrunch.com/2025/05/28/dozens-of-unsold-tesla-cybertrucks-are-piling-up-at-detroit-parking-lot/)
 - [Family safety app Life360 adds Tile’s lost-item trackers, years after its acquisition](https://techcrunch.com/2025/05/28/family-safety-app-life360-adds-tiles-lost-item-trackers-years-after-its-acquisition/)
 - [Microsoft starts testing Copilot for Gaming in Xbox app for iOS and Android](https://techcrunch.com/2025/05/28/microsoft-starts-testing-copilot-for-gaming-in-xbox-app-for-ios-and-android/)
-- [Context gets $11M to build an AI-powered office suite](https://techcrunch.com/2025/05/28/context-gets-11m-to-build-an-ai-powered-office-suite/)
-- [Rillet raises $25M from Sequoia to automate general ledger systems using AI](https://techcrunch.com/2025/05/28/rillet-raises-25m-from-sequoia-to-automate-general-ledger-systems-using-ai/)
-- [Why export restrictions aren’t the only thing to pay attention to in Nvidia’s earnings](https://techcrunch.com/2025/05/28/why-export-restrictions-arent-the-only-thing-to-pay-attention-to-in-nvidias-earnings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
