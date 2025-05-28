@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronomers discover mystery cosmic body bursting with X-rays: &#39;This object is unlike anything we have seen before&#39;](https://www.space.com/astronomy/mystery-deepens-cosmic-energy-lpt-askap-j1832-0911)
-- [Discord explores virtual rewards for its ad product as it prepares for a potential IPO](https://techcrunch.com/2025/05/28/discord-explores-virtual-rewards-for-its-ad-product-as-it-prepares-for-a-potential-ipo/)
-- [With iOS 19 on the way, Apple looks toward mobile gaming](https://techcrunch.com/2025/05/28/with-ios-19-on-the-way-apple-looks-toward-mobile-gaming/)
-- [Help shape TechCrunch Disrupt 2025: Vote for your favorite sessions](https://techcrunch.com/2025/05/28/help-shape-techcrunch-disrupt-2025-vote-for-your-favorite-sessions/)
-- [How to seize the opportunity and compete with an incumbent, with Linear COO Cristina Cordova at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/28/how-to-seize-the-opportunity-and-compete-with-an-incumbent-with-linear-coo-cristina-cordova-at-techcrunch-sessions-ai/)
+- [Family safety app Life360 adds Tile’s lost-item trackers, years after its acquisition](https://techcrunch.com/2025/05/28/family-safety-app-life360-adds-tiles-lost-item-trackers-years-after-its-acquisition/)
+- [Microsoft starts testing Copilot for Gaming in Xbox app for iOS and Android](https://techcrunch.com/2025/05/28/microsoft-starts-testing-copilot-for-gaming-in-xbox-app-for-ios-and-android/)
+- [Context gets $11M to build an AI-powered office suite](https://techcrunch.com/2025/05/28/context-gets-11m-to-build-an-ai-powered-office-suite/)
+- [Rillet raises $25M from Sequoia to automate general ledger systems using AI](https://techcrunch.com/2025/05/28/rillet-raises-25m-from-sequoia-to-automate-general-ledger-systems-using-ai/)
+- [Why export restrictions aren’t the only thing to pay attention to in Nvidia’s earnings](https://techcrunch.com/2025/05/28/why-export-restrictions-arent-the-only-thing-to-pay-attention-to-in-nvidias-earnings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
