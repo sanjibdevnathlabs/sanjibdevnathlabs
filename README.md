@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Bezos&#39; Blue Origin targeting May 31 for 12th space tourism launch](https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-blue-origin-targeting-may-31-for-12th-space-tourism-launch)
-- [&#39;This is an attack on NASA.&#39; Space agency&#39;s largest union speaks out as DOGE cuts shutter science institute located above &#39;Seinfeld&#39; diner in NYC](https://www.space.com/space-exploration/this-is-an-attack-on-nasa-space-agencys-largest-union-speaks-out-as-doge-cuts-shutter-science-institute-located-above-seinfeld-diner-in-nyc)
-- [Dozens of unsold Tesla Cybertrucks are piling up at Detroit parking lot](https://techcrunch.com/2025/05/28/dozens-of-unsold-tesla-cybertrucks-are-piling-up-at-detroit-parking-lot/)
-- [Family safety app Life360 adds Tile’s lost-item trackers, years after its acquisition](https://techcrunch.com/2025/05/28/family-safety-app-life360-adds-tiles-lost-item-trackers-years-after-its-acquisition/)
-- [Microsoft starts testing Copilot for Gaming in Xbox app for iOS and Android](https://techcrunch.com/2025/05/28/microsoft-starts-testing-copilot-for-gaming-in-xbox-app-for-ios-and-android/)
+- [Spotify amps up podcast discovery with new features](https://techcrunch.com/2025/05/28/spotify-amps-up-podcast-discovery-with-new-features/)
+- [Google Photos debuts redesigned editor with new AI tools](https://techcrunch.com/2025/05/28/google-photos-debuts-redesigned-editor-with-new-ai-tools/)
+- [25 years ago, &#39;Mission to Mars&#39; and &#39;Red Planet&#39; had a bad Martian movie showdown. Was there a winner?](https://www.space.com/entertainment/space-movies-shows/25-years-ago-mission-to-mars-and-red-planet-had-a-bad-martian-movie-showdown-was-there-a-winner)
+- [Meta wants to open more retail stores](https://techcrunch.com/2025/05/28/meta-wants-to-open-more-retail-stores/)
+- [Netflix co-founder Reed Hastings joins Anthropic’s board](https://techcrunch.com/2025/05/28/netflix-co-founder-reed-hastings-joins-anthropics-board/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
