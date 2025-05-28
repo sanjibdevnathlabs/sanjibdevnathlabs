@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX’s ninth test flight of Starship launches into space, ends in a spin](https://techcrunch.com/2025/05/27/spacexs-ninth-test-flight-of-starship-launches-into-space-ends-in-a-spin/)
+- [SpaceX reached space with Starship Flight 9 launch, then lost control of its giant spaceship &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-starship-flight-9-to-space-in-historic-reuse-of-giant-megarocket-video)
 - [Anthropic launches a voice mode for Claude](https://techcrunch.com/2025/05/27/anthropic-launches-a-voice-mode-for-claude/)
 - [OpenAI may soon let you ‘sign in with ChatGPT’ for other apps](https://techcrunch.com/2025/05/27/openai-may-soon-let-you-sign-in-with-chatgpt-for-other-apps/)
 - [Read-it-later app Pocket is shutting down — here are the best alternatives](https://techcrunch.com/2025/05/27/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/)
-- [Texas signs into law online safety bill reportedly opposed by Apple’s Tim Cook](https://techcrunch.com/2025/05/27/texas-signs-into-law-online-saftey-bill-reportedly-opposed-by-apples-tim-cook/)
-- [Rivr’s dog-like robots join Veho vans to solve ‘last-100-yards’ parcel delivery in Austin](https://techcrunch.com/2025/05/27/veho-is-piloting-rivrs-dog-like-robots-for-last-100-yards-parcel-delivery-in-austin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
