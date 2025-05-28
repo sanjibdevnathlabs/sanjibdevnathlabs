@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk’s Neuralink raises $600M at $9B valuation](https://techcrunch.com/2025/05/28/elon-musks-neuralink-raises-600m-at-9b-valuation/)
 - [Litehaus raises €1.46M pre-seed to build home-building platform](https://techcrunch.com/2025/05/28/litehaus-raises-e1-7-million-pre-seed-to-build-home-building-marketplace/)
 - [Noctilucent cloud season 2025 is upon us! Here&#39;s how to spot elusive &#39;night-shining&#39; clouds](https://www.space.com/stargazing/noctilucent-cloud-season-2025-is-upon-us-heres-how-to-spot-elusive-night-shining-clouds)
 - [China launching Tianwen-2 mission today to snag samples of a near-Earth asteroid](https://www.space.com/space-exploration/launches-spacecraft/china-launching-tianwen-2-mission-today-to-snag-samples-of-a-near-earth-asteroid)
 - [Opera’s new browser can code websites and games for you](https://techcrunch.com/2025/05/28/operas-new-browser-can-code-websites-and-games-for-you/)
-- [Hurry! It&#39;s the last couple of days to get nearly 70% off a year of Peacock TV](https://www.space.com/entertainment/hurry-to-get-68-percent-off-peacock-tv-annual-subscription-ends-soon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
