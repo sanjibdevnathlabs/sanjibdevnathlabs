@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside the AI revolution: Top insights and breakthroughs from our partners at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/inside-the-ai-revolution-top-insights-and-breakthroughs-from-our-partners-at-techcrunch-sessions-ai/)
 - [&#39;One of the most geometrically perfect&#39;: What is this mysterious sphere deep in the Milky Way galaxy?](https://www.space.com/astronomy/one-of-the-most-geometrically-perfect-what-is-this-mysterious-sphere-deep-in-the-milky-way-galaxy)
 - [Hugging Face unveils two new humanoid robots](https://techcrunch.com/2025/05/29/hugging-face-unveils-two-new-humanoid-robots/)
 - [Black Forest Labs’ Kontext AI models can edit pics as well as generate them](https://techcrunch.com/2025/05/29/black-forest-labs-kontext-ai-models-can-edit-pics-as-well-as-generate-them/)
 - [Tinder tests letting users set a ‘height preference’](https://techcrunch.com/2025/05/29/tinder-tests-letting-users-set-a-height-preference/)
-- [Delaware attorney general reportedly hires a bank to evaluate OpenAI’s restructuring plan](https://techcrunch.com/2025/05/29/delaware-attorney-general-reportedly-hires-a-bank-to-evaluate-openais-restructuring-plan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
