@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The New York Times and Amazon ink AI licensing deal](https://techcrunch.com/2025/05/29/the-new-york-times-and-amazon-ink-ai-licensing-deal/)
-- [Zeal Capital Partners announces close of $82M Fund II](https://techcrunch.com/2025/05/29/zeal-capital-partners-announces-close-of-82m-fund-ii/)
-- [Scientists capture never-before-seen plasma streams and bizarre &#39;raindrops&#39; in sharpest-ever view of sun&#39;s outer atmosphere &lpar;video&rpar;](https://www.space.com/astronomy/sun/scientists-capture-never-before-seen-plasma-streams-and-bizarre-raindrops-in-sharpest-ever-view-of-suns-outer-atmosphere-video)
-- [Buildots raises $45M to help companies track construction progress](https://techcrunch.com/2025/05/29/buildots-raises-45m-to-help-companies-track-construction-progress/)
-- [Meet LoveJack, the dating app designed for users to find love using just five words](https://techcrunch.com/2025/05/29/meet-lovejack-the-dating-app-designed-for-users-to-find-love-using-just-five-words/)
+- [A decade in, bootstrapped Thinkst Canary reaches $20M in ARR without VC funding](https://techcrunch.com/2025/05/29/a-decade-in-bootstrapped-thinkst-canary-reaches-20m-in-arr-without-vc-funding/)
+- [Meta AI now has 1B monthly active users](https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/)
+- [7 days until doors open at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/7-days-until-doors-open-at-techcrunch-sessions-ai/)
+- [Meet the crew of Blue Origin&#39;s NS-32 space tourism mission](https://www.space.com/space-exploration/private-spaceflight/meet-the-crew-of-blue-origins-ns-32-space-tourism-mission)
+- [Apple to change the way it names operating systems, report says](https://techcrunch.com/2025/05/29/apple-to-change-the-way-it-names-operating-systems-report-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
