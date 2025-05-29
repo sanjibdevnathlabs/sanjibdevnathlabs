@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX aiming for record-breaking 170 orbital launches in 2025](https://www.space.com/space-exploration/launches-spacecraft/spacex-aiming-for-record-breaking-170-orbital-launches-in-2025)
-- [Perplexity’s new tool can generate spreadsheets, dashboards, and more](https://techcrunch.com/2025/05/29/perplexitys-new-tool-can-generate-spreadsheets-dashboards-and-more/)
-- [See a lunar scar darken the crescent moon on May 30](https://www.space.com/stargazing/see-a-lunar-scar-darken-the-crescent-moon-on-may-30)
-- [Tesla alum’s Heron Power closes $38M Series A to transform key grid technology](https://techcrunch.com/2025/05/29/tesla-alums-heron-power-closes-38m-series-a-to-transform-key-grid-technology/)
-- [In a victory for Palmer Luckey, Meta and Anduril work on mixed reality headsets for the military](https://techcrunch.com/2025/05/29/in-a-victory-for-palmer-luckey-meta-and-anduril-work-on-mixed-reality-headsets-for-the-military/)
+- [&#39;One of the most geometrically perfect&#39;: What is this mysterious sphere deep in the Milky Way galaxy?](https://www.space.com/astronomy/one-of-the-most-geometrically-perfect-what-is-this-mysterious-sphere-deep-in-the-milky-way-galaxy)
+- [Hugging Face unveils two new humanoid robots](https://techcrunch.com/2025/05/29/hugging-face-unveils-two-new-humanoid-robots/)
+- [Black Forest Labs’ Kontext AI models can edit pics as well as generate them](https://techcrunch.com/2025/05/29/black-forest-labs-kontext-ai-models-can-edit-pics-as-well-as-generate-them/)
+- [Tinder tests letting users set a ‘height preference’](https://techcrunch.com/2025/05/29/tinder-tests-letting-users-set-a-height-preference/)
+- [Delaware attorney general reportedly hires a bank to evaluate OpenAI’s restructuring plan](https://techcrunch.com/2025/05/29/delaware-attorney-general-reportedly-hires-a-bank-to-evaluate-openais-restructuring-plan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
