@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX aiming for record-breaking 170 orbital launches in 2025](https://www.space.com/space-exploration/launches-spacecraft/spacex-aiming-for-record-breaking-170-orbital-launches-in-2025)
 - [Perplexity’s new tool can generate spreadsheets, dashboards, and more](https://techcrunch.com/2025/05/29/perplexitys-new-tool-can-generate-spreadsheets-dashboards-and-more/)
 - [See a lunar scar darken the crescent moon on May 30](https://www.space.com/stargazing/see-a-lunar-scar-darken-the-crescent-moon-on-may-30)
 - [Tesla alum’s Heron Power closes $38M Series A to transform key grid technology](https://techcrunch.com/2025/05/29/tesla-alums-heron-power-closes-38m-series-a-to-transform-key-grid-technology/)
 - [In a victory for Palmer Luckey, Meta and Anduril work on mixed reality headsets for the military](https://techcrunch.com/2025/05/29/in-a-victory-for-palmer-luckey-meta-and-anduril-work-on-mixed-reality-headsets-for-the-military/)
-- [Who is the best Doctor? Every &#39;Doctor Who&#39; ranked](https://www.space.com/entertainment/space-movies-shows/who-is-the-best-doctor-every-doctor-who-ranked)
 <!-- BLOG-POST-LIST:END -->
 
 ---
