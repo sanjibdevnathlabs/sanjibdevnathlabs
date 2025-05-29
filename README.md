@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube will soon let viewers use Google Lens to search what they see while watching Shorts](https://techcrunch.com/2025/05/29/youtube-will-soon-let-viewers-use-google-lens-to-search-what-they-see-while-watching-shorts/)
+- [DeepSeek’s distilled new R1 AI model can run on a single GPU](https://techcrunch.com/2025/05/29/deepseeks-distilled-new-r1-ai-model-can-run-on-a-single-gpu/)
+- [US government sanctions tech company involved in cyber scams](https://techcrunch.com/2025/05/29/us-government-sanctions-tech-company-involved-in-cyber-scams/)
 - [Behind the camera: Astronauts talk with students from space station | Space photo of the day for May 29, 2025](https://www.space.com/space-exploration/international-space-station/behind-the-camera-astronauts-talk-with-students-from-space-station-space-photo-of-the-day-for-may-29-2025)
 - [Tesla pleads for Senate to spare its booming energy business](https://techcrunch.com/2025/05/29/tesla-pleads-for-senate-to-spare-its-booming-energy-business/)
-- [Dust devil on Mars photobombs NASA Perseverance rover&#39;s selfie &lpar;photo&rpar;](https://www.space.com/space-exploration/mars-rovers/dust-devil-on-mars-photobombs-nasa-perseverance-rovers-selfie-photo)
-- [Apple’s US App Store topped $400B in developer billings and sales in 2024](https://techcrunch.com/2025/05/29/apples-us-app-store-topped-400b-in-developer-billings-and-sales-in-2024/)
-- [Sampling a &#39;quasi-moon&#39;: What&#39;s next for China&#39;s newly launched Tianwen 2 mission](https://www.space.com/space-exploration/launches-spacecraft/sampling-a-quasi-moon-whats-next-for-chinas-newly-launched-tianwen-2-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
