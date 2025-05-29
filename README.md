@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Behind the camera: Astronauts talk with students from space station | Space photo of the day for May 29, 2025](https://www.space.com/space-exploration/international-space-station/behind-the-camera-astronauts-talk-with-students-from-space-station-space-photo-of-the-day-for-may-29-2025)
+- [Tesla pleads for Senate to spare its booming energy business](https://techcrunch.com/2025/05/29/tesla-pleads-for-senate-to-spare-its-booming-energy-business/)
+- [Dust devil on Mars photobombs NASA Perseverance rover&#39;s selfie &lpar;photo&rpar;](https://www.space.com/space-exploration/mars-rovers/dust-devil-on-mars-photobombs-nasa-perseverance-rovers-selfie-photo)
+- [Apple’s US App Store topped $400B in developer billings and sales in 2024](https://techcrunch.com/2025/05/29/apples-us-app-store-topped-400b-in-developer-billings-and-sales-in-2024/)
 - [Sampling a &#39;quasi-moon&#39;: What&#39;s next for China&#39;s newly launched Tianwen 2 mission](https://www.space.com/space-exploration/launches-spacecraft/sampling-a-quasi-moon-whats-next-for-chinas-newly-launched-tianwen-2-mission)
-- [DeepSeek’s updated R1 AI model is more censored, test finds](https://techcrunch.com/2025/05/29/deepseeks-updated-r1-ai-model-is-more-censored-test-finds/)
-- [A decade in, bootstrapped Thinkst Canary reaches $20M in ARR without VC funding](https://techcrunch.com/2025/05/29/a-decade-in-bootstrapped-thinkst-canary-reaches-20m-in-arr-without-vc-funding/)
-- [Meta AI now has 1B monthly active users](https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/)
-- [7 days until doors open at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/7-days-until-doors-open-at-techcrunch-sessions-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
