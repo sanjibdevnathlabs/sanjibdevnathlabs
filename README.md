@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sampling a &#39;quasi-moon&#39;: What&#39;s next for China&#39;s newly launched Tianwen 2 mission](https://www.space.com/space-exploration/launches-spacecraft/sampling-a-quasi-moon-whats-next-for-chinas-newly-launched-tianwen-2-mission)
+- [DeepSeek’s updated R1 AI model is more censored, test finds](https://techcrunch.com/2025/05/29/deepseeks-updated-r1-ai-model-is-more-censored-test-finds/)
 - [A decade in, bootstrapped Thinkst Canary reaches $20M in ARR without VC funding](https://techcrunch.com/2025/05/29/a-decade-in-bootstrapped-thinkst-canary-reaches-20m-in-arr-without-vc-funding/)
 - [Meta AI now has 1B monthly active users](https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/)
 - [7 days until doors open at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/7-days-until-doors-open-at-techcrunch-sessions-ai/)
-- [Meet the crew of Blue Origin&#39;s NS-32 space tourism mission](https://www.space.com/space-exploration/private-spaceflight/meet-the-crew-of-blue-origins-ns-32-space-tourism-mission)
-- [Apple to change the way it names operating systems, report says](https://techcrunch.com/2025/05/29/apple-to-change-the-way-it-names-operating-systems-report-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
