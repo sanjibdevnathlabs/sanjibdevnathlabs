@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The New York Times and Amazon ink AI licensing deal](https://techcrunch.com/2025/05/29/the-new-york-times-and-amazon-ink-ai-licensing-deal/)
+- [Zeal Capital Partners announces close of $82M Fund II](https://techcrunch.com/2025/05/29/zeal-capital-partners-announces-close-of-82m-fund-ii/)
+- [Scientists capture never-before-seen plasma streams and bizarre &#39;raindrops&#39; in sharpest-ever view of sun&#39;s outer atmosphere &lpar;video&rpar;](https://www.space.com/astronomy/sun/scientists-capture-never-before-seen-plasma-streams-and-bizarre-raindrops-in-sharpest-ever-view-of-suns-outer-atmosphere-video)
 - [Buildots raises $45M to help companies track construction progress](https://techcrunch.com/2025/05/29/buildots-raises-45m-to-help-companies-track-construction-progress/)
 - [Meet LoveJack, the dating app designed for users to find love using just five words](https://techcrunch.com/2025/05/29/meet-lovejack-the-dating-app-designed-for-users-to-find-love-using-just-five-words/)
-- [X hits pause on its encrypted DMs feature](https://techcrunch.com/2025/05/29/x-hits-pause-on-its-encrypted-dms-feature/)
-- [Could time travel tourism be the next space tourism? &lpar;op-ed&rpar;](https://www.space.com/entertainment/space-books/could-time-travel-tourism-be-the-next-space-tourism-op-ed)
-- [Elon Musk’s stint in the US government is coming to an end](https://techcrunch.com/2025/05/29/elon-musks-stint-in-the-us-government-is-coming-to-an-end/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
