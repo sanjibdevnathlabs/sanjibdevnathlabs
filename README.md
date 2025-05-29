@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lightspeed backs Indian home services startup Snabbit as the next big consumer trend](https://techcrunch.com/2025/05/28/lightspeed-backs-indian-home-services-startup-snabbit-as-the-next-big-consumer-trend/)
 - [Founder Sahil Lavingia says he was booted from DOGE after just 55 days](https://techcrunch.com/2025/05/28/founder-sahil-lavingia-says-he-was-booted-from-doge-after-just-55-days/)
 - [Security startup Horizon3.ai is raising $100M in new round](https://techcrunch.com/2025/05/28/security-startup-horizon3-ai-is-raising-100m-in-new-round/)
 - [Nvidia expects to lose billions in revenue due to H20 chip licensing requirements](https://techcrunch.com/2025/05/28/nvidia-expects-to-lose-billions-in-revenue-due-to-h20-chip-licensing-requirements/)
 - [Victoria’s Secret hit by outages as it battles security incident](https://techcrunch.com/2025/05/28/victorias-secret-hit-by-outages-as-it-battles-security-incident/)
-- [GameStop bought $500 million of bitcoin](https://techcrunch.com/2025/05/28/gamestop-bought-500-million-of-bitcoin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
