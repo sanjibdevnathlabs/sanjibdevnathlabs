@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X hits pause on its encrypted DMs feature](https://techcrunch.com/2025/05/29/x-hits-pause-on-its-encrypted-dms-feature/)
+- [Could time travel tourism be the next space tourism? &lpar;op-ed&rpar;](https://www.space.com/entertainment/space-books/could-time-travel-tourism-be-the-next-space-tourism-op-ed)
+- [Elon Musk’s stint in the US government is coming to an end](https://techcrunch.com/2025/05/29/elon-musks-stint-in-the-us-government-is-coming-to-an-end/)
 - [Can we protect historical sites on the moon before it&#39;s too late?](https://www.space.com/astronomy/moon/can-we-protect-historical-sites-on-the-moon-before-its-too-late)
 - [NVIDIA, AMD may soon start selling new AI chips in China to comply with US restrictions](https://techcrunch.com/2025/05/29/nvidia-amd-may-soon-start-selling-new-ai-chips-in-china-to-comply-with-us-restrictions/)
-- [Lightspeed backs Indian home services startup Snabbit as the next big consumer trend](https://techcrunch.com/2025/05/28/lightspeed-backs-indian-home-services-startup-snabbit-as-the-next-big-consumer-trend/)
-- [Founder Sahil Lavingia says he was booted from DOGE after just 55 days](https://techcrunch.com/2025/05/28/founder-sahil-lavingia-says-he-was-booted-from-doge-after-just-55-days/)
-- [Security startup Horizon3.ai is raising $100M in new round](https://techcrunch.com/2025/05/28/security-startup-horizon3-ai-is-raising-100m-in-new-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
