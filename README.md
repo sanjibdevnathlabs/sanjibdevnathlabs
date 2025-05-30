@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists found a possible new dwarf planet — it could spell bad news for Planet 9 fans](https://www.space.com/astronomy/dwarf-planets/scientists-found-a-possible-new-dwarf-planet-it-could-spell-bad-news-for-planet-9-fans)
+- [Elon Musk says SpaceX will launch its biggest Starship yet this year, but Mars in 2026 is &#39;50/50&#39;](https://www.space.com/space-exploration/private-spaceflight/elon-musk-says-spacex-will-launch-its-biggest-starship-yet-this-year-but-mars-in-2026-is-50-50)
+- [Northern lights may be visible in these 15 US States tonight and over the weekend](https://www.space.com/stargazing/auroras/these-15-us-states-could-see-the-northern-lights-tonight-and-over-the-weekend-may)
 - [US imposes new rules to curb semiconductor design software sales to China](https://techcrunch.com/2025/05/30/us-imposes-new-rules-to-curb-semiconductor-design-software-sales-to-china/)
 - [Grocery platform Misfits Market acquires The Rounds to further its mission of reducing food waste](https://techcrunch.com/2025/05/30/grocery-platform-misfits-market-acquires-the-rounds-to-further-its-mission-of-reducing-food-waste/)
-- [Google fixes bug that led AI Overviews to say it’s now 2024](https://techcrunch.com/2025/05/30/google-fixes-bug-that-led-ai-overviews-to-say-its-now-2024/)
-- [Astronomers discover black hole ripping a star apart inside a galactic collision. &#39;It is a peculiar event&#39;](https://www.space.com/astronomy/astronomers-discover-black-hole-ripping-a-star-apart-inside-a-galactic-collision-it-is-a-peculiar-event)
-- [Last chance! This brilliant 68% off Peacock TV subscription streaming deal ends today! Grab a year of sci-fi content and more for just $24.99](https://www.space.com/entertainment/last-chance-this-brilliant-68-percent-off-peacock-tv-subscription-streaming-deal-ends-today-grab-a-year-of-sci-fi-content-and-more-for-just-usd24-99)
 <!-- BLOG-POST-LIST:END -->
 
 ---
