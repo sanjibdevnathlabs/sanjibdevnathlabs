@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers discover black hole ripping a star apart inside a galactic collision. &#39;It is a peculiar event&#39;](https://www.space.com/astronomy/astronomers-discover-black-hole-ripping-a-star-apart-inside-a-galactic-collision-it-is-a-peculiar-event)
+- [Last chance! This brilliant 68% off Peacock TV subscription streaming deal ends today! Grab a year of sci-fi content and more for just $24.99](https://www.space.com/entertainment/last-chance-this-brilliant-68-percent-off-peacock-tv-subscription-streaming-deal-ends-today-grab-a-year-of-sci-fi-content-and-more-for-just-usd24-99)
 - [Watch SpaceX launch advanced GPS satellite for US Space Force today in record-short turnaround](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-advanced-gps-satellite-for-us-space-force-today-in-record-short-turnaround)
 - [Grammarly secures $1B in nondilutive funding from General Catalyst](https://techcrunch.com/2025/05/29/grammarly-secures-1b-in-non-dilutive-funding-from-general-catalyst/)
 - [Top 30 startups announced for VivaTech 2025 Innovation of the Year Award](https://techcrunch.com/2025/05/29/top-30-startups-announced-for-vivatech-2025-innovation-of-the-year-award/)
-- [Inside the AI revolution: Top insights and breakthroughs from our partners at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/29/inside-the-ai-revolution-top-insights-and-breakthroughs-from-our-partners-at-techcrunch-sessions-ai/)
-- [&#39;One of the most geometrically perfect&#39;: What is this mysterious sphere deep in the Milky Way galaxy?](https://www.space.com/astronomy/one-of-the-most-geometrically-perfect-what-is-this-mysterious-sphere-deep-in-the-milky-way-galaxy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
