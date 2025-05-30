@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups Weekly: AMD acquisition and other moves to scale AI startups](https://techcrunch.com/2025/05/30/startups-weekly-amd-acquisition-and-other-moves-to-scale-ai-startups/)
+- [How a decade-old patent dispute could upend Uber’s business](https://techcrunch.com/2025/05/30/how-a-decade-old-patent-dispute-could-upend-ubers-business/)
+- [FAA requires SpaceX to investigate Starship Flight 9 mishap](https://www.space.com/space-exploration/launches-spacecraft/faa-requires-spacex-to-investigate-starship-flight-9-mishap)
+- [Eight things we learned from WhatsApp vs. NSO Group spyware lawsuit](https://techcrunch.com/2025/05/30/eight-things-we-learned-from-whatsapp-vs-nso-group-spyware-lawsuit/)
 - [White House investigating how Trump’s chief of staff’s phone was hacked](https://techcrunch.com/2025/05/30/white-house-investigating-how-trumps-chief-of-staffs-phone-was-hacked/)
-- [X’s new DM feature, XChat, is rolling out in beta](https://techcrunch.com/2025/05/30/xs-new-dm-feature-xchat-is-rolling-out-in-beta/)
-- [How to watch Blue Origin launch 6 tourists to suborbital space on May 31](https://www.space.com/space-exploration/private-spaceflight/how-to-watch-blue-origin-launch-6-tourists-to-suborbital-space-on-may-31)
-- [Gemini will now automatically summarize your long emails unless you opt out](https://techcrunch.com/2025/05/30/gemini-will-now-automatically-summarize-your-long-emails-unless-you-opt-out/)
-- [Your last opportunity to vote on the TechCrunch Disrupt 2025 agenda lineup](https://techcrunch.com/2025/05/30/your-last-opportunity-to-vote-on-the-techcrunch-disrupt-2025-agenda-lineup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
