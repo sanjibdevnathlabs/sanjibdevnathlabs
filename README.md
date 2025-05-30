@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Just 6 days left — ready for some unfiltered AI truths at TechCrunch Sessions: AI?](https://techcrunch.com/2025/05/30/just-6-days-left-ready-for-some-unfiltered-ai-truths-at-techcrunch-sessions-ai/)
+- [Don&#39;t miss the crescent moon shining close to Mars on May 31](https://www.space.com/stargazing/dont-miss-the-crescent-moon-shining-close-to-mars-on-may-31)
+- [Report: Elon Musk’s drug use ramped up during the 2024 presidential campaign](https://techcrunch.com/2025/05/30/report-elon-musks-drug-use-ramped-up-during-the-2024-presidential-campaign/)
 - [Scientists found a possible new dwarf planet — it could spell bad news for Planet 9 fans](https://www.space.com/astronomy/dwarf-planets/scientists-found-a-possible-new-dwarf-planet-it-could-spell-bad-news-for-planet-9-fans)
 - [Elon Musk says SpaceX will launch its biggest Starship yet this year, but Mars in 2026 is &#39;50/50&#39;](https://www.space.com/space-exploration/private-spaceflight/elon-musk-says-spacex-will-launch-its-biggest-starship-yet-this-year-but-mars-in-2026-is-50-50)
-- [Northern lights may be visible in these 15 US States tonight and over the weekend](https://www.space.com/stargazing/auroras/these-15-us-states-could-see-the-northern-lights-tonight-and-over-the-weekend-may)
-- [US imposes new rules to curb semiconductor design software sales to China](https://techcrunch.com/2025/05/30/us-imposes-new-rules-to-curb-semiconductor-design-software-sales-to-china/)
-- [Grocery platform Misfits Market acquires The Rounds to further its mission of reducing food waste](https://techcrunch.com/2025/05/30/grocery-platform-misfits-market-acquires-the-rounds-to-further-its-mission-of-reducing-food-waste/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
