@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google fixes bug that led AI Overviews to say it’s now 2024](https://techcrunch.com/2025/05/30/google-fixes-bug-that-led-ai-overviews-to-say-its-now-2024/)
 - [Astronomers discover black hole ripping a star apart inside a galactic collision. &#39;It is a peculiar event&#39;](https://www.space.com/astronomy/astronomers-discover-black-hole-ripping-a-star-apart-inside-a-galactic-collision-it-is-a-peculiar-event)
 - [Last chance! This brilliant 68% off Peacock TV subscription streaming deal ends today! Grab a year of sci-fi content and more for just $24.99](https://www.space.com/entertainment/last-chance-this-brilliant-68-percent-off-peacock-tv-subscription-streaming-deal-ends-today-grab-a-year-of-sci-fi-content-and-more-for-just-usd24-99)
 - [Watch SpaceX launch advanced GPS satellite for US Space Force today in record-short turnaround](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-advanced-gps-satellite-for-us-space-force-today-in-record-short-turnaround)
 - [Grammarly secures $1B in nondilutive funding from General Catalyst](https://techcrunch.com/2025/05/29/grammarly-secures-1b-in-non-dilutive-funding-from-general-catalyst/)
-- [Top 30 startups announced for VivaTech 2025 Innovation of the Year Award](https://techcrunch.com/2025/05/29/top-30-startups-announced-for-vivatech-2025-innovation-of-the-year-award/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
