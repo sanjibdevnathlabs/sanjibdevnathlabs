@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe wants to land a tiny spacecraft on the infamous asteroid Apophis in 2029](https://www.space.com/space-exploration/asteroid-comet-missions/europe-wants-to-land-a-tiny-spacecraft-on-the-infamous-asteroid-apophis-in-2029)
+- [Why is the European Space Agency beaming a waltz at NASA&#39;s Voyager 1 probe this weekend?](https://www.space.com/entertainment/why-is-the-european-space-agency-beaming-a-waltz-at-nasas-voyager-1-probe-this-weekend)
+- [DOGE left United States Institute of Peace office with water damage, rats, and roaches](https://techcrunch.com/2025/05/30/doge-left-united-states-institute-of-peace-office-with-water-damage-rats-and-roaches/)
+- [It’s not your imagination: AI is speeding up the pace of change](https://techcrunch.com/2025/05/30/its-not-your-imagination-ai-is-speeding-up-the-pace-of-change/)
 - [Trump administration to claw back $3.7B in clean energy and manufacturing awards](https://techcrunch.com/2025/05/30/trump-administration-to-claw-back-3-7b-in-clean-energy-and-manufacturing-awards/)
-- [Climate scientists are hosting a 100-hour YouTube livestream in response to Trump&#39;s research funding cuts](https://www.space.com/science/climate-change/climate-scientists-are-hosting-a-100-hour-youtube-livestream-in-response-to-trumps-research-funding-cuts)
-- [Automattic says it will start contributing to WordPress again after pause](https://techcrunch.com/2025/05/30/automattic-says-it-will-start-contributing-to-wordpress-again-after-pause/)
-- [A fireball over desert mountains | Space photo of the day for May 30, 2025](https://www.space.com/stargazing/meteor-showers/a-fireball-over-desert-mountains-space-photo-of-the-day-for-may-30-2025)
-- [Startups Weekly: AMD acquisition and other moves to scale AI startups](https://techcrunch.com/2025/05/30/startups-weekly-amd-acquisition-and-other-moves-to-scale-ai-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
