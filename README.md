@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [White House investigating how Trump’s chief of staff’s phone was hacked](https://techcrunch.com/2025/05/30/white-house-investigating-how-trumps-chief-of-staffs-phone-was-hacked/)
+- [X’s new DM feature, XChat, is rolling out in beta](https://techcrunch.com/2025/05/30/xs-new-dm-feature-xchat-is-rolling-out-in-beta/)
 - [How to watch Blue Origin launch 6 tourists to suborbital space on May 31](https://www.space.com/space-exploration/private-spaceflight/how-to-watch-blue-origin-launch-6-tourists-to-suborbital-space-on-may-31)
 - [Gemini will now automatically summarize your long emails unless you opt out](https://techcrunch.com/2025/05/30/gemini-will-now-automatically-summarize-your-long-emails-unless-you-opt-out/)
 - [Your last opportunity to vote on the TechCrunch Disrupt 2025 agenda lineup](https://techcrunch.com/2025/05/30/your-last-opportunity-to-vote-on-the-techcrunch-disrupt-2025-agenda-lineup/)
-- [TechCrunch Sessions: AI Trivia Countdown — Ready to test your AI knowledge?](https://techcrunch.com/2025/05/30/tc-sessions-ai-trivia-countdown-ready-to-test-your-ai-knowledge/)
-- [Last Week: Few exhibit tables left to claim at TechCrunch All Stage](https://techcrunch.com/2025/05/30/last-week-few-exhibit-tables-left-to-claim-at-techcrunch-all-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
