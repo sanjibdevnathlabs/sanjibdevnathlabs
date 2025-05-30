@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Climate scientists are hosting a 100-hour YouTube livestream in response to Trump&#39;s research funding cuts](https://www.space.com/science/climate-change/climate-scientists-are-hosting-a-100-hour-youtube-livestream-in-response-to-trumps-research-funding-cuts)
+- [Automattic says it will start contributing to WordPress again after pause](https://techcrunch.com/2025/05/30/automattic-says-it-will-start-contributing-to-wordpress-again-after-pause/)
+- [A fireball over desert mountains | Space photo of the day for May 30, 2025](https://www.space.com/stargazing/meteor-showers/a-fireball-over-desert-mountains-space-photo-of-the-day-for-may-30-2025)
 - [Startups Weekly: AMD acquisition and other moves to scale AI startups](https://techcrunch.com/2025/05/30/startups-weekly-amd-acquisition-and-other-moves-to-scale-ai-startups/)
 - [How a decade-old patent dispute could upend Uber’s business](https://techcrunch.com/2025/05/30/how-a-decade-old-patent-dispute-could-upend-ubers-business/)
-- [FAA requires SpaceX to investigate Starship Flight 9 mishap](https://www.space.com/space-exploration/launches-spacecraft/faa-requires-spacex-to-investigate-starship-flight-9-mishap)
-- [Eight things we learned from WhatsApp vs. NSO Group spyware lawsuit](https://techcrunch.com/2025/05/30/eight-things-we-learned-from-whatsapp-vs-nso-group-spyware-lawsuit/)
-- [White House investigating how Trump’s chief of staff’s phone was hacked](https://techcrunch.com/2025/05/30/white-house-investigating-how-trumps-chief-of-staffs-phone-was-hacked/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
