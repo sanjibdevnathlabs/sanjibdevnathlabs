@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump&#39;s 2026 budget would slash NASA funding by 24% and its workforce by nearly one third](https://www.space.com/space-exploration/trumps-2026-budget-would-slash-nasa-funding-by-24-percent-and-its-workforce-by-nearly-one-third)
 - [Elon Musk is lobbying lawmakers on driverless vehicle rules](https://techcrunch.com/2025/05/30/elon-musk-is-lobbying-lawmakers-on-driverless-vehicle-rules/)
 - [&#39;Cosmic miracle!&#39; James Webb Space Telescope discovers the earliest galaxy ever seen](https://www.space.com/astronomy/cosmic-miracle-james-webb-space-telescope-discovers-the-earliest-galaxy-ever-seen)
 - [Yep, X was down again](https://techcrunch.com/2025/05/30/yep-x-was-down-again/)
 - [TechCrunch Mobility: A ride-sharing pioneer comes for Uber, Tesla loses more ground, and dog-like delivery robots land in Texas](https://techcrunch.com/2025/05/30/techcrunch-mobility-a-ride-sharing-pioneer-comes-for-uber-tesla-loses-more-ground-and-dog-like-delivery-robots-land-in-texas/)
-- [Europe wants to land a tiny spacecraft on the infamous asteroid Apophis in 2029](https://www.space.com/space-exploration/asteroid-comet-missions/europe-wants-to-land-a-tiny-spacecraft-on-the-infamous-asteroid-apophis-in-2029)
 <!-- BLOG-POST-LIST:END -->
 
 ---
