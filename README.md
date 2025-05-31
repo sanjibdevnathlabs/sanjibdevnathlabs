@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Left-leaning influencers embrace Bluesky without abandoning X, Pew says](https://techcrunch.com/2025/05/31/left-leaning-influencers-embrace-bluesky-without-abandoning-x-pew-says/)
+- [SpaceX adds 27 Starlink satellites to constellation after successful launch from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-adds-27-starlink-satellites-to-constellation-after-successful-launch-from-california)
 - [NAACP calls on Memphis officials to halt operations at xAI’s ‘dirty data center’](https://techcrunch.com/2025/05/31/naacp-calls-on-officials-to-halt-operations-at-xais-dirty-data-center-in-memphis/)
 - [Meta plans to automate many of its product risk assessments](https://techcrunch.com/2025/05/31/meta-plans-to-automate-many-of-its-product-risk-assessments/)
 - [Week in Review: Perplexity Labs wants to do your work](https://techcrunch.com/2025/05/31/week-in-review-perplexity-labs-wants-to-do-your-work/)
-- [Space Forge raises $30M Series A to make chip materials in space](https://techcrunch.com/2025/05/31/space-forge-raises-30m-series-a-to-make-chip-materials-in-space/)
-- [Aurora alert: Severe geomagnetic storm could spark northern lights as far south as Alabama and northern California tonight](https://www.space.com/stargazing/auroras/aurora-alert-severe-geomagnetic-storm-could-spark-northern-lights-as-far-south-as-alabama-and-northern-california-tonight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
