@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NAACP calls on Memphis officials to halt operations at xAI’s ‘dirty data center’](https://techcrunch.com/2025/05/31/naacp-calls-on-officials-to-halt-operations-at-xais-dirty-data-center-in-memphis/)
 - [Meta plans to automate many of its product risk assessments](https://techcrunch.com/2025/05/31/meta-plans-to-automate-many-of-its-product-risk-assessments/)
 - [Week in Review: Perplexity Labs wants to do your work](https://techcrunch.com/2025/05/31/week-in-review-perplexity-labs-wants-to-do-your-work/)
 - [Space Forge raises $30M Series A to make chip materials in space](https://techcrunch.com/2025/05/31/space-forge-raises-30m-series-a-to-make-chip-materials-in-space/)
 - [Aurora alert: Severe geomagnetic storm could spark northern lights as far south as Alabama and northern California tonight](https://www.space.com/stargazing/auroras/aurora-alert-severe-geomagnetic-storm-could-spark-northern-lights-as-far-south-as-alabama-and-northern-california-tonight)
-- [Blue Origin launches 1st New Zealander to reach space, 5 others on latest New Shepard suborbital flight &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/blue-origin-launches-1st-new-zealander-to-reach-space-5-others-on-latest-new-shepard-suborbital-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
