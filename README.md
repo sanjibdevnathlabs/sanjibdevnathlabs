@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space Forge raises $30M Series A to make chip materials in space](https://techcrunch.com/2025/05/31/space-forge-raises-30m-series-a-to-make-chip-materials-in-space/)
 - [Aurora alert: Severe geomagnetic storm could spark northern lights as far south as Alabama and northern California tonight](https://www.space.com/stargazing/auroras/aurora-alert-severe-geomagnetic-storm-could-spark-northern-lights-as-far-south-as-alabama-and-northern-california-tonight)
 - [Blue Origin launches 1st New Zealander to reach space, 5 others on latest New Shepard suborbital flight &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/blue-origin-launches-1st-new-zealander-to-reach-space-5-others-on-latest-new-shepard-suborbital-flight)
 - [Day 3 of the TechCrunch Sessions: AI Trivia Countdown — Your next shot at winning big](https://techcrunch.com/2025/05/31/day-3-of-the-techcrunch-sessions-ai-trivia-countdown-your-next-shot-at-winning-big/)
 - [Google quietly released an app that lets you download and run AI models locally](https://techcrunch.com/2025/05/31/google-quietly-released-an-app-that-lets-you-download-and-run-ai-models-locally/)
-- [A guide to using Edits, Meta’s new CapCut rival for short-form video editing](https://techcrunch.com/2025/05/31/a-guide-to-using-edits-metas-new-capcut-rival-for-short-form-video-editing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
