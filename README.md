@@ -148,7 +148,7 @@ I'm a software developer passionate about designing and building applications wi
 <!-- BLOG-POST-LIST:START -->
 - [Trump to withdraw Jared Isaacman&#39;s nomination as NASA chief](https://www.space.com/space-exploration/trump-to-withdraw-jared-isaacmans-nomination-as-nasa-chief)
 - [Left-leaning influencers embrace Bluesky without abandoning X, Pew says](https://techcrunch.com/2025/05/31/left-leaning-influencers-embrace-bluesky-without-abandoning-x-pew-says/)
-- [SpaceX adds 27 Starlink satellites to constellation after successful launch from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-adds-27-starlink-satellites-to-constellation-after-successful-launch-from-california)
+- [SpaceX adds 27 Starlink satellites to constellation after successful launch from California &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-adds-27-starlink-satellites-to-constellation-after-successful-launch-from-california)
 - [NAACP calls on Memphis officials to halt operations at xAI’s ‘dirty data center’](https://techcrunch.com/2025/05/31/naacp-calls-on-officials-to-halt-operations-at-xais-dirty-data-center-in-memphis/)
 - [Meta plans to automate many of its product risk assessments](https://techcrunch.com/2025/05/31/meta-plans-to-automate-many-of-its-product-risk-assessments/)
 <!-- BLOG-POST-LIST:END -->
