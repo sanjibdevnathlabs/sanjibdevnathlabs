@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google quietly released an app that lets you download and run AI models locally](https://techcrunch.com/2025/05/31/google-quietly-released-an-app-that-lets-you-download-and-run-ai-models-locally/)
+- [A guide to using Edits, Meta’s new CapCut rival for short-form video editing](https://techcrunch.com/2025/05/31/a-guide-to-using-edits-metas-new-capcut-rival-for-short-form-video-editing/)
+- [Serious About AI? The conversations that count start in 5 days at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/31/serious-about-ai-the-conversations-that-count-start-in-5-days-at-techcrunch-sessions-ai/)
 - [Venus is at its farthest from the sun on June 1: Here&#39;s how to see the bright &#39;morning star&#39; this weekend](https://www.space.com/stargazing/venus-is-at-its-farthest-from-the-sun-on-june-1-heres-how-to-see-the-bright-morning-star-this-weekend)
 - [Watch a brilliant &#39;fireball&#39; meteor explode over China on May 28 &lpar;video&rpar;](https://www.space.com/stargazing/meteor-showers/watch-a-brilliant-fireball-meteor-explode-over-china-on-may-28-video)
-- [This Week In Space podcast: Episode 163 — The Trials of Starship](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-163-the-trials-of-starship)
-- [Trump&#39;s 2026 budget would slash NASA funding by 24% and its workforce by nearly one third](https://www.space.com/space-exploration/trumps-2026-budget-would-slash-nasa-funding-by-24-percent-and-its-workforce-by-nearly-one-third)
-- [Elon Musk is lobbying lawmakers on driverless vehicle rules](https://techcrunch.com/2025/05/30/elon-musk-is-lobbying-lawmakers-on-driverless-vehicle-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
