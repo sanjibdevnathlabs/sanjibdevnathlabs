@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Venus is at its farthest from the sun on June 1: Here&#39;s how to see the bright &#39;morning star&#39; this weekend](https://www.space.com/stargazing/venus-is-at-its-farthest-from-the-sun-on-june-1-heres-how-to-see-the-bright-morning-star-this-weekend)
+- [Watch a brilliant &#39;fireball&#39; meteor explode over China on May 28 &lpar;video&rpar;](https://www.space.com/stargazing/meteor-showers/watch-a-brilliant-fireball-meteor-explode-over-china-on-may-28-video)
+- [This Week In Space podcast: Episode 163 — The Trials of Starship](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-163-the-trials-of-starship)
 - [Trump&#39;s 2026 budget would slash NASA funding by 24% and its workforce by nearly one third](https://www.space.com/space-exploration/trumps-2026-budget-would-slash-nasa-funding-by-24-percent-and-its-workforce-by-nearly-one-third)
 - [Elon Musk is lobbying lawmakers on driverless vehicle rules](https://techcrunch.com/2025/05/30/elon-musk-is-lobbying-lawmakers-on-driverless-vehicle-rules/)
-- [&#39;Cosmic miracle!&#39; James Webb Space Telescope discovers the earliest galaxy ever seen](https://www.space.com/astronomy/cosmic-miracle-james-webb-space-telescope-discovers-the-earliest-galaxy-ever-seen)
-- [Yep, X was down again](https://techcrunch.com/2025/05/30/yep-x-was-down-again/)
-- [TechCrunch Mobility: A ride-sharing pioneer comes for Uber, Tesla loses more ground, and dog-like delivery robots land in Texas](https://techcrunch.com/2025/05/30/techcrunch-mobility-a-ride-sharing-pioneer-comes-for-uber-tesla-loses-more-ground-and-dog-like-delivery-robots-land-in-texas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
