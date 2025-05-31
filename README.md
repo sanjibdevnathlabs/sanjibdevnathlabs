@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aurora alert: Severe geomagnetic storm could spark northern lights as far south as Alabama and northern California tonight](https://www.space.com/stargazing/auroras/aurora-alert-severe-geomagnetic-storm-could-spark-northern-lights-as-far-south-as-alabama-and-northern-california-tonight)
+- [Blue Origin launches 1st New Zealander to reach space, 5 others on latest New Shepard suborbital flight &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/blue-origin-launches-1st-new-zealander-to-reach-space-5-others-on-latest-new-shepard-suborbital-flight)
+- [Day 3 of the TechCrunch Sessions: AI Trivia Countdown — Your next shot at winning big](https://techcrunch.com/2025/05/31/day-3-of-the-techcrunch-sessions-ai-trivia-countdown-your-next-shot-at-winning-big/)
 - [Google quietly released an app that lets you download and run AI models locally](https://techcrunch.com/2025/05/31/google-quietly-released-an-app-that-lets-you-download-and-run-ai-models-locally/)
 - [A guide to using Edits, Meta’s new CapCut rival for short-form video editing](https://techcrunch.com/2025/05/31/a-guide-to-using-edits-metas-new-capcut-rival-for-short-form-video-editing/)
-- [Serious About AI? The conversations that count start in 5 days at TechCrunch Sessions: AI](https://techcrunch.com/2025/05/31/serious-about-ai-the-conversations-that-count-start-in-5-days-at-techcrunch-sessions-ai/)
-- [Venus is at its farthest from the sun on June 1: Here&#39;s how to see the bright &#39;morning star&#39; this weekend](https://www.space.com/stargazing/venus-is-at-its-farthest-from-the-sun-on-june-1-heres-how-to-see-the-bright-morning-star-this-weekend)
-- [Watch a brilliant &#39;fireball&#39; meteor explode over China on May 28 &lpar;video&rpar;](https://www.space.com/stargazing/meteor-showers/watch-a-brilliant-fireball-meteor-explode-over-china-on-may-28-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
