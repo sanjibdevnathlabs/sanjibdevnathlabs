@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 4 of TechCrunch Sessions: AI Trivia Countdown — Flex your brain, score big on tickets](https://techcrunch.com/2025/06/01/day-4-of-techcrunch-sessions-ai-trivia-countdown-flex-your-brain-score-big-on-tickets/)
 - [Video game union announces first contract with Microsoft](https://techcrunch.com/2025/06/01/video-game-union-announces-first-contract-with-microsoft/)
 - [4 days to go: TechCrunch Sessions: AI is almost in session](https://techcrunch.com/2025/06/01/4-days-to-go-techcrunch-sessions-ai-is-almost-in-session/)
 - [Northern lights may be visible in these 23 US States tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-23-us-states-tonight-june-1)
 - [&#39;Doctor Who&#39; finale sees Ncuti Gatwa&#39;s 15th Doctor regenerate into a very familiar face, but what does it mean for the show?](https://www.space.com/entertainment/space-movies-shows/doctor-who-finale-sees-ncuti-gatwas-15th-doctor-regenerate-into-a-very-familiar-face-but-what-does-it-mean-for-the-show)
-- [Aurora alert: Ongoing powerful geomagnetic storm could spark more northern lights across the US tonight](https://www.space.com/stargazing/auroras/aurora-alert-ongoing-powerful-geomagnetic-storm-could-spark-more-northern-lights-across-the-us-tonight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
