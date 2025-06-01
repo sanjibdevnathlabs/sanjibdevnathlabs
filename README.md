@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Severe G4 geomagnetic storm sparks northern lights across US and beyond &lpar;photos&rpar;](https://www.space.com/stargazing/auroras/severe-g4-geomagnetic-storm-sparks-northern-lights-across-us-and-beyond-photos)
 - [Super-magnetic dead star throws a violent temper tantrum as NASA X-ray spacecraft looks on](https://www.space.com/astronomy/super-magnetic-dead-star-throws-a-violent-temper-tantrum-as-nasa-x-ray-spacecraft-looks-on)
 - [Trump to withdraw Jared Isaacman&#39;s nomination as NASA chief](https://www.space.com/space-exploration/trump-to-withdraw-jared-isaacmans-nomination-as-nasa-chief)
 - [Left-leaning influencers embrace Bluesky without abandoning X, Pew says](https://techcrunch.com/2025/05/31/left-leaning-influencers-embrace-bluesky-without-abandoning-x-pew-says/)
 - [SpaceX adds 27 Starlink satellites to constellation after successful launch from California &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-adds-27-starlink-satellites-to-constellation-after-successful-launch-from-california)
-- [NAACP calls on Memphis officials to halt operations at xAI’s ‘dirty data center’](https://techcrunch.com/2025/05/31/naacp-calls-on-officials-to-halt-operations-at-xais-dirty-data-center-in-memphis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
