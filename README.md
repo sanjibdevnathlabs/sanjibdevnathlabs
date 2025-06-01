@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Video game union announces first contract with Microsoft](https://techcrunch.com/2025/06/01/video-game-union-announces-first-contract-with-microsoft/)
+- [4 days to go: TechCrunch Sessions: AI is almost in session](https://techcrunch.com/2025/06/01/4-days-to-go-techcrunch-sessions-ai-is-almost-in-session/)
+- [Northern lights may be visible in these 23 US States tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-23-us-states-tonight-june-1)
 - [&#39;Doctor Who&#39; finale sees Ncuti Gatwa&#39;s 15th Doctor regenerate into a very familiar face, but what does it mean for the show?](https://www.space.com/entertainment/space-movies-shows/doctor-who-finale-sees-ncuti-gatwas-15th-doctor-regenerate-into-a-very-familiar-face-but-what-does-it-mean-for-the-show)
 - [Aurora alert: Ongoing powerful geomagnetic storm could spark more northern lights across the US tonight](https://www.space.com/stargazing/auroras/aurora-alert-ongoing-powerful-geomagnetic-storm-could-spark-more-northern-lights-across-the-us-tonight)
-- [Severe G4 geomagnetic storm sparks northern lights across US and beyond &lpar;photos&rpar;](https://www.space.com/stargazing/auroras/severe-g4-geomagnetic-storm-sparks-northern-lights-across-us-and-beyond-photos)
-- [Super-magnetic dead star throws a violent temper tantrum as NASA X-ray spacecraft looks on](https://www.space.com/astronomy/super-magnetic-dead-star-throws-a-violent-temper-tantrum-as-nasa-x-ray-spacecraft-looks-on)
-- [Trump to withdraw Jared Isaacman&#39;s nomination as NASA chief](https://www.space.com/space-exploration/trump-to-withdraw-jared-isaacmans-nomination-as-nasa-chief)
 <!-- BLOG-POST-LIST:END -->
 
 ---
