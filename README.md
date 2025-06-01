@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Predator: Badlands: Release date, plot, trailers &amp; everything we know about Predator&#39;s silver screen return](https://www.space.com/entertainment/space-movies-shows/predator-badlands-release-date-plot-trailers-and-everything-we-know-about-predators-silver-screen-return)
+- [Sam Altman biographer Keach Hagey explains why the OpenAI CEO was ‘born for this moment’](https://techcrunch.com/2025/06/01/sam-altman-biographer-keach-hagey-explains-why-the-openai-ceo-was-born-for-this-moment/)
 - [Day 4 of TechCrunch Sessions: AI Trivia Countdown — Flex your brain, score big on tickets](https://techcrunch.com/2025/06/01/day-4-of-techcrunch-sessions-ai-trivia-countdown-flex-your-brain-score-big-on-tickets/)
 - [Video game union announces first contract with Microsoft](https://techcrunch.com/2025/06/01/video-game-union-announces-first-contract-with-microsoft/)
 - [4 days to go: TechCrunch Sessions: AI is almost in session](https://techcrunch.com/2025/06/01/4-days-to-go-techcrunch-sessions-ai-is-almost-in-session/)
-- [Northern lights may be visible in these 23 US States tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-23-us-states-tonight-june-1)
-- [&#39;Doctor Who&#39; finale sees Ncuti Gatwa&#39;s 15th Doctor regenerate into a very familiar face, but what does it mean for the show?](https://www.space.com/entertainment/space-movies-shows/doctor-who-finale-sees-ncuti-gatwas-15th-doctor-regenerate-into-a-very-familiar-face-but-what-does-it-mean-for-the-show)
 <!-- BLOG-POST-LIST:END -->
 
 ---
