@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Doctor Who&#39; finale sees Ncuti Gatwa&#39;s 15th Doctor regenerate into a very familiar face, but what does it mean for the show?](https://www.space.com/entertainment/space-movies-shows/doctor-who-finale-sees-ncuti-gatwas-15th-doctor-regenerate-into-a-very-familiar-face-but-what-does-it-mean-for-the-show)
+- [Aurora alert: Ongoing powerful geomagnetic storm could spark more northern lights across the US tonight](https://www.space.com/stargazing/auroras/aurora-alert-ongoing-powerful-geomagnetic-storm-could-spark-more-northern-lights-across-the-us-tonight)
 - [Severe G4 geomagnetic storm sparks northern lights across US and beyond &lpar;photos&rpar;](https://www.space.com/stargazing/auroras/severe-g4-geomagnetic-storm-sparks-northern-lights-across-us-and-beyond-photos)
 - [Super-magnetic dead star throws a violent temper tantrum as NASA X-ray spacecraft looks on](https://www.space.com/astronomy/super-magnetic-dead-star-throws-a-violent-temper-tantrum-as-nasa-x-ray-spacecraft-looks-on)
 - [Trump to withdraw Jared Isaacman&#39;s nomination as NASA chief](https://www.space.com/space-exploration/trump-to-withdraw-jared-isaacmans-nomination-as-nasa-chief)
-- [Left-leaning influencers embrace Bluesky without abandoning X, Pew says](https://techcrunch.com/2025/05/31/left-leaning-influencers-embrace-bluesky-without-abandoning-x-pew-says/)
-- [SpaceX adds 27 Starlink satellites to constellation after successful launch from California &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-adds-27-starlink-satellites-to-constellation-after-successful-launch-from-california)
 <!-- BLOG-POST-LIST:END -->
 
 ---
