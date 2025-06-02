@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Bing gets a free Sora-powered AI video generator](https://techcrunch.com/2025/06/02/microsoft-bing-gets-a-free-sora-powered-ai-video-generator/)
 - [Snowflake to acquire database startup Crunchy Data](https://techcrunch.com/2025/06/02/snowflake-to-acquire-database-startup-crunchy-data/)
 - [Two space vets added to Astronaut Hall of Fame as one awaits launch](https://www.space.com/space-exploration/human-spaceflight/two-space-vets-added-to-astronaut-hall-of-fame-as-one-awaits-launch)
 - [Digg’s founders explain how they’re building a site for humans in the AI era](https://techcrunch.com/2025/06/02/diggs-founders-explain-how-theyre-building-a-site-for-humans-in-the-ai-era/)
 - [Chatbot platform Character.AI unveils video generation, social feeds](https://techcrunch.com/2025/06/02/chatbot-platform-character-ai-unveils-video-generation-social-feeds/)
-- [Elon Musk’s Neuralink closes a $650M Series E](https://techcrunch.com/2025/06/02/elon-musks-neuralink-closes-a-650m-series-e/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
