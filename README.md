@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Valla raises $2.7M to make legal recourse more accessible to employees](https://techcrunch.com/2025/06/02/valla-raises-2-7m-to-make-legal-recourse-more-accessible-to-employees/)
+- [Console raises $6.2M from Thrive to free IT teams from mundane tasks with AI](https://techcrunch.com/2025/06/02/console-raises-6-2m-from-thrive-to-free-it-teams-from-mundane-tasks-with-ai/)
 - [Former DreamWorks CEO Jeffrey Katzenberg co-leads $15.5M Series A for AI video ad platform](https://techcrunch.com/2025/06/02/former-dreamworks-ceo-jeffrey-katzenberg-co-leads-15-5m-series-a-for-ai-video-ad-platform/)
 - [Microsoft Bing gets a free Sora-powered AI video generator](https://techcrunch.com/2025/06/02/microsoft-bing-gets-a-free-sora-powered-ai-video-generator/)
 - [Snowflake to acquire database startup Crunchy Data](https://techcrunch.com/2025/06/02/snowflake-to-acquire-database-startup-crunchy-data/)
-- [Two space vets added to Astronaut Hall of Fame as one awaits launch](https://www.space.com/space-exploration/human-spaceflight/two-space-vets-added-to-astronaut-hall-of-fame-as-one-awaits-launch)
-- [Digg’s founders explain how they’re building a site for humans in the AI era](https://techcrunch.com/2025/06/02/diggs-founders-explain-how-theyre-building-a-site-for-humans-in-the-ai-era/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
