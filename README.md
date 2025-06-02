@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Private Japanese spacecraft aims to land in the moon&#39;s &#39;Sea of Cold&#39; this week](https://www.space.com/astronomy/moon/private-japanese-spacecraft-will-attempt-to-land-in-the-moons-sea-of-cold-this-week)
-- [Elon Musk says XChat is rolling out to all, but questions remain about its alleged security](https://techcrunch.com/2025/06/02/elon-musk-says-xchat-is-rolling-out-to-all-but-questions-remain-about-its-alleged-security/)
-- [The Milky Way may not collide with neighboring galaxy Andromeda after all: &#39;From near-certainty to a coin flip&#39;](https://www.space.com/astronomy/the-milky-way-may-not-collide-with-neighboring-galaxy-andromeda-after-all-from-near-certainty-to-a-coin-flip)
-- [Startup Battlefield 200: Final week to submit your application](https://techcrunch.com/2025/06/02/startup-battlefield-200-final-week-to-submit-your-application/)
-- [Northern lights may be visible in these 15 US States tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-15-us-states-tonight-june-2)
+- [Vanta bug exposed customers’ data to other customers](https://techcrunch.com/2025/06/02/vanta-bug-exposed-customers-data-to-other-customers/)
+- [How AI chatbots keep you chatting](https://techcrunch.com/2025/06/02/how-ai-chatbots-keep-you-chatting/)
+- [$800 million, 13 years, and still no release date — the state of Star Citizen in 2025](https://www.space.com/entertainment/space-games/800-million-13-years-and-still-no-release-date-the-state-of-star-citizen-in-2025)
+- [Incredible auroras delight stargazers in New Zealand | Space photo of the day for June 2, 2025](https://www.space.com/stargazing/auroras/incredible-auroras-delight-stargazers-in-new-zealand-space-photo-of-the-day-for-june-2-2025)
+- [NSO Group asks judge for new trial, calling $167 million in damages ‘outrageous’](https://techcrunch.com/2025/06/02/nso-group-asks-judge-for-new-trial-calling-167-million-in-damages-outrageous/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
