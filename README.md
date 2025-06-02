@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amateur astronomer captures ghostly outer shell of the Cat&#39;s Eye Nebula &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/amateur-astronomer-captures-ghostly-outer-shell-of-the-cats-eye-nebula-photo)
-- [3 days until the doors open at TechCrunch Sessions: AI at UC Berkeley](https://techcrunch.com/2025/06/02/3-days-until-the-doors-open-at-techcrunch-sessions-ai-in-berkeley/)
-- [Major record labels are reportedly in licensing talks with AI firms Udio and Suno](https://techcrunch.com/2025/06/02/major-record-labels-are-reportedly-in-licensing-talks-with-ai-firms-udio-and-suno/)
-- [Samsung may incorporate Perplexity’s AI tech in its phones](https://techcrunch.com/2025/06/02/samsung-may-incorporate-perplexitys-ai-tech-in-its-phones/)
-- [Don&#39;t miss the half-lit first quarter moon rise tonight: Here&#39;s what to look for](https://www.space.com/stargazing/dont-miss-the-half-lit-first-quarter-moon-rise-tonight-heres-what-to-look-for)
+- [The Milky Way may not collide with neighboring galaxy Andromeda after all: &#39;From near-certainty to a coin flip&#39;](https://www.space.com/astronomy/the-milky-way-may-not-collide-with-neighboring-galaxy-andromeda-after-all-from-near-certainty-to-a-coin-flip)
+- [Startup Battlefield 200: Final week to submit your application](https://techcrunch.com/2025/06/02/startup-battlefield-200-final-week-to-submit-your-application/)
+- [Northern lights may be visible in these 15 US States tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-15-us-states-tonight-june-2)
+- [5 days left to claim your exhibitor table for TechCrunch All Stage](https://techcrunch.com/2025/06/02/5-days-left-to-claim-your-exhibitor-table-for-techcrunch-all-stage/)
+- [Day 5 of TechCrunch Sessions: AI Trivia Countdown — Test your knowledge, win big tickets](https://techcrunch.com/2025/06/02/day-5-of-techcrunch-sessions-ai-trivia-countdown-test-your-knowledge-win-big-tickets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
