@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Glass is back in the AI glasses game with Android XR smart glasses](https://techcrunch.com/video/google-glass-is-back-in-the-ai-glasses-game-with-android-xr-smart-glasses/)
-- [Salesforce buys Moonhub, a startup building AI tools for hiring](https://techcrunch.com/2025/06/02/salesforce-buys-moonhub-a-startup-building-ai-tools-for-hiring/)
-- [Chime, last valued at $25B, aims for $11B in upcoming IPO](https://techcrunch.com/2025/06/02/chime-last-valued-at-25b-aims-for-11b-in-upcoming-ipo/)
-- [What&#39;s at the center of Mars? Maybe the stench of rotten eggs](https://www.space.com/astronomy/mars/whats-at-the-center-of-mars-maybe-the-stench-of-rotten-eggs)
-- [Breakneck data center growth challenges Microsoft’s sustainability goals](https://techcrunch.com/2025/06/02/breakneck-data-center-growth-challenges-microsofts-sustainability-goals/)
+- [Snowflake to acquire database startup Crunchy Data](https://techcrunch.com/2025/06/02/snowflake-to-acquire-database-startup-crunchy-data/)
+- [Two space vets added to Astronaut Hall of Fame as one awaits launch](https://www.space.com/space-exploration/human-spaceflight/two-space-vets-added-to-astronaut-hall-of-fame-as-one-awaits-launch)
+- [Digg’s founders explain how they’re building a site for humans in the AI era](https://techcrunch.com/2025/06/02/diggs-founders-explain-how-theyre-building-a-site-for-humans-in-the-ai-era/)
+- [Chatbot platform Character.AI unveils video generation, social feeds](https://techcrunch.com/2025/06/02/chatbot-platform-character-ai-unveils-video-generation-social-feeds/)
+- [Elon Musk’s Neuralink closes a $650M Series E](https://techcrunch.com/2025/06/02/elon-musks-neuralink-closes-a-650m-series-e/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
