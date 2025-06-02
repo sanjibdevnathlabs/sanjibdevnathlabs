@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Breakneck data center growth challenges Microsoft’s sustainability goals](https://techcrunch.com/2025/06/02/breakneck-data-center-growth-challenges-microsofts-sustainability-goals/)
+- [IBM acquires data analysis startup Seek AI, opens AI accelerator in NYC](https://techcrunch.com/2025/06/02/ibm-acquires-data-analysis-startup-seek-ai-opens-ai-accelerator-in-nyc/)
+- [Elon Musk’s xAI reportedly looks to raise $300M in tender offer](https://techcrunch.com/2025/06/02/elon-musks-xai-reportedly-looks-to-raise-300m-in-tender-offer/)
+- [Tesla files new ‘Robotaxi’ trademark applications after prior attempt stalls](https://techcrunch.com/2025/06/02/tesla-files-new-robotaxi-trademark-applications-after-prior-attempt-stalls/)
 - [Vanta bug exposed customers’ data to other customers](https://techcrunch.com/2025/06/02/vanta-bug-exposed-customers-data-to-other-customers/)
-- [How AI chatbots keep you chatting](https://techcrunch.com/2025/06/02/how-ai-chatbots-keep-you-chatting/)
-- [$800 million, 13 years, and still no release date — the state of Star Citizen in 2025](https://www.space.com/entertainment/space-games/800-million-13-years-and-still-no-release-date-the-state-of-star-citizen-in-2025)
-- [Incredible auroras delight stargazers in New Zealand | Space photo of the day for June 2, 2025](https://www.space.com/stargazing/auroras/incredible-auroras-delight-stargazers-in-new-zealand-space-photo-of-the-day-for-june-2-2025)
-- [NSO Group asks judge for new trial, calling $167 million in damages ‘outrageous’](https://techcrunch.com/2025/06/02/nso-group-asks-judge-for-new-trial-calling-167-million-in-damages-outrageous/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
