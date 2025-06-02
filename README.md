@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Glass is back in the AI glasses game with Android XR smart glasses](https://techcrunch.com/video/google-glass-is-back-in-the-ai-glasses-game-with-android-xr-smart-glasses/)
+- [Salesforce buys Moonhub, a startup building AI tools for hiring](https://techcrunch.com/2025/06/02/salesforce-buys-moonhub-a-startup-building-ai-tools-for-hiring/)
+- [Chime, last valued at $25B, aims for $11B in upcoming IPO](https://techcrunch.com/2025/06/02/chime-last-valued-at-25b-aims-for-11b-in-upcoming-ipo/)
+- [What&#39;s at the center of Mars? Maybe the stench of rotten eggs](https://www.space.com/astronomy/mars/whats-at-the-center-of-mars-maybe-the-stench-of-rotten-eggs)
 - [Breakneck data center growth challenges Microsoft’s sustainability goals](https://techcrunch.com/2025/06/02/breakneck-data-center-growth-challenges-microsofts-sustainability-goals/)
-- [IBM acquires data analysis startup Seek AI, opens AI accelerator in NYC](https://techcrunch.com/2025/06/02/ibm-acquires-data-analysis-startup-seek-ai-opens-ai-accelerator-in-nyc/)
-- [Elon Musk’s xAI reportedly looks to raise $300M in tender offer](https://techcrunch.com/2025/06/02/elon-musks-xai-reportedly-looks-to-raise-300m-in-tender-offer/)
-- [Tesla files new ‘Robotaxi’ trademark applications after prior attempt stalls](https://techcrunch.com/2025/06/02/tesla-files-new-robotaxi-trademark-applications-after-prior-attempt-stalls/)
-- [Vanta bug exposed customers’ data to other customers](https://techcrunch.com/2025/06/02/vanta-bug-exposed-customers-data-to-other-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
