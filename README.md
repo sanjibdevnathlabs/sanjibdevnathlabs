@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Do You Still Need to Learn Python in the Age of AI?](https://www.youtube.com/watch?v=5B4OiFm48Tw)
+- [Do You Still Need to Learn Python in the Age of AI?](https://www.youtube.com/watch?v=hl2IeK4Ogl0)
 - [MikeBot3000: Can We Build an AI Mike from Open Source Tools? - Computerphile](https://www.youtube.com/watch?v=cP8xpkvs_UI)
 - [What is &quot;rubber duck debugging?&quot;](https://www.youtube.com/watch?v=jB085P7ktMc)
 - [What is &quot;rubber duck debugging?&quot;](https://www.youtube.com/watch?v=f98ogUP80KI)
-- [AI Sandbagging - Computerphile](https://www.youtube.com/watch?v=pYP0ynR8h-k)
-- [What is a problem that you see in the world, one that you are actively trying to solve?](https://www.youtube.com/watch?v=Oc-iNQSxUMQ)
 <!-- YOUTUBE:END -->
 
 ---
