@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Private Japanese spacecraft aims to land in the moon&#39;s &#39;Sea of Cold&#39; this week](https://www.space.com/astronomy/moon/private-japanese-spacecraft-will-attempt-to-land-in-the-moons-sea-of-cold-this-week)
+- [Elon Musk says XChat is rolling out to all, but questions remain about its alleged security](https://techcrunch.com/2025/06/02/elon-musk-says-xchat-is-rolling-out-to-all-but-questions-remain-about-its-alleged-security/)
 - [The Milky Way may not collide with neighboring galaxy Andromeda after all: &#39;From near-certainty to a coin flip&#39;](https://www.space.com/astronomy/the-milky-way-may-not-collide-with-neighboring-galaxy-andromeda-after-all-from-near-certainty-to-a-coin-flip)
 - [Startup Battlefield 200: Final week to submit your application](https://techcrunch.com/2025/06/02/startup-battlefield-200-final-week-to-submit-your-application/)
 - [Northern lights may be visible in these 15 US States tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-15-us-states-tonight-june-2)
-- [5 days left to claim your exhibitor table for TechCrunch All Stage](https://techcrunch.com/2025/06/02/5-days-left-to-claim-your-exhibitor-table-for-techcrunch-all-stage/)
-- [Day 5 of TechCrunch Sessions: AI Trivia Countdown — Test your knowledge, win big tickets](https://techcrunch.com/2025/06/02/day-5-of-techcrunch-sessions-ai-trivia-countdown-test-your-knowledge-win-big-tickets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
