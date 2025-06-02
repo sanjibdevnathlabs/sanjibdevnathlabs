@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t miss the half-lit first quarter moon rise tonight: Here&#39;s what to look for](https://www.space.com/stargazing/dont-miss-the-half-lit-first-quarter-moon-rise-tonight-heres-what-to-look-for)
+- [Scale AI hires team behind remote developer recruiting platform Pesto AI](https://techcrunch.com/2025/06/02/scale-ai-hires-team-behind-remote-developer-recruiting-platform-pesto-ai/)
 - [Turning the Red Planet green? It&#39;s time to take terraforming Mars seriously, scientists say](https://www.space.com/astronomy/mars/turning-the-red-planet-green-its-time-to-take-terraforming-mars-seriously-scientists-say)
 - [For the love of God, stop calling your AI a co-worker](https://techcrunch.com/2025/06/01/for-the-love-of-god-stop-calling-your-ai-a-co-worker/)
 - [Elon Musk tries to stick to spaceships](https://techcrunch.com/2025/06/01/elon-musk-tries-to-stick-to-spaceships/)
-- [Thousands of Netflix fans gather for Tudum](https://techcrunch.com/2025/06/01/thousands-of-netflix-fans-gather-for-tudum/)
-- [Early AI investor Elad Gil finds his next big bet: AI-powered rollups](https://techcrunch.com/2025/06/01/early-ai-investor-elad-gil-finds-his-next-big-bet-ai-powered-rollups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
