@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fred Espenak, astronomy&#39;s &#39;Mr. Eclipse&#39;, dies at 71](https://www.space.com/stargazing/fred-espenak-astronomys-mr-eclipse-dies-at-71)
+- [Meta buys a nuclear power plant &lpar;more or less&rpar;](https://techcrunch.com/2025/06/03/meta-buys-a-nuclear-power-plant-more-or-less/)
+- [TikTok rolls out AI-powered Smart Keyword Filters to limit content you don’t want to see](https://techcrunch.com/2025/06/03/tiktok-rolls-out-ai-powered-smart-keyword-filters-to-limit-content-you-dont-want-to-see/)
 - [DeepSeek may have used Google’s Gemini to train its latest model](https://techcrunch.com/2025/06/03/deepseek-may-have-used-googles-gemini-to-train-its-latest-model/)
-- [Snapchat adds new tools for building Bitmoji games](https://techcrunch.com/2025/06/03/snapchat-adds-new-tools-for-building-bitmoji-games/)
-- [NOAA expects up to 5 major hurricanes in 2025: &#39;Be prepared&#39;](https://www.space.com/astronomy/earth/noaa-expects-up-to-5-major-hurricanes-in-2025-be-prepared)
-- [Indian grocery startup KiranaPro was hacked and its servers deleted, CEO confirms](https://techcrunch.com/2025/06/03/indian-grocery-startup-kiranapro-was-hacked-and-its-servers-deleted-ceo-confirms/)
-- [iOS 19: All the rumored changes Apple could be bringing to its new operating system](https://techcrunch.com/2025/06/03/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/)
+- [Snap adds new tools for building Bitmoji games](https://techcrunch.com/2025/06/03/snapchat-adds-new-tools-for-building-bitmoji-games/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
