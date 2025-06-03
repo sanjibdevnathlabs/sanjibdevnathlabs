@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [One week left to spotlight your brand with a Side Event at TechCrunch All Stage](https://techcrunch.com/2025/06/03/one-week-left-to-spotlight-your-brand-with-a-side-event-at-techcrunch-all-stage/)
-- [Black holes could work as natural particle colliders to hunt for dark matter, scientists say](https://www.space.com/astronomy/black-holes-could-work-as-natural-particle-colliders-to-hunt-for-dark-matter-scientists-say)
-- [Inside TechCrunch Sessions AI: Learn how Toyota and NLX use AI to parse millions of tech docs, with NLX CEO Andrei Papancea](https://techcrunch.com/2025/06/03/inside-techcrunch-sessions-ai-learn-how-toyota-and-nlx-use-ai-to-parse-millions-of-tech-docs-with-nlx-ceo-andrei-papancea/)
-- [4 days left: Time — and space — are almost up to exhibit at TechCrunch All Stage](https://techcrunch.com/2025/06/03/4-days-left-time-and-space-are-almost-up-to-exhibit-at-techcrunch-all-stage/)
-- [Day 6 of 7: TechCrunch Sessions: AI Trivia Countdown — flex your brain, score 2-for-1 tickets](https://techcrunch.com/2025/06/03/day-6-of-techcrunch-sessions-ai-trivia-countdown-flex-your-brain-score-a-2-for-1-ticket-deal/)
+- [DeepSeek may have used Google’s Gemini to train its latest model](https://techcrunch.com/2025/06/03/deepseek-may-have-used-googles-gemini-to-train-its-latest-model/)
+- [Snapchat adds new tools for building Bitmoji games](https://techcrunch.com/2025/06/03/snapchat-adds-new-tools-for-building-bitmoji-games/)
+- [NOAA expects up to 5 major hurricanes in 2025: &#39;Be prepared&#39;](https://www.space.com/astronomy/earth/noaa-expects-up-to-5-major-hurricanes-in-2025-be-prepared)
+- [Indian grocery startup KiranaPro was hacked and its servers deleted, CEO confirms](https://techcrunch.com/2025/06/03/indian-grocery-startup-kiranapro-was-hacked-and-its-servers-deleted-ceo-confirms/)
+- [iOS 19: All the rumored changes Apple could be bringing to its new operating system](https://techcrunch.com/2025/06/03/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
