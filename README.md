@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS establishes new German corporate presence to advance European sovereign cloud](https://techcrunch.com/2025/06/03/aws-establishes-new-german-corporate-presence-to-advance-european-sovereign-cloud/)
-- [Just 2 days until TechCrunch Sessions: AI at UC Berkeley — where the future of AI takes shape](https://techcrunch.com/2025/06/03/just-2-days-until-techcrunch-sessions-ai-at-uc-berkeley-where-the-future-of-ai-takes-shape/)
-- [Wispr Flow releases iOS app in a bid to make dictation feel effortless](https://techcrunch.com/2025/06/03/wispr-flow-releases-ios-app-in-a-bid-to-make-dictation-feel-effortless/)
-- [Health giant Kettering still facing disruption weeks after ransomware attack](https://techcrunch.com/2025/06/03/health-giant-kettering-still-facing-disruption-weeks-after-ransomware-attack/)
-- [Speedata, a chip startup competing with Nvidia, raises a $44M Series B](https://techcrunch.com/2025/06/03/speedata-a-chip-startup-competing-with-nvidia-raises-a-44m-series-b/)
+- [One week left to spotlight your brand with a Side Event at TechCrunch All Stage](https://techcrunch.com/2025/06/03/one-week-left-to-spotlight-your-brand-with-a-side-event-at-techcrunch-all-stage/)
+- [Black holes could work as natural particle colliders to hunt for dark matter, scientists say](https://www.space.com/astronomy/black-holes-could-work-as-natural-particle-colliders-to-hunt-for-dark-matter-scientists-say)
+- [Inside TechCrunch Sessions AI: Learn how Toyota and NLX use AI to parse millions of tech docs, with NLX CEO Andrei Papancea](https://techcrunch.com/2025/06/03/inside-techcrunch-sessions-ai-learn-how-toyota-and-nlx-use-ai-to-parse-millions-of-tech-docs-with-nlx-ceo-andrei-papancea/)
+- [4 days left: Time — and space — are almost up to exhibit at TechCrunch All Stage](https://techcrunch.com/2025/06/03/4-days-left-time-and-space-are-almost-up-to-exhibit-at-techcrunch-all-stage/)
+- [Day 6 of 7: TechCrunch Sessions: AI Trivia Countdown — flex your brain, score 2-for-1 tickets](https://techcrunch.com/2025/06/03/day-6-of-techcrunch-sessions-ai-trivia-countdown-flex-your-brain-score-a-2-for-1-ticket-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
