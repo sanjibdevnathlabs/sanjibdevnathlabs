@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Starship in space&#39;: See amazing photos from SpaceX megarocket&#39;s Flight 9 test mission](https://www.space.com/space-exploration/launches-spacecraft/starship-in-space-see-amazing-photos-from-spacex-megarockets-flight-9-test-mission)
+- [Anthropic’s AI is writing its own blog — with human oversight](https://techcrunch.com/2025/06/03/anthropics-ai-is-writing-its-own-blog-with-human-oversight/)
+- [60 years ago, Ed White went out for walk | Space photo of the day for June 3, 2025](https://www.space.com/space-exploration/human-spaceflight/60-years-ago-ed-white-went-out-for-walk-space-photo-of-the-day-for-june-3-2025)
 - [SpaceX&#39;s next private astronaut launch to ISS, Ax-4, pushed back to June 10](https://www.space.com/space-exploration/private-spaceflight/spacexs-next-private-astronaut-launch-to-iss-ax-4-pushed-back-to-june-10)
 - [Now Deel is accusing Rippling of spying by ‘impersonating’ a customer](https://techcrunch.com/2025/06/03/now-deel-is-accusing-rippling-of-spying-by-impersonating-a-customer/)
-- [Google places another fusion power bet on TAE Technologies](https://techcrunch.com/2025/06/03/google-places-another-fusion-power-bet-on-tae-technologies/)
-- [The OpenAI board drama is reportedly turning into a movie](https://techcrunch.com/2025/06/03/the-openai-board-drama-is-reportedly-turning-into-a-movie/)
-- [Best friendly aliens: From Superman to Stitch, these are the friendliest extra-terrestrials from sci-fi movies and TV](https://www.space.com/entertainment/best-friendly-aliens-from-sci-fi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
