@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s next private astronaut launch to ISS, Ax-4, pushed back to June 10](https://www.space.com/space-exploration/private-spaceflight/spacexs-next-private-astronaut-launch-to-iss-ax-4-pushed-back-to-june-10)
+- [Now Deel is accusing Rippling of spying by ‘impersonating’ a customer](https://techcrunch.com/2025/06/03/now-deel-is-accusing-rippling-of-spying-by-impersonating-a-customer/)
+- [Google places another fusion power bet on TAE Technologies](https://techcrunch.com/2025/06/03/google-places-another-fusion-power-bet-on-tae-technologies/)
+- [The OpenAI board drama is reportedly turning into a movie](https://techcrunch.com/2025/06/03/the-openai-board-drama-is-reportedly-turning-into-a-movie/)
 - [Best friendly aliens: From Superman to Stitch, these are the friendliest extra-terrestrials from sci-fi movies and TV](https://www.space.com/entertainment/best-friendly-aliens-from-sci-fi)
-- [Phone chipmaker Qualcomm fixes three zero-days exploited by hackers](https://techcrunch.com/2025/06/03/phone-chipmaker-qualcomm-fixes-three-zero-days-exploited-by-hackers/)
-- [Colossal Labs will release the sounds of dire wolves howling ‘later this year,’ founder says](https://techcrunch.com/2025/06/03/colossal-labs-will-release-the-sounds-of-dire-wolves-howling-later-this-year-founder-says/)
-- [Hinge CMO Jackie Jantos hopes to help make Gen Zers less lonely](https://techcrunch.com/2025/06/03/hinge-cmo-jackie-jantos-hopes-to-help-make-gen-zers-less-lonely/)
-- [Reddit now lets you hide content, like posts and comments, from your user profile](https://techcrunch.com/2025/06/03/reddit-now-lets-you-hide-content-like-posts-and-comments-from-your-user-profile/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
