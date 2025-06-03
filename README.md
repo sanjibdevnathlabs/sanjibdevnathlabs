@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Northern lights may be visible from these 13 US States tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-from-these-13-us-states-tonight-june-3)
+- [An early Joby Aviation backer might soon be its biggest distributor in Saudi Arabia](https://techcrunch.com/2025/06/03/an-early-joby-aviation-backer-might-soon-be-its-biggest-distributor-in-saudi-arabia/)
+- [Indeed CEO Chris Hyams resigns, hands over reins to former chief Hisayuki Idekoba](https://techcrunch.com/2025/06/03/indeed-ceo-chris-hyams-resigns-hands-over-reins-to-former-chief-hisayuki-idekoba/)
 - [Watch Apple’s WWDC 2025 keynote right here](https://techcrunch.com/2025/06/03/watch-apples-wwdc-2025-keynote-right-here/)
 - [TikTok launches ‘TikTok for Artists,’ a new music insights platform](https://techcrunch.com/2025/06/03/tiktok-launches-tiktok-for-artists-a-new-music-insights-platform/)
-- [Satellites are polluting Earth&#39;s atmosphere with heavy metals. Could refueling them in orbit help?](https://www.space.com/space-exploration/satellites/satellites-are-polluting-earths-atmosphere-with-heavy-metals-could-refueling-them-in-orbit-help)
-- [Irish fintech NomuPay lands $40M at a $290M valuation from SoftBank](https://techcrunch.com/2025/06/03/irish-fintech-startup-nomupay-lands-another-40m-at-a-290m-valuation-from-softbank-just-5-months-after-its-last-raise/)
-- [AI could solve puzzles posed by twin stars in &#39;mere minutes or seconds on a single laptop&#39;](https://www.space.com/astronomy/ai-could-solve-puzzles-posed-by-twin-stars-in-mere-minutes-or-seconds-on-a-single-laptop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
