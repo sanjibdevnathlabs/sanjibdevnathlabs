@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Satellites are polluting Earth&#39;s atmosphere with heavy metals. Could refueling them in orbit help?](https://www.space.com/space-exploration/satellites/satellites-are-polluting-earths-atmosphere-with-heavy-metals-could-refueling-them-in-orbit-help)
 - [Irish fintech NomuPay lands $40M at a $290M valuation from SoftBank](https://techcrunch.com/2025/06/03/irish-fintech-startup-nomupay-lands-another-40m-at-a-290m-valuation-from-softbank-just-5-months-after-its-last-raise/)
 - [AI could solve puzzles posed by twin stars in &#39;mere minutes or seconds on a single laptop&#39;](https://www.space.com/astronomy/ai-could-solve-puzzles-posed-by-twin-stars-in-mere-minutes-or-seconds-on-a-single-laptop)
 - [Valla raises $2.7M to make legal recourse more accessible to employees](https://techcrunch.com/2025/06/02/valla-raises-2-7m-to-make-legal-recourse-more-accessible-to-employees/)
 - [Console raises $6.2M from Thrive to free IT teams from mundane tasks with AI](https://techcrunch.com/2025/06/02/console-raises-6-2m-from-thrive-to-free-it-teams-from-mundane-tasks-with-ai/)
-- [Former DreamWorks CEO Jeffrey Katzenberg co-leads $15.5M Series A for AI video ad platform](https://techcrunch.com/2025/06/02/former-dreamworks-ceo-jeffrey-katzenberg-co-leads-15-5m-series-a-for-ai-video-ad-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
