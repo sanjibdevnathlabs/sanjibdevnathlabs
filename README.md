@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Colossal Labs will release the sounds of dire wolves howling ‘later this year,’ founder says](https://techcrunch.com/2025/06/03/colossal-labs-will-release-the-sounds-of-dire-wolves-howling-later-this-year-founder-says/)
+- [Hinge CMO Jackie Jantos hopes to help make Gen Zers less lonely](https://techcrunch.com/2025/06/03/hinge-cmo-jackie-jantos-hopes-to-help-make-gen-zers-less-lonely/)
+- [Reddit now lets you hide content, like posts and comments, from your user profile](https://techcrunch.com/2025/06/03/reddit-now-lets-you-hide-content-like-posts-and-comments-from-your-user-profile/)
+- [Yoshua Bengio launches LawZero, a nonprofit AI safety lab](https://techcrunch.com/2025/06/03/yoshua-bengio-launches-lawzero-a-nonprofit-ai-safety-lab/)
 - [Fred Espenak, astronomy&#39;s &#39;Mr. Eclipse&#39;, dies at 71](https://www.space.com/stargazing/fred-espenak-astronomys-mr-eclipse-dies-at-71)
-- [Meta buys a nuclear power plant &lpar;more or less&rpar;](https://techcrunch.com/2025/06/03/meta-buys-a-nuclear-power-plant-more-or-less/)
-- [TikTok rolls out AI-powered Smart Keyword Filters to limit content you don’t want to see](https://techcrunch.com/2025/06/03/tiktok-rolls-out-ai-powered-smart-keyword-filters-to-limit-content-you-dont-want-to-see/)
-- [DeepSeek may have used Google’s Gemini to train its latest model](https://techcrunch.com/2025/06/03/deepseek-may-have-used-googles-gemini-to-train-its-latest-model/)
-- [Snap adds new tools for building Bitmoji games](https://techcrunch.com/2025/06/03/snapchat-adds-new-tools-for-building-bitmoji-games/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
