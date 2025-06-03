@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Northern lights may be visible from these 13 US States tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-from-these-13-us-states-tonight-june-3)
-- [An early Joby Aviation backer might soon be its biggest distributor in Saudi Arabia](https://techcrunch.com/2025/06/03/an-early-joby-aviation-backer-might-soon-be-its-biggest-distributor-in-saudi-arabia/)
-- [Indeed CEO Chris Hyams resigns, hands over reins to former chief Hisayuki Idekoba](https://techcrunch.com/2025/06/03/indeed-ceo-chris-hyams-resigns-hands-over-reins-to-former-chief-hisayuki-idekoba/)
-- [Watch Apple’s WWDC 2025 keynote right here](https://techcrunch.com/2025/06/03/watch-apples-wwdc-2025-keynote-right-here/)
-- [TikTok launches ‘TikTok for Artists,’ a new music insights platform](https://techcrunch.com/2025/06/03/tiktok-launches-tiktok-for-artists-a-new-music-insights-platform/)
+- [Health giant Kettering still facing disruption weeks after ransomware attack](https://techcrunch.com/2025/06/03/health-giant-kettering-still-facing-disruption-weeks-after-ransomware-attack/)
+- [Speedata, a chip startup competing with Nvidia, raises a $44M Series B](https://techcrunch.com/2025/06/03/speedata-a-chip-startup-competing-with-nvidia-raises-a-44m-series-b/)
+- [Adobe launches beta version of its Photoshop app on Android](https://techcrunch.com/2025/06/03/adobe-launches-beta-version-of-its-photoshop-app-on-android/)
+- [When the sun dies, could life survive on the Jupiter ocean moon Europa?](https://www.space.com/astronomy/when-the-sun-dies-could-life-survive-on-the-jupiter-ocean-moon-europa)
+- [SpaceX launches 23 more Starlink satellites from Florida &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-23-more-starlink-satellites-from-florida)
 <!-- BLOG-POST-LIST:END -->
 
 ---
