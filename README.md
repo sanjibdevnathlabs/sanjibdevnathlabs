@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS establishes new German corporate presence to advance European sovereign cloud](https://techcrunch.com/2025/06/03/aws-establishes-new-german-corporate-presence-to-advance-european-sovereign-cloud/)
+- [Just 2 days until TechCrunch Sessions: AI at UC Berkeley — where the future of AI takes shape](https://techcrunch.com/2025/06/03/just-2-days-until-techcrunch-sessions-ai-at-uc-berkeley-where-the-future-of-ai-takes-shape/)
+- [Wispr Flow releases iOS app in a bid to make dictation feel effortless](https://techcrunch.com/2025/06/03/wispr-flow-releases-ios-app-in-a-bid-to-make-dictation-feel-effortless/)
 - [Health giant Kettering still facing disruption weeks after ransomware attack](https://techcrunch.com/2025/06/03/health-giant-kettering-still-facing-disruption-weeks-after-ransomware-attack/)
 - [Speedata, a chip startup competing with Nvidia, raises a $44M Series B](https://techcrunch.com/2025/06/03/speedata-a-chip-startup-competing-with-nvidia-raises-a-44m-series-b/)
-- [Adobe launches beta version of its Photoshop app on Android](https://techcrunch.com/2025/06/03/adobe-launches-beta-version-of-its-photoshop-app-on-android/)
-- [When the sun dies, could life survive on the Jupiter ocean moon Europa?](https://www.space.com/astronomy/when-the-sun-dies-could-life-survive-on-the-jupiter-ocean-moon-europa)
-- [SpaceX launches 23 more Starlink satellites from Florida &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-23-more-starlink-satellites-from-florida)
 <!-- BLOG-POST-LIST:END -->
 
 ---
