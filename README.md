@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT introduces meeting recording and connectors for Google Drive, Box, and more](https://techcrunch.com/2025/06/04/chatgpt-introduces-meeting-recording-and-connectors-for-google-drive-box-and-more/)
+- [How an odd star in the &#39;Gaia Sausage&#39; could help solve one of astronomy&#39;s most enduring mysteries](https://www.space.com/astronomy/how-an-odd-star-in-the-gaia-sausage-could-help-solve-one-of-astronomys-most-enduring-mysteries)
+- [Elon Musk’s introduction to politics](https://techcrunch.com/2025/06/04/elon-musks-introduction-to-politics/)
 - [Google delays rollout of its ‘Ask Photos’ AI search feature](https://techcrunch.com/2025/06/04/google-delays-rollout-of-its-ask-photos-ai-search-feature/)
 - [Japanese company ispace will attempt historic moon landing on June 5](https://www.space.com/astronomy/moon/japanese-company-ispace-will-attempt-historic-moon-landing-on-june-5)
-- [Data breach at newspaper giant Lee Enterprises affects 40,000 people](https://techcrunch.com/2025/06/04/data-breach-at-newspaper-giant-lee-enterprises-affects-40000-people/)
-- [It’s layoff ‘season’ at Phil Libin’s Airtime](https://techcrunch.com/2025/06/04/its-layoff-season-at-phil-libins-airtime/)
-- [Europe stages a moon landing to learn how to photograph the real thing &lpar;photos&rpar;](https://www.space.com/astronomy/moon/europe-stages-a-moon-landing-to-learn-how-to-photograph-the-real-thing-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
