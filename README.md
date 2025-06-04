@@ -135,7 +135,7 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [This makes audits stupidly easy](https://www.youtube.com/watch?v=G5OM24KrAH0)
-- [This unicorn AI startup just collapsed… why?](https://www.youtube.com/watch?v=Sd6F2pfKJmk)
+- [This Microsoft-backed AI startup just collapsed… why?](https://www.youtube.com/watch?v=Sd6F2pfKJmk)
 - [Do You Still Need to Learn Python in the Age of AI?](https://www.youtube.com/watch?v=5B4OiFm48Tw)
 - [Do You Still Need to Learn Python in the Age of AI?](https://www.youtube.com/watch?v=hl2IeK4Ogl0)
 - [MikeBot3000: Can We Build an AI Mike from Open Source Tools? - Computerphile](https://www.youtube.com/watch?v=cP8xpkvs_UI)
