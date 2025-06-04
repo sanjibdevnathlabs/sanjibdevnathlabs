@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rosebud lands $6M to scale its interactive AI journaling app](https://techcrunch.com/2025/06/04/rosebud-lands-6m-to-scale-its-interactive-ai-journaling-app/)
+- [Bolttech closes Series C at $147M with a $2.1B valuation to bolster its embedded insurance offerings](https://techcrunch.com/2025/06/04/singapore-based-insurtech-bolttech-closes-147m-series-c-at-a-2-1b-valuation/)
+- [Uber adds a new type of account with a simpler UI for the elderly](https://techcrunch.com/2025/06/04/uber-is-introducing-senior-account-with-a-simpler-app-experince-for-older-users/)
 - [Apple names 2025 Design Awards winners](https://techcrunch.com/2025/06/04/apple-names-2025-design-awards-winners/)
 - [James Webb Space Telescope unveils fiery origins of a distant, hellish exoplanet](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-unveils-fiery-origins-of-a-distant-hellish-exoplanet)
-- [Jewels sparkle like stars in the Van Cleef and Arpels &#39;Cosmic Splendor&#39; exhibit at the American Museum of Natural History](https://www.space.com/astronomy/jewels-sparkle-like-stars-in-the-van-cleef-and-arpels-cosmic-splendor-exhibit-at-the-american-museum-of-natural-history)
-- [One of Africa’s most successful founders is back with a new AI startup and already raised $9M](https://techcrunch.com/2025/06/03/one-of-africas-most-successful-founders-is-back-with-a-new-ai-startup-and-already-raised-9m/)
-- [Windsurf says Anthropic is limiting its direct access to Claude AI models](https://techcrunch.com/2025/06/03/windsurf-says-anthropic-is-limiting-its-direct-access-to-claude-ai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
