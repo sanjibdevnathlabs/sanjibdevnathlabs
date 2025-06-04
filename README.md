@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rosebud lands $6M to scale its interactive AI journaling app](https://techcrunch.com/2025/06/04/rosebud-lands-6m-to-scale-its-interactive-ai-journaling-app/)
-- [Bolttech closes Series C at $147M with a $2.1B valuation to bolster its embedded insurance offerings](https://techcrunch.com/2025/06/04/singapore-based-insurtech-bolttech-closes-147m-series-c-at-a-2-1b-valuation/)
-- [Uber adds a new type of account with a simpler UI for the elderly](https://techcrunch.com/2025/06/04/uber-is-introducing-senior-account-with-a-simpler-app-experince-for-older-users/)
-- [Apple names 2025 Design Awards winners](https://techcrunch.com/2025/06/04/apple-names-2025-design-awards-winners/)
-- [James Webb Space Telescope unveils fiery origins of a distant, hellish exoplanet](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-unveils-fiery-origins-of-a-distant-hellish-exoplanet)
+- [TechCrunch Sessions: AI begins tomorrow — today’s your last chance to save on tickets](https://techcrunch.com/2025/06/04/techcrunch-sessions-ai-begins-tomorrow-todays-your-last-chance-to-save/)
+- [Obvio’s stop sign cameras use AI to root out unsafe drivers](https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/)
+- [Mistral releases a vibe coding client, Mistral Code](https://techcrunch.com/2025/06/04/mistral-releases-a-vibe-coding-client-mistral-code/)
+- [Lunar landers and &#39;Transporter&#39; tankers: Blue Origin unveils its blueprint for the moon](https://www.space.com/astronomy/moon/lunar-landers-and-transporter-tankers-blue-origin-unveils-its-blueprint-for-the-moon)
+- [You can beat the Father&#39;s Day and Prime Day rush with one of the best VR headset deals available, perfect for entertainment and beginners](https://www.space.com/technology/htc-vive-flow-200-dollars-off-and-joint-lowest-ever-price-pre-fathers-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
