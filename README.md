@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google delays rollout of its ‘Ask Photos’ AI search feature](https://techcrunch.com/2025/06/04/google-delays-rollout-of-its-ask-photos-ai-search-feature/)
+- [Japanese company ispace will attempt historic moon landing on June 5](https://www.space.com/astronomy/moon/japanese-company-ispace-will-attempt-historic-moon-landing-on-june-5)
+- [Data breach at newspaper giant Lee Enterprises affects 40,000 people](https://techcrunch.com/2025/06/04/data-breach-at-newspaper-giant-lee-enterprises-affects-40000-people/)
 - [It’s layoff ‘season’ at Phil Libin’s Airtime](https://techcrunch.com/2025/06/04/its-layoff-season-at-phil-libins-airtime/)
 - [Europe stages a moon landing to learn how to photograph the real thing &lpar;photos&rpar;](https://www.space.com/astronomy/moon/europe-stages-a-moon-landing-to-learn-how-to-photograph-the-real-thing-photos)
-- [3 days left: Claim your spot on the Expo floor at TechCrunch All Stage](https://techcrunch.com/2025/06/04/3-days-left-claim-your-spot-on-the-expo-floor-at-techcrunch-all-stage/)
-- [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/04/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/)
-- [Final hours for TechCrunch Sessions: AI Trivia Countdown — play now, score 2-for-1 tickets](https://techcrunch.com/2025/06/04/final-hours-techcrunch-sessions-ai-trivia-countdown-play-now-score-2-for-1-tickets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
