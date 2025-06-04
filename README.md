@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One of Africa’s most successful founders is back with a new AI startup and already raised $9M](https://techcrunch.com/2025/06/03/one-of-africas-most-successful-founders-is-back-with-a-new-ai-startup-and-already-raised-9m/)
 - [Windsurf says Anthropic is limiting its direct access to Claude AI models](https://techcrunch.com/2025/06/03/windsurf-says-anthropic-is-limiting-its-direct-access-to-claude-ai-models/)
 - [What time will Japan&#39;s ispace Resilience probe land on the moon on June 5?](https://www.space.com/space-exploration/missions/what-time-is-japan-ispace-resilience-moon-landing)
 - [&#39;Starship in space&#39;: See amazing photos from SpaceX megarocket&#39;s Flight 9 test mission](https://www.space.com/space-exploration/launches-spacecraft/starship-in-space-see-amazing-photos-from-spacex-megarockets-flight-9-test-mission)
 - [Anthropic’s AI is writing its own blog — with human oversight](https://techcrunch.com/2025/06/03/anthropics-ai-is-writing-its-own-blog-with-human-oversight/)
-- [60 years ago, Ed White went out for walk | Space photo of the day for June 3, 2025](https://www.space.com/space-exploration/human-spaceflight/60-years-ago-ed-white-went-out-for-walk-space-photo-of-the-day-for-june-3-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
