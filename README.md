@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT introduces meeting recording and connectors for Google Drive, Box, and more](https://techcrunch.com/2025/06/04/chatgpt-introduces-meeting-recording-and-connectors-for-google-drive-box-and-more/)
-- [How an odd star in the &#39;Gaia Sausage&#39; could help solve one of astronomy&#39;s most enduring mysteries](https://www.space.com/astronomy/how-an-odd-star-in-the-gaia-sausage-could-help-solve-one-of-astronomys-most-enduring-mysteries)
-- [Elon Musk’s introduction to politics](https://techcrunch.com/2025/06/04/elon-musks-introduction-to-politics/)
-- [Google delays rollout of its ‘Ask Photos’ AI search feature](https://techcrunch.com/2025/06/04/google-delays-rollout-of-its-ask-photos-ai-search-feature/)
-- [Japanese company ispace will attempt historic moon landing on June 5](https://www.space.com/astronomy/moon/japanese-company-ispace-will-attempt-historic-moon-landing-on-june-5)
+- [Unity CTO Steve Collins steps down after six months](https://techcrunch.com/2025/06/04/unity-cto-steve-collins-steps-down-after-six-months/)
+- [AMD takes aim at Nvidia’s AI hardware dominance with Brium acquisition](https://techcrunch.com/2025/06/04/amd-takes-aim-at-nvidias-ai-hardware-dominance-with-brium-acquisition/)
+- [Snap launches Lens Studio iOS and web apps for creating AR Lenses with AI and simple tools](https://techcrunch.com/2025/06/04/snap-launches-lens-studio-ios-and-web-apps-for-creating-ar-lenses-with-ai-and-simple-tools/)
+- [RevenueCat and Paddle team up to help app developers profit from web payments](https://techcrunch.com/2025/06/04/revenuecat-and-paddle-team-up-to-help-app-developers-profit-from-web-payments/)
+- [Venmo introduces new debit card benefits and payment options as rival Cash App struggles](https://techcrunch.com/2025/06/04/venmo-introduces-new-debit-card-benefits-and-payment-options-as-rival-cash-app-struggles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
