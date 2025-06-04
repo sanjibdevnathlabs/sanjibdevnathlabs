@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hugging Face says its new robotics model is so efficient it can run on a MacBook](https://techcrunch.com/2025/06/04/hugging-face-says-its-new-robotics-model-is-so-efficient-it-can-run-on-a-macbook/)
+- [&#39;Joy,&#39; a plush baby swan, will launch with Axiom Mission-4 crew as zero-g indicator](https://www.space.com/space-exploration/private-spaceflight/joy-a-plush-baby-swan-will-launch-with-axiom-mission-4-crew-as-zero-g-indicator)
 - [Ransomware gang claims responsibility for Kettering Health hack](https://techcrunch.com/2025/06/04/ransomware-gang-claims-responsibility-for-kettering-health-hack/)
 - [ispace&#39;s Resilience spacecraft lands on the moon this week: Here&#39;s how to see the landing zone on the lunar surface](https://www.space.com/stargazing/ispaces-resilience-spacecraft-lands-on-the-moon-this-week-heres-how-to-see-the-landing-zone-on-the-lunar-surface)
 - [A tiny star gave birth to a giant exoplanet, but no one knows how](https://www.space.com/astronomy/exoplanets/a-tiny-star-gave-birth-to-a-giant-exoplanet-but-no-one-knows-how)
-- [Reddit sues Anthropic for allegedly not paying for training data](https://techcrunch.com/2025/06/04/reddit-sues-anthropic-for-allegedly-not-paying-for-training-data/)
-- [Klarna CEO says company will use humans to offer VIP customer service](https://techcrunch.com/2025/06/04/klarna-ceo-says-company-will-use-humans-to-offer-vip-customer-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
