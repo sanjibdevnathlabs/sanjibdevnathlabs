@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Unity CTO Steve Collins steps down after six months](https://techcrunch.com/2025/06/04/unity-cto-steve-collins-steps-down-after-six-months/)
-- [AMD takes aim at Nvidia’s AI hardware dominance with Brium acquisition](https://techcrunch.com/2025/06/04/amd-takes-aim-at-nvidias-ai-hardware-dominance-with-brium-acquisition/)
-- [Snap launches Lens Studio iOS and web apps for creating AR Lenses with AI and simple tools](https://techcrunch.com/2025/06/04/snap-launches-lens-studio-ios-and-web-apps-for-creating-ar-lenses-with-ai-and-simple-tools/)
-- [RevenueCat and Paddle team up to help app developers profit from web payments](https://techcrunch.com/2025/06/04/revenuecat-and-paddle-team-up-to-help-app-developers-profit-from-web-payments/)
-- [Venmo introduces new debit card benefits and payment options as rival Cash App struggles](https://techcrunch.com/2025/06/04/venmo-introduces-new-debit-card-benefits-and-payment-options-as-rival-cash-app-struggles/)
+- [Ransomware gang claims responsibility for Kettering Health hack](https://techcrunch.com/2025/06/04/ransomware-gang-claims-responsibility-for-kettering-health-hack/)
+- [ispace&#39;s Resilience spacecraft lands on the moon this week: Here&#39;s how to see the landing zone on the lunar surface](https://www.space.com/stargazing/ispaces-resilience-spacecraft-lands-on-the-moon-this-week-heres-how-to-see-the-landing-zone-on-the-lunar-surface)
+- [A tiny star gave birth to a giant exoplanet, but no one knows how](https://www.space.com/astronomy/exoplanets/a-tiny-star-gave-birth-to-a-giant-exoplanet-but-no-one-knows-how)
+- [Reddit sues Anthropic for allegedly not paying for training data](https://techcrunch.com/2025/06/04/reddit-sues-anthropic-for-allegedly-not-paying-for-training-data/)
+- [Klarna CEO says company will use humans to offer VIP customer service](https://techcrunch.com/2025/06/04/klarna-ceo-says-company-will-use-humans-to-offer-vip-customer-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
