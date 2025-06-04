@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jewels sparkle like stars in the Van Cleef and Arpels &#39;Cosmic Splendor&#39; exhibit at the American Museum of Natural History](https://www.space.com/astronomy/jewels-sparkle-like-stars-in-the-van-cleef-and-arpels-cosmic-splendor-exhibit-at-the-american-museum-of-natural-history)
 - [One of Africa’s most successful founders is back with a new AI startup and already raised $9M](https://techcrunch.com/2025/06/03/one-of-africas-most-successful-founders-is-back-with-a-new-ai-startup-and-already-raised-9m/)
 - [Windsurf says Anthropic is limiting its direct access to Claude AI models](https://techcrunch.com/2025/06/03/windsurf-says-anthropic-is-limiting-its-direct-access-to-claude-ai-models/)
 - [What time will Japan&#39;s ispace Resilience probe land on the moon on June 5?](https://www.space.com/space-exploration/missions/what-time-is-japan-ispace-resilience-moon-landing)
 - [&#39;Starship in space&#39;: See amazing photos from SpaceX megarocket&#39;s Flight 9 test mission](https://www.space.com/space-exploration/launches-spacecraft/starship-in-space-see-amazing-photos-from-spacex-megarockets-flight-9-test-mission)
-- [Anthropic’s AI is writing its own blog — with human oversight](https://techcrunch.com/2025/06/03/anthropics-ai-is-writing-its-own-blog-with-human-oversight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
