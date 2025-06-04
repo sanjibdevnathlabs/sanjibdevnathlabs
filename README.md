@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch Sessions: AI begins tomorrow — today’s your last chance to save on tickets](https://techcrunch.com/2025/06/04/techcrunch-sessions-ai-begins-tomorrow-todays-your-last-chance-to-save/)
-- [Obvio’s stop sign cameras use AI to root out unsafe drivers](https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/)
-- [Mistral releases a vibe coding client, Mistral Code](https://techcrunch.com/2025/06/04/mistral-releases-a-vibe-coding-client-mistral-code/)
-- [Lunar landers and &#39;Transporter&#39; tankers: Blue Origin unveils its blueprint for the moon](https://www.space.com/astronomy/moon/lunar-landers-and-transporter-tankers-blue-origin-unveils-its-blueprint-for-the-moon)
-- [You can beat the Father&#39;s Day and Prime Day rush with one of the best VR headset deals available, perfect for entertainment and beginners](https://www.space.com/technology/htc-vive-flow-200-dollars-off-and-joint-lowest-ever-price-pre-fathers-day)
+- [It’s layoff ‘season’ at Phil Libin’s Airtime](https://techcrunch.com/2025/06/04/its-layoff-season-at-phil-libins-airtime/)
+- [Europe stages a moon landing to learn how to photograph the real thing &lpar;photos&rpar;](https://www.space.com/astronomy/moon/europe-stages-a-moon-landing-to-learn-how-to-photograph-the-real-thing-photos)
+- [3 days left: Claim your spot on the Expo floor at TechCrunch All Stage](https://techcrunch.com/2025/06/04/3-days-left-claim-your-spot-on-the-expo-floor-at-techcrunch-all-stage/)
+- [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/04/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/)
+- [Final hours for TechCrunch Sessions: AI Trivia Countdown — play now, score 2-for-1 tickets](https://techcrunch.com/2025/06/04/final-hours-techcrunch-sessions-ai-trivia-countdown-play-now-score-2-for-1-tickets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
