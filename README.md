@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches Starlink satellite stack from Vandenberg Space Force Base &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-11-22-b1063-vsfb-ocisly)
 - [North America takes the bulk of AI VC investments, despite tough political environment](https://techcrunch.com/2025/06/04/north-america-takes-the-bulk-of-ai-vc-investments-despite-tough-political-environment/)
 - [iOS 19: All the rumored changes Apple could be bringing to its new operating system](https://techcrunch.com/2025/06/04/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/)
 - [Hugging Face says its new robotics model is so efficient it can run on a MacBook](https://techcrunch.com/2025/06/04/hugging-face-says-its-new-robotics-model-is-so-efficient-it-can-run-on-a-macbook/)
 - [&#39;Joy,&#39; a plush baby swan, will launch with Axiom Mission-4 crew as zero-g indicator](https://www.space.com/space-exploration/private-spaceflight/joy-a-plush-baby-swan-will-launch-with-axiom-mission-4-crew-as-zero-g-indicator)
-- [Ransomware gang claims responsibility for Kettering Health hack](https://techcrunch.com/2025/06/04/ransomware-gang-claims-responsibility-for-kettering-health-hack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
