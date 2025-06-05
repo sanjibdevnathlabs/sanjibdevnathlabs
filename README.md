@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Phone unlocking firm Cellebrite to acquire mobile testing startup Corellium for $170M](https://techcrunch.com/2025/06/05/phone-unlocking-firm-cellebrite-to-acquire-mobile-testing-startup-corellium-for-170m/)
 - [Building the &#39;Moonhouse&#39;: Q&amp;A with artist Mikael Genberg](https://www.space.com/space-exploration/missions/building-the-moonhouse-q-and-a-with-artist-mikael-genberg)
 - [Magnetic fields appear to be as old as the universe itself. What created them?](https://www.space.com/astronomy/magnetic-fields-appear-to-be-as-old-as-the-universe-itself-what-created-them)
 - [Profitable African fintech PalmPay is in talks to raise as much as $100M](https://techcrunch.com/2025/06/05/profitable-african-fintech-palmpay-is-in-talks-to-raise-as-much-as-100m/)
 - [Alphabet CEO Sundar Pichai dismisses AI job fears, emphasizes expansion plans](https://techcrunch.com/2025/06/04/alphabet-ceo-sundar-pichai-dismisses-ai-job-fears-emphasizes-expansion-plans/)
-- [SpaceX launches Starlink satellite stack from Vandenberg Space Force Base &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-11-22-b1063-vsfb-ocisly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
