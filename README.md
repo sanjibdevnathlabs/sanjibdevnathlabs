@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Circle IPO soars giving hope to more startups waiting to go public](https://techcrunch.com/2025/06/05/circle-ipo-soars-giving-hope-to-more-startups-waiting-to-go-public/)
+- [Marc Garneau, 1st Canadian astronaut to fly into space, dies at 76](https://www.space.com/space-exploration/human-spaceflight/marc-garneau-1st-canadian-astronaut-to-fly-into-space-dies-at-76)
+- [Why are Elon Musk and Donald Trump fighting?](https://techcrunch.com/2025/06/05/why-are-elon-musk-and-donald-trump-fighting/)
+- [Europe will have to be more Tenacious to land its first rover on the Moon](https://techcrunch.com/2025/06/05/europe-will-have-to-be-more-tenacious-to-land-its-first-rover-on-the-moon/)
 - [Brand-new SpaceX Crew Dragon capsule arrives at pad for June 10 astronaut launch &lpar;photo&rpar;](https://www.space.com/space-exploration/private-spaceflight/brand-new-spacex-crew-dragon-capsule-arrives-at-pad-for-june-10-astronaut-launch-photo)
-- [Elon Musk and Donald Trump are smack talking each other into their own digital echo chambers](https://techcrunch.com/2025/06/05/elon-musk-and-donald-trump-are-smack-talking-each-other-into-their-own-digital-echo-chambers/)
-- [Perplexity received 780 million queries last month, CEO says](https://techcrunch.com/2025/06/05/perplexity-received-780-million-queries-last-month-ceo-says/)
-- [Walmart and Wing expand drone delivery to five more U.S. cities](https://techcrunch.com/2025/06/05/walmart-and-wing-expand-drone-delivery-to-five-more-u-s-cities/)
-- [Fate of private Japanese moon lander unclear after ispace landing attempt](https://www.space.com/astronomy/moon/private-japanese-spacecraft-resilience-ispace-moon-landing-attempt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
