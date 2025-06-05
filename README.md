@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snapchat launches an Apple Watch app globally](https://techcrunch.com/2025/06/05/snapchat-launches-an-apple-watch-app-globally/)
+- [Introducing Bounce, a tool to move your following between Bluesky and Mastodon](https://techcrunch.com/2025/06/05/introducing-bounce-a-tool-to-move-your-follwing-between-bluesky-and-mastodon/)
+- [Don’t miss Spica shine with the waxing gibbous moon tonight](https://www.space.com/stargazing/dont-miss-spica-shine-with-the-waxing-gibbous-moon-tonight)
+- [Astronomers discover most powerful cosmic explosions since the Big Bang](https://www.space.com/astronomy/astronomers-discover-most-powerful-cosmic-explosions-since-the-big-bang)
 - [The 1st official &#39;Alien: Earth&#39; trailer is finally here, and the xenomorphs aren&#39;t the only invaders we need to worry about &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-1st-official-alien-earth-trailer-is-finally-here-and-the-xenomorphs-arent-the-only-invaders-we-need-to-worry-about-video)
-- [How to watch Apple’s WWDC 2025 keynote](https://techcrunch.com/2025/06/05/how-to-watch-apples-wwdc-2025-keynote/)
-- [The Knife Edge Galaxy cuts a sharp profile in new amateur portrait &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/the-knife-edge-galaxy-cuts-a-sharp-profile-in-new-amateur-portrait-photo)
-- [WWDC 2025: What to expect from this year’s conference](https://techcrunch.com/2025/06/05/wwdc-2025-what-to-expect-from-this-years-conference/)
-- [Less than 48 hours left to exhibit at TechCrunch All Stage](https://techcrunch.com/2025/06/05/less-than-48-hours-left-to-exhibit-at-techcrunch-all-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
