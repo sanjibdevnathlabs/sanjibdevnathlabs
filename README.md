@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Phone unlocking firm Cellebrite to acquire mobile testing startup Corellium for $170M](https://techcrunch.com/2025/06/05/phone-unlocking-firm-cellebrite-to-acquire-mobile-testing-startup-corellium-for-170m/)
-- [Building the &#39;Moonhouse&#39;: Q&amp;A with artist Mikael Genberg](https://www.space.com/space-exploration/missions/building-the-moonhouse-q-and-a-with-artist-mikael-genberg)
-- [Magnetic fields appear to be as old as the universe itself. What created them?](https://www.space.com/astronomy/magnetic-fields-appear-to-be-as-old-as-the-universe-itself-what-created-them)
-- [Profitable African fintech PalmPay is in talks to raise as much as $100M](https://techcrunch.com/2025/06/05/profitable-african-fintech-palmpay-is-in-talks-to-raise-as-much-as-100m/)
-- [Alphabet CEO Sundar Pichai dismisses AI job fears, emphasizes expansion plans](https://techcrunch.com/2025/06/04/alphabet-ceo-sundar-pichai-dismisses-ai-job-fears-emphasizes-expansion-plans/)
+- [The founder of DeviantArt is making a $22,000 display for digital art](https://techcrunch.com/2025/06/05/the-founder-of-deviantart-is-making-a-22000-display-for-digital-art/)
+- [X changes its terms to bar training of AI models using its content](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/)
+- [Toma’s AI voice agents have taken off at car dealerships – and attracted funding from a16z](https://techcrunch.com/2025/06/05/tomas-ai-voice-agents-have-taken-off-at-car-dealerships-and-attracted-funding-from-a16z/)
+- [Collibra acquires data access startup Raito](https://techcrunch.com/2025/06/05/collibra-acquires-data-access-startup-raito/)
+- [TechCrunch Sessions: AI launches in Berkeley today — here’s what you’ll miss if you’re not here](https://techcrunch.com/2025/06/05/techcrunch-sessions-ai-launches-in-berkeley-today-heres-what-youll-miss-if-youre-not-here/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
