@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Circle IPO soars giving hope to more startups waiting to go public](https://techcrunch.com/2025/06/05/circle-ipo-soars-giving-hope-to-more-startups-waiting-to-go-public/)
+- [Elon Musks says SpaceX could begin &#39;decommissioning its Dragon spacecraft&#39; after Trump threat to cancel contracts](https://www.space.com/space-exploration/elon-musks-says-spacex-could-begin-decommissioning-its-dragon-spacecraft-after-trump-threat-to-cancel-contracts)
+- [Cursor’s Anysphere nabs $9.9B valuation, soars past $500M ARR](https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/)
+- [Circle IPO soars, giving hope to more startups waiting to go public](https://techcrunch.com/2025/06/05/circle-ipo-soars-giving-hope-to-more-startups-waiting-to-go-public/)
 - [Marc Garneau, 1st Canadian astronaut to fly into space, dies at 76](https://www.space.com/space-exploration/human-spaceflight/marc-garneau-1st-canadian-astronaut-to-fly-into-space-dies-at-76)
 - [Why are Elon Musk and Donald Trump fighting?](https://techcrunch.com/2025/06/05/why-are-elon-musk-and-donald-trump-fighting/)
-- [Europe will have to be more Tenacious to land its first rover on the Moon](https://techcrunch.com/2025/06/05/europe-will-have-to-be-more-tenacious-to-land-its-first-rover-on-the-moon/)
-- [Brand-new SpaceX Crew Dragon capsule arrives at pad for June 10 astronaut launch &lpar;photo&rpar;](https://www.space.com/space-exploration/private-spaceflight/brand-new-spacex-crew-dragon-capsule-arrives-at-pad-for-june-10-astronaut-launch-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
