@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Star Wars: Zero Company&#39; – Release window, trailers &amp; everything we know](https://www.space.com/entertainment/space-games/star-wars-zero-company-release-date-trailers-and-everything-we-know)
-- [Bonfire’s new software lets users build their own social communities, free from platform control](https://techcrunch.com/2025/06/05/bonfires-new-software-lets-users-build-their-own-social-communities-free-from-platform-control/)
-- [X tests highlighting posts that are liked by users with opposing views](https://techcrunch.com/2025/06/05/x-tests-highlighting-posts-that-are-liked-by-users-with-opposing-views/)
-- [Fireball streaks through aurora-filled skies | Space photo of the day for June 5, 2025](https://www.space.com/astronomy/earth/fireball-streaks-through-aurora-filled-skies-space-photo-of-the-day-for-june-5-2025)
-- [James Webb Space Telescope reveals largest-ever panorama of the early universe](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-reveals-largest-ever-panorama-of-the-early-universe)
+- [Walmart and Wing expand drone delivery to five more U.S. cities](https://techcrunch.com/2025/06/05/walmart-and-wing-expand-drone-delivery-to-five-more-u-s-cities/)
+- [Fate of private Japanese moon lander unclear after ispace landing attempt](https://www.space.com/astronomy/moon/private-japanese-spacecraft-resilience-ispace-moon-landing-attempt)
+- [Amazon launches new R&amp;D group focused on agentic AI and robotics](https://techcrunch.com/2025/06/05/amazon-launches-new-rd-group-focused-on-agentic-ai-and-robotics/)
+- [Rippling calls Deel ‘a criminal syndicate’ and claims 4 other competitors were spied on, too](https://techcrunch.com/2025/06/05/rippling-calls-deel-a-criminal-syndicate-and-claims-4-other-competitors-were-spied-on-too/)
+- [Anthropic co-founder on cutting access to Windsurf: ‘It would be odd for us to sell Claude to OpenAI’](https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
