@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers simulate a star&#39;s final moments as it&#39;s swallowed by a black hole: &#39;Breaks like an egg&#39;](https://www.space.com/astronomy/black-holes/astronomers-simulate-a-stars-final-moments-as-its-swallowed-by-a-black-hole-breaks-like-an-egg)
+- [Apple says its App Store helped generate $1.3T in billings and sales, most without a commission](https://techcrunch.com/2025/06/05/apple-says-its-app-store-helped-generate-1-3t-in-billings-and-sales-most-without-a-commission/)
+- [Anthropic unveils custom AI models for U.S. national security customers](https://techcrunch.com/2025/06/05/anthropic-unveils-custom-ai-models-for-u-s-national-security-customers/)
 - [The founder of DeviantArt is making a $22,000 display for digital art](https://techcrunch.com/2025/06/05/the-founder-of-deviantart-is-making-a-22000-display-for-digital-art/)
 - [X changes its terms to bar training of AI models using its content](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/)
-- [Toma’s AI voice agents have taken off at car dealerships – and attracted funding from a16z](https://techcrunch.com/2025/06/05/tomas-ai-voice-agents-have-taken-off-at-car-dealerships-and-attracted-funding-from-a16z/)
-- [Collibra acquires data access startup Raito](https://techcrunch.com/2025/06/05/collibra-acquires-data-access-startup-raito/)
-- [TechCrunch Sessions: AI launches in Berkeley today — here’s what you’ll miss if you’re not here](https://techcrunch.com/2025/06/05/techcrunch-sessions-ai-launches-in-berkeley-today-heres-what-youll-miss-if-youre-not-here/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
