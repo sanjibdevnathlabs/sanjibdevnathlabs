@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google says its updated Gemini 2.5 Pro AI model is better at coding](https://techcrunch.com/2025/06/05/google-says-its-updated-gemini-2-5-pro-ai-model-is-better-at-coding/)
-- [Apple says 82% of compatible iPhones are running iOS 18](https://techcrunch.com/2025/06/05/apple-says-82-of-compatible-iphones-are-running-ios-18/)
-- [Anduril raises $2.5B at $30.5B valuation led by Founders Fund](https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/)
-- [Snapchat launches an Apple Watch app globally](https://techcrunch.com/2025/06/05/snapchat-launches-an-apple-watch-app-globally/)
-- [Introducing Bounce, a tool to move your following between Bluesky and Mastodon](https://techcrunch.com/2025/06/05/introducing-bounce-a-tool-to-move-your-follwing-between-bluesky-and-mastodon/)
+- [&#39;Star Wars: Zero Company&#39; – Release window, trailers &amp; everything we know](https://www.space.com/entertainment/space-games/star-wars-zero-company-release-date-trailers-and-everything-we-know)
+- [Bonfire’s new software lets users build their own social communities, free from platform control](https://techcrunch.com/2025/06/05/bonfires-new-software-lets-users-build-their-own-social-communities-free-from-platform-control/)
+- [X tests highlighting posts that are liked by users with opposing views](https://techcrunch.com/2025/06/05/x-tests-highlighting-posts-that-are-liked-by-users-with-opposing-views/)
+- [Fireball streaks through aurora-filled skies | Space photo of the day for June 5, 2025](https://www.space.com/astronomy/earth/fireball-streaks-through-aurora-filled-skies-space-photo-of-the-day-for-june-5-2025)
+- [James Webb Space Telescope reveals largest-ever panorama of the early universe](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-reveals-largest-ever-panorama-of-the-early-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
