@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Brand-new SpaceX Crew Dragon capsule arrives at pad for June 10 astronaut launch &lpar;photo&rpar;](https://www.space.com/space-exploration/private-spaceflight/brand-new-spacex-crew-dragon-capsule-arrives-at-pad-for-june-10-astronaut-launch-photo)
+- [Elon Musk and Donald Trump are smack talking each other into their own digital echo chambers](https://techcrunch.com/2025/06/05/elon-musk-and-donald-trump-are-smack-talking-each-other-into-their-own-digital-echo-chambers/)
+- [Perplexity received 780 million queries last month, CEO says](https://techcrunch.com/2025/06/05/perplexity-received-780-million-queries-last-month-ceo-says/)
 - [Walmart and Wing expand drone delivery to five more U.S. cities](https://techcrunch.com/2025/06/05/walmart-and-wing-expand-drone-delivery-to-five-more-u-s-cities/)
 - [Fate of private Japanese moon lander unclear after ispace landing attempt](https://www.space.com/astronomy/moon/private-japanese-spacecraft-resilience-ispace-moon-landing-attempt)
-- [Amazon launches new R&amp;D group focused on agentic AI and robotics](https://techcrunch.com/2025/06/05/amazon-launches-new-rd-group-focused-on-agentic-ai-and-robotics/)
-- [Rippling calls Deel ‘a criminal syndicate’ and claims 4 other competitors were spied on, too](https://techcrunch.com/2025/06/05/rippling-calls-deel-a-criminal-syndicate-and-claims-4-other-competitors-were-spied-on-too/)
-- [Anthropic co-founder on cutting access to Windsurf: ‘It would be odd for us to sell Claude to OpenAI’](https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
