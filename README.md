@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google says its updated Gemini 2.5 Pro AI model is better at coding](https://techcrunch.com/2025/06/05/google-says-its-updated-gemini-2-5-pro-ai-model-is-better-at-coding/)
+- [Apple says 82% of compatible iPhones are running iOS 18](https://techcrunch.com/2025/06/05/apple-says-82-of-compatible-iphones-are-running-ios-18/)
+- [Anduril raises $2.5B at $30.5B valuation led by Founders Fund](https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/)
 - [Snapchat launches an Apple Watch app globally](https://techcrunch.com/2025/06/05/snapchat-launches-an-apple-watch-app-globally/)
 - [Introducing Bounce, a tool to move your following between Bluesky and Mastodon](https://techcrunch.com/2025/06/05/introducing-bounce-a-tool-to-move-your-follwing-between-bluesky-and-mastodon/)
-- [Don’t miss Spica shine with the waxing gibbous moon tonight](https://www.space.com/stargazing/dont-miss-spica-shine-with-the-waxing-gibbous-moon-tonight)
-- [Astronomers discover most powerful cosmic explosions since the Big Bang](https://www.space.com/astronomy/astronomers-discover-most-powerful-cosmic-explosions-since-the-big-bang)
-- [The 1st official &#39;Alien: Earth&#39; trailer is finally here, and the xenomorphs aren&#39;t the only invaders we need to worry about &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-1st-official-alien-earth-trailer-is-finally-here-and-the-xenomorphs-arent-the-only-invaders-we-need-to-worry-about-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
