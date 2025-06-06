@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Atlas V rocket to launch Amazon’s 2nd batch of Kuiper internet satellites on June 13](https://www.space.com/space-exploration/launches-spacecraft/atlas-v-rocket-to-launch-amazons-2nd-batch-of-kuiper-internet-satellites-on-june-13)
 - [One of the best star projectors on the market — the Pococo Galaxy Star Projector — is at its lowest ever price ahead of Father&#39;s Day](https://www.space.com/technology/pococo-galaxy-star-projector-28-percent-off-lowest-price-pre-fathers-day)
 - [&#39;Predator: Killer of Killers&#39; is a battle across history that doesn&#39;t dwell on the franchise&#39;s past](https://www.space.com/entertainment/space-movies-shows/predator-killer-of-killers-is-a-battle-across-history-that-doesnt-dwell-on-the-franchises-past)
 - [A hidden &#39;super-Earth&#39; exoplanet is dipping in and out of its habitable zone](https://www.space.com/astronomy/exoplanets/a-hidden-super-earth-exoplanet-is-dipping-in-and-out-of-its-habitable-zone)
 - [Why does NASA&#39;s Perseverance rover keep taking pictures of this maze on Mars?](https://www.space.com/space-exploration/mars-rovers/why-does-nasas-perseverance-rover-keep-taking-pictures-of-this-maze-on-mars)
-- [Court denies Apple’s request to pause ruling on App Store payment fees](https://techcrunch.com/2025/06/06/court-denies-apples-request-to-pause-ruling-on-app-store-payment-fees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
