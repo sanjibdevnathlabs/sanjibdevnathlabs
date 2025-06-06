@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [European Mars orbiter spies crumbling crater &#39;soaked in layers of Martian history&#39; &lpar;photo&rpar;](https://www.space.com/astronomy/mars/european-mars-orbiter-spies-crumbling-crater-soaked-in-layers-of-martian-history-photo)
-- [Creator Caucus launches in Congress with support from Patreon, YouTube](https://techcrunch.com/2025/06/06/creator-caucus-launches-in-congress-with-support-from-patreon-youtube/)
-- [Nikola founder Trevor Milton is fighting a subpoena from his bankrupt company’s creditors](https://techcrunch.com/2025/06/06/nikola-founder-trevor-milton-is-fighting-a-subpoena-from-his-bankrupt-companys-creditors/)
-- [Startup Battlefield 200: Only 3 days left to apply](https://techcrunch.com/2025/06/06/startup-battlefield-200-only-3-days-left-to-apply/)
-- [Peloton explores placing its equipment in gyms, launches marketplace for used gear](https://techcrunch.com/2025/06/06/peloton-explores-placing-its-equipment-in-gyms-launches-marketplace-for-used-gear/)
+- [Catch Jupiter and Mercury side by side in the evening sky this week](https://www.space.com/stargazing/catch-jupiter-and-mercury-side-by-side-in-the-evening-sky-this-week)
+- [OpenAI’s marketing head takes leave to undergo breast cancer treatment](https://techcrunch.com/2025/06/06/openais-marketing-head-takes-leave-to-undergo-breast-cancer-treatment/)
+- [iOS 19: All the rumored changes Apple could be bringing to its new operating system](https://techcrunch.com/2025/06/06/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/)
+- [WWDC 2025: What to expect from this year’s conference](https://techcrunch.com/2025/06/06/wwdc-2025-what-to-expect-from-this-years-conference/)
+- [AMD acqui-hires the employees behind Untether AI](https://techcrunch.com/2025/06/06/amd-acqui-hires-the-employees-behind-untether-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
