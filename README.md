@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Genetics testing startup Nucleus Genomics criticized for its embryo product: ‘Makes me so nauseous’](https://techcrunch.com/2025/06/06/genetics-testing-startup-nucleus-genomics-criticized-for-its-embryo-product-makes-me-so-nauseous/)
+- [EleutherAI releases massive AI training dataset of licensed and open domain text](https://techcrunch.com/2025/06/06/eleutherai-releases-massive-ai-training-dataset-of-licensed-and-open-domain-text/)
 - [X names Polymarket as its official prediction market partner](https://techcrunch.com/2025/06/06/x-names-polymarket-as-its-official-prediction-market-partner/)
 - [Startups Weekly: It’s buying season](https://techcrunch.com/2025/06/06/startups-weekly-its-buying-season/)
 - [Best beginner binoculars 2025: Convenient, general use and affordable](https://www.space.com/stargazing/skywatching-kit/best-beginner-binoculars)
-- [Powerful solar telescope unveils ultra-fine magnetic &#39;curtains&#39; on the sun&#39;s surface](https://www.space.com/astronomy/sun/powerful-solar-telescope-unveils-ultra-fine-magnetic-curtains-on-the-suns-surface)
-- [Clean energy investment hits new highs and shows no sign of slowing](https://techcrunch.com/2025/06/06/clean-energy-investment-hits-new-highs-and-shows-no-sign-of-slowing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
