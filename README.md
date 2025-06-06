@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A hidden &#39;super-Earth&#39; exoplanet is dipping in and out of its habitable zone](https://www.space.com/astronomy/exoplanets/a-hidden-super-earth-exoplanet-is-dipping-in-and-out-of-its-habitable-zone)
 - [Why does NASA&#39;s Perseverance rover keep taking pictures of this maze on Mars?](https://www.space.com/space-exploration/mars-rovers/why-does-nasas-perseverance-rover-keep-taking-pictures-of-this-maze-on-mars)
 - [Court denies Apple’s request to pause ruling on App Store payment fees](https://techcrunch.com/2025/06/06/court-denies-apples-request-to-pause-ruling-on-app-store-payment-fees/)
 - [Elon Musk says SpaceX could begin &#39;decommissioning its Dragon spacecraft&#39; after Trump threat to cancel contracts](https://www.space.com/space-exploration/elon-musks-says-spacex-could-begin-decommissioning-its-dragon-spacecraft-after-trump-threat-to-cancel-contracts)
 - [Cursor’s Anysphere nabs $9.9B valuation, soars past $500M ARR](https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/)
-- [Circle IPO soars, giving hope to more startups waiting to go public](https://techcrunch.com/2025/06/05/circle-ipo-soars-giving-hope-to-more-startups-waiting-to-go-public/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
