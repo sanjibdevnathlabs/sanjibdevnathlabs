@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Trump-Musk feud has been great for X, which jumped up the App Store charts](https://techcrunch.com/2025/06/06/the-trump-musk-feud-has-been-great-for-x-which-jumped-up-the-app-store-charts/)
-- [Figure AI CEO skips live demo, sidesteps BMW deal questions onstage at tech conference](https://techcrunch.com/2025/06/06/figure-ai-ceo-skips-live-demo-sidesteps-bmw-deal-questions-on-stage-at-tech-conference/)
-- [Jony Ive’s LoveFrom helped design Rivian’s first electric bike](https://techcrunch.com/2025/06/06/jony-ives-lovefrom-helped-design-rivians-first-electric-bike/)
-- [Genetics testing startup Nucleus Genomics criticized for its embryo product: ‘Makes me so nauseous’](https://techcrunch.com/2025/06/06/genetics-testing-startup-nucleus-genomics-criticized-for-its-embryo-product-makes-me-so-nauseous/)
-- [EleutherAI releases massive AI training dataset of licensed and open domain text](https://techcrunch.com/2025/06/06/eleutherai-releases-massive-ai-training-dataset-of-licensed-and-open-domain-text/)
+- [Anthropic appoints a national security expert to its governing trust](https://techcrunch.com/2025/06/06/anthropic-appoints-a-national-security-expert-to-its-governing-trust/)
+- [AI startups continue fueling San Francisco’s office recovery](https://techcrunch.com/2025/06/06/ai-startups-continue-fueling-san-franciscos-office-recovery/)
+- [Tesla’s Optimus robot VP is reportedly leaving the company](https://techcrunch.com/2025/06/06/teslas-optimus-robot-vp-is-reportedly-leaving-the-company/)
+- [Saving Gateway, SLS and Orion? Sen. Ted Cruz proposes $10 billion more for NASA&#39;s moon and Mars efforts](https://www.space.com/space-exploration/saving-gateway-sls-and-orion-sen-ted-cruz-proposes-usd10-billion-more-for-nasas-moon-and-mars-efforts)
+- [Italian lawmakers say Italy used spyware to target phones of immigration activists, but not against journalist](https://techcrunch.com/2025/06/06/italian-lawmakers-say-italy-used-spyware-to-target-phones-of-immigration-activists-but-not-against-journalist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
