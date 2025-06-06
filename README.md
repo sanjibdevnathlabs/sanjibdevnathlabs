@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Court denies Apple’s request to pause ruling on App Store payment fees](https://techcrunch.com/2025/06/06/court-denies-apples-request-to-pause-ruling-on-app-store-payment-fees/)
 - [Elon Musk says SpaceX could begin &#39;decommissioning its Dragon spacecraft&#39; after Trump threat to cancel contracts](https://www.space.com/space-exploration/elon-musks-says-spacex-could-begin-decommissioning-its-dragon-spacecraft-after-trump-threat-to-cancel-contracts)
 - [Cursor’s Anysphere nabs $9.9B valuation, soars past $500M ARR](https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/)
 - [Circle IPO soars, giving hope to more startups waiting to go public](https://techcrunch.com/2025/06/05/circle-ipo-soars-giving-hope-to-more-startups-waiting-to-go-public/)
 - [Marc Garneau, 1st Canadian astronaut to fly into space, dies at 76](https://www.space.com/space-exploration/human-spaceflight/marc-garneau-1st-canadian-astronaut-to-fly-into-space-dies-at-76)
-- [Why are Elon Musk and Donald Trump fighting?](https://techcrunch.com/2025/06/05/why-are-elon-musk-and-donald-trump-fighting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
