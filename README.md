@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2025 will be a ‘pivotal year’ for Meta’s augmented and virtual reality, says CTO](https://techcrunch.com/2025/06/06/2025-will-be-a-pivotal-year-for-metas-augmented-and-virtual-reality-says-cto/)
+- [Why investing in growth-stage AI startups is getting riskier and more complicated](https://techcrunch.com/2025/06/06/why-investing-in-growth-stage-ai-startups-is-getting-riskier-and-more-complicated/)
 - [Anthropic appoints a national security expert to its governing trust](https://techcrunch.com/2025/06/06/anthropic-appoints-a-national-security-expert-to-its-governing-trust/)
 - [AI startups continue fueling San Francisco’s office recovery](https://techcrunch.com/2025/06/06/ai-startups-continue-fueling-san-franciscos-office-recovery/)
 - [Tesla’s Optimus robot VP is reportedly leaving the company](https://techcrunch.com/2025/06/06/teslas-optimus-robot-vp-is-reportedly-leaving-the-company/)
-- [Saving Gateway, SLS and Orion? Sen. Ted Cruz proposes $10 billion more for NASA&#39;s moon and Mars efforts](https://www.space.com/space-exploration/saving-gateway-sls-and-orion-sen-ted-cruz-proposes-usd10-billion-more-for-nasas-moon-and-mars-efforts)
-- [Italian lawmakers say Italy used spyware to target phones of immigration activists, but not against journalist](https://techcrunch.com/2025/06/06/italian-lawmakers-say-italy-used-spyware-to-target-phones-of-immigration-activists-but-not-against-journalist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
