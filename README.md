@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [European Mars orbiter spies crumbling crater &#39;soaked in layers of Martian history&#39; &lpar;photo&rpar;](https://www.space.com/astronomy/mars/european-mars-orbiter-spies-crumbling-crater-soaked-in-layers-of-martian-history-photo)
+- [Creator Caucus launches in Congress with support from Patreon, YouTube](https://techcrunch.com/2025/06/06/creator-caucus-launches-in-congress-with-support-from-patreon-youtube/)
+- [Nikola founder Trevor Milton is fighting a subpoena from his bankrupt company’s creditors](https://techcrunch.com/2025/06/06/nikola-founder-trevor-milton-is-fighting-a-subpoena-from-his-bankrupt-companys-creditors/)
+- [Startup Battlefield 200: Only 3 days left to apply](https://techcrunch.com/2025/06/06/startup-battlefield-200-only-3-days-left-to-apply/)
 - [Peloton explores placing its equipment in gyms, launches marketplace for used gear](https://techcrunch.com/2025/06/06/peloton-explores-placing-its-equipment-in-gyms-launches-marketplace-for-used-gear/)
-- [Final call: Only 2 exhibitor tables left — book before the clock strikes zero](https://techcrunch.com/2025/06/06/final-call-only-2-exhibitor-tables-left-book-before-the-clock-strikes-zero/)
-- [Vast cosmic voids are far from empty  — they&#39;re hiding something dark](https://www.space.com/astronomy/dark-universe/vast-cosmic-voids-are-far-from-empty-theyre-hiding-something-dark)
-- [Atlas V rocket to launch Amazon’s 2nd batch of Kuiper internet satellites on June 13](https://www.space.com/space-exploration/launches-spacecraft/atlas-v-rocket-to-launch-amazons-2nd-batch-of-kuiper-internet-satellites-on-june-13)
-- [One of the best star projectors on the market — the Pococo Galaxy Star Projector — is at its lowest ever price ahead of Father&#39;s Day](https://www.space.com/technology/pococo-galaxy-star-projector-28-percent-off-lowest-price-pre-fathers-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
