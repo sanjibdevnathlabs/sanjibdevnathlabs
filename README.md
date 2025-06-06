@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Peloton explores placing its equipment in gyms, launches marketplace for used gear](https://techcrunch.com/2025/06/06/peloton-explores-placing-its-equipment-in-gyms-launches-marketplace-for-used-gear/)
+- [Final call: Only 2 exhibitor tables left — book before the clock strikes zero](https://techcrunch.com/2025/06/06/final-call-only-2-exhibitor-tables-left-book-before-the-clock-strikes-zero/)
+- [Vast cosmic voids are far from empty  — they&#39;re hiding something dark](https://www.space.com/astronomy/dark-universe/vast-cosmic-voids-are-far-from-empty-theyre-hiding-something-dark)
 - [Atlas V rocket to launch Amazon’s 2nd batch of Kuiper internet satellites on June 13](https://www.space.com/space-exploration/launches-spacecraft/atlas-v-rocket-to-launch-amazons-2nd-batch-of-kuiper-internet-satellites-on-june-13)
 - [One of the best star projectors on the market — the Pococo Galaxy Star Projector — is at its lowest ever price ahead of Father&#39;s Day](https://www.space.com/technology/pococo-galaxy-star-projector-28-percent-off-lowest-price-pre-fathers-day)
-- [&#39;Predator: Killer of Killers&#39; is a battle across history that doesn&#39;t dwell on the franchise&#39;s past](https://www.space.com/entertainment/space-movies-shows/predator-killer-of-killers-is-a-battle-across-history-that-doesnt-dwell-on-the-franchises-past)
-- [A hidden &#39;super-Earth&#39; exoplanet is dipping in and out of its habitable zone](https://www.space.com/astronomy/exoplanets/a-hidden-super-earth-exoplanet-is-dipping-in-and-out-of-its-habitable-zone)
-- [Why does NASA&#39;s Perseverance rover keep taking pictures of this maze on Mars?](https://www.space.com/space-exploration/mars-rovers/why-does-nasas-perseverance-rover-keep-taking-pictures-of-this-maze-on-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
