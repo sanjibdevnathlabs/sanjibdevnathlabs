@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Catch Jupiter and Mercury side by side in the evening sky this week](https://www.space.com/stargazing/catch-jupiter-and-mercury-side-by-side-in-the-evening-sky-this-week)
-- [OpenAI’s marketing head takes leave to undergo breast cancer treatment](https://techcrunch.com/2025/06/06/openais-marketing-head-takes-leave-to-undergo-breast-cancer-treatment/)
-- [iOS 19: All the rumored changes Apple could be bringing to its new operating system](https://techcrunch.com/2025/06/06/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/)
-- [WWDC 2025: What to expect from this year’s conference](https://techcrunch.com/2025/06/06/wwdc-2025-what-to-expect-from-this-years-conference/)
-- [AMD acqui-hires the employees behind Untether AI](https://techcrunch.com/2025/06/06/amd-acqui-hires-the-employees-behind-untether-ai/)
+- [X names Polymarket as its official prediction market partner](https://techcrunch.com/2025/06/06/x-names-polymarket-as-its-official-prediction-market-partner/)
+- [Startups Weekly: It’s buying season](https://techcrunch.com/2025/06/06/startups-weekly-its-buying-season/)
+- [Best beginner binoculars 2025: Convenient, general use and affordable](https://www.space.com/stargazing/skywatching-kit/best-beginner-binoculars)
+- [Powerful solar telescope unveils ultra-fine magnetic &#39;curtains&#39; on the sun&#39;s surface](https://www.space.com/astronomy/sun/powerful-solar-telescope-unveils-ultra-fine-magnetic-curtains-on-the-suns-surface)
+- [Clean energy investment hits new highs and shows no sign of slowing](https://techcrunch.com/2025/06/06/clean-energy-investment-hits-new-highs-and-shows-no-sign-of-slowing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
