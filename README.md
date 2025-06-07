@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lawyers could face ‘severe’ penalties for fake AI-generated citations, UK court warns](https://techcrunch.com/2025/06/07/lawyers-could-face-severe-penalties-for-fake-ai-generated-citations-uk-court-warns/)
 - [iOS 19: All the rumored changes Apple could be bringing to its new operating system](https://techcrunch.com/2025/06/07/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/)
 - [Trump administration takes aim at Biden and Obama cybersecurity rules](https://techcrunch.com/2025/06/07/trump-administration-takes-aim-at-biden-and-obama-cybersecurity-rules/)
 - [WWDC 2025: What to expect from this year’s conference](https://techcrunch.com/2025/06/07/wwdc-2025-what-to-expect-from-this-years-conference/)
 - [Sega Toys Homestar Classic star projector review](https://www.space.com/technology/sega-toys-homestar-classic-star-projector-review)
-- [Week in Review: Why Anthropic cut access to Windsurf](https://techcrunch.com/2025/06/07/week-in-review-why-anthropic-cut-access-to-windsurf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
