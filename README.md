@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Flying Banana&#39; traveling 125 mph fires laser into sky and catches aurora hunters off guard &lpar;video&rpar;](https://www.space.com/stargazing/flying-banana-traveling-125-mph-fires-laser-into-sky-and-catches-aurora-hunters-off-guard-video)
 - [SpaceX launches Sirius XM radio satellite to orbit, lands rocket on ship at sea &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-sirius-xm-radio-satellite-to-orbit-lands-rocket-on-ship-at-sea-photos)
 - [After its data was wiped, KiranaPro’s co-founder cannot rule out an external hack](https://techcrunch.com/2025/06/06/after-its-data-was-wiped-kiranapros-co-founder-cannot-rule-out-an-external-hack/)
 - [Meet the Finalists: VivaTech’s 5 Most Visionary Startups of 2025](https://techcrunch.com/2025/06/06/meet-the-finalists-vivatechs-5-most-visionary-startups-of-2025/)
 - [Trump fast-tracks supersonic travel, amid spate of flight-related executive orders](https://techcrunch.com/2025/06/06/trump-fast-tracks-supersonic-travel-amid-spate-of-flight-related-executive-orders/)
-- [TechCrunch Mobility: How Jony Ive’s LoveFrom helped Rivian and what Uber’s next-generation playbook looks like](https://techcrunch.com/2025/06/06/techcrunch-mobility-how-jony-ives-lovefrom-helped-rivian-and-what-ubers-next-generation-playbook-looks-like/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
