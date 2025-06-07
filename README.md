@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s been nearly a century since Chicago saw a powerful dust storm like this &lpar;photos&rpar;](https://www.space.com/astronomy/earth/its-been-nearly-a-century-since-chicago-saw-a-powerful-dust-storm-like-this-photos)
 - [June&#39;s full &#39;Strawberry Moon&#39; illuminates the night sky next week: Here&#39;s how to see it](https://www.space.com/stargazing/junes-full-strawberry-moon-illuminates-the-night-sky-next-week-heres-how-to-see-it)
 - [&#39;Flying Banana&#39; traveling 125 mph fires laser into sky and catches aurora hunters off guard &lpar;video&rpar;](https://www.space.com/stargazing/flying-banana-traveling-125-mph-fires-laser-into-sky-and-catches-aurora-hunters-off-guard-video)
 - [SpaceX launches Sirius XM radio satellite to orbit, lands rocket on ship at sea &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-sirius-xm-radio-satellite-to-orbit-lands-rocket-on-ship-at-sea-photos)
 - [After its data was wiped, KiranaPro’s co-founder cannot rule out an external hack](https://techcrunch.com/2025/06/06/after-its-data-was-wiped-kiranapros-co-founder-cannot-rule-out-an-external-hack/)
-- [Meet the Finalists: VivaTech’s 5 Most Visionary Startups of 2025](https://techcrunch.com/2025/06/06/meet-the-finalists-vivatechs-5-most-visionary-startups-of-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
