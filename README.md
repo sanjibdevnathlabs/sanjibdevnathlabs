@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sega Toys Homestar Classic star projector review](https://www.space.com/technology/sega-toys-homestar-classic-star-projector-review)
 - [Week in Review: Why Anthropic cut access to Windsurf](https://techcrunch.com/2025/06/07/week-in-review-why-anthropic-cut-access-to-windsurf/)
 - [Will Musk vs. Trump affect xAI’s $5 billion debt deal?](https://techcrunch.com/2025/06/07/will-musk-vs-trump-affect-xais-5-billion-debt-deal/)
 - [Superblocks CEO: How to find a unicorn idea by studying AI system prompts](https://techcrunch.com/2025/06/07/superblocks-ceo-how-to-find-a-unicorn-idea-by-studying-ai-system-prompts/)
 - [Best space &amp; sci-fi games on Nintendo Switch 2025: Metroid Prime, Citizen Sleeper, No Man&#39;s Sky, &amp; more](https://www.space.com/entertainment/space-games/best-space-and-sci-fi-games-on-nintendo-switch)
-- [SpaceX fires up Super Heavy booster ahead of Starship&#39;s 10th test flight &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-super-heavy-booster-ahead-of-starships-10th-test-flight-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
