@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet the Finalists: VivaTech’s 5 Most Visionary Startups of 2025](https://techcrunch.com/2025/06/06/meet-the-finalists-vivatechs-5-most-visionary-startups-of-2025/)
+- [Trump fast-tracks supersonic travel, amid spate of flight-related executive orders](https://techcrunch.com/2025/06/06/trump-fast-tracks-supersonic-travel-amid-spate-of-flight-related-executive-orders/)
 - [TechCrunch Mobility: How Jony Ive’s LoveFrom helped Rivian and what Uber’s next-generation playbook looks like](https://techcrunch.com/2025/06/06/techcrunch-mobility-how-jony-ives-lovefrom-helped-rivian-and-what-ubers-next-generation-playbook-looks-like/)
 - [Omada Health IPO signals healthier market, avoids ‘down-round’ trend](https://techcrunch.com/2025/06/06/omada-health-ipo-signals-healthier-market-avoids-down-round-trend/)
 - [2025 will be a ‘pivotal year’ for Meta’s augmented and virtual reality, says CTO](https://techcrunch.com/2025/06/06/2025-will-be-a-pivotal-year-for-metas-augmented-and-virtual-reality-says-cto/)
-- [Why investing in growth-stage AI startups is getting riskier and more complicated](https://techcrunch.com/2025/06/06/why-investing-in-growth-stage-ai-startups-is-getting-riskier-and-more-complicated/)
-- [Anthropic appoints a national security expert to its governing trust](https://techcrunch.com/2025/06/06/anthropic-appoints-a-national-security-expert-to-its-governing-trust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
