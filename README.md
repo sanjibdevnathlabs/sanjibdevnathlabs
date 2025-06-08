@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the moon shine with famous red star Antares in the southern sky on June 9](https://www.space.com/stargazing/see-the-moon-shine-with-famous-red-star-antares-in-the-southern-sky-on-june-9)
 - [China&#39;s Tianwen 2 spacecraft sends home 1st photo as it heads for mysterious &#39;quasi-moon&#39; asteroid](https://www.space.com/space-exploration/missions/chinas-tianwen-2-spacecraft-sends-home-1st-photo-as-it-heads-for-mysterious-quasi-moon-asteroid)
 - [&#39;In our spacesuit collection for movies, we have replicas of pretty much every historic spacesuit that&#39;s been into space.&#39; How the son of an aerospace machinist built some of Hollywood&#39;s most iconic astronaut looks &lpar;exclusive&rpar;](https://www.space.com/space-exploration/human-spaceflight/in-our-spacesuit-collection-for-movies-we-have-replicas-of-pretty-much-every-historic-spacesuit-thats-been-into-space-how-the-son-of-an-aerospace-machinist-built-some-of-hollywoods-most-iconic-astronaut-looks-exclusive)
 - [Lawyers could face ‘severe’ penalties for fake AI-generated citations, UK court warns](https://techcrunch.com/2025/06/07/lawyers-could-face-severe-penalties-for-fake-ai-generated-citations-uk-court-warns/)
 - [iOS 19: All the rumored changes Apple could be bringing to its new operating system](https://techcrunch.com/2025/06/07/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/)
-- [Trump administration takes aim at Biden and Obama cybersecurity rules](https://techcrunch.com/2025/06/07/trump-administration-takes-aim-at-biden-and-obama-cybersecurity-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
