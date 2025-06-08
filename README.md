@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta reportedly in talks to invest billions of dollars in Scale AI](https://techcrunch.com/2025/06/08/meta-reportedly-in-talks-to-invest-billions-of-dollars-in-scale-ai/)
 - [WWDC 2025: What to expect from this year’s conference](https://techcrunch.com/2025/06/08/wwdc-2025-what-to-expect-from-this-years-conference/)
 - [Axiom Space prepares for its fourth mission to the ISS](https://techcrunch.com/2025/06/08/axiom-space-prepares-for-its-fourth-private-space-mission/)
 - [Pioneering Apple engineer Bill Atkinson dies at 74](https://techcrunch.com/2025/06/08/pioneering-apple-engineer-bill-atkinson-dies-at-74/)
 - [How to watch Apple’s WWDC 2025 keynote](https://techcrunch.com/2025/06/08/how-to-watch-apples-wwdc-2025-keynote/)
-- [At WWDC 25, Apple should make amends with developers after AI shortfalls and lawsuits](https://techcrunch.com/2025/06/08/at-wwdc-25-apple-should-make-amends-with-developers-after-ai-shortfalls-and-lawsuits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
