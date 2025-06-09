@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Corporate AI adoption may be leveling off, according to Ramp data](https://techcrunch.com/2025/06/09/corporate-ai-adoption-may-be-leveling-off-according-to-ramp-data/)
-- [XRobotics’ countertop robots are cooking up 25,000 pizzas a month](https://techcrunch.com/2025/06/09/xrobotics-countertop-robots-are-cooking-up-25000-pizzas-a-month/)
-- [Astronomers discover 15 new giant radio galaxies — the largest single objects in the universe](https://www.space.com/astronomy/astronomers-discover-15-new-giant-radio-galaxies-the-largest-single-objects-in-the-universe)
-- [iOS 19: All the rumored changes Apple could be bringing to its new operating system](https://techcrunch.com/2025/06/09/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/)
-- [WWDC 2025: What to expect from this year’s conference](https://techcrunch.com/2025/06/09/wwdc-2025-what-to-expect-from-this-years-conference/)
+- [Apple TV’s tvOS 26 gets ‘Liquid Glass’ treatment and profile-switching feature](https://techcrunch.com/2025/06/09/apple-tvs-tvos-26-gets-liquid-glass-treatment-and-profile-switching-feature/)
+- [At WWDC 2025, Apple introduces an AI-powered Shortcuts app](https://techcrunch.com/2025/06/09/at-wwdc-2025-apple-introduces-an-ai-powered-shortcuts-app/)
+- [Mitra Chem is raising $50M for its cheaper, domestic battery materials](https://techcrunch.com/2025/06/09/mitra-chem-is-raising-50m-for-its-cheaper-domestic-battery-materials/)
+- [Apple’s new Workout Buddy helps you sweat smarter](https://techcrunch.com/2025/06/09/apples-new-workout-buddy-helps-you-sweat-smarter/)
+- [Paragon says it canceled contracts with Italy over government’s refusal to investigate spyware attack on journalist](https://techcrunch.com/2025/06/09/paragon-says-it-cancelled-contracts-with-italy-over-governments-refusal-to-investigate-spyware-attack-on-journalist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
