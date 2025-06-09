@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PayPal is adding hotel booking within its app, powered by Selfbook](https://techcrunch.com/2025/06/09/paypal-is-adding-hotel-booking-with-in-its-app-powered-by-selfbook/)
+- [An investor makes a case for funding sex, drugs and other socially taboo products](https://techcrunch.com/2025/06/09/an-investor-makes-a-case-for-funding-sex-drugs-and-other-socially-taboo-products/)
+- [There&#39;s an infinite amount of energy locked in the vacuum of space-time. Could we ever use it?](https://www.space.com/astronomy/theres-an-infinite-amount-of-energy-locked-in-the-vacuum-of-space-time-could-we-ever-use-it)
 - [Watch SpaceX launch the Ax-4 private astronaut mission to the ISS on June 10](https://www.space.com/space-exploration/private-spaceflight/watch-spacex-launch-the-ax-4-private-astronaut-mission-to-the-iss-on-june-10)
 - [&#39;What a waste:&#39; US scientists decry Trump&#39;s 47% cuts to NASA science budget](https://www.space.com/space-exploration/what-a-waste-us-scientists-decry-trumps-47-percent-cuts-to-nasa-science-budget)
-- [iOS 19: All the rumored changes Apple could be bringing to its new operating system](https://techcrunch.com/2025/06/08/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/)
-- [Meta reportedly in talks to invest billions of dollars in Scale AI](https://techcrunch.com/2025/06/08/meta-reportedly-in-talks-to-invest-billions-of-dollars-in-scale-ai/)
-- [WWDC 2025: What to expect from this year’s conference](https://techcrunch.com/2025/06/08/wwdc-2025-what-to-expect-from-this-years-conference/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
