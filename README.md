@@ -134,7 +134,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [5 ways to shoot yourself in the foot with C](https://www.youtube.com/watch?v=cNywlNWan9o)
+- [5 easy ways to write bad C code](https://www.youtube.com/watch?v=cNywlNWan9o)
 - [Complete Cloud Engineer Roadmap | From Beginner to Advanced](https://www.youtube.com/watch?v=6eroP2XGtTI)
 - [Monte Carlo Tree Search - Computerphile](https://www.youtube.com/watch?v=BEFY7IHs0HM)
 - [This makes audits stupidly easy](https://www.youtube.com/watch?v=G5OM24KrAH0)
