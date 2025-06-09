@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Major US grocery distributor warns of disruption after cyberattack](https://techcrunch.com/2025/06/09/major-us-grocery-distributor-warns-of-disruption-after-cyberattack/)
+- [12-mile-tall volcano on Mars punches through clouds | Space photo of the day for June 10, 2025](https://www.space.com/astronomy/mars/12-mile-tall-volcano-on-mars-punches-through-clouds-space-photo-of-the-day-for-june-10-2025)
+- [Anthropic’s AI-generated blog dies an early death](https://techcrunch.com/2025/06/09/anthropics-ai-generated-blog-dies-an-early-death/)
+- [Warner Bros to split cable and streaming businesses in major restructuring](https://techcrunch.com/2025/06/09/warner-bros-to-split-cable-and-streaming-businesses-in-major-restructuring/)
 - [Google fixes bug that could reveal users’ private phone numbers](https://techcrunch.com/2025/06/09/google-fixes-bug-that-could-reveal-users-private-phone-numbers/)
-- [Golden Dome: An aerospace engineer explains the proposed US-wide missile defense system](https://www.space.com/astronomy/earth/golden-dome-an-aerospace-engineer-explains-the-proposed-us-wide-missile-defense-system)
-- [Qualcomm to acquire semiconductor firm Alphawave Semi for $2.4B](https://techcrunch.com/2025/06/09/qualcomm-acquires-semiconductor-firm-alphawave-semi-for-2-4b/)
-- [OpenAI updates ChatGPT’s voice mode with more natural-sounding speech](https://techcrunch.com/2025/06/09/openai-updates-chatgpts-voice-mode-with-more-natural-sounding-speech/)
-- [Waymo robotaxis, Lime e-scooters set ablaze during LA protests](https://techcrunch.com/2025/06/09/waymo-robotaxis-lime-e-scooters-set-ablaze-during-la-protests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
