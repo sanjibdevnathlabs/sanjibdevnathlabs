@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Here are all the iOS 26 rumors that came true at WWDC](https://techcrunch.com/2025/06/09/here-are-all-the-ios26-rumors-changes-that-came-true-at-wwdc/)
-- [iPadOS 26 will make the iPad feel more like a Mac](https://techcrunch.com/2025/06/09/ipados-26-will-make-the-ipad-feel-more-like-a-mac/)
-- [Startup Battlefield 200: Final call — last day to apply](https://techcrunch.com/2025/06/09/startup-battlefield-200-final-call-last-day-to-apply/)
-- [Marathon: Release date, trailers &amp; everything we know about Bungie&#39;s extraction shooter](https://www.space.com/entertainment/space-games/marathon-release-date-trailers-and-everything-we-know-about-bungies-extraction-shooter)
-- [Apple updates Spotlight to take actions on your Mac](https://techcrunch.com/2025/06/09/apple-updates-spotlight-to-take-actions-on-your-mac/)
+- [Here’s what’s coming to macOS Tahoe](https://techcrunch.com/2025/06/09/heres-whats-coming-to-macos-tahoe/)
+- [How to see the &#39;Horse and Rider&#39; in the Big Dipper&#39;s handle this summer](https://www.space.com/stargazing/how-to-see-the-horse-and-rider-in-the-big-dippers-handle-this-summer)
+- [Apple brings back tabs to the Photos app in iOS 26](https://techcrunch.com/2025/06/09/apple-brings-back-tabs-to-the-photos-app-in-ios-26/)
+- [OpenAI claims to have hit $10B in annual revenue](https://techcrunch.com/2025/06/09/openai-claims-to-have-hit-10b-in-annual-revenue/)
+- [From spatial widgets to realistic Personas: All the visionOS updates Apple announced at WWDC](https://techcrunch.com/2025/06/09/from-spatial-widgets-to-realistic-personas-all-the-visionos-updates-apple-announced-at-wwdc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
