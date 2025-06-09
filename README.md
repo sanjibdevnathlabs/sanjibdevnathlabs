@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Major US grocery distributor warns of disruption after cyberattack](https://techcrunch.com/2025/06/09/major-us-grocery-distributor-warns-of-disruption-after-cyberattack/)
-- [12-mile-tall volcano on Mars punches through clouds | Space photo of the day for June 10, 2025](https://www.space.com/astronomy/mars/12-mile-tall-volcano-on-mars-punches-through-clouds-space-photo-of-the-day-for-june-10-2025)
-- [Anthropic’s AI-generated blog dies an early death](https://techcrunch.com/2025/06/09/anthropics-ai-generated-blog-dies-an-early-death/)
-- [Warner Bros to split cable and streaming businesses in major restructuring](https://techcrunch.com/2025/06/09/warner-bros-to-split-cable-and-streaming-businesses-in-major-restructuring/)
-- [Google fixes bug that could reveal users’ private phone numbers](https://techcrunch.com/2025/06/09/google-fixes-bug-that-could-reveal-users-private-phone-numbers/)
+- [XRobotics’ countertop robots are cooking up 25,000 pizzas a month](https://techcrunch.com/2025/06/09/xrobotics-countertop-robots-are-cooking-up-25000-pizzas-a-month/)
+- [Astronomers discover 15 new giant radio galaxies — the largest single objects in the universe](https://www.space.com/astronomy/astronomers-discover-15-new-giant-radio-galaxies-the-largest-single-objects-in-the-universe)
+- [iOS 19: All the rumored changes Apple could be bringing to its new operating system](https://techcrunch.com/2025/06/09/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/)
+- [WWDC 2025: What to expect from this year’s conference](https://techcrunch.com/2025/06/09/wwdc-2025-what-to-expect-from-this-years-conference/)
+- [How to watch Apple’s WWDC 2025 keynote](https://techcrunch.com/2025/06/09/how-to-watch-apples-wwdc-2025-keynote/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
