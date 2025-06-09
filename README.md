@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple TV’s tvOS 26 gets ‘Liquid Glass’ treatment and profile-switching feature](https://techcrunch.com/2025/06/09/apple-tvs-tvos-26-gets-liquid-glass-treatment-and-profile-switching-feature/)
-- [At WWDC 2025, Apple introduces an AI-powered Shortcuts app](https://techcrunch.com/2025/06/09/at-wwdc-2025-apple-introduces-an-ai-powered-shortcuts-app/)
-- [Mitra Chem is raising $50M for its cheaper, domestic battery materials](https://techcrunch.com/2025/06/09/mitra-chem-is-raising-50m-for-its-cheaper-domestic-battery-materials/)
-- [Apple’s new Workout Buddy helps you sweat smarter](https://techcrunch.com/2025/06/09/apples-new-workout-buddy-helps-you-sweat-smarter/)
-- [Paragon says it canceled contracts with Italy over government’s refusal to investigate spyware attack on journalist](https://techcrunch.com/2025/06/09/paragon-says-it-cancelled-contracts-with-italy-over-governments-refusal-to-investigate-spyware-attack-on-journalist/)
+- [Here are all the iOS 26 rumors that came true at WWDC](https://techcrunch.com/2025/06/09/here-are-all-the-ios26-rumors-changes-that-came-true-at-wwdc/)
+- [iPadOS 26 will make the iPad feel more like a Mac](https://techcrunch.com/2025/06/09/ipados-26-will-make-the-ipad-feel-more-like-a-mac/)
+- [Startup Battlefield 200: Final call — last day to apply](https://techcrunch.com/2025/06/09/startup-battlefield-200-final-call-last-day-to-apply/)
+- [Marathon: Release date, trailers &amp; everything we know about Bungie&#39;s extraction shooter](https://www.space.com/entertainment/space-games/marathon-release-date-trailers-and-everything-we-know-about-bungies-extraction-shooter)
+- [Apple updates Spotlight to take actions on your Mac](https://techcrunch.com/2025/06/09/apple-updates-spotlight-to-take-actions-on-your-mac/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
