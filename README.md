@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI storage platform Vast Data aimed for $25B valuation in new round, sources say](https://techcrunch.com/2025/06/10/ai-storage-platform-vast-data-aimed-for-25b-valuation-in-new-round-sources-say/)
+- [Apple Intelligence: Everything you need to know about Apple’s AI model and services](https://techcrunch.com/2025/06/10/apple-intelligence-everything-you-need-to-know-about-apples-ai-model-and-services/)
 - [Jiawen Galaxy Projector Light review](https://www.space.com/technology/jiawen-galaxy-projector-light-star-projector-review)
 - [Summer Game Fest 2025: The biggest space &amp; sci-fi game reveals and announcements](https://www.space.com/entertainment/space-games/summer-game-fest-2025-the-biggest-space-and-sci-fi-game-reveals-and-announcements)
-- [YouTube says its ecosystem created 490k jobs and added $55B to the US GDP in 2024](https://techcrunch.com/2025/06/10/youtube-says-its-ecosystem-created-490k-jobs-and-added-55b-to-the-us-gdp-in-2024/)
-- [OpenAI releases o3-pro, a souped-up version of its o3 AI reasoning model](https://techcrunch.com/2025/06/10/openai-releases-o3-pro-a-souped-up-version-of-its-o3-ai-reasoning-model/)
-- [&#39;I was a good, visible target&#39;: Jared Isaacman on why Trump pulled his NASA chief nomination](https://www.space.com/space-exploration/i-was-a-good-visible-target-jared-isaacman-on-why-trump-pulled-his-nasa-chief-nomination)
+- [YouTube says its ecosystem created 490K jobs and added $55B to the US GDP in 2024](https://techcrunch.com/2025/06/10/youtube-says-its-ecosystem-created-490k-jobs-and-added-55b-to-the-us-gdp-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
