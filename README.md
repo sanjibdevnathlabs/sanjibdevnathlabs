@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jiawen Galaxy Projector Light review](https://www.space.com/technology/jiawen-galaxy-projector-light-star-projector-review)
+- [Summer Game Fest 2025: The biggest space &amp; sci-fi game reveals and announcements](https://www.space.com/entertainment/space-games/summer-game-fest-2025-the-biggest-space-and-sci-fi-game-reveals-and-announcements)
+- [YouTube says its ecosystem created 490k jobs and added $55B to the US GDP in 2024](https://techcrunch.com/2025/06/10/youtube-says-its-ecosystem-created-490k-jobs-and-added-55b-to-the-us-gdp-in-2024/)
+- [OpenAI releases o3-pro, a souped-up version of its o3 AI reasoning model](https://techcrunch.com/2025/06/10/openai-releases-o3-pro-a-souped-up-version-of-its-o3-ai-reasoning-model/)
 - [&#39;I was a good, visible target&#39;: Jared Isaacman on why Trump pulled his NASA chief nomination](https://www.space.com/space-exploration/i-was-a-good-visible-target-jared-isaacman-on-why-trump-pulled-his-nasa-chief-nomination)
-- [Bedrock Ocean dredges up $25M to map the seafloor with robots](https://techcrunch.com/2025/06/10/bedrock-ocean-dredges-up-25m-to-map-the-seafloor-with-robots/)
-- [Whole Foods tells staff cyberattack at its primary distributor UNFI will affect product availability](https://techcrunch.com/2025/06/10/whole-foods-tells-staff-cyberattack-at-its-primary-distributor-unfi-will-affect-product-availability/)
-- [2nd launch of Blue Origin&#39;s powerful New Glenn rocket delayed to Aug. 15 at the earliest](https://www.space.com/space-exploration/launches-spacecraft/2nd-launch-of-blue-origins-powerful-new-glenn-rocket-delayed-to-aug-15-at-the-earliest)
-- [Why VCs should care about TechCrunch All Stage 2025](https://techcrunch.com/2025/06/10/why-vcs-should-care-about-techcrunch-all-stage-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
