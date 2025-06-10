@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Star Trek Strange New Worlds Season 3 trailer promises new worlds, new adventures, and new romances &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-3-trailer-promises-new-worlds-new-adventures-and-new-romances-video)
+- [WWDC 2025: Everything that Apple ‘Sherlocked’ this time](https://techcrunch.com/2025/06/10/wwdc-2025-everything-that-apple-sherlocked-this-time/)
 - [June&#39;s Strawberry Moon rises tonight. Here&#39;s what to expect from the lowest full moon since 2006](https://www.space.com/stargazing/junes-strawberry-moon-rises-tonight-heres-what-to-expect-from-the-lowest-full-moon-since-2006)
 - [An Indian astronaut is about to visit the ISS for the 1st time ever](https://www.space.com/space-exploration/human-spaceflight/an-indian-astronaut-is-about-to-visit-the-iss-for-the-1st-time-ever)
 - [Still no AI-powered, ‘more personalized’ Siri from Apple at WWDC 25](https://techcrunch.com/2025/06/09/still-no-ai-powered-more-personalized-siri-from-apple-at-wwdc-25/)
-- [NASA raises the odds that an asteroid could hit the moon in 2032](https://www.space.com/astronomy/asteroids/nasa-raises-the-odds-that-an-asteroid-could-hit-the-moon-in-2032)
-- [Here’s what’s coming to macOS Tahoe](https://techcrunch.com/2025/06/09/heres-whats-coming-to-macos-tahoe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
