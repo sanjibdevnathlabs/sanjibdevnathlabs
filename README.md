@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mistral releases a pair of AI reasoning models](https://techcrunch.com/2025/06/10/mistral-releases-a-pair-of-ai-reasoning-models/)
 - [Surprise! We’re extending the Startup Battlefield 200 deadline — 7 days left to apply](https://techcrunch.com/2025/06/10/surprise-were-extending-the-startup-battlefield-200-deadline-7-days-left-to-apply/)
 - [Crashed lander looks back at Earth from the moon | Space photo of the day for June 10, 2025](https://www.space.com/astronomy/moon/crashed-lander-looks-back-at-earth-from-the-moon-space-photo-of-the-day-for-june-10-2025)
 - [Wayve and Uber plan London robotaxi launch after UK speeds up autonomous vehicle rollout](https://techcrunch.com/2025/06/10/wayve-and-uber-plan-london-robotaxi-launch-after-uk-speeds-up-autonomous-vehicle-rollout/)
 - [Ongoing cyberattack at US grocery distributor giant UNFI affecting customer orders](https://techcrunch.com/2025/06/10/ongoing-cyberattack-at-us-grocery-distributor-giant-unfi-affecting-customer-orders/)
-- [We&#39;re halfway between the April 2024 and August 2026 total solar eclipses: Here&#39;s why we&#39;re excited](https://www.space.com/stargazing/solar-eclipses/were-halfway-between-the-april-2024-and-august-2026-total-solar-eclipses-heres-why-were-excited)
 <!-- BLOG-POST-LIST:END -->
 
 ---
