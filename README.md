@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;I was a good, visible target&#39;: Jared Isaacman on why Trump pulled his NASA chief nomination](https://www.space.com/space-exploration/i-was-a-good-visible-target-jared-isaacman-on-why-trump-pulled-his-nasa-chief-nomination)
+- [Bedrock Ocean dredges up $25M to map the seafloor with robots](https://techcrunch.com/2025/06/10/bedrock-ocean-dredges-up-25m-to-map-the-seafloor-with-robots/)
+- [Whole Foods tells staff cyberattack at its primary distributor UNFI will affect product availability](https://techcrunch.com/2025/06/10/whole-foods-tells-staff-cyberattack-at-its-primary-distributor-unfi-will-affect-product-availability/)
 - [2nd launch of Blue Origin&#39;s powerful New Glenn rocket delayed to Aug. 15 at the earliest](https://www.space.com/space-exploration/launches-spacecraft/2nd-launch-of-blue-origins-powerful-new-glenn-rocket-delayed-to-aug-15-at-the-earliest)
 - [Why VCs should care about TechCrunch All Stage 2025](https://techcrunch.com/2025/06/10/why-vcs-should-care-about-techcrunch-all-stage-2025/)
-- [Love it or hate it? Apple’s new ‘Liquid Glass’ design is getting mixed reviews](https://techcrunch.com/2025/06/10/love-it-or-hate-it-apples-new-liquid-glass-design-is-getting-mixed-reviews/)
-- [Atlassian rival Linear raises $82M at $1.25B valuation](https://techcrunch.com/2025/06/10/atlassian-rival-linear-raises-82m-at-1-25b-valuation/)
-- [Google rolls out Android 16 to Pixel phones, unveils AI-powered edit suggestion for Google Photos](https://techcrunch.com/2025/06/10/google-is-rolling-out-android-16-to-pixel-phones-announces-ai-powered-edit-suggestion-to-google-photos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
