@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Atlassian rival Linear raises $82M at $1.25B valuation](https://techcrunch.com/2025/06/10/atlassian-rival-linear-raises-82m-at-1-25b-valuation/)
+- [Google rolls out Android 16 to Pixel phones, unveils AI-powered edit suggestion for Google Photos](https://techcrunch.com/2025/06/10/google-is-rolling-out-android-16-to-pixel-phones-announces-ai-powered-edit-suggestion-to-google-photos/)
+- [Who is Franklin Richards, the superpowered baby shown in the new &#39;The Fantastic Four: First Steps&#39; trailer &lpar;video&rpar;](https://www.space.com/entertainment/who-is-franklin-richards-the-superpowered-baby-shown-in-the-new-the-fantastic-four-first-steps-trailer-video)
+- [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/10/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/)
 - [Snap plans to sell lightweight, consumer AR glasses in 2026](https://techcrunch.com/2025/06/10/snap-plans-to-sell-lightweight-consumer-ar-glasses-in-2026/)
-- [&#39;We&#39;ve got a new mystery on our hands&#39;: Titan&#39;s weird wobble just got even stranger](https://www.space.com/astronomy/solar-system/weve-got-a-new-mystery-on-our-hands-titans-weird-wobble-just-got-even-stranger)
-- [Final call: Apply to host a Side Event at TechCrunch All Stage 2025 today](https://techcrunch.com/2025/06/10/final-call-apply-to-host-a-side-event-at-techcrunch-all-stage-2025-today/)
-- [Threads is finally getting a DM inbox](https://techcrunch.com/2025/06/10/threads-is-finally-testing-a-separate-dm-inbox/)
-- [Coating satellites with super-black paint Vantablack could help fight light pollution crisis](https://www.space.com/space-exploration/satellites/coating-satellites-with-super-black-paint-vantablack-could-help-fight-light-pollution-crisis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
