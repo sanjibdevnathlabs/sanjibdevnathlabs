@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2nd launch of Blue Origin&#39;s powerful New Glenn rocket delayed to Aug. 15 at the earliest](https://www.space.com/space-exploration/launches-spacecraft/2nd-launch-of-blue-origins-powerful-new-glenn-rocket-delayed-to-aug-15-at-the-earliest)
+- [Why VCs should care about TechCrunch All Stage 2025](https://techcrunch.com/2025/06/10/why-vcs-should-care-about-techcrunch-all-stage-2025/)
+- [Love it or hate it? Apple’s new ‘Liquid Glass’ design is getting mixed reviews](https://techcrunch.com/2025/06/10/love-it-or-hate-it-apples-new-liquid-glass-design-is-getting-mixed-reviews/)
 - [Atlassian rival Linear raises $82M at $1.25B valuation](https://techcrunch.com/2025/06/10/atlassian-rival-linear-raises-82m-at-1-25b-valuation/)
 - [Google rolls out Android 16 to Pixel phones, unveils AI-powered edit suggestion for Google Photos](https://techcrunch.com/2025/06/10/google-is-rolling-out-android-16-to-pixel-phones-announces-ai-powered-edit-suggestion-to-google-photos/)
-- [Who is Franklin Richards, the superpowered baby shown in the new &#39;The Fantastic Four: First Steps&#39; trailer &lpar;video&rpar;](https://www.space.com/entertainment/who-is-franklin-richards-the-superpowered-baby-shown-in-the-new-the-fantastic-four-first-steps-trailer-video)
-- [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/10/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/)
-- [Snap plans to sell lightweight, consumer AR glasses in 2026](https://techcrunch.com/2025/06/10/snap-plans-to-sell-lightweight-consumer-ar-glasses-in-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
