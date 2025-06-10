@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snap plans to sell lightweight, consumer AR glasses in 2026](https://techcrunch.com/2025/06/10/snap-plans-to-sell-lightweight-consumer-ar-glasses-in-2026/)
+- [&#39;We&#39;ve got a new mystery on our hands&#39;: Titan&#39;s weird wobble just got even stranger](https://www.space.com/astronomy/solar-system/weve-got-a-new-mystery-on-our-hands-titans-weird-wobble-just-got-even-stranger)
+- [Final call: Apply to host a Side Event at TechCrunch All Stage 2025 today](https://techcrunch.com/2025/06/10/final-call-apply-to-host-a-side-event-at-techcrunch-all-stage-2025-today/)
 - [Threads is finally getting a DM inbox](https://techcrunch.com/2025/06/10/threads-is-finally-testing-a-separate-dm-inbox/)
 - [Coating satellites with super-black paint Vantablack could help fight light pollution crisis](https://www.space.com/space-exploration/satellites/coating-satellites-with-super-black-paint-vantablack-could-help-fight-light-pollution-crisis)
-- [Apple’s upgraded AI models underwhelm on performance](https://techcrunch.com/2025/06/10/apples-upgraded-ai-models-underwhelm-on-performance/)
-- [Enterprise AI startup Glean lands a $7.2B valuation](https://techcrunch.com/2025/06/10/enterprise-ai-startup-glean-lands-a-7-2b-valuation/)
-- [With 35% off, the Estes Rockets Journey Launch set is a brilliant introduction to the joys of space flight and model rocketry — and at its cheapest price this year at Amazon](https://www.space.com/technology/estes-rockets-journey-launch-set-35-percent-off-pre-fathers-day-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
