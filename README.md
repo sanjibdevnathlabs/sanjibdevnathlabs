@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [June&#39;s Strawberry Moon rises tonight. Here&#39;s what to expect from the lowest full moon since 2006](https://www.space.com/stargazing/junes-strawberry-moon-rises-tonight-heres-what-to-expect-from-the-lowest-full-moon-since-2006)
 - [An Indian astronaut is about to visit the ISS for the 1st time ever](https://www.space.com/space-exploration/human-spaceflight/an-indian-astronaut-is-about-to-visit-the-iss-for-the-1st-time-ever)
 - [Still no AI-powered, ‘more personalized’ Siri from Apple at WWDC 25](https://techcrunch.com/2025/06/09/still-no-ai-powered-more-personalized-siri-from-apple-at-wwdc-25/)
 - [NASA raises the odds that an asteroid could hit the moon in 2032](https://www.space.com/astronomy/asteroids/nasa-raises-the-odds-that-an-asteroid-could-hit-the-moon-in-2032)
 - [Here’s what’s coming to macOS Tahoe](https://techcrunch.com/2025/06/09/heres-whats-coming-to-macos-tahoe/)
-- [How to see the &#39;Horse and Rider&#39; in the Big Dipper&#39;s handle this summer](https://www.space.com/stargazing/how-to-see-the-horse-and-rider-in-the-big-dippers-handle-this-summer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
