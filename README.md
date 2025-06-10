@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ongoing cyberattack at US grocery distributor giant UNFI affecting customer orders](https://techcrunch.com/2025/06/10/ongoing-cyberattack-at-us-grocery-distributor-giant-unfi-affecting-customer-orders/)
+- [We&#39;re halfway between the April 2024 and August 2026 total solar eclipses: Here&#39;s why we&#39;re excited](https://www.space.com/stargazing/solar-eclipses/were-halfway-between-the-april-2024-and-august-2026-total-solar-eclipses-heres-why-were-excited)
+- [Google’s AI search features are killing traffic to publishers](https://techcrunch.com/2025/06/10/googles-ai-overviews-are-killing-traffic-for-publishers/)
+- [Tebi, the new startup by Adyen’s departed co-founder, raises a fresh €30M from Alphabet’s CapitalG](https://techcrunch.com/2025/06/10/tebi-the-new-startup-by-adyens-departed-cofounder-raises-a-fresh-30m-from-alphabets-capitalg/)
 - [Waymo robotaxis, Lime e-scooters set ablaze during LA protests](https://techcrunch.com/2025/06/10/waymo-robotaxis-lime-e-scooters-set-ablaze-during-la-protests/)
-- [Star Trek Strange New Worlds Season 3 trailer promises new worlds, new adventures, and new romances &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-3-trailer-promises-new-worlds-new-adventures-and-new-romances-video)
-- [WWDC 2025: Everything that Apple ‘Sherlocked’ this time](https://techcrunch.com/2025/06/10/wwdc-2025-everything-that-apple-sherlocked-this-time/)
-- [June&#39;s Strawberry Moon rises tonight. Here&#39;s what to expect from the lowest full moon since 2006](https://www.space.com/stargazing/junes-strawberry-moon-rises-tonight-heres-what-to-expect-from-the-lowest-full-moon-since-2006)
-- [An Indian astronaut is about to visit the ISS for the 1st time ever](https://www.space.com/space-exploration/human-spaceflight/an-indian-astronaut-is-about-to-visit-the-iss-for-the-1st-time-ever)
 <!-- BLOG-POST-LIST:END -->
 
 ---
