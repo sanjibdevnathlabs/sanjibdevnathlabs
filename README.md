@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta AI gains video editing capabilities](https://techcrunch.com/2025/06/11/meta-ai-gains-video-editing-capabilities/)
+- [ChatGPT will avoid being shut down in some life-threatening scenarios, former OpenAI researcher claims](https://techcrunch.com/2025/06/11/chatgpt-will-avoid-being-shut-down-in-some-life-threatening-scenarios-former-openai-researcher-claims/)
+- [Jewel Burks Solomon’s Collab Capital has closed a new $75M fund](https://techcrunch.com/2025/06/11/jewel-burks-solomons-collab-capital-has-closed-a-new-75m-fund/)
+- [AirPods Pro 3 could be on the way](https://techcrunch.com/2025/06/11/airpods-pro-3-could-be-on-the-way/)
 - [James Webb Space Telescope sees 1st exoplanet raining sand alongside &#39;sandcastle&#39; partner world](https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-sees-1st-exoplanet-raining-sand-alongside-sandcastle-partner-world)
-- [Meta’s V-JEPA 2 model teaches AI to understand its surroundings](https://techcrunch.com/2025/06/11/metas-v-jepa-2-model-teaches-ai-to-understand-its-surroundings/)
-- [Rocket Lab launches Japanese Earth-observing radar satellite to orbit](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-japanese-earth-observing-radar-satellite-to-orbit)
-- [Musk targets June 22 launch of Tesla’s long-promised robotaxi service](https://techcrunch.com/2025/06/11/musk-targets-june-22-launch-of-teslas-long-promised-robotaxi-service/)
-- [Apple executives say new AI-powered Siri wasn’t ‘demoware,’ it just wasn’t ready to ship](https://techcrunch.com/2025/06/11/apple-executives-say-new-ai-powered-siri-wasnt-demoware-it-just-wasnt-ready-to-ship/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
