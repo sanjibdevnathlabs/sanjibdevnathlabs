@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers see the 1st stars dispel darkness 13 billion years ago at &#39;Cosmic Dawn&#39;](https://www.space.com/astronomy/astronomers-see-the-1st-stars-dispel-darkness-13-billion-years-ago-at-cosmic-dawn)
 - [Sam Altman thinks AI will have ‘novel insights’ next year](https://techcrunch.com/2025/06/11/sam-altman-thinks-ai-will-have-novel-insights-next-year/)
 - [Proxima Fusion joins the club of well-funded nuclear contenders with €130M Series A](https://techcrunch.com/2025/06/10/proxima-fusion-joins-the-club-of-well-funded-nuclear-contenders-with-e130m-series-a/)
 - [Propellant leak delays SpaceX launch of private Ax-4 astronaut mission to the ISS](https://www.space.com/space-exploration/private-spaceflight/propellant-leak-delays-spacex-launch-of-private-ax-4-astronaut-mission)
 - [OpenAI’s open model is delayed](https://techcrunch.com/2025/06/10/openais-open-model-is-delayed/)
-- [Vijay Pande, founding partner of a16z bio and health strategy, steps down](https://techcrunch.com/2025/06/10/vijay-pande-founding-partner-of-a16z-bio-and-health-strategy-steps-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
