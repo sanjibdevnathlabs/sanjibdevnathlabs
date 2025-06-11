@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lego Dune Atreides Royal Ornithopter review](https://www.space.com/dune-atreides-royal-ornithopter-review-10327)
+- [NASA begins push to slash workforce with more staff buyouts, early retirements as budget cuts loom](https://www.space.com/space-exploration/nasa-begins-push-to-slash-workforce-with-more-staff-buyouts-early-retirements-as-budget-cuts-loom)
+- [US government’s vaccine website defaced with AI-generated content](https://techcrunch.com/2025/06/11/us-governments-vaccine-website-defaced-with-ai-generated-content/)
 - [At WWDC, Apple says it will use AI to tag apps to improve discoverability on the App Store](https://techcrunch.com/2025/06/11/at-wwdc-apple-says-it-will-use-ai-to-tag-apps-to-improve-discoverability-on-the-app-store/)
 - [TikTok’s biggest star was detained by ICE, with help from another influencer](https://techcrunch.com/2025/06/11/tiktoks-biggest-star-was-detained-by-ice-with-help-from-another-influencer/)
-- [Wikipedia pauses AI-generated summaries pilot after editors protest](https://techcrunch.com/2025/06/11/wikipedia-pauses-ai-generated-summaries-pilot-after-editors-protest/)
-- [&#39;Uranus is weird.&#39; Big moons of tilted ice giant hide a magnetic mystery, Hubble telescope reveals](https://www.space.com/astronomy/uranus/uranus-is-weird-big-moons-of-tilted-ice-giant-hide-a-magnetic-mystery-hubble-telescope-reveals)
-- [How to delete your 23andMe data](https://techcrunch.com/2025/06/11/23andme-files-for-bankruptcy-how-to-delete-your-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
