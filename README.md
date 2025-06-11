@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Uptime Industries wants to boost localized AI usage with an ‘AI-in-a-box’ called Lemony AI](https://techcrunch.com/2025/06/11/uptime-industries-wants-to-boost-localized-ai-usage-with-an-ai-in-a-box-called-lemony-ai/)
-- [Standard Nuclear emerges from the ashes of a failed startup](https://techcrunch.com/2025/06/11/standard-nuclear-emerges-from-the-ashes-of-a-failed-startup/)
-- [Looking for a last-minute Father&#39;s Day gift? These Bushnell binoculars are brilliant value with this $60 price cut](https://www.space.com/stargazing/skywatching-kit/bushnell-trophy-xlt-57-percent-off-arrive-before-fathers-day)
-- [Cosmic rings reveal new planet being born | Space photo of the day for June 11, 2025](https://www.space.com/astronomy/stars/cosmic-rings-reveal-new-planet-being-born-space-photo-of-the-day-for-june-11-2025)
-- [June&#39;s Strawberry Moon treats skywatchers to a rare low-riding show &lpar;photos&rpar;](https://www.space.com/stargazing/junes-strawberry-moon-treats-skywatchers-to-a-rare-low-riding-show-photos)
+- [23andMe says 15% of customers asked to delete their genetic data since bankruptcy](https://techcrunch.com/2025/06/11/23andme-says-15-of-customers-asked-to-delete-their-genetic-data-since-bankruptcy/)
+- [Pinterest tests an AI feature that lets advertisers turn their catalogs into shoppable collages](https://techcrunch.com/2025/06/11/pinterest-tests-an-ai-feature-that-lets-advertisers-turn-their-catalogs-into-shoppable-collages/)
+- [&#39;We&#39;re out of time.&#39; Watch Apple TV+&#39;s thrilling new &#39;Foundation&#39; Season 3 trailer &lpar;video&rpar;](https://www.space.com/entertainment/were-out-of-time-watch-apple-tv-s-thrilling-new-foundation-season-3-trailer-video)
+- [The Browser Company launches its AI-first browser, Dia, in beta](https://techcrunch.com/2025/06/11/the-browser-company-launches-its-ai-first-browser-dia-in-beta/)
+- [NASA robot digs up simulated moon rocks | Space photo of the day for June 12, 2025](https://www.space.com/astronomy/moon/nasa-robot-digs-up-simulated-moon-rocks-space-photo-of-the-day-for-june-12-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
