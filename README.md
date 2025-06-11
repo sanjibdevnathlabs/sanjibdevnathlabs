@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [All of the new features coming to Apple’s iOS apps](https://techcrunch.com/2025/06/11/all-of-the-new-features-coming-to-apples-ios-apps/)
+- [Fervo Energy lands $206M in financing to build massive geothermal power plant](https://techcrunch.com/2025/06/11/fervo-energy-lands-206m-in-financing-to-build-massive-geothermal-power-plant/)
+- [Can Scale AI and Alexandr Wang reignite Meta’s AI efforts?](https://techcrunch.com/2025/06/11/can-scale-ai-and-alexandr-wang-reignite-metas-ai-efforts/)
 - [Lego Dune Atreides Royal Ornithopter review](https://www.space.com/dune-atreides-royal-ornithopter-review-10327)
 - [NASA begins push to slash workforce with more staff buyouts, early retirements as budget cuts loom](https://www.space.com/space-exploration/nasa-begins-push-to-slash-workforce-with-more-staff-buyouts-early-retirements-as-budget-cuts-loom)
-- [US government’s vaccine website defaced with AI-generated content](https://techcrunch.com/2025/06/11/us-governments-vaccine-website-defaced-with-ai-generated-content/)
-- [At WWDC, Apple says it will use AI to tag apps to improve discoverability on the App Store](https://techcrunch.com/2025/06/11/at-wwdc-apple-says-it-will-use-ai-to-tag-apps-to-improve-discoverability-on-the-app-store/)
-- [TikTok’s biggest star was detained by ICE, with help from another influencer](https://techcrunch.com/2025/06/11/tiktoks-biggest-star-was-detained-by-ice-with-help-from-another-influencer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
