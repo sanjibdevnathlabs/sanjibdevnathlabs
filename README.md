@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple is salvaging Image Playground with a boost from ChatGPT](https://techcrunch.com/2025/06/11/apple-is-salvaging-image-playground-with-a-boost-from-chatgpt/)
+- [Laws of physics are still broken: Attempt to explain away black holes&#39; central singularity falls short, scientist says](https://www.space.com/astronomy/laws-of-physics-are-still-broken-attempt-to-explain-away-black-holes-central-singularity-falls-short-scientist-says)
+- [Europe, we’re not leaving. Period.](https://techcrunch.com/2025/06/11/europe-were-not-leaving-period/)
+- [Sam Altman-backed Coco Robotics raises $80M](https://techcrunch.com/2025/06/11/sam-altman-backed-coco-robotics-raises-80m/)
 - [All of the new features coming to Apple’s iOS apps](https://techcrunch.com/2025/06/11/all-of-the-new-features-coming-to-apples-ios-apps/)
-- [Fervo Energy lands $206M in financing to build massive geothermal power plant](https://techcrunch.com/2025/06/11/fervo-energy-lands-206m-in-financing-to-build-massive-geothermal-power-plant/)
-- [Can Scale AI and Alexandr Wang reignite Meta’s AI efforts?](https://techcrunch.com/2025/06/11/can-scale-ai-and-alexandr-wang-reignite-metas-ai-efforts/)
-- [Lego Dune Atreides Royal Ornithopter review](https://www.space.com/dune-atreides-royal-ornithopter-review-10327)
-- [NASA begins push to slash workforce with more staff buyouts, early retirements as budget cuts loom](https://www.space.com/space-exploration/nasa-begins-push-to-slash-workforce-with-more-staff-buyouts-early-retirements-as-budget-cuts-loom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
