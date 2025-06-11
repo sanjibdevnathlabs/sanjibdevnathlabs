@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Standard Nuclear emerges from the ashes of a failed startup](https://techcrunch.com/2025/06/11/standard-nuclear-emerges-from-the-ashes-of-a-failed-startup/)
+- [Looking for a last-minute Father&#39;s Day gift? These Bushnell binoculars are brilliant value with this $60 price cut](https://www.space.com/stargazing/skywatching-kit/bushnell-trophy-xlt-57-percent-off-arrive-before-fathers-day)
 - [Cosmic rings reveal new planet being born | Space photo of the day for June 11, 2025](https://www.space.com/astronomy/stars/cosmic-rings-reveal-new-planet-being-born-space-photo-of-the-day-for-june-11-2025)
 - [June&#39;s Strawberry Moon treats skywatchers to a rare low-riding show &lpar;photos&rpar;](https://www.space.com/stargazing/junes-strawberry-moon-treats-skywatchers-to-a-rare-low-riding-show-photos)
 - [Astronomers see the 1st stars dispel darkness 13 billion years ago at &#39;Cosmic Dawn&#39;](https://www.space.com/astronomy/astronomers-see-the-1st-stars-dispel-darkness-13-billion-years-ago-at-cosmic-dawn)
-- [Sam Altman thinks AI will have ‘novel insights’ next year](https://techcrunch.com/2025/06/11/sam-altman-thinks-ai-will-have-novel-insights-next-year/)
-- [Proxima Fusion joins the club of well-funded nuclear contenders with €130M Series A](https://techcrunch.com/2025/06/10/proxima-fusion-joins-the-club-of-well-funded-nuclear-contenders-with-e130m-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
