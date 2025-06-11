@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta AI gains video editing capabilities](https://techcrunch.com/2025/06/11/meta-ai-gains-video-editing-capabilities/)
-- [ChatGPT will avoid being shut down in some life-threatening scenarios, former OpenAI researcher claims](https://techcrunch.com/2025/06/11/chatgpt-will-avoid-being-shut-down-in-some-life-threatening-scenarios-former-openai-researcher-claims/)
-- [Jewel Burks Solomon’s Collab Capital has closed a new $75M fund](https://techcrunch.com/2025/06/11/jewel-burks-solomons-collab-capital-has-closed-a-new-75m-fund/)
-- [AirPods Pro 3 could be on the way](https://techcrunch.com/2025/06/11/airpods-pro-3-could-be-on-the-way/)
-- [James Webb Space Telescope sees 1st exoplanet raining sand alongside &#39;sandcastle&#39; partner world](https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-sees-1st-exoplanet-raining-sand-alongside-sandcastle-partner-world)
+- [At WWDC, Apple says it will use AI to tag apps to improve discoverability on the App Store](https://techcrunch.com/2025/06/11/at-wwdc-apple-says-it-will-use-ai-to-tag-apps-to-improve-discoverability-on-the-app-store/)
+- [TikTok’s biggest star was detained by ICE, with help from another influencer](https://techcrunch.com/2025/06/11/tiktoks-biggest-star-was-detained-by-ice-with-help-from-another-influencer/)
+- [Wikipedia pauses AI-generated summaries pilot after editors protest](https://techcrunch.com/2025/06/11/wikipedia-pauses-ai-generated-summaries-pilot-after-editors-protest/)
+- [&#39;Uranus is weird.&#39; Big moons of tilted ice giant hide a magnetic mystery, Hubble telescope reveals](https://www.space.com/astronomy/uranus/uranus-is-weird-big-moons-of-tilted-ice-giant-hide-a-magnetic-mystery-hubble-telescope-reveals)
+- [How to delete your 23andMe data](https://techcrunch.com/2025/06/11/23andme-files-for-bankruptcy-how-to-delete-your-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
