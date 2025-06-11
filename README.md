@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CPU Interrupts - Computerphile](https://www.youtube.com/watch?v=tGMSARJk7cA)
 - [5 easy &lpar;but critical&rpar; memory mistakes](https://www.youtube.com/watch?v=cNywlNWan9o)
 - [Cloud Engineer Roadmap | From Beginner to Advanced](https://www.youtube.com/watch?v=6eroP2XGtTI)
 - [Monte Carlo Tree Search - Computerphile](https://www.youtube.com/watch?v=BEFY7IHs0HM)
 - [This makes audits stupidly easy](https://www.youtube.com/watch?v=G5OM24KrAH0)
-- [This Microsoft-backed AI startup just collapsed… why?](https://www.youtube.com/watch?v=Sd6F2pfKJmk)
 <!-- YOUTUBE:END -->
 
 ---
