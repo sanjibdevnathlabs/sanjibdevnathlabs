@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Humanity takes its 1st look at the sun&#39;s poles: &#39;This is just the first step of Solar Orbiter&#39;s stairway to heaven&#39; &lpar;images&rpar;](https://www.space.com/astronomy/sun/humanity-takes-its-1st-look-at-the-suns-poles-this-is-just-the-first-step-of-solar-orbiters-stairway-to-heaven-images)
-- [23andMe says 15% of customers asked to delete their genetic data since bankruptcy](https://techcrunch.com/2025/06/11/23andme-says-15-of-customers-asked-to-delete-their-genetic-data-since-bankruptcy/)
-- [Pinterest tests an AI feature that lets advertisers turn their catalogs into shoppable collages](https://techcrunch.com/2025/06/11/pinterest-tests-an-ai-feature-that-lets-advertisers-turn-their-catalogs-into-shoppable-collages/)
-- [&#39;We&#39;re out of time.&#39; Watch Apple TV+&#39;s thrilling new &#39;Foundation&#39; Season 3 trailer &lpar;video&rpar;](https://www.space.com/entertainment/were-out-of-time-watch-apple-tv-s-thrilling-new-foundation-season-3-trailer-video)
-- [The Browser Company launches its AI-first browser, Dia, in beta](https://techcrunch.com/2025/06/11/the-browser-company-launches-its-ai-first-browser-dia-in-beta/)
+- [James Webb Space Telescope sees 1st exoplanet raining sand alongside &#39;sandcastle&#39; partner world](https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-sees-1st-exoplanet-raining-sand-alongside-sandcastle-partner-world)
+- [Meta’s V-JEPA 2 model teaches AI to understand its surroundings](https://techcrunch.com/2025/06/11/metas-v-jepa-2-model-teaches-ai-to-understand-its-surroundings/)
+- [Rocket Lab launches Japanese Earth-observing radar satellite to orbit](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-japanese-earth-observing-radar-satellite-to-orbit)
+- [Musk targets June 22 launch of Tesla’s long-promised robotaxi service](https://techcrunch.com/2025/06/11/musk-targets-june-22-launch-of-teslas-long-promised-robotaxi-service/)
+- [Apple executives say new AI-powered Siri wasn’t ‘demoware,’ it just wasn’t ready to ship](https://techcrunch.com/2025/06/11/apple-executives-say-new-ai-powered-siri-wasnt-demoware-it-just-wasnt-ready-to-ship/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
