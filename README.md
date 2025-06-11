@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s open model is delayed](https://techcrunch.com/2025/06/10/openais-open-model-is-delayed/)
 - [Vijay Pande, founding partner of a16z bio and health strategy, steps down](https://techcrunch.com/2025/06/10/vijay-pande-founding-partner-of-a16z-bio-and-health-strategy-steps-down/)
 - [AI storage platform Vast Data aimed for $25B valuation in new round, sources say](https://techcrunch.com/2025/06/10/ai-storage-platform-vast-data-aimed-for-25b-valuation-in-new-round-sources-say/)
 - [Apple Intelligence: Everything you need to know about Apple’s AI model and services](https://techcrunch.com/2025/06/10/apple-intelligence-everything-you-need-to-know-about-apples-ai-model-and-services/)
 - [Jiawen Galaxy Projector Light review](https://www.space.com/technology/jiawen-galaxy-projector-light-star-projector-review)
-- [Summer Game Fest 2025: The biggest space &amp; sci-fi game reveals and announcements](https://www.space.com/entertainment/space-games/summer-game-fest-2025-the-biggest-space-and-sci-fi-game-reveals-and-announcements)
 <!-- BLOG-POST-LIST:END -->
 
 ---
