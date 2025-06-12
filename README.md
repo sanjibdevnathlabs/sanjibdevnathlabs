@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta teams with XGS Energy to build a 150 MW geothermal power plant](https://techcrunch.com/2025/06/12/meta-teams-with-xgs-energy-to-build-a-150-mw-geothermal-power-plant/)
+- [Pluto&#39;s hazy skies are making the dwarf planet even colder, James Webb Space Telescope finds](https://www.space.com/astronomy/james-webb-space-telescope/plutos-hazy-skies-are-making-the-dwarf-planet-even-colder-james-webb-space-telescope-finds)
+- [Tesla sues former Optimus engineer over alleged trade secret theft](https://techcrunch.com/2025/06/12/tesla-sues-former-optimus-engineer-over-alleged-trade-secret-theft/)
+- [Google Cloud outage brings down a lot of the internet](https://techcrunch.com/2025/06/12/google-cloud-outage-brings-down-a-lot-of-the-internet/)
 - [Item Emporium Dinosaur Egg Galaxy Star Projector review](https://www.space.com/technology/item-emporium-dinosaur-egg-galaxy-star-projector-review)
-- [NASA astronaut aboard ISS captures colorful aurora in time-lapse footage of Earth from space &lpar;video&rpar;](https://www.space.com/stargazing/nasa-astronaut-aboard-iss-captures-colorful-aurora-in-time-lapse-footage-of-earth-from-space-video)
-- [a16z-backed Infinite Machine shows off cheaper, modular electric scooter](https://techcrunch.com/2025/06/12/a16z-backed-infinite-machine-shows-off-cheaper-modular-electric-scooter/)
-- [Hotel management platform Canary nabs $80M Series D from YC, Insight Partners](https://techcrunch.com/2025/06/12/hotel-management-platform-canary-nabs-80m-series-d-from-yc-insight-partners/)
-- [Here are Apple’s top AI announcements from WWDC 2025](https://techcrunch.com/2025/06/12/here-are-apples-top-ai-announcements-from-wwdc-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
