@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The 10 best Father&#39;s Day Amazon deals — telescopes, Lego, star projectors and more](https://www.space.com/technology/the-10-best-fathers-day-amazon-deals-telescopes-lego-star-projectors-and-more)
-- [Researchers confirm two journalists were hacked with Paragon spyware](https://techcrunch.com/2025/06/12/researchers-confirm-two-journalists-were-hacked-with-paragon-spyware/)
-- [Waymo rides cost more than Uber or Lyft — and people are paying anyway](https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/)
-- [Trump&#39;s 2026 budget cuts would force the world&#39;s most powerful solar telescope to close](https://www.space.com/astronomy/earth/trumps-2026-budget-cuts-would-force-the-worlds-most-powerful-solar-telescope-to-close)
-- [Meta sues AI ‘nudify’ app Crush AI for advertising on its platforms](https://techcrunch.com/2025/06/12/meta-sues-ai-nudify-app-crush-ai-for-advertising-on-its-platforms/)
+- [Automattic acquires relationship manager Clay to add an identity layer to online tools](https://techcrunch.com/2025/06/12/automattic-acquires-relationship-manager-clay-to-add-an-identity-layer-to-online-tools/)
+- [How Warp is introducing robots to automate its network of warehouses](https://techcrunch.com/2025/06/12/how-warp-is-introducing-robots-to-automate-its-network-of-warehouses/)
+- [Legal tech platform Definely raises $30M Series B to make contract reviewing more efficient](https://techcrunch.com/2025/06/12/legal-tech-platform-definely-raises-30m-series-b-to-make-contract-reviewing-more-efficient/)
+- [June full moon shines on SpaceX Dragon | Space photo of the day for June 12, 2025](https://www.space.com/astronomy/moon/june-full-moon-shines-on-spacex-dragon-space-photo-of-the-day-for-june-12-2025)
+- [How AI sales startup Landbase nabbed Ashton Kutcher’s Sound Ventures to lead its $30M Series A](https://techcrunch.com/2025/06/12/how-ai-sales-startup-landbase-nabbed-ashton-kutchers-sound-ventures-to-lead-its-30m-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
