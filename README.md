@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Multiverse Computing raises $215M for tech that could radically slim AI costs](https://techcrunch.com/2025/06/12/multiverse-computing-raises-215m-for-tech-that-could-radically-slim-ai-costs/)
+- [NASA&#39;s PUNCH delivers knockout views of colossal solar storms erupting from sun &lpar;video&rpar;](https://www.space.com/astronomy/sun/nasas-punch-delivers-knockout-views-of-colossal-solar-storms-erupting-from-sun-video)
 - [Twenty years strong: a love letter to TechCrunch](https://techcrunch.com/2025/06/11/twenty-years-strong-a-love-letter-to-techcrunch/)
 - [Apple is salvaging Image Playground with a boost from ChatGPT](https://techcrunch.com/2025/06/11/apple-is-salvaging-image-playground-with-a-boost-from-chatgpt/)
 - [Laws of physics are still broken: Attempt to explain away black holes&#39; central singularity falls short, scientist says](https://www.space.com/astronomy/laws-of-physics-are-still-broken-attempt-to-explain-away-black-holes-central-singularity-falls-short-scientist-says)
-- [Europe, we’re not leaving. Period.](https://techcrunch.com/2025/06/11/europe-were-not-leaving-period/)
-- [Sam Altman-backed Coco Robotics raises $80M](https://techcrunch.com/2025/06/11/sam-altman-backed-coco-robotics-raises-80m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
