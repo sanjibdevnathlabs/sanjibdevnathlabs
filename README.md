@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Satellite images show a dramatic decline in Antarctica&#39;s emperor penguin population — and it&#39;s happening faster than we thought &lpar;photos&rpar;](https://www.space.com/astronomy/earth/satellite-images-show-a-dramatic-decline-in-antarcticas-emperor-penguin-population-and-its-happening-faster-than-we-thought-photos)
 - [Automattic acquires relationship manager Clay to add an identity layer to online tools](https://techcrunch.com/2025/06/12/automattic-acquires-relationship-manager-clay-to-add-an-identity-layer-to-online-tools/)
 - [How Warp is introducing robots to automate its network of warehouses](https://techcrunch.com/2025/06/12/how-warp-is-introducing-robots-to-automate-its-network-of-warehouses/)
 - [Legal tech platform Definely raises $30M Series B to make contract reviewing more efficient](https://techcrunch.com/2025/06/12/legal-tech-platform-definely-raises-30m-series-b-to-make-contract-reviewing-more-efficient/)
 - [June full moon shines on SpaceX Dragon | Space photo of the day for June 12, 2025](https://www.space.com/astronomy/moon/june-full-moon-shines-on-spacex-dragon-space-photo-of-the-day-for-june-12-2025)
-- [How AI sales startup Landbase nabbed Ashton Kutcher’s Sound Ventures to lead its $30M Series A](https://techcrunch.com/2025/06/12/how-ai-sales-startup-landbase-nabbed-ashton-kutchers-sound-ventures-to-lead-its-30m-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
