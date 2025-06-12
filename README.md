@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Drive brand impact with a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/12/drive-brand-impact-with-a-side-event-at-techcrunch-disrupt-2025/)
-- [An entrepreneur wants to build a giant net to catch spacecraft landing on the moon, but can it be done?](https://www.space.com/astronomy/moon/an-entrepreneur-wants-to-build-a-giant-net-to-catch-spacecraft-landing-on-the-moon-but-can-it-be-done)
-- [Gaze at the Orion Nebula together - eVscope 2 is $570 off for Father&#39;s Day](https://www.space.com/stargazing/skywatching-kit/gaze-at-the-orion-nebula-together-evscope-2-is-usd570-off-for-fathers-day)
-- [Aurora alert! Moderate geomagnetic storm could spark northern lights as far south as New York and Idaho on June 14](https://www.space.com/stargazing/auroras/aurora-alert-moderate-geomagnetic-storm-could-spark-northern-lights-as-far-south-as-new-york-and-idaho-on-june-14)
-- [Satellite images show a dramatic decline in Antarctica&#39;s emperor penguin population — and it&#39;s happening faster than we thought &lpar;photos&rpar;](https://www.space.com/astronomy/earth/satellite-images-show-a-dramatic-decline-in-antarcticas-emperor-penguin-population-and-its-happening-faster-than-we-thought-photos)
+- [European Space Agency reveals 3 key space missions threatened by Trump&#39;s NASA budget cuts](https://www.space.com/space-exploration/european-space-agency-reveals-3-key-european-space-missions-threatened-by-trumps-nasa-budget-cuts)
+- [Nothing’s new Phone 3 will be available on general sale in the US](https://techcrunch.com/2025/06/12/nothings-new-phone-3-will-be-available-on-general-sale-in-the-us/)
+- [Instagram will finally let you rearrange your grid](https://techcrunch.com/2025/06/12/instagram-will-finally-let-you-rearrange-your-grid/)
+- [Conveyor uses AI to automate the painful process of vendor security reviews and RFPs with AI](https://techcrunch.com/2025/06/12/conveyor-uses-ai-to-automate-the-painful-process-of-vendor-security-reviews-and-rfps-with-ai/)
+- [SpaceX launch of private Ax-4 astronauts postponed indefinitely due to leaky ISS module](https://www.space.com/space-exploration/private-spaceflight/spacex-launch-of-private-ax-4-astronauts-postponed-indefinitely-due-to-leaky-iss-module)
 <!-- BLOG-POST-LIST:END -->
 
 ---
