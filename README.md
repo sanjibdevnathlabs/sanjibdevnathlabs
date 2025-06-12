@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 10 best Father&#39;s Day Amazon deals — telescopes, Lego, star projectors and more](https://www.space.com/technology/the-10-best-fathers-day-amazon-deals-telescopes-lego-star-projectors-and-more)
+- [Researchers confirm two journalists were hacked with Paragon spyware](https://techcrunch.com/2025/06/12/researchers-confirm-two-journalists-were-hacked-with-paragon-spyware/)
+- [Waymo rides cost more than Uber or Lyft — and people are paying anyway](https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/)
+- [Trump&#39;s 2026 budget cuts would force the world&#39;s most powerful solar telescope to close](https://www.space.com/astronomy/earth/trumps-2026-budget-cuts-would-force-the-worlds-most-powerful-solar-telescope-to-close)
 - [Meta sues AI ‘nudify’ app Crush AI for advertising on its platforms](https://techcrunch.com/2025/06/12/meta-sues-ai-nudify-app-crush-ai-for-advertising-on-its-platforms/)
-- [James Webb Space Telescope discovers smallest &#39;failed stars&#39; ever seen](https://www.space.com/astronomy/james-webb-space-telescope-discovers-smallest-failed-stars-ever-seen)
-- [Multiverse Computing raises $215M for tech that could radically lower AI costs](https://techcrunch.com/2025/06/12/multiverse-computing-raises-215m-for-tech-that-could-radically-slim-ai-costs/)
-- [NASA&#39;s PUNCH delivers knockout views of colossal solar storms erupting from sun &lpar;video&rpar;](https://www.space.com/astronomy/sun/nasas-punch-delivers-knockout-views-of-colossal-solar-storms-erupting-from-sun-video)
-- [Twenty years strong: a love letter to TechCrunch](https://techcrunch.com/2025/06/11/twenty-years-strong-a-love-letter-to-techcrunch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
