@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Drive brand impact with a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/12/drive-brand-impact-with-a-side-event-at-techcrunch-disrupt-2025/)
+- [An entrepreneur wants to build a giant net to catch spacecraft landing on the moon, but can it be done?](https://www.space.com/astronomy/moon/an-entrepreneur-wants-to-build-a-giant-net-to-catch-spacecraft-landing-on-the-moon-but-can-it-be-done)
+- [Gaze at the Orion Nebula together - eVscope 2 is $570 off for Father&#39;s Day](https://www.space.com/stargazing/skywatching-kit/gaze-at-the-orion-nebula-together-evscope-2-is-usd570-off-for-fathers-day)
+- [Aurora alert! Moderate geomagnetic storm could spark northern lights as far south as New York and Idaho on June 14](https://www.space.com/stargazing/auroras/aurora-alert-moderate-geomagnetic-storm-could-spark-northern-lights-as-far-south-as-new-york-and-idaho-on-june-14)
 - [Satellite images show a dramatic decline in Antarctica&#39;s emperor penguin population — and it&#39;s happening faster than we thought &lpar;photos&rpar;](https://www.space.com/astronomy/earth/satellite-images-show-a-dramatic-decline-in-antarcticas-emperor-penguin-population-and-its-happening-faster-than-we-thought-photos)
-- [Automattic acquires relationship manager Clay to add an identity layer to online tools](https://techcrunch.com/2025/06/12/automattic-acquires-relationship-manager-clay-to-add-an-identity-layer-to-online-tools/)
-- [How Warp is introducing robots to automate its network of warehouses](https://techcrunch.com/2025/06/12/how-warp-is-introducing-robots-to-automate-its-network-of-warehouses/)
-- [Legal tech platform Definely raises $30M Series B to make contract reviewing more efficient](https://techcrunch.com/2025/06/12/legal-tech-platform-definely-raises-30m-series-b-to-make-contract-reviewing-more-efficient/)
-- [June full moon shines on SpaceX Dragon | Space photo of the day for June 12, 2025](https://www.space.com/astronomy/moon/june-full-moon-shines-on-spacex-dragon-space-photo-of-the-day-for-june-12-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
