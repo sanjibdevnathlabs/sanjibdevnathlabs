@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here are Apple’s top AI announcements from WWDC 2025](https://techcrunch.com/2025/06/12/here-are-apples-top-ai-announcements-from-wwdc-2025/)
+- [Snapchat adds new features for creators, including an easier way to edit videos](https://techcrunch.com/2025/06/12/snapchat-adds-new-features-for-creators-including-an-easier-way-to-edit-videos/)
+- [Chime almost died in 2016, turned down by 100 VCs — today it IPO’d at $14.5B](https://techcrunch.com/2025/06/12/chime-almost-died-in-2016-turned-down-by-100-vcs-today-it-ipod-at-14-5b/)
 - [Apple fixes new iPhone zero-day bug used in Paragon spyware hacks](https://techcrunch.com/2025/06/12/apple-fixes-new-iphone-zero-day-bug-used-in-paragon-spyware-hacks/)
 - [Star Trek to Star Wars, The Fantastic Four to Predator — here are 10 sci-fi comic books coming your way in 2025](https://www.space.com/entertainment/upcoming-sci-fi-comic-books)
-- [It&#39;s our choice as the best smart telescope and it&#39;s rarely discounted — now with $420 off, this telescope deal is worth grabbing fast](https://www.space.com/stargazing/skywatching-kit/its-our-choice-as-the-best-smart-telescope-and-its-rarely-discounted-now-with-usd420-off-this-telescope-deal-is-worth-grabbing-fast)
-- [OpenAI and Barbie-maker Mattel team up to bring generative AI to toy-making, other products](https://techcrunch.com/2025/06/12/openai-and-barbie-maker-mattel-team-up-to-bring-generative-ai-to-toy-making-and-content-creation/)
-- [Battery manufacturer Powin files for bankruptcy months after landing $200M loan](https://techcrunch.com/2025/06/12/battery-manufacturer-powin-files-for-bankruptcy-months-after-landing-200m-loan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
