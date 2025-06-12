@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [European Space Agency reveals 3 key space missions threatened by Trump&#39;s NASA budget cuts](https://www.space.com/space-exploration/european-space-agency-reveals-3-key-european-space-missions-threatened-by-trumps-nasa-budget-cuts)
-- [Nothing’s new Phone 3 will be available on general sale in the US](https://techcrunch.com/2025/06/12/nothings-new-phone-3-will-be-available-on-general-sale-in-the-us/)
-- [Instagram will finally let you rearrange your grid](https://techcrunch.com/2025/06/12/instagram-will-finally-let-you-rearrange-your-grid/)
-- [Conveyor uses AI to automate the painful process of vendor security reviews and RFPs with AI](https://techcrunch.com/2025/06/12/conveyor-uses-ai-to-automate-the-painful-process-of-vendor-security-reviews-and-rfps-with-ai/)
-- [SpaceX launch of private Ax-4 astronauts postponed indefinitely due to leaky ISS module](https://www.space.com/space-exploration/private-spaceflight/spacex-launch-of-private-ax-4-astronauts-postponed-indefinitely-due-to-leaky-iss-module)
+- [Apple fixes new iPhone zero-day bug used in Paragon spyware hacks](https://techcrunch.com/2025/06/12/apple-fixes-new-iphone-zero-day-bug-used-in-paragon-spyware-hacks/)
+- [Star Trek to Star Wars, The Fantastic Four to Predator — here are 10 sci-fi comic books coming your way in 2025](https://www.space.com/entertainment/upcoming-sci-fi-comic-books)
+- [It&#39;s our choice as the best smart telescope and it&#39;s rarely discounted — now with $420 off, this telescope deal is worth grabbing fast](https://www.space.com/stargazing/skywatching-kit/its-our-choice-as-the-best-smart-telescope-and-its-rarely-discounted-now-with-usd420-off-this-telescope-deal-is-worth-grabbing-fast)
+- [OpenAI and Barbie-maker Mattel team up to bring generative AI to toy-making, other products](https://techcrunch.com/2025/06/12/openai-and-barbie-maker-mattel-team-up-to-bring-generative-ai-to-toy-making-and-content-creation/)
+- [Battery manufacturer Powin files for bankruptcy months after landing $200M loan](https://techcrunch.com/2025/06/12/battery-manufacturer-powin-files-for-bankruptcy-months-after-landing-200m-loan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
