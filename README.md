@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Supernovas may have triggered life-threatening changes in ancient Earth&#39;s climate. Scientists say it could happen again](https://www.space.com/astronomy/supernovas-may-have-triggered-life-threatening-changes-in-ancient-earths-climate-scientists-say-it-could-happen-again)
 - [Scale AI confirms ‘significant’ investment from Meta, says CEO Alexanr Wang is leaving](https://techcrunch.com/2025/06/13/scale-ai-confirms-significant-investment-from-meta-says-ceo-alexanr-wang-is-leaving/)
 - [SpaceX adds 26 satellites to its Starlink constellation with launch from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-6-b1081-vsfb-ocisly)
 - [After a string of successes, early-stage fund Felicis raises fresh $900M](https://techcrunch.com/2025/06/12/after-a-string-of-successes-early-stage-fund-felicis-raises-fresh-900m/)
 - [Missing link star? Why this &#39;teenage vampire&#39; white dwarf has scientists so excited](https://www.space.com/astronomy/missing-link-star-why-this-teenage-vampire-white-dwarf-has-scientists-so-excited)
-- [The Meta AI app is a privacy disaster](https://techcrunch.com/2025/06/12/the-meta-ai-app-is-a-privacy-disaster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
