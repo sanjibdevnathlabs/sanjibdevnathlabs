@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX adds 26 satellites to its Starlink constellation with launch from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-6-b1081-vsfb-ocisly)
 - [After a string of successes, early-stage fund Felicis raises fresh $900M](https://techcrunch.com/2025/06/12/after-a-string-of-successes-early-stage-fund-felicis-raises-fresh-900m/)
 - [Missing link star? Why this &#39;teenage vampire&#39; white dwarf has scientists so excited](https://www.space.com/astronomy/missing-link-star-why-this-teenage-vampire-white-dwarf-has-scientists-so-excited)
 - [The Meta AI app is a privacy disaster](https://techcrunch.com/2025/06/12/the-meta-ai-app-is-a-privacy-disaster/)
 - [Bluesky backlash misses the point](https://techcrunch.com/2025/06/12/bluesky-backlash-misses-the-point/)
-- [Meta teams with XGS Energy to build a 150 MW geothermal power plant](https://techcrunch.com/2025/06/12/meta-teams-with-xgs-energy-to-build-a-150-mw-geothermal-power-plant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
