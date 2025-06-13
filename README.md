@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google tests Audio Overviews for Search queries](https://techcrunch.com/2025/06/13/google-tests-audio-overviews-for-search-queries/)
+- [Apple’s Liquid Glass design is paving the way for AR glasses](https://techcrunch.com/2025/06/13/apples-liquid-glass-design-is-paving-the-way-for-ar-glasses/)
+- [Silicon Valley tech execs are joining the US Army Reserve](https://techcrunch.com/2025/06/13/silicon-valley-tech-execs-are-joining-the-us-army-reserve/)
+- [Amazon joins the big nuclear party, buying 1.92 GW for AWS](https://techcrunch.com/2025/06/13/amazon-joins-the-big-nuclear-party-buying-1-92-gw-for-aws/)
 - [Startups Weekly: No sign of pause](https://techcrunch.com/2025/06/13/startups-weekly-no-sign-of-pause/)
-- [Beyond Bluesky: These are the apps building social experiences on the AT Protocol](https://techcrunch.com/2025/06/13/beyond-bluesky-these-are-the-apps-building-social-experiences-on-the-at-protocol/)
-- [Zevo’s EV-only car-share fleet is helping Tesla owners make money](https://techcrunch.com/2025/06/13/zevos-ev-only-car-share-fleet-is-helping-tesla-owners-make-money/)
-- [Superman battles Lex Luthor and holds a weird little green alien baby in the epic final trailer for James Gunn&#39;s &#39;Superman&#39; &lpar;video&rpar;](https://www.space.com/entertainment/superman-battles-lex-luthor-and-holds-a-weird-little-green-alien-baby-in-the-epic-final-trailer-for-james-gunns-superman-video)
-- [Boston Dynamics robots dance to ‘Don’t Stop Me Now’ for ‘America’s Got Talent’ audition](https://techcrunch.com/2025/06/13/boston-dynamics-robots-dance-to-dont-stop-me-now-for-americas-got-talent-audition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
