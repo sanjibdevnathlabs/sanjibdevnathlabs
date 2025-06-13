@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX adds 23 satellites to Starlink megaconstellation after launch from Florida](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-12-26-b1078-ccsfs-asog)
-- [The founder experience at TechCrunch All Stage: Built for people building what’s next](https://techcrunch.com/2025/06/13/the-founder-experience-at-techcrunch-all-stage-built-for-people-building-whats-next/)
-- [Nvidia to exclude China from its revenue and profit forecasts](https://techcrunch.com/2025/06/13/nvidia-to-exclude-china-from-its-revenue-and-profit-forecasts/)
-- [Get the best streaming deal available as Disney Plus is 60% off, but hurry as this deal expires at the end of June](https://www.space.com/technology/uk-only-fathers-day-disney-plus-deal-60-percent-off)
-- [Proposed NASA radio probe could use gravity &#39;lumpiness&#39; to reveal the insides of alien worlds](https://www.space.com/astronomy/exoplanets/proposed-nasa-radio-probe-could-use-gravity-lumpiness-to-reveal-the-insides-of-alien-worlds)
+- [Startups Weekly: No sign of pause](https://techcrunch.com/2025/06/13/startups-weekly-no-sign-of-pause/)
+- [Beyond Bluesky: These are the apps building social experiences on the AT Protocol](https://techcrunch.com/2025/06/13/beyond-bluesky-these-are-the-apps-building-social-experiences-on-the-at-protocol/)
+- [Zevo’s EV-only car-share fleet is helping Tesla owners make money](https://techcrunch.com/2025/06/13/zevos-ev-only-car-share-fleet-is-helping-tesla-owners-make-money/)
+- [Superman battles Lex Luthor and holds a weird little green alien baby in the epic final trailer for James Gunn&#39;s &#39;Superman&#39; &lpar;video&rpar;](https://www.space.com/entertainment/superman-battles-lex-luthor-and-holds-a-weird-little-green-alien-baby-in-the-epic-final-trailer-for-james-gunns-superman-video)
+- [Boston Dynamics robots dance to ‘Don’t Stop Me Now’ for ‘America’s Got Talent’ audition](https://techcrunch.com/2025/06/13/boston-dynamics-robots-dance-to-dont-stop-me-now-for-americas-got-talent-audition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
