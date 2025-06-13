@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX adds 23 satellites to Starlink megaconstellation after launch from Florida](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-12-26-b1078-ccsfs-asog)
+- [The founder experience at TechCrunch All Stage: Built for people building what’s next](https://techcrunch.com/2025/06/13/the-founder-experience-at-techcrunch-all-stage-built-for-people-building-whats-next/)
+- [Nvidia to exclude China from its revenue and profit forecasts](https://techcrunch.com/2025/06/13/nvidia-to-exclude-china-from-its-revenue-and-profit-forecasts/)
 - [Get the best streaming deal available as Disney Plus is 60% off, but hurry as this deal expires at the end of June](https://www.space.com/technology/uk-only-fathers-day-disney-plus-deal-60-percent-off)
 - [Proposed NASA radio probe could use gravity &#39;lumpiness&#39; to reveal the insides of alien worlds](https://www.space.com/astronomy/exoplanets/proposed-nasa-radio-probe-could-use-gravity-lumpiness-to-reveal-the-insides-of-alien-worlds)
-- [11 startups from YC Demo Day that investors are talking about](https://techcrunch.com/2025/06/13/11-startups-from-yc-demo-day-that-investors-are-talking-about/)
-- [NASA robot digs up simulated moon rocks | Space photo of the day for June 13, 2025](https://www.space.com/astronomy/moon/nasa-robot-digs-up-simulated-moon-rocks-space-photo-of-the-day-for-june-12-2025)
-- [What to expect at TechCrunch All Stage: One day, countless connections and takeaways](https://techcrunch.com/2025/06/13/what-to-expect-at-techcrunch-all-stage-one-day-countless-connections-and-takeaways/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
