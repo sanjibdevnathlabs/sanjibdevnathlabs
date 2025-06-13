@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Northern lights may be visible in these 18 US states tonight and over the weekend](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-18-us-states-tonight-and-over-the-weekend)
 - [Could the answers to cancer lie in space? Why off-Earth research is heating up](https://www.space.com/space-exploration/human-spaceflight/could-the-answers-to-cancer-lie-in-space-why-off-earth-research-is-heating-up)
 - [Supernovas may have triggered life-threatening changes in ancient Earth&#39;s climate. Scientists say it could happen again](https://www.space.com/astronomy/supernovas-may-have-triggered-life-threatening-changes-in-ancient-earths-climate-scientists-say-it-could-happen-again)
 - [Scale AI confirms ‘significant’ investment from Meta, says CEO Alexanr Wang is leaving](https://techcrunch.com/2025/06/13/scale-ai-confirms-significant-investment-from-meta-says-ceo-alexanr-wang-is-leaving/)
 - [SpaceX adds 26 satellites to its Starlink constellation with launch from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-6-b1081-vsfb-ocisly)
-- [After a string of successes, early-stage fund Felicis raises fresh $900M](https://techcrunch.com/2025/06/12/after-a-string-of-successes-early-stage-fund-felicis-raises-fresh-900m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
