@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astrophotographer captures the heart of the Lagoon Nebula glowing below a cosmic Trifid &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotographer-captures-the-heart-of-the-lagoon-nebula-glowing-below-a-cosmic-trifid-photo)
 - [How to see Mars visit a bright star and the moon this June](https://www.space.com/stargazing/how-to-see-mars-visit-a-bright-star-and-the-moon-this-june)
 - [Mars settlement and more: Global space leaders will tackle big ideas next week at ISDC 2025](https://www.space.com/astronomy/earth/mars-settlement-and-more-global-space-leaders-will-tackle-big-ideas-next-week-at-isdc-2025)
 - [TechCrunch Mobility: The cost of Waymo](https://techcrunch.com/2025/06/13/techcrunch-mobility-the-cost-of-waymo/)
 - [Google tests Audio Overviews for Search queries](https://techcrunch.com/2025/06/13/google-tests-audio-overviews-for-search-queries/)
-- [Apple’s Liquid Glass design is paving the way for AR glasses](https://techcrunch.com/2025/06/13/apples-liquid-glass-design-is-paving-the-way-for-ar-glasses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
