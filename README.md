@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Mobility: The cost of Waymo](https://techcrunch.com/2025/06/13/techcrunch-mobility-the-cost-of-waymo/)
 - [Google tests Audio Overviews for Search queries](https://techcrunch.com/2025/06/13/google-tests-audio-overviews-for-search-queries/)
 - [Apple’s Liquid Glass design is paving the way for AR glasses](https://techcrunch.com/2025/06/13/apples-liquid-glass-design-is-paving-the-way-for-ar-glasses/)
 - [Silicon Valley tech execs are joining the US Army Reserve](https://techcrunch.com/2025/06/13/silicon-valley-tech-execs-are-joining-the-us-army-reserve/)
 - [Amazon joins the big nuclear party, buying 1.92 GW for AWS](https://techcrunch.com/2025/06/13/amazon-joins-the-big-nuclear-party-buying-1-92-gw-for-aws/)
-- [Startups Weekly: No sign of pause](https://techcrunch.com/2025/06/13/startups-weekly-no-sign-of-pause/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
