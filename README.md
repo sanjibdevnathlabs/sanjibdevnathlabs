@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [11 startups from YC Demo Day that investors are talking about](https://techcrunch.com/2025/06/13/11-startups-from-yc-demo-day-that-investors-are-talking-about/)
+- [NASA robot digs up simulated moon rocks | Space photo of the day for June 13, 2025](https://www.space.com/astronomy/moon/nasa-robot-digs-up-simulated-moon-rocks-space-photo-of-the-day-for-june-12-2025)
 - [What to expect at TechCrunch All Stage: One day, countless connections and takeaways](https://techcrunch.com/2025/06/13/what-to-expect-at-techcrunch-all-stage-one-day-countless-connections-and-takeaways/)
 - [Iconiq VCs spent two years courting Chime and the firm isn’t selling its stake](https://techcrunch.com/2025/06/13/iconiq-vcs-spent-two-years-courting-chime-and-the-firm-isnt-selling-its-stake/)
 - [Northern lights may be visible in these 18 US states tonight and over the weekend](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-18-us-states-tonight-and-over-the-weekend)
-- [Could the answers to cancer lie in space? Why off-Earth research is heating up](https://www.space.com/space-exploration/human-spaceflight/could-the-answers-to-cancer-lie-in-space-why-off-earth-research-is-heating-up)
-- [Supernovas may have triggered life-threatening changes in ancient Earth&#39;s climate. Scientists say it could happen again](https://www.space.com/astronomy/supernovas-may-have-triggered-life-threatening-changes-in-ancient-earths-climate-scientists-say-it-could-happen-again)
 <!-- BLOG-POST-LIST:END -->
 
 ---
