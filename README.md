@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The investor experience at TechCrunch All Stage: One floor, infinite deal flow](https://techcrunch.com/2025/06/14/the-investor-experience-at-techcrunch-all-stage-one-floor-infinite-deal-flow/)
+- [This Week In Space podcast: Episode 165 — Guardians of Space](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-165-guardians-of-space)
 - [Blue Origin reveals passengers for 13th space tourism launch](https://www.space.com/space-exploration/private-spaceflight/blue-origin-reveals-passengers-for-13th-space-tourism-launch)
 - [Anne Wojcicki’s nonprofit reaches deal to acquire 23andMe](https://techcrunch.com/2025/06/14/anne-wojcickis-nonprofit-reaches-deal-to-acquire-23andme/)
 - [&#39;Star Trek&#39; actor William Shatner and astrophysicist Neil deGrasse team up in new space bromance show &#39;The Universe Is Absurd&#39;](https://www.space.com/entertainment/star-trek-actor-william-shatner-and-astrophysicist-neil-degrasse-team-up-in-new-space-bromance-show-the-universe-is-absurd)
-- [Space humbles the SEAL-doctor-astronaut | On the ISS this week June 9-13, 2025](https://www.space.com/space-exploration/international-space-station/space-humbles-the-seal-doctor-astronaut-on-the-iss-this-week-june-9-13-2025)
-- [JWST spies frigid alien world on bizarre orbit: &#39;One of the coldest, oldest and faintest planets that we&#39;ve imaged to date&#39;](https://www.space.com/astronomy/exoplanets/jwst-spies-frigid-alien-world-on-bizarre-orbit-one-of-the-coldest-oldest-and-faintest-planets-that-weve-imaged-to-date)
 <!-- BLOG-POST-LIST:END -->
 
 ---
