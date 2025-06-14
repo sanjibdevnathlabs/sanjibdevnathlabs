@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The App Store’s new AI-generated tags are live in the beta](https://techcrunch.com/2025/06/14/the-app-stores-new-ai-generated-tags-are-live-in-the-beta/)
+- [&#39;The Alters&#39; is a genre-blending sci-fi survival ordeal about the horrors of being a project manager](https://www.space.com/entertainment/space-games/the-alters-is-a-genre-blending-sci-fi-survival-ordeal-about-the-horrors-of-being-a-project-manager)
 - [The investor experience at TechCrunch All Stage: One floor, infinite deal flow](https://techcrunch.com/2025/06/14/the-investor-experience-at-techcrunch-all-stage-one-floor-infinite-deal-flow/)
 - [This Week In Space podcast: Episode 165 — Guardians of Space](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-165-guardians-of-space)
 - [Blue Origin reveals passengers for 13th space tourism launch](https://www.space.com/space-exploration/private-spaceflight/blue-origin-reveals-passengers-for-13th-space-tourism-launch)
-- [Anne Wojcicki’s nonprofit reaches deal to acquire 23andMe](https://techcrunch.com/2025/06/14/anne-wojcickis-nonprofit-reaches-deal-to-acquire-23andme/)
-- [&#39;Star Trek&#39; actor William Shatner and astrophysicist Neil deGrasse team up in new space bromance show &#39;The Universe Is Absurd&#39;](https://www.space.com/entertainment/star-trek-actor-william-shatner-and-astrophysicist-neil-degrasse-team-up-in-new-space-bromance-show-the-universe-is-absurd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
