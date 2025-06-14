@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JWST spies frigid alien world on bizarre orbit: &#39;One of the coldest, oldest and faintest planets that we&#39;ve imaged to date&#39;](https://www.space.com/astronomy/exoplanets/jwst-spies-frigid-alien-world-on-bizarre-orbit-one-of-the-coldest-oldest-and-faintest-planets-that-weve-imaged-to-date)
 - [New York passes a bill to prevent AI-fueled disasters](https://techcrunch.com/2025/06/13/new-york-passes-a-bill-to-prevent-ai-fueled-disasters/)
 - [FLITI Galaxy Projector review](https://www.space.com/technology/fliti-galaxy-projector-review)
 - [Clay secures a new round at a $3B valuation, sources say](https://techcrunch.com/2025/06/13/clay-secures-a-new-round-at-a-3b-valuation-sources-say/)
 - [New details emerge on Meta’s $14.3B deal for Scale](https://techcrunch.com/2025/06/13/new-details-emerge-on-metas-14-3b-deal-for-scale/)
-- [Astrophotographer captures the heart of the Lagoon Nebula glowing below a cosmic Trifid &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotographer-captures-the-heart-of-the-lagoon-nebula-glowing-below-a-cosmic-trifid-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
