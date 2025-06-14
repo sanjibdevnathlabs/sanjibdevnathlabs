@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google reportedly plans to cut ties with Scale AI](https://techcrunch.com/2025/06/14/google-reportedly-plans-to-cut-ties-with-scale-ai/)
 - [How to delete your 23andMe data](https://techcrunch.com/2025/06/14/23andme-files-for-bankruptcy-how-to-delete-your-data/)
 - [Waymo limits service ahead of today’s ‘No Kings’ protests](https://techcrunch.com/2025/06/14/waymo-limits-service-ahead-of-todays-no-kings-protests/)
 - [Week in Review: WWDC 2025 recap](https://techcrunch.com/2025/06/14/week-in-review-wwdc-2025-recap/)
 - [Cosmic Encounter review](https://www.space.com/cosmic-encounter-review)
-- [The App Store’s new AI-generated tags are live in the beta](https://techcrunch.com/2025/06/14/the-app-stores-new-ai-generated-tags-are-live-in-the-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
