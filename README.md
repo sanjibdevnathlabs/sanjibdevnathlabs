@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek&#39; actor William Shatner and astrophysicist Neil deGrasse team up in new space bromance show &#39;The Universe Is Absurd&#39;](https://www.space.com/entertainment/star-trek-actor-william-shatner-and-astrophysicist-neil-degrasse-team-up-in-new-space-bromance-show-the-universe-is-absurd)
 - [Space humbles the SEAL-doctor-astronaut | On the ISS this week June 9-13, 2025](https://www.space.com/space-exploration/international-space-station/space-humbles-the-seal-doctor-astronaut-on-the-iss-this-week-june-9-13-2025)
 - [JWST spies frigid alien world on bizarre orbit: &#39;One of the coldest, oldest and faintest planets that we&#39;ve imaged to date&#39;](https://www.space.com/astronomy/exoplanets/jwst-spies-frigid-alien-world-on-bizarre-orbit-one-of-the-coldest-oldest-and-faintest-planets-that-weve-imaged-to-date)
 - [New York passes a bill to prevent AI-fueled disasters](https://techcrunch.com/2025/06/13/new-york-passes-a-bill-to-prevent-ai-fueled-disasters/)
 - [FLITI Galaxy Projector review](https://www.space.com/technology/fliti-galaxy-projector-review)
-- [Clay secures a new round at a $3B valuation, sources say](https://techcrunch.com/2025/06/13/clay-secures-a-new-round-at-a-3b-valuation-sources-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
