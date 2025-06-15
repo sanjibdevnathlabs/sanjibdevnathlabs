@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Juzihao Star Projector review](https://www.space.com/stargazing/skywatching-kit/juzihao-star-projector-review)
+- [Alexa von Tobel has high hopes for ‘fintech 3.0’](https://techcrunch.com/2025/06/15/alexa-von-tobel-has-high-hopes-for-fintech-3-0/)
 - [New model helps to figure out which distant planets may host life](https://www.space.com/astronomy/solar-system/new-model-helps-to-figure-out-which-distant-planets-may-host-life)
 - [Go inside the development of NASA&#39;s $10 billion James Webb Space Telescope with new &#39;Cosmic Dawn&#39; documentary](https://www.space.com/astronomy/earth/go-inside-the-development-of-nasas-usd10-billion-james-webb-space-telescope-with-new-cosmic-dawn-documentary)
 - [Astronomers discover ultrapowerful black hole jet as bright as 10 trillion suns lit by Big Bang&#39;s afterglow](https://www.space.com/astronomy/black-holes/astronomers-discover-ultrapowerful-black-hole-jet-as-bright-as-10-trillion-suns-lit-by-big-bangs-afterglow)
-- [Google reportedly plans to cut ties with Scale AI](https://techcrunch.com/2025/06/14/google-reportedly-plans-to-cut-ties-with-scale-ai/)
-- [How to delete your 23andMe data](https://techcrunch.com/2025/06/14/23andme-files-for-bankruptcy-how-to-delete-your-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
