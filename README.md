@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spiraling with ChatGPT](https://techcrunch.com/2025/06/15/spiraling-with-chatgpt/)
 - [Taiwan places export controls on Huawei and SMIC](https://techcrunch.com/2025/06/15/taiwan-places-export-controls-on-huawei-and-smic/)
 - [Juzihao Star Projector review](https://www.space.com/stargazing/skywatching-kit/juzihao-star-projector-review)
 - [Alexa von Tobel has high hopes for ‘fintech 3.0’](https://techcrunch.com/2025/06/15/alexa-von-tobel-has-high-hopes-for-fintech-3-0/)
 - [New model helps to figure out which distant planets may host life](https://www.space.com/astronomy/solar-system/new-model-helps-to-figure-out-which-distant-planets-may-host-life)
-- [Go inside the development of NASA&#39;s $10 billion James Webb Space Telescope with new &#39;Cosmic Dawn&#39; documentary](https://www.space.com/astronomy/earth/go-inside-the-development-of-nasas-usd10-billion-james-webb-space-telescope-with-new-cosmic-dawn-documentary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
