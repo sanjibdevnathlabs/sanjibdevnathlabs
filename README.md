@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX, NASA target June 19 for launch of private Ax-4 astronauts after ISS leak repairs](https://www.space.com/space-exploration/private-spaceflight/spacex-nasa-target-june-19-for-launch-of-private-ax-4-astronauts-after-iss-leak-repairs)
 - [Lego Marvel Infinity Gauntlet review](https://www.space.com/technology/lego-marvel-infinity-gauntlet-review)
 - [Instagram tests a reposts feature](https://techcrunch.com/2025/06/16/instagram-tests-a-reposts-feature/)
 - [Instagram users complain of mass bans, pointing finger at AI](https://techcrunch.com/2025/06/16/instagram-users-complain-of-mass-bans-pointing-finger-at-ai/)
 - [Deadline day: Startup Battlefield 200 applications close at midnight](https://techcrunch.com/2025/06/16/deadline-day-startup-battlefield-200-applications-close-at-midnight/)
-- [Star-forming cloud Chamaeleon I looks like a cosmic masterpiece in new Dark Energy Camera image &lpar;video&rpar;](https://www.space.com/astronomy/star-forming-cloud-chamaeleon-i-looks-like-a-cosmic-masterpiece-in-new-dark-energy-camera-image-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
