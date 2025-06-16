@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The countdown begins: 7 days left to save up to $210 on TechCrunch All Stage passes](https://techcrunch.com/2025/06/16/the-countdown-begins-7-days-left-to-save-up-to-210-on-techcrunch-all-stage-passes/)
-- [Dark matter &#39;lampshades&#39; dimming stars could solve one of the greatest scientific mysteries](https://www.space.com/astronomy/dark-matter-lampshades-dimming-stars-could-solve-one-of-the-greatest-scientific-mysteries)
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/06/16/tech-layoffs-2025-list/)
-- [Alta raises $11M to bring ‘Clueless’ fashion tech to life with all-star investors](https://techcrunch.com/2025/06/16/alta-raises-11m-to-bring-clueless-fashion-tech-to-life-with-all-star-investors/)
-- [WhatsApp is adding ads to the Status screen](https://techcrunch.com/2025/06/16/whatsapp-is-adding-ads-to-the-status-screen/)
+- [The investor experience at TechCrunch All Stage: One floor, infinite deal flow](https://techcrunch.com/2025/06/16/the-investor-experience-at-techcrunch-all-stage-one-floor-infinite-deal-flow/)
+- [Titan A.E. came out 25 years ago, and history has been kind to the infamous flop that killed Fox Animation Studios](https://www.space.com/entertainment/space-movies-shows/titan-a-e-came-out-25-years-ago-and-history-has-been-kind-to-the-infamous-flop-that-killed-fox-animation-studios)
+- [Car sharing giant Zoomcar says hacker accessed personal data of 8.4 million users](https://techcrunch.com/2025/06/16/car-sharing-giant-zoomcar-says-hacker-accessed-personal-data-of-8-4-million-users/)
+- [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/16/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/)
+- [The founder experience at TechCrunch All Stage: Built for people building what’s next](https://techcrunch.com/2025/06/16/the-founder-experience-at-techcrunch-all-stage-built-for-people-building-whats-next/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
