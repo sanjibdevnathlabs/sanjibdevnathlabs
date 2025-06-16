@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alta raises $11M to bring ‘Clueless’ fashion tech to life with all-star investors](https://techcrunch.com/2025/06/16/alta-raises-11m-to-bring-clueless-fashion-tech-to-life-with-all-star-investors/)
+- [WhatsApp is adding ads to the Status screen](https://techcrunch.com/2025/06/16/whatsapp-is-adding-ads-to-the-status-screen/)
+- [Milky Way arcs over Kitt Peak National Observatory | Space photo of the day for June 16, 2025](https://www.space.com/stargazing/milky-way-arcs-over-kitt-peak-national-observatory-space-photo-of-the-day-for-june-16-2025)
 - [Scientists find universe&#39;s missing matter while watching fast radio bursts shine through &#39;cosmic fog&#39;](https://www.space.com/astronomy/scientists-find-universes-missing-matter-while-watching-fast-radio-bursts-shine-through-cosmic-fog)
 - [Watch ULA launch Amazon&#39;s 2nd batch of Kuiper internet satellites today](https://www.space.com/space-exploration/launches-spacecraft/watch-ula-launch-amazons-2nd-batch-of-kuiper-internet-satellites-today)
-- [Aspora gets $50M from Sequoia to build remittance and banking solutions for Indian diaspora](https://techcrunch.com/2025/06/15/aspora-gets-50m-to-build-remittance-solutions-for-indian-diaspora/)
-- [The U.S. Navy is more aggressively telling startups, ‘We want you’](https://techcrunch.com/2025/06/15/the-u-s-navy-is-more-aggressively-telling-startups-we-want-you/)
-- [Spiraling with ChatGPT](https://techcrunch.com/2025/06/15/spiraling-with-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
