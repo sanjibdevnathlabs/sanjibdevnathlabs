@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fujifilm X-T50 review](https://www.space.com/stargazing/astrophotography/fujifilm-x-t50-review)
+- [Patreon will increase the cut it takes from new creators](https://techcrunch.com/2025/06/16/patreon-will-increase-the-cut-it-takes-from-new-creators/)
+- [Behold! 1st images of artificial solar eclipse captured by ESA&#39;s Proba-3 mission](https://www.space.com/stargazing/solar-eclipses/behold-1st-images-of-artificial-solar-eclipse-captured-by-esas-proba-3-mission)
 - [As grocery shortages persist, UNFI says it’s recovering from cyberattack](https://techcrunch.com/2025/06/16/food-distributor-unfi-says-its-recovering-from-cyberattack-as-grocery-shortages-persist/)
 - [The investor experience at TechCrunch All Stage: One floor, infinite deal flow](https://techcrunch.com/2025/06/16/the-investor-experience-at-techcrunch-all-stage-one-floor-infinite-deal-flow/)
-- [Titan A.E. came out 25 years ago, and history has been kind to the infamous flop that killed Fox Animation Studios](https://www.space.com/entertainment/space-movies-shows/titan-a-e-came-out-25-years-ago-and-history-has-been-kind-to-the-infamous-flop-that-killed-fox-animation-studios)
-- [Car-sharing giant Zoomcar says hacker accessed personal data of 8.4 million users](https://techcrunch.com/2025/06/16/car-sharing-giant-zoomcar-says-hacker-accessed-personal-data-of-8-4-million-users/)
-- [What makes TechCrunch All Stage different from other startup events? Answers to your most pressing questions](https://techcrunch.com/2025/06/16/what-makes-techcrunch-all-stage-different-from-other-startup-events-answers-to-your-most-pressing-questions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
