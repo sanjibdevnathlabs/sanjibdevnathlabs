@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deadline day: Startup Battlefield 200 applications close at midnight](https://techcrunch.com/2025/06/16/deadline-day-startup-battlefield-200-applications-close-at-midnight/)
+- [Star-forming cloud Chamaeleon I looks like a cosmic masterpiece in new Dark Energy Camera image &lpar;video&rpar;](https://www.space.com/astronomy/star-forming-cloud-chamaeleon-i-looks-like-a-cosmic-masterpiece-in-new-dark-energy-camera-image-video)
+- [Threads is testing spoiler text, Zuckerberg says](https://techcrunch.com/2025/06/16/threads-is-testing-spoiler-text-zuckerberg-says/)
 - [Fujifilm X-T50 review](https://www.space.com/stargazing/astrophotography/fujifilm-x-t50-review)
 - [Patreon will increase the cut it takes from new creators](https://techcrunch.com/2025/06/16/patreon-will-increase-the-cut-it-takes-from-new-creators/)
-- [Behold! 1st images of artificial solar eclipse captured by ESA&#39;s Proba-3 mission](https://www.space.com/stargazing/solar-eclipses/behold-1st-images-of-artificial-solar-eclipse-captured-by-esas-proba-3-mission)
-- [As grocery shortages persist, UNFI says it’s recovering from cyberattack](https://techcrunch.com/2025/06/16/food-distributor-unfi-says-its-recovering-from-cyberattack-as-grocery-shortages-persist/)
-- [The investor experience at TechCrunch All Stage: One floor, infinite deal flow](https://techcrunch.com/2025/06/16/the-investor-experience-at-techcrunch-all-stage-one-floor-infinite-deal-flow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
