@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nat Geo documentary &#39;SALLY,&#39; about the 1st US woman in space, now streaming on Disney+ &amp; Hulu](https://www.space.com/space-exploration/human-spaceflight/nat-geo-documentary-sally-about-the-1st-us-woman-in-space-now-streaming-on-disney-and-hulu)
+- [Unlock purpose-driven growth at TechCrunch All Stage, and get $210 off for 6 more days](https://techcrunch.com/2025/06/17/unlock-purpose-driven-growth-at-techcrunch-all-stage-and-get-210-off-for-6-more-days/)
 - [China&#39;s next-gen astronaut capsule for moon missions aces crucial pad-abort test &lpar;video&rpar;](https://www.space.com/astronomy/moon/chinas-next-gen-astronaut-capsule-for-moon-missions-aces-crucial-pad-abort-test-video)
 - [Applied Intuition raises $600 million as it pushes further into defense](https://techcrunch.com/2025/06/17/applied-intuition-raises-600-million-as-it-pushes-further-into-defense/)
 - [Facebook announces that all videos on its platform will soon be shared as reels](https://techcrunch.com/2025/06/17/facebook-announces-that-all-videos-on-its-platform-will-soon-be-shared-as-reels/)
-- [Intel to lay off up to 20% of Intel Foundry workers](https://techcrunch.com/2025/06/17/intel-to-layoff-up-to-20-of-intel-foundry-workers/)
-- [Pro-Israel hacktivist group claims reponsibility for alleged Iranian bank hack](https://techcrunch.com/2025/06/17/pro-israel-hacktivist-group-claims-reponsibility-for-alleged-iranian-bank-hack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
