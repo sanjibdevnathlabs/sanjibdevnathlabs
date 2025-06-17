@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Two-year-old defense tech Mach Industries confirms $100M raise led by Khosla, Bedrock](https://techcrunch.com/2025/06/17/two-year-old-defense-tech-mach-industries-confirms-100m-raise-led-by-khosla-bedrock/)
+- [Adobe’s Firefly comes to iOS and Android](https://techcrunch.com/2025/06/17/adobe-releases-a-dedicated-firefly-app-for-image-and-video-creation/)
+- [Giant telescope mirror gets a cleaning | Space photo of the day for June 17, 2025](https://www.space.com/stargazing/giant-telescope-mirror-gets-a-cleaning-space-photo-of-the-day-for-june-17-2025)
+- [Honda dips its toes in cargo delivery micromobility](https://techcrunch.com/2025/06/17/honda-dips-its-toes-in-cargo-delivery-micromobility/)
 - [US court denies Apple’s request to dismiss antitrust case concerning iCloud](https://techcrunch.com/2025/06/17/us-court-denies-apples-request-to-dismiss-antitrust-case-concerning-icloud/)
-- [Sequoia-backed Crosby launches a new kind of AI-powered law firm](https://techcrunch.com/2025/06/17/sequoia-backed-crosby-launches-a-new-kind-of-ai-powered-law-firm/)
-- [Observability startup Coralogix becomes a unicorn, eyes India expansion](https://techcrunch.com/2025/06/17/observability-startup-coralogix-becomes-a-unicorn-eyes-india-expansion/)
-- [Huge galaxy cluster is wrapped in a cocoon 20 million light-years wide, NASA space telescope finds](https://www.space.com/astronomy/huge-galaxy-cluster-is-wrapped-in-a-cocoon-20-million-light-years-wide-nasa-space-telescope-finds)
-- [Prominent global VC Endeavor Catalyst is raising $300M, sources say](https://techcrunch.com/2025/06/17/prominent-global-vc-endeavor-catalyst-is-raising-300m-sources-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
