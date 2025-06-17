@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Roman Space Telescope will use a century-old idea from Einstein to probe the nature of mysterious dark matter](https://www.space.com/astronomy/roman-space-telescope-will-use-a-century-old-idea-from-einstein-to-probe-the-nature-of-mysterious-dark-matter)
-- [Sword Health nabs $40M at $4B valuation, pushes IPO plans to at least 2028](https://techcrunch.com/2025/06/17/sword-health-nabs-40m-at-4b-valuation-pushes-ipo-plans-to-at-least-2028/)
-- [As grocery shortages persist, UNFI says it’s recovering from cyberattack](https://techcrunch.com/2025/06/17/food-distributor-unfi-says-its-recovering-from-cyberattack-as-grocery-shortages-persist/)
-- [UK watchdog fines 23andMe over 2023 data breach](https://techcrunch.com/2025/06/17/uk-watchdog-fines-23andme-over-2023-data-breach/)
-- [Amazon is holding Prime Day 2025 on July 8-11](https://techcrunch.com/2025/06/17/amazon-is-holding-prime-day-2025-on-july-8-11/)
+- [Last call to volunteer at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/17/last-call-to-volunteer-at-tc-all-stage-2025/)
+- [Watch the stunning Mars and Regulus conjunction today with this free livestream](https://www.space.com/stargazing/watch-the-stunning-mars-and-regulus-conjunction-today-with-this-free-livestream)
+- [Own, a new social media app, aims to tokenize the creator economy](https://techcrunch.com/2025/06/17/own-a-new-social-media-app-aims-to-tokenize-the-creator-economy/)
+- [Senate GOP bill spares nuclear and geothermal energy while hammering wind and solar](https://techcrunch.com/2025/06/17/senate-gop-bill-spares-nuclear-and-geothermal-energy-while-hammering-wind-and-solar/)
+- [Mastodon updates its terms to prohibit AI model training](https://techcrunch.com/2025/06/17/mastodon-updates-its-terms-to-prohibit-ai-model-training/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
