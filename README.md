@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US court denies Apple’s request to dismiss antitrust case concerning iCloud](https://techcrunch.com/2025/06/17/us-court-denies-apples-request-to-dismiss-antitrust-case-concerning-icloud/)
+- [Sequoia-backed Crosby launches a new kind of AI-powered law firm](https://techcrunch.com/2025/06/17/sequoia-backed-crosby-launches-a-new-kind-of-ai-powered-law-firm/)
+- [Observability startup Coralogix becomes a unicorn, eyes India expansion](https://techcrunch.com/2025/06/17/observability-startup-coralogix-becomes-a-unicorn-eyes-india-expansion/)
+- [Huge galaxy cluster is wrapped in a cocoon 20 million light-years wide, NASA space telescope finds](https://www.space.com/astronomy/huge-galaxy-cluster-is-wrapped-in-a-cocoon-20-million-light-years-wide-nasa-space-telescope-finds)
 - [Prominent global VC Endeavor Catalyst is raising $300M, sources say](https://techcrunch.com/2025/06/17/prominent-global-vc-endeavor-catalyst-is-raising-300m-sources-say/)
-- [50 years later, Apollo 17’s moon samples are still revealing secrets about lunar volcanoes](https://www.space.com/space-exploration/apollo/50-years-later-apollo-17s-moon-samples-are-still-revealing-secrets-about-lunar-volcanoes)
-- [Google to scale up AI-powered fraud detection and security operations in India](https://techcrunch.com/2025/06/17/google-to-scale-up-ai-powered-fraud-detection-and-security-operations-in-india/)
-- [Spotify’s Daniel Ek just bet bigger on Helsing, Europe’s defense tech darling](https://techcrunch.com/2025/06/16/spotifys-daniel-ek-just-bet-bigger-on-helsing-europes-defense-tech-darling/)
-- [You can now set up double dates with friends on Tinder](https://techcrunch.com/2025/06/16/you-can-now-arrange-a-double-date-with-friends-on-tinder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
