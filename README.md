@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Two-year-old defense tech Mach Industries confirms $100M raise led by Khosla, Bedrock](https://techcrunch.com/2025/06/17/two-year-old-defense-tech-mach-industries-confirms-100m-raise-led-by-khosla-bedrock/)
-- [Adobe’s Firefly comes to iOS and Android](https://techcrunch.com/2025/06/17/adobe-releases-a-dedicated-firefly-app-for-image-and-video-creation/)
-- [Giant telescope mirror gets a cleaning | Space photo of the day for June 17, 2025](https://www.space.com/stargazing/giant-telescope-mirror-gets-a-cleaning-space-photo-of-the-day-for-june-17-2025)
-- [Honda dips its toes in cargo delivery micromobility](https://techcrunch.com/2025/06/17/honda-dips-its-toes-in-cargo-delivery-micromobility/)
-- [US court denies Apple’s request to dismiss antitrust case concerning iCloud](https://techcrunch.com/2025/06/17/us-court-denies-apples-request-to-dismiss-antitrust-case-concerning-icloud/)
+- [Roman Space Telescope will use a century-old idea from Einstein to probe the nature of mysterious dark matter](https://www.space.com/astronomy/roman-space-telescope-will-use-a-century-old-idea-from-einstein-to-probe-the-nature-of-mysterious-dark-matter)
+- [Sword Health nabs $40M at $4B valuation, pushes IPO plans to at least 2028](https://techcrunch.com/2025/06/17/sword-health-nabs-40m-at-4b-valuation-pushes-ipo-plans-to-at-least-2028/)
+- [As grocery shortages persist, UNFI says it’s recovering from cyberattack](https://techcrunch.com/2025/06/17/food-distributor-unfi-says-its-recovering-from-cyberattack-as-grocery-shortages-persist/)
+- [UK watchdog fines 23andMe over 2023 data breach](https://techcrunch.com/2025/06/17/uk-watchdog-fines-23andme-over-2023-data-breach/)
+- [Amazon is holding Prime Day 2025 on July 8-11](https://techcrunch.com/2025/06/17/amazon-is-holding-prime-day-2025-on-july-8-11/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
