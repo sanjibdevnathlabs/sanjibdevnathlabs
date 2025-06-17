@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How do baby planets grow? Study of 30 stellar nurseries sheds new light](https://www.space.com/astronomy/how-do-baby-planets-grow-study-of-30-stellar-nurseries-sheds-new-light)
-- [How AI chatbots keep people coming back](https://techcrunch.com/video/how-ai-chatbots-keep-people-coming-back/)
-- [Elon Musk’s xAI is reportedly seeking a $4.3B equity raise](https://techcrunch.com/2025/06/17/elon-musks-xai-is-reportedly-seeking-a-4-3b-equity-raise/)
-- [Last call to volunteer at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/17/last-call-to-volunteer-at-tc-all-stage-2025/)
-- [Watch the stunning Mars and Regulus conjunction today with this free livestream](https://www.space.com/stargazing/watch-the-stunning-mars-and-regulus-conjunction-today-with-this-free-livestream)
+- [In just 3 months, Ramp’s valuation jumped to $16B from $13B](https://techcrunch.com/2025/06/17/in-just-3-months-ramps-valuation-jumped-to-16b-from-13b/)
+- [&#39;Star Trek: Strange New Worlds&#39; season five will be the show&#39;s final frontier on Paramount+](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-five-will-be-the-shows-final-frontier-on-paramount)
+- [Anysphere launches a $200-a-month Cursor AI coding subscription](https://techcrunch.com/2025/06/17/anysphere-launches-a-200-a-month-cursor-ai-coding-subscription/)
+- [Mysterious radio pulses detected high above Antarctica may be evidence of an exotic new particle, scientists say](https://www.space.com/astronomy/black-holes/mysterious-radio-pulses-detected-high-above-antarctica-may-be-evidence-of-an-exotic-new-particle-scientists-say)
+- [Threads expands open social web integrations with fediverse feed, user profile search](https://techcrunch.com/2025/06/17/threads-expands-open-social-web-integrations-with-fediverse-feed-user-profile-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
