@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google to scale up AI-powered fraud detection and security operations in India](https://techcrunch.com/2025/06/17/google-to-scale-up-ai-powered-fraud-detection-and-security-operations-in-india/)
 - [Spotify’s Daniel Ek just bet bigger on Helsing, Europe’s defense tech darling](https://techcrunch.com/2025/06/16/spotifys-daniel-ek-just-bet-bigger-on-helsing-europes-defense-tech-darling/)
 - [You can now set up double dates with friends on Tinder](https://techcrunch.com/2025/06/16/you-can-now-arrange-a-double-date-with-friends-on-tinder/)
 - [SpaceX launch from California sends 26 Starlink satellites into low Earth orbit](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-9-b1093-vsfs-ocisly)
 - [The cracks in the OpenAI-Microsoft relationship are reportedly widening](https://techcrunch.com/2025/06/16/the-cracks-in-the-openai-microsoft-relationship-are-reportedly-widening/)
-- [Finland warms up the world’s largest sand battery, and the economics look appealing](https://techcrunch.com/2025/06/16/finland-warms-up-the-worlds-largest-sand-battery-and-the-economics-look-appealing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
