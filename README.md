@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [In just 3 months, Ramp’s valuation jumped to $16B from $13B](https://techcrunch.com/2025/06/17/in-just-3-months-ramps-valuation-jumped-to-16b-from-13b/)
-- [&#39;Star Trek: Strange New Worlds&#39; season five will be the show&#39;s final frontier on Paramount+](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-five-will-be-the-shows-final-frontier-on-paramount)
-- [Anysphere launches a $200-a-month Cursor AI coding subscription](https://techcrunch.com/2025/06/17/anysphere-launches-a-200-a-month-cursor-ai-coding-subscription/)
-- [Mysterious radio pulses detected high above Antarctica may be evidence of an exotic new particle, scientists say](https://www.space.com/astronomy/black-holes/mysterious-radio-pulses-detected-high-above-antarctica-may-be-evidence-of-an-exotic-new-particle-scientists-say)
-- [Threads expands open social web integrations with fediverse feed, user profile search](https://techcrunch.com/2025/06/17/threads-expands-open-social-web-integrations-with-fediverse-feed-user-profile-search/)
+- [China&#39;s next-gen astronaut capsule for moon missions aces crucial pad-abort test &lpar;video&rpar;](https://www.space.com/astronomy/moon/chinas-next-gen-astronaut-capsule-for-moon-missions-aces-crucial-pad-abort-test-video)
+- [Applied Intuition raises $600 million as it pushes further into defense](https://techcrunch.com/2025/06/17/applied-intuition-raises-600-million-as-it-pushes-further-into-defense/)
+- [Facebook announces that all videos on its platform will soon be shared as reels](https://techcrunch.com/2025/06/17/facebook-announces-that-all-videos-on-its-platform-will-soon-be-shared-as-reels/)
+- [Intel to lay off up to 20% of Intel Foundry workers](https://techcrunch.com/2025/06/17/intel-to-layoff-up-to-20-of-intel-foundry-workers/)
+- [Pro-Israel hacktivist group claims reponsibility for alleged Iranian bank hack](https://techcrunch.com/2025/06/17/pro-israel-hacktivist-group-claims-reponsibility-for-alleged-iranian-bank-hack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
