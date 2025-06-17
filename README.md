@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Northern lights and glowing noctilucent clouds collide in a rare night sky show over Alberta &lpar;photo&rpar;](https://www.space.com/stargazing/northern-lights-and-glowing-noctilucent-clouds-collide-in-a-rare-night-sky-show-over-alberta-photo)
-- [Meta is reportedly building AI smart glasses with Prada, too](https://techcrunch.com/2025/06/17/meta-is-reportedly-building-ai-smart-glasses-with-prada-too/)
-- [Tumblr’s content-filtering systems have been falsely flagging posts as ‘mature,’ users blame AI](https://techcrunch.com/2025/06/17/tumblrs-content-filtering-systems-have-been-falsely-flagging-posts-as-mature-users-blame-ai/)
-- [Nat Geo documentary &#39;SALLY,&#39; about the 1st US woman in space, now streaming on Disney+ &amp; Hulu](https://www.space.com/space-exploration/human-spaceflight/nat-geo-documentary-sally-about-the-1st-us-woman-in-space-now-streaming-on-disney-and-hulu)
-- [Unlock purpose-driven growth at TechCrunch All Stage, and get $210 off for 6 more days](https://techcrunch.com/2025/06/17/unlock-purpose-driven-growth-at-techcrunch-all-stage-and-get-210-off-for-6-more-days/)
+- [OpenAI’s $200M DoD contract could squeeze frenemy Microsoft](https://techcrunch.com/2025/06/17/openais-200m-dod-contract-could-squeeze-frenemy-microsoft/)
+- [Tiny ‘primordial’ black holes created in the Big Bang may have rapidly grown to supermassive sizes](https://www.space.com/astronomy/black-holes/tiny-primordial-black-holes-created-in-the-big-bang-may-have-rapidly-grown-to-supermassive-sizes)
+- [EVs dominate the most American-made cars index and it’s not just because of Tesla](https://techcrunch.com/2025/06/17/evs-dominate-the-most-american-made-cars-index-and-its-not-just-because-of-tesla/)
+- [Google’s Gemini panicked when playing Pokémon](https://techcrunch.com/2025/06/17/googles-gemini-panicked-when-playing-pokemon/)
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/06/17/tech-layoffs-2025-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
