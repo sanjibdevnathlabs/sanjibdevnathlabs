@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Police shut down Cluely’s party, the ‘cheat at everything’ startup](https://techcrunch.com/2025/06/17/police-shut-down-cluelys-party-the-cheat-at-everything-startup/)
+- [Sam Altman says Meta tried and failed to poach OpenAI’s talent with $100M offers](https://techcrunch.com/2025/06/17/sam-altman-says-meta-tried-and-failed-to-poach-openais-talent-with-100m-offers/)
 - [OpenAI’s $200M DoD contract could squeeze frenemy Microsoft](https://techcrunch.com/2025/06/17/openais-200m-dod-contract-could-squeeze-frenemy-microsoft/)
 - [Tiny ‘primordial’ black holes created in the Big Bang may have rapidly grown to supermassive sizes](https://www.space.com/astronomy/black-holes/tiny-primordial-black-holes-created-in-the-big-bang-may-have-rapidly-grown-to-supermassive-sizes)
 - [EVs dominate the most American-made cars index and it’s not just because of Tesla](https://techcrunch.com/2025/06/17/evs-dominate-the-most-american-made-cars-index-and-its-not-just-because-of-tesla/)
-- [Google’s Gemini panicked when playing Pokémon](https://techcrunch.com/2025/06/17/googles-gemini-panicked-when-playing-pokemon/)
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/06/17/tech-layoffs-2025-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
