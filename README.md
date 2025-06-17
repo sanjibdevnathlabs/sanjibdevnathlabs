@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do baby planets grow? Study of 30 stellar nurseries sheds new light](https://www.space.com/astronomy/how-do-baby-planets-grow-study-of-30-stellar-nurseries-sheds-new-light)
+- [How AI chatbots keep people coming back](https://techcrunch.com/video/how-ai-chatbots-keep-people-coming-back/)
+- [Elon Musk’s xAI is reportedly seeking a $4.3B equity raise](https://techcrunch.com/2025/06/17/elon-musks-xai-is-reportedly-seeking-a-4-3b-equity-raise/)
 - [Last call to volunteer at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/17/last-call-to-volunteer-at-tc-all-stage-2025/)
 - [Watch the stunning Mars and Regulus conjunction today with this free livestream](https://www.space.com/stargazing/watch-the-stunning-mars-and-regulus-conjunction-today-with-this-free-livestream)
-- [Own, a new social media app, aims to tokenize the creator economy](https://techcrunch.com/2025/06/17/own-a-new-social-media-app-aims-to-tokenize-the-creator-economy/)
-- [Senate GOP bill spares nuclear and geothermal energy while hammering wind and solar](https://techcrunch.com/2025/06/17/senate-gop-bill-spares-nuclear-and-geothermal-energy-while-hammering-wind-and-solar/)
-- [Mastodon updates its terms to prohibit AI model training](https://techcrunch.com/2025/06/17/mastodon-updates-its-terms-to-prohibit-ai-model-training/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
