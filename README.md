@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Super Intelligence Speculation - Computerphile](https://www.youtube.com/watch?v=5UAvECavmFA)
 - [That time Google Cloud Platform bricked the Internet…](https://www.youtube.com/watch?v=rUCOwCJDh8o)
 - [I&#39;m worried about Network Engineers.....](https://www.youtube.com/watch?v=4hkJX7LBdXc)
 - [Apple redefines reality &lpar;again&rpar; at WWDC25…](https://www.youtube.com/watch?v=Q57_iaGrxLg)
 - [CPU Interrupts - Computerphile](https://www.youtube.com/watch?v=tGMSARJk7cA)
-- [5 easy &lpar;but critical&rpar; memory mistakes](https://www.youtube.com/watch?v=cNywlNWan9o)
 <!-- YOUTUBE:END -->
 
 ---
