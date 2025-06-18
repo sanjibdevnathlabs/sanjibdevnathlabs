@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch your favorite sci-fi shows anywhere in the world and get a free Amazon voucher ahead of Prime Day with this NordVPN deal](https://www.space.com/technology/76-percent-off-nordvpn-and-free-50-dollar-amazon-voucher-deal)
+- [Grifin secures $11M to make investing less intimidating for its female user base](https://techcrunch.com/2025/06/18/grifin-secures-11-million-to-make-investing-less-intimidating-for-its-female-user-base/)
+- [Firefly Aerospace to launch &#39;Ocula&#39; moon-imaging service as early as 2026](https://www.space.com/space-exploration/private-spaceflight/firefly-aerospace-to-launch-ocula-moon-imaging-service-as-early-as-2026)
 - [Colossal solar flare erupts from Earth-facing sunspot, sparking strong radio blackouts over Pacific Ocean &lpar;video&rpar;](https://www.space.com/astronomy/sun/colossal-solar-flare-erupts-from-earth-facing-sunspot-sparking-strong-radio-blackouts-over-pacific-ocean-video)
 - [Astronomers capture the most intricate picture of a galaxy in a thousand colors ever seen &lpar;photo, video&rpar;](https://www.space.com/astronomy/astronomers-capture-the-most-intricate-picture-of-a-galaxy-in-a-thousand-colors-ever-seen-photo-video)
-- [Trump set to delay TikTok ban with yet another extension](https://techcrunch.com/2025/06/18/trump-set-to-delay-tiktok-ban-with-yet-another-extension/)
-- [Satellite streaks: Can the huge new Vera Rubin Observatory function in the megaconstellation age?](https://www.space.com/astronomy/satellite-streaks-can-the-huge-new-vera-rubin-observatory-function-in-the-megaconstellation-age)
-- [Pope Leo makes AI’s threat to humanity a signature issue](https://techcrunch.com/2025/06/18/pope-leo-makes-ais-threat-to-humanity-a-signature-issue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
