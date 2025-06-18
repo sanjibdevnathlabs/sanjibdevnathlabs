@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars joins the Spring Triangle this week: Here’s when and how to see it](https://www.space.com/stargazing/mars-joins-the-spring-triangle-this-week-heres-when-and-how-to-see-it)
+- [Voi CEO says he’s open to acquiring Bolt’s micromobility business](https://techcrunch.com/2025/06/18/voi-ceo-says-hes-open-to-acquiring-bolts-micromobility-business/)
 - [OpenAI drops Scale AI as a data provider following Meta deal](https://techcrunch.com/2025/06/18/openai-drops-scale-ai-as-a-data-provider-following-meta-deal/)
 - [Watch Honda launch &lpar;and land&rpar; its 1st reusable rocket in this wild video](https://www.space.com/space-exploration/launches-spacecraft/watch-honda-launch-and-land-its-1st-reusable-rocket-in-this-wild-video)
 - [A glitch is turning Threads into a literal echo chamber](https://techcrunch.com/2025/06/18/a-glitch-is-turning-threads-into-a-literal-echo-chamber/)
-- [xAI is facing a lawsuit for operating over 400 MW of gas turbines without permits](https://techcrunch.com/2025/06/18/xai-is-facing-a-lawsuit-for-operating-over-400-mw-of-gas-turbines-without-permits/)
-- [Facebook will soon roll out support for passkeys on Android and iOS](https://techcrunch.com/2025/06/18/facebook-will-soon-roll-out-support-for-passkeys-on-android-and-ios/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
