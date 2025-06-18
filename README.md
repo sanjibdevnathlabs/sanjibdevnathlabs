@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the moon rise alongside the giant planets Neptune and Saturn predawn on June 19](https://www.space.com/stargazing/see-the-moon-rise-alongside-the-giant-planets-neptune-and-saturn-predawn-on-june-19)
+- [‘Kid-pilled’ Sam Altman ‘constantly’ asked ChatGPT questions about his newborn](https://techcrunch.com/2025/06/18/kid-pilled-sam-altman-constantly-asked-chatgpt-questions-about-his-newborn/)
+- [Six-month-old, solo-owned vibe coder Base44 sells to Wix for $80M cash](https://techcrunch.com/2025/06/18/six-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/)
 - [2 Chinese spacecraft just met up 22,000 miles above Earth. What were they doing?](https://www.space.com/space-exploration/satellites/2-chinese-spacecraft-just-met-up-22-000-miles-above-earth-what-were-they-doing)
 - [Multiplier, founded by ex-Stripe exec, nabs $27.5M to fuel AI-powered accounting roll-ups](https://techcrunch.com/2025/06/18/multiplier-founded-by-ex-stripe-exec-nabs-27-5m-to-fuel-ai-powered-accounting-roll-ups/)
-- [Midjourney launches its first AI video generation model, V1](https://techcrunch.com/2025/06/18/midjourney-launches-its-first-ai-video-generation-model-v1/)
-- [Mars joins the Spring Triangle this week: Here’s when and how to see it](https://www.space.com/stargazing/mars-joins-the-spring-triangle-this-week-heres-when-and-how-to-see-it)
-- [Voi CEO says he’s open to acquiring Bolt’s micromobility business](https://techcrunch.com/2025/06/18/voi-ceo-says-hes-open-to-acquiring-bolts-micromobility-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
