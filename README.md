@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Colossal solar flare erupts from Earth-facing sunspot, sparking strong radio blackouts over Pacific Ocean &lpar;video&rpar;](https://www.space.com/astronomy/sun/colossal-solar-flare-erupts-from-earth-facing-sunspot-sparking-strong-radio-blackouts-over-pacific-ocean-video)
+- [Astronomers capture the most intricate picture of a galaxy in a thousand colors ever seen &lpar;photo, video&rpar;](https://www.space.com/astronomy/astronomers-capture-the-most-intricate-picture-of-a-galaxy-in-a-thousand-colors-ever-seen-photo-video)
 - [Trump set to delay TikTok ban with yet another extension](https://techcrunch.com/2025/06/18/trump-set-to-delay-tiktok-ban-with-yet-another-extension/)
 - [Satellite streaks: Can the huge new Vera Rubin Observatory function in the megaconstellation age?](https://www.space.com/astronomy/satellite-streaks-can-the-huge-new-vera-rubin-observatory-function-in-the-megaconstellation-age)
 - [Pope Leo makes AI’s threat to humanity a signature issue](https://techcrunch.com/2025/06/18/pope-leo-makes-ais-threat-to-humanity-a-signature-issue/)
-- [SpaceX sends 28 Starlink satellites into low Earth orbit on launch from Florida](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-18-b1090-ccsfs-jrti)
-- [After Shopify bought his last startup, Birk Jernström wants to help developers build one-person unicorns](https://techcrunch.com/2025/06/17/after-shopify-bought-his-last-startup-birk-jernstrom-wants-to-help-developers-build-one-person-unicorns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
