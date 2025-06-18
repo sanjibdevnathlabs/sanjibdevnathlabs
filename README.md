@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Satellite streaks: Can the huge new Vera Rubin Observatory function in the megaconstellation age?](https://www.space.com/astronomy/satellite-streaks-can-the-huge-new-vera-rubin-observatory-function-in-the-megaconstellation-age)
 - [Pope Leo makes AI’s threat to humanity a signature issue](https://techcrunch.com/2025/06/18/pope-leo-makes-ais-threat-to-humanity-a-signature-issue/)
 - [SpaceX sends 28 Starlink satellites into low Earth orbit on launch from Florida](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-18-b1090-ccsfs-jrti)
 - [After Shopify bought his last startup, Birk Jernström wants to help developers build one-person unicorns](https://techcrunch.com/2025/06/17/after-shopify-bought-his-last-startup-birk-jernstrom-wants-to-help-developers-build-one-person-unicorns/)
 - [Police shut down Cluely’s party, the ‘cheat at everything’ startup](https://techcrunch.com/2025/06/17/police-shut-down-cluelys-party-the-cheat-at-everything-startup/)
-- [Sam Altman says Meta tried and failed to poach OpenAI’s talent with $100M offers](https://techcrunch.com/2025/06/17/sam-altman-says-meta-tried-and-failed-to-poach-openais-talent-with-100m-offers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
