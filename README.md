@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX sends 28 Starlink satellites into low Earth orbit on launch from Florida](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-18-b1090-ccsfs-jrti)
+- [After Shopify bought his last startup, Birk Jernström wants to help developers build one-person unicorns](https://techcrunch.com/2025/06/17/after-shopify-bought-his-last-startup-birk-jernstrom-wants-to-help-developers-build-one-person-unicorns/)
 - [Police shut down Cluely’s party, the ‘cheat at everything’ startup](https://techcrunch.com/2025/06/17/police-shut-down-cluelys-party-the-cheat-at-everything-startup/)
 - [Sam Altman says Meta tried and failed to poach OpenAI’s talent with $100M offers](https://techcrunch.com/2025/06/17/sam-altman-says-meta-tried-and-failed-to-poach-openais-talent-with-100m-offers/)
 - [OpenAI’s $200M DoD contract could squeeze frenemy Microsoft](https://techcrunch.com/2025/06/17/openais-200m-dod-contract-could-squeeze-frenemy-microsoft/)
-- [Tiny ‘primordial’ black holes created in the Big Bang may have rapidly grown to supermassive sizes](https://www.space.com/astronomy/black-holes/tiny-primordial-black-holes-created-in-the-big-bang-may-have-rapidly-grown-to-supermassive-sizes)
-- [EVs dominate the most American-made cars index and it’s not just because of Tesla](https://techcrunch.com/2025/06/17/evs-dominate-the-most-american-made-cars-index-and-its-not-just-because-of-tesla/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
