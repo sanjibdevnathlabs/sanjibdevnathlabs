@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Nerds are cool&quot; — Pixar&#39;s &#39;Elio&#39; is a powerful story of finding yourself amongst the stars &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/nerds-are-cool-pixars-elio-is-a-powerful-story-of-finding-yourself-amongst-the-stars-interview)
+- [This Australian moth may be the 1st insect ever discovered to use stars for long-distance navigation](https://www.space.com/astronomy/earth/this-australian-moth-may-be-the-1st-insect-ever-discovered-to-use-stars-for-long-distance-navigation)
+- [Hackers steal and destroy millions from Iran’s largest crypto exchange](https://techcrunch.com/2025/06/18/hackers-steal-and-destroy-millions-from-irans-largest-crypto-exchange/)
+- [&#39;Nerds are cool&#39; — Pixar&#39;s &#39;Elio&#39; is a powerful story of finding yourself amongst the stars &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/nerds-are-cool-pixars-elio-is-a-powerful-story-of-finding-yourself-amongst-the-stars-interview)
 - [Watch your favorite sci-fi shows anywhere in the world and get a free Amazon voucher ahead of Prime Day with this NordVPN deal](https://www.space.com/technology/76-percent-off-nordvpn-and-free-50-dollar-amazon-voucher-deal)
 - [Grifin secures $11M to make investing less intimidating for its female user base](https://techcrunch.com/2025/06/18/grifin-secures-11-million-to-make-investing-less-intimidating-for-its-female-user-base/)
-- [Firefly Aerospace to launch &#39;Ocula&#39; moon-imaging service as early as 2026](https://www.space.com/space-exploration/private-spaceflight/firefly-aerospace-to-launch-ocula-moon-imaging-service-as-early-as-2026)
-- [Colossal solar flare erupts from Earth-facing sunspot, sparking strong radio blackouts over Pacific Ocean &lpar;video&rpar;](https://www.space.com/astronomy/sun/colossal-solar-flare-erupts-from-earth-facing-sunspot-sparking-strong-radio-blackouts-over-pacific-ocean-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
