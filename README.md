@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Here’s your first look at the rebooted Digg](https://techcrunch.com/2025/06/18/heres-your-first-look-at-the-rebooted-digg/)
-- [Google’s AI Mode can now have back-and-forth voice conversations](https://techcrunch.com/2025/06/18/googles-ai-mode-can-now-have-back-and-forth-voice-conversations/)
-- [NASA satellite sees sea ice crack apart in Canada | Space photo of the day for June 18, 2025](https://www.space.com/astronomy/earth/nasa-satellite-sees-sea-ice-crack-apart-in-canada-space-photo-of-the-day-for-june-18-2025)
-- [Tubi now features content from popular YouTube channels like Mythical Kitchen and more](https://techcrunch.com/2025/06/18/tubi-now-features-content-from-popular-youtube-channels-like-mythical-kitchen-and-more/)
-- [Scale smarter: 5 days left to save up to $210 on your TechCrunch All Stage pass](https://techcrunch.com/2025/06/18/scale-smarter-5-days-left-to-save-up-to-210-on-your-techcrunch-all-stage-pass/)
+- [OpenAI found features in AI models that correspond to different ‘personas’](https://techcrunch.com/2025/06/18/openai-found-features-in-ai-models-that-correspond-to-different-personas/)
+- [&#39;The Best of Both Worlds&#39; at 35: Why we&#39;re still assimilated by &#39;Star Trek&#39;&#39;s greatest ever cliffhanger](https://www.space.com/entertainment/space-movies-shows/the-best-of-both-worlds-at-35-why-were-still-assimilated-by-star-treks-greatest-ever-cliffhanger)
+- [Waymo has set its robotaxi sights on NYC](https://techcrunch.com/2025/06/18/waymo-has-set-its-robotaxi-sights-on-nyc/)
+- [Amazon’s Zoox opens its first major robotaxi production facility](https://techcrunch.com/2025/06/18/amazons-zoox-opens-its-first-major-robotaxi-production-facility/)
+- [Internet collapses across Iran, say web-monitoring firms](https://techcrunch.com/2025/06/18/internet-collapses-across-iran-say-web-monitoring-firms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
