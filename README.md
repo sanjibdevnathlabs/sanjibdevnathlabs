@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dress rehearsal for Artemis 2 | Space photo of the day for June 19, 2025](https://www.space.com/space-exploration/dress-rehearsal-for-artemis-2-space-photo-of-the-day-for-june-19-2025)
+- [Every fusion startup that has raised over $100M](https://techcrunch.com/2025/06/19/every-fusion-startup-that-has-raised-over-100m/)
 - [Meet the crew of Blue Origin&#39;s NS-33 tourism launch to the edge of space](https://www.space.com/space-exploration/private-spaceflight/meet-the-crew-of-blue-origins-ns-33-tourism-launch-to-the-edge-of-space)
 - [TechCrunch Disrupt 2025: The Builders Stage agenda is now live and taking shape](https://techcrunch.com/2025/06/19/techcrunch-disrupt-2025-the-builders-stage-agenda-is-now-live-and-taking-shape/)
 - [Amazon to invest $233M to enhance its India infrastructure](https://techcrunch.com/2025/06/19/amazon-to-invest-233m-to-enhance-its-india-infrastructure/)
-- [Raising a Series C+? Cathy Gao’s bringing the real playbook to TechCrunch All Stage](https://techcrunch.com/2025/06/19/raising-a-series-c-cathy-gaos-bringing-the-real-playbook-to-techcrunch-all-stage/)
-- [At TechCrunch All Stage: VC red flags, founder signals, and pre-seed traps — Charles Hudson will tell you what investors really see](https://techcrunch.com/2025/06/19/at-techcrunch-all-stage-vc-red-flags-founder-signals-and-pre-seed-traps-charles-hudson-will-tell-you-what-investors-really-see/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
