@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX’s Starship blows up ahead of 10th test flight](https://techcrunch.com/2025/06/19/spacexs-starship-blows-up-ahead-of-10th-test-flight/)
+- [Bluesky briefly suspended JD Vance’s account after he joined](https://techcrunch.com/2025/06/19/bluesky-briefly-suspended-jd-vances-account-after-he-joined/)
 - [A timeline of the US semiconductor market in 2025](https://techcrunch.com/2025/06/19/a-timeline-of-the-u-s-semiconductor-market-in-2025/)
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/06/19/nvidias-ai-empire-a-look-at-its-top-startup-investments/)
 - [&#39;The models were right!&#39; Astronomers locate universe&#39;s &#39;missing&#39; matter in the largest cosmic structures](https://www.space.com/astronomy/astronomers-turn-up-missing-matter-in-the-largest-structures-in-the-cosmos-the-models-were-right)
-- [Stripe’s former growth lead helps African diaspora invest in startups, real estate](https://techcrunch.com/2025/06/19/stripes-former-growth-lead-helps-african-diaspora-back-home/)
-- [SpaceX&#39;s Starship explodes in Texas during preparations for 10th test flight](https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-explodes-in-texas-during-preparations-for-10th-test-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
