@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 days left: Lock in your TechCrunch All Stage pass — or miss $210 in savings](https://techcrunch.com/2025/06/19/4-days-left-lock-in-your-techcrunch-all-stage-pass-or-miss-210-in-savings/)
+- [Tiny galaxies may have helped our universe out of its dark ages, JWST finds](https://www.space.com/astronomy/james-webb-space-telescope/tiny-galaxies-may-have-helped-our-universe-out-of-its-dark-ages-jwst-finds)
 - [Astronomers discover the largest comet from the outskirts of the solar system is exploding with jets of gas](https://www.space.com/astronomy/solar-system/astronomers-discover-the-largest-comet-from-the-outskirts-of-the-solar-system-is-exploding-with-jets-of-gas)
 - [Northern lights may be visible in these 9 US States tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-9-us-states-tonight)
 - [SpaceX’s Starship blows up ahead of 10th test flight](https://techcrunch.com/2025/06/19/spacexs-starship-blows-up-ahead-of-10th-test-flight/)
-- [Bluesky briefly suspended JD Vance’s account after he joined](https://techcrunch.com/2025/06/19/bluesky-briefly-suspended-jd-vances-account-after-he-joined/)
-- [A timeline of the US semiconductor market in 2025](https://techcrunch.com/2025/06/19/a-timeline-of-the-u-s-semiconductor-market-in-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
