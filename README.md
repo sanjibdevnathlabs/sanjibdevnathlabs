@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [4 days left: Lock in your TechCrunch All Stage pass — or miss $210 in savings](https://techcrunch.com/2025/06/19/4-days-left-lock-in-your-techcrunch-all-stage-pass-or-miss-210-in-savings/)
-- [Tiny galaxies may have helped our universe out of its dark ages, JWST finds](https://www.space.com/astronomy/james-webb-space-telescope/tiny-galaxies-may-have-helped-our-universe-out-of-its-dark-ages-jwst-finds)
-- [Astronomers discover the largest comet from the outskirts of the solar system is exploding with jets of gas](https://www.space.com/astronomy/solar-system/astronomers-discover-the-largest-comet-from-the-outskirts-of-the-solar-system-is-exploding-with-jets-of-gas)
-- [Northern lights may be visible in these 9 US States tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-9-us-states-tonight)
-- [SpaceX’s Starship blows up ahead of 10th test flight](https://techcrunch.com/2025/06/19/spacexs-starship-blows-up-ahead-of-10th-test-flight/)
+- [Meet the crew of Blue Origin&#39;s NS-33 tourism launch to the edge of space](https://www.space.com/space-exploration/private-spaceflight/meet-the-crew-of-blue-origins-ns-33-tourism-launch-to-the-edge-of-space)
+- [TechCrunch Disrupt 2025: The Builders Stage agenda is now live and taking shape](https://techcrunch.com/2025/06/19/techcrunch-disrupt-2025-the-builders-stage-agenda-is-now-live-and-taking-shape/)
+- [Amazon to invest $233M to enhance its India infrastructure](https://techcrunch.com/2025/06/19/amazon-to-invest-233m-to-enhance-its-india-infrastructure/)
+- [Raising a Series C+? Cathy Gao’s bringing the real playbook to TechCrunch All Stage](https://techcrunch.com/2025/06/19/raising-a-series-c-cathy-gaos-bringing-the-real-playbook-to-techcrunch-all-stage/)
+- [At TechCrunch All Stage: VC red flags, founder signals, and pre-seed traps — Charles Hudson will tell you what investors really see](https://techcrunch.com/2025/06/19/at-techcrunch-all-stage-vc-red-flags-founder-signals-and-pre-seed-traps-charles-hudson-will-tell-you-what-investors-really-see/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
