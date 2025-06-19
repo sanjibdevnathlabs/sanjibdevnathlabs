@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No, Andreessen Horowitz didn’t post that crypto scam tweet](https://techcrunch.com/2025/06/18/no-andreessen-horowitz-didnt-post-that-crypto-scam-tweet/)
 - [New code in Spotify’s app references the long-awaited ‘lossless’ tier](https://techcrunch.com/2025/06/18/new-code-in-spotifys-app-references-the-long-awaited-lossless-tier/)
 - [Here are the 24 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/06/18/here-are-the-24-us-ai-startups-that-have-raised-100m-or-more-in-2025/)
 - [See the moon rise alongside the giant planets Neptune and Saturn predawn on June 19](https://www.space.com/stargazing/see-the-moon-rise-alongside-the-giant-planets-neptune-and-saturn-predawn-on-june-19)
 - [‘Kid-pilled’ Sam Altman ‘constantly’ asked ChatGPT questions about his newborn](https://techcrunch.com/2025/06/18/kid-pilled-sam-altman-constantly-asked-chatgpt-questions-about-his-newborn/)
-- [6-month-old, solo-owned vibe coder Base44 sells to Wix for $80M cash](https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
