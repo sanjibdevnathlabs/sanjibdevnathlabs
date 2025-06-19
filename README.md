@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lego Marvel Team Spidey Web Spinner Headquarters review](https://www.space.com/tech/lego-marvel-team-spidey-web-spinner-headquarters-review)
 - [Dress rehearsal for Artemis 2 | Space photo of the day for June 19, 2025](https://www.space.com/space-exploration/dress-rehearsal-for-artemis-2-space-photo-of-the-day-for-june-19-2025)
 - [Every fusion startup that has raised over $100M](https://techcrunch.com/2025/06/19/every-fusion-startup-that-has-raised-over-100m/)
 - [Meet the crew of Blue Origin&#39;s NS-33 tourism launch to the edge of space](https://www.space.com/space-exploration/private-spaceflight/meet-the-crew-of-blue-origins-ns-33-tourism-launch-to-the-edge-of-space)
 - [TechCrunch Disrupt 2025: The Builders Stage agenda is now live and taking shape](https://techcrunch.com/2025/06/19/techcrunch-disrupt-2025-the-builders-stage-agenda-is-now-live-and-taking-shape/)
-- [Amazon to invest $233M to enhance its India infrastructure](https://techcrunch.com/2025/06/19/amazon-to-invest-233m-to-enhance-its-india-infrastructure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
