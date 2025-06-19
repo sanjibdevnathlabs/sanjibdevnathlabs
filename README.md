@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers discover the largest comet from the outskirts of the solar system is exploding with jets of gas](https://www.space.com/astronomy/solar-system/astronomers-discover-the-largest-comet-from-the-outskirts-of-the-solar-system-is-exploding-with-jets-of-gas)
+- [Northern lights may be visible in these 9 US States tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-9-us-states-tonight)
 - [SpaceX’s Starship blows up ahead of 10th test flight](https://techcrunch.com/2025/06/19/spacexs-starship-blows-up-ahead-of-10th-test-flight/)
 - [Bluesky briefly suspended JD Vance’s account after he joined](https://techcrunch.com/2025/06/19/bluesky-briefly-suspended-jd-vances-account-after-he-joined/)
 - [A timeline of the US semiconductor market in 2025](https://techcrunch.com/2025/06/19/a-timeline-of-the-u-s-semiconductor-market-in-2025/)
-- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/06/19/nvidias-ai-empire-a-look-at-its-top-startup-investments/)
-- [&#39;The models were right!&#39; Astronomers locate universe&#39;s &#39;missing&#39; matter in the largest cosmic structures](https://www.space.com/astronomy/astronomers-turn-up-missing-matter-in-the-largest-structures-in-the-cosmos-the-models-were-right)
 <!-- BLOG-POST-LIST:END -->
 
 ---
