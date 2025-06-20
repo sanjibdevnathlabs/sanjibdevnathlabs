@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [After raising $38M, African e-commerce startup Sabi lays off 20%, pivots to traceable exports](https://techcrunch.com/2025/06/20/after-raising-38m-african-e-commerce-startup-sabi-lays-off-20-pivots-to-traceable-exports/)
-- [Lego Star Wars Acclamator-Class Assault Ship review](https://www.space.com/technology/lego-star-wars-acclamator-class-assault-ship-review)
-- [Summer solstice 2025 is here! Today marks the longest day of the year for the Northern Hemisphere](https://www.space.com/stargazing/summer-solstice-2025-is-here-today-marks-the-longest-day-of-the-year-for-the-northern-hemisphere)
-- [After trying to buy Ilya Sutskever’s $32B AI startup, Meta looks to hire its CEO](https://techcrunch.com/2025/06/20/after-trying-to-buy-ilya-sutskevers-32b-ai-startup-meta-looks-to-hire-its-ceo/)
-- [SoftBank reportedly looking to launch a trillion-dollar AI and robotics industrial complex](https://techcrunch.com/2025/06/20/softbank-reportedly-looking-to-launch-a-trillion-dollar-ai-and-robotics-industrial-complex/)
+- [Leak on International Space Station delays SpaceX launch of Axiom-4 astronauts](https://www.space.com/space-exploration/private-spaceflight/leak-on-international-space-station-delays-spacex-launch-of-axiom-4-astronauts)
+- [X app code points to a physical card coming to X Money](https://techcrunch.com/2025/06/20/x-app-code-points-to-a-physical-card-coming-to-x-money/)
+- [Iran’s government says it shut down internet to protect against cyberattacks](https://techcrunch.com/2025/06/20/irans-government-says-it-shut-down-internet-to-protect-against-cyberattacks/)
+- [Nvidia wants in on the nuclear renaissance, invests in Bill Gates-backed TerraPower](https://techcrunch.com/2025/06/20/nvidia-wants-in-on-the-nuclear-renaissance-invests-in-bill-gates-backed-terrapower/)
+- [Ahead of Prime Day this Lego Star Wars set has hit its cheapest ever price — get the brilliant Acclamator-Class Assault Ship now, before it&#39;s gone, far, far away...](https://www.space.com/entertainment/acclamator-class-assault-ship-20-percent-off-pre-prime-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
