@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla partners with Electrify Expo to launch full-weekend EV test drives](https://techcrunch.com/2025/06/20/tesla-partners-with-electrify-expo-to-launch-full-weekend-ev-test-drives/)
-- [3 more days to fuel your next big move — and save up to $210 on your TechCrunch All Stage pass](https://techcrunch.com/2025/06/20/3-more-days-to-fuel-your-next-big-move-and-save-up-to-210-on-techcrunch-all-stage-passes/)
-- [Watch Blue Origin launch 6 people to suborbital space on June 21](https://www.space.com/space-exploration/private-spaceflight/watch-blue-origin-launch-6-people-to-suborbital-space-on-june-21)
-- [Meta unveils its Oakley smart glasses](https://techcrunch.com/2025/06/20/meta-unveils-its-oakley-smart-glasses/)
-- [Space law doesn&#39;t protect historical sites, mining operations and bases on the moon – a space lawyer describes a framework that could](https://www.space.com/astronomy/moon/space-law-doesnt-protect-historical-sites-mining-operations-and-bases-on-the-moon-a-space-lawyer-describes-a-framework-that-could)
+- [VanMoof is back with a new custom e-bike and rebooted repair network](https://techcrunch.com/2025/06/20/vanmoof-is-back-with-a-new-custom-e-bike-and-rebooted-repair-network/)
+- [Boston Side Events lineup at TechCrunch All Stage with Fidelity Private Shares, Women Tech Meetup, Prepare 4 VC, and more](https://techcrunch.com/2025/06/20/boston-side-events-line-up-at-all-stage-with-fidelity-private-shares-women-tech-meetup-prepare-4-vc-and-more/)
+- [Find out how Flexport’s CEO, Ryan Petersen, builds when the rules keep changing at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/20/find-out-how-flexports-ceo-ryan-petersen-builds-when-the-rules-keep-changing-at-techcrunch-disrupt-2025/)
+- [Satellite streaks block out the Arctic sky | Space photo of the day for June 20, 2025](https://www.space.com/astronomy/earth/satellite-streaks-block-out-canadian-skies-space-photo-of-the-day-for-june-20-2025)
+- [Startup hiring isn’t just about the pitch, it’s about the package — Pulley, 645 Ventures, and Epigram Legal break it down at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/20/startup-hiring-isnt-just-about-the-pitch-its-about-the-package-pulley-645-ventures-and-epigram-legal-break-it-down-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
