@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cluely, a startup that helps ‘cheat on everything’, raises $15M from a16z](https://techcrunch.com/2025/06/20/cluely-a-startup-that-helps-cheat-on-everything-raises-15m-from-a16z/)
+- [NASA moon orbiter spies grave of crashed Japanese lunar lander &lpar;image&rpar;](https://www.space.com/space-exploration/missions/nasa-moon-orbiter-spies-grave-of-crashed-japanese-lunar-lander-image)
+- [TechCrunch Mobility: Applied Intuition’s eye-popping valuation, the new age of micromobility, and Waymo’s wild week](https://techcrunch.com/2025/06/20/techcrunch-mobility-applied-intuitions-eye-popping-valuation-the-new-age-of-micromobility-and-waymos-wild-week/)
 - [From &#39;Toy Story&#39; to &#39;Elio&#39;, here&#39;s every space-themed Pixar movie and short so far](https://www.space.com/entertainment/space-movies-shows/from-toy-story-to-elio-heres-every-space-themed-pixar-movie-and-short-so-far)
 - [Anthropic says most AI models, not just Claude, will resort to blackmail](https://techcrunch.com/2025/06/20/anthropic-says-most-ai-models-not-just-claude-will-resort-to-blackmail/)
-- [The new math: why seed investors are selling their winners earlier](https://techcrunch.com/2025/06/20/the-new-math-why-seed-investors-are-selling-their-winners-earlier/)
-- [This galaxy cluster has mysterious cosmic tendrils over 200,000 light-years long &lpar;image&rpar;](https://www.space.com/astronomy/galaxies/this-galaxy-cluster-has-mysterious-cosmic-tendrils-over-200-000-light-years-long-image)
-- [Snap acquires Saturn, a social calendar app for high school and college students](https://techcrunch.com/2025/06/20/snap-acquires-saturn-a-social-calendar-app-for-high-school-and-college-students/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
