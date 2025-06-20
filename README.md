@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Leak on International Space Station delays SpaceX launch of Axiom-4 astronauts](https://www.space.com/space-exploration/private-spaceflight/leak-on-international-space-station-delays-spacex-launch-of-axiom-4-astronauts)
-- [X app code points to a physical card coming to X Money](https://techcrunch.com/2025/06/20/x-app-code-points-to-a-physical-card-coming-to-x-money/)
-- [Iran’s government says it shut down internet to protect against cyberattacks](https://techcrunch.com/2025/06/20/irans-government-says-it-shut-down-internet-to-protect-against-cyberattacks/)
-- [Nvidia wants in on the nuclear renaissance, invests in Bill Gates-backed TerraPower](https://techcrunch.com/2025/06/20/nvidia-wants-in-on-the-nuclear-renaissance-invests-in-bill-gates-backed-terrapower/)
-- [Ahead of Prime Day this Lego Star Wars set has hit its cheapest ever price — get the brilliant Acclamator-Class Assault Ship now, before it&#39;s gone, far, far away...](https://www.space.com/entertainment/acclamator-class-assault-ship-20-percent-off-pre-prime-day)
+- [Snap acquires Saturn, a social calendar app for high school and college students](https://techcrunch.com/2025/06/20/snap-acquires-saturn-a-social-calendar-app-for-high-school-and-college-students/)
+- [1st images from the Vera C Rubin Observatory will drop on June 23. Here&#39;s why that&#39;s such a big deal](https://www.space.com/astronomy/1st-images-from-the-vera-c-rubin-observatory-will-drop-on-june-23-heres-why-scientists-are-so-excited)
+- [Get relaxed views of the universe for a fraction of the price with a huge $675 off the Unistellar Odyssey Pro](https://www.space.com/stargazing/skywatching-kit/get-relaxed-views-of-the-universe-for-a-fraction-of-the-price-with-a-huge-usd675-off-the-unistellar-odyssey-pro)
+- [The startups rolling out of Europe’s early-stage micromobility scene](https://techcrunch.com/2025/06/20/the-startups-rolling-out-of-europes-early-stage-micromobility-scene/)
+- [Startups Weekly: Fast and furious](https://techcrunch.com/2025/06/20/startups-weekly-fast-and-furious/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
