@@ -146,7 +146,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Robinhood founder who might just revolutionize energy if he succeeds](https://techcrunch.com/2025/06/19/the-robinhood-founder-who-might-just-revolutionize-energy-if-he-succeeds/)
+- [The Robinhood founder who might just revolutionize energy &lpar;if he succeeds&rpar;](https://techcrunch.com/2025/06/19/the-robinhood-founder-who-might-just-revolutionize-energy-if-he-succeeds/)
 - [Is Mars really red? A physicist explains the planet’s reddish hue and why it looks different to some telescopes](https://www.space.com/astronomy/mars/is-mars-really-red-a-physicist-explains-the-planets-reddish-hue-and-why-it-looks-different-to-some-telescopes)
 - [New technique promises clearer, more frequent views of black holes](https://www.space.com/astronomy/black-holes/new-technique-promises-clearer-more-frequent-views-of-black-holes)
 - [SpaceX’s Starship blows up ahead of 10th test flight](https://techcrunch.com/2025/06/19/spacexs-starship-blows-up-ahead-of-10th-test-flight/)
