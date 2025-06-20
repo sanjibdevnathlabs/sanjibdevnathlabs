@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The new math: why seed investors are selling their winners earlier](https://techcrunch.com/2025/06/20/the-new-math-why-seed-investors-are-selling-their-winners-earlier/)
+- [This galaxy cluster has mysterious cosmic tendrils over 200,000 light-years long &lpar;image&rpar;](https://www.space.com/astronomy/galaxies/this-galaxy-cluster-has-mysterious-cosmic-tendrils-over-200-000-light-years-long-image)
 - [Snap acquires Saturn, a social calendar app for high school and college students](https://techcrunch.com/2025/06/20/snap-acquires-saturn-a-social-calendar-app-for-high-school-and-college-students/)
 - [1st images from the Vera C Rubin Observatory will drop on June 23. Here&#39;s why that&#39;s such a big deal](https://www.space.com/astronomy/1st-images-from-the-vera-c-rubin-observatory-will-drop-on-june-23-heres-why-scientists-are-so-excited)
 - [Get relaxed views of the universe for a fraction of the price with a huge $675 off the Unistellar Odyssey Pro](https://www.space.com/stargazing/skywatching-kit/get-relaxed-views-of-the-universe-for-a-fraction-of-the-price-with-a-huge-usd675-off-the-unistellar-odyssey-pro)
-- [The startups rolling out of Europe’s early-stage micromobility scene](https://techcrunch.com/2025/06/20/the-startups-rolling-out-of-europes-early-stage-micromobility-scene/)
-- [Startups Weekly: Fast and furious](https://techcrunch.com/2025/06/20/startups-weekly-fast-and-furious/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
