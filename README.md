@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VanMoof is back with a new custom e-bike and rebooted repair network](https://techcrunch.com/2025/06/20/vanmoof-is-back-with-a-new-custom-e-bike-and-rebooted-repair-network/)
-- [Boston Side Events lineup at TechCrunch All Stage with Fidelity Private Shares, Women Tech Meetup, Prepare 4 VC, and more](https://techcrunch.com/2025/06/20/boston-side-events-line-up-at-all-stage-with-fidelity-private-shares-women-tech-meetup-prepare-4-vc-and-more/)
-- [Find out how Flexport’s CEO, Ryan Petersen, builds when the rules keep changing at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/20/find-out-how-flexports-ceo-ryan-petersen-builds-when-the-rules-keep-changing-at-techcrunch-disrupt-2025/)
-- [Satellite streaks block out the Arctic sky | Space photo of the day for June 20, 2025](https://www.space.com/astronomy/earth/satellite-streaks-block-out-canadian-skies-space-photo-of-the-day-for-june-20-2025)
-- [Startup hiring isn’t just about the pitch, it’s about the package — Pulley, 645 Ventures, and Epigram Legal break it down at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/20/startup-hiring-isnt-just-about-the-pitch-its-about-the-package-pulley-645-ventures-and-epigram-legal-break-it-down-at-techcrunch-disrupt-2025/)
+- [After raising $38M, African e-commerce startup Sabi lays off 20%, pivots to traceable exports](https://techcrunch.com/2025/06/20/after-raising-38m-african-e-commerce-startup-sabi-lays-off-20-pivots-to-traceable-exports/)
+- [Lego Star Wars Acclamator-Class Assault Ship review](https://www.space.com/technology/lego-star-wars-acclamator-class-assault-ship-review)
+- [Summer solstice 2025 is here! Today marks the longest day of the year for the Northern Hemisphere](https://www.space.com/stargazing/summer-solstice-2025-is-here-today-marks-the-longest-day-of-the-year-for-the-northern-hemisphere)
+- [After trying to buy Ilya Sutskever’s $32B AI startup, Meta looks to hire its CEO](https://techcrunch.com/2025/06/20/after-trying-to-buy-ilya-sutskevers-32b-ai-startup-meta-looks-to-hire-its-ceo/)
+- [SoftBank reportedly looking to launch a trillion-dollar AI and robotics industrial complex](https://techcrunch.com/2025/06/20/softbank-reportedly-looking-to-launch-a-trillion-dollar-ai-and-robotics-industrial-complex/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
