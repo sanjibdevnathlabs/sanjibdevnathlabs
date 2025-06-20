@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Powerful X-class solar flare erupts from sun, knocking out radio signals across the Pacific &lpar;video&rpar;](https://www.space.com/astronomy/sun/powerful-x-class-solar-flare-erupts-from-sun-knocking-out-radio-signals-across-the-pacific-video)
 - [James Webb Space Telescope discovers planets forming in space&#39;s most punishing environments](https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-discovers-planets-forming-in-spaces-most-punishing-environments)
 - [Watch Rocket Lab launch secret satellite to orbit today](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-secret-satellite-to-orbit-today)
 - [The Robinhood founder who might just revolutionize energy &lpar;if he succeeds&rpar;](https://techcrunch.com/2025/06/19/the-robinhood-founder-who-might-just-revolutionize-energy-if-he-succeeds/)
 - [Is Mars really red? A physicist explains the planet’s reddish hue and why it looks different to some telescopes](https://www.space.com/astronomy/mars/is-mars-really-red-a-physicist-explains-the-planets-reddish-hue-and-why-it-looks-different-to-some-telescopes)
-- [New technique promises clearer, more frequent views of black holes](https://www.space.com/astronomy/black-holes/new-technique-promises-clearer-more-frequent-views-of-black-holes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
