@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From &#39;Toy Story&#39; to &#39;Elio&#39;, here&#39;s every space-themed Pixar movie and short so far](https://www.space.com/entertainment/space-movies-shows/from-toy-story-to-elio-heres-every-space-themed-pixar-movie-and-short-so-far)
+- [Anthropic says most AI models, not just Claude, will resort to blackmail](https://techcrunch.com/2025/06/20/anthropic-says-most-ai-models-not-just-claude-will-resort-to-blackmail/)
 - [The new math: why seed investors are selling their winners earlier](https://techcrunch.com/2025/06/20/the-new-math-why-seed-investors-are-selling-their-winners-earlier/)
 - [This galaxy cluster has mysterious cosmic tendrils over 200,000 light-years long &lpar;image&rpar;](https://www.space.com/astronomy/galaxies/this-galaxy-cluster-has-mysterious-cosmic-tendrils-over-200-000-light-years-long-image)
 - [Snap acquires Saturn, a social calendar app for high school and college students](https://techcrunch.com/2025/06/20/snap-acquires-saturn-a-social-calendar-app-for-high-school-and-college-students/)
-- [1st images from the Vera C Rubin Observatory will drop on June 23. Here&#39;s why that&#39;s such a big deal](https://www.space.com/astronomy/1st-images-from-the-vera-c-rubin-observatory-will-drop-on-june-23-heres-why-scientists-are-so-excited)
-- [Get relaxed views of the universe for a fraction of the price with a huge $675 off the Unistellar Odyssey Pro](https://www.space.com/stargazing/skywatching-kit/get-relaxed-views-of-the-universe-for-a-fraction-of-the-price-with-a-huge-usd675-off-the-unistellar-odyssey-pro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
