@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hommkiety Galaxy Projector review](https://www.space.com/technology/hommkiety-galaxy-projector-review)
 - [&#39;Cocoon&#39; at 40: Ron Howard&#39;s sci-fi smash is proof they don&#39;t make them like they used to](https://www.space.com/entertainment/space-movies-shows/cocoon-at-40-ron-howards-sci-fi-smash-is-proof-they-dont-make-them-like-they-used-to)
 - [2 days left to save up to $210 on your TechCrunch All Stage pass](https://techcrunch.com/2025/06/21/2-days-left-to-save-up-to-210-on-your-techcrunch-all-stage-pass/)
 - [World&#39;s 1st multimedia performance in microgravity will bring together Cirque du Soleil, National Geographic and NASA](https://www.space.com/entertainment/worlds-1st-multimedia-performance-in-microgravity-will-bring-together-cirque-du-soleil-national-geographic-and-nasa)
 - [This Week In Space podcast: Episode 166 — Live From the Swamps, ISDC 2025](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-166-live-from-the-swamps-isdc-2025)
-- [Nobel laureate concerned about AI-generated image of black hole at the center of our galaxy](https://www.space.com/astronomy/black-holes/nobel-laureate-concerned-about-ai-generated-image-of-black-hole-at-the-center-of-our-galaxy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
