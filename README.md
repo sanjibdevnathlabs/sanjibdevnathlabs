@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2 days left to save up to $210 on your TechCrunch All Stage pass](https://techcrunch.com/2025/06/21/2-days-left-to-save-up-to-210-on-your-techcrunch-all-stage-pass/)
+- [World&#39;s 1st multimedia performance in microgravity will bring together Cirque du Soleil, National Geographic and NASA](https://www.space.com/entertainment/worlds-1st-multimedia-performance-in-microgravity-will-bring-together-cirque-du-soleil-national-geographic-and-nasa)
+- [This Week In Space podcast: Episode 166 — Live From the Swamps, ISDC 2025](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-166-live-from-the-swamps-isdc-2025)
 - [Nobel laureate concerned about AI-generated image of black hole at the center of our galaxy](https://www.space.com/astronomy/black-holes/nobel-laureate-concerned-about-ai-generated-image-of-black-hole-at-the-center-of-our-galaxy)
 - [A spinning universe could crack the mysteries of dark energy and our place in the multiverse](https://www.space.com/astronomy/a-spinning-universe-could-crack-the-mysteries-of-dark-energy-and-our-place-in-the-multiverse)
-- [See the moon, Venus and the Pleiades make a celestial triangle in the predawn sky on June 22](https://www.space.com/stargazing/see-the-moon-venus-and-the-pleiades-make-a-celestial-triangle-in-the-predawn-sky-on-june-22)
-- [Rippling spy says men have been following him, and his wife is afraid](https://techcrunch.com/2025/06/20/rippling-spy-says-men-have-been-following-him-and-his-wife-is-afraid/)
-- [Mira Murati’s Thinking Machines Lab closes on $2B at $10B valuation](https://techcrunch.com/2025/06/20/mira-muratis-thinking-machines-lab-closes-on-2b-at-10b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
