@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the moon, Venus and the Pleiades make a celestial triangle in the predawn sky on June 22](https://www.space.com/stargazing/see-the-moon-venus-and-the-pleiades-make-a-celestial-triangle-in-the-predawn-sky-on-june-22)
 - [Rippling spy says men have been following him, and his wife is afraid](https://techcrunch.com/2025/06/20/rippling-spy-says-men-have-been-following-him-and-his-wife-is-afraid/)
 - [Mira Murati’s Thinking Machines Lab closes on $2B at $10B valuation](https://techcrunch.com/2025/06/20/mira-muratis-thinking-machines-lab-closes-on-2b-at-10b-valuation/)
 - [Cluely, a startup that helps ‘cheat on everything,’ raises $15M from a16z](https://techcrunch.com/2025/06/20/cluely-a-startup-that-helps-cheat-on-everything-raises-15m-from-a16z/)
 - [NASA moon orbiter spies grave of crashed Japanese lunar lander &lpar;image&rpar;](https://www.space.com/space-exploration/missions/nasa-moon-orbiter-spies-grave-of-crashed-japanese-lunar-lander-image)
-- [TechCrunch Mobility: Applied Intuition’s eye-popping valuation, the new age of micromobility, and Waymo’s wild week](https://techcrunch.com/2025/06/20/techcrunch-mobility-applied-intuitions-eye-popping-valuation-the-new-age-of-micromobility-and-waymos-wild-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
