@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rippling spy says men have been following him, and his wife is afraid](https://techcrunch.com/2025/06/20/rippling-spy-says-men-have-been-following-him-and-his-wife-is-afraid/)
 - [Mira Murati’s Thinking Machines Lab closes on $2B at $10B valuation](https://techcrunch.com/2025/06/20/mira-muratis-thinking-machines-lab-closes-on-2b-at-10b-valuation/)
 - [Cluely, a startup that helps ‘cheat on everything,’ raises $15M from a16z](https://techcrunch.com/2025/06/20/cluely-a-startup-that-helps-cheat-on-everything-raises-15m-from-a16z/)
 - [NASA moon orbiter spies grave of crashed Japanese lunar lander &lpar;image&rpar;](https://www.space.com/space-exploration/missions/nasa-moon-orbiter-spies-grave-of-crashed-japanese-lunar-lander-image)
 - [TechCrunch Mobility: Applied Intuition’s eye-popping valuation, the new age of micromobility, and Waymo’s wild week](https://techcrunch.com/2025/06/20/techcrunch-mobility-applied-intuitions-eye-popping-valuation-the-new-age-of-micromobility-and-waymos-wild-week/)
-- [From &#39;Toy Story&#39; to &#39;Elio&#39;, here&#39;s every space-themed Pixar movie and short so far](https://www.space.com/entertainment/space-movies-shows/from-toy-story-to-elio-heres-every-space-themed-pixar-movie-and-short-so-far)
 <!-- BLOG-POST-LIST:END -->
 
 ---
