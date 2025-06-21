@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cartoonist Paul Pope is more worried about killer robots than AI plagiarism](https://techcrunch.com/2025/06/21/cartoonist-paul-pope-is-more-worried-about-killer-robots-than-ai-plagiarism/)
 - [Week in Review:  Meta reveals its Oakley smart glasses](https://techcrunch.com/2025/06/21/week-in-review-meta-reveals-its-oakley-smart-glasses/)
 - [Hommkiety Galaxy Projector review](https://www.space.com/technology/hommkiety-galaxy-projector-review)
 - [&#39;Cocoon&#39; at 40: Ron Howard&#39;s sci-fi smash is proof they don&#39;t make them like they used to](https://www.space.com/entertainment/space-movies-shows/cocoon-at-40-ron-howards-sci-fi-smash-is-proof-they-dont-make-them-like-they-used-to)
 - [2 days left to save up to $210 on your TechCrunch All Stage pass](https://techcrunch.com/2025/06/21/2-days-left-to-save-up-to-210-on-your-techcrunch-all-stage-pass/)
-- [World&#39;s 1st multimedia performance in microgravity will bring together Cirque du Soleil, National Geographic and NASA](https://www.space.com/entertainment/worlds-1st-multimedia-performance-in-microgravity-will-bring-together-cirque-du-soleil-national-geographic-and-nasa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
