@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why I Came Back After 6 Years: Inside the World’s Largest Networking Conference &lpar;22k&rpar;](https://www.youtube.com/watch?v=tTQ4vfCdMYw)
 - [Zuckerberg is looking pretty desperate right now...](https://www.youtube.com/watch?v=pF1UvN7SEGU)
 - [21,000 Hackers go HERE every Summer](https://www.youtube.com/shorts/dG8VTdEoatM)
 - [Super Intelligence Speculation - Computerphile](https://www.youtube.com/watch?v=5UAvECavmFA)
 - [That time Google Cloud Platform bricked the Internet…](https://www.youtube.com/watch?v=rUCOwCJDh8o)
-- [I&#39;m worried about Network Engineers.....](https://www.youtube.com/watch?v=4hkJX7LBdXc)
 <!-- YOUTUBE:END -->
 
 ---
