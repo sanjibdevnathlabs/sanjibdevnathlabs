@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 2025 Bootid meteor shower peaks June 27: Here&#39;s what to expect](https://www.space.com/stargazing/the-2025-bootid-meteor-shower-peaks-june-27-heres-what-to-expect)
 - [European leaders worry they’re too reliant on U.S. tech](https://techcrunch.com/2025/06/21/european-leaders-worry-theyre-too-reliant-on-u-s-tech/)
 - [Cartoonist Paul Pope is more worried about killer robots than AI plagiarism](https://techcrunch.com/2025/06/21/cartoonist-paul-pope-is-more-worried-about-killer-robots-than-ai-plagiarism/)
 - [Week in Review:  Meta reveals its Oakley smart glasses](https://techcrunch.com/2025/06/21/week-in-review-meta-reveals-its-oakley-smart-glasses/)
 - [Hommkiety Galaxy Projector review](https://www.space.com/technology/hommkiety-galaxy-projector-review)
-- [&#39;Cocoon&#39; at 40: Ron Howard&#39;s sci-fi smash is proof they don&#39;t make them like they used to](https://www.space.com/entertainment/space-movies-shows/cocoon-at-40-ron-howards-sci-fi-smash-is-proof-they-dont-make-them-like-they-used-to)
 <!-- BLOG-POST-LIST:END -->
 
 ---
