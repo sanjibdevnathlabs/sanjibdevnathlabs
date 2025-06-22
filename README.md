@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moratorium on state AI regulation clears Senate hurdle](https://techcrunch.com/2025/06/22/moratorium-on-state-ai-regulation-clears-senate-hurdle/)
 - [How to capture drone imagery at night](https://www.space.com/technology/drones/how-to-capture-drone-imagery-at-night)
 - [LinkedIn CEO says AI writing assistant is not as popular as expected](https://techcrunch.com/2025/06/22/linkedin-ceo-says-ai-writing-assistant-is-not-as-popular-as-expected/)
 - [Last day to save on your TechCrunch All Stage pass — prices go up tonight](https://techcrunch.com/2025/06/22/last-day-to-save-on-your-techcrunch-all-stage-pass-prices-go-up-tonight/)
 - [Elon Musk promises more risky launches after sixth Starship failure](https://www.space.com/space-exploration/private-spaceflight/elon-musk-promises-more-risky-launches-after-sixth-starship-failure)
-- [May 2024 solar storm cost $500 million in damages to farmers, new study reveals](https://www.space.com/astronomy/sun/may-2024-solar-storm-cost-usd500-million-in-damages-to-farmers-new-study-reveals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
