@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla launches robotaxi rides in Austin with big promises and unanswered questions](https://techcrunch.com/2025/06/22/tesla-launches-robotaxi-rides-in-austin-with-big-promises-and-unanswered-questions/)
+- [Why Danny Boyle shot ‘28 Years Later’ on iPhones](https://techcrunch.com/2025/06/22/why-danny-boyle-shot-28-years-later-with-iphones/)
 - [The stablecoin evangelist: Katie Haun’s fight for digital dollars](https://techcrunch.com/2025/06/22/the-stablecoin-evangelist-katie-hauns-fight-for-digital-dollars/)
 - [Moratorium on state AI regulation clears Senate hurdle](https://techcrunch.com/2025/06/22/moratorium-on-state-ai-regulation-clears-senate-hurdle/)
 - [How to capture drone imagery at night](https://www.space.com/technology/drones/how-to-capture-drone-imagery-at-night)
-- [LinkedIn CEO says AI writing assistant is not as popular as expected](https://techcrunch.com/2025/06/22/linkedin-ceo-says-ai-writing-assistant-is-not-as-popular-as-expected/)
-- [Last day to save on your TechCrunch All Stage pass — prices go up tonight](https://techcrunch.com/2025/06/22/last-day-to-save-on-your-techcrunch-all-stage-pass-prices-go-up-tonight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
