@@ -146,8 +146,8 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI pulls promotional materials around Jony Ive deal due to court order](https://techcrunch.com/2025/06/22/openai-pulls-promotional-materials-around-jony-ive-deal/)
 - [Scientists to unveil 1st images from the Vera C. Rubin Observatory on June 23: Watch the big moment live](https://www.space.com/astronomy/scientists-to-unveil-1st-images-from-the-vera-c-rubin-observatory-on-june-23-watch-the-big-moment-live)
-- [OpenAI pulls promotional materials around Jony Ive deal](https://techcrunch.com/2025/06/22/openai-pulls-promotional-materials-around-jony-ive-deal/)
 - [Tesla launches robotaxi rides in Austin with big promises and unanswered questions](https://techcrunch.com/2025/06/22/tesla-launches-robotaxi-rides-in-austin-with-big-promises-and-unanswered-questions/)
 - [Why Danny Boyle shot ‘28 Years Later’ on iPhones](https://techcrunch.com/2025/06/22/why-danny-boyle-shot-28-years-later-with-iphones/)
 - [The stablecoin evangelist: Katie Haun’s fight for digital dollars](https://techcrunch.com/2025/06/22/the-stablecoin-evangelist-katie-hauns-fight-for-digital-dollars/)
