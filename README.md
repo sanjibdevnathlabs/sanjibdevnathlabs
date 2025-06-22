@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Royal Observatory Greenwich: The birthplace of modern astronomy turns 350](https://www.space.com/stargazing/royal-observatory-greenwich-the-birthplace-of-modern-astronomy-turns-350)
 - [SpaceX’s Transporter 14 launch today will carry more than 150 capsules of DNA, human remains](https://www.space.com/space-exploration/private-spaceflight/spacexs-transporter-14-launch-on-june-21-will-carry-more-than-150-capsules-of-dna-human-remains)
 - [The 2025 Bootid meteor shower peaks June 27: Here&#39;s what to expect](https://www.space.com/stargazing/the-2025-bootid-meteor-shower-peaks-june-27-heres-what-to-expect)
 - [European leaders worry they’re too reliant on U.S. tech](https://techcrunch.com/2025/06/21/european-leaders-worry-theyre-too-reliant-on-u-s-tech/)
 - [Cartoonist Paul Pope is more worried about killer robots than AI plagiarism](https://techcrunch.com/2025/06/21/cartoonist-paul-pope-is-more-worried-about-killer-robots-than-ai-plagiarism/)
-- [Week in Review:  Meta reveals its Oakley smart glasses](https://techcrunch.com/2025/06/21/week-in-review-meta-reveals-its-oakley-smart-glasses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
