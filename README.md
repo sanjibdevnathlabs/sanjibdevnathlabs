@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Leak reveals Grok might soon edit your spreadsheets](https://techcrunch.com/2025/06/23/leak-reveals-grok-might-soon-edit-your-spreadsheets/)
+- [Four months after a $3B valuation, Harvey AI grows to $5B](https://techcrunch.com/2025/06/23/four-months-after-a-3b-valuation-harvey-ai-grows-to-5b/)
+- [TechCrunch Disrupt 2025: The Builders Stage agenda is now live and taking shape](https://techcrunch.com/2025/06/23/techcrunch-disrupt-2025-the-builders-stage-agenda-is-now-live-and-taking-shape/)
+- [Over a million people now have access to the gen-AI powered Alexa+](https://techcrunch.com/2025/06/23/over-a-million-people-now-have-access-to-the-gen-ai-powered-alexa/)
 - [Vera C Rubin Observatory reveals 1st stunning images of the cosmos. Scientists are &#39;beyond excited about what&#39;s coming&#39;](https://www.space.com/astronomy/vera-c-rubin-observatory-reveals-1st-stunning-images-of-the-cosmos-scientists-are-beyond-excited-about-whats-coming)
-- [A failed Soviet Venus probe from the &#39;70s crashed to Earth in May — why was it so hard to track?](https://www.space.com/space-exploration/launches-spacecraft/a-failed-soviet-venus-probe-from-the-70s-crashed-to-earth-in-may-why-was-it-so-hard-to-track)
-- [New York State wants more nuclear power in a big way](https://techcrunch.com/2025/06/23/new-york-state-wants-more-nuclear-power-in-a-big-way/)
-- [AllSpice’s platform is the GitHub for electrical engineering teams](https://techcrunch.com/2025/06/23/allspices-platform-is-the-github-for-electrical-engineering-teams/)
-- [&#39;Halloween&#39;, &#39;Silent Hill&#39; &amp; &#39;Resident Evil among the horror franchises that influenced Flying Lotus&#39; psychedelic sci-fi thriller &#39;Ash&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/halloween-silent-hill-and-resident-evil-among-the-horror-franchises-that-influenced-flying-lotus-psychedelic-sci-fi-thriller-ash-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
