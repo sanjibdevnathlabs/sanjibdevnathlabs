@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rubin Observatory found 2,104 asteroids in just a few days. It could soon find millions more](https://www.space.com/astronomy/the-rubin-observatory-found-2-104-asteroids-in-just-a-few-days-it-could-soon-find-millions-more)
 - [Leak reveals Grok might soon edit your spreadsheets](https://techcrunch.com/2025/06/23/leak-reveals-grok-might-soon-edit-your-spreadsheets/)
 - [Four months after a $3B valuation, Harvey AI grows to $5B](https://techcrunch.com/2025/06/23/four-months-after-a-3b-valuation-harvey-ai-grows-to-5b/)
 - [TechCrunch Disrupt 2025: The Builders Stage agenda is now live and taking shape](https://techcrunch.com/2025/06/23/techcrunch-disrupt-2025-the-builders-stage-agenda-is-now-live-and-taking-shape/)
 - [Over a million people now have access to the gen-AI powered Alexa+](https://techcrunch.com/2025/06/23/over-a-million-people-now-have-access-to-the-gen-ai-powered-alexa/)
-- [Vera C Rubin Observatory reveals 1st stunning images of the cosmos. Scientists are &#39;beyond excited about what&#39;s coming&#39;](https://www.space.com/astronomy/vera-c-rubin-observatory-reveals-1st-stunning-images-of-the-cosmos-scientists-are-beyond-excited-about-whats-coming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
