@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New York State wants more nuclear power in a big way](https://techcrunch.com/2025/06/23/new-york-state-wants-more-nuclear-power-in-a-big-way/)
+- [AllSpice’s platform is the GitHub for electrical engineering teams](https://techcrunch.com/2025/06/23/allspices-platform-is-the-github-for-electrical-engineering-teams/)
+- [&#39;Halloween&#39;, &#39;Silent Hill&#39; &amp; &#39;Resident Evil among the horror franchises that influenced Flying Lotus&#39; psychedelic sci-fi thriller &#39;Ash&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/halloween-silent-hill-and-resident-evil-among-the-horror-franchises-that-influenced-flying-lotus-psychedelic-sci-fi-thriller-ash-exclusive)
 - [&#39;2nd Jupiter&#39; exoplanet seen 60 light-years away | Space photo of the day for June 23, 2025](https://www.space.com/astronomy/2nd-jupiter-exoplanet-seen-60-light-years-away-space-photo-of-the-day-for-june-23-2025)
 - [Senators urge FTC to investigate Spotify’s higher-priced bundled subscription](https://techcrunch.com/2025/06/23/senators-urge-ftc-to-investigate-spotifys-higher-priced-bundled-subscription/)
-- [TikTok parent ByteDance is shutting down its short-lived book publisher](https://techcrunch.com/2025/06/23/tiktok-parent-bytedance-is-shutting-down-its-short-lived-book-publisher/)
-- [US insurance giant Aflac says customers’ personal data stolen during cyberattack](https://techcrunch.com/2025/06/23/us-insurance-giant-aflac-says-customers-personal-data-stolen-during-cyberattack/)
-- [Want to know where VCs are investing next? Be in the room at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/23/want-to-know-where-vcs-are-investing-next-be-in-the-room-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
