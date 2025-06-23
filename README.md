@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SMB-focused Finom closes €115M as European fintech heats up](https://techcrunch.com/2025/06/23/smb-focused-finom-closes-e115m-as-european-fintech-heats-up/)
 - [When it comes to auroras, pink is the new white, astronaut says | On the ISS this week June 16 - 20, 2025](https://www.space.com/space-exploration/international-space-station/when-it-comes-to-auroras-pink-is-the-new-white-astronaut-says-on-the-iss-this-week-june-16-20-2025)
 - [OpenAI pulls promotional materials around Jony Ive deal due to court order](https://techcrunch.com/2025/06/22/openai-pulls-promotional-materials-around-jony-ive-deal/)
 - [Scientists to unveil 1st images from the Vera C. Rubin Observatory on June 23: Watch the big moment live](https://www.space.com/astronomy/scientists-to-unveil-1st-images-from-the-vera-c-rubin-observatory-on-june-23-watch-the-big-moment-live)
 - [Tesla launches robotaxi rides in Austin with big promises and unanswered questions](https://techcrunch.com/2025/06/22/tesla-launches-robotaxi-rides-in-austin-with-big-promises-and-unanswered-questions/)
-- [Why Danny Boyle shot ‘28 Years Later’ on iPhones](https://techcrunch.com/2025/06/22/why-danny-boyle-shot-28-years-later-with-iphones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
