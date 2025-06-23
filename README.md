@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Japanese shipping firm NYK acquires Kadmos, a salary payment platform for seafarers](https://techcrunch.com/2025/06/23/japanese-shipping-firm-nyk-acquires-kadmos-a-salary-payment-platform-for-seafarers/)
+- [Google adds AI features to Chromebook Plus devices](https://techcrunch.com/2025/06/23/google-adds-ai-features-to-chromebook-plus-devices/)
+- [Moon dust is less toxic than urban air pollution, scientists discover](https://www.space.com/astronomy/moon/moon-dust-is-less-toxic-than-urban-air-pollution-scientists-discover)
 - [SpaceX launches 27 Starlink satellites from Florida &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-23-b1069-ccsfs-asog)
 - [Atlas V rocket launches 2nd batch of satellites for Amazon&#39;s Project Kuiper megaconstellation &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/atlas-v-rocket-launches-2nd-batch-of-satellites-for-amazons-project-kuiper-megaconstellation-video)
-- [This supermassive black hole is eating way too quickly — and &#39;burping&#39; at near-light speeds](https://www.space.com/astronomy/black-holes/this-supermassive-black-hole-is-eating-way-too-quickly-and-burping-at-near-light-speeds)
-- [SMB-focused Finom closes €115M as European fintech heats up](https://techcrunch.com/2025/06/23/smb-focused-finom-closes-e115m-as-european-fintech-heats-up/)
-- [When it comes to auroras, pink is the new white, astronaut says | On the ISS this week June 16 - 20, 2025](https://www.space.com/space-exploration/international-space-station/when-it-comes-to-auroras-pink-is-the-new-white-astronaut-says-on-the-iss-this-week-june-16-20-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
