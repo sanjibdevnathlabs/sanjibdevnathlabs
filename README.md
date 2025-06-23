@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Japanese shipping firm NYK acquires Kadmos, a salary payment platform for seafarers](https://techcrunch.com/2025/06/23/japanese-shipping-firm-nyk-acquires-kadmos-a-salary-payment-platform-for-seafarers/)
-- [Google adds AI features to Chromebook Plus devices](https://techcrunch.com/2025/06/23/google-adds-ai-features-to-chromebook-plus-devices/)
-- [Moon dust is less toxic than urban air pollution, scientists discover](https://www.space.com/astronomy/moon/moon-dust-is-less-toxic-than-urban-air-pollution-scientists-discover)
-- [SpaceX launches 27 Starlink satellites from Florida &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-23-b1069-ccsfs-asog)
-- [Atlas V rocket launches 2nd batch of satellites for Amazon&#39;s Project Kuiper megaconstellation &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/atlas-v-rocket-launches-2nd-batch-of-satellites-for-amazons-project-kuiper-megaconstellation-video)
+- [&#39;2nd Jupiter&#39; exoplanet seen 60 light-years away | Space photo of the day for June 23, 2025](https://www.space.com/astronomy/2nd-jupiter-exoplanet-seen-60-light-years-away-space-photo-of-the-day-for-june-23-2025)
+- [Senators urge FTC to investigate Spotify’s higher-priced bundled subscription](https://techcrunch.com/2025/06/23/senators-urge-ftc-to-investigate-spotifys-higher-priced-bundled-subscription/)
+- [TikTok parent ByteDance is shutting down its short-lived book publisher](https://techcrunch.com/2025/06/23/tiktok-parent-bytedance-is-shutting-down-its-short-lived-book-publisher/)
+- [US insurance giant Aflac says customers’ personal data stolen during cyberattack](https://techcrunch.com/2025/06/23/us-insurance-giant-aflac-says-customers-personal-data-stolen-during-cyberattack/)
+- [Want to know where VCs are investing next? Be in the room at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/23/want-to-know-where-vcs-are-investing-next-be-in-the-room-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
