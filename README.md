@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek&#39; actor William Shatner and astrophysicist Neil deGrasse Tyson&#39;s space bromance takes off in new &#39;The Universe Is Absurd&#39; show](https://www.space.com/entertainment/star-trek-actor-william-shatner-and-astrophysicist-neil-degrasse-tysons-space-bromance-takes-off-in-new-the-universe-is-absurd-show)
+- [Apple’s Liquid Glass interface improves with release of iOS 26 Beta 2](https://techcrunch.com/2025/06/23/apples-liquid-glass-interface-improves-with-release-of-ios-26-beta-2/)
+- [The Lego Marvel Team Spidey Web Spinner Headquarters, one of the best Lego Marvel sets available, is now at its lowest prices pre-Amazon Prime Day](https://www.space.com/technology/lego-marvel-team-spidey-web-spinner-headquarters-is-now-at-its-lowest-prices-pre-amazon-prime-day)
+- [Canada says telcos were breached in China-linked espionage hacks](https://techcrunch.com/2025/06/23/canada-says-telcos-were-breached-in-china-linked-espionage-hacks/)
 - [The Rubin Observatory found 2,104 asteroids in just a few days. It could soon find millions more](https://www.space.com/astronomy/the-rubin-observatory-found-2-104-asteroids-in-just-a-few-days-it-could-soon-find-millions-more)
-- [Leak reveals Grok might soon edit your spreadsheets](https://techcrunch.com/2025/06/23/leak-reveals-grok-might-soon-edit-your-spreadsheets/)
-- [Four months after a $3B valuation, Harvey AI grows to $5B](https://techcrunch.com/2025/06/23/four-months-after-a-3b-valuation-harvey-ai-grows-to-5b/)
-- [TechCrunch Disrupt 2025: The Builders Stage agenda is now live and taking shape](https://techcrunch.com/2025/06/23/techcrunch-disrupt-2025-the-builders-stage-agenda-is-now-live-and-taking-shape/)
-- [Over a million people now have access to the gen-AI powered Alexa+](https://techcrunch.com/2025/06/23/over-a-million-people-now-have-access-to-the-gen-ai-powered-alexa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
