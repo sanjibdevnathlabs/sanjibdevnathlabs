@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Nothing short of spectacular&#39;: ESA&#39;s Biomass satellite releases 1st views of Earth from orbit &lpar;photos&rpar;](https://www.space.com/astronomy/earth/nothing-short-of-spectacular-esas-biomass-satellite-releases-1st-views-of-earth-from-orbit-photos)
+- [Databricks, Perplexity co-founder pledges $100M on new fund for AI researchers](https://techcrunch.com/2025/06/23/databricks-perplexity-co-founder-pledges-100m-on-new-fund-for-ai-researchers/)
+- [Former NASA astronaut Terry Virts announces campaign for Texas Senate seat](https://www.space.com/space-exploration/human-spaceflight/former-nasa-astronaut-terry-virts-announces-campaign-for-texas-senate-seat)
 - [&#39;Star Trek&#39; actor William Shatner and astrophysicist Neil deGrasse Tyson&#39;s space bromance takes off in new &#39;The Universe Is Absurd&#39; show](https://www.space.com/entertainment/star-trek-actor-william-shatner-and-astrophysicist-neil-degrasse-tysons-space-bromance-takes-off-in-new-the-universe-is-absurd-show)
 - [Apple’s Liquid Glass interface improves with release of iOS 26 Beta 2](https://techcrunch.com/2025/06/23/apples-liquid-glass-interface-improves-with-release-of-ios-26-beta-2/)
-- [The Lego Marvel Team Spidey Web Spinner Headquarters, one of the best Lego Marvel sets available, is now at its lowest prices pre-Amazon Prime Day](https://www.space.com/technology/lego-marvel-team-spidey-web-spinner-headquarters-is-now-at-its-lowest-prices-pre-amazon-prime-day)
-- [Canada says telcos were breached in China-linked espionage hacks](https://techcrunch.com/2025/06/23/canada-says-telcos-were-breached-in-china-linked-espionage-hacks/)
-- [The Rubin Observatory found 2,104 asteroids in just a few days. It could soon find millions more](https://www.space.com/astronomy/the-rubin-observatory-found-2-104-asteroids-in-just-a-few-days-it-could-soon-find-millions-more)
 <!-- BLOG-POST-LIST:END -->
 
 ---
