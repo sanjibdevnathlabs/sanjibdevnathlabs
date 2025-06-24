@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How a data processing problem at Lyft became the basis for Eventual](https://techcrunch.com/2025/06/24/how-a-data-processing-problem-at-lyft-became-the-basis-for-eventual/)
+- [Radio signals from the dawn of time could help &#39;weigh&#39; the universe&#39;s 1st stars](https://www.space.com/astronomy/radio-signals-from-the-dawn-of-time-could-help-weigh-the-universes-1st-stars)
 - [Google brings historical Street View imagery to Google Earth](https://techcrunch.com/2025/06/24/google-brings-historical-street-view-imagery-to-google-earth/)
 - [Novoloop is making tons of upcycled plastic](https://techcrunch.com/2025/06/24/novoloop-is-making-tons-of-upcycled-plastic/)
-- [US bans WhatsApp from House of Representatives staff devices](https://techcrunch.com/2025/06/24/us-bans-whatsapp-from-house-of-representatives-staff-devices/)
-- [Uber and Waymo’s commercial robotaxi service is open for business in Atlanta](https://techcrunch.com/2025/06/24/uber-and-waymos-commercial-robotaxi-service-is-open-for-business-in-atlanta/)
-- [Did our cosmos begin inside a black hole in another universe? New study questions Big Bang theory](https://www.space.com/astronomy/black-holes/did-our-cosmos-begin-inside-a-black-hole-in-another-universe-new-study-questions-big-bang-theory)
+- [US House bans WhatsApp from staff devices](https://techcrunch.com/2025/06/24/us-bans-whatsapp-from-house-of-representatives-staff-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
