@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google brings historical Street View imagery to Google Earth](https://techcrunch.com/2025/06/24/google-brings-historical-street-view-imagery-to-google-earth/)
+- [Novoloop is making tons of upcycled plastic](https://techcrunch.com/2025/06/24/novoloop-is-making-tons-of-upcycled-plastic/)
+- [US bans WhatsApp from House of Representatives staff devices](https://techcrunch.com/2025/06/24/us-bans-whatsapp-from-house-of-representatives-staff-devices/)
 - [Uber and Waymo’s commercial robotaxi service is open for business in Atlanta](https://techcrunch.com/2025/06/24/uber-and-waymos-commercial-robotaxi-service-is-open-for-business-in-atlanta/)
 - [Did our cosmos begin inside a black hole in another universe? New study questions Big Bang theory](https://www.space.com/astronomy/black-holes/did-our-cosmos-begin-inside-a-black-hole-in-another-universe-new-study-questions-big-bang-theory)
-- [Google introduces AI mode to users in India](https://techcrunch.com/2025/06/23/google-introduces-ai-mode-to-users-in-india/)
-- [SpaceX sets new date for private Axiom-4 astronaut launch to the International Space Station](https://www.space.com/space-exploration/private-spaceflight/spacex-sets-new-date-for-private-axiom-4-astronaut-launch-to-the-international-space-station)
-- [Court filings reveal OpenAI and io’s early work on an AI device](https://techcrunch.com/2025/06/23/court-filings-reveal-openai-and-ios-early-work-on-an-ai-device/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
