@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ElevenLabs releases a standalone voice generation app](https://techcrunch.com/2025/06/24/elevenlabs-releases-a-standalone-voice-generation-app/)
+- [Chrome for Android now lets you move the address bar to the bottom, too](https://techcrunch.com/2025/06/24/chrome-for-android-now-lets-you-move-the-address-bar-to-the-bottom-too/)
+- [Vera Rubin Observatory zooms into deep space | Space photo of the day for June 24, 2025](https://www.space.com/astronomy/vera-rubin-observatory-zooms-into-deep-space-space-photo-of-the-day-for-june-24-2025)
+- [Feds question Ford in hands-free driving investigation](https://techcrunch.com/2025/06/24/feds-question-ford-in-hands-free-driving-investigation/)
 - [Wispr Flow raises $30M from Menlo Ventures for its AI-powered dictation app](https://techcrunch.com/2025/06/24/wispr-flow-raises-30m-from-menlo-ventures-for-its-ai-powered-dictation-app/)
-- [Medha Agarwal, Jyoti Bansal, and Jennifer Neundorfer on what makes a pitch land at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/24/medha-agarwal-jyoti-bansal-and-jennifer-neundorfer-on-what-makes-a-pitch-land-at-techcrunch-disrupt-2025/)
-- [Metroid games ranked, worst to best](https://www.space.com/entertainment/space-games/metroid-games-ranked-worst-to-best)
-- [Thanks to Fidelity and our amazing sponsors, TechCrunch All Stage is where startups rise](https://techcrunch.com/2025/06/24/thanks-to-fidelity-and-our-amazing-sponsors-techcrunch-all-stage-is-where-startups-rise/)
-- [A federal judge sides with Anthropic in lawsuit over training AI on books without authors’ permission](https://techcrunch.com/2025/06/24/a-federal-judge-sides-with-anthropic-in-lawsuit-over-training-ai-on-books-without-authors-permission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
