@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers discover origins of mysterious double hot Jupiter exoplanets: &#39;It is a dance of sorts&#39;](https://www.space.com/astronomy/astronomers-discover-origins-of-mysterious-double-hot-jupiter-exoplanets-it-is-a-dance-of-sorts)
 - [How to see Mercury, the moon and the Gemini twins pass close together in the night sky this week](https://www.space.com/stargazing/how-to-see-mercury-the-moon-and-the-gemini-twins-pass-close-together-in-the-night-sky-this-week)
 - [iPhone customers upset by Apple Wallet ad pushing F1 movie](https://techcrunch.com/2025/06/24/iphone-customers-upset-by-apple-wallet-ad-pushing-f1-movie/)
 - [ElevenLabs releases a standalone voice generation app](https://techcrunch.com/2025/06/24/elevenlabs-releases-a-standalone-voice-generation-app/)
 - [Chrome for Android now lets you move the address bar to the bottom, too](https://techcrunch.com/2025/06/24/chrome-for-android-now-lets-you-move-the-address-bar-to-the-bottom-too/)
-- [Vera Rubin Observatory zooms into deep space | Space photo of the day for June 24, 2025](https://www.space.com/astronomy/vera-rubin-observatory-zooms-into-deep-space-space-photo-of-the-day-for-june-24-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
