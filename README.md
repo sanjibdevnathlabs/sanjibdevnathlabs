@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Northern lights may be visible in these 14 US States on June 25](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-14-us-states-on-june-25)
-- [Amazon to spend over $4B to expand Prime delivery to rural communities in the US](https://techcrunch.com/2025/06/24/amazon-to-spend-over-4b-to-expand-prime-delivery-to-rural-communities-in-the-us/)
-- [UK may require Google to give users alternative search options and rank its results ‘more fairly’](https://techcrunch.com/2025/06/24/uk-may-require-google-to-give-users-alternative-search-options-and-rank-its-results-more-fairly/)
-- [Google rolls out new Gemini model that can run on robots locally](https://techcrunch.com/2025/06/24/google-rolls-out-new-gemini-model-that-can-run-on-robots-locally/)
-- [A hidden asteroid family may share Venus&#39; orbit: &#39;It&#39;s like discovering a continent you didn&#39;t know existed&#39;](https://www.space.com/astronomy/asteroids/a-hidden-asteroid-family-may-share-venus-orbit-its-like-discovering-a-continent-you-didnt-know-existed)
+- [Wispr Flow raises $30M from Menlo Ventures for its AI-powered dictation app](https://techcrunch.com/2025/06/24/wispr-flow-raises-30m-from-menlo-ventures-for-its-ai-powered-dictation-app/)
+- [Medha Agarwal, Jyoti Bansal, and Jennifer Neundorfer on what makes a pitch land at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/24/medha-agarwal-jyoti-bansal-and-jennifer-neundorfer-on-what-makes-a-pitch-land-at-techcrunch-disrupt-2025/)
+- [Metroid games ranked, worst to best](https://www.space.com/entertainment/space-games/metroid-games-ranked-worst-to-best)
+- [Thanks to Fidelity and our amazing sponsors, TechCrunch All Stage is where startups rise](https://techcrunch.com/2025/06/24/thanks-to-fidelity-and-our-amazing-sponsors-techcrunch-all-stage-is-where-startups-rise/)
+- [A federal judge sides with Anthropic in lawsuit over training AI on books without authors’ permission](https://techcrunch.com/2025/06/24/a-federal-judge-sides-with-anthropic-in-lawsuit-over-training-ai-on-books-without-authors-permission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
