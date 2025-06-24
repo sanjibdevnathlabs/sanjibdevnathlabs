@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon to spend over $4B to expand Prime delivery to rural communities in the US](https://techcrunch.com/2025/06/24/amazon-to-spend-over-4b-to-expand-prime-delivery-to-rural-communities-in-the-us/)
+- [UK may require Google to give users alternative search options and rank its results ‘more fairly’](https://techcrunch.com/2025/06/24/uk-may-require-google-to-give-users-alternative-search-options-and-rank-its-results-more-fairly/)
+- [Google rolls out new Gemini model that can run on robots locally](https://techcrunch.com/2025/06/24/google-rolls-out-new-gemini-model-that-can-run-on-robots-locally/)
+- [A hidden asteroid family may share Venus&#39; orbit: &#39;It&#39;s like discovering a continent you didn&#39;t know existed&#39;](https://www.space.com/astronomy/asteroids/a-hidden-asteroid-family-may-share-venus-orbit-its-like-discovering-a-continent-you-didnt-know-existed)
 - [How a data processing problem at Lyft became the basis for Eventual](https://techcrunch.com/2025/06/24/how-a-data-processing-problem-at-lyft-became-the-basis-for-eventual/)
-- [Radio signals from the dawn of time could help &#39;weigh&#39; the universe&#39;s 1st stars](https://www.space.com/astronomy/radio-signals-from-the-dawn-of-time-could-help-weigh-the-universes-1st-stars)
-- [Google brings historical Street View imagery to Google Earth](https://techcrunch.com/2025/06/24/google-brings-historical-street-view-imagery-to-google-earth/)
-- [Novoloop is making tons of upcycled plastic](https://techcrunch.com/2025/06/24/novoloop-is-making-tons-of-upcycled-plastic/)
-- [US House bans WhatsApp from staff devices](https://techcrunch.com/2025/06/24/us-bans-whatsapp-from-house-of-representatives-staff-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
