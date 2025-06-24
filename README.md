@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Northern lights may be visible in these 14 US States on June 25](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-14-us-states-on-june-25)
 - [Amazon to spend over $4B to expand Prime delivery to rural communities in the US](https://techcrunch.com/2025/06/24/amazon-to-spend-over-4b-to-expand-prime-delivery-to-rural-communities-in-the-us/)
 - [UK may require Google to give users alternative search options and rank its results ‘more fairly’](https://techcrunch.com/2025/06/24/uk-may-require-google-to-give-users-alternative-search-options-and-rank-its-results-more-fairly/)
 - [Google rolls out new Gemini model that can run on robots locally](https://techcrunch.com/2025/06/24/google-rolls-out-new-gemini-model-that-can-run-on-robots-locally/)
 - [A hidden asteroid family may share Venus&#39; orbit: &#39;It&#39;s like discovering a continent you didn&#39;t know existed&#39;](https://www.space.com/astronomy/asteroids/a-hidden-asteroid-family-may-share-venus-orbit-its-like-discovering-a-continent-you-didnt-know-existed)
-- [How a data processing problem at Lyft became the basis for Eventual](https://techcrunch.com/2025/06/24/how-a-data-processing-problem-at-lyft-became-the-basis-for-eventual/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
