@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX sets new date for private Axiom-4 astronaut launch to the International Space Station](https://www.space.com/space-exploration/private-spaceflight/spacex-sets-new-date-for-private-axiom-4-astronaut-launch-to-the-international-space-station)
+- [Court filings reveal OpenAI and io’s early work on an AI device](https://techcrunch.com/2025/06/23/court-filings-reveal-openai-and-ios-early-work-on-an-ai-device/)
 - [Tesla’s robotaxis have already caught the attention of federal safety regulators](https://techcrunch.com/2025/06/23/teslas-robotaxis-have-already-caught-the-attention-of-federal-safety-regulators/)
 - [SpaceX launches human remains, reentry capsules and more on Transporter 14 rideshare mission &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-human-remains-reentry-capsule-and-more-on-transporter-14-rideshare-mission)
 - [&#39;Nothing short of spectacular&#39;: ESA&#39;s Biomass satellite releases 1st views of Earth from orbit &lpar;photos&rpar;](https://www.space.com/astronomy/earth/nothing-short-of-spectacular-esas-biomass-satellite-releases-1st-views-of-earth-from-orbit-photos)
-- [Databricks, Perplexity co-founder pledges $100M on new fund for AI researchers](https://techcrunch.com/2025/06/23/databricks-perplexity-co-founder-pledges-100m-on-new-fund-for-ai-researchers/)
-- [Former NASA astronaut Terry Virts announces campaign for Texas Senate seat](https://www.space.com/space-exploration/human-spaceflight/former-nasa-astronaut-terry-virts-announces-campaign-for-texas-senate-seat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
