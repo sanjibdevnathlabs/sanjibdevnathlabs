@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Synthflow AI is cutting through the noise in a loud AI voice category](https://techcrunch.com/2025/06/24/how-synthflow-ai-is-cutting-through-the-noise-in-a-loud-ai-voice-category/)
 - [India’s GoKwik raised a small $13M round for a hefty leap in valuation](https://techcrunch.com/2025/06/24/indias-gokwik-raised-a-small-13m-round-for-a-hefty-leap-in-valuation/)
 - [New data highlights the race to build more empathetic language models](https://techcrunch.com/2025/06/24/new-data-highlights-the-race-to-build-more-empathetic-language-models/)
 - [Orion constellation glows red in gorgeous deep space photo](https://www.space.com/stargazing/orion-constellation-glows-red-in-gorgeous-deep-space-photo)
 - [Facebook Group admins complain of mass bans — Meta says it’s fixing the problem](https://techcrunch.com/2025/06/24/facebook-group-admins-complain-of-mass-bans-meta-says-its-fixing-the-problem/)
-- [In just 4 months, AI medical scribe  Abridge doubles valuation to $5.3B](https://techcrunch.com/2025/06/24/in-just-4-months-ai-medical-scribe-abridge-doubles-valuation-to-5-3b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
