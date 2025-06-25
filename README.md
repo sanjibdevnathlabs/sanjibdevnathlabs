@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bill Gates-backed AirLoom begins building its first power plant](https://techcrunch.com/2025/06/25/bill-gates-backed-airloom-begins-building-its-first-power-plant/)
-- [The James Webb Space Telescope has discovered its 1st exoplanet and snapped its picture &lpar;image&rpar;](https://www.space.com/astronomy/exoplanets/the-james-webb-space-telescope-has-discovered-its-1st-exoplanet-and-snapped-its-picture-image)
-- [Astronomers thought a mysterious radio burst came from deep space. It was actually a dead NASA satellite](https://www.space.com/astronomy/astronomers-thought-a-mysterious-radio-burst-came-from-deep-space-it-was-actually-a-dead-nasa-satellite)
-- [Winning capital for your AI startup? Kleida Martiro is leading the conversation at TechCrunch All Stage](https://techcrunch.com/2025/06/25/winning-capital-for-your-ai-startup-kleida-martiro-is-leading-the-conversation-at-techcrunch-all-stage/)
-- [Bumble to lay off 30% of its workforce](https://techcrunch.com/2025/06/25/bumble-to-lay-off-30-of-its-workforce/)
+- [Introducing the Going Public Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/25/introducing-the-going-public-stage-at-techcrunch-disrupt-2025/)
+- [Off-Earth footprint: Florida company will design shoe in space in 2026](https://www.space.com/space-exploration/launches-spacecraft/off-earth-footprint-florida-company-syntilay-design-shoe-in-space-2026)
+- [Better Auth, an authentication tool by a self-taught Ethiopian dev, raises $5M from Peak XV, YC](https://techcrunch.com/2025/06/25/this-self-taught-ethiopian-dev-built-an-authentication-tool-and-got-into-yc/)
+- [Sitch’s new dating app fuses human matchmaking and AI](https://techcrunch.com/2025/06/25/sitch-wants-to-fuse-human-personality-and-ai-for-matchmaking/)
+- [The final trailer for &#39;Fantastic Four: First Steps&#39; is here! &#39;Say the thing!&#39;](https://www.space.com/entertainment/space-movies-shows/the-final-trailer-for-fantastic-four-first-steps-is-here-say-the-thing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
