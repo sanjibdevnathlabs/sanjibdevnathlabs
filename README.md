@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I Pentested My Life — Here’s What Broke](https://www.youtube.com/watch?v=3BXE0e3QZ4U)
 - [OpenAI is ruthless...](https://www.youtube.com/watch?v=nFoXCLi8FCc)
 - [I Analyzed 100+ DevOps Job Posts from 5 Different Countries | Skills Companies ACTUALLY Want](https://www.youtube.com/watch?v=7d3MU2DgUPg)
 - [LeBron vs. Lawncare: Why It’s All About Trade-Offs](https://www.youtube.com/watch?v=Jfq94mAiApU)
 - [After 6 years……I finally came back](https://www.youtube.com/watch?v=tTQ4vfCdMYw)
-- [Zuckerberg is looking pretty desperate right now...](https://www.youtube.com/watch?v=pF1UvN7SEGU)
 <!-- YOUTUBE:END -->
 
 ---
