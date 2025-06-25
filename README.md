@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nascent Materials emerges from stealth to make LFP batteries better and cheaper](https://techcrunch.com/2025/06/25/nascent-materials-emerges-from-stealth-to-make-lfp-batteries-better-and-cheaper/)
+- [Introducing the Going Public Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/25/introducing-the-going-public-stage-at-techcrunch-disrupt-2025/)
 - [Google unveils Gemini CLI, an open-source AI tool for terminals](https://techcrunch.com/2025/06/25/google-unveils-gemini-cli-an-open-source-ai-tool-for-terminals/)
 - [Ring cameras and doorbells now use AI to provide specific descriptions of motion activity](https://techcrunch.com/2025/06/25/ring-cameras-and-doorbells-now-use-ai-to-provide-specific-descriptions-of-motion-activity/)
 - [Dwarf galaxy glows red in the Hunting Dogs constellation | Space photo of the day for June 25, 2025](https://www.space.com/astronomy/dwarf-galaxy-glows-red-in-the-hunting-dogs-constellation-space-photo-of-the-day-for-june-25-2025)
-- [Kodiak is using Vay’s remote driving tech in its self-driving trucks](https://techcrunch.com/2025/06/25/kodiak-is-using-vays-remote-driving-tech-in-its-self-driving-trucks/)
-- [Julie Bornstein’s Daydream is releasing an AI-powered chatbot for fashion-related shopping](https://techcrunch.com/2025/06/25/julie-bornsteins-daydream-is-releasing-an-ai-powered-chatbot-for-fashion-related-shopping/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
