@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google unveils Gemini CLI, an open-source AI tool for terminals](https://techcrunch.com/2025/06/25/google-unveils-gemini-cli-an-open-source-ai-tool-for-terminals/)
+- [Ring cameras and doorbells now use AI to provide specific descriptions of motion activity](https://techcrunch.com/2025/06/25/ring-cameras-and-doorbells-now-use-ai-to-provide-specific-descriptions-of-motion-activity/)
+- [Dwarf galaxy glows red in the Hunting Dogs constellation | Space photo of the day for June 25, 2025](https://www.space.com/astronomy/dwarf-galaxy-glows-red-in-the-hunting-dogs-constellation-space-photo-of-the-day-for-june-25-2025)
+- [Kodiak is using Vay’s remote driving tech in its self-driving trucks](https://techcrunch.com/2025/06/25/kodiak-is-using-vays-remote-driving-tech-in-its-self-driving-trucks/)
 - [Julie Bornstein’s Daydream is releasing an AI-powered chatbot for fashion-related shopping](https://techcrunch.com/2025/06/25/julie-bornsteins-daydream-is-releasing-an-ai-powered-chatbot-for-fashion-related-shopping/)
-- [New space startup Lux Aeterna wants to make satellites reusable](https://techcrunch.com/2025/06/25/new-space-startup-lux-aeterna-wants-to-make-satellites-reusable/)
-- [With &#39;Grace&#39;: Astronauts name SpaceX&#39;s final Dragon crew capsule](https://www.space.com/space-exploration/launches-spacecraft/with-grace-astronauts-name-spacexs-final-dragon-crew-capsule)
-- [New moon of June 2025 sees Mercury climb to its highest point in the sky](https://www.space.com/stargazing/new-moon-of-june-2025-sees-mercury-climb-to-its-highest-point-in-the-sky)
-- [SpaceX launches historic private Axiom-4 astronaut mission to the ISS &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-historic-private-axiom-4-astronaut-mission-to-the-iss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
