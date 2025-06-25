@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nascent Materials emerges from stealth to make LFP batteries better and cheaper](https://techcrunch.com/2025/06/25/nascent-materials-emerges-from-stealth-to-make-lfp-batteries-better-and-cheaper/)
-- [Introducing the Going Public Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/25/introducing-the-going-public-stage-at-techcrunch-disrupt-2025/)
-- [Google unveils Gemini CLI, an open-source AI tool for terminals](https://techcrunch.com/2025/06/25/google-unveils-gemini-cli-an-open-source-ai-tool-for-terminals/)
-- [Ring cameras and doorbells now use AI to provide specific descriptions of motion activity](https://techcrunch.com/2025/06/25/ring-cameras-and-doorbells-now-use-ai-to-provide-specific-descriptions-of-motion-activity/)
-- [Dwarf galaxy glows red in the Hunting Dogs constellation | Space photo of the day for June 25, 2025](https://www.space.com/astronomy/dwarf-galaxy-glows-red-in-the-hunting-dogs-constellation-space-photo-of-the-day-for-june-25-2025)
+- [Bill Gates-backed AirLoom begins building its first power plant](https://techcrunch.com/2025/06/25/bill-gates-backed-airloom-begins-building-its-first-power-plant/)
+- [The James Webb Space Telescope has discovered its 1st exoplanet and snapped its picture &lpar;image&rpar;](https://www.space.com/astronomy/exoplanets/the-james-webb-space-telescope-has-discovered-its-1st-exoplanet-and-snapped-its-picture-image)
+- [Astronomers thought a mysterious radio burst came from deep space. It was actually a dead NASA satellite](https://www.space.com/astronomy/astronomers-thought-a-mysterious-radio-burst-came-from-deep-space-it-was-actually-a-dead-nasa-satellite)
+- [Winning capital for your AI startup? Kleida Martiro is leading the conversation at TechCrunch All Stage](https://techcrunch.com/2025/06/25/winning-capital-for-your-ai-startup-kleida-martiro-is-leading-the-conversation-at-techcrunch-all-stage/)
+- [Bumble to lay off 30% of its workforce](https://techcrunch.com/2025/06/25/bumble-to-lay-off-30-of-its-workforce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
