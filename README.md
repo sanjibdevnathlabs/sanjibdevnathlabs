@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Julie Bornstein’s Daydream is releasing an AI-powered chatbot for fashion-related shopping](https://techcrunch.com/2025/06/25/julie-bornsteins-daydream-is-releasing-an-ai-powered-chatbot-for-fashion-related-shopping/)
+- [New space startup Lux Aeterna wants to make satellites reusable](https://techcrunch.com/2025/06/25/new-space-startup-lux-aeterna-wants-to-make-satellites-reusable/)
+- [With &#39;Grace&#39;: Astronauts name SpaceX&#39;s final Dragon crew capsule](https://www.space.com/space-exploration/launches-spacecraft/with-grace-astronauts-name-spacexs-final-dragon-crew-capsule)
 - [New moon of June 2025 sees Mercury climb to its highest point in the sky](https://www.space.com/stargazing/new-moon-of-june-2025-sees-mercury-climb-to-its-highest-point-in-the-sky)
 - [SpaceX launches historic private Axiom-4 astronaut mission to the ISS &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-historic-private-axiom-4-astronaut-mission-to-the-iss)
-- [How Synthflow AI is cutting through the noise in a loud AI voice category](https://techcrunch.com/2025/06/24/how-synthflow-ai-is-cutting-through-the-noise-in-a-loud-ai-voice-category/)
-- [India’s GoKwik raised a small $13M round for a hefty leap in valuation](https://techcrunch.com/2025/06/24/indias-gokwik-raised-a-small-13m-round-for-a-hefty-leap-in-valuation/)
-- [New data highlights the race to build more empathetic language models](https://techcrunch.com/2025/06/24/new-data-highlights-the-race-to-build-more-empathetic-language-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
