@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kalshi closes $185M round as rival Polymarket reportedly seeks $200M](https://techcrunch.com/2025/06/25/kalshi-closes-185m-round-as-rival-polymarket-reportedly-seeks-200m/)
 - [Air quality tests around xAI’s Memphis data center raise questions](https://techcrunch.com/2025/06/25/air-quality-tests-around-xais-memphis-data-center-raise-questions/)
 - [Creative Commons debuts CC signals, a framework for an open AI ecosystem](https://techcrunch.com/2025/06/25/creative-commons-debuts-cc-signals-a-framework-for-an-open-ai-ecosystem/)
 - [Meta is adding AI-powered summaries to WhatsApp](https://techcrunch.com/2025/06/25/meta-is-adding-ai-powered-summaries-to-whatsapp/)
 - [Rubrik acquires Predibase to accelerate adoption of AI agents](https://techcrunch.com/2025/06/25/rubrik-acquires-predibase-to-accelerate-adoption-of-ai-agents/)
-- [EXCLUSIVE DEAL — Save up to 76%, get a free Amazon voucher and a bonus four months free of NordVPN](https://www.space.com/technology/our-exclusive-nordvpn-amazon-voucher-free-month-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
