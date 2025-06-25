@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the Going Public Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/25/introducing-the-going-public-stage-at-techcrunch-disrupt-2025/)
-- [Off-Earth footprint: Florida company will design shoe in space in 2026](https://www.space.com/space-exploration/launches-spacecraft/off-earth-footprint-florida-company-syntilay-design-shoe-in-space-2026)
-- [Better Auth, an authentication tool by a self-taught Ethiopian dev, raises $5M from Peak XV, YC](https://techcrunch.com/2025/06/25/this-self-taught-ethiopian-dev-built-an-authentication-tool-and-got-into-yc/)
-- [Sitch’s new dating app fuses human matchmaking and AI](https://techcrunch.com/2025/06/25/sitch-wants-to-fuse-human-personality-and-ai-for-matchmaking/)
-- [The final trailer for &#39;Fantastic Four: First Steps&#39; is here! &#39;Say the thing!&#39;](https://www.space.com/entertainment/space-movies-shows/the-final-trailer-for-fantastic-four-first-steps-is-here-say-the-thing)
+- [EXCLUSIVE DEAL — Save up to 76%, get a free Amazon voucher and a bonus four months free of NordVPN](https://www.space.com/technology/our-exclusive-nordvpn-amazon-voucher-free-month-deal)
+- [&#39;Space chocolate,&#39; mango nectar and pierogis: Here are the international foods the private Ax-4 astronauts are flying to the ISS](https://www.space.com/space-exploration/private-spaceflight/space-chocolate-mango-nectar-and-pierogis-here-are-the-international-foods-the-private-ax-4-astronauts-are-flying-to-the-iss)
+- [Getty drops key copyright claims against Stability AI, but UK lawsuit continues](https://techcrunch.com/2025/06/25/getty-drops-key-copyright-claims-against-stability-ai-but-uk-lawsuit-continues/)
+- [Intel hits the brakes on its automotive business, and layoffs have started](https://techcrunch.com/2025/06/25/intel-hits-the-brakes-on-its-automotive-business-and-layoffs-have-started/)
+- [Bernie Sanders says that if AI makes us so productive, we should get a 4-day work week](https://techcrunch.com/2025/06/25/bernie-sanders-says-that-if-ai-makes-us-so-productive-we-should-get-a-4-day-work-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
