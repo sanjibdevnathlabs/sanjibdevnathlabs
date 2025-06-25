@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creative Commons debuts CC signals, a framework for an open AI ecosystem](https://techcrunch.com/2025/06/25/creative-commons-debuts-cc-signals-a-framework-for-an-open-ai-ecosystem/)
+- [Meta is adding AI-powered summaries to WhatsApp](https://techcrunch.com/2025/06/25/meta-is-adding-ai-powered-summaries-to-whatsapp/)
+- [Rubrik acquires Predibase to accelerate adoption of AI agents](https://techcrunch.com/2025/06/25/rubrik-acquires-predibase-to-accelerate-adoption-of-ai-agents/)
 - [EXCLUSIVE DEAL — Save up to 76%, get a free Amazon voucher and a bonus four months free of NordVPN](https://www.space.com/technology/our-exclusive-nordvpn-amazon-voucher-free-month-deal)
 - [&#39;Space chocolate,&#39; mango nectar and pierogis: Here are the international foods the private Ax-4 astronauts are flying to the ISS](https://www.space.com/space-exploration/private-spaceflight/space-chocolate-mango-nectar-and-pierogis-here-are-the-international-foods-the-private-ax-4-astronauts-are-flying-to-the-iss)
-- [Getty drops key copyright claims against Stability AI, but UK lawsuit continues](https://techcrunch.com/2025/06/25/getty-drops-key-copyright-claims-against-stability-ai-but-uk-lawsuit-continues/)
-- [Intel hits the brakes on its automotive business, and layoffs have started](https://techcrunch.com/2025/06/25/intel-hits-the-brakes-on-its-automotive-business-and-layoffs-have-started/)
-- [Bernie Sanders says that if AI makes us so productive, we should get a 4-day work week](https://techcrunch.com/2025/06/25/bernie-sanders-says-that-if-ai-makes-us-so-productive-we-should-get-a-4-day-work-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
