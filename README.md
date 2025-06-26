@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [More than 1,800 National Science Foundation workers abruptly kicked out of agency headquarters](https://www.space.com/astronomy/earth/more-than-1-800-national-science-foundation-workers-abruptly-kicked-out-of-agency-headquarters)
+- [Google launches Doppl, a new app that lets you visualize how an outfit might look on you](https://techcrunch.com/2025/06/26/google-launches-doppl-a-new-app-that-lets-you-visualize-how-an-outfit-might-look-on-you/)
 - [Why a16z VC believes that Cluely, the ‘cheat on everything’ startup, is the new blueprint for AI startups](https://techcrunch.com/2025/06/26/why-a16z-vc-believes-that-cluely-the-cheat-on-everything-startup-is-the-new-blueprint-for-ai-startups/)
+- [TechCrunch All Stage: Learn how AI can supercharge your MVPs with Chris Gardner](https://techcrunch.com/2025/06/26/techcrunch-all-stage-learn-how-ai-can-supercharge-your-mvps-with-chris-gardner/)
 - [Upcoming DC movies: Superman, Supergirl, Clayface, The Batman Part II &amp; beyond](https://www.space.com/entertainment/space-movies-shows/upcoming-dc-movies)
-- [Apple updates the rules for its EU App Store by adding more complicated fees](https://techcrunch.com/2025/06/26/apple-updates-the-rules-for-its-eu-app-store-by-adding-more-complicated-fees/)
-- [Travis Kalanick is trying to buy Pony AI — and Uber might help](https://techcrunch.com/2025/06/26/travis-kalanick-is-trying-to-buy-pony-ai-and-uber-might-help/)
-- [Windows killed the Blue Screen of Death](https://techcrunch.com/2025/06/26/windows-killed-the-blue-screen-of-death/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
