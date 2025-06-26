@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Travis Kalanick is trying to buy Pony.ai — and Uber might help](https://techcrunch.com/2025/06/26/travis-kalanick-is-trying-to-buy-pony-ai-and-uber-might-help/)
+- [Why a16z VC believes that Cluely, the ‘cheat on everything’ startup, is the new blueprint for AI startups](https://techcrunch.com/2025/06/26/why-a16z-vc-believes-that-cluely-the-cheat-on-everything-startup-is-the-new-blueprint-for-ai-startups/)
+- [Upcoming DC movies: Superman, Supergirl, Clayface, The Batman Part II &amp; beyond](https://www.space.com/entertainment/space-movies-shows/upcoming-dc-movies)
+- [Apple updates the rules for its EU App Store by adding more complicated fees](https://techcrunch.com/2025/06/26/apple-updates-the-rules-for-its-eu-app-store-by-adding-more-complicated-fees/)
+- [Travis Kalanick is trying to buy Pony AI — and Uber might help](https://techcrunch.com/2025/06/26/travis-kalanick-is-trying-to-buy-pony-ai-and-uber-might-help/)
 - [Windows killed the Blue Screen of Death](https://techcrunch.com/2025/06/26/windows-killed-the-blue-screen-of-death/)
-- [Astronomers discover baby planets taking their 1st steps in nearby stellar nursery &lpar;images&rpar;](https://www.space.com/astronomy/astronomers-discover-baby-planets-taking-their-first-steps-in-nearby-stellar-nursery-images)
-- [Rocket Lab launches &#39;Get the Hawk Outta Here&#39; mission from New Zealand &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-get-the-hawk-outta-here-mission-from-new-zealand-video)
-- [Star Trek: Strange New Worlds Season 3: Release date, cast &amp; how to watch Paramount+&#39;s summer sci-fi series](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-3-release-date-cast-episodes-and-how-to-watch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
