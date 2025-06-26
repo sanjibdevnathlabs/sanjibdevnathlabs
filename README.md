@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta hires key OpenAI researcher to work on AI reasoning models](https://techcrunch.com/2025/06/26/meta-hires-key-openai-researcher-to-work-on-ai-reasoning-models/)
-- [Northern lights may be visible in these 10 US States tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-10-us-states-tonight)
-- [As AI kills search traffic, Google launches Offerwall to boost publisher revenue](https://techcrunch.com/2025/06/26/as-ai-kills-search-traffic-google-launches-offerwall-to-boost-publisher-revenue/)
-- [A star exploded in the Lupus constellation. Here&#39;s how to see the nova in the night sky this month](https://www.space.com/stargazing/a-star-exploded-in-the-lupus-constellation-heres-how-to-see-the-nova-in-the-night-sky-this-month)
-- [Suno snaps up WavTool for its AI music editing tools amid ongoing dispute with music labels](https://techcrunch.com/2025/06/26/suno-snaps-up-wavtool-for-its-ai-music-editing-tools-amid-ongoing-dispute-with-music-labels/)
+- [Uber has Atlanta’s autonomous ride-hailing and delivery market on lock](https://techcrunch.com/2025/06/26/uber-has-atlantas-autonomous-ride-hailing-and-delivery-market-on-lock/)
+- [See a vivid green fireball light up the northeastern US &lpar;video&rpar;](https://www.space.com/stargazing/see-a-vivid-green-fireball-light-up-the-northeastern-us-video)
+- [Rivian cuts dozens on manufacturing team ahead of R2 launch](https://techcrunch.com/2025/06/26/rivian-cuts-dozens-on-manufacturing-team-ahead-of-r2-launch/)
+- [Elon Musk reportedly fires Tesla’s top sales exec](https://techcrunch.com/2025/06/26/elon-musk-reportedly-fires-teslas-top-sales-exec/)
+- [US, French authorities confirm arrest of BreachForums hackers](https://techcrunch.com/2025/06/26/us-french-authorities-confirm-arrest-of-breachforums-hackers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
