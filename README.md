@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Federal judge sides with Meta in lawsuit over training AI models on copyrighted books](https://techcrunch.com/2025/06/25/federal-judge-sides-with-meta-in-lawsuit-over-training-ai-models-on-copyrighted-books/)
+- [Brad Feld on “Give First” and the art of mentorship &lpar;at any age&rpar;](https://techcrunch.com/2025/06/25/brad-feld-on-give-first-and-the-art-of-mentorship-at-any-age/)
 - [From the Cape to the constellation: SpaceX launches 27 more Starlink satellites &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-16-b1080-ccsfs-ocisly)
 - [Watch live: Axiom-4 astronauts aboard SpaceX Crew Dragon dock with International Space Station on June 26](https://www.space.com/space-exploration/private-spaceflight/watch-live-axiom-4-astronauts-aboard-spacex-crew-dragon-dock-with-international-space-station)
 - [Sam Altman comes out swinging at The New York Times](https://techcrunch.com/2025/06/25/sam-altman-comes-out-swinging-at-the-new-york-times/)
-- [Kalshi closes $185M round as rival Polymarket reportedly seeks $200M](https://techcrunch.com/2025/06/25/kalshi-closes-185m-round-as-rival-polymarket-reportedly-seeks-200m/)
-- [Air quality tests around xAI’s Memphis data center raise questions](https://techcrunch.com/2025/06/25/air-quality-tests-around-xais-memphis-data-center-raise-questions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
