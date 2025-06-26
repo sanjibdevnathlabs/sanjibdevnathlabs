@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In just 3 months, CoreWeave CEO, once a crypto-mining bro, becomes a deca-billionaire](https://techcrunch.com/2025/06/26/in-just-3-months-coreweave-ceo-once-a-crypto-mining-bro-becomes-a-deca-billionaire/)
+- [Human remains lost after memorial spaceflight capsule crashes into the sea](https://www.space.com/space-exploration/private-spaceflight/human-remains-lost-after-memorial-spaceflight-capsule-crashes-into-the-sea)
+- [Threads now lets you manage Hidden Words separately from Instagram, set time limits](https://techcrunch.com/2025/06/26/threads-now-lets-you-manage-hidden-words-separately-from-instagram-set-time-limits/)
+- [Google Photos merges classic search with AI to speed up results](https://techcrunch.com/2025/06/26/google-photos-merges-classic-search-with-ai-to-speed-up-results/)
 - [Uber has Atlanta’s autonomous ride-hailing and delivery market on lock](https://techcrunch.com/2025/06/26/uber-has-atlantas-autonomous-ride-hailing-and-delivery-market-on-lock/)
-- [See a vivid green fireball light up the northeastern US &lpar;video&rpar;](https://www.space.com/stargazing/see-a-vivid-green-fireball-light-up-the-northeastern-us-video)
-- [Rivian cuts dozens on manufacturing team ahead of R2 launch](https://techcrunch.com/2025/06/26/rivian-cuts-dozens-on-manufacturing-team-ahead-of-r2-launch/)
-- [Elon Musk reportedly fires Tesla’s top sales exec](https://techcrunch.com/2025/06/26/elon-musk-reportedly-fires-teslas-top-sales-exec/)
-- [US, French authorities confirm arrest of BreachForums hackers](https://techcrunch.com/2025/06/26/us-french-authorities-confirm-arrest-of-breachforums-hackers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
