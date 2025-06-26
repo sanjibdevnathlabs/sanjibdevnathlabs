@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Star Trek: Strange New Worlds Season 3: Release date, cast &amp; how to watch Paramount+&#39;s summer sci-fi series](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-3-release-date-cast-episodes-and-how-to-watch)
 - [In just 3 months, CoreWeave CEO, once a crypto-mining bro, becomes a deca-billionaire](https://techcrunch.com/2025/06/26/in-just-3-months-coreweave-ceo-once-a-crypto-mining-bro-becomes-a-deca-billionaire/)
 - [Human remains lost after memorial spaceflight capsule crashes into the sea](https://www.space.com/space-exploration/private-spaceflight/human-remains-lost-after-memorial-spaceflight-capsule-crashes-into-the-sea)
 - [Threads now lets you manage Hidden Words separately from Instagram, set time limits](https://techcrunch.com/2025/06/26/threads-now-lets-you-manage-hidden-words-separately-from-instagram-set-time-limits/)
 - [Google Photos merges classic search with AI to speed up results](https://techcrunch.com/2025/06/26/google-photos-merges-classic-search-with-ai-to-speed-up-results/)
-- [Uber has Atlanta’s autonomous ride-hailing and delivery market on lock](https://techcrunch.com/2025/06/26/uber-has-atlantas-autonomous-ride-hailing-and-delivery-market-on-lock/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
