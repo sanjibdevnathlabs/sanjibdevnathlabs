@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alien life could survive deadly stellar radiation, Earth&#39;s desert lichen reveal](https://www.space.com/space-exploration/search-for-life/alien-life-could-survive-deadly-stellar-radiation-earths-desert-lichen-reveal)
-- [Jeff Bezos is reportedly courting Trump after public spat with Musk](https://techcrunch.com/2025/06/26/jeff-bezos-is-reportedly-courting-trump-after-public-spat-with-musk/)
-- [People use AI for companionship much less than we’re led to think](https://techcrunch.com/2025/06/26/people-use-ai-for-companionship-much-less-than-were-led-to-think/)
-- [YouTube adds an AI Overviews-like search results carousel](https://techcrunch.com/2025/06/26/youtube-adds-an-ai-overviews-like-search-results-carousel/)
-- [Jon McNeill brings the operator’s playbook to TechCrunch All Stage](https://techcrunch.com/2025/06/26/jon-mcneill-brings-the-operators-playbook-to-techcrunch-all-stage/)
+- [Meta hires key OpenAI researcher to work on AI reasoning models](https://techcrunch.com/2025/06/26/meta-hires-key-openai-researcher-to-work-on-ai-reasoning-models/)
+- [Northern lights may be visible in these 10 US States tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-10-us-states-tonight)
+- [As AI kills search traffic, Google launches Offerwall to boost publisher revenue](https://techcrunch.com/2025/06/26/as-ai-kills-search-traffic-google-launches-offerwall-to-boost-publisher-revenue/)
+- [A star exploded in the Lupus constellation. Here&#39;s how to see the nova in the night sky this month](https://www.space.com/stargazing/a-star-exploded-in-the-lupus-constellation-heres-how-to-see-the-nova-in-the-night-sky-this-month)
+- [Suno snaps up WavTool for its AI music editing tools amid ongoing dispute with music labels](https://techcrunch.com/2025/06/26/suno-snaps-up-wavtool-for-its-ai-music-editing-tools-amid-ongoing-dispute-with-music-labels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
