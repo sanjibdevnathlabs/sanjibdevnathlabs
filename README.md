@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cosmic images from the world&#39;s largest digital camera are so big they require a &#39;data butler&#39;](https://www.space.com/technology/cosmic-images-from-the-worlds-largest-digital-camera-are-so-big-they-require-a-data-butler)
 - [NASA&#39;s been pulling out of major astronomy meetings — and scientists are feeling the effects](https://www.space.com/astronomy/nasas-been-pulling-out-of-major-astronomy-meetings-and-scientists-are-feeling-the-effects)
 - [Meta’s recruiting blitz claims three OpenAI researchers](https://techcrunch.com/2025/06/25/metas-recruiting-blitz-claims-three-openai-researchers/)
 - [Indian drone startup Raphe mPhibr raises $100M as military UAV demand soars](https://techcrunch.com/2025/06/25/indian-drone-startup-raphe-mphibr-raises-100m-as-military-uav-demand-soars/)
 - [Federal judge sides with Meta in lawsuit over training AI models on copyrighted books](https://techcrunch.com/2025/06/25/federal-judge-sides-with-meta-in-lawsuit-over-training-ai-models-on-copyrighted-books/)
-- [Brad Feld on “Give First” and the art of mentorship &lpar;at any age&rpar;](https://techcrunch.com/2025/06/25/brad-feld-on-give-first-and-the-art-of-mentorship-at-any-age/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
