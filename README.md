@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Redwood Materials launches energy storage business and its first target is AI data centers](https://techcrunch.com/2025/06/26/redwood-materials-launches-energy-storage-business-and-its-first-target-is-ai-data-centers/)
 - [This AI-powered startup studio plans to launch 100,000 companies a year — really](https://techcrunch.com/2025/06/26/this-ai-powered-startup-studio-plans-to-launch-100000-companies-a-year-really/)
 - [At TechCrunch All Stage, Jahanvi Sardana shares how top startups reshape markets](https://techcrunch.com/2025/06/26/new-session-at-techcrunch-all-stage-jahanvi-sardana-on-how-top-startups-reshape-markets/)
 - [More than 1,800 National Science Foundation workers abruptly kicked out of agency headquarters](https://www.space.com/astronomy/earth/more-than-1-800-national-science-foundation-workers-abruptly-kicked-out-of-agency-headquarters)
 - [Google launches Doppl, a new app that lets you visualize how an outfit might look on you](https://techcrunch.com/2025/06/26/google-launches-doppl-a-new-app-that-lets-you-visualize-how-an-outfit-might-look-on-you/)
-- [Why a16z VC believes that Cluely, the ‘cheat on everything’ startup, is the new blueprint for AI startups](https://techcrunch.com/2025/06/26/why-a16z-vc-believes-that-cluely-the-cheat-on-everything-startup-is-the-new-blueprint-for-ai-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
