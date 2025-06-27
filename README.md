@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch All Stage 2025: Prepare 4 VC’s Jason Kraus will instruct on how to turn chaos into momentum](https://techcrunch.com/2025/06/27/techcrunch-all-stage-2025-prepare-4-vcs-jason-kraus-will-instruct-on-how-to-turn-chaos-into-momentum/)
+- [Meta buys over 1 GW of renewables to power its data centers](https://techcrunch.com/2025/06/27/meta-buys-over-1-gw-of-renewables-to-power-its-data-centers/)
+- [Hello, neighbor! See the Andromeda galaxy like never before in stunning new image from NASA&#39;s Chandra telescope &lpar;video&rpar;](https://www.space.com/astronomy/hello-neighbor-see-the-andromeda-galaxy-like-never-before-in-stunning-new-image-from-nasas-chandra-telescope-video)
+- [SCOTUS porn ruling opens door to sweeping internet age verification](https://techcrunch.com/2025/06/27/scotus-porn-ruling-opens-door-to-sweeping-internet-age-verification/)
 - [SpaceX Falcon 9 rocket creates nebula-like ring in night sky | Space photo of the day for June 27, 2025](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-creates-nebula-like-ring-in-night-sky-space-photo-of-the-day-for-june-27-2025)
-- [Denmark clamps down on deepfakes by letting people copyright their own features](https://techcrunch.com/2025/06/27/denmark-clamps-down-on-deepfakes-by-letting-people-copyright-their-own-features/)
-- [David H. Rosmarin brings a founder-focused approach to anxiety at TechCrunch All Stage](https://techcrunch.com/2025/06/27/david-h-rosmarin-brings-a-founder-focused-approach-to-anxiety-at-techcrunch-all-stage/)
-- [Rollback rates: TechCrunch All Stage brings back early launch prices for a limited time](https://techcrunch.com/2025/06/27/rollback-rates-techcrunch-all-stage-brings-back-early-launch-prices-for-a-limited-time/)
-- [Bootid meteor shower 2025 peaks tonight: Here&#39;s what you need to know](https://www.space.com/stargazing/bootid-meteor-shower-2025-peaks-tonight-heres-what-you-need-to-know)
 <!-- BLOG-POST-LIST:END -->
 
 ---
