@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch All Stage 2025 welcomes Boldstart partner Ellen Chisa to talk early-stage enterprise bets](https://techcrunch.com/2025/06/27/techcrunch-all-stage-2025-welcomes-boldstart-partner-ellen-chisa-to-talk-early-stage-enterprise-bets/)
+- [SpaceX’s Starbase city officials silent on crane collapse](https://techcrunch.com/2025/06/27/spacexs-starbase-city-officials-silent-on-crane-collapse/)
 - [Startups Weekly: Tech and the law](https://techcrunch.com/2025/06/27/startups-weekly-tech-and-the-law/)
-- [PetLibro’s new smart camera uses AI to describe your pet’s movements, and it’s adorable](https://techcrunch.com/2025/06/27/petlibros-new-smart-camera-uses-ai-to-describe-your-pets-movements-and-its-adorable/)
+- [Petlibro’s new smart camera uses AI to describe your pet’s movements, and it’s adorable](https://techcrunch.com/2025/06/27/petlibros-new-smart-camera-uses-ai-to-describe-your-pets-movements-and-its-adorable/)
 - [TechCrunch All Stage 2025: Prepare 4 VC’s Jason Kraus will instruct on how to turn chaos into momentum](https://techcrunch.com/2025/06/27/techcrunch-all-stage-2025-prepare-4-vcs-jason-kraus-will-instruct-on-how-to-turn-chaos-into-momentum/)
-- [Meta buys over 1 GW of renewables to power its data centers](https://techcrunch.com/2025/06/27/meta-buys-over-1-gw-of-renewables-to-power-its-data-centers/)
-- [Hello, neighbor! See the Andromeda galaxy like never before in stunning new image from NASA&#39;s Chandra telescope &lpar;video&rpar;](https://www.space.com/astronomy/hello-neighbor-see-the-andromeda-galaxy-like-never-before-in-stunning-new-image-from-nasas-chandra-telescope-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
