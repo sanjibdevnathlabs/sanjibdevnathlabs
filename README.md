@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mexico threatens lawsuit against SpaceX over Starship explosion debris](https://www.space.com/space-exploration/private-spaceflight/mexico-threatens-lawsuit-against-spacex-over-starship-explosion-debris)
 - [German data protection official wants Apple, Google to remove DeepSeek from the country’s app stores](https://techcrunch.com/2025/06/27/germany-tells-apple-google-to-remove-deepseek-from-the-countrys-app-stores/)
 - [OpenAI hires team behind AI recommendation startup Crossing Minds](https://techcrunch.com/2025/06/27/openai-hires-team-behind-ai-recommendation-startup-crossing-minds/)
 - [Meta in talks to acquire voice cloning startup Play AI](https://techcrunch.com/2025/06/27/meta-in-talks-to-acquire-voice-cloning-startup-play-ai/)
 - [How a fake astronaut fooled the world, broke women’s hearts, and landed in jail](https://www.space.com/astronaut-imposter-how-a-con-man-fooled-the-world)
-- [Redwood Materials launches energy storage business and its first target is AI data centers](https://techcrunch.com/2025/06/26/redwood-materials-launches-energy-storage-business-and-its-first-target-is-ai-data-centers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
