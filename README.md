@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Only 2 exhibitor tables up for grabs at TechCrunch All Stage — Claim by June 29](https://techcrunch.com/2025/06/27/only-2-exhibitor-tables-up-for-grabs-at-techcrunch-all-stage-claim-by-june-29/)
+- [15 years before Helldivers 2, Lost Planet 2 taught us that the only good bug was a dead bug](https://www.space.com/entertainment/space-games/15-years-before-helldivers-2-lost-planet-2-taught-us-that-the-only-good-bug-was-a-dead-bug)
+- [Prolific cybercrime gang now targeting airlines and the transportation sector](https://techcrunch.com/2025/06/27/prolific-cybercrime-gang-now-targeting-airlines-and-the-transportation-sector/)
 - [See the crescent moon dance with Mars and the bright star Regulus this weekend](https://www.space.com/stargazing/see-the-crescent-moon-dance-with-mars-and-the-bright-star-regulus-this-weekend)
 - [Meta is offering multi-million pay for AI researchers, but not $100M ‘signing bonuses’](https://techcrunch.com/2025/06/27/meta-is-offering-multi-million-pay-for-ai-researchers-but-not-100m-signing-bonuses/)
-- [TechCrunch Mobility: The Tesla robotaxi Rorschach test and Redwood’s next big act](https://techcrunch.com/2025/06/27/techcrunch-mobility-the-tesla-robotaxi-rorschach-test-and-redwoods-next-big-act/)
-- [Congress might block state AI laws for a decade. Here’s what it means.](https://techcrunch.com/2025/06/27/congress-might-block-state-ai-laws-for-a-decade-heres-what-it-means/)
-- [Nozzle explodes off rocket booster during engine test for NASA&#39;s Artemis program &lpar;video&rpar;](https://www.space.com/space-exploration/artemis/nozzle-explodes-off-rocket-booster-during-engine-test-for-nasas-artemis-program-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
