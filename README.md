@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mexico threatens lawsuit against SpaceX over Starship explosion debris](https://www.space.com/space-exploration/private-spaceflight/mexico-threatens-lawsuit-against-spacex-over-starship-explosion-debris)
-- [German data protection official wants Apple, Google to remove DeepSeek from the country’s app stores](https://techcrunch.com/2025/06/27/germany-tells-apple-google-to-remove-deepseek-from-the-countrys-app-stores/)
-- [OpenAI hires team behind AI recommendation startup Crossing Minds](https://techcrunch.com/2025/06/27/openai-hires-team-behind-ai-recommendation-startup-crossing-minds/)
-- [Meta in talks to acquire voice cloning startup Play AI](https://techcrunch.com/2025/06/27/meta-in-talks-to-acquire-voice-cloning-startup-play-ai/)
-- [How a fake astronaut fooled the world, broke women’s hearts, and landed in jail](https://www.space.com/astronaut-imposter-how-a-con-man-fooled-the-world)
+- [David H. Rosmarin brings a founder-focused approach to anxiety at TechCrunch All Stage](https://techcrunch.com/2025/06/27/david-h-rosmarin-brings-a-founder-focused-approach-to-anxiety-at-techcrunch-all-stage/)
+- [Rollback rates: TechCrunch All Stage brings back early launch prices for a limited time](https://techcrunch.com/2025/06/27/rollback-rates-techcrunch-all-stage-brings-back-early-launch-prices-for-a-limited-time/)
+- [Bootid meteor shower 2025 peaks tonight: Here&#39;s what you need to know](https://www.space.com/stargazing/bootid-meteor-shower-2025-peaks-tonight-heres-what-you-need-to-know)
+- [Rare daytime fireball bright enough to be seen from orbit may have punched a hole in a house in Georgia](https://www.space.com/stargazing/rare-daytime-fireball-bright-enough-to-be-seen-from-orbit-may-have-punched-a-hole-in-a-house-in-georgia)
+- [Mexico threatens lawsuit against SpaceX over Starship explosion &#39;contamination&#39;](https://www.space.com/space-exploration/private-spaceflight/mexico-threatens-lawsuit-against-spacex-over-starship-explosion-debris)
 <!-- BLOG-POST-LIST:END -->
 
 ---
