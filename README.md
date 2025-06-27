@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Falcon 9 rocket creates nebula-like ring in night sky | Space photo of the day for June 27, 2025](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-creates-nebula-like-ring-in-night-sky-space-photo-of-the-day-for-june-27-2025)
+- [Denmark clamps down on deepfakes by letting people copyright their own features](https://techcrunch.com/2025/06/27/denmark-clamps-down-on-deepfakes-by-letting-people-copyright-their-own-features/)
 - [David H. Rosmarin brings a founder-focused approach to anxiety at TechCrunch All Stage](https://techcrunch.com/2025/06/27/david-h-rosmarin-brings-a-founder-focused-approach-to-anxiety-at-techcrunch-all-stage/)
 - [Rollback rates: TechCrunch All Stage brings back early launch prices for a limited time](https://techcrunch.com/2025/06/27/rollback-rates-techcrunch-all-stage-brings-back-early-launch-prices-for-a-limited-time/)
 - [Bootid meteor shower 2025 peaks tonight: Here&#39;s what you need to know](https://www.space.com/stargazing/bootid-meteor-shower-2025-peaks-tonight-heres-what-you-need-to-know)
-- [Rare daytime fireball bright enough to be seen from orbit may have punched a hole in a house in Georgia](https://www.space.com/stargazing/rare-daytime-fireball-bright-enough-to-be-seen-from-orbit-may-have-punched-a-hole-in-a-house-in-georgia)
-- [Mexico threatens lawsuit against SpaceX over Starship explosion &#39;contamination&#39;](https://www.space.com/space-exploration/private-spaceflight/mexico-threatens-lawsuit-against-spacex-over-starship-explosion-debris)
 <!-- BLOG-POST-LIST:END -->
 
 ---
