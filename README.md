@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Only 2 exhibitor tables up for grabs at TechCrunch All Stage — Claim by June 29](https://techcrunch.com/2025/06/27/only-2-exhibitor-tables-up-for-grabs-at-techcrunch-all-stage-claim-by-june-29/)
-- [15 years before Helldivers 2, Lost Planet 2 taught us that the only good bug was a dead bug](https://www.space.com/entertainment/space-games/15-years-before-helldivers-2-lost-planet-2-taught-us-that-the-only-good-bug-was-a-dead-bug)
-- [Prolific cybercrime gang now targeting airlines and the transportation sector](https://techcrunch.com/2025/06/27/prolific-cybercrime-gang-now-targeting-airlines-and-the-transportation-sector/)
-- [See the crescent moon dance with Mars and the bright star Regulus this weekend](https://www.space.com/stargazing/see-the-crescent-moon-dance-with-mars-and-the-bright-star-regulus-this-weekend)
-- [Meta is offering multi-million pay for AI researchers, but not $100M ‘signing bonuses’](https://techcrunch.com/2025/06/27/meta-is-offering-multi-million-pay-for-ai-researchers-but-not-100m-signing-bonuses/)
+- [Look for the &#39;Other Dipper&#39; this summer: How to find Ursa Minor, the Little Bear with a little help from the North Star](https://www.space.com/stargazing/look-for-the-other-dipper-this-summer-how-to-find-ursa-minor-the-little-bear-with-a-little-help-from-the-north-star)
+- [As job losses loom, Anthropic launches program to track AI’s economic fallout](https://techcrunch.com/2025/06/27/as-job-losses-loom-anthropic-launches-program-to-track-ais-economic-fallout/)
+- [YouTube’s mobile video editor is coming to iOS](https://techcrunch.com/2025/06/27/youtubes-mobile-video-editor-is-coming-to-ios/)
+- [Jesse Draper’s Halogen Ventures closes $30M Fund III to focus on ‘future of family’](https://techcrunch.com/2025/06/27/jesse-drapers-halogen-ventures-closes-30m-fund-iii-to-focus-on-future-of-family/)
+- [TikTok is testing its own version of Instagram’s ‘broadcast channels’](https://techcrunch.com/2025/06/27/tiktok-is-testing-its-own-version-of-instagrams-broadcast-channels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
