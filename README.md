@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rob Biederman will help founders rethink how to scale at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/27/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/)
 - [Congress might block state AI laws for a decade. Here’s what it means.](https://techcrunch.com/2025/06/27/congress-might-block-state-ai-laws-for-a-decade-heres-what-it-means/)
 - [Look for the &#39;Other Dipper&#39; this summer: How to find Ursa Minor, the Little Bear with a little help from the North Star](https://www.space.com/stargazing/look-for-the-other-dipper-this-summer-how-to-find-ursa-minor-the-little-bear-with-a-little-help-from-the-north-star)
 - [As job losses loom, Anthropic launches program to track AI’s economic fallout](https://techcrunch.com/2025/06/27/as-job-losses-loom-anthropic-launches-program-to-track-ais-economic-fallout/)
 - [YouTube’s mobile video editor is coming to iOS](https://techcrunch.com/2025/06/27/youtubes-mobile-video-editor-is-coming-to-ios/)
-- [Jesse Draper’s Halogen Ventures closes $30M Fund III to focus on ‘future of family’](https://techcrunch.com/2025/06/27/jesse-drapers-halogen-ventures-closes-30m-fund-iii-to-focus-on-future-of-family/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
