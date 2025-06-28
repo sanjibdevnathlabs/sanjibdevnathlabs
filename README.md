@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The ups and downs of life in space | On the ISS this week June 23 - 27, 2025](https://www.space.com/space-exploration/international-space-station/the-ups-and-downs-of-life-in-space-on-the-iss-this-week-june-23-27-2025)
+- [Japan targeting June 28 for launch of GOSAT-GW on 50th and final liftoff of the H-2A rocket](https://www.space.com/space-exploration/launches-spacecraft/japan-launching-of-gosat-gw-on-50th-and-final-liftoff-of-the-h-2a-rocket)
 - [Satellites keep breaking up in space. Insurance won&#39;t cover them.](https://www.space.com/space-exploration/satellites/satellites-keep-breaking-up-in-space-insurance-wont-cover-them)
 - [SpaceX sends Starlink satellites into space on 1st launch of a Saturday doubleheader](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-34-b1092-ccsfs-asog)
 - [Rob Biederman will help founders rethink how to scale at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/27/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/)
-- [Congress might block state AI laws for a decade. Here’s what it means.](https://techcrunch.com/2025/06/27/congress-might-block-state-ai-laws-for-a-decade-heres-what-it-means/)
-- [Look for the &#39;Other Dipper&#39; this summer: How to find Ursa Minor, the Little Bear with a little help from the North Star](https://www.space.com/stargazing/look-for-the-other-dipper-this-summer-how-to-find-ursa-minor-the-little-bear-with-a-little-help-from-the-north-star)
 <!-- BLOG-POST-LIST:END -->
 
 ---
