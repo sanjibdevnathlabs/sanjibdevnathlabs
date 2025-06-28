@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Did you ever hear the tragedy of &#39;Star Wars: Underworld&#39;, George Lucas&#39; cancelled Star Wars TV show?](https://www.space.com/entertainment/space-movies-shows/did-you-ever-hear-the-tragedy-of-star-wars-underworld-george-lucas-cancelled-star-wars-tv-show)
+- [This Week In Space podcast: Episode 167 — An Outpost on the Moon](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-167-an-outpost-on-the-moon)
 - [Is the bar higher for scientific claims of alien life?](https://www.space.com/space-exploration/search-for-life/is-the-bar-higher-for-scientific-claims-of-alien-life)
 - [FBI, cybersecurity firms say a prolific hacking crew is now targeting airlines and the transportation sector](https://techcrunch.com/2025/06/28/fbi-cybersecurity-firms-say-scattered-spider-hackers-now-targeting-airlines-transportation-sector/)
 - [The ups and downs of life in space | On the ISS this week June 23 - 27, 2025](https://www.space.com/space-exploration/international-space-station/the-ups-and-downs-of-life-in-space-on-the-iss-this-week-june-23-27-2025)
-- [Japan targeting June 28 for launch of GOSAT-GW on 50th and final liftoff of the H-2A rocket](https://www.space.com/space-exploration/launches-spacecraft/japan-launching-of-gosat-gw-on-50th-and-final-liftoff-of-the-h-2a-rocket)
-- [Satellites keep breaking up in space. Insurance won&#39;t cover them.](https://www.space.com/space-exploration/satellites/satellites-keep-breaking-up-in-space-insurance-wont-cover-them)
 <!-- BLOG-POST-LIST:END -->
 
 ---
