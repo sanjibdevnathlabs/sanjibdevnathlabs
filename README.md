@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Authors call on publishers to limit their use of AI](https://techcrunch.com/2025/06/28/authors-call-on-publishers-to-limit-their-use-of-ai/)
 - [Meta reportedly hires four more researchers from OpenAI](https://techcrunch.com/2025/06/28/meta-reportedly-hires-four-more-researchers-from-openai/)
 - [Week in Review:  Meta’s AI recruiting blitz](https://techcrunch.com/2025/06/28/week-in-review-metas-ai-recruiting-blitz/)
 - [Vitalik Buterin has reservations about Sam Altman’s World project](https://techcrunch.com/2025/06/28/vitalik-buterin-has-reservations-about-sam-altmans-world-project/)
 - [Anthropic’s Claude AI became a terrible business owner in experiment that got ‘weird’](https://techcrunch.com/2025/06/28/anthropics-claude-ai-became-a-terrible-business-owner-in-experiment-that-got-weird/)
-- [Did you ever hear the tragedy of &#39;Star Wars: Underworld&#39;, George Lucas&#39; cancelled Star Wars TV show?](https://www.space.com/entertainment/space-movies-shows/did-you-ever-hear-the-tragedy-of-star-wars-underworld-george-lucas-cancelled-star-wars-tv-show)
 <!-- BLOG-POST-LIST:END -->
 
 ---
