@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is the bar higher for scientific claims of alien life?](https://www.space.com/space-exploration/search-for-life/is-the-bar-higher-for-scientific-claims-of-alien-life)
+- [FBI, cybersecurity firms say a prolific hacking crew is now targeting airlines and the transportation sector](https://techcrunch.com/2025/06/28/fbi-cybersecurity-firms-say-scattered-spider-hackers-now-targeting-airlines-transportation-sector/)
 - [The ups and downs of life in space | On the ISS this week June 23 - 27, 2025](https://www.space.com/space-exploration/international-space-station/the-ups-and-downs-of-life-in-space-on-the-iss-this-week-june-23-27-2025)
 - [Japan targeting June 28 for launch of GOSAT-GW on 50th and final liftoff of the H-2A rocket](https://www.space.com/space-exploration/launches-spacecraft/japan-launching-of-gosat-gw-on-50th-and-final-liftoff-of-the-h-2a-rocket)
 - [Satellites keep breaking up in space. Insurance won&#39;t cover them.](https://www.space.com/space-exploration/satellites/satellites-keep-breaking-up-in-space-insurance-wont-cover-them)
-- [SpaceX sends Starlink satellites into space on 1st launch of a Saturday doubleheader](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-34-b1092-ccsfs-asog)
-- [Rob Biederman will help founders rethink how to scale at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/27/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
