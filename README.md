@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Week in Review:  Meta’s AI recruiting blitz](https://techcrunch.com/2025/06/28/week-in-review-metas-ai-recruiting-blitz/)
+- [Vitalik Buterin has reservations about Sam Altman’s World project](https://techcrunch.com/2025/06/28/vitalik-buterin-has-reservations-about-sam-altmans-world-project/)
 - [Anthropic’s Claude AI became a terrible business owner in experiment that got ‘weird’](https://techcrunch.com/2025/06/28/anthropics-claude-ai-became-a-terrible-business-owner-in-experiment-that-got-weird/)
 - [Did you ever hear the tragedy of &#39;Star Wars: Underworld&#39;, George Lucas&#39; cancelled Star Wars TV show?](https://www.space.com/entertainment/space-movies-shows/did-you-ever-hear-the-tragedy-of-star-wars-underworld-george-lucas-cancelled-star-wars-tv-show)
 - [This Week In Space podcast: Episode 167 — An Outpost on the Moon](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-167-an-outpost-on-the-moon)
-- [Is the bar higher for scientific claims of alien life?](https://www.space.com/space-exploration/search-for-life/is-the-bar-higher-for-scientific-claims-of-alien-life)
-- [FBI, cybersecurity firms say a prolific hacking crew is now targeting airlines and the transportation sector](https://techcrunch.com/2025/06/28/fbi-cybersecurity-firms-say-scattered-spider-hackers-now-targeting-airlines-transportation-sector/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
