@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;War of the Worlds&#39; at 20: Steven Spielberg made three-quarters of an apocalyptic classic](https://www.space.com/entertainment/space-movies-shows/war-of-the-worlds-at-20-steven-spielberg-made-three-quarters-of-an-apocalyptic-classic)
+- [Blue Origin launches 6 tourists on suborbital trip from Texas, including 750th person ever to fly into space](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-launches-6-tourists-on-suborbital-trip-from-texas-including-750th-person-ever-to-fly-into-space)
 - [New satellite constellation will scan the entire Earth every 20 minutes to find wildfires](https://www.space.com/astronomy/earth/new-satellite-constellation-will-scan-the-entire-earth-every-20-minutes-to-find-wildfires)
 - [How do hurricanes and tropical storms get their names?](https://www.space.com/astronomy/earth/how-do-hurricanes-and-tropical-storms-get-their-names)
 - [Early visions of Mars: Meet the 19th-century astronomer who used science fiction to imagine the red planet](https://www.space.com/astronomy/mars/early-visions-of-mars-meet-the-19th-century-astronomer-who-used-science-fiction-to-imagine-the-red-planet)
-- [Is the US forfeiting its Red Planet leadership to China&#39;s Mars Sample Return plan?](https://www.space.com/astronomy/mars/is-the-us-forfeiting-its-red-planet-leadership-to-chinas-mars-sample-return-plan)
-- [Authors call on publishers to limit their use of AI](https://techcrunch.com/2025/06/28/authors-call-on-publishers-to-limit-their-use-of-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
