@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is the US forfeiting its Red Planet leadership to China&#39;s Mars Sample Return plan?](https://www.space.com/astronomy/mars/is-the-us-forfeiting-its-red-planet-leadership-to-chinas-mars-sample-return-plan)
 - [Authors call on publishers to limit their use of AI](https://techcrunch.com/2025/06/28/authors-call-on-publishers-to-limit-their-use-of-ai/)
 - [Meta reportedly hires four more researchers from OpenAI](https://techcrunch.com/2025/06/28/meta-reportedly-hires-four-more-researchers-from-openai/)
 - [Week in Review:  Meta’s AI recruiting blitz](https://techcrunch.com/2025/06/28/week-in-review-metas-ai-recruiting-blitz/)
 - [Vitalik Buterin has reservations about Sam Altman’s World project](https://techcrunch.com/2025/06/28/vitalik-buterin-has-reservations-about-sam-altmans-world-project/)
-- [Anthropic’s Claude AI became a terrible business owner in experiment that got ‘weird’](https://techcrunch.com/2025/06/28/anthropics-claude-ai-became-a-terrible-business-owner-in-experiment-that-got-weird/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
