@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI reportedly ‘recalibrating’ compensation in response to Meta hires](https://techcrunch.com/2025/06/29/openai-reportedly-recalibrating-compensation-in-response-to-meta-hires/)
 - [Trump says he’s found a buyer for TikTok](https://techcrunch.com/2025/06/29/trump-says-hes-found-a-buyer-for-tiktok/)
 - [With ‘F1’, Apple finally has a theatrical hit](https://techcrunch.com/2025/06/29/with-f1-apple-finally-has-a-theatrical-hit/)
 - [&#39;War of the Worlds&#39; at 20: Steven Spielberg made three-quarters of an apocalyptic classic](https://www.space.com/entertainment/space-movies-shows/war-of-the-worlds-at-20-steven-spielberg-made-three-quarters-of-an-apocalyptic-classic)
 - [Blue Origin launches 6 tourists on suborbital trip from Texas, including 750th person ever to fly into space](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-launches-6-tourists-on-suborbital-trip-from-texas-including-750th-person-ever-to-fly-into-space)
-- [New satellite constellation will scan the entire Earth every 20 minutes to find wildfires](https://www.space.com/astronomy/earth/new-satellite-constellation-will-scan-the-entire-earth-every-20-minutes-to-find-wildfires)
 <!-- BLOG-POST-LIST:END -->
 
 ---
