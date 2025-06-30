@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mexican drug cartel hacker spied on FBI official’s phone to track and kill informants, report says](https://techcrunch.com/2025/06/30/mexican-drug-cartel-hacker-spied-on-fbi-officials-phone-to-track-and-kill-informants-report-says/)
+- [Ex-Meta engineers have built an AI tool to plan every detail of your trip](https://techcrunch.com/2025/06/30/former-meta-engineers-airial-travel-tool-helps-travelers-solve-logistics-planning-with-ai/)
+- [Astronomers discover &#39;raw materials for life&#39; can form in planetary systems even before stars](https://www.space.com/astronomy/astronomers-discover-raw-materials-for-life-can-form-in-planetary-systems-even-before-stars)
+- [Three powerhouses cover how to prepare now for your later-stage raise at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/30/how-to-prepare-now-for-your-later-stage-raise-at-techcrunch-disrupt-2025/)
 - [Hurry! Today is your last chance to get 60% off Disney Plus for four months](https://www.space.com/technology/hurry-today-is-your-last-chance-to-get-60-off-disney-plus-for-four-months-deal-pre-prime-day)
-- [Tiny AI ERP startup Campfire is winning so many startups from NetSuite, Accel led a $35M Series A](https://techcrunch.com/2025/06/30/tiny-ai-erp-startup-campfire-is-winning-so-many-startups-from-netsuite-accel-led-a-35m-series-a/)
-- [Cursor launches a web app to manage AI coding agents](https://techcrunch.com/2025/06/30/cursor-launches-a-web-app-to-manage-ai-coding-agents/)
-- [Not just luck — it’s strategy: Tiffany Luck on winning over VCs at TechCrunch All Stage](https://techcrunch.com/2025/06/30/not-just-luck-its-strategy-tiffany-luck-on-winning-over-vcs-at-techcrunch-all-stage/)
-- [Satellites trace a triangle above Gemini North Telescope | Space photo of the day for July 1, 2025](https://www.space.com/astronomy/nasas-curiosity-rover-takes-a-closer-look-at-spiderwebs-on-mars-space-photo-of-the-day-for-june-30-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
