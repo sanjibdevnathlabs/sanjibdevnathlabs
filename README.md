@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify revamps its Discover Weekly playlist after ten years](https://techcrunch.com/2025/06/30/spotify-will-revamp-its-discover-weekly-playlist-after-ten-years/)
+- [NASA budget cuts threaten Europe&#39;s already troubled flagship Mars rover](https://www.space.com/space-exploration/launches-spacecraft/nasa-budget-cuts-threaten-europes-already-troubled-flagship-mars-rover)
 - [Why AI will eat McKinsey’s lunch —  but not today](https://techcrunch.com/2025/06/29/why-ai-will-eat-mckinseys-lunch-but-not-today/)
 - [OpenAI reportedly ‘recalibrating’ compensation in response to Meta hires](https://techcrunch.com/2025/06/29/openai-reportedly-recalibrating-compensation-in-response-to-meta-hires/)
 - [Trump says he’s found a buyer for TikTok](https://techcrunch.com/2025/06/29/trump-says-hes-found-a-buyer-for-tiktok/)
-- [With ‘F1’, Apple finally has a theatrical hit](https://techcrunch.com/2025/06/29/with-f1-apple-finally-has-a-theatrical-hit/)
-- [&#39;War of the Worlds&#39; at 20: Steven Spielberg made three-quarters of an apocalyptic classic](https://www.space.com/entertainment/space-movies-shows/war-of-the-worlds-at-20-steven-spielberg-made-three-quarters-of-an-apocalyptic-classic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
