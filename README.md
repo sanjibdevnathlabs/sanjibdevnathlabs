@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla sends driverless Model Y from factory to customer to promote its robotaxi tech](https://techcrunch.com/2025/06/30/tesla-sends-driverless-model-y-from-factory-to-customer-to-promote-its-robotaxi-tech/)
+- [Astronomers discover a galaxy frozen in time for billions of years: &#39;Fossil galaxies are like the dinosaurs of the universe&#39;](https://www.space.com/astronomy/exoplanets/astronomers-discover-a-galaxy-frozen-in-time-for-billions-of-years-fossil-galaxies-are-like-the-dinosaurs-of-the-universe)
+- [Next-gen procurement platform Levelpath nabs $55M](https://techcrunch.com/2025/06/30/next-gen-procurement-platform-levelpath-nabs-55m/)
 - [Fintech Bolt progresses its turnaround by landing Klarna as a partner](https://techcrunch.com/2025/06/30/fintech-bolt-progresses-its-turnaround-by-landing-klarna-as-a-partner/)
 - [Instagram now lets you share Spotify songs with sound to Stories](https://techcrunch.com/2025/06/30/instagram-now-lets-you-share-spotify-songs-with-sound-to-stories/)
-- [At TechCrunch All Stage: VC red flags, founder signals, and pre-seed traps — Charles Hudson will tell you what investors really see](https://techcrunch.com/2025/06/30/at-techcrunch-all-stage-vc-red-flags-founder-signals-and-pre-seed-traps-charles-hudson-will-tell-you-what-investors-really-see/)
-- [Apple reportedly considers letting Anthropic and OpenAI power Siri](https://techcrunch.com/2025/06/30/apple-reportedly-considers-letting-anthropic-and-openai-power-siri/)
-- [Best iPad apps for unleashing and exploring your creativity](https://techcrunch.com/2025/06/30/best-ipad-apps-for-unleashing-and-exploring-your-creativity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
