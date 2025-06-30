@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fintech Bolt progresses its turnaround by landing Klarna as a partner](https://techcrunch.com/2025/06/30/fintech-bolt-progresses-its-turnaround-by-landing-klarna-as-a-partner/)
+- [Instagram now lets you share Spotify songs with sound to Stories](https://techcrunch.com/2025/06/30/instagram-now-lets-you-share-spotify-songs-with-sound-to-stories/)
+- [At TechCrunch All Stage: VC red flags, founder signals, and pre-seed traps — Charles Hudson will tell you what investors really see](https://techcrunch.com/2025/06/30/at-techcrunch-all-stage-vc-red-flags-founder-signals-and-pre-seed-traps-charles-hudson-will-tell-you-what-investors-really-see/)
+- [Apple reportedly considers letting Anthropic and OpenAI power Siri](https://techcrunch.com/2025/06/30/apple-reportedly-considers-letting-anthropic-and-openai-power-siri/)
 - [Best iPad apps for unleashing and exploring your creativity](https://techcrunch.com/2025/06/30/best-ipad-apps-for-unleashing-and-exploring-your-creativity/)
-- [Netflix teams up with NASA to boost its live TV offering](https://techcrunch.com/2025/06/30/netflix-teams-up-with-nasa-to-boost-its-live-tv-offering/)
-- [Was ancient Mars habitable? NASA&#39;s Perseverance rover is grinding into a &#39;weird, uncooperative&#39; rock to find out](https://www.space.com/space-exploration/mars-rovers/was-ancient-mars-habitable-nasas-perseverance-rover-is-grinding-into-a-weird-uncooperative-rock-to-find-out)
-- [Songscription launches an AI-powered ‘Shazam for sheet music’](https://techcrunch.com/2025/06/30/songscription-launches-an-ai-powered-shazam-for-sheet-music/)
-- [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/30/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
