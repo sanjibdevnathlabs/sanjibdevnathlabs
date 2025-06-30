@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [US government takes down major North Korean ‘remote IT workers’ operation](https://techcrunch.com/2025/06/30/us-government-takes-down-major-north-korean-remote-it-workers-operation/)
-- [Tailor, a ‘headless’ ERP startup, raises $22M Series A](https://techcrunch.com/2025/06/30/tailor-a-headless-erp-startup-raises-22m-series-a/)
-- [Meta restructures its AI unit under ‘Superintelligence Labs’](https://techcrunch.com/2025/06/30/meta-restructures-its-ai-unit-under-superintelligence-labs/)
-- [Privacy-focused app maker Proton sues Apple over alleged anticompetive practices and fees](https://techcrunch.com/2025/06/30/privacy-focused-app-maker-proton-sues-apple-over-alleged-anticompetive-practices-and-fees/)
-- [&#39;The sun is dying!&#39; Ryan Gosling tries to save a doomed Earth in 1st trailer for &#39;Project Hail Mary&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/ryan-gosling-tries-to-save-a-doomed-earth-in-1st-trailer-for-project-hail-mary)
+- [Best iPad apps for unleashing and exploring your creativity](https://techcrunch.com/2025/06/30/best-ipad-apps-for-unleashing-and-exploring-your-creativity/)
+- [Netflix teams up with NASA to boost its live TV offering](https://techcrunch.com/2025/06/30/netflix-teams-up-with-nasa-to-boost-its-live-tv-offering/)
+- [Was ancient Mars habitable? NASA&#39;s Perseverance rover is grinding into a &#39;weird, uncooperative&#39; rock to find out](https://www.space.com/space-exploration/mars-rovers/was-ancient-mars-habitable-nasas-perseverance-rover-is-grinding-into-a-weird-uncooperative-rock-to-find-out)
+- [Songscription launches an AI-powered ‘Shazam for sheet music’](https://techcrunch.com/2025/06/30/songscription-launches-an-ai-powered-shazam-for-sheet-music/)
+- [From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025](https://techcrunch.com/2025/06/30/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
