@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kristen Craft brings fresh fundraising strategy to the Foundation Stage at TechCrunch All Stage](https://techcrunch.com/2025/06/30/kristen-craft-brings-fresh-fundraising-strategy-to-the-foundation-stage-at-techcrunch-all-stage/)
-- [Tinder to require new users in California to use facial recognition tech to verify their profiles](https://techcrunch.com/2025/06/30/tinder-to-require-new-users-in-california-to-use-facial-recognition-tech-to-verify-their-profiles/)
-- [World Asteroid Day 2025: Watch live views of near-Earth asteroids for free online on June 30](https://www.space.com/stargazing/world-asteroid-day-2025)
-- [Google inks its first fusion power deal with Commonwealth Fusion Systems](https://techcrunch.com/2025/06/30/google-inks-its-first-fusion-power-deal-with-commonwealth-fusion-systems/)
-- [NASA exoplanet-hunting spacecraft and citizen scientists discover a cool new alien world](https://www.space.com/astronomy/exoplanets/nasa-exoplanet-hunting-spacecraft-and-citizen-scientists-discover-a-cool-new-alien-world)
+- [Hurry! Today is your last chance to get 60% off Disney Plus for four months](https://www.space.com/technology/hurry-today-is-your-last-chance-to-get-60-off-disney-plus-for-four-months-deal-pre-prime-day)
+- [Tiny AI ERP startup Campfire is winning so many startups from NetSuite, Accel led a $35M Series A](https://techcrunch.com/2025/06/30/tiny-ai-erp-startup-campfire-is-winning-so-many-startups-from-netsuite-accel-led-a-35m-series-a/)
+- [Cursor launches a web app to manage AI coding agents](https://techcrunch.com/2025/06/30/cursor-launches-a-web-app-to-manage-ai-coding-agents/)
+- [Not just luck — it’s strategy: Tiffany Luck on winning over VCs at TechCrunch All Stage](https://techcrunch.com/2025/06/30/not-just-luck-its-strategy-tiffany-luck-on-winning-over-vcs-at-techcrunch-all-stage/)
+- [Satellites trace a triangle above Gemini North Telescope | Space photo of the day for July 1, 2025](https://www.space.com/astronomy/nasas-curiosity-rover-takes-a-closer-look-at-spiderwebs-on-mars-space-photo-of-the-day-for-june-30-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
