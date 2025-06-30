@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mexican drug cartel hacker spied on FBI official’s phone to track and kill informants, report says](https://techcrunch.com/2025/06/30/mexican-drug-cartel-hacker-spied-on-fbi-officials-phone-to-track-and-kill-informants-report-says/)
-- [Ex-Meta engineers have built an AI tool to plan every detail of your trip](https://techcrunch.com/2025/06/30/former-meta-engineers-airial-travel-tool-helps-travelers-solve-logistics-planning-with-ai/)
-- [Astronomers discover &#39;raw materials for life&#39; can form in planetary systems even before stars](https://www.space.com/astronomy/astronomers-discover-raw-materials-for-life-can-form-in-planetary-systems-even-before-stars)
-- [Three powerhouses cover how to prepare now for your later-stage raise at TechCrunch Disrupt 2025](https://techcrunch.com/2025/06/30/how-to-prepare-now-for-your-later-stage-raise-at-techcrunch-disrupt-2025/)
-- [Hurry! Today is your last chance to get 60% off Disney Plus for four months](https://www.space.com/technology/hurry-today-is-your-last-chance-to-get-60-off-disney-plus-for-four-months-deal-pre-prime-day)
+- [&#39;The sun is dying!&#39; Ryan Gosling tries to save a doomed Earth in 1st trailer for &#39;Project Hail Mary&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/ryan-gosling-tries-to-save-a-doomed-earth-in-1st-trailer-for-project-hail-mary)
+- [Congress might block state AI laws for five years. Here’s what it means.](https://techcrunch.com/2025/06/30/congress-might-block-state-ai-laws-for-five-years-heres-what-it-means/)
+- [&#39;Apollo 13&#39; turns 30: How NASA legend Gerry Griffin helped director Ron Howard &#39;get it right&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/apollo-13-turns-30-how-nasa-legend-gerry-griffin-helped-director-ron-howard-get-it-right-exclusive)
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/06/30/tech-layoffs-2025-list/)
+- [Google embraces AI in the classroom with new Gemini tools for educators, chatbots for students, and more](https://techcrunch.com/2025/06/30/google-embraces-ai-in-the-classroom-with-new-gemini-tools-for-educators-chatbots-for-students-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
