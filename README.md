@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US government takes down major North Korean ‘remote IT workers’ operation](https://techcrunch.com/2025/06/30/us-government-takes-down-major-north-korean-remote-it-workers-operation/)
+- [Tailor, a ‘headless’ ERP startup, raises $22M Series A](https://techcrunch.com/2025/06/30/tailor-a-headless-erp-startup-raises-22m-series-a/)
+- [Meta restructures its AI unit under ‘Superintelligence Labs’](https://techcrunch.com/2025/06/30/meta-restructures-its-ai-unit-under-superintelligence-labs/)
+- [Privacy-focused app maker Proton sues Apple over alleged anticompetive practices and fees](https://techcrunch.com/2025/06/30/privacy-focused-app-maker-proton-sues-apple-over-alleged-anticompetive-practices-and-fees/)
 - [&#39;The sun is dying!&#39; Ryan Gosling tries to save a doomed Earth in 1st trailer for &#39;Project Hail Mary&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/ryan-gosling-tries-to-save-a-doomed-earth-in-1st-trailer-for-project-hail-mary)
-- [Congress might block state AI laws for five years. Here’s what it means.](https://techcrunch.com/2025/06/30/congress-might-block-state-ai-laws-for-five-years-heres-what-it-means/)
-- [&#39;Apollo 13&#39; turns 30: How NASA legend Gerry Griffin helped director Ron Howard &#39;get it right&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/apollo-13-turns-30-how-nasa-legend-gerry-griffin-helped-director-ron-howard-get-it-right-exclusive)
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/06/30/tech-layoffs-2025-list/)
-- [Google embraces AI in the classroom with new Gemini tools for educators, chatbots for students, and more](https://techcrunch.com/2025/06/30/google-embraces-ai-in-the-classroom-with-new-gemini-tools-for-educators-chatbots-for-students-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
