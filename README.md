@@ -146,7 +146,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify revamps its Discover Weekly playlist after ten years](https://techcrunch.com/2025/06/30/spotify-will-revamp-its-discover-weekly-playlist-after-ten-years/)
+- [Spotify revamps its Discover Weekly playlist after 10 years](https://techcrunch.com/2025/06/30/spotify-will-revamp-its-discover-weekly-playlist-after-ten-years/)
 - [NASA budget cuts threaten Europe&#39;s already troubled flagship Mars rover](https://www.space.com/space-exploration/launches-spacecraft/nasa-budget-cuts-threaten-europes-already-troubled-flagship-mars-rover)
 - [Why AI will eat McKinsey’s lunch —  but not today](https://techcrunch.com/2025/06/29/why-ai-will-eat-mckinseys-lunch-but-not-today/)
 - [OpenAI reportedly ‘recalibrating’ compensation in response to Meta hires](https://techcrunch.com/2025/06/29/openai-reportedly-recalibrating-compensation-in-response-to-meta-hires/)
