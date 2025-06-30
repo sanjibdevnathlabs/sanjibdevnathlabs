@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kristen Craft brings fresh fundraising strategy to the Foundation Stage at TechCrunch All Stage](https://techcrunch.com/2025/06/30/kristen-craft-brings-fresh-fundraising-strategy-to-the-foundation-stage-at-techcrunch-all-stage/)
+- [Tinder to require new users in California to use facial recognition tech to verify their profiles](https://techcrunch.com/2025/06/30/tinder-to-require-new-users-in-california-to-use-facial-recognition-tech-to-verify-their-profiles/)
+- [World Asteroid Day 2025: Watch live views of near-Earth asteroids for free online on June 30](https://www.space.com/stargazing/world-asteroid-day-2025)
 - [Google inks its first fusion power deal with Commonwealth Fusion Systems](https://techcrunch.com/2025/06/30/google-inks-its-first-fusion-power-deal-with-commonwealth-fusion-systems/)
 - [NASA exoplanet-hunting spacecraft and citizen scientists discover a cool new alien world](https://www.space.com/astronomy/exoplanets/nasa-exoplanet-hunting-spacecraft-and-citizen-scientists-discover-a-cool-new-alien-world)
-- [&#39;Apollo 13&#39; at 30: the space movie where scientists have the right stuff too](https://www.space.com/entertainment/space-movies-shows/apollo-13-at-30-the-space-movie-where-scientists-have-the-right-stuff-too)
-- [Spotify revamps its Discover Weekly playlist after 10 years](https://techcrunch.com/2025/06/30/spotify-will-revamp-its-discover-weekly-playlist-after-ten-years/)
-- [NASA budget cuts threaten Europe&#39;s already troubled flagship Mars rover](https://www.space.com/space-exploration/launches-spacecraft/nasa-budget-cuts-threaten-europes-already-troubled-flagship-mars-rover)
 <!-- BLOG-POST-LIST:END -->
 
 ---
