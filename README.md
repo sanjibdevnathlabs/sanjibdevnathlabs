@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon deploys its one millionth robot, releases generative AI model](https://techcrunch.com/2025/07/01/amazon-deploys-its-one-millionth-robot-releases-generative-ai-model/)
-- [Australia&#39;s first orbital rocket, Gilmour Space&#39;s Eris-1, to launch July 2 after nose cone glitch](https://www.space.com/space-exploration/launches-spacecraft/australias-first-orbital-rocket-gilmour-spaces-eris-1-to-launch-july-2-after-nose-cone-glitch)
-- [Nikita Bier joins X as head of product: ‘I’ve officially posted my way to the top’](https://techcrunch.com/2025/07/01/nikita-bier-joins-x-as-head-of-product-ive-officially-posted-my-way-to-the-top/)
-- [Remark raises $16M to build out human-powered expert models for e-commerce](https://techcrunch.com/2025/07/01/remark-raises-16-million-in-to-build-out-human-powered-expert-models-for-e-commerce/)
-- [Threads launches its own DM inbox, as app moves further away from Instagram](https://techcrunch.com/2025/07/01/threads-launches-its-own-dm-inbox-as-app-moves-further-away-from-instagram/)
+- [The electric Hummer is almost outselling the F-150 Lightning](https://techcrunch.com/2025/07/01/the-electric-hummer-is-almost-outselling-the-f-150-lightning/)
+- [Nothing releases their first over-the-ear headphones](https://techcrunch.com/video/nothing-releases-their-first-over-the-ear-headphones/)
+- [Nothing launches its most expensive flagship yet, Phone &lpar;3&rpar;](https://techcrunch.com/2025/07/01/nothing-launches-its-most-expensive-flagship-phone-3/)
+- [Best iPad apps to boost productivity and make your life easier](https://techcrunch.com/2025/07/01/best-ipad-apps-to-boost-productivity-and-make-your-life-easier/)
+- [Raising a Series C+? Cathy Gao’s bringing the real playbook to TechCrunch All Stage](https://techcrunch.com/2025/07/01/raising-a-series-c-cathy-gaos-bringing-the-real-playbook-to-techcrunch-all-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
