@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Curiosity rover takes a closer look at &#39;spiderwebs&#39; on Mars | Space photo of the day for July 1, 2025](https://www.space.com/astronomy/nasas-curiosity-rover-takes-a-closer-look-at-spiderwebs-on-mars-space-photo-of-the-day-for-july-1-2025)
+- [Astonishing &#39;halo&#39; of high-energy particles around giant galaxy cluster is a glimpse into the early universe](https://www.space.com/astronomy/galaxies/astonishing-halo-of-high-energy-particles-around-giant-galaxy-cluster-is-a-glimpse-into-the-early-universe)
+- [David George from a16z on the future of going public at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/01/david-george-on-the-future-of-going-public-at-techcrunch-disrupt-2025/)
 - [Mo Jomaa breaks down IPO prep for founders on the Scale Stage at TechCrunch All Stage](https://techcrunch.com/2025/07/01/mo-jomaa-breaks-down-ipo-prep-for-founders-on-the-scale-stage-at-techcrunch-all-stage/)
 - [US Senate removes controversial ‘AI moratorium’ from budget bill](https://techcrunch.com/2025/07/01/us-senate-removes-controversial-ai-moratorium-from-budget-bill/)
-- [&#39;This is the holy grail of theoretical physics.&#39; Is the key to quantum gravity hiding in this new way to make black holes?](https://www.space.com/astronomy/black-holes/this-is-the-holy-grail-of-theoretical-physics-is-the-key-to-quantum-gravity-hiding-in-this-new-way-to-make-black-holes)
-- [Genesis AI launches with $105M seed funding from Eclipse, Khosla to build AI models for robots](https://techcrunch.com/2025/07/01/genesis-ai-launches-with-105m-seed-funding-from-eclipse-khosla-to-build-ai-models-for-robots/)
-- [xAI raises $10B in debt and equity](https://techcrunch.com/2025/07/01/xai-raises-10b-in-debt-and-equity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
