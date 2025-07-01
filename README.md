@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nikita Bier joins X as Head of Product: ‘I’ve officially posted my way to the top’](https://techcrunch.com/2025/07/01/nikita-bier-joins-x-as-head-of-product-ive-officially-posted-my-way-to-the-top/)
+- [Amazon deploys its one millionth robot, releases generative AI model](https://techcrunch.com/2025/07/01/amazon-deploys-its-one-millionth-robot-releases-generative-ai-model/)
+- [Australia&#39;s first orbital rocket, Gilmour Space&#39;s Eris-1, to launch July 2 after nose cone glitch](https://www.space.com/space-exploration/launches-spacecraft/australias-first-orbital-rocket-gilmour-spaces-eris-1-to-launch-july-2-after-nose-cone-glitch)
+- [Nikita Bier joins X as head of product: ‘I’ve officially posted my way to the top’](https://techcrunch.com/2025/07/01/nikita-bier-joins-x-as-head-of-product-ive-officially-posted-my-way-to-the-top/)
 - [Remark raises $16M to build out human-powered expert models for e-commerce](https://techcrunch.com/2025/07/01/remark-raises-16-million-in-to-build-out-human-powered-expert-models-for-e-commerce/)
 - [Threads launches its own DM inbox, as app moves further away from Instagram](https://techcrunch.com/2025/07/01/threads-launches-its-own-dm-inbox-as-app-moves-further-away-from-instagram/)
-- [US set new record with 21 commercial launches in June, FAA says](https://www.space.com/space-exploration/launches-spacecraft/us-set-new-record-with-21-commercial-launches-in-june-faa-says)
-- [Trump’s prospective TikTok buyer reportedly includes Oracle, Blackstone, a16z](https://techcrunch.com/2025/07/01/trumps-prospective-tiktok-buyer-reportedly-includes-oracle-blackstone-a16z/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
