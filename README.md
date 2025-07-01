@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jon McNeill brings the operator’s playbook to TechCrunch All Stage](https://techcrunch.com/2025/07/01/jon-mcneill-brings-the-operators-playbook-to-techcrunch-all-stage/)
+- [Congress just greenlit a NASA moon plan opposed by Musk and Isaacman](https://techcrunch.com/2025/07/01/congress-just-greenlit-a-nasa-moon-plan-opposed-by-musk-and-isaacman/)
 - [ICEBlock, an app for anonymously reporting ICE sightings, goes viral overnight after Bondi criticism](https://techcrunch.com/2025/07/01/iceblock-an-app-for-anonymously-reporting-ice-sightings-goes-viral-overnight-after-bondi-criticism/)
 - [Figma moves closer to a blockbuster IPO that could raise $1.5B](https://techcrunch.com/2025/07/01/figma-moves-closer-to-a-blockbuster-ipo-that-could-raise-1-5b/)
-- [SpaceX launches advanced European weather satellite, lands rocket at sea &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-advanced-european-weather-satellite-mtg-s1-lands-rocket-at-sea-photos)
-- [James Webb Space Telescope uses cosmic archeology to reveal history of the Milky Way galaxy](https://www.space.com/astronomy/james-webb-space-telescope-uses-cosmic-archeology-to-reveal-history-of-the-milky-way-galaxy)
-- [Road to Battlefield: Central Eurasia’s gateway to TechCrunch Startup Battlefield](https://techcrunch.com/2025/07/01/road-to-battlefield-central-eurasias-gateway-to-techcrunch-startup-battlefield/)
+- [SpaceX launches advanced European weather satellite, lands rocket at sea &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-advanced-european-weather-satellite-mtg-s1-lands-rocket-at-sea-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
