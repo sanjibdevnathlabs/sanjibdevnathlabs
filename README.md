@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Catalio Capital closes over $400M Fund IV](https://techcrunch.com/2025/07/01/catalio-capital-closes-over-400m-fund-iv/)
+- [Google’s data center energy use doubled in 4 years](https://techcrunch.com/2025/07/01/googles-data-center-energy-use-doubled-in-four-years/)
+- [Automattic puts Tumblr migration to WordPress on hold](https://techcrunch.com/2025/07/01/automattic-puts-tumblr-migration-to-wordpress-on-hold/)
 - [An enormous &#39;X&#39; and &#39;V&#39; will grace the moon&#39;s surface on July 2. Here&#39;s how to see them](https://www.space.com/stargazing/an-enormous-x-and-v-will-grace-the-moons-surface-on-july-2-heres-how-to-see-them)
 - [Winning capital for your AI startup? Kleida Martiro is leading the conversation at TechCrunch All Stage](https://techcrunch.com/2025/07/01/winning-capital-for-your-ai-startup-kleida-martiro-is-leading-the-conversation-at-techcrunch-all-stage/)
-- [Nothing releases its first over-the-ear headphones, the $299 Headphone &lpar;1&rpar;](https://techcrunch.com/2025/07/01/nothing-releases-its-first-over-the-ear-headphones-the-299-headphone-1/)
-- [The electric Hummer is almost outselling the F-150 Lightning](https://techcrunch.com/2025/07/01/the-electric-hummer-is-almost-outselling-the-f-150-lightning/)
-- [Nothing releases their first over-the-ear headphones](https://techcrunch.com/video/nothing-releases-their-first-over-the-ear-headphones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
