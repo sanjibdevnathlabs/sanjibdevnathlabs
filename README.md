@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An enormous &#39;X&#39; and &#39;V&#39; will grace the moon&#39;s surface on July 2. Here&#39;s how to see them](https://www.space.com/stargazing/an-enormous-x-and-v-will-grace-the-moons-surface-on-july-2-heres-how-to-see-them)
+- [Winning capital for your AI startup? Kleida Martiro is leading the conversation at TechCrunch All Stage](https://techcrunch.com/2025/07/01/winning-capital-for-your-ai-startup-kleida-martiro-is-leading-the-conversation-at-techcrunch-all-stage/)
+- [Nothing releases its first over-the-ear headphones, the $299 Headphone &lpar;1&rpar;](https://techcrunch.com/2025/07/01/nothing-releases-its-first-over-the-ear-headphones-the-299-headphone-1/)
 - [The electric Hummer is almost outselling the F-150 Lightning](https://techcrunch.com/2025/07/01/the-electric-hummer-is-almost-outselling-the-f-150-lightning/)
 - [Nothing releases their first over-the-ear headphones](https://techcrunch.com/video/nothing-releases-their-first-over-the-ear-headphones/)
-- [Nothing launches its most expensive flagship yet, Phone &lpar;3&rpar;](https://techcrunch.com/2025/07/01/nothing-launches-its-most-expensive-flagship-phone-3/)
-- [Best iPad apps to boost productivity and make your life easier](https://techcrunch.com/2025/07/01/best-ipad-apps-to-boost-productivity-and-make-your-life-easier/)
-- [Raising a Series C+? Cathy Gao’s bringing the real playbook to TechCrunch All Stage](https://techcrunch.com/2025/07/01/raising-a-series-c-cathy-gaos-bringing-the-real-playbook-to-techcrunch-all-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
