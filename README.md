@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Curiosity rover takes a closer look at &#39;spiderwebs&#39; on Mars | Space photo of the day for July 1, 2025](https://www.space.com/astronomy/nasas-curiosity-rover-takes-a-closer-look-at-spiderwebs-on-mars-space-photo-of-the-day-for-july-1-2025)
-- [Astonishing &#39;halo&#39; of high-energy particles around giant galaxy cluster is a glimpse into the early universe](https://www.space.com/astronomy/galaxies/astonishing-halo-of-high-energy-particles-around-giant-galaxy-cluster-is-a-glimpse-into-the-early-universe)
-- [David George from a16z on the future of going public at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/01/david-george-on-the-future-of-going-public-at-techcrunch-disrupt-2025/)
-- [Mo Jomaa breaks down IPO prep for founders on the Scale Stage at TechCrunch All Stage](https://techcrunch.com/2025/07/01/mo-jomaa-breaks-down-ipo-prep-for-founders-on-the-scale-stage-at-techcrunch-all-stage/)
-- [US Senate removes controversial ‘AI moratorium’ from budget bill](https://techcrunch.com/2025/07/01/us-senate-removes-controversial-ai-moratorium-from-budget-bill/)
+- [Nikita Bier joins X as Head of Product: ‘I’ve officially posted my way to the top’](https://techcrunch.com/2025/07/01/nikita-bier-joins-x-as-head-of-product-ive-officially-posted-my-way-to-the-top/)
+- [Remark raises $16M to build out human-powered expert models for e-commerce](https://techcrunch.com/2025/07/01/remark-raises-16-million-in-to-build-out-human-powered-expert-models-for-e-commerce/)
+- [Threads launches its own DM inbox, as app moves further away from Instagram](https://techcrunch.com/2025/07/01/threads-launches-its-own-dm-inbox-as-app-moves-further-away-from-instagram/)
+- [US set new record with 21 commercial launches in June, FAA says](https://www.space.com/space-exploration/launches-spacecraft/us-set-new-record-with-21-commercial-launches-in-june-faa-says)
+- [Trump’s prospective TikTok buyer reportedly includes Oracle, Blackstone, a16z](https://techcrunch.com/2025/07/01/trumps-prospective-tiktok-buyer-reportedly-includes-oracle-blackstone-a16z/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
