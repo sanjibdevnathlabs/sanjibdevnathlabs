@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mo Jomaa breaks down IPO prep for founders on the Scale Stage at TechCrunch All Stage](https://techcrunch.com/2025/07/01/mo-jomaa-breaks-down-ipo-prep-for-founders-on-the-scale-stage-at-techcrunch-all-stage/)
 - [US Senate removes controversial ‘AI moratorium’ from budget bill](https://techcrunch.com/2025/07/01/us-senate-removes-controversial-ai-moratorium-from-budget-bill/)
 - [&#39;This is the holy grail of theoretical physics.&#39; Is the key to quantum gravity hiding in this new way to make black holes?](https://www.space.com/astronomy/black-holes/this-is-the-holy-grail-of-theoretical-physics-is-the-key-to-quantum-gravity-hiding-in-this-new-way-to-make-black-holes)
 - [Genesis AI launches with $105M seed funding from Eclipse, Khosla to build AI models for robots](https://techcrunch.com/2025/07/01/genesis-ai-launches-with-105m-seed-funding-from-eclipse-khosla-to-build-ai-models-for-robots/)
 - [xAI raises $10B in debt and equity](https://techcrunch.com/2025/07/01/xai-raises-10b-in-debt-and-equity/)
-- [Cloudflare launches a marketplace that lets websites charge AI bots for scraping](https://techcrunch.com/2025/07/01/cloudflare-launches-a-marketplace-that-lets-websites-charge-ai-bots-for-scraping/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
