@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ICEBlock, an app for anonymously reporting ICE sightings, goes viral overnight after Bondi criticism](https://techcrunch.com/2025/07/01/iceblock-an-app-for-anonymously-reporting-ice-sightings-goes-viral-overnight-after-bondi-criticism/)
+- [Figma moves closer to a blockbuster IPO that could raise $1.5B](https://techcrunch.com/2025/07/01/figma-moves-closer-to-a-blockbuster-ipo-that-could-raise-1-5b/)
+- [SpaceX launches advanced European weather satellite, lands rocket at sea &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-advanced-european-weather-satellite-mtg-s1-lands-rocket-at-sea-photos)
 - [James Webb Space Telescope uses cosmic archeology to reveal history of the Milky Way galaxy](https://www.space.com/astronomy/james-webb-space-telescope-uses-cosmic-archeology-to-reveal-history-of-the-milky-way-galaxy)
 - [Road to Battlefield: Central Eurasia’s gateway to TechCrunch Startup Battlefield](https://techcrunch.com/2025/07/01/road-to-battlefield-central-eurasias-gateway-to-techcrunch-startup-battlefield/)
-- [X is piloting a program that lets AI chatbots generate Community Notes](https://techcrunch.com/2025/07/01/x-is-piloting-a-program-that-lets-ai-chatbots-generate-community-notes/)
-- [Catalio Capital closes over $400M Fund IV](https://techcrunch.com/2025/07/01/catalio-capital-closes-over-400m-fund-iv/)
-- [Google’s data center energy use doubled in 4 years](https://techcrunch.com/2025/07/01/googles-data-center-energy-use-doubled-in-four-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
