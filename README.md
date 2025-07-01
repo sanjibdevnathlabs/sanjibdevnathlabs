@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope uses cosmic archeology to reveal history of the Milky Way galaxy](https://www.space.com/astronomy/james-webb-space-telescope-uses-cosmic-archeology-to-reveal-history-of-the-milky-way-galaxy)
+- [Road to Battlefield: Central Eurasia’s gateway to TechCrunch Startup Battlefield](https://techcrunch.com/2025/07/01/road-to-battlefield-central-eurasias-gateway-to-techcrunch-startup-battlefield/)
+- [X is piloting a program that lets AI chatbots generate Community Notes](https://techcrunch.com/2025/07/01/x-is-piloting-a-program-that-lets-ai-chatbots-generate-community-notes/)
 - [Catalio Capital closes over $400M Fund IV](https://techcrunch.com/2025/07/01/catalio-capital-closes-over-400m-fund-iv/)
 - [Google’s data center energy use doubled in 4 years](https://techcrunch.com/2025/07/01/googles-data-center-energy-use-doubled-in-four-years/)
-- [Automattic puts Tumblr migration to WordPress on hold](https://techcrunch.com/2025/07/01/automattic-puts-tumblr-migration-to-wordpress-on-hold/)
-- [An enormous &#39;X&#39; and &#39;V&#39; will grace the moon&#39;s surface on July 2. Here&#39;s how to see them](https://www.space.com/stargazing/an-enormous-x-and-v-will-grace-the-moons-surface-on-july-2-heres-how-to-see-them)
-- [Winning capital for your AI startup? Kleida Martiro is leading the conversation at TechCrunch All Stage](https://techcrunch.com/2025/07/01/winning-capital-for-your-ai-startup-kleida-martiro-is-leading-the-conversation-at-techcrunch-all-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
