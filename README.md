@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla faces second straight year of falling sales after another bad quarter](https://techcrunch.com/2025/07/02/tesla-faces-second-straight-year-of-falling-sales-after-another-bad-quarter/)
+- [Rivian receives the next $1B from Volkswagen as sales struggles continue](https://techcrunch.com/2025/07/02/rivian-receives-the-next-1b-from-volkswagen-as-sales-struggles-continue/)
+- [Dust devils on Mars may spark lightning — possibly threatening NASA&#39;s Perseverance rover](https://www.space.com/astronomy/mars/dust-devils-on-mars-may-spark-lightning-possibly-threatening-nasas-perseverance-rover)
+- [Foxconn tells hundreds of Chinese staff to return from its Indian iPhone factories](https://techcrunch.com/2025/07/02/foxconn-tells-hundreds-of-chinese-staff-to-return-from-its-indian-iphone-factories/)
 - [SpaceX rocket sets reuse record on 500th Falcon 9 launch](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-25-b1067-ccsfs-asog)
-- [Qantas hack results in theft of 6 million passengers’ personal data](https://techcrunch.com/2025/07/02/qantas-hack-results-in-theft-of-6-million-passengers-personal-data/)
-- [Northern lights may be visible in these 13 US states tonight as the sun hurls solar storm toward Earth](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-13-u-s-states-tonight-as-the-sun-hurls-solar-storm-toward-earth)
-- [Astronomers capture incredible 1st image of a dead star that exploded twice. How did it happen?](https://www.space.com/astronomy/stars/astronomers-capture-incredible-1st-image-of-a-dead-star-that-exploded-twice-how-did-it-happen)
-- [Jon McNeill brings the operator’s playbook to TechCrunch All Stage](https://techcrunch.com/2025/07/01/jon-mcneill-brings-the-operators-playbook-to-techcrunch-all-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
