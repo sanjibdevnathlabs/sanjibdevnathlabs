@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The secret of why Mars grew cold and dry may be locked away in its rocks](https://www.space.com/science/the-secret-of-why-mars-grew-cold-and-dry-may-be-locked-away-in-its-rocks)
+- [A guide to using Edits, Meta’s new CapCut rival for short-form video editing](https://techcrunch.com/2025/07/02/a-guide-to-using-edits-metas-new-capcut-rival-for-short-form-video-editing/)
+- [US chipmakers could see bigger tax credits if Trump’s spending bill passes](https://techcrunch.com/2025/07/02/us-chipmakers-could-see-bigger-tax-credits-if-trumps-spending-bill-passes/)
+- [Meta users say paying for Verified support has been useless in the face of mass bans](https://techcrunch.com/2025/07/02/meta-users-say-paying-for-verified-support-has-been-useless-in-the-face-of-mass-bans/)
 - [Exoplanets that cling too tightly to their stars trigger their own doom: &#39;This is a completely new phenomenon&#39;](https://www.space.com/astronomy/exoplanets/exoplanets-that-cling-too-tightly-to-their-stars-trigger-their-own-doom-this-is-a-completely-new-phenomenon)
-- [Data breach reveals Catwatchful ‘stalkerware’ is spying on thousands of phones](https://techcrunch.com/2025/07/02/data-breach-reveals-catwatchful-stalkerware-spying-on-thousands-android-phones/)
-- [Hacked, leaked, exposed: Why you should never use stalkerware apps](https://techcrunch.com/2025/07/02/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/)
-- [Former astronaut Terry Virts talks about his Senate run, Trump and the NASA budget in exclusive Space.com interview &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/former-astronaut-terry-virts-talks-about-his-senate-run-trump-and-the-nasa-budget-in-exclusive-space-com-interview-video)
-- [Microsoft will lay off 9,000 employees, or less than 4% of the company](https://techcrunch.com/2025/07/02/microsoft-will-lay-off-9000-employees-or-less-than-4-of-the-company/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
