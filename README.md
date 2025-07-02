@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;52 Assignments: Night Photography&#39;: A Q&amp;A with author and astrophotographer Josh Dury](https://www.space.com/stargazing/52-assignments-night-photography-a-q-and-a-with-author-josh-dury)
 - [Substack brings new updates to livestreaming as it increases video push](https://techcrunch.com/2025/07/02/substack-brings-new-updates-to-livestreaming-as-it-increases-video-push/)
 - [Hubble Telescope finds stellar nursery in Taurus Molecular Cloud | Space photo of the day for July 2, 2025](https://www.space.com/astronomy/hubble-telescope-finds-stellar-nursery-in-taurus-molecular-cloud-space-photo-of-the-day-for-july-2-2025)
 - [Could Google’s Veo 3 be the start of playable world models?](https://techcrunch.com/2025/07/02/could-googles-veo-3-be-the-start-of-playable-world-models/)
 - [A newly forming ocean may split Africa apart, scientists say](https://www.space.com/astronomy/earth/a-newly-forming-ocean-may-split-africa-apart-scientists-say)
-- [David H. Rosmarin brings a founder-focused approach to anxiety at TechCrunch All Stage](https://techcrunch.com/2025/07/02/david-h-rosmarin-brings-a-founder-focused-approach-to-anxiety-at-techcrunch-all-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
