@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former SpaceX manager alleges harassment, retaliation, and security violations in lawsuit](https://techcrunch.com/2025/07/02/former-spacex-manager-alleges-harassment-retaliation-and-security-violations-in-lawsuit/)
+- [Climate satellite MethaneSAT backed by Bezos and Google fails in space after just 1 year](https://www.space.com/space-exploration/satellites/climate-satellite-methanesat-backed-by-bezos-and-google-fails-in-space-after-just-1-year)
 - [The secret of why Mars grew cold and dry may be locked away in its rocks](https://www.space.com/science/the-secret-of-why-mars-grew-cold-and-dry-may-be-locked-away-in-its-rocks)
 - [A guide to using Edits, Meta’s new CapCut rival for short-form video editing](https://techcrunch.com/2025/07/02/a-guide-to-using-edits-metas-new-capcut-rival-for-short-form-video-editing/)
 - [US chipmakers could see bigger tax credits if Trump’s spending bill passes](https://techcrunch.com/2025/07/02/us-chipmakers-could-see-bigger-tax-credits-if-trumps-spending-bill-passes/)
-- [Meta users say paying for Verified support has been useless in the face of mass bans](https://techcrunch.com/2025/07/02/meta-users-say-paying-for-verified-support-has-been-useless-in-the-face-of-mass-bans/)
-- [Exoplanets that cling too tightly to their stars trigger their own doom: &#39;This is a completely new phenomenon&#39;](https://www.space.com/astronomy/exoplanets/exoplanets-that-cling-too-tightly-to-their-stars-trigger-their-own-doom-this-is-a-completely-new-phenomenon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
