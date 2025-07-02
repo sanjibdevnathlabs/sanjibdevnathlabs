@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Northern lights may be visible in these 13 U.S. states tonight as the sun hurls solar storm toward Earth](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-13-u-s-states-tonight-as-the-sun-hurls-solar-storm-toward-earth)
 - [Astronomers capture incredible 1st image of a dead star that exploded twice. How did it happen?](https://www.space.com/astronomy/stars/astronomers-capture-incredible-1st-image-of-a-dead-star-that-exploded-twice-how-did-it-happen)
 - [Jon McNeill brings the operator’s playbook to TechCrunch All Stage](https://techcrunch.com/2025/07/01/jon-mcneill-brings-the-operators-playbook-to-techcrunch-all-stage/)
 - [Congress just greenlit a NASA moon plan opposed by Musk and Isaacman](https://techcrunch.com/2025/07/01/congress-just-greenlit-a-nasa-moon-plan-opposed-by-musk-and-isaacman/)
 - [ICEBlock, an app for anonymously reporting ICE sightings, goes viral overnight after Bondi criticism](https://techcrunch.com/2025/07/01/iceblock-an-app-for-anonymously-reporting-ice-sightings-goes-viral-overnight-after-bondi-criticism/)
-- [Figma moves closer to a blockbuster IPO that could raise $1.5B](https://techcrunch.com/2025/07/01/figma-moves-closer-to-a-blockbuster-ipo-that-could-raise-1-5b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
