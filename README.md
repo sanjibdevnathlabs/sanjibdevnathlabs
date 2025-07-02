@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India’s Max Financial says hacker accessed customer data from its insurance unit](https://techcrunch.com/2025/07/02/indias-max-financial-says-hacker-accessed-customer-data-from-its-insurance-unit/)
-- [Perplexity launches a $200 monthly subscription plan](https://techcrunch.com/2025/07/02/perplexity-launches-a-200-monthly-subscription-plan/)
-- [TikTok lays off more employees working on TikTok Shop US](https://techcrunch.com/2025/07/02/tiktok-lays-off-more-employees-working-on-tiktok-shop-us/)
-- [Terra CO2 cements $124M Series B to slash concrete’s carbon footprint](https://techcrunch.com/2025/07/02/terra-co2-cements-124m-series-b-to-slash-concretes-carbon-footprint/)
-- [ChatGPT referrals to news sites are growing, but not enough to offset search declines](https://techcrunch.com/2025/07/02/chatgpt-referrals-to-news-sites-are-growing-but-not-enough-to-offset-search-declines/)
+- [A newly forming ocean may split Africa apart, scientists say](https://www.space.com/astronomy/earth/a-newly-forming-ocean-may-split-africa-apart-scientists-say)
+- [David H. Rosmarin brings a founder-focused approach to anxiety at TechCrunch All Stage](https://techcrunch.com/2025/07/02/david-h-rosmarin-brings-a-founder-focused-approach-to-anxiety-at-techcrunch-all-stage/)
+- [Lovable on track to raise $150M at $2B valuation](https://techcrunch.com/2025/07/02/lovable-on-track-to-raise-150m-at-2b-valuation/)
+- [Amazon is shutting down its Freevee app in August](https://techcrunch.com/2025/07/02/amazon-is-shutting-down-its-freevee-app-in-august/)
+- [Tesla’s energy storage business gets sucked into the company’s downward spiral](https://techcrunch.com/2025/07/02/teslas-energy-storage-business-gets-sucked-into-the-companys-downward-spiral/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
