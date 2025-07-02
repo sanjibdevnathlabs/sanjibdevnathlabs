@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Substack brings new updates to livestreaming as it increases video push](https://techcrunch.com/2025/07/02/substack-brings-new-updates-to-livestreaming-as-it-increases-video-push/)
+- [Hubble Telescope finds stellar nursery in Taurus Molecular Cloud | Space photo of the day for July 2, 2025](https://www.space.com/astronomy/hubble-telescope-finds-stellar-nursery-in-taurus-molecular-cloud-space-photo-of-the-day-for-july-2-2025)
+- [Could Google’s Veo 3 be the start of playable world models?](https://techcrunch.com/2025/07/02/could-googles-veo-3-be-the-start-of-playable-world-models/)
 - [A newly forming ocean may split Africa apart, scientists say](https://www.space.com/astronomy/earth/a-newly-forming-ocean-may-split-africa-apart-scientists-say)
 - [David H. Rosmarin brings a founder-focused approach to anxiety at TechCrunch All Stage](https://techcrunch.com/2025/07/02/david-h-rosmarin-brings-a-founder-focused-approach-to-anxiety-at-techcrunch-all-stage/)
-- [Lovable on track to raise $150M at $2B valuation](https://techcrunch.com/2025/07/02/lovable-on-track-to-raise-150m-at-2b-valuation/)
-- [Amazon is shutting down its Freevee app in August](https://techcrunch.com/2025/07/02/amazon-is-shutting-down-its-freevee-app-in-august/)
-- [Tesla’s energy storage business gets sucked into the company’s downward spiral](https://techcrunch.com/2025/07/02/teslas-energy-storage-business-gets-sucked-into-the-companys-downward-spiral/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
