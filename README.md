@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exoplanets that cling too tightly to their stars trigger their own doom: &#39;This is a completely new phenomenon&#39;](https://www.space.com/astronomy/exoplanets/exoplanets-that-cling-too-tightly-to-their-stars-trigger-their-own-doom-this-is-a-completely-new-phenomenon)
 - [Data breach reveals Catwatchful ‘stalkerware’ is spying on thousands of phones](https://techcrunch.com/2025/07/02/data-breach-reveals-catwatchful-stalkerware-spying-on-thousands-android-phones/)
 - [Hacked, leaked, exposed: Why you should never use stalkerware apps](https://techcrunch.com/2025/07/02/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/)
 - [Former astronaut Terry Virts talks about his Senate run, Trump and the NASA budget in exclusive Space.com interview &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/former-astronaut-terry-virts-talks-about-his-senate-run-trump-and-the-nasa-budget-in-exclusive-space-com-interview-video)
 - [Microsoft will lay off 9,000 employees, or less than 4% of the company](https://techcrunch.com/2025/07/02/microsoft-will-lay-off-9000-employees-or-less-than-4-of-the-company/)
-- [Tesla faces second straight year of falling sales after another bad quarter](https://techcrunch.com/2025/07/02/tesla-faces-second-straight-year-of-falling-sales-after-another-bad-quarter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
