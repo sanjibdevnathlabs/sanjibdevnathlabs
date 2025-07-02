@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Data breach reveals Catwatchful ‘stalkerware’ is spying on thousands of phones](https://techcrunch.com/2025/07/02/data-breach-reveals-catwatchful-stalkerware-spying-on-thousands-android-phones/)
+- [Hacked, leaked, exposed: Why you should never use stalkerware apps](https://techcrunch.com/2025/07/02/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/)
+- [Former astronaut Terry Virts talks about his Senate run, Trump and the NASA budget in exclusive Space.com interview &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/former-astronaut-terry-virts-talks-about-his-senate-run-trump-and-the-nasa-budget-in-exclusive-space-com-interview-video)
+- [Microsoft will lay off 9,000 employees, or less than 4% of the company](https://techcrunch.com/2025/07/02/microsoft-will-lay-off-9000-employees-or-less-than-4-of-the-company/)
 - [Tesla faces second straight year of falling sales after another bad quarter](https://techcrunch.com/2025/07/02/tesla-faces-second-straight-year-of-falling-sales-after-another-bad-quarter/)
-- [Rivian receives the next $1B from Volkswagen as sales struggles continue](https://techcrunch.com/2025/07/02/rivian-receives-the-next-1b-from-volkswagen-as-sales-struggles-continue/)
-- [Dust devils on Mars may spark lightning — possibly threatening NASA&#39;s Perseverance rover](https://www.space.com/astronomy/mars/dust-devils-on-mars-may-spark-lightning-possibly-threatening-nasas-perseverance-rover)
-- [Foxconn tells hundreds of Chinese staff to return from its Indian iPhone factories](https://techcrunch.com/2025/07/02/foxconn-tells-hundreds-of-chinese-staff-to-return-from-its-indian-iphone-factories/)
-- [SpaceX rocket sets reuse record on 500th Falcon 9 launch](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-25-b1067-ccsfs-asog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
