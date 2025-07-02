@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX rocket sets reuse record on 500th Falcon 9 launch](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-25-b1067-ccsfs-asog)
+- [Qantas hack results in theft of 6 million passengers’ personal data](https://techcrunch.com/2025/07/02/qantas-hack-results-in-theft-of-6-million-passengers-personal-data/)
 - [Northern lights may be visible in these 13 US states tonight as the sun hurls solar storm toward Earth](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-13-u-s-states-tonight-as-the-sun-hurls-solar-storm-toward-earth)
 - [Astronomers capture incredible 1st image of a dead star that exploded twice. How did it happen?](https://www.space.com/astronomy/stars/astronomers-capture-incredible-1st-image-of-a-dead-star-that-exploded-twice-how-did-it-happen)
 - [Jon McNeill brings the operator’s playbook to TechCrunch All Stage](https://techcrunch.com/2025/07/01/jon-mcneill-brings-the-operators-playbook-to-techcrunch-all-stage/)
-- [Congress just greenlit a NASA moon plan opposed by Musk and Isaacman](https://techcrunch.com/2025/07/01/congress-just-greenlit-a-nasa-moon-plan-opposed-by-musk-and-isaacman/)
-- [ICEBlock, an app for anonymously reporting ICE sightings, goes viral overnight after Bondi criticism](https://techcrunch.com/2025/07/01/iceblock-an-app-for-anonymously-reporting-ice-sightings-goes-viral-overnight-after-bondi-criticism/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
