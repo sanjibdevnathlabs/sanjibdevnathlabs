@@ -134,7 +134,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Stop putting AI in EVERYTHING!!](https://www.youtube.com/watch?v=kxYh9RwLUFw)
+- [I&#39;m done with the AI hype](https://www.youtube.com/watch?v=kxYh9RwLUFw)
 - [Google’s new CLI tool hits different…](https://www.youtube.com/watch?v=qqP1ucSiVkE)
 - [Reinforcement Learning - Computerphile](https://www.youtube.com/watch?v=844U9T_SOrA)
 - [got AI anxiety? Do this RIGHT NOW!](https://www.youtube.com/watch?v=3BXE0e3QZ4U)
