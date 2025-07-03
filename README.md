@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stripe’s first employee, the founder of fintech Increase, sort of bought a bank](https://techcrunch.com/2025/07/03/stripes-first-employee-the-founder-of-fintech-increase-sort-of-bought-a-bank/)
+- [Final GOP bill kneecaps renewables and hydrogen, but lifts nuclear and geothermal](https://techcrunch.com/2025/07/03/final-gop-bill-kneecaps-renewables-and-hydrogen-but-lifts-nuclear-and-geothermal/)
+- [Not everyone is thrilled with Threads’ DMs](https://techcrunch.com/2025/07/03/not-everyone-is-thrilled-with-threads-dms/)
+- [James Gunn&#39;s sci-fi movies ranked, worst to best](https://www.space.com/entertainment/space-movies-shows/james-gunns-sci-fi-movies-ranked-worst-to-best)
 - [Best Fujifilm lenses in 2025: Level up your Fujifilm camera this Amazon Prime Day](https://www.space.com/stargazing/skywatching-kit/best-fujifilm-camera-lenses)
-- [Ilya Sutskever will lead Safe Superintelligence following his CEO’s exit](https://techcrunch.com/2025/07/03/ilya-sutskever-will-lead-safe-superintelligence-following-his-ceos-exit/)
-- [Kristen Craft brings fresh fundraising strategy to the Foundation Stage at TechCrunch All Stage](https://techcrunch.com/2025/07/03/kristen-craft-brings-fresh-fundraising-strategy-to-the-foundation-stage-at-techcrunch-all-stage/)
-- [See the bright star Spica close to the waxing gibbous moon on July 3](https://www.space.com/stargazing/see-the-bright-star-spica-close-to-the-waxing-gibbous-moon-on-july-3)
-- [Y Combinator alum launched a new $34M fund dedicated to YC startups, backed by Garry Tan](https://techcrunch.com/2025/07/03/y-combinator-alum-launched-a-new-34m-fund-dedicated-to-yc-startups-backed-by-garry-tan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
