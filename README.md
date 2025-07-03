@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Writer CEO May Habib to take the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/writer-ceo-may-habib-to-take-the-ai-stage-at-techcrunch-disrupt-2025/)
-- [Rare breed of exploding star discovered by citizen scientists in cataclysmic find](https://www.space.com/astronomy/rare-breed-of-exploding-star-discovered-by-citizen-scientists-in-cataclysmic-find)
-- [Everything you need to know about Flashes, the Bluesky-based Instagram alternative](https://techcrunch.com/2025/07/03/everything-you-need-to-know-about-flashes-the-bluesky-based-instagram-alternative/)
-- [Early Amazon Prime Day big saving on the Celestron NexStar 8SE — the cheapest price it&#39;s been since January](https://www.space.com/stargazing/skywatching-kit/early-amazon-prime-day-big-saving-on-the-celestron-nexstar-8se-the-cheapest-price-its-been-since-january)
-- [See Vega-C rocket&#39;s 3rd stage hoisted for upcoming launch | Space photo of the day for July 3, 2025](https://www.space.com/space-exploration/launches-spacecraft/see-vega-c-rockets-3rd-stage-hoisted-for-upcoming-launch-space-photo-of-the-day-for-july-3-2025)
+- [Castelion raises $350M Series B to scale hypersonic missile business](https://techcrunch.com/2025/07/03/castelion-raises-350m-series-b-to-scale-hypersonic-missile-business/)
+- [How to see China&#39;s Tiangong space station and the ISS in the predawn sky this week](https://www.space.com/stargazing/how-to-see-chinas-tiangong-space-station-and-the-iss-in-the-predawn-sky-this-week)
+- [xAI gets permits for 15 natural gas generators at Memphis data center](https://techcrunch.com/2025/07/03/xai-gets-permits-for-15-natural-gas-generators-at-memphis-data-center/)
+- [Ransomware gang Hunters International says it’s shutting down](https://techcrunch.com/2025/07/03/ransomware-gang-hunters-international-says-its-shutting-down/)
+- [&#39;An exceedingly rare event&#39;: See a pair of nova explosions shining in the southern sky this week.](https://www.space.com/stargazing/an-exceedingly-rare-event-see-a-pair-of-nova-explosions-shining-in-the-southern-sky-this-week)
 <!-- BLOG-POST-LIST:END -->
 
 ---
