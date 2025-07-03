@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Russia&#39;s Progress 92 cargo ship launch toward the ISS today](https://www.space.com/space-exploration/launches-spacecraft/russian-cargo-ship-progress-92-launch-iss)
+- [The best Fourth of July and early Amazon Prime Day space tech deals on the market](https://www.space.com/technology/the-best-fourth-of-july-and-early-amazon-prime-space-tech-deals-on-the-market)
 - [Google rolls out its new Veo 3 video generation model globally](https://techcrunch.com/2025/07/03/google-rolls-out-its-new-veo-3-video-generation-model-globally/)
 - [New interstellar comet 3I/ATLAS is hurtling through the solar system — and you can watch it live online today](https://www.space.com/astronomy/comets/new-interstellar-comet-3i-atlas-is-hurtling-through-the-solar-system-and-you-can-watch-it-live-online-today)
 - [Earth is farthest from the sun today. So why is it so hot?](https://www.space.com/astronomy/earth/earth-is-farthest-from-the-sun-today-so-why-is-it-so-hot)
-- [AI job predictions become corporate America’s newest competitive sport](https://techcrunch.com/2025/07/02/ai-job-predictions-become-corporate-americas-newest-competitive-sport/)
-- [French B2B neobank Qonto reaches 600,000 customers, files for banking license](https://techcrunch.com/2025/07/02/french-b2b-neobank-qonto-reaches-600000-customers-files-for-banking-license/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
