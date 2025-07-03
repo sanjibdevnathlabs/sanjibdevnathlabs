@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Fujifilm cameras 2025: Save big on these models this Amazon Prime Day.](https://www.space.com/stargazing/best-fujifilm-cameras)
-- [Trump admin unlawfully killed health websites related to gender, court rules](https://techcrunch.com/2025/07/03/trump-admin-unlawfully-killed-health-websites-related-to-gender-court-rules/)
-- [Meta has found another way to keep you engaged: Chatbots that message you first](https://techcrunch.com/2025/07/03/meta-has-found-another-way-to-keep-you-engaged-chatbots-that-message-you-first/)
-- [Private lunar landing: How Blue Ghost measured the moon&#39;s electric and magnetic fields](https://www.space.com/astronomy/moon/private-lunar-landing-how-blue-ghost-measured-the-moons-electric-and-magnetic-fields)
-- [Pinwheel introduces a smartwatch for kids that includes an AI chatbot](https://techcrunch.com/2025/07/03/pinwheel-introduces-a-smartwatch-for-kids-that-includes-an-ai-chatbot/)
+- [Best Fujifilm lenses in 2025: Level up your Fujifilm camera this Amazon Prime Day](https://www.space.com/stargazing/skywatching-kit/best-fujifilm-camera-lenses)
+- [Ilya Sutskever will lead Safe Superintelligence following his CEO’s exit](https://techcrunch.com/2025/07/03/ilya-sutskever-will-lead-safe-superintelligence-following-his-ceos-exit/)
+- [Kristen Craft brings fresh fundraising strategy to the Foundation Stage at TechCrunch All Stage](https://techcrunch.com/2025/07/03/kristen-craft-brings-fresh-fundraising-strategy-to-the-foundation-stage-at-techcrunch-all-stage/)
+- [See the bright star Spica close to the waxing gibbous moon on July 3](https://www.space.com/stargazing/see-the-bright-star-spica-close-to-the-waxing-gibbous-moon-on-july-3)
+- [Y Combinator alum launched a new $34M fund dedicated to YC startups, backed by Garry Tan](https://techcrunch.com/2025/07/03/y-combinator-alum-launched-a-new-34m-fund-dedicated-to-yc-startups-backed-by-garry-tan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
