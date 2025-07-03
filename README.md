@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google rolls out its new Veo 3 video generation model globally](https://techcrunch.com/2025/07/03/google-rolls-out-its-new-veo-3-video-generation-model-globally/)
+- [New interstellar comet 3I/ATLAS is hurtling through the solar system — and you can watch it live online today](https://www.space.com/astronomy/comets/new-interstellar-comet-3i-atlas-is-hurtling-through-the-solar-system-and-you-can-watch-it-live-online-today)
 - [Earth is farthest from the sun today. So why is it so hot?](https://www.space.com/astronomy/earth/earth-is-farthest-from-the-sun-today-so-why-is-it-so-hot)
 - [AI job predictions become corporate America’s newest competitive sport](https://techcrunch.com/2025/07/02/ai-job-predictions-become-corporate-americas-newest-competitive-sport/)
 - [French B2B neobank Qonto reaches 600,000 customers, files for banking license](https://techcrunch.com/2025/07/02/french-b2b-neobank-qonto-reaches-600000-customers-files-for-banking-license/)
-- [OpenAI condemns Robinhood’s ‘OpenAI tokens’](https://techcrunch.com/2025/07/02/openai-condemns-robinhoods-openai-tokens/)
-- [Wonder Dynamics co-founder Nikola Todorovic joins the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/02/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
