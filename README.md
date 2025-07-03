@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI job predictions become corporate America’s newest competitive sport](https://techcrunch.com/2025/07/02/ai-job-predictions-become-corporate-americas-newest-competitive-sport/)
 - [French B2B neobank Qonto reaches 600,000 customers, files for banking license](https://techcrunch.com/2025/07/02/french-b2b-neobank-qonto-reaches-600000-customers-files-for-banking-license/)
 - [OpenAI condemns Robinhood’s ‘OpenAI tokens’](https://techcrunch.com/2025/07/02/openai-condemns-robinhoods-openai-tokens/)
 - [Wonder Dynamics co-founder Nikola Todorovic joins the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/02/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/)
 - [See Mercury at greatest elongation, its farthest from the sun in the evening sky this week](https://www.space.com/stargazing/see-mercury-at-greatest-elongation-its-farthest-from-the-sun-in-the-evening-sky-this-week)
-- [Lucid sales inch forward as EV maker pushes to ramp Gravity production](https://techcrunch.com/2025/07/02/lucid-sales-inch-forward-as-ev-maker-pushes-to-ramp-gravity-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
