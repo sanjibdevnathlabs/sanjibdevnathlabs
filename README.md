@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Castelion raises $350M Series B to scale hypersonic missile business](https://techcrunch.com/2025/07/03/castelion-raises-350m-series-b-to-scale-hypersonic-missile-business/)
+- [Private lunar landing: How Blue Ghost measured the moon&#39;s electric and magnetic fields](https://www.space.com/astronomy/moon/private-lunar-landing-how-blue-ghost-measured-the-moons-electric-and-magnetic-fields)
+- [Pinwheel introduces a smartwatch for kids that includes an AI chatbot](https://techcrunch.com/2025/07/03/pinwheel-introduces-a-smartwatch-for-kids-that-includes-an-ai-chatbot/)
+- [Castelion is raising a $350M Series B to scale hypersonic missile business](https://techcrunch.com/2025/07/03/castelion-raises-350m-series-b-to-scale-hypersonic-missile-business/)
 - [How to see China&#39;s Tiangong space station and the ISS in the predawn sky this week](https://www.space.com/stargazing/how-to-see-chinas-tiangong-space-station-and-the-iss-in-the-predawn-sky-this-week)
 - [xAI gets permits for 15 natural gas generators at Memphis data center](https://techcrunch.com/2025/07/03/xai-gets-permits-for-15-natural-gas-generators-at-memphis-data-center/)
-- [Ransomware gang Hunters International says it’s shutting down](https://techcrunch.com/2025/07/03/ransomware-gang-hunters-international-says-its-shutting-down/)
-- [&#39;An exceedingly rare event&#39;: See a pair of nova explosions shining in the southern sky this week.](https://www.space.com/stargazing/an-exceedingly-rare-event-see-a-pair-of-nova-explosions-shining-in-the-southern-sky-this-week)
 <!-- BLOG-POST-LIST:END -->
 
 ---
