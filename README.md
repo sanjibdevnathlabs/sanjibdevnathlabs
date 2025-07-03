@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Writer CEO May Habib to take the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/writer-ceo-may-habib-to-take-the-ai-stage-at-techcrunch-disrupt-2025/)
+- [Rare breed of exploding star discovered by citizen scientists in cataclysmic find](https://www.space.com/astronomy/rare-breed-of-exploding-star-discovered-by-citizen-scientists-in-cataclysmic-find)
+- [Everything you need to know about Flashes, the Bluesky-based Instagram alternative](https://techcrunch.com/2025/07/03/everything-you-need-to-know-about-flashes-the-bluesky-based-instagram-alternative/)
+- [Early Amazon Prime Day big saving on the Celestron NexStar 8SE — the cheapest price it&#39;s been since January](https://www.space.com/stargazing/skywatching-kit/early-amazon-prime-day-big-saving-on-the-celestron-nexstar-8se-the-cheapest-price-its-been-since-january)
 - [See Vega-C rocket&#39;s 3rd stage hoisted for upcoming launch | Space photo of the day for July 3, 2025](https://www.space.com/space-exploration/launches-spacecraft/see-vega-c-rockets-3rd-stage-hoisted-for-upcoming-launch-space-photo-of-the-day-for-july-3-2025)
-- [Israeli quantum startup Qedma just raised $26 million, with IBM joining in](https://techcrunch.com/2025/07/03/israeli-quantum-startup-qedma-just-raised-26-million-with-ibm-joining-in/)
-- [Watch Russia&#39;s Progress 92 cargo ship launch toward the ISS today](https://www.space.com/space-exploration/launches-spacecraft/russian-cargo-ship-progress-92-launch-iss)
-- [The best Fourth of July and early Amazon Prime Day space tech deals on the market](https://www.space.com/technology/the-best-fourth-of-july-and-early-amazon-prime-space-tech-deals-on-the-market)
-- [Google rolls out its new Veo 3 video generation model globally](https://techcrunch.com/2025/07/03/google-rolls-out-its-new-veo-3-video-generation-model-globally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
