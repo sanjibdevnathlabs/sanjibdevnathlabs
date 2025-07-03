@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch All Stage brings back early launch prices for a limited time](https://techcrunch.com/2025/07/03/rollback-rates-techcrunch-all-stage-brings-back-early-launch-prices-for-a-limited-time/)
+- [Wonder Dynamics co-founder Nikola Todorovic joins the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/)
 - [Stripe’s first employee, the founder of fintech Increase, sort of bought a bank](https://techcrunch.com/2025/07/03/stripes-first-employee-the-founder-of-fintech-increase-sort-of-bought-a-bank/)
-- [Final GOP bill kneecaps renewables and hydrogen, but lifts nuclear and geothermal](https://techcrunch.com/2025/07/03/final-gop-bill-kneecaps-renewables-and-hydrogen-but-lifts-nuclear-and-geothermal/)
+- [Final GOP bill kneecaps renewables and hydrogen but lifts nuclear and geothermal](https://techcrunch.com/2025/07/03/final-gop-bill-kneecaps-renewables-and-hydrogen-but-lifts-nuclear-and-geothermal/)
 - [Not everyone is thrilled with Threads’ DMs](https://techcrunch.com/2025/07/03/not-everyone-is-thrilled-with-threads-dms/)
-- [James Gunn&#39;s sci-fi movies ranked, worst to best](https://www.space.com/entertainment/space-movies-shows/james-gunns-sci-fi-movies-ranked-worst-to-best)
-- [Best Fujifilm lenses in 2025: Level up your Fujifilm camera this Amazon Prime Day](https://www.space.com/stargazing/skywatching-kit/best-fujifilm-camera-lenses)
 <!-- BLOG-POST-LIST:END -->
 
 ---
