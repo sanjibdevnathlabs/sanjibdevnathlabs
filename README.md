@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump&#39;s signing of &#39;One Big Beautiful Bill&#39; includes $85 million to move space shuttle Discovery from Smithsonian to Texas](https://www.space.com/space-exploration/space-shuttle/trumps-signing-of-one-big-beautiful-bill-includes-usd85-million-to-move-space-shuttle-discovery-from-smithsonian-to-texas)
 - [Microsoft is closing its local operations in Pakistan](https://techcrunch.com/2025/07/04/microsoft-is-closing-its-local-operations-in-pakistan/)
 - [10 fun tours and adventures for the ultimate total solar eclipse 2026 experience](https://www.space.com/stargazing/solar-eclipses/10-fun-tours-and-adventures-for-the-ultimate-total-solar-eclipse-2026-experience)
 - [TechCrunch Mobility: The state of EV sales and Rivian secures the next $1B from VW](https://techcrunch.com/2025/07/04/techcrunch-mobility-the-state-of-ev-sales-and-rivian-secures-the-next-1b-from-vw/)
 - [Don&#39;t miss the Pleiades shine with Venus in the predawn sky on July 5](https://www.space.com/stargazing/dont-miss-the-pleiades-shine-with-venus-in-the-predawn-sky-on-july-5)
-- [Get Paramount Plus for just 99 cents a month and stream season three of Star Trek: Strange New Worlds](https://www.space.com/entertainment/get-paramount-plus-for-just-99-cents-a-month-and-stream-season-three-of-star-trek-strange-new-worlds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
