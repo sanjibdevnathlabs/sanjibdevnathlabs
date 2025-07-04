@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Could signs of Mars life be hidden in its thick layers of clay?](https://www.space.com/astronomy/mars/could-signs-of-mars-life-be-hidden-in-its-thick-layers-of-clay)
 - [Biting the &#39;Bullet&#39;: Amazing new JWST photo shows titanic collision of galaxy clusters](https://www.space.com/astronomy/james-webb-space-telescope/biting-the-bullet-amazing-new-jwst-photo-shows-titanic-collision-of-galaxy-clusters)
 - [Satellite spies both ISS and China&#39;s Tiangong space station | Space photo of the day for July 4, 2025](https://www.space.com/space-exploration/launches-spacecraft/satellite-spies-both-iss-and-chinas-tiangong-space-station-space-photo-of-the-day-for-july-4-2025)
 - [Best Canon lenses in 2025: Get the best lens for your Canon camera this Amazon Prime Day](https://www.space.com/stargazing/skywatching-kit/best-canon-lenses)
 - [EU says it will continue rolling out AI legislation on schedule](https://techcrunch.com/2025/07/04/eu-says-it-will-continue-rolling-out-ai-legislation-on-schedule/)
-- [Best Canon cameras 2025: Upgrade your photography with these models on Amazon Prime Day.](https://www.space.com/stargazing/best-canon-cameras)
 <!-- BLOG-POST-LIST:END -->
 
 ---
