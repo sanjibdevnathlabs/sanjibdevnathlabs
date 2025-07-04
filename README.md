@@ -146,7 +146,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Slate Auto drops “under $20,000” pricing after Trump administration ends federal EV tax credit](https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/)
+- [Slate Auto drops ‘under $20,000’ pricing after Trump administration ends federal EV tax credit](https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/)
 - [Everyone in tech has an opinion about Soham Parekh](https://techcrunch.com/2025/07/03/everyone-in-tech-has-an-opinion-about-soham-parekh/)
 - [Cluely’s ARR doubled in a week to $7M, founder Roy Lee says. But rivals are coming.](https://techcrunch.com/2025/07/03/cluelys-arr-doubled-in-a-week-to-7m-founder-roy-lee-says-but-rivals-are-coming/)
 - [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/)
