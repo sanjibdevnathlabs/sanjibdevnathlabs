@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EU says it will continue rolling out AI legislation on schedule](https://techcrunch.com/2025/07/04/eu-says-it-will-continue-rolling-out-ai-legislation-on-schedule/)
+- [Best Canon cameras 2025: Upgrade your photography with these models on Amazon Prime Day.](https://www.space.com/stargazing/best-canon-cameras)
+- [Seeing &#39;fireworks&#39; on Earth from space | On the ISS this week June 26 - July 4, 2025](https://www.space.com/space-exploration/international-space-station/seeing-fireworks-on-earth-from-space-on-the-iss-this-week-june-26-july-4-2025)
 - [&#39;We are proud to serve our country, both on Earth and in space&#39;: NASA astronauts beam home July 4 message from ISS &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/we-are-proud-to-serve-our-country-both-on-earth-and-in-space-nasa-astronauts-beam-home-july-4-message-from-iss-video)
 - [Save 20% on this early Amazon Prime Day two-in-one Estes model rocket set](https://www.space.com/technology/save-20-percent-on-this-early-amazon-prime-day-two-in-one-estes-model-rocket-set)
-- [Best Star Wars costumes for kids and adults in 2025](https://www.space.com/entertainment/best-star-wars-costumes-for-kids-and-adults)
-- [Slate Auto drops ‘under $20,000’ pricing after Trump administration ends federal EV tax credit](https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/)
-- [Everyone in tech has an opinion about Soham Parekh](https://techcrunch.com/2025/07/03/everyone-in-tech-has-an-opinion-about-soham-parekh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
