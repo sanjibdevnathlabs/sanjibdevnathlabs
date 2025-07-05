@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google faces EU antitrust complaint over AI Overviews](https://techcrunch.com/2025/07/05/google-faces-eu-antitrust-complaint-over-ai-overviews/)
 - [&#39;Humanity’s time is over!’ Apple TV+ drops release date and intense first teaser for &#39;Invasion&#39; Season 3](https://www.space.com/entertainment/space-movies-shows/humanitys-time-is-over-apple-tv-drops-release-date-and-intense-first-teaser-for-invasion-season-3)
 - [For 100 years, we have marveled at planetariums. Here&#39;s a brief history of how humans brought the stars indoors](https://www.space.com/astronomy/earth/for-100-years-we-have-marveled-at-planetariums-heres-a-brief-history-of-how-humans-brought-the-stars-indoors)
 - [Devour a cosmic-sized chunk of Marvel lore ahead of &#39;The Fantastic Four: First Steps&#39;, with the &#39;The Coming of Galactus&#39; novel](https://www.space.com/entertainment/space-books/devour-a-cosmic-sized-chunk-of-marvel-lore-ahead-of-the-fantastic-four-first-steps-with-the-the-coming-of-galactus-novel)
 - [Rare snowfall in Atacama Desert forces the world&#39;s most powerful radio telescope into &#39;survival mode&#39;](https://www.space.com/astronomy/rare-snowfall-in-atacama-desert-forces-the-worlds-most-powerful-radio-telescope-into-survival-mode)
-- [A &#39;Golden Handle&#39; will appear on the moon tonight. Here&#39;s how to see it](https://www.space.com/stargazing/a-golden-handle-will-appear-on-the-moon-tonight-heres-how-to-see-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
