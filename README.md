@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Drive Capital’s second act –  how the Columbus venture firm found success after a split](https://techcrunch.com/2025/07/05/drive-capitals-second-act-how-the-columbus-venture-firm-found-success-after-a-split/)
 - [Ask not for whom the Louvre of Bluesky tolls, it tolls for thee](https://techcrunch.com/2025/07/05/ask-not-for-whom-the-louvre-of-bluesky-tolls-it-tolls-for-thee/)
 - [Google faces EU antitrust complaint over AI Overviews](https://techcrunch.com/2025/07/05/google-faces-eu-antitrust-complaint-over-ai-overviews/)
 - [&#39;Humanity’s time is over!’ Apple TV+ drops release date and intense first teaser for &#39;Invasion&#39; Season 3](https://www.space.com/entertainment/space-movies-shows/humanitys-time-is-over-apple-tv-drops-release-date-and-intense-first-teaser-for-invasion-season-3)
 - [For 100 years, we have marveled at planetariums. Here&#39;s a brief history of how humans brought the stars indoors](https://www.space.com/astronomy/earth/for-100-years-we-have-marveled-at-planetariums-heres-a-brief-history-of-how-humans-brought-the-stars-indoors)
-- [Devour a cosmic-sized chunk of Marvel lore ahead of &#39;The Fantastic Four: First Steps&#39;, with the &#39;The Coming of Galactus&#39; novel](https://www.space.com/entertainment/space-books/devour-a-cosmic-sized-chunk-of-marvel-lore-ahead-of-the-fantastic-four-first-steps-with-the-the-coming-of-galactus-novel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
