@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [At least 36 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/07/06/7-new-tech-unicorns-were-minted-in-2025-so-far/)
+- [X blocks Reuters accounts in India](https://techcrunch.com/2025/07/06/x-blocks-reuters-accounts-in-india/)
 - [Researchers seek to influence peer review with hidden AI prompts](https://techcrunch.com/2025/07/06/researchers-seek-to-influence-peer-review-with-hidden-ai-prompts/)
 - [How Brex is keeping up with AI by embracing the ‘messiness’](https://techcrunch.com/2025/07/06/how-brex-is-keeping-up-with-ai-by-embracing-the-messiness/)
 - [Space auction: Sally Ride memorabilia collection sells for $145,000](https://www.space.com/space-exploration/human-spaceflight/space-auction-sally-ride-memorabilia-collection-sells-for-usd145-000)
-- [Why does Mars look purple, yellow and orange in ESA&#39;s stunning new satellite image?](https://www.space.com/astronomy/mars/why-does-mars-look-purple-yellow-and-orange-in-esas-stunning-new-satellite-image)
-- [US military cuts climate scientists off from vital satellite sea-ice data](https://www.space.com/astronomy/earth/us-military-cuts-climate-scientists-off-from-vital-satellite-sea-ice-data)
 <!-- BLOG-POST-LIST:END -->
 
 ---
