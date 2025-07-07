@@ -146,7 +146,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Air Force cancels plans to build Starship landing pads on island bird sanctuary](https://www.space.com/space-exploration/launches-spacecraft/u-s-air-force-cancels-plans-to-build-starship-landing-pads-on-island-bird-sanctuary)
+- [US Air Force cancels plans to build Starship landing pads on island bird sanctuary](https://www.space.com/space-exploration/launches-spacecraft/u-s-air-force-cancels-plans-to-build-starship-landing-pads-on-island-bird-sanctuary)
 - [Best Amazon Prime Day star projector deals 2025](https://www.space.com/technology/best-amazon-prime-day-star-projector-deals-2025)
 - [Fortnite maker Epic Games settles antitrust case against Samsung](https://techcrunch.com/2025/07/07/fortnite-maker-epic-games-settles-antitrust-case-against-samsung/)
 - [Dark matter could turn &#39;failed stars&#39; to the dark side, creating &#39;dark dwarfs&#39;](https://www.space.com/astronomy/dark-matter-could-turn-failed-stars-to-the-dark-side-creating-dark-dwarfs)
