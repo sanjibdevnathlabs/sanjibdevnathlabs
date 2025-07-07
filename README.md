@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jack Dorsey working on Bluetooth messaging app, Bitchat](https://techcrunch.com/2025/07/07/jack-dorsey-working-on-bluetooth-messaging-app-bitchat/)
 - [Tennis players criticize AI technology used by Wimbledon](https://techcrunch.com/2025/07/07/tennis-players-criticize-ai-technology-used-by-wimbledon/)
 - [How long would it take Superman to travel from Krypton to Earth?](https://www.space.com/entertainment/how-long-would-it-take-superman-to-travel-from-krypton-to-earth)
 - [CoreWeave acquires data center provider Core Scientific in $9B stock deal](https://techcrunch.com/2025/07/07/coreweave-acquires-data-center-provider-core-scientific-in-9b-stock-deal/)
 - [Don&#39;t wait for Amazon Prime Day for streaming deals, Paramount Plus with Showtime is 93% cheaper if you go straight to Paramount](https://www.space.com/entertainment/dont-wait-for-amazon-prime-day-for-streaming-deals-paramount-plus-with-showtime-is-93-percent-cheaper-)
-- [Waymo starts robotaxi testing in Philadelphia and NYC](https://techcrunch.com/2025/07/07/waymo-starts-robotaxi-testing-in-philadelphia-and-nyc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
