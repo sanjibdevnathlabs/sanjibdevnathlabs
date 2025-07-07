@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Air Force cancels plans to build Starship landing pads on island bird sanctuary](https://www.space.com/space-exploration/launches-spacecraft/u-s-air-force-cancels-plans-to-build-starship-landing-pads-on-island-bird-sanctuary)
+- [Best Amazon Prime Day star projector deals 2025](https://www.space.com/technology/best-amazon-prime-day-star-projector-deals-2025)
+- [Fortnite maker Epic Games settles antitrust case against Samsung](https://techcrunch.com/2025/07/07/fortnite-maker-epic-games-settles-antitrust-case-against-samsung/)
 - [Dark matter could turn &#39;failed stars&#39; to the dark side, creating &#39;dark dwarfs&#39;](https://www.space.com/astronomy/dark-matter-could-turn-failed-stars-to-the-dark-side-creating-dark-dwarfs)
 - [ChatGPT is testing a mysterious new feature called ‘study together’](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)
-- [Bluesky users can customize their notifications, including activity alerts from their favorite accounts](https://techcrunch.com/2025/07/07/bluesky-users-can-customize-their-notifications-including-activity-alerts-from-their-favorite-accounts/)
-- [iOS 26 beta 3 dials back Liquid Glass](https://techcrunch.com/2025/07/07/ios-26-beta-3-dials-back-liquid-glass/)
-- [Jack Dorsey working on Bluetooth messaging app, Bitchat](https://techcrunch.com/2025/07/07/jack-dorsey-working-on-bluetooth-messaging-app-bitchat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
