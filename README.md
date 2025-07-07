@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [30 years ago, &#39;Species&#39; showed where the Venn diagram of exploitation, B-movie nonsense, and serious sci-fi drama meets](https://www.space.com/entertainment/space-movies-shows/30-years-ago-species-showed-where-the-venn-diagram-of-exploitation-b-movie-nonsense-and-serious-sci-fi-drama-meets)
+- [&#39;Time machine&#39; reveals hidden structures in the universe&#39;s first galaxies &lpar;images&rpar;](https://www.space.com/astronomy/time-machine-reveals-hidden-structures-in-the-universes-first-galaxies-images)
 - [NASA teaches Mars orbiter to roll over in quest to find Red Planet water](https://www.space.com/astronomy/mars/nasa-teaches-mars-orbiter-to-roll-over-in-quest-to-find-red-planet-water)
 - [Threads is nearing X’s daily app users, new data shows](https://techcrunch.com/2025/07/07/threads-is-nearing-xs-daily-app-users-new-data-shows/)
 - [AI is forcing the data industry to consolidate — but that’s not the whole story](https://techcrunch.com/2025/07/07/ai-is-forcing-the-data-industry-to-consolidate-but-thats-not-the-whole-story/)
-- [One of our favorite Canon cameras is the cheapest at Walmart today. Not only that, it&#39;s the lowest price we&#39;ve seen!](https://www.space.com/stargazing/skywatching-kit/one-of-our-favorite-canon-cameras-is-the-cheapest-at-walmart-today-not-only-that-its-the-lowest-price-weve-seen)
-- [Don&#39;t fall for this Prime Day pricing trick — Take our advice to get the biggest savings](https://www.space.com/technology/dont-fall-for-this-prime-day-pricing-trick-take-our-advice-to-get-the-biggest-savings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
