@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [30 years ago, &#39;Species&#39; showed where the Venn diagram of exploitation, B-movie nonsense, and serious sci-fi drama meets](https://www.space.com/entertainment/space-movies-shows/30-years-ago-species-showed-where-the-venn-diagram-of-exploitation-b-movie-nonsense-and-serious-sci-fi-drama-meets)
-- [&#39;Time machine&#39; reveals hidden structures in the universe&#39;s first galaxies &lpar;images&rpar;](https://www.space.com/astronomy/time-machine-reveals-hidden-structures-in-the-universes-first-galaxies-images)
-- [NASA teaches Mars orbiter to roll over in quest to find Red Planet water](https://www.space.com/astronomy/mars/nasa-teaches-mars-orbiter-to-roll-over-in-quest-to-find-red-planet-water)
-- [Threads is nearing X’s daily app users, new data shows](https://techcrunch.com/2025/07/07/threads-is-nearing-xs-daily-app-users-new-data-shows/)
-- [AI is forcing the data industry to consolidate — but that’s not the whole story](https://techcrunch.com/2025/07/07/ai-is-forcing-the-data-industry-to-consolidate-but-thats-not-the-whole-story/)
+- [Tennis players criticize AI technology used by Wimbledon](https://techcrunch.com/2025/07/07/tennis-players-criticize-ai-technology-used-by-wimbledon/)
+- [How long would it take Superman to travel from Krypton to Earth?](https://www.space.com/entertainment/how-long-would-it-take-superman-to-travel-from-krypton-to-earth)
+- [CoreWeave acquires data center provider Core Scientific in $9B stock deal](https://techcrunch.com/2025/07/07/coreweave-acquires-data-center-provider-core-scientific-in-9b-stock-deal/)
+- [Don&#39;t wait for Amazon Prime Day for streaming deals, Paramount Plus with Showtime is 93% cheaper if you go straight to Paramount](https://www.space.com/entertainment/dont-wait-for-amazon-prime-day-for-streaming-deals-paramount-plus-with-showtime-is-93-percent-cheaper-)
+- [Waymo starts robotaxi testing in Philadelphia and NYC](https://techcrunch.com/2025/07/07/waymo-starts-robotaxi-testing-in-philadelphia-and-nyc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
