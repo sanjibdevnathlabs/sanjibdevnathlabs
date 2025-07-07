@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New interstellar object 3I/ATLAS: Everything we know about the rare cosmic visitor](https://www.space.com/astronomy/comets/new-interstellar-object-3i-atlas-everything-we-know-about-the-rare-cosmic-visitor)
 - [Want to bulk up and build muscle? Don&#39;t go to space](https://www.space.com/space-exploration/want-to-bulk-up-and-build-muscle-dont-go-to-space)
 - [‘Improved’ Grok criticizes Democrats and Hollywood’s ‘Jewish executives’](https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/)
 - [At least 36 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/07/06/7-new-tech-unicorns-were-minted-in-2025-so-far/)
 - [X blocked Reuters accounts in India](https://techcrunch.com/2025/07/06/x-blocks-reuters-accounts-in-india/)
-- [Researchers seek to influence peer review with hidden AI prompts](https://techcrunch.com/2025/07/06/researchers-seek-to-influence-peer-review-with-hidden-ai-prompts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
