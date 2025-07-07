@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dark matter could turn &#39;failed stars&#39; to the dark side, creating &#39;dark dwarfs&#39;](https://www.space.com/astronomy/dark-matter-could-turn-failed-stars-to-the-dark-side-creating-dark-dwarfs)
+- [ChatGPT is testing a mysterious new feature called ‘study together’](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)
+- [Bluesky users can customize their notifications, including activity alerts from their favorite accounts](https://techcrunch.com/2025/07/07/bluesky-users-can-customize-their-notifications-including-activity-alerts-from-their-favorite-accounts/)
+- [iOS 26 beta 3 dials back Liquid Glass](https://techcrunch.com/2025/07/07/ios-26-beta-3-dials-back-liquid-glass/)
 - [Jack Dorsey working on Bluetooth messaging app, Bitchat](https://techcrunch.com/2025/07/07/jack-dorsey-working-on-bluetooth-messaging-app-bitchat/)
-- [Tennis players criticize AI technology used by Wimbledon](https://techcrunch.com/2025/07/07/tennis-players-criticize-ai-technology-used-by-wimbledon/)
-- [How long would it take Superman to travel from Krypton to Earth?](https://www.space.com/entertainment/how-long-would-it-take-superman-to-travel-from-krypton-to-earth)
-- [CoreWeave acquires data center provider Core Scientific in $9B stock deal](https://techcrunch.com/2025/07/07/coreweave-acquires-data-center-provider-core-scientific-in-9b-stock-deal/)
-- [Don&#39;t wait for Amazon Prime Day for streaming deals, Paramount Plus with Showtime is 93% cheaper if you go straight to Paramount](https://www.space.com/entertainment/dont-wait-for-amazon-prime-day-for-streaming-deals-paramount-plus-with-showtime-is-93-percent-cheaper-)
 <!-- BLOG-POST-LIST:END -->
 
 ---
