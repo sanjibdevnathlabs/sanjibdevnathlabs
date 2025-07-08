@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UAE proptech Huspy raises $59M to scale in Europe](https://techcrunch.com/2025/07/07/uae-proptech-huspy-raises-59m-to-scale-in-europe/)
+- [OpenAI tightens the screws on security to keep away prying eyes](https://techcrunch.com/2025/07/07/openai-tightens-the-screws-on-security-to-keep-away-prying-eyes/)
 - [Meta reportedly recruits Apple’s head of AI models](https://techcrunch.com/2025/07/07/meta-reportedly-recruits-apples-head-of-ai-models/)
 - [Tulum Energy rediscovered a forgotten hydrogen tech and used it to raise $27M](https://techcrunch.com/2025/07/07/tulum-energy-rediscovered-a-forgotten-hydrogen-tech-and-used-it-to-raise-27m/)
 - [Cursor apologizes for unclear pricing changes that upset users](https://techcrunch.com/2025/07/07/cursor-apologizes-for-unclear-pricing-changes-that-upset-users/)
-- [US Air Force cancels plans to build Starship landing pads on island bird sanctuary](https://www.space.com/space-exploration/launches-spacecraft/u-s-air-force-cancels-plans-to-build-starship-landing-pads-on-island-bird-sanctuary)
-- [Best Amazon Prime Day star projector deals 2025](https://www.space.com/technology/best-amazon-prime-day-star-projector-deals-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
