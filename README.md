@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Frontier is helping Arbor build a “vegetarian rocket engine” to power data centers](https://techcrunch.com/2025/07/08/frontier-is-helping-arbor-build-a-vegetarian-rocket-engine-to-power-data-centers/)
+- [NASA astronaut Nichole Ayers works on experiment in microgravity | Space photo of the day for July 8, 2025](https://www.space.com/space-exploration/nasa-astronaut-nichole-ayers-works-on-experiment-in-microgravity-space-photo-of-the-day-for-july-8-2025)
 - [Best Amazon Prime Day 2025 drone deals](https://www.space.com/technology/drones/best-amazon-prime-day-2025-drone-deals)
 - [Anti-Prime Day camera deal from Walmart — be ready to capture the crescent moon crossing the Pleiades on July 20](https://www.space.com/stargazing/astrophotography/anti-prime-day-camera-deal-from-walmart-be-ready-to-capture-the-crescent-moon-crossing-the-pleiades-on-july-20)
 - [Can Canada get to orbit? Companies NordSpace and ProtoSpace hope to launch country&#39;s 1st space mission &lpar;exclusive&rpar;](https://www.space.com/space-exploration/launches-spacecraft/can-canada-get-to-orbit-companies-nordspace-and-protospace-hope-to-launch-countrys-1st-space-mission-exclusive)
-- [UAE proptech Huspy raises $59M to scale in Europe](https://techcrunch.com/2025/07/07/uae-proptech-huspy-raises-59m-to-scale-in-europe/)
-- [OpenAI tightens the screws on security to keep away prying eyes](https://techcrunch.com/2025/07/07/openai-tightens-the-screws-on-security-to-keep-away-prying-eyes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
