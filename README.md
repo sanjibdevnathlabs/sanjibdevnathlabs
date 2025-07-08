@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple COO Jeff Williams to step down later this month](https://techcrunch.com/2025/07/08/apple-coo-jeff-williams-to-step-down-later-this-month/)
+- [Trump explains why he pulled Jared Isaacman&#39;s nomination for NASA chief](https://www.space.com/space-exploration/trump-explains-why-he-pulled-jared-isaacmans-nomination-for-nasa-chief)
+- [US government confirms arrest of Chinese national accused of stealing COVID research and mass-hacking email servers](https://techcrunch.com/2025/07/08/us-government-confirms-arrest-of-chinese-national-accused-of-stealing-covid-research-and-mass-hacking-email-servers/)
 - [GenAI as a shopping assistant set to explode during Prime Day sales](https://techcrunch.com/2025/07/08/genai-as-a-shopping-assistant-set-to-explode-during-prime-day-sales/)
 - [Astronomy has a major data problem – simulating realistic images of the sky can help train algorithms](https://www.space.com/astronomy/astronomy-has-a-major-data-problem-simulating-realistic-images-of-the-sky-can-help-train-algorithms)
-- [SpaceX in talks to raise new funding at $400B valuation](https://techcrunch.com/2025/07/08/spacex-in-talks-to-raise-new-funding-at-400b-valuation/)
-- [Mistral is reportedly in talks to raise $1B](https://techcrunch.com/2025/07/08/mistral-is-reportedly-in-talks-to-raise-1b/)
-- [Could NASA&#39;s Mars Sample Return be saved? New $3 billion private plan would haul home Red Planet rocks &lpar;video&rpar;](https://www.space.com/astronomy/mars/could-nasas-mars-sample-return-be-saved-new-usd3-billion-private-plan-would-haul-home-red-planet-rocks-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
