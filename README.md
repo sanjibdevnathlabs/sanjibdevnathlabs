@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Amazon Prime Day 2025 model rocket deals](https://www.space.com/technology/best-amazon-prime-day-2025-model-rocket-deals)
+- [Could NASA&#39;s Mars Sample Return be saved? New $3 billion private plan would haul home Red Planet rocks &lpar;video&rpar;](https://www.space.com/astronomy/mars/could-nasas-mars-sample-return-be-saved-new-usd3-billion-private-plan-would-haul-home-red-planet-rocks-video)
+- [Activision took down Call of Duty game after PC players hacked, says source](https://techcrunch.com/2025/07/08/activision-took-down-call-of-duty-game-after-pc-players-hacked-says-source/)
 - [The ocean on Saturn&#39;s icy moon Enceladus has the right pH for life — barely](https://www.space.com/astronomy/the-ocean-on-saturns-icy-moon-enceladus-has-the-right-ph-for-life-barely)
+- [Best Amazon Prime Day 2025 model rocket deals](https://www.space.com/technology/best-amazon-prime-day-2025-model-rocket-deals)
 - [Gmail’s new ‘Manage subscriptions’ tool will help declutter your inbox](https://techcrunch.com/2025/07/08/gmails-new-manage-subscriptions-tool-will-help-declutter-your-inbox/)
-- [OneText raises $4.5M from Y Combinator, Khosla to reinvent shopping by text](https://techcrunch.com/2025/07/08/onetext-raises-4-5m-from-y-combinator-khosla-to-reinvent-shopping-by-text/)
-- [In a blow to Google Cloud, Replit partners with Microsoft](https://techcrunch.com/2025/07/08/in-a-blow-to-google-cloud-replit-partners-with-microsoft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
