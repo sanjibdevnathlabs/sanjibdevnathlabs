@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Canada get to orbit? Companies NordSpace and ProtoSpace hope to launch country&#39;s 1st space mission &lpar;exclusive&rpar;](https://www.space.com/space-exploration/launches-spacecraft/can-canada-get-to-orbit-companies-nordspace-and-protospace-hope-to-launch-countrys-1st-space-mission-exclusive)
 - [UAE proptech Huspy raises $59M to scale in Europe](https://techcrunch.com/2025/07/07/uae-proptech-huspy-raises-59m-to-scale-in-europe/)
 - [OpenAI tightens the screws on security to keep away prying eyes](https://techcrunch.com/2025/07/07/openai-tightens-the-screws-on-security-to-keep-away-prying-eyes/)
 - [Meta reportedly recruits Apple’s head of AI models](https://techcrunch.com/2025/07/07/meta-reportedly-recruits-apples-head-of-ai-models/)
 - [Tulum Energy rediscovered a forgotten hydrogen tech and used it to raise $27M](https://techcrunch.com/2025/07/07/tulum-energy-rediscovered-a-forgotten-hydrogen-tech-and-used-it-to-raise-27m/)
-- [Cursor apologizes for unclear pricing changes that upset users](https://techcrunch.com/2025/07/07/cursor-apologizes-for-unclear-pricing-changes-that-upset-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
