@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The complete Side Events lineup at TechCrunch All Stage 2025](https://techcrunch.com/2025/07/08/the-complete-side-events-lineup-at-techcrunch-all-stage-2025/)
-- [Mastodon’s latest update readies the app for Quote Posts, revamps design](https://techcrunch.com/2025/07/08/mastodons-latest-update-readies-the-app-for-quote-posts-revamps-design/)
-- [Exploring the future of voice AI with Mati Staniszewski at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/08/exploring-the-future-of-voice-ai-with-mati-staniszewski-at-techcrunch-disrupt-2025/)
-- [Moonvalley’s ‘ethical’ AI video model for filmmakers is now publicly available](https://techcrunch.com/2025/07/08/moonvalleys-ethical-ai-video-model-for-filmmakers-is-now-publicly-available/)
-- [Marks &amp; Spencer chair refuses to say if retailer paid hackers after ransomware attack](https://techcrunch.com/2025/07/08/marks-spencer-chair-refuses-to-say-if-retailer-paid-hackers-after-ransomware-attack/)
+- [ByteDance reportedly plans to release US-specific version of CapCut](https://techcrunch.com/2025/07/08/bytedance-reportedly-plans-to-release-us-specific-version-of-capcut/)
+- [What time is the full moon on July 10?](https://www.space.com/stargazing/what-time-is-the-full-moon-on-july-10)
+- [Bookshop.org mocks Jeff Bezos wedding invite in anti-Prime Day promo](https://techcrunch.com/2025/07/08/bookshop-org-mocks-jeff-bezos-wedding-invite-in-anti-prime-day-promo/)
+- [Thank you to the visionaries: Celebrating the partners behind TechCrunch All Stage](https://techcrunch.com/2025/07/08/thank-you-to-the-visionaries-celebrating-the-partners-behind-techcrunch-all-stage/)
+- [SpaceX launches 28 Starlink satellites from Cape Canaveral](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-28-b1077-ccsfs-asog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
