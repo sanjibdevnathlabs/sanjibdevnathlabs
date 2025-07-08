@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7 days until doors open at TechCrunch All Stage — and up to $475 in ticket savings vanish](https://techcrunch.com/2025/07/08/7-days-until-doors-open-at-techcrunch-all-stage-and-when-ticket-prices-hike/)
+- [How your smartphone is powered by debris from a nova star explosion](https://www.space.com/astronomy/how-your-smartphone-is-powered-by-debris-from-a-nova-star-explosion)
+- [Nothing Phone &lpar;3&rpar; review](https://techcrunch.com/2025/07/08/nothing-phone-3-review/)
 - [The best viral star projector is now 25% off for Amazon Prime Day](https://www.space.com/technology/the-best-viral-star-projector-is-now-25-percent-off-for-amazon-prime-day)
 - [Why this LA-based VC firm was an early investor in Slate Auto](https://techcrunch.com/2025/07/08/why-this-los-angeles-vc-firm-was-an-early-investor-in-slate-auto/)
-- [How Trump&#39;s budget cuts could affect 2 iconic space telescopes: Hubble and James Webb](https://www.space.com/astronomy/hubble-space-telescope/how-trumps-budget-cuts-could-affect-2-iconic-space-telescopes-hubble-and-james-webb)
-- [Frontier is helping Arbor build a “vegetarian rocket engine” to power data centers](https://techcrunch.com/2025/07/08/frontier-is-helping-arbor-build-a-vegetarian-rocket-engine-to-power-data-centers/)
-- [NASA astronaut Nichole Ayers works on experiment in microgravity | Space photo of the day for July 8, 2025](https://www.space.com/space-exploration/nasa-astronaut-nichole-ayers-works-on-experiment-in-microgravity-space-photo-of-the-day-for-july-8-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
