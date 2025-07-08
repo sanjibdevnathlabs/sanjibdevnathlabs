@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GenAI as a shopping assistant set to explode during Prime Day sales](https://techcrunch.com/2025/07/08/genai-as-a-shopping-assistant-set-to-explode-during-prime-day-sales/)
+- [Astronomy has a major data problem – simulating realistic images of the sky can help train algorithms](https://www.space.com/astronomy/astronomy-has-a-major-data-problem-simulating-realistic-images-of-the-sky-can-help-train-algorithms)
+- [SpaceX in talks to raise new funding at $400B valuation](https://techcrunch.com/2025/07/08/spacex-in-talks-to-raise-new-funding-at-400b-valuation/)
+- [Mistral is reportedly in talks to raise $1B](https://techcrunch.com/2025/07/08/mistral-is-reportedly-in-talks-to-raise-1b/)
 - [Could NASA&#39;s Mars Sample Return be saved? New $3 billion private plan would haul home Red Planet rocks &lpar;video&rpar;](https://www.space.com/astronomy/mars/could-nasas-mars-sample-return-be-saved-new-usd3-billion-private-plan-would-haul-home-red-planet-rocks-video)
-- [Activision took down Call of Duty game after PC players hacked, says source](https://techcrunch.com/2025/07/08/activision-took-down-call-of-duty-game-after-pc-players-hacked-says-source/)
-- [The ocean on Saturn&#39;s icy moon Enceladus has the right pH for life — barely](https://www.space.com/astronomy/the-ocean-on-saturns-icy-moon-enceladus-has-the-right-ph-for-life-barely)
-- [Best Amazon Prime Day 2025 model rocket deals](https://www.space.com/technology/best-amazon-prime-day-2025-model-rocket-deals)
-- [Gmail’s new ‘Manage subscriptions’ tool will help declutter your inbox](https://techcrunch.com/2025/07/08/gmails-new-manage-subscriptions-tool-will-help-declutter-your-inbox/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
