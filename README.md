@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Teenagers can now hail a Waymo robotaxi in Phoenix](https://techcrunch.com/2025/07/08/teenagers-can-now-hail-a-waymo-robotaxi-in-phoenix/)
-- [Radar &#39;leakage&#39; from airports could lead intelligent aliens to Earth](https://www.space.com/astronomy/radar-leakage-from-airports-could-lead-intelligent-aliens-to-earth)
-- [ByteDance reportedly plans to release US-specific version of CapCut](https://techcrunch.com/2025/07/08/bytedance-reportedly-plans-to-release-us-specific-version-of-capcut/)
-- [What time is the full moon on July 10?](https://www.space.com/stargazing/what-time-is-the-full-moon-on-july-10)
-- [Bookshop.org mocks Jeff Bezos wedding invite in anti-Prime Day promo](https://techcrunch.com/2025/07/08/bookshop-org-mocks-jeff-bezos-wedding-invite-in-anti-prime-day-promo/)
+- [Best Amazon Prime Day 2025 model rocket deals](https://www.space.com/technology/best-amazon-prime-day-2025-model-rocket-deals)
+- [The ocean on Saturn&#39;s icy moon Enceladus has the right pH for life — barely](https://www.space.com/astronomy/the-ocean-on-saturns-icy-moon-enceladus-has-the-right-ph-for-life-barely)
+- [Gmail’s new ‘Manage subscriptions’ tool will help declutter your inbox](https://techcrunch.com/2025/07/08/gmails-new-manage-subscriptions-tool-will-help-declutter-your-inbox/)
+- [OneText raises $4.5M from Y Combinator, Khosla to reinvent shopping by text](https://techcrunch.com/2025/07/08/onetext-raises-4-5m-from-y-combinator-khosla-to-reinvent-shopping-by-text/)
+- [In a blow to Google Cloud, Replit partners with Microsoft](https://techcrunch.com/2025/07/08/in-a-blow-to-google-cloud-replit-partners-with-microsoft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
