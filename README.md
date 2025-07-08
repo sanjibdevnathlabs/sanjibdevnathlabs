@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [7 days until doors open at TechCrunch All Stage — and up to $475 in ticket savings vanish](https://techcrunch.com/2025/07/08/7-days-until-doors-open-at-techcrunch-all-stage-and-when-ticket-prices-hike/)
-- [How your smartphone is powered by debris from a nova star explosion](https://www.space.com/astronomy/how-your-smartphone-is-powered-by-debris-from-a-nova-star-explosion)
-- [Nothing Phone &lpar;3&rpar; review](https://techcrunch.com/2025/07/08/nothing-phone-3-review/)
-- [The best viral star projector is now 25% off for Amazon Prime Day](https://www.space.com/technology/the-best-viral-star-projector-is-now-25-percent-off-for-amazon-prime-day)
-- [Why this LA-based VC firm was an early investor in Slate Auto](https://techcrunch.com/2025/07/08/why-this-los-angeles-vc-firm-was-an-early-investor-in-slate-auto/)
+- [The complete Side Events lineup at TechCrunch All Stage 2025](https://techcrunch.com/2025/07/08/the-complete-side-events-lineup-at-techcrunch-all-stage-2025/)
+- [Mastodon’s latest update readies the app for Quote Posts, revamps design](https://techcrunch.com/2025/07/08/mastodons-latest-update-readies-the-app-for-quote-posts-revamps-design/)
+- [Exploring the future of voice AI with Mati Staniszewski at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/08/exploring-the-future-of-voice-ai-with-mati-staniszewski-at-techcrunch-disrupt-2025/)
+- [Moonvalley’s ‘ethical’ AI video model for filmmakers is now publicly available](https://techcrunch.com/2025/07/08/moonvalleys-ethical-ai-video-model-for-filmmakers-is-now-publicly-available/)
+- [Marks &amp; Spencer chair refuses to say if retailer paid hackers after ransomware attack](https://techcrunch.com/2025/07/08/marks-spencer-chair-refuses-to-say-if-retailer-paid-hackers-after-ransomware-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
