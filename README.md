@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [European VC breaks taboo by investing in pure defense tech from Ukraine’s war zones](https://techcrunch.com/2025/07/08/european-vc-breaks-taboo-by-investing-in-pure-defense-tech-from-ukraines-war-zones/)
 - [Rivian spinoff Also raises another $200M to build e-bikes and more](https://techcrunch.com/2025/07/08/rivian-spinoff-also-raises-another-200m-to-build-e-bikes-and-more/)
 - [LangChain is about to become a unicorn, sources say](https://techcrunch.com/2025/07/08/langchain-is-about-to-become-a-unicorn-sources-say/)
 - [Grok is being antisemitic again and also the sky is blue](https://techcrunch.com/2025/07/08/grok-is-being-antisemitic-again-and-also-the-sky-is-blue/)
 - [Apple COO Jeff Williams to step down later this month](https://techcrunch.com/2025/07/08/apple-coo-jeff-williams-to-step-down-later-this-month/)
-- [Trump explains why he pulled Jared Isaacman&#39;s nomination for NASA chief](https://www.space.com/space-exploration/trump-explains-why-he-pulled-jared-isaacmans-nomination-for-nasa-chief)
 <!-- BLOG-POST-LIST:END -->
 
 ---
