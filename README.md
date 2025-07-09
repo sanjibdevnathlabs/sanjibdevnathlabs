@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers trace mysterious blast of X-rays to &#39;Die Hard&#39; star that refuses to perish &lpar;video&rpar;](https://www.space.com/astronomy/astronomers-trace-mysterious-blast-of-x-rays-to-die-hard-star-that-refuses-to-perish-video)
+- [YouTube prepares crackdown on ‘mass-produced’ and ‘repetitive’ videos, as concern over AI slop grows](https://techcrunch.com/2025/07/09/youtube-prepares-crackdown-on-mass-produced-and-repetitive-videos-as-concern-over-ai-slop-grows/)
+- [ChatGPT hallucinated about music app Soundslice so often, the founder made the lie come true](https://techcrunch.com/2025/07/09/chatgpt-hallucinated-about-music-app-soundslice-so-often-the-founder-made-the-lie-come-true/)
 - [This is the star projector I’d pick for perfect views of the night sky](https://www.space.com/stargazing/skywatching-kit/this-is-the-star-projector-id-pick-for-perfect-views-of-the-night-sky)
 - [Every living former NASA science chief opposes Trump&#39;s proposed budget cuts in letter to Congress](https://www.space.com/space-exploration/every-living-former-nasa-science-chief-opposes-trumps-proposed-budget-cuts-in-letter-to-congress)
-- [This DJI Mini 4K drone is brilliant for beginners and it&#39;s $60 cheaper for Prime Day](https://www.space.com/stargazing/skywatching-kit/this-dji-mini-4k-drone-is-brilliant-for-beginners-and-its-usd60-cheaper-for-prime-day)
-- [Apple looks to bid on becoming US home for Formula 1](https://techcrunch.com/2025/07/09/apple-looks-to-bid-on-becoming-us-home-for-formula-1/)
-- [How startups are rewriting the late-stage playbook at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/david-george-on-the-future-of-going-public-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
