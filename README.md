@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Day 2: Translating Healthcare Research into Healthcare Entrepreneurship](https://www.youtube.com/watch?v=VPaOFkMKreA)
+- [Day 1: Prapela Case Study](https://www.youtube.com/watch?v=1OnsQj9qpZs)
 - [When being over-employed goes wrong...](https://www.youtube.com/watch?v=-_6dHIPVoTM)
 - [World Foundation Models - Computerphile](https://www.youtube.com/watch?v=pdV9eaLy--E)
 - [I&#39;m done with the AI hype](https://www.youtube.com/watch?v=kxYh9RwLUFw)
-- [Google’s new CLI tool hits different…](https://www.youtube.com/watch?v=qqP1ucSiVkE)
-- [Reinforcement Learning - Computerphile](https://www.youtube.com/watch?v=844U9T_SOrA)
 <!-- YOUTUBE:END -->
 
 ---
