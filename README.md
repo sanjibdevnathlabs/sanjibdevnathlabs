@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Amazon Prime Day telescope deals 2025](https://www.space.com/stargazing/skywatching-kit/amazon-prime-day-2025-telescope-deals)
 - [See interstellar comet 3I/ATLAS zoom through solar system in new telescope imagery &lpar;video&rpar;](https://www.space.com/astronomy/comets/see-interstellar-comet-3i-atlas-zoom-through-solar-system-in-new-telescope-imagery-video)
 - [Hugging Face opens up orders for its Reachy Mini desktop robots](https://techcrunch.com/2025/07/09/hugging-face-opens-up-orders-for-its-reachy-mini-desktop-robots/)
 - [European VC breaks taboo by investing in pure defense tech from Ukraine’s war zones](https://techcrunch.com/2025/07/08/european-vc-breaks-taboo-by-investing-in-pure-defense-tech-from-ukraines-war-zones/)
 - [Rivian spinoff Also raises another $200M to build e-bikes and more](https://techcrunch.com/2025/07/08/rivian-spinoff-also-raises-another-200m-to-build-e-bikes-and-more/)
-- [LangChain is about to become a unicorn, sources say](https://techcrunch.com/2025/07/08/langchain-is-about-to-become-a-unicorn-sources-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
