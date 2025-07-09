@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This is the star projector I’d pick for perfect views of the night sky](https://www.space.com/stargazing/skywatching-kit/this-is-the-star-projector-id-pick-for-perfect-views-of-the-night-sky)
+- [Every living former NASA science chief opposes Trump&#39;s proposed budget cuts in letter to Congress](https://www.space.com/space-exploration/every-living-former-nasa-science-chief-opposes-trumps-proposed-budget-cuts-in-letter-to-congress)
+- [This DJI Mini 4K drone is brilliant for beginners and it&#39;s $60 cheaper for Prime Day](https://www.space.com/stargazing/skywatching-kit/this-dji-mini-4k-drone-is-brilliant-for-beginners-and-its-usd60-cheaper-for-prime-day)
+- [Apple looks to bid on becoming US home for Formula 1](https://techcrunch.com/2025/07/09/apple-looks-to-bid-on-becoming-us-home-for-formula-1/)
 - [How startups are rewriting the late-stage playbook at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/david-george-on-the-future-of-going-public-at-techcrunch-disrupt-2025/)
-- [Blok is using AI personas to simulate real-world app usage](https://techcrunch.com/2025/07/09/blok-is-using-ai-persons-to-simulate-real-world-app-usage/)
-- [Saturn makes its long-awaited return to the late night sky this week: Here&#39;s how to see it](https://www.space.com/stargazing/saturn-makes-its-long-awaited-return-to-the-late-night-sky-this-week-heres-how-to-see-it)
-- [Pinecone founder Edo Liberty explores the real missing link in enterprise AI at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/)
-- [iMerit believes better-quality data, not more data, is the future of AI](https://techcrunch.com/2025/07/09/imerit-believes-better-quality-data-not-more-data-is-the-future-of-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
