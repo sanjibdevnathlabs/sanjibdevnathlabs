@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Moroccan founder raises $4.2M for her YC-backed startup building the next layer of AI search](https://techcrunch.com/2025/07/09/moroccan-founder-raises-4-2m-for-her-yc-backed-startup-building-the-next-layer-of-ai-search/)
-- [JWST finds cosmic monster ruling tiny early galaxy: Was it forged by black holes from the Big Bang?](https://www.space.com/astronomy/jwst-finds-cosmic-monster-ruling-tiny-early-galaxy-was-it-forged-by-black-holes-from-the-big-bang)
-- [How to protect your cell phone number from SIM swap attacks](https://techcrunch.com/2025/07/09/how-to-protect-your-cell-phone-number-from-sim-swap-attacks/)
-- [The &#39;sound of the Big Bang&#39; hints that Earth may sit in a cosmic void 2 billion light-years wide](https://www.space.com/astronomy/the-sound-of-the-big-bang-hints-that-earth-may-sit-in-a-cosmic-void-2-billion-light-years-wide)
-- [Best Amazon Prime Day telescope deals 2025](https://www.space.com/stargazing/skywatching-kit/amazon-prime-day-2025-telescope-deals)
+- [Google brings Gemini to Wear OS watches, adds AI Mode to Circle to Search](https://techcrunch.com/2025/07/09/google-brings-gemini-to-wear-os-watches-adds-ai-mode-to-circle-to-search/)
+- [Samsung launches Z Fold7 and Z Flip7, adds a cheaper Z Flip7 FE to its foldable lineup](https://techcrunch.com/2025/07/09/samsung-launches-z-fold7-and-z-flip7-adds-a-cheaper-z-flip7-fe-to-its-foldable-lineup/)
+- [6 days until TechCrunch All Stage kicks off in Boston — and up to $475 in ticket savings disappear](https://techcrunch.com/2025/07/09/6-days-until-techcrunch-all-stage-kicks-off-in-boston-and-up-to-475-in-ticket-savings-disappear/)
+- [Samsung brings back the Classic version for the Watch8 series](https://techcrunch.com/2025/07/09/samsung-brings-back-the-classic-version-for-the-watch8-series/)
+- [It&#39;s the cheapest we&#39;ve ever seen! This Sony A1 camera deal saves over $1,400 — have we just found the best deal of Prime Day?](https://www.space.com/technology/its-the-cheapest-weve-ever-seen-this-sony-a1-camera-deal-saves-over-usd1-400-have-we-just-found-the-best-deal-of-prime-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
