@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s asteroid-crash Earth defense tactic has a complication — DART ejected large boulders into space](https://www.space.com/astronomy/asteroids/nasas-asteroid-crash-earth-defense-tactic-has-a-complication-dart-ejected-large-boulders-into-space)
+- [Smart telescope, smarter deal — save $600 off the Unistellar eQuinox 2](https://www.space.com/stargazing/skywatching-kit/get-easy-views-of-the-cosmos-with-usd600-off-the-unistellar-equinox-2)
+- [Neobank Revolut seeks $65B valuation, a year after its $45B deal](https://techcrunch.com/2025/07/09/neobank-revolut-seeks-65b-valuation-a-year-after-its-45b-deal/)
+- [X’s ad business improved under departing CEO Linda Yaccarino, but it’s still tough times ahead](https://techcrunch.com/2025/07/09/xs-ad-business-improved-under-departing-ceo-linda-yaccarino-but-its-still-tough-times-ahead/)
 - [OpenAI is reportedly releasing an AI browser in the coming weeks](https://techcrunch.com/2025/07/09/openai-is-reportedly-releasing-an-ai-browser-in-the-coming-weeks/)
-- [Jack Dorsey says his ‘secure’ new Bitchat app has not been tested for security](https://techcrunch.com/2025/07/09/jack-dorsey-says-his-secure-new-bitchat-app-has-not-been-tested-for-security/)
-- [Astronomers trace mysterious blast of X-rays to &#39;Die Hard&#39; star that refuses to perish &lpar;video&rpar;](https://www.space.com/astronomy/astronomers-trace-mysterious-blast-of-x-rays-to-die-hard-star-that-refuses-to-perish-video)
-- [YouTube prepares crackdown on ‘mass-produced’ and ‘repetitive’ videos, as concern over AI slop grows](https://techcrunch.com/2025/07/09/youtube-prepares-crackdown-on-mass-produced-and-repetitive-videos-as-concern-over-ai-slop-grows/)
-- [ChatGPT hallucinated about music app Soundslice so often, the founder made the lie come true](https://techcrunch.com/2025/07/09/chatgpt-hallucinated-about-music-app-soundslice-so-often-the-founder-made-the-lie-come-true/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
