@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists discover ice in space isn&#39;t like water on Earth after all](https://www.space.com/astronomy/scientists-discover-ice-in-space-isnt-like-water-on-earth-after-all)
+- [California lawmaker behind SB 1047 reignites push for mandated AI safety reports](https://techcrunch.com/2025/07/09/california-lawmaker-behind-sb-1047-reignites-push-for-mandated-ai-safety-reports/)
+- [Steve Davis left DOGE in May, but officials say he’s still running the show](https://techcrunch.com/2025/07/09/steve-davis-left-doge-in-may-but-officials-say-hes-still-running-the-show/)
 - [NASA&#39;s asteroid-crash Earth defense tactic has a complication — DART ejected large boulders into space](https://www.space.com/astronomy/asteroids/nasas-asteroid-crash-earth-defense-tactic-has-a-complication-dart-ejected-large-boulders-into-space)
 - [Smart telescope, smarter deal — save $600 off the Unistellar eQuinox 2](https://www.space.com/stargazing/skywatching-kit/get-easy-views-of-the-cosmos-with-usd600-off-the-unistellar-equinox-2)
-- [Neobank Revolut seeks $65B valuation, a year after its $45B deal](https://techcrunch.com/2025/07/09/neobank-revolut-seeks-65b-valuation-a-year-after-its-45b-deal/)
-- [X’s ad business improved under departing CEO Linda Yaccarino, but it’s still tough times ahead](https://techcrunch.com/2025/07/09/xs-ad-business-improved-under-departing-ceo-linda-yaccarino-but-its-still-tough-times-ahead/)
-- [OpenAI is reportedly releasing an AI browser in the coming weeks](https://techcrunch.com/2025/07/09/openai-is-reportedly-releasing-an-ai-browser-in-the-coming-weeks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
