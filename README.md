@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Linda Yaccarino steps down as CEO of Elon Musk’s X](https://techcrunch.com/2025/07/09/linda-yaccarino-steps-down-as-ceo-of-elon-musks-x/)
-- [Perplexity launches Comet, an AI-powered web browser](https://techcrunch.com/2025/07/09/perplexity-launches-comet-an-ai-powered-web-browser/)
-- [Get your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/get-your-exhibit-table-at-techcrunch-disrupt-2025/)
-- [Get up to 37% off with the Best Amazon Prime Day 2025 Lego deals](https://www.space.com/technology/get-up-to-37-percent-off-with-the-best-amazon-prime-day-2025-lego-deals)
-- [Who is Mister Terrific, the super-smart hero aiding Lois Lane in James Gunn&#39;s &#39;Superman&#39;](https://www.space.com/entertainment/space-movies-shows/who-is-mister-terrific-in-james-gunns-superman)
+- [How startups are rewriting the late-stage playbook at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/david-george-on-the-future-of-going-public-at-techcrunch-disrupt-2025/)
+- [Blok is using AI personas to simulate real-world app usage](https://techcrunch.com/2025/07/09/blok-is-using-ai-persons-to-simulate-real-world-app-usage/)
+- [Saturn makes its long-awaited return to the late night sky this week: Here&#39;s how to see it](https://www.space.com/stargazing/saturn-makes-its-long-awaited-return-to-the-late-night-sky-this-week-heres-how-to-see-it)
+- [Pinecone founder Edo Liberty explores the real missing link in enterprise AI at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/)
+- [iMerit believes better-quality data, not more data, is the future of AI](https://techcrunch.com/2025/07/09/imerit-believes-better-quality-data-not-more-data-is-the-future-of-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
