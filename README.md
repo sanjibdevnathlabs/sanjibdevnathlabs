@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moroccan founder raises $4.2M for her YC-backed startup building the next layer of AI search](https://techcrunch.com/2025/07/09/moroccan-founder-raises-4-2m-for-her-yc-backed-startup-building-the-next-layer-of-ai-search/)
+- [JWST finds cosmic monster ruling tiny early galaxy: Was it forged by black holes from the Big Bang?](https://www.space.com/astronomy/jwst-finds-cosmic-monster-ruling-tiny-early-galaxy-was-it-forged-by-black-holes-from-the-big-bang)
 - [How to protect your cell phone number from SIM swap attacks](https://techcrunch.com/2025/07/09/how-to-protect-your-cell-phone-number-from-sim-swap-attacks/)
 - [The &#39;sound of the Big Bang&#39; hints that Earth may sit in a cosmic void 2 billion light-years wide](https://www.space.com/astronomy/the-sound-of-the-big-bang-hints-that-earth-may-sit-in-a-cosmic-void-2-billion-light-years-wide)
 - [Best Amazon Prime Day telescope deals 2025](https://www.space.com/stargazing/skywatching-kit/amazon-prime-day-2025-telescope-deals)
-- [See interstellar comet 3I/ATLAS zoom through solar system in new telescope imagery &lpar;video&rpar;](https://www.space.com/astronomy/comets/see-interstellar-comet-3i-atlas-zoom-through-solar-system-in-new-telescope-imagery-video)
-- [Hugging Face opens up orders for its Reachy Mini desktop robots](https://techcrunch.com/2025/07/09/hugging-face-opens-up-orders-for-its-reachy-mini-desktop-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
