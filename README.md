@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI is reportedly releasing an AI browser in the coming weeks](https://techcrunch.com/2025/07/09/openai-is-reportedly-releasing-an-ai-browser-in-the-coming-weeks/)
+- [Jack Dorsey says his ‘secure’ new Bitchat app has not been tested for security](https://techcrunch.com/2025/07/09/jack-dorsey-says-his-secure-new-bitchat-app-has-not-been-tested-for-security/)
 - [Astronomers trace mysterious blast of X-rays to &#39;Die Hard&#39; star that refuses to perish &lpar;video&rpar;](https://www.space.com/astronomy/astronomers-trace-mysterious-blast-of-x-rays-to-die-hard-star-that-refuses-to-perish-video)
 - [YouTube prepares crackdown on ‘mass-produced’ and ‘repetitive’ videos, as concern over AI slop grows](https://techcrunch.com/2025/07/09/youtube-prepares-crackdown-on-mass-produced-and-repetitive-videos-as-concern-over-ai-slop-grows/)
 - [ChatGPT hallucinated about music app Soundslice so often, the founder made the lie come true](https://techcrunch.com/2025/07/09/chatgpt-hallucinated-about-music-app-soundslice-so-often-the-founder-made-the-lie-come-true/)
-- [This is the star projector I’d pick for perfect views of the night sky](https://www.space.com/stargazing/skywatching-kit/this-is-the-star-projector-id-pick-for-perfect-views-of-the-night-sky)
-- [Every living former NASA science chief opposes Trump&#39;s proposed budget cuts in letter to Congress](https://www.space.com/space-exploration/every-living-former-nasa-science-chief-opposes-trumps-proposed-budget-cuts-in-letter-to-congress)
 <!-- BLOG-POST-LIST:END -->
 
 ---
