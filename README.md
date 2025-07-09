@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The perfect binoculars for casual stargazing are now under $100 for Amazon Prime Day](https://www.space.com/stargazing/skywatching-kit/the-perfect-binoculars-for-casual-stargazing-are-now-usd50-off-for-amazon-prime-day)
+- [Private Ax-4 astronauts aboard ISS are filling their time with science, views of Earth and pierogis &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/private-ax-4-astronauts-aboard-iss-are-filling-their-time-with-science-views-of-earth-and-pierogis-video)
 - [Scientists discover ice in space isn&#39;t like water on Earth after all](https://www.space.com/astronomy/scientists-discover-ice-in-space-isnt-like-water-on-earth-after-all)
 - [California lawmaker behind SB 1047 reignites push for mandated AI safety reports](https://techcrunch.com/2025/07/09/california-lawmaker-behind-sb-1047-reignites-push-for-mandated-ai-safety-reports/)
 - [Steve Davis left DOGE in May, but officials say he’s still running the show](https://techcrunch.com/2025/07/09/steve-davis-left-doge-in-may-but-officials-say-hes-still-running-the-show/)
-- [NASA&#39;s asteroid-crash Earth defense tactic has a complication — DART ejected large boulders into space](https://www.space.com/astronomy/asteroids/nasas-asteroid-crash-earth-defense-tactic-has-a-complication-dart-ejected-large-boulders-into-space)
-- [Smart telescope, smarter deal — save $600 off the Unistellar eQuinox 2](https://www.space.com/stargazing/skywatching-kit/get-easy-views-of-the-cosmos-with-usd600-off-the-unistellar-equinox-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
