@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google brings Gemini to Wear OS watches, adds AI Mode to Circle to Search](https://techcrunch.com/2025/07/09/google-brings-gemini-to-wear-os-watches-adds-ai-mode-to-circle-to-search/)
-- [Samsung launches Z Fold7 and Z Flip7, adds a cheaper Z Flip7 FE to its foldable lineup](https://techcrunch.com/2025/07/09/samsung-launches-z-fold7-and-z-flip7-adds-a-cheaper-z-flip7-fe-to-its-foldable-lineup/)
-- [6 days until TechCrunch All Stage kicks off in Boston — and up to $475 in ticket savings disappear](https://techcrunch.com/2025/07/09/6-days-until-techcrunch-all-stage-kicks-off-in-boston-and-up-to-475-in-ticket-savings-disappear/)
-- [Samsung brings back the Classic version for the Watch8 series](https://techcrunch.com/2025/07/09/samsung-brings-back-the-classic-version-for-the-watch8-series/)
-- [It&#39;s the cheapest we&#39;ve ever seen! This Sony A1 camera deal saves over $1,400 — have we just found the best deal of Prime Day?](https://www.space.com/technology/its-the-cheapest-weve-ever-seen-this-sony-a1-camera-deal-saves-over-usd1-400-have-we-just-found-the-best-deal-of-prime-day)
+- [Linda Yaccarino steps down as CEO of Elon Musk’s X](https://techcrunch.com/2025/07/09/linda-yaccarino-steps-down-as-ceo-of-elon-musks-x/)
+- [Perplexity launches Comet, an AI-powered web browser](https://techcrunch.com/2025/07/09/perplexity-launches-comet-an-ai-powered-web-browser/)
+- [Get your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/09/get-your-exhibit-table-at-techcrunch-disrupt-2025/)
+- [Get up to 37% off with the Best Amazon Prime Day 2025 Lego deals](https://www.space.com/technology/get-up-to-37-percent-off-with-the-best-amazon-prime-day-2025-lego-deals)
+- [Who is Mister Terrific, the super-smart hero aiding Lois Lane in James Gunn&#39;s &#39;Superman&#39;](https://www.space.com/entertainment/space-movies-shows/who-is-mister-terrific-in-james-gunns-superman)
 <!-- BLOG-POST-LIST:END -->
 
 ---
