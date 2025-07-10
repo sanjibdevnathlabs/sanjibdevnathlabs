@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are you a Canon fan? These anti-Prime deals save you hundreds off top models including R8, R5 II and R6 II](https://www.space.com/stargazing/skywatching-kit/are-you-a-canon-fan-these-anti-prime-deals-save-you-hundreds-off-top-models-including-r8-r5-ii-and-r6-ii)
+- [Diligent Robotics hires two notable Cruise alumni to its leadership team](https://techcrunch.com/2025/07/10/diligent-robotics-adds-two-notable-cruise-alumni-to-its-leadership-team/)
+- [Google announces latest AI American Infrastructure Acadmey cohort](https://techcrunch.com/2025/07/10/google-announces-latest-ai-american-infrastructure-acadmey-cohort/)
+- [Why scientists are so excited about the newfound interstellar comet 3I/ATLAS &lpar;op-ed&rpar;](https://www.space.com/astronomy/comets/why-scientists-are-so-excited-about-the-newfound-interstellar-comet-3i-atlas-op-ed)
 - [Trump taps transportation secretary Sean Duffy as acting NASA chief](https://techcrunch.com/2025/07/10/trump-taps-transportation-secretary-sean-duffy-as-acting-nasa-chief/)
-- [Cameo’s birthday reminder app, Candl, is a weak attempt at a comeback](https://techcrunch.com/2025/07/10/cameos-birthday-reminder-app-candl-is-a-weak-attempt-at-a-comeback/)
-- [Did you feel it? Earth just had one of its shortest days ever and 2 more are coming](https://www.space.com/astronomy/earth/did-you-feel-it-earth-just-had-one-of-its-shortest-days-ever-and-2-more-are-coming)
-- [Samsung to launch a triple-folding phone this year](https://techcrunch.com/2025/07/10/samsung-to-launch-a-triple-folding-phone-this-year/)
-- [Cheapest ever! Feel the force with 20% off this stunning Lego Star Wars C-3PO set, its lowest ever price](https://www.space.com/stargazing/skywatching-kit/cheapest-ever-feel-the-force-with-20-percent-off-this-stunning-lego-star-wars-c-3po-set-its-lowest-ever-price)
 <!-- BLOG-POST-LIST:END -->
 
 ---
