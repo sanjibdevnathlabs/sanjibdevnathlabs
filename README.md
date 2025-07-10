@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cheapest ever! Feel the force with 20% off this stunning Lego Star Wars C-3PO set, its lowest ever price](https://www.space.com/stargazing/skywatching-kit/cheapest-ever-feel-the-force-with-20-percent-off-this-stunning-lego-star-wars-c-3po-set-its-lowest-ever-price)
+- [Lego Thanos-snapped this awesome Avengers set away, but Amazon has blipped it back for Prime Day](https://www.space.com/stargazing/skywatching-kit/lego-thanos-snapped-this-awesome-avengers-set-away-but-amazon-has-blipped-it-back-for-prime-day)
 - [July full moon 2025 rises tonight: Everything you need to know about the low-riding &#39;Buck Moon&#39;](https://www.space.com/stargazing/july-full-moon-2025-rises-tonight-everything-you-need-to-know-about-the-low-riding-buck-moon)
 - [We loved this star projector for kids and now it&#39;s 37% off for Prime Day](https://www.space.com/technology/best-star-projector-for-kids-govee-now-37-percent-off-amazon-prime-day)
 - [Spotted! All the best hidden binocular deals this Amazon Prime Day!](https://www.space.com/stargazing/skywatching-kit/we-have-spotted-all-the-best-hidden-binocular-deals-this-amazon-prime-day)
-- [Google brings its AI-powered marketing tools to India after ‘Google tax’ repeal](https://techcrunch.com/2025/07/09/google-brings-its-ai-powered-marketing-tools-to-india-after-google-tax-repeal/)
-- [Elon Musk’s xAI launches Grok 4 alongside a $300 monthly subscription](https://techcrunch.com/2025/07/09/elon-musks-xai-launches-grok-4-alongside-a-300-monthly-subscription/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
