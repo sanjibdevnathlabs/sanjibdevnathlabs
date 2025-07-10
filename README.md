@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With Varda Space, leading Silicon Valley players make big bet on making drugs in space](https://techcrunch.com/2025/07/10/with-varda-space-leading-silicon-valley-players-make-big-bet-on-making-drugs-in-space/)
+- [5 days until TechCrunch All Stage — save up to $475 before prices rise](https://techcrunch.com/2025/07/10/5-days-until-techcrunch-all-stage-save-up-to-475-before-prices-rise/)
+- [Best Amazon Prime Day 2025 streaming deals — you can still get over 90% off](https://www.space.com/technology/best-amazon-prime-day-2025-streaming-deals-you-can-still-get-over-90-percent-off)
 - [They took away Linda Yaccarino’s blue check!](https://techcrunch.com/2025/07/10/they-took-away-linda-yaccarinos-blue-check/)
 - [YouTube is getting rid of its Trending page and Trending Now list](https://techcrunch.com/2025/07/10/youtube-is-getting-rid-of-its-trending-page-and-trending-now-list/)
-- [James Webb Space Telescope unwraps the dusty shrouds of dying stars](https://www.space.com/astronomy/james-webb-space-telescope-unwraps-the-dusty-shrouds-of-dying-stars)
-- [Less than $10! This cheap camera lens cleaning set would stop me from resorting to my t-shirt](https://www.space.com/stargazing/astrophotography/less-than-usd10-this-cheap-camera-lens-cleaning-kit-would-stop-me-from-resorting-to-my-t-shirt)
-- [Want $600 off the Unistellar eQuinox 2? This anti-Prime Day deal ends July 13](https://www.space.com/stargazing/skywatching-kit/dont-miss-this-chance-to-get-a-smart-usd600-off-the-unistellar-equinox-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
