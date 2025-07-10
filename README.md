@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Cluely’s Roy Lee isn’t sweating cheating detectors](https://techcrunch.com/2025/07/09/why-cluelys-roy-lee-isnt-sweating-cheating-detectors/)
 - [Microsoft shares $500M in AI savings internally days after cutting 9,000 jobs](https://techcrunch.com/2025/07/09/microsoft-shares-500m-in-ai-savings-internally-days-after-cutting-9000-jobs/)
 - [The perfect binoculars for casual stargazing are now under $100 for Amazon Prime Day](https://www.space.com/stargazing/skywatching-kit/the-perfect-binoculars-for-casual-stargazing-are-now-usd50-off-for-amazon-prime-day)
 - [Private Ax-4 astronauts aboard ISS are filling their time with science, views of Earth and pierogis &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/private-ax-4-astronauts-aboard-iss-are-filling-their-time-with-science-views-of-earth-and-pierogis-video)
 - [Scientists discover ice in space isn&#39;t like water on Earth after all](https://www.space.com/astronomy/scientists-discover-ice-in-space-isnt-like-water-on-earth-after-all)
-- [California lawmaker behind SB 1047 reignites push for mandated AI safety reports](https://techcrunch.com/2025/07/09/california-lawmaker-behind-sb-1047-reignites-push-for-mandated-ai-safety-reports/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
