@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [French police arrest Russian basketball player accused of ransomware: report](https://techcrunch.com/2025/07/10/french-police-arrest-russian-basketball-player-accused-of-ransomware-report/)
-- [Slate Auto: Everything you need to know about the Bezos-backed EV startup](https://techcrunch.com/2025/07/10/slate-auto-everything-you-need-to-know-about-the-bezos-backed-ev-startup/)
-- [Google adds image-to-video generation capability to Veo 3](https://techcrunch.com/2025/07/10/google-adds-image-to-video-generation-capability-to-veo-3/)
-- [Hubble and James Webb Space Telescopes show 2 sides of star cluster duo | Space photo of the day for July 10, 2025](https://www.space.com/space-exploration/hubble-and-james-webb-space-telescopes-show-2-sides-of-star-cluster-duo-space-photo-of-the-day-for-july-10-2025)
-- [Authorities arrest four hackers linked to UK retail hacking spree](https://techcrunch.com/2025/07/10/authorities-arrest-four-hackers-linked-to-uk-retail-hacking-spree/)
+- [As X loses its CEO, daily usage is down and competition is growing](https://techcrunch.com/2025/07/10/as-x-loses-its-ceo-daily-usage-is-down-and-competition-is-growing/)
+- [Silver Surfer proclaims Earth&#39;s doom in chilling new &#39;The Fantastic Four: First Steps&#39; clip &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/silver-surfer-proclaims-earths-doom-in-chilling-new-the-fantastic-four-first-steps-clip-video)
+- [ENDING TODAY: Break the streaming barrier with nearly $700 off NordVPN, four months free and an $50 Amazon voucher](https://www.space.com/stargazing/skywatching-kit/ending-today-break-the-streaming-barrier-with-nearly-usd700-off-nordvpn-four-months-free-and-an-usd50-amazon-voucher)
+- [You can still get one of the best budget binoculars for under $35 this Prime Day](https://www.space.com/stargazing/skywatching-kit/the-best-binoculars-for-kids-and-family-use-are-now-under-35-dollars-for-prime-day)
+- [Nvidia reportedly plans to release new AI chip designed for China](https://techcrunch.com/2025/07/10/nvidia-reportedly-plans-to-release-new-ai-chip-designed-for-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
