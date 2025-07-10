@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [US appeals court blocks FTC’s ‘click-to-cancel’ rule for subscriptions](https://techcrunch.com/2025/07/10/us-appeals-court-blocks-ftcs-click-to-cancel-rule-for-subscriptions/)
-- [LGND wants to make ChatGPT for the Earth](https://techcrunch.com/2025/07/10/lgnd-wants-to-make-chatgpt-for-the-earth/)
-- [Trump names Transportation Secretary Sean Duffy as interim NASA administrator](https://www.space.com/space-exploration/trump-names-transportation-secretary-sean-duffy-as-interim-nasa-administrator)
-- [Are you a Canon fan? These anti-Prime deals save you hundreds off top models including R8, R5 II and R6 II](https://www.space.com/stargazing/skywatching-kit/are-you-a-canon-fan-these-anti-prime-deals-save-you-hundreds-off-top-models-including-r8-r5-ii-and-r6-ii)
-- [Knox lands $6.5M to compete with Palantir in the federal compliance market](https://techcrunch.com/2025/07/10/knox-lands-6-5m-to-compete-with-palantir-in-the-federal-compliance-market/)
+- [French police arrest Russian basketball player accused of ransomware: report](https://techcrunch.com/2025/07/10/french-police-arrest-russian-basketball-player-accused-of-ransomware-report/)
+- [Slate Auto: Everything you need to know about the Bezos-backed EV startup](https://techcrunch.com/2025/07/10/slate-auto-everything-you-need-to-know-about-the-bezos-backed-ev-startup/)
+- [Google adds image-to-video generation capability to Veo 3](https://techcrunch.com/2025/07/10/google-adds-image-to-video-generation-capability-to-veo-3/)
+- [Hubble and James Webb Space Telescopes show 2 sides of star cluster duo | Space photo of the day for July 10, 2025](https://www.space.com/space-exploration/hubble-and-james-webb-space-telescopes-show-2-sides-of-star-cluster-duo-space-photo-of-the-day-for-july-10-2025)
+- [Authorities arrest four hackers linked to UK retail hacking spree](https://techcrunch.com/2025/07/10/authorities-arrest-four-hackers-linked-to-uk-retail-hacking-spree/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
