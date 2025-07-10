@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US appeals court blocks FTC’s ‘click-to-cancel’ rule for subscriptions](https://techcrunch.com/2025/07/10/us-appeals-court-blocks-ftcs-click-to-cancel-rule-for-subscriptions/)
+- [LGND wants to make ChatGPT for the Earth](https://techcrunch.com/2025/07/10/lgnd-wants-to-make-chatgpt-for-the-earth/)
+- [Trump names Transportation Secretary Sean Duffy as interim NASA administrator](https://www.space.com/space-exploration/trump-names-transportation-secretary-sean-duffy-as-interim-nasa-administrator)
 - [Are you a Canon fan? These anti-Prime deals save you hundreds off top models including R8, R5 II and R6 II](https://www.space.com/stargazing/skywatching-kit/are-you-a-canon-fan-these-anti-prime-deals-save-you-hundreds-off-top-models-including-r8-r5-ii-and-r6-ii)
-- [Diligent Robotics hires two notable Cruise alumni to its leadership team](https://techcrunch.com/2025/07/10/diligent-robotics-adds-two-notable-cruise-alumni-to-its-leadership-team/)
-- [Google announces latest AI American Infrastructure Acadmey cohort](https://techcrunch.com/2025/07/10/google-announces-latest-ai-american-infrastructure-acadmey-cohort/)
-- [Why scientists are so excited about the newfound interstellar comet 3I/ATLAS &lpar;op-ed&rpar;](https://www.space.com/astronomy/comets/why-scientists-are-so-excited-about-the-newfound-interstellar-comet-3i-atlas-op-ed)
-- [Trump taps transportation secretary Sean Duffy as acting NASA chief](https://techcrunch.com/2025/07/10/trump-taps-transportation-secretary-sean-duffy-as-acting-nasa-chief/)
+- [Knox lands $6.5M to compete with Palantir in the federal compliance market](https://techcrunch.com/2025/07/10/knox-lands-6-5m-to-compete-with-palantir-in-the-federal-compliance-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
