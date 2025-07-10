@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS is launching an AI agent marketplace next week with Anthropic as a partner](https://techcrunch.com/2025/07/10/aws-is-launching-an-ai-agent-marketplace-next-week-with-anthropic-as-a-partner/)
+- [Where AI meets design: Runway co-founder Alejandro Matamala Ortiz takes the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/10/where-ai-meets-design-runway-co-founder-alejandro-matamala-ortiz-takes-the-ai-stage-at-techcrunch-disrupt-2025/)
+- [NASA, SpaceX targeting July 31 for launch of Crew-11 astronaut mission to ISS](https://www.space.com/space-exploration/international-space-station/nasa-spacex-targeting-july-31-for-launch-of-crew-11-astronaut-mission-to-iss)
+- [How to actually raise a seed round: Actionable advice from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/10/how-to-actually-raise-a-seed-round-actionable-advice-from-top-investors-at-techcrunch-disrupt-2025-on-july-15/)
 - [Former Intel CEO launches a benchmark to measure AI alignment](https://techcrunch.com/2025/07/10/former-intel-ceo-launches-a-benchmark-to-measure-ai-alignment/)
-- [10 best Lego Star Wars sets of 2025 so far: Amazon Prime Day](https://www.space.com/entertainment/space-toys-lego/10-best-lego-star-wars-sets-of-2025-so-far)
-- [Belkin ends support for most Wemo devices and its Wemo app](https://techcrunch.com/2025/07/10/belkin-ends-support-for-most-wemo-devices-and-its-wemo-app/)
-- [James Webb Space Telescope celebrates 3 years of science with dazzling &#39;toe beans&#39; image of Cat&#39;s Paw Nebula](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-celebrates-3-years-of-science-with-dazzling-toe-beans-image-of-cats-paw-nebula)
-- [Senators push back on Trump&#39;s proposal to cut NASA science funding by 47%](https://www.space.com/space-exploration/senators-push-back-on-trumps-proposal-to-cut-nasa-science-funding-by-47-percent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
