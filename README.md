@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Now under $30, transform any room into a cosmic wonderland with this Cadrim star projector](https://www.space.com/stargazing/skywatching-kit/now-under-usd30-transform-any-room-into-a-cosmic-wonderland-with-this-cadrim-star-projector)
+- [Superman&#39;s biggest weakness isn&#39;t kryptonite; It&#39;s that every Man of Steel movie to date has a disappointing ending](https://www.space.com/entertainment/space-movies-shows/supermans-biggest-weakness-isnt-kryptonite-its-that-every-man-of-steel-movie-to-date-has-a-disappointing-ending)
+- [Mockly made a fake DM generator that’s actually user-friendly](https://techcrunch.com/2025/07/10/mockly-made-a-fake-dm-generator-thats-actually-user-friendly/)
 - [With Varda Space, leading Silicon Valley players make big bet on making drugs in space](https://techcrunch.com/2025/07/10/with-varda-space-leading-silicon-valley-players-make-big-bet-on-making-drugs-in-space/)
 - [5 days until TechCrunch All Stage — save up to $475 before prices rise](https://techcrunch.com/2025/07/10/5-days-until-techcrunch-all-stage-save-up-to-475-before-prices-rise/)
-- [Best Amazon Prime Day 2025 streaming deals — you can still get over 90% off](https://www.space.com/technology/best-amazon-prime-day-2025-streaming-deals-you-can-still-get-over-90-percent-off)
-- [They took away Linda Yaccarino’s blue check!](https://techcrunch.com/2025/07/10/they-took-away-linda-yaccarinos-blue-check/)
-- [YouTube is getting rid of its Trending page and Trending Now list](https://techcrunch.com/2025/07/10/youtube-is-getting-rid-of-its-trending-page-and-trending-now-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
