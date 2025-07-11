@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Grok 4 pushes humanity closer to AGI… but there’s a problem](https://www.youtube.com/watch?v=2USUfv7klr8)
 - [CPU Kernel Mode - Computerphile](https://www.youtube.com/watch?v=yV4fGeIv7MI)
 - [Day 2: Translating Healthcare Research into Healthcare Entrepreneurship](https://www.youtube.com/watch?v=VPaOFkMKreA)
 - [Day 1: Prapela Case Study](https://www.youtube.com/watch?v=1OnsQj9qpZs)
 - [When being over-employed goes wrong...](https://www.youtube.com/watch?v=-_6dHIPVoTM)
-- [World Foundation Models - Computerphile](https://www.youtube.com/watch?v=pdV9eaLy--E)
 <!-- YOUTUBE:END -->
 
 ---
