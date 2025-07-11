@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [France is investigating X over foreign interference, while a MP also criticizes Grok](https://techcrunch.com/2025/07/11/france-is-investigating-x-over-foreign-interference-while-a-mp-also-criticizes-grok/)
-- [TechCrunch Mobility: Tesla enters its Grok era, and teens come for robotaxis](https://techcrunch.com/2025/07/11/techcrunch-mobility-tesla-enters-its-grok-era-and-teens-come-for-robotaxis/)
-- [Sarah Smith launches $16M fund, says AI can ‘unlock’ so much for solo GPs like herself](https://techcrunch.com/2025/07/11/sarah-smith-launches-16m-fund-says-ai-can-unlock-so-much-for-solo-gps-like-herself/)
-- [The Fortress of Solitude: Every live-action incarnation of Superman&#39;s iconic ice hideout](https://www.space.com/entertainment/space-movies-shows/the-fortress-of-solitude-every-live-action-incarnation-of-supermans-iconic-ice-hideout)
-- [Goldman Sachs is testing viral AI agent Devin as a ‘new employee’](https://techcrunch.com/2025/07/11/goldman-sachs-is-testing-viral-ai-agent-devin-as-a-new-employee/)
+- [Sunspot crackling with magnetic &#39;bombs&#39; is now turning toward Earth &lpar;photo&rpar;](https://www.space.com/astronomy/sun/sunspot-crackling-with-magnetic-bombs-is-now-turning-toward-earth-photo)
+- [Prime Day is over but savings are still active — invest in some new optics for the return of Saturn to late-night skies](https://www.space.com/stargazing/skywatching-kit/prime-day-is-over-but-savings-can-still-be-found-invest-in-some-new-optics-for-the-return-of-saturn-to-late-night-skies)
+- [India’s richest man wants to turn every TV into a PC](https://techcrunch.com/2025/07/11/indias-richest-man-wants-to-turn-every-tv-into-a-pc/)
+- [A cloud seeding startup did not cause the Texas floods](https://techcrunch.com/2025/07/11/a-cloud-seeding-startup-did-not-cause-the-texas-floods/)
+- [I couldn&#39;t keep quiet about $1000 off the Sony A7R V in this anti-Prime Day deal](https://www.space.com/stargazing/skywatching-kit/i-couldnt-keep-quiet-about-usd1000-off-the-sony-a7r-v-in-this-anti-prime-day-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
