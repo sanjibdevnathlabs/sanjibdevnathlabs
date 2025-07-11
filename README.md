@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Humanoids, AVs, and what’s next in AI hardware at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/11/humanoids-avs-and-whats-next-in-ai-hardware-at-techcrunch-disrupt-2025/)
+- [Asteroid 2024 YR4 won&#39;t Earth but it could still ruin your day: Here&#39;s how](https://www.space.com/astronomy/asteroids/asteroid-2024-yr4-wont-earth-but-it-could-still-ruin-your-day-heres-how)
+- [Today is your last chance to save a massive $165 on one of the best camera drones for Amazon Prime Day](https://www.space.com/technology/drones/one-of-the-best-camera-drones-is-165-off-for-amazon-prime-day)
+- [AI chatbot’s simple ‘123456’ password risked exposing personal data of millions of McDonald’s job applicants](https://techcrunch.com/2025/07/11/ai-chatbots-simple-123456-password-risked-exposing-personal-data-of-millions-of-mcdonalds-job-applicants/)
 - [YC-backed Apolink by 19-year-old bags $4.3M to build 24/7 connectivity for LEO satellites](https://techcrunch.com/2025/07/11/yc-backed-apolink-by-19-year-old-bags-4-3m-to-build-24-7-connectivity-for-leo-satellites/)
-- [Today is your last chance to save 20% on the most iconic starship in the Star Wars universe this Amazon Prime Day](https://www.space.com/technology/today-is-your-last-chance-to-save-20-percent-on-the-most-iconic-starship-in-the-star-wars-universe-this-amazon-prime-day)
-- [Helios wants to be the AI operating system for public policy professionals](https://techcrunch.com/2025/07/11/helios-wants-to-be-the-ai-operating-system-for-public-policy-professionals/)
-- [Just 4 days until TechCrunch All Stage kicks off in Boston — and the lowest ticket prices vanish](https://techcrunch.com/2025/07/11/just-4-days-until-techcrunch-all-stage-kicks-off-in-boston-and-the-lowest-ticket-prices-vanish/)
-- [As NASA&#39;s budget shrinks, Europe doubles down on Earth science: &#39;Climate change is the defining challenge of our generation&#39;](https://www.space.com/science/climate-change/as-nasas-budget-shrinks-europe-doubles-down-on-earth-science-climate-change-is-the-defining-challenge-of-our-generation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
