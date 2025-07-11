@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA SLS rocket booster spews fire | Space photo of the day for July 11, 2025](https://www.space.com/space-exploration/nasa-sls-rocket-booster-spews-fire-space-photo-of-the-day-for-july-11-2025)
 - [Samsung is exploring new wearable form factors such as earrings and necklaces](https://techcrunch.com/2025/07/11/samsung-is-exploring-new-wearable-form-factors-such-as-earrings-and-necklaces/)
 - [US Space Force practices &#39;orbital warfare&#39; in largest-ever training event](https://www.space.com/space-exploration/satellites/us-space-force-practices-orbital-warfare-in-largest-ever-training-event)
-- [Indeed, Glassdoor to lay off 1,300 staff](https://techcrunch.com/2025/07/11/indeed-glassdoor-to-lay-off-1300-staff/)
+- [Indeed, Glassdoor to lay off 1,300 staff amid AI push](https://techcrunch.com/2025/07/11/indeed-glassdoor-to-lay-off-1300-staff/)
 - [Never lose your tech or skywatching gear again as the Apple AirTag is 31% off on the final day or Amazon Prime Day](https://www.space.com/technology/never-lose-your-tech-or-skywatching-gear-again-as-the-apple-airtag-is-31-off-on-the-final-day-or-amazon-prime-day-clone)
-- [Love Fujifilm? These are the best prices on the last day of Amazon Prime Day](https://www.space.com/stargazing/skywatching-kit/love-fujifilm-these-are-the-best-prices-on-the-last-day-of-amazon-prime-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
