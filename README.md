@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [July 2025 full &#39;Buck Moon&#39; dazzles skywatchers worldwide &lpar;photos&rpar;](https://www.space.com/stargazing/july-2025-full-buck-moon-dazzles-skywatchers-worldwide-photos)
+- [RealSense spins out of Intel to scale its stereoscopic imaging technology](https://techcrunch.com/2025/07/11/realsense-spins-out-of-intel-to-scale-its-stereoscopic-imaging-technology/)
+- [Champion lumberjack, reality TV star and Cabinet secretary: Who is Sean Duffy, NASA&#39;s new interim chief?](https://www.space.com/space-exploration/missions/champion-lumberjack-reality-tv-star-and-cabinet-secretary-who-is-sean-duffy-nasas-new-interim-chief)
 - [Astronomers say new interstellar visitor 3I/ATLAS is &#39;very likely to be the oldest comet we have ever seen&#39;](https://www.space.com/astronomy/asteroids/astronomers-say-new-interstellar-visitor-3i-atlas-is-very-likely-to-be-the-oldest-comet-we-have-ever-seen)
 - [$249 off these Canon image stabilized binoculars — make stargazing easy](https://www.space.com/stargazing/skywatching-kit/discounted-these-canon-image-stabilized-binoculars-make-stargazing-easy)
-- [Grok 4 seems to consult Elon Musk to answer controversial questions](https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/)
-- [Tesla is already trying to expand its robotaxi service to Arizona](https://techcrunch.com/2025/07/10/tesla-is-already-trying-to-expand-its-robotaxi-service-to-arizona/)
-- [AWS is launching an AI agent marketplace next week with Anthropic as a partner](https://techcrunch.com/2025/07/10/aws-is-launching-an-ai-agent-marketplace-next-week-with-anthropic-as-a-partner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
