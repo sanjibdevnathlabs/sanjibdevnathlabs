@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin surpasses $118K, its second all-time high, in less than 24 hours](https://techcrunch.com/2025/07/11/bitcoin-surpasses-118k-its-second-all-time-high-in-less-than-24-hours/)
+- [Julie Wainwright is building what comes next— Join her fireside chat at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/11/julie-wainwright-is-building-what-comes-next-join-her-fireside-chat-at-techcrunch-disrupt-2025/)
 - [Humanoids, AVs, and what’s next in AI hardware at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/11/humanoids-avs-and-whats-next-in-ai-hardware-at-techcrunch-disrupt-2025/)
 - [Asteroid 2024 YR4 won&#39;t Earth but it could still ruin your day: Here&#39;s how](https://www.space.com/astronomy/asteroids/asteroid-2024-yr4-wont-earth-but-it-could-still-ruin-your-day-heres-how)
 - [Today is your last chance to save a massive $165 on one of the best camera drones for Amazon Prime Day](https://www.space.com/technology/drones/one-of-the-best-camera-drones-is-165-off-for-amazon-prime-day)
-- [AI chatbot’s simple ‘123456’ password risked exposing personal data of millions of McDonald’s job applicants](https://techcrunch.com/2025/07/11/ai-chatbots-simple-123456-password-risked-exposing-personal-data-of-millions-of-mcdonalds-job-applicants/)
-- [YC-backed Apolink by 19-year-old bags $4.3M to build 24/7 connectivity for LEO satellites](https://techcrunch.com/2025/07/11/yc-backed-apolink-by-19-year-old-bags-4-3m-to-build-24-7-connectivity-for-leo-satellites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
