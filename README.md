@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Windsurf’s CEO goes to Google; OpenAI’s acquisition falls apart](https://techcrunch.com/2025/07/11/windsurfs-ceo-goes-to-google-openais-acquisition-falls-apart/)
 - [Firefly Aerospace files for an IPO](https://techcrunch.com/2025/07/11/firefly-aerospace-files-for-an-ipo/)
 - [Act fast to get the best cameras for less — Amazon Prime Day ends tonight](https://www.space.com/stargazing/skywatching-kit/act-fast-to-get-the-best-cameras-for-less-amazon-prime-day-ends-tonight)
 - [Can an ‘ethical’ spyware maker justify providing its tech to ICE?](https://techcrunch.com/2025/07/11/can-an-ethical-spyware-maker-provide-its-tech-to-ice/)
 - [Want a last minute steal? Save $200 on this pro-level Sony A7R IV mirrorless camera as Walmart takes on Amazon](https://www.space.com/stargazing/skywatching-kit/want-a-last-minute-steal-save-usd200-on-this-pro-level-sony-a7r-iv-mirrorless-camera-as-walmart-takes-on-amazon)
-- [&#39;Darkness is coming.&#39; &#39;Foundation&#39; Season 3 arrives today on Apple TV+](https://www.space.com/entertainment/darkness-is-coming-foundation-season-3-arrives-today-on-apple-tv)
 <!-- BLOG-POST-LIST:END -->
 
 ---
