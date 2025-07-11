@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung is exploring new wearable form factors such as earrings and necklaces](https://techcrunch.com/2025/07/11/samsung-is-exploring-new-wearable-form-factors-such-as-earrings-and-necklaces/)
+- [US Space Force practices &#39;orbital warfare&#39; in largest-ever training event](https://www.space.com/space-exploration/satellites/us-space-force-practices-orbital-warfare-in-largest-ever-training-event)
+- [Indeed, Glassdoor to lay off 1,300 staff](https://techcrunch.com/2025/07/11/indeed-glassdoor-to-lay-off-1300-staff/)
+- [Never lose your tech or skywatching gear again as the Apple AirTag is 31% off on the final day or Amazon Prime Day](https://www.space.com/technology/never-lose-your-tech-or-skywatching-gear-again-as-the-apple-airtag-is-31-off-on-the-final-day-or-amazon-prime-day-clone)
 - [Love Fujifilm? These are the best prices on the last day of Amazon Prime Day](https://www.space.com/stargazing/skywatching-kit/love-fujifilm-these-are-the-best-prices-on-the-last-day-of-amazon-prime-day)
-- [July 2025 full &#39;Buck Moon&#39; dazzles skywatchers worldwide &lpar;photos&rpar;](https://www.space.com/stargazing/july-2025-full-buck-moon-dazzles-skywatchers-worldwide-photos)
-- [RealSense spins out of Intel to scale its stereoscopic imaging technology](https://techcrunch.com/2025/07/11/realsense-spins-out-of-intel-to-scale-its-stereoscopic-imaging-technology/)
-- [Champion lumberjack, reality TV star and Cabinet secretary: Who is Sean Duffy, NASA&#39;s new interim chief?](https://www.space.com/space-exploration/missions/champion-lumberjack-reality-tv-star-and-cabinet-secretary-who-is-sean-duffy-nasas-new-interim-chief)
-- [Astronomers say new interstellar visitor 3I/ATLAS is &#39;very likely to be the oldest comet we have ever seen&#39;](https://www.space.com/astronomy/asteroids/astronomers-say-new-interstellar-visitor-3i-atlas-is-very-likely-to-be-the-oldest-comet-we-have-ever-seen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
