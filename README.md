@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA SLS rocket booster spews fire | Space photo of the day for July 11, 2025](https://www.space.com/space-exploration/nasa-sls-rocket-booster-spews-fire-space-photo-of-the-day-for-july-11-2025)
-- [Samsung is exploring new wearable form factors such as earrings and necklaces](https://techcrunch.com/2025/07/11/samsung-is-exploring-new-wearable-form-factors-such-as-earrings-and-necklaces/)
-- [US Space Force practices &#39;orbital warfare&#39; in largest-ever training event](https://www.space.com/space-exploration/satellites/us-space-force-practices-orbital-warfare-in-largest-ever-training-event)
-- [Indeed, Glassdoor to lay off 1,300 staff amid AI push](https://techcrunch.com/2025/07/11/indeed-glassdoor-to-lay-off-1300-staff/)
-- [Never lose your tech or skywatching gear again as the Apple AirTag is 31% off on the final day or Amazon Prime Day](https://www.space.com/technology/never-lose-your-tech-or-skywatching-gear-again-as-the-apple-airtag-is-31-off-on-the-final-day-or-amazon-prime-day-clone)
+- [YC-backed Apolink by 19-year-old bags $4.3M to build 24/7 connectivity for LEO satellites](https://techcrunch.com/2025/07/11/yc-backed-apolink-by-19-year-old-bags-4-3m-to-build-24-7-connectivity-for-leo-satellites/)
+- [Today is your last chance to save 20% on the most iconic starship in the Star Wars universe this Amazon Prime Day](https://www.space.com/technology/today-is-your-last-chance-to-save-20-percent-on-the-most-iconic-starship-in-the-star-wars-universe-this-amazon-prime-day)
+- [Helios wants to be the AI operating system for public policy professionals](https://techcrunch.com/2025/07/11/helios-wants-to-be-the-ai-operating-system-for-public-policy-professionals/)
+- [Just 4 days until TechCrunch All Stage kicks off in Boston — and the lowest ticket prices vanish](https://techcrunch.com/2025/07/11/just-4-days-until-techcrunch-all-stage-kicks-off-in-boston-and-the-lowest-ticket-prices-vanish/)
+- [As NASA&#39;s budget shrinks, Europe doubles down on Earth science: &#39;Climate change is the defining challenge of our generation&#39;](https://www.space.com/science/climate-change/as-nasas-budget-shrinks-europe-doubles-down-on-earth-science-climate-change-is-the-defining-challenge-of-our-generation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
