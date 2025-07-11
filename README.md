@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups Weekly: Still running](https://techcrunch.com/2025/07/11/startups-weekly-still-running/)
+- [Last chance budget-friendly Prime Day star projector deal — now under $14](https://www.space.com/technology/last-chance-budget-friendly-prime-day-star-projector-deal-now-under-14-dollars)
+- [CISA confirms hackers are actively exploiting critical ‘Citrix Bleed 2’ bug](https://techcrunch.com/2025/07/11/cisa-confirms-hackers-are-actively-exploiting-critical-citrix-bleed-2-bug/)
+- [Billionaire private astronaut Jared Isaacman donating $15 million for Space Camp programs](https://www.space.com/space-exploration/billionaire-private-astronaut-jared-isaacman-donating-usd15-million-for-space-camp-programs)
 - [Bitcoin surpasses $118K, its second all-time high, in less than 24 hours](https://techcrunch.com/2025/07/11/bitcoin-surpasses-118k-its-second-all-time-high-in-less-than-24-hours/)
-- [Julie Wainwright is building what comes next— Join her fireside chat at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/11/julie-wainwright-is-building-what-comes-next-join-her-fireside-chat-at-techcrunch-disrupt-2025/)
-- [Humanoids, AVs, and what’s next in AI hardware at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/11/humanoids-avs-and-whats-next-in-ai-hardware-at-techcrunch-disrupt-2025/)
-- [Asteroid 2024 YR4 won&#39;t Earth but it could still ruin your day: Here&#39;s how](https://www.space.com/astronomy/asteroids/asteroid-2024-yr4-wont-earth-but-it-could-still-ruin-your-day-heres-how)
-- [Today is your last chance to save a massive $165 on one of the best camera drones for Amazon Prime Day](https://www.space.com/technology/drones/one-of-the-best-camera-drones-is-165-off-for-amazon-prime-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
