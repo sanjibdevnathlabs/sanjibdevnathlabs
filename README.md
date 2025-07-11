@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sunspot crackling with magnetic &#39;bombs&#39; is now turning toward Earth &lpar;photo&rpar;](https://www.space.com/astronomy/sun/sunspot-crackling-with-magnetic-bombs-is-now-turning-toward-earth-photo)
+- [AI leadership development platform Praxis Labs sells to Torch](https://techcrunch.com/2025/07/11/ai-leadership-development-platform-praxis-labs-sells-to-torch/)
+- [Keeping wastewater flowing into tomorrow&#39;s coffee | On the ISS this week July 7 - 11, 2025](https://www.space.com/space-exploration/international-space-station/keeping-wastewater-flowing-into-tomorrows-coffee-on-the-iss-this-week-july-7-11-2025)
+- [AI coding tools may not speed up every developer, study shows](https://techcrunch.com/2025/07/11/ai-coding-tools-may-not-speed-up-every-developer-study-shows/)
 - [Prime Day is over but savings are still active — invest in some new optics for the return of Saturn to late-night skies](https://www.space.com/stargazing/skywatching-kit/prime-day-is-over-but-savings-can-still-be-found-invest-in-some-new-optics-for-the-return-of-saturn-to-late-night-skies)
-- [India’s richest man wants to turn every TV into a PC](https://techcrunch.com/2025/07/11/indias-richest-man-wants-to-turn-every-tv-into-a-pc/)
-- [A cloud seeding startup did not cause the Texas floods](https://techcrunch.com/2025/07/11/a-cloud-seeding-startup-did-not-cause-the-texas-floods/)
-- [I couldn&#39;t keep quiet about $1000 off the Sony A7R V in this anti-Prime Day deal](https://www.space.com/stargazing/skywatching-kit/i-couldnt-keep-quiet-about-usd1000-off-the-sony-a7r-v-in-this-anti-prime-day-deal)
+- [Sunspot crackling with magnetic &#39;bombs&#39; is now turning toward Earth &lpar;photo&rpar;](https://www.space.com/astronomy/sun/sunspot-crackling-with-magnetic-bombs-is-now-turning-toward-earth-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
