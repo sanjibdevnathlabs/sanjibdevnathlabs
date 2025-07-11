@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers say new interstellar visitor 3I/ATLAS is &#39;very likely to be the oldest comet we have ever seen&#39;](https://www.space.com/astronomy/asteroids/astronomers-say-new-interstellar-visitor-3i-atlas-is-very-likely-to-be-the-oldest-comet-we-have-ever-seen)
 - [$249 off these Canon image stabilized binoculars — make stargazing easy](https://www.space.com/stargazing/skywatching-kit/discounted-these-canon-image-stabilized-binoculars-make-stargazing-easy)
 - [Grok 4 seems to consult Elon Musk to answer controversial questions](https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/)
 - [Tesla is already trying to expand its robotaxi service to Arizona](https://techcrunch.com/2025/07/10/tesla-is-already-trying-to-expand-its-robotaxi-service-to-arizona/)
 - [AWS is launching an AI agent marketplace next week with Anthropic as a partner](https://techcrunch.com/2025/07/10/aws-is-launching-an-ai-agent-marketplace-next-week-with-anthropic-as-a-partner/)
-- [Where AI meets design: Runway co-founder Alejandro Matamala Ortiz takes the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/10/where-ai-meets-design-runway-co-founder-alejandro-matamala-ortiz-takes-the-ai-stage-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
