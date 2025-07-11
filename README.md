@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Startups Weekly: Still running](https://techcrunch.com/2025/07/11/startups-weekly-still-running/)
-- [Last chance budget-friendly Prime Day star projector deal — now under $14](https://www.space.com/technology/last-chance-budget-friendly-prime-day-star-projector-deal-now-under-14-dollars)
-- [CISA confirms hackers are actively exploiting critical ‘Citrix Bleed 2’ bug](https://techcrunch.com/2025/07/11/cisa-confirms-hackers-are-actively-exploiting-critical-citrix-bleed-2-bug/)
-- [Billionaire private astronaut Jared Isaacman donating $15 million for Space Camp programs](https://www.space.com/space-exploration/billionaire-private-astronaut-jared-isaacman-donating-usd15-million-for-space-camp-programs)
-- [Bitcoin surpasses $118K, its second all-time high, in less than 24 hours](https://techcrunch.com/2025/07/11/bitcoin-surpasses-118k-its-second-all-time-high-in-less-than-24-hours/)
+- [France is investigating X over foreign interference, while a MP also criticizes Grok](https://techcrunch.com/2025/07/11/france-is-investigating-x-over-foreign-interference-while-a-mp-also-criticizes-grok/)
+- [TechCrunch Mobility: Tesla enters its Grok era, and teens come for robotaxis](https://techcrunch.com/2025/07/11/techcrunch-mobility-tesla-enters-its-grok-era-and-teens-come-for-robotaxis/)
+- [Sarah Smith launches $16M fund, says AI can ‘unlock’ so much for solo GPs like herself](https://techcrunch.com/2025/07/11/sarah-smith-launches-16m-fund-says-ai-can-unlock-so-much-for-solo-gps-like-herself/)
+- [The Fortress of Solitude: Every live-action incarnation of Superman&#39;s iconic ice hideout](https://www.space.com/entertainment/space-movies-shows/the-fortress-of-solitude-every-live-action-incarnation-of-supermans-iconic-ice-hideout)
+- [Goldman Sachs is testing viral AI agent Devin as a ‘new employee’](https://techcrunch.com/2025/07/11/goldman-sachs-is-testing-viral-ai-agent-devin-as-a-new-employee/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
