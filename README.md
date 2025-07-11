@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Grok 4 seems to consult Elon Musk to answer controversial questions](https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/)
+- [Tesla is already trying to expand its robotaxi service to Arizona](https://techcrunch.com/2025/07/10/tesla-is-already-trying-to-expand-its-robotaxi-service-to-arizona/)
 - [AWS is launching an AI agent marketplace next week with Anthropic as a partner](https://techcrunch.com/2025/07/10/aws-is-launching-an-ai-agent-marketplace-next-week-with-anthropic-as-a-partner/)
 - [Where AI meets design: Runway co-founder Alejandro Matamala Ortiz takes the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/10/where-ai-meets-design-runway-co-founder-alejandro-matamala-ortiz-takes-the-ai-stage-at-techcrunch-disrupt-2025/)
 - [NASA, SpaceX targeting July 31 for launch of Crew-11 astronaut mission to ISS](https://www.space.com/space-exploration/international-space-station/nasa-spacex-targeting-july-31-for-launch-of-crew-11-astronaut-mission-to-iss)
-- [How to actually raise a seed round: Actionable advice from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/10/how-to-actually-raise-a-seed-round-actionable-advice-from-top-investors-at-techcrunch-disrupt-2025-on-july-15/)
-- [Former Intel CEO launches a benchmark to measure AI alignment](https://techcrunch.com/2025/07/10/former-intel-ceo-launches-a-benchmark-to-measure-ai-alignment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
