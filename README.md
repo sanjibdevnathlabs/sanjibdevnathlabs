@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Who is Metamorpho, the shape-shifting miracle in James Gunn&#39;s &#39;Superman&#39;?](https://www.space.com/entertainment/who-is-metamorpho-the-shape-shifting-miracle-in-james-gunns-superman)
 - [Inside New Brunswick&#39;s ambituous plan for the world&#39;s densest dark-sky corridor](https://www.space.com/stargazing/inside-new-brunswicks-ambituous-plan-for-the-worlds-densest-dark-sky-corridor)
 - [We&#39;ve tested loads of space tech and these are the best Amazon Prime Day deals still available — star projectors, model rockets, drones and more](https://www.space.com/technology/weve-tested-loads-of-space-tech-and-these-are-the-best-amazon-prime-day-deals-still-available)
 - [Just 3 days left to save before TechCrunch All Stage 2025 lights up Boston](https://techcrunch.com/2025/07/12/just-3-days-left-to-save-before-tc-all-stage-2025-lights-up-boston/)
 - [Don&#39;t miss the stars of the Summer Triangle twinkling in the eastern sky this weekend](https://www.space.com/stargazing/dont-miss-the-stars-of-the-summer-triangle-twinkling-in-the-eastern-sky-this-weekend)
-- [Could asteroid mining actually work? Maybe if we start with impact sites on the moon](https://www.space.com/astronomy/asteroids/could-asteroid-mining-actually-work-maybe-if-we-start-with-impact-sites-on-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
