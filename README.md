@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside New Brunswick&#39;s ambituous plan for the world&#39;s densest dark-sky corridor](https://www.space.com/stargazing/inside-new-brunswicks-ambituous-plan-for-the-worlds-densest-dark-sky-corridor)
+- [We&#39;ve tested loads of space tech and these are the best Amazon Prime Day deals still available — star projectors, model rockets, drones and more](https://www.space.com/technology/weve-tested-loads-of-space-tech-and-these-are-the-best-amazon-prime-day-deals-still-available)
 - [Just 3 days left to save before TechCrunch All Stage 2025 lights up Boston](https://techcrunch.com/2025/07/12/just-3-days-left-to-save-before-tc-all-stage-2025-lights-up-boston/)
 - [Don&#39;t miss the stars of the Summer Triangle twinkling in the eastern sky this weekend](https://www.space.com/stargazing/dont-miss-the-stars-of-the-summer-triangle-twinkling-in-the-eastern-sky-this-weekend)
 - [Could asteroid mining actually work? Maybe if we start with impact sites on the moon](https://www.space.com/astronomy/asteroids/could-asteroid-mining-actually-work-maybe-if-we-start-with-impact-sites-on-the-moon)
-- [Chinese company Landspace aims to debut its reusable methane rocket this year &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/chinese-company-landspace-aims-to-debut-its-reusable-methane-rocket-this-year-video)
-- [Sequoia bets on silence](https://techcrunch.com/2025/07/11/sequoia-bets-on-silence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
