@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A United Nations research institute created an AI refugee avatar](https://techcrunch.com/2025/07/12/a-united-nations-research-institute-created-an-ai-refugee-avatar/)
 - [Marc Andreessen reportedly told group chat that universities will ‘pay the price’ for DEI](https://techcrunch.com/2025/07/12/marc-andreessen-reportedly-told-group-chat-that-universities-will-pay-the-price-for-dei/)
 - [Week in Review: X CEO Linda Yaccarino steps down](https://techcrunch.com/2025/07/12/week-in-review-x-ceo-linda-yaccarino-steps-down/)
 - [xAI and Grok apologize for ‘horrific behavior’](https://techcrunch.com/2025/07/12/xai-and-grok-apologize-for-horrific-behavior/)
 - [&#39;Mycopunk&#39; is what happens when &#39;Borderlands&#39; gets a nasty fungal infection &lpar;Interview&rpar;](https://www.space.com/entertainment/space-games/mycopunk-is-what-happens-when-borderlands-gets-a-nasty-fungal-infection-interview)
-- [This Week In Space podcast: Episode 168 — &quot;Survivor: NASA&quot;](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-168-survivor-nasa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
