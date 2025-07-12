@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Could asteroid mining actually work? Maybe if we start with impact sites on the moon](https://www.space.com/astronomy/asteroids/could-asteroid-mining-actually-work-maybe-if-we-start-with-impact-sites-on-the-moon)
 - [Chinese company Landspace aims to debut its reusable methane rocket this year &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/chinese-company-landspace-aims-to-debut-its-reusable-methane-rocket-this-year-video)
 - [Sequoia bets on silence](https://techcrunch.com/2025/07/11/sequoia-bets-on-silence/)
 - [OpenAI delays the release of its open model, again](https://techcrunch.com/2025/07/11/openai-delays-the-release-of-its-open-model-again/)
 - [Windsurf’s CEO goes to Google; OpenAI’s acquisition falls apart](https://techcrunch.com/2025/07/11/windsurfs-ceo-goes-to-google-openais-acquisition-falls-apart/)
-- [Firefly Aerospace files for an IPO](https://techcrunch.com/2025/07/11/firefly-aerospace-files-for-an-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
