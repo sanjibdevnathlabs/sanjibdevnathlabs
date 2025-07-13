@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Earth may have at least 6 &#39;minimoons&#39; at any given time. Where do they come from?](https://www.space.com/astronomy/earth-may-have-at-least-6-minimoons-at-any-given-time-where-do-they-come-from)
 - [SpaceX launches mystery satellite to geostationary transfer orbit](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-mystery-satellite-to-geostationary-transfer-orbit)
 - [A United Nations research institute created an AI refugee avatar](https://techcrunch.com/2025/07/12/a-united-nations-research-institute-created-an-ai-refugee-avatar/)
 - [Marc Andreessen reportedly told group chat that universities will ‘pay the price’ for DEI](https://techcrunch.com/2025/07/12/marc-andreessen-reportedly-told-group-chat-that-universities-will-pay-the-price-for-dei/)
 - [Week in Review: X CEO Linda Yaccarino steps down](https://techcrunch.com/2025/07/12/week-in-review-x-ceo-linda-yaccarino-steps-down/)
-- [xAI and Grok apologize for ‘horrific behavior’](https://techcrunch.com/2025/07/12/xai-and-grok-apologize-for-horrific-behavior/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
