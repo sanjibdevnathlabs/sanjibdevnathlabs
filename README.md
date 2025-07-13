@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk’s SpaceX might invest $2 billion in Musk’s xAI](https://techcrunch.com/2025/07/13/elon-musks-spacex-might-invest-2-billion-in-musks-xai/)
+- [Private Ax-4 astronauts heading back to Earth early July 14: Watch it live](https://www.space.com/space-exploration/private-spaceflight/private-ax-4-astronauts-heading-back-to-earth-early-july-14-watch-it-live)
+- [UK launches £500M package to support diverse, underrepresented investors and founders](https://techcrunch.com/2025/07/13/uk-launches-500-package-to-support-diverse-underrepresented-investors-and-founders/)
 - [&#39;Pebble&#39; beaches around young stars join together to form planets](https://www.space.com/astronomy/pebble-beaches-around-young-stars-join-together-to-form-planets)
 - [The countdown’s almost over: 2 days until TechCrunch All Stage 2025 kicks off in Boston](https://techcrunch.com/2025/07/13/the-countdowns-almost-over-2-days-until-techcrunch-all-stage-2025-kicks-off-in-boston/)
-- [Experts ask where the center of the universe is](https://www.space.com/astronomy/experts-ask-where-the-center-of-the-universe-is)
-- [Feast your eyes on the shortlisted pics for the 2025 ZWO Astronomy Photographer of the Year Awards &lpar;photos&rpar;](https://www.space.com/stargazing/feast-your-eyes-on-the-shortlisted-pics-for-the-2025-zwo-astronomy-photographer-of-the-year-awards-photos)
-- [Earth may have at least 6 &#39;minimoons&#39; at any given time. Where do they come from?](https://www.space.com/astronomy/earth-may-have-at-least-6-minimoons-at-any-given-time-where-do-they-come-from)
 <!-- BLOG-POST-LIST:END -->
 
 ---
