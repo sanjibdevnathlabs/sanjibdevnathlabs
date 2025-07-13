@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Pebble&#39; beaches around young stars join together to form planets](https://www.space.com/astronomy/pebble-beaches-around-young-stars-join-together-to-form-planets)
 - [The countdown’s almost over: 2 days until TechCrunch All Stage 2025 kicks off in Boston](https://techcrunch.com/2025/07/13/the-countdowns-almost-over-2-days-until-techcrunch-all-stage-2025-kicks-off-in-boston/)
 - [Experts ask where the center of the universe is](https://www.space.com/astronomy/experts-ask-where-the-center-of-the-universe-is)
 - [Feast your eyes on the shortlisted pics for the 2025 ZWO Astronomy Photographer of the Year Awards &lpar;photos&rpar;](https://www.space.com/stargazing/feast-your-eyes-on-the-shortlisted-pics-for-the-2025-zwo-astronomy-photographer-of-the-year-awards-photos)
 - [Earth may have at least 6 &#39;minimoons&#39; at any given time. Where do they come from?](https://www.space.com/astronomy/earth-may-have-at-least-6-minimoons-at-any-given-time-where-do-they-come-from)
-- [SpaceX launches mystery satellite to geostationary transfer orbit &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-mystery-satellite-to-geostationary-transfer-orbit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
