@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jack Dorsey’s latest app tracks sun exposure](https://techcrunch.com/2025/07/14/jack-dorseys-latest-app-tracks-sun-exposure/)
 - [Gravitational waves reveal most massive black hole merger ever detected — one &#39;forbidden&#39; by current models](https://www.space.com/astronomy/black-holes/gravitational-waves-reveal-most-massive-black-hole-merger-ever-detected-one-forbidden-by-current-models)
 - [Meta acquires voice startup Play AI](https://techcrunch.com/2025/07/13/meta-acquires-voice-startup-play-ai/)
 - [Study warns of ‘significant risks’ in using AI therapy chatbots](https://techcrunch.com/2025/07/13/study-warns-of-significant-risks-in-using-ai-therapy-chatbots/)
 - [Elon Musk’s SpaceX might invest $2 billion in Musk’s xAI](https://techcrunch.com/2025/07/13/elon-musks-spacex-might-invest-2-billion-in-musks-xai/)
-- [Private Ax-4 astronauts heading back to Earth early July 14: Watch it live](https://www.space.com/space-exploration/private-spaceflight/private-ax-4-astronauts-heading-back-to-earth-early-july-14-watch-it-live)
 <!-- BLOG-POST-LIST:END -->
 
 ---
