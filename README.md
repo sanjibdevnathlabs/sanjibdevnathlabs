@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Don’t miss the moon pass close to Saturn and Neptune on July 15](https://www.space.com/stargazing/dont-miss-the-moon-pass-close-to-saturn-and-neptune-on-july-15)
-- [Malaysia will require trade permits for U.S. AI chips](https://techcrunch.com/2025/07/14/malaysia-will-require-trade-permits-for-u-s-ai-chips/)
-- [NotebookLM adds featured notebooks from The Economist, The Atlantic and others](https://techcrunch.com/2025/07/14/notebooklm-adds-featured-notebooks-from-the-economist-the-atlantic-and-others/)
-- [Scientists find Uranus is surprisingly warm, heating up the case for a new planetary mission](https://www.space.com/astronomy/uranus/scientists-find-uranus-is-surprisingly-warm-heating-up-the-case-for-a-new-planetary-mission)
-- [Prime Day event drove over $24B in U.S. e-commerce sales, gen AI traffic was up 3,300%](https://techcrunch.com/2025/07/14/prime-day-event-drove-over-24b-in-u-s-e-commerce-sales-gen-ai-traffic-was-up-3300/)
+- [Episource is notifying millions of people that their health data was stolen](https://techcrunch.com/2025/07/14/episource-is-notifying-millions-of-people-that-their-health-data-was-stolen/)
+- [Happy anniversary, Mariner 4! NASA probe got 1st-ever up-close look at Mars 60 years ago today](https://www.space.com/astronomy/mars/happy-anniversary-mariner-4-nasa-probe-got-1st-ever-up-close-look-at-mars-60-years-ago-today)
+- [NASA just took the closest-ever images of the sun, and they are incredible &lpar;video&rpar;](https://www.space.com/astronomy/sun/nasa-just-took-the-closest-ever-images-of-the-sun-and-they-are-incredible-video)
+- [Cognition, maker of the AI coding agent Devin, acquires Windsurf](https://techcrunch.com/2025/07/14/cognition-maker-of-the-ai-coding-agent-devin-acquires-windsurf/)
+- [Trump administration to spend $1 billion on ‘offensive’ hacking operations](https://techcrunch.com/2025/07/14/trump-administration-to-spend-1-billion-on-offensive-hacking-operations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
