@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists find Uranus is surprisingly warm, heating up the case for a new planetary mission](https://www.space.com/astronomy/uranus/scientists-find-uranus-is-surprisingly-warm-heating-up-the-case-for-a-new-planetary-mission)
+- [Prime Day event drove over $24B in U.S. e-commerce sales, gen AI traffic was up 3,300%](https://techcrunch.com/2025/07/14/prime-day-event-drove-over-24b-in-u-s-e-commerce-sales-gen-ai-traffic-was-up-3300/)
 - [Mark Zuckerberg says Meta is building a 5GW AI data center](https://techcrunch.com/2025/07/14/mark-zuckerberg-says-meta-is-building-a-5gw-ai-data-center/)
 - [Weekly subscriptions dominate iOS app revenue, report finds](https://techcrunch.com/2025/07/14/weekly-subscriptions-dominate-ios-app-revenue-report-finds/)
 - [GM to challenge China’s LFP monopoly with upgraded battery factory](https://techcrunch.com/2025/07/14/gm-to-challenge-chinas-lfp-monopoly-with-upgraded-battery-factory/)
-- [Rainmaker partners with Atmo to squeeze more rain from clouds](https://techcrunch.com/2025/07/14/rainmaker-partners-with-atmo-to-squeeze-more-rain-from-clouds/)
-- [Snow covers the SOAR Telescope in Chile | Space photo of the day for July 14, 2025](https://www.space.com/astronomy/snow-covers-the-soar-telescope-in-chile-space-photo-of-the-day-for-july-14-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
