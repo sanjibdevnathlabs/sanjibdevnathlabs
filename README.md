@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Foundation&#39; stars Laura Birn &amp; Lee Pace talk heavy burdens and being an intergalactic stoner for Season 3 &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/foundation-stars-laura-birn-and-lee-pace-talk-heavy-burdens-and-being-an-intergalactic-stoner-for-season-3-exclusive)
 - [Episource is notifying millions of people that their health data was stolen](https://techcrunch.com/2025/07/14/episource-is-notifying-millions-of-people-that-their-health-data-was-stolen/)
 - [Happy anniversary, Mariner 4! NASA probe got 1st-ever up-close look at Mars 60 years ago today](https://www.space.com/astronomy/mars/happy-anniversary-mariner-4-nasa-probe-got-1st-ever-up-close-look-at-mars-60-years-ago-today)
 - [NASA just took the closest-ever images of the sun, and they are incredible &lpar;video&rpar;](https://www.space.com/astronomy/sun/nasa-just-took-the-closest-ever-images-of-the-sun-and-they-are-incredible-video)
 - [Cognition, maker of the AI coding agent Devin, acquires Windsurf](https://techcrunch.com/2025/07/14/cognition-maker-of-the-ai-coding-agent-devin-acquires-windsurf/)
-- [Trump administration to spend $1 billion on ‘offensive’ hacking operations](https://techcrunch.com/2025/07/14/trump-administration-to-spend-1-billion-on-offensive-hacking-operations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
