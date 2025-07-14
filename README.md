@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former Sequoia partner Matt Miller raises $355M for new fund — with Sequoia’s backing](https://techcrunch.com/2025/07/14/former-sequoia-partner-matt-miller-raises-355m-for-new-fund-with-sequoias-backing/)
 - [Ravenous &#39;vampire&#39; stars may use cosmic accomplices to help devour stellar victims](https://www.space.com/astronomy/ravenous-vampire-stars-may-use-cosmic-accomplices-to-help-devour-stellar-victims)
 - [Following YouTube, Meta announces crackdown on ‘unoriginal’ Facebook content](https://techcrunch.com/2025/07/14/following-youtube-meta-announces-crackdown-on-unoriginal-facebook-content/)
 - [&#39;Foundation&#39; stars Laura Birn &amp; Lee Pace talk heavy burdens and being an intergalactic stoner for Season 3 &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/foundation-stars-laura-birn-and-lee-pace-talk-heavy-burdens-and-being-an-intergalactic-stoner-for-season-3-exclusive)
 - [Episource is notifying millions of people that their health data was stolen](https://techcrunch.com/2025/07/14/episource-is-notifying-millions-of-people-that-their-health-data-was-stolen/)
-- [Happy anniversary, Mariner 4! NASA probe got 1st-ever up-close look at Mars 60 years ago today](https://www.space.com/astronomy/mars/happy-anniversary-mariner-4-nasa-probe-got-1st-ever-up-close-look-at-mars-60-years-ago-today)
 <!-- BLOG-POST-LIST:END -->
 
 ---
