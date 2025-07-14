@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tomorrow: TechCrunch All Stage launches in Boston — and ticket prices rise](https://techcrunch.com/2025/07/14/tomorrow-techcrunch-all-stage-launches-in-boston-and-ticket-prices-rise/)
+- [Elmo’s X account hacked to publish racist and antisemetic posts](https://techcrunch.com/2025/07/14/sesame-street-elmo-x-account-hacked-racist-antisemetic-posts/)
+- [Discord’s virtual reward, ‘Orbs,’ launches out of beta](https://techcrunch.com/2025/07/14/discords-virtual-reward-orbs-launches-out-of-beta/)
+- [Trump&#39;s &#39;One Big Beautiful Bill&#39; gives US Space Force $1 billion for secretive X-37B space plane](https://www.space.com/space-exploration/trumps-one-big-beautiful-bill-gives-us-space-force-usd1-billion-for-secretive-x-37b-space-plane)
 - [Private Ax-4 astronauts depart ISS after unexpected extended stay &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/private-ax-4-astronauts-depart-iss-after-unexpected-extended-stay-video)
-- [Jack Dorsey’s latest app tracks sun exposure](https://techcrunch.com/2025/07/14/jack-dorseys-latest-app-tracks-sun-exposure/)
-- [Gravitational waves reveal most massive black hole merger ever detected — one &#39;forbidden&#39; by current models](https://www.space.com/astronomy/black-holes/gravitational-waves-reveal-most-massive-black-hole-merger-ever-detected-one-forbidden-by-current-models)
-- [Meta acquires voice startup Play AI](https://techcrunch.com/2025/07/13/meta-acquires-voice-startup-play-ai/)
-- [Study warns of ‘significant risks’ in using AI therapy chatbots](https://techcrunch.com/2025/07/13/study-warns-of-significant-risks-in-using-ai-therapy-chatbots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
