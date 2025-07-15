@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trump&#39;s &#39;Big Beautiful Bill&#39; pushes for crewed moon missions, but proposed budget cuts leave NASA science behind](https://www.space.com/space-exploration/trumps-big-beautiful-bill-pushes-for-crewed-moon-missions-but-proposed-budget-cuts-leave-nasa-science-behind)
-- [DOGE staffer with access to Americans’ personal data leaked private xAI API key](https://techcrunch.com/2025/07/15/doge-staffer-with-access-to-americans-personal-data-leaked-private-xai-api-key/)
-- [China’s Geely is officially bringing its luxury EV startup Zeekr private](https://techcrunch.com/2025/07/15/chinas-geely-is-officially-bringing-its-luxury-ev-startup-zeekr-private/)
-- [ParadeDB takes on Elasticsearch as interest in Postgres explodes amid AI boom](https://techcrunch.com/2025/07/15/paradedb-takes-on-elasticsearch-as-interest-in-postgres-explodes-amid-ai-boom/)
-- [xAI says it has fixed Grok 4’s problematic responses](https://techcrunch.com/2025/07/15/xai-says-it-has-fixed-grok-4s-problematic-responses/)
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/15/tech-layoffs-2025-list/)
+- [Uber’s latest robotaxi partner is China’s Baidu](https://techcrunch.com/2025/07/15/ubers-latest-robotaxi-partner-is-chinas-baidu/)
+- [SpaceX will launch next Starship flight in &#39;about 3 weeks,&#39; Elon Musk says](https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-next-starship-flight-in-about-3-weeks-elon-musk-says)
+- [Reddit rolls out age verification in the UK to comply with new rules](https://techcrunch.com/2025/07/15/reddit-rolls-out-age-verification-in-the-uk-to-comply-with-new-rules/)
+- [Deals you missed on Prime Day — get these extended deals now before they are gone](https://www.space.com/stargazing/deals-you-missed-on-prime-day-get-these-extended-deals-now-before-they-are-gone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
