@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta fixes bug that could leak users’ AI prompts and generated content](https://techcrunch.com/2025/07/15/meta-fixes-bug-that-could-leak-users-ai-prompts-and-generated-content/)
+- [Watch SpaceX launch the 3rd batch of satellites for Amazon&#39;s Project Kuiper megaconstellation early on July 16](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-the-3rd-batch-of-satellites-for-amazons-project-kuiper-megaconstellation-early-on-july-16)
 - [Revenge of the Savage Planet is an &#39;upbeat, optimistic dystopia&#39; that pulls no punches on our corporate overlords &lpar;interview&rpar;](https://www.space.com/entertainment/space-games/revenge-of-the-savage-planet-is-an-upbeat-optimistic-dystopia-that-pulls-no-punches-on-our-corporate-overlords-interview)
 - [AV startup Pronto.ai acquires off-road autonomous vehicle rival SafeAI](https://techcrunch.com/2025/07/15/av-startup-pronto-ai-acquires-off-road-autonomous-vehicle-rival-safeai/)
 - [The Perseid meteor shower kicks off summer &#39;shooting star&#39; season this week. Here&#39;s how to see it](https://www.space.com/stargazing/meteor-showers/the-perseid-meteor-shower-kicks-off-summer-shooting-star-season-this-week-heres-how-to-see-it)
-- [Mira Murati’s Thinking Machines Lab is worth $12B in seed round](https://techcrunch.com/2025/07/15/mira-muratis-thinking-machines-lab-is-worth-12b-in-seed-round/)
-- [Google Discover adds AI summaries, threatening publishers with further traffic declines](https://techcrunch.com/2025/07/15/google-discover-adds-ai-summaries-threatening-publishers-with-further-traffic-declines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
