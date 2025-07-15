@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The rights to Fyre Festival sold on eBay for 245K](https://techcrunch.com/2025/07/15/the-rights-to-fyre-festival-sold-on-ebay-for-245k/)
+- [Lucid Motors will roll out hands-free highway driving this month](https://techcrunch.com/2025/07/15/lucid-motors-will-roll-out-hands-free-highway-driving-this-month/)
+- [Ukrainian hackers claim to have destroyed servers of Russian drone maker](https://techcrunch.com/2025/07/15/ukrainian-hackers-claim-to-have-destroyed-servers-of-russian-drone-maker/)
+- [AI coding tools are shifting to a surprising place: the terminal](https://techcrunch.com/2025/07/15/ai-coding-tools-are-shifting-to-a-surprising-place-the-terminal/)
 - [Research leaders urge tech industry to monitor AI’s ‘thoughts’](https://techcrunch.com/2025/07/15/research-leaders-urge-tech-industry-to-monitor-ais-thoughts/)
-- [Venture gets a rare Native American-led fund in Betsy Fore’s Velveteen Ventures](https://techcrunch.com/2025/07/15/venture-gets-a-rare-native-american-led-fund-in-betsy-fores-velveteen-ventures/)
-- [&#39;Boldness is all!&#39; — &#39;Murderbot&#39; is getting a season 2 on Apple TV+](https://www.space.com/entertainment/space-movies-shows/boldness-is-all-murderbot-is-getting-a-season-2-on-apple-tv)
-- [Astronomers hike up Mount Blanc for the view | Space photo of the day for July 15, 2025](https://www.space.com/astronomy/astronomers-hike-up-mount-blanc-for-the-view-space-photo-of-the-day-for-july-15-2025)
-- [Mistral releases Voxtral, its first open source AI audio model](https://techcrunch.com/2025/07/15/mistral-releases-voxtral-its-first-open-source-ai-audio-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
