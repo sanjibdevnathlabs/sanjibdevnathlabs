@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Chainsmokers’ Mantis Ventures closes $100M third fund](https://techcrunch.com/2025/07/15/the-chainsmokers-mantis-ventures-closes-100m-third-fund/)
+- [Amazon’s Kuiper satellites to get boost from rival SpaceX](https://techcrunch.com/2025/07/15/amazons-kuiper-satellites-to-get-boost-from-rival-spacex/)
 - [The precursors of life could form in the lakes of Saturn&#39;s moon Titan](https://www.space.com/space-exploration/search-for-life/the-precursors-of-life-could-form-in-the-lakes-of-saturns-moon-titan)
 - [US Army soldier pleads guilty to hacking telcos and extortion](https://techcrunch.com/2025/07/15/us-army-soldier-pleads-guilty-to-hacking-telcos-and-extortion/)
 - [A former OpenAI engineer describes what it’s really like to work there](https://techcrunch.com/2025/07/15/a-former-openai-engineer-describes-what-its-really-like-to-work-there/)
-- [Meta fixes bug that could leak users’ AI prompts and generated content](https://techcrunch.com/2025/07/15/meta-fixes-bug-that-could-leak-users-ai-prompts-and-generated-content/)
-- [Watch SpaceX launch the 3rd batch of satellites for Amazon&#39;s Project Kuiper megaconstellation early on July 16](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-the-3rd-batch-of-satellites-for-amazons-project-kuiper-megaconstellation-early-on-july-16)
 <!-- BLOG-POST-LIST:END -->
 
 ---
