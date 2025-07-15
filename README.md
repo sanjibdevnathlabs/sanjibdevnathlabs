@@ -146,7 +146,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Brian Singerman’s new fund has a twist, and Peter Thiel as a big backer](https://techcrunch.com/2025/07/14/brian-singermans-new-fund-has-a-twist-and-peter-thiel-as-a-big-backer/)
+- [Brian Singerman is raising over $500M for a new fund with a twist on the VC model](https://techcrunch.com/2025/07/14/brian-singermans-new-fund-has-a-twist-and-peter-thiel-as-a-big-backer/)
 - [Meta built its AI reputation on openness — that may be changing](https://techcrunch.com/2025/07/14/meta-built-its-ai-reputation-on-openness-that-may-be-changing/)
 - [China launches new spacesuits, other supplies to Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-launches-new-spacesuits-other-supplies-to-tiangong-space-station)
 - [Former Sequoia partner Matt Miller raises $355M for new fund — with Sequoia’s backing](https://techcrunch.com/2025/07/14/former-sequoia-partner-matt-miller-raises-355m-for-new-fund-with-sequoias-backing/)
