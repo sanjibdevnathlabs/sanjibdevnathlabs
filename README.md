@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amogy raises $80M to power ships and data centers with ammonia](https://techcrunch.com/2025/07/15/amogy-raises-80m-to-power-ships-and-data-centers-with-ammonia/)
-- [Astronomers discover giant alien planet 35 times more massive than Earth hiding in a known star system](https://www.space.com/astronomy/astronomers-discover-giant-alien-planet-35-times-more-massive-than-earth-hiding-in-a-known-star-system)
-- [TechCrunch All Stage launches in Boston today — don’t miss what founders are learning](https://techcrunch.com/2025/07/15/techcrunch-all-stage-launches-in-boston-today-dont-miss-what-founders-are-learning/)
-- [Private Ax-4 astronauts splash down aboard SpaceX capsule to conclude ISS mission &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/private-ax-4-astronauts-splash-down-aboard-spacex-capsule-to-conclude-iss-mission)
-- [Nextdoor redesigns app with AI recommendations, local news, and real-time emergency alerts](https://techcrunch.com/2025/07/15/nextdoor-redesigns-app-with-ai-recommendations-local-news-and-real-time-emergency-alerts/)
+- [China’s Geely is officially bringing its luxury EV startup Zeekr private](https://techcrunch.com/2025/07/15/chinas-geely-is-officially-bringing-its-luxury-ev-startup-zeekr-private/)
+- [ParadeDB takes on Elasticsearch as interest in Postgres explodes amid AI boom](https://techcrunch.com/2025/07/15/paradedb-takes-on-elasticsearch-as-interest-in-postgres-explodes-amid-ai-boom/)
+- [xAI says it has fixed Grok 4’s problematic responses](https://techcrunch.com/2025/07/15/xai-says-it-has-fixed-grok-4s-problematic-responses/)
+- [Google inks $3B deal to buy hydropower from Brookfield](https://techcrunch.com/2025/07/15/google-inks-3b-deal-to-buy-hydropower-from-brookfield/)
+- [Auriga Space raises $6M to shoot rockets off an electromagnetic launch track](https://techcrunch.com/2025/07/15/auriga-space-raises-6m-to-shoot-rockets-off-an-electromagnetic-launch-track/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
