@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump&#39;s &#39;Big Beautiful Bill&#39; pushes for crewed moon missions, but proposed budget cuts leave NASA science behind](https://www.space.com/space-exploration/trumps-big-beautiful-bill-pushes-for-crewed-moon-missions-but-proposed-budget-cuts-leave-nasa-science-behind)
+- [DOGE staffer with access to Americans’ personal data leaked private xAI API key](https://techcrunch.com/2025/07/15/doge-staffer-with-access-to-americans-personal-data-leaked-private-xai-api-key/)
 - [China’s Geely is officially bringing its luxury EV startup Zeekr private](https://techcrunch.com/2025/07/15/chinas-geely-is-officially-bringing-its-luxury-ev-startup-zeekr-private/)
 - [ParadeDB takes on Elasticsearch as interest in Postgres explodes amid AI boom](https://techcrunch.com/2025/07/15/paradedb-takes-on-elasticsearch-as-interest-in-postgres-explodes-amid-ai-boom/)
 - [xAI says it has fixed Grok 4’s problematic responses](https://techcrunch.com/2025/07/15/xai-says-it-has-fixed-grok-4s-problematic-responses/)
-- [Google inks $3B deal to buy hydropower from Brookfield](https://techcrunch.com/2025/07/15/google-inks-3b-deal-to-buy-hydropower-from-brookfield/)
-- [Auriga Space raises $6M to shoot rockets off an electromagnetic launch track](https://techcrunch.com/2025/07/15/auriga-space-raises-6m-to-shoot-rockets-off-an-electromagnetic-launch-track/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
