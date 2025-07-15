@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Private Ax-4 astronauts splash down aboard SpaceX capsule to conclude ISS mission &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/private-ax-4-astronauts-splash-down-aboard-spacex-capsule-to-conclude-iss-mission)
 - [Nextdoor redesigns app with AI recommendations, local news, and real-time emergency alerts](https://techcrunch.com/2025/07/15/nextdoor-redesigns-app-with-ai-recommendations-local-news-and-real-time-emergency-alerts/)
 - [Tesla finally enters India — nine years after Elon Musk first teased its debut](https://techcrunch.com/2025/07/14/tesla-finally-enters-india-nine-years-after-elon-musk-first-teased-its-debut/)
 - [Meta is reportedly using actual tents to build data centers](https://techcrunch.com/2025/07/14/meta-is-reportedly-using-actual-tents-to-build-data-centers/)
 - [Nvidia is set to resume China chip sales after months of regulatory whiplash](https://techcrunch.com/2025/07/14/nvidia-is-set-to-resume-china-chip-sales-after-months-of-regulatory-whiplash/)
-- [Brian Singerman is raising over $500M for a new fund with a twist on the VC model](https://techcrunch.com/2025/07/14/brian-singermans-new-fund-has-a-twist-and-peter-thiel-as-a-big-backer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
