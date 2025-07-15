@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AV startup Pronto.ai acquires off-road autonomous vehicle rival SafeAI](https://techcrunch.com/2025/07/15/av-startup-pronto-ai-acquires-off-road-autonomous-vehicle-rival-safeai/)
+- [The Perseid meteor shower kicks off summer &#39;shooting star&#39; season this week. Here&#39;s how to see it](https://www.space.com/stargazing/meteor-showers/the-perseid-meteor-shower-kicks-off-summer-shooting-star-season-this-week-heres-how-to-see-it)
+- [Mira Murati’s Thinking Machines Lab is worth $12B in seed round](https://techcrunch.com/2025/07/15/mira-muratis-thinking-machines-lab-is-worth-12b-in-seed-round/)
+- [Google Discover adds AI summaries, threatening publishers with further traffic declines](https://techcrunch.com/2025/07/15/google-discover-adds-ai-summaries-threatening-publishers-with-further-traffic-declines/)
 - [The rights to Fyre Festival sold on eBay for 245K](https://techcrunch.com/2025/07/15/the-rights-to-fyre-festival-sold-on-ebay-for-245k/)
-- [Lucid Motors will roll out hands-free highway driving this month](https://techcrunch.com/2025/07/15/lucid-motors-will-roll-out-hands-free-highway-driving-this-month/)
-- [Ukrainian hackers claim to have destroyed servers of Russian drone maker](https://techcrunch.com/2025/07/15/ukrainian-hackers-claim-to-have-destroyed-servers-of-russian-drone-maker/)
-- [AI coding tools are shifting to a surprising place: the terminal](https://techcrunch.com/2025/07/15/ai-coding-tools-are-shifting-to-a-surprising-place-the-terminal/)
-- [Research leaders urge tech industry to monitor AI’s ‘thoughts’](https://techcrunch.com/2025/07/15/research-leaders-urge-tech-industry-to-monitor-ais-thoughts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
