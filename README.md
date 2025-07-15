@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/15/tech-layoffs-2025-list/)
-- [Uber’s latest robotaxi partner is China’s Baidu](https://techcrunch.com/2025/07/15/ubers-latest-robotaxi-partner-is-chinas-baidu/)
-- [SpaceX will launch next Starship flight in &#39;about 3 weeks,&#39; Elon Musk says](https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-next-starship-flight-in-about-3-weeks-elon-musk-says)
-- [Reddit rolls out age verification in the UK to comply with new rules](https://techcrunch.com/2025/07/15/reddit-rolls-out-age-verification-in-the-uk-to-comply-with-new-rules/)
-- [Deals you missed on Prime Day — get these extended deals now before they are gone](https://www.space.com/stargazing/deals-you-missed-on-prime-day-get-these-extended-deals-now-before-they-are-gone)
+- [Research leaders urge tech industry to monitor AI’s ‘thoughts’](https://techcrunch.com/2025/07/15/research-leaders-urge-tech-industry-to-monitor-ais-thoughts/)
+- [Venture gets a rare Native American-led fund in Betsy Fore’s Velveteen Ventures](https://techcrunch.com/2025/07/15/venture-gets-a-rare-native-american-led-fund-in-betsy-fores-velveteen-ventures/)
+- [&#39;Boldness is all!&#39; — &#39;Murderbot&#39; is getting a season 2 on Apple TV+](https://www.space.com/entertainment/space-movies-shows/boldness-is-all-murderbot-is-getting-a-season-2-on-apple-tv)
+- [Astronomers hike up Mount Blanc for the view | Space photo of the day for July 15, 2025](https://www.space.com/astronomy/astronomers-hike-up-mount-blanc-for-the-view-space-photo-of-the-day-for-july-15-2025)
+- [Mistral releases Voxtral, its first open source AI audio model](https://techcrunch.com/2025/07/15/mistral-releases-voxtral-its-first-open-source-ai-audio-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
