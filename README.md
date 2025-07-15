@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [“Why so many cereals?&quot; - The economics of competition](https://www.youtube.com/watch?v=iygG695S3_Q)
 - [Bash Scripting Tutorial for Beginners](https://www.youtube.com/watch?v=PNhq_4d-5ek)
 - [Zip It! - Finding File Similarity Using Compression Utilities - Computerphile](https://www.youtube.com/watch?v=aLaYgzmRPa8)
 - [why are Hackers going to Las Vegas?](https://www.youtube.com/shorts/3HiWCSYCIZE)
 - [Grok 4 pushes humanity closer to AGI… but there’s a problem](https://www.youtube.com/watch?v=2USUfv7klr8)
-- [CPU Kernel Mode - Computerphile](https://www.youtube.com/watch?v=yV4fGeIv7MI)
 <!-- YOUTUBE:END -->
 
 ---
