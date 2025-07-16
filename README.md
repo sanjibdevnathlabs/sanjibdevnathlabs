@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet the cement transport ship that makes cement ingredients while sailing](https://techcrunch.com/2025/07/16/meet-the-cement-transport-ship-that-makes-cement-ingredients-while-sailing/)
-- [UK retail giant Co-op confirms hackers stole all 6.5 million customer records](https://techcrunch.com/2025/07/16/uk-retail-giant-co-op-confirms-hackers-stole-all-6-5-million-customer-records/)
-- [Meta reportedly scores two more high-profile OpenAI researchers](https://techcrunch.com/2025/07/16/meta-reportedly-scores-two-more-high-profile-openai-researchers/)
-- [NASA&#39;s sci-fi-looking X-59 feels the supersonic wind blow in test tunnel | Space photo of the day for July 16, 2025](https://www.space.com/space-exploration/nasas-sci-fi-looking-x-59-feels-the-supersonic-wind-blow-in-test-tunnel-space-photo-of-the-day-for-july-16-2025)
-- [Our Milky Way galaxy may be surrounded by 100 undetected &#39;orphan&#39; galaxies](https://www.space.com/astronomy/our-milky-way-galaxy-may-be-surrounded-by-100-undetected-orphan-galaxies)
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/16/tech-layoffs-2025-list/)
+- [Faraday Future faces potential SEC enforcement action after three-year probe](https://techcrunch.com/2025/07/16/faraday-future-faces-potential-sec-enforcement-action-after-three-year-probe/)
+- [Transit software startup Via confidentially files for an IPO](https://techcrunch.com/2025/07/16/transit-software-startup-via-confidentially-files-for-an-ipo/)
+- [Astronomers witness the birth of a planetary system for the 1st time &lpar;video&rpar;](https://www.space.com/astronomy/astronomers-witness-the-birth-of-a-planetary-system-for-the-1st-time-photo-video)
+- [Rex Salisbury’s Cambrian Ventures raises new fund, bucking fintech slowdown](https://techcrunch.com/2025/07/16/rex-salisburys-cambrian-ventures-raises-new-fund-bucking-fintech-slowdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
