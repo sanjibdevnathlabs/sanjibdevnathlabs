@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese authorities are using a new tool to hack seized phones and extract data](https://techcrunch.com/2025/07/16/chinese-authorities-are-using-a-new-tool-to-hack-seized-phones-and-extract-data/)
+- [Why is the moon&#39;s far side so weird? China&#39;s lunar sample-return mission may have figured it out](https://www.space.com/astronomy/why-is-the-moons-far-side-so-weird-chinas-lunar-sample-return-mission-may-have-figured-it-out)
 - [SpaceX launches 26 Starlink satellites into low Earth orbit from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-2-b1093-vsfs-ocisly)
 - [Of course, Grok’s AI companions want to have sex and burn down schools](https://techcrunch.com/2025/07/15/of-course-groks-ai-companions-want-to-have-sex-and-burn-down-schools/)
 - [The Chainsmokers’ Mantis Ventures closes $100M third fund](https://techcrunch.com/2025/07/15/the-chainsmokers-mantis-ventures-closes-100m-third-fund/)
-- [Amazon’s Kuiper satellites to get boost from rival SpaceX](https://techcrunch.com/2025/07/15/amazons-kuiper-satellites-to-get-boost-from-rival-spacex/)
-- [The precursors of life could form in the lakes of Saturn&#39;s moon Titan](https://www.space.com/space-exploration/search-for-life/the-precursors-of-life-could-form-in-the-lakes-of-saturns-moon-titan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
