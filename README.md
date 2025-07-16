@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Project Hail Mary&#39; author Andy Weir is &#39;really psyched&#39; about the sci-fi film&#39;s epic 1st trailer &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/project-hail-mary-author-andy-weir-is-really-psyched-about-the-sci-fi-films-epic-1st-trailer-exclusive)
+- [Best cameras for kids 2025 — cheap, quality photos and videos](https://www.space.com/stargazing/skywatching-kit/best-cameras-for-kids)
+- [Satellite images track Grand Canyon wildfires burning across thousands of acres](https://www.space.com/astronomy/earth/satellite-images-track-grand-canyon-wildfires-burning-across-thousands-of-acres)
 - [Dust devils on Mars leave &#39;fingerprints&#39; that can guide future Red Planet missions](https://www.space.com/astronomy/mars/dust-devils-on-mars-leave-fingerprints-that-can-guide-future-red-planet-missions)
 - [OpenAI and Anthropic researchers decry ‘reckless’ safety culture at Elon Musk’s xAI](https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/)
-- [GM teams up with Redwood Materials to power data centers with EV batteries](https://techcrunch.com/2025/07/16/gm-teams-up-with-redwood-materials-to-power-data-centers-with-ev-batteries/)
-- [Astronomers discover a cosmic &#39;fossil&#39; at the edge of our solar system. Is this bad news for &#39;Planet 9&#39;?](https://www.space.com/astronomy/solar-system/astronomers-discover-a-cosmic-fossil-at-the-edge-of-the-solar-system-is-this-bad-news-for-planet-9)
-- [GMC Hummer EV outsold the Tesla Cybertruck last quarter](https://techcrunch.com/2025/07/16/gmc-hummer-ev-outsold-the-tesla-cybertruck-last-quarter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
