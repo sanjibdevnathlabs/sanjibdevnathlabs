@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Project Hail Mary&#39; author Andy Weir is &#39;really psyched&#39; about the sci-fi film&#39;s epic 1st trailer &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/project-hail-mary-author-andy-weir-is-really-psyched-about-the-sci-fi-films-epic-1st-trailer-exclusive)
+- [NASA won&#39;t publish key climate change report online, citing &#39;no legal obligation&#39; to do so](https://www.space.com/science/climate-change/nasa-wont-publish-key-climate-change-report-online-citing-no-legal-obligation-to-do-so)
+- [India eyes global quantum computer push — and QpiAI is its chosen vehicle](https://techcrunch.com/2025/07/16/india-eyes-global-quantum-computer-push-and-qpiai-is-its-chosen-vehicle/)
 - [Best cameras for kids 2025 — cheap, quality photos and videos](https://www.space.com/stargazing/skywatching-kit/best-cameras-for-kids)
+- [&#39;Project Hail Mary&#39; author Andy Weir is &#39;really psyched&#39; about the sci-fi film&#39;s epic 1st trailer &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/project-hail-mary-author-andy-weir-is-really-psyched-about-the-sci-fi-films-epic-1st-trailer-exclusive)
 - [Satellite images track Grand Canyon wildfires burning across thousands of acres](https://www.space.com/astronomy/earth/satellite-images-track-grand-canyon-wildfires-burning-across-thousands-of-acres)
-- [Dust devils on Mars leave &#39;fingerprints&#39; that can guide future Red Planet missions](https://www.space.com/astronomy/mars/dust-devils-on-mars-leave-fingerprints-that-can-guide-future-red-planet-missions)
-- [OpenAI and Anthropic researchers decry ‘reckless’ safety culture at Elon Musk’s xAI](https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
