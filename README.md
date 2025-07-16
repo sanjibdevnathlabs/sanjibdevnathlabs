@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/16/tech-layoffs-2025-list/)
-- [Faraday Future faces potential SEC enforcement action after three-year probe](https://techcrunch.com/2025/07/16/faraday-future-faces-potential-sec-enforcement-action-after-three-year-probe/)
-- [Transit software startup Via confidentially files for an IPO](https://techcrunch.com/2025/07/16/transit-software-startup-via-confidentially-files-for-an-ipo/)
-- [Astronomers witness the birth of a planetary system for the 1st time &lpar;video&rpar;](https://www.space.com/astronomy/astronomers-witness-the-birth-of-a-planetary-system-for-the-1st-time-photo-video)
-- [Rex Salisbury’s Cambrian Ventures raises new fund, bucking fintech slowdown](https://techcrunch.com/2025/07/16/rex-salisburys-cambrian-ventures-raises-new-fund-bucking-fintech-slowdown/)
+- [xAI is hiring an engineer to make anime girls](https://techcrunch.com/2025/07/16/xai-is-hiring-an-engineer-to-make-anime-girls/)
+- [Google rolls out AI-powered business calling feature, brings Gemini 2.5 Pro to AI Mode](https://techcrunch.com/2025/07/16/google-rolls-out-ai-powered-business-calling-feature-brings-gemini-2-5-pro-to-ai-mode/)
+- [JWST finds unusual black hole in the center of the Infinity Galaxy: &#39;How can we make sense of this?&#39;](https://www.space.com/astronomy/black-holes/jwst-finds-unusual-black-hole-in-the-center-of-the-infinity-galaxy-how-can-we-make-sense-of-this)
+- [Ex-Waymo engineers launch Bedrock Robotics with $80M to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/07/16/chatgpt-everything-to-know-about-the-ai-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
