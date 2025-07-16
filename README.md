@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beeper’s all-in-one messaging app relaunches with an on-device model and premium upgrades](https://techcrunch.com/2025/07/16/beepers-all-in-one-messaging-app-relaunches-with-an-on-device-model-and-premium-upgrades/)
+- [NASA X-ray spacecraft reveals secrets of a powerful, spinning neutron star](https://www.space.com/astronomy/nasa-x-ray-spacecraft-reveals-secrets-of-a-powerful-spinning-neutron-star)
 - [NASA won&#39;t publish key climate change report online, citing &#39;no legal obligation&#39; to do so](https://www.space.com/science/climate-change/nasa-wont-publish-key-climate-change-report-online-citing-no-legal-obligation-to-do-so)
 - [India eyes global quantum computer push — and QpiAI is its chosen vehicle](https://techcrunch.com/2025/07/16/india-eyes-global-quantum-computer-push-and-qpiai-is-its-chosen-vehicle/)
 - [Best cameras for kids 2025 — cheap, quality photos and videos](https://www.space.com/stargazing/skywatching-kit/best-cameras-for-kids)
-- [&#39;Project Hail Mary&#39; author Andy Weir is &#39;really psyched&#39; about the sci-fi film&#39;s epic 1st trailer &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/project-hail-mary-author-andy-weir-is-really-psyched-about-the-sci-fi-films-epic-1st-trailer-exclusive)
-- [Satellite images track Grand Canyon wildfires burning across thousands of acres](https://www.space.com/astronomy/earth/satellite-images-track-grand-canyon-wildfires-burning-across-thousands-of-acres)
 <!-- BLOG-POST-LIST:END -->
 
 ---
