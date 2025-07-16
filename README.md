@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet the cement transport ship that makes cement ingredients while sailing](https://techcrunch.com/2025/07/16/meet-the-cement-transport-ship-that-makes-cement-ingredients-while-sailing/)
 - [UK retail giant Co-op confirms hackers stole all 6.5 million customer records](https://techcrunch.com/2025/07/16/uk-retail-giant-co-op-confirms-hackers-stole-all-6-5-million-customer-records/)
 - [Meta reportedly scores two more high-profile OpenAI researchers](https://techcrunch.com/2025/07/16/meta-reportedly-scores-two-more-high-profile-openai-researchers/)
 - [NASA&#39;s sci-fi-looking X-59 feels the supersonic wind blow in test tunnel | Space photo of the day for July 16, 2025](https://www.space.com/space-exploration/nasas-sci-fi-looking-x-59-feels-the-supersonic-wind-blow-in-test-tunnel-space-photo-of-the-day-for-july-16-2025)
 - [Our Milky Way galaxy may be surrounded by 100 undetected &#39;orphan&#39; galaxies](https://www.space.com/astronomy/our-milky-way-galaxy-may-be-surrounded-by-100-undetected-orphan-galaxies)
-- [If aliens existed on Mars 3.7 billion years ago, they would have needed umbrellas](https://www.space.com/astronomy/mars/if-aliens-existed-on-mars-3-7-billion-years-ago-they-would-have-needed-umbrellas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
