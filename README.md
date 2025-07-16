@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [xAI is hiring an engineer to make anime girls](https://techcrunch.com/2025/07/16/xai-is-hiring-an-engineer-to-make-anime-girls/)
-- [Google rolls out AI-powered business calling feature, brings Gemini 2.5 Pro to AI Mode](https://techcrunch.com/2025/07/16/google-rolls-out-ai-powered-business-calling-feature-brings-gemini-2-5-pro-to-ai-mode/)
-- [JWST finds unusual black hole in the center of the Infinity Galaxy: &#39;How can we make sense of this?&#39;](https://www.space.com/astronomy/black-holes/jwst-finds-unusual-black-hole-in-the-center-of-the-infinity-galaxy-how-can-we-make-sense-of-this)
-- [Ex-Waymo engineers launch Bedrock Robotics with $80M to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/07/16/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [The largest Mars meteorite on Earth has sold for $4.3 million](https://www.space.com/astronomy/mars/the-largest-mars-meteorite-on-earth-has-sold-for-usd4-3-million)
+- [Astrophotographer captures galactic fireworks near the Seahorse Nebula in eerie deep-space photo](https://www.space.com/stargazing/astrophotographer-captures-galactic-fireworks-near-the-seahorse-nebula-in-eerie-deep-space-photo)
+- [Best binoculars by price — Find the perfect pair for your budget](https://www.space.com/stargazing/skywatching-kit/best-binoculars-by-price-find-the-perfect-pair-for-your-budget)
+- [Call of Duty cheaters complain after Activision launches new wave of mass-bans](https://techcrunch.com/2025/07/16/call-of-duty-cheaters-complain-after-activision-launches-new-wave-of-mass-bans/)
+- [Nvidia’s resumption of H20 chip sales related to rare earth element trade talks](https://techcrunch.com/2025/07/16/nvidias-resumption-of-h20-chip-sales-related-to-rare-earth-element-trade-talks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
