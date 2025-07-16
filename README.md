@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [If aliens existed on Mars 3.7 billion years ago, they would have needed umbrellas](https://www.space.com/astronomy/mars/if-aliens-existed-on-mars-3-7-billion-years-ago-they-would-have-needed-umbrellas)
+- [Colossal eruption carves 250,000-mile-long &#39;canyon of fire&#39; into the sun &lpar;video&rpar;](https://www.space.com/astronomy/sun/colossal-eruption-carves-250-000-mile-long-canyon-of-fire-into-the-sun-video)
 - [Chinese authorities are using a new tool to hack seized phones and extract data](https://techcrunch.com/2025/07/16/chinese-authorities-are-using-a-new-tool-to-hack-seized-phones-and-extract-data/)
 - [Why is the moon&#39;s far side so weird? China&#39;s lunar sample-return mission may have figured it out](https://www.space.com/astronomy/why-is-the-moons-far-side-so-weird-chinas-lunar-sample-return-mission-may-have-figured-it-out)
 - [SpaceX launches 26 Starlink satellites into low Earth orbit from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-2-b1093-vsfs-ocisly)
-- [Of course, Grok’s AI companions want to have sex and burn down schools](https://techcrunch.com/2025/07/15/of-course-groks-ai-companions-want-to-have-sex-and-burn-down-schools/)
-- [The Chainsmokers’ Mantis Ventures closes $100M third fund](https://techcrunch.com/2025/07/15/the-chainsmokers-mantis-ventures-closes-100m-third-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
