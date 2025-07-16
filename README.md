@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI and Anthropic researchers decry ‘reckless’ safety culture at Elon Musk’s xAI](https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/)
+- [GM teams up with Redwood Materials to power data centers with EV batteries](https://techcrunch.com/2025/07/16/gm-teams-up-with-redwood-materials-to-power-data-centers-with-ev-batteries/)
+- [Astronomers discover a cosmic &#39;fossil&#39; at the edge of our solar system. Is this bad news for &#39;Planet 9&#39;?](https://www.space.com/astronomy/solar-system/astronomers-discover-a-cosmic-fossil-at-the-edge-of-the-solar-system-is-this-bad-news-for-planet-9)
+- [GMC Hummer EV outsold the Tesla Cybertruck last quarter](https://techcrunch.com/2025/07/16/gmc-hummer-ev-outsold-the-tesla-cybertruck-last-quarter/)
 - [The largest Mars meteorite on Earth has sold for $4.3 million](https://www.space.com/astronomy/mars/the-largest-mars-meteorite-on-earth-has-sold-for-usd4-3-million)
-- [Astrophotographer captures galactic fireworks near the Seahorse Nebula in eerie deep-space photo](https://www.space.com/stargazing/astrophotographer-captures-galactic-fireworks-near-the-seahorse-nebula-in-eerie-deep-space-photo)
-- [Best binoculars by price — Find the perfect pair for your budget](https://www.space.com/stargazing/skywatching-kit/best-binoculars-by-price-find-the-perfect-pair-for-your-budget)
-- [Call of Duty cheaters complain after Activision launches new wave of mass-bans](https://techcrunch.com/2025/07/16/call-of-duty-cheaters-complain-after-activision-launches-new-wave-of-mass-bans/)
-- [Nvidia’s resumption of H20 chip sales related to rare earth element trade talks](https://techcrunch.com/2025/07/16/nvidias-resumption-of-h20-chip-sales-related-to-rare-earth-element-trade-talks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
