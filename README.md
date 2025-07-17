@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI launches a general purpose agent in ChatGPT](https://techcrunch.com/2025/07/17/openai-launches-a-general-purpose-agent-in-chatgpt/)
+- [A vast shadow will sweep over Saturn&#39;s cloud tops early on July 18: Here&#39;s how to see it](https://www.space.com/stargazing/a-vast-shadow-will-sweep-over-saturns-cloud-tops-early-on-july-18-heres-how-to-see-it)
+- [Twitch starts testing vertical video streams](https://techcrunch.com/2025/07/17/twitch-starts-testing-vertical-video-streams/)
+- [Meta appoints generative AI VP to run Threads](https://techcrunch.com/2025/07/17/meta-appoints-generative-ai-vp-to-run-threads/)
 - [Rivian restarting work on its Georgia factory, emails show](https://techcrunch.com/2025/07/17/rivian-restarting-work-on-its-georgia-factory-emails-show/)
-- [Substack raises $100M from Chernin Group, Andreessen Horowitz, Skims CEO and more](https://techcrunch.com/2025/07/17/substack-raises-100m-from-chernin-group-andreessen-horowitz-skims-ceo-and-more/)
-- [Best tabletop telescopes for stargazing in 2025](https://www.space.com/stargazing/skywatching-kit/best-tabletop-telescopes-for-stargazing)
-- [China&#39;s Tianwen 2 asteroid-sampling probe snaps gorgeous shots of Earth and the moon &lpar;video, photos&rpar;](https://www.space.com/space-exploration/missions/chinas-tianwen-2-asteroid-sampling-probe-snaps-gorgeous-shots-of-earth-and-the-moon-video-photos)
-- [&#39;Star Trek: Strange New Worlds&#39;: Rebecca Romijn and Christina Chong on Una and La&#39;an living their best lives in Season 3 &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-rebecca-romijn-and-christina-chong-on-una-and-laan-living-their-best-lives-in-season-3-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
