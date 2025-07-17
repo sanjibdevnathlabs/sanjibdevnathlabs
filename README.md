@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Confident Security, ‘the Signal for AI,’ comes out of stealth with $4.2M](https://techcrunch.com/2025/07/17/confident-security-the-signal-for-ai-comes-out-of-stealth-with-4-2m/)
+- [Bad news for alien life? Earth-size planets may be less common than we thought](https://www.space.com/space-exploration/search-for-life/bad-news-for-alien-life-earth-size-planets-may-be-less-common-than-we-thought)
+- [North Korean hackers blamed for record spike in crypto thefts in 2025](https://techcrunch.com/2025/07/17/north-korean-hackers-blamed-for-record-spike-in-crypto-thefts-in-2025/)
+- [Spotify expands audiobook access to family plan members for the first time](https://techcrunch.com/2025/07/17/spotify-expands-audiobook-access-to-family-plan-members-for-the-first-time/)
 - [Telescope spies rare interstellar comet 3I/ATLAS zooming through our solar system &lpar;photos&rpar;](https://www.space.com/astronomy/comets/telescope-spies-rare-interstellar-comet-3i-atlas-zooming-through-our-solar-system-photos)
-- [Best telescopes for astrophotography in 2025](https://www.space.com/stargazing/skywatching-kit/best-telescopes-for-astrophotography)
-- [UAE’s deal to buy Nvidia AI chips reportedly on hold](https://techcrunch.com/2025/07/17/uaes-deal-to-buy-nvidia-ai-chips-reportedly-on-hold/)
-- [50 years after a historic handshake in space, the Apollo-Soyuz Test Project&#39;s legacy still resonates](https://www.space.com/space-exploration/apollo/50-years-after-a-historic-handshake-in-space-the-apollo-soyuz-test-projects-legacy-still-resonates)
-- [Who are the Gorn? &#39;Star Trek: Strange New Worlds&#39;&#39; reptilian menace, explained](https://www.space.com/entertainment/space-movies-shows/who-are-the-gorn-star-trek-strange-new-worlds-reptilian-menace-explained)
 <!-- BLOG-POST-LIST:END -->
 
 ---
