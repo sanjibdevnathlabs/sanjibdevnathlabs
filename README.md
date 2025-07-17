@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Confident Security, ‘the Signal for AI,’ comes out of stealth with $4.2M](https://techcrunch.com/2025/07/17/confident-security-the-signal-for-ai-comes-out-of-stealth-with-4-2m/)
-- [Bad news for alien life? Earth-size planets may be less common than we thought](https://www.space.com/space-exploration/search-for-life/bad-news-for-alien-life-earth-size-planets-may-be-less-common-than-we-thought)
-- [North Korean hackers blamed for record spike in crypto thefts in 2025](https://techcrunch.com/2025/07/17/north-korean-hackers-blamed-for-record-spike-in-crypto-thefts-in-2025/)
-- [Spotify expands audiobook access to family plan members for the first time](https://techcrunch.com/2025/07/17/spotify-expands-audiobook-access-to-family-plan-members-for-the-first-time/)
-- [Telescope spies rare interstellar comet 3I/ATLAS zooming through our solar system &lpar;photos&rpar;](https://www.space.com/astronomy/comets/telescope-spies-rare-interstellar-comet-3i-atlas-zooming-through-our-solar-system-photos)
+- [Rivian restarting work on its Georgia factory, emails show](https://techcrunch.com/2025/07/17/rivian-restarting-work-on-its-georgia-factory-emails-show/)
+- [Substack raises $100M from Chernin Group, Andreessen Horowitz, Skims CEO and more](https://techcrunch.com/2025/07/17/substack-raises-100m-from-chernin-group-andreessen-horowitz-skims-ceo-and-more/)
+- [Best tabletop telescopes for stargazing in 2025](https://www.space.com/stargazing/skywatching-kit/best-tabletop-telescopes-for-stargazing)
+- [China&#39;s Tianwen 2 asteroid-sampling probe snaps gorgeous shots of Earth and the moon &lpar;video, photos&rpar;](https://www.space.com/space-exploration/missions/chinas-tianwen-2-asteroid-sampling-probe-snaps-gorgeous-shots-of-earth-and-the-moon-video-photos)
+- [&#39;Star Trek: Strange New Worlds&#39;: Rebecca Romijn and Christina Chong on Una and La&#39;an living their best lives in Season 3 &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-rebecca-romijn-and-christina-chong-on-una-and-laan-living-their-best-lives-in-season-3-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
