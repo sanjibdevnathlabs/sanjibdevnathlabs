@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft is buying tons of carbon removal from Xprize startup Vaulted Deep](https://techcrunch.com/2025/07/17/microsoft-is-buying-tons-of-carbon-removal-from-xprize-startup-vaulted-deep/)
+- [Europe working to launch &#39;Invictus&#39; hypersonic space plane by 2031 &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/europe-working-to-launch-invictus-hypersonic-space-plane-by-2031-video)
 - [Hadrian raises $260M to build out automated factories for space and defense parts](https://techcrunch.com/2025/07/17/hadrian-raises-260m-to-build-out-automated-factories-for-space-and-defense-parts/)
 - [2 billion-year-old moon rock found in Africa reveals secret lunar history](https://www.space.com/astronomy/moon/2-billion-year-old-moon-rock-found-in-africa-reveals-secret-lunar-history)
 - [After raising over $3M, popular VC-backed beauty brand Ami Colé is shuttering](https://techcrunch.com/2025/07/17/after-raising-over-3m-popular-vc-backed-beauty-brand-ami-cole-is-shuttering/)
-- [OpenAI launches a general purpose agent in ChatGPT](https://techcrunch.com/2025/07/17/openai-launches-a-general-purpose-agent-in-chatgpt/)
-- [A vast shadow will sweep over Saturn&#39;s cloud tops early on July 18: Here&#39;s how to see it](https://www.space.com/stargazing/a-vast-shadow-will-sweep-over-saturns-cloud-tops-early-on-july-18-heres-how-to-see-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
