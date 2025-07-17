@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic tightens usage limits for Claude Code – without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/)
+- [What&#39;s the deal with Lex Luthor&#39;s pocket universe in James Gunn&#39;s &#39;Superman&#39;?](https://www.space.com/entertainment/space-movies-shows/whats-the-deal-with-lex-luthors-pocket-universe-in-james-gunns-superman)
+- [Scientists extracted water and oxygen from moon dust using sunlight. Could it work on the lunar surface?](https://www.space.com/astronomy/moon/scientists-extracted-water-and-oxygen-from-moon-dust-using-sunlight-could-it-work-on-the-lunar-surface)
 - [Lunar lava tubes on Earth? China completes underground moon simulation test area &lpar;video&rpar;](https://www.space.com/astronomy/moon/lunar-lava-tubes-on-earth-china-completes-underground-moon-simulation-test-area-video)
 - [Microsoft is buying tons of carbon removal from Xprize startup Vaulted Deep](https://techcrunch.com/2025/07/17/microsoft-is-buying-tons-of-carbon-removal-from-xprize-startup-vaulted-deep/)
-- [Europe working to launch &#39;Invictus&#39; hypersonic space plane by 2031 &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/europe-working-to-launch-invictus-hypersonic-space-plane-by-2031-video)
-- [Hadrian raises $260M to build out automated factories for space and defense parts](https://techcrunch.com/2025/07/17/hadrian-raises-260m-to-build-out-automated-factories-for-space-and-defense-parts/)
-- [2 billion-year-old moon rock found in Africa reveals secret lunar history](https://www.space.com/astronomy/moon/2-billion-year-old-moon-rock-found-in-africa-reveals-secret-lunar-history)
 <!-- BLOG-POST-LIST:END -->
 
 ---
