@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Roblox introduces new safeguards for teens, including age estimation tech](https://techcrunch.com/2025/07/17/roblox-introduces-new-safeguards-for-teens-including-age-estimation-tech/)
 - [&#39;Doghouse&#39; days of summer — Boeing&#39;s Starliner won&#39;t fly again until 2026, and without astronauts aboard](https://www.space.com/space-exploration/international-space-station/doghouse-days-of-summer-boeings-starliner-wont-fly-again-until-2026-and-without-astronauts-aboard)
 - [TikTok is adding features for songwriters to its app](https://techcrunch.com/2025/07/17/tiktok-is-adding-features-for-songwriters-to-its-app/)
 - [Jack Dorsey pumps $10 million into a nonprofit focused on open-source social media](https://techcrunch.com/2025/07/16/jack-dorsey-backs-nonprofit-and-other-stuff-experimenting-with-open-social-tools-like-nostr/)
 - [Apple News+ adds a new game that uses emoji and Genmoji to sovle puzzles](https://techcrunch.com/2025/07/16/apple-news-adds-a-new-game-that-uses-emoji-and-genmoji-to-sovle-puzzles/)
-- [Beeper’s all-in-one messaging app relaunches with an on-device model and premium upgrades](https://techcrunch.com/2025/07/16/beepers-all-in-one-messaging-app-relaunches-with-an-on-device-model-and-premium-upgrades/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
