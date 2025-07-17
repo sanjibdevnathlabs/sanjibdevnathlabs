@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jack Dorsey pumps $10 million into a nonprofit focused on open-source social media](https://techcrunch.com/2025/07/16/jack-dorsey-backs-nonprofit-and-other-stuff-experimenting-with-open-social-tools-like-nostr/)
+- [Apple News+ adds a new game that uses emoji and Genmoji to sovle puzzles](https://techcrunch.com/2025/07/16/apple-news-adds-a-new-game-that-uses-emoji-and-genmoji-to-sovle-puzzles/)
 - [Beeper’s all-in-one messaging app relaunches with an on-device model and premium upgrades](https://techcrunch.com/2025/07/16/beepers-all-in-one-messaging-app-relaunches-with-an-on-device-model-and-premium-upgrades/)
 - [NASA X-ray spacecraft reveals secrets of a powerful, spinning neutron star](https://www.space.com/astronomy/nasa-x-ray-spacecraft-reveals-secrets-of-a-powerful-spinning-neutron-star)
 - [NASA won&#39;t publish key climate change report online, citing &#39;no legal obligation&#39; to do so](https://www.space.com/science/climate-change/nasa-wont-publish-key-climate-change-report-online-citing-no-legal-obligation-to-do-so)
-- [India eyes global quantum computer push — and QpiAI is its chosen vehicle](https://techcrunch.com/2025/07/16/india-eyes-global-quantum-computer-push-and-qpiai-is-its-chosen-vehicle/)
-- [Best cameras for kids 2025 — cheap, quality photos and videos](https://www.space.com/stargazing/skywatching-kit/best-cameras-for-kids)
 <!-- BLOG-POST-LIST:END -->
 
 ---
