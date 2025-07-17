@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [50 years after a historic handshake in space, the Apollo-Soyuz Test Project&#39;s legacy still resonates](https://www.space.com/space-exploration/apollo/50-years-after-a-historic-handshake-in-space-the-apollo-soyuz-test-projects-legacy-still-resonates)
+- [Who are the Gorn? &#39;Star Trek: Strange New Worlds&#39;&#39; reptilian menace, explained](https://www.space.com/entertainment/space-movies-shows/who-are-the-gorn-star-trek-strange-new-worlds-reptilian-menace-explained)
+- [Uber makes multi-million-dollar investment in Lucid and Nuro to build a premium robotaxi service](https://techcrunch.com/2025/07/17/uber-makes-multi-million-dollar-investment-in-lucid-nuro-to-build-robotaxi-service/)
 - [Lovable becomes a unicorn with $200M Series A just 8 months after launch](https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/)
 - [Slack bolsters search with AI, adds transcriptions and summaries for huddles](https://techcrunch.com/2025/07/17/slack-bolsters-search-with-ai-adds-transcriptions-and-summaries-for-huddles/)
-- [NASA preps key piece of Artemis IV moon rocket for lunar mission | Space photo of the day for July 17, 2025](https://www.space.com/space-exploration/launches-spacecraft/nasa-preps-key-piece-of-artemis-iv-moon-rocket-for-lunar-mission-space-photo-of-the-day-for-july-17-2025)
-- [Don&#39;t miss the third quarter moon shine near Saturn in the eastern sky tonight](https://www.space.com/stargazing/dont-miss-the-third-quarter-moon-shine-near-saturn-in-the-eastern-sky-tonight)
-- [Roblox introduces new safeguards for teens, including age estimation tech](https://techcrunch.com/2025/07/17/roblox-introduces-new-safeguards-for-teens-including-age-estimation-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
