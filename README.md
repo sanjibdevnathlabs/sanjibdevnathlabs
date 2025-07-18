@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space station astronauts bid farewell to private Ax-4 crew | On the ISS this week July 14-18, 2025](https://www.space.com/space-exploration/international-space-station/space-station-astronauts-bid-farewell-to-private-ax-4-crew-on-the-iss-this-week-july-14-18-2025)
+- [Starbase injury rates outpace rivals as SpaceX chases its Mars moonshot](https://techcrunch.com/2025/07/18/starbase-injury-rates-outpace-rivals-as-spacex-chases-its-mars-moonshot/)
+- [DuckDuckGo now lets you hide AI-generated images in search results](https://techcrunch.com/2025/07/18/duckduckgo-now-lets-you-hide-ai-generated-images-in-search-results/)
 - [With her app Smash, Kesha can be whoever she wants – even a tech CEO](https://techcrunch.com/2025/07/18/with-her-app-smash-kesha-can-be-whoever-she-wants-even-a-tech-ceo/)
 - [Meteor impact may have triggered massive Grand Canyon landslide 56,000 years ago](https://www.space.com/astronomy/earth/meteor-impact-may-have-triggered-massive-grand-canyon-landslide-56-000-years-ago)
-- [Stratospheric skydiver Felix Baumgartner dies at 56 in tragic paragliding accident](https://www.space.com/technology/aerospace/stratospheric-skydiver-felix-baumgartner-dies-at-56-in-tragic-paragliding-accident)
-- [See Venus, the moon and fiery star Aldebaran form a dawn triangle this weekend](https://www.space.com/stargazing/see-venus-the-moon-and-fiery-star-aldebaran-form-a-dawn-triangle-this-weekend)
-- [The new &#39;Alien: Earth&#39; trailer is here, and we can&#39;t wait to be terrified by xenomorphs once again &lpar;video&rpar;](https://www.space.com/entertainment/the-new-alien-earth-trailer-is-here-and-we-cant-wait-to-be-terrified-by-xenomorphs-once-again-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
