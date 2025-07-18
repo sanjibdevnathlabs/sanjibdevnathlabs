@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 2025 Southern Delta Aquariid meteor shower is upon us! Here&#39;s what you need to know](https://www.space.com/stargazing/the-2025-southern-delta-aquariid-meteor-shower-is-upon-us-heres-what-you-need-to-know)
+- [A surveillance vendor was caught exploiting a new SS7 attack to track people’s phone locations](https://techcrunch.com/2025/07/18/a-surveillance-vendor-was-caught-exploiting-a-new-ss7-attack-to-track-peoples-phone-locations/)
+- [CaaStle founder charged with fraud, turns herself in](https://techcrunch.com/2025/07/18/caastle-founder-charged-with-fraud-turns-herself-in/)
 - [&#39;Star Trek: Strange New Worlds&#39;: Jess Bush and Martin Quinn talk feeling comfortable in their characters for Season 3 &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-jess-bush-and-martin-quinn-talk-feeling-comfortable-in-their-characters-for-season-3-exclusive)
 - [Record-breaking high-altitude shot of sun&#39;s surface captured from one of Europe&#39;s tallest mountains &lpar;photo&rpar;](https://www.space.com/stargazing/record-breaking-high-altitude-shot-of-suns-surface-captured-from-one-of-europes-tallest-mountains-photo)
-- [Space station astronauts bid farewell to private Ax-4 crew | On the ISS this week July 14-18, 2025](https://www.space.com/space-exploration/international-space-station/space-station-astronauts-bid-farewell-to-private-ax-4-crew-on-the-iss-this-week-july-14-18-2025)
-- [SpaceX worker injury rates at Starbase outpace industry rivals](https://techcrunch.com/2025/07/18/spacex-worker-injury-rates-at-starbase-outpace-industry-rivals/)
-- [DuckDuckGo now lets you hide AI-generated images in search results](https://techcrunch.com/2025/07/18/duckduckgo-now-lets-you-hide-ai-generated-images-in-search-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
