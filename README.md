@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek: Strange New Worlds&#39;: Jess Bush and Martin Quinn talk feeling comfortable in their characters for Season 3 &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-jess-bush-and-martin-quinn-talk-feeling-comfortable-in-their-characters-for-season-3-exclusive)
+- [Record-breaking high-altitude shot of sun&#39;s surface captured from one of Europe&#39;s tallest mountains &lpar;photo&rpar;](https://www.space.com/stargazing/record-breaking-high-altitude-shot-of-suns-surface-captured-from-one-of-europes-tallest-mountains-photo)
 - [Space station astronauts bid farewell to private Ax-4 crew | On the ISS this week July 14-18, 2025](https://www.space.com/space-exploration/international-space-station/space-station-astronauts-bid-farewell-to-private-ax-4-crew-on-the-iss-this-week-july-14-18-2025)
-- [Starbase injury rates outpace rivals as SpaceX chases its Mars moonshot](https://techcrunch.com/2025/07/18/starbase-injury-rates-outpace-rivals-as-spacex-chases-its-mars-moonshot/)
+- [SpaceX worker injury rates at Starbase outpace industry rivals](https://techcrunch.com/2025/07/18/spacex-worker-injury-rates-at-starbase-outpace-industry-rivals/)
 - [DuckDuckGo now lets you hide AI-generated images in search results](https://techcrunch.com/2025/07/18/duckduckgo-now-lets-you-hide-ai-generated-images-in-search-results/)
-- [With her app Smash, Kesha can be whoever she wants – even a tech CEO](https://techcrunch.com/2025/07/18/with-her-app-smash-kesha-can-be-whoever-she-wants-even-a-tech-ceo/)
-- [Meteor impact may have triggered massive Grand Canyon landslide 56,000 years ago](https://www.space.com/astronomy/earth/meteor-impact-may-have-triggered-massive-grand-canyon-landslide-56-000-years-ago)
 <!-- BLOG-POST-LIST:END -->
 
 ---
