@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ServiceNow’s acquisition of Moveworks is reportedly being reviewed over antitrust concerns](https://techcrunch.com/2025/07/18/servicenows-acquisition-of-moveworks-is-reportedly-being-reviewed-over-antitrust-concerns/)
+- [Astronomers discover strange solar system body dancing in sync with Neptune: &#39;Like finding a hidden rhythm in a song&#39;](https://www.space.com/astronomy/solar-system/astronomers-discover-strange-solar-system-body-dancing-in-sync-with-neptune-like-finding-a-hidden-rhythm-in-a-song)
 - [Newly discovered &#39;cosmic unicorn&#39; is a spinning dead star that defies physics: &#39;We have a real mystery on our hands&#39;](https://www.space.com/astronomy/newly-discovered-cosmic-unicorn-is-a-spinning-dead-star-that-defies-physics-we-have-a-real-mystery-on-our-hands)
 - [Cursor snaps up enterprise startup Koala in challenge to GitHub Copilot](https://techcrunch.com/2025/07/18/cursor-snaps-up-enterprise-startup-koala-in-challenge-to-github-copilot/)
 - [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/07/18/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/)
-- [The 2025 Southern Delta Aquariid meteor shower is upon us! Here&#39;s what you need to know](https://www.space.com/stargazing/the-2025-southern-delta-aquariid-meteor-shower-is-upon-us-heres-what-you-need-to-know)
-- [A surveillance vendor was caught exploiting a new SS7 attack to track people’s phone locations](https://techcrunch.com/2025/07/18/a-surveillance-vendor-was-caught-exploiting-a-new-ss7-attack-to-track-peoples-phone-locations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
