@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See Venus, the moon and fiery star Aldebaran form a dawn triangle this weekend](https://www.space.com/stargazing/see-venus-the-moon-and-fiery-star-aldebaran-form-a-dawn-triangle-this-weekend)
+- [The new &#39;Alien: Earth&#39; trailer is here, and we can&#39;t wait to be terrified by xenomorphs once again &lpar;video&rpar;](https://www.space.com/entertainment/the-new-alien-earth-trailer-is-here-and-we-cant-wait-to-be-terrified-by-xenomorphs-once-again-video)
 - [The Vera Rubin Observatory could find dozens of interstellar objects](https://www.space.com/astronomy/the-vera-rubin-observatory-could-find-dozens-of-interstellar-objects)
 - [This excellent value for money star projector is on sale for less than $14](https://www.space.com/technology/this-excellent-value-for-money-star-projector-is-on-sale-for-less-than-14-dollars)
 - [Meta refuses to sign EU’s AI code of practice](https://techcrunch.com/2025/07/18/meta-refuses-to-sign-eus-ai-code-of-practice/)
-- [Exoplanet is shrinking before the X-ray eyes of NASA&#39;s Chandra spacecraft: &#39;The future for this baby planet doesn’t look great&#39;](https://www.space.com/astronomy/exoplanets/exoplanet-is-shrinking-before-the-x-ray-eyes-of-nasas-chandra-spacecraft-the-future-for-this-baby-planet-doesnt-look-great)
-- [A lunar eclipse steals the show in a colorful sky | Space photo of the day for July 18, 2025](https://www.space.com/astronomy/a-lunar-eclipse-steals-the-show-in-a-colorful-sky-space-photo-of-the-day-for-july-18-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
