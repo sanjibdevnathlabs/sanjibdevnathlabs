@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Vera Rubin Observatory could find dozens of interstellar objects](https://www.space.com/astronomy/the-vera-rubin-observatory-could-find-dozens-of-interstellar-objects)
+- [This excellent value for money star projector is on sale for less than $14](https://www.space.com/technology/this-excellent-value-for-money-star-projector-is-on-sale-for-less-than-14-dollars)
+- [Meta refuses to sign EU’s AI code of practice](https://techcrunch.com/2025/07/18/meta-refuses-to-sign-eus-ai-code-of-practice/)
 - [Exoplanet is shrinking before the X-ray eyes of NASA&#39;s Chandra spacecraft: &#39;The future for this baby planet doesn’t look great&#39;](https://www.space.com/astronomy/exoplanets/exoplanet-is-shrinking-before-the-x-ray-eyes-of-nasas-chandra-spacecraft-the-future-for-this-baby-planet-doesnt-look-great)
 - [A lunar eclipse steals the show in a colorful sky | Space photo of the day for July 18, 2025](https://www.space.com/astronomy/a-lunar-eclipse-steals-the-show-in-a-colorful-sky-space-photo-of-the-day-for-july-18-2025)
-- [Netflix starts using GenAI in its shows and films](https://techcrunch.com/2025/07/18/netflix-starts-using-genai-in-its-shows-and-films/)
-- [NASA workers plan &#39;Moon Day&#39; protest on July 20 to oppose mass layoffs, budget cuts. &#39;This year has been an utter nightmare that has not stopped.&#39;](https://www.space.com/space-exploration/nasa-workers-plan-moon-day-protest-on-july-20-to-oppose-mass-layoffs-budget-cuts-this-year-has-been-an-utter-nightmare-that-has-not-stopped)
-- [Who is Dr Roger Korby? A brief history of Christine Chapel&#39;s new boyfriend in &#39;Star Trek: Strange New Worlds&#39;](https://www.space.com/entertainment/space-movies-shows/who-is-dr-roger-korby-a-brief-history-of-christine-chapels-new-boyfriend-in-star-trek-strange-new-worlds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
