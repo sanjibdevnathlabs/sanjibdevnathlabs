@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix starts using GenAI in its shows and films](https://techcrunch.com/2025/07/18/netflix-starts-using-genai-in-its-shows-and-films/)
+- [NASA workers plan &#39;Moon Day&#39; protest on July 20 to oppose mass layoffs, budget cuts. &#39;This year has been an utter nightmare that has not stopped.&#39;](https://www.space.com/space-exploration/nasa-workers-plan-moon-day-protest-on-july-20-to-oppose-mass-layoffs-budget-cuts-this-year-has-been-an-utter-nightmare-that-has-not-stopped)
 - [Who is Dr Roger Korby? A brief history of Christine Chapel&#39;s new boyfriend in &#39;Star Trek: Strange New Worlds&#39;](https://www.space.com/entertainment/space-movies-shows/who-is-dr-roger-korby-a-brief-history-of-christine-chapels-new-boyfriend-in-star-trek-strange-new-worlds)
 - [A doomed exoplanet is caught in a &#39;death spiral&#39; around its star. Can it survive?](https://www.space.com/astronomy/exoplanets/a-doomed-exoplanet-is-caught-in-a-death-spiral-around-its-star-can-it-survive)
 - [Perplexity sees India as a shortcut in its race against OpenAI](https://techcrunch.com/2025/07/17/perplexity-sees-india-as-a-shortcut-in-its-race-against-openai/)
-- [‘Utopian’ city California Forever announces huge tech manufacturing park](https://techcrunch.com/2025/07/17/utopian-city-california-forever-announces-huge-tech-manufacturing-park/)
-- [Anthropic tightens usage limits for Claude Code – without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
