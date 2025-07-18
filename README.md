@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With her app Smash, Kesha can be whoever she wants – even a tech CEO](https://techcrunch.com/2025/07/18/with-her-app-smash-kesha-can-be-whoever-she-wants-even-a-tech-ceo/)
+- [Meteor impact may have triggered massive Grand Canyon landslide 56,000 years ago](https://www.space.com/astronomy/earth/meteor-impact-may-have-triggered-massive-grand-canyon-landslide-56-000-years-ago)
+- [Stratospheric skydiver Felix Baumgartner dies at 56 in tragic paragliding accident](https://www.space.com/technology/aerospace/stratospheric-skydiver-felix-baumgartner-dies-at-56-in-tragic-paragliding-accident)
 - [See Venus, the moon and fiery star Aldebaran form a dawn triangle this weekend](https://www.space.com/stargazing/see-venus-the-moon-and-fiery-star-aldebaran-form-a-dawn-triangle-this-weekend)
 - [The new &#39;Alien: Earth&#39; trailer is here, and we can&#39;t wait to be terrified by xenomorphs once again &lpar;video&rpar;](https://www.space.com/entertainment/the-new-alien-earth-trailer-is-here-and-we-cant-wait-to-be-terrified-by-xenomorphs-once-again-video)
-- [The Vera Rubin Observatory could find dozens of interstellar objects](https://www.space.com/astronomy/the-vera-rubin-observatory-could-find-dozens-of-interstellar-objects)
-- [This excellent value for money star projector is on sale for less than $14](https://www.space.com/technology/this-excellent-value-for-money-star-projector-is-on-sale-for-less-than-14-dollars)
-- [Meta refuses to sign EU’s AI code of practice](https://techcrunch.com/2025/07/18/meta-refuses-to-sign-eus-ai-code-of-practice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
