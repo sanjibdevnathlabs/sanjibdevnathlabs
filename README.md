@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2 new NASA satellites will track space weather to help keep us safe from solar storms](https://www.space.com/astronomy/2-new-nasa-satellites-will-track-space-weather-to-help-keep-us-safe-from-solar-storms)
 - [Friday night light: SpaceX launch from California sends two dozen new Starlink satellites into low Earth orbit](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-3-b1082-vsfb-ocisly)
 - [Benchmark in talks to lead Series A for Greptile, valuing AI-code reviewer at $180M, sources say](https://techcrunch.com/2025/07/18/benchmark-in-talks-to-lead-series-a-for-greptile-valuing-ai-code-reviewer-at-180m-sources-say/)
 - [Why a Y Combinator startup tackling AI agents for Windows gave up and pivoted](https://techcrunch.com/2025/07/18/why-a-y-combinator-startup-tackling-ai-agents-for-windows-gave-up-and-pivoted/)
 - [ServiceNow’s acquisition of Moveworks is reportedly being reviewed over antitrust concerns](https://techcrunch.com/2025/07/18/servicenows-acquisition-of-moveworks-is-reportedly-being-reviewed-over-antitrust-concerns/)
-- [Astronomers discover strange solar system body dancing in sync with Neptune: &#39;Like finding a hidden rhythm in a song&#39;](https://www.space.com/astronomy/solar-system/astronomers-discover-strange-solar-system-body-dancing-in-sync-with-neptune-like-finding-a-hidden-rhythm-in-a-song)
 <!-- BLOG-POST-LIST:END -->
 
 ---
