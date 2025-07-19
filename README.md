@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [For privacy and security, think twice before granting AI access to your personal data](https://techcrunch.com/2025/07/19/for-privacy-and-security-think-twice-before-granting-ai-access-to-your-personal-data/)
+- [Twin NASA Mars probes will fly on 2nd-ever launch of Blue Origin&#39;s huge New Glenn rocket](https://www.space.com/space-exploration/launches-spacecraft/twin-nasa-mars-probes-will-fly-on-2nd-ever-launch-of-blue-origins-huge-new-glenn-rocket)
 - [2 new NASA satellites will track space weather to help keep us safe from solar storms](https://www.space.com/astronomy/2-new-nasa-satellites-will-track-space-weather-to-help-keep-us-safe-from-solar-storms)
 - [Friday night light: SpaceX launch from California sends two dozen new Starlink satellites into low Earth orbit &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-3-b1082-vsfb-ocisly)
 - [Benchmark in talks to lead Series A for Greptile, valuing AI-code reviewer at $180M, sources say](https://techcrunch.com/2025/07/18/benchmark-in-talks-to-lead-series-a-for-greptile-valuing-ai-code-reviewer-at-180m-sources-say/)
-- [Why a Y Combinator startup tackling AI agents for Windows gave up and pivoted](https://techcrunch.com/2025/07/18/why-a-y-combinator-startup-tackling-ai-agents-for-windows-gave-up-and-pivoted/)
-- [ServiceNow’s acquisition of Moveworks is reportedly being reviewed over antitrust concerns](https://techcrunch.com/2025/07/18/servicenows-acquisition-of-moveworks-is-reportedly-being-reviewed-over-antitrust-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
