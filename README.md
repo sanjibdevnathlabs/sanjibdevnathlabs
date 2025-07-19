@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [David Sacks and the blurred lines of government service](https://techcrunch.com/2025/07/19/david-sacks-and-the-blurred-lines-of-government-service/)
+- [Windsurf CEO opens up about ‘very bleak’ mood before Cognition deal](https://techcrunch.com/2025/07/19/windsurf-ceo-opens-up-about-very-bleak-mood-before-cognition-deal/)
 - [The perfect pitch: This NEA partner says every founder should answer these 5 questions](https://techcrunch.com/2025/07/19/the-perfect-pitch-this-nea-partner-says-every-founder-should-answer-these-5-questions/)
 - [These are our favorite cyber books on hacking, espionage, crypto, surveillance, and more](https://techcrunch.com/2025/07/19/these-are-our-favorite-cyber-books-on-hacking-espionage-crypto-surveillance-and-more/)
 - [See the moon cross the Pleiades for the last time this year on July 20](https://www.space.com/stargazing/see-the-moon-cross-the-pleiades-for-the-last-time-this-year-on-july-20)
-- [This Week In Space podcast: Episode 169 — The Day Mars Died](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-169-the-day-mars-died)
-- [10 unique tours and experiences for the 2027 &#39;eclipse of the century&#39;](https://www.space.com/stargazing/10-unique-tours-and-experiences-for-the-2027-eclipse-of-the-century)
 <!-- BLOG-POST-LIST:END -->
 
 ---
