@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft says it will no longer use engineers in China for Department of Defense work](https://techcrunch.com/2025/07/19/microsoft-says-it-will-no-longer-use-engineers-in-china-for-department-of-defense-work/)
 - [Astronomer CEO resigns following Coldplay concert scandal](https://techcrunch.com/2025/07/19/astronomer-ceo-resigns-following-coldplay-concert-scandal/)
 - [David Sacks and the blurred lines of government service](https://techcrunch.com/2025/07/19/david-sacks-and-the-blurred-lines-of-government-service/)
 - [Windsurf CEO opens up about ‘very bleak’ mood before Cognition deal](https://techcrunch.com/2025/07/19/windsurf-ceo-opens-up-about-very-bleak-mood-before-cognition-deal/)
 - [The perfect pitch: This NEA partner says every founder should answer these 5 questions](https://techcrunch.com/2025/07/19/the-perfect-pitch-this-nea-partner-says-every-founder-should-answer-these-5-questions/)
-- [These are our favorite cyber books on hacking, espionage, crypto, surveillance, and more](https://techcrunch.com/2025/07/19/these-are-our-favorite-cyber-books-on-hacking-espionage-crypto-surveillance-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
