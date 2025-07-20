@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla loses its charm for India’s loyalists — even as Musk finally delivers](https://techcrunch.com/2025/07/20/tesla-loses-its-charm-for-indias-loyalists-even-as-musk-finally-delivers/)
 - [Discover where the Eagle might have landed: How to find Apollo 11&#39;s backup sites on the moon](https://www.space.com/stargazing/discover-where-the-eagle-might-have-landed-how-to-find-apollo-11s-backup-sites-on-the-moon)
 - [NASA&#39;s Roman Space Telescope could discover 100,000 new cosmic explosions: &#39;We&#39;re definitely expecting the unexpected&#39;](https://www.space.com/astronomy/nasas-roman-space-telescope-could-discover-100-000-new-cosmic-explosions-were-definitely-expecting-the-unexpected)
 - [Microsoft says it will no longer use engineers in China for Department of Defense work](https://techcrunch.com/2025/07/19/microsoft-says-it-will-no-longer-use-engineers-in-china-for-department-of-defense-work/)
 - [Astronomer CEO resigns following Coldplay concert scandal](https://techcrunch.com/2025/07/19/astronomer-ceo-resigns-following-coldplay-concert-scandal/)
-- [David Sacks and the blurred lines of government service](https://techcrunch.com/2025/07/19/david-sacks-and-the-blurred-lines-of-government-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
