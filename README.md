@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [South Korea wants to build a moon base by 2045](https://www.space.com/astronomy/moon/south-korea-wants-to-build-a-moon-base-by-2045)
 - [This wild bioplastic made of algae just aced a Mars pressure test. Can astronauts use it to build on the Red Planet?](https://www.space.com/astronomy/mars/this-wild-bioplastic-made-of-algae-just-aced-a-mars-pressure-test-can-astronauts-use-it-to-build-on-the-red-planet)
 - [Tesla loses its charm for India’s loyalists — even as Musk finally delivers](https://techcrunch.com/2025/07/20/tesla-loses-its-charm-for-indias-loyalists-even-as-musk-finally-delivers/)
 - [Discover where the Eagle might have landed: How to find Apollo 11&#39;s backup sites on the moon](https://www.space.com/stargazing/discover-where-the-eagle-might-have-landed-how-to-find-apollo-11s-backup-sites-on-the-moon)
 - [NASA&#39;s Roman Space Telescope could discover 100,000 new cosmic explosions: &#39;We&#39;re definitely expecting the unexpected&#39;](https://www.space.com/astronomy/nasas-roman-space-telescope-could-discover-100-000-new-cosmic-explosions-were-definitely-expecting-the-unexpected)
-- [Microsoft says it will no longer use engineers in China for Department of Defense work](https://techcrunch.com/2025/07/19/microsoft-says-it-will-no-longer-use-engineers-in-china-for-department-of-defense-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
