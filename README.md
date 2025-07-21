@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These 3 popular skywatching star clusters may be branches of the same family tree](https://www.space.com/astronomy/these-3-popular-skywatching-star-clusters-may-be-branches-of-the-same-family-tree)
+- [Figma’s Dylan Field will cash out about $60M in IPO, with Index, Kleiner, Greylock, Sequoia all selling, too](https://techcrunch.com/2025/07/21/figmas-dylan-field-will-cash-out-about-60m-in-ipo-with-index-kleiner-greylock-sequoia-all-selling-too/)
 - [Chrome for iOS makes it easier to switch between work and personal Google accounts](https://techcrunch.com/2025/07/21/chrome-for-ios-makes-it-easier-to-switch-between-work-and-personal-google-accounts/)
 - [When did our solar system&#39;s planets form? Discovery of tiny meteorite may challenge the timeline](https://www.space.com/astronomy/solar-system/when-did-our-solar-systems-planets-form-discovery-of-tiny-meteorite-may-challenge-the-timeline)
 - [TechCrunch Mobility: Uber makes a bet on premium robotaxis](https://techcrunch.com/2025/07/21/techcrunch-mobility-uber-makes-a-bet-on-premium-robotaxis/)
-- [AI voice company Hyper raises $6.3M to help automate 911 calls](https://techcrunch.com/2025/07/21/ai-voice-company-hyper-raises-6-3m-to-help-automate-911-calls/)
-- [&#39;Most impressive!&#39; Darth Vader&#39;s screen-used &#39;Star Wars&#39; lightsaber could fetch $3 million in September auction](https://www.space.com/entertainment/most-impressive-darth-vaders-screen-used-star-wars-lightsaber-could-fetch-usd3-million-in-september-auction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
