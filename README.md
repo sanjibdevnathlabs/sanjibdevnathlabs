@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Chaos&#39; reigns beneath the ice of Jupiter moon Europa, James Webb Space Telescope reveals](https://www.space.com/astronomy/jupiter/chaos-reigns-beneath-the-ice-of-jupiter-moon-europa-james-webb-space-telescope-reveals)
 - [Eclipse chasers share insider tips, travel advice and skywatching secrets for the 2026 total solar eclipse](https://www.space.com/stargazing/solar-eclipses/eclipse-chasers-share-insider-tips-travel-advice-and-skywatching-secrets-for-the-2026-total-solar-eclipse)
 - [This new &#39;CosmoCube&#39; moon orbiter could eavesdrop on whispers from the early universe](https://www.space.com/astronomy/moon/this-new-cosmocube-moon-orbiter-could-eavesdrop-on-whispers-from-the-early-universe)
 - [ChatGPT users send 2.5 billion prompts a day](https://techcrunch.com/2025/07/21/chatgpt-users-send-2-5-billion-prompts-a-day/)
 - [Hackers exploiting SharePoint zero-day seen targeting government agencies](https://techcrunch.com/2025/07/21/hackers-exploiting-sharepoint-zero-day-seen-targeting-government-agencies-say-researchers/)
-- [72% of US teens have used AI companions, study finds](https://techcrunch.com/2025/07/21/72-of-u-s-teens-have-used-ai-companions-study-finds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
