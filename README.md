@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [From idea to first check: Raising pre-seed and seed capital with Charles Hudson and Navin Chaddha at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/21/from-idea-to-first-check-raising-pre-seed-and-seed-capital-at-techcrunch-disrupt-2025/)
-- [Don’t miss your chance to exhibit at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/21/dont-miss-your-chance-to-exhibit-at-techcrunch-disrupt-2025/)
-- [Dia launches a skill gallery, Perplexity to add tasks to Comet](https://techcrunch.com/2025/07/21/dia-launches-a-skill-gallery-perplexity-to-add-tasks-to-comet/)
-- [Amateur astrophotographer captures trio of breathtaking nebulas from the Central Australian Desert &lpar;photos&rpar;](https://www.space.com/stargazing/amateur-astrophotographer-captures-trio-of-breathtaking-nebulas-from-the-central-australian-desert-photos)
-- [Indian crypto exchange CoinDCX confirms $44 million stolen during hack](https://techcrunch.com/2025/07/21/indian-crypto-exchange-coindcx-confirms-44-million-stolen-during-hack/)
+- [Quip is a smart clipboard management app for iOS and Mac](https://techcrunch.com/2025/07/21/quip-is-a-smart-clipboard-management-app-for-ios-and-mac/)
+- [Anduril alums raise $24M Series A to bring military logistics out of the Excel spreadsheet era](https://techcrunch.com/2025/07/21/anduril-alums-raise-24m-series-a-to-bring-military-logistics-out-of-the-excel-spreadsheet-era/)
+- [Astronomers crack 1,000-year-old Betelgeuse mystery with 1st-ever sighting of secret companion &lpar;photo, video&rpar;](https://www.space.com/astronomy/astronomers-crack-1-000-year-old-betelgeuse-mystery-with-1st-ever-sighting-of-secret-companion-photo-video)
+- [Figma looks to raise nearly $1 billion as it kicks off its IPO roadshow](https://techcrunch.com/2025/07/21/figma-looks-to-raise-nearly-1-billion-as-it-kicks-off-its-ipo-roadshow/)
+- [ESA selects 5 rocket companies for European Launcher Challenge](https://www.space.com/astronomy/earth/esa-selects-5-rocket-companies-for-european-launcher-challenge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
