@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This new &#39;CosmoCube&#39; moon orbiter could eavesdrop on whispers from the early universe](https://www.space.com/astronomy/moon/this-new-cosmocube-moon-orbiter-could-eavesdrop-on-whispers-from-the-early-universe)
+- [ChatGPT users send 2.5 billion prompts a day](https://techcrunch.com/2025/07/21/chatgpt-users-send-2-5-billion-prompts-a-day/)
+- [Hackers exploiting SharePoint zero-day seen targeting government agencies](https://techcrunch.com/2025/07/21/hackers-exploiting-sharepoint-zero-day-seen-targeting-government-agencies-say-researchers/)
+- [72% of U.S. teens have used AI companions, study finds](https://techcrunch.com/2025/07/21/72-of-u-s-teens-have-used-ai-companions-study-finds/)
 - [NASA&#39;s X-59 &#39;quiet&#39; supersonic jet rolls out for its 1st test drive &lpar;video&rpar;](https://www.space.com/technology/aerospace/nasas-x-59-quiet-supersonic-jet-rolls-out-for-its-1st-test-drive-video)
-- [These 3 popular skywatching star clusters may be branches of the same family tree](https://www.space.com/astronomy/these-3-popular-skywatching-star-clusters-may-be-branches-of-the-same-family-tree)
-- [Figma’s Dylan Field will cash out about $60M in IPO, with Index, Kleiner, Greylock, Sequoia all selling, too](https://techcrunch.com/2025/07/21/figmas-dylan-field-will-cash-out-about-60m-in-ipo-with-index-kleiner-greylock-sequoia-all-selling-too/)
-- [Chrome for iOS makes it easier to switch between work and personal Google accounts](https://techcrunch.com/2025/07/21/chrome-for-ios-makes-it-easier-to-switch-between-work-and-personal-google-accounts/)
-- [When did our solar system&#39;s planets form? Discovery of tiny meteorite may challenge the timeline](https://www.space.com/astronomy/solar-system/when-did-our-solar-systems-planets-form-discovery-of-tiny-meteorite-may-challenge-the-timeline)
 <!-- BLOG-POST-LIST:END -->
 
 ---
