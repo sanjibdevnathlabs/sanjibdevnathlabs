@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From idea to first check: Raising pre-seed and seed capital with Charles Hudson and Navin Chaddha at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/21/from-idea-to-first-check-raising-pre-seed-and-seed-capital-at-techcrunch-disrupt-2025/)
+- [Don’t miss your chance to exhibit at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/21/dont-miss-your-chance-to-exhibit-at-techcrunch-disrupt-2025/)
 - [Dia launches a skill gallery, Perplexity to add tasks to Comet](https://techcrunch.com/2025/07/21/dia-launches-a-skill-gallery-perplexity-to-add-tasks-to-comet/)
 - [Amateur astrophotographer captures trio of breathtaking nebulas from the Central Australian Desert &lpar;photos&rpar;](https://www.space.com/stargazing/amateur-astrophotographer-captures-trio-of-breathtaking-nebulas-from-the-central-australian-desert-photos)
 - [Indian crypto exchange CoinDCX confirms $44 million stolen during hack](https://techcrunch.com/2025/07/21/indian-crypto-exchange-coindcx-confirms-44-million-stolen-during-hack/)
-- [New zero-day bug in Microsoft SharePoint under widespread attack](https://techcrunch.com/2025/07/21/new-zero-day-bug-in-microsoft-sharepoint-under-widespread-attack/)
-- [Astronauts collect blood aboard the ISS | Space photo of the day for July 21, 2025](https://www.space.com/space-exploration/astronauts-collect-blood-aboard-the-iss-space-photo-of-the-day-for-july-21-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
