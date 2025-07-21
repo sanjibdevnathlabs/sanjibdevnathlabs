@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Earth will spin faster on July 22 to create 2nd-shortest day in history](https://www.space.com/astronomy/earth/earth-will-spin-faster-on-july-22-to-create-2nd-shortest-day-in-history)
 - [Former Tesla president discloses the secret to scaling a company](https://techcrunch.com/2025/07/20/former-tesla-president-discloses-the-secret-to-scaling-a-company/)
 - [Why Cartken pivoted its focus from last-mile delivery to industrial robots](https://techcrunch.com/2025/07/20/why-cartken-pivoted-its-focus-from-last-mile-delivery-to-industrial-robots/)
 - [South Korea wants to build a moon base by 2045](https://www.space.com/astronomy/moon/south-korea-wants-to-build-a-moon-base-by-2045)
 - [This wild bioplastic made of algae just aced a Mars pressure test. Can astronauts use it to build on the Red Planet?](https://www.space.com/astronomy/mars/this-wild-bioplastic-made-of-algae-just-aced-a-mars-pressure-test-can-astronauts-use-it-to-build-on-the-red-planet)
-- [Tesla loses its charm for India’s loyalists — even as Musk finally delivers](https://techcrunch.com/2025/07/20/tesla-loses-its-charm-for-indias-loyalists-even-as-musk-finally-delivers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
