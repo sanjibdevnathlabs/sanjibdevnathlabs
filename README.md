@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Mobility: Uber makes a bet on premium robotaxis](https://techcrunch.com/2025/07/21/techcrunch-mobility-uber-makes-a-bet-on-premium-robotaxis/)
+- [AI voice company Hyper raises $6.3M to help automate 9-1-1 calls](https://techcrunch.com/2025/07/21/ai-voice-company-hyper-raises-6-3m-to-help-automate-9-1-1-calls/)
+- [&#39;Most impressive!&#39; Darth Vader&#39;s screen-used &#39;Star Wars&#39; lightsaber could fetch $3 million in September auction](https://www.space.com/entertainment/most-impressive-darth-vaders-screen-used-star-wars-lightsaber-could-fetch-usd3-million-in-september-auction)
+- [Grok’s AI companions drove downloads, but its latest model is the one making money](https://techcrunch.com/2025/07/21/groks-ai-companions-drove-downloads-but-its-latest-model-is-the-one-making-money/)
 - [Quip is a smart clipboard management app for iOS and Mac](https://techcrunch.com/2025/07/21/quip-is-a-smart-clipboard-management-app-for-ios-and-mac/)
-- [Anduril alums raise $24M Series A to bring military logistics out of the Excel spreadsheet era](https://techcrunch.com/2025/07/21/anduril-alums-raise-24m-series-a-to-bring-military-logistics-out-of-the-excel-spreadsheet-era/)
-- [Astronomers crack 1,000-year-old Betelgeuse mystery with 1st-ever sighting of secret companion &lpar;photo, video&rpar;](https://www.space.com/astronomy/astronomers-crack-1-000-year-old-betelgeuse-mystery-with-1st-ever-sighting-of-secret-companion-photo-video)
-- [Figma looks to raise nearly $1 billion as it kicks off its IPO roadshow](https://techcrunch.com/2025/07/21/figma-looks-to-raise-nearly-1-billion-as-it-kicks-off-its-ipo-roadshow/)
-- [ESA selects 5 rocket companies for European Launcher Challenge](https://www.space.com/astronomy/earth/esa-selects-5-rocket-companies-for-european-launcher-challenge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
