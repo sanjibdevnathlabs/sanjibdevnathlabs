@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What are these strange swirls around an infant star? &#39;We may be watching a planet come into existence in real time&#39;](https://www.space.com/astronomy/exoplanets/what-are-these-strange-swirls-around-an-infant-star-we-may-be-watching-a-planet-come-into-existence-in-real-time)
-- [Earth will spin faster on July 22 to create 2nd-shortest day in history](https://www.space.com/astronomy/earth/earth-will-spin-faster-on-july-22-to-create-2nd-shortest-day-in-history)
-- [Former Tesla president discloses the secret to scaling a company](https://techcrunch.com/2025/07/20/former-tesla-president-discloses-the-secret-to-scaling-a-company/)
-- [Why Cartken pivoted its focus from last-mile delivery to industrial robots](https://techcrunch.com/2025/07/20/why-cartken-pivoted-its-focus-from-last-mile-delivery-to-industrial-robots/)
-- [South Korea wants to build a moon base by 2045](https://www.space.com/astronomy/moon/south-korea-wants-to-build-a-moon-base-by-2045)
+- [Dia launches a skill gallery, Perplexity to add tasks to Comet](https://techcrunch.com/2025/07/21/dia-launches-a-skill-gallery-perplexity-to-add-tasks-to-comet/)
+- [Amateur astrophotographer captures trio of breathtaking nebulas from the Central Australian Desert &lpar;photos&rpar;](https://www.space.com/stargazing/amateur-astrophotographer-captures-trio-of-breathtaking-nebulas-from-the-central-australian-desert-photos)
+- [Indian crypto exchange CoinDCX confirms $44 million stolen during hack](https://techcrunch.com/2025/07/21/indian-crypto-exchange-coindcx-confirms-44-million-stolen-during-hack/)
+- [New zero-day bug in Microsoft SharePoint under widespread attack](https://techcrunch.com/2025/07/21/new-zero-day-bug-in-microsoft-sharepoint-under-widespread-attack/)
+- [Astronauts collect blood aboard the ISS | Space photo of the day for July 21, 2025](https://www.space.com/space-exploration/astronauts-collect-blood-aboard-the-iss-space-photo-of-the-day-for-july-21-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
