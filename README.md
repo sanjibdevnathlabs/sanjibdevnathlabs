@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [3 Key DevOps Practices for Software Engineers](https://www.youtube.com/shorts/gWsfVIDGuYw)
 - [Why 90% of developers struggle with deployments &lpar;and how to fix it&rpar;](https://www.youtube.com/shorts/rYrWRJgULwU)
 - [2026 OE Global Conference Save the Date Announcement](https://www.youtube.com/watch?v=K2cYzRGjWrE)
 - [You NEED to Use n8n RIGHT NOW!! &lpar;Free, Local, Private&rpar;](https://www.youtube.com/watch?v=ONgECvZNI3o)
 - [AWS just released its Cursor killer…](https://www.youtube.com/watch?v=gA6r7iVzP6M)
-- [“Why so many cereals?&quot; - The economics of competition](https://www.youtube.com/watch?v=iygG695S3_Q)
 <!-- YOUTUBE:END -->
 
 ---
