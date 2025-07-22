@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Makenzie Lystrup stepping down as director of NASA&#39;s Goddard Space Flight Center](https://www.space.com/space-exploration/makenzie-lystrup-stepping-down-as-director-of-nasas-goddard-space-flight-center)
+- [Photograph the Perseids on August 12 with over $1000 off the Sony A7R V](https://www.space.com/stargazing/skywatching-kit/photograph-the-perseids-on-august-12-with-over-usd1000-off-the-sony-a7r-v)
+- [Now is your last chance to watch the Marvel movies in order with over 40% off ahead of &quot;Fantastic Four: First Steps&quot;](https://www.space.com/entertainment/save-over-40-percent-and-watch-marvel-movies-ahead-of-fantastic-four-first-steps)
 - [National security meets next-gen tech at TechCrunch Disrupt 2025’s AI Defense panel](https://techcrunch.com/2025/07/22/national-security-meets-next-gen-tech-at-techcrunch-disrupt-2025s-ai-defense-panel/)
 - [User privacy app Cloaked adds AI-powered caller screening](https://techcrunch.com/2025/07/22/user-privacy-app-cloaked-adds-ai-powered-caller-screening/)
-- [Nearly 300 NASA scientists sign &#39;Voyager Declaration&#39; to protest Trump space science budget cuts](https://www.space.com/space-exploration/nearly-300-nasa-scientists-sign-voyager-declaration-to-protest-trump-space-science-budget-cuts)
-- [Google, Microsoft say Chinese hackers are exploiting SharePoint zero-day](https://techcrunch.com/2025/07/22/google-microsoft-say-chinese-hackers-are-exploiting-sharepoint-zero-day/)
-- [On stage at TechCrunch Disrupt 2025: How AI is forcing late-stage startups to rewire GTM — or be left behind](https://techcrunch.com/2025/07/22/on-stage-at-techcrunch-disrupt-2025-how-ai-is-forcing-late-stage-startups-to-rewire-gtm-or-be-left-behind/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
