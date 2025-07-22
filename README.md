@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t miss the crescent moon cozy up to Jupiter early on July 23](https://www.space.com/stargazing/dont-miss-the-crescent-moon-cozy-up-to-jupiter-early-on-july-23)
+- [&#39;They are coming here.&#39; AI soldiers invade Earth in thrilling new &#39;Tron: Ares&#39; trailer](https://www.space.com/entertainment/they-are-coming-here-ai-soldiers-invade-earth-in-thrilling-new-tron-ares-trailer)
 - [Stunning twilight photo captures comet bidding farewell to Earth for 80,000 years](https://www.space.com/stargazing/stunning-twilight-photo-captures-comet-bidding-farewell-to-earth-for-80-000-years)
 - [How to safely photograph the sun: As detailed by an expert](https://www.space.com/the-universe/sun/how-to-safely-photograph-the-sun)
 - [Etsy faces user boycott over ‘Alligator Alcatraz’ branded products](https://techcrunch.com/2025/07/22/etsy-faces-user-boycott-over-alligator-alcatraz-branded-products/)
-- [UK government wants ransomware victims to report cyberattacks so it can disrupt the hackers](https://techcrunch.com/2025/07/22/uk-government-wants-ransomware-victims-to-report-cyberattacks-so-it-can-disrupt-the-hackers/)
-- [Photograph the Perseids on August 12 with over $1000 off the Sony A7R V](https://www.space.com/stargazing/skywatching-kit/photograph-the-perseids-on-august-12-with-over-usd1000-off-the-sony-a7r-v)
 <!-- BLOG-POST-LIST:END -->
 
 ---
