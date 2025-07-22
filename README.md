@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple alerted Iranians to iPhone spyware attacks, say researchers](https://techcrunch.com/2025/07/22/apple-alerted-iranians-to-iphone-spyware-attacks-say-researchers/)
+- [Amazon acquires Bee, the AI wearable that records everything you say](https://techcrunch.com/2025/07/22/amazon-acquires-bee-the-ai-wearable-that-records-everything-you-say/)
+- [OpenAI agreed to pay Oracle $30B a year for data center services](https://techcrunch.com/2025/07/22/openai-agreed-to-pay-oracle-30b-a-year-for-data-center-services/)
 - [Rocket Lab’s first hurdle to flying its new rocket is getting it to the pad](https://techcrunch.com/2025/07/22/rocket-labs-first-hurdle-to-flying-its-new-rocket-is-getting-it-to-the-pad/)
 - [This 200-light-year-wide structure could be feeding our galaxy&#39;s center: &#39;No one had any idea this cloud existed&#39;](https://www.space.com/astronomy/this-200-light-year-wide-structure-could-be-feeding-our-galaxys-center-no-one-had-any-idea-this-cloud-existed)
-- [iOS 26 beta 4 arrives, with Liquid Glass tweaks and AI news summaries](https://techcrunch.com/2025/07/22/ios-26-beta-4-arrives-with-liquid-glass-tweaks-and-ai-news-summaries/)
-- [Threads adds improved content performance metrics for creators](https://techcrunch.com/2025/07/22/threads-adds-improved-content-performance-metrics-for-creators/)
-- [Don&#39;t miss the crescent moon cozy up to Jupiter early on July 23](https://www.space.com/stargazing/dont-miss-the-crescent-moon-cozy-up-to-jupiter-early-on-july-23)
 <!-- BLOG-POST-LIST:END -->
 
 ---
