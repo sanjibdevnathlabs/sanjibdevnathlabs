@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VSCO’s iPhone camera app is now available globally](https://techcrunch.com/2025/07/22/vscos-iphone-camera-app-is-now-available-globally/)
-- [Europe tests largest-ever Mars parachute in the stratosphere above the Arctic &lpar;video&rpar;](https://www.space.com/astronomy/mars/europe-tests-largest-ever-mars-parachute-in-the-stratosphere-above-the-arctic-video)
-- [21-year-old MIT dropouts raise $32M at $300M valuation led by Insight](https://techcrunch.com/2025/07/22/21-year-old-mit-dropouts-raise-32m-at-300m-valuation-led-by-insight/)
-- [Telegram’s crypto wallet launches in the US](https://techcrunch.com/2025/07/22/telegrams-crypto-wallet-launches-in-the-us/)
-- [Betaworks’ third fund closes at $66M to invest in early-stage AI startups](https://techcrunch.com/2025/07/22/betaworks-third-fund-closes-at-66m-to-invest-in-early-stage-ai-startups/)
+- [National security meets next-gen tech at TechCrunch Disrupt 2025’s AI Defense panel](https://techcrunch.com/2025/07/22/national-security-meets-next-gen-tech-at-techcrunch-disrupt-2025s-ai-defense-panel/)
+- [User privacy app Cloaked adds AI-powered caller screening](https://techcrunch.com/2025/07/22/user-privacy-app-cloaked-adds-ai-powered-caller-screening/)
+- [Nearly 300 NASA scientists sign &#39;Voyager Declaration&#39; to protest Trump space science budget cuts](https://www.space.com/space-exploration/nearly-300-nasa-scientists-sign-voyager-declaration-to-protest-trump-space-science-budget-cuts)
+- [Google, Microsoft say Chinese hackers are exploiting SharePoint zero-day](https://techcrunch.com/2025/07/22/google-microsoft-say-chinese-hackers-are-exploiting-sharepoint-zero-day/)
+- [On stage at TechCrunch Disrupt 2025: How AI is forcing late-stage startups to rewire GTM — or be left behind](https://techcrunch.com/2025/07/22/on-stage-at-techcrunch-disrupt-2025-how-ai-is-forcing-late-stage-startups-to-rewire-gtm-or-be-left-behind/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
