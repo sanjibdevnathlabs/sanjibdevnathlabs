@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon backs programmable optics startup Lumotive](https://techcrunch.com/2025/07/22/amazon-backs-programmable-optics-startup-lumotive/)
-- [This startup thinks email could be the key to usable AI agents](https://techcrunch.com/2025/07/22/this-startup-thinks-email-could-be-the-key-to-usable-ai-agents/)
-- [Three things veteran planetary health investors look for in a startup](https://techcrunch.com/2025/07/22/three-things-veteran-planetary-health-investors-look-for-in-a-startup/)
-- [Robot guard dogs help Asylon raise a $26M Series B](https://techcrunch.com/2025/07/22/robot-guard-dogs-help-asylon-raise-a-26m-series-b/)
-- [Hubble spots interstellar invader Comet 3I/ATLAS for the first time](https://www.space.com/astronomy/asteroids/hubble-spots-interstellar-invader-comet-3i-atlas-for-the-first-time)
+- [Betaworks’ third fund closes at $66M to invest in early-stage AI startups](https://techcrunch.com/2025/07/22/betaworks-third-fund-closes-at-66m-to-invest-in-early-stage-ai-startups/)
+- [Nevoya raises $9.3M as its EV truck fleet reaches cost parity with diesel](https://techcrunch.com/2025/07/22/nevoya-raises-9-3m-seed-round-as-its-ev-truck-fleet-reaches-cost-parity-with-diesel/)
+- [Lucid Air owners will be able to use Tesla Superchargers from July 31](https://techcrunch.com/2025/07/22/lucid-air-owners-will-be-able-to-use-tesla-superchargers-starting-july-31/)
+- [Crypto billionaire Justin Sun will fly on Blue Origin&#39;s next space tourism launch](https://www.space.com/space-exploration/private-spaceflight/crypto-billionaire-justin-sun-will-fly-on-blue-origins-next-space-tourism-launch)
+- [Night sky glows purple above Vera Rubin Observatory | Space photo of the day for July 22, 2025](https://www.space.com/astronomy/night-sky-glows-purple-above-vera-rubin-observatory-space-photo-of-the-day-for-july-22-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
