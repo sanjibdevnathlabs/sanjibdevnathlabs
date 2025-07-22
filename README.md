@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon backs programmable optics startup Lumotive](https://techcrunch.com/2025/07/22/amazon-backs-programmable-optics-startup-lumotive/)
+- [This startup thinks email could be the key to usable AI agents](https://techcrunch.com/2025/07/22/this-startup-thinks-email-could-be-the-key-to-usable-ai-agents/)
+- [Three things veteran planetary health investors look for in a startup](https://techcrunch.com/2025/07/22/three-things-veteran-planetary-health-investors-look-for-in-a-startup/)
+- [Robot guard dogs help Asylon raise a $26M Series B](https://techcrunch.com/2025/07/22/robot-guard-dogs-help-asylon-raise-a-26m-series-b/)
 - [Hubble spots interstellar invader Comet 3I/ATLAS for the first time](https://www.space.com/astronomy/asteroids/hubble-spots-interstellar-invader-comet-3i-atlas-for-the-first-time)
-- [Latent Labs launches web-based AI model to democratize protein design](https://techcrunch.com/2025/07/21/latent-labs-launches-web-based-ai-model-to-democratize-protein-design/)
-- [Instead of selling to Meta, AI chip startup FuriosaAI signed a huge customer](https://techcrunch.com/2025/07/21/instead-of-selling-to-meta-ai-chip-startup-furiosaai-signed-a-huge-customer/)
-- [Tesla opens retro-futuristic diner as Elon Musk hints at more locations](https://techcrunch.com/2025/07/21/teslas-retro-futuristic-diner-officially-opens-as-elon-musk-hints-at-more-locations/)
-- [OpenAI and Google outdo the mathletes, but not each other](https://techcrunch.com/2025/07/21/openai-and-google-outdo-the-mathletes-but-not-each-other/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
