@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble spots interstellar invader Comet 3I/ATLAS for the first time](https://www.space.com/astronomy/asteroids/hubble-spots-interstellar-invader-comet-3i-atlas-for-the-first-time)
 - [Latent Labs launches web-based AI model to democratize protein design](https://techcrunch.com/2025/07/21/latent-labs-launches-web-based-ai-model-to-democratize-protein-design/)
 - [Instead of selling to Meta, AI chip startup FuriosaAI signed a huge customer](https://techcrunch.com/2025/07/21/instead-of-selling-to-meta-ai-chip-startup-furiosaai-signed-a-huge-customer/)
 - [Tesla’s retro-futuristic diner officially opens as Elon Musk hints at more locations](https://techcrunch.com/2025/07/21/teslas-retro-futuristic-diner-officially-opens-as-elon-musk-hints-at-more-locations/)
 - [OpenAI and Google outdo the mathletes, but not each other](https://techcrunch.com/2025/07/21/openai-and-google-outdo-the-mathletes-but-not-each-other/)
-- [SpaceX aborts satellite launch 11 seconds before liftoff](https://www.space.com/space-exploration/launches-spacecraft/spacex-aborts-satellite-launch-11-seconds-before-liftoff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
