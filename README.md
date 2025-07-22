@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Memory Mapping - Computerphile](https://www.youtube.com/watch?v=di5WodGWTiY)
-- [3 Key DevOps Practices for Software Engineers](https://www.youtube.com/shorts/gWsfVIDGuYw)
-- [Why 90% of developers struggle with deployments &lpar;and how to fix it&rpar;](https://www.youtube.com/shorts/rYrWRJgULwU)
-- [2026 OE Global Conference Save the Date Announcement](https://www.youtube.com/watch?v=K2cYzRGjWrE)
-- [You NEED to Use n8n RIGHT NOW!! &lpar;Free, Local, Private&rpar;](https://www.youtube.com/watch?v=ONgECvZNI3o)
+- [Lecture 11: Graphs and Coloring](https://www.youtube.com/watch?v=cB0UijRfOCQ)
+- [Lecture 1: Predicates, Sets, and Proofs](https://www.youtube.com/watch?v=sbpCTjmw85g)
+- [Lecture 13: Connectivity and Trees](https://www.youtube.com/watch?v=BVpOkj7W_xE)
+- [Lecture 2: Contradiction and Induction](https://www.youtube.com/watch?v=_NYsYuzMLs0)
+- [Lecture 24: Large Deviations: Chebyshev and Chernov Bound, Wrap Up](https://www.youtube.com/watch?v=7FOFBqw1gMs)
 <!-- YOUTUBE:END -->
 
 ---
