@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VSCO’s iPhone camera app is now available globally](https://techcrunch.com/2025/07/22/vscos-iphone-camera-app-is-now-available-globally/)
+- [Europe tests largest-ever Mars parachute in the stratosphere above the Arctic &lpar;video&rpar;](https://www.space.com/astronomy/mars/europe-tests-largest-ever-mars-parachute-in-the-stratosphere-above-the-arctic-video)
+- [21-year-old MIT dropouts raise $32M at $300M valuation led by Insight](https://techcrunch.com/2025/07/22/21-year-old-mit-dropouts-raise-32m-at-300m-valuation-led-by-insight/)
+- [Telegram’s crypto wallet launches in the US](https://techcrunch.com/2025/07/22/telegrams-crypto-wallet-launches-in-the-us/)
 - [Betaworks’ third fund closes at $66M to invest in early-stage AI startups](https://techcrunch.com/2025/07/22/betaworks-third-fund-closes-at-66m-to-invest-in-early-stage-ai-startups/)
-- [Nevoya raises $9.3M as its EV truck fleet reaches cost parity with diesel](https://techcrunch.com/2025/07/22/nevoya-raises-9-3m-seed-round-as-its-ev-truck-fleet-reaches-cost-parity-with-diesel/)
-- [Lucid Air owners will be able to use Tesla Superchargers from July 31](https://techcrunch.com/2025/07/22/lucid-air-owners-will-be-able-to-use-tesla-superchargers-starting-july-31/)
-- [Crypto billionaire Justin Sun will fly on Blue Origin&#39;s next space tourism launch](https://www.space.com/space-exploration/private-spaceflight/crypto-billionaire-justin-sun-will-fly-on-blue-origins-next-space-tourism-launch)
-- [Night sky glows purple above Vera Rubin Observatory | Space photo of the day for July 22, 2025](https://www.space.com/astronomy/night-sky-glows-purple-above-vera-rubin-observatory-space-photo-of-the-day-for-july-22-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
