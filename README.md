@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket Lab’s first hurdle to flying its new rocket is getting it to the pad](https://techcrunch.com/2025/07/22/rocket-labs-first-hurdle-to-flying-its-new-rocket-is-getting-it-to-the-pad/)
 - [This 200-light-year-wide structure could be feeding our galaxy&#39;s center: &#39;No one had any idea this cloud existed&#39;](https://www.space.com/astronomy/this-200-light-year-wide-structure-could-be-feeding-our-galaxys-center-no-one-had-any-idea-this-cloud-existed)
 - [iOS 26 beta 4 arrives, with Liquid Glass tweaks and AI news summaries](https://techcrunch.com/2025/07/22/ios-26-beta-4-arrives-with-liquid-glass-tweaks-and-ai-news-summaries/)
 - [Threads adds improved content performance metrics for creators](https://techcrunch.com/2025/07/22/threads-adds-improved-content-performance-metrics-for-creators/)
 - [Don&#39;t miss the crescent moon cozy up to Jupiter early on July 23](https://www.space.com/stargazing/dont-miss-the-crescent-moon-cozy-up-to-jupiter-early-on-july-23)
-- [&#39;They are coming here.&#39; AI soldiers invade Earth in thrilling new &#39;Tron: Ares&#39; trailer](https://www.space.com/entertainment/they-are-coming-here-ai-soldiers-invade-earth-in-thrilling-new-tron-ares-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
