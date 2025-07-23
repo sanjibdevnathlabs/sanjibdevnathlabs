@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do scientists calculate the probability that an asteroid could hit Earth?](https://www.space.com/astronomy/asteroids/how-do-scientists-calculate-the-probability-that-an-asteroid-could-hit-earth)
+- [Avalanche Energy hits key milestone on the road to a desktop fusion reactor](https://techcrunch.com/2025/07/23/avalanche-energy-hits-key-milestone-on-the-road-to-a-desktop-fusion-reactor/)
 - [How TRIC Robotics is reducing pesticide use on strawberries using UV light](https://techcrunch.com/2025/07/23/how-tric-robotics-is-reducing-pesticide-use-on-strawberries-using-uv-light/)
 - [TechCrunch Disrupt 2025: First full agenda reveal for the brand-new Going Public Stage](https://techcrunch.com/2025/07/23/techcrunch-disrupt-2025-first-full-agenda-reveal-for-the-brand-new-going-public-stage/)
 - [The Milky Way brightens the moonless summer sky this week: Here&#39;s where to look](https://www.space.com/stargazing/the-milky-way-brightens-the-moonless-summer-sky-this-week-heres-where-to-look)
-- [Hundreds of organizations breached by SharePoint mass-hacks](https://techcrunch.com/2025/07/23/hundreds-of-organizations-breached-by-sharepoint-mass-hacks/)
-- [Eight months in, Swedish unicorn Lovable crosses the $100M ARR milestone](https://techcrunch.com/2025/07/23/eight-months-in-swedish-unicorn-lovable-crosses-the-100m-arr-milestone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
