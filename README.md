@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trump is set to unveil his AI roadmap: Here’s what to know](https://techcrunch.com/2025/07/23/trump-is-set-to-unveil-his-ai-roadmap-heres-what-to-know/)
-- [Apple launches $19.99 monthly AppleCare One subscription with coverage for three devices](https://techcrunch.com/2025/07/23/apple-launches-19-99-monthly-applecare-one-subscription-with-coverage-for-three-devices/)
-- [Instagram adds new protections for accounts that primarily feature children](https://techcrunch.com/2025/07/23/instagram-adds-new-protections-for-accounts-that-primarily-feature-children/)
-- [NetZeroNitrogen wants bacteria to replace synthetic fertilizer on farm fields](https://techcrunch.com/2025/07/23/netzeronitrogen-wants-bacteria-to-replace-synthetic-fertilizer-on-farm-fields/)
-- [Sharp-eyed US-Indian satellite set to launch July 30 to monitor Earth&#39;s surface, warn of natural disasters](https://www.space.com/science/sharp-eyed-us-indian-satellite-set-to-launch-july-30-to-monitor-earths-surface-warn-of-natural-disasters)
+- [Hundreds of organizations breached by SharePoint mass-hacks](https://techcrunch.com/2025/07/23/hundreds-of-organizations-breached-by-sharepoint-mass-hacks/)
+- [Eight months in, Swedish unicorn Lovable crosses the $100M ARR milestone](https://techcrunch.com/2025/07/23/eight-months-in-swedish-unicorn-lovable-crosses-the-100m-arr-milestone/)
+- [Uber is finally letting women riders in the US match with women drivers](https://techcrunch.com/2025/07/23/uber-is-finally-bringing-a-feature-to-the-u-s-that-lets-women-riders-match-with-women-drivers/)
+- [This star escaped a supermassive black hole&#39;s violent grips — then returned for round 2](https://www.space.com/astronomy/black-holes/this-star-escaped-a-supermassive-black-holes-violent-grips-then-returned-for-round-2)
+- [Proton’s new privacy-first AI assistant encrypts all chats, keeps no logs](https://techcrunch.com/2025/07/23/protons-new-privacy-first-ai-assistant-encrypts-all-chats-keeps-no-logs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
