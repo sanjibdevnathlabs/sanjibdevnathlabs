@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How TRIC Robotics is reducing pesticide use on strawberries using UV light](https://techcrunch.com/2025/07/23/how-tric-robotics-is-reducing-pesticide-use-on-strawberries-using-uv-light/)
+- [TechCrunch Disrupt 2025: First full agenda reveal for the brand-new Going Public Stage](https://techcrunch.com/2025/07/23/techcrunch-disrupt-2025-first-full-agenda-reveal-for-the-brand-new-going-public-stage/)
+- [The Milky Way brightens the moonless summer sky this week: Here&#39;s where to look](https://www.space.com/stargazing/the-milky-way-brightens-the-moonless-summer-sky-this-week-heres-where-to-look)
 - [Hundreds of organizations breached by SharePoint mass-hacks](https://techcrunch.com/2025/07/23/hundreds-of-organizations-breached-by-sharepoint-mass-hacks/)
 - [Eight months in, Swedish unicorn Lovable crosses the $100M ARR milestone](https://techcrunch.com/2025/07/23/eight-months-in-swedish-unicorn-lovable-crosses-the-100m-arr-milestone/)
-- [Uber is finally letting women riders in the US match with women drivers](https://techcrunch.com/2025/07/23/uber-is-finally-bringing-a-feature-to-the-u-s-that-lets-women-riders-match-with-women-drivers/)
-- [This star escaped a supermassive black hole&#39;s violent grips — then returned for round 2](https://www.space.com/astronomy/black-holes/this-star-escaped-a-supermassive-black-holes-violent-grips-then-returned-for-round-2)
-- [Proton’s new privacy-first AI assistant encrypts all chats, keeps no logs](https://techcrunch.com/2025/07/23/protons-new-privacy-first-ai-assistant-encrypts-all-chats-keeps-no-logs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
