@@ -134,7 +134,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Qwen-3 Coder is coming for Claude...](https://www.youtube.com/watch?v=-w53i6Ae-YM)
+- [This Chinese coding model is coming for Claude...](https://www.youtube.com/watch?v=-w53i6Ae-YM)
 - [Lecture 11: Graphs and Coloring](https://www.youtube.com/watch?v=cB0UijRfOCQ)
 - [Lecture 1: Predicates, Sets, and Proofs](https://www.youtube.com/watch?v=sbpCTjmw85g)
 - [Lecture 13: Connectivity and Trees](https://www.youtube.com/watch?v=BVpOkj7W_xE)
