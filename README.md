@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sundar Pichai is ‘very excited’ about Google Cloud’s OpenAI partnership](https://techcrunch.com/2025/07/23/sundar-pichai-is-very-excited-about-google-clouds-openai-partnership/)
 - [A troubled SPAC plans to buy iRocket for $400M but it already returned most of its cash](https://techcrunch.com/2025/07/23/a-troubled-spac-plans-to-buy-irocket-for-400m-but-it-already-returned-most-of-its-cash/)
 - [YouTube sees a rise in ad revenue to reach nearly $10 billion](https://techcrunch.com/2025/07/23/youtube-sees-a-rise-in-ad-revenue-to-reach-nearly-10-billion/)
 - [Google’s AI Overviews have 2B monthly users, AI Mode 100M in the US and India](https://techcrunch.com/2025/07/23/googles-ai-overviews-have-2b-monthly-users-ai-mode-100m-in-the-us-and-india/)
 - [2 Earth weather satellites accidentally spy on Venus](https://www.space.com/astronomy/venus/2-earth-weather-satellites-accidentally-spy-on-venus)
-- [Tesla profits pulled down by falling EV sales and regulatory credits](https://techcrunch.com/2025/07/23/tesla-profits-pulled-down-by-falling-ev-sales-and-regulatory-credits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
