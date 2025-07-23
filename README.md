@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2 Earth weather satellites accidentally spy on Venus](https://www.space.com/astronomy/venus/2-earth-weather-satellites-accidentally-spy-on-venus)
+- [Tesla profits pulled down by falling EV sales and regulatory credits](https://techcrunch.com/2025/07/23/tesla-profits-pulled-down-by-falling-ev-sales-and-regulatory-credits/)
 - [New Neil Armstrong Prize to honor achievements in space](https://www.space.com/space-exploration/new-neil-armstrong-prize-to-honor-achievements-in-space)
 - [See Tianzhou 9 cargo mission dock at China&#39;s Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/see-tianzhou-9-cargo-mission-dock-at-chinas-tiangong-space-station-video)
 - [Trump’s AI Action Plan aims to block chip exports to China but lacks key details](https://techcrunch.com/2025/07/23/trumps-ai-action-plan-aims-to-block-chip-exports-to-china-but-lacks-key-details/)
-- [Scientists may have solved a chemistry mystery about Jupiter&#39;s ocean moon Europa](https://www.space.com/astronomy/jupiter/scientists-may-have-solved-a-chemistry-mystery-about-jupiters-ocean-moon-europa)
-- [Former Y Combinator, a16z experts hold invite-only summit for founders](https://techcrunch.com/2025/07/23/former-y-combinator-a16z-experts-hold-invite-only-summit-for-founders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
