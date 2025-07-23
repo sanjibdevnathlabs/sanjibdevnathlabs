@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists may have solved a chemistry mystery about Jupiter&#39;s ocean moon Europa](https://www.space.com/astronomy/jupiter/scientists-may-have-solved-a-chemistry-mystery-about-jupiters-ocean-moon-europa)
+- [Former Y Combinator, a16z experts hold invite-only summit for founders](https://techcrunch.com/2025/07/23/former-y-combinator-a16z-experts-hold-invite-only-summit-for-founders/)
+- [Space Force&#39;s Golden Dome chief says space-based missile interceptors are possible today. &#39;We have proven every element of the physics&#39;](https://www.space.com/space-exploration/satellites/space-forces-golden-dome-chief-says-space-based-missile-interceptors-are-possible-today-we-have-proven-every-element-of-the-physics)
 - [Open source X rival Mastodon begins raising funds with new in-app donation feature](https://techcrunch.com/2025/07/23/open-source-x-rival-mastodon-begins-raising-funds-with-new-in-app-donation-feature/)
 - [Interstellar invader Comet 3I/ATLAS is packed with water ice that could be older than Earth](https://www.space.com/astronomy/asteroids/interstellar-invader-comet-3i-atlas-is-packed-with-water-ice-that-could-be-older-than-earth)
-- [Trump’s AI strategy trades guardrails for growth in race against China](https://techcrunch.com/2025/07/23/trumps-ai-strategy-trades-guardrails-for-growth-in-race-against-china/)
-- [India expands its e-commerce crackdown with a new $200M case against Walmart’s fashion arm Myntra](https://techcrunch.com/2025/07/23/india-expands-its-e-commerce-crackdown-with-a-new-200m-case-against-walmarts-fashion-arm-myntra/)
-- [Meta researchers are developing a gesture-controlled wristband that can interact with a computer](https://techcrunch.com/2025/07/23/meta-researchers-are-developing-a-gesture-controlled-wristband-that-can-interact-with-a-computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
