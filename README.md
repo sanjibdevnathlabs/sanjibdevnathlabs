@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Photos adds AI features for ‘remixing’ photos in different styles, turning pics into videos](https://techcrunch.com/2025/07/23/google-photos-adds-ai-features-for-remixing-photos-in-different-styles-turning-pics-into-videos/)
-- [YouTube Shorts is adding an image-to-video AI tool, new AI effects](https://techcrunch.com/2025/07/23/youtube-shorts-is-adding-an-image-to-video-ai-tool-new-ai-effects/)
-- [UK targets Apple and Google’s mobile platforms for regulation](https://techcrunch.com/2025/07/23/uk-targets-apple-and-googles-mobile-platforms-for-regulation/)
-- [European authorities arrest alleged admin of notorious Russian crime forum XSS](https://techcrunch.com/2025/07/23/european-authorities-arrest-alleged-admin-of-notorious-russian-crime-forum-xss/)
-- [How do scientists calculate the probability that an asteroid could hit Earth?](https://www.space.com/astronomy/asteroids/how-do-scientists-calculate-the-probability-that-an-asteroid-could-hit-earth)
+- [Open source X rival Mastodon begins raising funds with new in-app donation feature](https://techcrunch.com/2025/07/23/open-source-x-rival-mastodon-begins-raising-funds-with-new-in-app-donation-feature/)
+- [Interstellar invader Comet 3I/ATLAS is packed with water ice that could be older than Earth](https://www.space.com/astronomy/asteroids/interstellar-invader-comet-3i-atlas-is-packed-with-water-ice-that-could-be-older-than-earth)
+- [Trump’s AI strategy trades guardrails for growth in race against China](https://techcrunch.com/2025/07/23/trumps-ai-strategy-trades-guardrails-for-growth-in-race-against-china/)
+- [India expands its e-commerce crackdown with a new $200M case against Walmart’s fashion arm Myntra](https://techcrunch.com/2025/07/23/india-expands-its-e-commerce-crackdown-with-a-new-200m-case-against-walmarts-fashion-arm-myntra/)
+- [Meta researchers are developing a gesture-controlled wristband that can interact with a computer](https://techcrunch.com/2025/07/23/meta-researchers-are-developing-a-gesture-controlled-wristband-that-can-interact-with-a-computer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
