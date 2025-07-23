@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump is set to unveil his AI roadmap: Here’s what to know](https://techcrunch.com/2025/07/23/trump-is-set-to-unveil-his-ai-roadmap-heres-what-to-know/)
+- [Apple launches $19.99 monthly AppleCare One subscription with coverage for three devices](https://techcrunch.com/2025/07/23/apple-launches-19-99-monthly-applecare-one-subscription-with-coverage-for-three-devices/)
 - [Instagram adds new protections for accounts that primarily feature children](https://techcrunch.com/2025/07/23/instagram-adds-new-protections-for-accounts-that-primarily-feature-children/)
 - [NetZeroNitrogen wants bacteria to replace synthetic fertilizer on farm fields](https://techcrunch.com/2025/07/23/netzeronitrogen-wants-bacteria-to-replace-synthetic-fertilizer-on-farm-fields/)
 - [Sharp-eyed US-Indian satellite set to launch July 30 to monitor Earth&#39;s surface, warn of natural disasters](https://www.space.com/science/sharp-eyed-us-indian-satellite-set-to-launch-july-30-to-monitor-earths-surface-warn-of-natural-disasters)
-- [Gupshup raises $60M in equity and debt, leaves unicorn status hanging](https://techcrunch.com/2025/07/22/gupshup-raises-60m-in-equity-and-debt-leaves-unicorn-status-hanging/)
-- [PayPal taps wallets from China and India to make cross-border payments easier for 2 billion people](https://techcrunch.com/2025/07/22/paypal-announces-integration-with-international-wallets-for-easier-cross-border-transactions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
