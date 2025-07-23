@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This Chinese coding model finally caught up to Claude...](https://www.youtube.com/watch?v=-w53i6Ae-YM)
 - [Lecture 11: Graphs and Coloring](https://www.youtube.com/watch?v=cB0UijRfOCQ)
 - [Lecture 1: Predicates, Sets, and Proofs](https://www.youtube.com/watch?v=sbpCTjmw85g)
 - [Lecture 13: Connectivity and Trees](https://www.youtube.com/watch?v=BVpOkj7W_xE)
 - [Lecture 2: Contradiction and Induction](https://www.youtube.com/watch?v=_NYsYuzMLs0)
-- [Lecture 24: Large Deviations: Chebyshev and Chernov Bound, Wrap Up](https://www.youtube.com/watch?v=7FOFBqw1gMs)
 <!-- YOUTUBE:END -->
 
 ---
