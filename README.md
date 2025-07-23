@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sharp-eyed US-Indian satellite set to launch July 30 to monitor Earth&#39;s surface, warn of natural disasters](https://www.space.com/science/sharp-eyed-us-indian-satellite-set-to-launch-july-30-to-monitor-earths-surface-warn-of-natural-disasters)
 - [Gupshup raises $60M in equity and debt, leaves unicorn status hanging](https://techcrunch.com/2025/07/22/gupshup-raises-60m-in-equity-and-debt-leaves-unicorn-status-hanging/)
 - [PayPal taps wallets from China and India to make cross-border payments easier for 2 billion people](https://techcrunch.com/2025/07/22/paypal-announces-integration-with-international-wallets-for-easier-cross-border-transactions/)
 - [SpaceX launches 2 powerful internet satellites, lands rocket on ship at sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2-powerful-internet-satellites-lands-rocket-on-ship-at-sea)
 - [Apple alerted Iranians to iPhone spyware attacks, say researchers](https://techcrunch.com/2025/07/22/apple-alerted-iranians-to-iphone-spyware-attacks-say-researchers/)
-- [Amazon acquires Bee, the AI wearable that records everything you say](https://techcrunch.com/2025/07/22/amazon-acquires-bee-the-ai-wearable-that-records-everything-you-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
