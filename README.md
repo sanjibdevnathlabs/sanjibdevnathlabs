@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Photos adds AI features for ‘remixing’ photos in different styles, turning pics into videos](https://techcrunch.com/2025/07/23/google-photos-adds-ai-features-for-remixing-photos-in-different-styles-turning-pics-into-videos/)
+- [YouTube Shorts is adding an image-to-video AI tool, new AI effects](https://techcrunch.com/2025/07/23/youtube-shorts-is-adding-an-image-to-video-ai-tool-new-ai-effects/)
+- [UK targets Apple and Google’s mobile platforms for regulation](https://techcrunch.com/2025/07/23/uk-targets-apple-and-googles-mobile-platforms-for-regulation/)
+- [European authorities arrest alleged admin of notorious Russian crime forum XSS](https://techcrunch.com/2025/07/23/european-authorities-arrest-alleged-admin-of-notorious-russian-crime-forum-xss/)
 - [How do scientists calculate the probability that an asteroid could hit Earth?](https://www.space.com/astronomy/asteroids/how-do-scientists-calculate-the-probability-that-an-asteroid-could-hit-earth)
-- [Avalanche Energy hits key milestone on the road to a desktop fusion reactor](https://techcrunch.com/2025/07/23/avalanche-energy-hits-key-milestone-on-the-road-to-a-desktop-fusion-reactor/)
-- [How TRIC Robotics is reducing pesticide use on strawberries using UV light](https://techcrunch.com/2025/07/23/how-tric-robotics-is-reducing-pesticide-use-on-strawberries-using-uv-light/)
-- [TechCrunch Disrupt 2025: First full agenda reveal for the brand-new Going Public Stage](https://techcrunch.com/2025/07/23/techcrunch-disrupt-2025-first-full-agenda-reveal-for-the-brand-new-going-public-stage/)
-- [The Milky Way brightens the moonless summer sky this week: Here&#39;s where to look](https://www.space.com/stargazing/the-milky-way-brightens-the-moonless-summer-sky-this-week-heres-where-to-look)
 <!-- BLOG-POST-LIST:END -->
 
 ---
