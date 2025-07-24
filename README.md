@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI slop and fake reports are exhausting some security bug bounties](https://techcrunch.com/2025/07/24/ai-slop-and-fake-reports-are-exhausting-some-security-bug-bounties/)
+- [Samsung backs a video AI startup that can analyze thousands of hours of footage](https://techcrunch.com/2025/07/24/samsung-backs-a-video-ai-startup-that-can-analyze-thousands-of-hours-of-footage/)
+- [Astronomers calculate that the universe will die in 33 billion years — much sooner than we thought](https://www.space.com/astronomy/astronomers-calculate-that-the-universe-will-die-in-33-billion-years-much-sooner-than-we-thought)
 - [New moon of July 2025 sees Saturn swim with the fishes tonight](https://www.space.com/stargazing/new-moon-of-july-2025-sees-saturn-swim-with-the-fishes-tonight)
 - [Google’s new AI feature lets you virtually try on clothes](https://techcrunch.com/2025/07/24/googles-new-ai-feature-lets-you-virtually-try-on-clothes/)
-- [Snapchat will now let your friends know you’ve made it home safe](https://techcrunch.com/2025/07/24/snapchat-will-now-let-your-friends-know-youve-made-it-home-safe/)
-- [SoftBank-backed LegalOn lands $50M to streamline legal workflows with AI](https://techcrunch.com/2025/07/24/softbank-backed-legalon-fuels-ai-for-in-house-legal-team-with-50m-series-e/)
-- [&#39;Here today, Gorn tomorrow:&#39; Showrunners talk putting a classic alien adversary to rest in &#39;Star Trek: Strange New Worlds&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/here-today-gorn-tomorrow-putting-a-classic-alien-adversary-to-rest-in-star-trek-strange-new-worlds-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
