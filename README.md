@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s new AI feature lets you virtually try on clothes](https://techcrunch.com/2025/07/24/googles-new-ai-feature-lets-you-virtually-try-on-clothes/)
+- [Snapchat will now let your friends know you’ve made it home safe](https://techcrunch.com/2025/07/24/snapchat-will-now-let-your-friends-know-youve-made-it-home-safe/)
+- [SoftBank-backed LegalOn lands $50M to streamline legal workflows with AI](https://techcrunch.com/2025/07/24/softbank-backed-legalon-fuels-ai-for-in-house-legal-team-with-50m-series-e/)
+- [&#39;Here today, Gorn tomorrow:&#39; Showrunners talk putting a classic alien adversary to rest in &#39;Star Trek: Strange New Worlds&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/here-today-gorn-tomorrow-putting-a-classic-alien-adversary-to-rest-in-star-trek-strange-new-worlds-exclusive)
 - [New fiber optic telescope 4MOST channels &#39;The Fantastic Four&#39; | Space photo of the day for July 24, 2025](https://www.space.com/astronomy/new-fiber-optic-telescope-4most-channels-the-fantastic-four-space-photo-of-the-day-for-july-24-2025)
-- [Mission Barns is betting that animal-free pork fat will make artificial meat delicious](https://techcrunch.com/2025/07/24/mission-barns-is-betting-that-animal-free-pork-fat-will-make-artificial-meat-delicious/)
-- [The largest supernova catalog ever made has some news about the dark universe](https://www.space.com/astronomy/black-holes/the-largest-supernova-catalog-ever-made-has-some-news-about-the-dark-universe)
-- [A new AI coding challenge just published its first results — and they aren’t pretty](https://techcrunch.com/2025/07/23/a-new-ai-coding-challenge-just-published-its-first-results-and-they-arent-pretty/)
-- [Trump’s ‘anti-woke AI’ order could reshape how US tech companies train their models](https://techcrunch.com/2025/07/23/trumps-anti-woke-ai-order-could-reshape-how-us-tech-companies-train-their-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
