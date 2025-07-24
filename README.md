@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon introduces a more affordable color screen Kindle](https://techcrunch.com/2025/07/24/amazon-introduces-a-more-affordable-color-screen-kindle/)
+- [Preston Thorpe is a software engineer at a San Fransisco startup. He’s also serving his eleventh year in prison.](https://techcrunch.com/2025/07/24/preston-thorpe-is-a-software-engineer-at-a-san-fransisco-startup-hes-also-serving-his-eleventh-year-in-prison/)
+- [Spotify takes a swing at gaming with a mini golf game ahead of ‘Happy Gilmore 2’ release](https://techcrunch.com/2025/07/24/spotify-takes-a-swing-at-gaming-with-a-mini-golf-game-ahead-of-happy-gilmore-2-release/)
+- [Cybercrime forum Leak Zone publicly exposed its users’ IP addresses](https://techcrunch.com/2025/07/24/cybercrime-forum-leak-zone-publicly-exposed-its-users-ip-addresses/)
 - [AI slop and fake reports are exhausting some security bug bounties](https://techcrunch.com/2025/07/24/ai-slop-and-fake-reports-are-exhausting-some-security-bug-bounties/)
-- [Samsung backs a video AI startup that can analyze thousands of hours of footage](https://techcrunch.com/2025/07/24/samsung-backs-a-video-ai-startup-that-can-analyze-thousands-of-hours-of-footage/)
-- [Astronomers calculate that the universe will die in 33 billion years — much sooner than we thought](https://www.space.com/astronomy/astronomers-calculate-that-the-universe-will-die-in-33-billion-years-much-sooner-than-we-thought)
-- [New moon of July 2025 sees Saturn swim with the fishes tonight](https://www.space.com/stargazing/new-moon-of-july-2025-sees-saturn-swim-with-the-fishes-tonight)
-- [Google’s new AI feature lets you virtually try on clothes](https://techcrunch.com/2025/07/24/googles-new-ai-feature-lets-you-virtually-try-on-clothes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
