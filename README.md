@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This &#39;super-Earth&#39; exoplanet 35 light-years away might have what it takes to support life](https://www.space.com/astronomy/exoplanets/this-super-earth-exoplanet-35-light-years-away-might-have-what-it-takes-to-support-life)
-- [Google’s new Web View search experiment organizes results with AI](https://techcrunch.com/2025/07/24/googles-new-web-view-search-experiment-organizes-results-with-ai/)
-- [Amazon introduces a more affordable color screen Kindle](https://techcrunch.com/2025/07/24/amazon-introduces-a-more-affordable-color-screen-kindle/)
-- [Preston Thorpe is a software engineer at a San Fransisco startup. He’s also serving his eleventh year in prison.](https://techcrunch.com/2025/07/24/preston-thorpe-is-a-software-engineer-at-a-san-fransisco-startup-hes-also-serving-his-eleventh-year-in-prison/)
-- [Spotify takes a swing at gaming with a mini golf game ahead of ‘Happy Gilmore 2’ release](https://techcrunch.com/2025/07/24/spotify-takes-a-swing-at-gaming-with-a-mini-golf-game-ahead-of-happy-gilmore-2-release/)
+- [&#39;The ocean is no longer too big to watch&#39;: How AI and satellite data are helping rid Earth&#39;s seas of illegal fishing](https://www.space.com/space-exploration/satellites/how-satellites-and-ai-are-helping-protect-earths-oceans-from-illegal-fishing)
+- [AI companions: A threat to love, or an evolution of it?](https://techcrunch.com/2025/07/24/ai-companions-a-threat-to-love-or-an-evolution-of-it/)
+- [These gorgeous new images of the cosmos from NASA&#39;s Chandra X-ray telescope took our breath away &lpar;video&rpar;](https://www.space.com/astronomy/galaxies/these-gorgeous-new-images-of-the-cosmos-from-nasas-chandra-x-ray-telescope-took-our-breath-away-video)
+- [Apple iOS 26 public beta arrives](https://techcrunch.com/2025/07/24/apple-ios-26-public-beta-arrives/)
+- [No, the whole world won&#39;t go dark on Aug. 2 — but a once-in-a-century eclipse is coming](https://www.space.com/stargazing/solar-eclipses/no-the-whole-world-wont-go-dark-on-aug-2-but-a-once-in-a-century-eclipse-is-coming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
