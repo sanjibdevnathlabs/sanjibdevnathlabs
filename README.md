@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mission Barns is betting that animal-free pork fat will make artificial meat delicious](https://techcrunch.com/2025/07/24/mission-barns-is-betting-that-animal-free-pork-fat-will-make-artificial-meat-delicious/)
 - [The largest supernova catalog ever made has some news about the dark universe](https://www.space.com/astronomy/black-holes/the-largest-supernova-catalog-ever-made-has-some-news-about-the-dark-universe)
 - [A new AI coding challenge just published its first results — and they aren’t pretty](https://techcrunch.com/2025/07/23/a-new-ai-coding-challenge-just-published-its-first-results-and-they-arent-pretty/)
 - [Trump’s ‘anti-woke AI’ order could reshape how US tech companies train their models](https://techcrunch.com/2025/07/23/trumps-anti-woke-ai-order-could-reshape-how-us-tech-companies-train-their-models/)
 - [Sundar Pichai is ‘very excited’ about Google Cloud’s OpenAI partnership](https://techcrunch.com/2025/07/23/sundar-pichai-is-very-excited-about-google-clouds-openai-partnership/)
-- [A troubled SPAC plans to buy iRocket for $400M but it already returned most of its cash](https://techcrunch.com/2025/07/23/a-troubled-spac-plans-to-buy-irocket-for-400m-but-it-already-returned-most-of-its-cash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
