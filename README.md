@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This &#39;super-Earth&#39; exoplanet 35 light-years away might have what it takes to support life](https://www.space.com/astronomy/exoplanets/this-super-earth-exoplanet-35-light-years-away-might-have-what-it-takes-to-support-life)
+- [Google’s new Web View search experiment organizes results with AI](https://techcrunch.com/2025/07/24/googles-new-web-view-search-experiment-organizes-results-with-ai/)
 - [Amazon introduces a more affordable color screen Kindle](https://techcrunch.com/2025/07/24/amazon-introduces-a-more-affordable-color-screen-kindle/)
 - [Preston Thorpe is a software engineer at a San Fransisco startup. He’s also serving his eleventh year in prison.](https://techcrunch.com/2025/07/24/preston-thorpe-is-a-software-engineer-at-a-san-fransisco-startup-hes-also-serving-his-eleventh-year-in-prison/)
 - [Spotify takes a swing at gaming with a mini golf game ahead of ‘Happy Gilmore 2’ release](https://techcrunch.com/2025/07/24/spotify-takes-a-swing-at-gaming-with-a-mini-golf-game-ahead-of-happy-gilmore-2-release/)
-- [Cybercrime forum Leak Zone publicly exposed its users’ IP addresses](https://techcrunch.com/2025/07/24/cybercrime-forum-leak-zone-publicly-exposed-its-users-ip-addresses/)
-- [AI slop and fake reports are exhausting some security bug bounties](https://techcrunch.com/2025/07/24/ai-slop-and-fake-reports-are-exhausting-some-security-bug-bounties/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
