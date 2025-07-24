@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spain offers 400 million euros to revive Thirty Meter Telescope as Trump suggests cancelling project](https://www.space.com/astronomy/spain-offers-400-million-euros-to-revive-thirty-meter-telescope-as-trump-suggests-cancelling-project)
+- [Wild new &#39;Skyfall&#39; Mars mission would drop 6 scout helicopters onto the Red Planet from the air](https://www.space.com/astronomy/mars/wild-new-skyfall-mars-mission-would-drop-6-scout-helicopters-onto-the-red-planet-from-the-air)
 - [Scientists just made the 1st antimatter &#39;qubit.&#39; Here&#39;s why it could be a big deal](https://www.space.com/science/scientists-just-made-the-1st-antimatter-qubit-heres-why-it-could-be-a-big-deal)
 - [Chime backer Lauren Kolodny bets on AI to revolutionize estate processing](https://techcrunch.com/2025/07/24/chime-backer-lauren-kolodny-bets-on-ai-to-revolutionize-estate-processing/)
 - [This industrial AI startup is winning over customers by saying it won’t get acquired](https://techcrunch.com/2025/07/24/this-industrial-ai-startup-is-winning-over-customers-by-saying-it-wont-get-acquired/)
-- [Satellite data reveals 2023 was record-breaking for marine heatwaves — are we at a &#39;climate tipping point?&#39;](https://www.space.com/astronomy/earth/satellite-data-reveals-2023-was-record-breaking-for-marine-heatwaves-are-we-at-a-climate-tipping-point)
-- [&#39;The ocean is no longer too big to watch&#39;: How AI and satellite data are helping rid Earth&#39;s seas of illegal fishing](https://www.space.com/space-exploration/satellites/how-satellites-and-ai-are-helping-protect-earths-oceans-from-illegal-fishing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
