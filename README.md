@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists just made the 1st antimatter &#39;qubit.&#39; Here&#39;s why it could be a big deal](https://www.space.com/science/scientists-just-made-the-1st-antimatter-qubit-heres-why-it-could-be-a-big-deal)
+- [Chime backer Lauren Kolodny bets on AI to revolutionize estate processing](https://techcrunch.com/2025/07/24/chime-backer-lauren-kolodny-bets-on-ai-to-revolutionize-estate-processing/)
+- [This industrial AI startup is winning over customers by saying it won’t get acquired](https://techcrunch.com/2025/07/24/this-industrial-ai-startup-is-winning-over-customers-by-saying-it-wont-get-acquired/)
+- [Satellite data reveals 2023 was record-breaking for marine heatwaves — are we at a &#39;climate tipping point?&#39;](https://www.space.com/astronomy/earth/satellite-data-reveals-2023-was-record-breaking-for-marine-heatwaves-are-we-at-a-climate-tipping-point)
 - [&#39;The ocean is no longer too big to watch&#39;: How AI and satellite data are helping rid Earth&#39;s seas of illegal fishing](https://www.space.com/space-exploration/satellites/how-satellites-and-ai-are-helping-protect-earths-oceans-from-illegal-fishing)
-- [AI companions: A threat to love, or an evolution of it?](https://techcrunch.com/2025/07/24/ai-companions-a-threat-to-love-or-an-evolution-of-it/)
-- [These gorgeous new images of the cosmos from NASA&#39;s Chandra X-ray telescope took our breath away &lpar;video&rpar;](https://www.space.com/astronomy/galaxies/these-gorgeous-new-images-of-the-cosmos-from-nasas-chandra-x-ray-telescope-took-our-breath-away-video)
-- [Apple iOS 26 public beta arrives](https://techcrunch.com/2025/07/24/apple-ios-26-public-beta-arrives/)
-- [No, the whole world won&#39;t go dark on Aug. 2 — but a once-in-a-century eclipse is coming](https://www.space.com/stargazing/solar-eclipses/no-the-whole-world-wont-go-dark-on-aug-2-but-a-once-in-a-century-eclipse-is-coming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
