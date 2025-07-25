@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amid increased momentum for defense, the NATO Innovation Fund refreshes its investment team](https://techcrunch.com/2025/07/24/amid-increased-momentum-for-defense-the-nato-innovation-fund-refreshes-its-investment-team/)
 - [How a Y Combinator food-delivery app used TikTok to soar in the App Store](https://techcrunch.com/2025/07/24/how-a-y-combinator-food-delivery-app-used-tiktok-to-soar-in-the-app-store/)
 - [VC Victor Lazarte is leaving Benchmark to launch his own firm](https://techcrunch.com/2025/07/24/vc-victor-lazarte-is-leaving-benchmark-to-launch-his-own-firm/)
 - [Intel continues to pull back on its manufacturing projects](https://techcrunch.com/2025/07/24/intel-continues-to-pull-back-on-its-manufacturing-projects/)
 - [Weird space weather seems to have influenced human behavior on Earth 41,000 years ago – our unusual scientific collaboration explores how](https://www.space.com/astronomy/earth/weird-space-weather-seems-to-have-influenced-human-behavior-on-earth-41-000-years-ago-our-unusual-scientific-collaboration-explores-how)
-- [X to test using Community Notes to find the posts everyone likes](https://techcrunch.com/2025/07/24/x-to-test-using-community-notes-to-find-the-posts-everyone-likes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
