@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India bans streaming apps you’ve never heard of — but millions watch](https://techcrunch.com/2025/07/25/india-bans-streaming-apps-youve-never-heard-of-but-millions-watch/)
+- [Index Ventures’ Jahanvi Sardana shares the truth about TAM and what founders should focus on instead](https://techcrunch.com/2025/07/25/index-ventures-jahanvi-sardana-shares-the-truth-about-tam-and-what-founders-should-focus-on-instead/)
+- [SpaceX Crew Dragon capsule &#39;Endeavour&#39; arrives at pad ahead of July 31 astronaut launch &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-crew-dragon-capsule-endeavour-arrives-at-pad-ahead-of-july-31-astronaut-launch-photos)
+- [Intel is spinning off its Network and Edge group](https://techcrunch.com/2025/07/25/intel-is-spinning-off-its-network-and-edge-group/)
 - [Meta names Shengjia Zhao as chief scientist of AI superintelligence unit](https://techcrunch.com/2025/07/25/meta-names-shengjia-zhao-as-chief-scientist-of-ai-superintelligence-unit/)
-- [European Vega C rocket launching CO2-mapping satellite and 4 Earth-observation spacecraft tonight: Watch live](https://www.space.com/space-exploration/launches-spacecraft/european-vega-c-rocket-launches-co2-mapping-satellite-and-4-earth-observation-spacecraft)
-- [Rogue black hole found terrorizing unfortunate star in distant galaxy](https://www.space.com/astronomy/black-holes/rogue-black-hole-found-terrorizing-unfortunate-star-in-distant-galaxy)
-- [AI referrals to top websites were up 357% year-over-year in June, reaching 1.13B](https://techcrunch.com/2025/07/25/ai-referrals-to-top-websites-were-up-357-year-over-year-in-june-reaching-1-13b/)
-- [Astronaut makes &#39;space kimchi fried rice&#39; in orbit as crew starts packing for trip home | On the ISS this week July 21-25, 2025](https://www.space.com/space-exploration/international-space-station/astronaut-makes-space-kimchi-fried-rice-in-orbit-as-crew-starts-packing-for-trip-home-on-the-iss-this-week-july-21-25-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
