@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla is reportedly bringing a limited version of its robotaxi service to San Francisco](https://techcrunch.com/2025/07/25/tesla-is-reportedly-bringing-a-limited-version-of-its-robotaxi-service-to-san-francisco/)
+- [Apple broadens App Store’s age rating system](https://techcrunch.com/2025/07/25/apple-broadens-app-stores-age-rating-system/)
+- [Tesla is reportedly behind on its pledge to build 5,000 Optimus bots this year](https://techcrunch.com/2025/07/25/tesla-is-reportedly-behind-on-its-pledge-to-build-5000-optimus-bots-this-year/)
 - [Senegal becomes 56th country to sign Artemis Accords for peaceful space exploration](https://www.space.com/space-exploration/senegal-becomes-56th-country-to-sign-artemis-accords-for-peaceful-space-exploration)
 - [Meta to stop selling political ads in the EU from October](https://techcrunch.com/2025/07/25/meta-to-stop-selling-political-ads-in-the-eu-from-october/)
-- [NASA or the Space Force: Who should protect Earth from dangerous asteroids?](https://www.space.com/astronomy/asteroids/nasa-or-the-space-force-who-should-protect-earth-from-dangerous-asteroids)
-- [SpaceX Dragon carrying 4 astronauts zooms back to Earth | Space photo of the day for July 25, 2025](https://www.space.com/space-exploration/human-spaceflight/spacex-dragon-carrying-4-astronauts-zooms-back-to-earth-space-photo-of-the-day-for-july-25-2025)
-- [Why do the Klingons have beef with Dr. M&#39;Benga in &#39;Strange New Worlds&#39; episode &#39;Shuttle to Kenfori&#39;](https://www.space.com/entertainment/space-movies-shows/why-do-the-klingons-have-beef-with-dr-mbenga-in-strange-new-worlds-episode-shuttle-to-kenfori)
 <!-- BLOG-POST-LIST:END -->
 
 ---
