@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lyft to add autonomous shuttles in 2026 as Uber inks more self-driving deals](https://techcrunch.com/2025/07/25/lyft-to-add-autonomous-shuttles-in-2026-as-uber-inks-more-self-driving-deals/)
 - [Tesla is reportedly bringing a limited version of its robotaxi service to San Francisco](https://techcrunch.com/2025/07/25/tesla-is-reportedly-bringing-a-limited-version-of-its-robotaxi-service-to-san-francisco/)
-- [Apple broadens App Store’s age rating system](https://techcrunch.com/2025/07/25/apple-broadens-app-stores-age-rating-system/)
+- [Apple broadens App Store’s age-rating system](https://techcrunch.com/2025/07/25/apple-broadens-app-stores-age-rating-system/)
 - [Tesla is reportedly behind on its pledge to build 5,000 Optimus bots this year](https://techcrunch.com/2025/07/25/tesla-is-reportedly-behind-on-its-pledge-to-build-5000-optimus-bots-this-year/)
 - [Senegal becomes 56th country to sign Artemis Accords for peaceful space exploration](https://www.space.com/space-exploration/senegal-becomes-56th-country-to-sign-artemis-accords-for-peaceful-space-exploration)
-- [Meta to stop selling political ads in the EU from October](https://techcrunch.com/2025/07/25/meta-to-stop-selling-political-ads-in-the-eu-from-october/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
