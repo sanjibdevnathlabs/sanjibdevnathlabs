@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman warns there’s no legal confidentiality when using ChatGPT as a therapist](https://techcrunch.com/2025/07/25/sam-altman-warns-theres-no-legal-confidentiality-when-using-chatgpt-as-a-therapist/)
 - [A timeline of the US semiconductor market in 2025](https://techcrunch.com/2025/07/25/a-timeline-of-the-u-s-semiconductor-market-in-2025/)
 - [Google took a month to shut down Catwatchful, a phone spyware operation hosted on its servers](https://techcrunch.com/2025/07/25/google-took-a-month-to-shut-down-catwatchful-a-phone-spyware-operation-hosted-on-its-servers/)
 - [Blue Origin to fly AI-powered space surveillance sensor on 1st flight of Blue Ring spacecraft](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-to-fly-ai-powered-space-surveillance-sensor-on-1st-flight-of-blue-ring-spacecraft)
 - [Lyft to add autonomous shuttles in 2026 as Uber inks more self-driving deals](https://techcrunch.com/2025/07/25/lyft-to-add-autonomous-shuttles-in-2026-as-uber-inks-more-self-driving-deals/)
-- [Tesla is reportedly bringing a limited version of its robotaxi service to San Francisco](https://techcrunch.com/2025/07/25/tesla-is-reportedly-bringing-a-limited-version-of-its-robotaxi-service-to-san-francisco/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
