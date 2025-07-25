@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta names Shengjia Zhao as chief scientist of AI superintelligence unit](https://techcrunch.com/2025/07/25/meta-names-shengjia-zhao-as-chief-scientist-of-ai-superintelligence-unit/)
+- [European Vega C rocket launching CO2-mapping satellite and 4 Earth-observation spacecraft tonight: Watch live](https://www.space.com/space-exploration/launches-spacecraft/european-vega-c-rocket-launches-co2-mapping-satellite-and-4-earth-observation-spacecraft)
+- [Rogue black hole found terrorizing unfortunate star in distant galaxy](https://www.space.com/astronomy/black-holes/rogue-black-hole-found-terrorizing-unfortunate-star-in-distant-galaxy)
 - [AI referrals to top websites were up 357% year-over-year in June, reaching 1.13B](https://techcrunch.com/2025/07/25/ai-referrals-to-top-websites-were-up-357-year-over-year-in-june-reaching-1-13b/)
 - [Astronaut makes &#39;space kimchi fried rice&#39; in orbit as crew starts packing for trip home | On the ISS this week July 21-25, 2025](https://www.space.com/space-exploration/international-space-station/astronaut-makes-space-kimchi-fried-rice-in-orbit-as-crew-starts-packing-for-trip-home-on-the-iss-this-week-july-21-25-2025)
-- [Not so fantastic: the less than glorious history of the Fantastic Four on the big screen](https://www.space.com/entertainment/space-movies-shows/not-so-fantastic-the-less-than-glorious-history-of-the-fantastic-four-on-the-big-screen)
-- [Meet the SpaceX Crew-11 astronauts launching to the ISS on July 31](https://www.space.com/space-exploration/human-spaceflight/meet-the-spacex-crew-11-astronauts-launching-to-the-iss-on-july-31)
-- [Sam Altman warns there’s no legal confidentiality when using ChatGPT as a therapist](https://techcrunch.com/2025/07/25/sam-altman-warns-theres-no-legal-confidentiality-when-using-chatgpt-as-a-therapist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
