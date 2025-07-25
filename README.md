@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronaut makes &#39;space kimchi fried rice&#39; in orbit as crew starts packing for trip home | On the ISS this week July 21-25, 2025](https://www.space.com/space-exploration/international-space-station/astronaut-makes-space-kimchi-fried-rice-in-orbit-as-crew-starts-packing-for-trip-home-on-the-iss-this-week-july-21-25-2025)
+- [Not so fantastic: the less than glorious history of the Fantastic Four on the big screen](https://www.space.com/entertainment/space-movies-shows/not-so-fantastic-the-less-than-glorious-history-of-the-fantastic-four-on-the-big-screen)
+- [Meet the SpaceX Crew-11 astronauts launching to the ISS on July 31](https://www.space.com/space-exploration/human-spaceflight/meet-the-spacex-crew-11-astronauts-launching-to-the-iss-on-july-31)
 - [Sam Altman warns there’s no legal confidentiality when using ChatGPT as a therapist](https://techcrunch.com/2025/07/25/sam-altman-warns-theres-no-legal-confidentiality-when-using-chatgpt-as-a-therapist/)
 - [A timeline of the US semiconductor market in 2025](https://techcrunch.com/2025/07/25/a-timeline-of-the-u-s-semiconductor-market-in-2025/)
-- [Google took a month to shut down Catwatchful, a phone spyware operation hosted on its servers](https://techcrunch.com/2025/07/25/google-took-a-month-to-shut-down-catwatchful-a-phone-spyware-operation-hosted-on-its-servers/)
-- [Blue Origin to fly AI-powered space surveillance sensor on 1st flight of Blue Ring spacecraft](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-to-fly-ai-powered-space-surveillance-sensor-on-1st-flight-of-blue-ring-spacecraft)
-- [Lyft to add autonomous shuttles in 2026 as Uber inks more self-driving deals](https://techcrunch.com/2025/07/25/lyft-to-add-autonomous-shuttles-in-2026-as-uber-inks-more-self-driving-deals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
