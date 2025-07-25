@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta to stop selling political ads in the EU from October](https://techcrunch.com/2025/07/25/meta-to-stop-selling-political-ads-in-the-eu-from-october/)
 - [Why do the Klingons have beef with Dr. M&#39;Benga in &#39;Strange New Worlds&#39; episode &#39;Shuttle to Kenfori&#39;](https://www.space.com/entertainment/space-movies-shows/why-do-the-klingons-have-beef-with-dr-mbenga-in-strange-new-worlds-episode-shuttle-to-kenfori)
 - [Google is testing a vibe-coding app called Opal](https://techcrunch.com/2025/07/25/google-is-testing-a-vibe-coding-app-called-opal/)
 - [&#39;NASA is under attack.&#39; Space agency employees and lawmakers protest mass layoffs, science cuts amid budget turmoil](https://www.space.com/space-exploration/nasa-is-under-attack-space-agency-employees-and-lawmakers-protest-mass-layoffs-science-cuts-amid-budget-turmoil)
 - [Cosmic rays gave the Fantastic Four their incredible powers — but what do they really do?](https://www.space.com/science/cosmic-rays-gave-the-fantastic-four-their-incredible-powers-but-what-do-they-really-do)
-- [Russia launches satellite for Iran toward orbit alongside 2 space weather probes &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/russia-launches-2-space-weather-satellites-iranian-spacecraft-to-orbit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
