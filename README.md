@@ -147,7 +147,7 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- BLOG-POST-LIST:START -->
 - [This Week In Space podcast: Episode 170 — Atomic Space Batteries!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-170-atomic-space-batteries)
-- [SpaceX launches 28 Starlink satellites from Florida on Saturday doubleheader](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-26-b1078-ccsfs-asog)
+- [SpaceX launches 28 Starlink satellites from Florida on Saturday doubleheader &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-26-b1078-ccsfs-asog)
 - [Tesla vet says that ‘reviewing real products’ — not mockups — is the key to staying innovative](https://techcrunch.com/2025/07/26/tesla-vet-says-that-reviewing-real-products-not-mockups-is-the-key-to-staying-innovative/)
 - [&#39;It starts with a bang this season and we don&#39;t give you room to breathe&#39;: &#39;Foundation&#39; Season 3&#39;s stars on completing the far-future sci-fi saga &lpar;exclusive&rpar;](https://www.space.com/entertainment/it-starts-with-a-bang-this-season-and-we-dont-give-you-room-to-breathe-foundation-season-3s-stars-on-completing-the-far-future-sci-fi-saga-exclusive)
 - [Allianz Life says ‘majority’ of customers’ personal data stolen in cyberattack](https://techcrunch.com/2025/07/26/allianz-life-says-majority-of-customers-personal-data-stolen-in-cyberattack/)
