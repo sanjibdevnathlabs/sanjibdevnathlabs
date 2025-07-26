@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Crew-11 astronauts arrive in Florida ahead of launch to space station](https://www.space.com/space-exploration/international-space-station/spacex-crew-11-astronauts-arrive-in-florida-ahead-of-launch-to-space-station)
 - [Dating safety app Tea breached, exposing 72,000 user images](https://techcrunch.com/2025/07/26/dating-safety-app-tea-breached-exposing-72000-user-images/)
 - [This Week In Space podcast: Episode 170 — Atomic Space Batteries!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-170-atomic-space-batteries)
 - [SpaceX launches 28 Starlink satellites from Florida on Saturday doubleheader &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-26-b1078-ccsfs-asog)
 - [Tesla vet says that ‘reviewing real products’ — not mockups — is the key to staying innovative](https://techcrunch.com/2025/07/26/tesla-vet-says-that-reviewing-real-products-not-mockups-is-the-key-to-staying-innovative/)
-- [&#39;It starts with a bang this season and we don&#39;t give you room to breathe&#39;: &#39;Foundation&#39; Season 3&#39;s stars on completing the far-future sci-fi saga &lpar;exclusive&rpar;](https://www.space.com/entertainment/it-starts-with-a-bang-this-season-and-we-dont-give-you-room-to-breathe-foundation-season-3s-stars-on-completing-the-far-future-sci-fi-saga-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
