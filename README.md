@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See a razor-thin moon shine close to Regulus in the evening sky tonight](https://www.space.com/stargazing/see-a-razor-thin-moon-shine-close-to-regulus-in-the-evening-sky-tonight)
 - [NASA losing nearly 4,000 employees to Trump administration&#39;s &#39;deferred resignation&#39; program](https://www.space.com/space-exploration/nasa-losing-nearly-4-000-employees-to-trump-administrations-deferred-resignation-program)
 - [How can the James Webb Space Telescope see so far?](https://www.space.com/astronomy/james-webb-space-telescope/how-can-the-james-webb-space-telescope-see-so-far)
 - [Tesla wants to bring robotaxis to San Francisco. Here’s what’s standing in the way.](https://techcrunch.com/2025/07/25/tesla-wants-to-bring-its-robotaxis-to-san-francisco-heres-whats-standing-in-the-way/)
 - [India bans streaming apps you’ve never heard of — but millions watch](https://techcrunch.com/2025/07/25/india-bans-streaming-apps-youve-never-heard-of-but-millions-watch/)
-- [Index Ventures’ Jahanvi Sardana shares the truth about TAM and what founders should focus on instead](https://techcrunch.com/2025/07/25/index-ventures-jahanvi-sardana-shares-the-truth-about-tam-and-what-founders-should-focus-on-instead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
