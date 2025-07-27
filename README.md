@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See Mars shine close to the waxing crescent moon after sunset on July 28](https://www.space.com/stargazing/see-mars-shine-close-to-the-waxing-crescent-moon-after-sunset-on-july-28)
 - [SpaceX launch from California marks 2nd Starlink mission in 24 hours](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-2-b1075-vsfb-ocisly)
 - [U.K. starts enforcing online age check rules](https://techcrunch.com/2025/07/26/u-k-starts-enforcing-online-age-check-rules/)
 - [Astronomer winks at viral notoriety with ‘temporary spokesperson’ Gwyneth Paltrow](https://techcrunch.com/2025/07/26/astronomer-winks-at-viral-notoriety-with-temporary-spokesperson-gwyneth-paltrow/)
 - [SpaceX Crew-11 astronauts arrive in Florida ahead of launch to space station](https://www.space.com/space-exploration/international-space-station/spacex-crew-11-astronauts-arrive-in-florida-ahead-of-launch-to-space-station)
-- [Dating safety app Tea breached, exposing 72,000 user images](https://techcrunch.com/2025/07/26/dating-safety-app-tea-breached-exposing-72000-user-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
