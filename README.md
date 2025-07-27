@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Itch.io is the latest marketplace to crack down on adult games](https://techcrunch.com/2025/07/27/itch-io-is-the-latest-marketplace-to-crack-down-on-adult-games/)
 - [&#39;Star Trek: Strange New Worlds&#39; cast explains those wild and funky wigs in Season 3 &lpar;exclusive&rpar;](https://www.space.com/entertainment/star-trek-strange-new-worlds-cast-explains-those-wild-and-funky-wigs-in-season-3-exclusive)
 - [DOGE has built an AI tool to slash federal regulations](https://techcrunch.com/2025/07/27/doge-has-built-an-ai-tool-to-slash-federal-regulations/)
 - [Go behind the gory scenes of Hulu&#39;s &#39;Alien: Earth&#39; with gruesome aliens and crawling eyeballs &lpar;video&rpar;](https://www.space.com/entertainment/go-behind-the-gory-scenes-of-hulus-alien-earth-with-gruesome-aliens-and-crawling-eyeballs-video)
 - [Troubled balloon-tourism pioneer Space Perspective bought by Spanish company](https://www.space.com/space-exploration/private-spaceflight/troubled-balloon-tourism-pioneer-space-perspective-bought-by-spanish-company)
-- [Hurricane forecasters are losing 3 key satellites ahead of peak storm season − a meteorologist explains why it matters](https://www.space.com/astronomy/earth/hurricane-forecasters-are-losing-3-key-satellites-ahead-of-peak-storm-season-a-meteorologist-explains-why-it-matters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
