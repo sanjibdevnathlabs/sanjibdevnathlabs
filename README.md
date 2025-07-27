@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Go behind the gory scenes of Hulu&#39;s &#39;Alien: Earth&#39; with gruesome aliens and crawling eyeballs &lpar;video&rpar;](https://www.space.com/entertainment/go-behind-the-gory-scenes-of-hulus-alien-earth-with-gruesome-aliens-and-crawling-eyeballs-video)
 - [Troubled balloon-tourism pioneer Space Perspective bought by Spanish company](https://www.space.com/space-exploration/private-spaceflight/troubled-balloon-tourism-pioneer-space-perspective-bought-by-spanish-company)
 - [Hurricane forecasters are losing 3 key satellites ahead of peak storm season − a meteorologist explains why it matters](https://www.space.com/astronomy/earth/hurricane-forecasters-are-losing-3-key-satellites-ahead-of-peak-storm-season-a-meteorologist-explains-why-it-matters)
 - [See Mars shine close to the waxing crescent moon after sunset on July 28](https://www.space.com/stargazing/see-mars-shine-close-to-the-waxing-crescent-moon-after-sunset-on-july-28)
 - [SpaceX launch from California marks 2nd Starlink mission in 24 hours](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-2-b1075-vsfb-ocisly)
-- [U.K. starts enforcing online age check rules](https://techcrunch.com/2025/07/26/u-k-starts-enforcing-online-age-check-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
