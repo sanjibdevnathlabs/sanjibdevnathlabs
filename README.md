@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Dispo’s co-founder made the leap from social media to steelmaking](https://techcrunch.com/2025/07/28/why-dispos-co-founder-made-the-leap-from-social-media-to-steelmaking/)
+- [Authors of controversial 2010 arsenic-based life study clap back as paper gets pulled: &#39;We do not support this retraction&#39;](https://www.space.com/science/authors-of-controversial-2010-arsenic-based-life-study-clap-back-as-paper-gets-pulled-we-do-not-support-this-retraction)
 - [Google Chrome adds AI-powered store summaries to help US shoppers](https://techcrunch.com/2025/07/28/google-chrome-adds-ai-powered-store-summaries-to-help-u-s-shoppers/)
 - [Captain Pike looks like a right muppet in this &#39;Star Trek: Strange New Worlds&#39; Season 4 teaser &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/captain-pike-looks-like-a-right-muppet-in-this-star-trek-strange-new-worlds-season-4-teaser-video)
 - [Sony A1 II mirrorless camera review](https://www.space.com/stargazing/skywatching-kit/sony-a1-ii-review)
-- [We&#39;ve tested these Ruko drones and they&#39;re now at their lowest-ever prices, nearly 50% off](https://www.space.com/technology/drones/weve-tested-these-ruko-drones-and-theyre-now-at-their-lowest-ever-prices-nearly-50-percent-off)
-- [TechCrunch Mobility: Tesla vs GM: A tale of two earnings](https://techcrunch.com/2025/07/28/techcrunch-mobility-tesla-vs-gm-a-tale-of-two-earnings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
