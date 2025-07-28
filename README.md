@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What time is SpaceX&#39;s Crew-11 astronaut launch to the ISS on July 31?](https://www.space.com/space-exploration/launches-spacecraft/what-time-is-spacexs-crew-11-astronaut-mission-launching-to-the-iss-on-july-31)
+- [New York state cyber chief calls out Trump for cybersecurity cuts](https://techcrunch.com/2025/07/28/new-york-state-cyber-chief-calls-out-trump-for-cybersecurity-cuts/)
+- [Amazon disputes report that it raised prices of popular items since Trump took office](https://techcrunch.com/2025/07/28/amazon-disputes-report-that-it-raised-prices-of-popular-items-since-trump-took-office/)
 - [Why Dispo’s co-founder made the leap from social media to steelmaking](https://techcrunch.com/2025/07/28/why-dispos-co-founder-made-the-leap-from-social-media-to-steelmaking/)
 - [Authors of controversial 2010 arsenic-based life study clap back as paper gets pulled: &#39;We do not support this retraction&#39;](https://www.space.com/science/authors-of-controversial-2010-arsenic-based-life-study-clap-back-as-paper-gets-pulled-we-do-not-support-this-retraction)
-- [Google Chrome adds AI-powered store summaries to help US shoppers](https://techcrunch.com/2025/07/28/google-chrome-adds-ai-powered-store-summaries-to-help-u-s-shoppers/)
-- [Captain Pike looks like a right muppet in this &#39;Star Trek: Strange New Worlds&#39; Season 4 teaser &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/captain-pike-looks-like-a-right-muppet-in-this-star-trek-strange-new-worlds-season-4-teaser-video)
-- [Sony A1 II mirrorless camera review](https://www.space.com/stargazing/skywatching-kit/sony-a1-ii-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
