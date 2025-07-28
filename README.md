@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Flights grounded as Russia’s largest airline Aeroflot hit by cyberattack](https://techcrunch.com/2025/07/28/flights-grounded-as-russias-largest-airline-aeroflot-hit-by-cyberattack/)
+- [Meet the minds shaping AI: TechCrunch Disrupt 2025 AI Stage revealed](https://techcrunch.com/2025/07/28/meet-the-minds-shaping-ai-techcrunch-disrupt-2025-ai-stage-revealed/)
+- [Dune patterns in California desert hold clues that help researchers map Mars’ shifting sands](https://www.space.com/astronomy/mars/dune-patterns-in-california-desert-hold-clues-that-help-researchers-map-mars-shifting-sands)
+- [Flights grounded as Russia’s largest airline Aeroflot hacked and systems ‘destroyed’](https://techcrunch.com/2025/07/28/flights-grounded-as-russias-largest-airline-aeroflot-hit-by-cyberattack/)
 - [Earth&#39;s continents are drying out at unprecedented rate, satellite data reveal](https://www.space.com/science/climate-change/earths-continents-are-drying-out-at-unprecedented-rate-satellite-data-reveal)
 - [Rapidly spinning dead star&#39;s strange &#39;glitches&#39; are oddly regular](https://www.space.com/astronomy/stars/rapidly-spinning-dead-stars-strange-glitches-are-oddly-regular)
-- [‘Wizard of Oz’ blown up by AI for giant Sphere screen](https://techcrunch.com/2025/07/27/wizard-of-oz-blown-up-by-ai-for-giant-sphere-screen/)
-- [Itch.io is the latest marketplace to crack down on adult games](https://techcrunch.com/2025/07/27/itch-io-is-the-latest-marketplace-to-crack-down-on-adult-games/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
