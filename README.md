@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Chrome adds AI-powered store summaries to help US shoppers](https://techcrunch.com/2025/07/28/google-chrome-adds-ai-powered-store-summaries-to-help-u-s-shoppers/)
+- [Captain Pike looks like a right muppet in this &#39;Star Trek: Strange New Worlds&#39; Season 4 teaser &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/captain-pike-looks-like-a-right-muppet-in-this-star-trek-strange-new-worlds-season-4-teaser-video)
+- [Sony A1 II mirrorless camera review](https://www.space.com/stargazing/skywatching-kit/sony-a1-ii-review)
+- [We&#39;ve tested these Ruko drones and they&#39;re now at their lowest-ever prices, nearly 50% off](https://www.space.com/technology/drones/weve-tested-these-ruko-drones-and-theyre-now-at-their-lowest-ever-prices-nearly-50-percent-off)
 - [TechCrunch Mobility: Tesla vs GM: A tale of two earnings](https://techcrunch.com/2025/07/28/techcrunch-mobility-tesla-vs-gm-a-tale-of-two-earnings/)
-- [Sony FE 50mm f/1.4 G Master lens review](https://www.space.com/stargazing/skywatching-kit/sony-fe-50mm-f-1-4-g-master-lens-review)
-- [Scientists analyze 76 million radio telescope images, find Starlink satellite interference &#39;where no signals are supposed to be present&#39;](https://www.space.com/astronomy/scientists-analyze-76-million-radio-telescope-images-find-starlink-satellite-interference-where-no-signals-are-supposed-to-be-present)
-- [Tesla signs $16.5B deal with Samsung to make AI chips](https://techcrunch.com/2025/07/28/tesla-signs-16-5b-deal-with-samsung-to-make-ai-chips/)
-- [20 national security experts urge Trump administration to restrict Nvidia H20 sales to China](https://techcrunch.com/2025/07/28/20-national-security-experts-urge-trump-administration-to-restrict-nvidia-h20-sales-to-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
