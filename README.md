@@ -147,7 +147,7 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- BLOG-POST-LIST:START -->
 - [Smithsonian National Air and Space Museum reopens 5 renovated galleries starring SpaceX rocket parts, a 3D-printed Mars habitat and more](https://www.space.com/space-exploration/smithsonian-national-air-and-space-museum-reopens-5-renovated-galleries-starring-spacex-rocket-parts-a-3d-printed-mars-habitat-and-more)
-- [Flexport sells former freight unicorn Convoy’s tech two years after buying it](https://techcrunch.com/2025/07/28/flexport-sells-former-freight-unicorn-convoys-tech-two-years-after-buying-it/)
+- [Flexport sells former freight unicorn Convoy’s tech 2 years after buying it](https://techcrunch.com/2025/07/28/flexport-sells-former-freight-unicorn-convoys-tech-two-years-after-buying-it/)
 - [&#39;Predator: Badlands&#39; director teases return of Arnold Schwarzenegger and drops a 15-minute preview at Comic Con](https://www.space.com/entertainment/space-movies-shows/predator-badlands-director-teases-return-of-arnold-schwarzenegger-and-drops-a-15-minute-preview-at-comic-con)
 - [Microsoft Edge is now an AI browser with launch of ‘Copilot Mode’](https://techcrunch.com/2025/07/28/microsoft-edge-is-now-an-ai-browser-with-launch-of-copilot-mode/)
 - [Anthropic unveils new rate limits to curb Claude Code power users](https://techcrunch.com/2025/07/28/anthropic-unveils-new-rate-limits-to-curb-claude-code-power-users/)
