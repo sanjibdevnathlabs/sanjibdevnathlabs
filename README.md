@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What could be the &#39;7 wonders of the universe&#39; visible in the night sky?](https://www.space.com/stargazing/what-could-be-the-7-wonders-of-the-universe-visible-in-the-night-sky)
-- [Vera Rubin Observatory glows under recalibration LEDs | Space photo of the day for July 28, 2025](https://www.space.com/astronomy/vera-rubin-observatory-glows-under-recalibration-leds-space-photo-of-the-day-for-july-28-2025)
-- [Do startups still need Silicon Valley? Hear from the founders and funders challenging old assumptions at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/28/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/)
-- [Meet the minds shaping AI: TechCrunch Disrupt 2025 AI Stage revealed](https://techcrunch.com/2025/07/28/meet-the-minds-shaping-ai-techcrunch-disrupt-2025-ai-stage-revealed/)
-- [Dune patterns in California desert hold clues that help researchers map Mars’ shifting sands](https://www.space.com/astronomy/mars/dune-patterns-in-california-desert-hold-clues-that-help-researchers-map-mars-shifting-sands)
+- [TechCrunch Mobility: Tesla vs GM: A tale of two earnings](https://techcrunch.com/2025/07/28/techcrunch-mobility-tesla-vs-gm-a-tale-of-two-earnings/)
+- [Sony FE 50mm f/1.4 G Master lens review](https://www.space.com/stargazing/skywatching-kit/sony-fe-50mm-f-1-4-g-master-lens-review)
+- [Scientists analyze 76 million radio telescope images, find Starlink satellite interference &#39;where no signals are supposed to be present&#39;](https://www.space.com/astronomy/scientists-analyze-76-million-radio-telescope-images-find-starlink-satellite-interference-where-no-signals-are-supposed-to-be-present)
+- [Tesla signs $16.5B deal with Samsung to make AI chips](https://techcrunch.com/2025/07/28/tesla-signs-16-5b-deal-with-samsung-to-make-ai-chips/)
+- [20 national security experts urge Trump administration to restrict Nvidia H20 sales to China](https://techcrunch.com/2025/07/28/20-national-security-experts-urge-trump-administration-to-restrict-nvidia-h20-sales-to-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
