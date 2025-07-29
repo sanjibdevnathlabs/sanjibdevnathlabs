@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Luma and Runway expect robotics to eventually be a big revenue driver for them](https://techcrunch.com/2025/07/29/luma-and-runway-expect-robotics-to-eventually-be-a-big-revenue-driver-for-them/)
+- [Waterworld we live in: 30 years on from &#39;Waterworld&#39;, Kevin Costner&#39;s watery &#39;Mad Max&#39; that&#39;s better than you remember](https://www.space.com/entertainment/space-movies-shows/waterworld-we-live-in-30-years-on-from-waterworld-kevin-costners-watery-mad-max-thats-better-than-you-remember)
+- [Google says UK government has not demanded an encryption backdoor for its users’ data](https://techcrunch.com/2025/07/29/google-says-uk-government-not-demanded-encryption-backdoor-for-its-users-data/)
 - [Biggest cosmic explosion on record since the Big Bang is revealing the secrets of gamma-ray bursts](https://www.space.com/astronomy/biggest-cosmic-explosion-on-record-since-the-big-bang-is-revealing-the-secrets-of-gamma-ray-bursts)
 - [Anthropic reportedly nears $170B valuation with potential $5B round](https://techcrunch.com/2025/07/29/anthropic-reportedly-nears-170b-valuation-with-potential-5b-round/)
-- [SOSV bets plasma will change everything from semiconductors to spacecraft](https://techcrunch.com/2025/07/29/sosv-bets-plasma-will-change-everything-from-semiconductors-to-spacecraft/)
-- [Astronauts&#39; arteries are A-OK after living on the International Space Station, per a new study](https://www.space.com/space-exploration/international-space-station/astronauts-arteries-are-a-ok-after-living-on-the-international-space-station-per-a-new-study)
-- [Cash App users can now pool money for group payments — even with non-users](https://techcrunch.com/2025/07/29/cash-app-users-can-now-pool-money-for-group-payments-even-with-non-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
