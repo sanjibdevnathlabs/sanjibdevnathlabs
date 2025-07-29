@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Golden Dome may not be the golden ticket Silicon Valley is hoping for](https://techcrunch.com/2025/07/29/golden-dome-may-not-be-the-golden-ticket-silicon-valley-is-hoping-for/)
-- [SpaceX quiz: Test your private rocket knowledge](https://www.space.com/space-exploration/private-spaceflight/spacex-quiz-test-your-private-rocket-knowledge)
-- [Adobe adds new AI-powered image editing features to Photoshop](https://techcrunch.com/2025/07/29/adobe-adds-new-ai-powered-image-editing-features-to-photoshop/)
-- [TikTok adds YouTube Music as an option to save songs playing in videos](https://techcrunch.com/2025/07/29/tiktok-adds-youtube-music-as-an-option-to-save-songs-playing-in-videos/)
-- [James Webb Space Telescope finds black holes that waited patiently before devouring stars in dusty galaxies](https://www.space.com/astronomy/black-holes/james-webb-space-telescope-finds-black-holes-that-waited-patiently-before-devouring-stars-in-dusty-galaxies)
+- [Telecom giant Orange warns of disruption amid ongoing cyberattack](https://techcrunch.com/2025/07/29/telecom-giant-orange-warns-of-disruption-amid-ongoing-cyberattack/)
+- [India rolls out rocket for July 30 launch of powerful NISAR Earth-observing satellite &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/india-rolls-out-rocket-for-july-30-launch-of-powerful-nisar-earth-observing-satellite-video)
+- [Elon Musk’s Boring Company to build Tesla tunnels under Nashville](https://techcrunch.com/2025/07/29/elon-musks-boring-company-to-build-tesla-tunnels-under-nashville/)
+- [Jack Dorsey’s Bluetooth messaging app Bitchat now on App Store](https://techcrunch.com/2025/07/29/jack-dorseys-bluetooth-messaging-app-bitchat-now-on-app-store/)
+- [Microsoft in talks to maintain access to OpenAI’s tech beyond AGI milestone](https://techcrunch.com/2025/07/29/microsoft-in-talks-to-maintain-access-to-openais-tech-beyond-agi-milestone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
