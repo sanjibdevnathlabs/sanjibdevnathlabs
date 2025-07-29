@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Biggest cosmic explosion on record since the Big Bang is revealing the secrets of gamma-ray bursts](https://www.space.com/astronomy/biggest-cosmic-explosion-on-record-since-the-big-bang-is-revealing-the-secrets-of-gamma-ray-bursts)
+- [Anthropic reportedly nears $170B valuation with potential $5B round](https://techcrunch.com/2025/07/29/anthropic-reportedly-nears-170b-valuation-with-potential-5b-round/)
+- [SOSV bets plasma will change everything from semiconductors to spacecraft](https://techcrunch.com/2025/07/29/sosv-bets-plasma-will-change-everything-from-semiconductors-to-spacecraft/)
 - [Astronauts&#39; arteries are A-OK after living on the International Space Station, per a new study](https://www.space.com/space-exploration/international-space-station/astronauts-arteries-are-a-ok-after-living-on-the-international-space-station-per-a-new-study)
 - [Cash App users can now pool money for group payments — even with non-users](https://techcrunch.com/2025/07/29/cash-app-users-can-now-pool-money-for-group-payments-even-with-non-users/)
-- [Google’s NotebookLM rolls out Video Overviews](https://techcrunch.com/2025/07/29/googles-notebooklm-rolls-out-video-overviews/)
-- [Google won’t say if UK secretly demanded a backdoor for user data](https://techcrunch.com/2025/07/29/google-wont-say-if-uk-secretly-demanded-a-backdoor-for-user-data/)
-- [OpenAI launches Study Mode in ChatGPT](https://techcrunch.com/2025/07/29/openai-launches-study-mode-in-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
