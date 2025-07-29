@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Golden Dome may not be the golden ticket Silicon Valley is hoping for](https://techcrunch.com/2025/07/29/golden-dome-may-not-be-the-golden-ticket-silicon-valley-is-hoping-for/)
+- [SpaceX quiz: Test your private rocket knowledge](https://www.space.com/space-exploration/private-spaceflight/spacex-quiz-test-your-private-rocket-knowledge)
 - [Adobe adds new AI-powered image editing features to Photoshop](https://techcrunch.com/2025/07/29/adobe-adds-new-ai-powered-image-editing-features-to-photoshop/)
 - [TikTok adds YouTube Music as an option to save songs playing in videos](https://techcrunch.com/2025/07/29/tiktok-adds-youtube-music-as-an-option-to-save-songs-playing-in-videos/)
 - [James Webb Space Telescope finds black holes that waited patiently before devouring stars in dusty galaxies](https://www.space.com/astronomy/black-holes/james-webb-space-telescope-finds-black-holes-that-waited-patiently-before-devouring-stars-in-dusty-galaxies)
-- [This founder left Silicon Valley to challenge U.S. defense supremacy from Athens, and investors are paying attention](https://techcrunch.com/2025/07/29/this-founder-left-silicon-valley-to-challenge-u-s-defense-supremacy-from-athens-and-investors-are-paying-attention/)
-- [Sex toy maker Lovense caught leaking users’ email addresses and exposing accounts to takeovers](https://techcrunch.com/2025/07/29/sex-toy-maker-lovense-caught-leaking-users-email-addresses-and-exposing-accounts-to-takeovers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
