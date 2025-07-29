@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [6 DevOps Career Paths with 6-Figure Potential](https://www.youtube.com/watch?v=pEEq8ff2DJs)
 - [Lecture 4: State Machines](https://www.youtube.com/watch?v=gVdrFsnOo_s)
 - [Lecture 3: Casework and Strong Induction](https://www.youtube.com/watch?v=GOgA8JGUiwI)
 - [Alibaba is coming for Claude...](https://www.youtube.com/watch?v=-w53i6Ae-YM)
 - [Lecture 11: Graphs and Coloring](https://www.youtube.com/watch?v=cB0UijRfOCQ)
-- [Lecture 1: Predicates, Sets, and Proofs](https://www.youtube.com/watch?v=sbpCTjmw85g)
 <!-- YOUTUBE:END -->
 
 ---
