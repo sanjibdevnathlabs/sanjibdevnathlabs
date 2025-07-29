@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia AI chip challenger Groq said to be nearing new fundraising at $6B valuation](https://techcrunch.com/2025/07/29/nvidia-ai-chip-challenger-groq-said-to-be-nearing-new-fundraising-at-6b-valuation/)
+- [SpaceX moves Starship to launch pad for testing ahead of Flight 10 &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-to-launch-pad-for-testing-ahead-of-flight-10-photos)
 - [The 1st trailer for James Cameron&#39;s &#39;Avatar: Fire and Ash&#39; promises a stunning three-way battle for the future of Pandora &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-1st-trailer-for-james-camerons-avatar-fire-and-ash-promises-a-stunning-three-way-battle-for-the-future-of-pandora-video)
 - [Watch India and NASA launch the powerful NISAR Earth-observing satellite on July 30](https://www.space.com/space-exploration/launches-spacecraft/india-poised-to-launch-powerful-nisar-earth-observing-joint-nasa-mission)
 - [Luma and Runway expect robotics to eventually be a big revenue driver for them](https://techcrunch.com/2025/07/29/luma-and-runway-expect-robotics-to-eventually-be-a-big-revenue-driver-for-them/)
-- [Waterworld we live in: 30 years on from &#39;Waterworld&#39;, Kevin Costner&#39;s watery &#39;Mad Max&#39; that&#39;s better than you remember](https://www.space.com/entertainment/space-movies-shows/waterworld-we-live-in-30-years-on-from-waterworld-kevin-costners-watery-mad-max-thats-better-than-you-remember)
-- [Google says UK government has not demanded an encryption backdoor for its users’ data](https://techcrunch.com/2025/07/29/google-says-uk-government-not-demanded-encryption-backdoor-for-its-users-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
