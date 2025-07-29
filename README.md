@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube rolls out age estimation tech to identify US teens and apply additional protections](https://techcrunch.com/2025/07/29/youtube-rolls-out-age-estimatation-tech-to-identify-u-s-teens-and-apply-additional-protections/)
-- [Google’s AI Mode gets new ‘Canvas’ feature, real-time help with Search Live, and more](https://techcrunch.com/2025/07/29/googles-ai-mode-gets-new-canvas-feature-real-time-help-with-search-live-and-more/)
-- [See the crescent moon shine beside blue star Spica at sunset on July 30](https://www.space.com/stargazing/see-the-crescent-moon-shine-beside-blue-star-spica-at-sunset-on-july-30)
-- [A familiar face returns to Starfleet in 1st trailer for &#39;Star Trek: Starfleet Academy&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/a-familiar-face-returns-to-starfleet-in-1st-trailer-for-star-trek-starfleet-academy-video)
-- [Telecom giant Orange warns of disruption amid ongoing cyberattack](https://techcrunch.com/2025/07/29/telecom-giant-orange-warns-of-disruption-amid-ongoing-cyberattack/)
+- [Cash App users can now pool money for group payments — even with non-users](https://techcrunch.com/2025/07/29/cash-app-users-can-now-pool-money-for-group-payments-even-with-non-users/)
+- [Google’s NotebookLM rolls out Video Overviews](https://techcrunch.com/2025/07/29/googles-notebooklm-rolls-out-video-overviews/)
+- [Google won’t say if UK secretly demanded a backdoor for user data](https://techcrunch.com/2025/07/29/google-wont-say-if-uk-secretly-demanded-a-backdoor-for-user-data/)
+- [OpenAI launches Study Mode in ChatGPT](https://techcrunch.com/2025/07/29/openai-launches-study-mode-in-chatgpt/)
+- [Here we go again! Controversial paper questions whether interstellar visitor 3I/ATLAS is &#39;possibly hostile&#39; alien tech in disguise](https://www.space.com/astronomy/comets/here-we-go-again-controversial-paper-questions-whether-interstellar-visitor-3i-atlas-is-possibly-hostile-alien-tech-in-disguise)
 <!-- BLOG-POST-LIST:END -->
 
 ---
