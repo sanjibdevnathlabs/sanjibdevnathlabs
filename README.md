@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronauts&#39; arteries are A-OK after living on the International Space Station, per a new study](https://www.space.com/space-exploration/international-space-station/astronauts-arteries-are-a-ok-after-living-on-the-international-space-station-per-a-new-study)
 - [Cash App users can now pool money for group payments — even with non-users](https://techcrunch.com/2025/07/29/cash-app-users-can-now-pool-money-for-group-payments-even-with-non-users/)
 - [Google’s NotebookLM rolls out Video Overviews](https://techcrunch.com/2025/07/29/googles-notebooklm-rolls-out-video-overviews/)
 - [Google won’t say if UK secretly demanded a backdoor for user data](https://techcrunch.com/2025/07/29/google-wont-say-if-uk-secretly-demanded-a-backdoor-for-user-data/)
 - [OpenAI launches Study Mode in ChatGPT](https://techcrunch.com/2025/07/29/openai-launches-study-mode-in-chatgpt/)
-- [Here we go again! Controversial paper questions whether interstellar visitor 3I/ATLAS is &#39;possibly hostile&#39; alien tech in disguise](https://www.space.com/astronomy/comets/here-we-go-again-controversial-paper-questions-whether-interstellar-visitor-3i-atlas-is-possibly-hostile-alien-tech-in-disguise)
 <!-- BLOG-POST-LIST:END -->
 
 ---
