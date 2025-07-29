@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [John Cena searches for love in parallel dimensions in the new &#39;Peacemaker&#39; Season 2 trailer &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/john-cena-searches-for-love-in-parallel-dimensions-in-the-new-peacemaker-season-2-trailer-video)
 - [AI data analyst startup Julius nabs $10M seed round](https://techcrunch.com/2025/07/28/ai-data-analyst-startup-julius-nabs-10m-seed-round/)
 - [Waymo taps Avis to manage robotaxi fleet in Dallas](https://techcrunch.com/2025/07/28/waymo-taps-avis-to-manage-robotaxi-fleet-in-dallas/)
 - [Harmonic, the Robinhood CEO’s AI math startup, launches an AI chatbot app](https://techcrunch.com/2025/07/28/harmonic-the-robinhood-ceos-ai-math-startup-launches-an-ai-chatbot-app/)
 - [Smithsonian National Air and Space Museum reopens 5 renovated galleries starring SpaceX rocket parts, a 3D-printed Mars habitat and more](https://www.space.com/space-exploration/smithsonian-national-air-and-space-museum-reopens-5-renovated-galleries-starring-spacex-rocket-parts-a-3d-printed-mars-habitat-and-more)
-- [Flexport sells former freight unicorn Convoy’s tech 2 years after buying it](https://techcrunch.com/2025/07/28/flexport-sells-former-freight-unicorn-convoys-tech-two-years-after-buying-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
