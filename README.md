@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube rolls out age estimation tech to identify US teens and apply additional protections](https://techcrunch.com/2025/07/29/youtube-rolls-out-age-estimatation-tech-to-identify-u-s-teens-and-apply-additional-protections/)
+- [Google’s AI Mode gets new ‘Canvas’ feature, real-time help with Search Live, and more](https://techcrunch.com/2025/07/29/googles-ai-mode-gets-new-canvas-feature-real-time-help-with-search-live-and-more/)
+- [See the crescent moon shine beside blue star Spica at sunset on July 30](https://www.space.com/stargazing/see-the-crescent-moon-shine-beside-blue-star-spica-at-sunset-on-july-30)
+- [A familiar face returns to Starfleet in 1st trailer for &#39;Star Trek: Starfleet Academy&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/a-familiar-face-returns-to-starfleet-in-1st-trailer-for-star-trek-starfleet-academy-video)
 - [Telecom giant Orange warns of disruption amid ongoing cyberattack](https://techcrunch.com/2025/07/29/telecom-giant-orange-warns-of-disruption-amid-ongoing-cyberattack/)
-- [India rolls out rocket for July 30 launch of powerful NISAR Earth-observing satellite &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/india-rolls-out-rocket-for-july-30-launch-of-powerful-nisar-earth-observing-satellite-video)
-- [Elon Musk’s Boring Company to build Tesla tunnels under Nashville](https://techcrunch.com/2025/07/29/elon-musks-boring-company-to-build-tesla-tunnels-under-nashville/)
-- [Jack Dorsey’s Bluetooth messaging app Bitchat now on App Store](https://techcrunch.com/2025/07/29/jack-dorseys-bluetooth-messaging-app-bitchat-now-on-app-store/)
-- [Microsoft in talks to maintain access to OpenAI’s tech beyond AGI milestone](https://techcrunch.com/2025/07/29/microsoft-in-talks-to-maintain-access-to-openais-tech-beyond-agi-milestone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
