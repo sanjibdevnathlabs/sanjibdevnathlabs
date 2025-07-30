@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Skechers is making kids’ shoes with a hidden AirTag compartment](https://techcrunch.com/2025/07/30/skechers-is-making-kids-shoes-with-a-hidden-airtag-compartment/)
-- [How 2 UC Berkeley dropouts raised $28 million for their AI marketing automation startup](https://techcrunch.com/2025/07/30/how-2-uc-berkeley-dropouts-raised-28-million-for-their-ai-marketing-automation-startup/)
-- [Collaboration or collapse: Why Earth observation must be a global mission](https://www.space.com/science/climate-change/collaboration-or-collapse-why-earth-observation-must-be-a-global-mission)
-- [Gen AI apps doubled their revenue, grew to 1.7B downloads in first half of 2025](https://techcrunch.com/2025/07/30/gen-ai-apps-doubled-their-revenue-grew-to-1-7b-downloads-in-first-half-of-2025/)
-- [YouTube loosens profanity rules for monetized videos](https://techcrunch.com/2025/07/30/youtube-loosens-profanity-rules-for-monetized-videos/)
+- [A guide to using Edits, Meta’s CapCut rival for short-form video editing](https://techcrunch.com/2025/07/30/a-guide-to-using-edits-metas-new-capcut-rival-for-short-form-video-editing/)
+- [How a New Jersey startup found an electrifying way to slash copper costs](https://techcrunch.com/2025/07/30/how-a-new-jersey-startup-found-an-electrifying-way-to-slash-copper-costs/)
+- [Saturn&#39;s largest moon Titan casts a colossal shadow in breathtaking amateur portrait &lpar;photo&rpar;](https://www.space.com/stargazing/saturns-largest-moon-titan-casts-a-colossal-shadow-in-breathtaking-amateur-portrait-photo)
+- [PlayerZero raises $15M to prevent AI agents from shipping buggy code](https://techcrunch.com/2025/07/30/playerzero-raises-15m-to-prevent-ai-agents-from-shipping-buggy-code/)
+- [Minnesota activates National Guard as cyberattack on Saint Paul disrupts public services](https://techcrunch.com/2025/07/30/minnesota-activates-national-guard-as-cyberattack-on-saint-paul-disrupts-public-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
