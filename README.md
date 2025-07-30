@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers stole Social Security numbers during Allianz Life cyberattack](https://techcrunch.com/2025/07/30/hackers-stole-social-security-numbers-during-allianz-life-cyberattack/)
+- [Kate Rubins, 1st astronaut to sequence DNA in space, leaves NASA](https://www.space.com/space-exploration/human-spaceflight/kate-rubins-1st-astronaut-to-sequence-dna-in-space-leaves-nasa)
+- [Zuckerberg signals Meta won’t open source all of its ‘superintelligence’ AI models](https://techcrunch.com/2025/07/30/zuckerberg-says-meta-likely-wont-open-source-all-of-its-superintelligence-ai-models/)
 - [Good news for Mars settlers? Red Planet glaciers are mostly pure water ice, study suggests](https://www.space.com/astronomy/mars/good-news-for-mars-settlers-red-planet-glaciers-are-mostly-pure-water-ice-study-suggests)
 - [Ramp hits $22.5B valuation just 45 days after reaching $16B](https://techcrunch.com/2025/07/30/ramp-hits-22-5b-valuation-just-45-days-after-reaching-16b/)
-- [A guide to using Edits, Meta’s CapCut rival for short-form video editing](https://techcrunch.com/2025/07/30/a-guide-to-using-edits-metas-new-capcut-rival-for-short-form-video-editing/)
-- [How a New Jersey startup found an electrifying way to slash copper costs](https://techcrunch.com/2025/07/30/how-a-new-jersey-startup-found-an-electrifying-way-to-slash-copper-costs/)
-- [Saturn&#39;s largest moon Titan casts a colossal shadow in breathtaking amateur portrait &lpar;photo&rpar;](https://www.space.com/stargazing/saturns-largest-moon-titan-casts-a-colossal-shadow-in-breathtaking-amateur-portrait-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
