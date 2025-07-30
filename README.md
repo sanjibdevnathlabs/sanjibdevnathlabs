@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gen AI apps doubled their revenue, grew to 1.7B downloads in first half of 2025](https://techcrunch.com/2025/07/30/gen-ai-apps-doubled-their-revenue-grew-to-1-7b-downloads-in-first-half-of-2025/)
+- [YouTube loosens profanity rules for monetized videos](https://techcrunch.com/2025/07/30/youtube-loosens-profanity-rules-for-monetized-videos/)
+- [Powerful NISAR Earth-observing satellite loaded up for launch in India | Space photo of the day for July 30, 2025](https://www.space.com/space-exploration/satellites/powerful-nisar-earth-observing-satellite-loaded-up-for-launch-in-india-space-photo-of-the-day-for-july-30-2025)
+- [AIR lands $23M to bring its eVTOLs to the US](https://techcrunch.com/2025/07/30/air-secures-23m-to-boost-u-s-expansion-and-evtol-innovation/)
 - [Observe continues to adapt to the changing world of software observability](https://techcrunch.com/2025/07/30/observe-continues-to-adapt-to-the-changing-world-of-software-observability/)
-- [&#39;The Smithsonian Institution owns the Discovery.&#39; Museum resists Trump&#39;s &#39;Big Beautiful Bill&#39; plan to move space shuttle to Houston](https://www.space.com/space-exploration/the-smithsonian-institution-owns-the-discovery-museum-resists-trumps-big-beautiful-bill-plan-to-move-space-shuttle-to-houston)
-- [Google says it will sign EU’s AI code of practice](https://techcrunch.com/2025/07/30/google-says-it-will-sign-eus-ai-code-of-practice/)
-- [&#39;The most sophisticated radar we&#39;ve ever built&#39;: US-Indian NISAR satellite launches to track tiny changes on Earth&#39;s surface &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/the-most-sophisticated-radar-weve-ever-built-us-indian-nisar-satellite-launches-to-track-tiny-changes-on-earths-surface-video)
-- [James Webb Space Telescope finds giant, lonely exoplanets can build their own planetary friends without a parent star](https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-finds-giant-lonely-exoplanets-can-build-their-own-planetary-friends-without-a-parent-star)
 <!-- BLOG-POST-LIST:END -->
 
 ---
