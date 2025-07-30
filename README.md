@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Skechers is making kids’ shoes with a hidden AirTag compartment](https://techcrunch.com/2025/07/30/skechers-is-making-kids-shoes-with-a-hidden-airtag-compartment/)
+- [How 2 UC Berkeley dropouts raised $28 million for their AI marketing automation startup](https://techcrunch.com/2025/07/30/how-2-uc-berkeley-dropouts-raised-28-million-for-their-ai-marketing-automation-startup/)
+- [Collaboration or collapse: Why Earth observation must be a global mission](https://www.space.com/science/climate-change/collaboration-or-collapse-why-earth-observation-must-be-a-global-mission)
 - [Gen AI apps doubled their revenue, grew to 1.7B downloads in first half of 2025](https://techcrunch.com/2025/07/30/gen-ai-apps-doubled-their-revenue-grew-to-1-7b-downloads-in-first-half-of-2025/)
 - [YouTube loosens profanity rules for monetized videos](https://techcrunch.com/2025/07/30/youtube-loosens-profanity-rules-for-monetized-videos/)
-- [Powerful NISAR Earth-observing satellite loaded up for launch in India | Space photo of the day for July 30, 2025](https://www.space.com/space-exploration/satellites/powerful-nisar-earth-observing-satellite-loaded-up-for-launch-in-india-space-photo-of-the-day-for-july-30-2025)
-- [AIR lands $23M to bring its eVTOLs to the US](https://techcrunch.com/2025/07/30/air-secures-23m-to-boost-u-s-expansion-and-evtol-innovation/)
-- [Observe continues to adapt to the changing world of software observability](https://techcrunch.com/2025/07/30/observe-continues-to-adapt-to-the-changing-world-of-software-observability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
