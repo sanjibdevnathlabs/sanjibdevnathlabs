@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Observe continues to adapt to the changing world of software observability](https://techcrunch.com/2025/07/30/observe-continues-to-adapt-to-the-changing-world-of-software-observability/)
+- [&#39;The Smithsonian Institution owns the Discovery.&#39; Museum resists Trump&#39;s &#39;Big Beautiful Bill&#39; plan to move space shuttle to Houston](https://www.space.com/space-exploration/the-smithsonian-institution-owns-the-discovery-museum-resists-trumps-big-beautiful-bill-plan-to-move-space-shuttle-to-houston)
+- [Google says it will sign EU’s AI code of practice](https://techcrunch.com/2025/07/30/google-says-it-will-sign-eus-ai-code-of-practice/)
+- [&#39;The most sophisticated radar we&#39;ve ever built&#39;: US-Indian NISAR satellite launches to track tiny changes on Earth&#39;s surface &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/the-most-sophisticated-radar-weve-ever-built-us-indian-nisar-satellite-launches-to-track-tiny-changes-on-earths-surface-video)
 - [James Webb Space Telescope finds giant, lonely exoplanets can build their own planetary friends without a parent star](https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-finds-giant-lonely-exoplanets-can-build-their-own-planetary-friends-without-a-parent-star)
-- [Footnotes, TikTok’s crowdsourced fact-checks, launches in the US](https://techcrunch.com/2025/07/30/tiktoks-crowdsourced-fact-checks-called-footnotes-launch-in-the-u-s/)
-- [TikTok adds new parental controls, tools for creators](https://techcrunch.com/2025/07/30/tiktok-adds-new-parental-controls-tools-for-creators/)
-- [Hubble Space Telescope spots rogue planet with a little help from Einstein: &#39;It was a lucky break&#39;](https://www.space.com/astronomy/exoplanets/hubble-space-telescope-spots-rogue-planet-with-a-little-help-from-einstein-it-was-a-lucky-break)
-- [SpaceX launches 28 Starlink satellites on a Falcon 9 rocket from Florida](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-29-b1069-ccsfs-jrti)
 <!-- BLOG-POST-LIST:END -->
 
 ---
