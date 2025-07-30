@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;The Fantastic Four: First Steps&#39; is a love letter to the Space Age we always dreamed of](https://www.space.com/entertainment/space-movies-shows/the-fantastic-four-first-steps-is-a-love-letter-to-the-space-age-we-always-dreamed-of)
-- [Google proposes to open Play Store to more real-money games in India](https://techcrunch.com/2025/07/30/google-proposes-to-open-play-store-to-more-real-money-games-in-india/)
-- [Big Tech to work with Trump administration to build digital health ecosystem](https://techcrunch.com/2025/07/30/big-tech-to-work-with-trump-administration-to-build-digital-health-ecosystem/)
-- [Artemis 2 astronauts stress importance of their moon mission as NASA faces budget, workforce cuts: &#39;We have to move the needle.&#39;](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-stress-importance-of-their-moon-mission-as-nasa-faces-budget-workforce-cuts-we-have-to-move-the-needle)
-- [US Space Force’s mysterious X-37B space plane launching Aug. 21 to test quantum sensor and laser-communications tech](https://www.space.com/space-exploration/launches-spacecraft/us-space-forces-mysterious-x-37b-space-plane-launching-aug-21-to-test-quantum-sensor-and-laser-communications-tech)
+- [SpaceX, NASA say Crew-11 astronaut mission is &#39;go&#39; for launch to ISS on July 31](https://www.space.com/space-exploration/human-spaceflight/spacex-nasa-say-crew-11-astronaut-mission-is-go-for-launch-to-iss-on-july-31)
+- [JWST sees beauty in the death of a star, offers a preview of what&#39;s in store for our sun](https://www.space.com/astronomy/james-webb-space-telescope/jwst-sees-beauty-in-the-death-of-a-star-offers-a-preview-of-whats-in-store-for-our-sun)
+- [SpaceX faces two new lawsuits alleging safety‐related retaliation](https://techcrunch.com/2025/07/30/spacex-faces-two-new-lawsuits-alleging-safety%e2%80%90related-retaliation/)
+- [Meta to spend up to $72B on AI infrastructure in 2025 as compute arms race escalates](https://techcrunch.com/2025/07/30/meta-to-spend-up-to-72b-on-ai-infrastructure-in-2025-as-compute-arms-race-escalates/)
+- [Zuckerberg: AI increased the time spent on Facebook and Instagram in Q2](https://techcrunch.com/2025/07/30/zuckerberg-ai-increased-the-time-spent-on-facebook-and-instagram-in-q2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
