@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The dating app that doxxed 72,000 women...](https://www.youtube.com/watch?v=miTpJmMt7uo)
 - [Writing a Text Editor - Computerphile](https://www.youtube.com/watch?v=g2hiVp6oPZc)
 - [6 DevOps Career Paths with 6-Figure Potential](https://www.youtube.com/watch?v=pEEq8ff2DJs)
 - [Lecture 4: State Machines](https://www.youtube.com/watch?v=gVdrFsnOo_s)
 - [Lecture 3: Casework and Strong Induction](https://www.youtube.com/watch?v=GOgA8JGUiwI)
-- [Alibaba is coming for Claude...](https://www.youtube.com/watch?v=-w53i6Ae-YM)
 <!-- YOUTUBE:END -->
 
 ---
