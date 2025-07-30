@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US Space Force’s mysterious X-37B space plane launching Aug. 21 to test quantum sensor and laser-communications tech](https://www.space.com/space-exploration/launches-spacecraft/us-space-forces-mysterious-x-37b-space-plane-launching-aug-21-to-test-quantum-sensor-and-laser-communications-tech)
+- [Palo Alto Networks agrees to buy CyberArk for $25 billion](https://techcrunch.com/2025/07/30/palo-alto-networks-agrees-to-buy-cyberark-for-25-billion/)
+- [Germ brings end-to-end encrypted messages to Bluesky](https://techcrunch.com/2025/07/30/germ-brings-end-to-end-encrypted-messages-to-bluesky/)
 - [Hackers stole Social Security numbers during Allianz Life cyberattack](https://techcrunch.com/2025/07/30/hackers-stole-social-security-numbers-during-allianz-life-cyberattack/)
 - [Kate Rubins, 1st astronaut to sequence DNA in space, leaves NASA](https://www.space.com/space-exploration/human-spaceflight/kate-rubins-1st-astronaut-to-sequence-dna-in-space-leaves-nasa)
-- [Zuckerberg signals Meta won’t open source all of its ‘superintelligence’ AI models](https://techcrunch.com/2025/07/30/zuckerberg-says-meta-likely-wont-open-source-all-of-its-superintelligence-ai-models/)
-- [Good news for Mars settlers? Red Planet glaciers are mostly pure water ice, study suggests](https://www.space.com/astronomy/mars/good-news-for-mars-settlers-red-planet-glaciers-are-mostly-pure-water-ice-study-suggests)
-- [Ramp hits $22.5B valuation just 45 days after reaching $16B](https://techcrunch.com/2025/07/30/ramp-hits-22-5b-valuation-just-45-days-after-reaching-16b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
