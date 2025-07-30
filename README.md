@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Footnotes, TikTok’s crowdsourced fact-checks, launches in the US](https://techcrunch.com/2025/07/30/tiktoks-crowdsourced-fact-checks-called-footnotes-launch-in-the-u-s/)
+- [TikTok adds new parental controls, tools for creators](https://techcrunch.com/2025/07/30/tiktok-adds-new-parental-controls-tools-for-creators/)
 - [Hubble Space Telescope spots rogue planet with a little help from Einstein: &#39;It was a lucky break&#39;](https://www.space.com/astronomy/exoplanets/hubble-space-telescope-spots-rogue-planet-with-a-little-help-from-einstein-it-was-a-lucky-break)
 - [SpaceX launches 28 Starlink satellites on a Falcon 9 rocket from Florida](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-29-b1069-ccsfs-jrti)
 - [Australia&#39;s 1st orbital rocket, Gilmour Space&#39;s Eris, fails on historic debut launch](https://www.space.com/space-exploration/launches-spacecraft/australias-1st-orbital-rocket-gilmour-spaces-eris-fails-on-historic-debut-launch)
-- [Space Force bets on commercial entrants in $4B satcom contest](https://techcrunch.com/2025/07/29/space-force-bets-on-commercial-entrants-in-4b-satcom-contest/)
-- [Nvidia AI chip challenger Groq said to be nearing new fundraising at $6B valuation](https://techcrunch.com/2025/07/29/nvidia-ai-chip-challenger-groq-said-to-be-nearing-new-fundraising-at-6b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
