@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Figma’s IPO price hit a $19.3B valuation out of the gate](https://techcrunch.com/2025/07/30/figmas-ipo-price-hit-a-19-3b-valuation-out-of-the-gate/)
+- [Zuckerberg says people without AI glasses will be at a disadvantage in the future](https://techcrunch.com/2025/07/30/zuckerberg-says-people-without-ai-glasses-will-be-at-a-disadvantage-in-the-future/)
 - [SpaceX, NASA say Crew-11 astronaut mission is &#39;go&#39; for launch to ISS on July 31](https://www.space.com/space-exploration/human-spaceflight/spacex-nasa-say-crew-11-astronaut-mission-is-go-for-launch-to-iss-on-july-31)
 - [JWST sees beauty in the death of a star, offers a preview of what&#39;s in store for our sun](https://www.space.com/astronomy/james-webb-space-telescope/jwst-sees-beauty-in-the-death-of-a-star-offers-a-preview-of-whats-in-store-for-our-sun)
 - [SpaceX faces two new lawsuits alleging safety‐related retaliation](https://techcrunch.com/2025/07/30/spacex-faces-two-new-lawsuits-alleging-safety%e2%80%90related-retaliation/)
-- [Meta to spend up to $72B on AI infrastructure in 2025 as compute arms race escalates](https://techcrunch.com/2025/07/30/meta-to-spend-up-to-72b-on-ai-infrastructure-in-2025-as-compute-arms-race-escalates/)
-- [Zuckerberg: AI increased the time spent on Facebook and Instagram in Q2](https://techcrunch.com/2025/07/30/zuckerberg-ai-increased-the-time-spent-on-facebook-and-instagram-in-q2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
