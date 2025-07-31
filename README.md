@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit revenue soars as it bets on AI and advertising](https://techcrunch.com/2025/07/31/reddit-revenue-soars-as-it-bets-on-ai-and-advertising/)
+- [Apple has now sold 3 billion iPhones](https://techcrunch.com/2025/07/31/apple-has-now-sold-three-billion-iphones/)
+- [Apple plans to ‘significantly’ grow AI investments, Cook says](https://techcrunch.com/2025/07/31/apple-plans-to-significantly-grow-ai-investments-cook-says/)
 - [Iconiq’s Will Griffith explains how his firm celebrated Figma’s IPO and why investors sold shares](https://techcrunch.com/2025/07/31/iconiqs-will-griffith-explains-how-his-firm-celebrated-figmas-ipo-and-why-investors-sold-shares/)
 - [Einstein was wrong &lpar;slightly&rpar; about quantum physics, new version of the famous double-slit experiment reveals](https://www.space.com/astronomy/einstein-was-wrong-slightly-about-quantum-physics-new-version-of-the-famous-double-slit-experiment-reveals)
-- [Is life widespread throughout the cosmos? Complex organic molecules found in planet-birthing disk](https://www.space.com/space-exploration/search-for-life/is-life-widespread-throughout-the-cosmos-complex-organic-molecules-found-in-planet-birthing-disk)
-- [Enterprises prefer Anthropic’s AI models over anyone else’s, including OpenAI’s](https://techcrunch.com/2025/07/31/enterprises-prefer-anthropics-ai-models-over-anyone-elses-including-openais/)
-- [Twitter’s former Trust and Safety head details the challenges facing decentralized social platforms](https://techcrunch.com/2025/07/31/twitters-former-trust-safety-head-details-the-challenges-facing-decentralized-social-platforms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
