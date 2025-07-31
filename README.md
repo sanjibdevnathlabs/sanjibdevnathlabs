@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot crosses 20 million all-time users](https://techcrunch.com/2025/07/30/github-copilot-crosses-20-million-all-time-users/)
 - [Kleiner Perkins-backed Ambiq pops on IPO debut](https://techcrunch.com/2025/07/30/kleiner-perkins-backed-ambiq-pops-on-ipo-debut/)
 - [Aurora’s autonomous trucks are now driving at night. Its next big challenge is rain.](https://techcrunch.com/2025/07/30/auroras-autonomous-trucks-are-now-driving-at-night-its-next-big-challenge-is-rain/)
 - [Figma’s IPO price hit a $19.3B valuation out of the gate](https://techcrunch.com/2025/07/30/figmas-ipo-price-hit-a-19-3b-valuation-out-of-the-gate/)
 - [Zuckerberg says people without AI glasses will be at a disadvantage in the future](https://techcrunch.com/2025/07/30/zuckerberg-says-people-without-ai-glasses-will-be-at-a-disadvantage-in-the-future/)
-- [SpaceX, NASA say Crew-11 astronaut mission is &#39;go&#39; for launch to ISS on July 31](https://www.space.com/space-exploration/human-spaceflight/spacex-nasa-say-crew-11-astronaut-mission-is-go-for-launch-to-iss-on-july-31)
 <!-- BLOG-POST-LIST:END -->
 
 ---
