@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The sequel to ‘The Social Network’ may have just found its lead actors](https://techcrunch.com/2025/07/31/the-sequel-to-the-social-network-may-have-just-found-its-lead-actors/)
-- [Your public ChatGPT queries are getting indexed by Google and other search engines](https://techcrunch.com/2025/07/31/your-public-chatgpt-queries-are-getting-indexed-by-google-and-other-search-engines/)
-- [SpaceX launches 19 Starlink satellites from California, lands rocket on ship at sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-19-starlink-satellites-from-california-lands-rocket-on-ship-at-sea)
-- [Figma’s stock soars in its highly anticipated IPO, market cap instantly hits $45B](https://techcrunch.com/2025/07/31/figmas-stock-soars-in-its-highly-anticipated-ipo-market-cap-instantly-hits-45b/)
-- [Satellites reveal a hidden lake burst through Greenland Ice Sheet in 2014, causing major flooding and a deep crater](https://www.space.com/astronomy/earth/satellites-reveal-a-hidden-lake-burst-through-greenland-ice-sheet-in-2014-causing-major-flooding-and-a-deep-crater)
+- [Iconiq’s Will Griffith explains how his firm celebrated Figma’s IPO and why investors sold shares](https://techcrunch.com/2025/07/31/iconiqs-will-griffith-explains-how-his-firm-celebrated-figmas-ipo-and-why-investors-sold-shares/)
+- [Einstein was wrong &lpar;slightly&rpar; about quantum physics, new version of the famous double-slit experiment reveals](https://www.space.com/astronomy/einstein-was-wrong-slightly-about-quantum-physics-new-version-of-the-famous-double-slit-experiment-reveals)
+- [Is life widespread throughout the cosmos? Complex organic molecules found in planet-birthing disk](https://www.space.com/space-exploration/search-for-life/is-life-widespread-throughout-the-cosmos-complex-organic-molecules-found-in-planet-birthing-disk)
+- [Enterprises prefer Anthropic’s AI models over anyone else’s, including OpenAI’s](https://techcrunch.com/2025/07/31/enterprises-prefer-anthropics-ai-models-over-anyone-elses-including-openais/)
+- [Twitter’s former Trust and Safety head details the challenges facing decentralized social platforms](https://techcrunch.com/2025/07/31/twitters-former-trust-safety-head-details-the-challenges-facing-decentralized-social-platforms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
