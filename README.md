@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Quora’s Poe releases a developer API with access to a bouquet of AI models](https://techcrunch.com/2025/07/31/quoras-poe-is-releasing-an-api-for-developers-to-easily-access-a-boquet-of-models/)
-- [Jeff Bezos&#39; Blue Origin will launch next space tourism mission on Aug. 3](https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-blue-origin-will-launch-next-space-tourism-mission-on-aug-3)
-- [SpaceX, NASA scrub Crew-11 astronaut launch due to weather &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/spacex-nasa-scrub-crew-11-astronaut-launch-due-to-weather-video)
-- [TikTok merges its Core Product and Trust &amp; Safety teams](https://techcrunch.com/2025/07/31/tiktok-merges-its-core-product-and-trust-safety-teams/)
-- [OpenAI to launch AI data center in Norway, its first in Europe](https://techcrunch.com/2025/07/31/openai-to-launch-ai-data-center-in-norway-its-first-in-europe/)
+- [Figma’s stock soars in its highly anticipated IPO, market cap instantly hits $45B](https://techcrunch.com/2025/07/31/figmas-stock-soars-in-its-highly-anticipated-ipo-market-cap-instantly-hits-45b/)
+- [Satellites reveal a hidden lake burst through Greenland Ice Sheet in 2014, causing major flooding and a deep crater](https://www.space.com/astronomy/earth/satellites-reveal-a-hidden-lake-burst-through-greenland-ice-sheet-in-2014-causing-major-flooding-and-a-deep-crater)
+- [Google loses appeal over app store overhaul in Epic Games case](https://techcrunch.com/2025/07/31/google-loses-appeal-over-app-store-overhaul-in-epic-games-case/)
+- [The best dating apps aren’t even dating apps](https://techcrunch.com/2025/07/31/the-best-dating-apps-arent-even-dating-apps/)
+- [Design and development shop the Iconfactory is selling some apps —and AI is partially to blame](https://techcrunch.com/2025/07/31/design-and-development-shop-the-iconfactory-is-selling-some-apps-and-ai-is-partially-to-blame/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
