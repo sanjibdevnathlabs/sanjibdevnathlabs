@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New world record! Weather satellites detect 515-mile-long lightning flash](https://www.space.com/astronomy/earth/new-world-record-weather-satellites-detect-515-mile-long-lightning-flash)
 - [Uber Eats now lets merchants message customers about their orders](https://techcrunch.com/2025/07/31/uber-eats-now-lets-merchants-message-customers-about-their-orders/)
 - [Proton releases a new app for two-factor authentication](https://techcrunch.com/2025/07/31/proton-releases-a-new-app-for-two-factor-authentication/)
 - [Nearby super-Earth K2-18 b may be a water-rich ocean planet: &#39;This has certainly increased the chances of habitability&#39;](https://www.space.com/space-exploration/search-for-life/nearby-super-earth-k2-18-b-may-be-a-water-rich-ocean-planet-this-has-certainly-increased-the-chances-of-habitability)
 - [Watch SpaceX launch Crew-11 astronauts to the ISS for NASA today](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-crew-11-astronauts-to-the-iss-for-nasa-today)
-- [GitHub Copilot crosses 20 million all-time users](https://techcrunch.com/2025/07/30/github-copilot-crosses-20-million-all-time-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
