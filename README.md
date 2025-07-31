@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The sequel to ‘The Social Network’ may have just found its lead actors](https://techcrunch.com/2025/07/31/the-sequel-to-the-social-network-may-have-just-found-its-lead-actors/)
+- [Your public ChatGPT queries are getting indexed by Google and other search engines](https://techcrunch.com/2025/07/31/your-public-chatgpt-queries-are-getting-indexed-by-google-and-other-search-engines/)
 - [SpaceX launches 19 Starlink satellites from California, lands rocket on ship at sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-19-starlink-satellites-from-california-lands-rocket-on-ship-at-sea)
 - [Figma’s stock soars in its highly anticipated IPO, market cap instantly hits $45B](https://techcrunch.com/2025/07/31/figmas-stock-soars-in-its-highly-anticipated-ipo-market-cap-instantly-hits-45b/)
 - [Satellites reveal a hidden lake burst through Greenland Ice Sheet in 2014, causing major flooding and a deep crater](https://www.space.com/astronomy/earth/satellites-reveal-a-hidden-lake-burst-through-greenland-ice-sheet-in-2014-causing-major-flooding-and-a-deep-crater)
-- [Google loses appeal over app store overhaul in Epic Games case](https://techcrunch.com/2025/07/31/google-loses-appeal-over-app-store-overhaul-in-epic-games-case/)
-- [The best dating apps aren’t even dating apps](https://techcrunch.com/2025/07/31/the-best-dating-apps-arent-even-dating-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
