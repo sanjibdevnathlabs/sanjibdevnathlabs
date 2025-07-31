@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quora’s Poe releases a developer API with access to a bouquet of AI models](https://techcrunch.com/2025/07/31/quoras-poe-is-releasing-an-api-for-developers-to-easily-access-a-boquet-of-models/)
+- [Jeff Bezos&#39; Blue Origin will launch next space tourism mission on Aug. 3](https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-blue-origin-will-launch-next-space-tourism-mission-on-aug-3)
+- [SpaceX, NASA scrub Crew-11 astronaut launch due to weather &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/spacex-nasa-scrub-crew-11-astronaut-launch-due-to-weather-video)
 - [TikTok merges its Core Product and Trust &amp; Safety teams](https://techcrunch.com/2025/07/31/tiktok-merges-its-core-product-and-trust-safety-teams/)
 - [OpenAI to launch AI data center in Norway, its first in Europe](https://techcrunch.com/2025/07/31/openai-to-launch-ai-data-center-in-norway-its-first-in-europe/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/07/31/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/31/tech-layoffs-2025-list/)
-- [How founders are ditching VC norms and finding capital on their own terms at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/31/how-founders-are-ditching-vc-norms-and-finding-capital-on-their-own-terms-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
