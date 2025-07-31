@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI to launch AI data center in Norway, its first in Europe](https://techcrunch.com/2025/07/31/openai-to-launch-ai-data-center-in-norway-its-first-in-europe/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/07/31/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/07/31/tech-layoffs-2025-list/)
+- [How founders are ditching VC norms and finding capital on their own terms at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/31/how-founders-are-ditching-vc-norms-and-finding-capital-on-their-own-terms-at-techcrunch-disrupt-2025/)
 - [Ford to reveal more about its new low-cost electric vehicles on August 11](https://techcrunch.com/2025/07/31/ford-to-reveal-more-about-its-new-low-cost-electric-vehicles-on-august-11/)
-- [Waymo’s Tekedra Mawakana on the truth behind autonomous vehicles at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/31/waymos-tekedra-mawakana-on-the-truth-behind-autonomous-vehicles-at-techcrunch-disrupt-2025/)
-- [Sculptor galaxy image provides brilliant details that will help astronomers study how stars form](https://www.space.com/astronomy/sculptor-galaxy-image-provides-brilliant-details-that-will-help-astronomers-study-how-stars-form)
-- [Venus reaches its highest point in the eastern predawn sky on Aug. 1: Here&#39;s how to see it](https://www.space.com/stargazing/venus-reaches-its-highest-point-in-the-eastern-predawn-sky-on-aug-1-heres-how-to-see-it)
-- [Google is experimenting with machine-learning powered age estimation tech in the U.S.](https://techcrunch.com/2025/07/31/google-is-experimenting-with-machine-learning-powered-age-estimation-tech-in-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
