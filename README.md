@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford to reveal more about its new low-cost electric vehicles on August 11](https://techcrunch.com/2025/07/31/ford-to-reveal-more-about-its-new-low-cost-electric-vehicles-on-august-11/)
+- [Waymo’s Tekedra Mawakana on the truth behind autonomous vehicles at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/31/waymos-tekedra-mawakana-on-the-truth-behind-autonomous-vehicles-at-techcrunch-disrupt-2025/)
+- [Sculptor galaxy image provides brilliant details that will help astronomers study how stars form](https://www.space.com/astronomy/sculptor-galaxy-image-provides-brilliant-details-that-will-help-astronomers-study-how-stars-form)
+- [Venus reaches its highest point in the eastern predawn sky on Aug. 1: Here&#39;s how to see it](https://www.space.com/stargazing/venus-reaches-its-highest-point-in-the-eastern-predawn-sky-on-aug-1-heres-how-to-see-it)
 - [Google is experimenting with machine-learning powered age estimation tech in the U.S.](https://techcrunch.com/2025/07/31/google-is-experimenting-with-machine-learning-powered-age-estimation-tech-in-the-u-s/)
-- [ERIS spots spiral disc around young star | Space photo of the day for July 31, 2025](https://www.space.com/astronomy/eris-spots-spiral-disc-around-young-star-space-photo-of-the-day-for-july-31-2025)
-- [Step aside, Captain Kirk! Spock is the Enterprise&#39;s real interstellar ladies&#39; man](https://www.space.com/entertainment/space-movies-shows/step-aside-captain-kirk-spock-is-the-enterprises-real-interstellar-ladies-man)
-- [New world record! Weather satellites detect 515-mile-long lightning flash](https://www.space.com/astronomy/earth/new-world-record-weather-satellites-detect-515-mile-long-lightning-flash)
-- [Uber Eats now lets merchants message customers about their orders](https://techcrunch.com/2025/07/31/uber-eats-now-lets-merchants-message-customers-about-their-orders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
