@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rookie crewmates kept things fresh for Ax-4 astronaut Peggy Whitson: &#39;It&#39;s always great to relive a little bit of that first time&#39;](https://www.space.com/space-exploration/private-spaceflight/rookie-crewmates-kept-things-fresh-for-ax-4-astronaut-peggy-whitson-its-always-great-to-relive-a-little-bit-of-that-first-time)
+- [Tesla partly liable in Florida Autopilot trial, jury awards $329M in damages](https://techcrunch.com/2025/08/01/tesla-partly-liable-in-florida-autopilot-trial-jury-awards-329m-in-damages/)
 - [SpaceX just launched disease-causing bacteria to the International Space Station](https://www.space.com/space-exploration/international-space-station/spacex-just-launched-disease-causing-bacteria-to-the-international-space-station)
 - [Google bets on STAN, an Indian social gaming platform](https://techcrunch.com/2025/08/01/google-bets-on-stan-an-indian-social-gaming-platform/)
 - [Satellites are helping protect critically endangered desert elephants. Here&#39;s how](https://www.space.com/astronomy/earth/satellites-are-helping-protect-critically-endangered-desert-elephants-heres-how)
-- [Nintendo raising original Switch console prices due to ‘market conditions’](https://techcrunch.com/2025/08/01/nintendo-raising-original-switch-console-prices-due-to-market-conditions/)
-- [Best camera for astro now $300 cheaper: This Nikon bundle comes with plenty of extras](https://www.space.com/stargazing/astrophotography/nikon-camera-bundle-300-dollars-off-with-camera-bag-and-128gb-sd-card)
 <!-- BLOG-POST-LIST:END -->
 
 ---
