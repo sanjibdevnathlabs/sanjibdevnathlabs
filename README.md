@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Female-founded semiconductor AI startup SixSense raises $8.5M](https://techcrunch.com/2025/07/31/female-founded-semiconductor-ai-startup-sixsense-raises-funding/)
+- [Amazon CEO wants to put ads in your Alexa+ conversations](https://techcrunch.com/2025/07/31/amazon-ceo-wants-to-put-ads-in-your-alexa-conversations/)
+- [Apple projects tariff costs will hit $1.1B next quarter](https://techcrunch.com/2025/07/31/apple-projects-tariff-costs-will-hit-1-1b-next-quarter/)
 - [Reddit revenue soars as it bets on AI and advertising](https://techcrunch.com/2025/07/31/reddit-revenue-soars-as-it-bets-on-ai-and-advertising/)
 - [Apple has now sold 3 billion iPhones](https://techcrunch.com/2025/07/31/apple-has-now-sold-three-billion-iphones/)
-- [Apple plans to ‘significantly’ grow AI investments, Cook says](https://techcrunch.com/2025/07/31/apple-plans-to-significantly-grow-ai-investments-cook-says/)
-- [Iconiq’s Will Griffith explains how his firm celebrated Figma’s IPO and why investors sold shares](https://techcrunch.com/2025/07/31/iconiqs-will-griffith-explains-how-his-firm-celebrated-figmas-ipo-and-why-investors-sold-shares/)
-- [Einstein was wrong &lpar;slightly&rpar; about quantum physics, new version of the famous double-slit experiment reveals](https://www.space.com/astronomy/einstein-was-wrong-slightly-about-quantum-physics-new-version-of-the-famous-double-slit-experiment-reveals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
