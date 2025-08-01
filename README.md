@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This Detroit startup is turning to utilities to make home efficiency upgrades cheaper](https://techcrunch.com/2025/08/01/this-detroit-startup-is-turning-to-utilities-to-make-home-efficiency-upgrades-cheaper/)
-- [Vast Data in talks with Alphabet’s CapitalG, Nvidia to fund round at up to $30B valuation](https://techcrunch.com/2025/08/01/vast-data-in-talks-with-alphabets-capitalg-nvidia-to-fund-round-at-up-to-30b-valuation/)
-- [Authorities seize BlackSuit ransomware gang’s servers](https://techcrunch.com/2025/08/01/authorities-seize-blacksuit-ransomware-gangs-servers/)
-- [Klarna might reschedule its IPO for September](https://techcrunch.com/2025/08/01/klarna-might-reschedule-its-ipo-for-september/)
-- [VC industry has become a better career for women over the past 7 years](https://techcrunch.com/2025/08/01/vc-industry-has-become-a-better-career-for-women-over-the-past-7-years/)
+- [OpenAI reportedly raises $8.3B at $300B valuation](https://techcrunch.com/2025/08/01/openai-reportedly-raises-8-3b-at-300b-valuation/)
+- [Instagram now requires users to have at least 1,000 followers to go live](https://techcrunch.com/2025/08/01/instagram-now-requires-users-to-have-at-least-1000-followers-to-go-live/)
+- [The new face of defense tech — Ethan Thornton of Mach Industries — takes the AI stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/01/the-new-face-of-defense-tech-takes-the-ai-stage-at-techcrunch-disrupt-2025/)
+- [Big lake in Quebec suddenly disappears, satellite finds | Space photo of the day for August 1, 2025](https://www.space.com/astronomy/earth/big-lake-in-quebec-suddenly-disappears-satellite-finds-space-photo-of-the-day-for-august-1-2025)
+- [Astronaut savors the moment and shares a stunning aurora shot | On the International Space Station July 28-Aug. 1, 2025](https://www.space.com/space-exploration/international-space-station/astronaut-savors-the-moment-and-shares-a-stunning-aurora-shot-on-the-international-space-station-july-28-aug-1-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
