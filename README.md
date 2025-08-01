@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit plans to unify its search interface as it looks to become a search engine](https://techcrunch.com/2025/08/01/reddit-plans-to-unify-its-search-interface-as-it-looks-to-become-a-search-engine/)
-- [Joby Aviation and defense contractor L3Harris to test autonomous hybrid aircraft](https://techcrunch.com/2025/08/01/joby-aviation-and-defense-contractor-l3harris-to-test-a-new-class-of-aircraft/)
-- [SpaceX fires up Starship spacecraft ahead of 10th test flight &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-spacecraft-ahead-of-10th-test-flight-video-photos)
-- [Google rolls out Gemini Deep Think AI, a reasoning model that tests multiple ideas in parallel](https://techcrunch.com/2025/08/01/google-rolls-out-gemini-deep-think-ai-a-reasoning-model-that-tests-multiple-ideas-in-parallel/)
-- [Did &#39;primordial&#39; black holes born right after the Big Bang help our universe&#39;s 1st stars form?](https://www.space.com/astronomy/black-holes/did-primordial-black-holes-born-right-after-the-big-bang-help-our-universes-1st-stars-form)
+- [This Detroit startup is turning to utilities to make home efficiency upgrades cheaper](https://techcrunch.com/2025/08/01/this-detroit-startup-is-turning-to-utilities-to-make-home-efficiency-upgrades-cheaper/)
+- [Vast Data in talks with Alphabet’s CapitalG, Nvidia to fund round at up to $30B valuation](https://techcrunch.com/2025/08/01/vast-data-in-talks-with-alphabets-capitalg-nvidia-to-fund-round-at-up-to-30b-valuation/)
+- [Authorities seize BlackSuit ransomware gang’s servers](https://techcrunch.com/2025/08/01/authorities-seize-blacksuit-ransomware-gangs-servers/)
+- [Klarna might reschedule its IPO for September](https://techcrunch.com/2025/08/01/klarna-might-reschedule-its-ipo-for-september/)
+- [VC industry has become a better career for women over the past 7 years](https://techcrunch.com/2025/08/01/vc-industry-has-become-a-better-career-for-women-over-the-past-7-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
