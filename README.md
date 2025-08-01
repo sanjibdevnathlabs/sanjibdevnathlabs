@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit plans to unify its search interface as it looks to become a search engine](https://techcrunch.com/2025/08/01/reddit-plans-to-unify-its-search-interface-as-it-looks-to-become-a-search-engine/)
+- [Joby Aviation and defense contractor L3Harris to test autonomous hybrid aircraft](https://techcrunch.com/2025/08/01/joby-aviation-and-defense-contractor-l3harris-to-test-a-new-class-of-aircraft/)
+- [SpaceX fires up Starship spacecraft ahead of 10th test flight &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-spacecraft-ahead-of-10th-test-flight-video-photos)
+- [Google rolls out Gemini Deep Think AI, a reasoning model that tests multiple ideas in parallel](https://techcrunch.com/2025/08/01/google-rolls-out-gemini-deep-think-ai-a-reasoning-model-that-tests-multiple-ideas-in-parallel/)
 - [Did &#39;primordial&#39; black holes born right after the Big Bang help our universe&#39;s 1st stars form?](https://www.space.com/astronomy/black-holes/did-primordial-black-holes-born-right-after-the-big-bang-help-our-universes-1st-stars-form)
-- [Handwave lends a hand to retailers with its European alternative to Amazon’s palm payments](https://techcrunch.com/2025/07/31/handwave-lends-a-hand-to-retailers-with-its-european-alternative-to-amazons-palm-payments/)
-- [Female-founded semiconductor AI startup SixSense raises $8.5M](https://techcrunch.com/2025/07/31/female-founded-semiconductor-ai-startup-sixsense-raises-funding/)
-- [Amazon CEO wants to put ads in your Alexa+ conversations](https://techcrunch.com/2025/07/31/amazon-ceo-wants-to-put-ads-in-your-alexa-conversations/)
-- [Apple projects tariff costs will hit $1.1B next quarter](https://techcrunch.com/2025/07/31/apple-projects-tariff-costs-will-hit-1-1b-next-quarter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
