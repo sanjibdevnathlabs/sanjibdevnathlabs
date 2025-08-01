@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI reportedly raises $8.3B at $300B valuation](https://techcrunch.com/2025/08/01/openai-reportedly-raises-8-3b-at-300b-valuation/)
-- [Instagram now requires users to have at least 1,000 followers to go live](https://techcrunch.com/2025/08/01/instagram-now-requires-users-to-have-at-least-1000-followers-to-go-live/)
-- [The new face of defense tech — Ethan Thornton of Mach Industries — takes the AI stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/01/the-new-face-of-defense-tech-takes-the-ai-stage-at-techcrunch-disrupt-2025/)
-- [Big lake in Quebec suddenly disappears, satellite finds | Space photo of the day for August 1, 2025](https://www.space.com/astronomy/earth/big-lake-in-quebec-suddenly-disappears-satellite-finds-space-photo-of-the-day-for-august-1-2025)
-- [Astronaut savors the moment and shares a stunning aurora shot | On the International Space Station July 28-Aug. 1, 2025](https://www.space.com/space-exploration/international-space-station/astronaut-savors-the-moment-and-shares-a-stunning-aurora-shot-on-the-international-space-station-july-28-aug-1-2025)
+- [Fundamental Research Labs nabs $30M to build AI agents across verticals](https://techcrunch.com/2025/08/01/fundamental-research-labs-nabs-30-million-from-prosus-to-build-ai-agents-for-multiple-verticals/)
+- [Exotic &#39;blazar&#39; is part of most extreme double black hole system ever found, crooked jet suggests](https://www.space.com/astronomy/black-holes/exotic-blazar-is-part-of-most-extreme-double-black-hole-system-ever-found-crooked-jet-suggests)
+- [Sex toy maker Lovense threatens legal action after fixing security flaws that exposed users’ data](https://techcrunch.com/2025/08/01/sex-toy-maker-lovense-threatens-legal-action-after-fixing-security-flaws-that-exposed-users-data/)
+- [Truecaller’s call recording feature won’t work on iPhones from Sept. 30](https://techcrunch.com/2025/08/01/truecallers-call-recording-feature-wont-work-on-iphones-from-sept-30/)
+- [TikTok launches ‘TikTok Pro’ in Europe with built-in charity program](https://techcrunch.com/2025/08/01/tiktok-launches-tiktok-pro-in-europe-with-built-in-charity-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
