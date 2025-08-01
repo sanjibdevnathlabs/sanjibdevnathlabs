@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google bets on STAN, an Indian social gaming platform](https://techcrunch.com/2025/08/01/google-bets-on-stan-an-indian-social-gaming-platform/)
+- [Satellites are helping protect critically endangered desert elephants. Here&#39;s how](https://www.space.com/astronomy/earth/satellites-are-helping-protect-critically-endangered-desert-elephants-heres-how)
+- [Nintendo raising original Switch console prices due to ‘market conditions’](https://techcrunch.com/2025/08/01/nintendo-raising-original-switch-console-prices-due-to-market-conditions/)
 - [Best camera for astro now $300 cheaper: This Nikon bundle comes with plenty of extras](https://www.space.com/stargazing/astrophotography/nikon-camera-bundle-300-dollars-off-with-camera-bag-and-128gb-sd-card)
 - [SpaceX launches Crew-11 astronauts to the ISS for NASA on milestone Crew Dragon flight &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/spacex-launches-crew-11-astronauts-to-the-iss-for-nasa-on-milestone-crew-dragon-flight-video)
-- [More details emerge on how Windsurf’s VCs and founders got paid from the Google deal](https://techcrunch.com/2025/08/01/more-details-emerge-on-how-windsurfs-vcs-and-founders-got-paid-from-the-google-deal/)
-- [New discovery at CERN could hint at why our universe is made up of matter and not antimatter](https://www.space.com/science/particle-physics/new-discovery-at-cern-could-hint-at-why-our-universe-is-made-up-of-matter-and-not-antimatter)
-- [Fundamental Research Labs nabs $30M+ to build AI agents across verticals](https://techcrunch.com/2025/08/01/fundamental-research-labs-nabs-33-million-from-prosus-to-build-ai-agents-for-multiple-verticals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
