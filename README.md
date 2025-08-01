@@ -150,7 +150,7 @@ I'm a software developer passionate about designing and building applications wi
 - [A backlog at the Commerce Department is reportedly stalling Nvidia’s H20 chip licenses](https://techcrunch.com/2025/08/01/a-backlog-at-the-commerce-department-is-reportedly-stalling-nvidias-h20-chip-licenses/)
 - [Watch SpaceX&#39;s Crew-11 astronauts arrive at the ISS early Aug. 2](https://www.space.com/space-exploration/human-spaceflight/watch-spacexs-crew-11-astronauts-arrive-at-the-iss-early-aug-2)
 - [Rookie crewmates kept things fresh for Ax-4 astronaut Peggy Whitson: &#39;It&#39;s always great to relive a little bit of that first time&#39;](https://www.space.com/space-exploration/private-spaceflight/rookie-crewmates-kept-things-fresh-for-ax-4-astronaut-peggy-whitson-its-always-great-to-relive-a-little-bit-of-that-first-time)
-- [Tesla partly liable in Florida Autopilot trial, jury awards $329M in damages](https://techcrunch.com/2025/08/01/tesla-partly-liable-in-florida-autopilot-trial-jury-awards-329m-in-damages/)
+- [Tesla partly liable in Florida Autopilot trial, jury awards $200M in damages](https://techcrunch.com/2025/08/01/tesla-partly-liable-in-florida-autopilot-trial-jury-awards-200m-in-damages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
