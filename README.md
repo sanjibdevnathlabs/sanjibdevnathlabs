@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What founders should think about if looking to raise a Series C](https://techcrunch.com/2025/08/02/what-founders-should-think-about-if-looking-to-raise-a-series-c/)
+- [&#39;Lexx&#39; appeal: A deeply underrated sci-fi classic that was equal parts Farscape, Star Wars, and Red Dwarf](https://www.space.com/entertainment/space-movies-shows/lexx-appeal-a-deeply-underrated-sci-fi-classic-that-was-equal-parts-farscape-star-wars-and-red-dwarf)
 - [Venture firm CRV raises $750M, downsizing after returning capital to investors](https://techcrunch.com/2025/08/01/venture-firm-crv-raises-750m-downsizing-after-returning-capital-to-investors/)
 - [Kleiner Perkins is having a very good week](https://techcrunch.com/2025/08/01/kleiner-perkins-is-having-a-very-good-week/)
 - [A backlog at the Commerce Department is reportedly stalling Nvidia’s H20 chip licenses](https://techcrunch.com/2025/08/01/a-backlog-at-the-commerce-department-is-reportedly-stalling-nvidias-h20-chip-licenses/)
-- [SpaceX&#39;s Crew-11 astronauts arrive at the International Space Station &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/watch-spacexs-crew-11-astronauts-arrive-at-the-iss-early-aug-2)
-- [Rookie crewmates kept things fresh for Ax-4 astronaut Peggy Whitson: &#39;It&#39;s always great to relive a little bit of that first time&#39;](https://www.space.com/space-exploration/private-spaceflight/rookie-crewmates-kept-things-fresh-for-ax-4-astronaut-peggy-whitson-its-always-great-to-relive-a-little-bit-of-that-first-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
