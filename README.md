@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [August Moon: Here&#39;s what to look for during all 4 major moon phases](https://www.space.com/stargazing/august-moon-heres-what-to-look-for-during-all-4-major-moon-phases)
 - [Ghana has a rare treasure, a crater made when a meteor hit Earth: why it needs to be protected](https://www.space.com/astronomy/earth/ghana-has-a-rare-treasure-a-crater-made-when-a-meteor-hit-earth-why-it-needs-to-be-protected)
 - [What founders should think about if looking to raise a Series C](https://techcrunch.com/2025/08/02/what-founders-should-think-about-if-looking-to-raise-a-series-c/)
 - [&#39;Lexx&#39; appeal: A deeply underrated sci-fi classic that was equal parts Farscape, Star Wars, and Red Dwarf](https://www.space.com/entertainment/space-movies-shows/lexx-appeal-a-deeply-underrated-sci-fi-classic-that-was-equal-parts-farscape-star-wars-and-red-dwarf)
 - [Venture firm CRV raises $750M, downsizing after returning capital to investors](https://techcrunch.com/2025/08/01/venture-firm-crv-raises-750m-downsizing-after-returning-capital-to-investors/)
-- [Kleiner Perkins is having a very good week](https://techcrunch.com/2025/08/01/kleiner-perkins-is-having-a-very-good-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
