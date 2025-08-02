@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lina Khan points to Figma IPO as vindication of M&amp;A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/)
 - [Anthropic cuts off OpenAI’s access to its Claude models](https://techcrunch.com/2025/08/02/anthropic-cuts-off-openais-access-to-its-claude-models/)
 - [Scientists scan famous &#39;Earthrise&#39; crater on mission to find alien life in our solar system](https://www.space.com/astronomy/moon/scientists-scan-famous-earthrise-crater-on-mission-to-find-alien-life-in-our-solar-system)
 - [August Moon: Here&#39;s what to look for during all 4 major moon phases](https://www.space.com/stargazing/august-moon-heres-what-to-look-for-during-all-4-major-moon-phases)
 - [Ghana has a rare treasure, a crater made when a meteor hit Earth: why it needs to be protected](https://www.space.com/astronomy/earth/ghana-has-a-rare-treasure-a-crater-made-when-a-meteor-hit-earth-why-it-needs-to-be-protected)
-- [What founders should think about if looking to raise a Series C](https://techcrunch.com/2025/08/02/what-founders-should-think-about-if-looking-to-raise-a-series-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
