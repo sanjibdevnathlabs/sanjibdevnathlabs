@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The uproar over Vogue’s AI-generated ad isn’t just about fashion](https://techcrunch.com/2025/08/03/the-uproar-over-vogues-ai-generated-ad-isnt-just-about-fashion/)
+- [See the moon shine alongside red supergiant star Antares after sunset tonight](https://www.space.com/stargazing/see-the-moon-shine-alongside-red-supergiant-star-antares-after-sunset-tonight)
 - [Watch Blue Origin launch crypto billionaire Justin Sun and 5 other people to suborbital space today](https://www.space.com/space-exploration/private-spaceflight/blue-origin-launch-crypto-billionaire-justin-sun-launch-suborbital-space-ns-34)
 - [Tim Cook reportedly tells employees Apple ‘must’ win in AI](https://techcrunch.com/2025/08/02/tim-cook-reportedly-tells-employees-apple-must-win-in-ai/)
 - [Lina Khan points to Figma IPO as vindication of M&amp;A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/)
-- [Anthropic cuts off OpenAI’s access to its Claude models](https://techcrunch.com/2025/08/02/anthropic-cuts-off-openais-access-to-its-claude-models/)
-- [Scientists scan famous &#39;Earthrise&#39; crater on mission to find alien life in our solar system](https://www.space.com/astronomy/moon/scientists-scan-famous-earthrise-crater-on-mission-to-find-alien-life-in-our-solar-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
