@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spacecraft equipped with a solar sail could deliver earlier warnings of space weather threats to Earth’s technologies](https://www.space.com/space-exploration/launches-spacecraft/spacecraft-equipped-with-a-solar-sail-could-deliver-earlier-warnings-of-space-weather-threats-to-earths-technologies)
 - [Inside OpenAI’s quest to make AI do anything for you](https://techcrunch.com/2025/08/03/inside-openais-quest-to-make-ai-do-anything-for-you/)
 - [‘Democratizing space’ is more than just adding new players – it comes with questions around sustainability and sovereignty](https://www.space.com/space-exploration/democratizing-space-is-more-than-just-adding-new-players-it-comes-with-questions-around-sustainability-and-sovereignty)
 - [The uproar over Vogue’s AI-generated ad isn’t just about fashion](https://techcrunch.com/2025/08/03/the-uproar-over-vogues-ai-generated-ad-isnt-just-about-fashion/)
 - [See the moon shine alongside red supergiant star Antares after sunset tonight](https://www.space.com/stargazing/see-the-moon-shine-alongside-red-supergiant-star-antares-after-sunset-tonight)
-- [Blue Origin launches crypto billionaire Justin Sun and 5 other people to suborbital space](https://www.space.com/space-exploration/private-spaceflight/blue-origin-launch-crypto-billionaire-justin-sun-launch-suborbital-space-ns-34)
 <!-- BLOG-POST-LIST:END -->
 
 ---
