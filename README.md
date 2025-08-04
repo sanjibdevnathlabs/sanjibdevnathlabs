@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk says he’s bringing back Vine’s archive](https://techcrunch.com/2025/08/04/elon-musk-says-hes-bringing-back-vines-archive/)
-- [Grok Imagine, xAI’s new AI image and video generator, lets you make NSFW content](https://techcrunch.com/2025/08/04/grok-imagine-xais-new-ai-image-and-video-generator-lets-you-make-nsfw-content/)
-- [Binary star systems are complex astronomical objects − a new AI approach could pin down their properties quickly](https://www.space.com/astronomy/binary-star-systems-are-complex-astronomical-objects-a-new-ai-approach-could-pin-down-their-properties-quickly)
-- [Lyft and China’s Baidu look to bring robotaxis to Europe next year](https://techcrunch.com/2025/08/04/lyft-and-chinas-baidu-look-to-bring-robotaxis-to-europe-next-year/)
-- [Google removes over 50 DEI groups from a list of groups it helps fund](https://techcrunch.com/2025/08/04/google-removes-over-50-dei-groups-from-a-list-of-groups-it-helps-fund/)
+- [3 powerful solar flares erupt in less than 24 hours, ending weeks of calm on the sun &lpar;video&rpar;](https://www.space.com/astronomy/sun/3-powerful-solar-flares-erupt-in-less-than-24-hours-ending-weeks-of-calm-on-the-sun-video)
+- [TechCrunch Mobility: Tesla’s ride-hailing gambit](https://techcrunch.com/2025/08/04/techcrunch-mobility-teslas-ride-hailing-gambit/)
+- [Best space flight simulation games, ranked](https://www.space.com/entertainment/space-games/best-space-flight-simulation-games-ranked)
+- [Perplexity accused of scraping websites that explicitly blocked AI scraping](https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/)
+- [OpenAI says ChatGPT is on track to reach 700M weekly users](https://techcrunch.com/2025/08/04/openai-says-chatgpt-is-on-track-to-reach-700m-weekly-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
