@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You can design the wheels for NASA&#39;s next moon vehicle with the &#39;Rock and Roll Challenge](https://www.space.com/astronomy/moon/you-can-design-the-wheels-for-nasas-next-moon-vehicle-with-the-rock-and-roll-challenge)
+- [Foxconn sells former GM factory to mystery buyer after failing to make EVs](https://techcrunch.com/2025/08/04/foxconn-sells-former-gm-factory-to-mystery-buyer-after-failing-to-make-evs/)
 - [NASA&#39;s Europa Clipper radar passes key test during Mars flyby](https://www.space.com/space-exploration/nasas-europa-clipper-radar-passes-key-test-during-mars-flyby)
 - [Rivian sues to sell its EVs directly in Ohio](https://techcrunch.com/2025/08/04/rivian-sues-to-sell-its-evs-directly-in-ohio/)
 - [Amazon denies report it’s shutting down Wondery podcast studio](https://techcrunch.com/2025/08/04/amazon-denies-report-its-shutting-down-wondery-podcast-studio/)
-- [Moonquakes could pose threat to future lunar bases, scientists say](https://www.space.com/astronomy/moon/moonquakes-could-pose-threat-to-future-lunar-bases-scientists-say)
-- [3 powerful solar flares erupt in less than 24 hours, ending weeks of calm on the sun &lpar;video&rpar;](https://www.space.com/astronomy/sun/3-powerful-solar-flares-erupt-in-less-than-24-hours-ending-weeks-of-calm-on-the-sun-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
