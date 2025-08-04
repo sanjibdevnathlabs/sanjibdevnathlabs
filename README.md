@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sunrise hits SpaceX&#39;s Crew-11 rocket on the pad | Space photo of the day for August 4, 2025](https://www.space.com/space-exploration/private-spaceflight/sunrise-hits-spacexs-crew-11-rocket-on-the-pad-space-photo-of-the-day-for-august-4-2025)
-- [Spotify raises subscription prices](https://techcrunch.com/2025/08/04/spotify-raises-subscription-prices/)
-- [Amazon shuts down Wondery podcast studio, cuts 110 jobs](https://techcrunch.com/2025/08/04/amazon-shuts-down-wondery-podcast-studio-cuts-110-jobs/)
-- [North Korean spies posing as remote workers have infiltrated hundreds of companies, says CrowdStrike](https://techcrunch.com/2025/08/04/north-korean-spies-posing-as-remote-workers-have-infiltrated-hundreds-of-companies-says-crowdstrike/)
-- [OpenMind wants to be the Android operating system of humanoid robots](https://techcrunch.com/2025/08/04/openmind-wants-to-be-the-android-operating-system-of-humanoid-robots/)
+- [Elon Musk says he’s bringing back Vine’s archive](https://techcrunch.com/2025/08/04/elon-musk-says-hes-bringing-back-vines-archive/)
+- [Grok Imagine, xAI’s new AI image and video generator, lets you make NSFW content](https://techcrunch.com/2025/08/04/grok-imagine-xais-new-ai-image-and-video-generator-lets-you-make-nsfw-content/)
+- [Binary star systems are complex astronomical objects − a new AI approach could pin down their properties quickly](https://www.space.com/astronomy/binary-star-systems-are-complex-astronomical-objects-a-new-ai-approach-could-pin-down-their-properties-quickly)
+- [Lyft and China’s Baidu look to bring robotaxis to Europe next year](https://techcrunch.com/2025/08/04/lyft-and-chinas-baidu-look-to-bring-robotaxis-to-europe-next-year/)
+- [Google removes over 50 DEI groups from a list of groups it helps fund](https://techcrunch.com/2025/08/04/google-removes-over-50-dei-groups-from-a-list-of-groups-it-helps-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
