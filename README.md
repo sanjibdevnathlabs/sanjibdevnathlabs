@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sunrise hits SpaceX&#39;s Crew-11 rocket on the pad | Space photo of the day for August 4, 2025](https://www.space.com/space-exploration/private-spaceflight/sunrise-hits-spacexs-crew-11-rocket-on-the-pad-space-photo-of-the-day-for-august-4-2025)
+- [Spotify raises subscription prices](https://techcrunch.com/2025/08/04/spotify-raises-subscription-prices/)
+- [Amazon shuts down Wondery podcast studio, cuts 110 jobs](https://techcrunch.com/2025/08/04/amazon-shuts-down-wondery-podcast-studio-cuts-110-jobs/)
 - [North Korean spies posing as remote workers have infiltrated hundreds of companies, says CrowdStrike](https://techcrunch.com/2025/08/04/north-korean-spies-posing-as-remote-workers-have-infiltrated-hundreds-of-companies-says-crowdstrike/)
 - [OpenMind wants to be the Android operating system of humanoid robots](https://techcrunch.com/2025/08/04/openmind-wants-to-be-the-android-operating-system-of-humanoid-robots/)
-- [Character.AI is adding a social feed to its app](https://techcrunch.com/2025/08/04/character-ai-is-debuting-a-social-feed-within-the-app/)
-- [Space hurricanes are real — and they wreak more havoc than we thought](https://www.space.com/astronomy/earth/space-hurricanes-are-real-and-they-wreak-more-havoc-than-we-thought)
-- [Watch Rocket Lab launch private Japanese radar satellite to orbit tonight](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-private-japanese-radar-satellite-iqps-harvest-god-thrives)
 <!-- BLOG-POST-LIST:END -->
 
 ---
