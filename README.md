@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Europa Clipper radar passes key test during Mars flyby](https://www.space.com/space-exploration/nasas-europa-clipper-radar-passes-key-test-during-mars-flyby)
+- [Rivian sues to sell its EVs directly in Ohio](https://techcrunch.com/2025/08/04/rivian-sues-to-sell-its-evs-directly-in-ohio/)
+- [Amazon denies report it’s shutting down Wondery podcast studio](https://techcrunch.com/2025/08/04/amazon-denies-report-its-shutting-down-wondery-podcast-studio/)
 - [Moonquakes could pose threat to future lunar bases, scientists say](https://www.space.com/astronomy/moon/moonquakes-could-pose-threat-to-future-lunar-bases-scientists-say)
 - [3 powerful solar flares erupt in less than 24 hours, ending weeks of calm on the sun &lpar;video&rpar;](https://www.space.com/astronomy/sun/3-powerful-solar-flares-erupt-in-less-than-24-hours-ending-weeks-of-calm-on-the-sun-video)
-- [TechCrunch Mobility: Tesla’s ride-hailing gambit](https://techcrunch.com/2025/08/04/techcrunch-mobility-teslas-ride-hailing-gambit/)
-- [Best space flight simulation games, ranked](https://www.space.com/entertainment/space-games/best-space-flight-simulation-games-ranked)
-- [Perplexity accused of scraping websites that explicitly blocked AI scraping](https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
