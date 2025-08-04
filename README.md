@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [North Korean spies posing as remote workers have infiltrated hundreds of companies, says CrowdStrike](https://techcrunch.com/2025/08/04/north-korean-spies-posing-as-remote-workers-have-infiltrated-hundreds-of-companies-says-crowdstrike/)
+- [OpenMind wants to be the Android operating system of humanoid robots](https://techcrunch.com/2025/08/04/openmind-wants-to-be-the-android-operating-system-of-humanoid-robots/)
+- [Character.AI is adding a social feed to its app](https://techcrunch.com/2025/08/04/character-ai-is-debuting-a-social-feed-within-the-app/)
+- [Space hurricanes are real — and they wreak more havoc than we thought](https://www.space.com/astronomy/earth/space-hurricanes-are-real-and-they-wreak-more-havoc-than-we-thought)
 - [Watch Rocket Lab launch private Japanese radar satellite to orbit tonight](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-private-japanese-radar-satellite-iqps-harvest-god-thrives)
-- [Joby Aviation to buy Blade Air Mobility’s ride-share business](https://techcrunch.com/2025/08/04/joby-aviation-to-buy-blade-air-mobilitys-ride-share-business/)
-- [Tesla asks shareholders to approve $29B comp package for Elon Musk amid ‘AI talent war’](https://techcrunch.com/2025/08/04/tesla-asks-shareholders-to-approve-29b-comp-package-for-elon-musk-amid-ai-talent-war/)
-- [Mysterious boost to Earth&#39;s spin will make Aug. 5 one of the shortest days on record](https://www.space.com/astronomy/earth/mysterious-boost-to-earths-spin-will-make-aug-5-one-of-the-shortest-days-on-record)
-- [SpaceX launches 28 Starlink satellites from Florida, lands rocket at sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-28-starlink-satellites-from-florida-lands-rocket-at-sea)
 <!-- BLOG-POST-LIST:END -->
 
 ---
