@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Predator: Badlands&#39; looks like it&#39;s taking inspiration from an unlikely ancestor — a terrible 20-year-old video game](https://www.space.com/entertainment/space-games/predator-badlands-looks-like-its-taking-inspiration-from-an-unlikely-ancestor-a-terrible-20-year-old-video-game)
+- [Google says its AI-based bug hunter found 20 security vulnerabilities](https://techcrunch.com/2025/08/04/google-says-its-ai-based-bug-hunter-found-20-security-vulnerabilities/)
 - [You can design the wheels for NASA&#39;s next moon vehicle with the &#39;Rock and Roll Challenge](https://www.space.com/astronomy/moon/you-can-design-the-wheels-for-nasas-next-moon-vehicle-with-the-rock-and-roll-challenge)
 - [Foxconn sells former GM factory to mystery buyer after failing to make EVs](https://techcrunch.com/2025/08/04/foxconn-sells-former-gm-factory-to-mystery-buyer-after-failing-to-make-evs/)
 - [NASA&#39;s Europa Clipper radar passes key test during Mars flyby](https://www.space.com/space-exploration/nasas-europa-clipper-radar-passes-key-test-during-mars-flyby)
-- [Rivian sues to sell its EVs directly in Ohio](https://techcrunch.com/2025/08/04/rivian-sues-to-sell-its-evs-directly-in-ohio/)
-- [Amazon denies report it’s shutting down Wondery podcast studio](https://techcrunch.com/2025/08/04/amazon-denies-report-its-shutting-down-wondery-podcast-studio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
