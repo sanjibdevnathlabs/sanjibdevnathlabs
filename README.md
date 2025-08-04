@@ -147,7 +147,7 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- BLOG-POST-LIST:START -->
 - [Mysterious boost to Earth&#39;s spin will make Aug. 5 one of the shortest days on record](https://www.space.com/astronomy/earth/mysterious-boost-to-earths-spin-will-make-aug-5-one-of-the-shortest-days-on-record)
-- [SpaceX launches 28 Starlink satellites from Florida, lands rocket at sea](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-28-starlink-satellites-from-florida-lands-rocket-at-sea)
+- [SpaceX launches 28 Starlink satellites from Florida, lands rocket at sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-28-starlink-satellites-from-florida-lands-rocket-at-sea)
 - [Apple might be building its own AI ‘answer engine’](https://techcrunch.com/2025/08/03/apple-might-be-building-its-own-ai-answer-engine/)
 - [Mastercard denies pressuring game platforms, Valve tells a different story](https://techcrunch.com/2025/08/03/mastercard-denies-pressuring-game-platforms-valve-tells-a-different-story/)
 - [SAP is acquiring SmartRecruiters](https://techcrunch.com/2025/08/03/sap-is-acquiring-smartrecruiters/)
