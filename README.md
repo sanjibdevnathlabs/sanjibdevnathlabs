@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepMind reveals Genie 3, a world model that could be the key to reaching AGI](https://techcrunch.com/2025/08/05/deepmind-reveals-genie-3-a-world-model-that-could-be-the-key-to-reaching-agi/)
-- [Celebrities in space quiz: Do you know the stars among the stars?](https://www.space.com/space-exploration/private-spaceflight/celebrities-in-space-quiz-do-you-know-the-stars-among-the-stars)
-- [Only 2 days left to save $675 on your TechCrunch Disrupt 2025 ticket](https://techcrunch.com/2025/08/05/only-2-days-left-to-save-675-on-your-disrupt-2025-ticket/)
-- [Spotify expands audiobooks access to family plan members in the US for the first time](https://techcrunch.com/2025/08/05/spotify-expands-audibook-access-to-family-plan-members-in-the-u-s-for-the-first-time/)
-- [The Perseid meteor shower 2025 peaks Aug. 12-13: Here&#39;s what to expect from the dazzling cosmic light show](https://www.space.com/stargazing/meteor-showers/the-perseid-meteor-shower-2025-peaks-aug-12-13-heres-what-to-expect-from-the-dazzling-cosmic-light-show)
+- [ElevenLabs launches an AI music generator, which it claims is cleared for commercial use](https://techcrunch.com/2025/08/05/elevenlabs-launches-an-ai-music-generator-which-it-claims-is-cleared-for-commercial-use/)
+- [Trump says he’ll announce semiconductor and chip tariffs](https://techcrunch.com/2025/08/05/trump-says-hell-announce-semiconductor-and-chip-tariffs/)
+- [Hacker used a voice phishing attack to steal Cisco customers’ personal information](https://techcrunch.com/2025/08/05/hacker-used-a-voice-phishing-attack-to-steal-cisco-customers-personal-information/)
+- [Alien life on Mars or Europa could survive off cosmic rays instead of the sun, scientists suggest](https://www.space.com/science/alien-life-on-mars-or-europa-could-survive-off-cosmic-rays-instead-of-the-sun-scientists-suggest)
+- [Crack the code to startup traction with insights from Chef Robotics, NEA, and ICONIQ at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/05/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
