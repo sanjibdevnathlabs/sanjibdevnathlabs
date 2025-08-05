@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar farms could help find dangerous asteroids, scientist says](https://www.space.com/astronomy/asteroids/solar-farms-could-help-find-dangerous-asteroids-scientist-says)
+- [We gave this star projector five stars in our review, and now it&#39;s at its joint-lowest price ever on Amazon](https://www.space.com/technology/we-gave-this-star-projector-five-stars-in-our-review-and-now-its-at-its-joint-lowest-price-ever-on-amazon)
 - [AI-powered fintech Alaan raises $48M, one of the largest Series A rounds in MENA](https://techcrunch.com/2025/08/05/ai-powered-fintech-alaan-raises-48m-one-of-the-largest-series-a-rounds-in-mena/)
 - [Uzbekistan’s first unicorn, Uzum, leaps to a $1.5B valuation](https://techcrunch.com/2025/08/05/uzbekistans-first-unicorn-uzum-leaps-to-a-1-5b-valuation/)
 - [Jeh Aerospace nets $11M to scale the commercial aircraft supply chain in India](https://techcrunch.com/2025/08/04/jeh-aerospace-nets-11m-to-scale-the-commercial-aircraft-supply-chain-in-india/)
-- [A top designer was banned from Dribbble. Now he’s building his own competitor.](https://techcrunch.com/2025/08/04/a-top-designer-was-banned-from-dribbble-now-hes-building-his-own-competitor/)
-- [James Webb Space Telescope revisits a classic Hubble image of over 2,500 galaxies](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-revisits-a-classic-hubble-image-of-over-2-500-galaxies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
