@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-powered fintech Alaan raises $48M, one of the largest Series A rounds in MENA](https://techcrunch.com/2025/08/05/ai-powered-fintech-alaan-raises-48m-one-of-the-largest-series-a-rounds-in-mena/)
 - [Uzbekistan’s first unicorn, Uzum, leaps to a $1.5B valuation](https://techcrunch.com/2025/08/05/uzbekistans-first-unicorn-uzum-leaps-to-a-1-5b-valuation/)
 - [Jeh Aerospace nets $11M to scale the commercial aircraft supply chain in India](https://techcrunch.com/2025/08/04/jeh-aerospace-nets-11m-to-scale-the-commercial-aircraft-supply-chain-in-india/)
 - [A top designer was banned from Dribbble. Now he’s building his own competitor.](https://techcrunch.com/2025/08/04/a-top-designer-was-banned-from-dribbble-now-hes-building-his-own-competitor/)
 - [James Webb Space Telescope revisits a classic Hubble image of over 2,500 galaxies](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-revisits-a-classic-hubble-image-of-over-2-500-galaxies)
-- [&#39;Predator: Badlands&#39; looks like it&#39;s taking inspiration from an unlikely ancestor — a terrible 20-year-old video game](https://www.space.com/entertainment/space-games/predator-badlands-looks-like-its-taking-inspiration-from-an-unlikely-ancestor-a-terrible-20-year-old-video-game)
 <!-- BLOG-POST-LIST:END -->
 
 ---
