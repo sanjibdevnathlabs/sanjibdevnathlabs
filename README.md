@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s NotebookLM is now available to younger users as competition in the AI education space intensifies](https://techcrunch.com/2025/08/05/googles-notebooklm-is-now-available-to-younger-users-as-competition-in-the-ai-education-space-intensifies/)
+- [WhatsApp adds new features to protect against scams](https://techcrunch.com/2025/08/05/whatsapp-adds-new-features-to-protect-against-scams/)
+- [Venus and Jupiter conjunction 2025: How to see two iconic planets meet in the morning sky](https://www.space.com/stargazing/venus-and-jupiter-conjunction-2025-how-to-see-two-iconic-planets-meet-in-the-morning-sky)
+- [Three weeks after acquiring Windsurf, Cognition offers staff the exit door](https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/)
 - [ElevenLabs launches an AI music generator, which it claims is cleared for commercial use](https://techcrunch.com/2025/08/05/elevenlabs-launches-an-ai-music-generator-which-it-claims-is-cleared-for-commercial-use/)
-- [Trump says he’ll announce semiconductor and chip tariffs](https://techcrunch.com/2025/08/05/trump-says-hell-announce-semiconductor-and-chip-tariffs/)
-- [Hacker used a voice phishing attack to steal Cisco customers’ personal information](https://techcrunch.com/2025/08/05/hacker-used-a-voice-phishing-attack-to-steal-cisco-customers-personal-information/)
-- [Alien life on Mars or Europa could survive off cosmic rays instead of the sun, scientists suggest](https://www.space.com/science/alien-life-on-mars-or-europa-could-survive-off-cosmic-rays-instead-of-the-sun-scientists-suggest)
-- [Crack the code to startup traction with insights from Chef Robotics, NEA, and ICONIQ at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/05/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
