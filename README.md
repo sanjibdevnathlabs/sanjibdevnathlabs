@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA declares troubled Lunar Trailblazer moon orbiter dead](https://www.space.com/space-exploration/missions/nasa-declares-troubled-lunar-trailblazer-moon-orbiter-dead)
 - [Linda Yaccarino joins health tech platform eMed as CEO after leaving X](https://techcrunch.com/2025/08/05/linda-yaccarino-joins-health-tech-platform-emed-as-ceo-after-leaving-x/)
 - [Space junk cleanup tech that could &#39;shepherd&#39; debris into Earth&#39;s atmosphere gets US patent](https://www.space.com/space-exploration/satellites/space-junk-cleanup-tech-that-could-shepherd-debris-into-earths-atmosphere-gets-us-patent)
 - [Substack rival Ghost connects to the open social web with its latest public release](https://techcrunch.com/2025/08/05/substack-rival-ghost-connects-to-the-open-social-web-with-its-latest-public-release/)
 - [OpenAI launches two ‘open’ AI reasoning models](https://techcrunch.com/2025/08/05/openai-launches-two-open-ai-reasoning-models/)
-- [&#39;It was kind of a blast!&#39;: Director Jonathan Frakes breaks down &#39;Star Trek: Strange New Worlds&#39; wiggy holodeck episode, &#39;A Space Adventure Hour&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/it-was-kind-of-a-blast-director-jonathan-frakes-breaks-down-star-trek-strange-new-worlds-wiggy-holodeck-episode-a-space-adventure-hour-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
