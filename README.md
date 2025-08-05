@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI launches two ‘open’ AI reasoning models](https://techcrunch.com/2025/08/05/openai-launches-two-open-ai-reasoning-models/)
+- [&#39;It was kind of a blast!&#39;: Director Jonathan Frakes breaks down &#39;Star Trek: Strange New Worlds&#39; wiggy holodeck episode, &#39;A Space Adventure Hour&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/it-was-kind-of-a-blast-director-jonathan-frakes-breaks-down-star-trek-strange-new-worlds-wiggy-holodeck-episode-a-space-adventure-hour-exclusive)
+- [Some people are defending Perplexity after Cloudflare ‘named and shamed’ it](https://techcrunch.com/2025/08/05/some-people-are-defending-perplexity-after-cloudflare-named-and-shamed-it/)
+- [The EU AI Act aims to create a level playing field for AI innovation. Here’s what it is.](https://techcrunch.com/2025/08/05/the-eu-ai-act-aims-to-create-a-level-playing-field-for-ai-innovation-heres-what-it-is/)
 - [Google’s NotebookLM is now available to younger users as competition in the AI education space intensifies](https://techcrunch.com/2025/08/05/googles-notebooklm-is-now-available-to-younger-users-as-competition-in-the-ai-education-space-intensifies/)
-- [WhatsApp adds new features to protect against scams](https://techcrunch.com/2025/08/05/whatsapp-adds-new-features-to-protect-against-scams/)
-- [Venus and Jupiter conjunction 2025: How to see two iconic planets meet in the morning sky](https://www.space.com/stargazing/venus-and-jupiter-conjunction-2025-how-to-see-two-iconic-planets-meet-in-the-morning-sky)
-- [Three weeks after acquiring Windsurf, Cognition offers staff the exit door](https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/)
-- [ElevenLabs launches an AI music generator, which it claims is cleared for commercial use](https://techcrunch.com/2025/08/05/elevenlabs-launches-an-ai-music-generator-which-it-claims-is-cleared-for-commercial-use/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
