@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Alien: Earth&#39; is an intelligent and thought-provoking bloodbath, and everything we ever wanted from an &#39;Alien&#39; show &lpar;review&rpar;](https://www.space.com/entertainment/space-movies-shows/alien-earth-is-an-intelligent-and-thought-provoking-bloodbath-and-everything-we-ever-wanted-from-an-alien-show-review)
-- [Jury rules Meta violated California privacy laws by quietly collecting Flo users’ menstrual health data](https://techcrunch.com/2025/08/05/jury-rules-meta-violated-california-privacy-laws-by-collecting-menstrual-health-data-from-flo/)
-- [Extremely Large Telescope gets a roof | Space photo of the day for August 5, 2025](https://www.space.com/astronomy/extremely-large-telescope-gets-a-roof-space-photo-of-the-day-for-august-5-2025)
-- [Solar farms could help find dangerous asteroids, scientist says](https://www.space.com/astronomy/asteroids/solar-farms-could-help-find-dangerous-asteroids-scientist-says)
-- [We gave this star projector five stars in our review, and now it&#39;s at its joint-lowest price ever on Amazon](https://www.space.com/technology/we-gave-this-star-projector-five-stars-in-our-review-and-now-its-at-its-joint-lowest-price-ever-on-amazon)
+- [DeepMind reveals Genie 3, a world model that could be the key to reaching AGI](https://techcrunch.com/2025/08/05/deepmind-reveals-genie-3-a-world-model-that-could-be-the-key-to-reaching-agi/)
+- [Celebrities in space quiz: Do you know the stars among the stars?](https://www.space.com/space-exploration/private-spaceflight/celebrities-in-space-quiz-do-you-know-the-stars-among-the-stars)
+- [Only 2 days left to save $675 on your TechCrunch Disrupt 2025 ticket](https://techcrunch.com/2025/08/05/only-2-days-left-to-save-675-on-your-disrupt-2025-ticket/)
+- [Spotify expands audiobooks access to family plan members in the US for the first time](https://techcrunch.com/2025/08/05/spotify-expands-audibook-access-to-family-plan-members-in-the-u-s-for-the-first-time/)
+- [The Perseid meteor shower 2025 peaks Aug. 12-13: Here&#39;s what to expect from the dazzling cosmic light show](https://www.space.com/stargazing/meteor-showers/the-perseid-meteor-shower-2025-peaks-aug-12-13-heres-what-to-expect-from-the-dazzling-cosmic-light-show)
 <!-- BLOG-POST-LIST:END -->
 
 ---
