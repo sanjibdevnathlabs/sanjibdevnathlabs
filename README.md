@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Federal regulators give Zoox an exemption for its custom-built robotaxis](https://techcrunch.com/2025/08/06/federal-regulators-give-zoox-an-exemption-for-its-custom-built-robotaxis/)
+- [Vulcan Centaur rocket to launch 1st national security mission on Aug. 12](https://www.space.com/space-exploration/launches-spacecraft/vulcan-centaur-rocket-to-launch-1st-national-security-mission-on-aug-12)
+- [How to actually raise a seed round: Actionable advice from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/06/how-to-actually-raise-a-seed-round-actionable-advice-from-top-investors-at-techcrunch-disrupt-2025-on-july-15/)
+- [First impressions of Alexa+, Amazon’s upgraded, AI-powered digital assistant](https://techcrunch.com/2025/08/06/first-impressions-of-alexa-amazons-upgraded-ai-powered-digital-assistant/)
 - [Google takes on ChatGPT’s Study Mode with new ‘Guided Learning’ tool in Gemini](https://techcrunch.com/2025/08/06/google-takes-on-chatgpts-study-mode-with-new-guided-learning-tool-in-gemini/)
-- [&#39;We want to get there first and claim that for America&#39;: NASA chief explains push for nuclear reactor on the moon &lpar;video&rpar;](https://www.space.com/astronomy/moon/we-want-to-get-there-first-and-claim-that-for-america-nasa-chief-explains-push-for-nuclear-reactor-on-the-moon-video)
-- [OpenAI is practically giving ChatGPT to the government for free](https://techcrunch.com/2025/08/06/openai-is-practically-giving-chatgpt-to-the-government-for-free/)
-- [&#39;Destroy All Humans!&#39; declared war on humanity 10 years ago, and we&#39;re still waiting for another good sequel](https://www.space.com/entertainment/space-games/destroy-all-humans-declared-war-on-humanity-10-years-ago-and-were-still-waiting-for-another-good-sequel)
-- [Google’s AI coding agent Jules is now out of beta](https://techcrunch.com/2025/08/06/googles-ai-coding-agent-jules-is-now-out-of-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
