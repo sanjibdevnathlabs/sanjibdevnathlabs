@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s AI coding agent Jules is now out of beta](https://techcrunch.com/2025/08/06/googles-ai-coding-agent-jules-is-now-out-of-beta/)
+- [Artemis 2 moon astronauts suit up and enter their Orion spacecraft together for 1st time](https://www.space.com/space-exploration/artemis/artemis-2-moon-astronauts-suit-up-and-enter-their-orion-spacecraft-together-for-1st-time)
+- [Payment platform Lava raises $5.8M to build digital wallets for the ‘agent-native economy’](https://techcrunch.com/2025/08/06/billing-platform-lava-raises-5-8m-to-build-digital-wallets-for-the-agent-native-economy/)
+- [Key sections of the US Constitution deleted from government’s website](https://techcrunch.com/2025/08/06/key-sections-of-the-us-constitution-deleted-from-governments-website/)
 - [Tavily raises $25M to connect AI agents to the web](https://techcrunch.com/2025/08/06/tavily-raises-25m-to-connect-ai-agents-to-the-web/)
-- [Citizen Lab director warns cyber industry about US authoritarian descent](https://techcrunch.com/2025/08/06/citizen-lab-director-warns-cyber-industry-about-us-authoritarian-descent/)
-- [Exotic &#39;lava worlds&#39; are a hot new frontier in exoplanet science](https://www.space.com/astronomy/exoplanets/exotic-lava-worlds-are-a-hot-new-frontier-in-exoplanet-science)
-- [Apple to announce $100B further commitment for US manufacturing](https://techcrunch.com/2025/08/06/apple-to-announce-100b-further-commitment-for-u-s-manufacturing/)
-- [Manipulate the power of the Infinity Stones with 42% savings on the Lego Marvel Infinity Gauntlet set](https://www.space.com/technology/manipulate-the-power-of-the-infinity-stones-with-42-percent-savings-on-the-lego-marvel-infinity-gauntlet-set)
 <!-- BLOG-POST-LIST:END -->
 
 ---
