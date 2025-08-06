@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An icy supervolcano eruption on Pluto may have left a massive crater on the frozen world](https://www.space.com/astronomy/pluto/an-icy-supervolcano-eruption-on-pluto-may-have-left-a-massive-crater-on-the-frozen-world)
 - [Earth&#39;s &#39;oldest&#39; impact crater is much younger than previously thought, new study finds](https://www.space.com/astronomy/earth/earths-oldest-impact-crater-is-much-younger-than-previously-thought-new-study)
 - [Clay confirms it closed $100M round at $3.1B valuation](https://techcrunch.com/2025/08/05/clay-confirms-it-closed-100m-round-at-3-1b-valuation/)
 - [NASA awards Firefly Aerospace $177 million for 1st multi-rover mission to moon&#39;s south pole](https://www.space.com/astronomy/moon/nasa-awards-firefly-aerospace-usd177-million-for-1st-multi-rover-mission-to-moons-south-pole)
 - [For the first time, OpenAI models are available on AWS](https://techcrunch.com/2025/08/05/for-the-first-time-openai-models-are-available-on-aws/)
-- [NASA aiming to build nuclear reactor on the moon by 2030](https://www.space.com/astronomy/moon/nasa-aiming-to-build-nuclear-reactor-on-the-moon-by-2030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
