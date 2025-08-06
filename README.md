@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google says hackers stole its customers’ data by breaching its Salesforce database](https://techcrunch.com/2025/08/06/google-says-hackers-stole-its-customers-data-in-a-breach-of-its-salesforce-database/)
+- [Meteor lights up West Virginia night sky | Space photo of the day for Aug. 6, 2025](https://www.space.com/stargazing/meteor-lights-up-west-virginia-night-sky-space-photo-of-the-day-for-august-6-2025)
+- [Qwant and Ecosia debut Staan, a European search index that aims to take on Big Tech](https://techcrunch.com/2025/08/06/qwant-and-ecosia-debut-staan-a-european-search-index-that-aims-to-take-on-big-tech/)
+- [Solar eruption from Earth-facing sunspot could bring auroras this week](https://www.space.com/astronomy/sun/solar-storm-launched-from-busy-sunspot-could-trigger-auroras-on-aug-8)
 - [&#39;The threat has evolved&#39;: Humanity faces the ultimate apex aliens in stunning new &#39;Invasion&#39; season 3 trailer &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-threat-has-evolved-humanity-faces-the-ultimate-apex-aliens-in-stunning-new-invasion-season-3-trailer-video)
-- [An icy supervolcano eruption on Pluto may have left a massive crater on the frozen world](https://www.space.com/astronomy/pluto/an-icy-supervolcano-eruption-on-pluto-may-have-left-a-massive-crater-on-the-frozen-world)
-- [Earth&#39;s &#39;oldest&#39; impact crater is much younger than previously thought, new study finds](https://www.space.com/astronomy/earth/earths-oldest-impact-crater-is-much-younger-than-previously-thought-new-study)
-- [Clay confirms it closed $100M round at $3.1B valuation](https://techcrunch.com/2025/08/05/clay-confirms-it-closed-100m-round-at-3-1b-valuation/)
-- [NASA awards Firefly Aerospace $177 million for 1st multi-rover mission to moon&#39;s south pole](https://www.space.com/astronomy/moon/nasa-awards-firefly-aerospace-usd177-million-for-1st-multi-rover-mission-to-moons-south-pole)
 <!-- BLOG-POST-LIST:END -->
 
 ---
