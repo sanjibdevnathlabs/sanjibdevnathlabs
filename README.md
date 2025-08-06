@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Google’s Genie model makes realistic worlds in realtime…](https://www.youtube.com/watch?v=0XvOOi6g5Ok)
 - [Gödel&#39;s Incompleteness Theorem - Computerphile](https://www.youtube.com/watch?v=IuX8QMgy4qE)
 - [Do the Rich Deserve Their Wealth? Exploring the Case for Luck Insurance](https://www.youtube.com/watch?v=dz2vRqxf0HI)
 - [The dating app that doxxed 72,000 women...](https://www.youtube.com/watch?v=miTpJmMt7uo)
 - [Writing a Text Editor - Computerphile](https://www.youtube.com/watch?v=g2hiVp6oPZc)
-- [6 DevOps Career Paths with 6-Figure Potential](https://www.youtube.com/watch?v=pEEq8ff2DJs)
 <!-- YOUTUBE:END -->
 
 ---
