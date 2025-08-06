@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tavily raises $25M to connect AI agents to the web](https://techcrunch.com/2025/08/06/tavily-raises-25m-to-connect-ai-agents-to-the-web/)
+- [Citizen Lab director warns cyber industry about US authoritarian descent](https://techcrunch.com/2025/08/06/citizen-lab-director-warns-cyber-industry-about-us-authoritarian-descent/)
+- [Exotic &#39;lava worlds&#39; are a hot new frontier in exoplanet science](https://www.space.com/astronomy/exoplanets/exotic-lava-worlds-are-a-hot-new-frontier-in-exoplanet-science)
+- [Apple to announce $100B further commitment for US manufacturing](https://techcrunch.com/2025/08/06/apple-to-announce-100b-further-commitment-for-u-s-manufacturing/)
 - [Manipulate the power of the Infinity Stones with 42% savings on the Lego Marvel Infinity Gauntlet set](https://www.space.com/technology/manipulate-the-power-of-the-infinity-stones-with-42-percent-savings-on-the-lego-marvel-infinity-gauntlet-set)
-- [Instagram takes on Snapchat with new ‘Instagram Map’](https://techcrunch.com/2025/08/06/instagram-takes-on-snapchat-with-new-instagram-map/)
-- [China wants to return samples from Mars. Will there be any international cooperation?](https://www.space.com/astronomy/mars/china-wants-to-return-samples-from-mars-will-there-be-any-international-cooperation)
-- [Tinder explores a redesign, dating ‘modes,’ and college-specific features to boost engagement](https://techcrunch.com/2025/08/06/tinder-explores-a-redesign-dating-modes-and-college-specific-features-to-boost-engagement/)
-- [Cohere’s new AI agent platform, North, promises to keep enterprise data secure](https://techcrunch.com/2025/08/06/coheres-new-ai-agent-platform-north-promises-to-keep-enterprise-data-secure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
