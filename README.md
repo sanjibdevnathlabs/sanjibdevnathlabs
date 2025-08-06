@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Upwork is buying its way into corporate staffing beyond freelancers](https://techcrunch.com/2025/08/06/upwork-acquires-bubty-and-ascen-with-plans-to-launch-a-standalone-enterprise-business/)
+- [UK launching new rocket engine test lab on picturesque peninsula immortalized by Paul McCartney song](https://www.space.com/space-exploration/launches-spacecraft/uk-launching-new-rocket-engine-test-lab-on-picturesque-peninsula-immortalized-by-paul-mccartney-song)
+- [Google denies AI search features are killing website traffic](https://techcrunch.com/2025/08/06/google-denies-ai-search-features-are-killing-website-traffic/)
+- [A rival Tea app for men is leaking its users’ personal data and driver’s licenses](https://techcrunch.com/2025/08/06/a-rival-tea-app-for-men-is-leaking-its-users-personal-data-and-drivers-licenses/)
 - [Federal regulators give Zoox an exemption for its custom-built robotaxis](https://techcrunch.com/2025/08/06/federal-regulators-give-zoox-an-exemption-for-its-custom-built-robotaxis/)
-- [Vulcan Centaur rocket to launch 1st national security mission on Aug. 12](https://www.space.com/space-exploration/launches-spacecraft/vulcan-centaur-rocket-to-launch-1st-national-security-mission-on-aug-12)
-- [How to actually raise a seed round: Actionable advice from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/06/how-to-actually-raise-a-seed-round-actionable-advice-from-top-investors-at-techcrunch-disrupt-2025-on-july-15/)
-- [First impressions of Alexa+, Amazon’s upgraded, AI-powered digital assistant](https://techcrunch.com/2025/08/06/first-impressions-of-alexa-amazons-upgraded-ai-powered-digital-assistant/)
-- [Google takes on ChatGPT’s Study Mode with new ‘Guided Learning’ tool in Gemini](https://techcrunch.com/2025/08/06/google-takes-on-chatgpts-study-mode-with-new-guided-learning-tool-in-gemini/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
