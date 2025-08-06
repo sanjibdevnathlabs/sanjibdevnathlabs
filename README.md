@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Manipulate the power of the Infinity Stones with 42% savings on the Lego Marvel Infinity Gauntlet set](https://www.space.com/technology/manipulate-the-power-of-the-infinity-stones-with-42-percent-savings-on-the-lego-marvel-infinity-gauntlet-set)
+- [Instagram takes on Snapchat with new ‘Instagram Map’](https://techcrunch.com/2025/08/06/instagram-takes-on-snapchat-with-new-instagram-map/)
+- [China wants to return samples from Mars. Will there be any international cooperation?](https://www.space.com/astronomy/mars/china-wants-to-return-samples-from-mars-will-there-be-any-international-cooperation)
+- [Tinder explores a redesign, dating ‘modes,’ and college-specific features to boost engagement](https://techcrunch.com/2025/08/06/tinder-explores-a-redesign-dating-modes-and-college-specific-features-to-boost-engagement/)
 - [Cohere’s new AI agent platform, North, promises to keep enterprise data secure](https://techcrunch.com/2025/08/06/coheres-new-ai-agent-platform-north-promises-to-keep-enterprise-data-secure/)
-- [Two arrested for smuggling AI chips to China; Nvidia says no to kill switches](https://techcrunch.com/2025/08/06/two-arrested-for-smuggling-ai-chips-to-china-nvidia-says-no-to-kill-switches/)
-- [Photo-sharing app Locket is banking on a new celebrity-focused feature to fuel its growth](https://techcrunch.com/2025/08/06/photo-sharing-app-locket-is-banking-on-a-new-celebrity-focused-feature-to-fuel-its-growth/)
-- [Final call: TechCrunch Disrupt 2025 ticket savings end tonight](https://techcrunch.com/2025/08/06/final-call-techcrunch-disrupt-2025-ticket-savings-end-tonight/)
-- [Curiosity rover celebrates 13 years on Mars with well-deserved naps and Red Planet &#39;coral&#39;](https://www.space.com/space-exploration/mars-rovers/curiosity-rover-celebrates-13-years-on-mars-with-well-deserved-naps-and-red-planet-coral)
 <!-- BLOG-POST-LIST:END -->
 
 ---
