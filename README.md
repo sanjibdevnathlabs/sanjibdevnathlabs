@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronaut Butch Wilmore retires from NASA after 25 years](https://www.space.com/space-exploration/human-spaceflight/astronaut-butch-wilmore-retires-from-nasa-after-25-years)
 - [Quantum physics protects videos from prying eyes and tampering](https://www.space.com/science/particle-physics/quantum-physics-protects-videos-from-prying-eyes-and-tampering)
 - [Upwork is buying its way into corporate staffing beyond freelancers](https://techcrunch.com/2025/08/06/upwork-acquires-bubty-and-ascen-with-plans-to-launch-a-standalone-enterprise-business/)
 - [UK launching new rocket engine test lab on picturesque peninsula immortalized by Paul McCartney song](https://www.space.com/space-exploration/launches-spacecraft/uk-launching-new-rocket-engine-test-lab-on-picturesque-peninsula-immortalized-by-paul-mccartney-song)
 - [Google denies AI search features are killing website traffic](https://techcrunch.com/2025/08/06/google-denies-ai-search-features-are-killing-website-traffic/)
-- [A rival Tea app for men is leaking its users’ personal data and driver’s licenses](https://techcrunch.com/2025/08/06/a-rival-tea-app-for-men-is-leaking-its-users-personal-data-and-drivers-licenses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
