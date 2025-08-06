@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google says hackers stole its customers’ data by breaching its Salesforce database](https://techcrunch.com/2025/08/06/google-says-hackers-stole-its-customers-data-in-a-breach-of-its-salesforce-database/)
-- [Meteor lights up West Virginia night sky | Space photo of the day for Aug. 6, 2025](https://www.space.com/stargazing/meteor-lights-up-west-virginia-night-sky-space-photo-of-the-day-for-august-6-2025)
-- [Qwant and Ecosia debut Staan, a European search index that aims to take on Big Tech](https://techcrunch.com/2025/08/06/qwant-and-ecosia-debut-staan-a-european-search-index-that-aims-to-take-on-big-tech/)
-- [Solar eruption from Earth-facing sunspot could bring auroras this week](https://www.space.com/astronomy/sun/solar-storm-launched-from-busy-sunspot-could-trigger-auroras-on-aug-8)
-- [&#39;The threat has evolved&#39;: Humanity faces the ultimate apex aliens in stunning new &#39;Invasion&#39; season 3 trailer &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-threat-has-evolved-humanity-faces-the-ultimate-apex-aliens-in-stunning-new-invasion-season-3-trailer-video)
+- [Cohere’s new AI agent platform, North, promises to keep enterprise data secure](https://techcrunch.com/2025/08/06/coheres-new-ai-agent-platform-north-promises-to-keep-enterprise-data-secure/)
+- [Two arrested for smuggling AI chips to China; Nvidia says no to kill switches](https://techcrunch.com/2025/08/06/two-arrested-for-smuggling-ai-chips-to-china-nvidia-says-no-to-kill-switches/)
+- [Photo-sharing app Locket is banking on a new celebrity-focused feature to fuel its growth](https://techcrunch.com/2025/08/06/photo-sharing-app-locket-is-banking-on-a-new-celebrity-focused-feature-to-fuel-its-growth/)
+- [Final call: TechCrunch Disrupt 2025 ticket savings end tonight](https://techcrunch.com/2025/08/06/final-call-techcrunch-disrupt-2025-ticket-savings-end-tonight/)
+- [Curiosity rover celebrates 13 years on Mars with well-deserved naps and Red Planet &#39;coral&#39;](https://www.space.com/space-exploration/mars-rovers/curiosity-rover-celebrates-13-years-on-mars-with-well-deserved-naps-and-red-planet-coral)
 <!-- BLOG-POST-LIST:END -->
 
 ---
