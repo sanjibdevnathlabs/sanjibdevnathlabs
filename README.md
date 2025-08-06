@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI is practically giving ChatGPT to the government for free](https://techcrunch.com/2025/08/06/openai-is-practically-giving-chatgpt-to-the-government-for-free/)
+- [&#39;Destroy All Humans!&#39; declared war on humanity 10 years ago, and we&#39;re still waiting for another good sequel](https://www.space.com/entertainment/space-games/destroy-all-humans-declared-war-on-humanity-10-years-ago-and-were-still-waiting-for-another-good-sequel)
 - [Google’s AI coding agent Jules is now out of beta](https://techcrunch.com/2025/08/06/googles-ai-coding-agent-jules-is-now-out-of-beta/)
 - [Artemis 2 moon astronauts suit up and enter their Orion spacecraft together for 1st time](https://www.space.com/space-exploration/artemis/artemis-2-moon-astronauts-suit-up-and-enter-their-orion-spacecraft-together-for-1st-time)
 - [Payment platform Lava raises $5.8M to build digital wallets for the ‘agent-native economy’](https://techcrunch.com/2025/08/06/billing-platform-lava-raises-5-8m-to-build-digital-wallets-for-the-agent-native-economy/)
-- [Key sections of the US Constitution deleted from government’s website](https://techcrunch.com/2025/08/06/key-sections-of-the-us-constitution-deleted-from-governments-website/)
-- [Tavily raises $25M to connect AI agents to the web](https://techcrunch.com/2025/08/06/tavily-raises-25m-to-connect-ai-agents-to-the-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
