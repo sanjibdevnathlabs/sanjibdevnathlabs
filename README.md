@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Planetarium celebrates 1st images from Vera Rubin Observatory | Space photo of the day for Aug. 7, 2025](https://www.space.com/astronomy/planetarium-celebrates-1st-images-from-vera-rubin-observatory-space-photo-of-the-day-for-aug-7-2025)
-- [Hubble Network plans massive satellite upgrade to create global Bluetooth layer](https://techcrunch.com/2025/08/07/hubble-taps-muons-new-xl-satellites-to-build-a-bluetooth-layer-around-earth/)
-- [Veeniix V11PRO drone review](https://www.space.com/technology/drones/veeniix-v11pro-drone-review)
-- [Falcon 9 rocket launching Amazon internet satellites on SpaceX&#39;s 100th mission of the year today: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/falcon-9-rocket-launches-amazon-project-kuiper-internet-satellites-spacex-100th-mission-2025)
-- [The Browser Company launches a $20 monthly subscription for its AI-powered browser](https://techcrunch.com/2025/08/06/the-browser-company-launches-a-20-monthly-subscription-for-its-ai-powered-browser/)
+- [Trump says Intel CEO Lip-Bu Tan must ‘resign immediately’](https://techcrunch.com/2025/08/07/trump-says-intel-ceo-lip-bu-tan-must-resign-immediately/)
+- [A blood moon is coming: Here&#39;s what you need to know about the total lunar eclipse on Sept. 7](https://www.space.com/stargazing/lunar-eclipses/a-blood-moon-is-coming-heres-what-you-need-to-know-about-the-total-lunar-eclipse-on-sept-7)
+- [Has &#39;Strange New Worlds&#39; just unleashed &#39;Star Trek&#39;s scariest aliens since the Borg?](https://www.space.com/entertainment/space-movies-shows/has-strange-new-worlds-just-unleashed-star-treks-scariest-aliens-since-the-borg)
+- [Library of Congress explains how parts of US Constitution vanished from its website](https://techcrunch.com/2025/08/07/library-of-congress-explains-how-parts-of-us-constitution-vanished-from-its-website/)
+- [Canon&#39;s entry-level full-frame camera —now $380 cheaper ahead of the Perseid meteor shower](https://www.space.com/technology/canons-entry-level-full-frame-camera-now-380-dollars-cheaper-ahead-of-the-perseid-meteor-shower)
 <!-- BLOG-POST-LIST:END -->
 
 ---
