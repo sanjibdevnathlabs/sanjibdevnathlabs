@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX&#39;s Crew-10 astronauts head home to Earth today](https://www.space.com/space-exploration/international-space-station/spacex-crew-10-astronauts-undocking)
 - [Two teens charged in attack on former DOGE official Edward “Big Balls” Coristine](https://techcrunch.com/2025/08/06/two-teens-charged-in-attack-on-former-doge-official-edward-big-balls-coristine/)
 - [Astronaut Butch Wilmore retires from NASA after 25 years](https://www.space.com/space-exploration/human-spaceflight/astronaut-butch-wilmore-retires-from-nasa-after-25-years)
 - [Quantum physics protects videos from prying eyes and tampering](https://www.space.com/science/particle-physics/quantum-physics-protects-videos-from-prying-eyes-and-tampering)
 - [Upwork is buying its way into corporate staffing beyond freelancers](https://techcrunch.com/2025/08/06/upwork-acquires-bubty-and-ascen-with-plans-to-launch-a-standalone-enterprise-business/)
-- [UK launching new rocket engine test lab on picturesque peninsula immortalized by Paul McCartney song](https://www.space.com/space-exploration/launches-spacecraft/uk-launching-new-rocket-engine-test-lab-on-picturesque-peninsula-immortalized-by-paul-mccartney-song)
 <!-- BLOG-POST-LIST:END -->
 
 ---
