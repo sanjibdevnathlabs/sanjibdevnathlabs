@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Planetarium celebrates 1st images from Vera Rubin Observatory | Space photo of the day for Aug. 7, 2025](https://www.space.com/astronomy/planetarium-celebrates-1st-images-from-vera-rubin-observatory-space-photo-of-the-day-for-aug-7-2025)
 - [Hubble Network plans massive satellite upgrade to create global Bluetooth layer](https://techcrunch.com/2025/08/07/hubble-taps-muons-new-xl-satellites-to-build-a-bluetooth-layer-around-earth/)
 - [Veeniix V11PRO drone review](https://www.space.com/technology/drones/veeniix-v11pro-drone-review)
 - [Falcon 9 rocket launching Amazon internet satellites on SpaceX&#39;s 100th mission of the year today: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/falcon-9-rocket-launches-amazon-project-kuiper-internet-satellites-spacex-100th-mission-2025)
 - [The Browser Company launches a $20 monthly subscription for its AI-powered browser](https://techcrunch.com/2025/08/06/the-browser-company-launches-a-20-monthly-subscription-for-its-ai-powered-browser/)
-- [Watch SpaceX&#39;s Crew-10 astronauts head home to Earth today](https://www.space.com/space-exploration/international-space-station/spacex-crew-10-astronauts-undocking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
