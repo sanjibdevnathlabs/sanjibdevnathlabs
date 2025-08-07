@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Instagram Map and set your location sharing preferences](https://techcrunch.com/2025/08/07/how-to-use-instagram-map-and-set-your-location-sharing-preferences/)
+- [China&#39;s lunar lander aces touchdown and takeoff tests ahead of planned 2030 crewed moon mission &lpar;video&rpar;](https://www.space.com/astronomy/moon/chinas-lunar-lander-aces-touchdown-and-takeoff-tests-ahead-of-planned-2030-crewed-moon-mission-video)
 - [&#39;Star Wars: A New Hope&#39; will return to theaters to celebrate its 50th anniversary, but Disney didn&#39;t say which version](https://www.space.com/entertainment/space-movies-shows/star-wars-a-new-hope-will-return-to-theaters-to-celebrate-its-50th-anniversary-but-disney-didnt-say-which-version)
 - [IPO hopeful Brex scored major win to sell in the EU, plans UK expansion](https://techcrunch.com/2025/08/07/ipo-hopeful-brex-scored-major-win-to-sell-in-the-eu-plans-uk-expansion/)
 - [Who&#39;s a good robot dog? Bert and Spot explore Mars-like surface with help from AI and astronaut in space](https://www.space.com/space-exploration/mars-rovers/whos-a-good-robot-dog-bert-and-spot-explore-mars-like-surface-with-help-from-ai-and-astronaut-in-space)
-- [SpaceX signs deal to fly Italian experiments to Mars on Starship&#39;s 1st commercial Red Planet flights](https://www.space.com/space-exploration/launches-spacecraft/spacex-signs-deal-to-fly-italian-experiments-to-mars-on-starships-1st-commercial-red-planet-flights)
-- [SpaceX is building a water pipeline to Starbase — but access comes with some conditions](https://techcrunch.com/2025/08/07/spacex-is-building-a-water-pipeline-to-starbase-but-access-comes-with-some-conditions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
