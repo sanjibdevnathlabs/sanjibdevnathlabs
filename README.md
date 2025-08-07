@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s GPT-5 is here](https://techcrunch.com/2025/08/07/openais-gpt-5-is-here/)
+- [Jupiter and its 4 largest moons will line up in the sky on Aug. 8. Here&#39;s how to see the &#39;parade&#39;](https://www.space.com/stargazing/jupiter-and-its-4-largest-moons-will-line-up-in-the-sky-on-aug-8-heres-how-to-see-the-parade)
+- [Unistellar eQuinox 2 is over $700 cheaper — perfect for nebula and galaxy hunting in the summer skies](https://www.space.com/stargazing/skywatching-kit/unistellar-equinox-2-over-700-dollars-cheaper-perfect-for-nebula-and-galaxy-hunting-in-the-summer-skies)
 - [Astronomers use starlight to measure greenhouse gases in Earth&#39;s atmosphere](https://www.space.com/astronomy/astronomers-use-starlight-to-measure-greenhouse-gases-in-earths-atmosphere)
 - [AI agents aren’t the ‘new Google,’ says Airbnb CEO](https://techcrunch.com/2025/08/07/ai-agents-arent-the-new-google-says-airbnb-ceo/)
-- [The backlash against Duolingo going ‘AI-first’ didn’t even matter](https://techcrunch.com/2025/08/07/the-backlash-against-duolingo-going-ai-first-didnt-even-matter/)
-- [James Webb Space Telescope spots a potential new exoplanet just 4 light-years away from Earth](https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-spots-a-potential-new-exoplanet-just-4-light-years-away-from-earth)
-- [Elon Musk says X plans to introduce ads in Grok’s responses](https://techcrunch.com/2025/08/07/elon-musk-says-x-plans-to-introduce-ads-in-groks-responses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
