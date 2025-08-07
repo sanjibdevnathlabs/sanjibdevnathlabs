@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk says X plans to introduce ads in Grok’s responses](https://techcrunch.com/2025/08/07/elon-musk-says-x-plans-to-introduce-ads-in-groks-responses/)
 - [Truth Social’s AI search is powered by Perplexity, but the platform can set limits on sources](https://techcrunch.com/2025/08/07/truth-socials-ai-search-is-powered-by-perplexity-but-the-platform-can-set-limits-on-sources/)
 - [Elad Gil — one of tech’s sharpest minds — on early bets, breakout growth, and what’s coming next at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/07/elad-gil-one-of-techs-sharpest-minds-on-early-bets-breakout-growth-and-whats-coming-next-at-techcrunch-disrupt-2025/)
 - [Science Can Solar System Planetary Projector review](https://www.space.com/technology/science-can-solar-system-planetary-projector-review)
 - [August full moon 2025 rises this weekend: Here&#39;s how to see the stunning &#39;Sturgeon Moon&#39;](https://www.space.com/stargazing/august-full-moon-2025-rises-this-weekend-heres-how-to-see-the-stunning-sturgeon-moon)
-- [Data breach at French telecom giant Bouygues affects millions of customers](https://techcrunch.com/2025/08/07/data-breach-at-french-telecom-giant-bouygues-affects-millions-of-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
