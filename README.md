@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The high costs and thin margins threatening AI coding startups](https://techcrunch.com/2025/08/07/the-high-costs-and-thin-margins-threatening-ai-coding-startups/)
+- [Rocket Lab eyes big defense opportunities with new acquisition](https://techcrunch.com/2025/08/07/rocket-lab-eyes-big-defense-opportunities-with-new-acquisition/)
+- [High costs and thin margins threatening AI coding startups](https://techcrunch.com/2025/08/07/the-high-costs-and-thin-margins-threatening-ai-coding-startups/)
 - [A laser-propelled mini spacecraft could travel to a nearby black hole, astrophysicist says](https://www.space.com/astronomy/black-holes/a-laser-propelled-mini-spacecraft-could-travel-to-a-nearby-black-hole-astrophysicist-says)
 - [How to use Instagram Map and set your location-sharing preferences](https://techcrunch.com/2025/08/07/how-to-use-instagram-map-and-set-your-location-sharing-preferences/)
 - [China&#39;s lunar lander aces touchdown and takeoff tests ahead of planned 2030 crewed moon mission &lpar;video&rpar;](https://www.space.com/astronomy/moon/chinas-lunar-lander-aces-touchdown-and-takeoff-tests-ahead-of-planned-2030-crewed-moon-mission-video)
-- [&#39;Star Wars: A New Hope&#39; will return to theaters to celebrate its 50th anniversary, but Disney didn&#39;t say which version](https://www.space.com/entertainment/space-movies-shows/star-wars-a-new-hope-will-return-to-theaters-to-celebrate-its-50th-anniversary-but-disney-didnt-say-which-version)
 <!-- BLOG-POST-LIST:END -->
 
 ---
