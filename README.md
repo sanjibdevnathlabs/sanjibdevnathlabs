@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Who&#39;s a good robot dog? Bert and Spot explore Mars-like surface with help from AI and astronaut in space](https://www.space.com/space-exploration/mars-rovers/whos-a-good-robot-dog-bert-and-spot-explore-mars-like-surface-with-help-from-ai-and-astronaut-in-space)
+- [SpaceX signs deal to fly Italian experiments to Mars on Starship&#39;s 1st commercial Red Planet flights](https://www.space.com/space-exploration/launches-spacecraft/spacex-signs-deal-to-fly-italian-experiments-to-mars-on-starships-1st-commercial-red-planet-flights)
+- [SpaceX is building a water pipeline to Starbase — but access comes with some conditions](https://techcrunch.com/2025/08/07/spacex-is-building-a-water-pipeline-to-starbase-but-access-comes-with-some-conditions/)
 - [OpenAI’s GPT-5 is here](https://techcrunch.com/2025/08/07/openais-gpt-5-is-here/)
 - [Jupiter and its 4 largest moons will line up in the sky on Aug. 8. Here&#39;s how to see the &#39;parade&#39;](https://www.space.com/stargazing/jupiter-and-its-4-largest-moons-will-line-up-in-the-sky-on-aug-8-heres-how-to-see-the-parade)
-- [Unistellar eQuinox 2 is over $700 cheaper — perfect for nebula and galaxy hunting in the summer skies](https://www.space.com/stargazing/skywatching-kit/unistellar-equinox-2-over-700-dollars-cheaper-perfect-for-nebula-and-galaxy-hunting-in-the-summer-skies)
-- [Astronomers use starlight to measure greenhouse gases in Earth&#39;s atmosphere](https://www.space.com/astronomy/astronomers-use-starlight-to-measure-greenhouse-gases-in-earths-atmosphere)
-- [AI agents aren’t the ‘new Google,’ says Airbnb CEO](https://techcrunch.com/2025/08/07/ai-agents-arent-the-new-google-says-airbnb-ceo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
