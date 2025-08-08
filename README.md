@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A mysterious substance on Mars might be an undiscovered mineral](https://www.space.com/astronomy/mars/a-mysterious-substance-on-mars-might-be-an-undiscovered-mineral)
+- [Openvibe combines news and social media in one app](https://techcrunch.com/2025/08/08/openvibe-combines-news-and-social-media-in-one-app/)
 - [European weather satellite readied for launch on Ariane 6 rocket | Space photo of the day for Aug. 8, 2025](https://www.space.com/space-exploration/launches-spacecraft/european-weather-satellite-readied-for-launch-on-ariane-6-rocket-space-photo-of-the-day-for-aug-8-2025)
 - [What time is the August full moon?](https://www.space.com/stargazing/what-time-is-the-full-moon-aug-9-2025)
 - [xAI’s legal chief steps down after whirlwind year](https://techcrunch.com/2025/08/07/xais-legal-chief-steps-down-after-whirlwind-year/)
-- [Tesla shuts down Dojo, the AI training supercomputer that Musk said would be key to full self-driving](https://techcrunch.com/2025/08/07/tesla-shuts-down-dojo-the-ai-training-supercomputer-that-musk-said-would-be-key-to-full-self-driving/)
-- [The biggest black hole ever seen? Scientists find one with mass of 36 billion suns](https://www.space.com/astronomy/black-holes/the-biggest-black-hole-ever-seen-scientists-find-one-with-mass-of-36-billion-suns)
 <!-- BLOG-POST-LIST:END -->
 
 ---
