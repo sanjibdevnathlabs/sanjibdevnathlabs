@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists capture bridge of stray stars being sucked from one galaxy to another](https://www.space.com/astronomy/stars/scientists-capture-bridge-of-stray-stars-being-sucked-from-one-galaxy-to-another)
 - [Sam Altman addresses ‘bumpy’ GPT-5 rollout, bringing 4o back, and the ‘chart crime’](https://techcrunch.com/2025/08/08/sam-altman-addresses-bumpy-gpt-5-rollout-bringing-4o-back-and-the-chart-crime/)
 - [Can you name the 12 Apollo astronauts who walked on the moon?](https://www.space.com/astronomy/moon/can-you-name-the-12-apollo-astronauts-who-walked-on-the-moon)
 - [Jim Lovell, commander of NASA&#39;s Apollo 13 moon mission, dies at 97](https://www.space.com/space-exploration/apollo/jim-lovell-commander-of-nasas-apollo-13-moon-mission-dies-at-97)
 - [&#39;A Quiet Place Part III&#39; is confirmed for 2027 with John Krasinski back in the director&#39;s chair](https://www.space.com/entertainment/space-movies-shows/a-quiet-place-part-iii-is-confirmed-for-2027-with-john-krasinski-back-in-the-directors-chair)
-- [RIP, Microsoft Lens, a simple little app that’s getting replaced by AI](https://techcrunch.com/2025/08/08/rip-microsoft-lens-a-simple-little-app-thats-getting-replaced-by-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
