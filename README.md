@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Former Googlers AI startup OpenArt now creates ‘brainrot’ videos in just one click](https://techcrunch.com/2025/08/08/former-googlers-ai-startup-openart-now-creates-brainrot-videos-in-just-one-click/)
+- [&#39;A Quiet Place Part III&#39; is confirmed for 2027 with John Krasinski back in the director&#39;s chair](https://www.space.com/entertainment/space-movies-shows/a-quiet-place-part-iii-is-confirmed-for-2027-with-john-krasinski-back-in-the-directors-chair)
+- [RIP, Microsoft Lens, a simple little app that’s getting replaced by AI](https://techcrunch.com/2025/08/08/rip-microsoft-lens-a-simple-little-app-thats-getting-replaced-by-ai/)
+- [Former Googlers’ AI startup OpenArt now creates ‘brain rot’ videos in just one click](https://techcrunch.com/2025/08/08/former-googlers-ai-startup-openart-now-creates-brainrot-videos-in-just-one-click/)
 - [Spacecraft headed to DART asteroid crash site images 2 faint space rocks to boost planetary defense tactics](https://www.space.com/astronomy/asteroids/spacecraft-headed-to-dart-asteroid-crash-site-images-2-faint-space-rocks-to-boost-planetary-defense-tactics)
 - [Satellites watch France&#39;s largest wildfire in 75 years burn an area larger than Paris](https://www.space.com/space-exploration/satellites/satellites-watch-frances-largest-wildfire-in-75-years-burn-an-area-larger-than-paris)
-- [Scientists find oldest-known black hole in the universe: &#39;This is about as far back as you can practically go&#39;](https://www.space.com/astronomy/black-holes/scientists-find-oldest-known-black-hole-in-the-universe-this-is-about-as-far-back-as-you-can-practically-go)
-- [Don’t let your competitor steal the brand spotlight — secure your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/08/dont-let-your-competitor-steal-the-brand-spotlight-secure-your-exhibit-table-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
