@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will the bright moon ruin the Perseid meteor shower, or is it still worth watching?](https://www.space.com/stargazing/meteor-showers/will-the-bright-moon-ruin-the-perseid-meteor-shower-2025-or-is-it-still-worth-watching)
+- [What founders need to know before choosing their exit — straight from Jai Das and Roseanne Wincek — at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/08/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/)
+- [Meta acquires AI audio startup WaveForms](https://techcrunch.com/2025/08/08/meta-acquires-ai-audio-startup-waveforms/)
 - [Discovery Space Projector review](https://www.space.com/technology/discovery-space-projector-review)
 - [LaView Galaxy Star Projector review](https://www.space.com/technology/laview-galaxy-star-projector-review)
-- [Hubble Telescope gives us our best look yet at the interstellar comet 3I/ATLAS &lpar;video, photo&rpar;](https://www.space.com/astronomy/comets/hubble-telescope-gives-us-our-best-look-yet-at-the-interstellar-comet-3i-atlas-video-photo)
-- [Google tests revamped Google Finance with AI upgrades, live news feed](https://techcrunch.com/2025/08/08/google-tests-revamped-google-finance-with-ai-upgrades-live-news-feed/)
-- [A mysterious substance on Mars might be an undiscovered mineral](https://www.space.com/astronomy/mars/a-mysterious-substance-on-mars-might-be-an-undiscovered-mineral)
 <!-- BLOG-POST-LIST:END -->
 
 ---
