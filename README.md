@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists find oldest-known black hole in the universe: &#39;This is about as far back as you can practically go&#39;](https://www.space.com/astronomy/black-holes/scientists-find-oldest-known-black-hole-in-the-universe-this-is-about-as-far-back-as-you-can-practically-go)
+- [Don’t let your competitor steal the brand spotlight — secure your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/08/dont-let-your-competitor-steal-the-brand-spotlight-secure-your-exhibit-table-at-techcrunch-disrupt-2025/)
+- [NASA and Google are building an AI medical assistant to keep Mars-bound astronauts healthy](https://techcrunch.com/2025/08/08/nasa-and-google-are-building-an-ai-medical-assistant-to-keep-mars-bound-astronauts-healthy/)
 - [What would Mars look like under an Earth-like blue sky? NASA&#39;s Perseverance rover just showed us](https://www.space.com/space-exploration/mars-rovers/what-would-mars-look-like-under-an-earth-like-blue-sky-nasa-perseverance-rover-just-showed-us)
 - [How to use Instagram Map and protect your privacy](https://techcrunch.com/2025/08/08/how-to-use-instagram-map-and-protect-your-privacy/)
-- [Pinterest CEO says agentic shopping is still a long way out](https://techcrunch.com/2025/08/08/pinterest-ceo-says-agentic-shopping-is-still-a-long-way-out/)
-- [OpenAI priced GPT-5 so low, it may spark a price war](https://techcrunch.com/2025/08/08/openai-priced-gpt-5-so-low-it-may-spark-a-price-war/)
-- [SoftBank reportedly bought Foxconn’s Ohio factory for the Stargate AI project](https://techcrunch.com/2025/08/08/softbank-reportedly-bought-foxconns-ohio-factory-for-the-stargate-ai-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
