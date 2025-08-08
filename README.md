@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman addresses ‘bumpy’ GPT-5 rollout, bringing 4o back, and the ‘chart crime’](https://techcrunch.com/2025/08/08/sam-altman-addresses-bumpy-gpt-5-rollout-bringing-4o-back-and-the-chart-crime/)
+- [Can you name the 12 Apollo astronauts who walked on the moon?](https://www.space.com/astronomy/moon/can-you-name-the-12-apollo-astronauts-who-walked-on-the-moon)
+- [Jim Lovell, commander of NASA&#39;s Apollo 13 moon mission, dies at 97](https://www.space.com/space-exploration/apollo/jim-lovell-commander-of-nasas-apollo-13-moon-mission-dies-at-97)
 - [&#39;A Quiet Place Part III&#39; is confirmed for 2027 with John Krasinski back in the director&#39;s chair](https://www.space.com/entertainment/space-movies-shows/a-quiet-place-part-iii-is-confirmed-for-2027-with-john-krasinski-back-in-the-directors-chair)
 - [RIP, Microsoft Lens, a simple little app that’s getting replaced by AI](https://techcrunch.com/2025/08/08/rip-microsoft-lens-a-simple-little-app-thats-getting-replaced-by-ai/)
-- [Former Googlers’ AI startup OpenArt now creates ‘brain rot’ videos in just one click](https://techcrunch.com/2025/08/08/former-googlers-ai-startup-openart-now-creates-brainrot-videos-in-just-one-click/)
-- [Spacecraft headed to DART asteroid crash site images 2 faint space rocks to boost planetary defense tactics](https://www.space.com/astronomy/asteroids/spacecraft-headed-to-dart-asteroid-crash-site-images-2-faint-space-rocks-to-boost-planetary-defense-tactics)
-- [Satellites watch France&#39;s largest wildfire in 75 years burn an area larger than Paris](https://www.space.com/space-exploration/satellites/satellites-watch-frances-largest-wildfire-in-75-years-burn-an-area-larger-than-paris)
 <!-- BLOG-POST-LIST:END -->
 
 ---
