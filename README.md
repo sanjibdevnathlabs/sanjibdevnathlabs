@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Discovery Space Projector review](https://www.space.com/technology/discovery-space-projector-review)
+- [LaView Galaxy Star Projector review](https://www.space.com/technology/laview-galaxy-star-projector-review)
+- [Hubble Telescope gives us our best look yet at the interstellar comet 3I/ATLAS &lpar;video, photo&rpar;](https://www.space.com/astronomy/comets/hubble-telescope-gives-us-our-best-look-yet-at-the-interstellar-comet-3i-atlas-video-photo)
+- [Google tests revamped Google Finance with AI upgrades, live news feed](https://techcrunch.com/2025/08/08/google-tests-revamped-google-finance-with-ai-upgrades-live-news-feed/)
 - [A mysterious substance on Mars might be an undiscovered mineral](https://www.space.com/astronomy/mars/a-mysterious-substance-on-mars-might-be-an-undiscovered-mineral)
-- [Openvibe combines news and social media in one app](https://techcrunch.com/2025/08/08/openvibe-combines-news-and-social-media-in-one-app/)
-- [European weather satellite readied for launch on Ariane 6 rocket | Space photo of the day for Aug. 8, 2025](https://www.space.com/space-exploration/launches-spacecraft/european-weather-satellite-readied-for-launch-on-ariane-6-rocket-space-photo-of-the-day-for-aug-8-2025)
-- [What time is the August full moon?](https://www.space.com/stargazing/what-time-is-the-full-moon-aug-9-2025)
-- [xAI’s legal chief steps down after whirlwind year](https://techcrunch.com/2025/08/07/xais-legal-chief-steps-down-after-whirlwind-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
