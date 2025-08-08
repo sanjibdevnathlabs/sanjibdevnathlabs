@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI priced GPT-5 so low, it may spark a price war](https://techcrunch.com/2025/08/08/openai-priced-gpt-5-so-low-it-may-spark-a-price-war/)
+- [SoftBank reportedly bought Foxconn’s Ohio factory for the Stargate AI project](https://techcrunch.com/2025/08/08/softbank-reportedly-bought-foxconns-ohio-factory-for-the-stargate-ai-project/)
+- [&#39;Alien: Earth&#39; creators Noah Hawley and David W. Zucker want to &#39;mimic the feeling of discovery&#39; you felt when watching the original &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/alien-earth-creators-noah-hawley-and-david-w-zucker-want-to-mimic-the-feeling-of-discovery-you-felt-when-watching-the-original-exclusive)
 - [Will the bright moon ruin the Perseid meteor shower, or is it still worth watching?](https://www.space.com/stargazing/meteor-showers/will-the-bright-moon-ruin-the-perseid-meteor-shower-2025-or-is-it-still-worth-watching)
 - [What founders need to know before choosing their exit — straight from Jai Das and Roseanne Wincek — at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/08/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/)
-- [Meta acquires AI audio startup WaveForms](https://techcrunch.com/2025/08/08/meta-acquires-ai-audio-startup-waveforms/)
-- [Discovery Space Projector review](https://www.space.com/technology/discovery-space-projector-review)
-- [LaView Galaxy Star Projector review](https://www.space.com/technology/laview-galaxy-star-projector-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
