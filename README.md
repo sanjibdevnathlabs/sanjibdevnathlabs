@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [xAI’s legal chief steps down after whirlwind year](https://techcrunch.com/2025/08/07/xais-legal-chief-steps-down-after-whirlwind-year/)
 - [Tesla shuts down Dojo, the AI training supercomputer that Musk said would be key to full self-driving](https://techcrunch.com/2025/08/07/tesla-shuts-down-dojo-the-ai-training-supercomputer-that-musk-said-would-be-key-to-full-self-driving/)
 - [The biggest black hole ever seen? Scientists find one with mass of 36 billion suns](https://www.space.com/astronomy/black-holes/the-biggest-black-hole-ever-seen-scientists-find-one-with-mass-of-36-billion-suns)
 - [Rocket Lab eyes big defense opportunities with new acquisition](https://techcrunch.com/2025/08/07/rocket-lab-eyes-big-defense-opportunities-with-new-acquisition/)
 - [High costs and thin margins threatening AI coding startups](https://techcrunch.com/2025/08/07/the-high-costs-and-thin-margins-threatening-ai-coding-startups/)
-- [A laser-propelled mini spacecraft could travel to a nearby black hole, astrophysicist says](https://www.space.com/astronomy/black-holes/a-laser-propelled-mini-spacecraft-could-travel-to-a-nearby-black-hole-astrophysicist-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
