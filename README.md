@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Olympus&#39; the 4-legged robot could help astronauts explore Mars someday &lpar;video&rpar;](https://www.space.com/technology/olympus-the-4-legged-robot-could-help-astronauts-explore-mars-someday-video)
 - [Watch SpaceX&#39;s Crew-10 astronauts return to Earth today after nearly 5 months in space](https://www.space.com/space-exploration/international-space-station/spacex-crew-10-astronauts-return-to-earth-from-international-space-station)
 - [Astronaut arrives at ISS, longs to be on the moon or Mars | On the International Space Station Aug. 4-8, 2025](https://www.space.com/space-exploration/international-space-station/astronaut-arrives-at-iss-longs-to-be-on-the-moon-or-mars-on-the-international-space-station-aug-4-8-2025)
 - [Impersonators are targeting companies with fake TechCrunch outreach](https://techcrunch.com/2025/08/08/impersonators-are-targeting-companies-with-fake-techcrunch-outreach/)
 - [Is that wildfire smoke plume hazardous? New satellite tech can map smoke plumes in 3D for better air quality alerts at neighborhood scale](https://www.space.com/astronomy/earth/is-that-wildfire-smoke-plume-hazardous-new-satellite-tech-can-map-smoke-plumes-in-3d-for-better-air-quality-alerts-at-neighborhood-scale)
-- [Scientists capture bridge of stray stars being sucked from one galaxy to another](https://www.space.com/astronomy/stars/scientists-capture-bridge-of-stray-stars-being-sucked-from-one-galaxy-to-another)
 <!-- BLOG-POST-LIST:END -->
 
 ---
