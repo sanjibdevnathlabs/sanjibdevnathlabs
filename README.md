@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New York to Los Angeles in 3 hours? Executive order could make it possible by 2027, reopening the door for commercial supersonic flight](https://www.space.com/technology/aerospace/new-york-to-los-angeles-in-3-hours-executive-order-could-make-it-possible-by-2027-reopening-the-door-for-commercial-supersonic-flight)
 - [How the Red Planet craze started 120 years ago: Interview with &#39;The Martians&#39; author David Baron](https://www.space.com/astronomy/mars/how-the-red-planet-craze-started-120-years-ago-interview-with-the-martians-author-david-baron)
 - [&#39;Olympus&#39; the 4-legged robot could help astronauts explore Mars someday &lpar;video&rpar;](https://www.space.com/technology/olympus-the-4-legged-robot-could-help-astronauts-explore-mars-someday-video)
-- [Watch SpaceX&#39;s Crew-10 astronauts return to Earth today after nearly 5 months in space](https://www.space.com/space-exploration/international-space-station/spacex-crew-10-astronauts-return-to-earth-from-international-space-station)
+- [SpaceX&#39;s Crew-10 astronauts back on Earth after nearly 5 months in space](https://www.space.com/space-exploration/international-space-station/spacex-crew-10-astronauts-return-to-earth-from-international-space-station)
 - [Astronaut arrives at ISS, longs to be on the moon or Mars | On the International Space Station Aug. 4-8, 2025](https://www.space.com/space-exploration/international-space-station/astronaut-arrives-at-iss-longs-to-be-on-the-moon-or-mars-on-the-international-space-station-aug-4-8-2025)
-- [Impersonators are targeting companies with fake TechCrunch outreach](https://techcrunch.com/2025/08/08/impersonators-are-targeting-companies-with-fake-techcrunch-outreach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
