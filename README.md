@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronaut arrives at ISS, longs to be on the moon or Mars | On the International Space Station Aug. 4-8, 2025](https://www.space.com/space-exploration/international-space-station/astronaut-arrives-at-iss-longs-to-be-on-the-moon-or-mars-on-the-international-space-station-aug-4-8-2025)
 - [Impersonators are targeting companies with fake TechCrunch outreach](https://techcrunch.com/2025/08/08/impersonators-are-targeting-companies-with-fake-techcrunch-outreach/)
 - [Is that wildfire smoke plume hazardous? New satellite tech can map smoke plumes in 3D for better air quality alerts at neighborhood scale](https://www.space.com/astronomy/earth/is-that-wildfire-smoke-plume-hazardous-new-satellite-tech-can-map-smoke-plumes-in-3d-for-better-air-quality-alerts-at-neighborhood-scale)
 - [Scientists capture bridge of stray stars being sucked from one galaxy to another](https://www.space.com/astronomy/stars/scientists-capture-bridge-of-stray-stars-being-sucked-from-one-galaxy-to-another)
 - [Sam Altman addresses ‘bumpy’ GPT-5 rollout, bringing 4o back, and the ‘chart crime’](https://techcrunch.com/2025/08/08/sam-altman-addresses-bumpy-gpt-5-rollout-bringing-4o-back-and-the-chart-crime/)
-- [Can you name the 12 Apollo astronauts who walked on the moon?](https://www.space.com/astronomy/moon/can-you-name-the-12-apollo-astronauts-who-walked-on-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
