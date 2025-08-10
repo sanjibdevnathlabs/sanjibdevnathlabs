@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The hidden cost of living amid Mark Zuckerberg’s $110M compound](https://techcrunch.com/2025/08/10/the-hidden-cost-of-living-amid-mark-zuckerbergs-110m-compound/)
 - [The computer science dream has become a nightmare](https://techcrunch.com/2025/08/10/the-computer-science-dream-has-become-a-nightmare/)
 - [Stanford sticks with legacy admissions](https://techcrunch.com/2025/08/10/stanford-sticks-with-legacy-admissions/)
 - [Are these names of real spacecraft or fictional ones? Test your sci-fi smarts in our quiz!](https://www.space.com/entertainment/are-these-names-of-real-spacecraft-or-fictional-ones-test-your-sci-fi-smarts-in-our-quiz)
 - [Light pollution is encroaching on observatories around the globe – making it harder for astronomers to study the cosmos](https://www.space.com/astronomy/light-pollution-is-encroaching-on-observatories-around-the-globe-making-it-harder-for-astronomers-to-study-the-cosmos)
-- [&#39;Ice cube&#39; clouds discovered at the galaxy&#39;s center shouldn&#39;t exist — and they hint at a recent black hole explosion](https://www.space.com/astronomy/ice-cube-clouds-discovered-at-the-galaxys-center-shouldnt-exist-and-they-hint-at-a-recent-black-hole-explosion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
