@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Light pollution is encroaching on observatories around the globe – making it harder for astronomers to study the cosmos](https://www.space.com/astronomy/light-pollution-is-encroaching-on-observatories-around-the-globe-making-it-harder-for-astronomers-to-study-the-cosmos)
 - [&#39;Ice cube&#39; clouds discovered at the galaxy&#39;s center shouldn&#39;t exist — and they hint at a recent black hole explosion](https://www.space.com/astronomy/ice-cube-clouds-discovered-at-the-galaxys-center-shouldnt-exist-and-they-hint-at-a-recent-black-hole-explosion)
 - [After researchers unmasked a prolific SMS scammer, a new operation has emerged in its wake](https://techcrunch.com/2025/08/10/after-researchers-unmasked-a-prolific-sms-scammer-a-new-operation-has-emerged-in-its-wake/)
 - [August full moon 2025 captivates skywatchers worldwide as Sturgeon Moon lights up the sky &lpar;photos&rpar;](https://www.space.com/stargazing/august-full-moon-2025-captivates-skywatchers-worldwide-as-sturgeon-moon-lights-up-the-sky-photos)
 - [See Saturn and the moon in a stunning close encounter on Aug. 11](https://www.space.com/stargazing/see-moon-near-saturn-aug-11-2025)
-- [New York to Los Angeles in 3 hours? Executive order could make it possible by 2027, reopening the door for commercial supersonic flight](https://www.space.com/technology/aerospace/new-york-to-los-angeles-in-3-hours-executive-order-could-make-it-possible-by-2027-reopening-the-door-for-commercial-supersonic-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
