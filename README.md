@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. government seized $1 million from Russian ransomware gang](https://techcrunch.com/2025/08/11/u-s-government-seized-1-million-from-russian-ransomware-gang/)
+- [Meteorite that punched a hole through Georgia roof may be older than Earth itself](https://www.space.com/stargazing/meteorite-that-punched-a-hole-through-georgia-roof-may-be-older-than-earth-itself)
+- [How founders are ditching VC norms and finding capital on their own terms at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/11/how-founders-are-ditching-vc-norms-and-finding-capital-on-their-own-terms-at-techcrunch-disrupt-2025/)
 - [James Webb telescope reveals &#39;Sleeping Beauty&#39; galaxies in the early universe — snoozing where they weren&#39;t supposed to exist](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-telescope-reveals-sleeping-beauty-galaxies-in-the-early-universe-snoozing-where-they-werent-supposed-to-exist)
-- [Ocean’s new app brings inbox triage, tasks and invites to Gmail users](https://techcrunch.com/2025/08/11/oceans-new-app-brings-inbox-triage-tasks-and-invites-to-gmail-users/)
-- [Made by Google 2025: How to watch Google debut the Pixel 10, Pixel Watch 4, and more](https://techcrunch.com/2025/08/11/made-by-google-2025-how-to-watch-google-debut-the-pixel-10-pixel-watch-4-and-more/)
-- [Trump administration stops illegal freeze of $5B EV charger funds after losing in court](https://techcrunch.com/2025/08/11/trump-administration-stops-illegal-freeze-of-5b-ev-charger-funds-after-losing-in-court/)
-- [&#39;He&#39;s totally misread that book&#39; — &#39;Alien: Earth&#39; cast talks &#39;Peter Pan&#39; references,  AI warnings, and navigating complex roles &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/hes-totally-misread-that-book-alien-earth-cast-talks-peter-pan-references-ai-warnings-and-navigating-complex-roles-exclusive)
+- [Ocean’s new app brings inbox triage, tasks, and invites to Gmail users](https://techcrunch.com/2025/08/11/oceans-new-app-brings-inbox-triage-tasks-and-invites-to-gmail-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
