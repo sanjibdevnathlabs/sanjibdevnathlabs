@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Slow Ventures cuts first check from $60M creator fund into woodworking founder](https://techcrunch.com/2025/08/11/slow-ventures-cuts-first-check-from-60m-creator-fund-into-woodworking-founder/)
 - [iOS 26 beta 6 adds new ringtones, snappy app launches, and more](https://techcrunch.com/2025/08/11/ios-26-beta-6-adds-new-ringtones-snappy-app-launches-and-more/)
 - [Skyrora becomes 1st British company to get license to launch from the UK](https://www.space.com/space-exploration/launches-spacecraft/skyrora-becomes-1st-british-company-to-get-license-to-launch-from-the-uk)
 - [Poshmark CEO and founder to step down](https://techcrunch.com/2025/08/11/poshmark-ceo-and-founder-to-step-down/)
 - [Can you name all the planets in order in the solar system? Try our new quiz to find out!](https://www.space.com/astronomy/solar-system/can-you-name-all-the-planets-in-order-in-the-solar-system-try-our-new-quiz-to-find-out)
-- [US government seized $1M from Russian ransomware gang](https://techcrunch.com/2025/08/11/u-s-government-seized-1-million-from-russian-ransomware-gang/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
