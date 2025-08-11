@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ISS astronaut captures breathtaking star trails | Space photo of the day for Aug. 11, 2025](https://www.space.com/space-exploration/international-space-station/iss-astronaut-captures-breathtaking-star-trails-space-photo-of-the-day-for-aug-11-2025)
+- [Apple’s new Siri may allow users to operate apps just using voice](https://techcrunch.com/2025/08/11/apples-new-siri-may-allow-users-to-operate-apps-just-using-voice/)
 - [Is astronomy safe from organized scientific fraud?](https://www.space.com/astronomy/is-astronomy-safe-from-organized-scientific-fraud)
 - [Smithsonian Planetarium star projector review](https://www.space.com/technology/smithsonian-planetarium-star-projector-review)
 - [Nigerian profitable food delivery Chowdeck lands $9M from Novastar, Y Combinator](https://techcrunch.com/2025/08/11/nigeria-profitable-food-delivery-chowdeck-lands-9m-from-novastar-y-combinator/)
-- [Security flaws in a carmaker’s web portal let one hacker remotely unlock cars from anywhere](https://techcrunch.com/2025/08/10/security-flaws-in-a-carmakers-web-portal-let-one-hacker-remotely-unlock-cars-from-anywhere/)
-- [Why investors just bet $85M on this Indian company’s generic drug strategy](https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
