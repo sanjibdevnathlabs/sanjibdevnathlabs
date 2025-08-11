@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Mobility: The triple punch headed for automakers](https://techcrunch.com/2025/08/11/techcrunch-mobility-the-triple-punch-headed-for-automakers/)
+- [Electronic Arts blocks more than 300,000 attempts to cheat after launching Battlefield 6 beta](https://techcrunch.com/2025/08/11/electronic-arts-blocks-more-than-300000-attempts-to-cheat-after-launching-battlefield-6-beta/)
+- [NASA&#39;s Roman Space Telescope gets its &#39;extremely strong sunblock&#39; installed](https://www.space.com/space-exploration/missions/nasas-roman-space-telescope-gets-its-extremely-strong-sunblock-installed)
+- [Revel shuts down its ride-hail business to focus on EV charging](https://techcrunch.com/2025/08/11/revel-shuts-down-its-ride-hail-business-to-focus-on-ev-charging/)
 - [Nvidia unveils new Cosmos world models, infra for robotics and physical uses](https://techcrunch.com/2025/08/11/nvidia-unveils-new-cosmos-world-models-other-infra-for-physical-applications-of-ai/)
-- [Mars orbiter looks deep into chasms and valleys on the Martian surface](https://www.space.com/astronomy/mars/mars-orbiter-looks-deep-into-chasms-and-valleys-on-the-martian-surface)
-- [Elon Musk confirms shutdown of Tesla Dojo, ‘an evolutionary dead end’](https://techcrunch.com/2025/08/11/elon-musk-confirms-shutdown-of-tesla-dojo-an-evolutionary-dead-end/)
-- [Ford throws out Henry Ford’s assembly line to make low-cost EVs in America](https://techcrunch.com/2025/08/11/ford-throws-out-henry-fords-assembly-line-to-make-low-cost-evs-in-america/)
-- [Astronomers find bizarre &#39;Cosmic Grapes&#39; galaxy in the early universe. Here&#39;s why that&#39;s a big deal &lpar;photo&rpar;](https://www.space.com/astronomy/james-webb-space-telescope/astronomers-find-bizarre-cosmic-grapes-galaxy-in-the-early-universe-heres-why-thats-a-big-deal-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
