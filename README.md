@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Security flaws in a carmaker’s web portal let one hacker remotely unlock cars from anywhere](https://techcrunch.com/2025/08/10/security-flaws-in-a-carmakers-web-portal-let-one-hacker-remotely-unlock-cars-from-anywhere/)
+- [Why investors just bet $85M on this Indian company’s generic drug strategy](https://techcrunch.com/2025/08/10/truemeds-challenged-how-indians-buy-medicine-and-saw-a-3-6x-jump-in-valuation/)
 - [The hidden cost of living amid Mark Zuckerberg’s $110M compound](https://techcrunch.com/2025/08/10/the-hidden-cost-of-living-amid-mark-zuckerbergs-110m-compound/)
 - [The computer science dream has become a nightmare](https://techcrunch.com/2025/08/10/the-computer-science-dream-has-become-a-nightmare/)
 - [Stanford sticks with legacy admissions](https://techcrunch.com/2025/08/10/stanford-sticks-with-legacy-admissions/)
-- [Are these names of real spacecraft or fictional ones? Test your sci-fi smarts in our quiz!](https://www.space.com/entertainment/are-these-names-of-real-spacecraft-or-fictional-ones-test-your-sci-fi-smarts-in-our-quiz)
-- [Light pollution is encroaching on observatories around the globe – making it harder for astronomers to study the cosmos](https://www.space.com/astronomy/light-pollution-is-encroaching-on-observatories-around-the-globe-making-it-harder-for-astronomers-to-study-the-cosmos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
