@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb telescope reveals &#39;Sleeping Beauty&#39; galaxies in the early universe — snoozing where they weren&#39;t supposed to exist](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-telescope-reveals-sleeping-beauty-galaxies-in-the-early-universe-snoozing-where-they-werent-supposed-to-exist)
+- [Ocean’s new app brings inbox triage, tasks and invites to Gmail users](https://techcrunch.com/2025/08/11/oceans-new-app-brings-inbox-triage-tasks-and-invites-to-gmail-users/)
 - [Made by Google 2025: How to watch Google debut the Pixel 10, Pixel Watch 4, and more](https://techcrunch.com/2025/08/11/made-by-google-2025-how-to-watch-google-debut-the-pixel-10-pixel-watch-4-and-more/)
-- [Trump admin stops illegal freeze of $5B EV charger funds after losing in court](https://techcrunch.com/2025/08/11/trump-admin-stops-illegal-freeze-of-5b-ev-charger-funds-after-losing-in-court/)
+- [Trump administration stops illegal freeze of $5B EV charger funds after losing in court](https://techcrunch.com/2025/08/11/trump-administration-stops-illegal-freeze-of-5b-ev-charger-funds-after-losing-in-court/)
 - [&#39;He&#39;s totally misread that book&#39; — &#39;Alien: Earth&#39; cast talks &#39;Peter Pan&#39; references,  AI warnings, and navigating complex roles &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/hes-totally-misread-that-book-alien-earth-cast-talks-peter-pan-references-ai-warnings-and-navigating-complex-roles-exclusive)
-- [GitHub CEO to step down](https://techcrunch.com/2025/08/11/github-ceo-to-step-down/)
-- [iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event](https://techcrunch.com/2025/08/11/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
