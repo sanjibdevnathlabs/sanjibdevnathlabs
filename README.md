@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch Mobility: The triple punch headed for automakers](https://techcrunch.com/2025/08/11/techcrunch-mobility-the-triple-punch-headed-for-automakers/)
-- [Electronic Arts blocks more than 300,000 attempts to cheat after launching Battlefield 6 beta](https://techcrunch.com/2025/08/11/electronic-arts-blocks-more-than-300000-attempts-to-cheat-after-launching-battlefield-6-beta/)
-- [NASA&#39;s Roman Space Telescope gets its &#39;extremely strong sunblock&#39; installed](https://www.space.com/space-exploration/missions/nasas-roman-space-telescope-gets-its-extremely-strong-sunblock-installed)
-- [Revel shuts down its ride-hail business to focus on EV charging](https://techcrunch.com/2025/08/11/revel-shuts-down-its-ride-hail-business-to-focus-on-ev-charging/)
-- [Nvidia unveils new Cosmos world models, infra for robotics and physical uses](https://techcrunch.com/2025/08/11/nvidia-unveils-new-cosmos-world-models-other-infra-for-physical-applications-of-ai/)
+- [Made by Google 2025: How to watch Google debut the Pixel 10, Pixel Watch 4, and more](https://techcrunch.com/2025/08/11/made-by-google-2025-how-to-watch-google-debut-the-pixel-10-pixel-watch-4-and-more/)
+- [Trump admin stops illegal freeze of $5B EV charger funds after losing in court](https://techcrunch.com/2025/08/11/trump-admin-stops-illegal-freeze-of-5b-ev-charger-funds-after-losing-in-court/)
+- [&#39;He&#39;s totally misread that book&#39; — &#39;Alien: Earth&#39; cast talks &#39;Peter Pan&#39; references,  AI warnings, and navigating complex roles &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/hes-totally-misread-that-book-alien-earth-cast-talks-peter-pan-references-ai-warnings-and-navigating-complex-roles-exclusive)
+- [GitHub CEO to step down](https://techcrunch.com/2025/08/11/github-ceo-to-step-down/)
+- [iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event](https://techcrunch.com/2025/08/11/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
