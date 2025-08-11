@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [iOS 26 beta 6 adds new ringtones, snappy app launches, and more](https://techcrunch.com/2025/08/11/ios-26-beta-6-adds-new-ringtones-snappy-app-launches-and-more/)
 - [Skyrora becomes 1st British company to get license to launch from the UK](https://www.space.com/space-exploration/launches-spacecraft/skyrora-becomes-1st-british-company-to-get-license-to-launch-from-the-uk)
+- [Poshmark CEO and founder to step down](https://techcrunch.com/2025/08/11/poshmark-ceo-and-founder-to-step-down/)
 - [Can you name all the planets in order in the solar system? Try our new quiz to find out!](https://www.space.com/astronomy/solar-system/can-you-name-all-the-planets-in-order-in-the-solar-system-try-our-new-quiz-to-find-out)
-- [Meteorite that punched a hole through Georgia roof may be older than Earth itself](https://www.space.com/stargazing/meteorite-that-punched-a-hole-through-georgia-roof-may-be-older-than-earth-itself)
-- [James Webb telescope reveals &#39;Sleeping Beauty&#39; galaxies in the early universe — snoozing where they weren&#39;t supposed to exist](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-telescope-reveals-sleeping-beauty-galaxies-in-the-early-universe-snoozing-where-they-werent-supposed-to-exist)
-- [&#39;He&#39;s totally misread that book&#39; — &#39;Alien: Earth&#39; cast talks &#39;Peter Pan&#39; references,  AI warnings, and navigating complex roles &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/hes-totally-misread-that-book-alien-earth-cast-talks-peter-pan-references-ai-warnings-and-navigating-complex-roles-exclusive)
+- [US government seized $1M from Russian ransomware gang](https://techcrunch.com/2025/08/11/u-s-government-seized-1-million-from-russian-ransomware-gang/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
