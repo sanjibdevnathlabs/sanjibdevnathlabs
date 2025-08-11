@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia unveils new Cosmos world models, infra for robotics and physical uses](https://techcrunch.com/2025/08/11/nvidia-unveils-new-cosmos-world-models-other-infra-for-physical-applications-of-ai/)
+- [Mars orbiter looks deep into chasms and valleys on the Martian surface](https://www.space.com/astronomy/mars/mars-orbiter-looks-deep-into-chasms-and-valleys-on-the-martian-surface)
+- [Elon Musk confirms shutdown of Tesla Dojo, ‘an evolutionary dead end’](https://techcrunch.com/2025/08/11/elon-musk-confirms-shutdown-of-tesla-dojo-an-evolutionary-dead-end/)
+- [Ford throws out Henry Ford’s assembly line to make low-cost EVs in America](https://techcrunch.com/2025/08/11/ford-throws-out-henry-fords-assembly-line-to-make-low-cost-evs-in-america/)
 - [Astronomers find bizarre &#39;Cosmic Grapes&#39; galaxy in the early universe. Here&#39;s why that&#39;s a big deal &lpar;photo&rpar;](https://www.space.com/astronomy/james-webb-space-telescope/astronomers-find-bizarre-cosmic-grapes-galaxy-in-the-early-universe-heres-why-thats-a-big-deal-photo)
-- [Nvidia, AMD may sell high-end AI chips to China if they pay US a cut](https://techcrunch.com/2025/08/11/nvidia-amd-may-sell-high-end-ai-chips-to-china-if-they-pay-us-a-cut/)
-- [Don&#39;t miss Perseid meteor shower 2025 peak Aug. 12-13: Here&#39;s what you need to know](https://www.space.com/stargazing/meteor-showers/dont-miss-perseid-meteor-shower-2025-peak-aug-12-13-heres-what-you-need-to-know)
-- [ISS astronaut captures breathtaking star trails | Space photo of the day for Aug. 11, 2025](https://www.space.com/space-exploration/international-space-station/iss-astronaut-captures-breathtaking-star-trails-space-photo-of-the-day-for-aug-11-2025)
-- [Apple’s new Siri may allow users to operate apps just using voice](https://techcrunch.com/2025/08/11/apples-new-siri-may-allow-users-to-operate-apps-just-using-voice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
