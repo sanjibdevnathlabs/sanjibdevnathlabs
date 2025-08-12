@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google will now let you pick your top sources for search results](https://techcrunch.com/2025/08/12/google-will-now-allow-you-define-your-top-sources-for-search-results/)
-- [Uber Freight CEO Lior Ron leaves to join self-driving startup Waabi as COO](https://techcrunch.com/2025/08/12/uber-freight-ceo-lior-ron-joins-self-driving-startup-waabi-as-chief-operating-officer/)
-- [New Pluto mission could uncover dwarf planet&#39;s hidden ocean — if the &#39;queen of the underworld&#39; gets to fly](https://www.space.com/astronomy/pluto/new-pluto-mission-could-uncover-dwarf-planets-hidden-ocean-if-the-queen-of-the-underworld-gets-to-fly)
-- [Watch Vulcan Centaur rocket launch experimental military satellite today](https://www.space.com/space-exploration/launches-spacecraft/watch-vulcan-centaur-rocket-launch-experimental-military-satellite-on-aug-12)
-- [Australian court finds Apple, Google abused app store market power](https://techcrunch.com/2025/08/12/australian-court-finds-apple-google-abused-app-store-market-power/)
+- [Anthropic’s Claude AI model can now handle longer prompts](https://techcrunch.com/2025/08/12/anthropics-claude-ai-model-can-now-handle-longer-prompts/)
+- [A guide to using Edits, Meta’s CapCut rival for short-form video editing](https://techcrunch.com/2025/08/12/a-guide-to-using-edits-metas-new-capcut-rival-for-short-form-video-editing/)
+- [Today is the last chance to secure an exclusive NordVPN deal, perfect for watching Alien: Earth anywhere in the world](https://www.space.com/entertainment/last-chance-nordvpn-deal-perfect-for-watching-alien-earth-anywhere-in-the-world)
+- [In a world of vibe coding startups, Uno Platform is targeting enterprise developers](https://techcrunch.com/2025/08/12/in-a-world-of-vibe-coding-startups-uno-platform-is-targeting-enterprise-developers/)
+- [Watch Europe&#39;s powerful Ariane 6 rocket launch for the 3rd time ever tonight](https://www.space.com/space-exploration/launches-spacecraft/europe-ariane-6-rocket-third-launch-metop-sga1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
