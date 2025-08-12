@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch Vulcan Centaur rocket launch experimental military satellite on Aug. 12](https://www.space.com/space-exploration/launches-spacecraft/watch-vulcan-centaur-rocket-launch-experimental-military-satellite-on-aug-12)
+- [Google will now let you pick your top sources for search results](https://techcrunch.com/2025/08/12/google-will-now-allow-you-define-your-top-sources-for-search-results/)
+- [Uber Freight CEO Lior Ron leaves to join self-driving startup Waabi as COO](https://techcrunch.com/2025/08/12/uber-freight-ceo-lior-ron-joins-self-driving-startup-waabi-as-chief-operating-officer/)
+- [New Pluto mission could uncover dwarf planet&#39;s hidden ocean — if the &#39;queen of the underworld&#39; gets to fly](https://www.space.com/astronomy/pluto/new-pluto-mission-could-uncover-dwarf-planets-hidden-ocean-if-the-queen-of-the-underworld-gets-to-fly)
+- [Watch Vulcan Centaur rocket launch experimental military satellite today](https://www.space.com/space-exploration/launches-spacecraft/watch-vulcan-centaur-rocket-launch-experimental-military-satellite-on-aug-12)
 - [Australian court finds Apple, Google abused app store market power](https://techcrunch.com/2025/08/12/australian-court-finds-apple-google-abused-app-store-market-power/)
-- [Know this photo? Test your knowledge of these famous firsts in our astrophotography quiz!](https://www.space.com/stargazing/know-this-photo-test-your-knowledge-of-these-famous-firsts-in-our-astrophotography-quiz)
-- [How a once-tiny research lab helped Nvidia become a $4 trillion-dollar company](https://techcrunch.com/2025/08/12/how-a-once-tiny-research-lab-helped-nvidia-become-a-4-trillion-dollar-company/)
-- [Hubble spots stars forming in the Tarantula nebula | Space photo of the day for Aug. 12, 2025](https://www.space.com/astronomy/hubble-space-telescope/hubble-spots-stars-forming-in-the-tarantula-nebula-space-photo-of-the-day-for-aug-12-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
