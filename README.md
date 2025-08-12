@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virgin Galactic&#39;s new Delta class space plane could fly as soon as fall 2026](https://www.space.com/space-exploration/launches-spacecraft/virgin-galactics-new-delta-class-space-plane-could-fly-as-soon-as-fall-2026)
 - [Indian fintech Paytm wins a major regulatory battle days after key investor exit](https://techcrunch.com/2025/08/12/indian-fintech-paytm-wins-a-major-regulatory-battle-days-after-key-investor-exit/)
 - [1 year until the total solar eclipse 2026: Here&#39;s what you need to know](https://www.space.com/stargazing/solar-eclipses/1-year-until-the-total-solar-eclipse-2026-heres-what-you-need-to-know)
 - [Match to pay $14M to the FTC due to false advertising and other deceptive practices](https://techcrunch.com/2025/08/12/match-to-pay-14m-to-the-ftc-due-to-false-advertising-and-other-deceptive-practices/)
 - [We tracked illegal fishing in marine protected areas – satellites and AI show most bans are respected, and could help enforce future ones](https://www.space.com/astronomy/earth/we-tracked-illegal-fishing-in-marine-protected-areas-satellites-and-ai-show-most-bans-are-respected-and-could-help-enforce-future-ones)
-- [AI companion apps on track to pull in $120M in 2025](https://techcrunch.com/2025/08/12/ai-companion-apps-on-track-to-pull-in-120m-in-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
