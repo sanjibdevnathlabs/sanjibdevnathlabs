@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity offers to buy Chrome for billions more than it’s raised](https://techcrunch.com/2025/08/12/perplexity-offers-to-buy-chrome-for-billions-more-than-its-raised/)
+- [Watch the 2025 Perseid meteor shower peak tonight in free webcast](https://www.space.com/stargazing/meteor-showers/watch-the-2025-perseid-meteor-shower-peak-tonight-in-free-webcast)
+- [Threads now has more than 400 million monthly active users](https://techcrunch.com/2025/08/12/threads-now-has-more-than-400-million-monthly-active-users/)
+- [Pixel 10, AI capabilities, and everything else we expect out of the Made by Google 2025 event](https://techcrunch.com/2025/08/12/pixel-10-ai-capabilities-and-everything-else-we-expect-out-of-the-made-by-google-2025-event/)
 - [Anthropic’s Claude AI model can now handle longer prompts](https://techcrunch.com/2025/08/12/anthropics-claude-ai-model-can-now-handle-longer-prompts/)
-- [A guide to using Edits, Meta’s CapCut rival for short-form video editing](https://techcrunch.com/2025/08/12/a-guide-to-using-edits-metas-new-capcut-rival-for-short-form-video-editing/)
-- [Today is the last chance to secure an exclusive NordVPN deal, perfect for watching Alien: Earth anywhere in the world](https://www.space.com/entertainment/last-chance-nordvpn-deal-perfect-for-watching-alien-earth-anywhere-in-the-world)
-- [In a world of vibe coding startups, Uno Platform is targeting enterprise developers](https://techcrunch.com/2025/08/12/in-a-world-of-vibe-coding-startups-uno-platform-is-targeting-enterprise-developers/)
-- [Watch Europe&#39;s powerful Ariane 6 rocket launch for the 3rd time ever tonight](https://www.space.com/space-exploration/launches-spacecraft/europe-ariane-6-rocket-third-launch-metop-sga1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
