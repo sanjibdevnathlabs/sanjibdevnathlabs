@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble spots stars forming in the Tarantula nebula | Space photo of the day for Aug. 12, 2025](https://www.space.com/astronomy/hubble-space-telescope/hubble-spots-stars-forming-in-the-tarantula-nebula-space-photo-of-the-day-for-aug-12-2025)
+- [Scientists may have found a powerful new space object: &#39;It doesn&#39;t fit comfortably into any known category&#39;](https://www.space.com/astronomy/scientists-may-have-found-a-powerful-new-space-object-it-doesnt-fit-comfortably-into-any-known-category)
+- [How to watch &#39;Alien: Earth&#39; online and from anywhere](https://www.space.com/entertainment/space-movies-shows/how-to-watch-alien-earth-online-and-from-anywhere)
 - [TDK backs Ultraviolette with $21M to take India-made electric motorcycles global](https://techcrunch.com/2025/08/11/tdk-backs-ultraviolette-with-21m-to-take-india-made-electric-motorcycles-global/)
 - [Pronto’s 10-minute house help pitch sparked a 3.6x valuation jump in just 90 days](https://techcrunch.com/2025/08/11/prontos-10-minute-house-help-pitch-sparked-a-3-6x-valuation-jump-in-just-90-days/)
-- [Seoul-based Datumo raises $15.5M to take on Scale AI, backed by Salesforce](https://techcrunch.com/2025/08/11/seoul-based-datumo-raises-15-5m-to-expand-llm-evaluation-challenging-scale-ai/)
-- [Slow Ventures cuts first check from $60M creator fund into woodworking founder](https://techcrunch.com/2025/08/11/slow-ventures-cuts-first-check-from-60m-creator-fund-into-woodworking-founder/)
-- [iOS 26 beta 6 adds new ringtones, snappy app launches, and more](https://techcrunch.com/2025/08/11/ios-26-beta-6-adds-new-ringtones-snappy-app-launches-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
