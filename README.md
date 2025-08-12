@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We tracked illegal fishing in marine protected areas – satellites and AI show most bans are respected, and could help enforce future ones](https://www.space.com/astronomy/earth/we-tracked-illegal-fishing-in-marine-protected-areas-satellites-and-ai-show-most-bans-are-respected-and-could-help-enforce-future-ones)
+- [AI companion apps on track to pull in $120M in 2025](https://techcrunch.com/2025/08/12/ai-companion-apps-on-track-to-pull-in-120m-in-2025/)
+- [Hackers breach and expose a major North Korean spying operation](https://techcrunch.com/2025/08/12/hackers-breach-and-expose-a-major-north-korean-spying-operation/)
+- [Google vet raises $8M for Continua to bring AI agents to group chats](https://techcrunch.com/2025/08/12/google-vet-raises-8m-for-continua-to-bring-ai-agents-to-group-chats/)
 - [Perplexity offers to buy Chrome for billions more than it’s raised](https://techcrunch.com/2025/08/12/perplexity-offers-to-buy-chrome-for-billions-more-than-its-raised/)
-- [Watch the 2025 Perseid meteor shower peak tonight in free webcast](https://www.space.com/stargazing/meteor-showers/watch-the-2025-perseid-meteor-shower-peak-tonight-in-free-webcast)
-- [Threads now has more than 400 million monthly active users](https://techcrunch.com/2025/08/12/threads-now-has-more-than-400-million-monthly-active-users/)
-- [Pixel 10, AI capabilities, and everything else we expect out of the Made by Google 2025 event](https://techcrunch.com/2025/08/12/pixel-10-ai-capabilities-and-everything-else-we-expect-out-of-the-made-by-google-2025-event/)
-- [Anthropic’s Claude AI model can now handle longer prompts](https://techcrunch.com/2025/08/12/anthropics-claude-ai-model-can-now-handle-longer-prompts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
