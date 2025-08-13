@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perseid meteor shower 2025 outshines moon to put on a spectacular show &lpar;photos&rpar;](https://www.space.com/stargazing/meteor-showers/perseid-meteor-shower-2025-outshines-moon-to-put-on-a-spectacular-display-photos)
 - [This real &#39;Eye of Sauron&#39; spits out ghost particles in space. Here&#39;s what it looks like](https://www.space.com/astronomy/this-real-eye-of-sauron-spits-out-ghost-particles-in-space-heres-what-it-looks-like)
 - [The Lego Technic Mars Rover Perseverance is now one of its lowest-ever prices on Amazon, with almost 20% off](https://www.space.com/entertainment/the-lego-technic-mars-rover-perseverance-is-now-one-of-its-lowest-ever-prices-with-almost-20-percent-off)
 - [ChatGPT’s model picker is back, and it’s complicated](https://techcrunch.com/2025/08/12/chatgpts-model-picker-is-back-and-its-complicated/)
 - [Sam Altman, OpenAI will reportedly back a startup that takes on Musk’s Neuralink](https://techcrunch.com/2025/08/12/sam-altman-openai-will-reportedly-back-a-startup-that-takes-on-musks-neuralink/)
-- [StubHub is once again working on its IPO that could raise $1B](https://techcrunch.com/2025/08/12/stubhub-is-once-again-working-on-its-ipo-that-could-raise-1b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
