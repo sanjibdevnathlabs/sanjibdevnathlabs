@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 2 Orion spacecraft fuels up and moves closer to launch](https://www.space.com/space-exploration/artemis/nasas-artemis-2-orion-spacecraft-fuels-up-and-moves-closer-to-launch)
 - [India’s Rapido begins testing food delivery to take on Swiggy, Zomato](https://techcrunch.com/2025/08/13/indias-rapido-begins-testing-food-delivery-to-take-on-swiggy-zomato/)
 - [Instagram is developing a feature that helps users find shared interests](https://techcrunch.com/2025/08/13/instagram-is-developing-a-feature-that-helps-users-find-shared-interests/)
 - [Monarch Tractors won’t be built by Foxconn after Ohio factory sale](https://techcrunch.com/2025/08/13/monarch-tractors-wont-be-built-by-foxconn-after-ohio-factory-sale/)
 - [NASA has sparked a race to develop the data pipeline to Mars](https://techcrunch.com/2025/08/13/nasa-has-sparked-a-race-to-develop-the-data-pipeline-to-mars/)
-- [&quot;You will tell me everything&quot;: Exclusive &#39;Foundation&#39; Season 3 clip shows a tense reunion for Demerzel and Gaal Dornick &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/you-will-tell-me-everything-exclusive-foundation-season-3-clip-shows-a-tense-reunion-for-demerzel-and-gaal-dornick-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
