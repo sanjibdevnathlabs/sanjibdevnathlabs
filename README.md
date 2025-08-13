@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT’s model picker is back, and it’s complicated](https://techcrunch.com/2025/08/12/chatgpts-model-picker-is-back-and-its-complicated/)
 - [Sam Altman, OpenAI will reportedly back a startup that takes on Musk’s Neuralink](https://techcrunch.com/2025/08/12/sam-altman-openai-will-reportedly-back-a-startup-that-takes-on-musks-neuralink/)
 - [StubHub is once again working on its IPO that could raise $1B](https://techcrunch.com/2025/08/12/stubhub-is-once-again-working-on-its-ipo-that-could-raise-1b/)
 - [How realistic is the xenomorph in &#39;Alien: Earth&#39;? We asked a zoologist how its biology and lifecycle compare to real animals](https://www.space.com/entertainment/space-movies-shows/how-realistic-is-the-xenomorph-in-alien-earth-we-asked-a-zoologist-how-its-biology-and-lifecycle-compare-to-real-animals)
 - [Russian government hackers said to be behind US federal court filing system hack: Report](https://techcrunch.com/2025/08/12/russian-government-hackers-said-to-be-behind-us-federal-court-filing-system-hack-report/)
-- [Virgin Galactic&#39;s new Delta class space plane could fly as soon as fall 2026](https://www.space.com/space-exploration/launches-spacecraft/virgin-galactics-new-delta-class-space-plane-could-fly-as-soon-as-fall-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
