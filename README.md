@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Co-founder of Elon Musk’s xAI departs the company](https://techcrunch.com/2025/08/13/co-founder-of-elon-musks-xai-departs-the-company/)
 - [China launches 8th batch of satellites for 13,000-strong internet megaconstellation &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-launches-8th-batch-satellites-guowang-satnet-internet-megaconstellation-video)
 - [Waymo finally has a music experience worthy of its robotaxi](https://techcrunch.com/2025/08/13/waymo-finally-has-a-music-experience-worthy-of-its-robotaxi/)
 - [Trailblazing women in space quiz: Can you name the first five female astronauts in space?](https://www.space.com/space-exploration/human-spaceflight/trailblazing-women-in-space-quiz-can-you-name-the-first-five-female-astronauts-in-space)
 - [Google CEO adds a new calendar feature at Stripe co-founder’s request](https://techcrunch.com/2025/08/13/google-ceo-adds-a-new-calendar-feature-at-stripe-co-founders-request/)
-- [NASA&#39;s Artemis 2 Orion spacecraft fuels up and moves closer to launch](https://www.space.com/space-exploration/artemis/nasas-artemis-2-orion-spacecraft-fuels-up-and-moves-closer-to-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
