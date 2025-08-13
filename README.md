@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I finally left Spotify](https://techcrunch.com/2025/08/13/why-i-finally-left-spotify/)
+- [NeoLogic wants to build more energy-efficient CPUs for AI data centers](https://techcrunch.com/2025/08/13/neologic-wants-to-build-more-energy-efficient-cpus-for-ai-data-centers/)
+- [China&#39;s moon lander passes key test | Space photo of the day for Aug. 13, 2025](https://www.space.com/astronomy/moon/chinas-moon-lander-passes-key-test-space-photo-of-the-day-for-aug-13-2025)
 - [Perseid meteor shower 2025 outshines moon to put on a spectacular show &lpar;photos&rpar;](https://www.space.com/stargazing/meteor-showers/perseid-meteor-shower-2025-outshines-moon-to-put-on-a-spectacular-display-photos)
 - [This real &#39;Eye of Sauron&#39; spits out ghost particles in space. Here&#39;s what it looks like](https://www.space.com/astronomy/this-real-eye-of-sauron-spits-out-ghost-particles-in-space-heres-what-it-looks-like)
-- [The Lego Technic Mars Rover Perseverance is now one of its lowest-ever prices on Amazon, with almost 20% off](https://www.space.com/entertainment/the-lego-technic-mars-rover-perseverance-is-now-one-of-its-lowest-ever-prices-with-almost-20-percent-off)
-- [ChatGPT’s model picker is back, and it’s complicated](https://techcrunch.com/2025/08/12/chatgpts-model-picker-is-back-and-its-complicated/)
-- [Sam Altman, OpenAI will reportedly back a startup that takes on Musk’s Neuralink](https://techcrunch.com/2025/08/12/sam-altman-openai-will-reportedly-back-a-startup-that-takes-on-musks-neuralink/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
