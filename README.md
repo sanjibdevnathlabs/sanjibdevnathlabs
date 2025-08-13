@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple dismisses Elon Musk’s claims that App Store favors OpenAI over other AI apps](https://techcrunch.com/2025/08/13/apple-dismisses-elon-musks-claims-that-app-store-favors-openai-over-other-ai-apps/)
+- [New lunar surface simulator in Colorado puts moon machinery to the test](https://www.space.com/astronomy/moon/new-lunar-surface-simulator-in-colorado-puts-moon-machinery-to-the-test)
 - [Why I finally left Spotify](https://techcrunch.com/2025/08/13/why-i-finally-left-spotify/)
 - [NeoLogic wants to build more energy-efficient CPUs for AI data centers](https://techcrunch.com/2025/08/13/neologic-wants-to-build-more-energy-efficient-cpus-for-ai-data-centers/)
 - [China&#39;s moon lander passes key test | Space photo of the day for Aug. 13, 2025](https://www.space.com/astronomy/moon/chinas-moon-lander-passes-key-test-space-photo-of-the-day-for-aug-13-2025)
-- [Perseid meteor shower 2025 outshines moon to put on a spectacular show &lpar;photos&rpar;](https://www.space.com/stargazing/meteor-showers/perseid-meteor-shower-2025-outshines-moon-to-put-on-a-spectacular-display-photos)
-- [This real &#39;Eye of Sauron&#39; spits out ghost particles in space. Here&#39;s what it looks like](https://www.space.com/astronomy/this-real-eye-of-sauron-spits-out-ghost-particles-in-space-heres-what-it-looks-like)
 <!-- BLOG-POST-LIST:END -->
 
 ---
