@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This real &#39;Eye of Sauron&#39; spits out ghost particles in space. Here&#39;s what it looks like](https://www.space.com/astronomy/this-real-eye-of-sauron-spits-out-ghost-particles-in-space-heres-what-it-looks-like)
+- [The Lego Technic Mars Rover Perseverance is now one of its lowest-ever prices on Amazon, with almost 20% off](https://www.space.com/entertainment/the-lego-technic-mars-rover-perseverance-is-now-one-of-its-lowest-ever-prices-with-almost-20-percent-off)
 - [ChatGPT’s model picker is back, and it’s complicated](https://techcrunch.com/2025/08/12/chatgpts-model-picker-is-back-and-its-complicated/)
 - [Sam Altman, OpenAI will reportedly back a startup that takes on Musk’s Neuralink](https://techcrunch.com/2025/08/12/sam-altman-openai-will-reportedly-back-a-startup-that-takes-on-musks-neuralink/)
 - [StubHub is once again working on its IPO that could raise $1B](https://techcrunch.com/2025/08/12/stubhub-is-once-again-working-on-its-ipo-that-could-raise-1b/)
-- [How realistic is the xenomorph in &#39;Alien: Earth&#39;? We asked a zoologist how its biology and lifecycle compare to real animals](https://www.space.com/entertainment/space-movies-shows/how-realistic-is-the-xenomorph-in-alien-earth-we-asked-a-zoologist-how-its-biology-and-lifecycle-compare-to-real-animals)
-- [Russian government hackers said to be behind US federal court filing system hack: Report](https://techcrunch.com/2025/08/12/russian-government-hackers-said-to-be-behind-us-federal-court-filing-system-hack-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
