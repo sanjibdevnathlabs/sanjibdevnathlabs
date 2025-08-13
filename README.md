@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Perseverance rover spies mysterious &#39;helmet&#39; on Mars &lpar;photo&rpar;](https://www.space.com/astronomy/mars/nasas-perseverance-rover-spies-mysterious-helmet-on-mars-photo)
-- [Tony Robbins and Peter Diamandis’ longevity company Fountain Life raises $18M](https://techcrunch.com/2025/08/13/tony-robbins-and-peter-diamandis-longevity-company-fountain-life-raises-18m/)
-- [Is water really a necessary ingredient for life? Aliens may swim in truly exotic pools](https://www.space.com/space-exploration/search-for-life/is-water-really-a-necessary-ingredient-for-life-aliens-may-swim-in-truly-exotic-pools)
-- [Amazon rolls out same-day delivery of perishable groceries in 1,000 US cities](https://techcrunch.com/2025/08/13/amazon-rolls-out-same-day-delivery-of-perishable-groceries-in-1000-us-cities/)
-- [How we found TeaOnHer spilling users’ driver’s licenses in less than 10 minutes](https://techcrunch.com/2025/08/13/how-we-found-teaonher-spilling-users-drivers-licenses-in-less-than-10-minutes/)
+- [&quot;You will tell me everything&quot;: Exclusive &#39;Foundation&#39; Season 3 clip shows a tense reunion for Demerzel and Gaal Dornick &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/you-will-tell-me-everything-exclusive-foundation-season-3-clip-shows-a-tense-reunion-for-demerzel-and-gaal-dornick-video)
+- [AI helps astronomers make a potentially major find — an exploding star being attacked by a black hole](https://www.space.com/technology/ai-helps-astronomers-make-a-potentially-major-find-an-exploding-star-being-attacked-by-a-black-hole)
+- [Pocket FM gives its writers an AI tool to transform narratives, write cliffhangers, and more](https://techcrunch.com/2025/08/13/pocket-fm-gives-its-writers-an-ai-tool-to-transform-narratives-write-cliffhangers-and-more/)
+- [Pebble’s smartwatch is back: Pebble Time 2 specs revealed](https://techcrunch.com/2025/08/13/pebbles-smartwatch-is-back-pebble-time-2-specs-revealed/)
+- [Anthropic nabs Humanloop team as competition for enterprise AI talent heats up](https://techcrunch.com/2025/08/13/anthropic-nabs-humanloop-team-as-competition-for-enterprise-ai-talent-heats-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
