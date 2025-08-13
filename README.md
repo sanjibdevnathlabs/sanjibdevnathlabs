@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How we found TeaOnHer spilling users’ driver’s licenses in less than 10 minutes](https://techcrunch.com/2025/08/13/how-we-found-teaonher-spilling-users-drivers-licenses-in-less-than-10-minutes/)
+- [Red supergiant star expels mysteriously large cloud of gas](https://www.space.com/astronomy/stars/red-supergiant-star-expels-mysteriously-large-cloud-of-gas)
+- [Satellites watch Tropical Storm Erin take shape over the Atlantic Ocean &lpar;video&rpar;](https://www.space.com/astronomy/earth/satellites-watch-tropical-storm-erin-take-shape-over-the-atlantic-ocean-video)
 - [Apple dismisses Elon Musk’s claims that App Store favors OpenAI over other AI apps](https://techcrunch.com/2025/08/13/apple-dismisses-elon-musks-claims-that-app-store-favors-openai-over-other-ai-apps/)
 - [New lunar surface simulator in Colorado puts moon machinery to the test](https://www.space.com/astronomy/moon/new-lunar-surface-simulator-in-colorado-puts-moon-machinery-to-the-test)
-- [Why I finally left Spotify](https://techcrunch.com/2025/08/13/why-i-finally-left-spotify/)
-- [NeoLogic wants to build more energy-efficient CPUs for AI data centers](https://techcrunch.com/2025/08/13/neologic-wants-to-build-more-energy-efficient-cpus-for-ai-data-centers/)
-- [China&#39;s moon lander passes key test | Space photo of the day for Aug. 13, 2025](https://www.space.com/astronomy/moon/chinas-moon-lander-passes-key-test-space-photo-of-the-day-for-aug-13-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
