@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s Rapido begins testing food delivery to take on Swiggy, Zomato](https://techcrunch.com/2025/08/13/indias-rapido-begins-testing-food-delivery-to-take-on-swiggy-zomato/)
+- [Instagram is developing a feature that helps users find shared interests](https://techcrunch.com/2025/08/13/instagram-is-developing-a-feature-that-helps-users-find-shared-interests/)
+- [Monarch Tractors won’t be built by Foxconn after Ohio factory sale](https://techcrunch.com/2025/08/13/monarch-tractors-wont-be-built-by-foxconn-after-ohio-factory-sale/)
+- [NASA has sparked a race to develop the data pipeline to Mars](https://techcrunch.com/2025/08/13/nasa-has-sparked-a-race-to-develop-the-data-pipeline-to-mars/)
 - [&quot;You will tell me everything&quot;: Exclusive &#39;Foundation&#39; Season 3 clip shows a tense reunion for Demerzel and Gaal Dornick &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/you-will-tell-me-everything-exclusive-foundation-season-3-clip-shows-a-tense-reunion-for-demerzel-and-gaal-dornick-video)
-- [AI helps astronomers make a potentially major find — an exploding star being attacked by a black hole](https://www.space.com/technology/ai-helps-astronomers-make-a-potentially-major-find-an-exploding-star-being-attacked-by-a-black-hole)
-- [Pocket FM gives its writers an AI tool to transform narratives, write cliffhangers, and more](https://techcrunch.com/2025/08/13/pocket-fm-gives-its-writers-an-ai-tool-to-transform-narratives-write-cliffhangers-and-more/)
-- [Pebble’s smartwatch is back: Pebble Time 2 specs revealed](https://techcrunch.com/2025/08/13/pebbles-smartwatch-is-back-pebble-time-2-specs-revealed/)
-- [Anthropic nabs Humanloop team as competition for enterprise AI talent heats up](https://techcrunch.com/2025/08/13/anthropic-nabs-humanloop-team-as-competition-for-enterprise-ai-talent-heats-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
