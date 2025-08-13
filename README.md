@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tony Robbins’ and Peter Diamandis’ longevity company Fountain Life raises $18M](https://techcrunch.com/2025/08/13/tony-robbins-and-peter-diamandis-longevity-company-fountain-life-raises-18m/)
+- [Is water really a necessary ingredient for life? Aliens may swim in truly exotic pools](https://www.space.com/space-exploration/search-for-life/is-water-really-a-necessary-ingredient-for-life-aliens-may-swim-in-truly-exotic-pools)
+- [Amazon rolls out same-day delivery of perishable groceries in 1,000 US cities](https://techcrunch.com/2025/08/13/amazon-rolls-out-same-day-delivery-of-perishable-groceries-in-1000-us-cities/)
 - [How we found TeaOnHer spilling users’ driver’s licenses in less than 10 minutes](https://techcrunch.com/2025/08/13/how-we-found-teaonher-spilling-users-drivers-licenses-in-less-than-10-minutes/)
 - [Red supergiant star expels mysteriously large cloud of gas](https://www.space.com/astronomy/stars/red-supergiant-star-expels-mysteriously-large-cloud-of-gas)
-- [Satellites watch Tropical Storm Erin take shape over the Atlantic Ocean &lpar;video&rpar;](https://www.space.com/astronomy/earth/satellites-watch-tropical-storm-erin-take-shape-over-the-atlantic-ocean-video)
-- [Apple dismisses Elon Musk’s claims that App Store favors OpenAI over other AI apps](https://techcrunch.com/2025/08/13/apple-dismisses-elon-musks-claims-that-app-store-favors-openai-over-other-ai-apps/)
-- [New lunar surface simulator in Colorado puts moon machinery to the test](https://www.space.com/astronomy/moon/new-lunar-surface-simulator-in-colorado-puts-moon-machinery-to-the-test)
 <!-- BLOG-POST-LIST:END -->
 
 ---
