@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tony Robbins’ and Peter Diamandis’ longevity company Fountain Life raises $18M](https://techcrunch.com/2025/08/13/tony-robbins-and-peter-diamandis-longevity-company-fountain-life-raises-18m/)
+- [NASA&#39;s Perseverance rover spies mysterious &#39;helmet&#39; on Mars &lpar;photo&rpar;](https://www.space.com/astronomy/mars/nasas-perseverance-rover-spies-mysterious-helmet-on-mars-photo)
+- [Tony Robbins and Peter Diamandis’ longevity company Fountain Life raises $18M](https://techcrunch.com/2025/08/13/tony-robbins-and-peter-diamandis-longevity-company-fountain-life-raises-18m/)
 - [Is water really a necessary ingredient for life? Aliens may swim in truly exotic pools](https://www.space.com/space-exploration/search-for-life/is-water-really-a-necessary-ingredient-for-life-aliens-may-swim-in-truly-exotic-pools)
 - [Amazon rolls out same-day delivery of perishable groceries in 1,000 US cities](https://techcrunch.com/2025/08/13/amazon-rolls-out-same-day-delivery-of-perishable-groceries-in-1000-us-cities/)
 - [How we found TeaOnHer spilling users’ driver’s licenses in less than 10 minutes](https://techcrunch.com/2025/08/13/how-we-found-teaonher-spilling-users-drivers-licenses-in-less-than-10-minutes/)
-- [Red supergiant star expels mysteriously large cloud of gas](https://www.space.com/astronomy/stars/red-supergiant-star-expels-mysteriously-large-cloud-of-gas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
