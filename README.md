@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Airbnb will allow US users book stays without paying upfront](https://techcrunch.com/2025/08/14/airbnb-will-allow-us-users-book-stays-without-paying-upfront/)
+- [Why Kirk&#39;s main character energy is bad news for &#39;Star Trek: Strange New Worlds&#39;](https://www.space.com/entertainment/space-movies-shows/why-kirks-main-character-energy-is-bad-news-for-star-trek-strange-new-worlds)
+- [Don&#39;t miss the moon rendezvous with the Pleiades in the early morning sky Aug. 16–17](https://www.space.com/stargazing/dont-miss-the-moon-rendezvous-with-the-pleiades-in-the-early-morning-sky-aug-16-17)
 - [SpaceX Crew-11 Dragon spacecraft approaches the ISS | Space photo of the day for Aug. 14, 2025](https://www.space.com/space-exploration/human-spaceflight/spacex-crew-11-dragon-spacecraft-approaches-the-iss-space-photo-of-the-day-for-aug-14-2025)
 - [Hidden fault beneath Canada could trigger massive earthquake after 12,000 years of silence](https://www.space.com/astronomy/earth/hidden-fault-beneath-canada-could-trigger-massive-earthquake-after-12-000-years-of-silence)
-- [SpaceX Falcon 9 rocket launches from California with new batch of Starlink satellites &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-4-b1093-vsfs-ocisly)
-- [Co-founder of Elon Musk’s xAI departs the company](https://techcrunch.com/2025/08/13/co-founder-of-elon-musks-xai-departs-the-company/)
-- [China launches 8th batch of satellites for 13,000-strong internet megaconstellation &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-launches-8th-batch-satellites-guowang-satnet-internet-megaconstellation-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
