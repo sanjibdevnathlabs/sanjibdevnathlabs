@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pixel 10, AI capabilities, and everything else we expect out of the Made by Google 2025 event](https://techcrunch.com/2025/08/14/pixel-10-ai-capabilities-and-everything-else-we-expect-out-of-the-made-by-google-2025-event/)
+- [US Space Force&#39;s new deep space radar tracks multiple satellites 22,000 miles away in key test](https://www.space.com/technology/us-space-forces-new-deep-space-radar-tracks-multiple-satellites-22-000-miles-away-in-key-test)
+- [iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event](https://techcrunch.com/2025/08/14/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/)
+- [Kodak denies it’s shutting down amid media reports of financial struggles](https://techcrunch.com/2025/08/14/kodak-denies-its-shutting-down-amid-media-reports-of-finicial-struggles/)
 - [Discovery of 250 &#39;mini galaxies&#39; could help scientists pin down the nature of dark matter](https://www.space.com/astronomy/galaxies/discovery-of-250-mini-galaxies-could-help-scientists-pin-down-the-nature-of-dark-matter)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/08/14/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [Loveable projects $1B in ARR within next 12 months](https://techcrunch.com/2025/08/14/loveable-projects-1b-in-arr-within-next-12-months/)
-- [Leaked Meta AI rules show chatbots were allowed to have romantic chats with kids](https://techcrunch.com/2025/08/14/leaked-meta-ai-rules-show-chatbots-were-allowed-to-have-romantic-chats-with-kids/)
-- [Buzzy AI startup Multiverse creates two of the smallest high-performing models ever](https://techcrunch.com/2025/08/14/buzzy-ai-startup-multiverse-creates-two-of-the-smallest-high-performing-models-ever/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
