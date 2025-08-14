@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Was in cooked in space? A space food-themed quiz!](https://www.space.com/space-exploration/human-spaceflight/was-in-cooked-in-space-a-space-food-themed-quiz)
+- [US government is reportedly in discussions to take stake in Intel](https://techcrunch.com/2025/08/14/u-s-government-is-reportedly-in-discussions-to-take-stake-in-intel/)
 - [NASA plans to build a nuclear reactor on the moon — a space lawyer explains why, and what the law has to say](https://www.space.com/astronomy/moon/nasa-plans-to-build-a-nuclear-reactor-on-the-moon-a-space-lawyer-explains-why-and-what-the-law-has-to-say)
 - [NASA&#39;s new sun-studying mission &#39;PUNCH&#39; attains its final form in Earth orbit](https://www.space.com/astronomy/sun/nasas-new-sun-studying-mission-punch-attains-its-final-form-in-earth-orbit)
 - [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2025/08/14/what-is-bluesky-everything-to-know-about-the-x-competitor/)
-- [The wait is almost over: The 2025 Startup Battlefield 200 list drops August 27](https://techcrunch.com/2025/08/14/the-wait-is-almost-over-the-2025-startup-battlefield-200-list-drops-august-27/)
-- [Bluesky rolls out massive revamp to policies and Community Guidelines](https://techcrunch.com/2025/08/14/bluesky-rolls-out-massive-revamp-to-policies-and-community-guidelines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
