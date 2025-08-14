@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TRAPPIST-1d isn&#39;t the Earth-like planet scientists had hoped it to be, according to JWST data](https://www.space.com/astronomy/exoplanets/trappist-1d-isnt-the-earth-like-planet-scientists-had-hoped-it-to-be-according-to-jwst-data)
+- [Cohere hits a $6.8B valuation as investors AMD, Nvidia, and Salesforce double down](https://techcrunch.com/2025/08/14/cohere-hits-a-6-8b-valuation-as-investors-amd-nvidia-and-salesforce-double-down/)
 - [Pixel 10, AI capabilities, and everything else we expect out of the Made by Google 2025 event](https://techcrunch.com/2025/08/14/pixel-10-ai-capabilities-and-everything-else-we-expect-out-of-the-made-by-google-2025-event/)
 - [US Space Force&#39;s new deep space radar tracks multiple satellites 22,000 miles away in key test](https://www.space.com/technology/us-space-forces-new-deep-space-radar-tracks-multiple-satellites-22-000-miles-away-in-key-test)
 - [iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event](https://techcrunch.com/2025/08/14/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/)
-- [Kodak denies it’s shutting down amid media reports of financial struggles](https://techcrunch.com/2025/08/14/kodak-denies-its-shutting-down-amid-media-reports-of-finicial-struggles/)
-- [Discovery of 250 &#39;mini galaxies&#39; could help scientists pin down the nature of dark matter](https://www.space.com/astronomy/galaxies/discovery-of-250-mini-galaxies-could-help-scientists-pin-down-the-nature-of-dark-matter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
