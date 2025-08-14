@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Airbnb will allow US users book stays without paying upfront](https://techcrunch.com/2025/08/14/airbnb-will-allow-us-users-book-stays-without-paying-upfront/)
-- [Why Kirk&#39;s main character energy is bad news for &#39;Star Trek: Strange New Worlds&#39;](https://www.space.com/entertainment/space-movies-shows/why-kirks-main-character-energy-is-bad-news-for-star-trek-strange-new-worlds)
-- [Don&#39;t miss the moon rendezvous with the Pleiades in the early morning sky Aug. 16–17](https://www.space.com/stargazing/dont-miss-the-moon-rendezvous-with-the-pleiades-in-the-early-morning-sky-aug-16-17)
-- [SpaceX Crew-11 Dragon spacecraft approaches the ISS | Space photo of the day for Aug. 14, 2025](https://www.space.com/space-exploration/human-spaceflight/spacex-crew-11-dragon-spacecraft-approaches-the-iss-space-photo-of-the-day-for-aug-14-2025)
-- [Hidden fault beneath Canada could trigger massive earthquake after 12,000 years of silence](https://www.space.com/astronomy/earth/hidden-fault-beneath-canada-could-trigger-massive-earthquake-after-12-000-years-of-silence)
+- [SpaceX sends 28 more Starlink satellites into orbit on Falcon 9 flight from Florida &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-20-b1085-ccsfs-jrti)
+- [Cohere hires long-time Meta research head Joelle Pineau as its chief AI officer](https://techcrunch.com/2025/08/14/cohere-hires-long-time-meta-research-head-joelle-pineau-as-its-chief-ai-officer/)
+- [Inside the Box: Aaron Levie on reinvention at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/14/inside-the-box-aaron-levie-on-reinvention-at-techcrunch-disrupt-2025/)
+- [I tried to image the Veil Nebula but accidentally got an &#39;Alien&#39; Xenomorph &lpar;photo&rpar;](https://www.space.com/stargazing/i-tried-to-image-the-veil-nebula-but-accidentally-got-an-alien-xenomorph-photo)
+- [Apple’s blood oxygen monitoring returns to its latest Apple Watches](https://techcrunch.com/2025/08/14/apples-blood-oxygen-monitoring-returns-to-its-latest-apple-watches/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
