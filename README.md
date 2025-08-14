@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Discovery of 250 &#39;mini galaxies&#39; could help scientists pin down the nature of dark matter](https://www.space.com/astronomy/galaxies/discovery-of-250-mini-galaxies-could-help-scientists-pin-down-the-nature-of-dark-matter)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/08/14/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [Loveable projects $1B in ARR within next 12 months](https://techcrunch.com/2025/08/14/loveable-projects-1b-in-arr-within-next-12-months/)
+- [Leaked Meta AI rules show chatbots were allowed to have romantic chats with kids](https://techcrunch.com/2025/08/14/leaked-meta-ai-rules-show-chatbots-were-allowed-to-have-romantic-chats-with-kids/)
 - [Buzzy AI startup Multiverse creates two of the smallest high-performing models ever](https://techcrunch.com/2025/08/14/buzzy-ai-startup-multiverse-creates-two-of-the-smallest-high-performing-models-ever/)
-- [Blue Origin pitches new ‘Mars Telecommunications Orbiter’ for Red Planet missions &lpar;video&rpar;](https://www.space.com/astronomy/mars/blue-origin-pitches-new-mars-telecommunications-orbiter-for-red-planet-missions-video)
-- [Trump signs executive order to boost commercial space — and shift NASA&#39;s balance of power](https://www.space.com/space-exploration/trump-signs-executive-order-to-boost-commercial-space-and-shift-nasas-balance-of-power)
-- [Google pushes AI into flight deals as antitrust scrutiny, competition heat up](https://techcrunch.com/2025/08/14/google-pushes-ai-into-flight-deals-as-antitrust-scrutiny-competition-heat-up/)
-- [AI translation tech Palabra gets backing from Reddit co-founder’s venture firm](https://techcrunch.com/2025/08/14/ai-translation-tech-palabra-gets-backing-from-reddit-co-founders-venture-firm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
