@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX sends 28 more Starlink satellites into orbit on Falcon 9 flight from Florida &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-20-b1085-ccsfs-jrti)
-- [Cohere hires long-time Meta research head Joelle Pineau as its chief AI officer](https://techcrunch.com/2025/08/14/cohere-hires-long-time-meta-research-head-joelle-pineau-as-its-chief-ai-officer/)
-- [Inside the Box: Aaron Levie on reinvention at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/14/inside-the-box-aaron-levie-on-reinvention-at-techcrunch-disrupt-2025/)
-- [I tried to image the Veil Nebula but accidentally got an &#39;Alien&#39; Xenomorph &lpar;photo&rpar;](https://www.space.com/stargazing/i-tried-to-image-the-veil-nebula-but-accidentally-got-an-alien-xenomorph-photo)
-- [Apple’s blood oxygen monitoring returns to its latest Apple Watches](https://techcrunch.com/2025/08/14/apples-blood-oxygen-monitoring-returns-to-its-latest-apple-watches/)
+- [Buzzy AI startup Multiverse creates two of the smallest high-performing models ever](https://techcrunch.com/2025/08/14/buzzy-ai-startup-multiverse-creates-two-of-the-smallest-high-performing-models-ever/)
+- [Blue Origin pitches new ‘Mars Telecommunications Orbiter’ for Red Planet missions &lpar;video&rpar;](https://www.space.com/astronomy/mars/blue-origin-pitches-new-mars-telecommunications-orbiter-for-red-planet-missions-video)
+- [Trump signs executive order to boost commercial space — and shift NASA&#39;s balance of power](https://www.space.com/space-exploration/trump-signs-executive-order-to-boost-commercial-space-and-shift-nasas-balance-of-power)
+- [Google pushes AI into flight deals as antitrust scrutiny, competition heat up](https://techcrunch.com/2025/08/14/google-pushes-ai-into-flight-deals-as-antitrust-scrutiny-competition-heat-up/)
+- [AI translation tech Palabra gets backing from Reddit co-founder’s venture firm](https://techcrunch.com/2025/08/14/ai-translation-tech-palabra-gets-backing-from-reddit-co-founders-venture-firm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
