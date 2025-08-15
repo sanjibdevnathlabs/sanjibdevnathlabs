@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope uncovers 300 mysteriously luminous objects. Are they galaxies or something else?](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-uncovers-300-mysteriously-luminous-objects-are-they-galaxies-or-something-else)
+- [This baby star&#39;s big explosion fired back: &#39;Nature is far more complex than humans think&#39;](https://www.space.com/astronomy/stars/this-baby-stars-big-explosion-fired-back-nature-is-far-more-complex-than-humans-think)
 - [Milky Way and zodiacal light glow above telescopes in Chile | Space photo of the day for Aug. 15, 2025](https://www.space.com/astronomy/milky-way-and-zodiacal-light-glow-above-telescopes-in-chile-space-photo-of-the-day-for-aug-15-2025)
 - [What if we&#39;ve been thinking about dark matter all wrong, scientist wonders](https://www.space.com/astronomy/dark-universe/what-if-weve-been-thinking-about-dark-matter-all-wrong-scientist-wonders)
-- [Was in cooked in space? A space food-themed quiz!](https://www.space.com/space-exploration/human-spaceflight/was-in-cooked-in-space-a-space-food-themed-quiz)
-- [US government is reportedly in discussions to take stake in Intel](https://techcrunch.com/2025/08/14/u-s-government-is-reportedly-in-discussions-to-take-stake-in-intel/)
-- [NASA plans to build a nuclear reactor on the moon — a space lawyer explains why, and what the law has to say](https://www.space.com/astronomy/moon/nasa-plans-to-build-a-nuclear-reactor-on-the-moon-a-space-lawyer-explains-why-and-what-the-law-has-to-say)
+- [Was it cooked in space? A space food-themed quiz!](https://www.space.com/space-exploration/human-spaceflight/was-in-cooked-in-space-a-space-food-themed-quiz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
