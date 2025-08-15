@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Les Amis, the European app helping women form friendships, launches in New York](https://techcrunch.com/2025/08/15/les-amis-the-european-app-helping-women-form-friendships-launches-in-new-york/)
+- [NASA wants new spacecraft to fly to hard-to-reach orbits around Earth and in deep space](https://www.space.com/technology/nasa-wants-new-spacecraft-to-fly-to-hard-to-reach-orbits-around-earth-and-in-deep-space)
+- [TikTok’s new guidelines add subtle changes for LIVE creators, AI content, and more](https://techcrunch.com/2025/08/15/tiktoks-new-guidelines-add-subtle-changes-for-live-creators-ai-content-and-more/)
 - [Russia to launch 75 mice, 1,000 fruit flies on Aug. 20 to study spaceflight effects](https://www.space.com/space-exploration/launches-spacecraft/russia-to-launch-75-mice-1-000-fruit-flies-on-aug-20-to-study-spaceflight-effects)
 - [Kyte, which billed itself as the ‘best competitor to Hertz,’ shuts down](https://techcrunch.com/2025/08/15/kyte-which-billed-itself-as-the-best-competitor-to-hertz-shuts-down/)
-- [Trump wants to clean up the space industry’s red tape: Here’s who wins](https://techcrunch.com/2025/08/15/trump-wants-to-clean-up-the-space-industrys-red-tape-heres-who-wins/)
-- [X-ray telescope finds something unexpected with the &#39;heartbeat black hole&#39;](https://www.space.com/astronomy/black-holes/nasa-ixpe-mission-observes-heartbeat-black-hole-that-challenges-cosmic-physics)
-- [Canada&#39;s 1st commercial spaceport is officially under construction. When will it open for launches?](https://www.space.com/space-exploration/launches-spacecraft/canadas-1st-commercial-spaceport-is-officially-under-construction-when-will-it-open-for-launches)
 <!-- BLOG-POST-LIST:END -->
 
 ---
