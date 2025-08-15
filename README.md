@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Whose moon is it anyway? A matching space quiz](https://www.space.com/astronomy/solar-system/whose-moon-is-it-anyway-a-matching-space-quiz)
-- [Louisiana attorney general sues Roblox](https://techcrunch.com/2025/08/15/louisiana-attorney-general-sues-roblox/)
-- [Meet the first batch of VCs set to judge Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/15/meet-the-first-batch-of-vcs-set-to-judge-startup-battlefield-200-at-techcrunch-disrupt-2025/)
-- [Meet &#39;lite intermediate black holes,&#39; the supermassive black hole&#39;s smaller, much more mysterious cousin](https://www.space.com/astronomy/black-holes/meet-lite-intermediate-black-holes-the-supermassive-black-holes-smaller-much-more-mysterious-cousin)
-- [This baby star&#39;s big explosion fired back: &#39;Nature is far more complex than humans think&#39;](https://www.space.com/astronomy/stars/this-baby-stars-big-explosion-fired-back-nature-is-far-more-complex-than-humans-think)
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/15/tech-layoffs-2025-list/)
+- [Ultrahuman acquires viO HealthTech to launch enhanced cycle and ovulation tracking](https://techcrunch.com/2025/08/15/ultrahuman-acquires-vio-healthtech-to-launch-enhanced-cycle-and-ovulation-tracking/)
+- [Every original &#39;Star Trek&#39; character who has appeared in &#39;Strange New Worlds&#39;](https://www.space.com/entertainment/space-movies-shows/every-original-star-trek-character-who-has-appeared-in-strange-new-worlds)
+- [This Week In Space podcast: Episode 172 — Earth on Mars](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-172-earth-on-mars)
+- [This Week In Space podcast: Episode 171 — What&#39;s an UNOOSA?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-171-whats-an-unoosa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
