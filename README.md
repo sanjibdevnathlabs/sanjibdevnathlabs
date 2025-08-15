@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trump wants to clean up the space industry’s red tape. Here’s who wins.](https://techcrunch.com/2025/08/15/trump-wants-to-clean-up-the-space-industrys-red-tape-heres-who-wins/)
+- [Russia to launch 75 mice, 1,000 fruit flies on Aug. 20 to study spaceflight effects](https://www.space.com/space-exploration/launches-spacecraft/russia-to-launch-75-mice-1-000-fruit-flies-on-aug-20-to-study-spaceflight-effects)
+- [Kyte, which billed itself as the ‘best competitor to Hertz,’ shuts down](https://techcrunch.com/2025/08/15/kyte-which-billed-itself-as-the-best-competitor-to-hertz-shuts-down/)
+- [Trump wants to clean up the space industry’s red tape: Here’s who wins](https://techcrunch.com/2025/08/15/trump-wants-to-clean-up-the-space-industrys-red-tape-heres-who-wins/)
 - [X-ray telescope finds something unexpected with the &#39;heartbeat black hole&#39;](https://www.space.com/astronomy/black-holes/nasa-ixpe-mission-observes-heartbeat-black-hole-that-challenges-cosmic-physics)
 - [Canada&#39;s 1st commercial spaceport is officially under construction. When will it open for launches?](https://www.space.com/space-exploration/launches-spacecraft/canadas-1st-commercial-spaceport-is-officially-under-construction-when-will-it-open-for-launches)
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/15/tech-layoffs-2025-list/)
-- [Ultrahuman acquires viO HealthTech to launch enhanced cycle and ovulation tracking](https://techcrunch.com/2025/08/15/ultrahuman-acquires-vio-healthtech-to-launch-enhanced-cycle-and-ovulation-tracking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
