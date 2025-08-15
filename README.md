@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Canada&#39;s 1st commercial spaceport is officially under construction. When will it open for launches?](https://www.space.com/space-exploration/launches-spacecraft/canadas-1st-commercial-spaceport-is-officially-under-construction-when-will-it-open-for-launches)
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/08/15/tech-layoffs-2025-list/)
 - [Ultrahuman acquires viO HealthTech to launch enhanced cycle and ovulation tracking](https://techcrunch.com/2025/08/15/ultrahuman-acquires-vio-healthtech-to-launch-enhanced-cycle-and-ovulation-tracking/)
 - [Every original &#39;Star Trek&#39; character who has appeared in &#39;Strange New Worlds&#39;](https://www.space.com/entertainment/space-movies-shows/every-original-star-trek-character-who-has-appeared-in-strange-new-worlds)
 - [This Week In Space podcast: Episode 172 — Earth on Mars](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-172-earth-on-mars)
-- [This Week In Space podcast: Episode 171 — What&#39;s an UNOOSA?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-171-whats-an-unoosa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
