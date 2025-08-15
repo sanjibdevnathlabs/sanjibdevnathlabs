@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX aims to launch Starship Flight 10 test flight on Aug. 24](https://www.space.com/space-exploration/launches-spacecraft/spacex-targeting-date-for-10th-starship-rocket-test-flight)
 - [Blue Origin&#39;s 2nd New Glenn rocket launch will fly twin NASA Mars probes to space on Sep. 29](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-sets-launch-date-nasa-escapade-mars-probes-2nd-new-glenn-rocket-liftoff)
 - [How your solar rooftop became a national security issue](https://techcrunch.com/2025/08/15/how-your-solar-rooftop-became-a-national-security-issue/)
 - [Sen. Hawley to probe Meta after report finds its AI chatbots flirt with kids](https://techcrunch.com/2025/08/15/sen-hawley-to-probe-meta-after-report-finds-its-ai-chatbots-flirt-with-kids/)
 - [Les Amis, the European app helping women form friendships, launches in New York](https://techcrunch.com/2025/08/15/les-amis-the-european-app-helping-women-form-friendships-launches-in-new-york/)
-- [NASA wants new spacecraft to fly to hard-to-reach orbits around Earth and in deep space](https://www.space.com/technology/nasa-wants-new-spacecraft-to-fly-to-hard-to-reach-orbits-around-earth-and-in-deep-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
