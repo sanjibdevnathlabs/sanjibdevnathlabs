@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Whose moon is it anyway? A matching space quiz](https://www.space.com/astronomy/solar-system/whose-moon-is-it-anyway-a-matching-space-quiz)
+- [Louisiana attorney general sues Roblox](https://techcrunch.com/2025/08/15/louisiana-attorney-general-sues-roblox/)
 - [Meet the first batch of VCs set to judge Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/15/meet-the-first-batch-of-vcs-set-to-judge-startup-battlefield-200-at-techcrunch-disrupt-2025/)
 - [Meet &#39;lite intermediate black holes,&#39; the supermassive black hole&#39;s smaller, much more mysterious cousin](https://www.space.com/astronomy/black-holes/meet-lite-intermediate-black-holes-the-supermassive-black-holes-smaller-much-more-mysterious-cousin)
-- [James Webb Space Telescope uncovers 300 mysteriously luminous objects. Are they galaxies or something else?](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-uncovers-300-mysteriously-luminous-objects-are-they-galaxies-or-something-else)
 - [This baby star&#39;s big explosion fired back: &#39;Nature is far more complex than humans think&#39;](https://www.space.com/astronomy/stars/this-baby-stars-big-explosion-fired-back-nature-is-far-more-complex-than-humans-think)
-- [Milky Way and zodiacal light glow above telescopes in Chile | Space photo of the day for Aug. 15, 2025](https://www.space.com/astronomy/milky-way-and-zodiacal-light-glow-above-telescopes-in-chile-space-photo-of-the-day-for-aug-15-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
