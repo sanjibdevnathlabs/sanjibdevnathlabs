@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists just recreated the universe&#39;s first ever molecules — and the results challenge our understanding of the early cosmos](https://www.space.com/astronomy/scientists-just-recreated-the-universes-first-ever-molecules-and-the-results-challenge-our-understanding-of-the-early-cosmos)
+- [This Week In Space podcast: Episode 173 — The Return of the Malik](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-173-the-return-of-the-malik)
 - [If everyone in the world turned on the lights at the same time, what would happen?](https://www.space.com/astronomy/earth/if-everyone-in-the-world-turned-on-the-lights-at-the-same-time-what-would-happen)
 - [Titan darkens Saturn in rare shadow transit on Aug. 19: Here&#39;s how to see it](https://www.space.com/stargazing/-aug-19)
 - [Tiny devices propelled by sunlight could explore a mysterious region of Earth&#39;s atmosphere](https://www.space.com/technology/self-lofting-devices-to-close-atmosperic-science-gap)
-- [Winklevoss twins’ crypto company Gemini files for IPO](https://techcrunch.com/2025/08/15/winklevoss-twins-crypto-company-gemini-files-for-ipo/)
-- [Sam Altman, over bread rolls, explores life after GPT-5](https://techcrunch.com/2025/08/15/sam-altman-over-bread-rolls-explores-life-after-gpt-5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
