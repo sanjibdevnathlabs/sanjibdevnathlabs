@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [If everyone in the world turned on the lights at the same time, what would happen?](https://www.space.com/astronomy/earth/if-everyone-in-the-world-turned-on-the-lights-at-the-same-time-what-would-happen)
 - [Titan darkens Saturn in rare shadow transit on Aug. 19: Here&#39;s how to see it](https://www.space.com/stargazing/-aug-19)
 - [Tiny devices propelled by sunlight could explore a mysterious region of Earth&#39;s atmosphere](https://www.space.com/technology/self-lofting-devices-to-close-atmosperic-science-gap)
 - [Winklevoss twins’ crypto company Gemini files for IPO](https://techcrunch.com/2025/08/15/winklevoss-twins-crypto-company-gemini-files-for-ipo/)
 - [Sam Altman, over bread rolls, explores life after GPT-5](https://techcrunch.com/2025/08/15/sam-altman-over-bread-rolls-explores-life-after-gpt-5/)
-- [SpaceX aims to launch Starship Flight 10 test flight on Aug. 24](https://www.space.com/space-exploration/launches-spacecraft/spacex-targeting-date-for-10th-starship-rocket-test-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
