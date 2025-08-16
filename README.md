@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-powered stuffed animals are coming for your kids](https://techcrunch.com/2025/08/16/ai-powered-stuffed-animals-are-coming-for-your-kids/)
 - [Moon quiz: For all lunatics](https://www.space.com/astronomy/moon/moon-quiz-for-all-lunatics)
 - [Anthropic says some Claude models can now end ‘harmful or abusive’ conversations](https://techcrunch.com/2025/08/16/anthropic-says-some-claude-models-can-now-end-harmful-or-abusive-conversations/)
 - [Scientists just recreated the universe&#39;s first ever molecules — and the results challenge our understanding of the early cosmos](https://www.space.com/astronomy/scientists-just-recreated-the-universes-first-ever-molecules-and-the-results-challenge-our-understanding-of-the-early-cosmos)
 - [This Week In Space podcast: Episode 173 — The Return of the Malik](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-173-the-return-of-the-malik)
-- [If everyone in the world turned on the lights at the same time, what would happen?](https://www.space.com/astronomy/earth/if-everyone-in-the-world-turned-on-the-lights-at-the-same-time-what-would-happen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
