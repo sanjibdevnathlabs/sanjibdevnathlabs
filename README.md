@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mercury quiz: How well do you know the Swift Planet?](https://www.space.com/astronomy/mercury/mercury-quiz-how-well-do-you-know-the-swift-planet)
 - [How the nature of environmental law is changing in defense of the planet and the climate](https://www.space.com/astronomy/earth/how-the-nature-of-environmental-law-is-changing-in-defense-of-the-planet-and-the-climate)
 - [NASA and Google test AI medical assistant for astronaut missions to the moon and Mars](https://www.space.com/technology/nasa-and-google-test-ai-medical-assistant-for-astronaut-missions-to-the-moon-and-mars)
 - [Judge says FTC investigation into Media Matters ‘should alarm all Americans’](https://techcrunch.com/2025/08/16/judge-says-ftc-investigation-into-media-matters-should-alarm-all-americans/)
 - [AI-powered stuffed animals are coming for your kids](https://techcrunch.com/2025/08/16/ai-powered-stuffed-animals-are-coming-for-your-kids/)
-- [Moon quiz: For all lunatics](https://www.space.com/astronomy/moon/moon-quiz-for-all-lunatics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
