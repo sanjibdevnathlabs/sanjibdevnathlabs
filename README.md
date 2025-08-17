@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Duolingo CEO says controversial AI memo was misunderstood](https://techcrunch.com/2025/08/17/duolingo-ceo-says-controversial-ai-memo-was-misunderstood/)
 - [How Much Has Mercury Shrunk?](https://www.space.com/astronomy/mercury/how-much-has-mercury-shrunk)
 - [See a trio of spectacular star clusters brighten the summer sky in August 2025](https://www.space.com/stargazing/starclusteraugust2025)
 - [Mercury quiz: How well do you know the Swift Planet?](https://www.space.com/astronomy/mercury/mercury-quiz-how-well-do-you-know-the-swift-planet)
 - [How the nature of environmental law is changing in defense of the planet and the climate](https://www.space.com/astronomy/earth/how-the-nature-of-environmental-law-is-changing-in-defense-of-the-planet-and-the-climate)
-- [NASA and Google test AI medical assistant for astronaut missions to the moon and Mars](https://www.space.com/technology/nasa-and-google-test-ai-medical-assistant-for-astronaut-missions-to-the-moon-and-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
