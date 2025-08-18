@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [1st Portuguese spaceport could soon emerge as nation grants license for launch center in the Azores &lpar;photos&rpar;](https://www.space.com/space-exploration/1st-portuguese-spaceport-could-soon-emerge-as-nation-grants-license-for-launch-center-in-the-azores-photos)
+- [X’s declining Android app installs are hurting subscription revenue](https://techcrunch.com/2025/08/18/xs-declining-android-app-installs-are-hurting-subscription-revenue/)
 - [Chinese astronauts beef up Tiangong space station&#39;s debris shield during 6.5-hour spacewalk &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/chinese-astronauts-beef-up-tiangong-space-stations-debris-shield-during-6-5-hour-spacewalk-video)
 - [Look for Mercury in the morning sky as it hits peak distance from the sun on Aug. 19](https://www.space.com/stargazing/look-for-mercury-in-morning-sky-as-it-hits-peak-distance-from-sun-aug-19)
 - [Fly me to the moon: 25 finalists chosen for Artemis 2 &#39;zero-g indicator&#39;](https://www.space.com/space-exploration/artemis/fly-me-to-the-moon-25-finalists-chosen-for-artemis-2-zero-g-indicator)
-- [Texas attorney general accuses Meta, Character.AI of misleading kids with mental health claims](https://techcrunch.com/2025/08/18/texas-attorney-general-accuses-meta-character-ai-of-misleading-kids-with-mental-health-claims/)
-- [Hank Green’s Focus Friend app is climbing the App Store charts — and it’s extremely cute](https://techcrunch.com/2025/08/18/hank-greens-focus-friend-app-is-climbing-the-app-store-charts-and-its-extremely-cute/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
