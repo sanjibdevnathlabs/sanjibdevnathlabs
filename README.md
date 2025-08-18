@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pixel 10, AI capabilities, and everything else we expect out of the Made by Google 2025 event](https://techcrunch.com/2025/08/18/pixel-10-ai-capabilities-and-everything-else-we-expect-out-of-the-made-by-google-2025-event/)
+- [The wait is almost over: The 2025 Startup Battlefield 200 list drops August 27](https://techcrunch.com/2025/08/18/the-wait-is-almost-over-the-2025-startup-battlefield-200-list-drops-august-27/)
+- [Made by Google 2025: How to watch Google debut the Pixel 10, Pixel Watch 4, and more](https://techcrunch.com/2025/08/18/made-by-google-2025-how-to-watch-google-debut-the-pixel-10-pixel-watch-4-and-more/)
+- [iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event](https://techcrunch.com/2025/08/18/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/)
 - [‘Crazy conspiracist’ and ‘unhinged comedian’: Grok’s AI persona prompts exposed](https://techcrunch.com/2025/08/18/crazy-conspiracist-and-unhinged-comedian-groks-ai-persona-prompts-exposed/)
-- [Think you know our solar system&#39;s dwarf planets? Test your skills with our new quiz!](https://www.space.com/astronomy/dwarf-planets/think-you-know-our-solar-systems-dwarf-planets-test-your-skills-with-our-new-quiz)
-- [Why Paradigm built a spreadsheet with an AI agent in every cell](https://techcrunch.com/2025/08/18/why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell/)
-- [We&#39;re within 3 years of reaching a critical climate threshold. Can we reverse course?](https://www.space.com/science/climate-change/were-within-3-years-of-reaching-a-critical-climate-threshold-can-we-reverse-course)
-- [Linktree goes dark in India — and the company isn’t sure why](https://techcrunch.com/2025/08/18/linktree-goes-dark-in-india-and-the-company-isnt-sure-why/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
