@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s Super Heavy booster will fly with fresh &#39;grid fins&#39; | Space photo of the day for Aug. 18, 2025](https://www.space.com/space-exploration/private-spaceflight/spacexs-super-heavy-booster-will-fly-with-fresh-grid-fins-space-photo-of-the-day-for-aug-18-2025)
+- [Northern lights may be visible in these 15 states tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-15-states-aug-18-19)
 - [HR giant Workday says hackers stole personal data in recent breach](https://techcrunch.com/2025/08/18/hr-giant-workday-says-hackers-stole-personal-data-in-recent-breach/)
 - [Perplexity now supports live earnings call transcripts for Indian stocks](https://techcrunch.com/2025/08/18/perplexity-now-supports-live-earnings-call-transcripts-for-indian-stocks/)
 - [Grammarly gets a design overhaul, multiple AI features](https://techcrunch.com/2025/08/18/grammarly-gets-a-design-overhaul-multiple-ai-features/)
-- [Hubble telescope uncovers rare star born from cosmic collision: &#39;A very different history from what we would have guessed&#39;](https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-uncovers-rare-star-born-from-cosmic-collision-a-very-different-history-from-what-we-would-have-guessed)
-- [Don&#39;t miss Mercury, the moon and the Beehive Cluster align in a special August morning sky show](https://www.space.com/stargazing/see-mercury-moon-beehive-cluster-august-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
