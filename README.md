@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pixel 10, AI capabilities, and everything else we expect out of the Made by Google 2025 event](https://techcrunch.com/2025/08/18/pixel-10-ai-capabilities-and-everything-else-we-expect-out-of-the-made-by-google-2025-event/)
-- [The wait is almost over: The 2025 Startup Battlefield 200 list drops August 27](https://techcrunch.com/2025/08/18/the-wait-is-almost-over-the-2025-startup-battlefield-200-list-drops-august-27/)
-- [Made by Google 2025: How to watch Google debut the Pixel 10, Pixel Watch 4, and more](https://techcrunch.com/2025/08/18/made-by-google-2025-how-to-watch-google-debut-the-pixel-10-pixel-watch-4-and-more/)
-- [iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event](https://techcrunch.com/2025/08/18/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/)
-- [‘Crazy conspiracist’ and ‘unhinged comedian’: Grok’s AI persona prompts exposed](https://techcrunch.com/2025/08/18/crazy-conspiracist-and-unhinged-comedian-groks-ai-persona-prompts-exposed/)
+- [Fly me to the moon: 25 finalists chosen for Artemis 2 &#39;zero-g indicator&#39;](https://www.space.com/space-exploration/artemis/fly-me-to-the-moon-25-finalists-chosen-for-artemis-2-zero-g-indicator)
+- [Texas attorney general accuses Meta, Character.AI of misleading kids with mental health claims](https://techcrunch.com/2025/08/18/texas-attorney-general-accuses-meta-character-ai-of-misleading-kids-with-mental-health-claims/)
+- [Hank Green’s Focus Friend app is climbing the App Store charts — and it’s extremely cute](https://techcrunch.com/2025/08/18/hank-greens-focus-friend-app-is-climbing-the-app-store-charts-and-its-extremely-cute/)
+- [SpaceX sends 24 Starlink satellites into orbit on 100th Falcon 9 launch of the year](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-5-b1088-vsfb-ocisly)
+- [Substack writers can now direct US readers to &lpar;often cheaper&rpar; web-based subscriptions on iOS](https://techcrunch.com/2025/08/18/substack-writers-can-now-direct-u-s-readers-to-often-cheaper-web-based-subscriptions-on-ios/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
