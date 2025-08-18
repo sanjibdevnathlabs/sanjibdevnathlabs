@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Look for Mercury in the morning sky as it hits peak distance from the sun on Aug. 19](https://www.space.com/stargazing/look-for-mercury-in-morning-sky-as-it-hits-peak-distance-from-sun-aug-19)
 - [Fly me to the moon: 25 finalists chosen for Artemis 2 &#39;zero-g indicator&#39;](https://www.space.com/space-exploration/artemis/fly-me-to-the-moon-25-finalists-chosen-for-artemis-2-zero-g-indicator)
 - [Texas attorney general accuses Meta, Character.AI of misleading kids with mental health claims](https://techcrunch.com/2025/08/18/texas-attorney-general-accuses-meta-character-ai-of-misleading-kids-with-mental-health-claims/)
 - [Hank Green’s Focus Friend app is climbing the App Store charts — and it’s extremely cute](https://techcrunch.com/2025/08/18/hank-greens-focus-friend-app-is-climbing-the-app-store-charts-and-its-extremely-cute/)
-- [SpaceX sends 24 Starlink satellites into orbit on 100th Falcon 9 launch of the year](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-5-b1088-vsfb-ocisly)
-- [Substack writers can now direct US readers to &lpar;often cheaper&rpar; web-based subscriptions on iOS](https://techcrunch.com/2025/08/18/substack-writers-can-now-direct-u-s-readers-to-often-cheaper-web-based-subscriptions-on-ios/)
+- [SpaceX sends 24 Starlink satellites into orbit on 100th Falcon 9 launch of the year &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-5-b1088-vsfb-ocisly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
