@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t miss Mercury, the moon and the Beehive Cluster align in a special August morning sky show](https://www.space.com/stargazing/see-mercury-moon-beehive-cluster-august-2025)
 - [GPT-5 is supposed to be nicer now](https://techcrunch.com/2025/08/17/gpt-5-is-supposed-to-be-nicer-now/)
 - [‘Stranger Things’ creators may be leaving Netflix](https://techcrunch.com/2025/08/17/stranger-things-creators-may-be-leaving-netflix/)
 - [Duolingo CEO says controversial AI memo was misunderstood](https://techcrunch.com/2025/08/17/duolingo-ceo-says-controversial-ai-memo-was-misunderstood/)
 - [How Much Has Mercury Shrunk?](https://www.space.com/astronomy/mercury/how-much-has-mercury-shrunk)
-- [See a trio of spectacular star clusters brighten the summer sky in August 2025](https://www.space.com/stargazing/starclusteraugust2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
