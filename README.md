@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Paradigm built a spreadsheet with an AI agent in every cell](https://techcrunch.com/2025/08/18/why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell/)
+- [We&#39;re within 3 years of reaching a critical climate threshold. Can we reverse course?](https://www.space.com/science/climate-change/were-within-3-years-of-reaching-a-critical-climate-threshold-can-we-reverse-course)
+- [Linktree goes dark in India — and the company isn’t sure why](https://techcrunch.com/2025/08/18/linktree-goes-dark-in-india-and-the-company-isnt-sure-why/)
 - [SpaceX&#39;s Super Heavy booster will fly with fresh &#39;grid fins&#39; | Space photo of the day for Aug. 18, 2025](https://www.space.com/space-exploration/private-spaceflight/spacexs-super-heavy-booster-will-fly-with-fresh-grid-fins-space-photo-of-the-day-for-aug-18-2025)
 - [Northern lights may be visible in these 15 states tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-15-states-aug-18-19)
-- [HR giant Workday says hackers stole personal data in recent breach](https://techcrunch.com/2025/08/18/hr-giant-workday-says-hackers-stole-personal-data-in-recent-breach/)
-- [Perplexity now supports live earnings call transcripts for Indian stocks](https://techcrunch.com/2025/08/18/perplexity-now-supports-live-earnings-call-transcripts-for-indian-stocks/)
-- [Grammarly gets a design overhaul, multiple AI features](https://techcrunch.com/2025/08/18/grammarly-gets-a-design-overhaul-multiple-ai-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
