@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SoftBank makes $2B investment in Intel](https://techcrunch.com/2025/08/18/softbank-makes-2b-investment-in-intel/)
 - [Allianz Life data breach affects 1.1 million customers](https://techcrunch.com/2025/08/18/allianz-life-data-breach-affects-1-1-million-customers/)
 - [SpaceX completes investigation into recent Starship failures, clears the way for Flight 10](https://www.space.com/space-exploration/private-spaceflight/spacex-completes-investigation-starship-flight-9-failures-clears-the-way-for-flight-10)
 - [1st Portuguese spaceport could soon emerge as nation grants license for launch center in the Azores &lpar;photos&rpar;](https://www.space.com/space-exploration/1st-portuguese-spaceport-could-soon-emerge-as-nation-grants-license-for-launch-center-in-the-azores-photos)
 - [X’s declining Android app installs are hurting subscription revenue](https://techcrunch.com/2025/08/18/xs-declining-android-app-installs-are-hurting-subscription-revenue/)
-- [Chinese astronauts beef up Tiangong space station&#39;s debris shield during 6.5-hour spacewalk &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/chinese-astronauts-beef-up-tiangong-space-stations-debris-shield-during-6-5-hour-spacewalk-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
