@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A rare Black Moon rises with the sun on Aug. 23: Here&#39;s what to expect](https://www.space.com/stargazing/a-rare-black-moon-rises-with-the-sun-on-aug-23-2025-heres-what-to-expect)
+- [US spy chief says UK has dropped its Apple backdoor demand](https://techcrunch.com/2025/08/19/us-spy-chief-says-uk-has-dropped-its-apple-backdoor-demand/)
+- [Wheelie smart? Take our Mars rover quiz to prove it!](https://www.space.com/space-exploration/mars-rovers/wheelie-smart-take-our-mars-rover-quiz-to-prove-it)
 - [CPG startup Keychain snags $30M to build in India, grow in the U.S.](https://techcrunch.com/2025/08/19/cpg-startup-keychain-snags-30m-to-build-in-india-grow-in-the-u-s/)
 - [&quot;I find your abundance of faith… encouraging.&quot; Watch this new trailer for &#39;Lego Star Wars: Rebuild the Galaxy - Pieces of the Past&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/i-find-your-abundance-of-faith-encouraging-watch-this-new-trailer-for-lego-star-wars-rebuild-the-galaxy-pieces-of-the-past-video)
-- [TikTok’s latest feature lets college students find and connect with classmates](https://techcrunch.com/2025/08/19/tiktoks-latest-feature-lets-college-students-find-and-connect-with-classmates/)
-- [Fly through the eye of Hurricane Erin and see the powerful storm from space &lpar;video&rpar;](https://www.space.com/astronomy/earth/fly-through-the-eye-of-hurricane-erin-and-see-the-powerful-storm-from-space-video)
-- [Nvidia said to be developing new, more powerful AI chip for sale in China](https://techcrunch.com/2025/08/19/nvidia-said-to-be-developing-new-more-powerful-ai-chip-for-sale-in-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
