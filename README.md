@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify’s latest feature lets you add your own transitions to playlists](https://techcrunch.com/2025/08/19/spotifys-latest-feature-lets-you-add-your-own-transitions-to-playlists/)
+- [Eight Sleep raises $100M to expand it AI-powered sleep tech](https://techcrunch.com/2025/08/19/eight-sleep-grabs-100m-to-bring-ai-into-your-bed/)
+- [&#39;Devil Comet&#39; contains &#39;strongest evidence yet&#39; that comets delivered water to Earth](https://www.space.com/astronomy/comets/devil-comet-contains-strongest-evidence-yet-that-comets-delivered-water-to-earth)
 - [OpenAI launches a sub $5 ChatGPT plan in India](https://techcrunch.com/2025/08/18/openai-launches-a-sub-5-chatgpt-plan-in-india/)
 - [SoftBank makes $2B investment in Intel](https://techcrunch.com/2025/08/18/softbank-makes-2b-investment-in-intel/)
-- [Allianz Life data breach affects 1.1 million customers](https://techcrunch.com/2025/08/18/allianz-life-data-breach-affects-1-1-million-customers/)
-- [SpaceX completes investigation into recent Starship failures, clears the way for Flight 10](https://www.space.com/space-exploration/private-spaceflight/spacex-completes-investigation-starship-flight-9-failures-clears-the-way-for-flight-10)
-- [1st Portuguese spaceport could soon emerge as nation grants license for launch center in the Azores &lpar;photos&rpar;](https://www.space.com/space-exploration/1st-portuguese-spaceport-could-soon-emerge-as-nation-grants-license-for-launch-center-in-the-azores-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
