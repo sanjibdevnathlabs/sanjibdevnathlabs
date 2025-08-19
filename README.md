@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your next customer is on the TechCrunch Disrupt 2025 expo floor — will they find you or your competitor?](https://techcrunch.com/2025/08/19/your-next-customer-is-on-the-techcrunch-disrupt-2025-expo-floor-will-they-find-you-or-your-competitor/)
+- [Scientists find tiny new moon around Uranus with the James Webb Space Telescope &lpar;photos, video&rpar;](https://www.space.com/astronomy/uranus/scientists-find-tiny-new-moon-around-uranus-with-the-james-webb-space-telescope-photos-video)
+- [See a razor-thin crescent moon join Jupiter and Venus in the predawn sky on Aug. 20](https://www.space.com/stargazing/see-thin-moon-join-jupiter-and-venus-predawn-aug-20-2025)
 - [India’s government to propose blanket ban on real-money gaming](https://techcrunch.com/2025/08/19/indias-government-to-propose-blanket-ban-on-real-money-gaming/)
 - [TechCrunch Mobility: Ford’s big bet](https://techcrunch.com/2025/08/19/techcrunch-mobility-fords-big-bet/)
-- [Aalo Atomics raises $100M to build a microreactor and data center together](https://techcrunch.com/2025/08/19/aalo-atomics-raises-100m-to-build-a-microreactor-and-data-center-together/)
-- [A rare Black Moon rises with the sun on Aug. 23: Here&#39;s what to expect](https://www.space.com/stargazing/a-rare-black-moon-rises-with-the-sun-on-aug-23-2025-heres-what-to-expect)
-- [US spy chief says UK has dropped its Apple backdoor demand](https://techcrunch.com/2025/08/19/us-spy-chief-says-uk-has-dropped-its-apple-backdoor-demand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
