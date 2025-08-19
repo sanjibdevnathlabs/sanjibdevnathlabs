@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok’s latest feature lets college students find and connect with classmates](https://techcrunch.com/2025/08/19/tiktoks-latest-feature-lets-college-students-find-and-connect-with-classmates/)
+- [Fly through the eye of Hurricane Erin and see the powerful storm from space &lpar;video&rpar;](https://www.space.com/astronomy/earth/fly-through-the-eye-of-hurricane-erin-and-see-the-powerful-storm-from-space-video)
+- [Nvidia said to be developing new, more powerful AI chip for sale in China](https://techcrunch.com/2025/08/19/nvidia-said-to-be-developing-new-more-powerful-ai-chip-for-sale-in-china/)
 - [Artemis 2 astronauts practice photographing the moon | Space photo of the day for Aug. 19, 2025](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-practice-photographing-the-moon-space-photo-of-the-day-for-aug-19-2025)
 - [Figure’s IPO filing marks Mike Cagney’s return to public markets](https://techcrunch.com/2025/08/19/figures-ipo-filing-marks-mike-cagneys-return-to-public-markets/)
-- [AI crawler Firecrawl raises $14.5M, is still looking to hire agents as employees](https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/)
-- [Spotify’s latest feature lets you add your own transitions to playlists](https://techcrunch.com/2025/08/19/spotifys-latest-feature-lets-you-add-your-own-transitions-to-playlists/)
-- [Eight Sleep raises $100M to expand its AI-powered sleep tech](https://techcrunch.com/2025/08/19/eight-sleep-grabs-100m-to-bring-ai-into-your-bed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
