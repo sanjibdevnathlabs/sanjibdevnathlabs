@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Milky Way&#39;s faintest satellite may not be what astronomers thought. &#39;These results solve a major mystery in astrophysics&#39;](https://www.space.com/astronomy/galaxies/the-milky-ways-faintest-satellite-may-not-be-what-astronomers-thought-these-results-solve-a-major-mystery-in-astrophysics)
+- [Supernovas are hard to detect. Scientists just found a way to spot them hours after they explode](https://www.space.com/astronomy/stars/supernovas-are-hard-to-detect-scientists-just-found-a-way-to-spot-them-hours-after-they-explode)
 - [Made by Google 2025: How to watch Google debut the Pixel 10, Pixel Watch 4, and more](https://techcrunch.com/2025/08/19/made-by-google-2025-how-to-watch-google-debut-the-pixel-10-pixel-watch-4-and-more/)
 - [Pixar&#39;s &#39;Elio&#39; stars get space food tips from a real-life astronaut in this exclusive bonus clip &lpar;video&rpar;](https://www.space.com/entertainment/pixars-elio-stars-get-space-food-tips-from-a-real-life-astronaut-in-this-exclusive-bonus-clip-video)
 - [&#39;NASA is science&#39;: How real space exploration inspired Moleskine&#39;s new NASA-themed notebook collection &lpar;interview&rpar;](https://www.space.com/entertainment/space-books/nasa-is-science-how-real-space-exploration-inspired-moleskines-new-nasa-themed-notebook-collection-interview)
-- [Appeals court says NLRB structure unconstitutional, in a win for SpaceX](https://techcrunch.com/2025/08/19/appeals-court-says-nlrb-structure-unconstitutional-in-a-win-for-spacex/)
-- [Google pays $30M to settle lawsuit over children’s YouTube data](https://techcrunch.com/2025/08/19/google-pays-30m-to-settle-lawsuit-over-childrens-youtube-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
