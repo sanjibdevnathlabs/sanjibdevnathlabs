@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why your IT Resume Isn&#39;t Working &lpar;And What Actually Does&rpar;](https://www.youtube.com/watch?v=hNNhUxQHaLs)
 - [the most POWERFUL automation tool I’ve EVER SEEN! &lpar;N8n&rpar;](https://www.youtube.com/shorts/vtPOBzq4zrs)
 - [DuckDB in 100 Seconds](https://www.youtube.com/watch?v=uHm6FEb2Re4)
 - [Hacking AI is TOO EASY &lpar;this should be illegal&rpar;](https://www.youtube.com/watch?v=Qvx2sVgQ-u0)
 - [GPT-5 is here... Can it win back programmers?](https://www.youtube.com/watch?v=8tx2viHpgA8)
-- [Google’s Genie model makes realistic worlds in realtime…](https://www.youtube.com/watch?v=0XvOOi6g5Ok)
 <!-- YOUTUBE:END -->
 
 ---
