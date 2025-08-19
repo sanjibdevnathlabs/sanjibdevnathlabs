@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2 astronauts practice photographing the moon | Space photo of the day for Aug. 19, 2025](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-practice-photographing-the-moon-space-photo-of-the-day-for-aug-19-2025)
+- [Figure’s IPO filing marks Mike Cagney’s return to public markets](https://techcrunch.com/2025/08/19/figures-ipo-filing-marks-mike-cagneys-return-to-public-markets/)
 - [AI crawler Firecrawl raises $14.5M, is still looking to hire agents as employees](https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/)
 - [Spotify’s latest feature lets you add your own transitions to playlists](https://techcrunch.com/2025/08/19/spotifys-latest-feature-lets-you-add-your-own-transitions-to-playlists/)
 - [Eight Sleep raises $100M to expand its AI-powered sleep tech](https://techcrunch.com/2025/08/19/eight-sleep-grabs-100m-to-bring-ai-into-your-bed/)
-- [&#39;Devil Comet&#39; contains &#39;strongest evidence yet&#39; that comets delivered water to Earth](https://www.space.com/astronomy/comets/devil-comet-contains-strongest-evidence-yet-that-comets-delivered-water-to-earth)
-- [OpenAI launches a sub-$5 ChatGPT plan in India](https://techcrunch.com/2025/08/18/openai-launches-a-sub-5-chatgpt-plan-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
