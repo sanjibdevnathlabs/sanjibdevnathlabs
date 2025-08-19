@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Databricks CEO says fresh $1B will help him attack a new AI database market](https://techcrunch.com/2025/08/19/databricks-ceo-says-fresh-1b-will-help-him-attack-a-new-ai-database-market/)
-- [Meta rolls out AI-powered translations to creators globally, starting with English and Spanish](https://techcrunch.com/2025/08/19/meta-rolls-out-ai-powered-translations-to-creators-globally-starting-with-english-and-spanish/)
-- [Your next customer is on the TechCrunch Disrupt 2025 expo floor — will they find you or your competitor?](https://techcrunch.com/2025/08/19/your-next-customer-is-on-the-techcrunch-disrupt-2025-expo-floor-will-they-find-you-or-your-competitor/)
-- [Scientists find tiny new moon around Uranus with the James Webb Space Telescope &lpar;photos, video&rpar;](https://www.space.com/astronomy/uranus/scientists-find-tiny-new-moon-around-uranus-with-the-james-webb-space-telescope-photos-video)
-- [See a razor-thin crescent moon join Jupiter and Venus in the predawn sky on Aug. 20](https://www.space.com/stargazing/see-thin-moon-join-jupiter-and-venus-predawn-aug-20-2025)
+- [&#39;NASA is science&#39;: How real space exploration inspired Moleskine&#39;s new NASA-themed notebook collection &lpar;interview&rpar;](https://www.space.com/entertainment/space-books/nasa-is-science-how-real-space-exploration-inspired-moleskines-new-nasa-themed-notebook-collection-interview)
+- [Appeals court says NLRB structure unconstitutional, in a win for SpaceX](https://techcrunch.com/2025/08/19/appeals-court-says-nlrb-structure-unconstitutional-in-a-win-for-spacex/)
+- [Google pays $30M to settle lawsuit over children’s YouTube data](https://techcrunch.com/2025/08/19/google-pays-30m-to-settle-lawsuit-over-childrens-youtube-data/)
+- [Meta is shaking up its AI org, again](https://techcrunch.com/2025/08/19/meta-is-shaking-up-its-ai-org-again/)
+- [Discover how developer tools are shifting fast with Lauri Moore and David Cramer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/19/discover-how-developer-tools-are-shifting-fast-with-lauri-moore-and-david-cramer-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
