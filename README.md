@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Databricks CEO says fresh $1B will help him attack a new AI database market](https://techcrunch.com/2025/08/19/databricks-ceo-says-fresh-1b-will-help-him-attack-a-new-ai-database-market/)
+- [Meta rolls out AI-powered translations to creators globally, starting with English and Spanish](https://techcrunch.com/2025/08/19/meta-rolls-out-ai-powered-translations-to-creators-globally-starting-with-english-and-spanish/)
 - [Your next customer is on the TechCrunch Disrupt 2025 expo floor — will they find you or your competitor?](https://techcrunch.com/2025/08/19/your-next-customer-is-on-the-techcrunch-disrupt-2025-expo-floor-will-they-find-you-or-your-competitor/)
 - [Scientists find tiny new moon around Uranus with the James Webb Space Telescope &lpar;photos, video&rpar;](https://www.space.com/astronomy/uranus/scientists-find-tiny-new-moon-around-uranus-with-the-james-webb-space-telescope-photos-video)
 - [See a razor-thin crescent moon join Jupiter and Venus in the predawn sky on Aug. 20](https://www.space.com/stargazing/see-thin-moon-join-jupiter-and-venus-predawn-aug-20-2025)
-- [India’s government to propose blanket ban on real-money gaming](https://techcrunch.com/2025/08/19/indias-government-to-propose-blanket-ban-on-real-money-gaming/)
-- [TechCrunch Mobility: Ford’s big bet](https://techcrunch.com/2025/08/19/techcrunch-mobility-fords-big-bet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
