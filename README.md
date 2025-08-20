@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pixel 10, AI capabilities, and everything else we expect out of the Made by Google 2025 event](https://techcrunch.com/2025/08/20/pixel-10-ai-capabilities-and-everything-else-we-expect-out-of-the-made-by-google-2025-event/)
+- [Life360 adds a new no-show notification to its app](https://techcrunch.com/2025/08/20/life360-adds-a-new-no-show-notification-to-its-app/)
+- [Pragmata rethinks sci-fi shooter combat, and it owes a lot to Snake &lpar;preview&rpar;](https://www.space.com/entertainment/space-games/pragmata-rethinks-sci-fi-shooter-combat-and-it-owes-a-lot-to-snake-preview)
+- [Dex is an AI-powered camera device that helps children learn new languages](https://techcrunch.com/2025/08/20/dex-is-an-ai-powered-camera-device-that-helps-children-learn-new-languages/)
 - [Thousands of Grok chats are now searchable on Google](https://techcrunch.com/2025/08/20/thousands-of-grok-chats-are-now-searchable-on-google/)
-- [New zero-day startup offers $20 million for tools that can hack any smartphone](https://techcrunch.com/2025/08/20/new-zero-day-startup-offers-20-million-for-tools-that-can-hack-any-smartphone/)
-- [FieldAI raises $405M to build universal robot brains](https://techcrunch.com/2025/08/20/fieldai-raises-405m-to-build-universal-robot-brains/)
-- [South Korea&#39;s K-RadCube radiation satellite will hitch a ride on NASA&#39;s Artemis 2 moon mission](https://www.space.com/astronomy/moon/south-koreas-k-radcube-radiation-satellite-will-hitch-a-ride-on-nasas-artemis-2-moon-mission)
-- [Y Combinator alum SRE.ai raises $7.2M for DevOps AI agents](https://techcrunch.com/2025/08/20/sre-ai-launches-to-automate-complex-enterprise-workflows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
