@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Warhammer 40k: Dawn of War 4&#39; revealed, with a new developer promising a return to &#39;mass-battle, base-building roots&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-games/warhammer-40k-dawn-of-war-4-revealed-with-a-new-developer-promising-a-return-to-mass-battle-base-building-roots-video)
+- [Nocs Provisions Zero Tube 10x25 waterproof monocular review](https://www.space.com/stargazing/skywatching-kit/nocs-provisions-zero-tube-10x25-waterproof-monocular-review)
 - [SpaceX partners with astronomers to protect radio astronomy from satellite interference](https://www.space.com/space-exploration/satellites/spacex-partners-with-astronomers-to-protect-radio-astronomy-from-satellite-interference)
 - [Deel scores a lawsuit win, but not against Rippling](https://techcrunch.com/2025/08/19/deel-scores-a-lawsuit-win-but-not-against-rippling/)
 - [The Milky Way&#39;s faintest satellite may not be what astronomers thought. &#39;These results solve a major mystery in astrophysics&#39;](https://www.space.com/astronomy/galaxies/the-milky-ways-faintest-satellite-may-not-be-what-astronomers-thought-these-results-solve-a-major-mystery-in-astrophysics)
-- [Supernovas are hard to detect. Scientists just found a way to spot them hours after they explode](https://www.space.com/astronomy/stars/supernovas-are-hard-to-detect-scientists-just-found-a-way-to-spot-them-hours-after-they-explode)
-- [Made by Google 2025: How to watch Google debut the Pixel 10, Pixel Watch 4, and more](https://techcrunch.com/2025/08/19/made-by-google-2025-how-to-watch-google-debut-the-pixel-10-pixel-watch-4-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
