@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pixel 10, AI capabilities, and everything else we expect out of the Made by Google 2025 event](https://techcrunch.com/2025/08/20/pixel-10-ai-capabilities-and-everything-else-we-expect-out-of-the-made-by-google-2025-event/)
-- [Life360 adds a new no-show notification to its app](https://techcrunch.com/2025/08/20/life360-adds-a-new-no-show-notification-to-its-app/)
-- [Pragmata rethinks sci-fi shooter combat, and it owes a lot to Snake &lpar;preview&rpar;](https://www.space.com/entertainment/space-games/pragmata-rethinks-sci-fi-shooter-combat-and-it-owes-a-lot-to-snake-preview)
-- [Dex is an AI-powered camera device that helps children learn new languages](https://techcrunch.com/2025/08/20/dex-is-an-ai-powered-camera-device-that-helps-children-learn-new-languages/)
-- [Thousands of Grok chats are now searchable on Google](https://techcrunch.com/2025/08/20/thousands-of-grok-chats-are-now-searchable-on-google/)
+- [Pixel 10, AI capabilities, and everything else announced at the Made by Google 2025 event](https://techcrunch.com/2025/08/20/pixel-10-ai-capabilities-and-everything-else-we-expect-out-of-the-made-by-google-2025-event/)
+- [Google doubles down on ‘AI phones’ with its Pixel 10 series](https://techcrunch.com/2025/08/20/google-doubles-down-on-ai-phones-with-its-pixel-10-series/)
+- [Google brings improved Gemini features to its new Pixel Buds](https://techcrunch.com/2025/08/20/google-brings-improved-gemini-features-to-its-new-pixel-buds/)
+- [Harvard dropouts to launch ‘always on’ AI smart glasses that listen and record every conversation](https://techcrunch.com/2025/08/20/harvard-dropouts-to-launch-always-on-ai-smart-glasses-that-listen-and-record-every-conversation/)
+- [Google unveils its $1,799 Pixel 10 Pro Fold](https://techcrunch.com/2025/08/20/google-unveils-its-1799-pixel-10-pro-fold/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
