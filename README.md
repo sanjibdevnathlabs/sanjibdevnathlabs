@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Y Combinator alum SRE.ai raises $7.2M for DevOps AI agents](https://techcrunch.com/2025/08/20/sre-ai-launches-to-automate-complex-enterprise-workflows/)
+- [YC-backed Garage raises $13.5M to help firefighters buy equipment](https://techcrunch.com/2025/08/20/embargo-tomorrow-yc-backed-garage-raises-13-5m-to-help-firefighters-buy-equipment/)
+- [Zoox taps ex-UberPool exec’s startup for routing software help](https://techcrunch.com/2025/08/20/zoox-taps-ex-uberpool-execs-startup-for-routing-software-help/)
+- [Astronauts get stuffy noses in space because of microgravity, scientists find](https://www.space.com/space-exploration/human-spaceflight/astronauts-get-stuffy-noses-in-space-because-of-microgravity-scientists-find)
 - [Semiconductor wafer on ISS goes under the microscope | Space photo of the day for Aug. 20, 2025](https://www.space.com/space-exploration/international-space-station/semiconductor-wafer-on-iss-goes-under-the-microscope-space-photo-of-the-day-for-aug-20-2025)
-- [Finally, Notion now works without an internet connection](https://techcrunch.com/2025/08/20/finally-notion-now-works-without-an-internet-connection/)
-- [&#39;Warhammer 40k: Dawn of War 4&#39; revealed, with a new developer promising a return to &#39;mass-battle, base-building roots&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-games/warhammer-40k-dawn-of-war-4-revealed-with-a-new-developer-promising-a-return-to-mass-battle-base-building-roots-video)
-- [Nocs Provisions Zero Tube 10x25 waterproof monocular review](https://www.space.com/stargazing/skywatching-kit/nocs-provisions-zero-tube-10x25-waterproof-monocular-review)
-- [SpaceX partners with astronomers to protect radio astronomy from satellite interference](https://www.space.com/space-exploration/satellites/spacex-partners-with-astronomers-to-protect-radio-astronomy-from-satellite-interference)
 <!-- BLOG-POST-LIST:END -->
 
 ---
