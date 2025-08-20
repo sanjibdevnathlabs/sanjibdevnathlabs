@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space is open for business with Even Rogers and Max Haot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/20/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/)
 - [Artemis 2 astronauts suit up for nighttime moon launch dress rehearsal &lpar;photos, video&rpar;](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-suit-up-for-nighttime-moon-launch-dress-rehearsal-photos-video)
 - [Group14 lands $463M from SK, Porsche, and others to make silicon anodes for EVs](https://techcrunch.com/2025/08/20/group14-lands-463m-from-sk-porsche-and-others-to-make-silicon-anodes-for-evs/)
 - [Google, sorry, but that Pixel event was a cringefest](https://techcrunch.com/2025/08/20/google-sorry-but-that-pixel-event-was-a-cringefest/)
 - [Test your true terrestrial trivia with our Earth quiz!](https://www.space.com/astronomy/earth/test-your-true-terrestrial-trivia-with-our-earth-quiz)
-- [US Space Force&#39;s secretive X-37B space plane will test quantum alternative to GPS navigation](https://www.space.com/technology/us-space-forces-secretive-x-37b-space-plane-will-test-quantum-alternative-to-gps-navigation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
