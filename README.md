@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2 astronauts suit up for nighttime moon launch dress rehearsal &lpar;photos, video&rpar;](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-suit-up-for-nighttime-moon-launch-dress-rehearsal-photos-video)
+- [Group14 lands $463M from SK, Porsche, and others to make silicon anodes for EVs](https://techcrunch.com/2025/08/20/group14-lands-463m-from-sk-porsche-and-others-to-make-silicon-anodes-for-evs/)
+- [Google, sorry, but that Pixel event was a cringefest](https://techcrunch.com/2025/08/20/google-sorry-but-that-pixel-event-was-a-cringefest/)
+- [Test your true terrestrial trivia with our Earth quiz!](https://www.space.com/astronomy/earth/test-your-true-terrestrial-trivia-with-our-earth-quiz)
 - [US Space Force&#39;s secretive X-37B space plane will test quantum alternative to GPS navigation](https://www.space.com/technology/us-space-forces-secretive-x-37b-space-plane-will-test-quantum-alternative-to-gps-navigation)
-- [Forget Galactus, &#39;Strange New Worlds&#39;&#39; ancient scavenger ship is the real &#39;destroyer of worlds&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/forget-galactus-strange-new-worlds-ancient-scavenger-ship-is-the-real-destroyer-of-worlds-exclusive)
-- [India bans real-money gaming, threatening a $23 billion industry](https://techcrunch.com/2025/08/20/india-bans-real-money-gaming-threatening-a-23-billion-industry/)
-- [Starship launches could delay Florida flights up to 2 hours, FAA says](https://techcrunch.com/2025/08/20/starship-launches-could-delay-florida-flights-up-to-2-hours-faa-says/)
-- [Device searches at the US border hit record high, new data shows](https://techcrunch.com/2025/08/20/device-searches-at-the-us-border-hit-record-high-new-data-shows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
