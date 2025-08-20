@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sony is increasing the price of the PlayStation 5 as new tariffs take hold](https://techcrunch.com/2025/08/20/sony-is-increasing-the-price-of-the-playstation-5-as-new-tariffs-take-hold/)
-- [Anthropic bundles Claude Code into enterprise plans](https://techcrunch.com/2025/08/20/anthropic-bundles-claude-code-into-enterprise-plans/)
-- [New tactical roguelite game &#39;Battlestar Galactica: Scattered Hopes&#39; sees you escape the Cylons with a full fleet of spaceships &lpar;video&rpar;](https://www.space.com/entertainment/space-games/new-tactical-roguelite-game-battlestar-galactica-scattered-hopes-sees-you-escape-the-cylons-with-a-full-fleet-of-spaceships-video)
-- [Russia launches mice, microbes and more on monthlong mission to Earth orbit](https://www.space.com/space-exploration/launches-spacecraft/russia-launches-mice-microbes-and-more-on-mission-to-earth-orbit-bion-m-number-2)
+- [This Chappell Roan song boosted interest in a Canadian dark sky preserve by 1,800%](https://www.space.com/stargazing/this-chappell-roan-song-boosted-interest-in-a-canadian-dark-sky-preserve-by-1-800-percent)
 - [Pixel 10, new Gemini features, the Pixel Watch, and everything else announced at the Made by Google 2025 event](https://techcrunch.com/2025/08/20/pixel-10-new-gemini-features-the-pixel-watch-and-everything-else-announced-at-the-made-by-google-2025-event/)
+- [Labubu could make $1 billion this year](https://techcrunch.com/2025/08/20/labubu-could-make-1-billion-this-year/)
+- [Google launches its own ‘MagSafe’ with PixelSnap](https://techcrunch.com/2025/08/20/google-launches-its-own-magsafe-with-pixelsnap/)
+- [Sony is increasing the price of the PlayStation 5 as new tariffs take hold](https://techcrunch.com/2025/08/20/sony-is-increasing-the-price-of-the-playstation-5-as-new-tariffs-take-hold/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
