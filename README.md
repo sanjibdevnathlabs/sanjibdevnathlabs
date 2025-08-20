@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thousands of Grok chats are now searchable on Google](https://techcrunch.com/2025/08/20/thousands-of-grok-chats-are-now-searchable-on-google/)
+- [New zero-day startup offers $20 million for tools that can hack any smartphone](https://techcrunch.com/2025/08/20/new-zero-day-startup-offers-20-million-for-tools-that-can-hack-any-smartphone/)
+- [FieldAI raises $405M to build universal robot brains](https://techcrunch.com/2025/08/20/fieldai-raises-405m-to-build-universal-robot-brains/)
+- [South Korea&#39;s K-RadCube radiation satellite will hitch a ride on NASA&#39;s Artemis 2 moon mission](https://www.space.com/astronomy/moon/south-koreas-k-radcube-radiation-satellite-will-hitch-a-ride-on-nasas-artemis-2-moon-mission)
 - [Y Combinator alum SRE.ai raises $7.2M for DevOps AI agents](https://techcrunch.com/2025/08/20/sre-ai-launches-to-automate-complex-enterprise-workflows/)
-- [YC-backed Garage raises $13.5M to help firefighters buy equipment](https://techcrunch.com/2025/08/20/embargo-tomorrow-yc-backed-garage-raises-13-5m-to-help-firefighters-buy-equipment/)
-- [Zoox taps ex-UberPool exec’s startup for routing software help](https://techcrunch.com/2025/08/20/zoox-taps-ex-uberpool-execs-startup-for-routing-software-help/)
-- [Astronauts get stuffy noses in space because of microgravity, scientists find](https://www.space.com/space-exploration/human-spaceflight/astronauts-get-stuffy-noses-in-space-because-of-microgravity-scientists-find)
-- [Semiconductor wafer on ISS goes under the microscope | Space photo of the day for Aug. 20, 2025](https://www.space.com/space-exploration/international-space-station/semiconductor-wafer-on-iss-goes-under-the-microscope-space-photo-of-the-day-for-aug-20-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
