@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Semiconductor wafer on ISS goes under the microscope | Space photo of the day for Aug. 20, 2025](https://www.space.com/space-exploration/international-space-station/semiconductor-wafer-on-iss-goes-under-the-microscope-space-photo-of-the-day-for-aug-20-2025)
+- [Finally, Notion now works without an internet connection](https://techcrunch.com/2025/08/20/finally-notion-now-works-without-an-internet-connection/)
 - [&#39;Warhammer 40k: Dawn of War 4&#39; revealed, with a new developer promising a return to &#39;mass-battle, base-building roots&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-games/warhammer-40k-dawn-of-war-4-revealed-with-a-new-developer-promising-a-return-to-mass-battle-base-building-roots-video)
 - [Nocs Provisions Zero Tube 10x25 waterproof monocular review](https://www.space.com/stargazing/skywatching-kit/nocs-provisions-zero-tube-10x25-waterproof-monocular-review)
 - [SpaceX partners with astronomers to protect radio astronomy from satellite interference](https://www.space.com/space-exploration/satellites/spacex-partners-with-astronomers-to-protect-radio-astronomy-from-satellite-interference)
-- [Deel scores a lawsuit win, but not against Rippling](https://techcrunch.com/2025/08/19/deel-scores-a-lawsuit-win-but-not-against-rippling/)
-- [The Milky Way&#39;s faintest satellite may not be what astronomers thought. &#39;These results solve a major mystery in astrophysics&#39;](https://www.space.com/astronomy/galaxies/the-milky-ways-faintest-satellite-may-not-be-what-astronomers-thought-these-results-solve-a-major-mystery-in-astrophysics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
