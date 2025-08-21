@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lunar Strike is a hard sci-fi adventure game about preserving humanity&#39;s legacy on the moon &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-games/lunar-strike-is-a-hard-sci-fi-adventure-game-about-preserving-humanitys-legacy-on-the-moon-exclusive)
 - [A partial solar eclipse is coming: 1 month until the moon takes a &#39;bite&#39; out of the sun](https://www.space.com/stargazing/solar-eclipses/a-partial-solar-eclipse-is-coming-1-month-until-the-moon-takes-a-bite-out-of-the-sun-september-21-eclipse)
 - [Space is open for business with Even Rogers and Max Haot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/20/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/)
 - [Artemis 2 astronauts suit up for nighttime moon launch dress rehearsal &lpar;photos, video&rpar;](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-suit-up-for-nighttime-moon-launch-dress-rehearsal-photos-video)
 - [Group14 lands $463M from SK, Porsche, and others to make silicon anodes for EVs](https://techcrunch.com/2025/08/20/group14-lands-463m-from-sk-porsche-and-others-to-make-silicon-anodes-for-evs/)
-- [Google, sorry, but that Pixel event was a cringefest](https://techcrunch.com/2025/08/20/google-sorry-but-that-pixel-event-was-a-cringefest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
