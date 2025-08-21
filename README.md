@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Struggling fusion power company General Fusion gets $22M lifeline from investors](https://techcrunch.com/2025/08/21/struggling-fusion-power-company-general-fusion-gets-22m-lifeline-from-investors/)
+- [iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event](https://techcrunch.com/2025/08/21/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/)
+- [If aliens explore space like humans do, NASA scientists know where to look for their signals](https://www.space.com/astronomy/if-aliens-explore-space-like-humans-do-nasa-scientists-know-where-to-look-for-their-signals)
+- [Microsoft AI chief says it’s ‘dangerous’ to study AI consciousness](https://techcrunch.com/2025/08/21/microsoft-ai-chief-says-its-dangerous-to-study-ai-consciousness/)
 - [&#39;It&#39;s not over!&#39; — Invasion&#39; Season 3 clip carries an ominous warning from Trevante &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/its-not-over-invasion-season-3-clip-carries-an-ominous-warning-from-trevante-exclusive)
-- [Apple TV+ price jumps 30% to $12.99 monthly](https://techcrunch.com/2025/08/21/apple-tv-price-jumps-30-to-12-99-monthly/)
-- [Instagram now lets creators link multiple reels in a series](https://techcrunch.com/2025/08/21/instagram-now-lets-creators-link-multiple-reels-in-a-series/)
-- [YouTube Music celebrates 10 years with new features that help it compete with Spotify](https://techcrunch.com/2025/08/21/youtube-music-celebrates-10-years-with-new-features-that-help-it-compete-with-spotify/)
-- [Black Moon darkens August skies — here&#39;s how to hunt sparking wonders in the Milky Way this weekend](https://www.space.com/stargazing/black-moon-darkens-august-skies-heres-how-to-hunt-sparking-wonders-in-the-milky-way-this-weekend)
 <!-- BLOG-POST-LIST:END -->
 
 ---
