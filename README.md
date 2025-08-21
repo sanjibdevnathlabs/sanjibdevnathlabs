@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch US Space Force&#39;s classified X-37B space plane today](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-us-space-forces-classified-x-37b-space-plane-august-21)
+- [Hackers who exposed North Korean government hacker explain why they did it](https://techcrunch.com/2025/08/21/hackers-who-exposed-north-korean-government-hacker-explain-why-they-did-it/)
+- [Nvidia is latest investor to back AV startup Nuro in $203M funding round](https://techcrunch.com/2025/08/21/nvidia-is-latest-investor-to-back-av-startup-nuro-in-203m-funding-round/)
 - [Watch sun unleash back-to-back plasma blasts in &#39;spectacular&#39; prominence eruptions &lpar;video&rpar;](https://www.space.com/astronomy/sun/watch-sun-unleash-back-to-back-plasma-blasts-in-spectacular-prominence-eruptions-video)
 - [Curiosity rover images 3 intersecting Mars ridges | Space photo of the day for Aug. 21, 2025](https://www.space.com/astronomy/mars/curiosity-rover-images-3-intersecting-mars-ridges-space-photo-of-the-day-for-aug-21-2025)
-- [Lunar Strike is a hard sci-fi adventure game about preserving humanity&#39;s legacy on the moon &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-games/lunar-strike-is-a-hard-sci-fi-adventure-game-about-preserving-humanitys-legacy-on-the-moon-exclusive)
-- [A partial solar eclipse is coming: 1 month until the moon takes a &#39;bite&#39; out of the sun](https://www.space.com/stargazing/solar-eclipses/a-partial-solar-eclipse-is-coming-1-month-until-the-moon-takes-a-bite-out-of-the-sun-september-21-eclipse)
-- [Space is open for business with Even Rogers and Max Haot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/20/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
