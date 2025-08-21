@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do the biggest stars in the universe grow so large?](https://www.space.com/astronomy/stars/how-do-the-biggest-stars-in-the-universe-grow-so-large)
+- [StrictlyVC at TechCrunch Disrupt 2025: Inside the LP Track](https://techcrunch.com/2025/08/21/strictlyvc-at-techcrunch-disrupt-2025-inside-the-lp-track/)
 - [Struggling fusion power company General Fusion gets $22M lifeline from investors](https://techcrunch.com/2025/08/21/struggling-fusion-power-company-general-fusion-gets-22m-lifeline-from-investors/)
 - [iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event](https://techcrunch.com/2025/08/21/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/)
 - [If aliens explore space like humans do, NASA scientists know where to look for their signals](https://www.space.com/astronomy/if-aliens-explore-space-like-humans-do-nasa-scientists-know-where-to-look-for-their-signals)
-- [Microsoft AI chief says it’s ‘dangerous’ to study AI consciousness](https://techcrunch.com/2025/08/21/microsoft-ai-chief-says-its-dangerous-to-study-ai-consciousness/)
-- [&#39;It&#39;s not over!&#39; — Invasion&#39; Season 3 clip carries an ominous warning from Trevante &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/its-not-over-invasion-season-3-clip-carries-an-ominous-warning-from-trevante-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
