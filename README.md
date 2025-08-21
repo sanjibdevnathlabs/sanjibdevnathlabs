@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As India bans real-money games, Dream Sports, MPL start pulling the plug](https://techcrunch.com/2025/08/21/as-india-bans-real-money-games-dream-sports-mpl-start-pulling-the-plug/)
 - [Ecosia has offered to take ‘stewardship’ of Chrome. And it’s not a bad idea.](https://techcrunch.com/2025/08/21/ecosia-has-offered-to-take-stewardship-of-chrome-and-its-not-a-bad-idea/)
 - [Astronomers discover strange new type of supernova: &#39;This is the first time we have seen a star that was essentially stripped to the bone&#39;](https://www.space.com/astronomy/astronomers-discover-strange-new-type-of-supernova-this-is-the-first-time-we-have-seen-a-star-that-was-essentially-stripped-to-the-bone)
 - [Gas power plants approved for Meta’s $10B data center, and not everyone is happy](https://techcrunch.com/2025/08/21/gas-power-plants-approved-for-metas-10b-data-center-and-not-everyone-is-happy/)
 - [Elon Musk’s X may finally settle $500M severance lawsuit](https://techcrunch.com/2025/08/21/elon-musks-x-may-finally-settle-500m-severance-lawsuit/)
-- [How do the biggest stars in the universe grow so large?](https://www.space.com/astronomy/stars/how-do-the-biggest-stars-in-the-universe-grow-so-large)
 <!-- BLOG-POST-LIST:END -->
 
 ---
