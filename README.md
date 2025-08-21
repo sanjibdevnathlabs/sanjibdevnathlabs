@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ecosia has offered to take ‘stewardship’ of Chrome. And it’s not a bad idea.](https://techcrunch.com/2025/08/21/ecosia-has-offered-to-take-stewardship-of-chrome-and-its-not-a-bad-idea/)
+- [Astronomers discover strange new type of supernova: &#39;This is the first time we have seen a star that was essentially stripped to the bone&#39;](https://www.space.com/astronomy/astronomers-discover-strange-new-type-of-supernova-this-is-the-first-time-we-have-seen-a-star-that-was-essentially-stripped-to-the-bone)
+- [Gas power plants approved for Meta’s $10B data center, and not everyone is happy](https://techcrunch.com/2025/08/21/gas-power-plants-approved-for-metas-10b-data-center-and-not-everyone-is-happy/)
+- [Elon Musk’s X may finally settle $500M severance lawsuit](https://techcrunch.com/2025/08/21/elon-musks-x-may-finally-settle-500m-severance-lawsuit/)
 - [How do the biggest stars in the universe grow so large?](https://www.space.com/astronomy/stars/how-do-the-biggest-stars-in-the-universe-grow-so-large)
-- [StrictlyVC at TechCrunch Disrupt 2025: Inside the LP Track](https://techcrunch.com/2025/08/21/strictlyvc-at-techcrunch-disrupt-2025-inside-the-lp-track/)
-- [Struggling fusion power company General Fusion gets $22M lifeline from investors](https://techcrunch.com/2025/08/21/struggling-fusion-power-company-general-fusion-gets-22m-lifeline-from-investors/)
-- [iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event](https://techcrunch.com/2025/08/21/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/)
-- [If aliens explore space like humans do, NASA scientists know where to look for their signals](https://www.space.com/astronomy/if-aliens-explore-space-like-humans-do-nasa-scientists-know-where-to-look-for-their-signals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
