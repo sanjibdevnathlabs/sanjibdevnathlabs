@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;It&#39;s not over!&#39; — Invasion&#39; Season 3 clip carries an ominous warning from Trevante &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/its-not-over-invasion-season-3-clip-carries-an-ominous-warning-from-trevante-exclusive)
 - [Apple TV+ price jumps 30% to $12.99 monthly](https://techcrunch.com/2025/08/21/apple-tv-price-jumps-30-to-12-99-monthly/)
 - [Instagram now lets creators link multiple reels in a series](https://techcrunch.com/2025/08/21/instagram-now-lets-creators-link-multiple-reels-in-a-series/)
 - [YouTube Music celebrates 10 years with new features that help it compete with Spotify](https://techcrunch.com/2025/08/21/youtube-music-celebrates-10-years-with-new-features-that-help-it-compete-with-spotify/)
 - [Black Moon darkens August skies — here&#39;s how to hunt sparking wonders in the Milky Way this weekend](https://www.space.com/stargazing/black-moon-darkens-august-skies-heres-how-to-hunt-sparking-wonders-in-the-milky-way-this-weekend)
-- [Astronomers trace massive cosmic explosion back 12 billion years. &#39;This is the most distant event where we can directly see light escaping from around stars&#39;](https://www.space.com/astronomy/astronomers-trace-massive-cosmic-explosion-back-12-billion-years-this-is-the-most-distant-event-where-we-can-directly-see-light-escaping-from-around-stars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
