@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch SpaceX launch US Space Force&#39;s classified X-37B space plane today](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-us-space-forces-classified-x-37b-space-plane-august-21)
-- [Hackers who exposed North Korean government hacker explain why they did it](https://techcrunch.com/2025/08/21/hackers-who-exposed-north-korean-government-hacker-explain-why-they-did-it/)
-- [Nvidia is latest investor to back AV startup Nuro in $203M funding round](https://techcrunch.com/2025/08/21/nvidia-is-latest-investor-to-back-av-startup-nuro-in-203m-funding-round/)
-- [Watch sun unleash back-to-back plasma blasts in &#39;spectacular&#39; prominence eruptions &lpar;video&rpar;](https://www.space.com/astronomy/sun/watch-sun-unleash-back-to-back-plasma-blasts-in-spectacular-prominence-eruptions-video)
-- [Curiosity rover images 3 intersecting Mars ridges | Space photo of the day for Aug. 21, 2025](https://www.space.com/astronomy/mars/curiosity-rover-images-3-intersecting-mars-ridges-space-photo-of-the-day-for-aug-21-2025)
+- [Raising multiple rounds of venture capital might be wrong for your startup](https://techcrunch.com/2025/08/21/raising-multiple-rounds-of-venture-capital-might-be-wrong-for-your-startup/)
+- [StrictlyVC at TechCrunch Disrupt 2025: Inside the LP Track](https://techcrunch.com/2025/08/21/strictlyvc-at-techcrunch-disrupt-2025-inside-the-lp-track/)
+- [Reining in the sun: Venus, Earth and Jupiter may work together to reduce the risk of extreme solar storms](https://www.space.com/astronomy/sun/reining-in-the-sun-venus-earth-and-jupiter-may-work-together-to-reduce-the-risk-of-extreme-solar-storms)
+- [Google’s AI Mode expands globally, adds new agentic features](https://techcrunch.com/2025/08/21/googles-ai-mode-expands-globally-adds-new-agentic-features/)
+- [Report: Meta is hitting pause on AI hiring after its poaching spree](https://techcrunch.com/2025/08/21/report-meta-is-hitting-pause-on-ai-hiring-after-its-poaching-spree/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
