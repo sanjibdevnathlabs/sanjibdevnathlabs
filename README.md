@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers trace massive cosmic explosion back 12 billion years. &#39;This is the most distant event where we can directly see light escaping from around stars&#39;](https://www.space.com/astronomy/astronomers-trace-massive-cosmic-explosion-back-12-billion-years-this-is-the-most-distant-event-where-we-can-directly-see-light-escaping-from-around-stars)
 - [Raising multiple rounds of venture capital might be wrong for your startup](https://techcrunch.com/2025/08/21/raising-multiple-rounds-of-venture-capital-might-be-wrong-for-your-startup/)
 - [StrictlyVC at TechCrunch Disrupt 2025: Inside the LP Track](https://techcrunch.com/2025/08/21/strictlyvc-at-techcrunch-disrupt-2025-inside-the-lp-track/)
 - [Reining in the sun: Venus, Earth and Jupiter may work together to reduce the risk of extreme solar storms](https://www.space.com/astronomy/sun/reining-in-the-sun-venus-earth-and-jupiter-may-work-together-to-reduce-the-risk-of-extreme-solar-storms)
 - [Google’s AI Mode expands globally, adds new agentic features](https://techcrunch.com/2025/08/21/googles-ai-mode-expands-globally-adds-new-agentic-features/)
-- [Report: Meta is hitting pause on AI hiring after its poaching spree](https://techcrunch.com/2025/08/21/report-meta-is-hitting-pause-on-ai-hiring-after-its-poaching-spree/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
