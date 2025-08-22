@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronomers discover brightest ever fast radio burst: &#39;This marks the beginning of a new era&#39;](https://www.space.com/astronomy/brightest-ever-fast-radio-burst-challenges-assumptions-about-mysterious-blasts-of-energy-this-marks-the-beginning-of-a-new-era)
-- [Walmart is offering $383 off the Canon EOS R8 and includes a wide-angle RF lens — perfect for capturing the galactic core of the Milky Way](https://www.space.com/stargazing/skywatching-kit/walmart-is-offering-usd383-off-the-canon-eos-r8-and-includes-a-wide-angle-rf-lens-perfect-for-capturing-the-galactic-core-of-the-milky-way)
-- [NASA&#39;s Hubble telescope watches supernova explosion | Space photo of the day for Aug. 22, 2025](https://www.space.com/astronomy/nasas-hubble-telescope-watches-supernova-explosion-space-photo-of-the-day-for-aug-22-2025)
-- [&#39;Fallout&#39; Season 2 teaser sets release date and introduces New Vegas, but did it spoil too much? &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/fallout-season-2-teaser-sets-release-date-and-introduces-new-vegas-but-did-it-spoil-too-much-video)
-- [Pair of colliding galaxies may hint at the fate of the Milky Way and its closest galactic neighbor](https://www.space.com/astronomy/galaxies/pair-of-colliding-galaxies-may-hint-at-the-fate-of-the-milky-way-and-its-closest-galactic-neighbor)
+- [&#39;Invasion&#39; Season 3 showrunner Simon Kinberg on creating &#39;&#39;War of the Worlds&#39; meets &#39;Babel&#39;&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/invasion-season-3-showrunner-simon-kinberg-on-creating-war-of-the-worlds-meets-babel-exclusive)
+- [X pulls the ability to like and follow from its developer API’s free tier](https://techcrunch.com/2025/08/22/x-pulls-the-ability-to-like-and-follow-from-its-developer-apis-free-tier/)
+- [Developer gets prison time for sabotaging former employer’s network with a ‘kill switch’](https://techcrunch.com/2025/08/22/developer-gets-prison-time-for-sabotaging-former-employers-network-with-a-kill-switch/)
+- [Waymo approved to start autonomous vehicle testing in New York City](https://techcrunch.com/2025/08/22/waymo-approved-to-start-autonomous-vehicle-testing-in-new-york-city/)
+- [NASA astronaut marks his 400th day in space | On the International Space Station Aug. 18-22, 2025](https://www.space.com/space-exploration/international-space-station/nasa-astronaut-marks-his-400th-day-in-space-on-the-international-space-station-aug-18-22-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
