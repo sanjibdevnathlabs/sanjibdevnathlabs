@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase CEO explains why he fired engineers who didn’t try AI immediately](https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/)
+- [The Expanse: Osiris Reborn could be the Mass Effect successor we&#39;ve all been waiting for &lpar;preview&rpar;](https://www.space.com/entertainment/space-games/the-expanse-osiris-reborn-could-be-the-mass-effect-successor-weve-all-been-waiting-for-preview)
+- [Bluesky blocks service in Mississippi over age assurance law](https://techcrunch.com/2025/08/22/bluesky-blocks-service-in-mississippi-over-age-assurance-law/)
 - [Apple gets ready for AI in the enterprise with new ChatGPT configuration options](https://techcrunch.com/2025/08/22/apple-gets-ready-for-ai-in-the-enterprise-with-new-chatgpt-configuration-options/)
 - [Watch Blue Origin launch its 200th payload on 35th New Shepard spaceflight Aug. 23](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-launch-200th-payload-35th-new-shepard-spaceflight)
-- [Watch Hurricane Erin swirl menacingly in the Atlantic Ocean in NOAA satellite video](https://www.space.com/astronomy/earth/satellites-watch-hurricane-erin-barrel-north-in-noaa-satellite-time-lapse-video)
-- [US government plans to take a 10% stake in Intel](https://techcrunch.com/2025/08/22/u-s-government-plans-to-take-a-10-stake-in-intel/)
-- [One of the earliest galaxies in the universe was rich in oxygen. Could it mean life evolved earlier than we thought?](https://www.space.com/astronomy/one-of-the-earliest-galaxies-in-the-universe-was-rich-in-oxygen-could-it-mean-life-evolved-earlier-than-we-thought)
 <!-- BLOG-POST-LIST:END -->
 
 ---
