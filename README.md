@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI lawyers question Meta’s role in Elon Musk’s $97B takeover bid](https://techcrunch.com/2025/08/21/openai-lawyers-question-metas-role-in-elon-musks-97b-takeover-bid/)
 - [Anduril, Blue Origin to study how to transport cargo from orbit to Earth for the Pentagon](https://techcrunch.com/2025/08/21/anduril-blue-origin-to-study-how-to-transport-cargo-from-orbit-to-earth-for-the-pentagon/)
 - [SpaceX moves giant Super Heavy rocket to pad ahead of Starship Flight 10 launch &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-giant-super-heavy-rocket-to-pad-ahead-of-starship-flight-10-launch-photos)
 - [As India bans real-money games, Dream Sports, MPL start pulling the plug](https://techcrunch.com/2025/08/21/as-india-bans-real-money-games-dream-sports-mpl-start-pulling-the-plug/)
 - [Ecosia has offered to take ‘stewardship’ of Chrome. And it’s not a bad idea.](https://techcrunch.com/2025/08/21/ecosia-has-offered-to-take-stewardship-of-chrome-and-its-not-a-bad-idea/)
-- [Astronomers discover strange new type of supernova: &#39;This is the first time we have seen a star that was essentially stripped to the bone&#39;](https://www.space.com/astronomy/astronomers-discover-strange-new-type-of-supernova-this-is-the-first-time-we-have-seen-a-star-that-was-essentially-stripped-to-the-bone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
