@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One of the earliest galaxies in the universe was rich in oxygen. Could it mean life evolved earlier than we thought?](https://www.space.com/astronomy/one-of-the-earliest-galaxies-in-the-universe-was-rich-in-oxygen-could-it-mean-life-evolved-earlier-than-we-thought)
+- [TikTok denies India comeback after reports of website going live](https://techcrunch.com/2025/08/22/tiktok-denies-india-comeback-after-reports-of-website-going-live/)
+- [1st-of-its-kind quadruple star system could reveal secrets of &#39;failed star&#39; brown dwarfs](https://www.space.com/astronomy/1st-of-its-kind-quadruple-star-system-could-reveal-secrets-of-failed-star-brown-dwarfs)
 - [Apple is in talks to use Google’s Gemini for Siri revamp, report says](https://techcrunch.com/2025/08/22/apple-is-in-talks-to-use-googles-gemini-for-siri-revamp-report-says/)
 - [The next Starship flight will test much more than hardware](https://techcrunch.com/2025/08/22/the-next-starship-flight-will-test-much-more-than-hardware/)
-- [&#39;What is Starfleet?&#39; Modern &#39;Star Trek&#39; is still trying to work that out, but &#39;Strange New Worlds&#39;&#39; latest episode might have the answer](https://www.space.com/entertainment/space-movies-shows/what-is-starfleet-modern-star-trek-is-still-trying-to-work-that-out-but-strange-new-worlds-latest-episode-might-have-the-answer)
-- [SpaceX launches 24 Starlink satellites to orbit from California &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-24-starlink-satellites-to-orbit-from-california-group-17-6)
-- [Y Combinator says Apple’s App Store has hindered startup growth](https://techcrunch.com/2025/08/22/y-combinator-says-apples-app-store-has-hindered-startup-growth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
