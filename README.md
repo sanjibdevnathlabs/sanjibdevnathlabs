@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What caused the only known lunar landslide? Newly opened Apollo 17 moon samples may hold the answer](https://www.space.com/space-exploration/apollo/what-caused-the-only-known-lunar-landslide-newly-opened-apollo-17-moon-samples-may-hold-the-answer)
+- [YC-backed Oway raises $4M to build a decentralized ‘Uber for freight’](https://techcrunch.com/2025/08/22/yc-backed-oway-raises-4m-to-build-a-decentralized-uber-for-freight/)
+- [Google makes it easier to edit Drive videos with a new Vids shortcut button](https://techcrunch.com/2025/08/22/google-makes-it-easier-to-edit-drive-videos-with-a-new-vids-shortcut-button/)
+- [New moon of August 2025 brings a rare black moon and a close Mars encounter](https://www.space.com/stargazing/new-moon-of-august-2025-brings-a-rare-black-moon-and-a-close-mars-encounter)
 - [&#39;Invasion&#39; Season 3 showrunner Simon Kinberg on creating &#39;&#39;War of the Worlds&#39; meets &#39;Babel&#39;&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/invasion-season-3-showrunner-simon-kinberg-on-creating-war-of-the-worlds-meets-babel-exclusive)
-- [X pulls the ability to like and follow from its developer API’s free tier](https://techcrunch.com/2025/08/22/x-pulls-the-ability-to-like-and-follow-from-its-developer-apis-free-tier/)
-- [Developer gets prison time for sabotaging former employer’s network with a ‘kill switch’](https://techcrunch.com/2025/08/22/developer-gets-prison-time-for-sabotaging-former-employers-network-with-a-kill-switch/)
-- [Waymo approved to start autonomous vehicle testing in New York City](https://techcrunch.com/2025/08/22/waymo-approved-to-start-autonomous-vehicle-testing-in-new-york-city/)
-- [NASA astronaut marks his 400th day in space | On the International Space Station Aug. 18-22, 2025](https://www.space.com/space-exploration/international-space-station/nasa-astronaut-marks-his-400th-day-in-space-on-the-international-space-station-aug-18-22-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
