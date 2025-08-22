@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Hubble telescope watches supernova explosion | Space photo of the day for Aug. 22, 2025](https://www.space.com/astronomy/nasas-hubble-telescope-watches-supernova-explosion-space-photo-of-the-day-for-aug-22-2025)
 - [&#39;Fallout&#39; Season 2 teaser sets release date and introduces New Vegas, but did it spoil too much? &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/fallout-season-2-teaser-sets-release-date-and-introduces-new-vegas-but-did-it-spoil-too-much-video)
 - [Pair of colliding galaxies may hint at the fate of the Milky Way and its closest galactic neighbor](https://www.space.com/astronomy/galaxies/pair-of-colliding-galaxies-may-hint-at-the-fate-of-the-milky-way-and-its-closest-galactic-neighbor)
 - [OpenAI announces New Delhi office as it expands footprint in India](https://techcrunch.com/2025/08/21/openai-announces-new-delhi-office-as-it-expands-footprint-in-india/)
-- [SpaceX launches Space Force&#39;s X-37B space plane on 8th mystery mission](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-space-forces-x-37b-space-plane-on-8th-mystery-mission)
-- [OpenAI lawyers question Meta’s role in Elon Musk’s $97B takeover bid](https://techcrunch.com/2025/08/21/openai-lawyers-question-metas-role-in-elon-musks-97b-takeover-bid/)
+- [SpaceX launches Space Force&#39;s X-37B space plane on 8th mystery mission &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-space-forces-x-37b-space-plane-on-8th-mystery-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
