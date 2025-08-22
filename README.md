@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What caused the only known lunar landslide? Newly opened Apollo 17 moon samples may hold the answer](https://www.space.com/space-exploration/apollo/what-caused-the-only-known-lunar-landslide-newly-opened-apollo-17-moon-samples-may-hold-the-answer)
-- [YC-backed Oway raises $4M to build a decentralized ‘Uber for freight’](https://techcrunch.com/2025/08/22/yc-backed-oway-raises-4m-to-build-a-decentralized-uber-for-freight/)
-- [Google makes it easier to edit Drive videos with a new Vids shortcut button](https://techcrunch.com/2025/08/22/google-makes-it-easier-to-edit-drive-videos-with-a-new-vids-shortcut-button/)
-- [New moon of August 2025 brings a rare black moon and a close Mars encounter](https://www.space.com/stargazing/new-moon-of-august-2025-brings-a-rare-black-moon-and-a-close-mars-encounter)
-- [&#39;Invasion&#39; Season 3 showrunner Simon Kinberg on creating &#39;&#39;War of the Worlds&#39; meets &#39;Babel&#39;&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/invasion-season-3-showrunner-simon-kinberg-on-creating-war-of-the-worlds-meets-babel-exclusive)
+- [Y Combinator says Apple’s App Store has hindered startup growth](https://techcrunch.com/2025/08/22/y-combinator-says-apples-app-store-has-hindered-startup-growth/)
+- [&#39;Star Trek: Voyager - Across The Unknown&#39; will turn Voyager&#39;s seven-year journey into a rogue-lite survival game &lpar;video&rpar;](https://www.space.com/entertainment/space-games/star-trek-voyager-across-the-unknown-will-turn-voyagers-seven-year-journey-into-a-rogue-lite-survival-game-video)
+- [Nvidia reportedly halts production on its H20 AI chips](https://techcrunch.com/2025/08/22/nvidia-reportedly-halts-production-on-its-h20-ai-chips/)
+- [It&#39;s our choice as the best deep space viewing telescope, and it&#39;s rarely discounted — now with $200 off, this telescope deal is worth grabbing fast](https://www.space.com/stargazing/skywatching-kit/200-dollars-cheaper-celestron-nexstar-8se-while-stocks-last)
+- [Aspiration co-founder to plead guilty to $248M fraud scheme](https://techcrunch.com/2025/08/22/aspiration-co-founder-to-plead-guilty-to-248m-fraud-scheme/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
