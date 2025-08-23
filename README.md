@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jupiter quiz: Think you know about the Jovian gas giant?](https://www.space.com/astronomy/jupiter/jupiter-quiz-think-you-know-about-the-jovian-gas-giant)
+- [What time is SpaceX&#39;s Starship Flight 10 launch on Aug. 24?](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-10-launch-what-time)
 - [Sky View Backpacker stargazing tent review](https://www.space.com/stargazing/skywatching-kit/sky-view-backpacker-stargazing-tent-review)
 - [Meta partners with Midjourney on AI image and video models](https://techcrunch.com/2025/08/22/meta-partners-with-midjourney-on-ai-image-and-video-models/)
 - [Coinbase CEO explains why he fired engineers who didn’t try AI immediately](https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/)
-- [The Expanse: Osiris Reborn could be the Mass Effect successor we&#39;ve all been waiting for &lpar;preview&rpar;](https://www.space.com/entertainment/space-games/the-expanse-osiris-reborn-could-be-the-mass-effect-successor-weve-all-been-waiting-for-preview)
-- [Bluesky blocks service in Mississippi over age assurance law](https://techcrunch.com/2025/08/22/bluesky-blocks-service-in-mississippi-over-age-assurance-law/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
