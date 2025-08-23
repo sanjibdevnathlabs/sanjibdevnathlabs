@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta partners with Midjourney on AI image and video models](https://techcrunch.com/2025/08/22/meta-partners-with-midjourney-on-ai-image-and-video-models/)
+- [Coinbase CEO explains why he fired engineers who didn’t try AI immediately](https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/)
 - [The Expanse: Osiris Reborn could be the Mass Effect successor we&#39;ve all been waiting for &lpar;preview&rpar;](https://www.space.com/entertainment/space-games/the-expanse-osiris-reborn-could-be-the-mass-effect-successor-weve-all-been-waiting-for-preview)
-- [Watch Blue Origin launch its 200th payload on 35th New Shepard spaceflight Aug. 23](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-launch-200th-payload-35th-new-shepard-spaceflight)
-- [Watch Hurricane Erin swirl menacingly in the Atlantic Ocean in NOAA satellite video](https://www.space.com/astronomy/earth/satellites-watch-hurricane-erin-barrel-north-in-noaa-satellite-time-lapse-video)
-- [One of the earliest galaxies in the universe was rich in oxygen. Could it mean life evolved earlier than we thought?](https://www.space.com/astronomy/one-of-the-earliest-galaxies-in-the-universe-was-rich-in-oxygen-could-it-mean-life-evolved-earlier-than-we-thought)
-- [1st-of-its-kind quadruple star system could reveal secrets of &#39;failed star&#39; brown dwarfs](https://www.space.com/astronomy/1st-of-its-kind-quadruple-star-system-could-reveal-secrets-of-failed-star-brown-dwarfs)
+- [Bluesky blocks service in Mississippi over age assurance law](https://techcrunch.com/2025/08/22/bluesky-blocks-service-in-mississippi-over-age-assurance-law/)
+- [Apple gets ready for AI in the enterprise with new ChatGPT configuration options](https://techcrunch.com/2025/08/22/apple-gets-ready-for-ai-in-the-enterprise-with-new-chatgpt-configuration-options/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
