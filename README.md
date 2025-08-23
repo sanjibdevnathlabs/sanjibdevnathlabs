@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon AGI Labs chief defends his reverse acquihire](https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/)
 - [The Trump administration’s big Intel investment comes from already awarded grants](https://techcrunch.com/2025/08/23/the-trump-administrations-big-intel-investment-comes-from-already-awarded-grants/)
 - [NASA will announce its new astronaut class in September](https://www.space.com/space-exploration/human-spaceflight/nasa-will-announce-its-new-astronaut-class-in-september)
 - [Watch SpaceX launch 5,000 pounds of cargo to the ISS early on Aug. 24](https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-33-cargo-launch-international-space-station)
 - [This Week In Space podcast: Episode 174 — Gifts From Orbit](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-174-gifts-from-orbit)
-- [Watch Rocket Lab launch 5 satellites on mystery mission today](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-five-satellites-mystery-mission-live-laugh-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
