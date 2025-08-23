@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sky View Backpacker stargazing tent review](https://www.space.com/stargazing/skywatching-kit/sky-view-backpacker-stargazing-tent-review)
 - [Meta partners with Midjourney on AI image and video models](https://techcrunch.com/2025/08/22/meta-partners-with-midjourney-on-ai-image-and-video-models/)
 - [Coinbase CEO explains why he fired engineers who didn’t try AI immediately](https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/)
 - [The Expanse: Osiris Reborn could be the Mass Effect successor we&#39;ve all been waiting for &lpar;preview&rpar;](https://www.space.com/entertainment/space-games/the-expanse-osiris-reborn-could-be-the-mass-effect-successor-weve-all-been-waiting-for-preview)
 - [Bluesky blocks service in Mississippi over age assurance law](https://techcrunch.com/2025/08/22/bluesky-blocks-service-in-mississippi-over-age-assurance-law/)
-- [Apple gets ready for AI in the enterprise with new ChatGPT configuration options](https://techcrunch.com/2025/08/22/apple-gets-ready-for-ai-in-the-enterprise-with-new-chatgpt-configuration-options/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
