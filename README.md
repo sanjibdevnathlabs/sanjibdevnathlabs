@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Rocket Lab launch 5 satellites on mystery mission today](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-five-satellites-mystery-mission-live-laugh-launch)
 - [Jupiter quiz: Think you know about the Jovian gas giant?](https://www.space.com/astronomy/jupiter/jupiter-quiz-think-you-know-about-the-jovian-gas-giant)
 - [What time is SpaceX&#39;s Starship Flight 10 launch on Aug. 24?](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-10-launch-what-time)
 - [Sky View Backpacker stargazing tent review](https://www.space.com/stargazing/skywatching-kit/sky-view-backpacker-stargazing-tent-review)
 - [Meta partners with Midjourney on AI image and video models](https://techcrunch.com/2025/08/22/meta-partners-with-midjourney-on-ai-image-and-video-models/)
-- [Coinbase CEO explains why he fired engineers who didn’t try AI immediately](https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
