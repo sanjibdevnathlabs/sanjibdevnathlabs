@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event](https://techcrunch.com/2025/08/24/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/)
 - [Elon Musk says xAI has open sourced Grok 2.5](https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/)
 - [Put a ring on it: Saturn trivia quiz!](https://www.space.com/astronomy/saturn/put-a-ring-on-it-saturn-trivia-quiz)
 - [The 10 best sci-fi TV shows of the 1980s](https://www.space.com/entertainment/space-movies-shows/the-10-best-sci-fi-tv-shows-of-the-1980s)
 - [Climate models reveal how human activity may be locking the American Southwest into permanent drought](https://www.space.com/science/climate-change/climate-models-reveal-how-human-activity-may-be-locking-the-southwest-into-permanent-drought)
-- [Black holes that transform matter into dark energy could solve &#39;cosmic hiccups&#39; mystery](https://www.space.com/astronomy/black-holes-that-transform-matter-into-dark-energy-could-solve-cosmic-hiccups-mystery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
