@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk says xAI has open sourced Grok 2.5](https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/)
+- [Put a ring on it: Saturn trivia quiz!](https://www.space.com/astronomy/saturn/put-a-ring-on-it-saturn-trivia-quiz)
 - [The 10 best sci-fi TV shows of the 1980s](https://www.space.com/entertainment/space-movies-shows/the-10-best-sci-fi-tv-shows-of-the-1980s)
 - [Climate models reveal how human activity may be locking the American Southwest into permanent drought](https://www.space.com/science/climate-change/climate-models-reveal-how-human-activity-may-be-locking-the-southwest-into-permanent-drought)
 - [Black holes that transform matter into dark energy could solve &#39;cosmic hiccups&#39; mystery](https://www.space.com/astronomy/black-holes-that-transform-matter-into-dark-energy-could-solve-cosmic-hiccups-mystery)
-- [OpenAI warns against SPVs and other ‘unauthorized’ investments](https://techcrunch.com/2025/08/23/openai-warns-against-spvs-and-other-unauthorized-investments/)
-- [Amazon AGI Labs chief defends his reverse acquihire](https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
