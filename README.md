@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluesky blocks service in Mississippi over age assurance law](https://techcrunch.com/2025/08/24/bluesky-blocks-service-in-mississippi-over-age-assurance-law/)
+- [Former Meta exec Nick Clegg offers careful criticism of ‘cloyingly conformist’ Silicon Valley](https://techcrunch.com/2025/08/24/former-meta-exec-nick-clegg-offers-careful-criticism-of-cloyingly-conformist-silicon-valley/)
 - [Netflix’s ‘KPop Demon Hunters’ is probably the biggest movie in theaters](https://techcrunch.com/2025/08/24/netflixs-kpop-demon-hunters-is-probably-the-biggest-movie-in-theaters/)
 - [TechCrunch Mobility: Waymo’s Big Apple score and Nvidia backs Nuro](https://techcrunch.com/2025/08/24/techcrunch-mobility-waymos-big-apple-score-and-nvidia-backs-nuro/)
 - [Watch SpaceX Dragon cargo capsule arrive at the ISS on Aug. 25 with 5,000 pounds of supplies](https://www.space.com/space-exploration/launches-spacecraft/spacex-dragon-cargo-capsule-crs-33-iss-docking)
-- [iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event](https://techcrunch.com/2025/08/24/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/)
-- [Elon Musk says xAI has open sourced Grok 2.5](https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
