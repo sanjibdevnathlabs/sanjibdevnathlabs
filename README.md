@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Next set of VC judges locked in for Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/next-batch-of-startup-battlefield-200-judges-revealed/)
 - [&#39;Star Wars: Visions&#39; season 3 release date, 1st glimpse unveiled at Anime NYC 2025](https://www.space.com/entertainment/space-movies-shows/star-wars-visions-volume-3-release-date-anime-nyc-2025)
-- [AI sycophancy isn’t just a quirk, experts consider it a ‘dark pattern’ to turn users into profit](https://techcrunch.com/2025/08/25/how-chatbot-design-choices-are-fueling-ai-delusions-meta-chatbot-rogue/)
+- [AI sycophancy isn’t just a quirk, experts consider it a ‘dark pattern’ to turn users into profit](https://techcrunch.com/2025/08/25/ai-sycophancy-isnt-just-a-quirk-experts-consider-it-a-dark-pattern-to-turn-users-into-profit/)
 - [Bounce launches a service for moving accounts between Bluesky and Mastodon](https://techcrunch.com/2025/08/25/bounce-launches-a-service-for-moving-accounts-between-bluesky-and-mastodon/)
 - [The World Court just ruled countries can be held liable for climate change damage – what does that mean for the US?](https://www.space.com/science/climate-change/the-world-court-just-ruled-countries-can-be-held-liable-for-climate-change-damage-what-does-that-mean-for-the-us)
-- [Google will require developer verification for Android apps outside the Play Store](https://techcrunch.com/2025/08/25/google-will-require-developer-verification-for-android-apps-outside-the-play-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
