@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech founder throws hat in California governor’s race](https://techcrunch.com/2025/08/25/tech-founder-throws-hat-in-california-governors-race/)
+- [Could black hole mergers finally solve the Hubble tension? Probably not](https://www.space.com/astronomy/black-holes/could-black-hole-mergers-finally-solve-the-hubble-tension-probably-not)
+- [Venus quiz: How much do you know about this hottie?](https://www.space.com/astronomy/venus/venus-quiz-how-much-do-you-know-about-this-hottie)
+- [How chatbot design choices are fueling AI delusions](https://techcrunch.com/2025/08/25/how-chatbot-design-choices-are-fueling-ai-delusions-meta-chatbot-rogue/)
 - [Supernova blast sculpts ghostly hand-shaped nebula in the cosmos &lpar;video&rpar;](https://www.space.com/astronomy/galaxies/supernova-blast-sculpts-ghostly-hand-shaped-nebula-in-the-cosmos-video)
-- [Silicon Valley is pouring millions into pro-AI PACs to sway midterms](https://techcrunch.com/2025/08/25/silicon-valley-is-pouring-millions-into-pro-ai-pacs-to-sway-midterms/)
-- [Volunteer opportunities still open for TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/want-to-attend-techcrunch-disrupt-2025-for-free-volunteer-but-the-clocks-ticking/)
-- [Robomart unveils new delivery robot with $3 flat fee to challenge DoorDash, Uber Eats](https://techcrunch.com/2025/08/25/robomart-unveils-new-delivery-robot-with-3-flat-fee-to-challenge-doordash-uber-eats/)
-- [Eclipse experts&#39; best travel tips for the total solar eclipse 2027](https://www.space.com/stargazing/solar-eclipses/eclipse-experts-best-travel-tips-for-the-total-solar-eclipse-2027)
 <!-- BLOG-POST-LIST:END -->
 
 ---
