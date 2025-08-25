@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Next set of VC judges locked in for Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/next-batch-of-startup-battlefield-200-judges-revealed/)
-- [Dark matter could create black holes that devour exoplanets from within](https://www.space.com/astronomy/dark-matter-could-create-black-holes-that-devour-exoplanets-from-within)
-- [Don&#39;t miss Mars close to the slender crescent moon at sunset on Aug. 26](https://www.space.com/stargazing/mars-close-to-crescent-moon-sunset-aug-26-2025)
-- [Radio dish on the move | Space photo of the day for Aug. 25, 2025](https://www.space.com/astronomy/radio-dish-on-the-move-space-photo-of-the-day-for-aug-25-2025)
-- [NASA&#39;s Psyche asteroid probe beams home haunting view of distant Earth &lpar;photo&rpar;](https://www.space.com/space-exploration/asteroid-comet-missions/nasas-psyche-asteroid-probe-beams-home-haunting-view-of-distant-earth-photo)
+- [Silicon Valley is pouring millions into pro-AI PACs to sway midterms](https://techcrunch.com/2025/08/25/silicon-valley-is-pouring-millions-into-pro-ai-pacs-to-sway-midterms/)
+- [Volunteer opportunities still open for TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/want-to-attend-techcrunch-disrupt-2025-for-free-volunteer-but-the-clocks-ticking/)
+- [Robomart unveils new delivery robot with $3 flat fee to challenge DoorDash, Uber Eats](https://techcrunch.com/2025/08/25/robomart-unveils-new-delivery-robot-with-3-flat-fee-to-challenge-doordash-uber-eats/)
+- [Eclipse experts&#39; best travel tips for the total solar eclipse 2027](https://www.space.com/stargazing/solar-eclipses/eclipse-experts-best-travel-tips-for-the-total-solar-eclipse-2027)
+- [Yottar wants to help energy users find capacity on the electrical grid](https://techcrunch.com/2025/08/25/yottar-wants-to-help-energy-users-find-capacity-on-the-electrical-grid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
