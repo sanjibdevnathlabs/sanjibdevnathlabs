@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Supernova blast sculpts ghostly hand-shaped nebula in the cosmos &lpar;video&rpar;](https://www.space.com/astronomy/galaxies/supernova-blast-sculpts-ghostly-hand-shaped-nebula-in-the-cosmos-video)
 - [Silicon Valley is pouring millions into pro-AI PACs to sway midterms](https://techcrunch.com/2025/08/25/silicon-valley-is-pouring-millions-into-pro-ai-pacs-to-sway-midterms/)
 - [Volunteer opportunities still open for TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/want-to-attend-techcrunch-disrupt-2025-for-free-volunteer-but-the-clocks-ticking/)
 - [Robomart unveils new delivery robot with $3 flat fee to challenge DoorDash, Uber Eats](https://techcrunch.com/2025/08/25/robomart-unveils-new-delivery-robot-with-3-flat-fee-to-challenge-doordash-uber-eats/)
 - [Eclipse experts&#39; best travel tips for the total solar eclipse 2027](https://www.space.com/stargazing/solar-eclipses/eclipse-experts-best-travel-tips-for-the-total-solar-eclipse-2027)
-- [Yottar wants to help energy users find capacity on the electrical grid](https://techcrunch.com/2025/08/25/yottar-wants-to-help-energy-users-find-capacity-on-the-electrical-grid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
