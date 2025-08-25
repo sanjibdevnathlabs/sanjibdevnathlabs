@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NotebookLM’s Video Overview feature now supports 80 languages](https://techcrunch.com/2025/08/25/notebooklms-video-overview-feature-now-supports-80-languages/)
+- [Bounce launches a service for moving accounts between Bluesky and Mastodon](https://techcrunch.com/2025/08/25/bounce-launches-a-service-for-moving-accounts-between-bluesky-and-mastodon/)
+- [The World Court just ruled countries can be held liable for climate change damage – what does that mean for the US?](https://www.space.com/science/climate-change/the-world-court-just-ruled-countries-can-be-held-liable-for-climate-change-damage-what-does-that-mean-for-the-us)
+- [Google will require developer verification for Android apps outside the Play Store](https://techcrunch.com/2025/08/25/google-will-require-developer-verification-for-android-apps-outside-the-play-store/)
+- [NotebookLM’s Video Overviews feature now supports 80 languages](https://techcrunch.com/2025/08/25/notebooklms-video-overview-feature-now-supports-80-languages/)
 - [&#39;Alien auroras&#39; on Jupiter reveal a new kind of plasma wave, scientists say](https://www.space.com/astronomy/jupiter/alien-auroras-on-jupiter-reveal-a-new-kind-of-plasma-wave-scientists-say)
-- [Elon Musk’s xAI sues Apple and OpenAI, alleging anticompetitive collusion](https://techcrunch.com/2025/08/25/elon-musks-xai-sues-apple-and-openai-alleging-anticompetitive-collusion/)
-- [A new security flaw in TheTruthSpy phone spyware is putting victims at risk](https://techcrunch.com/2025/08/25/a-new-security-flaw-in-thetruthspy-phone-spyware-is-putting-victims-at-risk/)
-- [Tech founder throws hat in California governor’s race](https://techcrunch.com/2025/08/25/tech-founder-throws-hat-in-california-governors-race/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
