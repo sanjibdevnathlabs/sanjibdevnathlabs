@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Trying the Strongest Coffee in the World &lpar;7 espressos in 1 shot!!&rpar;](https://www.youtube.com/shorts/_u1V5GLzP98)
 - [New MIT study says most AI projects are doomed...](https://www.youtube.com/watch?v=ly6YKz9UfQ4)
 - [The Next Big SHA? SHA3 Sponge Function Explained - Computerphile](https://www.youtube.com/watch?v=fzlflyw7X2I)
 - [Why your IT Resume Isn&#39;t Working &lpar;And What Actually Does&rpar;](https://www.youtube.com/watch?v=hNNhUxQHaLs)
 - [the most POWERFUL automation tool I’ve EVER SEEN! &lpar;N8n&rpar;](https://www.youtube.com/shorts/vtPOBzq4zrs)
-- [DuckDB in 100 Seconds](https://www.youtube.com/watch?v=uHm6FEb2Re4)
 <!-- YOUTUBE:END -->
 
 ---
