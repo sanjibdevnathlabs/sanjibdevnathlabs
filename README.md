@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NotebookLM’s Video Overview feature now supports 80 languages](https://techcrunch.com/2025/08/25/notebooklms-video-overview-feature-now-supports-80-languages/)
+- [&#39;Alien auroras&#39; on Jupiter reveal a new kind of plasma wave, scientists say](https://www.space.com/astronomy/jupiter/alien-auroras-on-jupiter-reveal-a-new-kind-of-plasma-wave-scientists-say)
+- [Elon Musk’s xAI sues Apple and OpenAI, alleging anticompetitive collusion](https://techcrunch.com/2025/08/25/elon-musks-xai-sues-apple-and-openai-alleging-anticompetitive-collusion/)
+- [A new security flaw in TheTruthSpy phone spyware is putting victims at risk](https://techcrunch.com/2025/08/25/a-new-security-flaw-in-thetruthspy-phone-spyware-is-putting-victims-at-risk/)
 - [Tech founder throws hat in California governor’s race](https://techcrunch.com/2025/08/25/tech-founder-throws-hat-in-california-governors-race/)
-- [Could black hole mergers finally solve the Hubble tension? Probably not](https://www.space.com/astronomy/black-holes/could-black-hole-mergers-finally-solve-the-hubble-tension-probably-not)
-- [Venus quiz: How much do you know about this hottie?](https://www.space.com/astronomy/venus/venus-quiz-how-much-do-you-know-about-this-hottie)
-- [How chatbot design choices are fueling AI delusions](https://techcrunch.com/2025/08/25/how-chatbot-design-choices-are-fueling-ai-delusions-meta-chatbot-rogue/)
-- [Supernova blast sculpts ghostly hand-shaped nebula in the cosmos &lpar;video&rpar;](https://www.space.com/astronomy/galaxies/supernova-blast-sculpts-ghostly-hand-shaped-nebula-in-the-cosmos-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
