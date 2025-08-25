@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Road to Battlefield: Central Eurasia’s largest startup competition in history sends four winners to TechCrunch’s Startup Battlefield](https://techcrunch.com/2025/08/25/road-to-battlefield-central-eurasias-largest-startup-competition-in-history-sends-four-winners-to-techcrunch-startup-battlefield/)
 - [Next set of VC judges locked in for Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/next-batch-of-startup-battlefield-200-judges-revealed/)
 - [&#39;Star Wars: Visions&#39; season 3 release date, 1st glimpse unveiled at Anime NYC 2025](https://www.space.com/entertainment/space-movies-shows/star-wars-visions-volume-3-release-date-anime-nyc-2025)
 - [AI sycophancy isn’t just a quirk, experts consider it a ‘dark pattern’ to turn users into profit](https://techcrunch.com/2025/08/25/ai-sycophancy-isnt-just-a-quirk-experts-consider-it-a-dark-pattern-to-turn-users-into-profit/)
 - [Bounce launches a service for moving accounts between Bluesky and Mastodon](https://techcrunch.com/2025/08/25/bounce-launches-a-service-for-moving-accounts-between-bluesky-and-mastodon/)
-- [The World Court just ruled countries can be held liable for climate change damage – what does that mean for the US?](https://www.space.com/science/climate-change/the-world-court-just-ruled-countries-can-be-held-liable-for-climate-change-damage-what-does-that-mean-for-the-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
