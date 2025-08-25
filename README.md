@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX calls off critical Starship Flight 10 test launch due to &#39;issue with ground systems&#39;](https://www.space.com/space-exploration/launches-spacecraft/spacex-delays-critical-starship-flight-10-test-launch-due-ground-systems-issue)
 - [Pintarnya raises $16.7M to power jobs and financial services in Indonesia](https://techcrunch.com/2025/08/24/pintarnya-raises-16-7m-to-power-jobs-and-financial-services-in-indonesia/)
 - [Bluesky blocks service in Mississippi over age assurance law](https://techcrunch.com/2025/08/24/bluesky-blocks-service-in-mississippi-over-age-assurance-law/)
 - [Former Meta exec Nick Clegg offers careful criticism of ‘cloyingly conformist’ Silicon Valley](https://techcrunch.com/2025/08/24/former-meta-exec-nick-clegg-offers-careful-criticism-of-cloyingly-conformist-silicon-valley/)
 - [Netflix’s ‘KPop Demon Hunters’ is probably the biggest movie in theaters](https://techcrunch.com/2025/08/24/netflixs-kpop-demon-hunters-is-probably-the-biggest-movie-in-theaters/)
-- [TechCrunch Mobility: Waymo’s Big Apple score and Nvidia backs Nuro](https://techcrunch.com/2025/08/24/techcrunch-mobility-waymos-big-apple-score-and-nvidia-backs-nuro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
