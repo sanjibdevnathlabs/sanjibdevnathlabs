@@ -147,10 +147,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- BLOG-POST-LIST:START -->
 - [SpaceX scrubs crucial Starship Flight 10 launch again, this time due to weather](https://www.space.com/space-exploration/launches-spacecraft/spacex-postpones-crucial-starship-flight-10-launch-again-due-to-weather)
-- [Tesla could have avoided that $242.5M Autopilot verdict, filings show](https://techcrunch.com/2025/08/25/tesla-could-have-avoided-that-242-5m-autopilot-verdict-filings-show/)
-- [a16z spends $1.49M in Washington lobbying, while rivals mostly sit out](https://techcrunch.com/2025/08/25/a16z-spends-1-49m-in-washington-lobbying-while-rivals-mostly-sit-out/)
-- [Road to Battlefield: Central Eurasia’s largest startup competition in history sends four winners to TechCrunch Startup Battlefield](https://techcrunch.com/2025/08/25/road-to-battlefield-central-eurasias-largest-startup-competition-in-history-sends-four-winners-to-techcrunch-startup-battlefield/)
-- [Next set of VC judges locked in for Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/25/next-batch-of-startup-battlefield-200-judges-revealed/)
+- [&#39;Star Wars: Visions&#39; season 3 release date, 1st glimpse unveiled at Anime NYC 2025](https://www.space.com/entertainment/space-movies-shows/star-wars-visions-volume-3-release-date-anime-nyc-2025)
+- [The World Court just ruled countries can be held liable for climate change damage – what does that mean for the US?](https://www.space.com/science/climate-change/the-world-court-just-ruled-countries-can-be-held-liable-for-climate-change-damage-what-does-that-mean-for-the-us)
+- [&#39;Alien auroras&#39; on Jupiter reveal a new kind of plasma wave, scientists say](https://www.space.com/astronomy/jupiter/alien-auroras-on-jupiter-reveal-a-new-kind-of-plasma-wave-scientists-say)
+- [Could black hole mergers finally solve the Hubble tension? Probably not](https://www.space.com/astronomy/black-holes/could-black-hole-mergers-finally-solve-the-hubble-tension-probably-not)
 <!-- BLOG-POST-LIST:END -->
 
 ---
