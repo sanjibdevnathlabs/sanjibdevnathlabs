@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram’s new feature helps college students connect with others on campus](https://techcrunch.com/2025/08/26/instagrams-new-feature-helps-college-students-connect-with-others-on-campus/)
+- [Google Gemini’s AI image model gets a ‘bananas’ upgrade](https://techcrunch.com/2025/08/26/google-geminis-ai-image-model-gets-a-bananas-upgrade/)
 - [Eyebot gets $20M Series A to boost to expand eye care access](https://techcrunch.com/2025/08/26/eyebot-gets-20m-series-a-to-boost-to-expand-eye-care-access/)
 - [World&#39;s most powerful solar telescope sees incredible coronal loops on the sun &lpar;image&rpar;](https://www.space.com/astronomy/sun/worlds-most-powerful-solar-telescope-sees-incredible-coronal-loops-on-the-sun-image)
 - [Frontier buys $31M worth of antacids for the ocean](https://techcrunch.com/2025/08/26/frontier-buys-31m-worth-of-antacids-for-the-ocean/)
-- [ISS astronaut captures Egypt&#39;s glittering Nile River at night | Space photo of the day for Aug. 26, 2025](https://www.space.com/space-exploration/international-space-station/iss-astronaut-captures-egypts-glittering-nile-river-at-night-space-photo-of-the-day-for-aug-26-2025)
-- [Spotify launches a messaging feature in a bid to become more social](https://techcrunch.com/2025/08/26/spotify-launches-a-messages-feature-in-a-bid-to-become-more-social/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
