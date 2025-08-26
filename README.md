@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram’s new feature helps college students connect with others on campus](https://techcrunch.com/2025/08/26/instagrams-new-feature-helps-college-students-connect-with-others-on-campus/)
-- [Google Gemini’s AI image model gets a ‘bananas’ upgrade](https://techcrunch.com/2025/08/26/google-geminis-ai-image-model-gets-a-bananas-upgrade/)
-- [Eyebot gets $20M Series A to boost to expand eye care access](https://techcrunch.com/2025/08/26/eyebot-gets-20m-series-a-to-boost-to-expand-eye-care-access/)
-- [World&#39;s most powerful solar telescope sees incredible coronal loops on the sun &lpar;image&rpar;](https://www.space.com/astronomy/sun/worlds-most-powerful-solar-telescope-sees-incredible-coronal-loops-on-the-sun-image)
-- [Frontier buys $31M worth of antacids for the ocean](https://techcrunch.com/2025/08/26/frontier-buys-31m-worth-of-antacids-for-the-ocean/)
+- [iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event](https://techcrunch.com/2025/08/26/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/)
+- [Parents sue OpenAI over ChatGPT’s role in son’s suicide](https://techcrunch.com/2025/08/26/parents-sue-openai-over-chatgpts-role-in-sons-suicide/)
+- [Security researcher maps hundreds of TeslaMate servers spilling Tesla vehicle data](https://techcrunch.com/2025/08/26/security-researcher-maps-hundreds-of-teslamate-servers-spilling-tesla-vehicle-data/)
+- [Skylight’s TikTok alternative adds community curators to the mix](https://techcrunch.com/2025/08/26/skylights-tiktok-alternative-adds-community-curators-to-the-mix/)
+- [James Webb Space Telescope takes 1st look at interstellar comet 3I/ATLAS with unexpected results](https://www.space.com/astronomy/james-webb-space-telescope-takes-1st-look-at-interstellar-comet-3i-atlas-with-unexpected-results)
 <!-- BLOG-POST-LIST:END -->
 
 ---
