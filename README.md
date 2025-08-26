@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Frontier buys $31M worth of antacids for the ocean](https://techcrunch.com/2025/08/26/frontier-buys-31m-worth-of-antacids-for-the-ocean/)
+- [ISS astronaut captures Egypt&#39;s glittering Nile River at night | Space photo of the day for Aug. 26, 2025](https://www.space.com/space-exploration/international-space-station/iss-astronaut-captures-egypts-glittering-nile-river-at-night-space-photo-of-the-day-for-aug-26-2025)
 - [Spotify launches a messaging feature in a bid to become more social](https://techcrunch.com/2025/08/26/spotify-launches-a-messages-feature-in-a-bid-to-become-more-social/)
 - [Watch SpaceX launch Earth-observation satellite for Luxembourg and 7 other satellites today](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-earth-observation-satellite-for-luxembourg-and-7-other-satellites-today)
 - [SpaceX scrubs crucial Starship Flight 10 launch again, this time due to weather](https://www.space.com/space-exploration/launches-spacecraft/spacex-postpones-crucial-starship-flight-10-launch-again-due-to-weather)
-- [Tesla could have avoided that $242.5M Autopilot verdict, filings show](https://techcrunch.com/2025/08/25/tesla-could-have-avoided-that-242-5m-autopilot-verdict-filings-show/)
-- [a16z spends $1.49M in Washington lobbying, while rivals mostly sit out](https://techcrunch.com/2025/08/25/a16z-spends-1-49m-in-washington-lobbying-while-rivals-mostly-sit-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
