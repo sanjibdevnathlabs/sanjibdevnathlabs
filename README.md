@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Futurama&#39; is back on Hulu, and Season 13 looks bigger and better than ever &lpar;video&rpar;](https://www.space.com/entertainment/futurama-is-back-on-hulu-and-season-13-looks-bigger-and-better-than-ever-video)
+- [Anthropic settles AI book-training lawsuit with authors](https://techcrunch.com/2025/08/26/anthropic-settles-ai-book-training-lawsuit-with-authors/)
+- [Why the US government is not the savior Intel needs](https://techcrunch.com/2025/08/26/why-the-u-s-government-is-not-the-savior-intel-needs/)
 - [Libby’s library app adds an AI discovery feature, and not everyone is thrilled](https://techcrunch.com/2025/08/26/libbys-library-app-adds-an-ai-discovery-feature-and-not-everyone-is-thrilled/)
 - [Scientists discover minerals in asteroid Ryugu that are older than Earth itself](https://www.space.com/astronomy/asteroids/scientists-discover-minerals-in-asteroid-ryugu-that-are-older-than-earth-itself)
-- [Meta to spend tens of millions on pro-AI super PAC](https://techcrunch.com/2025/08/26/meta-to-spend-tens-of-millions-on-pro-ai-super-pac/)
-- [DOGE uploaded live copy of Social Security database to ‘vulnerable’ cloud server, says whistleblower](https://techcrunch.com/2025/08/26/doge-uploaded-live-copy-of-social-security-database-to-vulnerable-cloud-server-says-whistleblower/)
-- [Mars quiz: How well do you know the Red Planet?](https://www.space.com/astronomy/mars/mars-quiz-how-well-do-you-know-the-red-planet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
