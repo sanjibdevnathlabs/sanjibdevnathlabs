@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe regains contact with JUICE Jupiter probe ahead of crucial Aug. 31 Venus flyby](https://www.space.com/space-exploration/missions/europe-regains-contact-with-juice-jupiter-probe-ahead-of-crucial-aug-31-venus-flyby)
 - [Anthropic launches a Claude AI agent that lives in Chrome](https://techcrunch.com/2025/08/26/anthropic-launches-a-claude-ai-agent-that-lives-in-chrome/)
 - [Dwarf planet Ceres may have once been suitable for life, new study suggests](https://www.space.com/astronomy/dwarf-planets/dwarf-planet-ceres-may-have-once-been-suitable-for-life-new-study-suggests)
 - [A Radiohead song from 1997 is on the Hot 100 charts, thanks to TikTok](https://techcrunch.com/2025/08/26/a-radiohead-song-from-1997-is-on-the-hot-100-charts-thanks-to-tiktok/)
 - [&#39;Futurama&#39; is back on Hulu, and Season 13 looks bigger and better than ever &lpar;video&rpar;](https://www.space.com/entertainment/futurama-is-back-on-hulu-and-season-13-looks-bigger-and-better-than-ever-video)
-- [Anthropic settles AI book-training lawsuit with authors](https://techcrunch.com/2025/08/26/anthropic-settles-ai-book-training-lawsuit-with-authors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
