@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event](https://techcrunch.com/2025/08/26/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/)
-- [Parents sue OpenAI over ChatGPT’s role in son’s suicide](https://techcrunch.com/2025/08/26/parents-sue-openai-over-chatgpts-role-in-sons-suicide/)
-- [Security researcher maps hundreds of TeslaMate servers spilling Tesla vehicle data](https://techcrunch.com/2025/08/26/security-researcher-maps-hundreds-of-teslamate-servers-spilling-tesla-vehicle-data/)
-- [Skylight’s TikTok alternative adds community curators to the mix](https://techcrunch.com/2025/08/26/skylights-tiktok-alternative-adds-community-curators-to-the-mix/)
-- [James Webb Space Telescope takes 1st look at interstellar comet 3I/ATLAS with unexpected results](https://www.space.com/astronomy/james-webb-space-telescope-takes-1st-look-at-interstellar-comet-3i-atlas-with-unexpected-results)
+- [Apple is holding its iPhone 17 event on September 9](https://techcrunch.com/2025/08/26/apple-is-holding-its-iphone-17-event-on-september-9/)
+- [After falling behind in generative AI, IBM and AMD look to quantum for an edge](https://techcrunch.com/2025/08/26/after-falling-behind-in-generative-ai-ibm-and-amd-look-to-quantum-for-an-edge/)
+- [Google Translate takes on Duolingo with new language learning tools](https://techcrunch.com/2025/08/26/google-translate-takes-on-duolingo-with-new-language-learning-tools/)
+- [Relive SpaceX&#39;s nighttime launch of the X-37B space plane with these dazzling photos](https://www.space.com/space-exploration/launches-spacecraft/relive-spacex-nighttime-launch-x-37b-space-plane-otv-8-mission-photos)
+- [YouTube’s ‘Hype’ feature that boosts smaller creators launches globally](https://techcrunch.com/2025/08/26/youtubes-hype-feature-that-boosts-smaller-creators-launches-globally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
