@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t miss the crescent moon meet up with blue star Spica on Aug. 27](https://www.space.com/stargazing/crescent-moon-meets-spica-aug-27)
-- [Not so fast: German court says Apple can’t call Watch carbon neutral](https://techcrunch.com/2025/08/26/not-so-fast-german-court-says-apple-cant-call-watch-carbon-neutral/)
-- [The wait is almost over: The 2025 Startup Battlefield 200 list drops tomorrow](https://techcrunch.com/2025/08/26/the-wait-is-almost-over-the-2025-startup-battlefield-200-list-drops-tomorrow/)
-- [Exoplanets engulfed in steam are taking center stage in the search for life in our galaxy](https://www.space.com/astronomy/exoplanets-engulfed-in-steam-are-taking-center-stage-in-the-search-for-life-in-our-galaxy)
-- [Apple is holding its iPhone 17 event on September 9](https://techcrunch.com/2025/08/26/apple-is-holding-its-iphone-17-event-on-september-9/)
+- [Libby’s library app adds an AI discovery feature, and not everyone is thrilled](https://techcrunch.com/2025/08/26/libbys-library-app-adds-an-ai-discovery-feature-and-not-everyone-is-thrilled/)
+- [Scientists discover minerals in asteroid Ryugu that are older than Earth itself](https://www.space.com/astronomy/asteroids/scientists-discover-minerals-in-asteroid-ryugu-that-are-older-than-earth-itself)
+- [Meta to spend tens of millions on pro-AI super PAC](https://techcrunch.com/2025/08/26/meta-to-spend-tens-of-millions-on-pro-ai-super-pac/)
+- [DOGE uploaded live copy of Social Security database to ‘vulnerable’ cloud server, says whistleblower](https://techcrunch.com/2025/08/26/doge-uploaded-live-copy-of-social-security-database-to-vulnerable-cloud-server-says-whistleblower/)
+- [Mars quiz: How well do you know the Red Planet?](https://www.space.com/astronomy/mars/mars-quiz-how-well-do-you-know-the-red-planet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
