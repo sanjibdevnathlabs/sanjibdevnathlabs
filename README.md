@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mirror founder Brynn Putnam to unveil her gaming hardware startup at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/27/mirror-founder-brynn-putnam-to-unveil-her-gaming-hardware-startup-at-techcrunch-disrupt-2025/)
+- [Terraton wants to be the McDonald’s of biochar](https://techcrunch.com/2025/08/27/terraton-wants-to-be-the-mcdonalds-of-biochar/)
+- [Google Vids adds AI avatars to its video editor and launches a consumer version](https://techcrunch.com/2025/08/27/google-vids-adds-ai-avatars-to-its-video-editor-and-launches-a-consumer-version/)
+- [Harassment at Antarctic research bases could spell problems for moon, Mars outposts](https://www.space.com/space-exploration/harassment-at-antarctic-research-bases-could-spell-problems-for-moon-mars-outposts)
 - [Hyundai is working with a startup on plant-based leather that smells like the real thing](https://techcrunch.com/2025/08/27/hyundai-is-working-with-a-startup-on-plant-based-leather-that-smells-like-the-real-thing/)
-- [Warped spacetime with surprise &#39;double-zoom&#39; reveals radiation around distant supermassive black hole](https://www.space.com/astronomy/warped-spacetime-with-double-zoom-reveals-radiation-around-distant-supermassive-black-hole)
-- [Moon photobombs the sun in wild NOAA satellite image | Space photo of the day for Aug. 27, 2025](https://www.space.com/moon-photobombs-the-sun)
-- [That mysterious &#39;Wow! signal&#39; from space? Scientists may finally know where it came from — and it&#39;s probably not aliens](https://www.space.com/space-exploration/search-for-life/that-mysterious-wow-signal-from-space-scientists-may-finally-know-where-it-came-from-and-its-probably-not-aliens)
-- [Starship Mars rocket met &#39;every major objective&#39; on epic Flight 10 test launch, SpaceX says](https://www.space.com/space-exploration/launches-spacecraft/starship-mars-rocket-met-every-major-objective-on-epic-flight-10-launch-spacex-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
