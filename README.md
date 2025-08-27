@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX notches major wins during tenth Starship test](https://techcrunch.com/2025/08/26/spacex-notches-major-wins-during-tenth-starship-test/)
+- [SpaceX&#39;s giant Starship Mars rocket nails critical 10th test flight in stunning comeback &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/spacex-launches-starship-flight-10-critical-test-flight-video)
+- [Assort Health nabs $50M to automate patient phone calls, sources say](https://techcrunch.com/2025/08/26/assort-health-nabs-50m-to-automate-patient-phone-calls-sources-say/)
 - [Verily is closing its medical device program as Alphabet shifts more resources to AI](https://techcrunch.com/2025/08/26/verily-is-closing-its-medical-device-program-as-alphabet-shifts-more-resources-to-ai/)
 - [Microsoft headquarters go into lockdown after activists take over Brad Smith’s office](https://techcrunch.com/2025/08/26/microsoft-headquarters-go-into-lockdown-after-activists-take-over-brad-smiths-office/)
-- [Europe regains contact with JUICE Jupiter probe ahead of crucial Aug. 31 Venus flyby](https://www.space.com/space-exploration/missions/europe-regains-contact-with-juice-jupiter-probe-ahead-of-crucial-aug-31-venus-flyby)
-- [Anthropic launches a Claude AI agent that lives in Chrome](https://techcrunch.com/2025/08/26/anthropic-launches-a-claude-ai-agent-that-lives-in-chrome/)
-- [Dwarf planet Ceres may have once been suitable for life, new study suggests](https://www.space.com/astronomy/dwarf-planets/dwarf-planet-ceres-may-have-once-been-suitable-for-life-new-study-suggests)
 <!-- BLOG-POST-LIST:END -->
 
 ---
