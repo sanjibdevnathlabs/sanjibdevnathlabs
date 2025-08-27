@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why are our solar system planets tilted: These warped exoplanet-forming disks may offer clues](https://www.space.com/astronomy/solar-system/why-are-our-solar-system-planets-tilted-these-warped-exoplanet-forming-disks-may-offer-clues)
-- [What&#39;s next for SpaceX&#39;s Starship Mars rocket after Flight 10 success?](https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-mars-rocket-after-flight-10-success)
-- [Judge denies Meta’s request to dismiss sexual harassment lawsuit filed by early employee](https://techcrunch.com/2025/08/27/judge-denies-metas-request-to-dismiss-sexual-harassment-lawsuit-filed-by-early-employee/)
-- [Chipolo, an AirTag rival, debuts rechargeable trackers with a six-month battery life](https://techcrunch.com/2025/08/27/chipolo-an-airtag-rival-debuts-rechargeable-trackers-with-a-six-month-battery-life/)
-- [China is making serious progress in its goal to land astronauts on the moon by 2030](https://www.space.com/astronomy/moon/china-is-making-serious-progress-in-its-goal-to-land-astronauts-on-the-moon-by-2030)
+- [WhatsApp’s new AI feature lets you rephrase and adjust the tone of your messages](https://techcrunch.com/2025/08/27/whatsapps-new-ai-feature-lets-you-rephrase-and-adjust-the-tone-of-your-messages/)
+- [&#39;If ever there&#39;s a movie where I got everything right, it was &#39;Alien&#39;: How Oscar winner Roger Christian made &#39;Alien: Earth&#39; feel like a classic &lpar;exclusive&rpar;](https://www.space.com/entertainment/alien-earth-how-oscar-winning-set-designer-roger-christians-original-alien-work-lives-on-exclusive)
+- [With Starship Flight 10, SpaceX prioritized resilience over perfection](https://techcrunch.com/2025/08/27/with-starship-flight-10-spacex-prioritized-resilience-over-perfection/)
+- [FBI says China’s Salt Typhoon hacked at least 200 US companies](https://techcrunch.com/2025/08/27/fbi-says-chinas-salt-typhoon-hacked-at-least-200-us-companies/)
+- [Google and Grok are catching up to ChatGPT, says a16z’s latest AI report](https://techcrunch.com/2025/08/27/google-and-grok-are-catching-up-to-chatgpt-says-a16zs-latest-ai-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
