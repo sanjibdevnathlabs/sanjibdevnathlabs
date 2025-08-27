@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mirror founder Brynn Putnam to unveil her gaming hardware startup at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/27/mirror-founder-brynn-putnam-to-unveil-her-gaming-hardware-startup-at-techcrunch-disrupt-2025/)
-- [Terraton wants to be the McDonald’s of biochar](https://techcrunch.com/2025/08/27/terraton-wants-to-be-the-mcdonalds-of-biochar/)
-- [Google Vids adds AI avatars to its video editor and launches a consumer version](https://techcrunch.com/2025/08/27/google-vids-adds-ai-avatars-to-its-video-editor-and-launches-a-consumer-version/)
-- [Harassment at Antarctic research bases could spell problems for moon, Mars outposts](https://www.space.com/space-exploration/harassment-at-antarctic-research-bases-could-spell-problems-for-moon-mars-outposts)
-- [Hyundai is working with a startup on plant-based leather that smells like the real thing](https://techcrunch.com/2025/08/27/hyundai-is-working-with-a-startup-on-plant-based-leather-that-smells-like-the-real-thing/)
+- [Malaysia’s SkyeChip unveils the country’s first edge AI processor](https://techcrunch.com/2025/08/27/malaysias-skyechip-unveils-the-countrys-first-edge-ai-processor/)
+- [How scientists are using exoplanets to map out &#39;polka dots&#39; on stars](https://www.space.com/astronomy/exoplanets/how-scientists-are-using-exoplanets-to-map-out-polka-dots-on-stars)
+- [Best Nikon lenses in 2025 — wide-angle, telephoto, prime and zoom lenses](https://www.space.com/stargazing/skywatching-kit/best-nikon-lenses)
+- [US sanctions fraud network used by North Korean ‘remote IT workers’ to seek jobs and steal money](https://techcrunch.com/2025/08/27/us-sanctions-fraud-network-used-by-north-korea-to-seek-jobs-and-steal-money/)
+- [Plaud launches a new AI hardware notetaker, the $179 Note Pro](https://techcrunch.com/2025/08/27/plaud-launches-a-new-ai-hardware-notetaker-the-179-note-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
