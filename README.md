@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia reports record sales as the AI boom continues](https://techcrunch.com/2025/08/27/nvidia-reports-record-sales-as-the-ai-boom-continues/)
 - [&#39;A remarkable discovery&#39;: Astronomers find 1st exoplanet in multi-ring disk around star](https://www.space.com/astronomy/exoplanets/a-remarkable-discovery-astronomers-find-1st-exoplanet-in-multi-ring-disk-around-star)
 - [Google launches new device protection program called Pixel Care+](https://techcrunch.com/2025/08/27/google-launches-new-device-protection-program-called-pixel-care/)
 - [911 centers are so understaffed, they’re turning to AI to answer calls](https://techcrunch.com/2025/08/27/911-centers-are-so-understaffed-theyre-turning-to-ai-to-answer-calls/)
 - [WhatsApp’s new AI feature lets you rephrase and adjust the tone of your messages](https://techcrunch.com/2025/08/27/whatsapps-new-ai-feature-lets-you-rephrase-and-adjust-the-tone-of-your-messages/)
-- [&#39;If ever there&#39;s a movie where I got everything right, it was &#39;Alien&#39;: How Oscar winner Roger Christian made &#39;Alien: Earth&#39; feel like a classic &lpar;exclusive&rpar;](https://www.space.com/entertainment/alien-earth-how-oscar-winning-set-designer-roger-christians-original-alien-work-lives-on-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
