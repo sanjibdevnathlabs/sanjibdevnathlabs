@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here are the 33 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/08/27/here-are-the-33-us-ai-startups-that-have-raised-100m-or-more-in-2025/)
+- [Pixel 10 Pro review: familiar hardware, filled with Google’s AI](https://techcrunch.com/2025/08/27/pixel-10-pro-early-impressions-of-googles-latest-ai-flagship-phone/)
+- [Nobel prize winner and gravitational wave pioneer Rainer Weiss dies at 92](https://www.space.com/astronomy/nobel-prize-winner-and-gravitational-wave-pioneer-rainer-weiss-dies-at-92)
+- [SpaceX sends 28 Starlink satellites into orbit, completes 400th Falcon 9 droneship landing at sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-56-b1095-ccsfs-jrti)
 - [The 2025 Startup Battlefield 200 is here — see who made the cut](https://techcrunch.com/2025/08/27/the-2025-startup-battlefield-200-is-here-see-who-made-the-cut/)
-- [How old is Jupiter? Meteorite &#39;raindrops&#39; help scientists pin down gas giant&#39;s age](https://www.space.com/astronomy/jupiter/how-old-is-jupiter-meteorite-raindrops-help-scientists-pin-down-gas-giants-age)
-- [Malaysia’s SkyeChip unveils the country’s first edge AI processor](https://techcrunch.com/2025/08/27/malaysias-skyechip-unveils-the-countrys-first-edge-ai-processor/)
-- [Best Nikon lenses in 2025 — wide-angle, telephoto, prime and zoom lenses](https://www.space.com/stargazing/skywatching-kit/best-nikon-lenses)
-- [How scientists are using exoplanets to map out &#39;polka dots&#39; on stars](https://www.space.com/astronomy/exoplanets/how-scientists-are-using-exoplanets-to-map-out-polka-dots-on-stars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
