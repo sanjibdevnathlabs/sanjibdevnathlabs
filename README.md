@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 2025 Startup Battlefield 200 is here — see who made the cut](https://techcrunch.com/2025/08/27/the-2025-startup-battlefield-200-is-here-see-who-made-the-cut/)
+- [How old is Jupiter? Meteorite &#39;raindrops&#39; help scientists pin down gas giant&#39;s age](https://www.space.com/astronomy/jupiter/how-old-is-jupiter-meteorite-raindrops-help-scientists-pin-down-gas-giants-age)
 - [Malaysia’s SkyeChip unveils the country’s first edge AI processor](https://techcrunch.com/2025/08/27/malaysias-skyechip-unveils-the-countrys-first-edge-ai-processor/)
-- [How scientists are using exoplanets to map out &#39;polka dots&#39; on stars](https://www.space.com/astronomy/exoplanets/how-scientists-are-using-exoplanets-to-map-out-polka-dots-on-stars)
 - [Best Nikon lenses in 2025 — wide-angle, telephoto, prime and zoom lenses](https://www.space.com/stargazing/skywatching-kit/best-nikon-lenses)
-- [US sanctions fraud network used by North Korean ‘remote IT workers’ to seek jobs and steal money](https://techcrunch.com/2025/08/27/us-sanctions-fraud-network-used-by-north-korea-to-seek-jobs-and-steal-money/)
-- [Plaud launches a new AI hardware notetaker, the $179 Note Pro](https://techcrunch.com/2025/08/27/plaud-launches-a-new-ai-hardware-notetaker-the-179-note-pro/)
+- [How scientists are using exoplanets to map out &#39;polka dots&#39; on stars](https://www.space.com/astronomy/exoplanets/how-scientists-are-using-exoplanets-to-map-out-polka-dots-on-stars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
