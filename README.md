@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Maisa AI gets $25M to fix enterprise AI’s 95% failure rate](https://techcrunch.com/2025/08/27/maisa-ai-gets-25m-to-fix-enterprise-ais-95-failure-rate/)
 - [With India’s corporate banking lagging decades behind consumer fintech, TransBnk raises $25M to bridge the gap](https://techcrunch.com/2025/08/27/with-indias-corporate-banking-lagging-decades-behind-consumer-fintech-transbnk-raises-25m-to-bridge-the-gap/)
 - [Nvidia reports record sales as the AI boom continues](https://techcrunch.com/2025/08/27/nvidia-reports-record-sales-as-the-ai-boom-continues/)
 - [&#39;A remarkable discovery&#39;: Astronomers find 1st exoplanet in multi-ring disk around star](https://www.space.com/astronomy/exoplanets/a-remarkable-discovery-astronomers-find-1st-exoplanet-in-multi-ring-disk-around-star)
 - [Google launches new device protection program called Pixel Care+](https://techcrunch.com/2025/08/27/google-launches-new-device-protection-program-called-pixel-care/)
-- [911 centers are so understaffed, they’re turning to AI to answer calls](https://techcrunch.com/2025/08/27/911-centers-are-so-understaffed-theyre-turning-to-ai-to-answer-calls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
