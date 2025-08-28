@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MathGPT.AI, the ‘cheat-proof’ tutor and teaching assistant, expands to over 50 institutions](https://techcrunch.com/2025/08/28/mathgpt-the-cheat-proof-ai-tutor-and-teaching-assistant-expands-to-over-50-institutions/)
+- [Ripples from the Big Bang could transform our understanding of the universe — and we may be close to detecting them](https://www.space.com/astronomy/ripples-from-the-big-bang-could-transform-our-understanding-of-the-universe-and-we-may-be-close-to-detecting-them)
+- [No-code website builder Framer reaches $2B valuation](https://techcrunch.com/2025/08/28/no-code-website-builder-framer-reaches-2b-valuation/)
 - [Mark Cuban’s war on America’s $5 trillion healthcare machine: ‘They can’t react as quickly’](https://techcrunch.com/2025/08/28/mark-cubans-war-on-americas-5-trillion-healthcare-machine-they-cant-react-as-quickly/)
 - [Meet Surya, the 1st-of-its-kind AI model NASA and IBM built to predict solar storms](https://www.space.com/astronomy/sun/meet-surya-the-1st-of-its-kind-ai-model-nasa-and-ibm-built-to-predict-solar-storms)
-- [Honor’s slim Magic V5 foldable is fun to use, minus the huge camera bump](https://techcrunch.com/2025/08/28/honors-slim-magic-v5-foldable-is-fun-to-use-minus-the-huge-camera-bump/)
-- [Investors are loving Lovable](https://techcrunch.com/2025/08/28/investors-are-loving-lovable/)
-- [AI hires or human hustle? Inside the next frontier of startup operations at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/28/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
