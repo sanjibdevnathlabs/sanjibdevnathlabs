@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mark Cuban’s war on America’s $5 trillion healthcare machine: ‘They can’t react as quickly’](https://techcrunch.com/2025/08/28/mark-cubans-war-on-americas-5-trillion-healthcare-machine-they-cant-react-as-quickly/)
+- [Meet Surya, the 1st-of-its-kind AI model NASA and IBM built to predict solar storms](https://www.space.com/astronomy/sun/meet-surya-the-1st-of-its-kind-ai-model-nasa-and-ibm-built-to-predict-solar-storms)
+- [Honor’s slim Magic V5 foldable is fun to use, minus the huge camera bump](https://techcrunch.com/2025/08/28/honors-slim-magic-v5-foldable-is-fun-to-use-minus-the-huge-camera-bump/)
 - [Investors are loving Lovable](https://techcrunch.com/2025/08/28/investors-are-loving-lovable/)
 - [AI hires or human hustle? Inside the next frontier of startup operations at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/28/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/)
-- [10 of the best stargazing locations in North America](https://www.space.com/stargazing/10-of-the-best-stargazing-locations-in-north-america)
-- [Why do we photograph the Milky Way in summer?](https://www.space.com/stargazing/astrophotography/why-do-we-photograph-the-milky-way-in-summer)
-- [NASA debuts new Orion mission control room for Artemis 2 astronaut flight around the moon &lpar;photos&rpar;](https://www.space.com/space-exploration/artemis/nasa-debuts-new-orion-mission-control-room-for-artemis-2-astronauts-journey-to-the-moon-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
