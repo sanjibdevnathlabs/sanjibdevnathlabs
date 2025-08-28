@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Investors are loving Lovable](https://techcrunch.com/2025/08/28/investors-are-loving-lovable/)
+- [AI hires or human hustle? Inside the next frontier of startup operations at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/28/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/)
+- [10 of the best stargazing locations in North America](https://www.space.com/stargazing/10-of-the-best-stargazing-locations-in-north-america)
+- [Why do we photograph the Milky Way in summer?](https://www.space.com/stargazing/astrophotography/why-do-we-photograph-the-milky-way-in-summer)
 - [NASA debuts new Orion mission control room for Artemis 2 astronaut flight around the moon &lpar;photos&rpar;](https://www.space.com/space-exploration/artemis/nasa-debuts-new-orion-mission-control-room-for-artemis-2-astronauts-journey-to-the-moon-photos)
-- [How a 16-year-old company is easing small businesses into AI](https://techcrunch.com/2025/08/28/how-a-16-year-old-company-is-easing-small-businesses-into-ai/)
-- [TransUnion says hackers stole 4.4 million customers’ personal information](https://techcrunch.com/2025/08/28/transunion-says-hackers-stole-4-4-million-customers-personal-information/)
-- [Get ready, EV owners: Here come the dongles](https://techcrunch.com/2025/08/28/get-ready-ev-owners-here-come-the-dongles/)
-- [Where no gourd has gone before | Space photo of the day for Aug. 28, 2025](https://www.space.com/entertainment/where-no-gourd-has-gone-before-space-photo-of-the-day-for-aug-28-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
