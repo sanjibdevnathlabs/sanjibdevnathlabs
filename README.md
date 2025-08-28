@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A dead &#39;sun&#39; forms building blocks of exoplanets in new JWST Butterfly Nebula image](https://www.space.com/astronomy/james-webb-space-telescope/a-dead-sun-forms-building-blocks-of-exoplanets-in-new-jwst-butterfly-nebula-image)
+- [The Peacock TV Young Adult Discount is one of the best streaming deals around — get an entire year of Sci-Fi content and more for just $2.99 a month](https://www.space.com/entertainment/the-peacock-tv-young-adult-discount-is-one-of-the-best-streaming-deals-around-get-an-entire-year-of-sci-fi-content-and-more-for-just-usd2-99-a-month)
+- [More than 10 European startups became unicorns this year](https://techcrunch.com/2025/08/28/more-than-10-european-startups-became-unicorns-this-year/)
 - [SpaceX Falcon 9 rocket launches Starlink satellites on record-breaking 30th flight](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launches-starlink-satellites-on-record-breaking-30th-flight)
 - [Maisa AI gets $25M to fix enterprise AI’s 95% failure rate](https://techcrunch.com/2025/08/27/maisa-ai-gets-25m-to-fix-enterprise-ais-95-failure-rate/)
-- [With India’s corporate banking lagging decades behind consumer fintech, TransBnk raises $25M to bridge the gap](https://techcrunch.com/2025/08/27/with-indias-corporate-banking-lagging-decades-behind-consumer-fintech-transbnk-raises-25m-to-bridge-the-gap/)
-- [Nvidia reports record sales as the AI boom continues](https://techcrunch.com/2025/08/27/nvidia-reports-record-sales-as-the-ai-boom-continues/)
-- [&#39;A remarkable discovery&#39;: Astronomers find 1st exoplanet in multi-ring disk around star](https://www.space.com/astronomy/exoplanets/a-remarkable-discovery-astronomers-find-1st-exoplanet-in-multi-ring-disk-around-star)
 <!-- BLOG-POST-LIST:END -->
 
 ---
