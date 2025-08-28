@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;I will destroy your Vault&#39;: Exclusive &#39;Foundation&#39; Season 3 clip 8 sees Hari Seldon and The Mule face off &lpar;video&rpar;](https://www.space.com/entertainment/hari-seldon-and-the-mule-face-off-outside-the-vault-in-tense-new-clip-for-foundation-season-3-episode-8)
+- [Anthropic users face a new choice – opt out or share your data for AI training](https://techcrunch.com/2025/08/28/anthropic-users-face-a-new-choice-opt-out-or-share-your-data-for-ai-training/)
+- [Nvidia, Google, and Bill Gates help Commonwealth Fusion Systems raise $863M](https://techcrunch.com/2025/08/28/nvidia-google-and-bill-gates-help-commonwealth-fusion-systems-raise-863m/)
 - [AI or not, Will Smith’s crowd video is fresh cringe](https://techcrunch.com/2025/08/28/ai-or-not-will-smiths-crowd-video-is-fresh-cringe-2/)
 - [Glacial lake flood hits Juneau, Alaska, reflecting a growing global risk as mountain glaciers melt](https://www.space.com/science/climate-change/glacial-lake-flood-hits-juneau-alaska-reflecting-a-growing-global-risk-as-mountain-glaciers-melt)
-- [Mississippi’s age assurance law puts decentralized social networks to the test](https://techcrunch.com/2025/08/28/mississippis-age-assurance-law-puts-decentralized-social-networks-to-the-test/)
-- [US manufacturing investment stumbles as clean tech cancellations pile up](https://techcrunch.com/2025/08/28/us-manufacturing-investment-stumbles-as-clean-tech-cancellations-pile-up/)
-- [&#39;We need to broaden our search, and now we can.&#39; Scientists are set to unleash a powerful new weapon in the hunt for dark matter](https://www.space.com/astronomy/we-need-to-broaden-our-search-and-now-we-can-scientists-are-set-to-unleash-a-powerful-new-weapon-in-the-hunt-for-dark-matter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
