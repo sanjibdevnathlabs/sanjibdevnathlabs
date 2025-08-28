@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA debuts new Orion mission control room for Artemis 2 astronaut flight around the moon &lpar;photos&rpar;](https://www.space.com/space-exploration/artemis/nasa-debuts-new-orion-mission-control-room-for-artemis-2-astronauts-journey-to-the-moon-photos)
+- [How a 16-year-old company is easing small businesses into AI](https://techcrunch.com/2025/08/28/how-a-16-year-old-company-is-easing-small-businesses-into-ai/)
 - [TransUnion says hackers stole 4.4 million customers’ personal information](https://techcrunch.com/2025/08/28/transunion-says-hackers-stole-4-4-million-customers-personal-information/)
 - [Get ready, EV owners: Here come the dongles](https://techcrunch.com/2025/08/28/get-ready-ev-owners-here-come-the-dongles/)
 - [Where no gourd has gone before | Space photo of the day for Aug. 28, 2025](https://www.space.com/entertainment/where-no-gourd-has-gone-before-space-photo-of-the-day-for-aug-28-2025)
-- [A dead &#39;sun&#39; forms building blocks of exoplanets in new JWST Butterfly Nebula image](https://www.space.com/astronomy/james-webb-space-telescope/a-dead-sun-forms-building-blocks-of-exoplanets-in-new-jwst-butterfly-nebula-image)
-- [The Peacock TV Young Adult Discount is one of the best streaming deals around — get an entire year of Sci-Fi content and more for just $2.99 a month](https://www.space.com/entertainment/the-peacock-tv-young-adult-discount-is-one-of-the-best-streaming-deals-around-get-an-entire-year-of-sci-fi-content-and-more-for-just-usd2-99-a-month)
 <!-- BLOG-POST-LIST:END -->
 
 ---
