@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI or not, Will Smith’s crowd video is fresh cringe](https://techcrunch.com/2025/08/28/ai-or-not-will-smiths-crowd-video-is-fresh-cringe-2/)
+- [Glacial lake flood hits Juneau, Alaska, reflecting a growing global risk as mountain glaciers melt](https://www.space.com/science/climate-change/glacial-lake-flood-hits-juneau-alaska-reflecting-a-growing-global-risk-as-mountain-glaciers-melt)
+- [Mississippi’s age assurance law puts decentralized social networks to the test](https://techcrunch.com/2025/08/28/mississippis-age-assurance-law-puts-decentralized-social-networks-to-the-test/)
 - [US manufacturing investment stumbles as clean tech cancellations pile up](https://techcrunch.com/2025/08/28/us-manufacturing-investment-stumbles-as-clean-tech-cancellations-pile-up/)
 - [&#39;We need to broaden our search, and now we can.&#39; Scientists are set to unleash a powerful new weapon in the hunt for dark matter](https://www.space.com/astronomy/we-need-to-broaden-our-search-and-now-we-can-scientists-are-set-to-unleash-a-powerful-new-weapon-in-the-hunt-for-dark-matter)
-- [Don&#39;t miss the stars of the &#39;Summer Triangle&#39; twinkle with the Milky Way after sunset](https://www.space.com/stargazing/dont-miss-stars-summer-triangle-with-milky-way-aug-2025)
-- [Perseverance Mars rover stumbles upon wind-carved &#39;megaripples&#39; on the Red Planet](https://www.space.com/space-exploration/mars-rovers/perseverance-mars-rover-stumbles-upon-wind-carved-megaripples-on-the-red-planet)
-- [Threads tests a way to share long-form text on the platform](https://techcrunch.com/2025/08/28/threads-tests-a-way-to-share-long-form-text-on-the-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
