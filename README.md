@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads tests a way to share long-form text on the platform](https://techcrunch.com/2025/08/28/threads-tests-a-way-to-share-long-form-text-on-the-platform/)
 - [MathGPT.AI, the ‘cheat-proof’ tutor and teaching assistant, expands to over 50 institutions](https://techcrunch.com/2025/08/28/mathgpt-the-cheat-proof-ai-tutor-and-teaching-assistant-expands-to-over-50-institutions/)
 - [Ripples from the Big Bang could transform our understanding of the universe — and we may be close to detecting them](https://www.space.com/astronomy/ripples-from-the-big-bang-could-transform-our-understanding-of-the-universe-and-we-may-be-close-to-detecting-them)
 - [No-code website builder Framer reaches $2B valuation](https://techcrunch.com/2025/08/28/no-code-website-builder-framer-reaches-2b-valuation/)
 - [Mark Cuban’s war on America’s $5 trillion healthcare machine: ‘They can’t react as quickly’](https://techcrunch.com/2025/08/28/mark-cubans-war-on-americas-5-trillion-healthcare-machine-they-cant-react-as-quickly/)
-- [Meet Surya, the 1st-of-its-kind AI model NASA and IBM built to predict solar storms](https://www.space.com/astronomy/sun/meet-surya-the-1st-of-its-kind-ai-model-nasa-and-ibm-built-to-predict-solar-storms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
