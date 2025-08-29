@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber and Lyft drivers in California win a path to unionization](https://techcrunch.com/2025/08/29/uber-and-lyft-drivers-in-california-win-a-path-to-unionization/)
+- [Tesla challenges $243 million verdict in Autopilot death trial](https://techcrunch.com/2025/08/29/tesla-challenges-243-million-verdict-in-autopilot-death-trial/)
 - [WhatsApp fixes ‘zero-click’ bug used to hack Apple users with spyware](https://techcrunch.com/2025/08/29/whatsapp-fixes-zero-click-bug-used-to-hack-apple-users-with-spyware/)
 - [Don&#39;t miss the moon ride close to red supergiant star Antares on Aug. 30](https://www.space.com/stargazing/dont-miss-moon-near-red-supergiant-star-antares-aug-30-2025)
 - [Meta updates chatbot rules to avoid inappropriate topics with teen users](https://techcrunch.com/2025/08/29/meta-updates-chatbot-rules-to-avoid-inappropriate-topics-with-teen-users/)
-- [&#39;Foundation&#39; Season 3: What is the strange science of psychohistory in Apple TV+’s sci-fi saga?](https://www.space.com/entertainment/foundation-season-3-what-is-the-strange-science-of-psychohistory-in-apple-tv-s-sci-fi-saga)
-- [Astronaut puts his mad video game skills to the test | On the International Space Station Aug. 25-29, 2025](https://www.space.com/space-exploration/international-space-station/astronaut-puts-his-mad-video-game-skills-to-the-test-on-the-international-space-station-aug-25-29-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
