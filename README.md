@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp fixes ‘zero-click’ bug used to hack Apple users with spyware](https://techcrunch.com/2025/08/29/whatsapp-fixes-zero-click-bug-used-to-hack-apple-users-with-spyware/)
+- [Don&#39;t miss the moon ride close to red supergiant star Antares on Aug. 30](https://www.space.com/stargazing/dont-miss-moon-near-red-supergiant-star-antares-aug-30-2025)
 - [Meta updates chatbot rules to avoid inappropriate topics with teen users](https://techcrunch.com/2025/08/29/meta-updates-chatbot-rules-to-avoid-inappropriate-topics-with-teen-users/)
 - [&#39;Foundation&#39; Season 3: What is the strange science of psychohistory in Apple TV+’s sci-fi saga?](https://www.space.com/entertainment/foundation-season-3-what-is-the-strange-science-of-psychohistory-in-apple-tv-s-sci-fi-saga)
 - [Astronaut puts his mad video game skills to the test | On the International Space Station Aug. 25-29, 2025](https://www.space.com/space-exploration/international-space-station/astronaut-puts-his-mad-video-game-skills-to-the-test-on-the-international-space-station-aug-25-29-2025)
-- [&quot;A sky-watching experience that will move your soul&quot; — the best binoculars for magnification have now also hit the best price of the year in this Labor Day deal](https://www.space.com/stargazing/skywatching-kit/best-binoculars-for-magnification-have-now-also-hit-the-best-price-of-the-year-in-this-labor-day-deal)
-- [Mastodon says it doesn’t ‘have the means’ to comply with age verification laws](https://techcrunch.com/2025/08/29/mastodon-says-it-doesnt-have-the-means-to-comply-with-age-verification-laws/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
