@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virginia is for &lpar;space&rpar; lovers: Rocket Lab opens new seaside launch pad for reusable Neutron rocket](https://www.space.com/space-exploration/private-spaceflight/virginia-is-for-space-lovers-rocket-lab-opens-new-seaside-launch-pad-for-reusable-neutron-rocket)
+- [TikTok now lets users send voice notes and images in DMs](https://techcrunch.com/2025/08/29/tiktok-now-lets-users-send-voice-notes-and-images-in-dms/)
 - [Uber and Lyft drivers in California win a path to unionization](https://techcrunch.com/2025/08/29/uber-and-lyft-drivers-in-california-win-a-path-to-unionization/)
 - [Tesla challenges $243 million verdict in Autopilot death trial](https://techcrunch.com/2025/08/29/tesla-challenges-243-million-verdict-in-autopilot-death-trial/)
 - [WhatsApp fixes ‘zero-click’ bug used to hack Apple users with spyware](https://techcrunch.com/2025/08/29/whatsapp-fixes-zero-click-bug-used-to-hack-apple-users-with-spyware/)
-- [Don&#39;t miss the moon ride close to red supergiant star Antares on Aug. 30](https://www.space.com/stargazing/dont-miss-moon-near-red-supergiant-star-antares-aug-30-2025)
-- [Meta updates chatbot rules to avoid inappropriate topics with teen users](https://techcrunch.com/2025/08/29/meta-updates-chatbot-rules-to-avoid-inappropriate-topics-with-teen-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
