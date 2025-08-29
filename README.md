@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft and Uber alum raises $3M for YC-backed Munify, a neobank for the Egyptian diaspora](https://techcrunch.com/2025/08/29/microsoft-and-uber-alum-raises-3m-for-yc-backed-munify-a-neobank-for-the-egyptian-diaspora/)
-- [Host an event beyond the main event: Apply to host a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/29/host-an-event-beyond-the-main-event-apply-to-host-a-side-event-at-techcrunch-disrupt-2025/)
-- [56 million years ago, Earth underwent rapid global warming. Here’s what it did to pollinators](https://www.space.com/science/climate-change/56-million-years-ago-earth-underwent-rapid-global-warming-heres-what-it-did-to-pollinators)
-- [Galactic cannonballs: The mystery of hypervelocity white dwarfs may just have been solved](https://www.space.com/astronomy/stars/galactic-cannonballs-the-mystery-of-hypervelocity-white-dwarfs-may-just-have-been-solved)
-- [Billionaire Ambani taps Google, Meta to build India’s AI backbone](https://techcrunch.com/2025/08/29/billionaire-ambani-taps-google-meta-to-build-indias-ai-backbone/)
+- [Astronaut puts his mad video game skills to the test | On the International Space Station Aug. 25-29, 2025](https://www.space.com/space-exploration/international-space-station/astronaut-puts-his-mad-video-game-skills-to-the-test-on-the-international-space-station-aug-25-29-2025)
+- [&quot;A sky-watching experience that will move your soul&quot; — the best binoculars for magnification have now also hit the best price of the year in this Labor Day deal](https://www.space.com/stargazing/skywatching-kit/best-binoculars-for-magnification-have-now-also-hit-the-best-price-of-the-year-in-this-labor-day-deal)
+- [Mastodon says it doesn’t ‘have the means’ to comply with age verification laws](https://techcrunch.com/2025/08/29/mastodon-says-it-doesnt-have-the-means-to-comply-with-age-verification-laws/)
+- [Henrik Fisker quietly wound down his nonprofit after his EV startup went bankrupt](https://techcrunch.com/2025/08/29/henrik-fisker-quietly-wound-down-his-nonprofit-after-his-ev-startup-went-bankrupt/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/08/29/chatgpt-everything-to-know-about-the-ai-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
