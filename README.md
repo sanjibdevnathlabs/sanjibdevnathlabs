@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft and Uber alum raises $3M for YC-backed Munify, a neobank for the Egyptian diaspora](https://techcrunch.com/2025/08/29/microsoft-and-uber-alum-raises-3m-for-yc-backed-munify-a-neobank-for-the-egyptian-diaspora/)
+- [Host an event beyond the main event: Apply to host a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/29/host-an-event-beyond-the-main-event-apply-to-host-a-side-event-at-techcrunch-disrupt-2025/)
+- [56 million years ago, Earth underwent rapid global warming. Here’s what it did to pollinators](https://www.space.com/science/climate-change/56-million-years-ago-earth-underwent-rapid-global-warming-heres-what-it-did-to-pollinators)
 - [Galactic cannonballs: The mystery of hypervelocity white dwarfs may just have been solved](https://www.space.com/astronomy/stars/galactic-cannonballs-the-mystery-of-hypervelocity-white-dwarfs-may-just-have-been-solved)
 - [Billionaire Ambani taps Google, Meta to build India’s AI backbone](https://techcrunch.com/2025/08/29/billionaire-ambani-taps-google-meta-to-build-indias-ai-backbone/)
-- [Making babies beyond Earth? Spaceflight may not hinder sperm production, mouse study suggests](https://www.space.com/space-exploration/international-space-station/making-babies-beyond-earth-spaceflight-may-not-hinder-sperm-production-mouse-study-suggests)
-- [It&#39;s not easy being green &lpar;-blooded&rpar;. The latest &#39;Strange New Worlds&#39; shows it&#39;s harder than you&#39;d think to play a Vulcan](https://www.space.com/entertainment/space-movies-shows/its-not-easy-being-green-blooded-the-latest-strange-new-worlds-shows-its-harder-than-youd-think-to-play-a-vulcan)
-- [NASA puts asteroid Bennu under the microscope | Space photo of the day for Aug. 29, 2025](https://www.space.com/astronomy/asteroids/nasa-puts-asteroid-bennu-under-the-microscope-space-photo-of-the-day-for-aug-29-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
