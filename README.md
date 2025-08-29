@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vocal Image is using AI to help people communicate better](https://techcrunch.com/2025/08/29/vocal-image-is-using-ai-to-help-people-communicate-better/)
 - [Starship brings the heat in fiery Flight 10 launch video from SpaceX](https://www.space.com/space-exploration/launches-spacecraft/starship-brings-the-heat-in-fiery-flight-10-launch-video-from-spacex)
 - [Trump administration’s deal is structured to prevent Intel from selling foundry unit](https://techcrunch.com/2025/08/28/trump-administrations-deal-is-structured-to-prevent-intel-from-selling-foundry-unit/)
 - [&#39;I will destroy your Vault&#39;: Exclusive &#39;Foundation&#39; Season 3 clip sees Hari Seldon and The Mule face off &lpar;video&rpar;](https://www.space.com/entertainment/hari-seldon-and-the-mule-face-off-outside-the-vault-in-tense-new-clip-for-foundation-season-3-episode-8)
 - [Anthropic users face a new choice – opt out or share your chats for AI training](https://techcrunch.com/2025/08/28/anthropic-users-face-a-new-choice-opt-out-or-share-your-data-for-ai-training/)
-- [Nvidia, Google, and Bill Gates help Commonwealth Fusion Systems raise $863M](https://techcrunch.com/2025/08/28/nvidia-google-and-bill-gates-help-commonwealth-fusion-systems-raise-863m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
