@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Taco Bell is having second thoughts about relying on AI at the drive-through](https://techcrunch.com/2025/08/30/taco-bell-is-having-second-thoughts-about-relying-on-ai-at-the-drive-through/)
+- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2025/08/30/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/)
 - [New &#39;Jump Space&#39; trailer blasts off with intense interstellar action ahead of September launch &lpar;video&rpar;](https://www.space.com/entertainment/new-jump-space-trailer-blasts-off-with-intense-interstellar-action-ahead-of-september-launch-video)
 - [This Week In Space podcast: Episode 175 — More AI in Space](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-175-more-ai-in-space)
 - [Neptune Know-It-All: A Neptune trivia quiz](https://www.space.com/astronomy/neptune/neptune-know-it-all-a-neptune-trivia-quiz)
-- [I’m really impressed with this $400 portable projector](https://techcrunch.com/2025/08/30/im-really-impressed-with-this-400-portable-projector/)
-- [Inside the search for sustainable aviation fuels, which are on the federal chopping block](https://www.space.com/science/climate-change/inside-the-search-for-sustainable-aviation-fuels-which-are-on-the-federal-chopping-block)
 <!-- BLOG-POST-LIST:END -->
 
 ---
