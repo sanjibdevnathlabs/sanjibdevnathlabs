@@ -147,7 +147,7 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- BLOG-POST-LIST:START -->
 - [See the half-lit first quarter moon shine in the grasp of a celestial scorpion tonight](https://www.space.com/stargazing/see-the-first-quarter-moon-shine-in-the-grasp-of-celestial-scorpion-aug-30-2025)
-- [SpaceX launches 24 Starlink satellites to orbit from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-24-starlink-satellites-to-orbit-from-california)
+- [SpaceX launches 24 Starlink satellites to orbit from California &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-24-starlink-satellites-to-orbit-from-california)
 - [Cracks are forming in Meta’s partnership with Scale AI](https://techcrunch.com/2025/08/29/cracks-are-forming-in-metas-partnership-with-scale-ai/)
 - [Spotlight on AI at TechCrunch Disrupt: Don’t miss these sessions backed by JetBrains and Greenfield](https://techcrunch.com/2025/08/29/spotlight-on-ai-at-techcrunch-disrupt-dont-miss-these-sessions-backed-by-jetbrains-and-greenfield/)
 - [James Webb Space Telescope spots odd planet-forming disk around infant star](https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-spots-odd-planet-forming-disk-around-infant-star)
