@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Neptune Know-It-All: A Neptune trivia quiz](https://www.space.com/astronomy/neptune/neptune-know-it-all-a-neptune-trivia-quiz)
 - [I’m really impressed with this $400 portable projector](https://techcrunch.com/2025/08/30/im-really-impressed-with-this-400-portable-projector/)
 - [Inside the search for sustainable aviation fuels, which are on the federal chopping block](https://www.space.com/science/climate-change/inside-the-search-for-sustainable-aviation-fuels-which-are-on-the-federal-chopping-block)
 - [NASA employees fear worsening conditions as new Trump executive order eliminates their right to unionize](https://www.space.com/space-exploration/nasa-employees-fear-worsening-conditions-as-new-trump-executive-order-eliminates-their-right-to-unionize)
 - [See the half-lit first quarter moon shine in the grasp of a celestial scorpion tonight](https://www.space.com/stargazing/see-the-first-quarter-moon-shine-in-the-grasp-of-celestial-scorpion-aug-30-2025)
-- [SpaceX launches 24 Starlink satellites to orbit from California &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-24-starlink-satellites-to-orbit-from-california)
 <!-- BLOG-POST-LIST:END -->
 
 ---
