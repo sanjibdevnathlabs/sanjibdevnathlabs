@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK age check law seems to be hurting sites that comply, helping those that don’t](https://techcrunch.com/2025/08/31/uk-age-check-law-seems-to-be-hurting-sites-that-comply-helping-those-that-dont/)
+- [Director Jim Jarmusch ‘disappointed and disconcerted’ by Mubi’s funding from Sequoia](https://techcrunch.com/2025/08/31/director-jim-jarmusch-disappointed-and-disconcerted-by-mubis-funding-from-sequoia/)
 - [FTC chair warns Google about Gmail’s ‘partisan’ spam filters](https://techcrunch.com/2025/08/31/ftc-chair-warns-alphabet-about-gmails-partisan-spam-filters/)
 - [TechCrunch Mobility: A new speed bump for EV owners and Waymo’s robotaxi fleet surpasses 2,000](https://techcrunch.com/2025/08/31/techcrunch-mobility-a-new-speed-bump-for-ev-owners-and-waymos-robotaxi-fleet-surpasses-2000/)
 - [Pluto quiz: Can you figure out this dwarf planet?](https://www.space.com/astronomy/pluto/pluto-quiz-can-you-figure-out-this-dwarf-planet)
-- [Don&#39;t miss Venus line up with Jupiter and Mercury before sunrise on Sept. 1](https://www.space.com/stargazing/dont-miss-venus-line-up-with-jupiter-mercury-predawn-on-sept-1-2025)
-- [Northern lights may be visible in these 18 US states Sept. 1-2](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-18-us-states-sept-1-2-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
