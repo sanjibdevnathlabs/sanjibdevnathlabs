@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Try to spot a rare Aurigid meteor as the shower peaks overnight on Aug. 31](https://www.space.com/stargazing/meteor-showers/aurigid-meteor-shower-peaks-overnight-on-aug-31-2025)
 - [ESA&#39;s JUICE spacecraft flies by Venus on its way to Jupiter&#39;s icy moons](https://www.space.com/space-exploration/missions/esas-juice-spacecraft-flies-by-venus-on-its-way-to-jupiters-icy-moons)
 - [One week until the blood moon total lunar eclipse lights up September&#39;s sky](https://www.space.com/stargazing/lunar-eclipses/one-week-until-blood-moon-total-lunar-eclipse-sept-7-2025)
 - [Aurora alert! Incoming cannibal solar storm could spark Labor Day northern lights show](https://www.space.com/stargazing/auroras/aurora-alert-incoming-cannibal-solar-storm-could-spark-labor-day-northern-lights-show-sept-2025)
 - [Nvidia says two mystery customers accounted for 39% of Q2 revenue](https://techcrunch.com/2025/08/30/nvidia-says-two-mystery-customers-accounted-for-39-of-q2-revenue/)
-- [Taco Bell is having second thoughts about relying on AI at the drive-through](https://techcrunch.com/2025/08/30/taco-bell-is-having-second-thoughts-about-relying-on-ai-at-the-drive-through/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
