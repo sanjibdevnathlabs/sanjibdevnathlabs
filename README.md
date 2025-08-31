@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t miss Venus line up with Jupiter and Mercury before sunrise on Sept. 1](https://www.space.com/stargazing/dont-miss-venus-line-up-with-jupiter-mercury-predawn-on-sept-1-2025)
 - [Northern lights may be visible in these 18 US states Sept. 1-2](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-18-us-states-sept-1-2-2025)
 - [NASA wants to put a nuclear reactor on the moon by 2030 – choosing where is tricky](https://www.space.com/astronomy/moon/nasa-wants-to-put-a-nuclear-reactor-on-the-moon-by-2030-choosing-where-is-tricky)
 - [SpaceX deploys 28 Starlink satellites into low Earth orbit after launch from Florida](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-14-b1077-ccsfs-jrti)
 - [Try to spot a rare Aurigid meteor as the shower peaks overnight on Aug. 31](https://www.space.com/stargazing/meteor-showers/aurigid-meteor-shower-peaks-overnight-on-aug-31-2025)
-- [ESA&#39;s JUICE spacecraft flies by Venus on its way to Jupiter&#39;s icy moons](https://www.space.com/space-exploration/missions/esas-juice-spacecraft-flies-by-venus-on-its-way-to-jupiters-icy-moons)
 <!-- BLOG-POST-LIST:END -->
 
 ---
