@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How military helicopters in Colorado will help land NASA&#39;s Artemis astronauts on the moon](https://www.space.com/space-exploration/artemis/how-military-helicopters-in-colorado-will-help-land-nasas-artemis-astronauts-on-the-moon)
 - [Why Runway is eyeing the robotics industry for future revenue growth](https://techcrunch.com/2025/09/01/why-runway-is-eyeing-the-robotics-industry-for-future-revenue-growth/)
 - [Only 5 days left: Exhibit tables are disappearing for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/01/only-5-days-left-tables-are-disappearing-for-techcrunch-disrupt-2025/)
 - [&#39;We&#39;ve known it&#39;s been coming for a while&#39;: Inside the decision to eliminate the UK Space Agency](https://www.space.com/space-exploration/weve-known-its-been-coming-for-a-while-inside-the-decision-to-eliminate-the-uk-space-agency)
 - [Pluto&#39;s dwarf planet partner Charon may have spilled its guts to create 2 of the pair&#39;s moons](https://www.space.com/astronomy/pluto/plutos-dwarf-planet-partner-charon-may-have-spilled-its-guts-to-create-2-of-the-pairs-moons)
-- [Official death count of 2023 Hawaii wildfires doesn’t capture true toll, study suggests](https://www.space.com/science/climate-change/official-death-count-of-2023-hawaii-wildfires-doesnt-capture-true-toll-study-suggests)
 <!-- BLOG-POST-LIST:END -->
 
 ---
