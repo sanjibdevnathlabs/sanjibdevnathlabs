@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LayerX uses AI to cut enterprise back-office workload, scores $100M in Series B](https://techcrunch.com/2025/09/01/layerx-uses-ai-to-cut-enterprise-back-office-workload-scores-100m-in-series-b/)
 - [Watch live online as an asteroid the size of a commercial jet passes within Earth-moon distance on Sept. 3 &lpar;video&rpar;](https://www.space.com/stargazing/watch-live-online-as-an-asteroid-the-size-of-a-commercial-jet-passes-within-earth-moon-distance-on-sept-3-video)
 - [Mercury makes an elusive appearance with the bright star Regulus on Sept. 2](https://www.space.com/stargazing/mercury-close-to-regulus-predawn-sept-2-2025)
 - [Space investing goes mainstream as VCs ditch the rocket science requirements](https://techcrunch.com/2025/09/01/space-investing-goes-mainstream-as-vcs-ditch-the-rocket-science-requirements/)
 - [Water recycling is paramount for space stations and long-duration missions − an environmental engineer explains how the ISS does it](https://www.space.com/space-exploration/international-space-station/water-recycling-is-paramount-for-space-stations-and-long-duration-missions-an-environmental-engineer-explains-how-the-iss-does-it)
-- [Behind the scenes and front-row access: Volunteer at TechCrunch Disrupt 2025 while you still can](https://techcrunch.com/2025/09/01/behind-the-scenes-and-front-row-access-volunteer-at-techcrunch-disrupt-2025-while-you-still-can/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
