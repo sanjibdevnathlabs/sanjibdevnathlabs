@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Could a unique rectangular telescope be the key to finding Earth 2.0?](https://www.space.com/astronomy/could-a-unique-rectangular-telescope-be-the-key-to-finding-earth-2-0)
 - [Lovable’s CEO isn’t too worried about the vibe-coding competition](https://techcrunch.com/2025/09/01/lovables-ceo-isnt-too-worried-about-the-vibe-coding-competition/)
 - [Murder at Burning Man turns Silicon Valley’s desert playground into a crime scene](https://techcrunch.com/2025/08/31/murder-at-burning-man-turns-silicon-valleys-desert-playground-into-a-crime-scene/)
 - [UK age check law seems to be hurting sites that comply, helping those that don’t](https://techcrunch.com/2025/08/31/uk-age-check-law-seems-to-be-hurting-sites-that-comply-helping-those-that-dont/)
 - [Director Jim Jarmusch ‘disappointed and disconcerted’ by Mubi’s funding from Sequoia](https://techcrunch.com/2025/08/31/director-jim-jarmusch-disappointed-and-disconcerted-by-mubis-funding-from-sequoia/)
-- [FTC chair warns Google about Gmail’s ‘partisan’ spam filters](https://techcrunch.com/2025/08/31/ftc-chair-warns-alphabet-about-gmails-partisan-spam-filters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
