@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [33 hungry SpaceX Raptors from below | Space photo of the day for Sept. 1, 2025](https://www.space.com/space-exploration/private-spaceflight/33-hungry-spacex-raptors-from-below-space-photo-of-the-day-for-sept-1-2025)
+- [Hasbro Vs. Disney lightsabers: What&#39;s the difference?](https://www.space.com/entertainment/hasbro-vs-disney-lightsabers-whats-the-difference)
 - [&#39;Klingon Next Door&#39; is a hilarious look at what Star Trek&#39;s angriest aliens do in their down time](https://www.space.com/entertainment/space-books/klingon-next-door-is-a-hilarious-look-at-what-star-treks-angriest-aliens-do-in-their-down-time)
 - [An affordable, sub-250g drone with excellent build quality, features and a decent camera is at its lowest-ever price, now 17% off on Amazon](https://www.space.com/technology/lowest-ever-price-on-potensic-atom-2-bundle-now-80-dollars-off)
 - [How military helicopters in Colorado will help land NASA&#39;s Artemis astronauts on the moon](https://www.space.com/space-exploration/artemis/how-military-helicopters-in-colorado-will-help-land-nasas-artemis-astronauts-on-the-moon)
-- [Why Runway is eyeing the robotics industry for future revenue growth](https://techcrunch.com/2025/09/01/why-runway-is-eyeing-the-robotics-industry-for-future-revenue-growth/)
-- [Only 5 days left: Exhibit tables are disappearing for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/01/only-5-days-left-tables-are-disappearing-for-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
