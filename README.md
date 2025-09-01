@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pluto&#39;s dwarf planet partner Charon may have spilled its guts to create 2 of the pair&#39;s moons](https://www.space.com/astronomy/pluto/plutos-dwarf-planet-partner-charon-may-have-spilled-its-guts-to-create-2-of-the-pairs-moons)
 - [Official death count of 2023 Hawaii wildfires doesn’t capture true toll, study suggests](https://www.space.com/science/climate-change/official-death-count-of-2023-hawaii-wildfires-doesnt-capture-true-toll-study-suggests)
 - [Every fusion startup that has raised over $100M](https://techcrunch.com/2025/09/01/every-fusion-startup-that-has-raised-over-100m/)
 - [Scientists discover explosive origins of superspeed electrons streaming from the sun](https://www.space.com/astronomy/sun/scientists-discover-explosive-origins-of-superspeed-electrons-streaming-from-the-sun)
 - [Could a unique rectangular telescope be the key to finding Earth 2.0?](https://www.space.com/astronomy/could-a-unique-rectangular-telescope-be-the-key-to-finding-earth-2-0)
-- [Lovable’s CEO isn’t too worried about the vibe-coding competition](https://techcrunch.com/2025/09/01/lovables-ceo-isnt-too-worried-about-the-vibe-coding-competition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
