@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mercury makes an elusive appearance with the bright star Regulus on Sept. 2](https://www.space.com/stargazing/mercury-close-to-regulus-predawn-sept-2-2025)
+- [Space investing goes mainstream as VCs ditch the rocket science requirements](https://techcrunch.com/2025/09/01/space-investing-goes-mainstream-as-vcs-ditch-the-rocket-science-requirements/)
 - [Water recycling is paramount for space stations and long-duration missions − an environmental engineer explains how the ISS does it](https://www.space.com/space-exploration/international-space-station/water-recycling-is-paramount-for-space-stations-and-long-duration-missions-an-environmental-engineer-explains-how-the-iss-does-it)
 - [Behind the scenes and front-row access: Volunteer at TechCrunch Disrupt 2025 while you still can](https://techcrunch.com/2025/09/01/behind-the-scenes-and-front-row-access-volunteer-at-techcrunch-disrupt-2025-while-you-still-can/)
 - [&#39;The rocket is your savior!&#39;: New live-action &#39;Borderlands 4&#39; trailer urges humans to &#39;Quit Earth&#39;, and we can&#39;t argue](https://www.space.com/entertainment/the-rocket-is-your-savior-new-live-action-borderlands-4-trailer-urges-humans-to-quit-earth-and-we-cant-argue)
-- [Hasbro Vs. Disney lightsabers: What&#39;s the difference?](https://www.space.com/entertainment/hasbro-vs-disney-lightsabers-whats-the-difference)
-- [33 hungry SpaceX Raptors from below | Space photo of the day for Sept. 1, 2025](https://www.space.com/space-exploration/private-spaceflight/33-hungry-spacex-raptors-from-below-space-photo-of-the-day-for-sept-1-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
