@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ICE reactivates contract with spyware maker Paragon](https://techcrunch.com/2025/09/02/ice-reactivates-contract-with-spyware-maker-paragon/)
-- [New &#39;Tron: Ares&#39; trailer paints the town neon red as an ominous voice declares that &#39;Military AI is the future!&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/new-tron-ares-trailer-paints-the-town-neon-red-as-an-ominous-voice-declares-that-military-ai-is-the-future-video)
-- [MrBeast reportedly plans to launch a phone company](https://techcrunch.com/2025/09/02/mrbeast-reportedly-plans-to-launch-a-phone-company/)
-- [The Lego Technic NASA Lunar RV set is an incredibly detailed reproduction of the historic Apollo lunar buggy — now with 32% off, its lowest ever price at Walmart](https://www.space.com/entertainment/space-toys-lego/lego-technic-nasa-lunar-rv-set-historic-apollo-lunar-buggy-now-32-percent-off-its-lowest-ever-price-at-walmart)
-- [Instagram tests Picture-In-Picture viewing for reels](https://techcrunch.com/2025/09/02/instagram-tests-picture-in-picture-viewing-for-reels/)
+- [Interstellar invader comet 3I/ATLAS could be investigated by these spacecraft as it races past the sun: &#39;This could be literally a once-in-a-lifetime opportunity&#39;](https://www.space.com/astronomy/interstellar-invader-comet-3i-atlas-could-be-investigated-by-these-spacecraft-as-it-races-past-the-sun-this-could-be-literally-a-once-in-a-lifetime-opportunity)
+- [Tesla’s Dojo, a timeline](https://techcrunch.com/2025/09/02/teslas-dojo-a-timeline/)
+- [Anthropic raises $13B Series F at $183B valuation](https://techcrunch.com/2025/09/02/anthropic-raises-13b-series-f-at-183b-valuation/)
+- [WordPress shows off Telex, its experimental AI development tool](https://techcrunch.com/2025/09/02/wordpress-shows-off-telex-its-experimental-ai-development-tool/)
+- [Tesla Dojo: the rise and fall of Elon Musk’s AI supercomputer](https://techcrunch.com/2025/09/02/tesla-dojo-the-rise-and-fall-of-elon-musks-ai-supercomputer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
