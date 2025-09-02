@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astro Teller, “Captain of Moonshots,” joins TechCrunch Disrupt 2025 this October](https://techcrunch.com/2025/09/02/astro-teller-is-joining-us-at-techcrunch-disrupt-2025-in-october/)
+- [Colossal moon Titan casts a shadow on Saturn&#39;s cloud tops early on Sept. 4. Will you be able to see it?](https://www.space.com/stargazing/titan-transit-casts-shadow-over-saturn-cloud-tops-sept-4-2025)
+- [Tesla’s fourth ‘Master Plan’ reads like LLM-generated nonsense](https://techcrunch.com/2025/09/02/teslas-fourth-master-plan-reads-like-llm-generated-nonsense/)
 - [Interstellar invader comet 3I/ATLAS could be investigated by these spacecraft as it races past the sun: &#39;This could be literally a once-in-a-lifetime opportunity&#39;](https://www.space.com/astronomy/interstellar-invader-comet-3i-atlas-could-be-investigated-by-these-spacecraft-as-it-races-past-the-sun-this-could-be-literally-a-once-in-a-lifetime-opportunity)
 - [Tesla’s Dojo, a timeline](https://techcrunch.com/2025/09/02/teslas-dojo-a-timeline/)
-- [Anthropic raises $13B Series F at $183B valuation](https://techcrunch.com/2025/09/02/anthropic-raises-13b-series-f-at-183b-valuation/)
-- [WordPress shows off Telex, its experimental AI development tool](https://techcrunch.com/2025/09/02/wordpress-shows-off-telex-its-experimental-ai-development-tool/)
-- [Tesla Dojo: the rise and fall of Elon Musk’s AI supercomputer](https://techcrunch.com/2025/09/02/tesla-dojo-the-rise-and-fall-of-elon-musks-ai-supercomputer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
