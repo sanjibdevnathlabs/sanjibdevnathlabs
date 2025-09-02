@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Asteroid Bennu contains stardust that&#39;s older than the solar system](https://www.space.com/astronomy/asteroids/asteroid-bennu-contains-stardust-thats-older-than-the-solar-system)
+- [Waymo expands to Denver and Seattle with its Zeekr-made vans](https://techcrunch.com/2025/09/02/waymo-expands-to-denver-and-seattle-with-its-zeekr-made-vans/)
+- [Google avoids break up, faces new oversight in search antitrust trial](https://techcrunch.com/2025/09/02/google-avoids-break-up-faces-new-oversight-in-search-antitrust-trial/)
+- [Trump moves US Space Command to Alabama&#39;s &#39;Rocket City&#39;](https://www.space.com/space-exploration/trump-moves-us-space-command-to-alabamas-rocket-city)
 - [OpenAI to route sensitive conversations to GPT-5, introduce parental controls](https://techcrunch.com/2025/09/02/openai-to-route-sensitive-conversations-to-gpt-5-introduce-parental-controls/)
-- [Astronomers discover a &#39;forbidden&#39; pulsar fleeing a supernova in a seemingly empty region of the Milky Way](https://www.space.com/astronomy/astronomers-discover-a-forbidden-pulsar-fleeing-a-supernova-in-a-seemingly-empty-region-of-the-milky-way)
-- [Judges side with Trump EPA over canceled Inflation Reduction Act grants to nonprofits](https://techcrunch.com/2025/09/02/judges-side-with-trump-epa-over-canceled-inflation-reduction-act-grants-to-nonprofits/)
-- [Amazon launches Lens Live, an AI-powered shopping tool for use in the real world](https://techcrunch.com/2025/09/02/amazon-launches-lens-live-an-ai-powered-shopping-tool-for-use-in-the-real-world/)
-- [OpenAI acquires product testing startup Statsig and shakes up its leadership team](https://techcrunch.com/2025/09/02/openai-acquires-product-testing-startup-statsig-and-shakes-up-its-leadership-team/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
