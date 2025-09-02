@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI to route sensitive conversations to GPT-5, introduce parental controls](https://techcrunch.com/2025/09/02/openai-to-route-sensitive-conversations-to-gpt-5-introduce-parental-controls/)
-- [I watched scientists view the interstellar comet 3I/ATLAS in real time. Here&#39;s what they saw](https://www.space.com/astronomy/comets/i-watched-scientists-view-the-interstellar-comet-3i-atlas-in-real-time-heres-what-they-saw)
-- [Klarna revives IPO plans, aims to raise $1.27B](https://techcrunch.com/2025/09/02/klarna-revives-ipo-plans-aims-to-raise-1-27b/)
-- [Black hole quiz: How deep is your gravitational knowledge?](https://www.space.com/astronomy/black-holes/black-hole-quiz-how-deep-is-your-gravitational-knowledge)
-- [Just 4 days left to exhibit at TechCrunch Disrupt 2025 — 10 tables remain](https://techcrunch.com/2025/09/02/just-4-days-left-to-exhibit-at-techcrunch-disrupt-2025-10-tables-remain/)
+- [ICE reactivates contract with spyware maker Paragon](https://techcrunch.com/2025/09/02/ice-reactivates-contract-with-spyware-maker-paragon/)
+- [New &#39;Tron: Ares&#39; trailer paints the town neon red as an ominous voice declares that &#39;Military AI is the future!&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/new-tron-ares-trailer-paints-the-town-neon-red-as-an-ominous-voice-declares-that-military-ai-is-the-future-video)
+- [MrBeast reportedly plans to launch a phone company](https://techcrunch.com/2025/09/02/mrbeast-reportedly-plans-to-launch-a-phone-company/)
+- [The Lego Technic NASA Lunar RV set is an incredibly detailed reproduction of the historic Apollo lunar buggy — now with 32% off, its lowest ever price at Walmart](https://www.space.com/entertainment/space-toys-lego/lego-technic-nasa-lunar-rv-set-historic-apollo-lunar-buggy-now-32-percent-off-its-lowest-ever-price-at-walmart)
+- [Instagram tests Picture-In-Picture viewing for reels](https://techcrunch.com/2025/09/02/instagram-tests-picture-in-picture-viewing-for-reels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
