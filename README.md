@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How magnets could help astronauts explore the moon and Mars](https://www.space.com/space-exploration/human-spaceflight/how-magnets-could-help-astronauts-explore-the-moon-and-mars)
 - [ISS astronauts serve up space sushi | Space photo of the day for Sept. 2, 2025](https://www.space.com/space-exploration/private-spaceflight/iss-astronauts-serve-up-space-sushi)
 - [1st Indian astronaut to visit ISS welcomed home as a hero](https://www.space.com/space-exploration/1st-indian-astronaut-to-visit-iss-welcomed-home-as-a-hero)
 - [BMW, I am so breaking up with you](https://techcrunch.com/2025/09/01/bmw-i-am-so-breaking-up-with-you/)
 - [Indian grocery startup Citymall raises $47M to challenge ultra-fast delivery giants](https://techcrunch.com/2025/09/01/indian-grocery-startup-citymall-raises-47m-to-challenge-ultra-fast-delivery-giants/)
-- [U.S. and Indian VCs just formed a $1B+ alliance to fund India’s deep tech startups](https://techcrunch.com/2025/09/01/u-s-and-indian-vcs-just-formed-a-1b-alliance-to-fund-indias-deep-tech-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
