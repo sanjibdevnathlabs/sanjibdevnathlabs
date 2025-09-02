@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Google’s nano banana just killed Photoshop... let’s run it](https://www.youtube.com/watch?v=8_GgeASwHwQ)
-- [CPU Summary - Computerphile](https://www.youtube.com/watch?v=fpkCNu_dzcM)
-- [Deno vs Oracle: The ugly custody battle for JavaScript…](https://www.youtube.com/watch?v=pOF11EDprxc)
-- [Trying the Strongest Coffee in the World &lpar;7 espressos in 1 shot!!&rpar;](https://www.youtube.com/shorts/_u1V5GLzP98)
-- [New MIT study says most AI projects are doomed...](https://www.youtube.com/watch?v=ly6YKz9UfQ4)
+- [Lecture 11: Extreme and Intermediate Value Theorem; Metric Spaces](https://www.youtube.com/watch?v=bhBQbi9sWFA)
+- [Lecture 18: Integrable Functions](https://www.youtube.com/watch?v=9rG-bs0TFQ8)
+- [Lecture 23: Existence &amp; Uniqueness for ODEs: Picard–Lindelöf Theorem](https://www.youtube.com/watch?v=fsbVJxOhRcU)
+- [Lecture 8: Convergence Tests for Series; Power Series](https://www.youtube.com/watch?v=lEMeyFq4-zQ)
+- [Lecture 9: Limsup and Liminf; Power Series; Continuous Functions; Exponential Function](https://www.youtube.com/watch?v=MjRb8R33Ucc)
 <!-- YOUTUBE:END -->
 
 ---
