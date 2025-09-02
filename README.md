@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI to route sensitive conversations to GPT-5, introduce parental controls](https://techcrunch.com/2025/09/02/openai-to-route-sensitive-conversations-to-gpt-5-introduce-parental-controls/)
+- [Astronomers discover a &#39;forbidden&#39; pulsar fleeing a supernova in a seemingly empty region of the Milky Way](https://www.space.com/astronomy/astronomers-discover-a-forbidden-pulsar-fleeing-a-supernova-in-a-seemingly-empty-region-of-the-milky-way)
+- [Judges side with Trump EPA over canceled Inflation Reduction Act grants to nonprofits](https://techcrunch.com/2025/09/02/judges-side-with-trump-epa-over-canceled-inflation-reduction-act-grants-to-nonprofits/)
+- [Amazon launches Lens Live, an AI-powered shopping tool for use in the real world](https://techcrunch.com/2025/09/02/amazon-launches-lens-live-an-ai-powered-shopping-tool-for-use-in-the-real-world/)
 - [OpenAI acquires product testing startup Statsig and shakes up its leadership team](https://techcrunch.com/2025/09/02/openai-acquires-product-testing-startup-statsig-and-shakes-up-its-leadership-team/)
-- [Magic: The Gathering has gone to space, so we talked to an astrophysicist about the striking art in &#39;Edge of Eternities&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/magic-the-gathering-has-gone-to-space-so-we-talked-to-an-astrophysicist-about-the-striking-art-in-edge-of-eternities-exclusive)
-- [Astro Teller, “Captain of Moonshots,” joins TechCrunch Disrupt 2025 this October](https://techcrunch.com/2025/09/02/astro-teller-is-joining-us-at-techcrunch-disrupt-2025-in-october/)
-- [Colossal moon Titan casts a shadow on Saturn&#39;s cloud tops early on Sept. 4. Will you be able to see it?](https://www.space.com/stargazing/titan-transit-casts-shadow-over-saturn-cloud-tops-sept-4-2025)
-- [Tesla’s fourth ‘Master Plan’ reads like LLM-generated nonsense](https://techcrunch.com/2025/09/02/teslas-fourth-master-plan-reads-like-llm-generated-nonsense/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
