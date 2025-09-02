@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Black hole quiz: How deep Is your gravitational knowledge?](https://www.space.com/astronomy/black-holes/black-hole-quiz-how-deep-is-your-gravitational-knowledge)
+- [OpenAI to route sensitive conversations to GPT-5, introduce parental controls](https://techcrunch.com/2025/09/02/openai-to-route-sensitive-conversations-to-gpt-5-introduce-parental-controls/)
+- [I watched scientists view the interstellar comet 3I/ATLAS in real time. Here&#39;s what they saw](https://www.space.com/astronomy/comets/i-watched-scientists-view-the-interstellar-comet-3i-atlas-in-real-time-heres-what-they-saw)
+- [Klarna revives IPO plans, aims to raise $1.27B](https://techcrunch.com/2025/09/02/klarna-revives-ipo-plans-aims-to-raise-1-27b/)
+- [Black hole quiz: How deep is your gravitational knowledge?](https://www.space.com/astronomy/black-holes/black-hole-quiz-how-deep-is-your-gravitational-knowledge)
 - [Just 4 days left to exhibit at TechCrunch Disrupt 2025 — 10 tables remain](https://techcrunch.com/2025/09/02/just-4-days-left-to-exhibit-at-techcrunch-disrupt-2025-10-tables-remain/)
-- [Nikon Stabilized 12x25 S binocular review](https://www.space.com/stargazing/skywatching-kit/nikon-stabilized-12x25-s-binocular-review)
-- [Cannibal solar storm sparks dazzling northern lights across Europe and North America &lpar;photos&rpar;](https://www.space.com/stargazing/auroras/cannibal-solar-storm-sparks-dazzling-northern-lights-across-europe-and-north-america-photos)
-- [Astro Teller, “Captain of Moonshots,” joins TechCrunch Disrupt 2025 this October](https://techcrunch.com/2025/09/02/astro-teller-is-joining-us-at-techcrunch-disrupt-2025-in-october/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
