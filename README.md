@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Radical new Big Bang theory says gravitational waves created galaxies, stars and planets](https://www.space.com/astronomy/radical-new-big-bang-theory-says-gravitational-waves-created-galaxies-stars-and-planets)
+- [CoreWeave acquires agent-training startup OpenPipe](https://techcrunch.com/2025/09/03/coreweave-acquires-agent-training-startup-openpipe/)
 - [Astronaut Megan McArthur, 1st woman to pilot SpaceX Dragon, retires after 25-year NASA career](https://www.space.com/space-exploration/human-spaceflight/astronaut-megan-mcarthur-retires-after-2-decade-nasa-career)
 - [SpaceX gets a green light to more than double its Florida launches](https://techcrunch.com/2025/09/03/spacex-gets-the-green-light-to-more-than-double-its-florida-launches/)
 - [Pornhub owner pays $5M settlement to FTC over historic failure to block abusive content](https://techcrunch.com/2025/09/03/pornhub-owner-pays-5m-settlement-to-ftc-over-historic-failure-to-block-abusive-content/)
-- [Google brings Material 3 Expressive to Pixel 6 and newer devices, along with other features](https://techcrunch.com/2025/09/03/google-brings-material-3-expressive-to-pixel-6-and-newer-devices-along-with-other-features/)
-- [Israel spy satellite launch sparks &#39;brief panic&#39; as residents mistake rocket for missile: reports](https://www.space.com/space-exploration/launches-spacecraft/israel-spy-satellite-launch-sparks-brief-panic-as-residents-mistake-rocket-for-missile-reports)
 <!-- BLOG-POST-LIST:END -->
 
 ---
