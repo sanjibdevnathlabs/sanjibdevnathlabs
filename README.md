@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s Siri upgrade could reportedly be powered by Google Gemini](https://techcrunch.com/2025/09/03/apples-siri-upgrade-could-reportedly-be-powered-by-google-gemini/)
+- [xAI’s CFO is the latest executive to leave Elon Musk’s AI firm](https://techcrunch.com/2025/09/03/xais-cfo-is-the-latest-executive-to-leave-elon-musks-ai-firm/)
+- [FirstClub bucks India’s speed obsession, quickly triples valuation to $120M with premium approach](https://techcrunch.com/2025/09/03/firstclub-bucks-indias-speed-obsession-quickly-triples-valuation-to-120m-with-premium-approach/)
 - [Radical new Big Bang theory says gravitational waves created galaxies, stars and planets](https://www.space.com/astronomy/radical-new-big-bang-theory-says-gravitational-waves-created-galaxies-stars-and-planets)
 - [CoreWeave acquires agent-training startup OpenPipe](https://techcrunch.com/2025/09/03/coreweave-acquires-agent-training-startup-openpipe/)
-- [Astronaut Megan McArthur, 1st woman to pilot SpaceX Dragon, retires after 25-year NASA career](https://www.space.com/space-exploration/human-spaceflight/astronaut-megan-mcarthur-retires-after-2-decade-nasa-career)
-- [SpaceX gets a green light to more than double its Florida launches](https://techcrunch.com/2025/09/03/spacex-gets-the-green-light-to-more-than-double-its-florida-launches/)
-- [Pornhub owner pays $5M settlement to FTC over historic failure to block abusive content](https://techcrunch.com/2025/09/03/pornhub-owner-pays-5m-settlement-to-ftc-over-historic-failure-to-block-abusive-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
