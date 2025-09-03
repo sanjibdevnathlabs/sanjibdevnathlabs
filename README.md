@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronaut Megan McArthur, 1st woman to pilot SpaceX Dragon, retires after 25-year NASA career](https://www.space.com/space-exploration/human-spaceflight/astronaut-megan-mcarthur-retires-after-2-decade-nasa-career)
+- [SpaceX gets a green light to more than double its Florida launches](https://techcrunch.com/2025/09/03/spacex-gets-the-green-light-to-more-than-double-its-florida-launches/)
 - [Pornhub owner pays $5M settlement to FTC over historic failure to block abusive content](https://techcrunch.com/2025/09/03/pornhub-owner-pays-5m-settlement-to-ftc-over-historic-failure-to-block-abusive-content/)
 - [Google brings Material 3 Expressive to Pixel 6 and newer devices, along with other features](https://techcrunch.com/2025/09/03/google-brings-material-3-expressive-to-pixel-6-and-newer-devices-along-with-other-features/)
 - [Israel spy satellite launch sparks &#39;brief panic&#39; as residents mistake rocket for missile: reports](https://www.space.com/space-exploration/launches-spacecraft/israel-spy-satellite-launch-sparks-brief-panic-as-residents-mistake-rocket-for-missile-reports)
-- [Orchard Robotics, founded by a Thiel fellow Cornell dropout, raises $22M for farm vision AI](https://techcrunch.com/2025/09/03/orchard-robotics-founded-by-a-thiel-fellow-cornell-dropout-raises-22m-for-farm-vision-ai/)
-- [Google’s NotebookLM now lets you customize the tone of its AI podcasts](https://techcrunch.com/2025/09/03/googles-notebooklm-now-lets-you-customize-the-tone-of-its-ai-podcasts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
