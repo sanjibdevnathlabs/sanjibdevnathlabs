@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches 24 Starlink satellites to orbit from California on brand-new Falcon 9 rocket](https://www.space.com/space-exploration/launches-spacecraft/spacex-new-falcon-9-rocket-starlink-launch-group-17-8)
 - [Asteroid Bennu contains stardust that&#39;s older than the solar system](https://www.space.com/astronomy/asteroids/asteroid-bennu-contains-stardust-thats-older-than-the-solar-system)
 - [Waymo expands to Denver and Seattle with its Zeekr-made vans](https://techcrunch.com/2025/09/02/waymo-expands-to-denver-and-seattle-with-its-zeekr-made-vans/)
 - [Google avoids break up, but has to give up exclusive search deals in  antitrust trial](https://techcrunch.com/2025/09/02/google-avoids-break-up-faces-new-oversight-in-search-antitrust-trial/)
 - [Trump moves US Space Command to Alabama&#39;s &#39;Rocket City&#39;](https://www.space.com/space-exploration/trump-moves-us-space-command-to-alabamas-rocket-city)
-- [OpenAI to route sensitive conversations to GPT-5, introduce parental controls](https://techcrunch.com/2025/09/02/openai-to-route-sensitive-conversations-to-gpt-5-introduce-parental-controls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
