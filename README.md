@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Roblox expands use of age estimation tech and introduces standardized ratings](https://techcrunch.com/2025/09/03/roblox-expands-use-of-age-estimation-tech-and-introduces-standardized-ratings/)
 - [Netflix CPO Eunice Kim joins TechCrunch Disrupt 2025 to talk scaling product and reimagining entertainment](https://techcrunch.com/2025/09/03/netflix-cpo-eunice-kim-is-coming-to-techcrunch-disrupt-2025-to-talk-tech-tools-and-yes-its-password-sharing-strategy/)
+- [Instagram is finally launching an iPad app](https://techcrunch.com/2025/09/03/instagram-is-finally-launching-an-ipad-app/)
 - [15 years on, real-time strategy games are still chasing the high of &#39;StarCraft 2&#39;](https://www.space.com/entertainment/space-games/15-years-on-real-time-strategy-games-are-still-chasing-the-high-of-starcraft-2)
 - [Venezuela’s president thinks American spies can’t hack Huawei phones](https://techcrunch.com/2025/09/03/venezuelas-president-thinks-american-spies-cant-hack-huawei-phones/)
-- [How to watch Apple announce the iPhone 17](https://techcrunch.com/2025/09/03/how-to-watch-apple-announce-the-iphone-17/)
-- [These 20- and 22-year-olds raised $5M from YC, General Catalyst to study online behavior using vision AI](https://techcrunch.com/2025/09/03/these-20-and-22-year-olds-raised-5m-from-yc-general-catalyst-to-study-online-behavior-using-vision-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
