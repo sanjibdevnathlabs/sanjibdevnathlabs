@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Brand new unicorn IQM sets its sights beyond Europe for its quantum computers](https://techcrunch.com/2025/09/03/brand-new-unicorn-iqm-sets-its-sights-beyond-europe-for-its-quantum-computers/)
+- [Which is the best home planetarium? We pit three of our favorites against one other](https://www.space.com/technology/which-is-the-best-home-planetarium-we-pit-three-of-our-favorites-against-one-other)
+- [Perseverance Mars rover rolls over Soroya Ridge | Space photo of the day for Sept. 3, 2025](https://www.space.com/space-exploration/mars-rovers/perseverance-mars-rover-rolls-over-soroya-ridge-space-photo-of-the-day-for-sept-3-2025)
 - [Interstellar comet 3I/ATLAS will fly by Mars 1 month from now — and Europe&#39;s Red Planet orbiters will be ready](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-will-fly-by-mars-1-month-from-now-and-europes-red-planet-orbiters-will-be-ready)
 - [SpaceX launches 24 Starlink satellites to orbit from California on brand-new Falcon 9 rocket](https://www.space.com/space-exploration/launches-spacecraft/spacex-new-falcon-9-rocket-starlink-launch-group-17-8)
-- [Asteroid Bennu contains stardust that&#39;s older than the solar system](https://www.space.com/astronomy/asteroids/asteroid-bennu-contains-stardust-thats-older-than-the-solar-system)
-- [Waymo expands to Denver and Seattle with its Zeekr-made vans](https://techcrunch.com/2025/09/02/waymo-expands-to-denver-and-seattle-with-its-zeekr-made-vans/)
-- [Google avoids break up, but has to give up exclusive search deals in  antitrust trial](https://techcrunch.com/2025/09/02/google-avoids-break-up-faces-new-oversight-in-search-antitrust-trial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
