@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch Disrupt 2025 finalizes the Builders Stage agenda with top scaling voices](https://techcrunch.com/2025/09/03/techcrunch-disrupt-2025-adds-new-leading-voices-to-the-builders-stage-agenda/)
-- [Advanced geothermal startups are just getting warmed up](https://techcrunch.com/2025/09/03/advanced-geothermal-startups-are-just-getting-warmed-up/)
-- [College social app Fizz expands into grocery delivery](https://techcrunch.com/2025/09/03/college-social-app-fizz-expands-into-grocery-delivery/)
-- [PayPal and Venmo are giving out Comet invites and free Perplexity Pro subscriptions](https://techcrunch.com/2025/09/03/paypal-and-venno-are-now-giving-out-comet-invites/)
-- [Netflix updates its Moments feature to give users greater control over scene clipping](https://techcrunch.com/2025/09/03/netflix-updates-its-moments-feature-to-give-users-greater-control-over-scene-clipping/)
+- [These 20- and 22-year-olds raised $5M from YC, General Catalyst to study online behavior using vision AI](https://techcrunch.com/2025/09/03/these-20-and-22-year-olds-raised-5m-from-yc-general-catalyst-to-study-online-behavior-using-vision-ai/)
+- [Warp brings new diff-tracking tools to the AI coding arms race](https://techcrunch.com/2025/09/03/warp-brings-new-diff-tracking-tools-to-the-ai-coding-arms-race/)
+- [India tests parachutes for 1st-ever human spaceflight mission in 2027 &lpar;photos&rpar;](https://www.space.com/space-exploration/human-spaceflight/india-tests-parachutes-for-1st-ever-human-spaceflight-mission-in-2027-photos)
+- [Perseid meteors shine with the Milky Way over an ancient Egyptian temple in breathtaking photo](https://www.space.com/stargazing/perseid-meteors-shine-with-milky-way-over-ancient-egyptian-temple-photo-aug-2025)
+- [3 days left to lock in your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/03/3-days-left-to-lock-in-your-table-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
