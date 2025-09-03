@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mistral, the French AI giant, is reportedly on the cusp of securing a $14B valuation](https://techcrunch.com/2025/09/03/mistral-the-french-ai-giant-is-reportedly-on-the-cusp-of-securing-a-14-billion-valuation/)
 - [Watch NASA&#39;s Artemis 2 moon astronauts take on the viral &#39;Bobby and Pete&#39; fitness challenge &lpar;video&rpar;](https://www.space.com/space-exploration/artemis/artemis-2-moon-astronauts-take-viral-bobby-and-pete-fitness-challenge-video)
 - [Scale AI is suing a former employee and rival Mercor, alleging they tried to steal its biggest customers](https://techcrunch.com/2025/09/03/scale-ai-is-suing-a-former-employee-and-rival-mercor-alleging-they-tried-to-steal-its-biggest-customers/)
 - [Apple’s Siri upgrade could reportedly be powered by Google Gemini](https://techcrunch.com/2025/09/03/apples-siri-upgrade-could-reportedly-be-powered-by-google-gemini/)
 - [xAI’s CFO is the latest executive to leave Elon Musk’s AI firm](https://techcrunch.com/2025/09/03/xais-cfo-is-the-latest-executive-to-leave-elon-musks-ai-firm/)
-- [FirstClub bucks India’s speed obsession, quickly triples valuation to $120M with premium approach](https://techcrunch.com/2025/09/03/firstclub-bucks-indias-speed-obsession-quickly-triples-valuation-to-120m-with-premium-approach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
