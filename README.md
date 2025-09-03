@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Disrupt 2025 finalizes the Builders Stage agenda with top scaling voices](https://techcrunch.com/2025/09/03/techcrunch-disrupt-2025-adds-new-leading-voices-to-the-builders-stage-agenda/)
 - [Advanced geothermal startups are just getting warmed up](https://techcrunch.com/2025/09/03/advanced-geothermal-startups-are-just-getting-warmed-up/)
 - [College social app Fizz expands into grocery delivery](https://techcrunch.com/2025/09/03/college-social-app-fizz-expands-into-grocery-delivery/)
 - [PayPal and Venmo are giving out Comet invites and free Perplexity Pro subscriptions](https://techcrunch.com/2025/09/03/paypal-and-venno-are-now-giving-out-comet-invites/)
 - [Netflix updates its Moments feature to give users greater control over scene clipping](https://techcrunch.com/2025/09/03/netflix-updates-its-moments-feature-to-give-users-greater-control-over-scene-clipping/)
-- [When is the next &#39;blood moon&#39; total lunar eclipse visible from North America?](https://www.space.com/stargazing/lunar-eclipses/when-is-next-blood-moon-total-lunar-eclipse-visible-north-america-march-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
