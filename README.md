@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Roblox expands use of age estimation tech and introduces standardized ratings](https://techcrunch.com/2025/09/03/roblox-expands-use-of-age-estimation-tech-and-introduces-standardized-ratings/)
-- [Netflix CPO Eunice Kim joins TechCrunch Disrupt 2025 to talk scaling product and reimagining entertainment](https://techcrunch.com/2025/09/03/netflix-cpo-eunice-kim-is-coming-to-techcrunch-disrupt-2025-to-talk-tech-tools-and-yes-its-password-sharing-strategy/)
-- [Instagram is finally launching an iPad app](https://techcrunch.com/2025/09/03/instagram-is-finally-launching-an-ipad-app/)
-- [15 years on, real-time strategy games are still chasing the high of &#39;StarCraft 2&#39;](https://www.space.com/entertainment/space-games/15-years-on-real-time-strategy-games-are-still-chasing-the-high-of-starcraft-2)
-- [Venezuela’s president thinks American spies can’t hack Huawei phones](https://techcrunch.com/2025/09/03/venezuelas-president-thinks-american-spies-cant-hack-huawei-phones/)
+- [Pornhub owner pays $5M settlement to FTC over historic failure to block abusive content](https://techcrunch.com/2025/09/03/pornhub-owner-pays-5m-settlement-to-ftc-over-historic-failure-to-block-abusive-content/)
+- [Google brings Material 3 Expressive to Pixel 6 and newer devices, along with other features](https://techcrunch.com/2025/09/03/google-brings-material-3-expressive-to-pixel-6-and-newer-devices-along-with-other-features/)
+- [Israel spy satellite launch sparks &#39;brief panic&#39; as residents mistake rocket for missile: reports](https://www.space.com/space-exploration/launches-spacecraft/israel-spy-satellite-launch-sparks-brief-panic-as-residents-mistake-rocket-for-missile-reports)
+- [Orchard Robotics, founded by a Thiel fellow Cornell dropout, raises $22M for farm vision AI](https://techcrunch.com/2025/09/03/orchard-robotics-founded-by-a-thiel-fellow-cornell-dropout-raises-22m-for-farm-vision-ai/)
+- [Google’s NotebookLM now lets you customize the tone of its AI podcasts](https://techcrunch.com/2025/09/03/googles-notebooklm-now-lets-you-customize-the-tone-of-its-ai-podcasts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
