@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe to bring its video editing app Premiere to iPhones](https://techcrunch.com/2025/09/04/adobe-plans-to-bring-its-video-editing-app-premiere-to-iphones/)
+- [Gravitational waves reveal &#39;stellar graveyard&#39; packed with neutron star and black hole mergers](https://www.space.com/astronomy/gravitational-waves-reveal-stellar-graveyard-packed-with-neutron-star-and-black-hole-mergers)
+- [There&#39;s nothing original about &#39;Strange New Worlds&#39; latest episode, &#39;Terrarium&#39;, but it&#39;s classic &#39;Star Trek&#39;](https://www.space.com/entertainment/space-movies-shows/theres-nothing-original-about-strange-new-worlds-latest-episode-terrarium-but-its-classic-star-trek)
+- [Atlassian to buy Arc developer The Browser Company for $610M](https://techcrunch.com/2025/09/04/atlassian-to-buy-arc-developer-the-browser-company-for-610m/)
 - [DuckDuckGo adds access to advanced models to it subscription plan](https://techcrunch.com/2025/09/04/duckduckgo-adds-access-to-advanced-models-to-it-subscription-plan/)
-- [Butterfly Star flaps its rainbow wings | Space photo of the day for Sept. 4, 2025](https://www.space.com/astronomy/james-webb-space-telescope/butterfly-star-flaps-its-rainbow-wings-space-photo-of-the-day-for-sept-4-2025)
-- [Where to see the blood moon lunar eclipse Sept. 7–8](https://www.space.com/stargazing/lunar-eclipses/where-to-see-the-blood-moon-lunar-eclipse-sept-7-8)
-- [Madrid’s Orbital Paradigm aims to prove a cheaper path to orbital reentry](https://techcrunch.com/2025/09/04/madrids-orbital-paradigm-aims-to-prove-a-cheaper-path-to-orbital-reentry/)
-- [US in real danger of losing the moon race to China, experts tell Senate](https://www.space.com/astronomy/moon/us-in-real-danger-of-losing-the-moon-race-to-china-experts-tell-senate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
