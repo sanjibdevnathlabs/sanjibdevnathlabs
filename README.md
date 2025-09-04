@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DuckDuckGo adds access to advanced models to it subscription plan](https://techcrunch.com/2025/09/04/duckduckgo-adds-access-to-advanced-models-to-it-subscription-plan/)
+- [Butterfly Star flaps its rainbow wings | Space photo of the day for Sept. 4, 2025](https://www.space.com/astronomy/james-webb-space-telescope/butterfly-star-flaps-its-rainbow-wings-space-photo-of-the-day-for-sept-4-2025)
+- [Where to see the blood moon lunar eclipse Sept. 7–8](https://www.space.com/stargazing/lunar-eclipses/where-to-see-the-blood-moon-lunar-eclipse-sept-7-8)
 - [Madrid’s Orbital Paradigm aims to prove a cheaper path to orbital reentry](https://techcrunch.com/2025/09/04/madrids-orbital-paradigm-aims-to-prove-a-cheaper-path-to-orbital-reentry/)
 - [US in real danger of losing the moon race to China, experts tell Senate](https://www.space.com/astronomy/moon/us-in-real-danger-of-losing-the-moon-race-to-china-experts-tell-senate)
-- [Mistral, the French AI giant, is reportedly on the cusp of securing a $14B valuation](https://techcrunch.com/2025/09/03/mistral-the-french-ai-giant-is-reportedly-on-the-cusp-of-securing-a-14-billion-valuation/)
-- [Watch NASA&#39;s Artemis 2 moon astronauts take on the viral &#39;Bobby and Pete&#39; fitness challenge &lpar;video&rpar;](https://www.space.com/space-exploration/artemis/artemis-2-moon-astronauts-take-viral-bobby-and-pete-fitness-challenge-video)
-- [Scale AI is suing a former employee and rival Mercor, alleging they tried to steal its biggest customers](https://techcrunch.com/2025/09/03/scale-ai-is-suing-a-former-employee-and-rival-mercor-alleging-they-tried-to-steal-its-biggest-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
