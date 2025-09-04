@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Foundation&#39; Season 3: Who are the robot-worshipping cult members of The Inheritance?](https://www.space.com/entertainment/space-movies-shows/foundation-season-3-who-are-the-robot-worshipping-cult-members-of-the-inheritance)
+- [Fashion retailers partner to offer personalized AI styling tool ‘Ella’](https://techcrunch.com/2025/09/04/fashion-retailers-partner-to-offer-personalized-ai-styling-tool-ella/)
+- [X’s encrypted DM feature, XChat, is rolling out more broadly](https://techcrunch.com/2025/09/04/xs-encrypted-dm-feature-xchat-is-rolling-out-more-broadly/)
+- [OpenAI announces AI-powered hiring platform to take on LinkedIn](https://techcrunch.com/2025/09/04/openai-announces-ai-powered-hiring-platform-to-take-on-linkedin/)
 - [Nepal blocks Facebook, Instagram, YouTube, X over rule breach, amid censorship concerns](https://techcrunch.com/2025/09/04/nepal-blocks-facebook-instagram-youtube-x-over-rule-breach-amid-censorship-concerns/)
-- [Moon-to-Mars veteran Amit Kshatriya named NASA associate administrator](https://www.space.com/space-exploration/moon-to-mars-veteran-amit-kshatriya-named-nasa-associate-administrator)
-- [Waymo cleared to offer robotaxi rides at San Jose airport](https://techcrunch.com/2025/09/04/waymo-cleared-to-offer-robotaxi-rides-at-san-jose-airport/)
-- [Huge chunks of ancient cosmic objects may be stuck inside Mars](https://www.space.com/astronomy/mars/nasa-insight-lander-data-reveals-chunky-mars-interior)
-- [Sequoia’s Roelof Botha joins TechCrunch Disrupt 2025 for a 20th anniversary conversation on the future of venture](https://techcrunch.com/2025/09/04/roelof-botha-the-head-of-sequoia-capital-is-coming-to-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
