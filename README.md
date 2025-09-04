@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads challenges X by offering free support for up to 10K characters, plus prominent links](https://techcrunch.com/2025/09/04/3042352/)
+- [The interstellar comet 3I/ATLAS is wrapped in carbon dioxide fog, NASA space telescope reveals](https://www.space.com/astronomy/comets/spherex-spots-carbon-dioxide-coma-around-comet-3i-atlas)
+- [GE Aerospace to invest $300M in Beta Technologies, pair up on hybrid-electric power](https://techcrunch.com/2025/09/04/ge-aerospace-to-invest-300m-in-beta-technologies-pair-up-on-hybrid-electric-power/)
 - [Google Photos upgrades its image-to-video feature with Veo 3](https://techcrunch.com/2025/09/04/google-photos-adds-ai-video-generation-with-veo-3/)
 - [&#39;Invasion&#39; star Shamier Anderson says he&#39;s &#39;out of here&#39; if aliens do actually invade &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/invasion-star-shamier-anderson-says-hes-out-of-here-if-aliens-do-actually-invade-exclusive)
-- [Cloud provider Lambda may be gearing up for an IPO](https://techcrunch.com/2025/09/04/cloud-provider-lambda-may-be-gearing-up-for-an-ipo/)
-- [Captions rebrands as Mirage, expands beyond creator tools to AI video research](https://techcrunch.com/2025/09/04/captions-rebrands-as-mirage-expands-beyond-creator-tools-to-ai-video-research/)
-- [Mark Zuckerberg encouraged execs to do MMA training with him](https://techcrunch.com/2025/09/04/mark-zuckerberg-encouraged-execs-to-do-mma-training-with-him/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
