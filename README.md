@@ -134,7 +134,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Google gets hilarious monopoly punishment…](https://www.youtube.com/watch?v=XGmZFNG-qQQ)
+- [Google won at Monopoly...](https://www.youtube.com/watch?v=XGmZFNG-qQQ)
 - [Learn Docker in 2025 - Complete Roadmap Beginner to Pro](https://www.youtube.com/watch?v=zFa9_K8BS8I)
 - [Lecture 11: Extreme and Intermediate Value Theorem; Metric Spaces](https://www.youtube.com/watch?v=bhBQbi9sWFA)
 - [Lecture 18: Integrable Functions](https://www.youtube.com/watch?v=9rG-bs0TFQ8)
