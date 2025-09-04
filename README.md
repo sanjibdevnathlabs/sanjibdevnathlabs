@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Huge chunks of ancient cosmic objects may be stuck inside Mars](https://www.space.com/astronomy/mars/nasa-insight-lander-data-reveals-chunky-mars-interior)
+- [Sequoia’s Roelof Botha joins TechCrunch Disrupt 2025 for a 20th anniversary conversation on the future of venture](https://techcrunch.com/2025/09/04/roelof-botha-the-head-of-sequoia-capital-is-coming-to-techcrunch-disrupt-2025/)
+- [iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event](https://techcrunch.com/2025/09/04/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/)
 - [Threads challenges X by offering free support for up to 10K characters, plus prominent links](https://techcrunch.com/2025/09/04/3042352/)
 - [The interstellar comet 3I/ATLAS is wrapped in carbon dioxide fog, NASA space telescope reveals](https://www.space.com/astronomy/comets/spherex-spots-carbon-dioxide-coma-around-comet-3i-atlas)
-- [GE Aerospace to invest $300M in Beta Technologies, pair up on hybrid-electric power](https://techcrunch.com/2025/09/04/ge-aerospace-to-invest-300m-in-beta-technologies-pair-up-on-hybrid-electric-power/)
-- [Google Photos upgrades its image-to-video feature with Veo 3](https://techcrunch.com/2025/09/04/google-photos-adds-ai-video-generation-with-veo-3/)
-- [&#39;Invasion&#39; star Shamier Anderson says he&#39;s &#39;out of here&#39; if aliens do actually invade &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/invasion-star-shamier-anderson-says-hes-out-of-here-if-aliens-do-actually-invade-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
