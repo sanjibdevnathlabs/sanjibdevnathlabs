@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Learn Docker in 2025 - Complete Roadmap Beginner to Pro](https://www.youtube.com/watch?v=zFa9_K8BS8I)
 - [Lecture 11: Extreme and Intermediate Value Theorem; Metric Spaces](https://www.youtube.com/watch?v=bhBQbi9sWFA)
 - [Lecture 18: Integrable Functions](https://www.youtube.com/watch?v=9rG-bs0TFQ8)
 - [Lecture 23: Existence &amp; Uniqueness for ODEs: Picard–Lindelöf Theorem](https://www.youtube.com/watch?v=fsbVJxOhRcU)
 - [Lecture 8: Convergence Tests for Series; Power Series](https://www.youtube.com/watch?v=lEMeyFq4-zQ)
-- [Lecture 9: Limsup and Liminf; Power Series; Continuous Functions; Exponential Function](https://www.youtube.com/watch?v=MjRb8R33Ucc)
 <!-- YOUTUBE:END -->
 
 ---
