@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JetBlue will use Amazon’s Project Kuiper satellites for free in-flight internet](https://techcrunch.com/2025/09/04/jetblue-will-use-amazons-project-kuiper-satellites-for-free-in-flight-internet/)
+- [SpaceX Dragon cargo capsule boosts ISS higher above Earth in key test](https://www.space.com/space-exploration/international-space-station/spacex-dragon-cargo-capsule-boosts-iss-higher-above-earth-in-key-test)
+- [Google’s Circle to Search can now translate as you scroll](https://techcrunch.com/2025/09/04/googles-circle-to-search-can-now-translate-as-you-scroll/)
 - [Only 2 days left to claim your exhibitor spot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/04/only-2-days-left-to-claim-your-exhibitor-spot-at-techcrunch-disrupt-2025/)
 - [Most solar eclipse maps have a major flaw. Here&#39;s how to ensure you&#39;re really in the path of totality](https://www.space.com/astronomy/sun/most-solar-eclipse-maps-have-a-major-flaw-heres-how-to-ensure-youre-really-in-the-path-of-totality)
-- [Adobe to bring its video editing app Premiere to iPhones](https://techcrunch.com/2025/09/04/adobe-plans-to-bring-its-video-editing-app-premiere-to-iphones/)
-- [Gravitational waves reveal &#39;stellar graveyard&#39; packed with neutron star and black hole mergers](https://www.space.com/astronomy/gravitational-waves-reveal-stellar-graveyard-packed-with-neutron-star-and-black-hole-mergers)
-- [There&#39;s nothing original about &#39;Strange New Worlds&#39; latest episode, &#39;Terrarium&#39;, but it&#39;s classic &#39;Star Trek&#39;](https://www.space.com/entertainment/space-movies-shows/theres-nothing-original-about-strange-new-worlds-latest-episode-terrarium-but-its-classic-star-trek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
