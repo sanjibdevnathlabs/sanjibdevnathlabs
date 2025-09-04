@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nepal blocks Facebook, Instagram, YouTube, X over rule breach, amid censorship concerns](https://techcrunch.com/2025/09/04/nepal-blocks-facebook-instagram-youtube-x-over-rule-breach-amid-censorship-concerns/)
+- [Moon-to-Mars veteran Amit Kshatriya named NASA associate administrator](https://www.space.com/space-exploration/moon-to-mars-veteran-amit-kshatriya-named-nasa-associate-administrator)
+- [Waymo cleared to offer robotaxi rides at San Jose airport](https://techcrunch.com/2025/09/04/waymo-cleared-to-offer-robotaxi-rides-at-san-jose-airport/)
 - [Huge chunks of ancient cosmic objects may be stuck inside Mars](https://www.space.com/astronomy/mars/nasa-insight-lander-data-reveals-chunky-mars-interior)
 - [Sequoia’s Roelof Botha joins TechCrunch Disrupt 2025 for a 20th anniversary conversation on the future of venture](https://techcrunch.com/2025/09/04/roelof-botha-the-head-of-sequoia-capital-is-coming-to-techcrunch-disrupt-2025/)
-- [iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event](https://techcrunch.com/2025/09/04/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/)
-- [Threads challenges X by offering free support for up to 10K characters, plus prominent links](https://techcrunch.com/2025/09/04/3042352/)
-- [The interstellar comet 3I/ATLAS is wrapped in carbon dioxide fog, NASA space telescope reveals](https://www.space.com/astronomy/comets/spherex-spots-carbon-dioxide-coma-around-comet-3i-atlas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
