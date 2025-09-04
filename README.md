@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stripe enlists a who’s who, including Anthropic, OpenAI, and Paradigm, to build a new blockchain](https://techcrunch.com/2025/09/04/stripe-enlists-a-whos-who-including-anthropic-openai-and-paradigm-to-build-a-new-blockchain/)
+- [Mark Zuckerberg sues Mark Zuckerberg](https://techcrunch.com/2025/09/04/mark-zuckerberg-sues-mark-zuckerberg/)
+- [TED leader’s $300M ‘valley of death’ fund might be just what later-stage climate tech needs](https://techcrunch.com/2025/09/04/ted-leaders-300m-valley-of-death-fund-might-be-just-what-later-stage-climate-tech-needs/)
 - [&#39;Foundation&#39; Season 3: Who are the robot-worshipping cult members of The Inheritance?](https://www.space.com/entertainment/space-movies-shows/foundation-season-3-who-are-the-robot-worshipping-cult-members-of-the-inheritance)
 - [Fashion retailers partner to offer personalized AI styling tool ‘Ella’](https://techcrunch.com/2025/09/04/fashion-retailers-partner-to-offer-personalized-ai-styling-tool-ella/)
-- [X’s encrypted DM feature, XChat, is rolling out more broadly](https://techcrunch.com/2025/09/04/xs-encrypted-dm-feature-xchat-is-rolling-out-more-broadly/)
-- [OpenAI announces AI-powered hiring platform to take on LinkedIn](https://techcrunch.com/2025/09/04/openai-announces-ai-powered-hiring-platform-to-take-on-linkedin/)
-- [Nepal blocks Facebook, Instagram, YouTube, X over rule breach, amid censorship concerns](https://techcrunch.com/2025/09/04/nepal-blocks-facebook-instagram-youtube-x-over-rule-breach-amid-censorship-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
