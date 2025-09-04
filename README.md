@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook is trying to make ‘pokes’ happen again](https://techcrunch.com/2025/09/04/facebook-is-trying-to-make-pokes-happen-again/)
 - [Stripe enlists a who’s who, including Anthropic, OpenAI, and Paradigm, to build a new blockchain](https://techcrunch.com/2025/09/04/stripe-enlists-a-whos-who-including-anthropic-openai-and-paradigm-to-build-a-new-blockchain/)
 - [Mark Zuckerberg sues Mark Zuckerberg](https://techcrunch.com/2025/09/04/mark-zuckerberg-sues-mark-zuckerberg/)
 - [TED leader’s $300M ‘valley of death’ fund might be just what later-stage climate tech needs](https://techcrunch.com/2025/09/04/ted-leaders-300m-valley-of-death-fund-might-be-just-what-later-stage-climate-tech-needs/)
 - [&#39;Foundation&#39; Season 3: Who are the robot-worshipping cult members of The Inheritance?](https://www.space.com/entertainment/space-movies-shows/foundation-season-3-who-are-the-robot-worshipping-cult-members-of-the-inheritance)
-- [Fashion retailers partner to offer personalized AI styling tool ‘Ella’](https://techcrunch.com/2025/09/04/fashion-retailers-partner-to-offer-personalized-ai-styling-tool-ella/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
