@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Only 2 days left to claim your exhibitor spot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/04/only-2-days-left-to-claim-your-exhibitor-spot-at-techcrunch-disrupt-2025/)
+- [Most solar eclipse maps have a major flaw. Here&#39;s how to ensure you&#39;re really in the path of totality](https://www.space.com/astronomy/sun/most-solar-eclipse-maps-have-a-major-flaw-heres-how-to-ensure-youre-really-in-the-path-of-totality)
 - [Adobe to bring its video editing app Premiere to iPhones](https://techcrunch.com/2025/09/04/adobe-plans-to-bring-its-video-editing-app-premiere-to-iphones/)
 - [Gravitational waves reveal &#39;stellar graveyard&#39; packed with neutron star and black hole mergers](https://www.space.com/astronomy/gravitational-waves-reveal-stellar-graveyard-packed-with-neutron-star-and-black-hole-mergers)
 - [There&#39;s nothing original about &#39;Strange New Worlds&#39; latest episode, &#39;Terrarium&#39;, but it&#39;s classic &#39;Star Trek&#39;](https://www.space.com/entertainment/space-movies-shows/theres-nothing-original-about-strange-new-worlds-latest-episode-terrarium-but-its-classic-star-trek)
-- [Atlassian to buy Arc developer The Browser Company for $610M](https://techcrunch.com/2025/09/04/atlassian-to-buy-arc-developer-the-browser-company-for-610m/)
-- [DuckDuckGo adds access to advanced models to it subscription plan](https://techcrunch.com/2025/09/04/duckduckgo-adds-access-to-advanced-models-to-it-subscription-plan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
