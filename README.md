@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [JetBlue will use Amazon’s Project Kuiper satellites for free in-flight internet](https://techcrunch.com/2025/09/04/jetblue-will-use-amazons-project-kuiper-satellites-for-free-in-flight-internet/)
-- [SpaceX Dragon cargo capsule boosts ISS higher above Earth in key test](https://www.space.com/space-exploration/international-space-station/spacex-dragon-cargo-capsule-boosts-iss-higher-above-earth-in-key-test)
-- [Google’s Circle to Search can now translate as you scroll](https://techcrunch.com/2025/09/04/googles-circle-to-search-can-now-translate-as-you-scroll/)
-- [Only 2 days left to claim your exhibitor spot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/04/only-2-days-left-to-claim-your-exhibitor-spot-at-techcrunch-disrupt-2025/)
-- [Most solar eclipse maps have a major flaw. Here&#39;s how to ensure you&#39;re really in the path of totality](https://www.space.com/astronomy/sun/most-solar-eclipse-maps-have-a-major-flaw-heres-how-to-ensure-youre-really-in-the-path-of-totality)
+- [Google Photos upgrades its image-to-video feature with Veo 3](https://techcrunch.com/2025/09/04/google-photos-adds-ai-video-generation-with-veo-3/)
+- [&#39;Invasion&#39; star Shamier Anderson says he&#39;s &#39;out of here&#39; if aliens do actually invade &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/invasion-star-shamier-anderson-says-hes-out-of-here-if-aliens-do-actually-invade-exclusive)
+- [Cloud provider Lambda may be gearing up for an IPO](https://techcrunch.com/2025/09/04/cloud-provider-lambda-may-be-gearing-up-for-an-ipo/)
+- [Captions rebrands as Mirage, expands beyond creator tools to AI video research](https://techcrunch.com/2025/09/04/captions-rebrands-as-mirage-expands-beyond-creator-tools-to-ai-video-research/)
+- [Mark Zuckerberg encouraged execs to do MMA training with him](https://techcrunch.com/2025/09/04/mark-zuckerberg-encouraged-execs-to-do-mma-training-with-him/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
