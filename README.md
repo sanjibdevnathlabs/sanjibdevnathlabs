@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Today is your last chance to exhibit your brand in front of 10K tech leaders at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/05/today-is-your-last-chance-to-exhibit-your-brand-in-front-of-10k-tech-leaders-at-techcrunch-disrupt-2025/)
-- [Triple star system burns bright in new image from the James Webb Space Telescope](https://www.space.com/astronomy/james-webb-space-telescope/triple-star-system-burns-bright-in-new-image-from-the-james-webb-space-telescope)
-- [NASA Perseverance rover spies a &#39;turtle&#39; on Mars | Space photo of the day for Sept. 5, 2025](https://www.space.com/astronomy/mars/nasa-perseverance-rover-spies-a-turtle-on-mars-space-photo-of-the-day-for-sept-5-2025)
-- [SpaceX Falcon 9 launch from Florida sends 28 Starlink satellites into Earth orbit &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-57-b1069-ksc-jrti)
-- [Snapchat’s new Lens lets you create AI images using text prompts](https://techcrunch.com/2025/09/05/snapchats-new-lens-lets-you-create-ai-images-using-text-prompts/)
+- [Scale AI’s former CTO launches AI agent that could solve big data’s biggest problem](https://techcrunch.com/2025/09/05/scale-ais-former-cto-launches-ai-agent-that-could-solve-big-datas-biggest-problem/)
+- [Watch the blood moon total lunar eclipse on Sept. 7 with these free livestreams &lpar;video&rpar;](https://www.space.com/stargazing/lunar-eclipses/how-to-watch-blood-moon-total-lunar-eclipse-online-livestream-sept-7-2025)
+- [OpenAI hires the team behind Xcode coding assistant Alex Codes](https://techcrunch.com/2025/09/05/openai-hires-the-team-behind-xcode-coding-assistant-alex-codes/)
+- [The blueprint for lasting companies and communities with Discord’s Jason Citron and Campuswire’s Tade Oyerinde at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/05/creating-communities-and-companies-that-last-with-discords-founder-jason-citron-and-campuswires-tade-oyerinde-only-at-techcrunch-disrupt-2025/)
+- [Tesla shareholders to vote on investing in Musk’s AI startup xAI](https://techcrunch.com/2025/09/05/tesla-shareholders-to-vote-on-investing-in-musks-ai-startup-xai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
