@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snapchat’s new Lens lets you create AI images using text prompts](https://techcrunch.com/2025/09/05/snapchats-new-lens-lets-you-create-ai-images-using-text-prompts/)
+- [What time is the blood moon total lunar eclipse on Sept. 7-8?](https://www.space.com/stargazing/lunar-eclipses/what-time-is-the-blood-moon-total-lunar-eclipse-on-sept-7-8-2026)
+- [Tesla proposes new pay package for Elon Musk worth up to $1T](https://techcrunch.com/2025/09/05/tesla-proposes-new-pay-package-for-elon-musk-worth-up-to-1t/)
 - [&#39;The turtles and the nudists will have to migrate&#39;: SpaceX plan for Starship launches from Florida sparks debate among Space Coast residents](https://www.space.com/space-exploration/human-spaceflight/the-turtles-and-the-nudists-will-have-to-migrate-spacex-plan-for-starship-launches-from-florida-sparks-debate-among-space-coast-residents)
 - [Bret Taylor’s Sierra raises $350M at a $10B valuation](https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/)
-- [Rivian makes its second small workforce cut of the year ahead of R2 SUV launch](https://techcrunch.com/2025/09/04/rivian-makes-its-second-small-workforce-cut-of-the-year-ahead-of-r2-suv-launch/)
-- [Facebook is trying to make ‘pokes’ happen again](https://techcrunch.com/2025/09/04/facebook-is-trying-to-make-pokes-happen-again/)
-- [Stripe enlists a who’s who, including Anthropic, OpenAI, and Paradigm, to build a new blockchain](https://techcrunch.com/2025/09/04/stripe-enlists-a-whos-who-including-anthropic-openai-and-paradigm-to-build-a-new-blockchain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
