@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space Force&#39;s X-37B space plane is testing &#39;Zylon&#39; material to help crew and cargo land on Mars](https://www.space.com/technology/space-forces-x-37b-space-plane-is-testing-zylon-material-to-help-crew-and-cargo-land-on-mars)
+- [Personalized AI companion app Dot is shutting down](https://techcrunch.com/2025/09/05/personalized-ai-companion-app-dot-is-shutting-down/)
+- [Attorneys general warn OpenAI ‘harm to children will not be tolerated’](https://techcrunch.com/2025/09/05/attorneys-general-warn-openai-harm-to-children-will-not-be-tolerated/)
 - [Google Gemini dubbed ‘high risk’ for kids and teens in new safety assessment](https://techcrunch.com/2025/09/05/google-gemini-dubbed-high-risk-for-kids-and-teens-in-new-safety-assessment/)
 - [This fully operational 9,000-piece Lego Star Wars Death Star is the most expensive Lego set so far](https://www.space.com/entertainment/space-toys-lego/this-fully-operational-9-000-piece-lego-star-wars-death-star-is-the-most-expensive-lego-set-so-far)
-- [Cutting through the equity noise: Don’t miss this powerhouse panel at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/05/startup-hiring-isnt-just-about-the-pitch-its-about-the-package-pulley-645-ventures-and-epigram-legal-break-it-down-at-techcrunch-disrupt-2025/)
-- [A timeline of the US semiconductor market in 2025](https://techcrunch.com/2025/09/05/a-timeline-of-the-u-s-semiconductor-market-in-2025/)
-- [Baby &#39;failed star&#39; has unusually rich planet-forming disk, James Webb Space Telescope finds](https://www.space.com/astronomy/james-webb-space-telescope/baby-failed-star-has-unusually-rich-planet-forming-disk-james-webb-space-telescope-finds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
