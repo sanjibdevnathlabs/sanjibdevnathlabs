@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [X is now offering me end-to-end encrypted chat. You probably shouldn’t trust it yet.](https://techcrunch.com/2025/09/05/x-is-now-offering-me-end-to-end-encrypted-chat-you-probably-shouldnt-trust-it-yet/)
-- [How the James Webb, Euclid and Roman space telescopes could team up to hunt supermassive black holes from the dawn of time](https://www.space.com/astronomy/how-the-james-webb-euclid-and-roman-space-telescopes-could-team-up-to-hunt-supermassive-black-holes-from-the-dawn-of-time)
-- [Scientists capture interstellar invader comet 3I/ATLAS growing a tail: &#39;This image is both a scientific milestone and a source of wonder&#39; &lpar;photo, video&rpar;](https://www.space.com/astronomy/scientists-capture-interstellar-invader-comet-3i-atlas-growing-a-tail-this-image-is-both-a-scientific-milestone-and-a-source-of-wonder-photo-video)
-- [Paramount Plus, the home of all Star Trek content, is 50% off in a limited-time deal](https://www.space.com/entertainment/paramount-plus-the-home-of-all-star-trek-content-is-50-off-in-a-limited-time-deal)
-- [Scale AI’s former CTO launches AI agent that could solve big data’s biggest problem](https://techcrunch.com/2025/09/05/scale-ais-former-cto-launches-ai-agent-that-could-solve-big-datas-biggest-problem/)
+- [Tesla’s ad spend on X has shrunk to almost nothing](https://techcrunch.com/2025/09/05/teslas-ad-spend-on-x-has-shrunk-to-almost-nothing/)
+- [A new particle detector is ready to probe &#39;ashes&#39; of the Big Bang after passing its &#39;standard candle&#39; test](https://www.space.com/astronomy/a-new-particle-detector-is-ready-to-probe-ashes-of-the-big-bang-after-passing-its-standard-candle-test)
+- [Warner Bros. sues Midjourney for AI images of Superman, Batman, and other characters](https://techcrunch.com/2025/09/05/warner-bros-sues-midjourney-for-ai-images-of-superman-batman-and-other-characters/)
+- [Natron’s liquidation shows why the US isn’t ready to make its own batteries](https://techcrunch.com/2025/09/05/natrons-liquidation-shows-why-the-us-isnt-ready-to-make-its-own-batteries/)
+- [X is now offering me end-to-end encrypted chat — you probably shouldn’t trust it yet](https://techcrunch.com/2025/09/05/x-is-now-offering-me-end-to-end-encrypted-chat-you-probably-shouldnt-trust-it-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
