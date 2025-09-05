@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sorry, Starlink: JetBlue becomes 1st airline to pick Amazon&#39;s Project Kuiper satellites for in-flight Wi-Fi](https://www.space.com/space-exploration/launches-spacecraft/sorry-starlink-jetblue-becomes-1st-airline-to-pick-amazons-project-kuiper-satellites-for-in-flight-wi-fi)
+- [Screw the money — Anthropic’s $1.5B copyright settlement sucks for writers](https://techcrunch.com/2025/09/05/screw-the-money-anthropics-1-5b-copyright-settlement-sucks-for-writers/)
+- [Astronauts get a welcome boost from a SpaceX Dragon | On the International Space Station Sept. 1-5, 2025](https://www.space.com/space-exploration/international-space-station/astronauts-get-a-welcome-boost-from-a-spacex-dragon-on-the-international-space-station-sept-1-5-2025)
 - [Space Force&#39;s X-37B space plane is testing &#39;Zylon&#39; material to help crew and cargo land on Mars](https://www.space.com/technology/space-forces-x-37b-space-plane-is-testing-zylon-material-to-help-crew-and-cargo-land-on-mars)
 - [Personalized AI companion app Dot is shutting down](https://techcrunch.com/2025/09/05/personalized-ai-companion-app-dot-is-shutting-down/)
-- [Attorneys general warn OpenAI ‘harm to children will not be tolerated’](https://techcrunch.com/2025/09/05/attorneys-general-warn-openai-harm-to-children-will-not-be-tolerated/)
-- [Google Gemini dubbed ‘high risk’ for kids and teens in new safety assessment](https://techcrunch.com/2025/09/05/google-gemini-dubbed-high-risk-for-kids-and-teens-in-new-safety-assessment/)
-- [This fully operational 9,000-piece Lego Star Wars Death Star is the most expensive Lego set so far](https://www.space.com/entertainment/space-toys-lego/this-fully-operational-9-000-piece-lego-star-wars-death-star-is-the-most-expensive-lego-set-so-far)
 <!-- BLOG-POST-LIST:END -->
 
 ---
