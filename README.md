@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Gemini dubbed ‘high risk’ for kids and teens in new safety assessment](https://techcrunch.com/2025/09/05/google-gemini-dubbed-high-risk-for-kids-and-teens-in-new-safety-assessment/)
+- [This fully operational 9,000-piece Lego Star Wars Death Star is the most expensive Lego set so far](https://www.space.com/entertainment/space-toys-lego/this-fully-operational-9-000-piece-lego-star-wars-death-star-is-the-most-expensive-lego-set-so-far)
+- [Cutting through the equity noise: Don’t miss this powerhouse panel at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/05/startup-hiring-isnt-just-about-the-pitch-its-about-the-package-pulley-645-ventures-and-epigram-legal-break-it-down-at-techcrunch-disrupt-2025/)
+- [A timeline of the US semiconductor market in 2025](https://techcrunch.com/2025/09/05/a-timeline-of-the-u-s-semiconductor-market-in-2025/)
 - [Baby &#39;failed star&#39; has unusually rich planet-forming disk, James Webb Space Telescope finds](https://www.space.com/astronomy/james-webb-space-telescope/baby-failed-star-has-unusually-rich-planet-forming-disk-james-webb-space-telescope-finds)
-- [Roblox announces short-form video feed for gameplay clips, new AI tools for creators, and more](https://techcrunch.com/2025/09/05/roblox-announces-short-form-video-feed-for-gameplay-clips-new-ai-tools-for-creators-and-more/)
-- [James Gunn casually announces new Superman movie title and release date on Instagram](https://www.space.com/entertainment/space-movies-shows/james-gunn-casually-announces-new-superman-movie-title-and-release-date-on-instagram)
-- [Tesla’s ad spend on X has shrunk to almost nothing](https://techcrunch.com/2025/09/05/teslas-ad-spend-on-x-has-shrunk-to-almost-nothing/)
-- [A new particle detector is ready to probe &#39;ashes&#39; of the Big Bang after passing its &#39;standard candle&#39; test](https://www.space.com/astronomy/a-new-particle-detector-is-ready-to-probe-ashes-of-the-big-bang-after-passing-its-standard-candle-test)
 <!-- BLOG-POST-LIST:END -->
 
 ---
