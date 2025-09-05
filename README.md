@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;The turtles and the nudists will have to migrate&#39;: SpaceX plan for Starship launches from Florida sparks debate among Space Coast residents](https://www.space.com/space-exploration/human-spaceflight/the-turtles-and-the-nudists-will-have-to-migrate-spacex-plan-for-starship-launches-from-florida-sparks-debate-among-space-coast-residents)
 - [Bret Taylor’s Sierra raises $350M at a $10B valuation](https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/)
 - [Rivian makes its second small workforce cut of the year ahead of R2 SUV launch](https://techcrunch.com/2025/09/04/rivian-makes-its-second-small-workforce-cut-of-the-year-ahead-of-r2-suv-launch/)
 - [Facebook is trying to make ‘pokes’ happen again](https://techcrunch.com/2025/09/04/facebook-is-trying-to-make-pokes-happen-again/)
 - [Stripe enlists a who’s who, including Anthropic, OpenAI, and Paradigm, to build a new blockchain](https://techcrunch.com/2025/09/04/stripe-enlists-a-whos-who-including-anthropic-openai-and-paradigm-to-build-a-new-blockchain/)
-- [Mark Zuckerberg sues Mark Zuckerberg](https://techcrunch.com/2025/09/04/mark-zuckerberg-sues-mark-zuckerberg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
