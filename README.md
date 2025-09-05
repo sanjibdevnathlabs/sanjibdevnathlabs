@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Baby &#39;failed star&#39; has unusually rich planet-forming disk, James Webb Space Telescope finds](https://www.space.com/astronomy/james-webb-space-telescope/baby-failed-star-has-unusually-rich-planet-forming-disk-james-webb-space-telescope-finds)
+- [Roblox announces short-form video feed for gameplay clips, new AI tools for creators, and more](https://techcrunch.com/2025/09/05/roblox-announces-short-form-video-feed-for-gameplay-clips-new-ai-tools-for-creators-and-more/)
+- [James Gunn casually announces new Superman movie title and release date on Instagram](https://www.space.com/entertainment/space-movies-shows/james-gunn-casually-announces-new-superman-movie-title-and-release-date-on-instagram)
 - [Tesla’s ad spend on X has shrunk to almost nothing](https://techcrunch.com/2025/09/05/teslas-ad-spend-on-x-has-shrunk-to-almost-nothing/)
 - [A new particle detector is ready to probe &#39;ashes&#39; of the Big Bang after passing its &#39;standard candle&#39; test](https://www.space.com/astronomy/a-new-particle-detector-is-ready-to-probe-ashes-of-the-big-bang-after-passing-its-standard-candle-test)
-- [Warner Bros. sues Midjourney for AI images of Superman, Batman, and other characters](https://techcrunch.com/2025/09/05/warner-bros-sues-midjourney-for-ai-images-of-superman-batman-and-other-characters/)
-- [Natron’s liquidation shows why the US isn’t ready to make its own batteries](https://techcrunch.com/2025/09/05/natrons-liquidation-shows-why-the-us-isnt-ready-to-make-its-own-batteries/)
-- [X is now offering me end-to-end encrypted chat — you probably shouldn’t trust it yet](https://techcrunch.com/2025/09/05/x-is-now-offering-me-end-to-end-encrypted-chat-you-probably-shouldnt-trust-it-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
