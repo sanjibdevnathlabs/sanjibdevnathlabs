@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How Generative AI Video Works - Computerphile](https://www.youtube.com/watch?v=hJHfZKYUKMw)
 - [Google won at Monopoly...](https://www.youtube.com/watch?v=XGmZFNG-qQQ)
 - [Learn Docker in 2025 - Complete Roadmap Beginner to Pro](https://www.youtube.com/watch?v=zFa9_K8BS8I)
 - [Lecture 11: Extreme and Intermediate Value Theorem; Metric Spaces](https://www.youtube.com/watch?v=bhBQbi9sWFA)
 - [Lecture 18: Integrable Functions](https://www.youtube.com/watch?v=9rG-bs0TFQ8)
-- [Lecture 23: Existence &amp; Uniqueness for ODEs: Picard–Lindelöf Theorem](https://www.youtube.com/watch?v=fsbVJxOhRcU)
 <!-- YOUTUBE:END -->
 
 ---
