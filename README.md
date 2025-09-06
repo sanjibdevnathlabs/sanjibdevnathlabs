@@ -146,7 +146,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX launches 24 Starlink satellites from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-9-b1075-vsfb-ocisly)
+- [SpaceX launches 24 Starlink satellites from California &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-9-b1075-vsfb-ocisly)
 - [EU fines Google $3.5B over adtech ‘abuse’](https://techcrunch.com/2025/09/06/eu-fines-google-3-5b-over-adtech-abuse/)
 - [The growing debate over expanding age verification laws](https://techcrunch.com/2025/09/06/wtf-is-going-on-with-age-verification-laws/)
 - [Earth-size stars and alien oceans – an astronomer explains the case for life around white dwarfs](https://www.space.com/astronomy/stars/earth-size-stars-and-alien-oceans-an-astronomer-explains-the-case-for-life-around-white-dwarfs)
