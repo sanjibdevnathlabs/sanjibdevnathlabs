@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What to expect during the &#39;blood moon&#39; total lunar eclipse on Sept. 7-8](https://www.space.com/stargazing/lunar-eclipses/what-to-expect-blood-moon-total-lunar-eclipse-sept-7-2025)
 - [Astrophotographer captures the gaping maw of a cosmic shark in stunning deep space image &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/astrophotographer-captures-gaping-maw-of-cosmic-shark-stunning-deep-space-photo-2025)
 - [OpenAI reorganizes research team behind ChatGPT’s personality](https://techcrunch.com/2025/09/05/openai-reorganizes-research-team-behind-chatgpts-personality/)
 - [China shows off advanced hypersonic missiles, ICBMs and drones in military parade &lpar;photos&rpar;](https://www.space.com/technology/china-shows-off-advanced-hypersonic-missiles-icbms-and-drones-in-military-parade-photos)
 - [Sorry, Starlink: JetBlue becomes 1st airline to pick Amazon&#39;s Project Kuiper satellites for in-flight Wi-Fi](https://www.space.com/space-exploration/launches-spacecraft/sorry-starlink-jetblue-becomes-1st-airline-to-pick-amazons-project-kuiper-satellites-for-in-flight-wi-fi)
-- [Screw the money — Anthropic’s $1.5B copyright settlement sucks for writers](https://techcrunch.com/2025/09/05/screw-the-money-anthropics-1-5b-copyright-settlement-sucks-for-writers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
