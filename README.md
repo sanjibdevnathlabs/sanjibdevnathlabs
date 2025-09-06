@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is an Amazon-backed AI startup making Orson Welles fan fiction?](https://techcrunch.com/2025/09/06/why-is-an-amazon-backed-ai-startup-making-orson-welles-fan-fiction/)
 - [SpaceX launches 24 Starlink satellites from California &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-9-b1075-vsfb-ocisly)
 - [EU fines Google $3.5B over adtech ‘abuse’](https://techcrunch.com/2025/09/06/eu-fines-google-3-5b-over-adtech-abuse/)
 - [The growing debate over expanding age verification laws](https://techcrunch.com/2025/09/06/wtf-is-going-on-with-age-verification-laws/)
 - [Earth-size stars and alien oceans – an astronomer explains the case for life around white dwarfs](https://www.space.com/astronomy/stars/earth-size-stars-and-alien-oceans-an-astronomer-explains-the-case-for-life-around-white-dwarfs)
-- [Musk’s $1T pay package is full of watered-down versions of his own broken promises](https://techcrunch.com/2025/09/06/musks-1t-pay-package-is-full-of-watered-down-versions-of-his-own-broken-promises/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
