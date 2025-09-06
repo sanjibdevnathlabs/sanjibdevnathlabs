@@ -146,7 +146,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [WTF is going on with age verification laws?](https://techcrunch.com/2025/09/06/wtf-is-going-on-with-age-verification-laws/)
+- [Earth-size stars and alien oceans – an astronomer explains the case for life around white dwarfs](https://www.space.com/astronomy/stars/earth-size-stars-and-alien-oceans-an-astronomer-explains-the-case-for-life-around-white-dwarfs)
 - [Musk’s $1T pay package is full of watered-down versions of his own broken promises](https://techcrunch.com/2025/09/06/musks-1t-pay-package-is-full-of-watered-down-versions-of-his-own-broken-promises/)
 - [Don’t get burned! The ultimate sun quiz](https://www.space.com/astronomy/sun/dont-get-burned-the-ultimate-sun-quiz)
 - [This Week In Space podcast: Episode 176 — Beyond the Solar System](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-176-beyond-the-solar-system)
