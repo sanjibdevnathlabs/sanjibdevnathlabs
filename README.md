@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WTF is going on with age verification laws?](https://techcrunch.com/2025/09/06/wtf-is-going-on-with-age-verification-laws/)
+- [Musk’s $1T pay package is full of watered-down versions of his own broken promises](https://techcrunch.com/2025/09/06/musks-1t-pay-package-is-full-of-watered-down-versions-of-his-own-broken-promises/)
+- [Don’t get burned! The ultimate sun quiz](https://www.space.com/astronomy/sun/dont-get-burned-the-ultimate-sun-quiz)
+- [This Week In Space podcast: Episode 176 — Beyond the Solar System](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-176-beyond-the-solar-system)
 - [&quot;Finding the fun was always our guiding star&quot;: How &#39;Starfield&#39; developers balanced realism with arcade fun when approaching space combat &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-games/finding-the-fun-was-always-our-guiding-star-how-starfield-developers-balanced-realism-with-arcade-fun-when-approaching-space-combat-exclusive)
-- [What to expect during the &#39;blood moon&#39; total lunar eclipse on Sept. 7-8](https://www.space.com/stargazing/lunar-eclipses/what-to-expect-blood-moon-total-lunar-eclipse-sept-7-2025)
-- [Astrophotographer captures the gaping maw of a cosmic shark in stunning deep space image &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/astrophotographer-captures-gaping-maw-of-cosmic-shark-stunning-deep-space-photo-2025)
-- [OpenAI reorganizes research team behind ChatGPT’s personality](https://techcrunch.com/2025/09/05/openai-reorganizes-research-team-behind-chatgpts-personality/)
-- [China shows off advanced hypersonic missiles, ICBMs and drones in military parade &lpar;photos&rpar;](https://www.space.com/technology/china-shows-off-advanced-hypersonic-missiles-icbms-and-drones-in-military-parade-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
