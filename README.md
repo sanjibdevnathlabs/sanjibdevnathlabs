@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomy or astrology? A quiz of science and stars](https://www.space.com/astronomy/astronomy-or-astrology-a-quiz-of-science-and-stars)
+- [Microsoft says Azure affected after cables cut in the Red Sea](https://techcrunch.com/2025/09/07/microsoft-says-azure-affected-after-cables-cut-in-the-red-sea/)
 - [The first stars may not have been as uniformly massive as astronomers thought](https://www.space.com/astronomy/stars/the-first-stars-may-not-have-been-as-uniformly-massive-as-astronomers-thought)
 - [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/09/07/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/)
 - [&#39;It shouldn&#39;t survive&#39;: Astronomers discover dust on an epic journey far beyond its galaxy](https://www.space.com/astronomy/james-webb-space-telescope/it-shouldnt-survive-astronomers-discover-dust-on-an-epic-journey-far-beyond-its-galaxy)
-- [Total lunar eclipse will paint the full moon blood red for over 7 billion skywatchers tonight](https://www.space.com/stargazing/lunar-eclipses/dont-miss-total-lunar-eclipse-blood-moon-tonight-sept-7-2025)
-- [Saturn and the moon take a sunset stroll on Sept. 8: Here&#39;s how to see it](https://www.space.com/stargazing/how-to-see-saturn-close-to-moon-sunset-sept-8-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
