@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the blood moon rise in 1st pictures of September 2025 total lunar eclipse](https://www.space.com/stargazing/lunar-eclipses/blood-moon-1st-pictures-september-7-2025-total-lunar-eclipse)
+- [Hyundai’s eVTOL startup Supernal pauses work following CEO and CTO departures](https://techcrunch.com/2025/09/07/hyundais-evtol-startup-supernal-pauses-work-following-ceo-and-cto-departures/)
 - [Astronomy or astrology? A quiz of science and stars](https://www.space.com/astronomy/astronomy-or-astrology-a-quiz-of-science-and-stars)
 - [Microsoft says Azure affected after cables cut in the Red Sea](https://techcrunch.com/2025/09/07/microsoft-says-azure-affected-after-cables-cut-in-the-red-sea/)
 - [The first stars may not have been as uniformly massive as astronomers thought](https://www.space.com/astronomy/stars/the-first-stars-may-not-have-been-as-uniformly-massive-as-astronomers-thought)
-- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/09/07/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/)
-- [&#39;It shouldn&#39;t survive&#39;: Astronomers discover dust on an epic journey far beyond its galaxy](https://www.space.com/astronomy/james-webb-space-telescope/it-shouldnt-survive-astronomers-discover-dust-on-an-epic-journey-far-beyond-its-galaxy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
