@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to watch Apple announce the iPhone 17](https://techcrunch.com/2025/09/08/how-to-watch-apple-announce-the-iphone-17/)
-- [iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event](https://techcrunch.com/2025/09/08/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/)
-- [ISS astronaut Jonny Kim says controlling robots on Earth felt like playing video games: &#39;This demo brought me right back&#39;](https://www.space.com/technology/iss-astronaut-jonny-kim-says-controlling-robots-on-earth-felt-like-playing-video-games-this-demo-brought-me-right-back)
-- [US Congress is holding a UFO hearing tomorrow about &#39;restoring public trust.&#39; Here&#39;s how to watch live](https://www.space.com/space-exploration/search-for-life/us-congress-is-holding-a-ufo-hearing-tomorrow-about-restoring-public-trust-heres-how-to-watch-live)
-- [Anthropic endorses California’s AI safety bill, SB 53](https://techcrunch.com/2025/09/08/anthropic-endorses-californias-ai-safety-bill-sb-53/)
+- [The September Epsilon Perseids meteor shower peaks predawn on Sept. 9.](https://www.space.com/stargazing/meteor-showers/september-epsilon-meteor-shower-sept-9-2025)
+- [&#39;EVE Online&#39;&#39;s space survival spinoff uses realistic simulations and algorithms to build a whole new universe &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-games/eve-onlines-space-survival-spinoff-uses-realistic-simulations-and-algorithms-to-build-a-whole-new-universe-exclusive)
+- [Signal introduces free and paid backup plans for your chats](https://techcrunch.com/2025/09/08/signal-introduces-free-and-paid-backup-plans-for-your-chats/)
+- [Salesloft says Drift customer data thefts linked to March GitHub account hack](https://techcrunch.com/2025/09/08/salesloft-says-drift-customer-data-thefts-linked-to-march-github-account-hack/)
+- [Meta suppressed children’s safety research, four whistleblowers claim](https://techcrunch.com/2025/09/08/meta-suppressed-childrens-safety-research-four-whistleblowers-claim/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
