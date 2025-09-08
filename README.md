@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber and Momenta to test autonomous vehicles in Germany in 2026](https://techcrunch.com/2025/09/07/uber-and-momenta-to-test-autonomous-vehicles-in-germany-in-2026/)
 - [Microsoft says Azure affected after cables cut in the Red Sea](https://techcrunch.com/2025/09/07/microsoft-says-azure-affected-after-cables-cut-in-the-red-sea/)
 - [Are bad incentives to blame for AI hallucinations?](https://techcrunch.com/2025/09/07/are-bad-incentives-to-blame-for-ai-hallucinations/)
 - [Koah raises $5M to bring ads into AI apps](https://techcrunch.com/2025/09/07/koah-raises-5m-to-bring-ads-into-ai-apps/)
 - [See the blood moon rise in 1st pictures of September 2025 total lunar eclipse](https://www.space.com/stargazing/lunar-eclipses/blood-moon-1st-pictures-september-7-2025-total-lunar-eclipse)
-- [Hyundai’s eVTOL startup Supernal pauses work following CEO and CTO departures](https://techcrunch.com/2025/09/07/hyundais-evtol-startup-supernal-pauses-work-following-ceo-and-cto-departures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
