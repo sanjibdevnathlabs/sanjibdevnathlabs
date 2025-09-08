@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nuclear startup Deep Fission goes public in a curious SPAC](https://techcrunch.com/2025/09/08/nuclear-startup-deep-fission-goes-public-in-a-curious-spac/)
+- [Comet C/2025 A6 &lpar;Lemmon&rpar; is approaching Earth  — will it become visible to the naked eye?](https://www.space.com/astronomy/comets/comet-c-2025-a6-lemmon-is-approaching-earth-will-it-become-visible-to-the-naked-eye)
+- [Bluesky adds private bookmarks](https://techcrunch.com/2025/09/08/bluesky-adds-private-bookmarks/)
+- [Pinecone founder Edo Liberty discusses why the next big AI breakthrough starts with search, at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/)
 - [Flexport’s Ryan Petersen on building through chaos at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/find-out-how-flexports-ceo-ryan-petersen-builds-when-the-rules-keep-changing-at-techcrunch-disrupt-2025/)
-- [Space Dots raises $1.5M seed round to provide insights on orbital threats](https://techcrunch.com/2025/09/08/space-dots-raises-1-5m-seed-round-to-provide-insights-on-orbital-threats/)
-- [SpaceX test fires next Super Heavy booster for Starship&#39;s 11th upcoming launch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-test-fires-next-super-heavy-booster-for-starships-11th-upcoming-launch-video)
-- [VC giant Insight Partners notifies staff and limited partners after data breach](https://techcrunch.com/2025/09/08/vc-giant-insight-partners-notifies-staff-and-limited-partners-after-data-breach/)
-- [Cognition AI defies turbulence with a $400M raise at $10.2B valuation](https://techcrunch.com/2025/09/08/cognition-ai-defies-turbulence-with-a-400m-raise-at-10-2b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
