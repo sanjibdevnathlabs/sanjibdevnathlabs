@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spacecraft launcher named for robot in &#39;Interstellar&#39; could help us reach another star system. Here&#39;s how](https://www.space.com/technology/spacecraft-launcher-named-for-robot-in-interstellar-could-help-us-reach-another-star-system-heres-how)
 - [Nuclear startup Deep Fission goes public in a curious SPAC](https://techcrunch.com/2025/09/08/nuclear-startup-deep-fission-goes-public-in-a-curious-spac/)
 - [Comet C/2025 A6 &lpar;Lemmon&rpar; is approaching Earth  — will it become visible to the naked eye?](https://www.space.com/astronomy/comets/comet-c-2025-a6-lemmon-is-approaching-earth-will-it-become-visible-to-the-naked-eye)
 - [Bluesky adds private bookmarks](https://techcrunch.com/2025/09/08/bluesky-adds-private-bookmarks/)
 - [Pinecone founder Edo Liberty discusses why the next big AI breakthrough starts with search, at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/)
-- [Flexport’s Ryan Petersen on building through chaos at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/find-out-how-flexports-ceo-ryan-petersen-builds-when-the-rules-keep-changing-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
