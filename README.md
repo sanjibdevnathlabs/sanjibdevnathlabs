@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Juno spacecraft finds auroral &#39;footprints&#39; of Jupiter&#39;s moon Callisto for 1st time](https://www.space.com/astronomy/jupiter/juno-spots-callisto-aurora)
-- [SpaceX strikes $17B deal to buy EchoStar’s spectrum for Starlink’s direct-to-phone service](https://techcrunch.com/2025/09/08/spacex-strikes-17b-deal-to-buy-echostars-spectrum-for-starlinks-direct-to-phone-service/)
-- [Amazon Music’s new AI feature generates personalized playlists every Monday](https://techcrunch.com/2025/09/08/amazon-musics-new-ai-feature-generates-personalized-playlists-every-monday/)
-- [1st known interstellar visitor &#39;Oumuamua is an &#39;exo-Pluto&#39; — a completely new class of object, scientists say](https://www.space.com/astronomy/dwarf-planets/1st-known-interstellar-visitor-oumuamua-is-an-exo-pluto-a-completely-new-class-of-object-scientists-say)
-- [South Pole Telescope beneath a rainbow of colors | Space photo of the day for Sept. 8, 2025](https://www.space.com/astronomy/south-pole-telescope-beneath-a-rainbow-of-colors-space-photo-of-the-day-for-sept-8-2025)
+- [Y Combinator-backed Motion raises fresh $38M to build the Microsoft Office of AI agents](https://techcrunch.com/2025/09/08/y-combinator-backed-motion-raises-fresh-38m-to-build-the-microsoft-office-of-ai-agents/)
+- [Does the nearby exoplanet TRAPPIST-1e support life? New James Webb Space Telescope data could help us find out](https://www.space.com/astronomy/exoplanets/does-the-nearby-exoplanet-trappist-1e-support-life-new-james-webb-space-telescope-data-could-help-us-find-out)
+- [Spotify’s new ‘smart filters’ let you screen library content by activity, genre or mood](https://techcrunch.com/2025/09/08/spotifys-new-smart-filters-let-you-screen-library-content-by-activity-genre-or-mood/)
+- [Adtech company PubMatic sues Google over monopoly violations](https://techcrunch.com/2025/09/08/adtech-company-pubmatic-sues-google-over-monopoly-violations/)
+- [Get behind the scenes at TechCrunch Disrupt 2025 by volunteering](https://techcrunch.com/2025/09/08/get-behind-the-scenes-at-techcrunch-disrupt-2025-by-volunteering/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
