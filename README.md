@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The September Epsilon Perseids meteor shower peaks predawn on Sept. 9.](https://www.space.com/stargazing/meteor-showers/september-epsilon-meteor-shower-sept-9-2025)
-- [&#39;EVE Online&#39;&#39;s space survival spinoff uses realistic simulations and algorithms to build a whole new universe &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-games/eve-onlines-space-survival-spinoff-uses-realistic-simulations-and-algorithms-to-build-a-whole-new-universe-exclusive)
-- [Signal introduces free and paid backup plans for your chats](https://techcrunch.com/2025/09/08/signal-introduces-free-and-paid-backup-plans-for-your-chats/)
-- [Salesloft says Drift customer data thefts linked to March GitHub account hack](https://techcrunch.com/2025/09/08/salesloft-says-drift-customer-data-thefts-linked-to-march-github-account-hack/)
-- [Meta suppressed children’s safety research, four whistleblowers claim](https://techcrunch.com/2025/09/08/meta-suppressed-childrens-safety-research-four-whistleblowers-claim/)
+- [Flexport’s Ryan Petersen on building through chaos at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/08/find-out-how-flexports-ceo-ryan-petersen-builds-when-the-rules-keep-changing-at-techcrunch-disrupt-2025/)
+- [Space Dots raises $1.5M seed round to provide insights on orbital threats](https://techcrunch.com/2025/09/08/space-dots-raises-1-5m-seed-round-to-provide-insights-on-orbital-threats/)
+- [SpaceX test fires next Super Heavy booster for Starship&#39;s 11th upcoming launch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-test-fires-next-super-heavy-booster-for-starships-11th-upcoming-launch-video)
+- [VC giant Insight Partners notifies staff and limited partners after data breach](https://techcrunch.com/2025/09/08/vc-giant-insight-partners-notifies-staff-and-limited-partners-after-data-breach/)
+- [Cognition AI defies turbulence with a $400M raise at $10.2B valuation](https://techcrunch.com/2025/09/08/cognition-ai-defies-turbulence-with-a-400m-raise-at-10-2b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
