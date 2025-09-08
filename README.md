@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US Congress is holding a UFO hearing tomorrow about &#39;restoring public trust.&#39; Here&#39;s how to watch live](https://www.space.com/space-exploration/search-for-life/us-congress-is-holding-a-ufo-hearing-tomorrow-about-restoring-public-trust-heres-how-to-watch-live)
+- [Anthropic endorses California’s AI safety bill, SB 53](https://techcrunch.com/2025/09/08/anthropic-endorses-californias-ai-safety-bill-sb-53/)
+- [Databricks confirms new $100B valuation on $4B ARR](https://techcrunch.com/2025/09/08/databricks-confirms-new-100b-valuation-on-4b-arr/)
+- [YouTube’s first exclusive NFL broadcast attracts over 17M viewers](https://techcrunch.com/2025/09/08/youtubes-first-exclusive-nfl-broadcast-attracts-over-17m-viewers/)
 - [Y Combinator-backed Motion raises fresh $38M to build the Microsoft Office of AI agents](https://techcrunch.com/2025/09/08/y-combinator-backed-motion-raises-fresh-38m-to-build-the-microsoft-office-of-ai-agents/)
-- [Does the nearby exoplanet TRAPPIST-1e support life? New James Webb Space Telescope data could help us find out](https://www.space.com/astronomy/exoplanets/does-the-nearby-exoplanet-trappist-1e-support-life-new-james-webb-space-telescope-data-could-help-us-find-out)
-- [Spotify’s new ‘smart filters’ let you screen library content by activity, genre or mood](https://techcrunch.com/2025/09/08/spotifys-new-smart-filters-let-you-screen-library-content-by-activity-genre-or-mood/)
-- [Adtech company PubMatic sues Google over monopoly violations](https://techcrunch.com/2025/09/08/adtech-company-pubmatic-sues-google-over-monopoly-violations/)
-- [Get behind the scenes at TechCrunch Disrupt 2025 by volunteering](https://techcrunch.com/2025/09/08/get-behind-the-scenes-at-techcrunch-disrupt-2025-by-volunteering/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
