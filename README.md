@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to watch Apple announce the iPhone 17](https://techcrunch.com/2025/09/08/how-to-watch-apple-announce-the-iphone-17/)
+- [iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event](https://techcrunch.com/2025/09/08/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/)
+- [ISS astronaut Jonny Kim says controlling robots on Earth felt like playing video games: &#39;This demo brought me right back&#39;](https://www.space.com/technology/iss-astronaut-jonny-kim-says-controlling-robots-on-earth-felt-like-playing-video-games-this-demo-brought-me-right-back)
 - [US Congress is holding a UFO hearing tomorrow about &#39;restoring public trust.&#39; Here&#39;s how to watch live](https://www.space.com/space-exploration/search-for-life/us-congress-is-holding-a-ufo-hearing-tomorrow-about-restoring-public-trust-heres-how-to-watch-live)
 - [Anthropic endorses California’s AI safety bill, SB 53](https://techcrunch.com/2025/09/08/anthropic-endorses-californias-ai-safety-bill-sb-53/)
-- [Databricks confirms new $100B valuation on $4B ARR](https://techcrunch.com/2025/09/08/databricks-confirms-new-100b-valuation-on-4b-arr/)
-- [YouTube’s first exclusive NFL broadcast attracts over 17M viewers](https://techcrunch.com/2025/09/08/youtubes-first-exclusive-nfl-broadcast-attracts-over-17m-viewers/)
-- [Y Combinator-backed Motion raises fresh $38M to build the Microsoft Office of AI agents](https://techcrunch.com/2025/09/08/y-combinator-backed-motion-raises-fresh-38m-to-build-the-microsoft-office-of-ai-agents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
