@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Juno spacecraft finds auroral &#39;footprints&#39; of Jupiter&#39;s moon Callisto for 1st time](https://www.space.com/astronomy/jupiter/juno-spots-callisto-aurora)
+- [SpaceX strikes $17B deal to buy EchoStar’s spectrum for Starlink’s direct-to-phone service](https://techcrunch.com/2025/09/08/spacex-strikes-17b-deal-to-buy-echostars-spectrum-for-starlinks-direct-to-phone-service/)
 - [Amazon Music’s new AI feature generates personalized playlists every Monday](https://techcrunch.com/2025/09/08/amazon-musics-new-ai-feature-generates-personalized-playlists-every-monday/)
 - [1st known interstellar visitor &#39;Oumuamua is an &#39;exo-Pluto&#39; — a completely new class of object, scientists say](https://www.space.com/astronomy/dwarf-planets/1st-known-interstellar-visitor-oumuamua-is-an-exo-pluto-a-completely-new-class-of-object-scientists-say)
 - [South Pole Telescope beneath a rainbow of colors | Space photo of the day for Sept. 8, 2025](https://www.space.com/astronomy/south-pole-telescope-beneath-a-rainbow-of-colors-space-photo-of-the-day-for-sept-8-2025)
-- [More than 10 European startups became unicorns this year](https://techcrunch.com/2025/09/08/more-than-10-european-startups-became-unicorns-this-year/)
-- [Blood moon wows skywatchers worldwide: Best photos of the September 2025 total lunar eclipse](https://www.space.com/stargazing/lunar-eclipses/blood-moon-best-photos-total-lunar-eclipse-sept-7-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
