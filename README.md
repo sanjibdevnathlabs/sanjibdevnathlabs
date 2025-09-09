@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [You could help NASA track its Artemis 2 astronauts&#39; trip around the moon in 2026](https://www.space.com/astronomy/moon/you-could-help-nasa-track-its-artemis-2-astronauts-trip-around-the-moon-in-2026)
-- [Nvidia unveils new GPU designed for long-context inference](https://techcrunch.com/2025/09/09/nvidia-unveils-new-gpu-designed-for-long-context-inference/)
-- [Tesla is seeking permits to offer ride-hail services at Silicon Valley airports](https://techcrunch.com/2025/09/09/tesla-is-seeking-permits-to-offer-ride-hail-services-at-silicon-valley-airports/)
-- [NASA to reveal new Perseverance Mars rover discovery tomorrow: How to watch live](https://www.space.com/space-exploration/mars-rovers/nasa-to-reveal-new-perseverance-mars-rover-discovery-tomorrow-how-to-watch-live)
-- [Tesla revamps the Megapack in attempt to reverse its declining storage business](https://techcrunch.com/2025/09/09/tesla-revamps-the-megapack-in-attempt-to-reverse-its-declining-storage-business/)
+- [Apple launches iPhone 17 Pro with major camera upgrades](https://techcrunch.com/2025/09/09/apple-launches-iphone-17-pro-with-major-camera-upgrades/)
+- [&#39;Artificial super astronauts&#39;: How AI and robotics could help humanity settle Mars](https://www.space.com/astronomy/mars/artificial-super-astronauts-how-ai-and-robotics-could-help-humanity-settle-mars)
+- [iPhone 17 Air will be eSIM only worldwide](https://techcrunch.com/2025/09/09/iphone-17-air-will-be-esim-only-worldwide/)
+- [Apple debuts the ultra-thin iPhone Air](https://techcrunch.com/2025/09/09/apple-debuts-the-ultra-thin-iphone-air/)
+- [Apple unveils Apple Watch Series 11, Watch Ultra 3, and Watch SE 3](https://techcrunch.com/2025/09/09/apple-unveils-apple-watch-series-11-watch-ultra-3-and-watch-se-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
