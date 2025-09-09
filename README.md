@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The largest supply-chain attack ever…](https://www.youtube.com/watch?v=QVqIx-Y8s-s)
 - [THIS Is Where the Internet Lives](https://www.youtube.com/watch?v=v477fvbj3rk)
 - [MIT Economist Explains the NFL’s Legal Cartel](https://www.youtube.com/watch?v=PoxMszj19Tw)
 - [How Generative AI Video Works - Computerphile](https://www.youtube.com/watch?v=hJHfZKYUKMw)
 - [Google won at Monopoly...](https://www.youtube.com/watch?v=XGmZFNG-qQQ)
-- [Learn Docker in 2025 - Complete Roadmap Beginner to Pro](https://www.youtube.com/watch?v=zFa9_K8BS8I)
 <!-- YOUTUBE:END -->
 
 ---
