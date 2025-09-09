@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ready for the next &#39;Oumuamua? Launching flyby missions to visiting interstellar comets is &#39;feasible and affordable,&#39; study says](https://www.space.com/space-exploration/missions/ready-for-the-next-oumuamua-launching-flyby-missions-to-visiting-interstellar-comets-is-feasible-and-affordable-study-says)
 - [OpenAI denies that it’s weighing a ‘last-ditch’ California exit amid regulatory pressure over its restructuring](https://techcrunch.com/2025/09/08/openai-denies-that-its-weighing-a-last-ditch-california-exit-amid-regulatory-pressure-over-its-restructuring/)
 - [ReOrbit lands record funding to take on Musk’s Starlink from Europe](https://techcrunch.com/2025/09/08/reorbit-lands-record-funding-to-take-on-musks-starlink-from-europe/)
 - [Nepal reverses social media ban as protests turn deadly](https://techcrunch.com/2025/09/08/nepal-reverses-social-media-ban-as-protests-turn-deadly/)
 - [Snap breaks into ‘startup squads’ as ad revenue stalls](https://techcrunch.com/2025/09/08/snap-breaks-into-startup-squads-as-ad-revenue-stalls/)
-- [Intel’s chief executive of products departs among other leadership changes](https://techcrunch.com/2025/09/08/intels-chief-executive-of-products-departs-among-other-leadership-changes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
