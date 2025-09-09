@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You could help NASA track its Artemis 2 astronauts&#39; trip around the moon in 2026](https://www.space.com/astronomy/moon/you-could-help-nasa-track-its-artemis-2-astronauts-trip-around-the-moon-in-2026)
+- [Nvidia unveils new GPU designed for long-context inference](https://techcrunch.com/2025/09/09/nvidia-unveils-new-gpu-designed-for-long-context-inference/)
+- [Tesla is seeking permits to offer ride-hail services at Silicon Valley airports](https://techcrunch.com/2025/09/09/tesla-is-seeking-permits-to-offer-ride-hail-services-at-silicon-valley-airports/)
+- [NASA to reveal new Perseverance Mars rover discovery tomorrow: How to watch live](https://www.space.com/space-exploration/mars-rovers/nasa-to-reveal-new-perseverance-mars-rover-discovery-tomorrow-how-to-watch-live)
 - [Tesla revamps the Megapack in attempt to reverse its declining storage business](https://techcrunch.com/2025/09/09/tesla-revamps-the-megapack-in-attempt-to-reverse-its-declining-storage-business/)
-- [Where is the sun in its current 11-year solar cycle?](https://www.space.com/astronomy/sun/where-are-we-in-the-current-11-year-solar-cycle)
-- [Smart ring maker Oura’s CEO addresses recent backlash, says future is a ‘cloud of wearables’](https://techcrunch.com/2025/09/09/smart-ring-maker-ouras-ceo-addresses-recent-backlash-says-future-is-a-cloud-of-wearables/)
-- [New emojis will include Bigfoot, orca whale, treasure chest and more](https://techcrunch.com/2025/09/09/new-emojis-will-include-bigfoot-orca-whale-treasure-chest-and-more/)
-- [Astronauts capture amazing views of the total lunar eclipse from the ISS &lpar;photos&rpar;](https://www.space.com/stargazing/eclipses/astronauts-capture-amazing-views-of-the-total-lunar-eclipse-from-the-iss-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
