@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel’s chief executive of products departs among other leadership changes](https://techcrunch.com/2025/09/08/intels-chief-executive-of-products-departs-among-other-leadership-changes/)
 - [Netskope follows Rubrik as a rare cybersecurity IPO, both backed by Lightspeed](https://techcrunch.com/2025/09/08/netskope-follows-rubrik-as-a-rare-cybersecurity-ipo-both-backed-lightspeed/)
 - [Sam Altman says that bots are making social media feel ‘fake’](https://techcrunch.com/2025/09/08/sam-altman-says-that-bots-are-making-social-media-feel-fake/)
 - [Spacecraft launcher named for robot in &#39;Interstellar&#39; could help us reach another star system. Here&#39;s how](https://www.space.com/technology/spacecraft-launcher-named-for-robot-in-interstellar-could-help-us-reach-another-star-system-heres-how)
 - [Nuclear startup Deep Fission goes public in a curious SPAC](https://techcrunch.com/2025/09/08/nuclear-startup-deep-fission-goes-public-in-a-curious-spac/)
-- [Comet C/2025 A6 &lpar;Lemmon&rpar; is approaching Earth  — will it become visible to the naked eye?](https://www.space.com/astronomy/comets/comet-c-2025-a6-lemmon-is-approaching-earth-will-it-become-visible-to-the-naked-eye)
 <!-- BLOG-POST-LIST:END -->
 
 ---
