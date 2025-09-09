@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla revamps the Megapack in attempt to reverse its declining storage business](https://techcrunch.com/2025/09/09/tesla-revamps-the-megapack-in-attempt-to-reverse-its-declining-storage-business/)
+- [Where is the sun in its current 11-year solar cycle?](https://www.space.com/astronomy/sun/where-are-we-in-the-current-11-year-solar-cycle)
+- [Smart ring maker Oura’s CEO addresses recent backlash, says future is a ‘cloud of wearables’](https://techcrunch.com/2025/09/09/smart-ring-maker-ouras-ceo-addresses-recent-backlash-says-future-is-a-cloud-of-wearables/)
+- [New emojis will include Bigfoot, orca whale, treasure chest and more](https://techcrunch.com/2025/09/09/new-emojis-will-include-bigfoot-orca-whale-treasure-chest-and-more/)
 - [Astronauts capture amazing views of the total lunar eclipse from the ISS &lpar;photos&rpar;](https://www.space.com/stargazing/eclipses/astronauts-capture-amazing-views-of-the-total-lunar-eclipse-from-the-iss-photos)
-- [Apple Intelligence: Everything you need to know about Apple’s AI model and services](https://techcrunch.com/2025/09/09/apple-intelligence-everything-you-need-to-know-about-apples-ai-model-and-services/)
-- [Where top VCs are betting next: Index, Greylock, and Felicis share 2026 priorities at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/09/want-to-know-where-vcs-are-investing-next-be-in-the-room-at-techcrunch-disrupt-2025/)
-- [Geothermal is too expensive, but Dig Energy’s impossibly small drill rig might fix that](https://techcrunch.com/2025/09/09/geothermal-is-too-expensive-but-dig-energys-impossibly-small-drill-rig-might-fix-that/)
-- [The race back to the moon: What if China lands its astronauts first?](https://www.space.com/astronomy/moon/the-race-back-to-the-moon-what-if-china-lands-its-astronauts-first)
 <!-- BLOG-POST-LIST:END -->
 
 ---
