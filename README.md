@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Directive 8020&#39; is &#39;The Thing&#39; in space, but is developer Supermassive Games biting off more than it can chew?](https://www.space.com/entertainment/space-games/directive-8020-is-the-thing-in-space-but-is-developer-supermassive-games-biting-off-more-than-it-can-chew)
+- [Apple’s new iPhone 17 devices don’t have an AI-powered Siri yet. It doesn’t matter.](https://techcrunch.com/2025/09/09/apples-new-iphone-17-devices-dont-have-an-ai-powered-siri-yet-it-doesnt-matter/)
+- [iPhone 17, iPhone Air, AirPods Pro 3, and everything else announced at Apple’s hardware event](https://techcrunch.com/2025/09/09/iphone-17-iphone-air-airpods-pro-3-and-everything-else-announced-at-apples-hardware-event/)
+- [Apple debuts the $999 ultra-thin iPhone Air](https://techcrunch.com/2025/09/09/apple-debuts-the-999-ultra-thin-iphone-air/)
 - [Apple launches iPhone 17 Pro with major camera upgrades](https://techcrunch.com/2025/09/09/apple-launches-iphone-17-pro-with-major-camera-upgrades/)
-- [&#39;Artificial super astronauts&#39;: How AI and robotics could help humanity settle Mars](https://www.space.com/astronomy/mars/artificial-super-astronauts-how-ai-and-robotics-could-help-humanity-settle-mars)
-- [iPhone 17 Air will be eSIM only worldwide](https://techcrunch.com/2025/09/09/iphone-17-air-will-be-esim-only-worldwide/)
-- [Apple debuts the ultra-thin iPhone Air](https://techcrunch.com/2025/09/09/apple-debuts-the-ultra-thin-iphone-air/)
-- [Apple unveils Apple Watch Series 11, Watch Ultra 3, and Watch SE 3](https://techcrunch.com/2025/09/09/apple-unveils-apple-watch-series-11-watch-ultra-3-and-watch-se-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
