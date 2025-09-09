@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers discover repeating gamma-ray burst &#39;unlike anything we have ever witnessed before&#39; &lpar;video&rpar;](https://www.space.com/astronomy/astronomers-discover-repeating-gamma-ray-burst-unlike-anything-we-have-ever-witnessed-before-video)
+- [Apple’s creator-centric iPhone 17 Pro will make the vlogging camera obsolete](https://techcrunch.com/2025/09/09/apples-creator-centric-iphone-17-pro-will-make-the-vlogging-camera-obsolete/)
+- [The iPhone Air is a hint at the iPhone’s future, which could include foldables](https://techcrunch.com/2025/09/09/the-iphone-air-is-a-hint-at-the-iphones-future-which-could-include-foldables/)
 - [Microsoft to lessen reliance on OpenAI by buying AI from rival Anthropic](https://techcrunch.com/2025/09/09/microsoft-to-lessen-reliance-on-openai-by-buying-ai-from-rival-anthropic/)
 - [Fossilized micrometeorites record ancient carbon dioxide levels](https://www.space.com/stargazing/meteor-showers/fossilized-micrometeorites-record-ancient-carbon-dioxide-levels)
-- [Apple unveils Apple Watch Series 11, Watch Ultra 3, and Watch SE 3](https://techcrunch.com/2025/09/09/apple-unveils-apple-watch-series-11-watch-ultra-3-and-watch-se-3/)
-- [All of the iPhone 17 models compared](https://techcrunch.com/2025/09/09/all-of-the-iphone-17-models-compared/)
-- [&#39;Directive 8020&#39; is &#39;The Thing&#39; in space, but is developer Supermassive Games biting off more than it can chew?](https://www.space.com/entertainment/space-games/directive-8020-is-the-thing-in-space-but-is-developer-supermassive-games-biting-off-more-than-it-can-chew)
 <!-- BLOG-POST-LIST:END -->
 
 ---
