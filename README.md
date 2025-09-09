@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft to lessen reliance on OpenAI by buying AI from rival Anthropic](https://techcrunch.com/2025/09/09/microsoft-to-lessen-reliance-on-openai-by-buying-ai-from-rival-anthropic/)
+- [Fossilized micrometeorites record ancient carbon dioxide levels](https://www.space.com/stargazing/meteor-showers/fossilized-micrometeorites-record-ancient-carbon-dioxide-levels)
+- [Apple unveils Apple Watch Series 11, Watch Ultra 3, and Watch SE 3](https://techcrunch.com/2025/09/09/apple-unveils-apple-watch-series-11-watch-ultra-3-and-watch-se-3/)
+- [All of the iPhone 17 models compared](https://techcrunch.com/2025/09/09/all-of-the-iphone-17-models-compared/)
 - [&#39;Directive 8020&#39; is &#39;The Thing&#39; in space, but is developer Supermassive Games biting off more than it can chew?](https://www.space.com/entertainment/space-games/directive-8020-is-the-thing-in-space-but-is-developer-supermassive-games-biting-off-more-than-it-can-chew)
-- [Apple’s new iPhone 17 devices don’t have an AI-powered Siri yet. It doesn’t matter.](https://techcrunch.com/2025/09/09/apples-new-iphone-17-devices-dont-have-an-ai-powered-siri-yet-it-doesnt-matter/)
-- [iPhone 17, iPhone Air, AirPods Pro 3, and everything else announced at Apple’s hardware event](https://techcrunch.com/2025/09/09/iphone-17-iphone-air-airpods-pro-3-and-everything-else-announced-at-apples-hardware-event/)
-- [Apple debuts the $999 ultra-thin iPhone Air](https://techcrunch.com/2025/09/09/apple-debuts-the-999-ultra-thin-iphone-air/)
-- [Apple launches iPhone 17 Pro with major camera upgrades](https://techcrunch.com/2025/09/09/apple-launches-iphone-17-pro-with-major-camera-upgrades/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
