@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Help, I have been charmed by the iPhone Air](https://techcrunch.com/2025/09/09/help-i-have-been-charmed-by-the-iphone-air/)
+- [SpaceX targets Sept. 23 for launch of NASA&#39;s IMAP mission to map the boundaries of our solar system](https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-sept-23-for-launch-of-nasas-imap-mission-to-map-the-boundaries-of-our-solar-system)
+- [Why SpaceX made a $17B bet on the direct-to-cell market](https://techcrunch.com/2025/09/09/why-spacex-made-a-17b-bet-on-the-direct-to-cell-market/)
+- [I want to love Apple’s new iPhone Air, but the iPhone 17 is a better deal](https://techcrunch.com/2025/09/09/i-want-to-love-apples-new-iphone-air-but-the-iphone-17-is-a-better-deal/)
 - [Astronomers discover repeating gamma-ray burst &#39;unlike anything we have ever witnessed before&#39; &lpar;video&rpar;](https://www.space.com/astronomy/astronomers-discover-repeating-gamma-ray-burst-unlike-anything-we-have-ever-witnessed-before-video)
-- [Apple’s creator-centric iPhone 17 Pro will make the vlogging camera obsolete](https://techcrunch.com/2025/09/09/apples-creator-centric-iphone-17-pro-will-make-the-vlogging-camera-obsolete/)
-- [The iPhone Air is a hint at the iPhone’s future, which could include foldables](https://techcrunch.com/2025/09/09/the-iphone-air-is-a-hint-at-the-iphones-future-which-could-include-foldables/)
-- [Microsoft to lessen reliance on OpenAI by buying AI from rival Anthropic](https://techcrunch.com/2025/09/09/microsoft-to-lessen-reliance-on-openai-by-buying-ai-from-rival-anthropic/)
-- [Fossilized micrometeorites record ancient carbon dioxide levels](https://www.space.com/stargazing/meteor-showers/fossilized-micrometeorites-record-ancient-carbon-dioxide-levels)
 <!-- BLOG-POST-LIST:END -->
 
 ---
