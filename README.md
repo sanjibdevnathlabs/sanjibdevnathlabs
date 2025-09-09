@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Geothermal is too expensive, but Dig Energy’s impossibly small drill rig might fix that](https://techcrunch.com/2025/09/09/geothermal-is-too-expensive-but-dig-energys-impossibly-small-drill-rig-might-fix-that/)
+- [The race back to the moon: What if China lands its astronauts first?](https://www.space.com/astronomy/moon/the-race-back-to-the-moon-what-if-china-lands-its-astronauts-first)
+- [Plex urges users to change passwords after data breach](https://techcrunch.com/2025/09/09/plex-urges-users-to-change-passwords-after-data-breach/)
+- [The hitchhiker&#39;s guide to literary sci-fi: A trivia quiz!](https://www.space.com/entertainment/the-hitchhikers-guide-to-literary-sci-fi-a-trivia-quiz)
 - [Small black holes are surprisingly messy eaters, Japanese spacecraft discovers: &#39;Being surprised is good&#39;](https://www.space.com/astronomy/black-holes/small-black-holes-are-surprisingly-messy-eaters-japanese-spacecraft-discovers-being-surprised-is-good)
-- [Nuclearn gets $10.5M to help the nuclear industry embrace AI](https://techcrunch.com/2025/09/09/nuclearn-gets-10-5m-to-help-the-nuclear-industry-embrace-ai/)
-- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/09/09/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/)
-- [Blackrock-backed Minute Media acquires Indian AI startup that extracts sports highlights](https://techcrunch.com/2025/09/09/blackrock-backed-minute-media-acquires-indian-ai-startup-that-extracts-sports-highlights/)
-- [Moon blocks satellite views of the sun before lunar eclipse | Space photo of the day for Sept. 9, 2025](https://www.space.com/stargazing/eclipses/moon-blocks-satellite-views-of-the-sun-before-lunar-eclipse-space-photo-of-the-day-for-sept-9-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
