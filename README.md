@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sources: AI training startup Mercor eyes $10B+ valuation on $450 million run rate](https://techcrunch.com/2025/09/09/sources-ai-training-startup-mercor-eyes-10b-valuation-on-450-million-run-rate/)
 - [From mixers to pitch-offs — your brand event belongs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/09/from-mixers-to-pitch-offs-your-brand-event-belongs-at-techcrunch-disrupt-2025/)
 - [Help, I have been charmed by the iPhone Air](https://techcrunch.com/2025/09/09/help-i-have-been-charmed-by-the-iphone-air/)
 - [SpaceX targets Sept. 23 for launch of NASA&#39;s IMAP mission to map the boundaries of our solar system](https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-sept-23-for-launch-of-nasas-imap-mission-to-map-the-boundaries-of-our-solar-system)
 - [Why SpaceX made a $17B bet on the direct-to-cell market](https://techcrunch.com/2025/09/09/why-spacex-made-a-17b-bet-on-the-direct-to-cell-market/)
-- [I want to love Apple’s new iPhone Air, but the iPhone 17 is a better deal](https://techcrunch.com/2025/09/09/i-want-to-love-apples-new-iphone-air-but-the-iphone-17-is-a-better-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
