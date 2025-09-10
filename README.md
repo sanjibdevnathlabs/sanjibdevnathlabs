@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX buys $17 billion worth of satellite spectrum to beef up Starlink broadband service](https://www.space.com/space-exploration/satellites/spacex-buys-usd17-billion-worth-of-satellite-spectrum-to-beef-up-starlink-broadband-service)
+- [While U.S. stalls, Australia and Anduril move to put XL undersea vehicle into service](https://techcrunch.com/2025/09/10/while-u-s-stalls-australia-and-anduril-move-to-put-xl-undersea-vehicle-into-service/)
+- [Klarna’s IPO pops, raising $1.4B, with Sequoia as the biggest winner](https://techcrunch.com/2025/09/10/klarnas-ipo-pops-raising-1-4b-with-sequoia-as-the-biggest-winner/)
 - [OpenAI and Oracle reportedly ink historic cloud computing deal](https://techcrunch.com/2025/09/10/openai-and-oracle-reportedly-ink-historic-cloud-computing-deal/)
 - [Sci-fi is the genre of ideas — it shouldn&#39;t just be about big budgets and spectacular visuals](https://www.space.com/entertainment/space-movies-shows/sci-fi-is-the-genre-of-ideas-it-shouldnt-just-be-about-big-budgets-and-spectacular-visuals)
-- [Watch voice cast of Disney&#39;s &#39;Elio&#39; learn about Voyager probe&#39;s Golden Record in charming new bonus clip &lpar;video&rpar;](https://www.space.com/entertainment/watch-voice-cast-of-disneys-elio-learn-about-voyager-probes-golden-record-in-charming-new-bonus-clip-video)
-- [YouTube’s multi-language audio feature for dubbing videos rolls out to all creators](https://techcrunch.com/2025/09/10/youtubes-multi-language-audio-feature-for-dubbing-videos-rolls-out-to-all-creators/)
-- [TechCrunch Disrupt 2025: Full agenda reveal for the brand-new Going Public Stage](https://techcrunch.com/2025/09/10/techcrunch-disrupt-2025-first-full-agenda-reveal-for-the-brand-new-going-public-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
