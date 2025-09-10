@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Humanoids, AVs, and what’s next in AI hardware at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/10/humanoids-avs-and-whats-next-in-ai-hardware-at-techcrunch-disrupt-2025/)
-- [Scientists find evidence of flowing water on Ryugu’s ancient parent asteroid. &#39;It was a genuine surprise!&#39;](https://www.space.com/astronomy/asteroids/scientists-find-evidence-of-flowing-water-on-ryugus-ancient-parent-asteroid-it-was-a-genuine-surprise)
-- [Replit hits $3B valuation on $150 million annualized revenue](https://techcrunch.com/2025/09/10/replit-hits-3b-valuation-on-150-million-annualized-revenue/)
-- [Bluesky will comply with age-verification laws in South Dakota and Wyoming after exiting Mississippi](https://techcrunch.com/2025/09/10/bluesky-will-comply-with-age-verification-laws-in-south-dakota-and-wyoming-after-exiting-mississippi/)
-- [Perfect your pitch: Investors share what really makes founders stand out at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/10/at-techcrunch-disrupt-2025-medha-agarwal-jyoti-bansal-and-jennifer-neundorfer-discuss-what-makes-a-pitch-land/)
+- [Watch voice cast of Disney&#39;s &#39;Elio&#39; learn about Voyager probe&#39;s Golden Record in charming new bonus clip &lpar;video&rpar;](https://www.space.com/entertainment/watch-voice-cast-of-disneys-elio-learn-about-voyager-probes-golden-record-in-charming-new-bonus-clip-video)
+- [YouTube’s multi-language audio feature for dubbing videos rolls out to all creators](https://techcrunch.com/2025/09/10/youtubes-multi-language-audio-feature-for-dubbing-videos-rolls-out-to-all-creators/)
+- [TechCrunch Disrupt 2025: Full agenda reveal for the brand-new Going Public Stage](https://techcrunch.com/2025/09/10/techcrunch-disrupt-2025-first-full-agenda-reveal-for-the-brand-new-going-public-stage/)
+- [Arc gets its first major order for electric tugboats worth $160M](https://techcrunch.com/2025/09/10/arc-gets-its-first-major-order-for-electric-tugboats-worth-160m/)
+- [Meta adds new features to Community Notes fact checks, including alerts for corrected posts](https://techcrunch.com/2025/09/10/meta-adds-new-features-to-community-notes-fact-checks-including-alerts-for-corrected-posts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
