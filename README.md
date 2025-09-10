@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The weird ringed dwarf planet Quaoar may have an extra moon, astronomers discover](https://www.space.com/astronomy/dwarf-planets/the-weird-ringed-dwarf-planet-quaoar-may-have-an-extra-moon-astronomers-discover)
 - [Robinhood embraces copy trading after warning competitors about regulatory risks](https://techcrunch.com/2025/09/09/robinhood-embraces-copy-trading-after-warning-competitors-about-regulatory-risks/)
 - [Sources: AI training startup Mercor eyes $10B+ valuation on $450 million run rate](https://techcrunch.com/2025/09/09/sources-ai-training-startup-mercor-eyes-10b-valuation-on-450-million-run-rate/)
 - [From mixers to pitch-offs — your brand event belongs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/09/from-mixers-to-pitch-offs-your-brand-event-belongs-at-techcrunch-disrupt-2025/)
 - [Help, I have been charmed by the iPhone Air](https://techcrunch.com/2025/09/09/help-i-have-been-charmed-by-the-iphone-air/)
-- [SpaceX targets Sept. 23 for launch of NASA&#39;s IMAP mission to map the boundaries of our solar system](https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-sept-23-for-launch-of-nasas-imap-mission-to-map-the-boundaries-of-our-solar-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
