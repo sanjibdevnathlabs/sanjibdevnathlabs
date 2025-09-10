@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI and Oracle reportedly ink historic cloud computing deal](https://techcrunch.com/2025/09/10/openai-and-oracle-reportedly-ink-historic-cloud-computing-deal/)
+- [Sci-fi is the genre of ideas — it shouldn&#39;t just be about big budgets and spectacular visuals](https://www.space.com/entertainment/space-movies-shows/sci-fi-is-the-genre-of-ideas-it-shouldnt-just-be-about-big-budgets-and-spectacular-visuals)
 - [Watch voice cast of Disney&#39;s &#39;Elio&#39; learn about Voyager probe&#39;s Golden Record in charming new bonus clip &lpar;video&rpar;](https://www.space.com/entertainment/watch-voice-cast-of-disneys-elio-learn-about-voyager-probes-golden-record-in-charming-new-bonus-clip-video)
 - [YouTube’s multi-language audio feature for dubbing videos rolls out to all creators](https://techcrunch.com/2025/09/10/youtubes-multi-language-audio-feature-for-dubbing-videos-rolls-out-to-all-creators/)
 - [TechCrunch Disrupt 2025: Full agenda reveal for the brand-new Going Public Stage](https://techcrunch.com/2025/09/10/techcrunch-disrupt-2025-first-full-agenda-reveal-for-the-brand-new-going-public-stage/)
-- [Arc gets its first major order for electric tugboats worth $160M](https://techcrunch.com/2025/09/10/arc-gets-its-first-major-order-for-electric-tugboats-worth-160m/)
-- [Meta adds new features to Community Notes fact checks, including alerts for corrected posts](https://techcrunch.com/2025/09/10/meta-adds-new-features-to-community-notes-fact-checks-including-alerts-for-corrected-posts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
