@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the future of voice AI with Mati Staniszewski at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/10/exploring-the-future-of-voice-ai-with-mati-staniszewski-at-techcrunch-disrupt-2025/)
-- [Gravitational wave detector confirms theories of Einstein and Hawking: &#39;This is the clearest view yet of the nature of black holes&#39;](https://www.space.com/astronomy/gravitational-wave-detector-confirms-theories-of-einstein-and-hawking-this-is-the-clearest-view-yet-of-the-nature-of-black-holes)
-- [Did NASA&#39;s Perseverance rover find evidence of ancient life on Mars? The plot thickens](https://www.space.com/astronomy/mars/did-nasas-perseverance-rover-find-evidence-of-ancient-red-planet-life-the-plot-thickens)
-- [Dutch battery startup LeydenJar’s silicon anode tech could pose a challenge to China](https://techcrunch.com/2025/09/10/dutch-battery-startup-leydenjars-silicon-anode-tech-could-pose-a-challenge-to-china/)
-- [SpaceX launches 1st 21 satellites for advanced new US military constellation](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-1st-21-satellites-for-advanced-new-us-military-constellation)
+- [Bluesky will comply with age verification laws in South Dakota and Wyoming after exiting Mississippi](https://techcrunch.com/2025/09/10/bluesky-will-comply-with-age-verification-laws-in-south-dakota-and-wyoming-after-exiting-mississippi/)
+- [Perfect your pitch: Investors share what really makes founders stand out at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/10/at-techcrunch-disrupt-2025-medha-agarwal-jyoti-bansal-and-jennifer-neundorfer-discuss-what-makes-a-pitch-land/)
+- [Get ready to view Saturn at its closest point to Earth with $133 off this telescope from Celestron](https://www.space.com/stargazing/skywatching-kit/get-ready-to-view-saturn-at-its-closest-point-to-earth-with-133-dollars-off-this-telescope-from-celestron)
+- [Can we safely deflect a killer asteroid without making it worse? Only if we avoid the gravitational &#39;keyhole,&#39; scientists say](https://www.space.com/astronomy/asteroids/attempting-to-deflect-a-potentially-hazardous-asteroid-could-accidentally-put-it-on-a-collision-course-with-earth)
+- [All of the iPhone 17 models compared](https://techcrunch.com/2025/09/10/all-of-the-iphone-17-models-compared/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
