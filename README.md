@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thinking Machines Lab wants to make AI models more consistent](https://techcrunch.com/2025/09/10/thinking-machines-lab-wants-to-make-ai-models-more-consistent/)
 - [How to turn off autoplay on your social media feeds](https://techcrunch.com/2025/09/10/how-to-turn-off-autoplay-on-your-social-media-feeds/)
 - [&#39;Destiny 2&#39; meets &#39;Star Wars&#39; in ‘Renegades’ expansion, adding blasters, lightsabers, and a wretched hive of scum and villainy &lpar;video&rpar;](https://www.space.com/entertainment/space-games/destiny-2-meets-star-wars-in-renegades-expansion-adding-blasters-lightsabers-and-a-wretched-hive-of-scum-and-villainy-video)
 - [SpaceX buys $17 billion worth of satellite spectrum to beef up Starlink broadband service](https://www.space.com/space-exploration/satellites/spacex-buys-usd17-billion-worth-of-satellite-spectrum-to-beef-up-starlink-broadband-service)
 - [While US stalls, Australia and Anduril move to put XL undersea vehicle into service](https://techcrunch.com/2025/09/10/while-u-s-stalls-australia-and-anduril-move-to-put-xl-undersea-vehicle-into-service/)
-- [Klarna’s IPO pops, raising $1.4B, with Sequoia as the biggest winner](https://techcrunch.com/2025/09/10/klarnas-ipo-pops-raising-1-4b-with-sequoia-as-the-biggest-winner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
