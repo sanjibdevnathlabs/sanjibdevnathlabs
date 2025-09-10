@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vimeo to be acquired by Bending Spoons in $1.38B all-cash deal](https://techcrunch.com/2025/09/10/vimeo-to-be-acquired-by-bending-spoons-in-1-38b-all-cash-deal/)
+- [Enjoy the new moon and Autumnal Equinox dark skies with our choice as one of the best value binoculars — now with a huge 41% off in this Amazon binocular deal](https://www.space.com/stargazing/skywatching-kit/enjoy-the-new-moon-and-autumnal-equinox-dark-skies-with-our-choice-as-one-of-the-best-value-binoculars-now-with-a-huge-41-percent-off-in-this-amazon-binocular-deal)
 - [Jaguar Land Rover says data stolen in disruptive cyberattack](https://techcrunch.com/2025/09/10/jaguar-land-rover-says-data-stolen-in-disruptive-cyberattack/)
 - [RSS co-creator launches new protocol for AI data licensing](https://techcrunch.com/2025/09/10/rss-co-creator-launches-new-protocol-for-ai-data-licensing/)
 - [Rendezvous Robotics exits stealth with $3M to build reconfigurable space infrastructure](https://techcrunch.com/2025/09/10/rendezvous-robotics-exits-stealth-with-3m-to-build-reconfigurable-space-infrastructure/)
-- [Lyft and May Mobility launch robotaxis in Atlanta](https://techcrunch.com/2025/09/10/lyfts-modest-robotaxi-launch-highlights-growing-gap-with-uber-and-waymo/)
-- [Zoox opens its Las Vegas robotaxi service to the public](https://techcrunch.com/2025/09/10/zoox-opens-its-las-vegas-robotaxi-service-to-the-public/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
