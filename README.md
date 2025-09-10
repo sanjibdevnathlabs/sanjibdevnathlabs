@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Vimeo to be acquired by Bending Spoons in $1.38B all-cash deal](https://techcrunch.com/2025/09/10/vimeo-to-be-acquired-by-bending-spoons-in-1-38b-all-cash-deal/)
-- [Enjoy the new moon and Autumnal Equinox dark skies with our choice as one of the best value binoculars — now with a huge 41% off in this Amazon binocular deal](https://www.space.com/stargazing/skywatching-kit/enjoy-the-new-moon-and-autumnal-equinox-dark-skies-with-our-choice-as-one-of-the-best-value-binoculars-now-with-a-huge-41-percent-off-in-this-amazon-binocular-deal)
-- [Jaguar Land Rover says data stolen in disruptive cyberattack](https://techcrunch.com/2025/09/10/jaguar-land-rover-says-data-stolen-in-disruptive-cyberattack/)
-- [RSS co-creator launches new protocol for AI data licensing](https://techcrunch.com/2025/09/10/rss-co-creator-launches-new-protocol-for-ai-data-licensing/)
-- [Rendezvous Robotics exits stealth with $3M to build reconfigurable space infrastructure](https://techcrunch.com/2025/09/10/rendezvous-robotics-exits-stealth-with-3m-to-build-reconfigurable-space-infrastructure/)
+- [Exploring the future of voice AI with Mati Staniszewski at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/10/exploring-the-future-of-voice-ai-with-mati-staniszewski-at-techcrunch-disrupt-2025/)
+- [Gravitational wave detector confirms theories of Einstein and Hawking: &#39;This is the clearest view yet of the nature of black holes&#39;](https://www.space.com/astronomy/gravitational-wave-detector-confirms-theories-of-einstein-and-hawking-this-is-the-clearest-view-yet-of-the-nature-of-black-holes)
+- [Did NASA&#39;s Perseverance rover find evidence of ancient life on Mars? The plot thickens](https://www.space.com/astronomy/mars/did-nasas-perseverance-rover-find-evidence-of-ancient-red-planet-life-the-plot-thickens)
+- [Dutch battery startup LeydenJar’s silicon anode tech could pose a challenge to China](https://techcrunch.com/2025/09/10/dutch-battery-startup-leydenjars-silicon-anode-tech-could-pose-a-challenge-to-china/)
+- [SpaceX launches 1st 21 satellites for advanced new US military constellation](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-1st-21-satellites-for-advanced-new-us-military-constellation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
