@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s former security leads raise $13M to fight email threats before they reach you](https://techcrunch.com/2025/09/10/googles-former-security-leads-raise-13m-to-fight-email-threats-before-they-reach-you/)
+- [Spotify is finally launching support for lossless music streaming](https://techcrunch.com/2025/09/10/spotify-is-finally-launching-support-for-lossless-music-streaming/)
 - [The weird ringed dwarf planet Quaoar may have an extra moon, astronomers discover](https://www.space.com/astronomy/dwarf-planets/the-weird-ringed-dwarf-planet-quaoar-may-have-an-extra-moon-astronomers-discover)
 - [Robinhood embraces copy trading after warning competitors about regulatory risks](https://techcrunch.com/2025/09/09/robinhood-embraces-copy-trading-after-warning-competitors-about-regulatory-risks/)
 - [Sources: AI training startup Mercor eyes $10B+ valuation on $450 million run rate](https://techcrunch.com/2025/09/09/sources-ai-training-startup-mercor-eyes-10b-valuation-on-450-million-run-rate/)
-- [From mixers to pitch-offs — your brand event belongs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/09/from-mixers-to-pitch-offs-your-brand-event-belongs-at-techcrunch-disrupt-2025/)
-- [Help, I have been charmed by the iPhone Air](https://techcrunch.com/2025/09/09/help-i-have-been-charmed-by-the-iphone-air/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
