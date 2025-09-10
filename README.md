@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Uber will add Blade’s helicopters to its platform as early as 2026](https://techcrunch.com/2025/09/10/uber-will-add-blades-helicopters-to-its-platform-as-early-as-2026/)
-- [Ex-Google X trio wants their AI to be your second brain — and they just raised $6M to make it happen](https://techcrunch.com/2025/09/10/ex-google-x-trio-wants-their-ai-to-be-your-second-brain-and-they-just-raised-6m-to-make-it-happen/)
-- [Working on a 39-foot telescope dish | Space photo of the day for Sept. 10, 2025](https://www.space.com/astronomy/working-on-a-39-foot-telescope-dish-space-photo-of-the-day-for-sept-10-2025)
-- [Tinder evolves some features into dating ‘modes’](https://techcrunch.com/2025/09/10/tinder-evolves-some-features-into-dating-modes/)
-- [Google’s former security leads raise $13M to fight email threats before they reach you](https://techcrunch.com/2025/09/10/googles-former-security-leads-raise-13m-to-fight-email-threats-before-they-reach-you/)
+- [Jaguar Land Rover says data stolen in disruptive cyberattack](https://techcrunch.com/2025/09/10/jaguar-land-rover-says-data-stolen-in-disruptive-cyberattack/)
+- [RSS co-creator launches new protocol for AI data licensing](https://techcrunch.com/2025/09/10/rss-co-creator-launches-new-protocol-for-ai-data-licensing/)
+- [Rendezvous Robotics exits stealth with $3M to build reconfigurable space infrastructure](https://techcrunch.com/2025/09/10/rendezvous-robotics-exits-stealth-with-3m-to-build-reconfigurable-space-infrastructure/)
+- [Lyft and May Mobility launch robotaxis in Atlanta](https://techcrunch.com/2025/09/10/lyfts-modest-robotaxi-launch-highlights-growing-gap-with-uber-and-waymo/)
+- [Zoox opens its Las Vegas robotaxi service to the public](https://techcrunch.com/2025/09/10/zoox-opens-its-las-vegas-robotaxi-service-to-the-public/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
