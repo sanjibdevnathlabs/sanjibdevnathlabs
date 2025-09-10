@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber will add Blade’s helicopters to its platform as early as 2026](https://techcrunch.com/2025/09/10/uber-will-add-blades-helicopters-to-its-platform-as-early-as-2026/)
+- [Ex-Google X trio wants their AI to be your second brain — and they just raised $6M to make it happen](https://techcrunch.com/2025/09/10/ex-google-x-trio-wants-their-ai-to-be-your-second-brain-and-they-just-raised-6m-to-make-it-happen/)
+- [Working on a 39-foot telescope dish | Space photo of the day for Sept. 10, 2025](https://www.space.com/astronomy/working-on-a-39-foot-telescope-dish-space-photo-of-the-day-for-sept-10-2025)
+- [Tinder evolves some features into dating ‘modes’](https://techcrunch.com/2025/09/10/tinder-evolves-some-features-into-dating-modes/)
 - [Google’s former security leads raise $13M to fight email threats before they reach you](https://techcrunch.com/2025/09/10/googles-former-security-leads-raise-13m-to-fight-email-threats-before-they-reach-you/)
-- [Spotify is finally launching support for lossless music streaming](https://techcrunch.com/2025/09/10/spotify-is-finally-launching-support-for-lossless-music-streaming/)
-- [The weird ringed dwarf planet Quaoar may have an extra moon, astronomers discover](https://www.space.com/astronomy/dwarf-planets/the-weird-ringed-dwarf-planet-quaoar-may-have-an-extra-moon-astronomers-discover)
-- [Robinhood embraces copy trading after warning competitors about regulatory risks](https://techcrunch.com/2025/09/09/robinhood-embraces-copy-trading-after-warning-competitors-about-regulatory-risks/)
-- [Sources: AI training startup Mercor eyes $10B+ valuation on $450 million run rate](https://techcrunch.com/2025/09/09/sources-ai-training-startup-mercor-eyes-10b-valuation-on-450-million-run-rate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
