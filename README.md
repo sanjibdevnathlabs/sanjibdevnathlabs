@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A California bill that would regulate AI companion chatbots is close to becoming law](https://techcrunch.com/2025/09/10/a-california-bill-that-would-regulate-ai-companion-chatbots-is-close-to-becoming-law/)
+- [Perplexity reportedly raised $200M at $20B valuation](https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/)
 - [Thinking Machines Lab wants to make AI models more consistent](https://techcrunch.com/2025/09/10/thinking-machines-lab-wants-to-make-ai-models-more-consistent/)
 - [How to turn off autoplay on your social media feeds](https://techcrunch.com/2025/09/10/how-to-turn-off-autoplay-on-your-social-media-feeds/)
 - [&#39;Destiny 2&#39; meets &#39;Star Wars&#39; in ‘Renegades’ expansion, adding blasters, lightsabers, and a wretched hive of scum and villainy &lpar;video&rpar;](https://www.space.com/entertainment/space-games/destiny-2-meets-star-wars-in-renegades-expansion-adding-blasters-lightsabers-and-a-wretched-hive-of-scum-and-villainy-video)
-- [SpaceX buys $17 billion worth of satellite spectrum to beef up Starlink broadband service](https://www.space.com/space-exploration/satellites/spacex-buys-usd17-billion-worth-of-satellite-spectrum-to-beef-up-starlink-broadband-service)
-- [While US stalls, Australia and Anduril move to put XL undersea vehicle into service](https://techcrunch.com/2025/09/10/while-u-s-stalls-australia-and-anduril-move-to-put-xl-undersea-vehicle-into-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
