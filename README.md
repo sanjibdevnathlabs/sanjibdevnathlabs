@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Auroras, galaxies and the moon: 12 incredible cosmic photos that won this year&#39;s top astrophotography awards](https://www.space.com/stargazing/astrophotography/auroras-galaxies-and-the-moon-12-incredible-cosmic-photos-that-won-this-years-top-astrophotography-awards)
+- [Justice Department sues Uber for allegedly discriminating against people with disabilities](https://techcrunch.com/2025/09/11/justice-department-sues-uber-for-allegedly-discriminating-against-people-with-disabilities/)
+- [VC leaders from 01 Advisors take the Builders Stage at TechCrunch Disrupt 2025 to share the scaling playbook](https://techcrunch.com/2025/09/11/what-comes-after-twitter-and-meta-the-founders-of-01a-share-their-playbook-at-techcrunch-disrupt-2025/)
 - [FTC launches inquiry into AI chatbot companions from Meta, OpenAI, and others](https://techcrunch.com/2025/09/11/ftc-launches-inquiry-into-ai-chatbot-companions-from-meta-openai-and-others/)
 - [James Webb Space Telescope studies a &#39;failed star&#39; named &#39;The Accident&#39; to solve an old mystery of Jupiter and Saturn](https://www.space.com/astronomy/james-webb-space-telescope-studies-a-failed-star-named-the-accident-to-solve-an-old-mystery-of-jupiter-and-saturn)
-- [Sun dogs, rainbows and glories are celestial wonders – and they may appear in alien skies too](https://www.space.com/astronomy/exoplanets/sun-dogs-rainbows-and-glories-are-celestial-wonders-and-they-may-appear-in-alien-skies-too)
-- [&#39;I have you now!&#39;: Darth Vader&#39;s lightsaber from &#39;Star Wars&#39; sells for $3.6 million at auction](https://www.space.com/entertainment/i-have-you-now-darth-vaders-lightsaber-from-star-wars-sells-for-usd3-6-million-at-auction)
-- [Gmail makes it easier to track upcoming package deliveries](https://techcrunch.com/2025/09/11/gmail-makes-it-easier-to-track-upcoming-package-deliveries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
