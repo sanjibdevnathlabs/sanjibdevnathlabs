@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Starlink satellite photobombs orbital view of secret Chinese air base &lpar;photo&rpar;](https://www.space.com/space-exploration/satellites/spacex-starlink-satellite-photobombs-orbital-view-of-secret-chinese-air-base-photo)
-- [Watch the winners of the ZWO Astronomy Photographer of the Year Award 2025 announced live online today &lpar;video&rpar;](https://www.space.com/stargazing/astrophotography/watch-live-zwo-astronomy-photographer-of-the-year-award-2025-video)
-- [How Bill Gates’s fellowship program is adapting to global uncertainty](https://techcrunch.com/2025/09/11/how-bill-gatess-fellowship-program-is-adapting-to-global-uncertainty/)
-- [I beat light pollution with this smart telescope — everything I saw in the night sky from a city center](https://www.space.com/stargazing/i-beat-light-pollution-with-this-smart-telescope-everything-i-saw-in-the-night-sky-from-a-city-center)
-- [&#39;Star Trek: Strange New Worlds&#39; season 3 finale blurs the line between sci-fi and fantasy... and that&#39;s OK](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-3-finale-blurs-the-line-between-sci-fi-and-fantasy-and-thats-ok)
+- [Humanoids, AVs, and what’s next in AI hardware with Waabi and Apptronik at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/11/humanoids-avs-and-whats-next-in-ai-hardware-at-techcrunch-disrupt-2025/)
+- [James Webb Space Telescope images enormous star shooting out twin jets 8 light-years long](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-images-enormous-star-shooting-out-twin-jets-8-light-years-long)
+- [HBO Max is going to get more expensive, Warner Bros. Discovery CEO says](https://techcrunch.com/2025/09/11/hbo-max-is-going-to-get-more-expensive-warner-bros-discovery-ceo-says/)
+- [Kids in the UK are hacking their own schools for dares and notoriety](https://techcrunch.com/2025/09/11/kids-in-the-uk-are-hacking-their-own-schools-for-dares-and-notoriety/)
+- [Box CEO Aaron Levie on AI’s ‘era of context’](https://techcrunch.com/2025/09/11/box-ceo-aaron-levie-on-ais-era-of-context/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
