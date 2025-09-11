@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC launches inquiry into AI chatbot companions from Meta, OpenAI, and others](https://techcrunch.com/2025/09/11/ftc-launches-inquiry-into-ai-chatbot-companions-from-meta-openai-and-others/)
+- [James Webb Space Telescope studies a &#39;failed star&#39; named &#39;The Accident&#39; to solve an old mystery of Jupiter and Saturn](https://www.space.com/astronomy/james-webb-space-telescope-studies-a-failed-star-named-the-accident-to-solve-an-old-mystery-of-jupiter-and-saturn)
 - [Sun dogs, rainbows and glories are celestial wonders – and they may appear in alien skies too](https://www.space.com/astronomy/exoplanets/sun-dogs-rainbows-and-glories-are-celestial-wonders-and-they-may-appear-in-alien-skies-too)
 - [&#39;I have you now!&#39;: Darth Vader&#39;s lightsaber from &#39;Star Wars&#39; sells for $3.6 million at auction](https://www.space.com/entertainment/i-have-you-now-darth-vaders-lightsaber-from-star-wars-sells-for-usd3-6-million-at-auction)
 - [Gmail makes it easier to track upcoming package deliveries](https://techcrunch.com/2025/09/11/gmail-makes-it-easier-to-track-upcoming-package-deliveries/)
-- [Infrared instruments could spot exotic ice on other worlds](https://www.space.com/astronomy/infrared-instruments-could-spot-exotic-ice-on-other-worlds)
-- [France says Apple notified victims of new spyware attacks](https://techcrunch.com/2025/09/11/france-says-apple-notified-victims-of-new-spyware-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
