@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Starlink satellite photobombs orbital view of secret Chinese air base &lpar;photo&rpar;](https://www.space.com/space-exploration/satellites/spacex-starlink-satellite-photobombs-orbital-view-of-secret-chinese-air-base-photo)
+- [Watch the winners of the ZWO Astronomy Photographer of the Year Award 2025 announced live online today &lpar;video&rpar;](https://www.space.com/stargazing/astrophotography/watch-live-zwo-astronomy-photographer-of-the-year-award-2025-video)
 - [How Bill Gates’s fellowship program is adapting to global uncertainty](https://techcrunch.com/2025/09/11/how-bill-gatess-fellowship-program-is-adapting-to-global-uncertainty/)
 - [I beat light pollution with this smart telescope — everything I saw in the night sky from a city center](https://www.space.com/stargazing/i-beat-light-pollution-with-this-smart-telescope-everything-i-saw-in-the-night-sky-from-a-city-center)
 - [&#39;Star Trek: Strange New Worlds&#39; season 3 finale blurs the line between sci-fi and fantasy... and that&#39;s OK](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-3-finale-blurs-the-line-between-sci-fi-and-fantasy-and-thats-ok)
-- [Apple’s new live translation feature for AirPods won’t be available in the EU at launch](https://techcrunch.com/2025/09/11/apples-new-live-translation-feature-for-airpods-wont-be-available-in-the-eu-at-launch/)
-- [Hubble telescope spies glowing galaxy in a cosmic &#39;Crane&#39; | Space photo of the day for Sept. 11, 2025](https://www.space.com/astronomy/hubble-telescope-spies-glowing-galaxy-in-a-cosmic-crane-space-photo-of-the-day-for-sept-11-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
