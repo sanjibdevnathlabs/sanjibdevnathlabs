@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gmail makes it easier to track upcoming package deliveries](https://techcrunch.com/2025/09/11/gmail-makes-it-easier-to-track-upcoming-package-deliveries/)
+- [Infrared instruments could spot exotic ice on other worlds](https://www.space.com/astronomy/infrared-instruments-could-spot-exotic-ice-on-other-worlds)
+- [France says Apple notified victims of new spyware attacks](https://techcrunch.com/2025/09/11/france-says-apple-notified-victims-of-new-spyware-attacks/)
+- [Google is shutting down Tables, its Airtable rival](https://techcrunch.com/2025/09/11/google-is-shutting-down-tables-its-airtable-rival/)
 - [Humanoids, AVs, and what’s next in AI hardware with Waabi and Apptronik at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/11/humanoids-avs-and-whats-next-in-ai-hardware-at-techcrunch-disrupt-2025/)
-- [James Webb Space Telescope images enormous star shooting out twin jets 8 light-years long](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-images-enormous-star-shooting-out-twin-jets-8-light-years-long)
-- [HBO Max is going to get more expensive, Warner Bros. Discovery CEO says](https://techcrunch.com/2025/09/11/hbo-max-is-going-to-get-more-expensive-warner-bros-discovery-ceo-says/)
-- [Kids in the UK are hacking their own schools for dares and notoriety](https://techcrunch.com/2025/09/11/kids-in-the-uk-are-hacking-their-own-schools-for-dares-and-notoriety/)
-- [Box CEO Aaron Levie on AI’s ‘era of context’](https://techcrunch.com/2025/09/11/box-ceo-aaron-levie-on-ais-era-of-context/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
