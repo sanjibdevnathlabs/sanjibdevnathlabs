@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Bill Gates’s fellowship program is adapting to global uncertainty](https://techcrunch.com/2025/09/11/how-bill-gatess-fellowship-program-is-adapting-to-global-uncertainty/)
+- [I beat light pollution with this smart telescope — everything I saw in the night sky from a city center](https://www.space.com/stargazing/i-beat-light-pollution-with-this-smart-telescope-everything-i-saw-in-the-night-sky-from-a-city-center)
+- [&#39;Star Trek: Strange New Worlds&#39; season 3 finale blurs the line between sci-fi and fantasy... and that&#39;s OK](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-3-finale-blurs-the-line-between-sci-fi-and-fantasy-and-thats-ok)
+- [Apple’s new live translation feature for AirPods won’t be available in the EU at launch](https://techcrunch.com/2025/09/11/apples-new-live-translation-feature-for-airpods-wont-be-available-in-the-eu-at-launch/)
 - [Hubble telescope spies glowing galaxy in a cosmic &#39;Crane&#39; | Space photo of the day for Sept. 11, 2025](https://www.space.com/astronomy/hubble-telescope-spies-glowing-galaxy-in-a-cosmic-crane-space-photo-of-the-day-for-sept-11-2025)
-- [Did NASA&#39;s Perseverance rover actually find evidence of life on Mars? We need to haul its samples home to find out, scientists say](https://www.space.com/astronomy/mars/did-nasas-perseverance-rover-actually-find-evidence-of-life-on-mars-we-need-to-haul-its-samples-home-to-find-out-scientists-say)
-- [Watch Russia launch 2.8 tons of cargo toward the ISS today](https://www.space.com/space-exploration/launches-spacecraft/russia-progress-93-cargo-spacecraft-iss)
-- [A California bill that would regulate AI companion chatbots is close to becoming law](https://techcrunch.com/2025/09/10/a-california-bill-that-would-regulate-ai-companion-chatbots-is-close-to-becoming-law/)
-- [Perplexity reportedly raised $200M at $20B valuation](https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
