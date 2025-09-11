@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s latest iPhone security feature just made life more difficult for spyware makers](https://techcrunch.com/2025/09/11/apples-latest-iphone-security-feature-just-made-life-more-difficult-for-spyware-makers/)
+- [Astronomers finally find elusive, dust-shrouded supermassive black holes at ‘Cosmic Dawn’](https://www.space.com/astronomy/astronomers-finally-find-elusive-dust-shrouded-supermassive-black-holes-at-cosmic-dawn)
 - [The music industry is broken. OpenWav’s new app aims to change that](https://techcrunch.com/2025/09/11/the-music-industry-is-broken-openwavs-new-app-aims-to-change-that/)
 - [Tesla’s robotaxi plans for Nevada move forward with testing permit](https://techcrunch.com/2025/09/11/teslas-robotaxi-plans-for-nevada-move-forward-with-testing-permit/)
 - [108 million degrees! Solar flares are far hotter than thought, study suggests](https://www.space.com/astronomy/sun/108-million-degrees-solar-flares-are-far-hotter-than-thought-study-suggests)
-- [Elon Musk’s Boring Company suspends work on Vegas airport tunnel after ‘crushing injury’](https://techcrunch.com/2025/09/11/elon-musks-boring-company-suspends-work-on-vegas-airport-tunnel-after-crushing-injury/)
-- [Auroras, galaxies and the moon: 12 incredible cosmic photos that won 2025 top astrophotography awards](https://www.space.com/stargazing/astrophotography/auroras-galaxies-and-the-moon-12-incredible-cosmic-photos-that-won-2025-top-astrophotography-awards)
 <!-- BLOG-POST-LIST:END -->
 
 ---
