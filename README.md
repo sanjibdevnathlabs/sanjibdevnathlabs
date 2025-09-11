@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The music industry is broken. OpenWav’s new app aims to change that](https://techcrunch.com/2025/09/11/the-music-industry-is-broken-openwavs-new-app-aims-to-change-that/)
+- [Tesla’s robotaxi plans for Nevada move forward with testing permit](https://techcrunch.com/2025/09/11/teslas-robotaxi-plans-for-nevada-move-forward-with-testing-permit/)
 - [108 million degrees! Solar flares are far hotter than thought, study suggests](https://www.space.com/astronomy/sun/108-million-degrees-solar-flares-are-far-hotter-than-thought-study-suggests)
 - [Elon Musk’s Boring Company suspends work on Vegas airport tunnel after ‘crushing injury’](https://techcrunch.com/2025/09/11/elon-musks-boring-company-suspends-work-on-vegas-airport-tunnel-after-crushing-injury/)
 - [Auroras, galaxies and the moon: 12 incredible cosmic photos that won 2025 top astrophotography awards](https://www.space.com/stargazing/astrophotography/auroras-galaxies-and-the-moon-12-incredible-cosmic-photos-that-won-2025-top-astrophotography-awards)
-- [Justice Department sues Uber for allegedly discriminating against people with disabilities](https://techcrunch.com/2025/09/11/justice-department-sues-uber-for-allegedly-discriminating-against-people-with-disabilities/)
-- [VC leaders from 01 Advisors take the Builders Stage at TechCrunch Disrupt 2025 to share the scaling playbook](https://techcrunch.com/2025/09/11/what-comes-after-twitter-and-meta-the-founders-of-01a-share-their-playbook-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
