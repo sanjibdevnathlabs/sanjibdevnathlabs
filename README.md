@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sun dogs, rainbows and glories are celestial wonders – and they may appear in alien skies too](https://www.space.com/astronomy/exoplanets/sun-dogs-rainbows-and-glories-are-celestial-wonders-and-they-may-appear-in-alien-skies-too)
+- [&#39;I have you now!&#39;: Darth Vader&#39;s lightsaber from &#39;Star Wars&#39; sells for $3.6 million at auction](https://www.space.com/entertainment/i-have-you-now-darth-vaders-lightsaber-from-star-wars-sells-for-usd3-6-million-at-auction)
 - [Gmail makes it easier to track upcoming package deliveries](https://techcrunch.com/2025/09/11/gmail-makes-it-easier-to-track-upcoming-package-deliveries/)
 - [Infrared instruments could spot exotic ice on other worlds](https://www.space.com/astronomy/infrared-instruments-could-spot-exotic-ice-on-other-worlds)
 - [France says Apple notified victims of new spyware attacks](https://techcrunch.com/2025/09/11/france-says-apple-notified-victims-of-new-spyware-attacks/)
-- [Google is shutting down Tables, its Airtable rival](https://techcrunch.com/2025/09/11/google-is-shutting-down-tables-its-airtable-rival/)
-- [Humanoids, AVs, and what’s next in AI hardware with Waabi and Apptronik at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/11/humanoids-avs-and-whats-next-in-ai-hardware-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
