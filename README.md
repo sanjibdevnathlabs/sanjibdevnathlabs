@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Auroras, galaxies and the moon: 12 incredible cosmic photos that won this year&#39;s top astrophotography awards](https://www.space.com/stargazing/astrophotography/auroras-galaxies-and-the-moon-12-incredible-cosmic-photos-that-won-this-years-top-astrophotography-awards)
+- [108 million degrees! Solar flares are far hotter than thought, study suggests](https://www.space.com/astronomy/sun/108-million-degrees-solar-flares-are-far-hotter-than-thought-study-suggests)
+- [Elon Musk’s Boring Company suspends work on Vegas airport tunnel after ‘crushing injury’](https://techcrunch.com/2025/09/11/elon-musks-boring-company-suspends-work-on-vegas-airport-tunnel-after-crushing-injury/)
+- [Auroras, galaxies and the moon: 12 incredible cosmic photos that won 2025 top astrophotography awards](https://www.space.com/stargazing/astrophotography/auroras-galaxies-and-the-moon-12-incredible-cosmic-photos-that-won-2025-top-astrophotography-awards)
 - [Justice Department sues Uber for allegedly discriminating against people with disabilities](https://techcrunch.com/2025/09/11/justice-department-sues-uber-for-allegedly-discriminating-against-people-with-disabilities/)
 - [VC leaders from 01 Advisors take the Builders Stage at TechCrunch Disrupt 2025 to share the scaling playbook](https://techcrunch.com/2025/09/11/what-comes-after-twitter-and-meta-the-founders-of-01a-share-their-playbook-at-techcrunch-disrupt-2025/)
-- [FTC launches inquiry into AI chatbot companions from Meta, OpenAI, and others](https://techcrunch.com/2025/09/11/ftc-launches-inquiry-into-ai-chatbot-companions-from-meta-openai-and-others/)
-- [James Webb Space Telescope studies a &#39;failed star&#39; named &#39;The Accident&#39; to solve an old mystery of Jupiter and Saturn](https://www.space.com/astronomy/james-webb-space-telescope-studies-a-failed-star-named-the-accident-to-solve-an-old-mystery-of-jupiter-and-saturn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
