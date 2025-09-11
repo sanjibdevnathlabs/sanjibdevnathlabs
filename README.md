@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Russia launch 2.8 tons of cargo toward the ISS today](https://www.space.com/space-exploration/launches-spacecraft/russia-progress-93-cargo-spacecraft-iss)
 - [A California bill that would regulate AI companion chatbots is close to becoming law](https://techcrunch.com/2025/09/10/a-california-bill-that-would-regulate-ai-companion-chatbots-is-close-to-becoming-law/)
 - [Perplexity reportedly raised $200M at $20B valuation](https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/)
 - [Thinking Machines Lab wants to make AI models more consistent](https://techcrunch.com/2025/09/10/thinking-machines-lab-wants-to-make-ai-models-more-consistent/)
 - [How to turn off autoplay on your social media feeds](https://techcrunch.com/2025/09/10/how-to-turn-off-autoplay-on-your-social-media-feeds/)
-- [&#39;Destiny 2&#39; meets &#39;Star Wars&#39; in ‘Renegades’ expansion, adding blasters, lightsabers, and a wretched hive of scum and villainy &lpar;video&rpar;](https://www.space.com/entertainment/space-games/destiny-2-meets-star-wars-in-renegades-expansion-adding-blasters-lightsabers-and-a-wretched-hive-of-scum-and-villainy-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
