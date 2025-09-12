@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sunrise over NASA&#39;s &#39;quiet&#39; supersonic X-59 jet | Space photo of the day for Sept. 12, 2025](https://www.space.com/technology/aerospace/sunrise-over-nasas-quiet-supersonic-x-59-jet-space-photo-of-the-day-for-sept-12-2025)
 - [&#39;I&#39;ll be damned if that&#39;s the story we write&#39;: Acting NASA Administrator Duffy vows not to lose moon race to China](https://www.space.com/space-exploration/ill-be-damned-if-thats-the-story-we-write-acting-nasa-administrator-duffy-vows-not-to-lose-moon-race-to-china)
-- [SpaceX launches powerful satellite to orbit for Indonesian telecom company](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-powerful-satellite-to-orbit-for-indonesian-telecom-company)
+- [SpaceX launches powerful satellite to orbit for Indonesian telecom company &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-powerful-satellite-to-orbit-for-indonesian-telecom-company)
 - [A California bill that would regulate AI companion chatbots is close to becoming law](https://techcrunch.com/2025/09/11/a-california-bill-that-would-regulate-ai-companion-chatbots-is-close-to-becoming-law/)
 - [OpenAI secures Microsoft’s blessing to transition its for-profit arm](https://techcrunch.com/2025/09/11/openai-secures-microsofts-blessing-to-transition-its-for-profit-arm/)
-- [Apple’s latest iPhone security feature just made life more difficult for spyware makers](https://techcrunch.com/2025/09/11/apples-latest-iphone-security-feature-just-made-life-more-difficult-for-spyware-makers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
