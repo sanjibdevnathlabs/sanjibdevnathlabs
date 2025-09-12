@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the Oracle-OpenAI deal caught Wall Street by surprise](https://techcrunch.com/2025/09/12/why-the-oracle-openai-deal-caught-wall-street-by-surprise/)
+- [Astronomers discover rogue black hole speeding through distant dwarf galaxy](https://www.space.com/astronomy/black-holes/rogue-black-hole-300-000-times-larger-than-the-sun-found-zooming-through-distant-dwarf-galaxy)
 - [US Air Force selects Blue Origin and Anduril for rocket cargo delivery project: report](https://www.space.com/space-exploration/launches-spacecraft/us-air-force-selects-blue-origin-and-anduril-for-rocket-cargo-delivery-project-report)
 - [Google is a ‘bad actor’ says People CEO, accusing the company of stealing content](https://techcrunch.com/2025/09/12/google-is-a-bad-actor-says-people-ceo-accusing-the-company-of-stealing-content/)
 - [All of the iPhone 17 models compared](https://techcrunch.com/2025/09/12/all-of-the-iphone-17-models-compared/)
-- [Mars shines red next to blue Spica at sunset on Sept. 13](https://www.space.com/stargazing/mars-shines-red-with-blue-spica-sunset-sept-13-2025)
-- [Micro1, a competitor to Scale AI, raises funds at $500M valuation](https://techcrunch.com/2025/09/12/micro1-a-competitor-to-scale-ai-raises-funds-at-500m-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
