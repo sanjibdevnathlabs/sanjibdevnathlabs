@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars shines red next to blue Spica at sunset on Sept. 13](https://www.space.com/stargazing/mars-shines-red-with-blue-spica-sunset-sept-13-2025)
 - [Micro1, a competitor to Scale AI, raises funds at $500M valuation](https://techcrunch.com/2025/09/12/micro1-a-competitor-to-scale-ai-raises-funds-at-500m-valuation/)
-- [NASA workers plan 3rd protest at D.C. headquarters on Sept. 15 to denounce Trump&#39;s science funding cuts](https://www.space.com/space-exploration/nasa-employees-plan-3rd-protest-at-d-c-headquarters-on-sept-15-to-denounce-trumps-science-funding-cuts)
+- [NASA workers plan 3rd protest at D.C. headquarters on Sept. 15 to decry Trump&#39;s science funding cuts](https://www.space.com/space-exploration/nasa-employees-plan-3rd-protest-at-d-c-headquarters-on-sept-15-to-denounce-trumps-science-funding-cuts)
 - [New FAA program will let eVTOL startups test some operations before full certification](https://techcrunch.com/2025/09/12/new-faa-program-will-let-evtol-startups-test-some-operations-before-full-certification/)
 - [Is there life on Saturn&#39;s moon Enceladus? New study complicates the search](https://www.space.com/space-exploration/search-for-life/is-there-life-on-saturns-moon-enceladus-new-study-complicates-the-search)
-- [Mastodon rolls out quote posts with protections to prevent ‘dunking’](https://techcrunch.com/2025/09/12/mastodon-rolls-out-quote-posts-with-protections-to-prevent-dunking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
