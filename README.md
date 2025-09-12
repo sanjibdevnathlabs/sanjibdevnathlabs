@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches powerful satellite to orbit for Indonesian telecom company](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-powerful-satellite-to-orbit-for-indonesian-telecom-company)
 - [A California bill that would regulate AI companion chatbots is close to becoming law](https://techcrunch.com/2025/09/11/a-california-bill-that-would-regulate-ai-companion-chatbots-is-close-to-becoming-law/)
 - [OpenAI secures Microsoft’s blessing to transition its for-profit arm](https://techcrunch.com/2025/09/11/openai-secures-microsofts-blessing-to-transition-its-for-profit-arm/)
 - [Apple’s latest iPhone security feature just made life more difficult for spyware makers](https://techcrunch.com/2025/09/11/apples-latest-iphone-security-feature-just-made-life-more-difficult-for-spyware-makers/)
 - [Astronomers finally find elusive, dust-shrouded supermassive black holes at ‘Cosmic Dawn’](https://www.space.com/astronomy/astronomers-finally-find-elusive-dust-shrouded-supermassive-black-holes-at-cosmic-dawn)
-- [The music industry is broken: OpenWav’s new app aims to change that](https://techcrunch.com/2025/09/11/the-music-industry-is-broken-openwavs-new-app-aims-to-change-that/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
