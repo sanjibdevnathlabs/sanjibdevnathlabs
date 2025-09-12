@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sunrise over NASA&#39;s &#39;quiet&#39; supersonic X-59 jet | Space photo of the day for Sept. 12, 2025](https://www.space.com/technology/aerospace/sunrise-over-nasas-quiet-supersonic-x-59-jet-space-photo-of-the-day-for-sept-12-2025)
-- [&#39;I&#39;ll be damned if that&#39;s the story we write&#39;: Acting NASA Administrator Duffy vows not to lose moon race to China](https://www.space.com/space-exploration/ill-be-damned-if-thats-the-story-we-write-acting-nasa-administrator-duffy-vows-not-to-lose-moon-race-to-china)
-- [SpaceX launches powerful satellite to orbit for Indonesian telecom company &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-powerful-satellite-to-orbit-for-indonesian-telecom-company)
-- [A California bill that would regulate AI companion chatbots is close to becoming law](https://techcrunch.com/2025/09/11/a-california-bill-that-would-regulate-ai-companion-chatbots-is-close-to-becoming-law/)
-- [OpenAI secures Microsoft’s blessing to transition its for-profit arm](https://techcrunch.com/2025/09/11/openai-secures-microsofts-blessing-to-transition-its-for-profit-arm/)
+- [Apple delays release of iPhone Air in China due to pending approval of eSIM](https://techcrunch.com/2025/09/12/apple-delays-release-of-iphone-air-in-china-due-to-pending-approval-of-esim/)
+- [Microsoft slips unscathed through EU competition probe after promising to unbundle Teams](https://techcrunch.com/2025/09/12/microsoft-slips-unscathed-through-eu-competition-probe-after-promising-to-unbundle-teams/)
+- [We are entering a golden age of robotics startups — and not just because of AI](https://techcrunch.com/2025/09/12/we-are-entering-a-golden-age-of-robotics-startups-and-not-just-because-of-ai/)
+- [Lego Brick Built Star Wars Logo review — with timelapse video](https://www.space.com/technology/lego-brick-built-star-wars-logo-review)
+- [Scientists say there&#39;s a 90% chance we could spot an exploding black hole in the next decade](https://www.space.com/astronomy/black-holes/scientists-say-theres-a-90-percent-chance-we-could-spot-an-exploding-black-hole-in-the-next-decade)
 <!-- BLOG-POST-LIST:END -->
 
 ---
