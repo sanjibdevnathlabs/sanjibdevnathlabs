@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t miss the moon shine close to the Pleiades star cluster on Sept. 12](https://www.space.com/stargazing/dont-miss-moon-shine-close-to-pleiades-star-cluster-sept-12-2025)
+- [No redshirts allowed: A nearly impossible sci-fi trivia quiz for command-level nerds only](https://www.space.com/entertainment/no-redshirts-allowed-a-nearly-impossible-sci-fi-trivia-quiz-for-command-level-nerds-only)
 - [Apple delays release of iPhone Air in China due to pending approval of eSIM](https://techcrunch.com/2025/09/12/apple-delays-release-of-iphone-air-in-china-due-to-pending-approval-of-esim/)
 - [Microsoft slips unscathed through EU competition probe after promising to unbundle Teams](https://techcrunch.com/2025/09/12/microsoft-slips-unscathed-through-eu-competition-probe-after-promising-to-unbundle-teams/)
 - [We are entering a golden age of robotics startups — and not just because of AI](https://techcrunch.com/2025/09/12/we-are-entering-a-golden-age-of-robotics-startups-and-not-just-because-of-ai/)
-- [Lego Brick Built Star Wars Logo review — with timelapse video](https://www.space.com/technology/lego-brick-built-star-wars-logo-review)
-- [Scientists say there&#39;s a 90% chance we could spot an exploding black hole in the next decade](https://www.space.com/astronomy/black-holes/scientists-say-theres-a-90-percent-chance-we-could-spot-an-exploding-black-hole-in-the-next-decade)
 <!-- BLOG-POST-LIST:END -->
 
 ---
