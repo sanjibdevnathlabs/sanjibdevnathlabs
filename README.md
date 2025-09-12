@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Via shrugs off tepid open to end first day of trading slightly above IPO price](https://techcrunch.com/2025/09/12/via-shrugs-off-tepid-open-to-end-first-day-of-trading-slightly-above-ipo-price/)
 - [Scientists measure &#39;kick&#39; that sent baby black hole flying away from its home for 1st time](https://www.space.com/astronomy/black-holes/scientists-measure-kick-that-sent-baby-black-hole-flying-away-from-its-home-for-1st-time)
 - [Pilot union urges FAA to reject Rainmaker’s drone cloud-seeding plan](https://techcrunch.com/2025/09/12/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan/)
 - [Why the Oracle-OpenAI deal caught Wall Street by surprise](https://techcrunch.com/2025/09/12/why-the-oracle-openai-deal-caught-wall-street-by-surprise/)
 - [Astronomers discover rogue black hole speeding through distant dwarf galaxy](https://www.space.com/astronomy/black-holes/rogue-black-hole-300-000-times-larger-than-the-sun-found-zooming-through-distant-dwarf-galaxy)
-- [US Air Force selects Blue Origin and Anduril for rocket cargo delivery project: report](https://www.space.com/space-exploration/launches-spacecraft/us-air-force-selects-blue-origin-and-anduril-for-rocket-cargo-delivery-project-report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
