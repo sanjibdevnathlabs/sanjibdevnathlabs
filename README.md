@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hike, once a unicorn, shuts down as India cracks down on real-money gaming](https://techcrunch.com/2025/09/13/hike-once-a-unicorn-shuts-down-as-india-cracks-down-on-real-money-gaming/)
 - [Guess that alien planet: Are you an exoplanet expert?](https://www.space.com/astronomy/exoplanets/guess-that-alien-planet-are-you-an-exoplanet-expert)
 - [Storms leave 120-mile scar in Alberta visible from space &lpar;images&rpar;](https://www.space.com/astronomy/earth/storms-leave-120-mile-scar-in-alberta-visible-from-space-images)
 - [UAP witnesses criticize Pentagon UFO office in Congressional hearing for &#39;using science and coming up with answers&#39;](https://www.space.com/space-exploration/uap-witnesses-criticize-pentagon-ufo-office-in-congressional-hearing-for-using-science-and-coming-up-with-answers)
 - [Astronaut preps purple kefir for a vitamin boost | On the International Space Station Sept. 8-12, 2025](https://www.space.com/space-exploration/international-space-station/astronaut-preps-purple-kefir-for-a-vitamin-boost-on-the-international-space-station-sept-8-12-2025)
-- [Ram ends EV pickup truck plans](https://techcrunch.com/2025/09/12/ram-ends-ev-pickup-truck-plans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
