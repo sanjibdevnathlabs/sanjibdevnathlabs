@@ -148,7 +148,7 @@ I'm a software developer passionate about designing and building applications wi
 <!-- BLOG-POST-LIST:START -->
 - [Pilot union urges FAA to reject Rainmaker’s drone cloud-seeding plan](https://techcrunch.com/2025/09/13/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan/)
 - [California lawmakers pass AI safety bill SB 53 — but Newsom could still veto](https://techcrunch.com/2025/09/13/california-lawmakers-pass-ai-safety-bill-sb-53-but-newsom-could-still-veto/)
-- [SpaceX launches two dozen Starlink broadband satellites from California &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-17-10-vandenberg-space-force-base)
+- [SpaceX launches 300th Starlink satellite-internet mission &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-17-10-vandenberg-space-force-base)
 - [Russian Progress spacecraft arrives at the ISS with 2.8 tons of cargo](https://www.space.com/space-exploration/international-space-station/russia-progress-93-spacecraft-arrives-international-space-station)
 - [xAI reportedly lays off 500 workers from data annotation team](https://techcrunch.com/2025/09/13/xai-reportedly-lays-off-500-workers-from-data-annotation-team/)
 <!-- BLOG-POST-LIST:END -->
