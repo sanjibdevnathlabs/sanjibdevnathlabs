@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronaut preps purple kefir for a vitamin boost | On the International Space Station Sept. 8-12, 2025](https://www.space.com/space-exploration/international-space-station/astronaut-preps-purple-kefir-for-a-vitamin-boost-on-the-international-space-station-sept-8-12-2025)
 - [Ram ends EV pickup truck plans](https://techcrunch.com/2025/09/12/ram-ends-ev-pickup-truck-plans/)
 - [Via shrugs off tepid open to end first day of trading slightly above IPO price](https://techcrunch.com/2025/09/12/via-shrugs-off-tepid-open-to-end-first-day-of-trading-slightly-above-ipo-price/)
 - [Scientists measure &#39;kick&#39; that sent baby black hole flying away from its home for 1st time](https://www.space.com/astronomy/black-holes/scientists-measure-kick-that-sent-baby-black-hole-flying-away-from-its-home-for-1st-time)
 - [Pilot union urges FAA to reject Rainmaker’s drone cloud-seeding plan](https://techcrunch.com/2025/09/12/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan/)
-- [Why the Oracle-OpenAI deal caught Wall Street by surprise](https://techcrunch.com/2025/09/12/why-the-oracle-openai-deal-caught-wall-street-by-surprise/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
