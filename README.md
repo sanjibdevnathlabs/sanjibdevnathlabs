@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russian Progress spacecraft arrives at the ISS with 2.8 tons of cargo](https://www.space.com/space-exploration/international-space-station/russia-progress-93-spacecraft-arrives-international-space-station)
 - [xAI reportedly lays off 500 workers from data annotation team](https://techcrunch.com/2025/09/13/xai-reportedly-lays-off-500-workers-from-data-annotation-team/)
 - [Here’s the tech powering ICE’s deportation crackdown](https://techcrunch.com/2025/09/13/heres-the-tech-powering-ices-deportation-crackdown/)
 - [Scientists track down fresh boulder falls on the moon](https://www.space.com/astronomy/moon/scientists-track-down-fresh-boulder-falls-on-the-moon)
 - [This Week In Space podcast: Episode 177 — Life on Mars?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-177-life-on-mars)
-- [Hike, once a unicorn, shuts down as India cracks down on real-money gaming](https://techcrunch.com/2025/09/13/hike-once-a-unicorn-shuts-down-as-india-cracks-down-on-real-money-gaming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
