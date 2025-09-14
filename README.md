@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Karen Hao on the Empire of AI, AGI evangelists, and the cost of belief](https://techcrunch.com/2025/09/14/karen-hao-on-the-empire-of-ai-agi-evangelists-and-the-cost-of-belief/)
+- [iPhone 17, iPhone Air, AirPods Pro 3, and everything else announced at Apple’s hardware event](https://techcrunch.com/2025/09/14/iphone-17-iphone-air-airpods-pro-3-and-everything-else-announced-at-apples-hardware-event/)
+- [Rolling Stone owner Penske Media sues Google over AI summaries](https://techcrunch.com/2025/09/14/rolling-stone-owner-penske-media-sues-google-over-ai-summaries/)
 - [Via raises $492.9M in IPO, and German automakers go on the offensive](https://techcrunch.com/2025/09/14/via-raises-492-9m-in-ipo-and-german-automakers-go-on-the-offensive/)
 - [‘Selling coffee beans to Starbucks’ – how the AI boom could leave AI’s biggest companies behind](https://techcrunch.com/2025/09/14/selling-coffee-beans-to-starbucks-how-the-ai-boom-could-leave-ais-biggest-companies-behind/)
-- [NASA satellites spot brand-new island in Alaska formed by melting glacier &lpar;photos&rpar;](https://www.space.com/science/climate-change/nasa-satellites-spot-brand-new-island-in-alaska-formed-by-melting-glacier-photos)
-- [1 week to go until the moon takes a ‘bite’ out of the sun during partial solar eclipse on Sept. 21](https://www.space.com/stargazing/solar-eclipses/1-week-to-go-until-partial-solar-eclipse-sept-21-2025)
-- [Watch SpaceX launch Northrop Grumman&#39;s biggest-ever cargo spacecraft on its 1st mission to the ISS today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-cygnus-ng-23-cargo-mission-international-space-station)
 <!-- BLOG-POST-LIST:END -->
 
 ---
