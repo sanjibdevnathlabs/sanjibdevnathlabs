@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Via raises $492.9M in IPO, and German automakers go on the offensive](https://techcrunch.com/2025/09/14/via-raises-492-9m-in-ipo-and-german-automakers-go-on-the-offensive/)
 - [‘Selling coffee beans to Starbucks’ – how the AI boom could leave AI’s biggest companies behind](https://techcrunch.com/2025/09/14/selling-coffee-beans-to-starbucks-how-the-ai-boom-could-leave-ais-biggest-companies-behind/)
 - [NASA satellites spot brand-new island in Alaska formed by melting glacier &lpar;photos&rpar;](https://www.space.com/science/climate-change/nasa-satellites-spot-brand-new-island-in-alaska-formed-by-melting-glacier-photos)
 - [1 week to go until the moon takes a ‘bite’ out of the sun during partial solar eclipse on Sept. 21](https://www.space.com/stargazing/solar-eclipses/1-week-to-go-until-partial-solar-eclipse-sept-21-2025)
 - [Watch SpaceX launch Northrop Grumman&#39;s biggest-ever cargo spacecraft on its 1st mission to the ISS today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-cygnus-ng-23-cargo-mission-international-space-station)
-- [LIGO Legacy: 10 incredible gravitational wave breakthroughs to celebrate observatory&#39;s landmark 2015 find](https://www.space.com/astronomy/ligo-legacy-10-incredible-gravitational-wave-breakthroughs-to-celebrate-observatorys-landmark-2015-find)
 <!-- BLOG-POST-LIST:END -->
 
 ---
