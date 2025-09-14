@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA satellites spot brand-new island in Alaska formed by melting glacier &lpar;photos&rpar;](https://www.space.com/science/climate-change/nasa-satellites-spot-brand-new-island-in-alaska-formed-by-melting-glacier-photos)
 - [1 week to go until the moon takes a ‘bite’ out of the sun during partial solar eclipse on Sept. 21](https://www.space.com/stargazing/solar-eclipses/1-week-to-go-until-partial-solar-eclipse-sept-21-2025)
 - [Watch SpaceX launch Northrop Grumman&#39;s biggest-ever cargo spacecraft on its 1st mission to the ISS today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-cygnus-ng-23-cargo-mission-international-space-station)
 - [LIGO Legacy: 10 incredible gravitational wave breakthroughs to celebrate observatory&#39;s landmark 2015 find](https://www.space.com/astronomy/ligo-legacy-10-incredible-gravitational-wave-breakthroughs-to-celebrate-observatorys-landmark-2015-find)
 - [Tesla board chair calls debate over Elon Musk’s $1T pay package ‘a little bit weird’](https://techcrunch.com/2025/09/13/tesla-board-chair-calls-debate-over-elon-musks-1t-pay-package-a-little-bit-weird/)
-- [Pilot union urges FAA to reject Rainmaker’s drone cloud-seeding plan](https://techcrunch.com/2025/09/13/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
