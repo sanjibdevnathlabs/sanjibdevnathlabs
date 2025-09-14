@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI board chair Bret Taylor says we’re in an AI bubble &lpar;but that’s okay&rpar;](https://techcrunch.com/2025/09/14/openai-board-chair-bret-taylor-says-were-in-an-ai-bubble-but-thats-okay/)
 - [Vibe coding has turned senior devs into ‘AI babysitters,’ but they say it’s worth it](https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/)
 - [Users turn to chatbots for spiritual guidance](https://techcrunch.com/2025/09/14/users-turn-to-chatbots-for-spiritual-guidance/)
 - [Karen Hao on the Empire of AI, AGI evangelists, and the cost of belief](https://techcrunch.com/2025/09/14/karen-hao-on-the-empire-of-ai-agi-evangelists-and-the-cost-of-belief/)
 - [iPhone 17, iPhone Air, AirPods Pro 3, and everything else announced at Apple’s hardware event](https://techcrunch.com/2025/09/14/iphone-17-iphone-air-airpods-pro-3-and-everything-else-announced-at-apples-hardware-event/)
-- [Rolling Stone owner Penske Media sues Google over AI summaries](https://techcrunch.com/2025/09/14/rolling-stone-owner-penske-media-sues-google-over-ai-summaries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
