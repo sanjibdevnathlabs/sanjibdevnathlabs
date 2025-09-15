@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Israel announces seizure of $1.5 million from crypto wallets tied to Iran](https://techcrunch.com/2025/09/15/israel-announces-seizure-of-1-5-million-from-crypto-wallets-tied-to-iran/)
-- [Time’s running out to volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/times-running-out-to-volunteer-at-techcrunch-disrupt-2025/)
-- [50 years ago, NASA sent 2 spacecraft to search for life on Mars – the Viking missions&#39; findings are still discussed today](https://www.space.com/space-exploration/launches-spacecraft/50-years-ago-nasa-sent-2-spacecraft-to-search-for-life-on-mars-the-viking-missions-findings-are-still-discussed-today)
-- [PayPal adds new one-to-one payment links that will soon support crypto](https://techcrunch.com/2025/09/15/paypal-adds-new-one-to-one-payment-links-that-will-soon-support-crypto/)
-- [By popular demand: 10 extra exhibit tables open at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/by-popular-demand-10-extra-exhibit-tables-open-at-techcrunch-disrupt-2025/)
+- [OpenAI upgrades Codex with a new version of GPT-5](https://techcrunch.com/2025/09/15/openai-upgrades-codex-with-a-new-version-of-gpt-5/)
+- [The ultimate comet challenge: A tail of trivia!](https://www.space.com/astronomy/comets/the-ultimate-comet-challenge-a-tail-of-trivia)
+- [Firefly Aerospace’s Alpha rocket cleared to fly again after April 29 launch failure](https://www.space.com/space-exploration/launches-spacecraft/firefly-aerospaces-alpha-rocket-cleared-to-fly-again-after-april-29-launch-failure)
+- [China says Nvidia violated antitrust regulations](https://techcrunch.com/2025/09/15/china-says-nvidia-violated-antitrust-regulations/)
+- [Israel announces seizure of $1.5M from crypto wallets tied to Iran](https://techcrunch.com/2025/09/15/israel-announces-seizure-of-1-5-million-from-crypto-wallets-tied-to-iran/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
