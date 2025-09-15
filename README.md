@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;We are ready to drive&#39;: Take a look inside Lunar Outpost&#39;s moon rover mission control &lpar;photos&rpar;](https://www.space.com/astronomy/moon/we-are-ready-to-drive-take-a-look-inside-lunar-outposts-moon-rover-mission-control-photos)
+- [Rodatherm Energy wants to make geothermal more efficient, but will it be cheaper?](https://techcrunch.com/2025/09/15/rodatherm-energy-wants-to-make-geothermal-more-efficient-but-will-it-be-cheaper/)
+- [With no DOJ breakup, Alphabet becomes a $3 trillion company](https://techcrunch.com/2025/09/15/with-no-doj-breakup-alphabet-becomes-a-3-trillion-company/)
 - [Divergent raises $290M to expand production of specialized military parts](https://techcrunch.com/2025/09/15/divergent-raises-290m-to-expand-production-of-specialized-military-parts/)
 - [Robinhood plans to launch a startups fund open to all retail investors](https://techcrunch.com/2025/09/15/robinhood-plans-to-launch-a-startups-fund-open-to-all-retail-investors/)
-- [The 9 most sought-after startups from YC Demo Day](https://techcrunch.com/2025/09/15/the-9-most-sought-after-startups-from-yc-demo-day/)
-- [Company that owns Gucci, Balenciaga, other brands confirms hack](https://techcrunch.com/2025/09/15/company-that-owns-gucci-balenciaga-other-brands-confirms-hack/)
-- [Do startups still need Silicon Valley? Founders and funders debate at TechCrunch Disrupt 2025.](https://techcrunch.com/2025/09/15/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
