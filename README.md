@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are &#39;little red dots&#39; seen by the James Webb Space Telescope actually elusive &#39;black hole stars&#39;?](https://www.space.com/astronomy/black-holes/are-little-red-dots-seen-by-the-james-webb-space-telescope-actually-elusive-black-hole-stars)
+- [Apple’s iOS 26 with the new Liquid Glass design is now available to everyone](https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/)
+- [Inside the Shift at Disrupt: Building Community and Scaling in the AI Era](https://techcrunch.com/2025/09/15/on-stage-at-techcrunch-disrupt-2025-how-ai-is-forcing-late-stage-startups-to-rewire-gtm-or-be-left-behind/)
 - [OpenAI upgrades Codex with a new version of GPT-5](https://techcrunch.com/2025/09/15/openai-upgrades-codex-with-a-new-version-of-gpt-5/)
 - [The ultimate comet challenge: A tail of trivia!](https://www.space.com/astronomy/comets/the-ultimate-comet-challenge-a-tail-of-trivia)
-- [Firefly Aerospace’s Alpha rocket cleared to fly again after April 29 launch failure](https://www.space.com/space-exploration/launches-spacecraft/firefly-aerospaces-alpha-rocket-cleared-to-fly-again-after-april-29-launch-failure)
-- [China says Nvidia violated antitrust regulations](https://techcrunch.com/2025/09/15/china-says-nvidia-violated-antitrust-regulations/)
-- [Israel announces seizure of $1.5M from crypto wallets tied to Iran](https://techcrunch.com/2025/09/15/israel-announces-seizure-of-1-5-million-from-crypto-wallets-tied-to-iran/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
