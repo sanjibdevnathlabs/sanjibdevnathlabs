@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [15 years on, &#39;Halo: Reach&#39; continues to be the golden standard of video game prequels](https://www.space.com/entertainment/space-games/15-years-on-halo-reach-continues-to-be-the-golden-standard-of-video-game-prequels)
 - [Where will the partial solar eclipse be visible on Sept. 21?](https://www.space.com/stargazing/solar-eclipses/where-is-solar-eclipse-sept-21-2025-visible)
 - [OpenAI board chair Bret Taylor says we’re in an AI bubble &lpar;but that’s okay&rpar;](https://techcrunch.com/2025/09/14/openai-board-chair-bret-taylor-says-were-in-an-ai-bubble-but-thats-okay/)
 - [Vibe coding has turned senior devs into ‘AI babysitters,’ but they say it’s worth it](https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/)
 - [Users turn to chatbots for spiritual guidance](https://techcrunch.com/2025/09/14/users-turn-to-chatbots-for-spiritual-guidance/)
-- [Karen Hao on the Empire of AI, AGI evangelists, and the cost of belief](https://techcrunch.com/2025/09/14/karen-hao-on-the-empire-of-ai-agi-evangelists-and-the-cost-of-belief/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
