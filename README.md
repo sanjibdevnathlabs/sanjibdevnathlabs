@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Awake’s new app requires heavy sleepers to complete tasks in order to turn off the alarm](https://techcrunch.com/2025/09/15/awakes-new-app-requires-heavy-sleepers-to-complete-tasks-in-order-to-turn-off-the-alarm/)
+- [See Jupiter and the moon join the Gemini twins in the predawn sky on Sept. 16](https://www.space.com/stargazing/jupiter-moon-join-gemini-stars-in-predawn-sky-sept-16-2025)
+- [Snap unveils Snap OS 2.0 with native browser, WebXR support, and more](https://techcrunch.com/2025/09/15/snap-unveils-snap-os-2-0-with-native-browser-webxr-support-and-more/)
 - [Are &#39;little red dots&#39; seen by the James Webb Space Telescope actually elusive &#39;black hole stars&#39;?](https://www.space.com/astronomy/black-holes/are-little-red-dots-seen-by-the-james-webb-space-telescope-actually-elusive-black-hole-stars)
 - [Apple’s iOS 26 with the new Liquid Glass design is now available to everyone](https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/)
-- [Inside the Shift at Disrupt: Building Community and Scaling in the AI Era](https://techcrunch.com/2025/09/15/on-stage-at-techcrunch-disrupt-2025-how-ai-is-forcing-late-stage-startups-to-rewire-gtm-or-be-left-behind/)
-- [OpenAI upgrades Codex with a new version of GPT-5](https://techcrunch.com/2025/09/15/openai-upgrades-codex-with-a-new-version-of-gpt-5/)
-- [The ultimate comet challenge: A tail of trivia!](https://www.space.com/astronomy/comets/the-ultimate-comet-challenge-a-tail-of-trivia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
