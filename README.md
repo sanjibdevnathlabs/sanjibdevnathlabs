@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 9 most sought-after startups from YC Demo Day](https://techcrunch.com/2025/09/15/the-9-most-sought-after-startups-from-yc-demo-day/)
+- [Company that owns Gucci, Balenciaga, other brands confirms hack](https://techcrunch.com/2025/09/15/company-that-owns-gucci-balenciaga-other-brands-confirms-hack/)
+- [Do startups still need Silicon Valley? Founders and funders debate at TechCrunch Disrupt 2025.](https://techcrunch.com/2025/09/15/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/)
+- [We can finally predict when Mars&#39; skies will glow green with auroras, scientists say](https://www.space.com/astronomy/mars/we-can-finally-predict-when-mars-skies-will-glow-green-with-auroras-scientists-say)
 - [Awake’s new app requires heavy sleepers to complete tasks in order to turn off the alarm](https://techcrunch.com/2025/09/15/awakes-new-app-requires-heavy-sleepers-to-complete-tasks-in-order-to-turn-off-the-alarm/)
-- [See Jupiter and the moon join the Gemini twins in the predawn sky on Sept. 16](https://www.space.com/stargazing/jupiter-moon-join-gemini-stars-in-predawn-sky-sept-16-2025)
-- [Snap unveils Snap OS 2.0 with native browser, WebXR support, and more](https://techcrunch.com/2025/09/15/snap-unveils-snap-os-2-0-with-native-browser-webxr-support-and-more/)
-- [Are &#39;little red dots&#39; seen by the James Webb Space Telescope actually elusive &#39;black hole stars&#39;?](https://www.space.com/astronomy/black-holes/are-little-red-dots-seen-by-the-james-webb-space-telescope-actually-elusive-black-hole-stars)
-- [Apple’s iOS 26 with the new Liquid Glass design is now available to everyone](https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
