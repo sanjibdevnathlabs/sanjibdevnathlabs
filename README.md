@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zoom’s Eric Yuan and Emergence’s Santi Subotovsky on navigating the second act at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/zooms-eric-yuan-and-emergences-santi-subotovsky-on-navigating-the-second-act-at-techcrunch-disrupt-2025/)
+- [The moon and Venus visit the &#39;Heart of the Lion&#39; this week. Here&#39;s how to see it](https://www.space.com/stargazing/the-moon-and-venus-visit-the-heart-of-the-lion-this-week-heres-how-to-see-it)
+- [US, China reach ‘framework’ deal for TikTok](https://techcrunch.com/2025/09/15/us-china-reach-framework-deal-for-tiktok/)
 - [Spotify will now let free users pick and play tracks](https://techcrunch.com/2025/09/15/spotify-will-now-let-free-users-pick-and-play-tracks/)
 - [These 2 European telescopes use lasers to track potentially dangerous space junk &lpar;video&rpar;](https://www.space.com/space-exploration/satellites/these-2-european-telescopes-use-lasers-to-track-potentially-dangerous-space-junk-video)
-- [Harvard Law to AI: MarqVision lands $48M to combat brand abuse](https://techcrunch.com/2025/09/15/harvard-law-to-ai-marqvision-lands-48m-to-combat-brand-abuse/)
-- [Interstellar comet 3I ATLAS glows green during lunar eclipse | Space photo of the day for Sept. 15, 2025](https://www.space.com/stargazing/interstellar-comet-3i-atlas-glows-green-during-lunar-eclipse-space-photo-of-the-day-for-sept-15-2025)
-- [15 years on, &#39;Halo: Reach&#39; continues to be the golden standard of video game prequels](https://www.space.com/entertainment/space-games/15-years-on-halo-reach-continues-to-be-the-golden-standard-of-video-game-prequels)
 <!-- BLOG-POST-LIST:END -->
 
 ---
