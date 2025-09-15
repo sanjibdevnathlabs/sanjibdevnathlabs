@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Israel announces seizure of $1.5 million from crypto wallets tied to Iran](https://techcrunch.com/2025/09/15/israel-announces-seizure-of-1-5-million-from-crypto-wallets-tied-to-iran/)
+- [Time’s running out to volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/times-running-out-to-volunteer-at-techcrunch-disrupt-2025/)
+- [50 years ago, NASA sent 2 spacecraft to search for life on Mars – the Viking missions&#39; findings are still discussed today](https://www.space.com/space-exploration/launches-spacecraft/50-years-ago-nasa-sent-2-spacecraft-to-search-for-life-on-mars-the-viking-missions-findings-are-still-discussed-today)
+- [PayPal adds new one-to-one payment links that will soon support crypto](https://techcrunch.com/2025/09/15/paypal-adds-new-one-to-one-payment-links-that-will-soon-support-crypto/)
 - [By popular demand: 10 extra exhibit tables open at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/by-popular-demand-10-extra-exhibit-tables-open-at-techcrunch-disrupt-2025/)
-- [Zoom’s Eric Yuan and Emergence’s Santi Subotovsky on navigating the second act at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/zooms-eric-yuan-and-emergences-santi-subotovsky-on-navigating-the-second-act-at-techcrunch-disrupt-2025/)
-- [The moon and Venus visit the &#39;Heart of the Lion&#39; this week. Here&#39;s how to see it](https://www.space.com/stargazing/the-moon-and-venus-visit-the-heart-of-the-lion-this-week-heres-how-to-see-it)
-- [US, China reach ‘framework’ deal for TikTok](https://techcrunch.com/2025/09/15/us-china-reach-framework-deal-for-tiktok/)
-- [Spotify will now let free users pick and play tracks](https://techcrunch.com/2025/09/15/spotify-will-now-let-free-users-pick-and-play-tracks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
