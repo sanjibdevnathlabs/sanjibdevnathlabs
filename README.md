@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Salesforce launches ‘Missonforce,’ a national security-focused business unit](https://techcrunch.com/2025/09/16/salesforce-launches-missonforce-a-national-security-focused-business-unit/)
+- [Interstellar visitors like comet 3I/ATLAS are the most common objects in the Milky Way: &#39;There&#39;s almost always one within the solar system&#39;](https://www.space.com/astronomy/comets/interstellar-visitors-like-comet-3i-atlas-are-the-most-common-objects-in-the-milky-way-theres-almost-always-one-within-the-solar-system)
 - [Calm launches standalone iOS app for sleep support](https://techcrunch.com/2025/09/16/calm-launches-standalone-ios-app-for-sleep-support/)
 - [Google launches new protocol for agent-driven purchases](https://techcrunch.com/2025/09/16/google-launches-new-protocol-for-agent-driven-purchases/)
 - [This $30M startup built a dog crate-sized robot factory that learns by watching humans](https://techcrunch.com/2025/09/16/this-30m-startup-built-a-dog-crate-sized-robot-factory-that-learns-by-watching-humans/)
-- [A close shave on the ISS | Space photo of the day for Sept. 16, 2025](https://www.space.com/space-exploration/international-space-station/a-close-shave-on-the-iss-space-photo-of-the-day-for-sept-16-2025)
-- [Whose monster is it anyway: Match the literary sci-fi monster to its book](https://www.space.com/entertainment/whose-monster-is-it-anyway-match-the-literary-sci-fi-monster-to-its-book)
 <!-- BLOG-POST-LIST:END -->
 
 ---
