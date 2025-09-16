@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fourth Power’s sci-fi thermal batteries could be cheaper than pricey natural gas power plants](https://techcrunch.com/2025/09/16/fourth-powers-sci-fi-thermal-batteries-could-be-cheaper-than-pricey-natural-gas-power-plants/)
-- [What to expect from each stage of the partial solar eclipse on Sept. 21](https://www.space.com/stargazing/solar-eclipses/what-to-expect-from-each-stage-partial-solar-eclipse-sept-21-2025)
-- [D-ID acquires Berlin-based video startup Simpleshow](https://techcrunch.com/2025/09/16/d-id-acquires-berlin-based-video-startup-simpleshow/)
-- [2 billion people will be able to see &#39;God of Chaos&#39; asteroid Apophis when it buzzes Earth in April 2029](https://www.space.com/astronomy/asteroids/2-billion-people-will-be-able-to-see-god-of-chaos-asteroid-apophis-when-it-buzzes-earth-in-april-2029)
-- [Tesla probed for potentially faulty door handles](https://techcrunch.com/2025/09/16/tesla-probed-for-potentially-faulty-door-handles/)
+- [Humanity could settle Mars by 2055, Elon Musk says](https://www.space.com/space-exploration/private-spaceflight/humanity-could-settle-mars-by-2055-elon-musk-says)
+- [The best viral star projector is now under $50 on Amazon at its lowest-ever price and](https://www.space.com/technology/the-best-viral-star-projector-is-now-at-its-lowest-ever-price-and-under-50-dollars-on-amazon)
+- [Figure reaches $39B valuation in latest funding round](https://techcrunch.com/2025/09/16/figure-reaches-39b-valuation-in-latest-funding-round/)
+- [Waymo approved to start testing autonomous vehicles at San Francisco International Airport](https://techcrunch.com/2025/09/16/waymo-approved-to-start-testing-autonomous-vehicles-at-san-francisco-international-airport/)
+- [OpenAI will apply new restrictions to ChatGPT users under 18](https://techcrunch.com/2025/09/16/openai-will-apply-new-restrictions-to-chatgpt-users-under-18/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
