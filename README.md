@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Al Gore on China’s climate rise: ‘I would not have seen this coming’](https://techcrunch.com/2025/09/16/al-gore-on-chinas-climate-rise-i-would-not-have-seen-this-coming/)
 - [&#39;We&#39;re really on a different trajectory&#39;: How NASA&#39;s Artemis moon missions aim to prepare us for Mars](https://www.space.com/space-exploration/artemis/were-really-on-a-different-trajectory-how-nasas-artemis-moon-missions-can-help-prepare-us-for-mars)
 - [Meta Connect 2025: What to expect and how to watch](https://techcrunch.com/2025/09/16/meta-connect-2025-what-to-expect-and-how-to-watch/)
 - [Doomed &#39;cannibal&#39; star could soon explode in a supernova so bright it would be visible during the day](https://www.space.com/astronomy/exoplanets/doomed-cannibal-star-could-soon-explode-in-a-supernova-so-bright-it-would-be-visible-during-the-day)
 - [&#39;Secret island&#39; on sun sparks surprise solar storm and stunning auroras across the US &lpar;photos&rpar;](https://www.space.com/stargazing/auroras/secret-island-on-sun-sparks-surprise-solar-storm-and-stunning-auroras-across-the-us-photos)
-- [Same-day delivery comes to space, as Impulse promises satellite transport in hours, not months](https://techcrunch.com/2025/09/16/same-day-delivery-comes-to-space-as-impulse-promises-satellite-transport-in-hours-not-months/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
