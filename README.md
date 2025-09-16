@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;We&#39;re really on a different trajectory&#39;: How NASA&#39;s Artemis moon missions aim to prepare us for Mars](https://www.space.com/space-exploration/artemis/were-really-on-a-different-trajectory-how-nasas-artemis-moon-missions-can-help-prepare-us-for-mars)
+- [Meta Connect 2025: What to expect and how to watch](https://techcrunch.com/2025/09/16/meta-connect-2025-what-to-expect-and-how-to-watch/)
 - [Doomed &#39;cannibal&#39; star could soon explode in a supernova so bright it would be visible during the day](https://www.space.com/astronomy/exoplanets/doomed-cannibal-star-could-soon-explode-in-a-supernova-so-bright-it-would-be-visible-during-the-day)
 - [&#39;Secret island&#39; on sun sparks surprise solar storm and stunning auroras across the US &lpar;photos&rpar;](https://www.space.com/stargazing/auroras/secret-island-on-sun-sparks-surprise-solar-storm-and-stunning-auroras-across-the-us-photos)
 - [Same-day delivery comes to space, as Impulse promises satellite transport in hours, not months](https://techcrunch.com/2025/09/16/same-day-delivery-comes-to-space-as-impulse-promises-satellite-transport-in-hours-not-months/)
-- [Forget supercomputers — scientists say a laptop could map the universe in minutes](https://www.space.com/astronomy/forget-supercomputers-scientists-say-a-laptop-could-map-the-universe-in-minutes)
-- [Jack Altman raised a new $275M early-stage fund in a mere week](https://techcrunch.com/2025/09/16/jack-altman-raised-a-new-275m-early-stage-fund-in-a-mere-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
