@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Silicon Valley bets big on ‘environments’ to train AI agents](https://techcrunch.com/2025/09/16/silicon-valley-bets-big-on-environments-to-train-ai-agents/)
-- [Google rolls out new Windows desktop app with Spotlight-like search tool](https://techcrunch.com/2025/09/16/google-rolls-out-new-windows-desktop-app-with-spotlight-like-search-tool/)
-- [Gemini overtakes ChatGPT on App Store, as its Nano Banana AI model drives downloads up 45%](https://techcrunch.com/2025/09/16/gemini-overtakes-chatgpt-on-app-store-as-its-nano-banana-ai-model-drives-downloads-up-45/)
-- [Rivian breaks ground on $5B Georgia factory ahead of construction in 2026](https://techcrunch.com/2025/09/16/rivian-breaks-ground-on-5b-georgia-factory-ahead-of-construction-in-2026/)
-- [&#39;Totally unexpected&#39;: Stunning new imagery shows big changes in the 1st black hole ever captured by humanity &lpar;photo, video&rpar;](https://www.space.com/astronomy/black-holes/totally-unexpected-stunning-new-imagery-shows-big-changes-in-the-1st-black-hole-ever-captured-by-humanity-photo-video)
+- [Same-day delivery comes to space, as Impulse promises satellite transport in hours, not months](https://techcrunch.com/2025/09/16/same-day-delivery-comes-to-space-as-impulse-promises-satellite-transport-in-hours-not-months/)
+- [Forget supercomputers — scientists say a laptop could map the universe in minutes](https://www.space.com/astronomy/forget-supercomputers-scientists-say-a-laptop-could-map-the-universe-in-minutes)
+- [Jack Altman raised a new $275M early-stage fund in a mere week](https://techcrunch.com/2025/09/16/jack-altman-raised-a-new-275m-early-stage-fund-in-a-mere-week/)
+- [&#39;We have to fully fund NASA&#39;: Lawmaker joins space agency employees in protest outside DC headquarters](https://www.space.com/space-exploration/we-have-to-fully-fund-nasa-lawmaker-joins-space-agency-employees-in-protest-outside-dc-headquarters)
+- [Tesla is recalling Powerwall 2 batteries over fire risk](https://techcrunch.com/2025/09/16/tesla-is-recalling-powerwall-2-batteries-over-fire-risk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
