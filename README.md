@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fourth Power’s sci-fi thermal batteries could be cheaper than pricey natural gas power plants](https://techcrunch.com/2025/09/16/fourth-powers-sci-fi-thermal-batteries-could-be-cheaper-than-pricey-natural-gas-power-plants/)
+- [What to expect from each stage of the partial solar eclipse on Sept. 21](https://www.space.com/stargazing/solar-eclipses/what-to-expect-from-each-stage-partial-solar-eclipse-sept-21-2025)
 - [D-ID acquires Berlin-based video startup Simpleshow](https://techcrunch.com/2025/09/16/d-id-acquires-berlin-based-video-startup-simpleshow/)
 - [2 billion people will be able to see &#39;God of Chaos&#39; asteroid Apophis when it buzzes Earth in April 2029](https://www.space.com/astronomy/asteroids/2-billion-people-will-be-able-to-see-god-of-chaos-asteroid-apophis-when-it-buzzes-earth-in-april-2029)
 - [Tesla probed for potentially faulty door handles](https://techcrunch.com/2025/09/16/tesla-probed-for-potentially-faulty-door-handles/)
-- [YouTube rolls out Studio updates, ‘likeness’ detection, lip synced dubs, creator collabs and more](https://techcrunch.com/2025/09/16/youtube-rolls-out-studio-updates-likeness-detection-lip-synced-dubs-creator-collabs-and-more/)
-- [YouTube announces new generative AI tools for Shorts creators](https://techcrunch.com/2025/09/16/youtube-announces-new-generative-ai-tools-for-shorts-creators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
