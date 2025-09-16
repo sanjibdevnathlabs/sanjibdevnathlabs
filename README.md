@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Salesforce launches ‘Missonforce,’ a national security-focused business unit](https://techcrunch.com/2025/09/16/salesforce-launches-missonforce-a-national-security-focused-business-unit/)
-- [Interstellar visitors like comet 3I/ATLAS are the most common objects in the Milky Way: &#39;There&#39;s almost always one within the solar system&#39;](https://www.space.com/astronomy/comets/interstellar-visitors-like-comet-3i-atlas-are-the-most-common-objects-in-the-milky-way-theres-almost-always-one-within-the-solar-system)
-- [Calm launches standalone iOS app for sleep support](https://techcrunch.com/2025/09/16/calm-launches-standalone-ios-app-for-sleep-support/)
-- [Google launches new protocol for agent-driven purchases](https://techcrunch.com/2025/09/16/google-launches-new-protocol-for-agent-driven-purchases/)
-- [This $30M startup built a dog crate-sized robot factory that learns by watching humans](https://techcrunch.com/2025/09/16/this-30m-startup-built-a-dog-crate-sized-robot-factory-that-learns-by-watching-humans/)
+- [D-ID acquires Berlin-based video startup Simpleshow](https://techcrunch.com/2025/09/16/d-id-acquires-berlin-based-video-startup-simpleshow/)
+- [2 billion people will be able to see &#39;God of Chaos&#39; asteroid Apophis when it buzzes Earth in April 2029](https://www.space.com/astronomy/asteroids/2-billion-people-will-be-able-to-see-god-of-chaos-asteroid-apophis-when-it-buzzes-earth-in-april-2029)
+- [Tesla probed for potentially faulty door handles](https://techcrunch.com/2025/09/16/tesla-probed-for-potentially-faulty-door-handles/)
+- [YouTube rolls out Studio updates, ‘likeness’ detection, lip synced dubs, creator collabs and more](https://techcrunch.com/2025/09/16/youtube-rolls-out-studio-updates-likeness-detection-lip-synced-dubs-creator-collabs-and-more/)
+- [YouTube announces new generative AI tools for Shorts creators](https://techcrunch.com/2025/09/16/youtube-announces-new-generative-ai-tools-for-shorts-creators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
