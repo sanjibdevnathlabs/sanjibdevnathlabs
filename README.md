@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Humanity could settle Mars by 2055, Elon Musk says](https://www.space.com/space-exploration/private-spaceflight/humanity-could-settle-mars-by-2055-elon-musk-says)
-- [The best viral star projector is now under $50 on Amazon at its lowest-ever price and](https://www.space.com/technology/the-best-viral-star-projector-is-now-at-its-lowest-ever-price-and-under-50-dollars-on-amazon)
-- [Figure reaches $39B valuation in latest funding round](https://techcrunch.com/2025/09/16/figure-reaches-39b-valuation-in-latest-funding-round/)
-- [Waymo approved to start testing autonomous vehicles at San Francisco International Airport](https://techcrunch.com/2025/09/16/waymo-approved-to-start-testing-autonomous-vehicles-at-san-francisco-international-airport/)
-- [OpenAI will apply new restrictions to ChatGPT users under 18](https://techcrunch.com/2025/09/16/openai-will-apply-new-restrictions-to-chatgpt-users-under-18/)
+- [Gemini overtakes ChatGPT on App Store, as its Nano Banana AI model drives downloads up 45%](https://techcrunch.com/2025/09/16/gemini-overtakes-chatgpt-on-app-store-as-its-nano-banana-ai-model-drives-downloads-up-45/)
+- [Rivian breaks ground on $5B Georgia factory ahead of construction in 2026](https://techcrunch.com/2025/09/16/rivian-breaks-ground-on-5b-georgia-factory-ahead-of-construction-in-2026/)
+- [&#39;Totally unexpected’: Stunning new imagery shows big changes in the 1st black hole ever captured by humanity &lpar;photo, video&rpar;](https://www.space.com/astronomy/black-holes/totally-unexpected-stunning-new-imagery-shows-big-changes-in-the-1st-black-hole-ever-captured-by-humanity-photo-video)
+- [Andrew Yang took inspiration from Mark Cuban for his budget cell carrier Noble Mobile](https://techcrunch.com/2025/09/16/andrew-yang-took-inspiration-from-mark-cuban-for-his-budget-cell-carrier-noble-mobile/)
+- [Waymo’s Tekedra Mawakana on Scaling Self-Driving Beyond the Hype](https://techcrunch.com/2025/09/16/waymos-tekedra-mawakana-on-the-truth-behind-autonomous-vehicles-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
