@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Silicon Valley bets big on ‘environments’ to train AI agents](https://techcrunch.com/2025/09/16/silicon-valley-bets-big-on-environments-to-train-ai-agents/)
+- [Google rolls out new Windows desktop app with Spotlight-like search tool](https://techcrunch.com/2025/09/16/google-rolls-out-new-windows-desktop-app-with-spotlight-like-search-tool/)
 - [Gemini overtakes ChatGPT on App Store, as its Nano Banana AI model drives downloads up 45%](https://techcrunch.com/2025/09/16/gemini-overtakes-chatgpt-on-app-store-as-its-nano-banana-ai-model-drives-downloads-up-45/)
 - [Rivian breaks ground on $5B Georgia factory ahead of construction in 2026](https://techcrunch.com/2025/09/16/rivian-breaks-ground-on-5b-georgia-factory-ahead-of-construction-in-2026/)
-- [&#39;Totally unexpected’: Stunning new imagery shows big changes in the 1st black hole ever captured by humanity &lpar;photo, video&rpar;](https://www.space.com/astronomy/black-holes/totally-unexpected-stunning-new-imagery-shows-big-changes-in-the-1st-black-hole-ever-captured-by-humanity-photo-video)
-- [Andrew Yang took inspiration from Mark Cuban for his budget cell carrier Noble Mobile](https://techcrunch.com/2025/09/16/andrew-yang-took-inspiration-from-mark-cuban-for-his-budget-cell-carrier-noble-mobile/)
-- [Waymo’s Tekedra Mawakana on Scaling Self-Driving Beyond the Hype](https://techcrunch.com/2025/09/16/waymos-tekedra-mawakana-on-the-truth-behind-autonomous-vehicles-at-techcrunch-disrupt-2025/)
+- [&#39;Totally unexpected&#39;: Stunning new imagery shows big changes in the 1st black hole ever captured by humanity &lpar;photo, video&rpar;](https://www.space.com/astronomy/black-holes/totally-unexpected-stunning-new-imagery-shows-big-changes-in-the-1st-black-hole-ever-captured-by-humanity-photo-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
