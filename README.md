@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [you need to learn MCP RIGHT NOW!! &lpar;Model Context Protocol&rpar;](https://www.youtube.com/watch?v=GuTcle5edjk)
-- [Sleeper Agents in Large Language Models - Computerphile](https://www.youtube.com/watch?v=wL22URoMZjo)
-- [it’s like you never left your home lab.](https://www.youtube.com/shorts/yPGimRqITrc)
-- [The largest supply-chain attack ever…](https://www.youtube.com/watch?v=QVqIx-Y8s-s)
-- [THIS Is Where the Internet Lives](https://www.youtube.com/watch?v=v477fvbj3rk)
+- [Lecture 9: Strategy, Skill, and Chance, Part 2](https://www.youtube.com/watch?v=QV1eMUMpOCo)
+- [Lecture 12: Knowing Your Players](https://www.youtube.com/watch?v=V3plr-Sn-g0)
+- [Lecture 2: Iterative Design](https://www.youtube.com/watch?v=bXSSQgtF9zA)
+- [Lecture 19: Abstraction and Simulation](https://www.youtube.com/watch?v=mu3B0KQ6YdE)
+- [Lecture 4: Prototyping](https://www.youtube.com/watch?v=FsebUJfOvGg)
 <!-- YOUTUBE:END -->
 
 ---
