@@ -147,10 +147,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- BLOG-POST-LIST:START -->
 - [&#39;A game changer&#39;: Space shuttle astronaut Pam Melroy joins Venus Aerospace after revolutionary rocket engine breakthrough](https://www.space.com/technology/a-game-changer-space-shuttle-astronaut-pam-melroy-joins-venus-aerospace-after-revolutionary-rocket-engine-breakthrough)
+- [Amazon to host Prime Big Deals Day sales event on October 7 and 8](https://techcrunch.com/2025/09/15/amazon-to-host-prime-big-deals-day-sales-event-on-october-7-and-8/)
 - [Nothing closes $200M Series C led by Tiger Global, plans AI-first device launch](https://techcrunch.com/2025/09/15/nothing-closes-200m-series-c-led-by-tiger-global-plans-ai-first-device-launch/)
 - [&#39;We are ready to drive&#39;: Take a look inside Lunar Outpost&#39;s moon rover mission control &lpar;photos&rpar;](https://www.space.com/astronomy/moon/we-are-ready-to-drive-take-a-look-inside-lunar-outposts-moon-rover-mission-control-photos)
 - [Rodatherm Energy wants to make geothermal more efficient, but will it be cheaper?](https://techcrunch.com/2025/09/15/rodatherm-energy-wants-to-make-geothermal-more-efficient-but-will-it-be-cheaper/)
-- [With no DOJ breakup, Alphabet becomes a $3 trillion company](https://techcrunch.com/2025/09/15/with-no-doj-breakup-alphabet-becomes-a-3-trillion-company/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
