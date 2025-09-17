@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 forecasts early climate models got right – the evidence is all around you](https://www.space.com/science/climate-change/5-forecasts-early-climate-models-got-right-the-evidence-is-all-around-you)
+- [From Startup Battlefield to the Disrupt Stage: Discord founder Jason Citron returns to TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/17/from-startup-battlefield-200-to-the-disrupt-stage-discord-founder-jason-citron-returns-to-techcrunch-disrupt-2025/)
+- [Amazon launches AI agent to help sellers complete tasks and manage their businesses](https://techcrunch.com/2025/09/17/amazon-launches-ai-agent-to-help-sellers-complete-tasks-and-manage-their-businesses/)
 - [VC firm Insight Partners says thousands of staff and limited partners had personal data stolen in a ransomware attack](https://techcrunch.com/2025/09/17/vc-giant-insight-partners-notifies-staff-and-limited-partners-after-data-breach/)
 - [Lovable co-founder and CEO Anton Osika on building one of the fastest-growing startups in history at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/17/lovable-ceo-anton-osika-on-building-one-of-the-fastest-growing-startups-in-history-at-techcrunch-disrupt-2025/)
-- [Will the International Space Station be replaced before its fiery death in 2030?](https://www.space.com/space-exploration/international-space-station/will-the-international-space-station-be-replaced-before-its-fiery-death-in-2030)
-- [Terra Oleo’s oil-producing microbes could replace destructive palm oil plantations](https://techcrunch.com/2025/09/17/terra-oleos-tiny-oil-producing-microbes-might-replace-sprawling-palm-oil-plantations/)
-- [Lyft and Waymo are partnering to bring robotaxis to Nashville](https://techcrunch.com/2025/09/17/lyft-and-waymo-are-partnering-to-bring-robotaxis-to-nashville/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
