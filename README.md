@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We&#39;ve officially found 6,000 exoplanets, NASA says: &#39;We&#39;re entering the next great chapter of exploration&#39;](https://www.space.com/astronomy/exoplanets/weve-officially-found-6-000-exoplanets-nasa-says-were-entering-the-next-great-chapter-of-exploration)
+- [Irregular raises $80 million to secure frontier AI models](https://techcrunch.com/2025/09/17/irregular-raises-80-million-to-secure-frontier-ai-models/)
 - [Artemis 2 astronauts will double as human science experiments on their trip around the moon](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-will-double-as-human-science-experiments-on-their-trip-around-the-moon)
 - [SpaceX moves next Starship spacecraft to launch pad for testing &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-next-starship-spacecraft-to-launch-pad-for-testing-photos)
 - [Tesla is redesigning its door handles following safety probe, Bloomberg investigation](https://techcrunch.com/2025/09/17/tesla-is-redesigning-its-door-handles-following-safety-probe-bloomberg-investigation/)
-- [Are interstellar invaders like comet 3I/ATLAS seeding the universe with exoplanets?](https://www.space.com/astronomy/exoplanets/interstellar-objects-might-seed-planetary-formation)
-- [Kleiner Perkins-backed voice AI startup Keplar aims to replace traditional market research](https://techcrunch.com/2025/09/17/kleiner-perkins-backed-voice-ai-startup-keplar-aims-to-replace-traditional-market-research/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
