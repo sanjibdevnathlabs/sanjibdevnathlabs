@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sunrise silhouettes the world&#39;s largest telescope | Space photo of the day for Sept. 17, 2025](https://www.space.com/astronomy/sunrise-silhouettes-the-worlds-largest-telescope-space-photo-of-the-day-for-sept-17-2025)
-- [Vaonis Vespera Pro smart telescope review](https://www.space.com/stargazing/skywatching-kit/vaonis-vespera-pro-smart-telescope-review)
-- [Sonair built its 3D ultrasonic sensor with robotic safety in mind](https://techcrunch.com/2025/09/17/sonair-built-its-3d-ultrasonic-sensor-with-robotic-safety-in-mind/)
-- [Google Ventures doubles down on dev tool startup Blacksmith just 4 months after its seed round](https://techcrunch.com/2025/09/17/google-ventures-doubles-down-on-dev-tool-startup-blacksmith-just-4-months-after-its-seed-round/)
-- [A Girl Scout was injured in a remote California canyon. Here&#39;s how satellites got help to her in minutes](https://www.space.com/space-exploration/satellites/a-girl-scout-was-injured-in-a-remote-california-canyon-heres-how-satellites-got-help-to-her-in-minutes)
+- [Terra Oleo’s oil-producing microbes could replace destructive palm oil plantations](https://techcrunch.com/2025/09/17/terra-oleos-tiny-oil-producing-microbes-might-replace-sprawling-palm-oil-plantations/)
+- [Lyft and Waymo are partnering to bring robotaxis to Nashville](https://techcrunch.com/2025/09/17/lyft-and-waymo-are-partnering-to-bring-robotaxis-to-nashville/)
+- [Icarus raises $6.1M to take on space’s “warehouse work” with embodied-AI robots](https://techcrunch.com/2025/09/17/icarus-raises-6-1m-to-take-on-spaces-warehouse-work-with-embodied-ai-robots/)
+- [Mokoqi star projector night light review](https://www.space.com/technology/mokoqi-star-projector-night-light-review)
+- [&#39;The sun is slowly waking up&#39;: Scientists say a rise in solar storms awaits us](https://www.space.com/astronomy/sun/the-sun-is-slowly-waking-up-scientists-say-a-rise-in-solar-storms-awaits-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
