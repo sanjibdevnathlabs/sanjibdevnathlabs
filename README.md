@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VC firm Insight Partners says thousands of staff and limited partners had personal data stolen in a ransomware attack](https://techcrunch.com/2025/09/17/vc-giant-insight-partners-notifies-staff-and-limited-partners-after-data-breach/)
+- [Lovable co-founder and CEO Anton Osika on building one of the fastest-growing startups in history at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/17/lovable-ceo-anton-osika-on-building-one-of-the-fastest-growing-startups-in-history-at-techcrunch-disrupt-2025/)
+- [Will the International Space Station be replaced before its fiery death in 2030?](https://www.space.com/space-exploration/international-space-station/will-the-international-space-station-be-replaced-before-its-fiery-death-in-2030)
 - [Terra Oleo’s oil-producing microbes could replace destructive palm oil plantations](https://techcrunch.com/2025/09/17/terra-oleos-tiny-oil-producing-microbes-might-replace-sprawling-palm-oil-plantations/)
 - [Lyft and Waymo are partnering to bring robotaxis to Nashville](https://techcrunch.com/2025/09/17/lyft-and-waymo-are-partnering-to-bring-robotaxis-to-nashville/)
-- [Icarus raises $6.1M to take on space’s “warehouse work” with embodied-AI robots](https://techcrunch.com/2025/09/17/icarus-raises-6-1m-to-take-on-spaces-warehouse-work-with-embodied-ai-robots/)
-- [Mokoqi star projector night light review](https://www.space.com/technology/mokoqi-star-projector-night-light-review)
-- [&#39;The sun is slowly waking up&#39;: Scientists say a rise in solar storms awaits us](https://www.space.com/astronomy/sun/the-sun-is-slowly-waking-up-scientists-say-a-rise-in-solar-storms-awaits-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
