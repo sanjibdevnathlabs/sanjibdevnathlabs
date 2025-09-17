@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple TV+&#39;s sci-fi saga &#39;Foundation&#39; is getting a Season 4: &#39;We look forward to continuing the epic&#39;](https://www.space.com/entertainment/space-movies-shows/apple-tv-s-sci-fi-saga-foundation-is-getting-a-season-4-we-look-forward-to-continuing-the-epic)
 - [Zoom launches a cross application AI notetaker, AI avatars and more in its latest update](https://techcrunch.com/2025/09/17/zoom-launches-a-cross-application-ai-notetaker-ai-avatars-and-more-in-its-latest-update/)
 - [Don&#39;t miss the beautiful summer Milky Way next week as the new moon goes dark on Sept. 21](https://www.space.com/stargazing/dont-miss-the-beautiful-summer-milky-way-next-week-as-the-new-moon-goes-dark-on-sept-21)
 - [Jaguar Land Rover to pause production for third week due to cyberattack](https://techcrunch.com/2025/09/17/jaguar-land-rover-to-pause-production-for-third-week-due-to-cyberattack/)
 - [Airbuds is the music social network Apple and Spotify wish they had built](https://techcrunch.com/2025/09/17/airbuds-is-the-music-social-network-apple-and-spotify-wish-they-had-built/)
-- [Watch an asteroid the size of the Washington Monument zoom past Earth live on Sept. 18 &lpar;video&rpar;](https://www.space.com/stargazing/watch-asteroid-size-of-washington-monument-zoom-past-earth-live-sept-18-2025-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
