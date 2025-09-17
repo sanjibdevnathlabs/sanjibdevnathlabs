@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI and the Future of Defense: Mach Industries’ Ethan Thornton at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/17/the-new-face-of-defense-tech-takes-the-ai-stage-at-techcrunch-disrupt-2025/)
+- [Google revamps Discover page to show content from creators](https://techcrunch.com/2025/09/17/google-revamps-discover-page-to-show-content-from-creators/)
 - [5 forecasts early climate models got right – the evidence is all around you](https://www.space.com/science/climate-change/5-forecasts-early-climate-models-got-right-the-evidence-is-all-around-you)
 - [From Startup Battlefield to the Disrupt Stage: Discord founder Jason Citron returns to TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/17/from-startup-battlefield-200-to-the-disrupt-stage-discord-founder-jason-citron-returns-to-techcrunch-disrupt-2025/)
 - [Amazon launches AI agent to help sellers complete tasks and manage their businesses](https://techcrunch.com/2025/09/17/amazon-launches-ai-agent-to-help-sellers-complete-tasks-and-manage-their-businesses/)
-- [VC firm Insight Partners says thousands of staff and limited partners had personal data stolen in a ransomware attack](https://techcrunch.com/2025/09/17/vc-giant-insight-partners-notifies-staff-and-limited-partners-after-data-breach/)
-- [Lovable co-founder and CEO Anton Osika on building one of the fastest-growing startups in history at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/17/lovable-ceo-anton-osika-on-building-one-of-the-fastest-growing-startups-in-history-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
