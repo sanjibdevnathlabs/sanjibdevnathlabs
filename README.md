@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI and the Future of Defense: Mach Industries’ Ethan Thornton at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/17/the-new-face-of-defense-tech-takes-the-ai-stage-at-techcrunch-disrupt-2025/)
-- [Google revamps Discover page to show content from creators](https://techcrunch.com/2025/09/17/google-revamps-discover-page-to-show-content-from-creators/)
-- [5 forecasts early climate models got right – the evidence is all around you](https://www.space.com/science/climate-change/5-forecasts-early-climate-models-got-right-the-evidence-is-all-around-you)
-- [From Startup Battlefield to the Disrupt Stage: Discord founder Jason Citron returns to TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/17/from-startup-battlefield-200-to-the-disrupt-stage-discord-founder-jason-citron-returns-to-techcrunch-disrupt-2025/)
-- [Amazon launches AI agent to help sellers complete tasks and manage their businesses](https://techcrunch.com/2025/09/17/amazon-launches-ai-agent-to-help-sellers-complete-tasks-and-manage-their-businesses/)
+- [Zoom launches a cross application AI notetaker, AI avatars and more in its latest update](https://techcrunch.com/2025/09/17/zoom-launches-a-cross-application-ai-notetaker-ai-avatars-and-more-in-its-latest-update/)
+- [Don&#39;t miss the beautiful summer Milky Way next week as the new moon goes dark on Sept. 21](https://www.space.com/stargazing/dont-miss-the-beautiful-summer-milky-way-next-week-as-the-new-moon-goes-dark-on-sept-21)
+- [Jaguar Land Rover to pause production for third week due to cyberattack](https://techcrunch.com/2025/09/17/jaguar-land-rover-to-pause-production-for-third-week-due-to-cyberattack/)
+- [Airbuds is the music social network Apple and Spotify wish they had built](https://techcrunch.com/2025/09/17/airbuds-is-the-music-social-network-apple-and-spotify-wish-they-had-built/)
+- [Watch an asteroid the size of the Washington Monument zoom past Earth live on Sept. 18 &lpar;video&rpar;](https://www.space.com/stargazing/watch-asteroid-size-of-washington-monument-zoom-past-earth-live-sept-18-2025-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
