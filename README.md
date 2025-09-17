@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s Urban Company soars 58% above IPO price in year’s most subscribed offering](https://techcrunch.com/2025/09/16/indias-urban-company-soars-58-above-ipo-price-in-years-most-subscribed-offering/)
 - [Groww, backed by Satya Nadella, set to become first Indian startup to go public after U.S.-to-India move](https://techcrunch.com/2025/09/16/groww-backed-by-satya-nadella-set-to-become-first-indian-startup-to-go-public-after-u-s-to-india-move/)
 - [Northrop Grumman&#39;s &#39;Cygnus XL&#39; cargo spacecraft suffers thruster issue on way to the International Space Station](https://www.space.com/space-exploration/international-space-station/northrop-grummans-cygnus-xl-cargo-spacecraft-suffers-thruster-issue-on-way-to-the-international-space-station)
 - [Al Gore on China’s climate rise: ‘I would not have seen this coming’](https://techcrunch.com/2025/09/16/al-gore-on-chinas-climate-rise-i-would-not-have-seen-this-coming/)
 - [&#39;We&#39;re really on a different trajectory&#39;: How NASA&#39;s Artemis moon missions aim to prepare us for Mars](https://www.space.com/space-exploration/artemis/were-really-on-a-different-trajectory-how-nasas-artemis-moon-missions-can-help-prepare-us-for-mars)
-- [Meta Connect 2025: What to expect and how to watch](https://techcrunch.com/2025/09/16/meta-connect-2025-what-to-expect-and-how-to-watch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
