@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sunrise silhouettes the world&#39;s largest telescope | Space photo of the day for Sept. 17, 2025](https://www.space.com/astronomy/sunrise-silhouettes-the-worlds-largest-telescope-space-photo-of-the-day-for-sept-17-2025)
+- [Vaonis Vespera Pro smart telescope review](https://www.space.com/stargazing/skywatching-kit/vaonis-vespera-pro-smart-telescope-review)
 - [Sonair built its 3D ultrasonic sensor with robotic safety in mind](https://techcrunch.com/2025/09/17/sonair-built-its-3d-ultrasonic-sensor-with-robotic-safety-in-mind/)
 - [Google Ventures doubles down on dev tool startup Blacksmith just 4 months after its seed round](https://techcrunch.com/2025/09/17/google-ventures-doubles-down-on-dev-tool-startup-blacksmith-just-4-months-after-its-seed-round/)
 - [A Girl Scout was injured in a remote California canyon. Here&#39;s how satellites got help to her in minutes](https://www.space.com/space-exploration/satellites/a-girl-scout-was-injured-in-a-remote-california-canyon-heres-how-satellites-got-help-to-her-in-minutes)
-- [India’s Urban Company soars 58% above IPO price in year’s most subscribed offering](https://techcrunch.com/2025/09/16/indias-urban-company-soars-58-above-ipo-price-in-years-most-subscribed-offering/)
-- [Groww, backed by Satya Nadella, set to become first Indian startup to go public after U.S.-to-India move](https://techcrunch.com/2025/09/16/groww-backed-by-satya-nadella-set-to-become-first-indian-startup-to-go-public-after-u-s-to-india-move/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
