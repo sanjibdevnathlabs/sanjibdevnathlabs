@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2 astronauts will double as human science experiments on their trip around the moon](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-will-double-as-human-science-experiments-on-their-trip-around-the-moon)
+- [SpaceX moves next Starship spacecraft to launch pad for testing &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-next-starship-spacecraft-to-launch-pad-for-testing-photos)
+- [Tesla is redesigning its door handles following safety probe, Bloomberg investigation](https://techcrunch.com/2025/09/17/tesla-is-redesigning-its-door-handles-following-safety-probe-bloomberg-investigation/)
 - [Are interstellar invaders like comet 3I/ATLAS seeding the universe with exoplanets?](https://www.space.com/astronomy/exoplanets/interstellar-objects-might-seed-planetary-formation)
 - [Kleiner Perkins-backed voice AI startup Keplar aims to replace traditional market research](https://techcrunch.com/2025/09/17/kleiner-perkins-backed-voice-ai-startup-keplar-aims-to-replace-traditional-market-research/)
-- [Meet Macroscope: an AI tool for understanding your code base, fixing bugs](https://techcrunch.com/2025/09/17/meet-macroscope-an-ai-tool-for-understanding-your-code-base-fixing-bugs/)
-- [China tells its tech companies they can’t buy AI chips from Nivida](https://techcrunch.com/2025/09/17/china-tells-its-tech-companies-they-cant-buy-ai-chips-from-nivida/)
-- [Bad news for astronauts? Human stem cells age more rapidly in space, study suggests](https://www.space.com/space-exploration/international-space-station/bad-news-for-astronauts-human-stem-cells-age-more-rapidly-in-space-study-suggests)
 <!-- BLOG-POST-LIST:END -->
 
 ---
