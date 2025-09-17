@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are interstellar invaders like comet 3I/ATLAS seeding the universe with exoplanets?](https://www.space.com/astronomy/exoplanets/interstellar-objects-might-seed-planetary-formation)
+- [Kleiner Perkins-backed voice AI startup Keplar aims to replace traditional market research](https://techcrunch.com/2025/09/17/kleiner-perkins-backed-voice-ai-startup-keplar-aims-to-replace-traditional-market-research/)
+- [Meet Macroscope: an AI tool for understanding your code base, fixing bugs](https://techcrunch.com/2025/09/17/meet-macroscope-an-ai-tool-for-understanding-your-code-base-fixing-bugs/)
+- [China tells its tech companies they can’t buy AI chips from Nivida](https://techcrunch.com/2025/09/17/china-tells-its-tech-companies-they-cant-buy-ai-chips-from-nivida/)
 - [Bad news for astronauts? Human stem cells age more rapidly in space, study suggests](https://www.space.com/space-exploration/international-space-station/bad-news-for-astronauts-human-stem-cells-age-more-rapidly-in-space-study-suggests)
-- [The iPhone Air’s real breakthrough is its battery](https://techcrunch.com/2025/09/17/the-iphone-airs-real-breakthrough-is-its-battery/)
-- [Apple TV+&#39;s sci-fi saga &#39;Foundation&#39; is getting a Season 4: &#39;We look forward to continuing the epic&#39;](https://www.space.com/entertainment/space-movies-shows/apple-tv-s-sci-fi-saga-foundation-is-getting-a-season-4-we-look-forward-to-continuing-the-epic)
-- [Zoom launches a cross application AI notetaker, AI avatars and more in its latest update](https://techcrunch.com/2025/09/17/zoom-launches-a-cross-application-ai-notetaker-ai-avatars-and-more-in-its-latest-update/)
-- [Don&#39;t miss the beautiful summer Milky Way next week as the new moon goes dark on Sept. 21](https://www.space.com/stargazing/dont-miss-the-beautiful-summer-milky-way-next-week-as-the-new-moon-goes-dark-on-sept-21)
 <!-- BLOG-POST-LIST:END -->
 
 ---
