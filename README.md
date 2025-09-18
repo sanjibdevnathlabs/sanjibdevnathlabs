@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DACLab says it can remove CO2 using less electricity than many competitors](https://techcrunch.com/2025/09/18/daclab-says-it-can-remove-co2-using-less-electricity-than-many-competitors/)
-- [Japan&#39;s Hayabusa2 is heading to the smallest asteroid ever visited by a space mission](https://www.space.com/astronomy/asteroids/japans-hayabusa2-is-heading-to-the-smallest-asteroid-ever-visited-by-a-space-mission)
-- [See the crescent moon take flight with Venus in the predawn sky on Sept. 19](https://www.space.com/stargazing/crescent-moon-with-venus-regulus-predawn-sept-19-2025)
-- [Google and PayPal team up on agentic commerce](https://techcrunch.com/2025/09/18/google-and-paypal-team-up-on-agentic-commerce/)
-- [US House committee summons CEOs of Discord, Twitch, Reddit to testify on online radicalization](https://techcrunch.com/2025/09/18/us-house-committee-summons-ceos-of-discord-twitch-reddit-to-testify-on-online-radicalization/)
+- [Google brings Gemini in Chrome to US users, unveils agentic browsing capabilities, and more](https://techcrunch.com/2025/09/18/google-brings-gemini-in-chrome-to-us-users-unveils-agentic-browsing-capabilities-and-more/)
+- [&#39;Star Trek: Strange New Worlds&#39; showrunners explain Season 3&#39;s intense cosmic horror finale &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-showrunners-explain-season-3s-intense-cosmic-horror-finale-exclusive)
+- [Google partners with UK nonprofit to detect and remove nonconsensual intimate images from Search](https://techcrunch.com/2025/09/18/google-partners-with-uk-nonprofit-to-detect-and-remove-nonconsensual-intimate-images-from-search/)
+- [ICE unit signs new $3M contract for phone-hacking tech](https://techcrunch.com/2025/09/18/ice-unit-signs-new-3-million-contract-for-phone-hacking-tech/)
+- [Numeral raises $35M to automate sales tax with AI](https://techcrunch.com/2025/09/18/numeral-raises-35m-to-automate-sales-tax-with-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
