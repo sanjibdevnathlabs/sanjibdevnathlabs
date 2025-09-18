@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tim Cook, Sam Altman, and more attend Trump’s UK state banquet](https://techcrunch.com/2025/09/18/tim-cook-sam-altman-and-more-attend-trumps-uk-state-banquet/)
 - [Rock the cosmos: An asteroid trivia quiz](https://www.space.com/astronomy/asteroids/rock-the-cosmos-an-asteroid-trivia-quiz)
 - [US government charges British teenager accused of at least 120 ‘Scattered Spider’ hacks](https://techcrunch.com/2025/09/18/us-government-charges-british-teenager-accused-of-at-least-120-scattered-spider-hacks/)
 - [Here’s the tech powering ICE’s deportation crackdown](https://techcrunch.com/2025/09/18/heres-the-tech-powering-ices-deportation-crackdown/)
 - [Notion launches agents for data analysis and task automation](https://techcrunch.com/2025/09/18/notion-launches-agents-for-data-analysis-and-task-automation/)
-- [How &#39;Foundation&#39; star Pilou Asbæk&#39; tapped into that crazy mad vibe&#39; to bring Asimov&#39;s villain to life &lpar;exclusive&rpar;](https://www.space.com/entertainment/how-foundation-star-pilou-asbaek-tapped-into-that-crazy-mad-vibe-to-bring-asimovs-villain-to-life-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
