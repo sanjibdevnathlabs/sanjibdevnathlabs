@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DACLab says it can remove CO2 using less electricity than many competitors](https://techcrunch.com/2025/09/18/daclab-says-it-can-remove-co2-using-less-electricity-than-many-competitors/)
+- [Japan&#39;s Hayabusa2 is heading to the smallest asteroid ever visited by a space mission](https://www.space.com/astronomy/asteroids/japans-hayabusa2-is-heading-to-the-smallest-asteroid-ever-visited-by-a-space-mission)
 - [See the crescent moon take flight with Venus in the predawn sky on Sept. 19](https://www.space.com/stargazing/crescent-moon-with-venus-regulus-predawn-sept-19-2025)
 - [Google and PayPal team up on agentic commerce](https://techcrunch.com/2025/09/18/google-and-paypal-team-up-on-agentic-commerce/)
 - [US House committee summons CEOs of Discord, Twitch, Reddit to testify on online radicalization](https://techcrunch.com/2025/09/18/us-house-committee-summons-ceos-of-discord-twitch-reddit-to-testify-on-online-radicalization/)
-- [Hurry, this Paramount Plus deal ends today and saves a huge 50% — at just $29.99 for an entire year, it&#39;s an 8 cents a day streaming bargain](https://www.space.com/entertainment/hurry-this-paramount-plus-deal-ends-today-and-saves-a-huge-50-percent-at-just-29-99-dollars-for-an-entire-year)
-- [Nvidia buys $5 billion stake in Intel, planning AI chip collaboration](https://techcrunch.com/2025/09/18/nvidia-buys-5-billion-stake-in-intel-planning-ai-chip-collaboration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
