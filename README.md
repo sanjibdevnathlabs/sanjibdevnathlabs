@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building the future of Open AI with Thomas Wolf at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/building-the-future-of-open-ai-with-thomas-wolf-at-techcrunch-disrupt-2025/)
+- [What time is the partial solar eclipse on Sept. 21?](https://www.space.com/stargazing/solar-eclipses/what-time-is-the-partial-solar-eclipse-on-sept-21)
 - [Dawn Capital’s Shamillah Bankiya breaks down the state of the Euro venture market](https://techcrunch.com/2025/09/18/dawn-capitals-shamillah-bankiya-breaks-down-the-state-of-the-euro-venture-market/)
 - [EV Realty is betting the missing link in electric trucking is real estate](https://techcrunch.com/2025/09/18/ev-realty-is-betting-the-missing-link-in-electric-trucking-is-real-estate/)
 - [Atlassian acquires DX, a developer productivity platform, for $1B](https://techcrunch.com/2025/09/18/atlassian-acquires-dx-a-developer-productivity-platform-for-1b/)
-- [Thames and Kosmos planetarium star projector review](https://www.space.com/technology/thames-and-kosmos-planetarium-projector-review)
-- [NASA&#39;s Artemis astronauts practice moon landings in Colorado | Space photo of the day for Sept. 18, 2025](https://www.space.com/space-exploration/nasas-artemis-astronauts-practice-moon-landings-in-colorado-space-photo-of-the-day-for-sept-18-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
