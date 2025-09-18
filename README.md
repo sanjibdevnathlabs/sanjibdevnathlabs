@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bumble BFF’s revamped app is here, focusing on friend groups and community building](https://techcrunch.com/2025/09/18/bumble-bffs-revamped-app-is-here-focusing-on-friend-groups-and-community-building/)
-- [Blue Origin launching 35th New Shepard flight today after long delay: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-new-shepard-ns-35-suborbital-launch)
-- [Ukraine destroys giant radio telescope used by Russian military](https://www.space.com/astronomy/drone-destroyes-rt-70-radio-telescope-crimea)
-- [India leads the way on Google’s Nano Banana with a local creative twist](https://techcrunch.com/2025/09/17/india-leads-the-way-on-googles-nano-banana-with-a-local-creative-twist/)
-- [Meta launches Hyperscape, technology to turn real-world spaces into VR](https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/)
+- [Dawn Capital’s Shamillah Bankiya breaks down the state of the Euro venture market](https://techcrunch.com/2025/09/18/dawn-capitals-shamillah-bankiya-breaks-down-the-state-of-the-euro-venture-market/)
+- [EV Realty is betting the missing link in electric trucking is real estate](https://techcrunch.com/2025/09/18/ev-realty-is-betting-the-missing-link-in-electric-trucking-is-real-estate/)
+- [Atlassian acquires DX, a developer productivity platform, for $1B](https://techcrunch.com/2025/09/18/atlassian-acquires-dx-a-developer-productivity-platform-for-1b/)
+- [Thames and Kosmos planetarium star projector review](https://www.space.com/technology/thames-and-kosmos-planetarium-projector-review)
+- [NASA&#39;s Artemis astronauts practice moon landings in Colorado | Space photo of the day for Sept. 18, 2025](https://www.space.com/space-exploration/nasas-artemis-astronauts-practice-moon-landings-in-colorado-space-photo-of-the-day-for-sept-18-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
