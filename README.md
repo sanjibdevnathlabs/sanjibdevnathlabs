@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Where are all the &#39;hot Neptune&#39; exoplanets? Orbital chaos may have booted them out](https://www.space.com/astronomy/exoplanets/where-are-all-the-hot-neptune-exoplanets-orbital-chaos-may-have-booted-them-out)
+- [Raising Series A in 2026: Insights from Top Early-Stage VCs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/term-sheets-traction-and-truth-bombs-inside-the-series-a-mindset-at-techcrunch-disrupt-2025/)
+- [Huawei announces new AI infrastructure as Nvidia gets locked out of China](https://techcrunch.com/2025/09/18/huawei-announces-new-ai-infrastructure-as-nvidia-gets-locked-out-of-china/)
 - [&#39;It was the realization of a dream that we had chased for decades.&#39; Powerful cosmic winds around neutron star reveal secrets of monster black holes](https://www.space.com/astronomy/mysteriously-powerful-cosmic-winds-around-neutron-star-may-be-game-changer-for-understanding-monster-black-holes)
 - [How AI startups are fueling Google’s booming cloud business](https://techcrunch.com/2025/09/18/how-ai-startups-are-fueling-googles-booming-cloud-business/)
-- [Tim Cook, Sam Altman, and more attend Trump’s UK state banquet](https://techcrunch.com/2025/09/18/tim-cook-sam-altman-and-more-attend-trumps-uk-state-banquet/)
-- [Rock the cosmos: An asteroid trivia quiz](https://www.space.com/astronomy/asteroids/rock-the-cosmos-an-asteroid-trivia-quiz)
-- [US government charges British teenager accused of at least 120 ‘Scattered Spider’ hacks](https://techcrunch.com/2025/09/18/us-government-charges-british-teenager-accused-of-at-least-120-scattered-spider-hacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
