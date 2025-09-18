@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google brings Gemini in Chrome to US users, unveils agentic browsing capabilities, and more](https://techcrunch.com/2025/09/18/google-brings-gemini-in-chrome-to-us-users-unveils-agentic-browsing-capabilities-and-more/)
-- [&#39;Star Trek: Strange New Worlds&#39; showrunners explain Season 3&#39;s intense cosmic horror finale &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-showrunners-explain-season-3s-intense-cosmic-horror-finale-exclusive)
-- [Google partners with UK nonprofit to detect and remove nonconsensual intimate images from Search](https://techcrunch.com/2025/09/18/google-partners-with-uk-nonprofit-to-detect-and-remove-nonconsensual-intimate-images-from-search/)
-- [ICE unit signs new $3M contract for phone-hacking tech](https://techcrunch.com/2025/09/18/ice-unit-signs-new-3-million-contract-for-phone-hacking-tech/)
-- [Numeral raises $35M to automate sales tax with AI](https://techcrunch.com/2025/09/18/numeral-raises-35m-to-automate-sales-tax-with-ai/)
+- [Here’s the tech powering ICE’s deportation crackdown](https://techcrunch.com/2025/09/18/heres-the-tech-powering-ices-deportation-crackdown/)
+- [Notion launches agents for data analysis and task automation](https://techcrunch.com/2025/09/18/notion-launches-agents-for-data-analysis-and-task-automation/)
+- [How &#39;Foundation&#39; star Pilou Asbæk&#39; tapped into that crazy mad vibe&#39; to bring Asimov&#39;s villain to life &lpar;exclusive&rpar;](https://www.space.com/entertainment/how-foundation-star-pilou-asbaek-tapped-into-that-crazy-mad-vibe-to-bring-asimovs-villain-to-life-exclusive)
+- [Uber is trying drone delivery again](https://techcrunch.com/2025/09/18/uber-is-trying-drone-delivery-again/)
+- [Google now lets you share your custom Gemini AI assistants known as Gems](https://techcrunch.com/2025/09/18/google-now-lets-you-share-your-custom-gemini-ai-assistants-known-as-gems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
