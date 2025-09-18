@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building the future of Open AI with Thomas Wolf at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/building-the-future-of-open-ai-with-thomas-wolf-at-techcrunch-disrupt-2025/)
-- [What time is the partial solar eclipse on Sept. 21?](https://www.space.com/stargazing/solar-eclipses/what-time-is-the-partial-solar-eclipse-on-sept-21)
-- [Dawn Capital’s Shamillah Bankiya breaks down the state of the Euro venture market](https://techcrunch.com/2025/09/18/dawn-capitals-shamillah-bankiya-breaks-down-the-state-of-the-euro-venture-market/)
-- [EV Realty is betting the missing link in electric trucking is real estate](https://techcrunch.com/2025/09/18/ev-realty-is-betting-the-missing-link-in-electric-trucking-is-real-estate/)
-- [Atlassian acquires DX, a developer productivity platform, for $1B](https://techcrunch.com/2025/09/18/atlassian-acquires-dx-a-developer-productivity-platform-for-1b/)
+- [See the crescent moon take flight with Venus in the predawn sky on Sept. 19](https://www.space.com/stargazing/crescent-moon-with-venus-regulus-predawn-sept-19-2025)
+- [Google and PayPal team up on agentic commerce](https://techcrunch.com/2025/09/18/google-and-paypal-team-up-on-agentic-commerce/)
+- [US House committee summons CEOs of Discord, Twitch, Reddit to testify on online radicalization](https://techcrunch.com/2025/09/18/us-house-committee-summons-ceos-of-discord-twitch-reddit-to-testify-on-online-radicalization/)
+- [Hurry, this Paramount Plus deal ends today and saves a huge 50% — at just $29.99 for an entire year, it&#39;s an 8 cents a day streaming bargain](https://www.space.com/entertainment/hurry-this-paramount-plus-deal-ends-today-and-saves-a-huge-50-percent-at-just-29-99-dollars-for-an-entire-year)
+- [Nvidia buys $5 billion stake in Intel, planning AI chip collaboration](https://techcrunch.com/2025/09/18/nvidia-buys-5-billion-stake-in-intel-planning-ai-chip-collaboration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
