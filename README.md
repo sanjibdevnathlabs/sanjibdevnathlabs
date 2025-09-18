@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [We&#39;ve officially found 6,000 exoplanets, NASA says: &#39;We&#39;re entering the next great chapter of exploration&#39;](https://www.space.com/astronomy/exoplanets/weve-officially-found-6-000-exoplanets-nasa-says-were-entering-the-next-great-chapter-of-exploration)
-- [Irregular raises $80 million to secure frontier AI models](https://techcrunch.com/2025/09/17/irregular-raises-80-million-to-secure-frontier-ai-models/)
-- [Artemis 2 astronauts will double as human science experiments on their trip around the moon](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-will-double-as-human-science-experiments-on-their-trip-around-the-moon)
-- [SpaceX moves next Starship spacecraft to launch pad for testing &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-next-starship-spacecraft-to-launch-pad-for-testing-photos)
-- [Tesla is redesigning its door handles following safety probe, Bloomberg investigation](https://techcrunch.com/2025/09/17/tesla-is-redesigning-its-door-handles-following-safety-probe-bloomberg-investigation/)
+- [Meta launches Hyperscape, technology to turn real-world spaces into VR](https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/)
+- [Meta unveils new smart glasses with a display and wristband controller](https://techcrunch.com/2025/09/17/meta-unveils-new-smart-glasses-with-a-display-and-wristband-controller/)
+- [Meta unveils its new Oakley Meta Vanguard smart glasses for athletes](https://techcrunch.com/2025/09/17/meta-unveils-its-new-oakley-meta-vanguard-smart-glasses-for-athletes/)
+- [Nvidia AI chip challenger Groq raises even more than expected, hits $6.9B valuation](https://techcrunch.com/2025/09/17/nvidia-ai-chip-challenger-groq-raises-even-more-than-expected-hits-6-9b-valuation/)
+- [Eric Baker’s long, winding road to taking StubHub public](https://techcrunch.com/2025/09/17/eric-bakers-long-winding-road-to-taking-stubhub-public/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
