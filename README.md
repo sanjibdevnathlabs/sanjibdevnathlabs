@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [HyperLogLog Hit Counter - Computerphile](https://www.youtube.com/watch?v=B_PexYrEcEw)
 - [Meta&#39;s most dystopian product yet...](https://www.youtube.com/watch?v=GOejI6c0CMQ)
 - [AI companions are taking over… let’s build one](https://www.youtube.com/watch?v=OfOPrmnHRxw)
 - [07. EdTech Before the Internet](https://www.youtube.com/watch?v=68XZ_P9MKM8)
 - [09. Massive Open Online Courses &lpar;MOOCs&rpar;](https://www.youtube.com/watch?v=pPbJGG1JtVw)
-- [10. Intelligent Tutors](https://www.youtube.com/watch?v=jY-kLDI8nBU)
 <!-- YOUTUBE:END -->
 
 ---
