@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;God of Chaos&#39; asteroid Apophis will fly by Earth in April 2029 — and these 3 space probes will be watching](https://www.space.com/astronomy/asteroids/god-of-chaos-asteroid-apophis-will-fly-by-earth-in-april-2029-and-these-3-space-probes-will-be-watching)
 - [Curiosity Mars rover puzzles over intriguing &#39;boxwork&#39; pattern | Space photo of the day for Sept. 19, 2025](https://www.space.com/space-exploration/mars-rovers/curiosity-mars-rover-puzzles-over-intriguing-boxwork-pattern-space-photo-of-the-day-for-sept-19-2025)
 - [The six best Walmart Bricktember deals live right now — from a deals expert](https://www.space.com/entertainment/space-toys-lego/the-six-best-walmart-bricktember-deals-live-right-now-from-a-deals-expert)
 - [Mastodon has a new plan to make money: Hosting and support services for the open social web](https://techcrunch.com/2025/09/19/mastodon-has-a-new-plan-to-make-money-hosting-and-support-services-for-the-open-social-web/)
 - [Astronomers discover rare &#39;runaway&#39; dwarf galaxy hiding a violent past](https://www.space.com/astronomy/galaxies/astronomers-discover-rare-runaway-dwarf-galaxy-hiding-a-violent-past)
-- [Indian fintech Jar turns profitable by enabling millions to save in gold](https://techcrunch.com/2025/09/18/indian-fintech-jar-turns-profitable-by-helping-millions-save-in-gold/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
