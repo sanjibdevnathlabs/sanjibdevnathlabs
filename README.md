@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Who is the pre-school cartoon &#39;Star Trek: Scouts&#39; made for? &lpar;hint: it&#39;s not kids&rpar;](https://www.space.com/entertainment/space-movies-shows/who-is-the-pre-school-cartoon-star-trek-scouts-made-for-hint-its-not-kids)
+- [SpaceX launches 24 Starlink internet satellites to orbit from California &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-internet-satellite-launch-group-17-12)
 - [How to watch the Sept. 21 partial solar eclipse live online for free](https://www.space.com/stargazing/solar-eclipses/how-to-watch-partial-solar-eclipse-live-online-free-sept-21-2025)
 - [Meta CTO explains why the smart glasses demos failed at Meta Connect — and it wasn’t the Wi-Fi](https://techcrunch.com/2025/09/19/meta-cto-explains-why-the-smart-glasses-demos-failed-at-meta-connect-and-it-wasnt-the-wi-fi/)
 - [Final hours to apply: Be the life of TechCrunch Disrupt 2025 by hosting your own Side Event](https://techcrunch.com/2025/09/19/final-hours-be-the-life-of-techcrunch-disrupt-2025-by-hosting-your-own-side-event/)
-- [&#39;We must replace this capability now&#39;: New NOAA satellite to replace aging space weather sentinels launches Sept. 23](https://www.space.com/space-exploration/satellites/we-must-replace-this-capability-now-new-noaa-satellite-to-replace-aging-space-weather-sentinels-launches-sept-23)
-- [Sony A7 III now $400 off in this limited-time deal — be ready to capture October&#39;s full moon](https://www.space.com/stargazing/skywatching-kit/sony-a7-iii-now-400-dollars-off-in-this-limited-time-deal-be-ready-to-capture-octobers-full-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
