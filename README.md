@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Landing site for Rosalind Franklin rover may be ripe with clues about ancient Mars life](https://www.space.com/space-exploration/mars-rovers/landing-site-for-rosalind-franklin-rover-may-be-ripe-with-clues-about-ancient-mars-life)
 - [&#39;Apollo 13&#39; launches back into IMAX theaters Sept. 19 for 30th anniversary](https://www.space.com/entertainment/space-movies-shows/apollo-13-launches-back-into-imax-theaters-sept-19-for-30th-anniversary)
 - [TechCrunch’s Equity podcast is on video, starting today](https://techcrunch.com/2025/09/19/techcrunchs-equity-podcast-is-on-video-starting-today/)
 - [Autumnal equinox 2025 brings fall to the Northern Hemisphere on Sept. 22](https://www.space.com/astronomy/earth/autumnal-equinox-2025-brings-fall-to-the-northern-hemisphere-on-sept-22)
 - [Trump and ByteDance tout TikTok deal approval, but no official details yet](https://techcrunch.com/2025/09/19/trump-and-bytedance-tout-tiktok-deal-approval-but-no-official-details-yet/)
-- [Meta’s AR ambitions meet reality, and California gets serious about AI safety…again](https://techcrunch.com/video/metas-ar-ambitions-meet-reality-and-california-gets-serious-about-ai-safetyagain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
