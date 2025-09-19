@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [One week left: Lock in discounted pricing for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/19/one-week-left-lock-in-discounted-pricing-for-techcrunch-disrupt-2025/)
-- [Zoom through the Milky Way&#39;s stellar nurseries in this super-detailed 3D map &lpar;video&rpar;](https://www.space.com/astronomy/stars/zoom-through-the-milky-ways-stellar-nurseries-in-this-super-detailed-3d-map-video)
-- [&#39;God of Chaos&#39; asteroid Apophis will fly by Earth in April 2029 — and these 3 space probes will be watching](https://www.space.com/astronomy/asteroids/god-of-chaos-asteroid-apophis-will-fly-by-earth-in-april-2029-and-these-3-space-probes-will-be-watching)
-- [Curiosity Mars rover puzzles over intriguing &#39;boxwork&#39; pattern | Space photo of the day for Sept. 19, 2025](https://www.space.com/space-exploration/mars-rovers/curiosity-mars-rover-puzzles-over-intriguing-boxwork-pattern-space-photo-of-the-day-for-sept-19-2025)
-- [The six best Walmart Bricktember deals live right now — from a deals expert](https://www.space.com/entertainment/space-toys-lego/the-six-best-walmart-bricktember-deals-live-right-now-from-a-deals-expert)
+- [Final hours to apply: Be the life of TechCrunch Disrupt 2025 by hosting your own Side Event](https://techcrunch.com/2025/09/19/final-hours-be-the-life-of-techcrunch-disrupt-2025-by-hosting-your-own-side-event/)
+- [&#39;We must replace this capability now&#39;: New NOAA satellite to replace aging space weather sentinels launches Sept. 23](https://www.space.com/space-exploration/satellites/we-must-replace-this-capability-now-new-noaa-satellite-to-replace-aging-space-weather-sentinels-launches-sept-23)
+- [Sony A7 III now $400 off in this limited-time deal — be ready to capture October&#39;s full moon](https://www.space.com/stargazing/skywatching-kit/sony-a7-iii-now-400-dollars-off-in-this-limited-time-deal-be-ready-to-capture-octobers-full-moon)
+- [Meta Ray-Ban Display and everything else unveiled at Meta Connect 2025](https://techcrunch.com/2025/09/19/meta-connect-2025-what-to-expect-and-how-to-watch/)
+- [Meet the latest VC judges joining Startup Battlefield 200 at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/19/meet-the-latest-vc-judges-joining-startup-battlefield-200-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
