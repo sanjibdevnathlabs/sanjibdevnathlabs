@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian fintech Jar turns profitable by enabling millions to save in gold](https://techcrunch.com/2025/09/18/indian-fintech-jar-turns-profitable-by-helping-millions-save-in-gold/)
 - [OpenAI’s research on AI models deliberately lying is wild](https://techcrunch.com/2025/09/18/openais-research-on-ai-models-deliberately-lying-is-wild/)
 - [Where are all the &#39;hot Neptune&#39; exoplanets? Orbital chaos may have booted them out](https://www.space.com/astronomy/exoplanets/where-are-all-the-hot-neptune-exoplanets-orbital-chaos-may-have-booted-them-out)
 - [Raising Series A in 2026: Insights from top early-stage VCs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/term-sheets-traction-and-truth-bombs-inside-the-series-a-mindset-at-techcrunch-disrupt-2025/)
 - [Huawei announces new AI infrastructure as Nvidia gets locked out of China](https://techcrunch.com/2025/09/18/huawei-announces-new-ai-infrastructure-as-nvidia-gets-locked-out-of-china/)
-- [&#39;It was the realization of a dream that we had chased for decades.&#39; Powerful cosmic winds around neutron star reveal secrets of monster black holes](https://www.space.com/astronomy/mysteriously-powerful-cosmic-winds-around-neutron-star-may-be-game-changer-for-understanding-monster-black-holes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
