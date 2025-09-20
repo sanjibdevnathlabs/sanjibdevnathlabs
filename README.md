@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Updates to Studio, YouTube Live, new gen AI tools, and everything else announced at Made on YouTube](https://techcrunch.com/2025/09/20/updates-to-studio-youtube-live-new-gen-ai-tools-and-everything-else-announced-at-made-on-youtube/)
+- [Astronaut Chris Hadfield explores murder in space in new Cold War space thriller &#39;Final Orbit&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-books/astronaut-chris-hadfield-explores-murder-in-space-in-new-cold-war-space-thriller-final-orbit-exclusive)
+- [Lincoln Center’s Collider Fellows explore how tech could transform the performing arts](https://techcrunch.com/2025/09/20/lincoln-centers-collider-fellows-explore-how-tech-could-transform-the-performing-arts/)
 - [Only 7 days left to save on TechCrunch Disrupt 2025 tickets — lock in Regular Bird pricing now](https://techcrunch.com/2025/09/20/only-7-days-left-to-save-on-techcrunch-disrupt-2025-tickets-lock-in-regular-bird-pricing-now/)
 - [Total eclipse of the smart: an eclipse themed space quiz](https://www.space.com/stargazing/eclipses/total-eclipse-of-the-smart-an-eclipse-themed-space-quiz)
-- [Seklin Galaxy star projector review](https://www.space.com/technology/seklin-galaxy-projector-review)
-- [A massive eruption 74,000 years ago affected the whole planet – archaeologists use volcanic glass to figure out how people survived](https://www.space.com/astronomy/earth/a-massive-eruption-74-000-years-ago-affected-the-whole-planet-archaeologists-use-volcanic-glass-to-figure-out-how-people-survived)
-- [This Week In Space podcast: Episode 178 — Tell It to the Mountain](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-178-tell-it-to-the-mountain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
