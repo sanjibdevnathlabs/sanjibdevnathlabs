@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Only 7 days left to save on TechCrunch Disrupt 2025 tickets — lock in Regular Bird pricing now](https://techcrunch.com/2025/09/20/only-7-days-left-to-save-on-techcrunch-disrupt-2025-tickets-lock-in-regular-bird-pricing-now/)
+- [Total eclipse of the smart: an eclipse themed space quiz](https://www.space.com/stargazing/eclipses/total-eclipse-of-the-smart-an-eclipse-themed-space-quiz)
 - [Seklin Galaxy star projector review](https://www.space.com/technology/seklin-galaxy-projector-review)
 - [A massive eruption 74,000 years ago affected the whole planet – archaeologists use volcanic glass to figure out how people survived](https://www.space.com/astronomy/earth/a-massive-eruption-74-000-years-ago-affected-the-whole-planet-archaeologists-use-volcanic-glass-to-figure-out-how-people-survived)
 - [This Week In Space podcast: Episode 178 — Tell It to the Mountain](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-178-tell-it-to-the-mountain)
-- [&#39;Alien: Earth&#39; has the right approach to canon — pick-and-choose and ignore the bits that don&#39;t work](https://www.space.com/entertainment/space-movies-shows/alien-earth-has-the-right-approach-to-canon-pick-and-choose-and-ignore-the-bits-that-dont-work)
-- [A massive dark matter halo may explain the strange 5th point of this &#39;Einstein Cross&#39;](https://www.space.com/astronomy/dark-universe/a-massive-dark-matter-halo-may-explain-the-strange-5th-point-of-this-einstein-cross)
 <!-- BLOG-POST-LIST:END -->
 
 ---
