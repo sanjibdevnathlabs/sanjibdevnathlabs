@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Seklin Galaxy star projector review](https://www.space.com/technology/seklin-galaxy-projector-review)
+- [A massive eruption 74,000 years ago affected the whole planet – archaeologists use volcanic glass to figure out how people survived](https://www.space.com/astronomy/earth/a-massive-eruption-74-000-years-ago-affected-the-whole-planet-archaeologists-use-volcanic-glass-to-figure-out-how-people-survived)
+- [This Week In Space podcast: Episode 178 — Tell It to the Mountain](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-178-tell-it-to-the-mountain)
 - [&#39;Alien: Earth&#39; has the right approach to canon — pick-and-choose and ignore the bits that don&#39;t work](https://www.space.com/entertainment/space-movies-shows/alien-earth-has-the-right-approach-to-canon-pick-and-choose-and-ignore-the-bits-that-dont-work)
 - [A massive dark matter halo may explain the strange 5th point of this &#39;Einstein Cross&#39;](https://www.space.com/astronomy/dark-universe/a-massive-dark-matter-halo-may-explain-the-strange-5th-point-of-this-einstein-cross)
-- [Google isn’t kidding around about cost cutting, even slashing its FT subscription](https://techcrunch.com/2025/09/19/google-isnt-kidding-around-about-cost-cutting-even-slashing-its-ft-subscription/)
-- [Trump hits H-1B visas with $100,000 fee, targeting the program that launched Elon Musk and Instagram](https://techcrunch.com/2025/09/19/trump-hits-h-1b-visas-with-100000-fee-targeting-the-program-that-launched-elon-musk-and-instagram/)
-- [VIPER lives! Jeff Bezos&#39; Blue Origin will land ice-hunting NASA rover on the moon in 2027](https://www.space.com/astronomy/moon/viper-lives-jeff-bezos-blue-origin-will-land-ice-hunting-nasa-rover-on-the-moon-in-2027)
 <!-- BLOG-POST-LIST:END -->
 
 ---
