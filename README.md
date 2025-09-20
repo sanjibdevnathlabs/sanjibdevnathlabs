@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [White House offers more details about potential TikTok deal](https://techcrunch.com/2025/09/20/white-house-offers-more-details-about-potential-tiktok-deal/)
+- [Trump hits H-1B visas with $100,000 fee, targeting the program that launched Elon Musk and Instagram](https://techcrunch.com/2025/09/20/trump-hits-h-1b-visas-with-100000-fee-targeting-the-program-that-launched-elon-musk-and-instagram/)
 - [Amazon, Google, Microsoft reportedly warn H-1B employees to stay in the US](https://techcrunch.com/2025/09/20/amazon-google-microsoft-warn-h-1b-employees-to-stay-in-the-us/)
 - [How Phoebe Gates and Sophia Kianni used Gen Z methods to raise $8M for Phia](https://techcrunch.com/2025/09/20/how-phoebe-gates-and-sophia-kianni-used-gen-z-methods-to-raise-8m-for-phia/)
 - [Updates to Studio, YouTube Live, new gen AI tools, and everything else announced at Made on YouTube](https://techcrunch.com/2025/09/20/updates-to-studio-youtube-live-new-gen-ai-tools-and-everything-else-announced-at-made-on-youtube/)
-- [Astronaut Chris Hadfield explores murder in space in new Cold War space thriller &#39;Final Orbit&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-books/astronaut-chris-hadfield-explores-murder-in-space-in-new-cold-war-space-thriller-final-orbit-exclusive)
-- [Lincoln Center’s Collider Fellows explore how tech could transform the performing arts](https://techcrunch.com/2025/09/20/lincoln-centers-collider-fellows-explore-how-tech-could-transform-the-performing-arts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
