@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google isn’t kidding around about cost cutting, even slashing its FT subscription](https://techcrunch.com/2025/09/19/google-isnt-kidding-around-about-cost-cutting-even-slashing-its-ft-subscription/)
 - [Trump hits H-1B visas with $100,000 fee, targeting the program that launched Elon Musk and Instagram](https://techcrunch.com/2025/09/19/trump-hits-h-1b-visas-with-100000-fee-targeting-the-program-that-launched-elon-musk-and-instagram/)
 - [VIPER lives! Jeff Bezos&#39; Blue Origin will land ice-hunting NASA rover on the moon in 2027](https://www.space.com/astronomy/moon/viper-lives-jeff-bezos-blue-origin-will-land-ice-hunting-nasa-rover-on-the-moon-in-2027)
 - [Titan&#39;s shadow crosses Saturn as the planet offers up its best views of 2025 this weekend](https://www.space.com/stargazing/titan-shadow-crosses-saturn-as-planet-offers-up-best-views-of-2025-this-weekend)
 - [Why California’s SB 53 might provide a meaningful check on big AI companies](https://techcrunch.com/2025/09/19/why-californias-sb-53-might-provide-a-meaningful-check-on-big-ai-companies/)
-- [Could a Mars crater have once hosted life? NASA&#39;s Perseverance rover finds more evidence it&#39;s possible](https://www.space.com/space-exploration/search-for-life/could-a-mars-crater-have-once-hosted-life-nasas-perseverance-rover-finds-more-evidence-its-possible)
 <!-- BLOG-POST-LIST:END -->
 
 ---
