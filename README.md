@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon, Google, Microsoft reportedly warn H-1B employees to stay in the US](https://techcrunch.com/2025/09/21/amazon-google-microsoft-warn-h-1b-employees-to-stay-in-the-us/)
+- [6 days left: Last chance for Regular Bird savings for TechCrunch Disrupt 2025 passes](https://techcrunch.com/2025/09/21/6-days-left-last-chance-for-regular-bird-pricing/)
+- [Watch NASA announce its new astronaut class and discuss the Artemis 2 moon mission this week](https://www.space.com/space-exploration/human-spaceflight/watch-nasa-announce-its-new-astronaut-class-and-discuss-the-artemis-2-moon-mission-this-week)
 - [5 best value streaming services for Sci-Fi fans in 2025: Netflix, Amazon Prime, Disney Plus and more](https://www.space.com/entertainment/best-value-streaming-services-for-sci-fi-fans)
 - [Earth&#39;s next &#39;mini-moon&#39; could create a gold rush for asteroid miners](https://www.space.com/astronomy/earth/earths-next-mini-moon-could-create-a-gold-rush-for-asteroid-miners)
-- [Blisslights Oblivia outdoor star projector review](https://www.space.com/technology/blisslights-oblivia-star-projector-review)
-- [New moon of August 2025 gets eclipsed today](https://www.space.com/astronomy/moon/new-moon-of-august-2025-gets-eclipsed-today)
-- [Don&#39;t miss the partial solar eclipse today! Where, when and how to see it](https://www.space.com/stargazing/solar-eclipses/dont-miss-the-partial-solar-eclipse-today-sept-21-2025-where-when-and-how-to-see-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
