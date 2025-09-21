@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hundreds of flights delayed at Heathrow and other airports after apparent cyberattack](https://techcrunch.com/2025/09/21/hundreds-of-flights-delayed-at-heathrow-and-other-airports-after-apparent-cyberattack/)
+- [SpaceX launches 28 Starlink internet satellites from Florida&#39;s Space Coast &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-satellite-starlink-launch-group-10-27)
 - [Amazon, Google, Microsoft reportedly warn H-1B employees to stay in the US](https://techcrunch.com/2025/09/21/amazon-google-microsoft-warn-h-1b-employees-to-stay-in-the-us/)
 - [6 days left: Last chance for Regular Bird savings for TechCrunch Disrupt 2025 passes](https://techcrunch.com/2025/09/21/6-days-left-last-chance-for-regular-bird-pricing/)
 - [Watch NASA announce its new astronaut class and discuss the Artemis 2 moon mission this week](https://www.space.com/space-exploration/human-spaceflight/watch-nasa-announce-its-new-astronaut-class-and-discuss-the-artemis-2-moon-mission-this-week)
-- [5 best value streaming services for Sci-Fi fans in 2025: Netflix, Amazon Prime, Disney Plus and more](https://www.space.com/entertainment/best-value-streaming-services-for-sci-fi-fans)
-- [Earth&#39;s next &#39;mini-moon&#39; could create a gold rush for asteroid miners](https://www.space.com/astronomy/earth/earths-next-mini-moon-could-create-a-gold-rush-for-asteroid-miners)
 <!-- BLOG-POST-LIST:END -->
 
 ---
