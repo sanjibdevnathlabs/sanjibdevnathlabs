@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t miss the partial solar eclipse today! Where, when and how to see it](https://www.space.com/stargazing/solar-eclipses/dont-miss-the-partial-solar-eclipse-today-sept-21-2025-where-when-and-how-to-see-it)
 - [White House offers more details about potential TikTok deal](https://techcrunch.com/2025/09/20/white-house-offers-more-details-about-potential-tiktok-deal/)
 - [Trump hits H-1B visas with $100,000 fee, targeting the program that launched Elon Musk and Instagram](https://techcrunch.com/2025/09/20/trump-hits-h-1b-visas-with-100000-fee-targeting-the-program-that-launched-elon-musk-and-instagram/)
 - [Amazon, Google, Microsoft reportedly warn H-1B employees to stay in the US](https://techcrunch.com/2025/09/20/amazon-google-microsoft-warn-h-1b-employees-to-stay-in-the-us/)
 - [How Phoebe Gates and Sophia Kianni used Gen Z methods to raise $8M for Phia](https://techcrunch.com/2025/09/20/how-phoebe-gates-and-sophia-kianni-used-gen-z-methods-to-raise-8m-for-phia/)
-- [Updates to Studio, YouTube Live, new gen AI tools, and everything else announced at Made on YouTube](https://techcrunch.com/2025/09/20/updates-to-studio-youtube-live-new-gen-ai-tools-and-everything-else-announced-at-made-on-youtube/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
