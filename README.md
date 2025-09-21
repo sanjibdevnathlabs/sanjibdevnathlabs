@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 best value streaming services for Sci-Fi fans in 2025: Netflix, Amazon Prime, Disney Plus and more](https://www.space.com/entertainment/best-value-streaming-services-for-sci-fi-fans)
+- [Earth&#39;s next &#39;mini-moon&#39; could create a gold rush for asteroid miners](https://www.space.com/astronomy/earth/earths-next-mini-moon-could-create-a-gold-rush-for-asteroid-miners)
 - [Blisslights Oblivia outdoor star projector review](https://www.space.com/technology/blisslights-oblivia-star-projector-review)
 - [New moon of August 2025 gets eclipsed today](https://www.space.com/astronomy/moon/new-moon-of-august-2025-gets-eclipsed-today)
 - [Don&#39;t miss the partial solar eclipse today! Where, when and how to see it](https://www.space.com/stargazing/solar-eclipses/dont-miss-the-partial-solar-eclipse-today-sept-21-2025-where-when-and-how-to-see-it)
-- [White House offers more details about potential TikTok deal](https://techcrunch.com/2025/09/20/white-house-offers-more-details-about-potential-tiktok-deal/)
-- [Trump hits H-1B visas with $100,000 fee, targeting the program that launched Elon Musk and Instagram](https://techcrunch.com/2025/09/20/trump-hits-h-1b-visas-with-100000-fee-targeting-the-program-that-launched-elon-musk-and-instagram/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
