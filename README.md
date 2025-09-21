@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump says Lachlan and Rupert Murdoch might invest in TikTok deal](https://techcrunch.com/2025/09/21/white-house-offers-more-details-about-potential-tiktok-deal/)
+- [Silicon Valley bets big on ‘environments’ to train AI agents](https://techcrunch.com/2025/09/21/silicon-valley-bets-big-on-environments-to-train-ai-agents/)
 - [TechCrunch Mobility: The two robotaxi battlegrounds that matter](https://techcrunch.com/2025/09/21/techcrunch-mobility-the-two-robotaxi-battlegrounds-that-matter/)
 - [Hundreds of flights delayed at Heathrow and other airports after apparent cyberattack](https://techcrunch.com/2025/09/21/hundreds-of-flights-delayed-at-heathrow-and-other-airports-after-apparent-cyberattack/)
 - [SpaceX launches 28 Starlink internet satellites from Florida&#39;s Space Coast &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-satellite-starlink-launch-group-10-27)
-- [Amazon, Google, Microsoft reportedly warn H-1B employees to stay in the US](https://techcrunch.com/2025/09/21/amazon-google-microsoft-warn-h-1b-employees-to-stay-in-the-us/)
-- [6 days left: Last chance for Regular Bird savings for TechCrunch Disrupt 2025 passes](https://techcrunch.com/2025/09/21/6-days-left-last-chance-for-regular-bird-pricing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
