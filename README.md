@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the moon &#39;bite&#39; the sun in 1st photos of September 2025 partial solar eclipse](https://www.space.com/stargazing/solar-eclipses/see-moon-bite-sun-1st-photos-partial-solar-eclipse-sept-21-2025)
 - [Trump says Lachlan and Rupert Murdoch might invest in TikTok deal](https://techcrunch.com/2025/09/21/white-house-offers-more-details-about-potential-tiktok-deal/)
 - [Silicon Valley bets big on ‘environments’ to train AI agents](https://techcrunch.com/2025/09/21/silicon-valley-bets-big-on-environments-to-train-ai-agents/)
 - [TechCrunch Mobility: The two robotaxi battlegrounds that matter](https://techcrunch.com/2025/09/21/techcrunch-mobility-the-two-robotaxi-battlegrounds-that-matter/)
 - [Hundreds of flights delayed at Heathrow and other airports after apparent cyberattack](https://techcrunch.com/2025/09/21/hundreds-of-flights-delayed-at-heathrow-and-other-airports-after-apparent-cyberattack/)
-- [SpaceX launches 28 Starlink internet satellites from Florida&#39;s Space Coast &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-satellite-starlink-launch-group-10-27)
 <!-- BLOG-POST-LIST:END -->
 
 ---
