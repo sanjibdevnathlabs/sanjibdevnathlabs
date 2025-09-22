@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook is getting an AI dating assistant](https://techcrunch.com/2025/09/22/facebook-is-getting-an-ai-dating-assistant/)
+- [Stellantis cancels plans for an electrified Jeep Gladiator](https://techcrunch.com/2025/09/22/stellantis-cancels-plans-for-an-electrified-jeep-gladiator/)
+- [The Oakland Ballers let an AI manage the team. What could go wrong?](https://techcrunch.com/2025/09/22/the-oakland-ballers-let-an-ai-manage-the-team-what-could-go-wrong/)
 - [NASA satellites track Pacific tsunami in real time after massive Russian earthquake](https://www.space.com/space-exploration/satellites/nasa-satellites-track-pacific-tsunami-in-real-time-after-massive-russian-earthquake)
 - [What Early-Stage Investors Really Look for in Founders at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/from-idea-to-first-check-raising-pre-seed-and-seed-capital-at-techcrunch-disrupt-2025/)
-- [Inside the mind of Elad Gil: Early-stage investing and next-gen innovation at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/elad-gil-one-of-techs-sharpest-minds-on-early-bets-breakout-growth-and-whats-coming-next-at-techcrunch-disrupt-2025/)
-- [Mission to the moon: The Artemis challenge](https://www.space.com/space-exploration/artemis/mission-to-the-moon-the-artemis-challenge)
-- [Automaker giant Stellantis says customers’ personal data stolen during breach](https://techcrunch.com/2025/09/22/automaker-giant-stellantis-says-customers-personal-data-stolen-during-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
