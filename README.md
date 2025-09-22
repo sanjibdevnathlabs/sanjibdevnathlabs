@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA satellites track Pacific tsunami in real time after massive Russian earthquake](https://www.space.com/space-exploration/satellites/nasa-satellites-track-pacific-tsunami-in-real-time-after-massive-russian-earthquake)
+- [What Early-Stage Investors Really Look for in Founders at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/from-idea-to-first-check-raising-pre-seed-and-seed-capital-at-techcrunch-disrupt-2025/)
 - [Inside the mind of Elad Gil: Early-stage investing and next-gen innovation at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/elad-gil-one-of-techs-sharpest-minds-on-early-bets-breakout-growth-and-whats-coming-next-at-techcrunch-disrupt-2025/)
 - [Mission to the moon: The Artemis challenge](https://www.space.com/space-exploration/artemis/mission-to-the-moon-the-artemis-challenge)
 - [Automaker giant Stellantis says customers’ personal data stolen during breach](https://techcrunch.com/2025/09/22/automaker-giant-stellantis-says-customers-personal-data-stolen-during-breach/)
-- [Here’s what’s happening right now with the US TikTok deal](https://techcrunch.com/2025/09/22/heres-whats-happening-right-now-with-the-us-tiktok-deal/)
-- [SpaceX launches 11th batch of &#39;proliferated architecture&#39; US spy satellites &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-11th-batch-of-proliferated-architecture-us-spy-satellites)
 <!-- BLOG-POST-LIST:END -->
 
 ---
