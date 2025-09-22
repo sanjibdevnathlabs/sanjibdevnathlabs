@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Earthmover wants to become the Snowflake of weather and geospatial data](https://techcrunch.com/2025/09/22/earthmover-wants-to-become-the-snowflake-of-weather-and-geospatial-data/)
-- [See the sun transform into a fiery crescent in breathtaking photos of the September 2025 partial solar eclipse](https://www.space.com/stargazing/solar-eclipses/see-sun-transform-into-fiery-crescent-breathtaking-photos-partial-solar-eclipse-sept-21-2025)
-- [NASA&#39;s Artemis 2 astronauts practice moonwatching | Space photo of the day for Sept. 22, 2025](https://www.space.com/space-exploration/artemis/nasas-artemis-2-astronauts-practice-moonwatching-space-photo-of-the-day-for-sept-22-2025)
-- [Commonwealth Fusion Systems books a $1B+ power deal for its future fusion reactor](https://techcrunch.com/2025/09/22/commonwealth-fusion-systems-books-a-1b-power-deal-for-its-future-fusion-reactor/)
-- [Happy autumnal equinox 2025! Fall begins in the northern hemisphere today](https://www.space.com/stargazing/happy-autumnal-equinox-fall-begins-northern-hemisphere-today-sept-22-2025)
+- [EU cyber agency confirms ransomware attack causing airport disruptions](https://techcrunch.com/2025/09/22/eu-cyber-agency-confirms-ransomware-attack-causing-airport-disruptions/)
+- [5 days left to save up to $668 on your TechCrunch Disrupt 2025 pass](https://techcrunch.com/2025/09/22/5-days-left-to-save-up-to-668-on-your-techcrunch-disrupt-2025-pass-dont-pay-more-for-the-same-seat/)
+- [Unit 221B raises $5 million to help track and disrupt today’s top hacking groups](https://techcrunch.com/2025/09/22/unit-221b-raises-5-million-to-help-track-and-disrupt-todays-top-hacking-groups/)
+- [a16z crypto-backed Shield raises $5M to help facilitate international business transactions in crypto](https://techcrunch.com/2025/09/22/a16z-crypto-backed-shield-raises-5m-to-help-facilitate-international-business-transactions-in-crypto/)
+- [Could new comet C/2025 R2 &lpar;SWAN&rpar; become visible to the naked eye in October? Here&#39;s what we know](https://www.space.com/stargazing/could-new-comet-c-2025-r2-swan-become-visible-to-the-naked-eye-in-october-heres-what-we-know)
 <!-- BLOG-POST-LIST:END -->
 
 ---
