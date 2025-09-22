@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch SpaceX launch 3 space weather probes early on Sept. 23](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-3-space-weather-probes-early-on-sept-23)
-- [Google’s Gemini AI is coming to your TV](https://techcrunch.com/2025/09/22/googles-gemini-ai-is-coming-to-your-tv/)
-- [Oracle promotes two presidents to co-CEO role](https://techcrunch.com/2025/09/22/oracle-promotes-two-presidents-to-co-ceo-role/)
-- [Oura ring maker raising $875M Series E, bringing valuation to $11B, report says](https://techcrunch.com/2025/09/22/oura-ring-maker-raising-875m-series-e-bringing-valuation-to-11b-report-says/)
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/09/22/tech-layoffs-2025-list/)
+- [Here’s what’s happening right now with the US TikTok deal](https://techcrunch.com/2025/09/22/heres-whats-happening-right-now-with-the-us-tiktok-deal/)
+- [SpaceX launches 11th batch of &#39;proliferated architecture&#39; US spy satellites &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-11th-batch-of-proliferated-architecture-us-spy-satellites)
+- [NASA unveils 10 new astronauts for missions to the moon — and maybe Mars](https://www.space.com/space-exploration/missions/nasa-unveils-10-new-astronauts-for-missions-to-the-moon-and-maybe-mars)
+- [The billion-dollar infrastructure deals powering the AI boom](https://techcrunch.com/2025/09/22/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/)
+- [Nvidia plans to invest up to $100B in OpenAI](https://techcrunch.com/2025/09/22/nvidia-plans-to-invest-up-to-100b-in-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
