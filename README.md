@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The US military just moved a satellite to inspect a UK spacecraft 22,000 miles above Earth](https://www.space.com/space-exploration/satellites/the-us-military-just-moved-a-satellite-to-inspect-a-uk-spacecraft-22-000-miles-above-earth)
+- [Blue Origin wins NASA deal to ferry VIPER rover to lunar south pole](https://techcrunch.com/2025/09/22/blue-origin-wins-nasa-deal-to-ferry-viper-rover-to-lunar-south-pole/)
+- [Clock’s ticking: Get hands-on experience volunteering at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/clocks-ticking-get-hands-on-experience-volunteering-at-techcrunch-disrupt-2025/)
 - [Elizabeth Stone on what’s next for Netflix — and streaming itself — at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/elizabeth-stone-on-whats-next-for-netflix-and-streaming-itself-at-techcrunch-disrupt-2025/)
 - [&#39;If it&#39;s possible, it must be done&#39;: Rocket Lab CEO Peter Beck has his eyes on missions to Mars and Venus](https://www.space.com/space-exploration/if-its-possible-it-must-be-done-rocket-lab-ceo-peter-beck-has-his-eyes-on-missions-to-mars-and-venus)
-- [eBay to acquire social marketplace platform Tise](https://techcrunch.com/2025/09/22/ebay-to-acquire-social-marketplace-platform-tise/)
-- [Lift off: First look at the Space Stage agenda at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/lift-off-first-look-at-the-space-stage-agenda-at-techcrunch-disrupt-2025/)
-- [EU cyber agency confirms ransomware attack causing airport disruptions](https://techcrunch.com/2025/09/22/eu-cyber-agency-confirms-ransomware-attack-causing-airport-disruptions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
