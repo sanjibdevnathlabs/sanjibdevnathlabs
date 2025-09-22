@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 2 astronauts practice moonwatching | Space photo of the day for Sept. 22, 2025](https://www.space.com/space-exploration/artemis/nasas-artemis-2-astronauts-practice-moonwatching-space-photo-of-the-day-for-sept-22-2025)
 - [Commonwealth Fusion Systems books a $1B+ power deal for its future fusion reactor](https://techcrunch.com/2025/09/22/commonwealth-fusion-systems-books-a-1b-power-deal-for-its-future-fusion-reactor/)
-- [Happy Autumnal equinox 2025! Fall begins in the northern hemisphere today](https://www.space.com/stargazing/happy-autumnal-equinox-fall-begins-northern-hemisphere-today-sept-22-2025)
+- [Happy autumnal equinox 2025! Fall begins in the northern hemisphere today](https://www.space.com/stargazing/happy-autumnal-equinox-fall-begins-northern-hemisphere-today-sept-22-2025)
 - [Powered by India’s small businesses, UK fintech Tide becomes a TPG-backed unicorn](https://techcrunch.com/2025/09/21/powered-by-indias-small-businesses-uk-fintech-tide-becomes-a-tpg-backed-unicorn/)
 - [VCs are still hiring MBAs, but firms are starting to need other experience more](https://techcrunch.com/2025/09/21/vcs-are-still-hiring-mbas-but-firms-are-starting-to-need-other-experience-more/)
-- [See the moon &#39;bite&#39; the sun in 1st photos of September 2025 partial solar eclipse](https://www.space.com/stargazing/solar-eclipses/see-moon-bite-sun-1st-photos-partial-solar-eclipse-sept-21-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
