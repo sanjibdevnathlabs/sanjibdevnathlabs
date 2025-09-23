@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX fires up Starship spacecraft ahead of 11th test flight &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-spacecraft-ahead-of-11th-test-flight-video)
 - [&#39;A front-row seat to history&#39;: NASA&#39;s Artemis 2 moonshot could launch as early as Feb. 5](https://www.space.com/space-exploration/artemis/a-front-row-seat-to-history-nasas-artemis-2-moonshot-could-launch-as-early-as-feb-5)
 - [How Google’s dev tools manager makes AI coding work](https://techcrunch.com/2025/09/23/how-googles-dev-tools-manager-makes-ai-coding-work/)
 - [Disney is raising the price of Disney+, Hulu subscriptions next month](https://techcrunch.com/2025/09/23/disney-is-raising-the-price-of-disney-hulu-subscriptions-next-month/)
 - [Psyche asteroid probe uses lasers to phone home from 218 million miles away](https://www.space.com/space-exploration/nasa-laser-communication-demo-shows-promise-for-mars-missions)
-- [Uber-rival Rapido doubles valuation to $2.3B following Swiggy stake sale](https://techcrunch.com/2025/09/23/uber-rival-rapido-doubles-valuation-to-2-3b-following-swiggy-stake-sale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
