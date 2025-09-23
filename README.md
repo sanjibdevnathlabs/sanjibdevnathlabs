@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch Disrupt 2025 ticket rates increase after just 4 days](https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-ticket-rates-increase-after-just-4-days/)
-- [Former NotebookLM devs’ new app, Huxe, taps audio to help you with news and research](https://techcrunch.com/2025/09/23/former-notebooklm-devs-new-app-huxe-taps-audio-to-help-you-with-news-and-research/)
-- [TV &amp; film&#39;s greatest visitors quiz: From xenomorphs to Yoda](https://www.space.com/entertainment/tv-and-films-greatest-visitors-quiz-from-xenomorphs-to-yoda)
-- [Google revamps its Play Store with AI features and more](https://techcrunch.com/2025/09/23/google-revamps-its-play-store-with-ai-features-and-more/)
-- [How do particle colliders work?](https://www.space.com/science/particle-physics/how-do-particle-colliders-work)
+- [Vinod Khosla on AI, moonshots, and building enduring startups — all at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/23/vinod-khosla-on-ai-moonshots-and-building-enduring-startups-all-at-techcrunch-disrupt-2025/)
+- [Tim Chen has quietly become of one the most sought-after solo investors](https://techcrunch.com/2025/09/23/tim-chen-has-quietly-become-of-one-the-most-sought-after-solo-investors/)
+- [Alloy is bringing data management to the robotics industry](https://techcrunch.com/2025/09/23/alloy-is-bringing-data-management-to-the-robotics-industry/)
+- [Meta launches super PAC to fight AI regulation as state policies mount](https://techcrunch.com/2025/09/23/meta-launches-super-pac-to-fight-ai-regulation-as-state-policies-mount/)
+- [AI company Superpanel raises $5.3M seed to automate legal intake](https://techcrunch.com/2025/09/23/superpanel-raises-5-3m-seed-to-automate-legal-intake/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
