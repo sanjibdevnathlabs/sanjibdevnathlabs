@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Catch the crescent moon make a fleeting appearance with Mars at sunset on Sept. 24](https://www.space.com/stargazing/crescent-moon-makes-fleeting-appearance-with-mars-sunset-sept-24-2025)
+- [Telo raises $20 million to build tiny electric trucks for cities](https://techcrunch.com/2025/09/23/telo-raises-20-million-to-build-tiny-electric-trucks-for-cities/)
+- [NASA’s new astronaut class includes SpaceX veterans Anna Menon and Yuri Kubo](https://techcrunch.com/2025/09/23/nasas-new-astronaut-class-includes-spacex-veterans-anna-menon-and-yuri-kubo/)
 - [WhatsApp can now translate messages on iOS and Android](https://techcrunch.com/2025/09/23/whatsapp-can-now-translate-messages-on-ios-and-android/)
 - [Dedicated mobile apps for vibe coding have so far failed to gain traction](https://techcrunch.com/2025/09/23/dedicated-mobile-apps-for-vibe-coding-have-so-far-failed-to-gain-traction/)
-- [&#39;The Fantastic Four: First Steps&#39;: Julia Garner dons the Mo-Cap suit in this exclusive bonus clip &lpar;video&rpar;](https://www.space.com/entertainment/the-fantastic-four-first-steps-julia-garner-dons-the-mo-cap-suit-in-this-exclusive-bonus-clip-video)
-- [Mercor’s Brendan Foody breaks down AI’s impact on hiring at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-what-ai-means-for-who-gets-hired-next/)
-- [Virgin Galactic to launch &#39;Purdue 1&#39; human spaceflight in 2027](https://www.space.com/space-exploration/private-spaceflight/virgin-galactic-to-launch-purdue-1-human-spaceflight-in-2027)
 <!-- BLOG-POST-LIST:END -->
 
 ---
