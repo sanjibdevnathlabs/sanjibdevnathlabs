@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building the New Backbone of Space at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/23/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/)
+- [Russian &#39;Noah&#39;s Ark&#39; probe carrying 75 mice and 1,500 flies lands back on Earth](https://www.space.com/space-exploration/russian-noahs-ark-probe-carrying-75-mice-and-1-500-flies-lands-back-on-earth)
+- [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2025/09/23/what-is-bluesky-everything-to-know-about-the-x-competitor/)
+- [Google’s AI Mode arrives in Spanish globally](https://techcrunch.com/2025/09/23/googles-ai-mode-arrives-in-spanish-globally/)
 - [Hubble Space Telescope watches dying star chow down on a Pluto-like world filled with ice](https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-watches-dying-star-chow-down-on-a-pluto-like-world-filled-with-ice)
-- [Scott Wiener on his fight to make Big Tech disclose AI’s dangers](https://techcrunch.com/2025/09/23/scott-wiener-on-his-fight-to-make-big-tech-disclose-ais-dangers/)
-- [SpaceX fires up Starship spacecraft ahead of 11th test flight &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-spacecraft-ahead-of-11th-test-flight-video)
-- [&#39;A front-row seat to history&#39;: NASA&#39;s Artemis 2 moonshot could launch as early as Feb. 5](https://www.space.com/space-exploration/artemis/a-front-row-seat-to-history-nasas-artemis-2-moonshot-could-launch-as-early-as-feb-5)
-- [How Google’s dev tools manager makes AI coding work](https://techcrunch.com/2025/09/23/how-googles-dev-tools-manager-makes-ai-coding-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
