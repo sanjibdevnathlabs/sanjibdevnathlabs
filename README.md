@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [SHA2 Fatal Flaw? &lpar;Hash Length Extension Attack&rpar; - Computerphile](https://www.youtube.com/watch?v=gOIBUe1fjX0)
 - [N8n AI Agents are INSANE!!](https://www.youtube.com/shorts/gEElEzKazYA)
 - [HyperLogLog Hit Counter - Computerphile](https://www.youtube.com/watch?v=B_PexYrEcEw)
 - [Meta&#39;s most dystopian product yet...](https://www.youtube.com/watch?v=GOejI6c0CMQ)
 - [AI companions are taking over… let’s build one](https://www.youtube.com/watch?v=OfOPrmnHRxw)
-- [07. EdTech Before the Internet](https://www.youtube.com/watch?v=68XZ_P9MKM8)
 <!-- YOUTUBE:END -->
 
 ---
