@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA laser communication demo shows promise for Mars missions](https://www.space.com/space-exploration/nasa-laser-communication-demo-shows-promise-for-mars-missions)
+- [&#39;A front-row seat to history&#39;: NASA&#39;s Artemis 2 moonshot could launch as early as Feb. 5](https://www.space.com/space-exploration/artemis/a-front-row-seat-to-history-nasas-artemis-2-moonshot-could-launch-as-early-as-feb-5)
+- [How Google’s dev tools manager makes AI coding work](https://techcrunch.com/2025/09/23/how-googles-dev-tools-manager-makes-ai-coding-work/)
+- [Disney is raising the price of Disney+, Hulu subscriptions next month](https://techcrunch.com/2025/09/23/disney-is-raising-the-price-of-disney-hulu-subscriptions-next-month/)
+- [Psyche asteroid probe uses lasers to phone home from 218 million miles away](https://www.space.com/space-exploration/nasa-laser-communication-demo-shows-promise-for-mars-missions)
 - [Uber-rival Rapido doubles valuation to $2.3B following Swiggy stake sale](https://techcrunch.com/2025/09/23/uber-rival-rapido-doubles-valuation-to-2-3b-following-swiggy-stake-sale/)
-- [Jaguar Land Rover to pause production until next week – at least](https://techcrunch.com/2025/09/23/jaguar-land-rover-to-pause-production-until-next-week-at-least/)
-- [Do startups still need Silicon Valley? Leaders at Signalfire, Lago, and Revolution debate at TechCrunch Disrupt 2025.](https://techcrunch.com/2025/09/23/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/)
-- [Google Photos users on Android can now edit their photos by talking to or texting the AI](https://techcrunch.com/2025/09/23/google-photos-users-on-android-can-now-edit-their-photos-by-talking-to-or-texting-the-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
