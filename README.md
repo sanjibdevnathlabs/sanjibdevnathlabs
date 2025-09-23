@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Catch the crescent moon make a fleeting appearance with Mars at sunset on Sept. 24](https://www.space.com/stargazing/crescent-moon-makes-fleeting-appearance-with-mars-sunset-sept-24-2025)
-- [Telo raises $20 million to build tiny electric trucks for cities](https://techcrunch.com/2025/09/23/telo-raises-20-million-to-build-tiny-electric-trucks-for-cities/)
-- [NASA’s new astronaut class includes SpaceX veterans Anna Menon and Yuri Kubo](https://techcrunch.com/2025/09/23/nasas-new-astronaut-class-includes-spacex-veterans-anna-menon-and-yuri-kubo/)
-- [WhatsApp can now translate messages on iOS and Android](https://techcrunch.com/2025/09/23/whatsapp-can-now-translate-messages-on-ios-and-android/)
-- [Dedicated mobile apps for vibe coding have so far failed to gain traction](https://techcrunch.com/2025/09/23/dedicated-mobile-apps-for-vibe-coding-have-so-far-failed-to-gain-traction/)
+- [NASA laser communication demo shows promise for Mars missions](https://www.space.com/space-exploration/nasa-laser-communication-demo-shows-promise-for-mars-missions)
+- [Uber-rival Rapido doubles valuation to $2.3B following Swiggy stake sale](https://techcrunch.com/2025/09/23/uber-rival-rapido-doubles-valuation-to-2-3b-following-swiggy-stake-sale/)
+- [Jaguar Land Rover to pause production until next week – at least](https://techcrunch.com/2025/09/23/jaguar-land-rover-to-pause-production-until-next-week-at-least/)
+- [Do startups still need Silicon Valley? Leaders at Signalfire, Lago, and Revolution debate at TechCrunch Disrupt 2025.](https://techcrunch.com/2025/09/23/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/)
+- [Google Photos users on Android can now edit their photos by talking to or texting the AI](https://techcrunch.com/2025/09/23/google-photos-users-on-android-can-now-edit-their-photos-by-talking-to-or-texting-the-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
