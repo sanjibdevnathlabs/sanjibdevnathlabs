@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Disrupt 2025 ticket rates increase after just 4 days](https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-ticket-rates-increase-after-just-4-days/)
+- [Former NotebookLM devs’ new app, Huxe, taps audio to help you with news and research](https://techcrunch.com/2025/09/23/former-notebooklm-devs-new-app-huxe-taps-audio-to-help-you-with-news-and-research/)
+- [TV &amp; film&#39;s greatest visitors quiz: From xenomorphs to Yoda](https://www.space.com/entertainment/tv-and-films-greatest-visitors-quiz-from-xenomorphs-to-yoda)
 - [Google revamps its Play Store with AI features and more](https://techcrunch.com/2025/09/23/google-revamps-its-play-store-with-ai-features-and-more/)
 - [How do particle colliders work?](https://www.space.com/science/particle-physics/how-do-particle-colliders-work)
-- [NOAA GOES-19 satellite captures partial eclipse | Space photo of the day for Sept. 23, 2025](https://www.space.com/stargazing/solar-eclipses/noaa-goes-19-satellite-captures-partial-eclipse-space-photo-of-the-day-for-sept-23-2025)
-- [Annular solar eclipse 2026: Everything you need to know about the &#39;ring of fire&#39;](https://www.space.com/stargazing/solar-eclipses/annular-solar-eclipse-2026-everything-you-need-to-know-about-the-ring-of-fire)
-- [Goodnotes collaborative docs and AI assitant to cater to professional users](https://techcrunch.com/2025/09/23/goodnotes-collaborative-docs-and-ai-assitant-to-cater-to-professional-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
