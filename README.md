@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These YC founders pivoted 5 times before building a social app that nabbed 300K users and over $1M ARR in 6 months](https://techcrunch.com/2025/09/24/these-yc-founders-pivoted-5-times-before-building-a-social-app-that-nabbed-300k-users-and-over-1m-arr-in-6-months/)
+- [Twin Mars spacecraft arrive in Florida for launch on Blue Origin&#39;s powerful New Glenn rocket &lpar;photo&rpar;](https://www.space.com/space-exploration/launches-spacecraft/twin-mars-spacecraft-arrive-in-florida-for-launch-on-blue-origins-powerful-new-glenn-rocket-photo)
+- [Instagram now has 3 billion monthly active users, will test features to help users control their feeds](https://techcrunch.com/2025/09/24/instagram-now-has-3-billion-monthly-active-users-will-test-features-to-help-users-control-their-feeds/)
 - [Oracle is reportedly looking to raise $15B in corporate bond sale](https://techcrunch.com/2025/09/24/oracle-is-reportedly-looking-to-raise-15b-in-corporate-bond-sale/)
 - [How to customize your iPhone Home Screen for iOS 26’s Liquid Glass](https://techcrunch.com/2025/09/24/how-to-customize-your-iphone-home-screen-for-ios-26s-liquid-glass/)
-- [Boosting timber harvesting in national forests while cutting public oversight won&#39;t solve America&#39;s wildfire problem](https://www.space.com/science/climate-change/boosting-timber-harvesting-in-national-forests-while-cutting-public-oversight-wont-solve-americas-wildfire-problem)
-- [Waymo is getting into the corporate travel business](https://techcrunch.com/2025/09/24/waymo-is-getting-into-the-corporate-travel-business/)
-- [From Digg to deals: Kevin Rose on reinvention and investing at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/24/from-digg-to-deals-kevin-rose-on-reinvention-and-investing-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
