@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google launches an AI-powered mood board app, Mixboard](https://techcrunch.com/2025/09/24/google-launches-an-ai-powered-mood-board-app-mixboard/)
-- [Emergent raises $23M from Lightspeed to let consumers build apps](https://techcrunch.com/2025/09/24/emergent-raises-23m-from-lightspeed-to-let-consumers-build-apps/)
-- [3 days left: Don’t miss your last chance to lock $668 of savings for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/24/3-days-left-dont-miss-your-last-chance-to-lock-in-regular-bird-pricing-for-techcrunch-disrupt-2025/)
-- [Spotify now integrates directly with DJ software from rekordbox, Serato, and djay](https://techcrunch.com/2025/09/24/spotify-now-integrates-directly-with-dj-software-from-rekordbox-serato-and-djay/)
-- [UK police arrest man linked to ransomware attack that caused airport disruptions in Europe](https://techcrunch.com/2025/09/24/uk-police-arrest-man-linked-to-ransomware-attack-that-caused-airport-disruptions-in-europe/)
+- [Waymo is getting into the corporate travel business](https://techcrunch.com/2025/09/24/waymo-is-getting-into-the-corporate-travel-business/)
+- [From Digg to deals: Kevin Rose on reinvention and investing at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/24/from-digg-to-deals-kevin-rose-on-reinvention-and-investing-at-techcrunch-disrupt-2025/)
+- [Google makes real-world data more accessible to AI — and training pipelines will love it](https://techcrunch.com/2025/09/24/google-makes-real-world-data-more-accessible-to-ai-and-training-pipelines-will-love-it/)
+- [YouTube will reinstate accounts banned for spreading misinformation](https://techcrunch.com/2025/09/24/youtube-will-reinstate-accounts-banned-for-spreading-misinformation/)
+- [Step into the future: The full AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/24/step-into-the-future-the-full-ai-stage-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
