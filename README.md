@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube now lets you hide recommendation pop-ups at the end of videos](https://techcrunch.com/2025/09/24/youtube-now-lets-you-hide-recommendation-pop-ups-at-the-end-of-videos/)
+- [AI is transforming weather forecasting − and that could be a game changer for farmers around the world](https://www.space.com/science/climate-change/ai-is-transforming-weather-forecasting-and-that-could-be-a-game-changer-for-farmers-around-the-world)
 - [Cohere hits $7B valuation a month after its last raise, partners with AMD](https://techcrunch.com/2025/09/24/cohere-hits-7b-valuation-a-month-after-its-last-raise-partners-with-amd/)
 - [&#39;This is how I&#39;m going to land&#39;: New NASA astronaut candidate&#39;s helicopter skills could come in handy on the moon](https://www.space.com/astronomy/moon/this-is-how-im-going-to-land-new-nasa-astronaut-candidates-helicopter-skills-could-come-in-handy-on-the-moon)
 - [Microsoft adds Anthropic’s AI to Copilot](https://techcrunch.com/2025/09/24/microsoft-adds-anthropics-ai-to-copilot/)
-- [How to build a GTM strategy that actually drives results at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/24/how-to-build-a-gtm-strategy-that-actually-drives-results-at-techcrunch-disrupt-2025/)
-- [&#39;We are ready for every scenario.&#39; NASA&#39;s Artemis 2 astronauts say they&#39;re all set for historic flight to the moon](https://www.space.com/space-exploration/artemis/we-are-ready-for-every-scenario-nasas-artemis-2-astronauts-say-theyre-all-set-for-historic-flight-to-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
