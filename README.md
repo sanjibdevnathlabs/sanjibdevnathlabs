@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google launches an AI-powered mood board app, Mixboard](https://techcrunch.com/2025/09/24/google-launches-an-ai-powered-mood-board-app-mixboard/)
+- [Emergent raises $23M from Lightspeed to let consumers build apps](https://techcrunch.com/2025/09/24/emergent-raises-23m-from-lightspeed-to-let-consumers-build-apps/)
+- [3 days left: Don’t miss your last chance to lock $668 of savings for TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/24/3-days-left-dont-miss-your-last-chance-to-lock-in-regular-bird-pricing-for-techcrunch-disrupt-2025/)
+- [Spotify now integrates directly with DJ software from rekordbox, Serato, and djay](https://techcrunch.com/2025/09/24/spotify-now-integrates-directly-with-dj-software-from-rekordbox-serato-and-djay/)
 - [UK police arrest man linked to ransomware attack that caused airport disruptions in Europe](https://techcrunch.com/2025/09/24/uk-police-arrest-man-linked-to-ransomware-attack-that-caused-airport-disruptions-in-europe/)
-- [Alibaba to offer Nvidia’s physical AI development tools in its AI platform](https://techcrunch.com/2025/09/24/alibaba-to-offer-nvidias-physical-ai-development-tools-in-its-ai-platform/)
-- [NASA&#39;s IMAP spacecraft getting packed up for launch | Space photo of the day for Sept. 24, 2025](https://www.space.com/space-exploration/launches-spacecraft/nasas-imap-spacecraft-gets-packed-up-for-launch-space-photo-of-the-day-for-sept-23-2025)
-- [Depop launches a fashion collaging tool to style Pinterest-worthy outfits](https://techcrunch.com/2025/09/24/depop-launches-a-fashion-collaging-tool-to-style-pinterest-worthy-outfits/)
-- [Rare satellite footage shows the moon eclipsing the sun on a strangely crooked path](https://www.space.com/stargazing/solar-eclipses/rare-satellite-footage-shows-the-moon-eclipsing-the-sun-on-a-strangely-crooked-path)
 <!-- BLOG-POST-LIST:END -->
 
 ---
