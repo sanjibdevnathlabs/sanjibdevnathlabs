@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Y Combinator launches “Early Decision” for students who want to graduate first, build later](https://techcrunch.com/2025/09/24/y-combinator-launches-early-decision-for-students-who-want-to-graduate-first-build-later/)
+- [India court rejects X’s “free speech” argument, backs government takedown powers](https://techcrunch.com/2025/09/24/india-court-rejects-xs-free-speech-argument-backs-government-takedown-powers/)
+- [Billionaire VC Mike Moritz slams new H-1B visa fee as ‘brutish extortion scheme’](https://techcrunch.com/2025/09/24/billionaire-vc-mike-moritz-slams-new-h-1b-visa-fee-as-brutish-extortion-scheme/)
 - [Chipiron’s big idea: rethinking MRI access, not replacing old machines](https://techcrunch.com/video/chipirons-big-idea-rethinking-mri-access-not-replacing-old-machines/)
 - [No near neighbors: Closest technologically advanced aliens may be 33,000 light-years from Earth](https://www.space.com/space-exploration/search-for-life/no-near-neighbors-closest-technologically-advanced-aliens-may-be-33-000-light-years-from-earth)
-- [Neon, the No. 2 social app on the Apple App Store, pays users to record their phone calls and sells data to AI firms](https://techcrunch.com/2025/09/24/neon-the-no-2-social-app-on-the-apple-app-store-pays-users-to-record-their-phone-calls-and-sells-data-to-ai-firms/)
-- [Zoox asks federal regulators for exemption to launch a commercial robotaxi service](https://techcrunch.com/2025/09/24/zoox-asks-federal-regulators-for-exemption-to-launch-a-commercial-robotaxi-service/)
-- [Meet &#39;Integrity&#39;: Artemis 2 astronauts name the spacecraft that will fly them around the moon](https://www.space.com/space-exploration/artemis/meet-integrity-artemis-2-astronauts-name-the-spacecraft-that-will-fly-them-around-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
