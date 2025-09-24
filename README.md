@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube now lets you hide recommendation pop-ups at the end of videos](https://techcrunch.com/2025/09/24/youtube-now-lets-you-hide-recommendation-pop-ups-at-the-end-of-videos/)
-- [AI is transforming weather forecasting − and that could be a game changer for farmers around the world](https://www.space.com/science/climate-change/ai-is-transforming-weather-forecasting-and-that-could-be-a-game-changer-for-farmers-around-the-world)
-- [Cohere hits $7B valuation a month after its last raise, partners with AMD](https://techcrunch.com/2025/09/24/cohere-hits-7b-valuation-a-month-after-its-last-raise-partners-with-amd/)
-- [&#39;This is how I&#39;m going to land&#39;: New NASA astronaut candidate&#39;s helicopter skills could come in handy on the moon](https://www.space.com/astronomy/moon/this-is-how-im-going-to-land-new-nasa-astronaut-candidates-helicopter-skills-could-come-in-handy-on-the-moon)
-- [Microsoft adds Anthropic’s AI to Copilot](https://techcrunch.com/2025/09/24/microsoft-adds-anthropics-ai-to-copilot/)
+- [No near neighbors: Closest technologically advanced aliens may be 33,000 light-years from Earth](https://www.space.com/space-exploration/search-for-life/no-near-neighbors-closest-technologically-advanced-aliens-may-be-33-000-light-years-from-earth)
+- [Neon, the No. 2 social app on the Apple App Store, pays users to record their phone calls and sells data to AI firms](https://techcrunch.com/2025/09/24/neon-the-no-2-social-app-on-the-apple-app-store-pays-users-to-record-their-phone-calls-and-sells-data-to-ai-firms/)
+- [Zoox asks federal regulators for exemption to launch a commercial robotaxi service](https://techcrunch.com/2025/09/24/zoox-asks-federal-regulators-for-exemption-to-launch-a-commercial-robotaxi-service/)
+- [Meet &#39;Integrity&#39;: Artemis 2 astronauts name the spacecraft that will fly them around the moon](https://www.space.com/space-exploration/artemis/meet-integrity-artemis-2-astronauts-name-the-spacecraft-that-will-fly-them-around-the-moon)
+- [Trump administration wants 10% stake in American lithium miner that sells to GM](https://techcrunch.com/2025/09/24/trump-administration-wants-10-stake-in-american-lithium-miner-that-sells-to-gm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
