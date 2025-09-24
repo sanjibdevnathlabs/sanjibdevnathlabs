@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rare satellite footage shows the moon eclipsing the sun on a strangely crooked path](https://www.space.com/stargazing/solar-eclipses/rare-satellite-footage-shows-the-moon-eclipsing-the-sun-on-a-strangely-crooked-path)
+- [SpaceX launches 3 probes to study space weather and map the boundaries of our solar system](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-3-probes-to-study-space-weather-and-map-the-boundaries-of-our-solar-system)
+- [Google’s cheaper AI Plus plan is now available in over 40 countries](https://techcrunch.com/2025/09/24/googles-cheaper-ai-plus-plan-is-now-available-in-over-40-countries/)
 - [South Korea’s ‘Silicon Valley’ struggles to live up to its global ambitions](https://techcrunch.com/2025/09/24/south-koreas-silicon-valley-struggles-to-live-up-to-its-global-ambitions/)
 - [How Al Gore used AI to track 660M polluters](https://techcrunch.com/2025/09/24/how-al-gore-used-ai-to-track-660m-polluters/)
-- [Could astronauts travel to Mars on nuclear-powered rockets? These scientists want to make it happen](https://www.space.com/space-exploration/could-astronauts-travel-to-mars-on-nuclear-powered-rockets-these-scientists-want-to-make-it-happen)
-- [OpenAI is building five new Stargate data centers with Oracle and SoftBank](https://techcrunch.com/2025/09/23/openai-is-building-five-new-stargate-data-centers-with-oracle-and-softbank/)
-- [Building the new backbone of space at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/23/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
