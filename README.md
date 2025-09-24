@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oracle is reportedly looking to raise $15B in corporate bond sale](https://techcrunch.com/2025/09/24/oracle-is-reportedly-looking-to-raise-15b-in-corporate-bond-sale/)
+- [How to customize your iPhone Home Screen for iOS 26’s Liquid Glass](https://techcrunch.com/2025/09/24/how-to-customize-your-iphone-home-screen-for-ios-26s-liquid-glass/)
+- [Boosting timber harvesting in national forests while cutting public oversight won&#39;t solve America&#39;s wildfire problem](https://www.space.com/science/climate-change/boosting-timber-harvesting-in-national-forests-while-cutting-public-oversight-wont-solve-americas-wildfire-problem)
 - [Waymo is getting into the corporate travel business](https://techcrunch.com/2025/09/24/waymo-is-getting-into-the-corporate-travel-business/)
 - [From Digg to deals: Kevin Rose on reinvention and investing at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/24/from-digg-to-deals-kevin-rose-on-reinvention-and-investing-at-techcrunch-disrupt-2025/)
-- [Google makes real-world data more accessible to AI — and training pipelines will love it](https://techcrunch.com/2025/09/24/google-makes-real-world-data-more-accessible-to-ai-and-training-pipelines-will-love-it/)
-- [YouTube will reinstate accounts banned for spreading misinformation](https://techcrunch.com/2025/09/24/youtube-will-reinstate-accounts-banned-for-spreading-misinformation/)
-- [Step into the future: The full AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/24/step-into-the-future-the-full-ai-stage-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
