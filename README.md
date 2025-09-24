@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [These YC founders pivoted 5 times before building a social app that nabbed 300K users and over $1M ARR in 6 months](https://techcrunch.com/2025/09/24/these-yc-founders-pivoted-5-times-before-building-a-social-app-that-nabbed-300k-users-and-over-1m-arr-in-6-months/)
-- [Twin Mars spacecraft arrive in Florida for launch on Blue Origin&#39;s powerful New Glenn rocket &lpar;photo&rpar;](https://www.space.com/space-exploration/launches-spacecraft/twin-mars-spacecraft-arrive-in-florida-for-launch-on-blue-origins-powerful-new-glenn-rocket-photo)
-- [Instagram now has 3 billion monthly active users, will test features to help users control their feeds](https://techcrunch.com/2025/09/24/instagram-now-has-3-billion-monthly-active-users-will-test-features-to-help-users-control-their-feeds/)
-- [Oracle is reportedly looking to raise $15B in corporate bond sale](https://techcrunch.com/2025/09/24/oracle-is-reportedly-looking-to-raise-15b-in-corporate-bond-sale/)
-- [How to customize your iPhone Home Screen for iOS 26’s Liquid Glass](https://techcrunch.com/2025/09/24/how-to-customize-your-iphone-home-screen-for-ios-26s-liquid-glass/)
+- [Cohere hits $7B valuation a month after its last raise, partners with AMD](https://techcrunch.com/2025/09/24/cohere-hits-7b-valuation-a-month-after-its-last-raise-partners-with-amd/)
+- [&#39;This is how I&#39;m going to land&#39;: New NASA astronaut candidate&#39;s helicopter skills could come in handy on the moon](https://www.space.com/astronomy/moon/this-is-how-im-going-to-land-new-nasa-astronaut-candidates-helicopter-skills-could-come-in-handy-on-the-moon)
+- [Microsoft adds Anthropic’s AI to Copilot](https://techcrunch.com/2025/09/24/microsoft-adds-anthropics-ai-to-copilot/)
+- [How to build a GTM strategy that actually drives results at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/24/how-to-build-a-gtm-strategy-that-actually-drives-results-at-techcrunch-disrupt-2025/)
+- [&#39;We are ready for every scenario.&#39; NASA&#39;s Artemis 2 astronauts say they&#39;re all set for historic flight to the moon](https://www.space.com/space-exploration/artemis/we-are-ready-for-every-scenario-nasas-artemis-2-astronauts-say-theyre-all-set-for-historic-flight-to-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
