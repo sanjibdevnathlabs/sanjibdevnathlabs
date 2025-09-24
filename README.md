@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [You can HACK AI with EMOJIS](https://www.youtube.com/shorts/4dqhgCM6LNU)
 - [THIS new standard changes how I use AI.](https://www.youtube.com/shorts/EOPo7yL86vE)
 - [SHA2 Fatal Flaw? &lpar;Hash Length Extension Attack&rpar; - Computerphile](https://www.youtube.com/watch?v=gOIBUe1fjX0)
 - [N8n AI Agents are INSANE!!](https://www.youtube.com/shorts/gEElEzKazYA)
 - [HyperLogLog Hit Counter - Computerphile](https://www.youtube.com/watch?v=B_PexYrEcEw)
-- [Meta&#39;s most dystopian product yet...](https://www.youtube.com/watch?v=GOejI6c0CMQ)
 <!-- YOUTUBE:END -->
 
 ---
