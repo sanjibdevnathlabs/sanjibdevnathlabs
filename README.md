@@ -146,8 +146,8 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Y Combinator launches “Early Decision” for students who want to graduate first, build later](https://techcrunch.com/2025/09/24/y-combinator-launches-early-decision-for-students-who-want-to-graduate-first-build-later/)
-- [India court rejects X’s “free speech” argument, backs government takedown powers](https://techcrunch.com/2025/09/24/india-court-rejects-xs-free-speech-argument-backs-government-takedown-powers/)
+- [Y Combinator launches ‘Early Decision’ for students who want to graduate first, build later](https://techcrunch.com/2025/09/24/y-combinator-launches-early-decision-for-students-who-want-to-graduate-first-build-later/)
+- [India court rejects X’s ‘free speech’ argument, backs government takedown powers](https://techcrunch.com/2025/09/24/india-court-rejects-xs-free-speech-argument-backs-government-takedown-powers/)
 - [Billionaire VC Mike Moritz slams new H-1B visa fee as ‘brutish extortion scheme’](https://techcrunch.com/2025/09/24/billionaire-vc-mike-moritz-slams-new-h-1b-visa-fee-as-brutish-extortion-scheme/)
 - [Chipiron’s big idea: rethinking MRI access, not replacing old machines](https://techcrunch.com/video/chipirons-big-idea-rethinking-mri-access-not-replacing-old-machines/)
 - [No near neighbors: Closest technologically advanced aliens may be 33,000 light-years from Earth](https://www.space.com/space-exploration/search-for-life/no-near-neighbors-closest-technologically-advanced-aliens-may-be-33-000-light-years-from-earth)
