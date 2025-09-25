@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will the ISS get another space plane visit before falling back to Earth in 2030? The dream may be fading](https://www.space.com/space-exploration/international-space-station/will-the-iss-get-another-space-plane-visit-before-falling-back-to-earth-in-2030-the-dream-may-be-fading)
 - [Viral call-recording app Neon goes dark after exposing users’ phone numbers, call recordings, and transcripts](https://techcrunch.com/2025/09/25/viral-call-recording-app-neon-goes-dark-after-exposing-users-phone-numbers-call-recordings-and-transcripts/)
 - [It came from outer space: Scientists solve decades-long mystery of the Silverpit Crater](https://www.space.com/astronomy/earth/it-came-from-outer-space-scientists-solve-decades-long-mystery-of-the-silverpit-crater)
 - [Private spacecraft will give NASA&#39;s Swift space telescope an orbital boost in 2026 in 1st-of-its-kind mission](https://www.space.com/space-exploration/missions/private-spacecraft-will-give-nasas-swift-space-telescope-an-orbital-boost-in-2026-in-1st-of-its-kind-mission)
 - [Microsoft cuts cloud services to Israeli military unit over Palestinian surveillance](https://techcrunch.com/2025/09/25/microsoft-cuts-cloud-services-to-israeli-military-unit-over-palestinian-surveillance/)
-- [Startup founders say Trump’s $100K H-1B fee is a ‘talent tariff’ that will hurt innovation](https://techcrunch.com/2025/09/25/startup-founders-say-trumps-100k-h-1b-fee-is-a-talent-tariff-that-will-hurt-innovation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
