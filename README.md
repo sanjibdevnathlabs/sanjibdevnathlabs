@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TuneIn partners with FEMA to give drivers real-time emergency alerts](https://techcrunch.com/2025/09/25/tunein-partners-with-fema-to-give-drivers-real-time-emergency-alerts/)
+- [Spotify to label AI music, filter spam and more in AI policy change](https://techcrunch.com/2025/09/25/spotify-updates-ai-policy-to-label-tracks-cut-down-on-spam/)
 - [These 2 galaxies are falling into the Virgo Cluster at a staggering rate of 547 miles per second](https://www.space.com/astronomy/galaxies/these-2-galaxies-are-falling-into-the-virgo-cluster-at-a-staggering-rate-of-547-miles-per-second)
 - [Smartphone maker Nothing to spin off its affordable CMF brand](https://techcrunch.com/2025/09/24/smartphone-maker-nothing-to-spin-off-its-affordable-cmf-brand/)
 - [It isn’t your imagination: Google Cloud is flooding the zone](https://techcrunch.com/2025/09/24/it-isnt-your-imagination-google-cloud-is-flooding-the-zone/)
-- [Watch ULA rocket launch 27 of Amazon&#39;s Project Kuiper internet satellites today](https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-launch-27-amazon-project-kuiper-internet-satellites)
-- [Y Combinator launches ‘Early Decision’ for students who want to graduate first, build later](https://techcrunch.com/2025/09/24/y-combinator-launches-early-decision-for-students-who-want-to-graduate-first-build-later/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
