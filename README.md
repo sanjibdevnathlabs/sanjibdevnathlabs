@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It isn’t your imagination; Google Cloud is flooding the zone](https://techcrunch.com/2025/09/24/it-isnt-your-imagination-google-cloud-is-flooding-the-zone/)
 - [Watch ULA rocket launch 27 of Amazon&#39;s Project Kuiper internet satellites today](https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-launch-27-amazon-project-kuiper-internet-satellites)
 - [Y Combinator launches ‘Early Decision’ for students who want to graduate first, build later](https://techcrunch.com/2025/09/24/y-combinator-launches-early-decision-for-students-who-want-to-graduate-first-build-later/)
 - [India court rejects X’s ‘free speech’ argument, backs government takedown powers](https://techcrunch.com/2025/09/24/india-court-rejects-xs-free-speech-argument-backs-government-takedown-powers/)
 - [Billionaire VC Mike Moritz slams new H-1B visa fee as ‘brutish extortion scheme’](https://techcrunch.com/2025/09/24/billionaire-vc-mike-moritz-slams-new-h-1b-visa-fee-as-brutish-extortion-scheme/)
-- [Chipiron’s big idea: rethinking MRI access, not replacing old machines](https://techcrunch.com/video/chipirons-big-idea-rethinking-mri-access-not-replacing-old-machines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
