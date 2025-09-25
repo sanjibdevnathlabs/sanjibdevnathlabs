@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI says GPT-5 stacks up to humans in a wide range of jobs](https://techcrunch.com/2025/09/25/openai-says-gpt-5-stacks-up-to-humans-in-a-wide-range-of-jobs/)
+- [Elon Musk’s xAI offers Grok to federal government for 42 cents](https://techcrunch.com/2025/09/25/elon-musks-xai-offers-grok-to-federal-government-for-42-cents/)
+- [For too long, colonial language has dominated space exploration. There is a better way](https://www.space.com/space-exploration/for-too-long-colonial-language-has-dominated-space-exploration-there-is-a-better-way)
+- [Love, lies, and algorithms: Is AI really helping us find ‘the one’? Live at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/25/love-lies-and-algorithms-is-ai-really-helping-us-find-the-one/)
 - [What top VCs want from AI founders: Inside the investor lens with Jon McNeill, Aileen Lee, and Steve Jang at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/25/what-top-vcs-want-from-ai-founders-inside-the-investor-lens-with-jon-mcneill-aileen-lee-and-steve-jang-at-techcrunch-disrupt-2025/)
-- [Doorstep raises $8M seed to help find missing food deliveries](https://techcrunch.com/2025/09/25/doorstep-raises-8m-seed-to-help-find-missing-food-deliveries/)
-- [JWST finds &#39;dark beads&#39; and wonky star patterns in Saturn&#39;s sky: &#39;These features were completely unexpected&#39;](https://www.space.com/astronomy/james-webb-space-telescope/jwst-finds-dark-beads-and-wonky-star-patterns-in-saturns-sky-these-features-were-completely-unexpected)
-- [Meta rolls out Teen Accounts on Facebook and Messenger globally](https://techcrunch.com/2025/09/25/meta-rolls-out-teen-accounts-on-facebook-and-messenger-globally/)
-- [Clarifai’s new reasoning engine makes AI models faster and less expensive](https://techcrunch.com/2025/09/25/clarifais-new-reasoning-engine-makes-ai-models-faster-and-less-expensive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
