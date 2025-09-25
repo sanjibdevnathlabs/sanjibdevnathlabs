@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI says GPT-5 stacks up to humans in a wide range of jobs](https://techcrunch.com/2025/09/25/openai-says-gpt-5-stacks-up-to-humans-in-a-wide-range-of-jobs/)
-- [Elon Musk’s xAI offers Grok to federal government for 42 cents](https://techcrunch.com/2025/09/25/elon-musks-xai-offers-grok-to-federal-government-for-42-cents/)
-- [For too long, colonial language has dominated space exploration. There is a better way](https://www.space.com/space-exploration/for-too-long-colonial-language-has-dominated-space-exploration-there-is-a-better-way)
-- [Love, lies, and algorithms: Is AI really helping us find ‘the one’? Live at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/25/love-lies-and-algorithms-is-ai-really-helping-us-find-the-one/)
-- [What top VCs want from AI founders: Inside the investor lens with Jon McNeill, Aileen Lee, and Steve Jang at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/25/what-top-vcs-want-from-ai-founders-inside-the-investor-lens-with-jon-mcneill-aileen-lee-and-steve-jang-at-techcrunch-disrupt-2025/)
+- [OpenAI launches ChatGPT Pulse to proactively write you morning briefs](https://techcrunch.com/2025/09/25/openai-launches-chatgpt-pulse-to-proactively-write-you-morning-briefs/)
+- [From Afar to Olduvai: asteroid Donaldjohanson&#39;s landmarks get names tied to human origins](https://www.space.com/astronomy/asteroids/from-afar-to-olduvai-asteroid-donaldjohansons-landmarks-get-names-tied-to-human-origins)
+- [Threads is developing a tool that lets you ‘tag’ its algorithm to configure your feed](https://techcrunch.com/2025/09/25/threads-is-developing-a-tool-that-lets-you-tag-its-algorithm-to-configure-your-feed/)
+- [Juicebox raises $30M from Sequoia to revolutionize hiring with LLM-powered search](https://techcrunch.com/2025/09/25/juicebox-raises-30m-from-sequoia-to-revolutionize-hiring-with-llm-powered-search/)
+- [Steph Curry’s VC firm just backed an AI startup that wants to fix food supply chains](https://techcrunch.com/2025/09/25/steph-currys-vc-firm-just-backed-an-ai-startup-that-wants-to-fix-food-supply-chains/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
