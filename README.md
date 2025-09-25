@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Coding a SHA2 Length Extension Attack - Computerphile](https://www.youtube.com/watch?v=XQo6rLdFlCg)
 - [One of these is NOT a Keyboard.](https://www.youtube.com/shorts/8jWFN6vQf8Y)
 - [AWS just made Kubernetes EASY &lpar;Amazon EKS Auto Mode&rpar;](https://www.youtube.com/shorts/qK7uaQyjTqg)
 - [There&#39;s a new Linux distro in town for developers...](https://www.youtube.com/watch?v=DC2p3kFjcK0)
 - [You can HACK AI with EMOJIS](https://www.youtube.com/shorts/4dqhgCM6LNU)
-- [THIS new standard changes how I use AI.](https://www.youtube.com/shorts/EOPo7yL86vE)
 <!-- YOUTUBE:END -->
 
 ---
