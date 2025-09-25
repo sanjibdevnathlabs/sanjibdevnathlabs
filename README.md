@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX launches 28 Starlink broadband satellites to orbit from Florida &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-28-starlink-broadband-satellites-group-10-15)
-- [Less than 48 hours to grab your TechCrunch Disrupt 2025 ticket savings](https://techcrunch.com/2025/09/25/these-are-the-last-2-days-for-techcrunch-disrupt-2025-ticket-savings/)
-- [Canon RF 85mm f/1.2L USM lens review](https://www.space.com/stargazing/skywatching-kit/canon-rf-85mm-f-1-2l-usm-lens-review)
-- [AIs in Space: From partners in pioneering to the children of humanity &lpar;op-ed&rpar;](https://www.space.com/space-exploration/human-spaceflight/ais-in-space-from-partners-in-pioneering-to-the-children-of-humanity-op-ed)
-- [Databricks will bake OpenAI models into its products in $100M bet to spur enterprise adoption](https://techcrunch.com/2025/09/25/databricks-will-bake-openai-models-into-its-products-in-100m-bet-to-spur-enterprise-adoption/)
+- [What top VCs want from AI founders: Inside the investor lens with Jon McNeill, Aileen Lee, and Steve Jang at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/25/what-top-vcs-want-from-ai-founders-inside-the-investor-lens-with-jon-mcneill-aileen-lee-and-steve-jang-at-techcrunch-disrupt-2025/)
+- [Doorstep raises $8M seed to help find missing food deliveries](https://techcrunch.com/2025/09/25/doorstep-raises-8m-seed-to-help-find-missing-food-deliveries/)
+- [JWST finds &#39;dark beads&#39; and wonky star patterns in Saturn&#39;s sky: &#39;These features were completely unexpected&#39;](https://www.space.com/astronomy/james-webb-space-telescope/jwst-finds-dark-beads-and-wonky-star-patterns-in-saturns-sky-these-features-were-completely-unexpected)
+- [Meta rolls out Teen Accounts on Facebook and Messenger globally](https://techcrunch.com/2025/09/25/meta-rolls-out-teen-accounts-on-facebook-and-messenger-globally/)
+- [Clarifai’s new reasoning engine makes AI models faster and less expensive](https://techcrunch.com/2025/09/25/clarifais-new-reasoning-engine-makes-ai-models-faster-and-less-expensive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
