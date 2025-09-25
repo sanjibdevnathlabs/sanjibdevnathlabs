@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope peers deep into the heart of star formation in our Milky Way galaxy](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-peers-deep-into-the-heart-of-star-formation-in-our-milky-way-galaxy)
+- [Tesla asks EPA not to roll back emissions rules as Trump calls climate change a ‘con job’](https://techcrunch.com/2025/09/25/tesla-asks-epa-not-to-roll-back-emissions-rules-as-trump-calls-climate-change-a-con-job/)
+- [Spotify denies recent accusation that it changed its terms for artists](https://techcrunch.com/2025/09/25/spotify-denies-recent-accusation-that-it-changed-its-terms-for-artists/)
 - [OpenAI launches ChatGPT Pulse to proactively write you morning briefs](https://techcrunch.com/2025/09/25/openai-launches-chatgpt-pulse-to-proactively-write-you-morning-briefs/)
 - [From Afar to Olduvai: asteroid Donaldjohanson&#39;s landmarks get names tied to human origins](https://www.space.com/astronomy/asteroids/from-afar-to-olduvai-asteroid-donaldjohansons-landmarks-get-names-tied-to-human-origins)
-- [Threads is developing a tool that lets you ‘tag’ its algorithm to configure your feed](https://techcrunch.com/2025/09/25/threads-is-developing-a-tool-that-lets-you-tag-its-algorithm-to-configure-your-feed/)
-- [Juicebox raises $30M from Sequoia to revolutionize hiring with LLM-powered search](https://techcrunch.com/2025/09/25/juicebox-raises-30m-from-sequoia-to-revolutionize-hiring-with-llm-powered-search/)
-- [Steph Curry’s VC firm just backed an AI startup that wants to fix food supply chains](https://techcrunch.com/2025/09/25/steph-currys-vc-firm-just-backed-an-ai-startup-that-wants-to-fix-food-supply-chains/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
