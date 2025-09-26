@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Music tests AI hosts that share trivia and commentary](https://techcrunch.com/2025/09/26/youtube-music-tests-ai-hosts-that-share-trivia-and-commentary/)
+- [Blue Origin now targeting mid-October for launch of twin NASA Mars probes on 2nd-ever New Glenn rocket](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-now-targeting-mid-october-for-launch-of-twin-nasa-mars-probes-on-2nd-ever-new-glenn-rocket)
 - [As people look for ways to make new friends, here are the apps promising to help](https://techcrunch.com/2025/09/26/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/)
 - [The moon is getting slightly farther away from the Earth each year — a physicist explains why](https://www.space.com/astronomy/moon/the-moon-is-getting-slightly-farther-away-from-the-earth-each-year-a-physicist-explains-why)
 - [More executives depart Hyundai’s air taxi startup Supernal](https://techcrunch.com/2025/09/26/more-executives-depart-hyundais-air-taxi-startup-supernal/)
-- [Everyone’s still throwing billions at AI data centers](https://techcrunch.com/video/everyones-still-throwing-billions-at-ai-data-centers/)
-- [TruSources to show off its on-device identity-checking tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/26/trusources-to-show-off-its-on-device-identity-checking-tech-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
