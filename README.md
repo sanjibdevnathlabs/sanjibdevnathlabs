@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thousands of Indian bank transfer records found online](https://techcrunch.com/2025/09/25/thousands-of-indian-bank-transfer-records-found-online/)
 - [Aaron Levie on building for the long game in enterprise software at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/25/inside-the-box-aaron-levie-on-reinvention-at-techcrunch-disrupt-2025/)
 - [Trump signs executive order to facilitate TikTok deal](https://techcrunch.com/2025/09/25/trump-signs-executive-order-approving-tiktok-deal/)
 - [Meta launches ‘Vibes,’ a short-form video feed of AI slop](https://techcrunch.com/2025/09/25/meta-launches-vibes-a-short-form-video-feed-of-ai-slop/)
 - [Will the ISS get another space plane visit before falling back to Earth in 2030? The dream may be fading](https://www.space.com/space-exploration/international-space-station/will-the-iss-get-another-space-plane-visit-before-falling-back-to-earth-in-2030-the-dream-may-be-fading)
-- [Viral call-recording app Neon goes dark after exposing users’ phone numbers, call recordings, and transcripts](https://techcrunch.com/2025/09/25/viral-call-recording-app-neon-goes-dark-after-exposing-users-phone-numbers-call-recordings-and-transcripts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
