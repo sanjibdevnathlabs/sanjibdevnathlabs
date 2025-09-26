@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As people look for ways to make new friends, here are the apps promising to help](https://techcrunch.com/2025/09/26/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/)
+- [The moon is getting slightly farther away from the Earth each year — a physicist explains why](https://www.space.com/astronomy/moon/the-moon-is-getting-slightly-farther-away-from-the-earth-each-year-a-physicist-explains-why)
+- [More executives depart Hyundai’s air taxi startup Supernal](https://techcrunch.com/2025/09/26/more-executives-depart-hyundais-air-taxi-startup-supernal/)
+- [Everyone’s still throwing billions at AI data centers](https://techcrunch.com/video/everyones-still-throwing-billions-at-ai-data-centers/)
 - [TruSources to show off its on-device identity-checking tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/26/trusources-to-show-off-its-on-device-identity-checking-tech-at-techcrunch-disrupt-2025/)
-- [The Orionid meteor shower 2025 has begun! See Halley’s Comet spark shooting stars this October](https://www.space.com/stargazing/meteor-showers/orionid-meteor-shower-october-2025-has-begun-halleys-comet-spark-shooting-stars)
-- [Thousands of Indian bank transfer records found spilling online after security lapse](https://techcrunch.com/2025/09/26/thousands-of-indian-bank-transfer-records-found-online/)
-- [Is the Apple Watch SE 3 a good deal?](https://techcrunch.com/2025/09/26/is-the-apple-watch-se-3-a-good-deal/)
-- [IPO-bound Flipkart gains key approvals to relocate to India](https://techcrunch.com/2025/09/26/ipo-bound-flipkart-gains-key-approvals-to-relocate-to-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
