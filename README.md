@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A tiny Apollo 17 moon rock is unlocking a secret lunar history](https://www.space.com/astronomy/moon/a-tiny-apollo-17-moon-rock-is-unlocking-a-secret-lunar-history)
 - [Vibe coding: Hype or new reality? Only at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/26/discover-how-developer-tools-are-shifting-fast-with-lauri-moore-and-david-cramer-at-techcrunch-disrupt-2025/)
 - [&#39;Futurama&#39; co-creator David X. Cohen digs into the &#39;looser&#39; lunacy of Season 13 &lpar;exclusive&rpar;](https://www.space.com/entertainment/futurama-co-creator-david-x-cohen-digs-into-the-looser-lunacy-of-season-13-exclusive)
 - [What’s behind the massive AI data center headlines?](https://techcrunch.com/2025/09/26/whats-behind-the-massive-ai-data-center-headlines/)
 - [Checkout.com’s new $12B valuation is a glass half-full situation](https://techcrunch.com/2025/09/26/checkout-coms-new-12b-valuation-is-a-glass-half-full-situation/)
-- [Electronic Arts will reportedly be acquired for $50B](https://techcrunch.com/2025/09/26/electronic-arts-will-reportedly-be-acquired-for-50b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
