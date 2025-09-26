@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IPO-bound Flipkart gains key approvals to relocate to India](https://techcrunch.com/2025/09/26/ipo-bound-flipkart-gains-key-approvals-to-relocate-to-india/)
+- [Why 2025&#39;s Harvest Moon is a rare October full moon](https://www.space.com/stargazing/why-harvest-moon-2025-is-a-rare-october-full-moon)
+- [The Trump admin is going after semiconductor imports](https://techcrunch.com/2025/09/26/the-trump-admin-is-going-after-semiconductor-imports/)
 - [Today is the last day to save up to $668 on TechCrunch Disrupt 2025 tickets](https://techcrunch.com/2025/09/26/last-day-to-save-668-on-techcrunch-disrupt-2025-tickets/)
 - [Viltrox AF 35mm f/1.2 LAB FE lens review](https://www.space.com/stargazing/skywatching-kit/viltrox-af-35mm-f-1-2-lab-fe-lens-review)
-- [See the red supergiant star Antares shine with the crescent moon at sunset on Sept. 27](https://www.space.com/stargazing/see-crescent-moon-shine-with-red-supergiant-star-antares-sunset-sept-27-2025)
-- [Here’s what’s happening right now with the US TikTok deal](https://techcrunch.com/2025/09/26/heres-whats-happening-right-now-with-the-us-tiktok-deal/)
-- [Battery startup Moxion went bankrupt. Now its founder is back to ‘finish what we started’](https://techcrunch.com/2025/09/26/battery-startup-moxion-went-bankrupt-now-its-founder-is-back-to-finish-what-we-started/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
