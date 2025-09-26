@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Today is the last day to save up to $668 on TechCrunch Disrupt 2025 tickets](https://techcrunch.com/2025/09/26/last-day-to-save-668-on-techcrunch-disrupt-2025-tickets/)
+- [Viltrox AF 35mm f/1.2 LAB FE lens review](https://www.space.com/stargazing/skywatching-kit/viltrox-af-35mm-f-1-2-lab-fe-lens-review)
+- [See the red supergiant star Antares shine with the crescent moon at sunset on Sept. 27](https://www.space.com/stargazing/see-crescent-moon-shine-with-red-supergiant-star-antares-sunset-sept-27-2025)
+- [Here’s what’s happening right now with the US TikTok deal](https://techcrunch.com/2025/09/26/heres-whats-happening-right-now-with-the-us-tiktok-deal/)
 - [Battery startup Moxion went bankrupt. Now its founder is back to ‘finish what we started’](https://techcrunch.com/2025/09/26/battery-startup-moxion-went-bankrupt-now-its-founder-is-back-to-finish-what-we-started/)
-- [Sierra Space’s spaceplane faces a reinvention after NASA contract change](https://techcrunch.com/2025/09/26/sierra-spaces-spaceplane-faces-a-reinvention-after-nasa-contract-change/)
-- [How developers are using Apple’s local AI models with iOS 26](https://techcrunch.com/2025/09/26/how-developers-are-using-apples-local-ai-models-with-ios-26/)
-- [ESA spacecraft sees a kaleidoscope of color in Mars&#39; atmosphere | Space photo of the day for Sept. 26, 2025](https://www.space.com/astronomy/mars/esa-spacecraft-sees-a-kaleidoscope-of-color-in-mars-atmosphere-space-photo-of-the-day-for-sept-26-2025)
-- [The largest-ever simulation of the universe has just been released](https://www.space.com/astronomy/the-largest-ever-simulation-of-the-universe-has-just-been-released)
 <!-- BLOG-POST-LIST:END -->
 
 ---
