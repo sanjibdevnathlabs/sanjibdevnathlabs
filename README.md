@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sierra Space’s spaceplane faces a reinvention after NASA contract change](https://techcrunch.com/2025/09/26/sierra-spaces-spaceplane-faces-a-reinvention-after-nasa-contract-change/)
+- [How developers are using Apple’s local AI models with iOS 26](https://techcrunch.com/2025/09/26/how-developers-are-using-apples-local-ai-models-with-ios-26/)
+- [ESA spacecraft sees a kaleidoscope of color in Mars&#39; atmosphere | Space photo of the day for Sept. 26, 2025](https://www.space.com/astronomy/mars/esa-spacecraft-sees-a-kaleidoscope-of-color-in-mars-atmosphere-space-photo-of-the-day-for-sept-26-2025)
 - [The largest-ever simulation of the universe has just been released](https://www.space.com/astronomy/the-largest-ever-simulation-of-the-universe-has-just-been-released)
-- [SpaceX launches 24 Starlink internet satellites, lands rocket on ship at sea](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-24-starlink-internet-satellites-group-17-11)
-- [Thousands of Indian bank transfer records found online](https://techcrunch.com/2025/09/25/thousands-of-indian-bank-transfer-records-found-online/)
-- [Aaron Levie on building for the long game in enterprise software at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/25/inside-the-box-aaron-levie-on-reinvention-at-techcrunch-disrupt-2025/)
-- [Trump signs executive order to facilitate TikTok deal](https://techcrunch.com/2025/09/25/trump-signs-executive-order-approving-tiktok-deal/)
+- [SpaceX launches 24 Starlink internet satellites, lands rocket on ship at sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-24-starlink-internet-satellites-group-17-11)
 <!-- BLOG-POST-LIST:END -->
 
 ---
