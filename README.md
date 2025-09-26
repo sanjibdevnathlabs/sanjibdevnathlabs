@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TruSources to show off its on-device identity-checking tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/26/trusources-to-show-off-its-on-device-identity-checking-tech-at-techcrunch-disrupt-2025/)
+- [The Orionid meteor shower 2025 has begun! See Halley’s Comet spark shooting stars this October](https://www.space.com/stargazing/meteor-showers/orionid-meteor-shower-october-2025-has-begun-halleys-comet-spark-shooting-stars)
+- [Thousands of Indian bank transfer records found spilling online after security lapse](https://techcrunch.com/2025/09/26/thousands-of-indian-bank-transfer-records-found-online/)
+- [Is the Apple Watch SE 3 a good deal?](https://techcrunch.com/2025/09/26/is-the-apple-watch-se-3-a-good-deal/)
 - [IPO-bound Flipkart gains key approvals to relocate to India](https://techcrunch.com/2025/09/26/ipo-bound-flipkart-gains-key-approvals-to-relocate-to-india/)
-- [Why 2025&#39;s Harvest Moon is a rare October full moon](https://www.space.com/stargazing/why-harvest-moon-2025-is-a-rare-october-full-moon)
-- [The Trump admin is going after semiconductor imports](https://techcrunch.com/2025/09/26/the-trump-admin-is-going-after-semiconductor-imports/)
-- [Today is the last day to save up to $668 on TechCrunch Disrupt 2025 tickets](https://techcrunch.com/2025/09/26/last-day-to-save-668-on-techcrunch-disrupt-2025-tickets/)
-- [Viltrox AF 35mm f/1.2 LAB FE lens review](https://www.space.com/stargazing/skywatching-kit/viltrox-af-35mm-f-1-2-lab-fe-lens-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
