@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube Music tests AI hosts that share trivia and commentary](https://techcrunch.com/2025/09/26/youtube-music-tests-ai-hosts-that-share-trivia-and-commentary/)
-- [Blue Origin now targeting mid-October for launch of twin NASA Mars probes on 2nd-ever New Glenn rocket](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-now-targeting-mid-october-for-launch-of-twin-nasa-mars-probes-on-2nd-ever-new-glenn-rocket)
-- [As people look for ways to make new friends, here are the apps promising to help](https://techcrunch.com/2025/09/26/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/)
-- [The moon is getting slightly farther away from the Earth each year — a physicist explains why](https://www.space.com/astronomy/moon/the-moon-is-getting-slightly-farther-away-from-the-earth-each-year-a-physicist-explains-why)
-- [More executives depart Hyundai’s air taxi startup Supernal](https://techcrunch.com/2025/09/26/more-executives-depart-hyundais-air-taxi-startup-supernal/)
+- [Vibe coding: Hype or new reality? Only at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/26/discover-how-developer-tools-are-shifting-fast-with-lauri-moore-and-david-cramer-at-techcrunch-disrupt-2025/)
+- [&#39;Futurama&#39; co-creator David X. Cohen digs into the &#39;looser&#39; lunacy of Season 13 &lpar;exclusive&rpar;](https://www.space.com/entertainment/futurama-co-creator-david-x-cohen-digs-into-the-looser-lunacy-of-season-13-exclusive)
+- [What’s behind the massive AI data center headlines?](https://techcrunch.com/2025/09/26/whats-behind-the-massive-ai-data-center-headlines/)
+- [Checkout.com’s new $12B valuation is a glass half-full situation](https://techcrunch.com/2025/09/26/checkout-coms-new-12b-valuation-is-a-glass-half-full-situation/)
+- [Electronic Arts will reportedly be acquired for $50B](https://techcrunch.com/2025/09/26/electronic-arts-will-reportedly-be-acquired-for-50b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
