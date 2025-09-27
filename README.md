@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI startup Friend spent more than $1M on all those subway ads](https://techcrunch.com/2025/09/27/ai-startup-friend-spent-more-than-1m-on-all-those-subway-ads/)
 - [Trump demands Microsoft fire global affairs head Lisa Monaco](https://techcrunch.com/2025/09/27/trump-demands-microsoft-fire-global-affairs-head-lisa-monaco/)
 - [Streak seekers: The ultimate meteor shower quiz](https://www.space.com/stargazing/meteor-showers/streak-seekers-the-ultimate-meteor-shower-quiz)
 - [How South Korea plans to best OpenAI, Google, others with homegrown AI](https://techcrunch.com/2025/09/27/how-south-korea-plans-to-best-openai-google-others-with-homegrown-ai/)
 - [Lego Duplo 3-in-1 Space Shuttle Adventure review](https://www.space.com/tech/lego-duplo-3-in-1-space-shuttle-adventure-review)
-- [Alien: Earth – how realistic are the extraterrestrials? Three experts rank them](https://www.space.com/entertainment/alien-earth-how-realistic-are-the-extraterrestrials-three-experts-rank-them)
 <!-- BLOG-POST-LIST:END -->
 
 ---
