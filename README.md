@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Streak seekers: The ultimate meteor shower quiz](https://www.space.com/stargazing/meteor-showers/streak-seekers-the-ultimate-meteor-shower-quiz)
 - [How South Korea plans to best OpenAI, Google, others with homegrown AI](https://techcrunch.com/2025/09/27/how-south-korea-plans-to-best-openai-google-others-with-homegrown-ai/)
 - [Lego Duplo 3-in-1 Space Shuttle Adventure review](https://www.space.com/tech/lego-duplo-3-in-1-space-shuttle-adventure-review)
 - [Alien: Earth – how realistic are the extraterrestrials? Three experts rank them](https://www.space.com/entertainment/alien-earth-how-realistic-are-the-extraterrestrials-three-experts-rank-them)
 - [This Week In Space podcast: Episode 179 — The New Crew of Artemis II](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-179-the-new-crew-of-artemis-ii)
-- [After almost 20 years helping to operate rovers on Mars, NASA geologist and astronaut candidate Lauren Edgar says stepping foot on the Red Planet &#39;would be a dream&#39;](https://www.space.com/astronomy/mars/after-almost-20-helping-to-operate-rovers-on-mars-nasa-geologist-and-astronaut-candidate-lauren-edgar-says-stepping-foot-on-the-red-planet-would-be-a-dream)
 <!-- BLOG-POST-LIST:END -->
 
 ---
