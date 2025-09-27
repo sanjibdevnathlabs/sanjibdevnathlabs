@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After almost 20 helping to operate rovers on Mars, NASA geologist and astronaut candidate Lauren Edgar says stepping foot on the Red Planet &#39;would be a dream&#39;](https://www.space.com/astronomy/mars/after-almost-20-helping-to-operate-rovers-on-mars-nasa-geologist-and-astronaut-candidate-lauren-edgar-says-stepping-foot-on-the-red-planet-would-be-a-dream)
 - [Happy Astronomy Day 2025! Celebrate by hunting these 6 spectacular night sky targets](https://www.space.com/stargazing/6-night-sky-targets-astronomy-day-sept-27-2025)
 - [Europe wants to launch a life-hunting mission to Saturn&#39;s icy ocean moon Enceladus](https://www.space.com/space-exploration/missions/europe-wants-to-launch-a-life-hunting-mission-to-saturns-icy-ocean-moon-enceladus)
 - [Famed roboticist says humanoid robot bubble is doomed to burst](https://techcrunch.com/2025/09/26/famed-roboticist-says-humanoid-robot-bubble-is-doomed-to-burst/)
 - [A tiny Apollo 17 moon rock is unlocking a secret lunar history](https://www.space.com/astronomy/moon/a-tiny-apollo-17-moon-rock-is-unlocking-a-secret-lunar-history)
-- [Vibe coding: Hype or new reality? Only at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/26/discover-how-developer-tools-are-shifting-fast-with-lauri-moore-and-david-cramer-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
