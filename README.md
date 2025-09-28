@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lootlock protects kids from overspending on gaming and will be presenting at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/28/lootlock-protects-kids-from-overspending-on-gaming-and-will-be-presenting-at-techcrunch-disrupt-2025/)
+- [How unexploded bombs cause environmental damage – and why climate change exacerbates the problem](https://www.space.com/science/climate-change/how-unexploded-bombs-cause-environmental-damage-and-why-climate-change-exacerbates-the-problem)
 - [Wiz chief technologist Ami Luttwak on how AI is transforming cyberattacks](https://techcrunch.com/2025/09/28/wiz-chief-technologist-ami-luttwak-on-how-ai-is-transforming-cyberattacks/)
-- [See our neighboring galaxy Andromeda shine in stunningly detailed astrophotography portrait &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/see-andromeda-galaxy-shine-in-stunningly-detailed-astrophotography-portrait-sept-2025)
-- [This dwarf planet has gas: Makemake&#39;s methane surprises scientists](https://www.space.com/astronomy/dwarf-planets/this-dwarf-planet-has-gas-makemakes-methane-surprises-scientists)
-- [Beware coworkers who produce AI-generated ‘workslop’](https://techcrunch.com/2025/09/27/beware-coworkers-who-produce-ai-generated-workslop/)
-- [AI startup Friend spent more than $1M on all those subway ads](https://techcrunch.com/2025/09/27/ai-startup-friend-spent-more-than-1m-on-all-those-subway-ads/)
+- [Lego Ideas The Evolution of STEM review](https://www.space.com/entertainment/space-games-toys/lego-ideas-the-evolution-of-stem-review)
+- [Astronauts welcome NASA&#39;s new &#39;ascans&#39; | On the International Space Station Sept. 22-26, 2025](https://www.space.com/space-exploration/international-space-station/astronauts-welcome-nasas-new-ascans-on-the-international-space-station-sept-22-26-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
