@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Mobility: Self-driving trucks startup Kodiak goes public and a shake-up at Hyundai’s Supernal](https://techcrunch.com/2025/09/28/techcrunch-mobility-self-driving-trucks-startup-kodiak-goes-public-and-a-shake-up-at-hyundais-supernal/)
+- [To the stars: a stellar trivia quiz](https://www.space.com/astronomy/stars/to-the-stars-a-stellar-trivia-quiz)
+- [Do EA buyout talks hint at bigger industry troubles?](https://techcrunch.com/2025/09/28/do-ea-buyout-talks-hint-at-bigger-industry-troubles/)
 - [Lootlock protects kids from overspending on gaming and will be presenting at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/28/lootlock-protects-kids-from-overspending-on-gaming-and-will-be-presenting-at-techcrunch-disrupt-2025/)
 - [How unexploded bombs cause environmental damage – and why climate change exacerbates the problem](https://www.space.com/science/climate-change/how-unexploded-bombs-cause-environmental-damage-and-why-climate-change-exacerbates-the-problem)
-- [Wiz chief technologist Ami Luttwak on how AI is transforming cyberattacks](https://techcrunch.com/2025/09/28/wiz-chief-technologist-ami-luttwak-on-how-ai-is-transforming-cyberattacks/)
-- [Lego Ideas The Evolution of STEM review](https://www.space.com/entertainment/space-games-toys/lego-ideas-the-evolution-of-stem-review)
-- [Astronauts welcome NASA&#39;s new &#39;ascans&#39; | On the International Space Station Sept. 22-26, 2025](https://www.space.com/space-exploration/international-space-station/astronauts-welcome-nasas-new-ascans-on-the-international-space-station-sept-22-26-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
