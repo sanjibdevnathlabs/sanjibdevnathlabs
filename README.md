@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wiz chief technologist Ami Luttwak on how AI is transforming cyberattacks](https://techcrunch.com/2025/09/28/wiz-chief-technologist-ami-luttwak-on-how-ai-is-transforming-cyberattacks/)
 - [See our neighboring galaxy Andromeda shine in stunningly detailed astrophotography portrait &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/see-andromeda-galaxy-shine-in-stunningly-detailed-astrophotography-portrait-sept-2025)
 - [This dwarf planet has gas: Makemake&#39;s methane surprises scientists](https://www.space.com/astronomy/dwarf-planets/this-dwarf-planet-has-gas-makemakes-methane-surprises-scientists)
 - [Beware coworkers who produce AI-generated ‘workslop’](https://techcrunch.com/2025/09/27/beware-coworkers-who-produce-ai-generated-workslop/)
 - [AI startup Friend spent more than $1M on all those subway ads](https://techcrunch.com/2025/09/27/ai-startup-friend-spent-more-than-1m-on-all-those-subway-ads/)
-- [Trump demands Microsoft fire global affairs head Lisa Monaco](https://techcrunch.com/2025/09/27/trump-demands-microsoft-fire-global-affairs-head-lisa-monaco/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
