@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How would a government shutdown affect NASA?](https://www.space.com/space-exploration/how-would-a-government-shutdown-affect-nasa)
-- [OpenAI takes on Google, Amazon with new agentic shopping system](https://techcrunch.com/2025/09/29/openai-takes-on-google-amazon-with-new-agentic-shopping-system/)
-- [This French VC went from posting on YouTube to raising a $12M fund for Y Combinator startups](https://techcrunch.com/2025/09/29/this-french-vc-went-from-posting-on-youtube-to-raising-a-12m-fund-for-y-combinator-startups/)
-- [Love and hate in &#39;Foundation&#39; Season 3: Emmy-winner Cherry Jones spills the tea on her on-screen relationship &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/love-and-hate-in-foundation-season-3-emmy-winner-cherry-jones-spills-the-tea-on-her-on-screen-relationship-exclusive)
-- [The ultimate night sky IQ test](https://www.space.com/stargazing/the-ultimate-night-sky-iq-test)
+- [Frank founder Charlie Javice sentenced to 7 years in prison for defrauding JPMorgan Chase](https://techcrunch.com/2025/09/29/frank-founder-charlie-javice-sentenced-to-7-years-in-prison-for-defrauding-jpmorgan-chase/)
+- [Astronauts on the moon and Mars? World space leaders lay out visions for an ambitious future](https://www.space.com/space-exploration/astronauts-on-the-moon-and-mars-world-space-leaders-lay-out-visions-for-an-ambitious-future)
+- [Firefly Aerospace&#39;s Alpha rocket explodes during preflight test](https://www.space.com/space-exploration/launches-spacecraft/firefly-aerospaces-alpha-rocket-explodes-during-preflight-test)
+- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/09/29/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
+- [Explosion, vehicle fire rock Faraday Future’s LA headquarters](https://techcrunch.com/2025/09/29/explosion-vehicle-fire-rock-faraday-futures-la-headquarters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
