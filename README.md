@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Apache Kafka Complete Course for Beginners](https://www.youtube.com/watch?v=B7CwU_tNYIE)
-- [I Accidentally Turned Claude Into a Hacker...](https://www.youtube.com/shorts/Uc18mso08Ro)
-- [Coding a SHA2 Length Extension Attack - Computerphile](https://www.youtube.com/watch?v=XQo6rLdFlCg)
-- [One of these is NOT a Keyboard.](https://www.youtube.com/shorts/8jWFN6vQf8Y)
-- [AWS just made Kubernetes EASY &lpar;Amazon EKS Auto Mode&rpar;](https://www.youtube.com/shorts/qK7uaQyjTqg)
+- [Video 9: All There Is to Unlearn - MIT Innovation Teams](https://www.youtube.com/watch?v=bV8-5sce5nw)
+- [Video 5: Prototype Problems Not Products - MIT Innovation Teams](https://www.youtube.com/watch?v=9SaekDRtGFw)
+- [Video 1: Congratulations, You Are a Terrible Robot - MIT Innovation Teams](https://www.youtube.com/watch?v=vdtI0o3ViZw)
+- [Video 3: Technology Isn’t What You Think It Is - MIT Innovation Teams](https://www.youtube.com/watch?v=_MohGTvxaRk)
+- [Introduction: How to Move Technologies from Lab to Impact - MIT Innovation Teams](https://www.youtube.com/watch?v=WK5o1nGwTdU)
 <!-- YOUTUBE:END -->
 
 ---
