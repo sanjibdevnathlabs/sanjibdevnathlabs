@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rubin Observatory&#39;s upcoming images may stack up to space telescope ones. Here&#39;s how](https://www.space.com/astronomy/the-rubin-observatorys-upcoming-images-may-stack-up-to-space-telescope-ones-heres-how)
+- [California Governor Newsom signs landmark AI safety bill SB 53](https://techcrunch.com/2025/09/29/california-governor-newsom-signs-landmark-ai-safety-bill-sb-53/)
 - [Frank founder Charlie Javice sentenced to 7 years in prison for defrauding JPMorgan Chase](https://techcrunch.com/2025/09/29/frank-founder-charlie-javice-sentenced-to-7-years-in-prison-for-defrauding-jpmorgan-chase/)
 - [Astronauts on the moon and Mars? World space leaders lay out visions for an ambitious future](https://www.space.com/space-exploration/astronauts-on-the-moon-and-mars-world-space-leaders-lay-out-visions-for-an-ambitious-future)
 - [Firefly Aerospace&#39;s Alpha rocket explodes during preflight test](https://www.space.com/space-exploration/launches-spacecraft/firefly-aerospaces-alpha-rocket-explodes-during-preflight-test)
-- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/09/29/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
-- [Explosion, vehicle fire rock Faraday Future’s LA headquarters](https://techcrunch.com/2025/09/29/explosion-vehicle-fire-rock-faraday-futures-la-headquarters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
