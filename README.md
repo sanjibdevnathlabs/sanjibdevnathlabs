@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How would a government shutdown affect NASA?](https://www.space.com/space-exploration/how-would-a-government-shutdown-affect-nasa)
+- [OpenAI takes on Google, Amazon with new agentic shopping system](https://techcrunch.com/2025/09/29/openai-takes-on-google-amazon-with-new-agentic-shopping-system/)
 - [This French VC went from posting on YouTube to raising a $12M fund for Y Combinator startups](https://techcrunch.com/2025/09/29/this-french-vc-went-from-posting-on-youtube-to-raising-a-12m-fund-for-y-combinator-startups/)
 - [Love and hate in &#39;Foundation&#39; Season 3: Emmy-winner Cherry Jones spills the tea on her on-screen relationship &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/love-and-hate-in-foundation-season-3-emmy-winner-cherry-jones-spills-the-tea-on-her-on-screen-relationship-exclusive)
 - [The ultimate night sky IQ test](https://www.space.com/stargazing/the-ultimate-night-sky-iq-test)
-- [Vibe coding Anything nabs a $100M valuation, after hitting $2M ARR in its first two weeks](https://techcrunch.com/2025/09/29/vibe-coding-anything-nabs-a-100m-valuation-after-hitting-2m-arr-in-its-first-two-weeks/)
-- [Anthropic launches Claude Sonnet 4.5, its best AI model for coding](https://techcrunch.com/2025/09/29/anthropic-launches-claude-sonnet-4-5-its-best-ai-model-for-coding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
