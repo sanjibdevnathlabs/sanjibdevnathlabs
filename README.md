@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The startup behind open source tool Polars raises $21M from Accel](https://techcrunch.com/2025/09/29/the-startup-behind-open-source-tool-polars-raises-21m-from-accel/)
-- [Chinese astronauts add debris shielding to Tiangong space station during 6-hour spacewalk &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/chinese-astronauts-add-debris-shielding-to-tiangong-space-station-during-6-hour-spacewalk-video)
-- [Honda and Astrobotic team up to keep the lights on through the long lunar night](https://techcrunch.com/2025/09/29/honda-and-astrobotic-team-up-to-keep-the-lights-on-through-the-long-lunar-night/)
-- [Hubble Telescope finds galaxy with puzzling shape | Space photo of the day for Sept. 29, 2025](https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-finds-galaxy-with-puzzling-shape-space-photo-of-the-day-for-sept-29-2025)
-- [Instagram is testing a Reels-first UI in India and South Korea](https://techcrunch.com/2025/09/29/instagram-is-testing-a-reels-first-ui-in-india-and-south-korea/)
+- [Complex Chaos thinks AI can help people find common ground](https://techcrunch.com/2025/09/29/complex-chaos-thinks-ai-can-help-people-find-common-ground/)
+- [UK government bails out Jaguar Land Rover with £1.5B loan after hack disrupts vehicle production for weeks](https://techcrunch.com/2025/09/29/uk-government-bails-out-jaguar-land-rover-with-1-5b-loan-after-hack-disrupts-vehicle-production-for-weeks/)
+- [The TechCrunch Disrupt Stage revealed: Behold the first look](https://techcrunch.com/2025/09/29/the-techcrunch-disrupt-stage-revealed-behold-the-first-look/)
+- [Canon EOS R50 V review](https://www.space.com/stargazing/skywatching-kit/canon-eos-r50-v-review)
+- [Secrets of ancient life on Earth may live in Japan&#39;s hot springs](https://www.space.com/astronomy/earth/secrets-of-ancient-life-on-earth-may-live-in-japans-hot-springs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
