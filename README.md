@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Complex Chaos thinks AI can help people find common ground](https://techcrunch.com/2025/09/29/complex-chaos-thinks-ai-can-help-people-find-common-ground/)
-- [UK government bails out Jaguar Land Rover with £1.5B loan after hack disrupts vehicle production for weeks](https://techcrunch.com/2025/09/29/uk-government-bails-out-jaguar-land-rover-with-1-5b-loan-after-hack-disrupts-vehicle-production-for-weeks/)
-- [The TechCrunch Disrupt Stage revealed: Behold the first look](https://techcrunch.com/2025/09/29/the-techcrunch-disrupt-stage-revealed-behold-the-first-look/)
-- [Canon EOS R50 V review](https://www.space.com/stargazing/skywatching-kit/canon-eos-r50-v-review)
-- [Secrets of ancient life on Earth may live in Japan&#39;s hot springs](https://www.space.com/astronomy/earth/secrets-of-ancient-life-on-earth-may-live-in-japans-hot-springs)
+- [Trump’s Energy Department forbids staff from saying ‘climate change’ or ‘green’](https://techcrunch.com/2025/09/29/trumps-energy-department-forbids-staff-from-saying-climate-change-or-green/)
+- [Final day to apply: Volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/29/final-day-to-apply-volunteer-at-techcrunch-disrupt-2025/)
+- [Biosphere 2&#39;s latest mission: Learning how life first emerged on Earth – and how to make barren worlds habitable](https://www.space.com/astronomy/earth/biosphere-2s-latest-mission-learning-how-life-first-emerged-on-earth-and-how-to-make-barren-worlds-habitable)
+- [OpenAI rolls out safety routing system, parental controls on ChatGPT](https://techcrunch.com/2025/09/29/openai-rolls-out-safety-routing-system-parental-controls-on-chatgpt/)
+- [Snapchat caps free Memory storage, launches paid storage plans](https://techcrunch.com/2025/09/29/snapchat-caps-free-memory-storage-launches-paid-storage-plans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
