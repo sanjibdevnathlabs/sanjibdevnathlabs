@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches Starlink satellites from Vandenberg in California](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-11-20-b1063-vsfb-ocisly)
+- [The AI services transformation may be harder than VCs think](https://techcrunch.com/2025/09/28/the-ai-services-transformation-may-be-harder-than-vcs-think/)
 - [Oura CEO talks potential IPO and ‘nonnegotiable’ data privacy](https://techcrunch.com/2025/09/28/oura-ceo-talks-potential-ipo-and-nonnegotiable-data-privacy/)
 - [DJI loses lawsuit over classification as Chinese military company](https://techcrunch.com/2025/09/28/dji-loses-lawsuit-over-classification-as-chinese-military-company/)
 - [The billion-dollar infrastructure deals powering the AI boom](https://techcrunch.com/2025/09/28/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/)
-- [TechCrunch Mobility: Self-driving trucks startup Kodiak goes public and a shake-up at Hyundai’s Supernal](https://techcrunch.com/2025/09/28/techcrunch-mobility-self-driving-trucks-startup-kodiak-goes-public-and-a-shake-up-at-hyundais-supernal/)
-- [To the stars: a stellar trivia quiz](https://www.space.com/astronomy/stars/to-the-stars-a-stellar-trivia-quiz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
