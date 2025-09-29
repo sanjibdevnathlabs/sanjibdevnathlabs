@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The ultimate night sky IQ test](https://www.space.com/stargazing/the-ultimate-night-sky-iq-test)
+- [Vibe coding Anything nabs a $100M valuation, after hitting $2M ARR in its first two weeks](https://techcrunch.com/2025/09/29/vibe-coding-anything-nabs-a-100m-valuation-after-hitting-2m-arr-in-its-first-two-weeks/)
 - [Anthropic launches Claude Sonnet 4.5, its best AI model for coding](https://techcrunch.com/2025/09/29/anthropic-launches-claude-sonnet-4-5-its-best-ai-model-for-coding/)
 - [&#39;Space: Above and Beyond&#39;: 30 years on, Fox&#39;s failed military sci-fi series is almost lost to time... and that&#39;s a shame](https://www.space.com/entertainment/space-movies-shows/space-above-and-beyond-30-years-on-foxs-failed-military-sci-fi-series-is-almost-lost-to-time-and-thats-a-shame)
 - [Brave updates its AI-powered search with a detailed answers feature](https://techcrunch.com/2025/09/29/brave-updates-its-ai-powered-search-with-a-detailed-answers-feature/)
-- [SpaceX Falcon 9 launch paints glowing &#39;jellyfish&#39; across Western US skies &lpar;photos, video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-paints-glowing-jellyfish-across-western-us-skies-photos-video)
-- [Trump’s Energy Department forbids staff from saying ‘climate change’ or ‘green’](https://techcrunch.com/2025/09/29/trumps-energy-department-forbids-staff-from-saying-climate-change-or-green/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
