@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This French VC went from posting on YouTube to raising a $12M fund for Y Combinator startups](https://techcrunch.com/2025/09/29/this-french-vc-went-from-posting-on-youtube-to-raising-a-12m-fund-for-y-combinator-startups/)
+- [Love and hate in &#39;Foundation&#39; Season 3: Emmy-winner Cherry Jones spills the tea on her on-screen relationship &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/love-and-hate-in-foundation-season-3-emmy-winner-cherry-jones-spills-the-tea-on-her-on-screen-relationship-exclusive)
 - [The ultimate night sky IQ test](https://www.space.com/stargazing/the-ultimate-night-sky-iq-test)
 - [Vibe coding Anything nabs a $100M valuation, after hitting $2M ARR in its first two weeks](https://techcrunch.com/2025/09/29/vibe-coding-anything-nabs-a-100m-valuation-after-hitting-2m-arr-in-its-first-two-weeks/)
 - [Anthropic launches Claude Sonnet 4.5, its best AI model for coding](https://techcrunch.com/2025/09/29/anthropic-launches-claude-sonnet-4-5-its-best-ai-model-for-coding/)
-- [&#39;Space: Above and Beyond&#39;: 30 years on, Fox&#39;s failed military sci-fi series is almost lost to time... and that&#39;s a shame](https://www.space.com/entertainment/space-movies-shows/space-above-and-beyond-30-years-on-foxs-failed-military-sci-fi-series-is-almost-lost-to-time-and-thats-a-shame)
-- [Brave updates its AI-powered search with a detailed answers feature](https://techcrunch.com/2025/09/29/brave-updates-its-ai-powered-search-with-a-detailed-answers-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
