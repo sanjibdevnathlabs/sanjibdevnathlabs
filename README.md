@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Paid, the AI agent ‘results-based billing’ startup from Manny Medina, raises huge $21M seed](https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup-from-manny-medina-raises-huge-21m-seed/)
 - [SpaceX launches Starlink satellites from Vandenberg in California](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-11-20-b1063-vsfb-ocisly)
 - [The AI services transformation may be harder than VCs think](https://techcrunch.com/2025/09/28/the-ai-services-transformation-may-be-harder-than-vcs-think/)
 - [Oura CEO talks potential IPO and ‘nonnegotiable’ data privacy](https://techcrunch.com/2025/09/28/oura-ceo-talks-potential-ipo-and-nonnegotiable-data-privacy/)
 - [DJI loses lawsuit over classification as Chinese military company](https://techcrunch.com/2025/09/28/dji-loses-lawsuit-over-classification-as-chinese-military-company/)
-- [The billion-dollar infrastructure deals powering the AI boom](https://techcrunch.com/2025/09/28/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
