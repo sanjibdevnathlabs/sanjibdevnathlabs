@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Brave updates its AI-powered search with a detailed answers feature](https://techcrunch.com/2025/09/29/brave-updates-its-ai-powered-search-with-a-detailed-answers-feature/)
+- [SpaceX Falcon 9 launch paints glowing &#39;jellyfish&#39; across Western US skies &lpar;photos, video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-paints-glowing-jellyfish-across-western-us-skies-photos-video)
 - [Trump’s Energy Department forbids staff from saying ‘climate change’ or ‘green’](https://techcrunch.com/2025/09/29/trumps-energy-department-forbids-staff-from-saying-climate-change-or-green/)
 - [Final day to apply: Volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/29/final-day-to-apply-volunteer-at-techcrunch-disrupt-2025/)
 - [Biosphere 2&#39;s latest mission: Learning how life first emerged on Earth – and how to make barren worlds habitable](https://www.space.com/astronomy/earth/biosphere-2s-latest-mission-learning-how-life-first-emerged-on-earth-and-how-to-make-barren-worlds-habitable)
-- [OpenAI rolls out safety routing system, parental controls on ChatGPT](https://techcrunch.com/2025/09/29/openai-rolls-out-safety-routing-system-parental-controls-on-chatgpt/)
-- [Snapchat caps free Memory storage, launches paid storage plans](https://techcrunch.com/2025/09/29/snapchat-caps-free-memory-storage-launches-paid-storage-plans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
