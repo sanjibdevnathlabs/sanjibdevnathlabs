@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The startup behind open source tool Polars raises $21M from Accel](https://techcrunch.com/2025/09/29/the-startup-behind-open-source-tool-polars-raises-21m-from-accel/)
+- [Chinese astronauts add debris shielding to Tiangong space station during 6-hour spacewalk &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/chinese-astronauts-add-debris-shielding-to-tiangong-space-station-during-6-hour-spacewalk-video)
+- [Honda and Astrobotic team up to keep the lights on through the long lunar night](https://techcrunch.com/2025/09/29/honda-and-astrobotic-team-up-to-keep-the-lights-on-through-the-long-lunar-night/)
 - [Hubble Telescope finds galaxy with puzzling shape | Space photo of the day for Sept. 29, 2025](https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-finds-galaxy-with-puzzling-shape-space-photo-of-the-day-for-sept-29-2025)
 - [Instagram is testing a Reels-first UI in India and South Korea](https://techcrunch.com/2025/09/29/instagram-is-testing-a-reels-first-ui-in-india-and-south-korea/)
-- [X says will fight Indian court ruling on content takedown system](https://techcrunch.com/2025/09/29/x-says-will-fight-indian-court-ruling-on-content-takedown-system/)
-- [Former Microsoft execs launch AI agents to end Excel-led finance](https://techcrunch.com/2025/09/29/former-microsoft-executives-launch-ai-agents-to-end-excel-driven-finance-for-mid-market-enterprise-businesses/)
-- [Mysterious crown-like features on Venus may finally have an explanation](https://www.space.com/astronomy/venus/mysterious-crown-like-features-on-venus-may-finally-have-an-explanation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
