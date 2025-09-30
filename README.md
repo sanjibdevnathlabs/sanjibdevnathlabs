@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Notion Capital raises $130M growth fund to tackle Europe’s follow-on gap](https://techcrunch.com/2025/09/29/notion-capital-raises-130m-growth-fund-to-tackle-europes-follow-on-gap/)
 - [The Rubin Observatory&#39;s upcoming images may stack up to space telescope ones. Here&#39;s how](https://www.space.com/astronomy/the-rubin-observatorys-upcoming-images-may-stack-up-to-space-telescope-ones-heres-how)
 - [California Governor Newsom signs landmark AI safety bill SB 53](https://techcrunch.com/2025/09/29/california-governor-newsom-signs-landmark-ai-safety-bill-sb-53/)
 - [Frank founder Charlie Javice sentenced to 7 years in prison for defrauding JPMorgan Chase](https://techcrunch.com/2025/09/29/frank-founder-charlie-javice-sentenced-to-7-years-in-prison-for-defrauding-jpmorgan-chase/)
 - [Astronauts on the moon and Mars? World space leaders lay out visions for an ambitious future](https://www.space.com/space-exploration/astronauts-on-the-moon-and-mars-world-space-leaders-lay-out-visions-for-an-ambitious-future)
-- [Firefly Aerospace&#39;s Alpha rocket explodes during preflight test](https://www.space.com/space-exploration/launches-spacecraft/firefly-aerospaces-alpha-rocket-explodes-during-preflight-test)
 <!-- BLOG-POST-LIST:END -->
 
 ---
