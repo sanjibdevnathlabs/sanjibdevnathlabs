@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify’s founder and CEO Daniel Ek is stepping down](https://techcrunch.com/2025/09/30/spotifys-founder-and-ceo-daniel-ek-is-stepping-down/)
-- [Hinge is taking a fairer approach to account banning](https://techcrunch.com/2025/09/30/hinge-is-taking-a-fairer-approach-to-account-banning/)
-- [Whoop opens blood-testing service to what it says is a 350,000-person waitlist](https://techcrunch.com/2025/09/30/whoop-opens-its-blood-testing-service-to-350000-on-wait-list/)
-- [Telescopes scan the skies over the Atacama Desert | Space photo of the day for Sept. 30, 2025](https://www.space.com/astronomy/telescopes-scan-the-skies-over-the-atacama-desert-space-photo-of-the-day-for-sept-30-2025)
-- [Tumbleweed-inspired Mars rovers could be blown across the Red Planet](https://www.space.com/space-exploration/mars-rovers/tumbleweed-inspired-mars-rovers-could-be-blown-across-the-red-planet)
+- [DoorDash rolls out creator program for short-form videos, adds AI features and dine-in rewards](https://techcrunch.com/2025/09/30/doordash-rolls-out-creator-program-for-short-form-videos-adds-new-app-features-and-dine-in-rewards/)
+- [A year after filing to IPO, still-private Cerebras Systems raises $1.1B](https://techcrunch.com/2025/09/30/a-year-after-filing-to-ipo-still-private-cerebras-systems-raises-1-1b/)
+- [DoorDash unveils Dot, its autonomous robot built to deliver your food](https://techcrunch.com/2025/09/30/doordash-unveils-dot-its-autonomous-robot-built-to-deliver-your-food/)
+- [Zoox chooses Washington DC as its next autonomous vehicle testbed](https://techcrunch.com/2025/09/30/zooxs-next-autonomous-vehicle-testbed-is-washington-dc/)
+- [Don&#39;t miss International Observe the Moon Night 2025: How to join the celebration on Oct. 4](https://www.space.com/stargazing/international-observe-the-moon-night-2025-how-to-get-involved-oct-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
