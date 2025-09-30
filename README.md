@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI hires or human hustle? Inside the next frontier of startup operations at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/)
+- [Fubo shareholders approve Hulu Live TV deal](https://techcrunch.com/2025/09/30/fubo-shareholders-approve-hulu-live-tv-deal/)
 - [&quot;Serenity&quot; at 20: The &quot;Firefly&quot; follow-up that aimed to misbehave](https://www.space.com/entertainment/space-movies-shows/serenity-at-20-the-firefly-follow-up-that-aimed-to-misbehave)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/09/30/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/09/30/tech-layoffs-2025-list/)
-- [AI note-taking app Granola adds a repeatable prompts feature](https://techcrunch.com/2025/09/30/ai-note-taking-app-granola-adds-a-repeatable-prompts-feature/)
-- [Only 300 available! Grab one of these limited edition smart telescopes — we rated the original 5/5 in our review](https://www.space.com/stargazing/skywatching-kit/only-300-available-grab-one-of-these-limited-edition-smart-telescopes-we-rated-them-5-5-in-our-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
