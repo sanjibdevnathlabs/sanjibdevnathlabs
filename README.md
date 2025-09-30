@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DoorDash rolls out creator program for short-form videos, adds AI features and dine-in rewards](https://techcrunch.com/2025/09/30/doordash-rolls-out-creator-program-for-short-form-videos-adds-new-app-features-and-dine-in-rewards/)
-- [A year after filing to IPO, still-private Cerebras Systems raises $1.1B](https://techcrunch.com/2025/09/30/a-year-after-filing-to-ipo-still-private-cerebras-systems-raises-1-1b/)
-- [DoorDash unveils Dot, its autonomous robot built to deliver your food](https://techcrunch.com/2025/09/30/doordash-unveils-dot-its-autonomous-robot-built-to-deliver-your-food/)
-- [Zoox chooses Washington DC as its next autonomous vehicle testbed](https://techcrunch.com/2025/09/30/zooxs-next-autonomous-vehicle-testbed-is-washington-dc/)
-- [Don&#39;t miss International Observe the Moon Night 2025: How to join the celebration on Oct. 4](https://www.space.com/stargazing/international-observe-the-moon-night-2025-how-to-get-involved-oct-4)
+- [Composite gets backing from NFDG for its cross-browser agent tool](https://techcrunch.com/2025/09/30/composite-gets-backing-from-nfdg-for-its-cross-browser-agent-tool/)
+- [CommanderAI says it’s building the Salesforce for the waste management industry](https://techcrunch.com/2025/09/30/commanderai-says-its-building-the-salesforce-for-the-waste-management-industry/)
+- [Save up to 20% on TechCrunch Disrupt 2025 Community Passes — offer ends October 3](https://techcrunch.com/2025/09/30/save-up-to-20-on-techcrunch-disrupt-2025-community-passes-offer-ends-october-3/)
+- [Mars rovers serve as scientists&#39; eyes and ears from millions of miles away – here are the tools Perseverance used to spot a potential sign of ancient life](https://www.space.com/space-exploration/mars-rovers/mars-rovers-serve-as-scientists-eyes-and-ears-from-millions-of-miles-away-here-are-the-tools-perseverance-used-to-spot-a-potential-sign-of-ancient-life)
+- [Adobe’s video editing app Premiere arrives on iPhones](https://techcrunch.com/2025/09/30/adobes-video-editing-app-premiere-arrives-on-iphones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
