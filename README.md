@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify’s founder and CEO Daniel Ek is stepping down](https://techcrunch.com/2025/09/30/spotifys-founder-and-ceo-daniel-ek-is-stepping-down/)
+- [Hinge is taking a fairer approach to account banning](https://techcrunch.com/2025/09/30/hinge-is-taking-a-fairer-approach-to-account-banning/)
+- [Whoop opens blood-testing service to what it says is a 350,000-person waitlist](https://techcrunch.com/2025/09/30/whoop-opens-its-blood-testing-service-to-350000-on-wait-list/)
+- [Telescopes scan the skies over the Atacama Desert | Space photo of the day for Sept. 30, 2025](https://www.space.com/astronomy/telescopes-scan-the-skies-over-the-atacama-desert-space-photo-of-the-day-for-sept-30-2025)
 - [Tumbleweed-inspired Mars rovers could be blown across the Red Planet](https://www.space.com/space-exploration/mars-rovers/tumbleweed-inspired-mars-rovers-could-be-blown-across-the-red-planet)
-- [SpaceX targeting Oct. 13 for next Starship megarocket launch](https://www.space.com/space-exploration/launches-spacecraft/spacex-targeting-oct-13-for-next-starship-megarocket-launch)
-- [Opera launches its AI-centric Neon browser](https://techcrunch.com/2025/09/30/opera-launches-its-ai-centric-neon-browser/)
-- [Notion Capital raises $130M growth fund to tackle Europe’s follow-on gap](https://techcrunch.com/2025/09/29/notion-capital-raises-130m-growth-fund-to-tackle-europes-follow-on-gap/)
-- [The Rubin Observatory&#39;s upcoming images may stack up to space telescope ones. Here&#39;s how](https://www.space.com/astronomy/the-rubin-observatorys-upcoming-images-may-stack-up-to-space-telescope-ones-heres-how)
 <!-- BLOG-POST-LIST:END -->
 
 ---
