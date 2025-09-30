@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mining the moon: Can you make money harvesting helium-3?](https://www.space.com/astronomy/moon/mining-the-moon-can-you-make-money-harvesting-helium-3)
-- [Imgur pulls out of UK after data regulator warns of fines](https://techcrunch.com/2025/09/30/imgur-pulls-out-of-uk-after-data-regulator-warns-of-fines/)
-- [Less than a month until TechCrunch Disrupt 2025 — do not let competitors steal your exhibit table](https://techcrunch.com/2025/09/30/less-than-a-month-until-techcrunch-disrupt-2025-do-not-let-competitors-steal-your-exhibit-table/)
-- [Composite gets backing from NFDG for its cross-browser agent tool](https://techcrunch.com/2025/09/30/composite-gets-backing-from-nfdg-for-its-cross-browser-agent-tool/)
-- [CommanderAI says it’s building the Salesforce for the waste management industry](https://techcrunch.com/2025/09/30/commanderai-says-its-building-the-salesforce-for-the-waste-management-industry/)
+- [PayPal’s Honey to integrate with ChatGPT and other AIs for shopping assistance](https://techcrunch.com/2025/09/30/paypals-honey-to-integrate-with-chatgpt-and-other-ais-for-shopping-assistance/)
+- [Japan’s beer-making giant Asahi stops production after cyberattack](https://techcrunch.com/2025/09/30/japans-beer-making-giant-asahi-stops-production-after-cyberattack/)
+- [Why you can’t miss the aerospace content at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/why-you-cant-miss-the-aerospace-content-at-techcrunch-disrupt-2025/)
+- [&#39;Thunderbirds&#39; are 60! Looking back at the British puppet classic that was the &#39;Star Wars&#39; of its day](https://www.space.com/entertainment/space-movies-shows/thunderbirds-are-60-looking-back-at-the-british-puppet-classic-that-was-the-star-wars-of-its-day)
+- [Amazon unveils new Echo devices, powered by its Al, Alexa+](https://techcrunch.com/2025/09/30/amazon-unveils-new-echo-devices-powered-by-its-al-alexa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
