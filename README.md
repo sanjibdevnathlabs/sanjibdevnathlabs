@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [PayPal’s Honey to integrate with ChatGPT and other AIs for shopping assistance](https://techcrunch.com/2025/09/30/paypals-honey-to-integrate-with-chatgpt-and-other-ais-for-shopping-assistance/)
-- [Japan’s beer-making giant Asahi stops production after cyberattack](https://techcrunch.com/2025/09/30/japans-beer-making-giant-asahi-stops-production-after-cyberattack/)
-- [Why you can’t miss the aerospace content at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/why-you-cant-miss-the-aerospace-content-at-techcrunch-disrupt-2025/)
-- [&#39;Thunderbirds&#39; are 60! Looking back at the British puppet classic that was the &#39;Star Wars&#39; of its day](https://www.space.com/entertainment/space-movies-shows/thunderbirds-are-60-looking-back-at-the-british-puppet-classic-that-was-the-star-wars-of-its-day)
-- [Amazon unveils new Echo devices, powered by its Al, Alexa+](https://techcrunch.com/2025/09/30/amazon-unveils-new-echo-devices-powered-by-its-al-alexa/)
+- [&quot;Serenity&quot; at 20: The &quot;Firefly&quot; follow-up that aimed to misbehave](https://www.space.com/entertainment/space-movies-shows/serenity-at-20-the-firefly-follow-up-that-aimed-to-misbehave)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/09/30/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/09/30/tech-layoffs-2025-list/)
+- [AI note-taking app Granola adds a repeatable prompts feature](https://techcrunch.com/2025/09/30/ai-note-taking-app-granola-adds-a-repeatable-prompts-feature/)
+- [Only 300 available! Grab one of these limited edition smart telescopes — we rated the original 5/5 in our review](https://www.space.com/stargazing/skywatching-kit/only-300-available-grab-one-of-these-limited-edition-smart-telescopes-we-rated-them-5-5-in-our-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
