@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ted Cruz blocks bill that would extend privacy protections to all Americans](https://techcrunch.com/2025/09/30/ted-cruz-blocks-bill-that-would-extend-privacy-protections-to-all-americans/)
 - [How do you build a moon? The James Webb Space Telescope has just given us our best look](https://www.space.com/astronomy/james-webb-space-telescope/how-do-you-build-a-moon-the-james-webb-space-telescope-has-just-given-us-our-best-look)
 - [Former OpenAI and DeepMind researchers raise whopping $300M seed to automate science](https://techcrunch.com/2025/09/30/former-openai-and-deepmind-researchers-raise-whopping-300m-seed-to-automate-science/)
 - [OpenAI is launching the Sora app, its own TikTok competitor, alongside the Sora 2 model](https://techcrunch.com/2025/09/30/openai-is-launching-the-sora-app-its-own-tiktok-competitor-alongside-the-sora-2-model/)
 - [AI hires or human hustle? Inside the next frontier of startup operations at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/)
-- [Fubo shareholders approve Hulu Live TV deal](https://techcrunch.com/2025/09/30/fubo-shareholders-approve-hulu-live-tv-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
