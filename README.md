@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tumbleweed-inspired Mars rovers could be blown across the Red Planet](https://www.space.com/space-exploration/mars-rovers/tumbleweed-inspired-mars-rovers-could-be-blown-across-the-red-planet)
 - [SpaceX targeting Oct. 13 for next Starship megarocket launch](https://www.space.com/space-exploration/launches-spacecraft/spacex-targeting-oct-13-for-next-starship-megarocket-launch)
 - [Opera launches its AI-centric Neon browser](https://techcrunch.com/2025/09/30/opera-launches-its-ai-centric-neon-browser/)
 - [Notion Capital raises $130M growth fund to tackle Europe’s follow-on gap](https://techcrunch.com/2025/09/29/notion-capital-raises-130m-growth-fund-to-tackle-europes-follow-on-gap/)
 - [The Rubin Observatory&#39;s upcoming images may stack up to space telescope ones. Here&#39;s how](https://www.space.com/astronomy/the-rubin-observatorys-upcoming-images-may-stack-up-to-space-telescope-ones-heres-how)
-- [California Governor Newsom signs landmark AI safety bill SB 53](https://techcrunch.com/2025/09/29/california-governor-newsom-signs-landmark-ai-safety-bill-sb-53/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
