@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starbase hires Cameron County to police its streets and jail its offenders](https://techcrunch.com/2025/09/30/starbase-hires-cameron-county-to-police-its-streets-and-jail-its-offenders/)
+- [Toyota adds another $1.5B to its bet on startups at every stage](https://techcrunch.com/2025/09/30/toyota-adds-another-1-5b-to-its-bet-on-startups-at-every-stage/)
 - [JWST delivers 1st weather report of nearby world with no sun — stormy and covered with auroras](https://www.space.com/astronomy/james-webb-space-telescope/jwst-delivers-1st-weather-report-of-nearby-world-with-no-sun-stormy-and-covered-with-auroras)
 - [A breach every month raises doubts about South Korea’s digital defenses](https://techcrunch.com/2025/09/30/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/)
 - [Anonymous question app Sendit deceived children and illegally collected their data, FTC alleges](https://techcrunch.com/2025/09/30/anonymous-question-app-sendit-deceived-children-and-illegally-collected-their-data-ftc-alleges/)
-- [Our moon&#39;s 2 sides are more different than we thought, lunar samples reveal](https://www.space.com/astronomy/moon/our-moons-2-sides-are-more-different-than-we-thought-lunar-samples-reveal)
-- [Ted Cruz blocks bill that would extend privacy protections to all Americans](https://techcrunch.com/2025/09/30/ted-cruz-blocks-bill-that-would-extend-privacy-protections-to-all-americans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
