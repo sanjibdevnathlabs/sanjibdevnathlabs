@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mining the moon: Can you make money harvesting helium-3?](https://www.space.com/astronomy/moon/mining-the-moon-can-you-make-money-harvesting-helium-3)
+- [Imgur pulls out of UK after data regulator warns of fines](https://techcrunch.com/2025/09/30/imgur-pulls-out-of-uk-after-data-regulator-warns-of-fines/)
+- [Less than a month until TechCrunch Disrupt 2025 — do not let competitors steal your exhibit table](https://techcrunch.com/2025/09/30/less-than-a-month-until-techcrunch-disrupt-2025-do-not-let-competitors-steal-your-exhibit-table/)
 - [Composite gets backing from NFDG for its cross-browser agent tool](https://techcrunch.com/2025/09/30/composite-gets-backing-from-nfdg-for-its-cross-browser-agent-tool/)
 - [CommanderAI says it’s building the Salesforce for the waste management industry](https://techcrunch.com/2025/09/30/commanderai-says-its-building-the-salesforce-for-the-waste-management-industry/)
-- [Save up to 20% on TechCrunch Disrupt 2025 Community Passes — offer ends October 3](https://techcrunch.com/2025/09/30/save-up-to-20-on-techcrunch-disrupt-2025-community-passes-offer-ends-october-3/)
-- [Mars rovers serve as scientists&#39; eyes and ears from millions of miles away – here are the tools Perseverance used to spot a potential sign of ancient life](https://www.space.com/space-exploration/mars-rovers/mars-rovers-serve-as-scientists-eyes-and-ears-from-millions-of-miles-away-here-are-the-tools-perseverance-used-to-spot-a-potential-sign-of-ancient-life)
-- [Adobe’s video editing app Premiere arrives on iPhones](https://techcrunch.com/2025/09/30/adobes-video-editing-app-premiere-arrives-on-iphones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
