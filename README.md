@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A breach every month raises doubts about South Korea’s digital defenses](https://techcrunch.com/2025/09/30/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/)
+- [Anonymous question app Sendit deceived children and illegally collected their data, FTC alleges](https://techcrunch.com/2025/09/30/anonymous-question-app-sendit-deceived-children-and-illegally-collected-their-data-ftc-alleges/)
+- [Our moon&#39;s 2 sides are more different than we thought, lunar samples reveal](https://www.space.com/astronomy/moon/our-moons-2-sides-are-more-different-than-we-thought-lunar-samples-reveal)
 - [Ted Cruz blocks bill that would extend privacy protections to all Americans](https://techcrunch.com/2025/09/30/ted-cruz-blocks-bill-that-would-extend-privacy-protections-to-all-americans/)
 - [How do you build a moon? The James Webb Space Telescope has just given us our best look](https://www.space.com/astronomy/james-webb-space-telescope/how-do-you-build-a-moon-the-james-webb-space-telescope-has-just-given-us-our-best-look)
-- [Former OpenAI and DeepMind researchers raise whopping $300M seed to automate science](https://techcrunch.com/2025/09/30/former-openai-and-deepmind-researchers-raise-whopping-300m-seed-to-automate-science/)
-- [OpenAI is launching the Sora app, its own TikTok competitor, alongside the Sora 2 model](https://techcrunch.com/2025/09/30/openai-is-launching-the-sora-app-its-own-tiktok-competitor-alongside-the-sora-2-model/)
-- [AI hires or human hustle? Inside the next frontier of startup operations at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/30/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
