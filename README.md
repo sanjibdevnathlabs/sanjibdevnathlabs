@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Northern lights may be visible in these 7 US states &lpar;and maybe more&rpar; tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-7-us-states-and-maybe-more-tonight-oct-1-2025)
+- [Meet the end-of-life planning startup co-founded by NBA All Star Russell Westbrook](https://techcrunch.com/2025/10/01/meet-the-end-of-life-planning-startup-co-founded-by-nba-all-star-russell-westbrook/)
+- [Sources: Gusto paid $600M to acquire Guideline, plans to divest customers linked to rivals](https://techcrunch.com/2025/10/01/sources-gusto-paid-600m-to-acquire-guideline-plans-to-divest-customers-linked-to-rivals/)
+- [Prickly Pear Health will showcase how it’s helping women’s brain health at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/prickly-pear-health-will-showcase-how-its-helping-womens-brain-health-at-techcrunch-disrupt-2025/)
 - [Creative machines and where AI meets imagination at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/creative-machines-and-where-ai-meets-imagination-at-techcrunch-disrupt-2025/)
-- [Deta’s Surf app is an amalgamation of an AI browser and NotebookLM](https://techcrunch.com/2025/10/01/detas-surf-app-is-an-amalgamation-of-an-ai-browser-and-notebooklm/)
-- [Erie Canal seen from space, is now 200 years old | Space photo of the day for Oct 1. 2025](https://www.space.com/astronomy/earth/erie-canal-seen-from-space-is-now-200-years-old-space-photo-of-the-day-for-oct-1-2025)
-- [Kevin Hart’s VC firm leads $35M Series B for weight-loss app Simple](https://techcrunch.com/2025/10/01/kevin-harts-vc-firm-leads-35m-series-b-for-weight-loss-app-simple/)
-- [Amazon launches a grocery brand with most products under $5](https://techcrunch.com/2025/10/01/amazon-launches-a-grocery-brand-with-most-products-under-5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
