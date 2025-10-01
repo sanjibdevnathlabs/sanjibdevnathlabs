@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. government takes stake in Canadian lithium miner and its Nevada mining project](https://techcrunch.com/2025/09/30/u-s-government-takes-stake-in-canadian-lithium-miner-and-its-nevada-mining-project/)
 - [Starbase hires Cameron County to police its streets and jail its offenders](https://techcrunch.com/2025/09/30/starbase-hires-cameron-county-to-police-its-streets-and-jail-its-offenders/)
 - [Toyota adds another $1.5B to its bet on startups at every stage](https://techcrunch.com/2025/09/30/toyota-adds-another-1-5b-to-its-bet-on-startups-at-every-stage/)
 - [JWST delivers 1st weather report of nearby world with no sun — stormy and covered with auroras](https://www.space.com/astronomy/james-webb-space-telescope/jwst-delivers-1st-weather-report-of-nearby-world-with-no-sun-stormy-and-covered-with-auroras)
 - [A breach every month raises doubts about South Korea’s digital defenses](https://techcrunch.com/2025/09/30/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/)
-- [Anonymous question app Sendit deceived children and illegally collected their data, FTC alleges](https://techcrunch.com/2025/09/30/anonymous-question-app-sendit-deceived-children-and-illegally-collected-their-data-ftc-alleges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
