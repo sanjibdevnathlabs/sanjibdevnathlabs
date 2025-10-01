@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Avatar: Fire and Ash&#39; trailer is packed with epic battles, family drama, and giant robot crabs! &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/avatar-fire-and-ash-trailer-is-packed-with-epic-battles-family-drama-and-giant-robot-crabs-video)
 - [How excited should we be about the latest Mars potential biosignature discovery? &#39;It&#39;s arguably the best evidence we have so far&#39;](https://www.space.com/space-exploration/search-for-life/how-excited-should-we-be-about-the-latest-mars-potential-biosignature-discovery-its-arguably-the-best-evidence-we-have-so-far)
 - [Epic Games says Apple’s new install process cuts user drop-offs by 60%](https://techcrunch.com/2025/10/01/epic-games-says-apples-new-install-process-cuts-user-drop-offs-by-60/)
 - [New project makes Wikipedia data more accessible to AI](https://techcrunch.com/2025/10/01/new-project-makes-wikipedia-data-more-accessible-to-ai/)
 - [U.S. government takes stake in Canadian lithium miner and its Nevada mining project](https://techcrunch.com/2025/09/30/u-s-government-takes-stake-in-canadian-lithium-miner-and-its-nevada-mining-project/)
-- [Starbase hires Cameron County to police its streets and jail its offenders](https://techcrunch.com/2025/09/30/starbase-hires-cameron-county-to-police-its-streets-and-jail-its-offenders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
