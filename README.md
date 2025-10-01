@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA closes doors to 15,000 employees as US government shutdown begins](https://www.space.com/space-exploration/nasa-closes-doors-to-15-000-employees-as-us-government-shutdown-begins)
-- [Google unveils AI-powered Nest indoor and outdoor cameras, and a new doorbell](https://techcrunch.com/2025/10/01/google-unveils-ai-powered-nest-indoor-and-outdoor-cameras-and-a-new-doorbell/)
-- [Google teases its new Gemini-powered Google Home speaker, coming in spring 2026](https://techcrunch.com/2025/10/01/google-teases-its-new-gemini-powered-google-home-speaker-coming-in-spring-2026/)
-- [Google’s Home app, a command center for the smart home, gets a Gemini upgrade](https://techcrunch.com/2025/10/01/googles-home-app-a-command-center-for-the-smart-home-gets-a-gemini-upgrade/)
-- [Meta plans to sell targeted ads based on data in your AI chats](https://techcrunch.com/2025/10/01/meta-plans-to-sell-targeted-ads-based-on-data-in-your-ai-chats/)
+- [Final 3 days to score extra discounts on community passes to TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/3-days-left-extra-discounts-community-passes-techcrunch-disrupt-2025/)
+- [Panasonic Lumix S1R II review](https://www.space.com/stargazing/skywatching-kit/panasonic-lumix-s1r-ii-review)
+- [Upcoming Warhammer 40,000 games: Space Marine 3, Dawn of War 4, Dark Heresy &amp; more](https://www.space.com/entertainment/space-games/upcoming-warhammer-40-000-games-space-marine-3-dawn-of-war-4-dark-heresy-and-more)
+- [Spotify now lets you exclude tracks from your taste profile, improving recommendations](https://techcrunch.com/2025/10/01/spotify-now-lets-you-exclude-tracks-from-your-taste-profile-improving-recommendations/)
+- [OpenAI ropes in Samsung, SK Hynix to source memory chips for Stargate](https://techcrunch.com/2025/10/01/openai-ropes-in-samsung-sk-hynix-to-source-memory-chips-for-stargate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
