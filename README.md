@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What is Bootstrapping Anyway? - Computerphile](https://www.youtube.com/watch?v=Pu7LvnxV6N0)
 - [n8n will change your life as a developer...](https://www.youtube.com/watch?v=bS9R6aCVEzw)
 - [Video 9: All There Is to Unlearn - MIT Innovation Teams](https://www.youtube.com/watch?v=bV8-5sce5nw)
 - [Video 5: Prototype Problems Not Products - MIT Innovation Teams](https://www.youtube.com/watch?v=9SaekDRtGFw)
 - [Video 1: Congratulations, You Are a Terrible Robot - MIT Innovation Teams](https://www.youtube.com/watch?v=vdtI0o3ViZw)
-- [Video 3: Technology Isn’t What You Think It Is - MIT Innovation Teams](https://www.youtube.com/watch?v=_MohGTvxaRk)
 <!-- YOUTUBE:END -->
 
 ---
