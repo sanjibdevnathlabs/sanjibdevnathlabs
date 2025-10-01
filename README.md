@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s new social app is filled with terrifying Sam Altman deepfakes](https://techcrunch.com/2025/10/01/openais-new-social-app-is-filled-with-terrifying-sam-altman-deepfakes/)
+- [What founders need to know before choosing their exit — straight from Roseanne Wincek, Jai Das, and Dan Springer — at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/)
 - [Waymo can keep testing robotaxis in NYC until end of 2025](https://techcrunch.com/2025/10/01/waymo-can-keep-testing-robotaxis-in-nyc-until-end-of-2025/)
 - [A hidden ocean may have once existed on Uranus&#39; moon Ariel](https://www.space.com/astronomy/uranus/a-hidden-ocean-may-have-once-existed-on-uranus-moon-ariel)
 - [Northern lights may be visible in these 7 US states &lpar;and maybe more&rpar; tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-7-us-states-and-maybe-more-tonight-oct-1-2025)
-- [Meet the end-of-life planning startup co-founded by NBA All Star Russell Westbrook](https://techcrunch.com/2025/10/01/meet-the-end-of-life-planning-startup-co-founded-by-nba-all-star-russell-westbrook/)
-- [Sources: Gusto paid $600M to acquire Guideline, plans to divest customers linked to rivals](https://techcrunch.com/2025/10/01/sources-gusto-paid-600m-to-acquire-guideline-plans-to-divest-customers-linked-to-rivals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
