@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Final 3 days to score extra discounts on community passes to TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/3-days-left-extra-discounts-community-passes-techcrunch-disrupt-2025/)
-- [Panasonic Lumix S1R II review](https://www.space.com/stargazing/skywatching-kit/panasonic-lumix-s1r-ii-review)
-- [Upcoming Warhammer 40,000 games: Space Marine 3, Dawn of War 4, Dark Heresy &amp; more](https://www.space.com/entertainment/space-games/upcoming-warhammer-40-000-games-space-marine-3-dawn-of-war-4-dark-heresy-and-more)
-- [Spotify now lets you exclude tracks from your taste profile, improving recommendations](https://techcrunch.com/2025/10/01/spotify-now-lets-you-exclude-tracks-from-your-taste-profile-improving-recommendations/)
-- [OpenAI ropes in Samsung, SK Hynix to source memory chips for Stargate](https://techcrunch.com/2025/10/01/openai-ropes-in-samsung-sk-hynix-to-source-memory-chips-for-stargate/)
+- [Creative machines and where AI meets imagination at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/creative-machines-and-where-ai-meets-imagination-at-techcrunch-disrupt-2025/)
+- [Deta’s Surf app is an amalgamation of an AI browser and NotebookLM](https://techcrunch.com/2025/10/01/detas-surf-app-is-an-amalgamation-of-an-ai-browser-and-notebooklm/)
+- [Erie Canal seen from space, is now 200 years old | Space photo of the day for Oct 1. 2025](https://www.space.com/astronomy/earth/erie-canal-seen-from-space-is-now-200-years-old-space-photo-of-the-day-for-oct-1-2025)
+- [Kevin Hart’s VC firm leads $35M Series B for weight-loss app Simple](https://techcrunch.com/2025/10/01/kevin-harts-vc-firm-leads-35m-series-b-for-weight-loss-app-simple/)
+- [Amazon launches a grocery brand with most products under $5](https://techcrunch.com/2025/10/01/amazon-launches-a-grocery-brand-with-most-products-under-5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
