@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI staff grapples with the company’s social media push](https://techcrunch.com/2025/10/01/openai-staff-grapples-with-the-companys-social-media-push/)
 - [Better Tomorrow Ventures closes $140M, remains bullish on fintech](https://techcrunch.com/2025/10/01/better-tomorrow-ventures-closes-140m-remains-bullish-on-fintech/)
 - [Nearly invisible asteroids around Venus could threaten Earth — but don&#39;t worry, not for a while](https://www.space.com/astronomy/asteroids/nearly-invisible-asteroids-around-venus-could-threaten-earth-but-dont-worry-not-for-a-while)
 - [What founders need to know before choosing their exit — straight from Roseanne Wincek, Jai Das, and Dan Springer — at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/01/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/)
 - [Anker offered to pay Eufy camera owners to share videos for training its AI](https://techcrunch.com/2025/10/01/anker-offered-to-pay-eufy-camera-owners-to-share-videos-for-training-its-ai/)
-- [California’s new AI safety law shows regulation and innovation don’t have to clash](https://techcrunch.com/2025/10/01/californias-new-ai-safety-law-shows-regulation-and-innovation-dont-have-to-clash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
