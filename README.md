@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple shelves Vision Pro overhaul to focus on AI glasses](https://techcrunch.com/2025/10/02/apple-shelves-vision-pro-overhaul-to-focus-on-ai-glasses/)
-- [Last chance alert: Founder and Investor Bundle savings for TechCrunch Disrupt 2025 ends tomorrow](https://techcrunch.com/2025/10/02/last-chance-alert-founder-and-investor-bundle-savings-for-techcrunch-disrupt-2025-ends-tomorrow/)
-- [Don&#39;t miss the full &#39;Harvest Supermoon&#39; rise on Oct. 6: Here&#39;s what to expect](https://www.space.com/stargazing/dont-miss-full-harvest-supermoon-rise-oct-6-2025)
-- [Spacecoin beams blockchain transaction through space in bid for decentralized internet](https://techcrunch.com/2025/10/02/spacecoin-beams-blockchain-transaction-through-space-in-bid-for-decentralized-internet/)
-- [Perplexity acquires the team behind Sequioa-backed AI design startup Visual Electric](https://techcrunch.com/2025/10/02/perplexity-acquires-the-team-behind-sequioa-backed-ai-design-startup-visual-electric/)
+- [Phoebe Gates and Sophia Kianni share the playbook for scaling consumer AI and winning Gen Z at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/02/storming-the-gates-scaling-consumer-ai-with-phoebe-gates-and-sophia-kianni-only-at-techcrunch-disrupt-2025/)
+- [A new a16z report looks at which AI companies startups are actually paying for](https://techcrunch.com/2025/10/02/a-new-a16z-report-looks-at-which-ai-companies-startups-are-actually-paying-for/)
+- [&#39;The Martian&#39; is 10 years old. Looking back at sci-fi&#39;s answer to &#39;The Shawshank Redemption&#39;](https://www.space.com/entertainment/space-movies-shows/the-martian-is-10-years-old-looking-back-at-sci-fis-answer-to-the-shawshank-redemption)
+- [Hackers are sending extortion emails to executives after claiming Oracle apps’ data breach](https://techcrunch.com/2025/10/02/hackers-are-sending-extortion-emails-to-executives-after-claiming-oracle-apps-data-breach/)
+- [OpenAI is the world’s most valuable private company after private stock sale](https://techcrunch.com/2025/10/02/openai-is-the-worlds-most-valuable-private-company-after-private-stock-sale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
