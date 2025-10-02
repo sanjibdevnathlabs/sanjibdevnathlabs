@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JWST captures clearest-ever image of M87 galaxy&#39;s supermassive black hole jet](https://www.space.com/astronomy/james-webb-space-telescope/jwst-captures-clearest-ever-image-of-m87-galaxys-supermassive-black-hole-jet)
 - [China&#39;s Tianwen 2 asteroid-sampling spacecraft snaps a selfie with Earth](https://www.space.com/astronomy/asteroids/chinas-tianwen-2-asteroid-sampling-spacecraft-snaps-a-selfie-with-earth)
 - [Department of Energy cancels $7.5B of clean energy projects in mostly blue states](https://techcrunch.com/2025/10/02/department-of-energy-cancels-7-5b-of-clean-energy-projects-in-mostly-blue-states/)
 - [Anthropic hires new CTO with focus on AI infrastructure](https://techcrunch.com/2025/10/02/anthropic-hires-new-cto-with-focus-on-ai-infrastructure/)
 - [Interstellar comet 3I/ATLAS will be eyed by Mars and Jupiter probes as it zooms past the sun this month](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-will-be-eyed-by-mars-and-jupiter-probes-as-it-zooms-past-the-sun-this-month)
-- [OpenAI’s Sora soars to No. 3 on the US App Store](https://techcrunch.com/2025/10/02/openais-sora-soars-to-no-3-on-the-u-s-app-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
