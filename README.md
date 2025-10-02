@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Visa crackdowns are blocking students’ study-abroad dreams, so India’s Leverage Edu is rerouting them](https://techcrunch.com/2025/10/01/visa-crackdowns-are-blocking-students-study-abroad-dreams-so-indias-leverage-edu-is-rerouting-them/)
 - [Instagram head says company is not using your microphone to listen to you &lpar;with AI data, it won’t need to&rpar;](https://techcrunch.com/2025/10/01/instagram-head-says-company-is-not-using-your-microphone-to-listen-to-you-with-ai-data-it-wont-need-to/)
 - [Self-driving trucks startup Einride raises $100M](https://techcrunch.com/2025/10/01/self-driving-trucks-startup-einride-raises-100m/)
 - [OpenAI staff grapples with the company’s social media push](https://techcrunch.com/2025/10/01/openai-staff-grapples-with-the-companys-social-media-push/)
 - [Better Tomorrow Ventures closes $140M, remains bullish on fintech](https://techcrunch.com/2025/10/01/better-tomorrow-ventures-closes-140m-remains-bullish-on-fintech/)
-- [Nearly invisible asteroids around Venus could threaten Earth — but don&#39;t worry, not for a while](https://www.space.com/astronomy/asteroids/nearly-invisible-asteroids-around-venus-could-threaten-earth-but-dont-worry-not-for-a-while)
 <!-- BLOG-POST-LIST:END -->
 
 ---
