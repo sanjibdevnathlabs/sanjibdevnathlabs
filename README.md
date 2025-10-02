@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple shelves Vision Pro overhaul to focus on AI glasses](https://techcrunch.com/2025/10/02/apple-shelves-vision-pro-overhaul-to-focus-on-ai-glasses/)
+- [Last chance alert: Founder and Investor Bundle savings for TechCrunch Disrupt 2025 ends tomorrow](https://techcrunch.com/2025/10/02/last-chance-alert-founder-and-investor-bundle-savings-for-techcrunch-disrupt-2025-ends-tomorrow/)
+- [Don&#39;t miss the full &#39;Harvest Supermoon&#39; rise on Oct. 6: Here&#39;s what to expect](https://www.space.com/stargazing/dont-miss-full-harvest-supermoon-rise-oct-6-2025)
 - [Spacecoin beams blockchain transaction through space in bid for decentralized internet](https://techcrunch.com/2025/10/02/spacecoin-beams-blockchain-transaction-through-space-in-bid-for-decentralized-internet/)
 - [Perplexity acquires the team behind Sequioa-backed AI design startup Visual Electric](https://techcrunch.com/2025/10/02/perplexity-acquires-the-team-behind-sequioa-backed-ai-design-startup-visual-electric/)
-- [India cracks down on 25 crypto exchanges including BingX, LBank, CoinW over compliance failures](https://techcrunch.com/2025/10/02/india-cracks-down-on-25-crypto-exchanges-including-bingx-lbank-coinw-over-compliance-failures/)
-- [Telescope sees binary star&#39;s beautiful rainbow spectra | Space photo of the day for Oct. 2, 2025](https://www.space.com/astronomy/telescope-sees-binary-stars-beautiful-rainbow-spectra-space-photo-of-the-day-for-oct-2-2025)
-- [Tesla has its best sales quarter ever as EV tax credit expires](https://techcrunch.com/2025/10/02/tesla-has-its-best-sales-quarter-of-2025-as-ev-tax-credit-expires/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
