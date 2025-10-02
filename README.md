@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Exoplanet without a sun found gobbling up 6 billion tons of gas and dust per second](https://www.space.com/astronomy/exoplanets/exoplanet-without-a-sun-found-gobbling-up-6-billion-tons-of-gas-and-dust-per-second)
-- [Oneleet raises $33M to shake up the world of security compliance](https://techcrunch.com/2025/10/02/oneleet-raises-33m-to-shake-up-the-world-of-security-compliance/)
-- [Saturn&#39;s moon Enceladus is shooting out organic molecules that could help create life](https://www.space.com/astronomy/saturn/saturns-moon-enceladus-is-shooting-out-organic-molecules-that-could-help-create-life)
-- [Visa crackdowns are blocking students’ study-abroad dreams, so India’s Leverage Edu is rerouting them](https://techcrunch.com/2025/10/01/visa-crackdowns-are-blocking-students-study-abroad-dreams-so-indias-leverage-edu-is-rerouting-them/)
-- [Instagram head says company is not using your microphone to listen to you &lpar;with AI data, it won’t need to&rpar;](https://techcrunch.com/2025/10/01/instagram-head-says-company-is-not-using-your-microphone-to-listen-to-you-with-ai-data-it-wont-need-to/)
+- [Spacecoin beams blockchain transaction through space in bid for decentralized internet](https://techcrunch.com/2025/10/02/spacecoin-beams-blockchain-transaction-through-space-in-bid-for-decentralized-internet/)
+- [Perplexity acquires the team behind Sequioa-backed AI design startup Visual Electric](https://techcrunch.com/2025/10/02/perplexity-acquires-the-team-behind-sequioa-backed-ai-design-startup-visual-electric/)
+- [India cracks down on 25 crypto exchanges including BingX, LBank, CoinW over compliance failures](https://techcrunch.com/2025/10/02/india-cracks-down-on-25-crypto-exchanges-including-bingx-lbank-coinw-over-compliance-failures/)
+- [Telescope sees binary star&#39;s beautiful rainbow spectra | Space photo of the day for Oct. 2, 2025](https://www.space.com/astronomy/telescope-sees-binary-stars-beautiful-rainbow-spectra-space-photo-of-the-day-for-oct-2-2025)
+- [Tesla has its best sales quarter ever as EV tax credit expires](https://techcrunch.com/2025/10/02/tesla-has-its-best-sales-quarter-of-2025-as-ev-tax-credit-expires/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
