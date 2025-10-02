@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying](https://techcrunch.com/2025/10/02/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/)
+- [Google’s Jules enters developers’ toolchains as AI coding agent competition heats up](https://techcrunch.com/2025/10/02/googles-jules-enters-developers-toolchains-as-ai-coding-agent-competition-heats-up/)
 - [Threads takes on X with new communities feature](https://techcrunch.com/2025/10/02/threads-takes-on-x-with-new-communities-feature/)
 - [&#39;Andromeda&#39; at 25: An optimistic but flawed sci-fi romp cobbled together from the notes of &#39;Star Trek&#39; creator Gene Roddenberry](https://www.space.com/entertainment/space-movies-shows/andromeda-at-25-an-optimistic-but-flawed-sci-fi-romp-cobbled-together-from-the-notes-of-star-trek-creator-gene-roddenberry)
 - [How startups could be affected by a prolonged government shutdown](https://techcrunch.com/2025/10/02/how-startups-could-be-affected-by-a-prolonged-government-shutdown/)
-- [Celebrating the partners driving Disrupt’s big ideas, connections, and community](https://techcrunch.com/2025/10/02/celebrating-the-partners-driving-disrupts-big-ideas-connections-and-community/)
-- [Department of Energy cancels $7.5B of clean energy projects in Harris-voting states](https://techcrunch.com/2025/10/02/department-of-energy-cancels-7-5b-of-clean-energy-projects-in-harris-voting-states/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
