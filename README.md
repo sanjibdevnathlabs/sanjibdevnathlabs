@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Phoebe Gates and Sophia Kianni share the playbook for scaling consumer AI and winning Gen Z at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/02/storming-the-gates-scaling-consumer-ai-with-phoebe-gates-and-sophia-kianni-only-at-techcrunch-disrupt-2025/)
-- [A new a16z report looks at which AI companies startups are actually paying for](https://techcrunch.com/2025/10/02/a-new-a16z-report-looks-at-which-ai-companies-startups-are-actually-paying-for/)
-- [&#39;The Martian&#39; is 10 years old. Looking back at sci-fi&#39;s answer to &#39;The Shawshank Redemption&#39;](https://www.space.com/entertainment/space-movies-shows/the-martian-is-10-years-old-looking-back-at-sci-fis-answer-to-the-shawshank-redemption)
-- [Hackers are sending extortion emails to executives after claiming Oracle apps’ data breach](https://techcrunch.com/2025/10/02/hackers-are-sending-extortion-emails-to-executives-after-claiming-oracle-apps-data-breach/)
-- [OpenAI is the world’s most valuable private company after private stock sale](https://techcrunch.com/2025/10/02/openai-is-the-worlds-most-valuable-private-company-after-private-stock-sale/)
+- [How startups could be affected by a prolonged government shutdown](https://techcrunch.com/2025/10/02/how-startups-could-be-affected-by-a-prolonged-government-shutdown/)
+- [Celebrating the partners driving Disrupt’s big ideas, connections, and community](https://techcrunch.com/2025/10/02/celebrating-the-partners-driving-disrupts-big-ideas-connections-and-community/)
+- [Department of Energy cancels $7.5B of clean energy projects in Harris-voting states](https://techcrunch.com/2025/10/02/department-of-energy-cancels-7-5b-of-clean-energy-projects-in-harris-voting-states/)
+- [Ex-OpenAI researcher dissects one of ChatGPT’s delusional spirals](https://techcrunch.com/2025/10/02/ex-openai-researcher-dissects-one-of-chatgpts-delusional-spirals/)
+- [Perplexity’s Comet AI browser now free; Max users get new ‘background assistant’](https://techcrunch.com/2025/10/02/perplexitys-comet-ai-browser-now-free-max-users-get-new-background-assistant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
