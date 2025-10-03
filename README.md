@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Alien: Rogue Incursion Evolved Edition&#39; drops the VR requirement, offering serviceable Aliens thrills, anytime, anywhere &lpar;review&rpar;](https://www.space.com/entertainment/space-games/alien-rogue-incursion-evolved-edition-drops-the-vr-requirement-offering-serviceable-aliens-thrills-anytime-anywhere-review)
 - [Leaked doc reveals the chaotic politics behind Trump Energy Department cuts](https://techcrunch.com/2025/10/03/leaked-doc-reveals-the-chaotic-politics-behind-trump-energy-department-cuts/)
 - [Space defense, gravity, and connectivity with Bridgit Mendler, Even Rogers, and Max Haot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/03/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/)
 - [See the moon and Saturn put on a sky show together on Oct. 5](https://www.space.com/stargazing/see-saturn-shining-next-to-the-nearly-full-moon-on-oct-5-2025)
 - [Surprise asteroid flies by Earth at only 250 miles away &lpar;video&rpar;](https://www.space.com/astronomy/asteroids/surprise-asteroid-flies-by-earth-at-only-250-miles-away-video)
-- [The clock is ticking: Savings of up to 20% on group passes end tonight for TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/03/the-clock-is-ticking-savings-of-up-to-20-on-group-passes-end-today-for-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
