@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Supabase nabs $5B valuation, four months after hitting $2B](https://techcrunch.com/2025/10/03/supabase-nabs-5b-valuation-four-months-after-hitting-2b/)
+- [Blue Origin reveals space tourists to launch on next New Shepard rocket](https://www.space.com/space-exploration/private-spaceflight/blue-origin-reveals-passengers-for-15th-space-tourism-launch)
 - [OpenAI’s Sora soars to No. 1 on Apple’s US App Store](https://techcrunch.com/2025/10/03/openais-sora-soars-to-no-1-on-the-u-s-app-store/)
 - [SpaceX launches Starlink satellites on 125th Falcon 9 mission of the year &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-11-39-b1097-vsfb-ocisl)
 - [&#39;Alien: Rogue Incursion Evolved Edition&#39; drops the VR requirement, offering serviceable Aliens thrills, anytime, anywhere &lpar;review&rpar;](https://www.space.com/entertainment/space-games/alien-rogue-incursion-evolved-edition-drops-the-vr-requirement-offering-serviceable-aliens-thrills-anytime-anywhere-review)
-- [Leaked doc reveals the chaotic politics behind Trump Energy Department cuts](https://techcrunch.com/2025/10/03/leaked-doc-reveals-the-chaotic-politics-behind-trump-energy-department-cuts/)
-- [Space defense, gravity, and connectivity with Bridgit Mendler, Even Rogers, and Max Haot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/03/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
