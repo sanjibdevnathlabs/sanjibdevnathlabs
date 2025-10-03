@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How developers are using Apple’s local AI models with iOS 26](https://techcrunch.com/2025/10/03/how-developers-are-using-apples-local-ai-models-with-ios-26/)
-- [Auroras may get stronger within the next 2 years as the sun enters a turbulent decline with a &#39;last gasp&#39; finale](https://www.space.com/stargazing/auroras/auroras-may-get-stronger-within-the-next-2-years-as-the-sun-enters-a-turbulent-decline-with-a-last-gasp-finale)
-- [&#39;Something is wrong!&#39;: &#39;Invasion&#39; Season 3 clip reveals shocking discovery at the mothership containment wall &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/something-is-wrong-invasion-season-3-clip-reveals-shocking-discovery-at-the-mothership-containment-wall-exclusive)
-- [&#39;The metal detector has gone off&#39;: Perseverance rover&#39;s find is a shiny new clue in the search for life on Mars](https://www.space.com/astronomy/mars/the-metal-detector-has-gone-off-perseverance-rovers-find-is-a-shiny-new-clue-in-the-search-for-life-on-mars)
-- [After nine years of grinding, Replit finally found its market. Can it keep it?](https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/)
+- [Hacking group claims theft of 1 billion records from Salesforce customer databases](https://techcrunch.com/2025/10/03/hacking-group-claims-theft-of-1-billion-records-from-salesforce-customer-databases/)
+- [New deep tech fund Wave Function Ventures raises $15 million](https://techcrunch.com/2025/10/03/new-deep-tech-fund-wave-function-ventures-raises-15-million/)
+- [A new search engine raises $1.1M to let obsessive fans dive down internet rabbit holes](https://techcrunch.com/2025/10/03/a-new-search-engine-raises-1-1m-to-let-obsessive-fans-dive-down-internet-rabbit-holes/)
+- [NASA pilot suits up to scan the Earth | Space photo of the day for Oct 3. 2025](https://www.space.com/astronomy/earth/nasa-pilot-suits-up-to-scan-the-earth-space-photo-of-the-day-for-oct-3-2025)
+- [Apple removes ICEBlock and similar tracking apps from the App Store](https://techcrunch.com/2025/10/03/apple-removes-iceblock-and-similar-tracking-apps-from-the-app-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
