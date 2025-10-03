@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Something is wrong!&#39;: &#39;Invasion&#39; Season 3 clip reveals shocking discovery at the mothership containment wall &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/something-is-wrong-invasion-season-3-clip-reveals-shocking-discovery-at-the-mothership-containment-wall-exclusive)
 - [&#39;The metal detector has gone off&#39;: Perseverance rover&#39;s find is a shiny new clue in the search for life on Mars](https://www.space.com/astronomy/mars/the-metal-detector-has-gone-off-perseverance-rovers-find-is-a-shiny-new-clue-in-the-search-for-life-on-mars)
 - [After nine years of grinding, Replit finally found its market. Can it keep it?](https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/)
 - [Amazon to resume drone delivery following crash in Arizona](https://techcrunch.com/2025/10/02/amazon-to-resume-drone-delivery-following-crash-in-arizona/)
 - [JWST captures clearest-ever image of M87 galaxy&#39;s supermassive black hole jet](https://www.space.com/astronomy/james-webb-space-telescope/jwst-captures-clearest-ever-image-of-m87-galaxys-supermassive-black-hole-jet)
-- [China&#39;s Tianwen 2 asteroid-sampling spacecraft snaps a selfie with Earth](https://www.space.com/astronomy/asteroids/chinas-tianwen-2-asteroid-sampling-spacecraft-snaps-a-selfie-with-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
