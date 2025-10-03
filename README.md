@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The clock is ticking: Savings of up to 20% on group passes end tonight for TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/03/the-clock-is-ticking-savings-of-up-to-20-on-group-passes-end-today-for-techcrunch-disrupt-2025/)
+- [Flai is the latest startup bringing AI to car dealerships](https://techcrunch.com/2025/10/03/flai-is-the-latest-startup-bringing-ai-to-car-dealerships/)
+- [OM System OM-3 review](https://www.space.com/stargazing/skywatching-kit/om-system-om-3-review)
+- [Europe teams with Japan on asteroid mission, beefs up space cooperation with South Korea](https://www.space.com/space-exploration/missions/europe-teams-with-japan-on-asteroid-mission-beefs-up-space-cooperation-with-south-korea)
 - [Hacking group claims theft of 1 billion records from Salesforce customer databases](https://techcrunch.com/2025/10/03/hacking-group-claims-theft-of-1-billion-records-from-salesforce-customer-databases/)
-- [New deep tech fund Wave Function Ventures raises $15 million](https://techcrunch.com/2025/10/03/new-deep-tech-fund-wave-function-ventures-raises-15-million/)
-- [A new search engine raises $1.1M to let obsessive fans dive down internet rabbit holes](https://techcrunch.com/2025/10/03/a-new-search-engine-raises-1-1m-to-let-obsessive-fans-dive-down-internet-rabbit-holes/)
-- [NASA pilot suits up to scan the Earth | Space photo of the day for Oct 3. 2025](https://www.space.com/astronomy/earth/nasa-pilot-suits-up-to-scan-the-earth-space-photo-of-the-day-for-oct-3-2025)
-- [Apple removes ICEBlock and similar tracking apps from the App Store](https://techcrunch.com/2025/10/03/apple-removes-iceblock-and-similar-tracking-apps-from-the-app-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
