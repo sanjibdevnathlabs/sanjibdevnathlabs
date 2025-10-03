@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rivian is redesigning the R2 SUV’s door handles for better safety](https://techcrunch.com/2025/10/03/rivian-is-redesigning-the-r2-suvs-door-handles-for-better-safety/)
+- [Can you think like a YC partner? This game will help you find out](https://techcrunch.com/2025/10/03/can-you-think-like-a-yc-partner-this-game-will-help-you-find-out/)
+- [Can AI companies turn brainrot into revenue?](https://techcrunch.com/video/can-ai-companies-turn-brainrot-into-revenue/)
 - [Supabase nabs $5B valuation, four months after hitting $2B](https://techcrunch.com/2025/10/03/supabase-nabs-5b-valuation-four-months-after-hitting-2b/)
 - [Blue Origin reveals space tourists to launch on next New Shepard rocket](https://www.space.com/space-exploration/private-spaceflight/blue-origin-reveals-passengers-for-15th-space-tourism-launch)
-- [OpenAI’s Sora soars to No. 1 on Apple’s US App Store](https://techcrunch.com/2025/10/03/openais-sora-soars-to-no-1-on-the-u-s-app-store/)
-- [SpaceX launches Starlink satellites on 125th Falcon 9 mission of the year &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-11-39-b1097-vsfb-ocisl)
-- [&#39;Alien: Rogue Incursion Evolved Edition&#39; drops the VR requirement, offering serviceable Aliens thrills, anytime, anywhere &lpar;review&rpar;](https://www.space.com/entertainment/space-games/alien-rogue-incursion-evolved-edition-drops-the-vr-requirement-offering-serviceable-aliens-thrills-anytime-anywhere-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
