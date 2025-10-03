@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astrophotographers capture dazzling new views of Comet C/2025 A6 &lpar;Lemmon&rpar; as it brightens for October skies](https://www.space.com/stargazing/astrophotography/astrophotographers-capture-dazzling-new-views-of-comet-c-2025-a6-lemmon-as-it-brightens-for-october-skies)
 - [&#39;Alien: Earth&#39; predicts a transhumanist future, but could we ever digitize human consciousness? We asked the experts &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/alien-earth-predicts-a-transhumanist-future-but-could-we-ever-digitize-human-consciousness-we-asked-the-experts-exclusive)
 - [What to expect at OpenAI’s DevDay 2025, and how to watch it](https://techcrunch.com/2025/10/03/what-to-expect-at-openais-devday-2025-and-how-to-watch-it/)
 - [Snapchat is going to charge for storage — here’s how to save your Memories for free](https://techcrunch.com/2025/10/03/snapchat-is-going-to-charge-for-storage-heres-how-to-save-your-memories-for-free/)
 - [Google’s Gemini AI app could soon be getting a big makeover](https://techcrunch.com/2025/10/03/googles-gemini-ai-app-could-soon-be-getting-a-big-makeover/)
-- [Rivian is redesigning the R2 SUV’s door handles for better safety](https://techcrunch.com/2025/10/03/rivian-is-redesigning-the-r2-suvs-door-handles-for-better-safety/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
