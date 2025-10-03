@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Alibaba is going all in on Qwen…](https://www.youtube.com/watch?v=SquU4Bpc73Y)
 - [OpenAI’s new slop machine is open for business…](https://www.youtube.com/watch?v=hkSj-QapfZo)
 - [What is Bootstrapping Anyway? - Computerphile](https://www.youtube.com/watch?v=Pu7LvnxV6N0)
 - [n8n will change your life as a developer...](https://www.youtube.com/watch?v=bS9R6aCVEzw)
 - [Video 9: All There Is to Unlearn - MIT Innovation Teams](https://www.youtube.com/watch?v=bV8-5sce5nw)
-- [Video 5: Prototype Problems Not Products - MIT Innovation Teams](https://www.youtube.com/watch?v=9SaekDRtGFw)
 <!-- YOUTUBE:END -->
 
 ---
