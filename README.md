@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anker offered Eufy camera owners $2 per video for AI training](https://techcrunch.com/2025/10/04/anker-offered-to-pay-eufy-camera-owners-to-share-videos-for-training-its-ai/)
 - [Instacrops will demo its water-saving, crop-boosting AI at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/04/instacrops-will-demo-its-water-saving-crop-boosting-ai-at-techcrunch-disrupt-2025/)
 - [Sam Altman says Sora will add ‘granular,’ opt-in copyright controls](https://techcrunch.com/2025/10/04/sam-altman-says-sora-will-add-granular-opt-in-copyright-controls/)
 - [Event startup Partiful wasn’t stripping GPS locations from user-uploaded photos](https://techcrunch.com/2025/10/04/event-startup-partiful-wasnt-stripping-gps-locations-from-user-uploaded-photos/)
 - [This Week In Space podcast: Episode 180 — NASA is Closed for Business](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-180-nasa-is-closed-for-business)
-- [DWARFLAB DWARF 3 smart telescope review](https://www.space.com/stargazing/skywatching-kit/dwarflab-dwarf-3-smart-telescope-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
