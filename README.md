@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bezos predicts that millions will live in space kind of soon](https://techcrunch.com/2025/10/03/bezos-predicts-that-millions-will-live-in-space-kind-of-soon/)
 - [With its latest acqui-hire, OpenAI is doubling down on personalized consumer AI](https://techcrunch.com/2025/10/03/with-its-latest-acqui-hire-openai-is-doubling-down-on-personalized-consumer-ai/)
 - [Astronauts work through the U.S. government shutdown | On the International Space Station Sept. 29-Oct. 3, 2025](https://www.space.com/space-exploration/international-space-station/astronauts-work-through-the-u-s-government-shutdown-on-the-international-space-station-sept-29-oct-3-2025)
 - [Sources: Naveen Rao’s new AI hardware startup targets $5B valuation with backing from a16z](https://techcrunch.com/2025/10/03/sources-naveen-raos-new-ai-hardware-startup-targets-5b-valuation-with-backing-from-a16z/)
 - [Astrophotographers capture dazzling new views of Comet C/2025 A6 &lpar;Lemmon&rpar; as it brightens for October skies](https://www.space.com/stargazing/astrophotography/astrophotographers-capture-dazzling-new-views-of-comet-c-2025-a6-lemmon-as-it-brightens-for-october-skies)
-- [&#39;Alien: Earth&#39; predicts a transhumanist future, but could we ever digitize human consciousness? We asked the experts &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/alien-earth-predicts-a-transhumanist-future-but-could-we-ever-digitize-human-consciousness-we-asked-the-experts-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
