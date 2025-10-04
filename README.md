@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meteor mania: the ultimate meteor space quiz](https://www.space.com/stargazing/meteor-showers/meteor-mania-the-ultimate-meteor-space-quiz)
 - [World Space Week 2025 explores what it means to live beyond Earth](https://www.space.com/space-exploration/world-space-week-2025-explores-what-it-means-to-live-beyond-earth)
 - [International Observe the Moon Night 2025: 4 things to see on the lunar surface on Oct. 4](https://www.space.com/stargazing/international-observe-the-moon-night-2025-4-things-to-see-on-the-lunar-surface-on-oct-4)
 - [Bezos predicts that millions will live in space kind of soon](https://techcrunch.com/2025/10/03/bezos-predicts-that-millions-will-live-in-space-kind-of-soon/)
 - [With its latest acqui-hire, OpenAI is doubling down on personalized consumer AI](https://techcrunch.com/2025/10/03/with-its-latest-acqui-hire-openai-is-doubling-down-on-personalized-consumer-ai/)
-- [Astronauts work through the U.S. government shutdown | On the International Space Station Sept. 29-Oct. 3, 2025](https://www.space.com/space-exploration/international-space-station/astronauts-work-through-the-u-s-government-shutdown-on-the-international-space-station-sept-29-oct-3-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
