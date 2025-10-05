@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trivia in orbit: How well do you know the ISS?](https://www.space.com/space-exploration/international-space-station/trivia-in-orbit-how-well-do-you-know-the-iss)
 - [Total solar eclipse 2028: Everything you need to know about totality in Australia and New Zealand](https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-2028-everything-you-need-to-know-about-totality-in-australia-and-new-zealand)
 - [A breach every month raises doubts about South Korea’s digital defenses](https://techcrunch.com/2025/10/04/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/)
 - [Newsom signs bill giving Uber and Lyft drivers in California the right to unionize](https://techcrunch.com/2025/10/04/newsom-signs-bill-giving-uber-and-lyft-drivers-in-california-the-right-to-unionize/)
 - [If you’re not an AI startup, good luck raising money from VCs](https://techcrunch.com/2025/10/04/if-youre-not-an-ai-startup-good-luck-raising-money-from-vcs/)
-- [Startups and the U.S. government: It’s getting complicated](https://techcrunch.com/2025/10/04/startups-and-the-u-s-government-its-getting-complicated/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
