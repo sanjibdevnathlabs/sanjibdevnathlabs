@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Mobility: Toyota makes a $1.5B bet on the startup ecosystem](https://techcrunch.com/2025/10/05/techcrunch-mobility-toyota-makes-a-1-5b-bet-on-the-startup-ecosystem/)
 - [The Reinforcement Gap — or why some AI skills improve faster than others](https://techcrunch.com/2025/10/05/the-reinforcement-gap-or-why-some-ai-skills-improve-faster-than-others/)
 - [New &#39;Unfolding the Universe&#39; exhibit celebrates the James Webb Space Telescope through stunning artwork &lpar;photos, video&rpar;](https://www.space.com/entertainment/new-unfolding-the-universe-exhibit-celebrates-the-james-webb-space-telescope-through-stunning-artwork-photos-video)
 - [The Young Minds App wants to protect and educate children online and will show its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/05/the-young-minds-app-wants-to-protect-and-educate-children-online-and-will-show-its-tech-at-techcrunch-disrupt-2025/)
 - [New DARPA &#39;field guide&#39; looks for ways to jump-start a moon economy](https://www.space.com/astronomy/moon/new-darpa-field-guide-looks-for-ways-to-jump-start-a-moon-economy)
-- [Air quality analysis reveals minimal changes after xAI data center opens in pollution-burdened Memphis neighborhood](https://www.space.com/astronomy/earth/air-quality-analysis-reveals-minimal-changes-after-xai-data-center-opens-in-pollution-burdened-memphis-neighborhood)
 <!-- BLOG-POST-LIST:END -->
 
 ---
