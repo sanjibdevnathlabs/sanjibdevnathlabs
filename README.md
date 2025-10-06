@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Juno probe orbiting Jupiter may have come to an end, but no one can confirm](https://www.space.com/space-exploration/missions/nasas-juno-probe-orbiting-jupiter-may-have-come-to-an-end-but-no-one-can-confirm)
 - [The Harvest Moon rises tonight: See the 1st supermoon of 2025 brighten October&#39;s sky](https://www.space.com/stargazing/harvest-moon-rises-tonight-see-1st-supermoon-of-2025-brighten-october-sky)
 - [Firefly leans into its defense ambitions with $855M SciTec acquisition](https://techcrunch.com/2025/10/06/firefly-leans-into-its-defense-ambitions-with-855m-scitec-acquisition/)
 - [The exoplanet revolution at 30: 1st alien world was found around a sun-like star three decades ago](https://www.space.com/astronomy/exoplanets/the-exoplanet-revolution-at-30-1st-alien-world-was-found-around-a-sun-like-star-three-decades-ago)
-- [Heidi Health raises $65M Series B led by Steve Cohen’s Point72](https://techcrunch.com/2025/10/05/heidi-health-raises-65m-series-b-led-by-steve-cohens-point72/)
-- [Waffles eat Bluesky](https://techcrunch.com/2025/10/05/waffles-eat-bluesky/)
+- [Heidi Health raises $65M Series B led by Steve Cohen’s Point72 Private Investments](https://techcrunch.com/2025/10/05/heidi-health-raises-65m-series-b-led-by-steve-cohens-point72/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
