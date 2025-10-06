@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MrBeast says AI could threaten creators’ livelihoods, calling it ‘scary times’ for the industry](https://techcrunch.com/2025/10/06/mrbeast-says-ai-could-threaten-creators-livelihoods-calling-it-scary-times-for-the-industry/)
 - [Instagram introduces new ‘Ring’ award for top creators](https://techcrunch.com/2025/10/06/instagram-introduces-new-ring-award-for-top-creators/)
 - [OpenAI launches AgentKit to help developers build and ship AI agents](https://techcrunch.com/2025/10/06/openai-launches-agentkit-to-help-developers-build-and-ship-ai-agents/)
 - [Why can&#39;t we feel the Earth moving?](https://www.space.com/astronomy/earth/why-cant-we-feel-the-earth-moving)
 - [OpenAI launches apps inside of ChatGPT](https://techcrunch.com/2025/10/06/openai-launches-apps-inside-of-chatgpt/)
-- [Did NASA&#39;s Perseverance Mars rover just see interstellar comet 3I/ATLAS in the Martian night sky?](https://www.space.com/astronomy/comets/did-nasas-perseverance-mars-rover-just-see-interstellar-comet-3i-atlas-in-the-martian-night-sky)
 <!-- BLOG-POST-LIST:END -->
 
 ---
