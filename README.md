@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lucid Motors sets record as Gravity sales pick up and tax credit expires](https://techcrunch.com/2025/10/06/lucid-motors-sets-record-as-gravity-sales-pick-up-and-tax-credit-expires/)
+- [Taylor Swift fans accuse singer of using AI in her Google scavenger hunt videos](https://techcrunch.com/2025/10/06/taylor-swift-fans-accuse-singer-of-using-ai-in-her-google-scavenger-hunt-videos/)
 - [10 best space co-op games to play right now](https://www.space.com/entertainment/space-games/best-space-co-op-games)
 - [The &#39;ultraview effect&#39;: What happens when we bring human spirituality to outer space?](https://www.space.com/space-exploration/the-ultraview-effect-what-happens-when-we-bring-human-spirituality-to-outer-space)
 - [Microsoft buys another 100 MW of solar, this time in Japan](https://techcrunch.com/2025/10/06/microsoft-buys-another-100-mw-of-solar-this-time-in-japan/)
-- [OpenAI ramps up developer push with more powerful models in its API](https://techcrunch.com/2025/10/06/openai-ramps-up-developer-push-with-more-powerful-models-in-its-api/)
-- [MrBeast says AI could threaten creators’ livelihoods, calling it ‘scary times’ for the industry](https://techcrunch.com/2025/10/06/mrbeast-says-ai-could-threaten-creators-livelihoods-calling-it-scary-times-for-the-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
