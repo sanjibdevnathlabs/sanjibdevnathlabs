@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Llama: Everything you need to know about the open generative AI model](https://techcrunch.com/2025/10/06/meta-llama-everything-you-need-to-know-about-the-open-generative-ai-model/)
-- [Clop hackers caught exploiting Oracle zero-day bug to steal executives’ personal data](https://techcrunch.com/2025/10/06/clop-hackers-caught-exploiting-oracle-zero-day-bug-to-steal-executives-personal-data/)
-- [Watch the 1st supermoon of 2025 shine tonight with this free Harvest Moon livestream](https://www.space.com/stargazing/watch-the-first-supermoon-of-2025-shine-tonight-with-this-free-harvest-moon-livestream)
-- [Okosix will show its biodegradable plastic at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/06/okosix-will-show-its-biodegradable-plastic-at-techcrunch-disrupt-2025/)
-- [New private &#39;Arc&#39; spacecraft aims to deliver cargo from orbit to anywhere on Earth in less than an hour &lpar;video&rpar;](https://www.space.com/technology/new-private-arc-spacecraft-aims-to-deliver-cargo-from-orbit-to-anywhere-on-earth-in-less-than-an-hour-video)
+- [Instagram introduces new ‘Ring’ award for top creators](https://techcrunch.com/2025/10/06/instagram-introduces-new-ring-award-for-top-creators/)
+- [OpenAI launches AgentKit to help developers build and ship AI agents](https://techcrunch.com/2025/10/06/openai-launches-agentkit-to-help-developers-build-and-ship-ai-agents/)
+- [Why can&#39;t we feel the Earth moving?](https://www.space.com/astronomy/earth/why-cant-we-feel-the-earth-moving)
+- [OpenAI launches apps inside of ChatGPT](https://techcrunch.com/2025/10/06/openai-launches-apps-inside-of-chatgpt/)
+- [Did NASA&#39;s Perseverance Mars rover just see interstellar comet 3I/ATLAS in the Martian night sky?](https://www.space.com/astronomy/comets/did-nasas-perseverance-mars-rover-just-see-interstellar-comet-3i-atlas-in-the-martian-night-sky)
 <!-- BLOG-POST-LIST:END -->
 
 ---
