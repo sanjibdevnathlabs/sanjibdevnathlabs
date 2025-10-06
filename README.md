@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 best space co-op games to play right now](https://www.space.com/entertainment/space-games/best-space-co-op-games)
+- [The &#39;ultraview effect&#39;: What happens when we bring human spirituality to outer space?](https://www.space.com/space-exploration/the-ultraview-effect-what-happens-when-we-bring-human-spirituality-to-outer-space)
+- [Microsoft buys another 100 MW of solar, this time in Japan](https://techcrunch.com/2025/10/06/microsoft-buys-another-100-mw-of-solar-this-time-in-japan/)
+- [OpenAI ramps up developer push with more powerful models in its API](https://techcrunch.com/2025/10/06/openai-ramps-up-developer-push-with-more-powerful-models-in-its-api/)
 - [MrBeast says AI could threaten creators’ livelihoods, calling it ‘scary times’ for the industry](https://techcrunch.com/2025/10/06/mrbeast-says-ai-could-threaten-creators-livelihoods-calling-it-scary-times-for-the-industry/)
-- [Instagram introduces new ‘Ring’ award for top creators](https://techcrunch.com/2025/10/06/instagram-introduces-new-ring-award-for-top-creators/)
-- [OpenAI launches AgentKit to help developers build and ship AI agents](https://techcrunch.com/2025/10/06/openai-launches-agentkit-to-help-developers-build-and-ship-ai-agents/)
-- [Why can&#39;t we feel the Earth moving?](https://www.space.com/astronomy/earth/why-cant-we-feel-the-earth-moving)
-- [OpenAI launches apps inside of ChatGPT](https://techcrunch.com/2025/10/06/openai-launches-apps-inside-of-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
