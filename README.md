@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Heidi Health raises $65M Series B led by Steve Cohen’s Point72](https://techcrunch.com/2025/10/05/heidi-health-raises-65m-series-b-led-by-steve-cohens-point72/)
 - [Waffles eat Bluesky](https://techcrunch.com/2025/10/05/waffles-eat-bluesky/)
 - [Suspect arrested after threats against TikTok’s Culver City headquarters](https://techcrunch.com/2025/10/05/suspect-arrested-after-threats-against-tiktoks-culver-city-headquarters/)
 - [California’s new AI safety law shows regulation and innovation don’t have to clash](https://techcrunch.com/2025/10/05/californias-new-ai-safety-law-shows-regulation-and-innovation-dont-have-to-clash/)
 - [OpenAI and Jony Ive may be struggling to figure out their AI device](https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/)
-- [TechCrunch Mobility: Toyota makes a $1.5B bet on the startup ecosystem](https://techcrunch.com/2025/10/05/techcrunch-mobility-toyota-makes-a-1-5b-bet-on-the-startup-ecosystem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
