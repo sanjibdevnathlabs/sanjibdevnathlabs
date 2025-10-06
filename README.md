@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta Llama: Everything you need to know about the open generative AI model](https://techcrunch.com/2025/10/06/meta-llama-everything-you-need-to-know-about-the-open-generative-ai-model/)
+- [Clop hackers caught exploiting Oracle zero-day bug to steal executives’ personal data](https://techcrunch.com/2025/10/06/clop-hackers-caught-exploiting-oracle-zero-day-bug-to-steal-executives-personal-data/)
+- [Watch the 1st supermoon of 2025 shine tonight with this free Harvest Moon livestream](https://www.space.com/stargazing/watch-the-first-supermoon-of-2025-shine-tonight-with-this-free-harvest-moon-livestream)
 - [Okosix will show its biodegradable plastic at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/06/okosix-will-show-its-biodegradable-plastic-at-techcrunch-disrupt-2025/)
 - [New private &#39;Arc&#39; spacecraft aims to deliver cargo from orbit to anywhere on Earth in less than an hour &lpar;video&rpar;](https://www.space.com/technology/new-private-arc-spacecraft-aims-to-deliver-cargo-from-orbit-to-anywhere-on-earth-in-less-than-an-hour-video)
-- [What to expect at OpenAI’s DevDay 2025, and how to watch it](https://techcrunch.com/2025/10/06/what-to-expect-at-openais-devday-2025-and-how-to-watch-it/)
-- [A 19-year-old nabs backing from Google execs for his AI memory startup, Supermemory](https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/)
-- [Adobe predicts AI-assisted online shopping to grow 520% during the 2025 U.S. holiday season](https://techcrunch.com/2025/10/06/adobe-predicts-ai-assisted-online-shopping-to-grow-520-during-the-2025-u-s-holiday-season/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
