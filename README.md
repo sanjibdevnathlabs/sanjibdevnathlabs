@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sugar Free Capital raises $32M inaugural fund to back early-staged MIT founders](https://techcrunch.com/2025/10/06/sugar-free-capital-raises-32m-inaugural-fund-to-back-early-staged-mit-founders/)
-- [Relive the pioneering days of Gemini and Mercury in this gorgeous new coffee-table photo book &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-books/relive-the-pioneering-days-of-gemini-and-mercury-in-this-gorgeous-new-coffee-table-photo-book-exclusive)
-- [Instagram updates its Map feature to make it easier to tell if you’re sharing your location](https://techcrunch.com/2025/10/06/instagram-updates-its-map-feature-to-make-it-easier-to-tell-if-youre-sharing-your-location/)
-- [Inside Microsoft’s AI bet with CTO Kevin Scott at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/06/inside-microsofts-ai-bet-with-cto-kevin-scott-at-techcrunch-disrupt-2025/)
-- [TechCrunch Disrupt 2025 exhibit tables are selling out fast and time is running out](https://techcrunch.com/2025/10/06/techcrunch-disrupt-2025-exhibit-tables-are-selling-out-fast-and-time-is-running-out/)
+- [Okosix will show its biodegradable plastic at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/06/okosix-will-show-its-biodegradable-plastic-at-techcrunch-disrupt-2025/)
+- [New private &#39;Arc&#39; spacecraft aims to deliver cargo from orbit to anywhere on Earth in less than an hour &lpar;video&rpar;](https://www.space.com/technology/new-private-arc-spacecraft-aims-to-deliver-cargo-from-orbit-to-anywhere-on-earth-in-less-than-an-hour-video)
+- [What to expect at OpenAI’s DevDay 2025, and how to watch it](https://techcrunch.com/2025/10/06/what-to-expect-at-openais-devday-2025-and-how-to-watch-it/)
+- [A 19-year-old nabs backing from Google execs for his AI memory startup, Supermemory](https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/)
+- [Adobe predicts AI-assisted online shopping to grow 520% during the 2025 U.S. holiday season](https://techcrunch.com/2025/10/06/adobe-predicts-ai-assisted-online-shopping-to-grow-520-during-the-2025-u-s-holiday-season/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
