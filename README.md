@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Disrupt 2025 exhibit tables are selling out fast and time is running out](https://techcrunch.com/2025/10/06/techcrunch-disrupt-2025-exhibit-tables-are-selling-out-fast-and-time-is-running-out/)
+- [Polishing a telescope mirror to perfection | Space photo of the day for Oct. 6, 2025](https://www.space.com/astronomy/polishing-a-telescope-mirror-to-perfection-space-photo-of-the-day-for-oct-6-2025)
+- [AMD to supply 6GW of compute capacity to OpenAI in chip deal worth tens of billions](https://techcrunch.com/2025/10/06/amd-to-supply-6gw-of-compute-capacity-to-openai-in-chip-deal-worth-tens-of-billions/)
 - [NASA&#39;s Juno probe orbiting Jupiter may have come to an end, but no one can confirm](https://www.space.com/space-exploration/missions/nasas-juno-probe-orbiting-jupiter-may-have-come-to-an-end-but-no-one-can-confirm)
 - [The Harvest Moon rises tonight: See the 1st supermoon of 2025 brighten October&#39;s sky](https://www.space.com/stargazing/harvest-moon-rises-tonight-see-1st-supermoon-of-2025-brighten-october-sky)
-- [Firefly leans into its defense ambitions with $855M SciTec acquisition](https://techcrunch.com/2025/10/06/firefly-leans-into-its-defense-ambitions-with-855m-scitec-acquisition/)
-- [The exoplanet revolution at 30: 1st alien world was found around a sun-like star three decades ago](https://www.space.com/astronomy/exoplanets/the-exoplanet-revolution-at-30-1st-alien-world-was-found-around-a-sun-like-star-three-decades-ago)
-- [Heidi Health raises $65M Series B led by Steve Cohen’s Point72 Private Investments](https://techcrunch.com/2025/10/05/heidi-health-raises-65m-series-b-led-by-steve-cohens-point72/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
