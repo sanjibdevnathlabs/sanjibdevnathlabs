@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [October&#39;s full Harvest Moon: See breathtaking photos of 1st supermoon of 2025](https://www.space.com/stargazing/see-breathtaking-photos-of-full-harvest-moon-supermoon-october-2025)
+- [xAI hires former Morgan Stanley banker Anthony Armstrong as CFO](https://techcrunch.com/2025/10/07/xai-hires-former-morgan-stanley-banker-anthony-armstrong-as-cfo/)
+- [Cosmic clouds caught by Hubble Telescope | Space photo of the day for Oct. 7, 2025](https://www.space.com/astronomy/hubble-space-telescope/cosmic-clouds-caught-by-hubble-telescope-space-photo-of-the-day-for-oct-7-2025)
 - [Save 27% on these Celestron Cometron binoculars — great stargazing for the whole family](https://www.space.com/stargazing/skywatching-kit/save-27-percent-on-these-celestron-cometron-binoculars-great-stargazing-for-the-whole-family)
 - [The final &#39;Predator: Badlands&#39; trailer welcomes you to &#39;the most dangerous planet in the universe&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-final-predator-badlands-trailer-welcomes-you-to-the-most-dangerous-planet-in-the-universe-video)
-- [China is developing ways to de-orbit space junk. Should we be worried?](https://www.space.com/space-exploration/satellites/china-is-developing-ways-to-de-orbit-space-junk-should-we-be-worried)
-- [SpaceX launches 28 Starlink satellites from Florida, lands rocket at sea](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-10-59-asog)
-- [Deloitte goes all in on AI — despite having to issue a hefty refund for use of AI](https://techcrunch.com/2025/10/06/deloitte-goes-all-in-on-ai-despite-having-to-issue-a-hefty-refund-for-use-of-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
