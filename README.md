@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wall Street analysts explain how AMD’s own stock will pay for OpenAI’s billions in chip purchases](https://techcrunch.com/2025/10/07/wall-street-analysts-explain-how-amds-own-stock-will-pay-for-openais-billions-in-chip-purchases/)
+- [The search for life on Venus just took another turn, thanks to JWST&#39;s brown dwarf discovery](https://www.space.com/astronomy/james-webb-space-telescope/the-search-for-life-on-venus-just-took-another-turn-thanks-to-jwsts-brown-dwarf-discovery)
 - [Google launches its AI vibe-coding app Opal in 15 more countries](https://techcrunch.com/2025/10/07/google-launches-its-ai-vibe-coding-app-opal-in-15-more-countries/)
 - [How Otter.ai’s CEO is pushing the company to be more than just a meeting scribe](https://techcrunch.com/2025/10/07/how-otter-ais-ceo-is-pushing-the-company-to-be-more-than-just-a-meeting-scribe/)
 - [Watch Blue Origin launch its 15th space tourism mission on Oct. 8](https://www.space.com/space-exploration/private-spaceflight/blue-origin-ns-36-space-tourism-launch-webcast)
-- [Tesla reveals slightly cheaper ‘standard’ versions of the Model 3 and Model Y](https://techcrunch.com/2025/10/07/tesla-reveals-slightly-cheaper-standard-versions-of-the-model-3-and-model-y/)
-- [X splits Verified Organizations into ‘Premium Business’ and ‘Premium Organizations’](https://techcrunch.com/2025/10/07/x-splits-verified-organizations-into-premium-business-and-premium-organizations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
