@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See craters on the moon for less — $50 saving off these astronomy binoculars in this Prime Day in October deal](https://www.space.com/stargazing/skywatching-kit/see-craters-on-the-moon-for-less-50-dollar-saving-off-these-astronomy-binoculars-in-this-prime-day-in-october-deal)
 - [These 10 underrated space games flew under the radar, but they deserve your attention](https://www.space.com/entertainment/space-games/underrated-space-games)
 - [&#39;Project Hail Mary&#39;: Release date, plot, cast, and everything we know about Ryan Gosling&#39;s mission to save the world](https://www.space.com/entertainment/space-movies-shows/project-hail-mary-release-date-plot-cast-and-everything-we-know-about-ryan-goslings-mission-to-save-the-world)
 - [October&#39;s full Harvest Moon: See breathtaking photos of 1st supermoon of 2025](https://www.space.com/stargazing/see-breathtaking-photos-of-full-harvest-moon-supermoon-october-2025)
 - [xAI hires former Morgan Stanley banker Anthony Armstrong as CFO](https://techcrunch.com/2025/10/07/xai-hires-former-morgan-stanley-banker-anthony-armstrong-as-cfo/)
-- [Cosmic clouds caught by Hubble Telescope | Space photo of the day for Oct. 7, 2025](https://www.space.com/astronomy/hubble-space-telescope/cosmic-clouds-caught-by-hubble-telescope-space-photo-of-the-day-for-oct-7-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
