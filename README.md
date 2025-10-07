@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [European Mars orbiter spies interstellar comet 3I/ATLAS zooming past Red Planet &lpar;photos&rpar;](https://www.space.com/astronomy/comets/european-mars-orbiter-spies-interstellar-comet-3i-atlas-zooming-past-red-planet-photos)
+- [Trump’s DOE proposes cutting billions in grants for GM, Ford, and lots of startups](https://techcrunch.com/2025/10/07/trumps-doe-proposes-cutting-billions-in-grants-for-gm-ford-and-lots-of-startups/)
 - [Wall Street analysts explain how AMD’s own stock will pay for OpenAI’s billions in chip purchases](https://techcrunch.com/2025/10/07/wall-street-analysts-explain-how-amds-own-stock-will-pay-for-openais-billions-in-chip-purchases/)
 - [The search for life on Venus just took another turn, thanks to JWST&#39;s brown dwarf discovery](https://www.space.com/astronomy/james-webb-space-telescope/the-search-for-life-on-venus-just-took-another-turn-thanks-to-jwsts-brown-dwarf-discovery)
 - [Google launches its AI vibe-coding app Opal in 15 more countries](https://techcrunch.com/2025/10/07/google-launches-its-ai-vibe-coding-app-opal-in-15-more-countries/)
-- [How Otter.ai’s CEO is pushing the company to be more than just a meeting scribe](https://techcrunch.com/2025/10/07/how-otter-ais-ceo-is-pushing-the-company-to-be-more-than-just-a-meeting-scribe/)
-- [Watch Blue Origin launch its 15th space tourism mission on Oct. 8](https://www.space.com/space-exploration/private-spaceflight/blue-origin-ns-36-space-tourism-launch-webcast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
