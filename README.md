@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bring the cosmos into your home with a massive 33% off this stunning Pococo Galaxy Star Projector](https://www.space.com/stargazing/skywatching-kit/bring-the-cosmos-into-your-home-with-a-massive-33-percent-off-this-stunning-pococo-galaxy-star-projector)
+- [Startup Battlefield company ÄIO invented a method to make edible fat from ag waste like sawdust](https://techcrunch.com/2025/10/07/startup-battlefield-company-aio-invented-a-method-to-make-edible-fat-from-ag-waste-like-sawdust/)
+- [The Draconid meteor shower peaks on Oct. 8: Here&#39;s what to expect](https://www.space.com/stargazing/meteor-showers/draconid-meteor-shower-peaks-tonight-heres-what-to-expect-oct-8-2025)
+- [The iPhone Air is so light, I forgot it was in my pocket](https://techcrunch.com/2025/10/07/the-iphone-air-is-so-light-i-forgot-it-was-in-my-pocket/)
+- [One startup’s paper-thin stainless steel could change how bridges are built](https://techcrunch.com/2025/10/07/one-startups-paper-thin-stainless-steel-could-change-how-bridges-are-built/)
 - [Why is humanity obsessed with aliens? Q&amp;A with &#39;First Contact&#39; author Becky Ferreira](https://www.space.com/entertainment/space-books/why-is-humanity-obsessed-with-aliens-q-and-a-with-first-contact-author-becky-ferreira)
-- [California bans loud commercials on Netflix, Hulu, and other streaming services](https://techcrunch.com/2025/10/07/california-bans-loud-commercials-on-netflix-hulu-and-other-streaming-services/)
-- [Alternative app store AltStore raises $6M, connects with the fediverse](https://techcrunch.com/2025/10/07/alternative-app-store-altstore-raises-6m-connects-with-the-fediverse/)
-- [Security bug in India’s income tax portal exposed taxpayers’ sensitive data](https://techcrunch.com/2025/10/07/security-bug-in-indias-income-tax-portal-exposed-taxpayers-sensitive-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
