@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See craters on the moon for less — $50 saving off these astronomy binoculars in this Prime Day in October deal](https://www.space.com/stargazing/skywatching-kit/see-craters-on-the-moon-for-less-50-dollar-saving-off-these-astronomy-binoculars-in-this-prime-day-in-october-deal)
-- [These 10 underrated space games flew under the radar, but they deserve your attention](https://www.space.com/entertainment/space-games/underrated-space-games)
-- [&#39;Project Hail Mary&#39;: Release date, plot, cast, and everything we know about Ryan Gosling&#39;s mission to save the world](https://www.space.com/entertainment/space-movies-shows/project-hail-mary-release-date-plot-cast-and-everything-we-know-about-ryan-goslings-mission-to-save-the-world)
-- [October&#39;s full Harvest Moon: See breathtaking photos of 1st supermoon of 2025](https://www.space.com/stargazing/see-breathtaking-photos-of-full-harvest-moon-supermoon-october-2025)
-- [xAI hires former Morgan Stanley banker Anthony Armstrong as CFO](https://techcrunch.com/2025/10/07/xai-hires-former-morgan-stanley-banker-anthony-armstrong-as-cfo/)
+- [Bring the cosmos into your home with a massive 33% off this stunning Pococo Galaxy Star Projector](https://www.space.com/stargazing/skywatching-kit/bring-the-cosmos-into-your-home-with-a-massive-33-percent-off-this-stunning-pococo-galaxy-star-projector)
+- [Why is humanity obsessed with aliens? Q&amp;A with &#39;First Contact&#39; author Becky Ferreira](https://www.space.com/entertainment/space-books/why-is-humanity-obsessed-with-aliens-q-and-a-with-first-contact-author-becky-ferreira)
+- [California bans loud commercials on Netflix, Hulu, and other streaming services](https://techcrunch.com/2025/10/07/california-bans-loud-commercials-on-netflix-hulu-and-other-streaming-services/)
+- [Alternative app store AltStore raises $6M, connects with the fediverse](https://techcrunch.com/2025/10/07/alternative-app-store-altstore-raises-6m-connects-with-the-fediverse/)
+- [Security bug in India’s income tax portal exposed taxpayers’ sensitive data](https://techcrunch.com/2025/10/07/security-bug-in-indias-income-tax-portal-exposed-taxpayers-sensitive-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
