@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google launches its AI vibe-coding app Opal in 15 more countries](https://techcrunch.com/2025/10/07/google-launches-its-ai-vibe-coding-app-opal-in-15-more-countries/)
+- [How Otter.ai’s CEO is pushing the company to be more than just a meeting scribe](https://techcrunch.com/2025/10/07/how-otter-ais-ceo-is-pushing-the-company-to-be-more-than-just-a-meeting-scribe/)
 - [Watch Blue Origin launch its 15th space tourism mission on Oct. 8](https://www.space.com/space-exploration/private-spaceflight/blue-origin-ns-36-space-tourism-launch-webcast)
 - [Tesla reveals slightly cheaper ‘standard’ versions of the Model 3 and Model Y](https://techcrunch.com/2025/10/07/tesla-reveals-slightly-cheaper-standard-versions-of-the-model-3-and-model-y/)
 - [X splits Verified Organizations into ‘Premium Business’ and ‘Premium Organizations’](https://techcrunch.com/2025/10/07/x-splits-verified-organizations-into-premium-business-and-premium-organizations/)
-- [Save $100 in less than 12 Parsecs! Millennium Falcon Lego Star Wars set is cheaper in this anti-Prime Day deal on Walmart](https://www.space.com/entertainment/save-100-dollars-in-less-than-12-parsecs-millennium-falcon-lego-star-wars-set-is-cheaper-in-this-anti-prime-day-deal-on-walmart)
-- [Facebook updates its algorithm to give users more control over which videos they see](https://techcrunch.com/2025/10/07/facebook-updates-its-algorithm-to-give-users-more-control-over-which-videos-they-see/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
