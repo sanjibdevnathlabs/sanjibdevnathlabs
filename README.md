@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save 27% on these Celestron Cometron binoculars — great stargazing for the whole family](https://www.space.com/stargazing/skywatching-kit/save-27-percent-on-these-celestron-cometron-binoculars-great-stargazing-for-the-whole-family)
+- [The final &#39;Predator: Badlands&#39; trailer welcomes you to &#39;the most dangerous planet in the universe&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-final-predator-badlands-trailer-welcomes-you-to-the-most-dangerous-planet-in-the-universe-video)
 - [China is developing ways to de-orbit space junk. Should we be worried?](https://www.space.com/space-exploration/satellites/china-is-developing-ways-to-de-orbit-space-junk-should-we-be-worried)
 - [SpaceX launches 28 Starlink satellites from Florida, lands rocket at sea](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-10-59-asog)
 - [Deloitte goes all in on AI — despite having to issue a hefty refund for use of AI](https://techcrunch.com/2025/10/06/deloitte-goes-all-in-on-ai-despite-having-to-issue-a-hefty-refund-for-use-of-ai/)
-- [Bill Nye the protest guy and Planetary Society hold &#39;Save NASA Science&#39; day of action on Capitol Hill](https://www.space.com/space-exploration/bill-nye-the-protest-guy-and-the-planetary-society-hold-save-nasa-science-day-of-action-on-capitol-hill)
-- [Lucid Motors sets record as Gravity sales pick up and tax credit expires](https://techcrunch.com/2025/10/06/lucid-motors-sets-record-as-gravity-sales-pick-up-and-tax-credit-expires/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
