@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X splits Verified Organizations into ‘Premium Business’ and ‘Premium Organizations’](https://techcrunch.com/2025/10/07/x-splits-verified-organizations-into-premium-business-and-premium-organizations/)
+- [Save $100 in less than 12 Parsecs! Millennium Falcon Lego Star Wars set is cheaper in this anti-Prime Day deal on Walmart](https://www.space.com/entertainment/save-100-dollars-in-less-than-12-parsecs-millennium-falcon-lego-star-wars-set-is-cheaper-in-this-anti-prime-day-deal-on-walmart)
+- [Facebook updates its algorithm to give users more control over which videos they see](https://techcrunch.com/2025/10/07/facebook-updates-its-algorithm-to-give-users-more-control-over-which-videos-they-see/)
 - [ICE bought vehicles equipped with fake cell towers to spy on phones](https://techcrunch.com/2025/10/07/ice-bought-vehicles-equipped-with-fake-cell-towers-to-spy-on-phones/)
 - [This anti-Prime Day camera deal gives $140 off the Fujifilm X-T5 with lens bundle](https://www.space.com/stargazing/skywatching-kit/this-anti-prime-day-camera-deal-gives-usd140-off-the-fujifilm-x-t5-with-lens-bundle)
-- [Mastodon is taking cues from Bluesky with plans for its own starter ‘Packs’](https://techcrunch.com/2025/10/07/mastodon-is-taking-cues-from-bluesky-with-plans-for-its-own-starter-packs/)
-- [Only $80, this beginner telescope will have you star-hopping in no time](https://www.space.com/stargazing/skywatching-kit/only-80-dollars-this-beginner-telescope-will-have-you-star-hopping-in-no-time)
-- [Anthropic plans to open India office, eyes tie-up with billionaire Ambani](https://techcrunch.com/2025/10/07/anthropic-plans-to-open-india-office-eyes-tie-up-with-billionaire-ambani/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
