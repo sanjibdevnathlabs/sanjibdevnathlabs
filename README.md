@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Get stunning views of the moon for less with $108 off this Celestron telescope](https://www.space.com/stargazing/skywatching-kit/get-stunning-views-of-the-moon-for-less-with-usd108-off-this-celestron-telescope)
-- [Google’s virtual try-on shopping tool expands to more countries, now lets you try on shoes](https://techcrunch.com/2025/10/08/googles-virtual-try-on-shopping-tool-expands-to-more-countries-now-lets-you-try-on-shoes/)
-- [Get a closer view of comet Lemmon and save money — 20% off the Celestron Inspire 100AZ](https://www.space.com/stargazing/skywatching-kit/get-a-closer-view-of-comet-lemmon-and-save-money-20-percent-off-the-celestron-inspire-100az)
-- [Blue Origin launches 6 &#39;Space Nomads,&#39; including mystery passenger, on suborbital space tourist flight &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/blue-origin-launches-space-nomads-ns-36-space-tourists-flight)
-- [Unveiling the next wave of Startup Battlefield 200 VC judges at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/08/unveiling-the-next-wave-of-startup-battlefield-200-vc-judges-at-techcrunch-disrupt-2025/)
+- [Bounce introduces a tool to move your Mastodon account to Bluesky](https://techcrunch.com/2025/10/08/bounces-new-version-will-let-users-move-from-mastodon-to-bluesky/)
+- [I can see these Prime Day telescope deals are still active but they won&#39;t last forever](https://www.space.com/stargazing/skywatching-kit/i-can-see-these-prime-day-telescope-deals-are-still-active-but-they-wont-last-forever)
+- [In space, everyone can hear you scream: Why sound design was &#39;Alien: Earth&#39;s breakout star](https://www.space.com/entertainment/space-movies-shows/in-space-everyone-can-hear-you-scream-why-sound-design-was-alien-earths-breakout-star)
+- [Ganiga will showcase its waste-sorting robots at TechCrunch Disrupt](https://techcrunch.com/2025/10/08/ganiga-will-showcase-its-waste-sorting-robots-at-techcrunch-disrupt/)
+- [Lego Grogu with Hover Pram is discounted ahead of next year&#39;s The Mandalorian movie, but not for long](https://www.space.com/entertainment/lego-grogu-with-hover-pram-is-discounted-ahead-of-next-years-the-mandalorian-movie-but-not-for-long)
 <!-- BLOG-POST-LIST:END -->
 
 ---
