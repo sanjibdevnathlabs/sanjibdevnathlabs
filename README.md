@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bounce introduces a tool to move your Mastodon account to Bluesky](https://techcrunch.com/2025/10/08/bounces-new-version-will-let-users-move-from-mastodon-to-bluesky/)
-- [I can see these Prime Day telescope deals are still active but they won&#39;t last forever](https://www.space.com/stargazing/skywatching-kit/i-can-see-these-prime-day-telescope-deals-are-still-active-but-they-wont-last-forever)
-- [In space, everyone can hear you scream: Why sound design was &#39;Alien: Earth&#39;s breakout star](https://www.space.com/entertainment/space-movies-shows/in-space-everyone-can-hear-you-scream-why-sound-design-was-alien-earths-breakout-star)
-- [Ganiga will showcase its waste-sorting robots at TechCrunch Disrupt](https://techcrunch.com/2025/10/08/ganiga-will-showcase-its-waste-sorting-robots-at-techcrunch-disrupt/)
-- [Lego Grogu with Hover Pram is discounted ahead of next year&#39;s The Mandalorian movie, but not for long](https://www.space.com/entertainment/lego-grogu-with-hover-pram-is-discounted-ahead-of-next-years-the-mandalorian-movie-but-not-for-long)
+- [Amazon Pharmacy is launching vending machines for prescription drugs](https://techcrunch.com/2025/10/08/amazon-pharmacy-is-launching-vending-machines-for-prescription-drugs/)
+- [Here’s the tech powering ICE’s deportation crackdown](https://techcrunch.com/2025/10/08/heres-the-tech-powering-ices-deportation-crackdown/)
+- [Zendesk says its new AI agent can solve 80% of support issues](https://techcrunch.com/2025/10/08/zendesk-says-its-new-ai-agent-can-solve-80-of-support-issues/)
+- [H-1B visa changes explained: The loophole costing startups talent](https://techcrunch.com/video/h-1b-visa-changes-explained-the-loophole-costing-startups-talent/)
+- [New comet Lemmon could shine bright enough to be seen with the naked eye this October](https://www.space.com/astronomy/comets/new-comet-lemmon-could-shine-bright-enough-to-be-seen-with-the-naked-eye-this-october)
 <!-- BLOG-POST-LIST:END -->
 
 ---
