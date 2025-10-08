@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Charles Schwab backs Singapore’s Qapita, a Carta challenger](https://techcrunch.com/2025/10/08/charles-schwab-backs-singapores-qapita-in-26-5m-bet-to-challenge-carta-with-u-s-private-market-platform/)
+- [It&#39;s your last chance to save $40 off this fun, beginner-friendly DJI Neo drone](https://www.space.com/stargazing/skywatching-kit/its-your-last-chance-to-save-usd40-off-this-fun-beginner-friendly-dji-neo-drone)
 - [6,000 and counting: The next 30 years in the search for exoplanets](https://www.space.com/astronomy/exoplanets/6-000-and-counting-the-next-30-years-in-the-search-for-exoplanets)
 - [We think this DJI drone is the best for beginners — it is now 20% cheaper for Prime Big Deal Days](https://www.space.com/technology/drones/we-think-this-dji-drone-is-the-best-for-beginners-it-is-now-20-percent-cheaper-for-prime-big-deal-days)
 - [Embrace the Dark Side with $80 off this spectacular Star Wars Ahsoka electronic lightsaber](https://www.space.com/stargazing/skywatching-kit/embrace-the-dark-side-with-usd80-off-this-spectacular-star-wars-ahsoka-electronic-lightsaber)
-- [Watch Spider-Man, Ghostbusters and other cult Sci-Fi hits for less — STARZ streaming deal as low as $2.50 a month](https://www.space.com/entertainment/starz-is-as-little-as-2-dollars-50-a-month-save-big-streaming-deal)
-- [SpaceX Falcon 9 rocket launches 28 Starlink satellites on its 29th-ever liftoff](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-launch-group-11-17-ocisly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
