@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s Nick Turley on transforming ChatGPT into an operating system](https://techcrunch.com/2025/10/08/openais-nick-turley-on-transforming-chatgpt-into-an-operating-system/)
+- [Australian nanosatellite snaps 1st selfie in space before tracking cosmic gamma-ray bursts &lpar;photo&rpar;](https://www.space.com/space-exploration/satellites/australian-nanosatellite-snaps-1st-selfie-in-space-before-tracking-cosmic-gamma-ray-bursts-photo)
 - [Chinese space station astronauts feast on spicy lamb, mooncakes for mid-autumn festival &lpar;video&rpar;](https://www.space.com/space-exploration/chinese-space-station-astronauts-feast-on-spicy-lamb-mooncakes-for-mid-autumn-festival-video)
 - [Sora’s first week on iOS in the US was nearly as big as ChatGPT’s](https://techcrunch.com/2025/10/08/soras-first-week-on-ios-in-the-us-was-nearly-as-big-as-chatgpts/)
 - [Elon Musk will settle $128M lawsuit with former Twitter execs](https://techcrunch.com/2025/10/08/elon-musk-will-settle-128m-lawsuit-with-former-twitter-execs/)
-- [1,000 Martian dust devils! European orbiters track Red Planet&#39;s tiny tornadoes](https://www.space.com/astronomy/mars/european-mars-orbiters-red-planet-dust-devils-map)
-- [Amazon Pharmacy is launching vending machines for prescription drugs](https://techcrunch.com/2025/10/08/amazon-pharmacy-is-launching-vending-machines-for-prescription-drugs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
