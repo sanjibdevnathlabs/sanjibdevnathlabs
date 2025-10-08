@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here’s what it’s really like to appear on billionaire VC Tim Draper’s ‘Meet the Drapers’ pitch show](https://techcrunch.com/2025/10/08/heres-what-its-really-like-to-appear-on-billionaire-vc-tim-drapers-meet-the-drapers-pitch-show/)
 - [Not all alphas: Mars crews should be a mix of personality types, study suggests](https://www.space.com/astronomy/mars/not-all-alphas-mars-crews-should-be-a-mix-of-personality-types-study-suggests)
 - [OpenAI’s Nick Turley on transforming ChatGPT into an operating system](https://techcrunch.com/2025/10/08/openais-nick-turley-on-transforming-chatgpt-into-an-operating-system/)
 - [Australian nanosatellite snaps 1st selfie in space before tracking cosmic gamma-ray bursts &lpar;photo&rpar;](https://www.space.com/space-exploration/satellites/australian-nanosatellite-snaps-1st-selfie-in-space-before-tracking-cosmic-gamma-ray-bursts-photo)
 - [Chinese space station astronauts feast on spicy lamb, mooncakes for mid-autumn festival &lpar;video&rpar;](https://www.space.com/space-exploration/chinese-space-station-astronauts-feast-on-spicy-lamb-mooncakes-for-mid-autumn-festival-video)
-- [Sora’s downloads in its first week was nearly as big as ChatGPT’s launch](https://techcrunch.com/2025/10/08/soras-downloads-in-its-first-week-was-nearly-as-big-as-chatgpts-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
