@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Falcon 9 rocket launches 28 Starlink satellites on its 29th-ever liftoff](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-launch-group-11-17-ocisly)
+- [Revolut aims to take on Indian banks and their ‘criminal’ forex fees](https://techcrunch.com/2025/10/07/revolut-aims-to-take-on-indian-banks-and-their-criminal-forex-fees/)
 - [You can’t libel the dead. But that doesn’t mean you should deepfake them.](https://techcrunch.com/2025/10/07/you-cant-libel-the-dead-but-that-doesnt-mean-you-should-deepfake-them/)
 - [European Mars orbiter spies interstellar comet 3I/ATLAS zooming past Red Planet &lpar;photos&rpar;](https://www.space.com/astronomy/comets/european-mars-orbiter-spies-interstellar-comet-3i-atlas-zooming-past-red-planet-photos)
 - [Trump’s DOE proposes cutting billions in grants for GM, Ford, and lots of startups](https://techcrunch.com/2025/10/07/trumps-doe-proposes-cutting-billions-in-grants-for-gm-ford-and-lots-of-startups/)
-- [Wall Street analysts explain how AMD’s own stock will pay for OpenAI’s billions in chip purchases](https://techcrunch.com/2025/10/07/wall-street-analysts-explain-how-amds-own-stock-will-pay-for-openais-billions-in-chip-purchases/)
-- [The search for life on Venus just took another turn, thanks to JWST&#39;s brown dwarf discovery](https://www.space.com/astronomy/james-webb-space-telescope/the-search-for-life-on-venus-just-took-another-turn-thanks-to-jwsts-brown-dwarf-discovery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
