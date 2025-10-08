@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Not all alphas: Mars crews should be a mix of personality types, study suggests](https://www.space.com/astronomy/mars/not-all-alphas-mars-crews-should-be-a-mix-of-personality-types-study-suggests)
 - [OpenAI’s Nick Turley on transforming ChatGPT into an operating system](https://techcrunch.com/2025/10/08/openais-nick-turley-on-transforming-chatgpt-into-an-operating-system/)
 - [Australian nanosatellite snaps 1st selfie in space before tracking cosmic gamma-ray bursts &lpar;photo&rpar;](https://www.space.com/space-exploration/satellites/australian-nanosatellite-snaps-1st-selfie-in-space-before-tracking-cosmic-gamma-ray-bursts-photo)
 - [Chinese space station astronauts feast on spicy lamb, mooncakes for mid-autumn festival &lpar;video&rpar;](https://www.space.com/space-exploration/chinese-space-station-astronauts-feast-on-spicy-lamb-mooncakes-for-mid-autumn-festival-video)
-- [Sora’s first week on iOS in the US was nearly as big as ChatGPT’s](https://techcrunch.com/2025/10/08/soras-first-week-on-ios-in-the-us-was-nearly-as-big-as-chatgpts/)
-- [Elon Musk will settle $128M lawsuit with former Twitter execs](https://techcrunch.com/2025/10/08/elon-musk-will-settle-128m-lawsuit-with-former-twitter-execs/)
+- [Sora’s downloads in its first week was nearly as big as ChatGPT’s launch](https://techcrunch.com/2025/10/08/soras-downloads-in-its-first-week-was-nearly-as-big-as-chatgpts-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
