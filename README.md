@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SoftBank bulks up its robotics portfolio with ABB Group’s robotics unit](https://techcrunch.com/2025/10/08/softbank-bulks-up-its-robotics-portfolio-with-abb-groups-robotics-unit/)
-- [From courtside to code: Tristan Thompson on AI, sports, and startups at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/08/tristan-thompson-on-ai-sports-and-startups-at-techcrunch-disrupt-2025/)
-- [Google launches extensions system for its command-line coding tool](https://techcrunch.com/2025/10/08/google-launches-extensions-system-for-its-command-line-coding-tool/)
-- [The moon meets up with the Seven Sisters this week. Here&#39;s how to see it](https://www.space.com/stargazing/the-moon-meets-up-with-the-seven-sisters-this-week-heres-how-to-see-it)
-- [Stay secure for less — watch rocket launches, Sci-Fi shows for 77% off with NordVPN](https://www.space.com/technology/i-think-77-percent-off-and-three-free-months-of-nordvpn-is-the-best-vpn-deal-available-for-online-security-and-streaming-on-the-go)
+- [Get stunning views of the moon for less with $108 off this Celestron telescope](https://www.space.com/stargazing/skywatching-kit/get-stunning-views-of-the-moon-for-less-with-usd108-off-this-celestron-telescope)
+- [Google’s virtual try-on shopping tool expands to more countries, now lets you try on shoes](https://techcrunch.com/2025/10/08/googles-virtual-try-on-shopping-tool-expands-to-more-countries-now-lets-you-try-on-shoes/)
+- [Get a closer view of comet Lemmon and save money — 20% off the Celestron Inspire 100AZ](https://www.space.com/stargazing/skywatching-kit/get-a-closer-view-of-comet-lemmon-and-save-money-20-percent-off-the-celestron-inspire-100az)
+- [Blue Origin launches 6 &#39;Space Nomads,&#39; including mystery passenger, on suborbital space tourist flight &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/blue-origin-launches-space-nomads-ns-36-space-tourists-flight)
+- [Unveiling the next wave of Startup Battlefield 200 VC judges at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/08/unveiling-the-next-wave-of-startup-battlefield-200-vc-judges-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
