@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Embrace the Dark Side with $80 off this spectacular Star Wars Ahsoka electronic lightsaber](https://www.space.com/stargazing/skywatching-kit/embrace-the-dark-side-with-usd80-off-this-spectacular-star-wars-ahsoka-electronic-lightsaber)
+- [Watch Spider-Man, Ghostbusters and other cult Sci-Fi hits for less — STARZ streaming deal as low as $2.50 a month](https://www.space.com/entertainment/starz-is-as-little-as-2-dollars-50-a-month-save-big-streaming-deal)
 - [SpaceX Falcon 9 rocket launches 28 Starlink satellites on its 29th-ever liftoff](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-launch-group-11-17-ocisly)
 - [Revolut aims to take on Indian banks and their ‘criminal’ forex fees](https://techcrunch.com/2025/10/07/revolut-aims-to-take-on-indian-banks-and-their-criminal-forex-fees/)
 - [You can’t libel the dead. But that doesn’t mean you should deepfake them.](https://techcrunch.com/2025/10/07/you-cant-libel-the-dead-but-that-doesnt-mean-you-should-deepfake-them/)
-- [European Mars orbiter spies interstellar comet 3I/ATLAS zooming past Red Planet &lpar;photos&rpar;](https://www.space.com/astronomy/comets/european-mars-orbiter-spies-interstellar-comet-3i-atlas-zooming-past-red-planet-photos)
-- [Trump’s DOE proposes cutting billions in grants for GM, Ford, and lots of startups](https://techcrunch.com/2025/10/07/trumps-doe-proposes-cutting-billions-in-grants-for-gm-ford-and-lots-of-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
