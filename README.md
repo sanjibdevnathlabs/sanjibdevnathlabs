@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Near-Earth asteroid zooms past Antarctica | Space photo of the day for Oct. 8, 2025](https://www.space.com/astronomy/asteroids/near-earth-asteroid-zooms-past-antarctica-space-photo-of-the-day-for-oct-8-2025)
+- [Get this Disney+ and Hulu streaming bundle — Save 20% and beat the price hike on Sci-Fi shows and movies](https://www.space.com/entertainment/get-this-disney-and-hulu-streaming-bundle-save-20-percent-and-beat-the-price-hike-on-sci-fi-shows-and-movies)
 - [Charles Schwab backs Singapore’s Qapita, a Carta challenger](https://techcrunch.com/2025/10/08/charles-schwab-backs-singapores-qapita-in-26-5m-bet-to-challenge-carta-with-u-s-private-market-platform/)
 - [It&#39;s your last chance to save $40 off this fun, beginner-friendly DJI Neo drone](https://www.space.com/stargazing/skywatching-kit/its-your-last-chance-to-save-usd40-off-this-fun-beginner-friendly-dji-neo-drone)
 - [6,000 and counting: The next 30 years in the search for exoplanets](https://www.space.com/astronomy/exoplanets/6-000-and-counting-the-next-30-years-in-the-search-for-exoplanets)
-- [We think this DJI drone is the best for beginners — it is now 20% cheaper for Prime Big Deal Days](https://www.space.com/technology/drones/we-think-this-dji-drone-is-the-best-for-beginners-it-is-now-20-percent-cheaper-for-prime-big-deal-days)
-- [Embrace the Dark Side with $80 off this spectacular Star Wars Ahsoka electronic lightsaber](https://www.space.com/stargazing/skywatching-kit/embrace-the-dark-side-with-usd80-off-this-spectacular-star-wars-ahsoka-electronic-lightsaber)
 <!-- BLOG-POST-LIST:END -->
 
 ---
