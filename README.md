@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sora’s first week on iOS in the US was nearly as big as ChatGPT’s](https://techcrunch.com/2025/10/08/soras-first-week-on-ios-in-the-us-was-nearly-as-big-as-chatgpts/)
+- [Elon Musk will settle $128M lawsuit with former Twitter execs](https://techcrunch.com/2025/10/08/elon-musk-will-settle-128m-lawsuit-with-former-twitter-execs/)
+- [1,000 Martian dust devils! European orbiters track Red Planet&#39;s tiny tornadoes](https://www.space.com/astronomy/mars/european-mars-orbiters-red-planet-dust-devils-map)
 - [Amazon Pharmacy is launching vending machines for prescription drugs](https://techcrunch.com/2025/10/08/amazon-pharmacy-is-launching-vending-machines-for-prescription-drugs/)
 - [Here’s the tech powering ICE’s deportation crackdown](https://techcrunch.com/2025/10/08/heres-the-tech-powering-ices-deportation-crackdown/)
-- [Zendesk says its new AI agent can solve 80% of support issues](https://techcrunch.com/2025/10/08/zendesk-says-its-new-ai-agent-can-solve-80-of-support-issues/)
-- [H-1B visa changes explained: The loophole costing startups talent](https://techcrunch.com/video/h-1b-visa-changes-explained-the-loophole-costing-startups-talent/)
-- [New comet Lemmon could shine bright enough to be seen with the naked eye this October](https://www.space.com/astronomy/comets/new-comet-lemmon-could-shine-bright-enough-to-be-seen-with-the-naked-eye-this-october)
 <!-- BLOG-POST-LIST:END -->
 
 ---
