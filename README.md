@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta adds Hindi and Portuguese support for its AI translation feature for Reels](https://techcrunch.com/2025/10/09/meta-adds-hindi-and-portuguese-support-for-its-ai-translation-feature-for-reels/)
-- [Sora hit 1M downloads faster than ChatGPT](https://techcrunch.com/2025/10/09/sora-hit-1m-downloads-faster-than-chatgpt/)
-- [Duolingo says it will ‘never’ open a San Francisco office](https://techcrunch.com/2025/10/09/duolingo-says-it-will-never-open-a-san-francisco-office/)
-- [Navigating the next frontier at TechCrunch Disrupt 2025: Where investors see opportunity in space](https://techcrunch.com/2025/10/09/navigating-the-next-frontier-at-techcrunch-disrupt-2025-where-investors-see-opportunity-in-space/)
-- [Knapsack picks up $10M to help bridge the gap between design and engineering teams](https://techcrunch.com/2025/10/09/knapsack-picks-up-10m-to-help-bridge-the-gap-between-design-and-engineering-teams/)
+- [How to watch &#39;Invasion&#39; season 3 online and from anywhere](https://www.space.com/entertainment/space-movies-shows/how-to-watch-invasion-season-3-online-and-from-anywhere)
+- [Netflix is letting users play games on their TV screens](https://techcrunch.com/2025/10/09/netflix-is-letting-users-play-games-on-their-tv-screens/)
+- [Figma partners with Google to add Gemini AI to its design platform](https://techcrunch.com/2025/10/09/figma-partners-with-google-to-add-gemini-ai-to-its-design-platform/)
+- [Datacurve raises $15 million to take on ScaleAI](https://techcrunch.com/2025/10/09/datacurve-raises-15-million-to-take-on-scaleai/)
+- [Watch SpaceX launch 24 of Amazon&#39;s Project Kuiper internet satellites to orbit today](https://www.space.com/space-exploration/launches-spacecraft/spacex-amazon-project-kuiper-satellite-launch-kf-03)
 <!-- BLOG-POST-LIST:END -->
 
 ---
