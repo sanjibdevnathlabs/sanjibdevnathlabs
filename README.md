@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to watch &#39;Invasion&#39; season 3 online and from anywhere](https://www.space.com/entertainment/space-movies-shows/how-to-watch-invasion-season-3-online-and-from-anywhere)
-- [Netflix is letting users play games on their TV screens](https://techcrunch.com/2025/10/09/netflix-is-letting-users-play-games-on-their-tv-screens/)
-- [Figma partners with Google to add Gemini AI to its design platform](https://techcrunch.com/2025/10/09/figma-partners-with-google-to-add-gemini-ai-to-its-design-platform/)
-- [Datacurve raises $15 million to take on ScaleAI](https://techcrunch.com/2025/10/09/datacurve-raises-15-million-to-take-on-scaleai/)
-- [Watch SpaceX launch 24 of Amazon&#39;s Project Kuiper internet satellites to orbit today](https://www.space.com/space-exploration/launches-spacecraft/spacex-amazon-project-kuiper-satellite-launch-kf-03)
+- [Stoke Space’s $510M round shows the future of launch belongs to defense](https://techcrunch.com/2025/10/09/stoke-spaces-510m-round-shows-the-future-of-launch-belongs-to-defense/)
+- [The total solar eclipse 2024 tricked birds into singing a &#39;false dawn chorus&#39;](https://www.space.com/stargazing/solar-eclipses/the-total-solar-eclipse-2024-tricked-birds-into-singing-a-false-dawn-chorus)
+- [Intel unveils new processor powered by its 18A semiconductor tech](https://techcrunch.com/2025/10/09/intel-unveils-new-processor-powered-by-its-18a-semiconductor-tech/)
+- [Italian businessman’s phone reportedly targeted with Paragon spyware](https://techcrunch.com/2025/10/09/italian-businessmans-phone-reportedly-targeted-with-paragon-spyware/)
+- [‘Dozens’ of organizations had data stolen in Oracle-linked hacks](https://techcrunch.com/2025/10/09/dozens-of-organizations-had-data-stolen-in-oracle-linked-hacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
