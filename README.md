@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflection raises $2B to be America’s open frontier AI lab, challenging DeepSeek](https://techcrunch.com/2025/10/09/reflection-raises-2b-to-be-americas-open-frontier-ai-lab-challenging-deepseek/)
 - [Discord data breach affects at least 70,000 users](https://techcrunch.com/2025/10/09/discord-suffers-data-breach-impacting-at-least-70000-users/)
 - [Cosmic baboon rampages through deep space in gorgeous new nebula photo](https://www.space.com/stargazing/astrophotography/cosmic-baboon-rampages-through-deep-space-in-gorgeous-new-nebula-photo-october-2025)
 - [Sora copycats flooded Apple’s App Store, and some still remain](https://techcrunch.com/2025/10/09/sora-copycats-flooded-apples-app-store-and-some-still-remain/)
 - [SpaceX moves giant Super Heavy booster to pad ahead of Starship Flight 11 launch &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-giant-super-heavy-booster-to-pad-ahead-of-starship-flight-11-launch-photos)
-- [Stoke Space’s $510M round shows the future of launch belongs to defense](https://techcrunch.com/2025/10/09/stoke-spaces-510m-round-shows-the-future-of-launch-belongs-to-defense/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
