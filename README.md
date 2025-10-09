@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SoundCloud gets more social by adding a way to see the songs your friends like](https://techcrunch.com/2025/10/09/soundcloud-gets-more-social-by-adding-a-way-to-see-the-songs-your-friends-like/)
+- [How AI is shaping the future of mobility with Uber’s CPO and Nuro’s co-founder at Techcrunch Disrupt 2025](https://techcrunch.com/2025/10/09/how-ai-is-shaping-the-future-of-mobility-with-ubers-cpo-and-nuros-co-founder-at-techcrunch-disrupt-2025/)
+- [Infrared and informed: The ultimate James Webb Space Telescope quiz](https://www.space.com/astronomy/james-webb-space-telescope/infrared-and-informed-the-ultimate-james-webb-space-telescope-quiz)
+- [China tightens export controls on rare earth minerals once again](https://techcrunch.com/2025/10/09/china-tightens-export-controls-on-rare-earth-minerals-once-again/)
 - [A new rocket, sea launches and more: Chinese company CAS Space is thinking big](https://www.space.com/space-exploration/launches-spacecraft/a-new-rocket-sea-launches-and-more-chinese-company-cas-space-is-thinking-big)
-- [NASA&#39;s Lunar Electric Rover rolls across Arizona | Space photo of the day for Oct. 9, 2025](https://www.space.com/technology/nasas-lunar-electric-rover-rolls-across-arizona-space-photo-of-the-day-for-oct-9-2025)
-- [Tesla’s ‘Full Self-Driving’ software under investigation for traffic safety violations](https://techcrunch.com/2025/10/09/teslas-full-self-driving-software-under-investigation-for-traffic-safety-violations/)
-- [Google ramps up its ‘AI in the workplace’ ambitions with Gemini Enterprise](https://techcrunch.com/2025/10/09/google-ramps-up-its-ai-in-the-workplace-ambitions-with-gemini-enterprise/)
-- [Prime Day in October is over, but this epic Lego Star Wars deal is still live](https://www.space.com/technology/prime-day-in-october-is-over-but-this-epic-lego-star-wars-deal-is-still-live)
 <!-- BLOG-POST-LIST:END -->
 
 ---
