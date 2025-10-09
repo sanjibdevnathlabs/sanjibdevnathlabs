@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A new rocket, sea launches and more: Chinese company CAS Space is thinking big](https://www.space.com/space-exploration/launches-spacecraft/a-new-rocket-sea-launches-and-more-chinese-company-cas-space-is-thinking-big)
+- [NASA&#39;s Lunar Electric Rover rolls across Arizona | Space photo of the day for Oct. 9, 2025](https://www.space.com/technology/nasas-lunar-electric-rover-rolls-across-arizona-space-photo-of-the-day-for-oct-9-2025)
 - [Tesla’s ‘Full Self-Driving’ software under investigation for traffic safety violations](https://techcrunch.com/2025/10/09/teslas-full-self-driving-software-under-investigation-for-traffic-safety-violations/)
 - [Google ramps up its ‘AI in the workplace’ ambitions with Gemini Enterprise](https://techcrunch.com/2025/10/09/google-ramps-up-its-ai-in-the-workplace-ambitions-with-gemini-enterprise/)
 - [Prime Day in October is over, but this epic Lego Star Wars deal is still live](https://www.space.com/technology/prime-day-in-october-is-over-but-this-epic-lego-star-wars-deal-is-still-live)
-- [DoorDash to use Serve Robotics’ sidewalk robots for deliveries in Los Angeles](https://techcrunch.com/2025/10/09/doordash-to-use-serve-robotics-sidewalk-robots-for-deliveries-in-los-angeles/)
-- [Blast off with the &#39;Space Gal&#39; Emily Calandrelli for Arm and Hammer&#39;s Baking Soda Rocket Day](https://www.space.com/astronomy/earth/blast-off-with-the-space-gal-emily-calandrelli-for-arm-and-hammers-baking-soda-rocket-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
