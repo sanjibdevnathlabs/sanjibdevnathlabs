@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Network Layers Model &lpar;Networking Basics&rpar; - Computerphile](https://www.youtube.com/watch?v=eelvWAURfdI)
 - [THIS is losing you MILLIONS!!](https://www.youtube.com/shorts/F2pG7EJ0lS4)
 - [OpenAI just made your entire tech stack obsolete...](https://www.youtube.com/watch?v=91aH8jsG4cc)
 - [n8n Now Runs My ENTIRE Homelab](https://www.youtube.com/watch?v=budTmdQfXYU)
 - [Alibaba is going all in on Qwen…](https://www.youtube.com/watch?v=SquU4Bpc73Y)
-- [OpenAI’s new slop machine is open for business…](https://www.youtube.com/watch?v=hkSj-QapfZo)
 <!-- YOUTUBE:END -->
 
 ---
