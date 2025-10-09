@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX moves giant Super Heavy booster to pad ahead of Starship Flight 11 launch &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-giant-super-heavy-booster-to-pad-ahead-of-starship-flight-11-launch-photos)
 - [Stoke Space’s $510M round shows the future of launch belongs to defense](https://techcrunch.com/2025/10/09/stoke-spaces-510m-round-shows-the-future-of-launch-belongs-to-defense/)
 - [The total solar eclipse 2024 tricked birds into singing a &#39;false dawn chorus&#39;](https://www.space.com/stargazing/solar-eclipses/the-total-solar-eclipse-2024-tricked-birds-into-singing-a-false-dawn-chorus)
 - [Intel unveils new processor powered by its 18A semiconductor tech](https://techcrunch.com/2025/10/09/intel-unveils-new-processor-powered-by-its-18a-semiconductor-tech/)
 - [Italian businessman’s phone reportedly targeted with Paragon spyware](https://techcrunch.com/2025/10/09/italian-businessmans-phone-reportedly-targeted-with-paragon-spyware/)
-- [‘Dozens’ of organizations had data stolen in Oracle-linked hacks](https://techcrunch.com/2025/10/09/dozens-of-organizations-had-data-stolen-in-oracle-linked-hacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
