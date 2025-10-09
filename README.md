@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SoundCloud gets more social by adding a way to see the songs your friends like](https://techcrunch.com/2025/10/09/soundcloud-gets-more-social-by-adding-a-way-to-see-the-songs-your-friends-like/)
-- [How AI is shaping the future of mobility with Uber’s CPO and Nuro’s co-founder at Techcrunch Disrupt 2025](https://techcrunch.com/2025/10/09/how-ai-is-shaping-the-future-of-mobility-with-ubers-cpo-and-nuros-co-founder-at-techcrunch-disrupt-2025/)
-- [Infrared and informed: The ultimate James Webb Space Telescope quiz](https://www.space.com/astronomy/james-webb-space-telescope/infrared-and-informed-the-ultimate-james-webb-space-telescope-quiz)
-- [China tightens export controls on rare earth minerals once again](https://techcrunch.com/2025/10/09/china-tightens-export-controls-on-rare-earth-minerals-once-again/)
-- [A new rocket, sea launches and more: Chinese company CAS Space is thinking big](https://www.space.com/space-exploration/launches-spacecraft/a-new-rocket-sea-launches-and-more-chinese-company-cas-space-is-thinking-big)
+- [Sora hit 1M downloads faster than ChatGPT](https://techcrunch.com/2025/10/09/sora-hit-1m-downloads-faster-than-chatgpt/)
+- [Duolingo says it will ‘never’ open a San Francisco office](https://techcrunch.com/2025/10/09/duolingo-says-it-will-never-open-a-san-francisco-office/)
+- [Navigating the next frontier at TechCrunch Disrupt 2025: Where investors see opportunity in space](https://techcrunch.com/2025/10/09/navigating-the-next-frontier-at-techcrunch-disrupt-2025-where-investors-see-opportunity-in-space/)
+- [Knapsack picks up $10M to help bridge the gap between design and engineering teams](https://techcrunch.com/2025/10/09/knapsack-picks-up-10m-to-help-bridge-the-gap-between-design-and-engineering-teams/)
+- [This distributed data storage startup wants to take on Big Cloud](https://techcrunch.com/2025/10/09/this-distributed-data-storage-startup-wants-to-take-on-big-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
