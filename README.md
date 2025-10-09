@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blast off with the &#39;Space Gal&#39; Emily Calandrelli for Arm and Hammer&#39;s Baking Soda Rocket Day](https://www.space.com/astronomy/earth/blast-off-with-the-space-gal-emily-calandrelli-for-arm-and-hammers-baking-soda-rocket-day)
 - [How one scientist&#39;s wide-eyed dream of giant space cities was crushed by reality](https://www.space.com/astronomy/earth/how-one-scientists-wide-eyed-dream-of-giant-space-cities-was-crushed-by-reality)
 - [Battlefield alum DevAlly raises €2M to help companies with Europe’s feisty new accessibility law](https://techcrunch.com/2025/10/09/battlefield-alum-devally-raises-e2m-to-help-companies-with-europes-feisty-new-accessibility-law/)
 - [OpenAI’s affordable ChatGPT Go plan expands to 16 new countries in Asia](https://techcrunch.com/2025/10/09/openais-affordable-chatgpt-go-plan-expands-to-16-new-countries-in-asia/)
 - [Novoloop’s upcycled plastic takes a step closer to production](https://techcrunch.com/2025/10/08/novoloops-upcycled-plastic-takes-a-step-closer-to-production/)
-- [Blue Origin rolls out powerful New Glenn rocket for testing ahead of Mars launch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-rolls-out-powerful-new-glenn-rocket-for-testing-ahead-of-mars-launch-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
