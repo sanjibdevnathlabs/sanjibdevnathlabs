@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This fleet of sungazing spacecraft could help spot &#39;space tornadoes&#39; headed towards Earth](https://www.space.com/astronomy/sun/this-fleet-of-sungazing-spacecraft-could-help-spot-space-tornadoes-headed-towards-earth)
+- [Google Chrome silences those pesky notifications](https://techcrunch.com/2025/10/10/google-chrome-silences-those-pesky-notifications/)
 - [How to find Comet Lemmon in the night sky as it brightens this October](https://www.space.com/stargazing/how-to-find-comet-lemmon-in-the-night-sky-as-it-brightens-this-october-2025)
 - [The billion-dollar infrastructure deals powering the AI boom](https://techcrunch.com/2025/10/10/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/)
 - [This is the world&#39;s 1st image of 2 black holes orbiting one another](https://www.space.com/astronomy/black-holes/astronomers-capture-first-ever-image-of-two-black-holes-orbiting-each-other)
-- [Prezent raises $30 million to acquire AI services firms — starting with founder’s other company](https://techcrunch.com/2025/10/10/prezent-raises-30-million-to-acquire-ai-services-firms-starting-with-founders-other-company/)
-- [Interstellar comet 3I/ATLAS is leaking water like a &#39;fire hose running at full blast,&#39; new study finds](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-is-leaking-water-like-a-fire-hose-running-at-full-blast-new-study-finds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
