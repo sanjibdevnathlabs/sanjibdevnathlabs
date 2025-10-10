@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Living in space isn&#39;t just a challenge for astronauts. Their families feel it, too](https://www.space.com/space-exploration/human-spaceflight/living-in-space-isnt-just-a-challenge-for-astronauts-their-families-feel-it-too)
 - [Shutdown silver lining? Your IPO review comes after investors buy in](https://techcrunch.com/2025/10/09/shutdown-silver-lining-your-ipo-review-comes-after-investors-buy-in/)
 - [Flipkart’s Super.money quietly partners with troubled Juspay as it expands its reach](https://techcrunch.com/2025/10/09/flipkarts-super-money-quietly-partners-with-with-troubled-juspay-as-it-expands-its-reach/)
 - [While OpenAI races to build AI data centers, Nadella reminds us that Microsoft already has them](https://techcrunch.com/2025/10/09/while-openai-races-to-build-ai-data-centers-nadella-reminds-us-that-microsoft-already-has-them/)
 - [Andreessen Horowitz denies report of India office, calls it ‘fake news’](https://techcrunch.com/2025/10/09/andreessen-horowitz-denies-report-of-india-office-calls-it-fake-news/)
-- [Reflection AI raises $2B to be America’s open frontier AI lab, challenging DeepSeek](https://techcrunch.com/2025/10/09/reflection-raises-2b-to-be-americas-open-frontier-ai-lab-challenging-deepseek/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
