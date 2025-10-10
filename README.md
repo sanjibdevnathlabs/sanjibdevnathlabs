@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to find Comet Lemmon in the night sky as it brightens this October](https://www.space.com/stargazing/how-to-find-comet-lemmon-in-the-night-sky-as-it-brightens-this-october-2025)
+- [The billion-dollar infrastructure deals powering the AI boom](https://techcrunch.com/2025/10/10/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/)
+- [This is the world&#39;s 1st image of 2 black holes orbiting one another](https://www.space.com/astronomy/black-holes/astronomers-capture-first-ever-image-of-two-black-holes-orbiting-each-other)
 - [Prezent raises $30 million to acquire AI services firms — starting with founder’s other company](https://techcrunch.com/2025/10/10/prezent-raises-30-million-to-acquire-ai-services-firms-starting-with-founders-other-company/)
 - [Interstellar comet 3I/ATLAS is leaking water like a &#39;fire hose running at full blast,&#39; new study finds](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-is-leaking-water-like-a-fire-hose-running-at-full-blast-new-study-finds)
-- [Best iPad apps for unleashing and exploring your creativity](https://techcrunch.com/2025/10/10/best-ipad-apps-for-unleashing-and-exploring-your-creativity/)
-- [&#39;It felt like something out of Star Trek.&#39; I got a first look at the Unistellar Envision smart binoculars &lpar;video&rpar;](https://www.space.com/stargazing/skywatching-kit/unistellar-envision-smart-binoculars-feel-like-something-out-of-star-trek-first-look-video)
-- [Homeland Security reassigns ‘hundreds’ of CISA cyber staffers to support Trump’s deportation crackdown](https://techcrunch.com/2025/10/10/homeland-security-reassigns-hundreds-of-cisa-cyber-staffers-to-support-trumps-deportation-crackdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
