@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Is there something emerging from my head?&#39; &#39;Solar Opposites&#39; season 6 clip reveals the horror of Beta Nuts &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/is-there-something-emerging-from-my-head-solar-opposites-season-6-clip-reveals-the-horror-of-beta-nuts-exclusive)
+- [Colossal &#39;hole&#39; in the sun could spark impressive auroras this weekend](https://www.space.com/stargazing/auroras/colossal-hole-in-the-sun-could-spark-impressive-auroras-this-weekend-oct-11-12-2025)
+- [Former UK Prime Minister Rishi Sunak to advise Microsoft and Anthropic](https://techcrunch.com/2025/10/10/former-uk-prime-minister-rishi-sunak-to-advise-microsoft-and-anthropic/)
 - [Investors are betting $21 billion that the energy transition isn’t going away](https://techcrunch.com/2025/10/10/investors-are-betting-21-billion-that-the-energy-transition-isnt-going-away/)
 - [ISS astronaut captures amazing video of SpaceX Starlink satellite train cruising above auroras](https://www.space.com/space-exploration/international-space-station/iss-astronaut-captures-amazing-video-of-spacex-starlink-satellite-train-cruising-above-auroras)
-- [UK slaps Google Search with special market status, making way for stricter regulations](https://techcrunch.com/2025/10/10/uk-slaps-google-search-with-special-market-status-making-way-for-stricter-regulations/)
-- [The world is just not quite ready for humanoids yet](https://techcrunch.com/2025/10/10/the-world-is-just-not-quite-ready-for-humanoids-yet/)
-- [JWST compares gravitational lensing | Space photo of the day for Oct. 10, 2025](https://www.space.com/astronomy/james-webb-space-telescope/jwst-compares-gravitational-lensing-space-photo-of-the-day-for-oct-10-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
