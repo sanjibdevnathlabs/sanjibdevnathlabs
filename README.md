@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Navan plows ahead with IPO during shutdown, aims for $6.45B valuation](https://techcrunch.com/2025/10/10/navan-plows-ahead-with-ipo-during-shutdown-aims-for-6-45b-valuation/)
+- [Japanese astronaut eyes typhoon from orbit | On the International Space Station Oct. 6 - 10, 2025](https://www.space.com/space-exploration/international-space-station/japanese-astronaut-eyes-typhoon-from-orbit-on-the-international-space-station-oct-6-10-2025)
 - [Why Deloitte is betting big on AI despite a $10M refund](https://techcrunch.com/video/why-deloitte-is-betting-big-on-ai-despite-a-10m-refund/)
 - [Kalshi hits $5B valuation days after rival Polymarket gets $2B NYSE backing at $8B](https://techcrunch.com/2025/10/10/kalshi-hits-5b-valuation-days-after-rival-polymarket-gets-2b-nyse-backing-at-8b/)
 - [This fleet of sungazing spacecraft could help spot &#39;space tornadoes&#39; headed towards Earth](https://www.space.com/astronomy/sun/this-fleet-of-sungazing-spacecraft-could-help-spot-space-tornadoes-headed-towards-earth)
-- [Google Chrome silences those pesky notifications](https://techcrunch.com/2025/10/10/google-chrome-silences-those-pesky-notifications/)
-- [How to find Comet Lemmon in the night sky as it brightens this October](https://www.space.com/stargazing/how-to-find-comet-lemmon-in-the-night-sky-as-it-brightens-this-october-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
