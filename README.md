@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Investors are betting $21 billion that the energy transition isn’t going away](https://techcrunch.com/2025/10/10/investors-are-betting-21-billion-that-the-energy-transition-isnt-going-away/)
+- [ISS astronaut captures amazing video of SpaceX Starlink satellite train cruising above auroras](https://www.space.com/space-exploration/international-space-station/iss-astronaut-captures-amazing-video-of-spacex-starlink-satellite-train-cruising-above-auroras)
+- [UK slaps Google Search with special market status, making way for stricter regulations](https://techcrunch.com/2025/10/10/uk-slaps-google-search-with-special-market-status-making-way-for-stricter-regulations/)
 - [The world is just not quite ready for humanoids yet](https://techcrunch.com/2025/10/10/the-world-is-just-not-quite-ready-for-humanoids-yet/)
 - [JWST compares gravitational lensing | Space photo of the day for Oct. 10, 2025](https://www.space.com/astronomy/james-webb-space-telescope/jwst-compares-gravitational-lensing-space-photo-of-the-day-for-oct-10-2025)
-- [Saturn&#39;s moon Mimas may have an ocean — and a future spacecraft could find it](https://www.space.com/astronomy/saturn/saturns-moon-mimas-may-have-an-ocean-and-a-future-spacecraft-could-find-it)
-- [Living in space isn&#39;t just a challenge for astronauts. Their families feel it, too](https://www.space.com/space-exploration/human-spaceflight/living-in-space-isnt-just-a-challenge-for-astronauts-their-families-feel-it-too)
-- [Shutdown silver lining? Your IPO review comes after investors buy in](https://techcrunch.com/2025/10/09/shutdown-silver-lining-your-ipo-review-comes-after-investors-buy-in/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
