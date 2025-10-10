@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Is there something emerging from my head?&#39; &#39;Solar Opposites&#39; season 6 clip reveals the horror of Beta Nuts &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/is-there-something-emerging-from-my-head-solar-opposites-season-6-clip-reveals-the-horror-of-beta-nuts-exclusive)
-- [Colossal &#39;hole&#39; in the sun could spark impressive auroras this weekend](https://www.space.com/stargazing/auroras/colossal-hole-in-the-sun-could-spark-impressive-auroras-this-weekend-oct-11-12-2025)
-- [Former UK Prime Minister Rishi Sunak to advise Microsoft and Anthropic](https://techcrunch.com/2025/10/10/former-uk-prime-minister-rishi-sunak-to-advise-microsoft-and-anthropic/)
-- [Investors are betting $21 billion that the energy transition isn’t going away](https://techcrunch.com/2025/10/10/investors-are-betting-21-billion-that-the-energy-transition-isnt-going-away/)
-- [ISS astronaut captures amazing video of SpaceX Starlink satellite train cruising above auroras](https://www.space.com/space-exploration/international-space-station/iss-astronaut-captures-amazing-video-of-spacex-starlink-satellite-train-cruising-above-auroras)
+- [iPhone 17 Pro Max review: orange you glad the battery is bigger](https://techcrunch.com/2025/10/10/iphone-17-pro-max-review-orange-you-glad-the-battery-is-bigger/)
+- [Instagram head Adam Mosseri pushes back on Mr. Beast’s AI fears, but admits society will have to adjust](https://techcrunch.com/2025/10/10/instagram-head-adam-mosseri-pushes-back-on-mr-beasts-ai-fears-but-admits-society-will-have-to-adjust/)
+- [Spyware maker NSO Group confirms acquisition by US investors](https://techcrunch.com/2025/10/10/spyware-maker-nso-group-confirms-acquisition-by-us-investors/)
+- [Musk’s Boring Co. violated environmental regulations nearly 800 times, Nevada alleges](https://techcrunch.com/2025/10/10/musks-boring-co-violated-environmental-regulations-nearly-800-times-nevada-alleges/)
+- [You can now connect your Spotify account to ChatGPT. Here’s how to do it](https://techcrunch.com/2025/10/10/you-can-now-connect-your-spotify-account-to-chatgpt-heres-how-to-do-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
