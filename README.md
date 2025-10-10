@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The world is just not quite ready for humanoids yet](https://techcrunch.com/2025/10/10/the-world-is-just-not-quite-ready-for-humanoids-yet/)
+- [JWST compares gravitational lensing | Space photo of the day for Oct. 10, 2025](https://www.space.com/astronomy/james-webb-space-telescope/jwst-compares-gravitational-lensing-space-photo-of-the-day-for-oct-10-2025)
 - [Saturn&#39;s moon Mimas may have an ocean — and a future spacecraft could find it](https://www.space.com/astronomy/saturn/saturns-moon-mimas-may-have-an-ocean-and-a-future-spacecraft-could-find-it)
 - [Living in space isn&#39;t just a challenge for astronauts. Their families feel it, too](https://www.space.com/space-exploration/human-spaceflight/living-in-space-isnt-just-a-challenge-for-astronauts-their-families-feel-it-too)
 - [Shutdown silver lining? Your IPO review comes after investors buy in](https://techcrunch.com/2025/10/09/shutdown-silver-lining-your-ipo-review-comes-after-investors-buy-in/)
-- [Flipkart’s Super.money quietly partners with troubled Juspay as it expands its reach](https://techcrunch.com/2025/10/09/flipkarts-super-money-quietly-partners-with-with-troubled-juspay-as-it-expands-its-reach/)
-- [While OpenAI races to build AI data centers, Nadella reminds us that Microsoft already has them](https://techcrunch.com/2025/10/09/while-openai-races-to-build-ai-data-centers-nadella-reminds-us-that-microsoft-already-has-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
