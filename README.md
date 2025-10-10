@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [iPhone 17 Pro Max review: orange you glad the battery is bigger](https://techcrunch.com/2025/10/10/iphone-17-pro-max-review-orange-you-glad-the-battery-is-bigger/)
-- [Instagram head Adam Mosseri pushes back on Mr. Beast’s AI fears, but admits society will have to adjust](https://techcrunch.com/2025/10/10/instagram-head-adam-mosseri-pushes-back-on-mr-beasts-ai-fears-but-admits-society-will-have-to-adjust/)
-- [Spyware maker NSO Group confirms acquisition by US investors](https://techcrunch.com/2025/10/10/spyware-maker-nso-group-confirms-acquisition-by-us-investors/)
-- [Musk’s Boring Co. violated environmental regulations nearly 800 times, Nevada alleges](https://techcrunch.com/2025/10/10/musks-boring-co-violated-environmental-regulations-nearly-800-times-nevada-alleges/)
-- [You can now connect your Spotify account to ChatGPT. Here’s how to do it](https://techcrunch.com/2025/10/10/you-can-now-connect-your-spotify-account-to-chatgpt-heres-how-to-do-it/)
+- [Prezent raises $30 million to acquire AI services firms — starting with founder’s other company](https://techcrunch.com/2025/10/10/prezent-raises-30-million-to-acquire-ai-services-firms-starting-with-founders-other-company/)
+- [Interstellar comet 3I/ATLAS is leaking water like a &#39;fire hose running at full blast,&#39; new study finds](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-is-leaking-water-like-a-fire-hose-running-at-full-blast-new-study-finds)
+- [Best iPad apps for unleashing and exploring your creativity](https://techcrunch.com/2025/10/10/best-ipad-apps-for-unleashing-and-exploring-your-creativity/)
+- [&#39;It felt like something out of Star Trek.&#39; I got a first look at the Unistellar Envision smart binoculars &lpar;video&rpar;](https://www.space.com/stargazing/skywatching-kit/unistellar-envision-smart-binoculars-feel-like-something-out-of-star-trek-first-look-video)
+- [Homeland Security reassigns ‘hundreds’ of CISA cyber staffers to support Trump’s deportation crackdown](https://techcrunch.com/2025/10/10/homeland-security-reassigns-hundreds-of-cisa-cyber-staffers-to-support-trumps-deportation-crackdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
