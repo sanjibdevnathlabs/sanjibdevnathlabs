@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The fixer’s dilemma: Chris Lehane and OpenAI’s impossible mission](https://techcrunch.com/2025/10/10/the-fixers-dilemma-chris-lehane-and-openais-impossible-mission/)
 - [Salesforce CEO says National Guard should patrol San Francisco — stunning his own PR team](https://techcrunch.com/2025/10/10/salesforce-ceo-says-national-guard-should-patrol-san-francisco-stunning-his-own-pr-team/)
 - [Navan plows ahead with IPO during shutdown, aims for $6.45B valuation](https://techcrunch.com/2025/10/10/navan-plows-ahead-with-ipo-during-shutdown-aims-for-6-45b-valuation/)
 - [Japanese astronaut eyes typhoon from orbit | On the International Space Station Oct. 6 - 10, 2025](https://www.space.com/space-exploration/international-space-station/japanese-astronaut-eyes-typhoon-from-orbit-on-the-international-space-station-oct-6-10-2025)
 - [Why Deloitte is betting big on AI despite a $10M refund](https://techcrunch.com/video/why-deloitte-is-betting-big-on-ai-despite-a-10m-refund/)
-- [Kalshi hits $5B valuation days after rival Polymarket gets $2B NYSE backing at $8B](https://techcrunch.com/2025/10/10/kalshi-hits-5b-valuation-days-after-rival-polymarket-gets-2b-nyse-backing-at-8b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
