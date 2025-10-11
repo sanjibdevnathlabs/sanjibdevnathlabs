@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prince Harry and Meghan call out the harmful effects of social media on today’s youth](https://techcrunch.com/2025/10/11/prince-harry-and-meghan-call-out-the-harmful-effects-of-social-media-on-todays-youth/)
+- [Trump fires back at China’s rare earth mineral restrictions by threatening 100% tariffs](https://techcrunch.com/2025/10/11/trump-fires-back-at-chinas-rare-earth-mineral-restrictions-by-threatening-100-tariffs/)
 - [It’s not too late for Apple to get AI right](https://techcrunch.com/2025/10/11/its-not-too-late-for-apple-to-get-ai-right/)
 - [This Week In Space podcast: Episode 181 — World Space Week](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-181-world-space-week)
 - [May the trivia be with you: a &#39;Star Wars&#39; quiz](https://www.space.com/entertainment/may-the-trivia-be-with-you-a-star-wars-quiz)
-- [What time is SpaceX&#39;s Starship Flight 11 launch on Oct. 13? How to watch it live](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-11-launch-what-time)
-- [Incredible telescope image shows baby exoplanet being born](https://www.space.com/astronomy/exoplanets/incredible-telescope-image-shows-baby-exoplanet-being-born)
 <!-- BLOG-POST-LIST:END -->
 
 ---
