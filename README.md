@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [May the trivia be with you: a &#39;Star Wars&#39; quiz](https://www.space.com/entertainment/may-the-trivia-be-with-you-a-star-wars-quiz)
 - [What time is SpaceX&#39;s Starship Flight 11 launch on Oct. 13? How to watch it live](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-11-launch-what-time)
 - [Incredible telescope image shows baby exoplanet being born](https://www.space.com/astronomy/exoplanets/incredible-telescope-image-shows-baby-exoplanet-being-born)
 - [The fixer’s dilemma: Chris Lehane and OpenAI’s impossible mission](https://techcrunch.com/2025/10/10/the-fixers-dilemma-chris-lehane-and-openais-impossible-mission/)
 - [Salesforce CEO says National Guard should patrol San Francisco — stunning his own PR team](https://techcrunch.com/2025/10/10/salesforce-ceo-says-national-guard-should-patrol-san-francisco-stunning-his-own-pr-team/)
-- [Navan plows ahead with IPO during shutdown, aims for $6.45B valuation](https://techcrunch.com/2025/10/10/navan-plows-ahead-with-ipo-during-shutdown-aims-for-6-45b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
