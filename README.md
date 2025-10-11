@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thinking Machines Lab co-founder Andrew Tulloch heads to Meta](https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/)
 - [Apple says goodbye to the Clips app](https://techcrunch.com/2025/10/11/apple-says-goodbye-to-the-clips-app/)
 - [Ready or not, enterprises are betting on AI](https://techcrunch.com/2025/10/11/ready-or-not-enterprises-are-betting-on-ai/)
 - [Prince Harry and Meghan call out the harmful effects of social media on today’s youth](https://techcrunch.com/2025/10/11/prince-harry-and-meghan-call-out-the-harmful-effects-of-social-media-on-todays-youth/)
 - [Trump fires back at China’s rare earth mineral restrictions by threatening 100% tariffs](https://techcrunch.com/2025/10/11/trump-fires-back-at-chinas-rare-earth-mineral-restrictions-by-threatening-100-tariffs/)
-- [It’s not too late for Apple to get AI right](https://techcrunch.com/2025/10/11/its-not-too-late-for-apple-to-get-ai-right/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
