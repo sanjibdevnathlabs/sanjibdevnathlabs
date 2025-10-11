@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ready or not, enterprises are betting on AI](https://techcrunch.com/2025/10/11/ready-or-not-enterprises-are-betting-on-ai/)
 - [Prince Harry and Meghan call out the harmful effects of social media on today’s youth](https://techcrunch.com/2025/10/11/prince-harry-and-meghan-call-out-the-harmful-effects-of-social-media-on-todays-youth/)
 - [Trump fires back at China’s rare earth mineral restrictions by threatening 100% tariffs](https://techcrunch.com/2025/10/11/trump-fires-back-at-chinas-rare-earth-mineral-restrictions-by-threatening-100-tariffs/)
 - [It’s not too late for Apple to get AI right](https://techcrunch.com/2025/10/11/its-not-too-late-for-apple-to-get-ai-right/)
 - [This Week In Space podcast: Episode 181 — World Space Week](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-181-world-space-week)
-- [May the trivia be with you: a &#39;Star Wars&#39; quiz](https://www.space.com/entertainment/may-the-trivia-be-with-you-a-star-wars-quiz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
