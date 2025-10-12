@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk vs. the regulators](https://techcrunch.com/2025/10/12/elon-musk-vs-the-regulators/)
+- [Information could be a fundamental part of the universe – and may explain dark energy and dark matter](https://www.space.com/astronomy/dark-universe/information-could-be-a-fundamental-part-of-the-universe-and-may-explain-dark-energy-and-dark-matter)
+- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/10/12/nvidias-ai-empire-a-look-at-its-top-startup-investments/)
 - [Watch SpaceX launch its Starship Flight 11 megarocket test flight on Oct. 13](https://www.space.com/space-exploration/launches-spacecraft/space-starship-flight-11-launch-webcast)
 - [Dating app Cerca will show how Gen Z really dates at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/12/dating-app-cerca-will-show-how-gen-z-really-dates-at-techcrunch-disrupt-2025/)
-- [Microbes essential for human health can survive the stress of spaceflight. That&#39;s great news for astronauts](https://www.space.com/science/microbes-essential-for-human-health-can-survive-the-stress-of-spaceflight-thats-great-news-for-astronauts)
-- [Moonrise moments: A skywatching quiz](https://www.space.com/astronomy/moon/moonrise-moments-a-skywatching-quiz)
-- [See Orion hunt the half-lit moon on Oct. 12](https://www.space.com/stargazing/see-orion-hunt-the-half-lit-moon-on-oct-12)
 <!-- BLOG-POST-LIST:END -->
 
 ---
