@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microbes essential for human health can survive the stress of spaceflight. That&#39;s great news for astronauts](https://www.space.com/science/microbes-essential-for-human-health-can-survive-the-stress-of-spaceflight-thats-great-news-for-astronauts)
 - [Moonrise moments: A skywatching quiz](https://www.space.com/astronomy/moon/moonrise-moments-a-skywatching-quiz)
 - [See Orion hunt the half-lit moon on Oct. 12](https://www.space.com/stargazing/see-orion-hunt-the-half-lit-moon-on-oct-12)
 - [The moon cozies up to Jupiter on Oct 13. Here&#39;s how to see it](https://www.space.com/stargazing/the-moon-cozies-up-to-jupiter-on-oct-13-2025-heres-how-to-see-it)
 - [Thinking Machines Lab co-founder Andrew Tulloch heads to Meta](https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/)
-- [Apple says goodbye to the Clips app](https://techcrunch.com/2025/10/11/apple-says-goodbye-to-the-clips-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
