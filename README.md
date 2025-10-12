@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The ZoraSafe app wants to protect older people online and will present at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/12/the-zorasafe-app-wants-to-protect-older-people-online-and-will-present-at-techcrunch-disrupt-2025/)
 - [Elon Musk vs. the regulators](https://techcrunch.com/2025/10/12/elon-musk-vs-the-regulators/)
 - [Information could be a fundamental part of the universe – and may explain dark energy and dark matter](https://www.space.com/astronomy/dark-universe/information-could-be-a-fundamental-part-of-the-universe-and-may-explain-dark-energy-and-dark-matter)
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/10/12/nvidias-ai-empire-a-look-at-its-top-startup-investments/)
 - [Watch SpaceX launch its Starship Flight 11 megarocket test flight on Oct. 13](https://www.space.com/space-exploration/launches-spacecraft/space-starship-flight-11-launch-webcast)
-- [Dating app Cerca will show how Gen Z really dates at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/12/dating-app-cerca-will-show-how-gen-z-really-dates-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
