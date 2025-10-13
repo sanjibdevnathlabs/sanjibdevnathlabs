@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;More joyous and sillier than &#39;Rick and Morty&#39;: &#39;Solar Opposites&#39; showrunners on creating their own legacy as final season lands &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/more-joyous-and-sillier-than-rick-and-morty-solar-opposites-showrunners-on-creating-their-own-legacy-as-final-season-lands-exclusive)
+- [Grindr’s owners may take it private after a financial squeeze](https://techcrunch.com/2025/10/13/grindrs-owners-may-take-it-private-after-a-financial-squeeze/)
 - [Oura is winning young women and losing gym rats, and it’s fine with that](https://techcrunch.com/2025/10/13/oura-is-winning-young-women-and-losing-gym-rats-and-its-fine-with-that/)
 - [Is low Earth orbit getting too crowded? New study rings an alarm bell](https://www.space.com/space-exploration/satellites/is-low-earth-orbit-getting-too-crowded-new-study-rings-an-alarm-bell)
 - [The Taurid meteor shower 2025 has begun and could spawn dramatic fireballs in the coming weeks](https://www.space.com/stargazing/meteor-showers/taurid-meteor-shower-2025-has-begun-and-could-spawn-dramatic-fireballs-in-the-coming-weeks)
-- [How do asteroids spin in space? The answer could help us prevent a catastrophic Earth impact](https://www.space.com/astronomy/asteroids/how-do-asteroids-spin-in-space-the-answer-could-help-us-prevent-a-catastrophic-earth-impact)
-- [&#39;Star Trek: Strange New Worlds&#39; Season 4 clip sees the Enterprise stranded on a... well, a strange new world &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-4-clip-sees-the-enterprise-stranded-on-a-well-a-strange-new-world-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
