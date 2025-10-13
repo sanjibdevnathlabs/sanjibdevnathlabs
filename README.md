@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek: Starfleet Academy&#39; gets all late-night with Stephen Colbert and a steamy scene in NYCC trailer &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-starfleet-academy-stephen-colbert-nycc-trailer)
 - [Strava eyes IPO as Gen Z trades dating apps for running clubs](https://techcrunch.com/2025/10/12/strava-eyes-ipo-as-gen-z-trades-dating-apps-for-running-clubs/)
 - [The ZoraSafe app wants to protect older people online and will present at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/12/the-zorasafe-app-wants-to-protect-older-people-online-and-will-present-at-techcrunch-disrupt-2025/)
 - [Elon Musk vs. the regulators](https://techcrunch.com/2025/10/12/elon-musk-vs-the-regulators/)
 - [Information could be a fundamental part of the universe – and may explain dark energy and dark matter](https://www.space.com/astronomy/dark-universe/information-could-be-a-fundamental-part-of-the-universe-and-may-explain-dark-energy-and-dark-matter)
-- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/10/12/nvidias-ai-empire-a-look-at-its-top-startup-investments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
