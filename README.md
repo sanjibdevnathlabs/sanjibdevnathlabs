@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do asteroids spin in space? The answer could help us prevent a catastrophic Earth impact](https://www.space.com/astronomy/asteroids/how-do-asteroids-spin-in-space-the-answer-could-help-us-prevent-a-catastrophic-earth-impact)
 - [&#39;Star Trek: Strange New Worlds&#39; Season 4 clip sees the Enterprise stranded on a... well, a strange new world &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-4-clip-sees-the-enterprise-stranded-on-a-well-a-strange-new-world-video)
 - [A volcano or a meteorite? New evidence sheds light on puzzling discovery in Greenland&#39;s ice sheet](https://www.space.com/astronomy/earth/a-volcano-or-a-meteorite-new-evidence-sheds-light-on-puzzling-discovery-in-greenlands-ice-sheet)
 - [NASA will say goodbye to the International Space Station in 2030 − and welcome in the age of commercial space stations](https://www.space.com/space-exploration/international-space-station/nasa-will-say-goodbye-to-the-international-space-station-in-2030-and-welcome-in-the-age-of-commercial-space-stations)
 - [Is the universe infinite, or does it have a limit?](https://www.space.com/astronomy/is-the-universe-infinite-or-does-it-have-a-limit)
-- [Slate Auto’s electric truck: See it first at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-first-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
