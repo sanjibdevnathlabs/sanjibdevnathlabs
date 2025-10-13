@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is the universe infinite, or does it have a limit?](https://www.space.com/astronomy/is-the-universe-infinite-or-does-it-have-a-limit)
 - [Slate Auto’s electric truck: See it here first at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-here-first-at-techcrunch-disrupt-2025/)
 - [This might be the smallest clump of pure dark matter ever found](https://www.space.com/astronomy/dark-universe/this-might-be-the-smallest-clump-of-pure-dark-matter-ever-found)
 - [California becomes first state to regulate AI companion chatbots](https://techcrunch.com/2025/10/13/california-becomes-first-state-to-regulate-ai-companion-chatbots/)
 - [The time is now: Only 5 days remain to book your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/the-time-is-now-only-5-days-remain-to-book-your-exhibit-table-at-techcrunch-disrupt-2025/)
-- [Final Flash Sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — Ends Oct 17](https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-friday/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
