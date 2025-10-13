@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Final Flash Sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — Ends Oct 17](https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-friday/)
+- [Uranus and Neptune may not be &#39;ice giants&#39; after all, new research suggests](https://www.space.com/astronomy/exoplanets/uranus-and-neptune-may-not-be-ice-giants-after-all-new-research-suggests)
 - [Meteor hunters rejoice! The Orionid meteor shower 2025 peaks next week with no moon in sight](https://www.space.com/stargazing/meteor-showers/orionid-meteor-shower-peaks-next-week-with-no-moon-in-sight-oct-2025)
 - [Rubin Observatory spins beneath the stars | Space photo of the day for Oct. 13, 2025](https://www.space.com/astronomy/rubin-observatory-spins-beneath-the-stars-space-photo-of-the-day-for-oct-13-2025)
 - [Salesforce announces Agentforce 360 as enterprise AI competition heats up](https://techcrunch.com/2025/10/13/salesforce-announces-agentforce-360-as-enterprise-ai-competition-heats-up/)
-- [Scientists open untouched Apollo 17 lunar samples from 1972 — they may hold clues about the moon&#39;s violent origins](https://www.space.com/astronomy/moon/scientists-open-untouched-apollo-17-lunar-samples-from-1972-they-may-hold-clues-about-the-moons-violent-origins)
-- [Anduril’s new EagleEye MR helmet sees Palmer Luckey return to his VR roots](https://techcrunch.com/2025/10/13/andurils-new-eagleeye-mr-helmet-sees-palmer-luckey-return-to-his-vr-roots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
