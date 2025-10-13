@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Slate Auto’s electric truck: See it here first at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-here-first-at-techcrunch-disrupt-2025/)
+- [This might be the smallest clump of pure dark matter ever found](https://www.space.com/astronomy/dark-universe/this-might-be-the-smallest-clump-of-pure-dark-matter-ever-found)
+- [California becomes first state to regulate AI companion chatbots](https://techcrunch.com/2025/10/13/california-becomes-first-state-to-regulate-ai-companion-chatbots/)
+- [The time is now: Only 5 days remain to book your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/the-time-is-now-only-5-days-remain-to-book-your-exhibit-table-at-techcrunch-disrupt-2025/)
 - [Final Flash Sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — Ends Oct 17](https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-friday/)
-- [Uranus and Neptune may not be &#39;ice giants&#39; after all, new research suggests](https://www.space.com/astronomy/exoplanets/uranus-and-neptune-may-not-be-ice-giants-after-all-new-research-suggests)
-- [Meteor hunters rejoice! The Orionid meteor shower 2025 peaks next week with no moon in sight](https://www.space.com/stargazing/meteor-showers/orionid-meteor-shower-peaks-next-week-with-no-moon-in-sight-oct-2025)
-- [Rubin Observatory spins beneath the stars | Space photo of the day for Oct. 13, 2025](https://www.space.com/astronomy/rubin-observatory-spins-beneath-the-stars-space-photo-of-the-day-for-oct-13-2025)
-- [Salesforce announces Agentforce 360 as enterprise AI competition heats up](https://techcrunch.com/2025/10/13/salesforce-announces-agentforce-360-as-enterprise-ai-competition-heats-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
