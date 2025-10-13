@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A volcano or a meteorite? New evidence sheds light on puzzling discovery in Greenland&#39;s ice sheet](https://www.space.com/astronomy/earth/a-volcano-or-a-meteorite-new-evidence-sheds-light-on-puzzling-discovery-in-greenlands-ice-sheet)
 - [NASA will say goodbye to the International Space Station in 2030 − and welcome in the age of commercial space stations](https://www.space.com/space-exploration/international-space-station/nasa-will-say-goodbye-to-the-international-space-station-in-2030-and-welcome-in-the-age-of-commercial-space-stations)
 - [Is the universe infinite, or does it have a limit?](https://www.space.com/astronomy/is-the-universe-infinite-or-does-it-have-a-limit)
-- [Slate Auto’s electric truck: See it here first at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-here-first-at-techcrunch-disrupt-2025/)
+- [Slate Auto’s electric truck: See it first at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-first-at-techcrunch-disrupt-2025/)
 - [This might be the smallest clump of pure dark matter ever found](https://www.space.com/astronomy/dark-universe/this-might-be-the-smallest-clump-of-pure-dark-matter-ever-found)
-- [California becomes first state to regulate AI companion chatbots](https://techcrunch.com/2025/10/13/california-becomes-first-state-to-regulate-ai-companion-chatbots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
