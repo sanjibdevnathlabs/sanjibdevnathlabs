@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best space strategy games, ranked](https://www.space.com/entertainment/space-games/best-space-strategy-games-ranked)
 - [Spotify partners with Netflix for video podcast distribution deal](https://techcrunch.com/2025/10/14/spotifys-video-podcasts-are-coming-to-netflix-next-year/)
 - [Impulse Space details plan to deliver up to 6 tons a year to the Moon](https://techcrunch.com/2025/10/14/impulse-space-details-plan-to-deliver-up-to-6-tons-a-year-to-the-moon/)
 - [Mozilla’s Firefox adds Perplexity’s AI answer engine as a new search option](https://techcrunch.com/2025/10/14/mozillas-firefox-adds-perplexitys-ai-answer-engine-as-a-new-search-option/)
 - [NASA lays off 550 employees at Jet Propulsion Laboratory in sweeping &#39;realignment&#39; of workforce](https://www.space.com/space-exploration/nasa-lays-off-550-employees-at-jet-propulsion-laboratory-in-sweeping-realignment-of-workforce)
-- [What is the weak nuclear force and why is it important?](https://www.space.com/science/particle-physics/what-is-the-weak-nuclear-force-and-why-is-it-important)
 <!-- BLOG-POST-LIST:END -->
 
 ---
