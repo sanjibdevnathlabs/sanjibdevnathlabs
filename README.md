@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This AI Supercomputer can fit on your desk...](https://www.youtube.com/watch?v=FYL9e_aqZY0)
 - [It’s a Trap!!!](https://www.youtube.com/shorts/CqFfcZELbG0)
 - [AI + Open Education Initiative: AI Literacies and Evaluation](https://www.youtube.com/watch?v=S6QZlXW84FQ)
 - [AI + Open Education Initiative: Professional Education and the Judicious Use of AI](https://www.youtube.com/watch?v=WcXEHdzBZ3Y)
 - [Network Layers Model &lpar;Networking Basics&rpar; - Computerphile](https://www.youtube.com/watch?v=eelvWAURfdI)
-- [THIS is losing you MILLIONS!!](https://www.youtube.com/shorts/F2pG7EJ0lS4)
 <!-- YOUTUBE:END -->
 
 ---
