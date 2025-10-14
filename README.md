@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar wind tears a chunk from Comet Lemmon&#39;s tail in incredible new astrophotography images](https://www.space.com/stargazing/solar-wind-tears-chunk-from-comet-lemmon-tail-new-astrophotography-images)
+- [Sam Altman says ChatGPT will soon allow erotica for adult users](https://techcrunch.com/2025/10/14/sam-altman-says-chatgpt-will-soon-allow-erotica-for-adult-users/)
+- [At Starbase, SpaceX is taking firefighting into its own hands](https://techcrunch.com/2025/10/14/at-starbase-spacex-is-taking-firefighting-into-its-own-hands/)
 - [Getting even bigger: What&#39;s next for SpaceX&#39;s Starship after Flight 11 success](https://www.space.com/space-exploration/launches-spacecraft/getting-even-bigger-whats-next-for-spacexs-starship-after-flight-11-success)
 - [Inaudible sound might be the next frontier in wildfire defense](https://techcrunch.com/2025/10/14/inaudible-sound-might-be-the-next-frontier-in-wildfire-defense/)
-- [Best space strategy games, ranked](https://www.space.com/entertainment/space-games/best-space-strategy-games-ranked)
-- [Spotify partners with Netflix for video podcast distribution deal](https://techcrunch.com/2025/10/14/spotifys-video-podcasts-are-coming-to-netflix-next-year/)
-- [Impulse Space details plan to deliver up to 6 tons a year to the Moon](https://techcrunch.com/2025/10/14/impulse-space-details-plan-to-deliver-up-to-6-tons-a-year-to-the-moon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
