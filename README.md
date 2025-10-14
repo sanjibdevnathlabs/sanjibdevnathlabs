@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the weak nuclear force and why is it important?](https://www.space.com/science/particle-physics/what-is-the-weak-nuclear-force-and-why-is-it-important)
+- [Facebook brings back job listings in the US](https://techcrunch.com/2025/10/14/facebook-brings-back-job-listings-in-the-us/)
 - [Aurora alert! 4 coronal mass ejections are racing toward Earth and could spark impressive northern lights this week](https://www.space.com/stargazing/auroras/aurora-alert-4-coronal-mass-ejections-are-racing-toward-earth-and-could-spark-impressive-northern-lights-this-week)
 - [Google’s Gemini can now help you schedule Google Calendar meetings](https://techcrunch.com/2025/10/14/googles-gemini-can-now-help-you-schedule-google-calendar-meetings/)
 - [Google Meet launches an AI-powered makeup feature](https://techcrunch.com/2025/10/14/google-meet-launches-an-ai-powered-makeup-feature/)
-- [The terrifying Apex Alien in &#39;Invasion&#39; Season 3 is a lot cuter in real life &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-terrifying-apex-alien-in-invasion-season-3-is-a-lot-cuter-in-real-life-video)
-- [Coco Robotics taps UCLA professor to lead new physical AI research lab](https://techcrunch.com/2025/10/14/coco-robotics-taps-ucla-professor-to-lead-new-physical-ai-research-lab/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
