@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google updates Search and Discover with collapsible ads, AI features, and more](https://techcrunch.com/2025/10/14/google-updates-search-and-discover-with-collapsible-ads-ai-features-and-more/)
-- [YouTube makes it easier for teens to find informative mental health content](https://techcrunch.com/2025/10/14/youtube-makes-it-easier-for-teens-to-find-informative-mental-health-content/)
-- [Sheryl Sandberg-backed Flint wants to use AI to autonomously build and update websites](https://techcrunch.com/2025/10/14/sheryl-sandberg-backed-flint-wants-to-use-ai-to-autonomously-build-and-update-websites/)
-- [Autumn 2025 Skywatching sights: 8 targets to see in the night sky](https://www.space.com/stargazing/autumn-skywatching-targets-to-see-in-the-night-sky-2025)
-- [Less than 4 days left: Visibility, traction, and growth start at your TechCrunch Disrupt 2025 exhibit table](https://techcrunch.com/2025/10/14/less-than-4-days-left-visibility-traction-and-growth-start-at-your-techcrunch-disrupt-2025-exhibit-table/)
+- [Aurora alert! 4 coronal mass ejections are racing toward Earth and could spark impressive northern lights this week](https://www.space.com/stargazing/auroras/aurora-alert-4-coronal-mass-ejections-are-racing-toward-earth-and-could-spark-impressive-northern-lights-this-week)
+- [Google’s Gemini can now help you schedule Google Calendar meetings](https://techcrunch.com/2025/10/14/googles-gemini-can-now-help-you-schedule-google-calendar-meetings/)
+- [Google Meet launches an AI-powered makeup feature](https://techcrunch.com/2025/10/14/google-meet-launches-an-ai-powered-makeup-feature/)
+- [The terrifying Apex Alien in &#39;Invasion&#39; Season 3 is a lot cuter in real life &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-terrifying-apex-alien-in-invasion-season-3-is-a-lot-cuter-in-real-life-video)
+- [Coco Robotics taps UCLA professor to lead new physical AI research lab](https://techcrunch.com/2025/10/14/coco-robotics-taps-ucla-professor-to-lead-new-physical-ai-research-lab/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
