@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify partners with Netflix for video podcast distribution deal](https://techcrunch.com/2025/10/14/spotifys-video-podcasts-are-coming-to-netflix-next-year/)
+- [Impulse Space details plan to deliver up to 6 tons a year to the Moon](https://techcrunch.com/2025/10/14/impulse-space-details-plan-to-deliver-up-to-6-tons-a-year-to-the-moon/)
+- [Mozilla’s Firefox adds Perplexity’s AI answer engine as a new search option](https://techcrunch.com/2025/10/14/mozillas-firefox-adds-perplexitys-ai-answer-engine-as-a-new-search-option/)
+- [NASA lays off 550 employees at Jet Propulsion Laboratory in sweeping &#39;realignment&#39; of workforce](https://www.space.com/space-exploration/nasa-lays-off-550-employees-at-jet-propulsion-laboratory-in-sweeping-realignment-of-workforce)
 - [What is the weak nuclear force and why is it important?](https://www.space.com/science/particle-physics/what-is-the-weak-nuclear-force-and-why-is-it-important)
-- [Facebook brings back job listings in the US](https://techcrunch.com/2025/10/14/facebook-brings-back-job-listings-in-the-us/)
-- [Aurora alert! 4 coronal mass ejections are racing toward Earth and could spark impressive northern lights this week](https://www.space.com/stargazing/auroras/aurora-alert-4-coronal-mass-ejections-are-racing-toward-earth-and-could-spark-impressive-northern-lights-this-week)
-- [Google’s Gemini can now help you schedule Google Calendar meetings](https://techcrunch.com/2025/10/14/googles-gemini-can-now-help-you-schedule-google-calendar-meetings/)
-- [Google Meet launches an AI-powered makeup feature](https://techcrunch.com/2025/10/14/google-meet-launches-an-ai-powered-makeup-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
