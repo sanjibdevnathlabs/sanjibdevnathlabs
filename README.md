@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save up to $624 on your TechCrunch Disrupt 2025 Pass before prices rise in less than 4 days](https://techcrunch.com/2025/10/14/save-up-to-624-on-your-techcrunch-disrupt-2025-pass-before-prices-rise-in-less-than-4-days/)
+- [Connect the dots: A constellation challenge](https://www.space.com/stargazing/constellations/connect-the-dots-a-constellation-challenge)
+- [Satellites found exposing unencrypted data, including phone calls and some military comms](https://techcrunch.com/2025/10/14/satellites-found-exposing-unencrypted-data-including-phone-calls-and-some-military-comms/)
+- [FleetWorks raises $17M to match truckers with cargo faster](https://techcrunch.com/2025/10/14/fleetworks-raises-17m-to-match-truckers-with-cargo-faster/)
 - [Aquawise will show off its AI-driven water quality tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/14/aquawise-will-show-off-its-ai-driven-water-quality-tech-at-techcrunch-disrupt-2025/)
-- [Strange &#39;puffy&#39; alien world breaks every rule for how planets should behave](https://www.space.com/astronomy/exoplanets/strange-puffy-alien-world-breaks-every-rule-for-how-planets-should-behave)
-- [Instagram to show PG-13 content by default to teens, adds more parental controls](https://techcrunch.com/2025/10/14/instagram-defaults-to-pg-13-content-for-teens-adds-more-parental-controls/)
-- [From caves to the cosmos | Space photo of the day for Oct. 14, 2025](https://www.space.com/astronomy/earth/from-caves-to-the-cosmos-space-photo-of-the-day-for-oct-14-2025)
-- [SpaceX wraps action-packed Starship V2 era as program moves to V3](https://techcrunch.com/2025/10/14/spacex-wraps-action-packed-starship-v2-era-as-program-moves-to-v3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
