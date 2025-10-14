@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Citizen scientists just discovered the most powerful &#39;odd radio circle&#39; twins in space we&#39;ve ever seen](https://www.space.com/astronomy/this-is-the-most-powerful-known-odd-radio-circle-system-in-space-and-citizen-scientists-found-it)
 - [India’s Airbound bags $8.65M to build rocket-like drones for one-cent deliveries](https://techcrunch.com/2025/10/14/indias-airbound-led-by-20-year-old-bags-8-65m-to-work-toward-one-cent-drone-deliveries-at-scale/)
 - [Watch Rocket Lab launch private Japanese Earth-imaging satellite today](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-owl-new-world-synspective-satellite)
 - [SpaceX launches giant Starship rocket for moon and Mars on 11th test flight &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/spacex-starship-rocket-flight-11-launch-success)
 - [Goldman Sachs is acquiring Industry Ventures for up to $965M as alternative VC exits surge](https://techcrunch.com/2025/10/13/goldman-sachs-is-acquiring-industry-ventures-for-up-to-965m-as-alternative-vc-exits-surge/)
-- [&#39;More joyous and sillier than &#39;Rick and Morty&#39;: &#39;Solar Opposites&#39; showrunners on creating their own legacy as final season lands &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/more-joyous-and-sillier-than-rick-and-morty-solar-opposites-showrunners-on-creating-their-own-legacy-as-final-season-lands-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
