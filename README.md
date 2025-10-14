@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aquawise will show off its AI-driven water quality tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/14/aquawise-will-show-off-its-ai-driven-water-quality-tech-at-techcrunch-disrupt-2025/)
+- [Strange &#39;puffy&#39; alien world breaks every rule for how planets should behave](https://www.space.com/astronomy/exoplanets/strange-puffy-alien-world-breaks-every-rule-for-how-planets-should-behave)
 - [Instagram to show PG-13 content by default to teens, adds more parental controls](https://techcrunch.com/2025/10/14/instagram-defaults-to-pg-13-content-for-teens-adds-more-parental-controls/)
 - [From caves to the cosmos | Space photo of the day for Oct. 14, 2025](https://www.space.com/astronomy/earth/from-caves-to-the-cosmos-space-photo-of-the-day-for-oct-14-2025)
 - [SpaceX wraps action-packed Starship V2 era as program moves to V3](https://techcrunch.com/2025/10/14/spacex-wraps-action-packed-starship-v2-era-as-program-moves-to-v3/)
-- [Smart ring maker Oura raises $900M from Fidelity](https://techcrunch.com/2025/10/14/smart-ring-maker-oura-raises-900m-from-fidelity/)
-- [Google to invest $15B in Indian AI infrastructure hub](https://techcrunch.com/2025/10/14/google-to-invest-15b-in-indian-ai-infrastructure-hub/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
