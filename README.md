@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Save up to $624 on your TechCrunch Disrupt 2025 Pass before prices rise in less than 4 days](https://techcrunch.com/2025/10/14/save-up-to-624-on-your-techcrunch-disrupt-2025-pass-before-prices-rise-in-less-than-4-days/)
-- [Connect the dots: A constellation challenge](https://www.space.com/stargazing/constellations/connect-the-dots-a-constellation-challenge)
-- [Satellites found exposing unencrypted data, including phone calls and some military comms](https://techcrunch.com/2025/10/14/satellites-found-exposing-unencrypted-data-including-phone-calls-and-some-military-comms/)
-- [FleetWorks raises $17M to match truckers with cargo faster](https://techcrunch.com/2025/10/14/fleetworks-raises-17m-to-match-truckers-with-cargo-faster/)
-- [Aquawise will show off its AI-driven water quality tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/14/aquawise-will-show-off-its-ai-driven-water-quality-tech-at-techcrunch-disrupt-2025/)
+- [Google updates Search and Discover with collapsible ads, AI features, and more](https://techcrunch.com/2025/10/14/google-updates-search-and-discover-with-collapsible-ads-ai-features-and-more/)
+- [YouTube makes it easier for teens to find informative mental health content](https://techcrunch.com/2025/10/14/youtube-makes-it-easier-for-teens-to-find-informative-mental-health-content/)
+- [Sheryl Sandberg-backed Flint wants to use AI to autonomously build and update websites](https://techcrunch.com/2025/10/14/sheryl-sandberg-backed-flint-wants-to-use-ai-to-autonomously-build-and-update-websites/)
+- [Autumn 2025 Skywatching sights: 8 targets to see in the night sky](https://www.space.com/stargazing/autumn-skywatching-targets-to-see-in-the-night-sky-2025)
+- [Less than 4 days left: Visibility, traction, and growth start at your TechCrunch Disrupt 2025 exhibit table](https://techcrunch.com/2025/10/14/less-than-4-days-left-visibility-traction-and-growth-start-at-your-techcrunch-disrupt-2025-exhibit-table/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
