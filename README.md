@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic launches new version of scaled-down ‘Haiku’ model](https://techcrunch.com/2025/10/15/anthropic-launches-new-version-of-scaled-down-haiku-model/)
+- [Liberate bags $50M at $300M valuation to bring AI deeper into insurance back offices](https://techcrunch.com/2025/10/15/liberate-bags-50m-at-300m-valuation-to-bring-ai-deeper-into-insurance-back-offices/)
+- [&#39;Predator: Badlands&#39; is getting a prequel comic, but it&#39;s not coming out until after the movie](https://www.space.com/entertainment/space-movies-shows/predator-badlands-is-getting-a-prequel-comic-but-its-not-coming-out-until-after-the-movie)
+- [Self-driving car companies Pony.ai and WeRide get the OK for Hong Kong listing](https://techcrunch.com/2025/10/15/self-driving-car-companies-pony-ai-and-weride-get-the-ok-for-hong-kong-listing/)
 - [Meta partners up with Arm to scale AI efforts](https://techcrunch.com/2025/10/15/arm-partners-with-meta-to-scale-ai-efforts/)
-- [Nscale inks massive AI infrastructure deal with Microsoft](https://techcrunch.com/2025/10/15/nscale-inks-massive-ai-infrastructure-deal-with-microsoft/)
-- [Google releases Veo 3.1, adds it to Flow video editor](https://techcrunch.com/2025/10/15/google-releases-veo-3-1-adds-it-to-flow-video-editor/)
-- [Google now lets you add friends as contacts for account recovery](https://techcrunch.com/2025/10/15/google-now-lets-you-add-friends-as-contacts-for-account-recovery/)
-- [Cyber giant F5 Networks says government hackers had ‘long-term’ access to its systems, stole code and customer data](https://techcrunch.com/2025/10/15/cyber-giant-f5-networks-says-government-hackers-had-long-term-access-to-its-systems-stole-code-and-customer-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
