@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Threads is getting group chats as messaging rolls out to the EU](https://techcrunch.com/2025/10/15/threads-is-getting-group-chats-as-messaging-rolls-out-to-the-eu/)
-- [The full Space Stage agenda at TechCrunch Disrupt 2025: The future of tech launches here](https://techcrunch.com/2025/10/15/the-full-space-stage-at-techcrunch-disrupt-2025-the-future-of-tech-launches-here/)
-- [A new private moon lander rises: Impulse Space throws its hat into the lunar ring](https://www.space.com/astronomy/moon/a-new-private-moon-lander-rises-impulse-space-throws-its-hat-into-the-lunar-ring)
-- [Watch SpaceX launch 21 communications satellites for the US military today](https://www.space.com/space-exploration/launches-spacecraft/spacex-second-launch-space-development-agency-tranche-1-transport-layer)
-- [Less than 3 days remain to secure your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/15/less-than-3-days-remain-to-secure-your-exhibit-table-at-techcrunch-disrupt-2025/)
+- [Meta partners up with Arm to scale AI efforts](https://techcrunch.com/2025/10/15/arm-partners-with-meta-to-scale-ai-efforts/)
+- [Nscale inks massive AI infrastructure deal with Microsoft](https://techcrunch.com/2025/10/15/nscale-inks-massive-ai-infrastructure-deal-with-microsoft/)
+- [Google releases Veo 3.1, adds it to Flow video editor](https://techcrunch.com/2025/10/15/google-releases-veo-3-1-adds-it-to-flow-video-editor/)
+- [Google now lets you add friends as contacts for account recovery](https://techcrunch.com/2025/10/15/google-now-lets-you-add-friends-as-contacts-for-account-recovery/)
+- [Cyber giant F5 Networks says government hackers had ‘long-term’ access to its systems, stole code and customer data](https://techcrunch.com/2025/10/15/cyber-giant-f5-networks-says-government-hackers-had-long-term-access-to-its-systems-stole-code-and-customer-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
