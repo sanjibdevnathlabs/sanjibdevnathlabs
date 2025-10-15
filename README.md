@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 days left: Save up to $624 on your TechCrunch Disrupt 2025 Pass before prices rise](https://techcrunch.com/2025/10/15/3-days-left-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-before-prices-rise/)
+- [A giant weak spot in Earth&#39;s magnetic field is getting bigger — and it could be bad news for satellites](https://www.space.com/astronomy/earth/a-giant-weak-spot-in-earths-magnetic-field-is-getting-bigger-and-it-could-be-bad-news-for-satellites)
 - [Satellites watch as record-breaking ocean waves carry a storm&#39;s power across the sea](https://www.space.com/space-exploration/satellites-record-largest-ocean-swells-ever-seen-from-space)
 - [VSCO gets AI editing chops, support for RAW files](https://techcrunch.com/2025/10/15/vsco-gets-ai-editing-chops-support-for-raw-files/)
 - [Deep-space dishes dot the desert | Space photo of the day for Oct. 15, 2025](https://www.space.com/astronomy/deep-space-dishes-dot-the-desert-space-photo-of-the-day-for-oct-15-2025)
-- [Did a NASA exoplanet-hunting balloon really &#39;crash&#39; in Texas? Not according to the scientist behind the flight](https://www.space.com/space-exploration/did-a-nasa-exoplanet-hunting-balloon-really-crash-in-texas-not-according-to-the-scientist-behind-the-flight)
-- [Waymo plans to launch a robotaxi service in London in 2026](https://techcrunch.com/2025/10/15/waymo-plans-to-launch-a-robotaxi-service-in-london-in-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
