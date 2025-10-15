@@ -146,7 +146,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [EVs take a backseat in Stellantis’ $13B U.S. investment plan](https://techcrunch.com/2025/10/14/evs-take-a-backseat-in-stellantis-13b-u-s-investment-plan/)
+- [EVs take a backseat in Stellantis’ $13B US investment plan](https://techcrunch.com/2025/10/14/evs-take-a-backseat-in-stellantis-13b-u-s-investment-plan/)
 - [Solar wind tears a chunk from Comet Lemmon&#39;s tail in incredible new astrophotography images](https://www.space.com/stargazing/solar-wind-tears-chunk-from-comet-lemmon-tail-new-astrophotography-images)
 - [Sam Altman says ChatGPT will soon allow erotica for adult users](https://techcrunch.com/2025/10/14/sam-altman-says-chatgpt-will-soon-allow-erotica-for-adult-users/)
 - [At Starbase, SpaceX is taking firefighting into its own hands](https://techcrunch.com/2025/10/14/at-starbase-spacex-is-taking-firefighting-into-its-own-hands/)
