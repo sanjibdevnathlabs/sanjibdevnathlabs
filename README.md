@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to make vibe coding not suck…](https://www.youtube.com/watch?v=PLKrSVuT-Dg)
-- [This AI Supercomputer can fit on your desk...](https://www.youtube.com/watch?v=FYL9e_aqZY0)
-- [It’s a Trap!!!](https://www.youtube.com/shorts/CqFfcZELbG0)
-- [AI + Open Education Initiative: AI Literacies and Evaluation](https://www.youtube.com/watch?v=S6QZlXW84FQ)
-- [AI + Open Education Initiative: Professional Education and the Judicious Use of AI](https://www.youtube.com/watch?v=WcXEHdzBZ3Y)
+- [Class 15 Video: Encoding Corpora and Voice Leading](https://www.youtube.com/watch?v=0h3ShhOQ6zI)
+- [Video 7b: Streams as Hierarchies: Types of Containers in music21](https://www.youtube.com/watch?v=FgCxLh3Y7pI)
+- [Video 6b: Representations of Ontologies: Craig Sapp’s Rosetta Stone](https://www.youtube.com/watch?v=VHjH6A9InR4)
+- [Video 22b: Problem Sets 7-8: Working and Composing with Scales, Chords, and Roman Numerals](https://www.youtube.com/watch?v=UzcecPqqQPY)
+- [Video 7a: Unlocking Duration and Note Objects in music21](https://www.youtube.com/watch?v=nr0RErrOPKk)
 <!-- YOUTUBE:END -->
 
 ---
