@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How scientists are using spinning dead stars to find ripples in the fabric of spacetime](https://www.space.com/astronomy/black-holes/how-scientists-are-using-spinning-dead-stars-to-find-ripples-in-the-fabric-of-spacetime)
+- [Watch the moment a brilliant green fireball meteor turns night to day over Tennessee &lpar;video&rpar;](https://www.space.com/stargazing/meteor-showers/watch-moment-brilliant-green-fireball-meteor-turns-night-to-day-over-tennessee-video-oct-14-2025)
+- [Asteroid discovered only 2 days ago will fly by Earth closer than the moon today](https://www.space.com/astronomy/asteroids/asteroid-discovered-only-2-days-ago-will-fly-by-earth-closer-than-the-moon-today)
+- [Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable coworkers](https://techcrunch.com/2025/10/15/eightfold-co-founders-raise-35m-for-viven-an-ai-digital-twin-startup-for-querying-unavailable-coworkers/)
 - [Anthropic launches new version of scaled-down ‘Haiku’ model](https://techcrunch.com/2025/10/15/anthropic-launches-new-version-of-scaled-down-haiku-model/)
-- [Liberate bags $50M at $300M valuation to bring AI deeper into insurance back offices](https://techcrunch.com/2025/10/15/liberate-bags-50m-at-300m-valuation-to-bring-ai-deeper-into-insurance-back-offices/)
-- [&#39;Predator: Badlands&#39; is getting a prequel comic, but it&#39;s not coming out until after the movie](https://www.space.com/entertainment/space-movies-shows/predator-badlands-is-getting-a-prequel-comic-but-its-not-coming-out-until-after-the-movie)
-- [Self-driving car companies Pony.ai and WeRide get the OK for Hong Kong listing](https://techcrunch.com/2025/10/15/self-driving-car-companies-pony-ai-and-weride-get-the-ok-for-hong-kong-listing/)
-- [Meta partners up with Arm to scale AI efforts](https://techcrunch.com/2025/10/15/arm-partners-with-meta-to-scale-ai-efforts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
