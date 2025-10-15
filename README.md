@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [3 days left: Save up to $624 on your TechCrunch Disrupt 2025 Pass before prices rise](https://techcrunch.com/2025/10/15/3-days-left-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-before-prices-rise/)
-- [A giant weak spot in Earth&#39;s magnetic field is getting bigger — and it could be bad news for satellites](https://www.space.com/astronomy/earth/a-giant-weak-spot-in-earths-magnetic-field-is-getting-bigger-and-it-could-be-bad-news-for-satellites)
-- [Satellites watch as record-breaking ocean waves carry a storm&#39;s power across the sea](https://www.space.com/space-exploration/satellites-record-largest-ocean-swells-ever-seen-from-space)
-- [VSCO gets AI editing chops, support for RAW files](https://techcrunch.com/2025/10/15/vsco-gets-ai-editing-chops-support-for-raw-files/)
-- [Deep-space dishes dot the desert | Space photo of the day for Oct. 15, 2025](https://www.space.com/astronomy/deep-space-dishes-dot-the-desert-space-photo-of-the-day-for-oct-15-2025)
+- [Threads is getting group chats as messaging rolls out to the EU](https://techcrunch.com/2025/10/15/threads-is-getting-group-chats-as-messaging-rolls-out-to-the-eu/)
+- [The full Space Stage agenda at TechCrunch Disrupt 2025: The future of tech launches here](https://techcrunch.com/2025/10/15/the-full-space-stage-at-techcrunch-disrupt-2025-the-future-of-tech-launches-here/)
+- [A new private moon lander rises: Impulse Space throws its hat into the lunar ring](https://www.space.com/astronomy/moon/a-new-private-moon-lander-rises-impulse-space-throws-its-hat-into-the-lunar-ring)
+- [Watch SpaceX launch 21 communications satellites for the US military today](https://www.space.com/space-exploration/launches-spacecraft/spacex-second-launch-space-development-agency-tranche-1-transport-layer)
+- [Less than 3 days remain to secure your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/15/less-than-3-days-remain-to-secure-your-exhibit-table-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
