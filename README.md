@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VSCO gets AI editing chops, support for RAW files](https://techcrunch.com/2025/10/15/vsco-gets-ai-editing-chops-support-for-raw-files/)
+- [Deep-space dishes dot the desert | Space photo of the day for Oct. 15, 2025](https://www.space.com/astronomy/deep-space-dishes-dot-the-desert-space-photo-of-the-day-for-oct-15-2025)
 - [Did a NASA exoplanet-hunting balloon really &#39;crash&#39; in Texas? Not according to the scientist behind the flight](https://www.space.com/space-exploration/did-a-nasa-exoplanet-hunting-balloon-really-crash-in-texas-not-according-to-the-scientist-behind-the-flight)
 - [Waymo plans to launch a robotaxi service in London in 2026](https://techcrunch.com/2025/10/15/waymo-plans-to-launch-a-robotaxi-service-in-london-in-2026/)
 - [OpenAI has five years to turn $13 billion into $1 trillion](https://techcrunch.com/2025/10/14/openai-has-five-years-to-turn-13-billion-into-1-trillion/)
-- [Coinbase boosts investment in India’s CoinDCX, valuing exchange at $2.45B](https://techcrunch.com/2025/10/14/coinbase-boosts-investment-in-indias-coindcx-valuing-exchange-at-2-45b/)
-- [EVs take a backseat in Stellantis’ $13B US investment plan](https://techcrunch.com/2025/10/14/evs-take-a-backseat-in-stellantis-13b-u-s-investment-plan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
