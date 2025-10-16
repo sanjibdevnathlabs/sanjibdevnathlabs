@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How tiny Mubadala-backed AAF is winning VC deals in some of the hottest startups](https://techcrunch.com/2025/10/16/how-tiny-mubadala-backed-aaf-is-winning-vc-deals-in-some-of-the-hottest-startups/)
+- [&#39;Star Wars,&#39; &#39;Blade Runner,&#39; and &#39;The Thing&#39; poster artist Drew Struzan dies at 78](https://www.space.com/entertainment/star-wars-blade-runner-and-the-thing-poster-artist-drew-struzan-dies-at-78)
 - [Zepto raises $450 million at $7 billion valuation as Indian quick commerce market heats up](https://techcrunch.com/2025/10/16/zepto-raises-450-million-at-7-billion-valuation-as-indian-quick-commerce-market-heats-up/)
 - [Watch 2 Russian cosmonauts spacewalk outside the International Space Station today](https://www.space.com/space-exploration/international-space-station/russian-cosmonauts-spacewalk-iss-october-2025-webcast)
 - [SpaceX launches 28 Starlink satellites to orbit on 130th Falcon 9 flight of the year](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-10-52-jrti)
-- [India’s Kuku snags $85M as mobile content wars intensify](https://techcrunch.com/2025/10/15/indias-kuku-snags-85m-as-mobile-content-wars-intensify/)
-- [Co-founder of Indian social network Koo releases a new photo sharing app](https://techcrunch.com/2025/10/15/co-founder-of-indian-social-network-koo-releases-a-new-photo-sharing-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
