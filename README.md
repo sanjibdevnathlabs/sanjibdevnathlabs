@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rule-breaking black hole destroys star in puzzling way: &#39;This is truly extraordinary&#39;](https://www.space.com/astronomy/black-holes/rule-breaking-black-hole-destroys-star-in-puzzling-way-this-is-truly-extraordinary)
+- [Microsoft, AWS and Google are trying to drastically reduce China’s role in their supply chains](https://techcrunch.com/2025/10/16/microsoft-aws-and-google-are-trying-to-drastically-reduce-chinas-role-in-their-supply-chains/)
+- [Final 2 days to claim your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/16/final-2-days-to-claim-your-exhibit-table-at-techcrunch-disrupt-2025/)
 - [General Intuition lands $134M seed to teach agents spatial reasoning using video game clips](https://techcrunch.com/2025/10/16/general-intuition-lands-134m-seed-to-teach-agents-spatial-reasoning-using-video-game-clips/)
 - [Amazon launches pay-per-visit virtual healthcare service for kids](https://techcrunch.com/2025/10/16/amazon-launches-pay-per-visit-virtual-healthcare-service-for-kids/)
-- [Last 48 hours to save before TechCrunch Disrupt 2025 flash sale ends](https://techcrunch.com/2025/10/16/only-48-hours-left-to-save-before-the-techcrunch-disrupt-2025-flash-sale-ends/)
-- [Watch Europe&#39;s upcoming PLATO exoplanet hunter spread its &#39;wings&#39; &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-europes-upcoming-plato-exoplanet-hunter-spread-its-wings-video)
-- [This Lego Star Wars set is an awesome recreation of the iconic movie logo and is now at its lowest ever price](https://www.space.com/entertainment/space-toys-lego/this-lego-star-wars-set-is-an-awesome-recreation-of-the-iconic-movie-logo-and-is-now-at-its-lowest-ever-price)
 <!-- BLOG-POST-LIST:END -->
 
 ---
