@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comet Lemmon&#39;s ghostly tail haunts the skies above England &lpar;photo&rpar;](https://www.space.com/stargazing/comet-c2025-a6-lemmon-ghostly-tail-haunts-skies-above-england-photo-oct-12-2025)
+- [VC legend Ron Conway quits Salesforce Foundation after Benioff’s National Guard comments](https://techcrunch.com/2025/10/16/vc-legend-ron-conway-quits-salesforce-foundation-after-benioffs-national-guard-comments/)
 - [Watch SpaceX&#39;s Super Heavy Starship booster hover in mid-air before plunging into the sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-spacexs-super-heavy-starship-booster-hover-in-mid-air-before-plunging-into-the-sea-video)
 - [Waymo dips its wheels back into delivery, this time with DoorDash](https://techcrunch.com/2025/10/16/waymo-dips-its-wheels-back-into-delivery-this-time-with-doordash/)
 - [EFF, unions sue Trump admin. over alleged mass social media surveillance of legal residents](https://techcrunch.com/2025/10/16/eff-unions-sue-trump-admin-over-alleged-mass-social-media-surveillance-of-legal-immigrants/)
-- [Kayak launches an ‘AI Mode’ for travel questions, search, and bookings](https://techcrunch.com/2025/10/16/kayak-launches-an-ai-mode-for-travel-questions-search-and-bookings/)
-- [Why AI startups are taking data into their own hands](https://techcrunch.com/2025/10/16/why-ai-startups-are-taking-data-into-their-own-hands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
