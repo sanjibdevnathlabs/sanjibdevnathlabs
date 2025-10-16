@@ -150,7 +150,7 @@ I'm a software developer passionate about designing and building applications wi
 - [VC legend Ron Conway quits Salesforce Foundation after Benioff’s National Guard comments](https://techcrunch.com/2025/10/16/vc-legend-ron-conway-quits-salesforce-foundation-after-benioffs-national-guard-comments/)
 - [Watch SpaceX&#39;s Super Heavy Starship booster hover in mid-air before plunging into the sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-spacexs-super-heavy-starship-booster-hover-in-mid-air-before-plunging-into-the-sea-video)
 - [Waymo dips its wheels back into delivery, this time with DoorDash](https://techcrunch.com/2025/10/16/waymo-dips-its-wheels-back-into-delivery-this-time-with-doordash/)
-- [EFF, unions sue Trump admin. over alleged mass social media surveillance of legal residents](https://techcrunch.com/2025/10/16/eff-unions-sue-trump-admin-over-alleged-mass-social-media-surveillance-of-legal-immigrants/)
+- [EFF, unions sue Trump administration over alleged mass social media surveillance of legal residents](https://techcrunch.com/2025/10/16/eff-unions-sue-trump-administration-over-alleged-mass-social-media-surveillance-of-legal-residents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
