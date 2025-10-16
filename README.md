@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New space debris shield? Satellites and astronauts could suit up in novel &#39;Space Armor&#39;](https://www.space.com/space-exploration/satellites/new-space-debris-shield-satellites-and-astronauts-could-suit-up-in-novel-space-armor)
 - [Where the ridge meets the river | Space photo of the day for Oct. 16, 2025](https://www.space.com/astronomy/earth/where-the-ridge-meets-the-river-space-photo-of-the-day-for-oct-16-2025)
 - [Jack &amp; Jill raises $20 million to bring conversational AI to job-hunting](https://techcrunch.com/2025/10/16/jack-jill-raises-20-million-to-bring-conversational-ai-to-job-hunting/)
 - [Northern lights may be visible in 15 US states tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-15-us-states-tonight)
 - [How emerging Mubadala-backed AAF is winning VC deals in some of the hottest startups](https://techcrunch.com/2025/10/16/how-tiny-mubadala-backed-aaf-is-winning-vc-deals-in-some-of-the-hottest-startups/)
-- [&#39;Star Wars,&#39; &#39;Blade Runner,&#39; and &#39;The Thing&#39; poster artist Drew Struzan dies at 78](https://www.space.com/entertainment/star-wars-blade-runner-and-the-thing-poster-artist-drew-struzan-dies-at-78)
 <!-- BLOG-POST-LIST:END -->
 
 ---
