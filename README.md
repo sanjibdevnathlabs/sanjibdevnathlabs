@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX&#39;s Super Heavy Starship booster hover in mid-air before plunging into the sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-spacexs-super-heavy-starship-booster-hover-in-mid-air-before-plunging-into-the-sea-video)
+- [Waymo dips its wheels back into delivery, this time with DoorDash](https://techcrunch.com/2025/10/16/waymo-dips-its-wheels-back-into-delivery-this-time-with-doordash/)
+- [EFF, unions sue Trump admin. over alleged mass social media surveillance of legal residents](https://techcrunch.com/2025/10/16/eff-unions-sue-trump-admin-over-alleged-mass-social-media-surveillance-of-legal-immigrants/)
+- [Kayak launches an ‘AI Mode’ for travel questions, search, and bookings](https://techcrunch.com/2025/10/16/kayak-launches-an-ai-mode-for-travel-questions-search-and-bookings/)
 - [Why AI startups are taking data into their own hands](https://techcrunch.com/2025/10/16/why-ai-startups-are-taking-data-into-their-own-hands/)
-- [Amazon’s Ring to partner with Flock, a network of AI cameras used by ICE, feds, and police](https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/)
-- [Meta to shut down Messenger desktop apps for Mac and Windows](https://techcrunch.com/2025/10/16/meta-to-shut-down-messenger-desktop-apps-for-mac-and-windows/)
-- [The real reason Google DeepMind is working with a fusion energy startup](https://techcrunch.com/2025/10/16/the-real-reason-google-deepmind-is-working-with-a-fusion-energy-startup/)
-- [Dry ice may burrow through Mars like sandworms in &#39;Dune&#39;](https://www.space.com/astronomy/mars/dry-ice-may-burrow-through-mars-like-sandworms-in-dune)
 <!-- BLOG-POST-LIST:END -->
 
 ---
