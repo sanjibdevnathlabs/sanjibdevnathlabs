@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta to shut down Messenger desktop apps for Mac and Windows](https://techcrunch.com/2025/10/16/meta-to-shut-down-messenger-desktop-apps-for-mac-and-windows/)
+- [The real reason Google DeepMind is working with a fusion energy startup](https://techcrunch.com/2025/10/16/the-real-reason-google-deepmind-is-working-with-a-fusion-energy-startup/)
+- [Dry ice may burrow through Mars like sandworms in &#39;Dune&#39;](https://www.space.com/astronomy/mars/dry-ice-may-burrow-through-mars-like-sandworms-in-dune)
+- [Rent a Cyber Friend will pay you to talk to strangers online and will show off its platform at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/16/rent-a-cyber-friend-will-pay-you-to-talk-to-strangers-online-and-will-show-off-its-platform-at-techcrunch-disrupt-2025/)
 - [Watch the 2nd-ever launch of China&#39;s record-breaking Gravity-1 rocket &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-the-2nd-ever-launch-of-chinas-record-breaking-gravity-1-rocket-video)
-- [A new wave of social media apps provide hope in a doomscrolling world](https://techcrunch.com/2025/10/16/a-new-wave-of-social-media-apps-provide-hope-in-a-doomscrolling-world/)
-- [Deel hits $17.3B valuation after raising $300M from big-name VCs](https://techcrunch.com/2025/10/16/deel-hits-17-3b-valuation-after-raising-300m-from-big-name-vcs/)
-- [Vast gearing up to launch its Haven-1 private space station in 2026](https://www.space.com/space-exploration/human-spaceflight/vast-gearing-up-to-launch-its-haven-1-private-space-station-in-2026)
-- [How a headphone site operator built loyalty startup Lantern to solve his own problems](https://techcrunch.com/2025/10/16/how-a-headphone-site-operator-built-loyalty-startup-lantern-to-solve-his-own-problems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
