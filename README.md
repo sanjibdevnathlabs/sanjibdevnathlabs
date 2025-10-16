@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New space debris shield? Satellites and astronauts could suit up in novel &#39;Space Armor&#39;](https://www.space.com/space-exploration/satellites/new-space-debris-shield-satellites-and-astronauts-could-suit-up-in-novel-space-armor)
-- [Where the ridge meets the river | Space photo of the day for Oct. 16, 2025](https://www.space.com/astronomy/earth/where-the-ridge-meets-the-river-space-photo-of-the-day-for-oct-16-2025)
-- [Jack &amp; Jill raises $20 million to bring conversational AI to job-hunting](https://techcrunch.com/2025/10/16/jack-jill-raises-20-million-to-bring-conversational-ai-to-job-hunting/)
-- [Northern lights may be visible in 15 US states tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-15-us-states-tonight)
-- [How emerging Mubadala-backed AAF is winning VC deals in some of the hottest startups](https://techcrunch.com/2025/10/16/how-tiny-mubadala-backed-aaf-is-winning-vc-deals-in-some-of-the-hottest-startups/)
+- [General Intuition lands $134M seed to teach agents spatial reasoning using video game clips](https://techcrunch.com/2025/10/16/general-intuition-lands-134m-seed-to-teach-agents-spatial-reasoning-using-video-game-clips/)
+- [Amazon launches pay-per-visit virtual healthcare service for kids](https://techcrunch.com/2025/10/16/amazon-launches-pay-per-visit-virtual-healthcare-service-for-kids/)
+- [Last 48 hours to save before TechCrunch Disrupt 2025 flash sale ends](https://techcrunch.com/2025/10/16/only-48-hours-left-to-save-before-the-techcrunch-disrupt-2025-flash-sale-ends/)
+- [Watch Europe&#39;s upcoming PLATO exoplanet hunter spread its &#39;wings&#39; &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-europes-upcoming-plato-exoplanet-hunter-spread-its-wings-video)
+- [This Lego Star Wars set is an awesome recreation of the iconic movie logo and is now at its lowest ever price](https://www.space.com/entertainment/space-toys-lego/this-lego-star-wars-set-is-an-awesome-recreation-of-the-iconic-movie-logo-and-is-now-at-its-lowest-ever-price)
 <!-- BLOG-POST-LIST:END -->
 
 ---
