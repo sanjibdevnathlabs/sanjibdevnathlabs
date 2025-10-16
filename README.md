@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Seoul weighs approval for Google, Apple high-resolution map requests](https://techcrunch.com/2025/10/15/seoul-weighs-approval-for-google-apple-high-resolution-map-requests/)
+- [Electric aircraft startup Beta Technologies seeks to raise $825M in IPO](https://techcrunch.com/2025/10/15/electric-aircraft-startup-beta-technologies-seeks-to-raise-825m-in-ipo/)
 - [This Thiel-backed venture allows doping in its own sports](https://techcrunch.com/video/this-thiel-backed-venture-allows-doping-in-its-own-sports/)
 - [Not-so-dark matter? Mysterious substance might leave red and blue &#39;fingerprints&#39; on light](https://www.space.com/astronomy/dark-universe/not-so-dark-matter-mysterious-substance-might-leave-red-and-blue-fingerprints-on-light)
 - [Spotify spotted working on a ‘SongDNA’ feature that showcases the people behind your favorite music](https://techcrunch.com/2025/10/15/spotify-spotted-working-on-a-songdna-feature-that-showcases-the-people-behind-your-favorite-music/)
-- [Watch a charred SpaceX Starship land in the ocean after acing Flight Test 11 &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-a-charred-spacex-starship-land-in-the-ocean-after-acing-flight-test-11-video)
-- [Apple adds 650 megawatts of renewables in Europe with more coming in China](https://techcrunch.com/2025/10/15/apple-adds-650-megawatts-of-renewables-in-europe-with-more-coming-in-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
