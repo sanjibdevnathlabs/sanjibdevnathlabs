@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rule-breaking black hole destroys star in puzzling way: &#39;This is truly extraordinary&#39;](https://www.space.com/astronomy/black-holes/rule-breaking-black-hole-destroys-star-in-puzzling-way-this-is-truly-extraordinary)
-- [Microsoft, AWS and Google are trying to drastically reduce China’s role in their supply chains](https://techcrunch.com/2025/10/16/microsoft-aws-and-google-are-trying-to-drastically-reduce-chinas-role-in-their-supply-chains/)
-- [Final 2 days to claim your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/16/final-2-days-to-claim-your-exhibit-table-at-techcrunch-disrupt-2025/)
-- [General Intuition lands $134M seed to teach agents spatial reasoning using video game clips](https://techcrunch.com/2025/10/16/general-intuition-lands-134m-seed-to-teach-agents-spatial-reasoning-using-video-game-clips/)
-- [Amazon launches pay-per-visit virtual healthcare service for kids](https://techcrunch.com/2025/10/16/amazon-launches-pay-per-visit-virtual-healthcare-service-for-kids/)
+- [Deel hits $17.3B valuation after raising $300M from big-name VCs](https://techcrunch.com/2025/10/16/deel-hits-17-3b-valuation-after-raising-300m-from-big-name-vcs/)
+- [Vast gearing up to launch its Haven-1 private space station in 2026](https://www.space.com/space-exploration/human-spaceflight/vast-gearing-up-to-launch-its-haven-1-private-space-station-in-2026)
+- [How a headphone site operator built loyalty startup Lantern to solve his own problems](https://techcrunch.com/2025/10/16/how-a-headphone-site-operator-built-loyalty-startup-lantern-to-solve-his-own-problems/)
+- [Apple loses another AI exec to Meta](https://techcrunch.com/2025/10/16/apple-loses-another-ai-exec-to-meta/)
+- [Pinterest adds controls to let you  limit the amount of ‘AI slop’ in your feed](https://techcrunch.com/2025/10/16/pinterest-adds-controls-to-let-you-limit-the-amount-of-ai-slop-in-your-feed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
