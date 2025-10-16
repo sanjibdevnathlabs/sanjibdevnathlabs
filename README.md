@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why AI startups are taking data into their own hands](https://techcrunch.com/2025/10/16/why-ai-startups-are-taking-data-into-their-own-hands/)
+- [Amazon’s Ring to partner with Flock, a network of AI cameras used by ICE, feds, and police](https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/)
 - [Meta to shut down Messenger desktop apps for Mac and Windows](https://techcrunch.com/2025/10/16/meta-to-shut-down-messenger-desktop-apps-for-mac-and-windows/)
 - [The real reason Google DeepMind is working with a fusion energy startup](https://techcrunch.com/2025/10/16/the-real-reason-google-deepmind-is-working-with-a-fusion-energy-startup/)
 - [Dry ice may burrow through Mars like sandworms in &#39;Dune&#39;](https://www.space.com/astronomy/mars/dry-ice-may-burrow-through-mars-like-sandworms-in-dune)
-- [Rent a Cyber Friend will pay you to talk to strangers online and will show off its platform at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/16/rent-a-cyber-friend-will-pay-you-to-talk-to-strangers-online-and-will-show-off-its-platform-at-techcrunch-disrupt-2025/)
-- [Watch the 2nd-ever launch of China&#39;s record-breaking Gravity-1 rocket &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-the-2nd-ever-launch-of-chinas-record-breaking-gravity-1-rocket-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
