@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Should AI do everything? OpenAI thinks so](https://techcrunch.com/video/should-ai-do-everything-openai-thinks-so/)
+- [Trump administration is on track to cut 1 in 3 EPA staffers by the end of 2025, slashing agency&#39;s ability to keep pollution out of air and water](https://www.space.com/science/climate-change/trump-administration-is-on-track-to-cut-1-in-3-epa-staffers-by-the-end-of-2025-slashing-agencys-ability-to-keep-pollution-out-of-air-and-water)
 - [Scientists discover exoplanet-forming disk with water older than the star it orbits](https://www.space.com/astronomy/exoplanets/scientists-discover-exoplanet-forming-disk-with-water-older-than-the-star-it-orbits)
 - [Facebook’s AI can now suggest edits to the photos still on your phone](https://techcrunch.com/2025/10/17/facebooks-ai-can-now-suggest-edits-to-the-photos-still-on-your-phone/)
 - [Star Wars: Starfighter: Release date, trailers, cast, and everything else we know](https://www.space.com/entertainment/space-movies-shows/star-wars-starfighter-release-date-trailers-cast-and-everything-else-we-know)
-- [ChatGPT’s mobile app is seeing slowing download growth and daily use, analysis shows](https://techcrunch.com/2025/10/17/chatgpts-mobile-app-is-seeing-slowing-download-growth-and-daily-use-analysis-shows/)
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/17/tech-layoffs-2025-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
