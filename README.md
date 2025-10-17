@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Orionid meteor shower peaks under dark, moonless skies next week. Here&#39;s how to see it](https://www.space.com/stargazing/meteor-showers/the-orionid-meteor-shower-peaks-under-dark-moonless-skies-next-week-heres-how-to-see-it)
-- [VLGE is making it easier to world build and shop on Roblox](https://techcrunch.com/2025/10/17/vlge-is-making-it-easier-to-world-build-and-shop-on-roblox/)
-- [Stars and satellites streak over Gemini North telescope | Space photo of the day for Oct. 17, 2025](https://www.space.com/astronomy/stars-and-satellites-streak-over-gemini-north-telescope-space-photo-of-the-day-for-oct-17-2025)
-- [SK Telecom’s AI unit offers staff voluntary retirement program just weeks after launch](https://techcrunch.com/2025/10/17/sk-telecoms-ai-unit-offers-staff-voluntary-retirement-program-just-weeks-after-launch/)
-- [Meta previews new parental controls for its AI experiences](https://techcrunch.com/2025/10/17/meta-previews-new-parental-controls-for-its-ai-experiences/)
+- [WhatsApp will curb the number of messages people and businesses can send without a response](https://techcrunch.com/2025/10/17/whatsapp-will-curb-the-number-of-messages-people-and-businesses-can-send-without-a-response/)
+- [Last flash sale before TechCrunch Disrupt 2025 doors open – save up to $624](https://techcrunch.com/2025/10/17/last-flash-sale-before-techcrunch-disrupt-2025-doors-open-save-up-to-624/)
+- [Could the world&#39;s 1st private space telescope help find stars with habitable exoplanets?](https://www.space.com/astronomy/exoplanets/could-the-worlds-1st-private-space-telescope-help-find-stars-with-habitable-exoplanets)
+- [Apple and Formula 1 ink five-year US streaming deal, bringing all races to Apple TV](https://techcrunch.com/2025/10/17/apple-and-formula-1-ink-five-year-us-streaming-deal-bringing-all-races-to-apple-tv/)
+- [Ousted Luminar CEO Austin Russell wants to buy the company](https://techcrunch.com/2025/10/17/ousted-luminar-ceo-austin-russell-wants-to-buy-the-company/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
