@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [React wants to win you back…](https://www.youtube.com/watch?v=yl0YWA2K2B0)
 - [Apple and Google won’t like this...](https://www.youtube.com/watch?v=qJle6Bki4Og)
 - [The Big Picture: AI, Machine Learning, and Neural Networks](https://www.youtube.com/watch?v=fkKIcCzA5jk)
 - [Cloning Yourself in AI using LoRA  - Computerphile](https://www.youtube.com/watch?v=FBv1xk5_G1c)
 - [Class 15 Video: Encoding Corpora and Voice Leading](https://www.youtube.com/watch?v=0h3ShhOQ6zI)
-- [Video 7b: Streams as Hierarchies: Types of Containers in music21](https://www.youtube.com/watch?v=FgCxLh3Y7pI)
 <!-- YOUTUBE:END -->
 
 ---
