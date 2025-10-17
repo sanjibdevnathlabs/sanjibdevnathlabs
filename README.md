@@ -150,7 +150,7 @@ I'm a software developer passionate about designing and building applications wi
 - [Senate Republicans deepfaked Chuck Schumer, and X hasn’t taken it down](https://techcrunch.com/2025/10/17/senate-republicans-deepfaked-chuck-schumer-and-x-hasnt-taken-it-down/)
 - [Japanese astronaut snaps stunning aurora photo from orbit | On the International Space Station Oct. 13 - 17, 2025](https://www.space.com/space-exploration/international-space-station/japanese-astronaut-snaps-stunning-aurora-photo-from-orbit-on-the-international-space-station-oct-13-17-2025)
 - [If life on Mars exists, it may be preserved in a frozen time capsule](https://www.space.com/astronomy/mars/if-life-on-mars-exists-it-may-be-preserved-in-a-frozen-time-capsule)
-- [Shioli Katsuna on Mitsuki&#39;s &#39;Invasion&#39; season 3 journey and her cool Apex Alien connection &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/shioli-katsuna-on-mitsukis-invasion-season-3-journey-and-her-cool-apex-alien-connection-exclusive)
+- [From page to planet: Sci-fi author match-up](https://www.space.com/entertainment/from-page-to-planet-sci-fi-author-match-up)
 <!-- BLOG-POST-LIST:END -->
 
 ---
