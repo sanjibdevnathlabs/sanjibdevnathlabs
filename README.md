@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stellantis teams up with Pony.ai to develop robotaxis in Europe](https://techcrunch.com/2025/10/17/stellantis-teams-up-with-pony-ai-to-develop-robotaxis-in-europe/)
+- [Crypto’s next chapter with Solana’s Anatoly Yakovenko at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/17/cryptos-next-chapter-with-solanas-anatoly-yakovenko-at-techcrunch-disrupt-2025/)
+- [China launches internet satellites on 600th mission of Long March rocket &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-launches-internet-satellites-on-600th-mission-of-long-march-rocket-video)
+- [Less than 24 hours to spotlight your startup at TechCrunch Disrupt 2025 in front of 10,000 tech leaders and VCs](https://techcrunch.com/2025/10/17/less-than-24-hours-to-spotlight-your-startup-at-techcrunch-disrupt-2025-in-front-of-10000-tech-leaders-and-vcs/)
 - [WhatsApp will curb the number of messages people and businesses can send without a response](https://techcrunch.com/2025/10/17/whatsapp-will-curb-the-number-of-messages-people-and-businesses-can-send-without-a-response/)
-- [Last flash sale before TechCrunch Disrupt 2025 doors open – save up to $624](https://techcrunch.com/2025/10/17/last-flash-sale-before-techcrunch-disrupt-2025-doors-open-save-up-to-624/)
-- [Could the world&#39;s 1st private space telescope help find stars with habitable exoplanets?](https://www.space.com/astronomy/exoplanets/could-the-worlds-1st-private-space-telescope-help-find-stars-with-habitable-exoplanets)
-- [Apple and Formula 1 ink five-year US streaming deal, bringing all races to Apple TV](https://techcrunch.com/2025/10/17/apple-and-formula-1-ink-five-year-us-streaming-deal-bringing-all-races-to-apple-tv/)
-- [Ousted Luminar CEO Austin Russell wants to buy the company](https://techcrunch.com/2025/10/17/ousted-luminar-ceo-austin-russell-wants-to-buy-the-company/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
