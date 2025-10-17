@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Defunct electric aircraft startup Lilium’s tech lives on over at Archer](https://techcrunch.com/2025/10/16/defunct-electric-aircraft-startup-liliums-tech-lives-on-over-at-archer/)
+- [Russian cosmonauts install semiconductor experiment, jettison old HDTV camera during spacewalk outside ISS](https://www.space.com/space-exploration/international-space-station/russian-cosmonauts-install-semiconductor-experiment-jettison-old-hdtv-camera-during-spacewalk-outside-iss)
 - [Comet Lemmon&#39;s ghostly tail haunts the skies above England &lpar;photo&rpar;](https://www.space.com/stargazing/comet-c2025-a6-lemmon-ghostly-tail-haunts-skies-above-england-photo-oct-12-2025)
 - [VC legend Ron Conway quits Salesforce Foundation after Benioff’s National Guard comments](https://techcrunch.com/2025/10/16/vc-legend-ron-conway-quits-salesforce-foundation-after-benioffs-national-guard-comments/)
 - [Watch SpaceX&#39;s Super Heavy Starship booster hover in mid-air before plunging into the sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-spacexs-super-heavy-starship-booster-hover-in-mid-air-before-plunging-into-the-sea-video)
-- [Waymo dips its wheels back into delivery, this time with DoorDash](https://techcrunch.com/2025/10/16/waymo-dips-its-wheels-back-into-delivery-this-time-with-doordash/)
-- [EFF, unions sue Trump administration over alleged mass social media surveillance of legal residents](https://techcrunch.com/2025/10/16/eff-unions-sue-trump-administration-over-alleged-mass-social-media-surveillance-of-legal-residents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
