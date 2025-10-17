@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Star Wars: Starfighter: Release date, trailers, cast, and everything else we know](https://www.space.com/entertainment/space-movies-shows/star-wars-starfighter-release-date-trailers-cast-and-everything-else-we-know)
+- [ChatGPT’s mobile app is seeing slowing download growth and daily use, analysis shows](https://techcrunch.com/2025/10/17/chatgpts-mobile-app-is-seeing-slowing-download-growth-and-daily-use-analysis-shows/)
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/17/tech-layoffs-2025-list/)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/10/17/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [Together, we make TechCrunch Disrupt 2025 unforgettable — thank you to our sponsors](https://techcrunch.com/2025/10/17/together-we-make-disrupt-unforgettable-thank-you-to-our-sponsors/)
-- [US military greenlights up to 100 SpaceX launches per year from California](https://www.space.com/space-exploration/launches-spacecraft/us-military-greenlights-up-to-100-spacex-launches-per-year-from-california)
-- [Strange New Words: Space&#39;s sci-fi reader&#39;s club](https://www.space.com/entertainment/strange-new-words-space-sci-fi-readers-club)
 <!-- BLOG-POST-LIST:END -->
 
 ---
