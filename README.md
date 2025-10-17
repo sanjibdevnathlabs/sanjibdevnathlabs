@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Shioli Katsuna on Mitsuki&#39;s &#39;Invasion&#39; season 3 journey and her cool Apex Alien connection &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/shioli-katsuna-on-mitsukis-invasion-season-3-journey-and-her-cool-apex-alien-connection-exclusive)
+- [If life on Mars exists, it may be preserved in a frozen time capsule](https://www.space.com/astronomy/mars/if-life-on-mars-exists-it-may-be-preserved-in-a-frozen-time-capsule)
 - [From page to planet: Sci-fi author match-up](https://www.space.com/entertainment/from-page-to-planet-sci-fi-author-match-up)
+- [Shioli Katsuna on Mitsuki&#39;s &#39;Invasion&#39; season 3 journey and her cool Apex Alien connection &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/shioli-katsuna-on-mitsukis-invasion-season-3-journey-and-her-cool-apex-alien-connection-exclusive)
 - [Your AI tools run on fracked gas and bulldozed Texas land](https://techcrunch.com/2025/10/17/your-ai-tools-run-on-fracked-gas-and-bulldozed-texas-land/)
 - [Trump DOE decides to keep at least one Biden-era energy program](https://techcrunch.com/2025/10/17/trump-doe-decides-to-keep-at-least-one-biden-era-energy-program/)
-- [Should AI do everything? OpenAI thinks so](https://techcrunch.com/video/should-ai-do-everything-openai-thinks-so/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
