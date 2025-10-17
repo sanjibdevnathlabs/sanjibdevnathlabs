@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta previews new parental controls for its AI experiences](https://techcrunch.com/2025/10/17/meta-previews-new-parental-controls-for-its-ai-experiences/)
+- [With 41% off, Celestron&#39;s lightweight and versatile TrailSeeker 8x42 binoculars are an absolute bargain in this deal](https://www.space.com/stargazing/skywatching-kit/celestron-trailseeker-8x42-binoculars-deal-41-percent-off-october)
+- [How to see Comet C/2025 R2 &lpar;SWAN&rpar; shine in the October sky](https://www.space.com/stargazing/how-to-see-comet-c2025-r2-swan-shine-in-the-october-sky-2025)
 - [Reddit expands its AI-powered search to five new languages](https://techcrunch.com/2025/10/16/reddit-expands-its-ai-powered-search-to-five-new-languages/)
 - [OpenAI pauses Sora video generations of Martin Luther King Jr.](https://techcrunch.com/2025/10/16/openai-pauses-sora-video-generations-of-martin-luther-king-jr/)
-- [Defunct electric aircraft startup Lilium’s tech lives on over at Archer](https://techcrunch.com/2025/10/16/defunct-electric-aircraft-startup-liliums-tech-lives-on-over-at-archer/)
-- [Russian cosmonauts install semiconductor experiment, jettison old HDTV camera during spacewalk outside ISS](https://www.space.com/space-exploration/international-space-station/russian-cosmonauts-install-semiconductor-experiment-jettison-old-hdtv-camera-during-spacewalk-outside-iss)
-- [Comet Lemmon&#39;s ghostly tail haunts the skies above England &lpar;photo&rpar;](https://www.space.com/stargazing/comet-c2025-a6-lemmon-ghostly-tail-haunts-skies-above-england-photo-oct-12-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
