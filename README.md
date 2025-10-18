@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wikipedia says traffic is falling due to AI search summaries and social video](https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/)
+- [This top VC has bet close to 20% of his fund on teenagers — here’s why](https://techcrunch.com/2025/10/18/this-top-vc-bet-close-to-20-of-his-fund-on-teenagers-heres-why/)
 - [YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying](https://techcrunch.com/2025/10/18/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/)
 - [Too burned out to travel? This new app fakes your summer vacation photos for you](https://techcrunch.com/2025/10/18/too-burned-out-to-travel-this-new-app-fakes-your-summer-vacation-photos-for-you/)
 - [Salesforce CEO Marc Benioff apologizes for saying National Guard needed in San Francisco](https://techcrunch.com/2025/10/18/salesforce-ceo-marc-benioff-apologizes-for-saying-national-guard-troops-needed-in-san-francisco/)
-- [WhatsApp changes its terms to bar general purpose chatbots from its platform](https://techcrunch.com/2025/10/18/whatssapp-changes-its-terms-to-bar-general-purpose-chatbots-from-its-platform/)
-- [Physicist and author Brian Greene to host 1st Global Space Awards in London](https://www.space.com/space-exploration/global-space-awards-debut-london-2025-celebrating-space-innovation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
