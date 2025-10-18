@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Too burned out to travel? This new app fakes your summer vacation photos for you](https://techcrunch.com/2025/10/18/too-burned-out-to-travel-this-new-app-fakes-your-summer-vacation-photos-for-you/)
+- [Salesforce CEO Marc Benioff apologizes for saying National Guard troops needed in San Francisco](https://techcrunch.com/2025/10/18/salesforce-ceo-marc-benioff-apologizes-for-saying-national-guard-troops-needed-in-san-francisco/)
 - [WhatsApp changes its terms to bar general purpose chatbots from its platform](https://techcrunch.com/2025/10/18/whatssapp-changes-its-terms-to-bar-general-purpose-chatbots-from-its-platform/)
 - [Physicist and author Brian Greene to host 1st Global Space Awards in London](https://www.space.com/space-exploration/global-space-awards-debut-london-2025-celebrating-space-innovation)
 - [This Week In Space podcast: Episode 182 — The Dream is Alive](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-182-the-dream-is-alive)
-- [How can Europe fight back against incursions by drone aircraft?](https://www.space.com/technology/aerospace/how-can-europe-fight-back-against-incursions-by-drone-aircraft)
-- [The moon and Venus take a morning stroll through the sky on Oct. 19](https://www.space.com/stargazing/the-moon-and-venus-take-a-morning-stroll-through-the-sky-on-oct-19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
