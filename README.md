@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How can Europe fight back against incursions by drone aircraft?](https://www.space.com/technology/aerospace/how-can-europe-fight-back-against-incursions-by-drone-aircraft)
 - [The moon and Venus take a morning stroll through the sky on Oct. 19](https://www.space.com/stargazing/the-moon-and-venus-take-a-morning-stroll-through-the-sky-on-oct-19)
 - [Watch SpaceX launch its 10,000th Starlink satellite to orbit today](https://www.space.com/space-exploration/launches-spacecraft/spacex-10000th-starlink-satellite-launch)
 - [Lego is offering a FREE Northern Lights Diorama and double loyalty points until October 20](https://www.space.com/entertainment/space-toys-lego/lego-is-offering-a-free-northern-lights-diorama-and-double-loyalty-points-until-october-20)
 - [Silicon Valley spooks the AI safety advocates](https://techcrunch.com/2025/10/17/silicon-valley-spooks-the-ai-safety-advocates/)
-- [Ace Frehley leaves a space and sci-fi legacy in rock: A tribute to the &#39;Spaceman&#39; from KISS](https://www.space.com/entertainment/ace-frehley-kiss-guitarist-cosmic-tribute)
 <!-- BLOG-POST-LIST:END -->
 
 ---
