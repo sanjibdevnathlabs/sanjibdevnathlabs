@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Silicon Valley spooks the AI safety advocates](https://techcrunch.com/2025/10/17/silicon-valley-spooks-the-ai-safety-advocates/)
 - [Ace Frehley leaves a space and sci-fi legacy in rock: A tribute to the &#39;Spaceman&#39; from KISS](https://www.space.com/entertainment/ace-frehley-kiss-guitarist-cosmic-tribute)
 - [Senate Republicans deepfaked Chuck Schumer, and X hasn’t taken it down](https://techcrunch.com/2025/10/17/senate-republicans-deepfaked-chuck-schumer-and-x-hasnt-taken-it-down/)
 - [Japanese astronaut snaps stunning aurora photo from orbit | On the International Space Station Oct. 13 - 17, 2025](https://www.space.com/space-exploration/international-space-station/japanese-astronaut-snaps-stunning-aurora-photo-from-orbit-on-the-international-space-station-oct-13-17-2025)
 - [If life on Mars exists, it may be preserved in a frozen time capsule](https://www.space.com/astronomy/mars/if-life-on-mars-exists-it-may-be-preserved-in-a-frozen-time-capsule)
-- [Shioli Katsuna on Mitsuki&#39;s &#39;Invasion&#39; season 3 journey and her cool Apex Alien connection &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/shioli-katsuna-on-mitsukis-invasion-season-3-journey-and-her-cool-apex-alien-connection-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
