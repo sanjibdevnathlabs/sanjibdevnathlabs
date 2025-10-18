@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying](https://techcrunch.com/2025/10/18/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/)
 - [Too burned out to travel? This new app fakes your summer vacation photos for you](https://techcrunch.com/2025/10/18/too-burned-out-to-travel-this-new-app-fakes-your-summer-vacation-photos-for-you/)
-- [Salesforce CEO Marc Benioff apologizes for saying National Guard troops needed in San Francisco](https://techcrunch.com/2025/10/18/salesforce-ceo-marc-benioff-apologizes-for-saying-national-guard-troops-needed-in-san-francisco/)
+- [Salesforce CEO Marc Benioff apologizes for saying National Guard needed in San Francisco](https://techcrunch.com/2025/10/18/salesforce-ceo-marc-benioff-apologizes-for-saying-national-guard-troops-needed-in-san-francisco/)
 - [WhatsApp changes its terms to bar general purpose chatbots from its platform](https://techcrunch.com/2025/10/18/whatssapp-changes-its-terms-to-bar-general-purpose-chatbots-from-its-platform/)
 - [Physicist and author Brian Greene to host 1st Global Space Awards in London](https://www.space.com/space-exploration/global-space-awards-debut-london-2025-celebrating-space-innovation)
-- [This Week In Space podcast: Episode 182 — The Dream is Alive](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-182-the-dream-is-alive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
