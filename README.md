@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kohler unveils a camera for your toilet](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/)
 - [OpenAI’s ‘embarrassing’ math](https://techcrunch.com/2025/10/19/openais-embarrassing-math/)
 - [TechCrunch Mobility: A takeover that might not be hostile](https://techcrunch.com/2025/10/19/techcrunch-mobility-a-takeover-that-might-not-be-hostile/)
 - [The final frontier of trivia: a &#39;Star Trek&#39; themed quiz](https://www.space.com/entertainment/the-final-frontier-of-trivia-a-star-trek-themed-quiz)
 - [The White House is already one of the most blocked accounts on Bluesky](https://techcrunch.com/2025/10/19/the-white-house-is-already-one-of-the-most-blocked-accounts-on-bluesky/)
-- [&#39;Fallout: New Vegas&#39; came out 15 years ago, but there&#39;s never been a better time to return to the Mojave Wasteland](https://www.space.com/entertainment/space-games/fallout-new-vegas-came-out-15-years-ago-but-theres-never-been-a-better-time-to-return-to-the-mojave-wasteland)
 <!-- BLOG-POST-LIST:END -->
 
 ---
