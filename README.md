@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch comets Lemmon and SWAN make their closest approach to Earth live online on Oct. 20](https://www.space.com/astronomy/comets/watch-comets-lemmon-and-swan-make-their-closest-approach-to-earth-live-online-on-oct-20)
 - [A cosmic heart bursts with light in new deep space astrophotographer portrait &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/cosmic-heart-nebula-bursts-with-light-in-new-deep-space-astrophotographer-portrait-photo-october-2025)
 - [Watch SpaceX launch its 10,000th Starlink satellite to orbit today on rocket&#39;s record-breaking 31st flight](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-31st-flight-rocket-reuse-record-starlink-launch)
 - [Spyware maker NSO Group blocked from WhatsApp](https://techcrunch.com/2025/10/18/spyware-maker-nso-group-blocked-from-whatsapp/)
 - [Wikipedia says traffic is falling due to AI search summaries and social video](https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/)
-- [This top VC has bet close to 20% of his fund on teenagers — here’s why](https://techcrunch.com/2025/10/18/this-top-vc-bet-close-to-20-of-his-fund-on-teenagers-heres-why/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
