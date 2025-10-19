@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The final frontier of trivia: a &#39;Star Trek&#39; themed quiz](https://www.space.com/entertainment/the-final-frontier-of-trivia-a-star-trek-themed-quiz)
+- [The White House is already one of the most blocked accounts on Bluesky](https://techcrunch.com/2025/10/19/the-white-house-is-already-one-of-the-most-blocked-accounts-on-bluesky/)
 - [&#39;Fallout: New Vegas&#39; came out 15 years ago, but there&#39;s never been a better time to return to the Mojave Wasteland](https://www.space.com/entertainment/space-games/fallout-new-vegas-came-out-15-years-ago-but-theres-never-been-a-better-time-to-return-to-the-mojave-wasteland)
 - [Watch comets Lemmon and SWAN make their closest approach to Earth live online on Oct. 20](https://www.space.com/astronomy/comets/watch-comets-lemmon-and-swan-make-their-closest-approach-to-earth-live-online-on-oct-20)
 - [A cosmic heart bursts with light in new deep space astrophotographer portrait &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/cosmic-heart-nebula-bursts-with-light-in-new-deep-space-astrophotographer-portrait-photo-october-2025)
-- [Watch SpaceX launch its 10,000th Starlink satellite to orbit today on rocket&#39;s record-breaking 31st flight](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-31st-flight-rocket-reuse-record-starlink-launch)
-- [Spyware maker NSO Group blocked from WhatsApp](https://techcrunch.com/2025/10/18/spyware-maker-nso-group-blocked-from-whatsapp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
