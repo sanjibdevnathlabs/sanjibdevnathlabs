@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scale AI alum raises $9M for AI serving critical industries in MENA](https://techcrunch.com/2025/10/20/scale-ai-alum-raises-9m-for-ai-serving-critical-industries-in-mena/)
+- [The man betting everything on AI and Bill Belichick](https://techcrunch.com/2025/10/20/the-man-betting-everything-on-ai-and-bill-belichick/)
 - [Kohler unveils a camera for your toilet](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/)
 - [OpenAI’s ‘embarrassing’ math](https://techcrunch.com/2025/10/19/openais-embarrassing-math/)
 - [TechCrunch Mobility: A takeover that might not be hostile](https://techcrunch.com/2025/10/19/techcrunch-mobility-a-takeover-that-might-not-be-hostile/)
-- [The final frontier of trivia: a &#39;Star Trek&#39; themed quiz](https://www.space.com/entertainment/the-final-frontier-of-trivia-a-star-trek-themed-quiz)
-- [The White House is already one of the most blocked accounts on Bluesky](https://techcrunch.com/2025/10/19/the-white-house-is-already-one-of-the-most-blocked-accounts-on-bluesky/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
