@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists discover 1st evidence of 4.5-billion-year-old &#39;proto-Earth&#39; buried deep within our planet](https://www.space.com/astronomy/earth/scientists-discover-1st-evidence-of-4-5-billion-year-old-proto-earth-buried-deep-within-our-planet)
+- [Regulators probe Waymo after its robotaxi drove around a stopped school bus](https://techcrunch.com/2025/10/20/regulators-probe-waymo-after-its-robotaxi-drove-around-a-stopped-school-bus/)
 - [San Francisco Mayor Daniel Lurie is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/20/san-francisco-mayor-daniel-lurie-is-coming-to-techcrunch-disrupt-2025/)
 - [OpenEvidence, the ChatGPT for doctors, raises $200M at $6B valuation](https://techcrunch.com/2025/10/20/openevidence-the-chatgpt-for-doctors-raises-200m-at-6b-valuation/)
 - [Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your +1](https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-1/)
-- [Final Countdown: Only 7 days until TechCrunch Disrupt 2025 and ticket prices increase](https://techcrunch.com/2025/10/20/final-countdown-only-7-days-until-techcrunch-disrupt-2025-and-ticket-prices-increase/)
-- [Are we already witnessing space warfare in action? &#39;This is not just posturing&#39;](https://www.space.com/space-exploration/satellites/are-we-already-witnessing-space-warfare-in-action-this-is-not-just-posturing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
