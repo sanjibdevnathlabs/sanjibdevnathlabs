@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [San Francisco Mayor Daniel Lurie is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/20/san-francisco-mayor-daniel-lurie-is-coming-to-techcrunch-disrupt-2025/)
+- [OpenEvidence, the ChatGPT for doctors, raises $200M at $6B valuation](https://techcrunch.com/2025/10/20/openevidence-the-chatgpt-for-doctors-raises-200m-at-6b-valuation/)
+- [Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your +1](https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-1/)
 - [Final Countdown: Only 7 days until TechCrunch Disrupt 2025 and ticket prices increase](https://techcrunch.com/2025/10/20/final-countdown-only-7-days-until-techcrunch-disrupt-2025-and-ticket-prices-increase/)
 - [Are we already witnessing space warfare in action? &#39;This is not just posturing&#39;](https://www.space.com/space-exploration/satellites/are-we-already-witnessing-space-warfare-in-action-this-is-not-just-posturing)
-- [X to launch marketplace for buying inactive handles](https://techcrunch.com/2025/10/20/x-to-launch-marketplace-for-buying-inactive-handles/)
-- [Oura launches redesigned app and ‘Cumulative Stress’ feature](https://techcrunch.com/2025/10/20/oura-launches-redesigned-app-and-cumulative-stress-feature/)
-- [Adobe launches a foundry service that builds custom generative AI models for enteprises](https://techcrunch.com/2025/10/20/adobe-launches-a-foundry-service-that-builds-custom-generative-ai-models-for-enteprises/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
