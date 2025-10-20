@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble spies a glowing &#39;starburst ring&#39; | Space photo of the day for Oct. 20, 2025](https://www.space.com/astronomy/hubble-space-telescope/hubble-spies-a-glowing-starburst-ring-space-photo-of-the-day-for-oct-20-2025)
+- [Amazon DNS outage breaks much of the internet](https://techcrunch.com/2025/10/20/amazon-dns-outage-breaks-much-of-the-internet/)
 - [Don&#39;t miss the Orionid meteor shower peak begin overnight tonight under a moonless sky](https://www.space.com/stargazing/meteor-showers/dont-miss-orion-meteor-shower-peak-oct-21-2025)
 - [Scale AI alum raises $9M for AI serving critical industries in MENA](https://techcrunch.com/2025/10/20/scale-ai-alum-raises-9m-for-ai-serving-critical-industries-in-mena/)
 - [The man betting everything on AI and Bill Belichick](https://techcrunch.com/2025/10/20/the-man-betting-everything-on-ai-and-bill-belichick/)
-- [Kohler unveils a camera for your toilet](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/)
-- [OpenAI’s ‘embarrassing’ math](https://techcrunch.com/2025/10/19/openais-embarrassing-math/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
