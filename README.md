@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. and Australia sign $3B critical minerals deal](https://techcrunch.com/2025/10/20/u-s-and-australia-sign-3b-critical-minerals-deal/)
+- [Meta AI’s app downloads and daily users spiked after launch of ‘Vibes’ AI video feed](https://techcrunch.com/2025/10/20/meta-ais-app-downloads-and-daily-users-spiked-after-launch-of-vibes-ai-video-feed/)
 - [Trump DOE confirms it’s canceling over $700M in manufacturing grants](https://techcrunch.com/2025/10/20/trump-doe-confirms-its-canceling-over-700m-in-manufacturing-grants/)
 - [Anthropic brings Claude Code to the web](https://techcrunch.com/2025/10/20/anthropic-brings-claude-code-to-the-web/)
 - [Virtual particles: How physicists&#39; clever bookkeeping trick could underlie reality](https://www.space.com/science/particle-physics/virtual-particles-how-physicists-clever-bookkeeping-trick-could-underlie-reality)
-- [Cards Against Humanity settles trespass lawsuit against SpaceX](https://techcrunch.com/2025/10/20/cards-against-humanity-settles-trespass-lawsuit-against-spacex/)
-- [FTC removes Lina Khan-era posts about AI risks and open source](https://techcrunch.com/2025/10/20/ftc-removes-lina-khan-era-posts-about-ai-risks-and-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
