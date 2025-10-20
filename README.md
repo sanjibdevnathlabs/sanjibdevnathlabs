@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump DOE confirms it’s canceling over $700M in manufacturing grants](https://techcrunch.com/2025/10/20/trump-doe-confirms-its-canceling-over-700m-in-manufacturing-grants/)
+- [Anthropic brings Claude Code to the web](https://techcrunch.com/2025/10/20/anthropic-brings-claude-code-to-the-web/)
+- [Virtual particles: How physicists&#39; clever bookkeeping trick could underlie reality](https://www.space.com/science/particle-physics/virtual-particles-how-physicists-clever-bookkeeping-trick-could-underlie-reality)
+- [Cards Against Humanity settles trespass lawsuit against SpaceX](https://techcrunch.com/2025/10/20/cards-against-humanity-settles-trespass-lawsuit-against-spacex/)
 - [FTC removes Lina Khan-era posts about AI risks and open source](https://techcrunch.com/2025/10/20/ftc-removes-lina-khan-era-posts-about-ai-risks-and-open-source/)
-- [Shin Starr’s robotic food truck kitchen will serve up Korean BBQ at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/20/shin-starrs-robotic-food-truck-kitchen-will-serve-up-korean-bbq-at-techcrunch-disrupt-2025/)
-- [Automattic CEO calls Tumblr his ‘biggest failure’ so far](https://techcrunch.com/2025/10/20/automattic-ceo-calls-tumblr-his-biggest-failure-so-far/)
-- [Scientists discover 1st evidence of 4.5-billion-year-old &#39;proto-Earth&#39; buried deep within our planet](https://www.space.com/astronomy/earth/scientists-discover-1st-evidence-of-4-5-billion-year-old-proto-earth-buried-deep-within-our-planet)
-- [Regulators probe Waymo after its robotaxi drove around a stopped school bus](https://techcrunch.com/2025/10/20/regulators-probe-waymo-after-its-robotaxi-drove-around-a-stopped-school-bus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
