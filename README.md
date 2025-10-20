@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Final Countdown: Only 7 days until TechCrunch Disrupt 2025 and ticket prices increase](https://techcrunch.com/2025/10/20/final-countdown-only-7-days-until-techcrunch-disrupt-2025-and-ticket-prices-increase/)
+- [Are we already witnessing space warfare in action? &#39;This is not just posturing&#39;](https://www.space.com/space-exploration/satellites/are-we-already-witnessing-space-warfare-in-action-this-is-not-just-posturing)
+- [X to launch marketplace for buying inactive handles](https://techcrunch.com/2025/10/20/x-to-launch-marketplace-for-buying-inactive-handles/)
 - [Oura launches redesigned app and ‘Cumulative Stress’ feature](https://techcrunch.com/2025/10/20/oura-launches-redesigned-app-and-cumulative-stress-feature/)
 - [Adobe launches a foundry service that builds custom generative AI models for enteprises](https://techcrunch.com/2025/10/20/adobe-launches-a-foundry-service-that-builds-custom-generative-ai-models-for-enteprises/)
-- [Spotify now lets you follow venues to get details on upcoming concerts](https://techcrunch.com/2025/10/20/spotify-now-lets-you-follow-venues-to-get-details-on-upcoming-concerts/)
-- [New moon of October 2025 hides red star Antares for some lucky stargazers tomorrow](https://www.space.com/stargazing/new-moon-of-october-2025-hides-red-star-antares-for-some-lucky-stargazers-tomorrow)
-- [Hubble spies a glowing &#39;starburst ring&#39; | Space photo of the day for Oct. 20, 2025](https://www.space.com/astronomy/hubble-space-telescope/hubble-spies-a-glowing-starburst-ring-space-photo-of-the-day-for-oct-20-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
