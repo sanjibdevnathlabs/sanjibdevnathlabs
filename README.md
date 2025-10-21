@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Doom&#39; at 20 — a staggeringly dull movie that really should have been left buried on Mars](https://www.space.com/entertainment/space-movies-shows/doom-at-20-a-staggeringly-dull-movie-that-really-should-have-been-left-buried-on-mars)
 - [YouTube’s likeness detection technology has officially launched](https://techcrunch.com/2025/10/21/youtubes-likeness-detection-technology-has-officially-launched/)
 - [WhatsApp and Messenger add new warnings to help older people avoid online scams](https://techcrunch.com/2025/10/21/whatsapp-and-messenger-add-new-warnings-to-help-older-people-avoid-online-scams/)
 - [Serval raises $47 million to bring AI agents to IT service management](https://techcrunch.com/2025/10/21/serval-raises-47-million-to-bring-ai-agent-to-it-service-management/)
 - [Anthropic CEO claps back after Trump officials accuse firm of AI fear-mongering](https://techcrunch.com/2025/10/21/anthropic-ceo-claps-back-after-trump-officials-accuse-firm-of-ai-fear-mongering/)
-- [General Motors gives up on BrightDrop electric vans](https://techcrunch.com/2025/10/21/general-motors-gives-up-on-brightdrop-electric-vans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
