@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA stacks Artemis 2 moon mission’s Orion capsule atop SLS rocket ahead of 2026 launch](https://www.space.com/space-exploration/artemis/nasa-stacks-artemis-2-moon-missions-orion-capsule-atop-sls-rocket-ahead-of-2026-launch)
-- [X is testing a pay-per-use pricing model for its API](https://techcrunch.com/2025/10/21/x-is-testing-a-pay-per-use-pricing-model-for-its-api/)
-- [Airbnb is becoming more social by allowing users to connect with fellow travelers](https://techcrunch.com/2025/10/21/airbnb-is-becoming-more-social-by-allowing-users-to-connect-with-fellow-travelers/)
-- [&#39;You&#39;re free!&#39; Tiny Japanese satellites escape doomed space station years ahead of its fiery death | Space photo of the day for Oct. 21, 2025](https://www.space.com/space-exploration/international-space-station/youre-free-tiny-japanese-satellites-escape-doomed-space-station-years-ahead-of-its-fiery-death-space-photo-of-the-day-for-oct-21-2025)
-- [Yelp’s AI assistant can now scan restaurant menus to show you what dishes look like](https://techcrunch.com/2025/10/21/yelps-ai-assistant-can-now-scan-restaurant-menus-to-show-you-what-dishes-look-like/)
+- [Veeam acquires data security company Securiti AI for $1.7bn](https://techcrunch.com/2025/10/21/veeam-acquires-data-security-company-securiti-ai-for-1-7bn/)
+- [Only 6 days until TechCrunch Disrupt 2025 kicks off in San Francisco and ticket rates increase](https://techcrunch.com/2025/10/21/only-6-days-until-techcrunch-disrupt-2025-kicks-off-in-san-francisco-and-ticket-rates-increase/)
+- [The other space race: why the world is obsessed with sending objects into orbit](https://www.space.com/space-exploration/the-other-space-race-why-the-world-is-obsessed-with-sending-objects-into-orbit)
+- [NASA&#39;d too hard: The ultimate NASA trivia quiz](https://www.space.com/space-exploration/nasad-too-hard-the-ultimate-nasa-trivia-quiz)
+- [NASA stacks Artemis 2 moon mission&#39;s Orion capsule atop SLS rocket ahead of 2026 launch](https://www.space.com/space-exploration/artemis/nasa-stacks-artemis-2-moon-missions-orion-capsule-atop-sls-rocket-ahead-of-2026-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
