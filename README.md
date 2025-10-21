@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [US-EAST-1 is humanity’s weakest link…](https://www.youtube.com/watch?v=HqL0xhwDz9s)
 - [How Computers Store Data Serially - Computerphile](https://www.youtube.com/watch?v=VEyVm6dU55c)
 - [React wants to win you back…](https://www.youtube.com/watch?v=yl0YWA2K2B0)
 - [Apple and Google won’t like this...](https://www.youtube.com/watch?v=qJle6Bki4Og)
 - [The Big Picture: AI, Machine Learning, and Neural Networks](https://www.youtube.com/watch?v=fkKIcCzA5jk)
-- [Cloning Yourself in AI using LoRA  - Computerphile](https://www.youtube.com/watch?v=FBv1xk5_G1c)
 <!-- YOUTUBE:END -->
 
 ---
