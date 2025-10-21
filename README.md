@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s 1st reusable rocket test fires engines ahead of debut flight &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/chinese-company-landspace-fires-up-its-reusable-rocket-ahead-of-debut-flight-video)
+- [Comet 3I/ATLAS could soon shower NASA&#39;s Jupiter probe in charged particles. Will it reveal more about the interstellar invader?](https://www.space.com/astronomy/comets/comet-3i-atlas-could-soon-shower-nasas-jupiter-probe-in-charged-particles-will-it-reveal-more-about-the-interstellar-invader)
 - [Sources: Multimodal AI startup Fal.ai already raised at $4B+ valuation](https://techcrunch.com/2025/10/21/sources-multimodal-ai-startup-fal-ai-already-raised-at-4b-valuation/)
 - [Cloudflare CEO Matthew Prince is pushing UK regulator to unbundle Google’s search and AI crawlers](https://techcrunch.com/2025/10/21/cloudflare-ceo-matthew-prince-is-pushing-uk-regulator-to-unbundle-googles-search-and-ai-crawlers/)
 - [Neil deGrasse Tyson on his new book and the hidden dangers of defunding science: &#39;That will ultimately bite you in the ass&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-books/neil-degrasse-tyson-on-his-new-book-and-the-hidden-dangers-of-defunding-science-that-will-ultimately-bite-you-in-the-ass-exclusive)
-- [Bill Gates’s old climate lobbyists launch a new firm](https://techcrunch.com/2025/10/21/bill-gatess-old-climate-lobbyists-launch-a-new-firm/)
-- [I spent a month living with a $430 AI pet, the Casio Moflin](https://techcrunch.com/2025/10/21/i-spent-a-month-living-with-a-430-ai-pet-the-casio-moflin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
