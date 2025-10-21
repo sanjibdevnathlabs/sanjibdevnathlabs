@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA stacks Artemis 2 moon mission’s Orion capsule atop SLS rocket ahead of 2026 launch](https://www.space.com/space-exploration/artemis/nasa-stacks-artemis-2-moon-missions-orion-capsule-atop-sls-rocket-ahead-of-2026-launch)
+- [X is testing a pay-per-use pricing model for its API](https://techcrunch.com/2025/10/21/x-is-testing-a-pay-per-use-pricing-model-for-its-api/)
 - [Airbnb is becoming more social by allowing users to connect with fellow travelers](https://techcrunch.com/2025/10/21/airbnb-is-becoming-more-social-by-allowing-users-to-connect-with-fellow-travelers/)
 - [&#39;You&#39;re free!&#39; Tiny Japanese satellites escape doomed space station years ahead of its fiery death | Space photo of the day for Oct. 21, 2025](https://www.space.com/space-exploration/international-space-station/youre-free-tiny-japanese-satellites-escape-doomed-space-station-years-ahead-of-its-fiery-death-space-photo-of-the-day-for-oct-21-2025)
 - [Yelp’s AI assistant can now scan restaurant menus to show you what dishes look like](https://techcrunch.com/2025/10/21/yelps-ai-assistant-can-now-scan-restaurant-menus-to-show-you-what-dishes-look-like/)
-- [This company&#39;s plan to launch 4,000 massive space mirrors has scientists alarmed: &#39;From an astronomical perspective, that&#39;s pretty catastrophic&#39;](https://www.space.com/space-exploration/satellites/this-companys-plan-to-launch-4-000-massive-space-mirrors-has-scientists-alarmed-from-an-astronomical-perspective-thats-pretty-catastrophic)
-- [Spiro raises $100M, the largest-ever investment in Africa’s e-mobility](https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
