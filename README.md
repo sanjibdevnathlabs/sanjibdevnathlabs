@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Neil deGrasse Tyson on his new book and the hidden dangers of defunding science: &#39;That will ultimately bite you in the ass&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-books/neil-degrasse-tyson-on-his-new-book-and-the-hidden-dangers-of-defunding-science-that-will-ultimately-bite-you-in-the-ass-exclusive)
+- [Bill Gates’s old climate lobbyists launch a new firm](https://techcrunch.com/2025/10/21/bill-gatess-old-climate-lobbyists-launch-a-new-firm/)
+- [I spent a month living with a $430 AI pet, the Casio Moflin](https://techcrunch.com/2025/10/21/i-spent-a-month-living-with-a-430-ai-pet-the-casio-moflin/)
+- [Google Fi to add AI-enhanced audio and RCS web messaging](https://techcrunch.com/2025/10/21/google-fi-to-add-ai-enhanced-audio-and-rcs-web-messaging/)
 - [Chemistry on Saturn&#39;s huge moon Titan is even weirder than we thought](https://www.space.com/astronomy/saturn/chemistry-on-saturns-huge-moon-titan-is-even-weirder-than-we-thought)
-- [As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2025](https://techcrunch.com/2025/10/21/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2025/)
-- [A16z-backed Codi launches AI agent office manager](https://techcrunch.com/2025/10/21/a16z-backed-codi-launches-ai-agent-office-manager/)
-- [OpenAI launches an AI-powered browser: ChatGPT Atlas](https://techcrunch.com/2025/10/21/openai-launches-an-ai-powered-browser-chatgpt-atlas/)
-- [&#39;Doom&#39; at 20 — a staggeringly dull movie that really should have been left buried on Mars](https://www.space.com/entertainment/space-movies-shows/doom-at-20-a-staggeringly-dull-movie-that-really-should-have-been-left-buried-on-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
