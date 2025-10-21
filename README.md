@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple alerts exploit developer that his iPhone was targeted with government spyware](https://techcrunch.com/2025/10/21/apple-alerts-exploit-developer-that-his-iphone-was-targeted-with-government-spyware/)
+- [The full TechCrunch Disrupt Stage revealed: Where the future of tech breaks first](https://techcrunch.com/2025/10/21/the-full-techcrunch-disrupt-stage-revealed-where-the-future-of-tech-breaks-first/)
+- [Aura introduces a $499 e-ink digital photo frame that lets you go cordless](https://techcrunch.com/2025/10/21/aura-introduces-a-499-e-ink-digital-photo-frame-that-lets-you-go-cordless/)
+- [HBO Max just got more expensive](https://techcrunch.com/2025/10/21/hbo-max-just-got-more-expensive/)
 - [Veeam acquires data security company Securiti AI for $1.7bn](https://techcrunch.com/2025/10/21/veeam-acquires-data-security-company-securiti-ai-for-1-7bn/)
-- [Only 6 days until TechCrunch Disrupt 2025 kicks off in San Francisco and ticket rates increase](https://techcrunch.com/2025/10/21/only-6-days-until-techcrunch-disrupt-2025-kicks-off-in-san-francisco-and-ticket-rates-increase/)
-- [The other space race: why the world is obsessed with sending objects into orbit](https://www.space.com/space-exploration/the-other-space-race-why-the-world-is-obsessed-with-sending-objects-into-orbit)
-- [NASA&#39;d too hard: The ultimate NASA trivia quiz](https://www.space.com/space-exploration/nasad-too-hard-the-ultimate-nasa-trivia-quiz)
-- [NASA stacks Artemis 2 moon mission&#39;s Orion capsule atop SLS rocket ahead of 2026 launch](https://www.space.com/space-exploration/artemis/nasa-stacks-artemis-2-moon-missions-orion-capsule-atop-sls-rocket-ahead-of-2026-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
