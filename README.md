@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This company&#39;s plan to launch 4,000 massive space mirrors has scientists alarmed: &#39;From an astronomical perspective, that&#39;s pretty catastrophic&#39;](https://www.space.com/space-exploration/satellites/this-companys-plan-to-launch-4-000-massive-space-mirrors-has-scientists-alarmed-from-an-astronomical-perspective-thats-pretty-catastrophic)
+- [Spiro raises $100M, the largest-ever investment in Africa’s e-mobility](https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/)
 - [European AI rising star Nexos.ai raises €30M to unlock enterprise AI adoption](https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/)
 - [YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A](https://techcrunch.com/2025/10/20/yc-alum-cercli-an-ai-powered-rippling-for-mena-raises-oversubscribed-12m-series-a/)
 - [Apple will let users roll back the Liquid Glass look with new ‘tinted’ option](https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/)
-- [Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs](https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/)
-- [Mysterious smoldering wreckage in Australian Outback is likely part of a Chinese rocket](https://www.space.com/space-exploration/launches-spacecraft/mysterious-smoldering-wreckage-in-australian-outback-is-likely-part-of-a-chinese-rocket)
 <!-- BLOG-POST-LIST:END -->
 
 ---
