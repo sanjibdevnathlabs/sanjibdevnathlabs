@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple alerts exploit developer that his iPhone was targeted with government spyware](https://techcrunch.com/2025/10/21/apple-alerts-exploit-developer-that-his-iphone-was-targeted-with-government-spyware/)
-- [The full TechCrunch Disrupt Stage revealed: Where the future of tech breaks first](https://techcrunch.com/2025/10/21/the-full-techcrunch-disrupt-stage-revealed-where-the-future-of-tech-breaks-first/)
-- [Aura introduces a $499 e-ink digital photo frame that lets you go cordless](https://techcrunch.com/2025/10/21/aura-introduces-a-499-e-ink-digital-photo-frame-that-lets-you-go-cordless/)
-- [HBO Max just got more expensive](https://techcrunch.com/2025/10/21/hbo-max-just-got-more-expensive/)
-- [Veeam acquires data security company Securiti AI for $1.7bn](https://techcrunch.com/2025/10/21/veeam-acquires-data-security-company-securiti-ai-for-1-7bn/)
+- [YouTube’s likeness detection technology has officially launched](https://techcrunch.com/2025/10/21/youtubes-likeness-detection-technology-has-officially-launched/)
+- [WhatsApp and Messenger add new warnings to help older people avoid online scams](https://techcrunch.com/2025/10/21/whatsapp-and-messenger-add-new-warnings-to-help-older-people-avoid-online-scams/)
+- [Serval raises $47 million to bring AI agents to IT service management](https://techcrunch.com/2025/10/21/serval-raises-47-million-to-bring-ai-agent-to-it-service-management/)
+- [Anthropic CEO claps back after Trump officials accuse firm of AI fear-mongering](https://techcrunch.com/2025/10/21/anthropic-ceo-claps-back-after-trump-officials-accuse-firm-of-ai-fear-mongering/)
+- [General Motors gives up on BrightDrop electric vans](https://techcrunch.com/2025/10/21/general-motors-gives-up-on-brightdrop-electric-vans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
