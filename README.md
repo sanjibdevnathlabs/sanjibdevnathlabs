@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Airbnb is becoming more social by allowing users to connect with fellow travelers](https://techcrunch.com/2025/10/21/airbnb-is-becoming-more-social-by-allowing-users-to-connect-with-fellow-travelers/)
+- [&#39;You&#39;re free!&#39; Tiny Japanese satellites escape doomed space station years ahead of its fiery death | Space photo of the day for Oct. 21, 2025](https://www.space.com/space-exploration/international-space-station/youre-free-tiny-japanese-satellites-escape-doomed-space-station-years-ahead-of-its-fiery-death-space-photo-of-the-day-for-oct-21-2025)
 - [Yelp’s AI assistant can now scan restaurant menus to show you what dishes look like](https://techcrunch.com/2025/10/21/yelps-ai-assistant-can-now-scan-restaurant-menus-to-show-you-what-dishes-look-like/)
 - [This company&#39;s plan to launch 4,000 massive space mirrors has scientists alarmed: &#39;From an astronomical perspective, that&#39;s pretty catastrophic&#39;](https://www.space.com/space-exploration/satellites/this-companys-plan-to-launch-4-000-massive-space-mirrors-has-scientists-alarmed-from-an-astronomical-perspective-thats-pretty-catastrophic)
 - [Spiro raises $100M, the largest-ever investment in Africa’s e-mobility](https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/)
-- [European AI rising star Nexos.ai raises €30M to unlock enterprise AI adoption](https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/)
-- [YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A](https://techcrunch.com/2025/10/20/yc-alum-cercli-an-ai-powered-rippling-for-mena-raises-oversubscribed-12m-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
