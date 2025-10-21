@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sources: Multimodal AI startup Fal.ai already raised at $4B+ valuation](https://techcrunch.com/2025/10/21/sources-multimodal-ai-startup-fal-ai-already-raised-at-4b-valuation/)
+- [Cloudflare CEO Matthew Prince is pushing UK regulator to unbundle Google’s search and AI crawlers](https://techcrunch.com/2025/10/21/cloudflare-ceo-matthew-prince-is-pushing-uk-regulator-to-unbundle-googles-search-and-ai-crawlers/)
 - [Neil deGrasse Tyson on his new book and the hidden dangers of defunding science: &#39;That will ultimately bite you in the ass&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-books/neil-degrasse-tyson-on-his-new-book-and-the-hidden-dangers-of-defunding-science-that-will-ultimately-bite-you-in-the-ass-exclusive)
 - [Bill Gates’s old climate lobbyists launch a new firm](https://techcrunch.com/2025/10/21/bill-gatess-old-climate-lobbyists-launch-a-new-firm/)
 - [I spent a month living with a $430 AI pet, the Casio Moflin](https://techcrunch.com/2025/10/21/i-spent-a-month-living-with-a-430-ai-pet-the-casio-moflin/)
-- [Google Fi to add AI-enhanced audio and RCS web messaging](https://techcrunch.com/2025/10/21/google-fi-to-add-ai-enhanced-audio-and-rcs-web-messaging/)
-- [Chemistry on Saturn&#39;s huge moon Titan is even weirder than we thought](https://www.space.com/astronomy/saturn/chemistry-on-saturns-huge-moon-titan-is-even-weirder-than-we-thought)
 <!-- BLOG-POST-LIST:END -->
 
 ---
