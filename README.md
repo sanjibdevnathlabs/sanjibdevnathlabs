@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See a razor-thin crescent moon line up with Mars and Mercury at sunset on Oct. 23](https://www.space.com/stargazing/crescent-moon-lines-up-with-mars-and-mercury-sunset-oct-23-2025)
 - [OpenAI’s Atlas is more about ChatGPT than the web](https://techcrunch.com/2025/10/22/openais-atlas-is-more-about-chatgpt-than-the-web/)
 - [&#39;Sean Dummy&#39;: Why is Elon Musk attacking the acting NASA chief?](https://www.space.com/space-exploration/sean-dummy-why-is-elon-musk-attacking-the-acting-nasa-chief)
 - [Amazon unveils AI smart glasses for its delivery drivers](https://techcrunch.com/2025/10/22/amazon-unveils-ai-smart-glasses-for-its-delivery-drivers/)
 - [Amazon will buy thousands of pedal-assist cargo vehicles from Rivian spinoff Also](https://techcrunch.com/2025/10/22/amazon-will-buy-thousands-of-pedal-assist-cargo-vehicles-from-rivian-spinoff-also/)
-- [Should you trust Tools for Humanity’s iris-scanning orb?](https://techcrunch.com/video/should-you-trust-tools-for-humanitys-iris-scanning-orb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
