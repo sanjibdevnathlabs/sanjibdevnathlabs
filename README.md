@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [David Sacks’ Craft leads $42 million Series A in govtech startup Starbridge](https://techcrunch.com/2025/10/22/david-sacks-craft-leads-42-million-series-a-in-govtech-startup-starbridge/)
+- [The last-minute pass savings are on! Only 5 days until TechCrunch Disrupt 2025 ignites the startup world](https://techcrunch.com/2025/10/22/the-last-minute-pass-savings-are-on-only-5-days-until-techcrunch-disrupt-2025-ignites-the-startup-world/)
+- [Sumble emerges from stealth with $38.5M to bring AI-powered context to sales intelligence](https://techcrunch.com/2025/10/22/sumble-emerges-from-stealth-with-38-5m-to-bring-ai-powered-context-to-sales-intelligence/)
+- [Shuttle raises $6 million to fix vibe-coding’s deployment problem](https://techcrunch.com/2025/10/22/shuttle-raises-6-million-to-fix-vibe-codings-deployment-problem/)
 - [YouTube adds at timer for you to stop scrolling Shorts](https://techcrunch.com/2025/10/22/youtube-adds-at-timer-for-you-to-stop-scrolling-shorts/)
-- [Life360 ventures into pet tech with the launch of a new GPS tracker](https://techcrunch.com/2025/10/22/life360-ventures-into-pet-tech-with-the-launch-of-a-new-gps-tracker/)
-- [Satellites watch glaciers melting in Patagonia | Space photo of the day for Oct. 22, 2025](https://www.space.com/astronomy/earth/satellites-watch-glaciers-melting-in-patagonia-space-photo-of-the-day-for-oct-22-2025)
-- [One startup’s quest to store electricity in the ocean](https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/)
-- [Volcanic explosions on Mars may have left massive ice deposits at the Red Planet&#39;s equator](https://www.space.com/astronomy/mars/volcanic-explosions-on-mars-may-have-left-massive-ice-deposits-at-the-red-planets-equator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
