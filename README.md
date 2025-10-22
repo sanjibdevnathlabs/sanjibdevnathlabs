@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube adds at timer for you to stop scrolling Shorts](https://techcrunch.com/2025/10/22/youtube-adds-at-timer-for-you-to-stop-scrolling-shorts/)
 - [Life360 ventures into pet tech with the launch of a new GPS tracker](https://techcrunch.com/2025/10/22/life360-ventures-into-pet-tech-with-the-launch-of-a-new-gps-tracker/)
 - [Satellites watch glaciers melting in Patagonia | Space photo of the day for Oct. 22, 2025](https://www.space.com/astronomy/earth/satellites-watch-glaciers-melting-in-patagonia-space-photo-of-the-day-for-oct-22-2025)
 - [One startup’s quest to store electricity in the ocean](https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/)
 - [Volcanic explosions on Mars may have left massive ice deposits at the Red Planet&#39;s equator](https://www.space.com/astronomy/mars/volcanic-explosions-on-mars-may-have-left-massive-ice-deposits-at-the-red-planets-equator)
-- [Watch SpaceX launch its record-breaking 133rd Falcon 9 mission of the year today](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-record-133rd-falcon-9-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
