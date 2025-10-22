@@ -146,10 +146,10 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta cuts 600 AI jobs amid ongoing reorganization](https://techcrunch.com/2025/10/22/meta-cuts-600-ai-jobs-amid-ongoing-reorganization/)
-- [U.K. designates Apple and Google as having ‘strategic market status,’ opening door for more regulation](https://techcrunch.com/2025/10/22/u-k-designates-apple-and-google-as-having-strategic-market-status-opening-door-for-more-regulation/)
-- [GM’s under-the-hood overhaul puts AI and automated driving at the center](https://techcrunch.com/2025/10/22/gms-under-the-hood-overhaul-puts-ai-and-automated-driving-at-the-center/)
 - [GM is bringing Google Gemini-powered AI assistant to cars in 2026](https://techcrunch.com/2025/10/22/gm-is-bringing-google-gemini-powered-ai-assistant-to-cars-in-2026/)
+- [Meta cuts 600 AI jobs amid ongoing reorganization](https://techcrunch.com/2025/10/22/meta-cuts-600-ai-jobs-amid-ongoing-reorganization/)
+- [UK designates Apple and Google as having ‘strategic market status,’ opening door for more regulation](https://techcrunch.com/2025/10/22/u-k-designates-apple-and-google-as-having-strategic-market-status-opening-door-for-more-regulation/)
+- [GM’s under-the-hood overhaul puts AI and automated driving at the center](https://techcrunch.com/2025/10/22/gms-under-the-hood-overhaul-puts-ai-and-automated-driving-at-the-center/)
 - [GM to introduce eyes-off, hands-off driving system in 2028](https://techcrunch.com/2025/10/22/gm-to-introduce-eyes-off-hands-off-driving-system-in-2028/)
 <!-- BLOG-POST-LIST:END -->
 
