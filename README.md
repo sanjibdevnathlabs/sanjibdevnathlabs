@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When is a &#39;double fireball&#39; not a &#39;double fireball&#39;? Wild meteor videos explained by a trick of the light](https://www.space.com/stargazing/meteor-showers/when-is-a-double-fireball-not-a-double-fireball-wild-meteor-videos-explained-by-a-trick-of-the-light)
+- [Why Cohere’s ex-AI research lead is betting against the scaling race](https://techcrunch.com/2025/10/22/why-coheres-ex-ai-research-lead-is-betting-against-the-scaling-race/)
+- [OpenAI requested memorial attendee list in ChatGPT suicide lawsuit](https://techcrunch.com/2025/10/22/openai-requested-memorial-attendee-list-in-chatgpt-suicide-lawsuit/)
+- [Tesla’s record sales quarter barely boosted profit](https://techcrunch.com/2025/10/22/teslas-record-sales-quarter-barely-boosted-profit/)
 - [See a razor-thin crescent moon line up with Mars and Mercury at sunset on Oct. 23](https://www.space.com/stargazing/crescent-moon-lines-up-with-mars-and-mercury-sunset-oct-23-2025)
-- [OpenAI’s Atlas is more about ChatGPT than the web](https://techcrunch.com/2025/10/22/openais-atlas-is-more-about-chatgpt-than-the-web/)
-- [&#39;Sean Dummy&#39;: Why is Elon Musk attacking the acting NASA chief?](https://www.space.com/space-exploration/sean-dummy-why-is-elon-musk-attacking-the-acting-nasa-chief)
-- [Amazon unveils AI smart glasses for its delivery drivers](https://techcrunch.com/2025/10/22/amazon-unveils-ai-smart-glasses-for-its-delivery-drivers/)
-- [Amazon will buy thousands of pedal-assist cargo vehicles from Rivian spinoff Also](https://techcrunch.com/2025/10/22/amazon-will-buy-thousands-of-pedal-assist-cargo-vehicles-from-rivian-spinoff-also/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
