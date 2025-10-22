@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch its record-breaking 133rd Falcon 9 mission of the year today](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-record-133rd-falcon-9-mission)
 - [Netflix goes ‘all in’ on generative AI as entertainment industry remains divided](https://techcrunch.com/2025/10/21/netflix-goes-all-in-on-generative-ai-as-entertainment-industry-remains-divided/)
 - [Open source agentic startup LangChain hits $1.25B valuation](https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/)
 - [Sesame, the conversational AI startup from Oculus founders, raises $250M and launches beta](https://techcrunch.com/2025/10/21/sesame-the-conversational-ai-startup-from-oculus-founders-raises-250m-and-launches-beta/)
 - [OpenAI’s new browser is a broadside shot at Google](https://techcrunch.com/2025/10/21/openais-new-browser-is-a-broadside-shot-at-google/)
-- [China&#39;s 1st reusable rocket test fires engines ahead of debut flight &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/chinese-company-landspace-fires-up-its-reusable-rocket-ahead-of-debut-flight-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
