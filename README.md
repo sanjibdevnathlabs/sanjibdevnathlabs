@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snapchat makes its first open prompt AI Lens available for free in the US](https://techcrunch.com/2025/10/22/snapchat-makes-its-first-open-prompt-ai-lens-available-for-free-in-the-us/)
 - [When is a &#39;double fireball&#39; not a &#39;double fireball&#39;? Wild meteor videos explained by a trick of the light](https://www.space.com/stargazing/meteor-showers/when-is-a-double-fireball-not-a-double-fireball-wild-meteor-videos-explained-by-a-trick-of-the-light)
 - [Why Cohere’s ex-AI research lead is betting against the scaling race](https://techcrunch.com/2025/10/22/why-coheres-ex-ai-research-lead-is-betting-against-the-scaling-race/)
 - [OpenAI requested memorial attendee list in ChatGPT suicide lawsuit](https://techcrunch.com/2025/10/22/openai-requested-memorial-attendee-list-in-chatgpt-suicide-lawsuit/)
 - [Tesla’s record sales quarter barely boosted profit](https://techcrunch.com/2025/10/22/teslas-record-sales-quarter-barely-boosted-profit/)
-- [See a razor-thin crescent moon line up with Mars and Mercury at sunset on Oct. 23](https://www.space.com/stargazing/crescent-moon-lines-up-with-mars-and-mercury-sunset-oct-23-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
