@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram rolls out custom icons…but only for teens](https://techcrunch.com/2025/10/22/instagram-rolls-out-custom-icons-but-only-for-teens/)
-- [Tinder will require new users in the US to verify their identity with a selfie](https://techcrunch.com/2025/10/22/tinder-will-require-new-users-in-the-us-to-verify-their-identity-with-a-selfie/)
-- [Giant star Betelgeuse has a &#39;Betelbuddy&#39; — and it&#39;s very little indeed](https://www.space.com/astronomy/stars/giant-star-betelgeuse-has-a-betelbuddy-and-its-very-little-indeed)
-- [GM is bringing Google Gemini-powered AI assistant to cars in 2026](https://techcrunch.com/2025/10/22/gm-is-bringing-google-gemini-powered-ai-assistant-to-cars-in-2026/)
-- [Meta cuts 600 AI jobs amid ongoing reorganization](https://techcrunch.com/2025/10/22/meta-cuts-600-ai-jobs-amid-ongoing-reorganization/)
+- [Amazon will buy thousands of pedal-assist cargo vehicles from Rivian spinoff Also](https://techcrunch.com/2025/10/22/amazon-will-buy-thousands-of-pedal-assist-cargo-vehicles-from-rivian-spinoff-also/)
+- [Should you trust Tools for Humanity’s iris-scanning orb?](https://techcrunch.com/video/should-you-trust-tools-for-humanitys-iris-scanning-orb/)
+- [Can we dim the sun to fight climate change? Not without risking weather patterns, scientists suggest](https://www.space.com/science/climate-change/can-we-dim-the-sun-to-fight-climate-change-not-without-risking-weather-patterns-scientists-suggest)
+- [What’s Updog? Datadog’s new tool tells you which apps are down](https://techcrunch.com/2025/10/22/whats-updog-datadogs-new-tool-tells-you-which-apps-are-down/)
+- [Rivian spinoff Also reveals a high-end modular e-bike for $4,500](https://techcrunch.com/2025/10/22/rivian-spinoff-also-reveals-a-high-end-modular-e-bike-for-4500/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
