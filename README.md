@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [OpenAI’s new browser feels familiar…](https://www.youtube.com/watch?v=5uSboan45Zg)
 - [He Hacked ChatGPT…with Its Own Image Generator](https://www.youtube.com/shorts/XApvdsXEyyw)
 - [US-EAST-1 is humanity’s weakest link…](https://www.youtube.com/watch?v=HqL0xhwDz9s)
 - [How Computers Store Data Serially - Computerphile](https://www.youtube.com/watch?v=VEyVm6dU55c)
 - [React wants to win you back…](https://www.youtube.com/watch?v=yl0YWA2K2B0)
-- [Apple and Google won’t like this...](https://www.youtube.com/watch?v=qJle6Bki4Og)
 <!-- YOUTUBE:END -->
 
 ---
