@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [David Sacks’ Craft leads $42 million Series A in govtech startup Starbridge](https://techcrunch.com/2025/10/22/david-sacks-craft-leads-42-million-series-a-in-govtech-startup-starbridge/)
-- [The last-minute pass savings are on! Only 5 days until TechCrunch Disrupt 2025 ignites the startup world](https://techcrunch.com/2025/10/22/the-last-minute-pass-savings-are-on-only-5-days-until-techcrunch-disrupt-2025-ignites-the-startup-world/)
-- [Sumble emerges from stealth with $38.5M to bring AI-powered context to sales intelligence](https://techcrunch.com/2025/10/22/sumble-emerges-from-stealth-with-38-5m-to-bring-ai-powered-context-to-sales-intelligence/)
-- [Shuttle raises $6 million to fix vibe-coding’s deployment problem](https://techcrunch.com/2025/10/22/shuttle-raises-6-million-to-fix-vibe-codings-deployment-problem/)
-- [YouTube adds at timer for you to stop scrolling Shorts](https://techcrunch.com/2025/10/22/youtube-adds-at-timer-for-you-to-stop-scrolling-shorts/)
+- [Meta cuts 600 AI jobs amid ongoing reorganization](https://techcrunch.com/2025/10/22/meta-cuts-600-ai-jobs-amid-ongoing-reorganization/)
+- [U.K. designates Apple and Google as having ‘strategic market status,’ opening door for more regulation](https://techcrunch.com/2025/10/22/u-k-designates-apple-and-google-as-having-strategic-market-status-opening-door-for-more-regulation/)
+- [GM’s under-the-hood overhaul puts AI and automated driving at the center](https://techcrunch.com/2025/10/22/gms-under-the-hood-overhaul-puts-ai-and-automated-driving-at-the-center/)
+- [GM is bringing Google Gemini-powered AI assistant to cars in 2026](https://techcrunch.com/2025/10/22/gm-is-bringing-google-gemini-powered-ai-assistant-to-cars-in-2026/)
+- [GM to introduce eyes-off, hands-off driving system in 2028](https://techcrunch.com/2025/10/22/gm-to-introduce-eyes-off-hands-off-driving-system-in-2028/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
