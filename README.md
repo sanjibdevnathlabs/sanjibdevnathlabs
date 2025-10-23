@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Orionid meteor shower 2025 lights the night sky over Egypt in stunning photo](https://www.space.com/stargazing/meteor-showers/orionid-meteor-shower-lights-the-night-sky-over-egypt-photo-oct-19-2025)
+- [YouTube paid out $8B to the music industry in 12 months](https://techcrunch.com/2025/10/23/youtube-paid-out-8b-to-the-music-industry-in-12-months/)
+- [20-year-old dropouts built AI notetaker Turbo AI to 5 million users](https://techcrunch.com/2025/10/23/20-year-old-dropouts-built-ai-notetaker-turbo-ai-to-5-million-users/)
+- [Instagram users can now use Meta AI editing tools directly in IG Stories](https://techcrunch.com/2025/10/23/instagram-users-can-now-use-meta-ai-editing-tools-directly-in-ig-stories/)
 - [Fallout games in order: Chronological and release date](https://www.space.com/entertainment/space-games/fallout-games-in-order-chronological-and-release-date)
-- [Introducing Build Mode: TechCrunch’s new podcast for founders](https://techcrunch.com/2025/10/23/introducing-build-mode-techcrunchs-new-podcast-for-founders/)
-- [San Francisco Mayor Daniel Lurie is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/23/san-francisco-mayor-daniel-lurie-is-coming-to-techcrunch-disrupt-2025/)
-- [Two days after OpenAI’s Atlas, Microsoft launches a nearly identical AI browser](https://techcrunch.com/2025/10/23/two-days-after-openais-atlas-microsoft-launches-a-nearly-identical-ai-browser/)
-- [Powerful NVIDIA chip launching to orbit next month to pave way for space-based data centers](https://www.space.com/technology/nvidia-gpu-heads-to-space-starcloud-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
