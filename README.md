@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon’s new AI shopping tool tells you why you should buy a recommended product](https://techcrunch.com/2025/10/23/amazons-new-ai-shopping-tool-tells-you-why-you-should-buy-a-recommended-product/)
+- [&#39;Fallout&#39; Season 2: Release date, trailers, cast, &amp; everything else we know](https://www.space.com/entertainment/space-movies-shows/fallout-season-2-release-date-trailers-cast-and-everything-else-we-know)
 - [Redwood Materials raises another $350M to power up its energy storage business](https://techcrunch.com/2025/10/23/redwood-materials-raises-another-350-million-to-power-up-its-energy-storage-business/)
 - [Earth photobombs the sun in satellite image | Space photo of the day for Oct. 23, 2025](https://www.space.com/astronomy/earth/earth-photobombs-the-sun-in-satellite-image-space-photo-of-the-day-for-oct-23-2025)
 - [Scientists discover new way to grow materials on-demand using crystals and light](https://www.space.com/technology/scientists-discover-new-way-to-grow-materials-on-demand-using-crystals-and-light)
-- [As China’s 996 culture spreads, South Korea’s tech sector grapples with 52-hour limit](https://techcrunch.com/2025/10/22/as-chinas-996-culture-spreads-south-koreas-tech-sector-grapples-with-52-hour-limit/)
-- [Elon Musk frets over controlling Tesla’s ‘robot army’ as car biz rebounds slightly](https://techcrunch.com/2025/10/22/elon-musk-frets-over-controlling-teslas-robot-army-as-car-biz-rebounds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
