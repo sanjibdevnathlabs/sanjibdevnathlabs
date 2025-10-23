@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [OpenAI’s new browser feels familiar…](https://www.youtube.com/watch?v=5uSboan45Zg)
-- [He Hacked ChatGPT…with Its Own Image Generator](https://www.youtube.com/shorts/XApvdsXEyyw)
-- [US-EAST-1 is humanity’s weakest link…](https://www.youtube.com/watch?v=HqL0xhwDz9s)
-- [How Computers Store Data Serially - Computerphile](https://www.youtube.com/watch?v=VEyVm6dU55c)
-- [React wants to win you back…](https://www.youtube.com/watch?v=yl0YWA2K2B0)
+- [Session 4-1: Networked Geothermal: The European Experience](https://www.youtube.com/watch?v=j0Bhj4eCCws)
+- [Session 8-3: Thermal Energy Network Evolution of the Penn South Community in Manhattan](https://www.youtube.com/watch?v=h_LNDKRZ_EI)
+- [Session 1-3: Health Impacts of Methane &lpar;&quot;Natural&quot;&rpar; Gas Systems](https://www.youtube.com/watch?v=dgSFOyxFHW8)
+- [Session 7-3: Techno-Economic Modeling of GENs with HEATNETS Model](https://www.youtube.com/watch?v=NW7cfJwoFMk)
+- [Session 5-3: Introduction to Design of GENs](https://www.youtube.com/watch?v=TxtNBnAXmh8)
 <!-- YOUTUBE:END -->
 
 ---
