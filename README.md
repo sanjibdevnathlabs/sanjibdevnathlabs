@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fallout games in order: Chronological and release date](https://www.space.com/entertainment/space-games/fallout-games-in-order-chronological-and-release-date)
 - [Introducing Build Mode: TechCrunch’s new podcast for founders](https://techcrunch.com/2025/10/23/introducing-build-mode-techcrunchs-new-podcast-for-founders/)
 - [San Francisco Mayor Daniel Lurie is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/23/san-francisco-mayor-daniel-lurie-is-coming-to-techcrunch-disrupt-2025/)
 - [Two days after OpenAI’s Atlas, Microsoft launches a nearly identical AI browser](https://techcrunch.com/2025/10/23/two-days-after-openais-atlas-microsoft-launches-a-nearly-identical-ai-browser/)
 - [Powerful NVIDIA chip launching to orbit next month to pave way for space-based data centers](https://www.space.com/technology/nvidia-gpu-heads-to-space-starcloud-1)
-- [This is the largest-ever galaxy cluster catalog. Could it reveal clues about the dark universe?](https://www.space.com/astronomy/dark-universe/this-is-the-largest-ever-galaxy-cluster-catalog-could-it-reveal-clues-about-the-dark-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
