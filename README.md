@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As China’s 996 culture spreads, South Korea’s tech sector grapples with 52-hour limit](https://techcrunch.com/2025/10/22/as-chinas-996-culture-spreads-south-koreas-tech-sector-grapples-with-52-hour-limit/)
 - [Elon Musk frets over controlling Tesla’s ‘robot army’ as car biz rebounds slightly](https://techcrunch.com/2025/10/22/elon-musk-frets-over-controlling-teslas-robot-army-as-car-biz-rebounds/)
 - [Snapchat makes its first open prompt AI Lens available for free in the US](https://techcrunch.com/2025/10/22/snapchat-makes-its-first-open-prompt-ai-lens-available-for-free-in-the-us/)
 - [When is a &#39;double fireball&#39; not a &#39;double fireball&#39;? Wild meteor videos explained by a trick of the light](https://www.space.com/stargazing/meteor-showers/when-is-a-double-fireball-not-a-double-fireball-wild-meteor-videos-explained-by-a-trick-of-the-light)
 - [Why Cohere’s ex-AI research lead is betting against the scaling race](https://techcrunch.com/2025/10/22/why-coheres-ex-ai-research-lead-is-betting-against-the-scaling-race/)
-- [OpenAI requested memorial attendee list in ChatGPT suicide lawsuit](https://techcrunch.com/2025/10/22/openai-requested-memorial-attendee-list-in-chatgpt-suicide-lawsuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
