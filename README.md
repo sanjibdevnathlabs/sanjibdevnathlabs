@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Only 4 days until TechCrunch Disrupt 2025 kicks off in San Francisco and ticket rates increase](https://techcrunch.com/2025/10/23/only-4-days-until-techcrunch-disrupt-2025-kicks-off-in-san-francisco-and-ticket-rates-increase/)
-- [Potensic Atom 2 drone review](https://www.space.com/tech/potensic-atom-2-drone-review)
-- [Super-Earth less than 20 light-years away is an exciting lead in the search for life](https://www.space.com/astronomy/exoplanets/super-earth-less-than-20-light-years-away-is-an-exciting-lead-in-the-search-for-life)
-- [Amazon’s new AI shopping tool tells you why you should buy a recommended product](https://techcrunch.com/2025/10/23/amazons-new-ai-shopping-tool-tells-you-why-you-should-buy-a-recommended-product/)
-- [&#39;Fallout&#39; Season 2: Release date, trailers, cast, &amp; everything else we know](https://www.space.com/entertainment/space-movies-shows/fallout-season-2-release-date-trailers-cast-and-everything-else-we-know)
+- [Cluely’s Roy Lee joins TechCrunch Disrupt 2025 to show how rage-baiting cuts through the AI noise](https://techcrunch.com/2025/10/23/cluelys-roy-lee-joins-techcrunch-disrupt-2025-to-show-how-rage-baiting-cuts-through-the-ai-noise/)
+- [Scientists watch rings forming around a solar system world for the 1st time](https://www.space.com/astronomy/solar-system/scientists-watch-rings-forming-around-a-solar-system-world-for-the-1st-time)
+- [Announcing the top judges for the final round of Startup Battlefield 200, only at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/23/announcing-the-top-judges-for-the-final-round-of-startup-battlefield-200-only-at-techcrunch-disrupt-2025/)
+- [Wonder Studios, backed by OpenAI, DeepMind execs, raised $12M to bring AI content to Hollywood](https://techcrunch.com/2025/10/23/openai-backed-wonder-studios-raised-12m-to-bring-ai-content-to-hollywood/)
+- [Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/23/get-hands-on-the-full-techcrunch-disrupt-2025-roundtable-agenda/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
