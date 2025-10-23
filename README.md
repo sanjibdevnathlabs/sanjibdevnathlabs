@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Only 4 days until TechCrunch Disrupt 2025 kicks off in San Francisco and ticket rates increase](https://techcrunch.com/2025/10/23/only-4-days-until-techcrunch-disrupt-2025-kicks-off-in-san-francisco-and-ticket-rates-increase/)
+- [Potensic Atom 2 drone review](https://www.space.com/tech/potensic-atom-2-drone-review)
+- [Super-Earth less than 20 light-years away is an exciting lead in the search for life](https://www.space.com/astronomy/exoplanets/super-earth-less-than-20-light-years-away-is-an-exciting-lead-in-the-search-for-life)
 - [Amazon’s new AI shopping tool tells you why you should buy a recommended product](https://techcrunch.com/2025/10/23/amazons-new-ai-shopping-tool-tells-you-why-you-should-buy-a-recommended-product/)
 - [&#39;Fallout&#39; Season 2: Release date, trailers, cast, &amp; everything else we know](https://www.space.com/entertainment/space-movies-shows/fallout-season-2-release-date-trailers-cast-and-everything-else-we-know)
-- [Redwood Materials raises another $350M to power up its energy storage business](https://techcrunch.com/2025/10/23/redwood-materials-raises-another-350-million-to-power-up-its-energy-storage-business/)
-- [Earth photobombs the sun in satellite image | Space photo of the day for Oct. 23, 2025](https://www.space.com/astronomy/earth/earth-photobombs-the-sun-in-satellite-image-space-photo-of-the-day-for-oct-23-2025)
-- [Scientists discover new way to grow materials on-demand using crystals and light](https://www.space.com/technology/scientists-discover-new-way-to-grow-materials-on-demand-using-crystals-and-light)
 <!-- BLOG-POST-LIST:END -->
 
 ---
