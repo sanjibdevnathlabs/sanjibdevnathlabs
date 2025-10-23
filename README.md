@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump credits Benioff, Huang for decision not to ‘surge’ Fed troops into San Francisco](https://techcrunch.com/2025/10/23/trump-credits-benioff-huang-for-decision-not-to-surge-fed-troops-into-san-francisco/)
+- [A faint glow in the Milky Way could be a dark matter footprint](https://www.space.com/astronomy/dark-universe/a-faint-glow-in-the-milky-way-could-be-a-dark-matter-footprint)
+- [OpenAI buys Sky, an AI interface for Mac](https://techcrunch.com/2025/10/23/openai-buys-sky-an-ai-interface-for-mac/)
+- [Rivian CEO takes top marketing role in shakeup ahead of R2 launch](https://techcrunch.com/2025/10/23/rivian-ceo-takes-top-marketing-role-in-shakeup-ahead-of-r2-launch/)
 - [Orionid meteor shower 2025 lights the night sky over Egypt in stunning photo](https://www.space.com/stargazing/meteor-showers/orionid-meteor-shower-lights-the-night-sky-over-egypt-photo-oct-19-2025)
-- [YouTube paid out $8B to the music industry in 12 months](https://techcrunch.com/2025/10/23/youtube-paid-out-8b-to-the-music-industry-in-12-months/)
-- [20-year-old dropouts built AI notetaker Turbo AI to 5 million users](https://techcrunch.com/2025/10/23/20-year-old-dropouts-built-ai-notetaker-turbo-ai-to-5-million-users/)
-- [Instagram users can now use Meta AI editing tools directly in IG Stories](https://techcrunch.com/2025/10/23/instagram-users-can-now-use-meta-ai-editing-tools-directly-in-ig-stories/)
-- [Fallout games in order: Chronological and release date](https://www.space.com/entertainment/space-games/fallout-games-in-order-chronological-and-release-date)
 <!-- BLOG-POST-LIST:END -->
 
 ---
