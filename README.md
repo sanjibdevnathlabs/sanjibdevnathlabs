@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft’s Mico is a ‘Clippy’ for the AI era](https://techcrunch.com/2025/10/23/microsofts-mico-is-a-clippy-for-the-ai-era/)
+- [The UK military says Russia targets its satellites on a weekly basis. What can be done about it?](https://www.space.com/technology/aerospace/the-uk-military-says-russia-targets-its-satellites-on-a-weekly-basis-what-can-be-done-about-it)
+- [Trump pardons Binance founder Changpeng Zhao](https://techcrunch.com/2025/10/23/trump-pardons-binance-founder-changpeng-zhao/)
 - [Google’s bets on carbon capture power plants, which have a mixed record](https://techcrunch.com/2025/10/23/googles-bets-on-carbon-capture-power-plants-which-have-a-mixed-record/)
 - [Tensormesh raises $4.5M to squeeze more inference out of AI server loads](https://techcrunch.com/2025/10/23/tensormesh-raises-4-5m-to-squeeze-more-inference-out-of-ai-server-loads/)
-- [Watch SpaceX launch its record-breaking 139th mission of the year today](https://www.space.com/space-exploration/launches-spacecraft/spacex-record-breaking-139th-rocket-launch-2025)
-- [U.S. government accuses former L3Harris cyber boss of stealing trade secrets](https://techcrunch.com/2025/10/23/u-s-government-accuses-former-l3harris-cyber-boss-of-stealing-trade-secrets/)
-- [Made in space: Varda’s William Bruey shares plan to build the next great supply chain at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/23/made-in-space-vardas-william-bruey-shares-plan-to-build-the-next-great-supply-chain-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
