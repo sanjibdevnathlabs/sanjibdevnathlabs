@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With an Intel recovery underway, all eyes turn to its foundry business](https://techcrunch.com/2025/10/23/with-an-intel-recovery-underway-all-eyes-turn-to-its-foundry-business/)
+- [Ford isn’t going to make more F-150 Lightnings for a while](https://techcrunch.com/2025/10/23/ford-isnt-going-to-make-more-f-150-lightnings-for-a-while/)
 - [Trump credits Benioff, Huang for decision not to ‘surge’ Fed troops into San Francisco](https://techcrunch.com/2025/10/23/trump-credits-benioff-huang-for-decision-not-to-surge-fed-troops-into-san-francisco/)
 - [A faint glow in the Milky Way could be a dark matter footprint](https://www.space.com/astronomy/dark-universe/a-faint-glow-in-the-milky-way-could-be-a-dark-matter-footprint)
 - [OpenAI buys Sky, an AI interface for Mac](https://techcrunch.com/2025/10/23/openai-buys-sky-an-ai-interface-for-mac/)
-- [Rivian CEO takes top marketing role in shakeup ahead of R2 launch](https://techcrunch.com/2025/10/23/rivian-ceo-takes-top-marketing-role-in-shakeup-ahead-of-r2-launch/)
-- [Orionid meteor shower 2025 lights the night sky over Egypt in stunning photo](https://www.space.com/stargazing/meteor-showers/orionid-meteor-shower-lights-the-night-sky-over-egypt-photo-oct-19-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
