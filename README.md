@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers discover 2nd fastest asteroid in the solar system hiding in the sun&#39;s glare](https://www.space.com/astronomy/asteroids/astronomers-discover-2nd-fastest-asteroid-in-the-solar-system-hiding-in-the-suns-glare)
 - [Big tech is paying for Trump’s White House ballroom](https://techcrunch.com/2025/10/23/big-tech-is-paying-for-trumps-white-house-ballroom/)
 - [With an Intel recovery underway, all eyes turn to its foundry business](https://techcrunch.com/2025/10/23/with-an-intel-recovery-underway-all-eyes-turn-to-its-foundry-business/)
 - [Ford isn’t going to make more F-150 Lightnings for a while](https://techcrunch.com/2025/10/23/ford-isnt-going-to-make-more-f-150-lightnings-for-a-while/)
 - [Trump credits Benioff, Huang for decision not to ‘surge’ Fed troops into San Francisco](https://techcrunch.com/2025/10/23/trump-credits-benioff-huang-for-decision-not-to-surge-fed-troops-into-san-francisco/)
-- [A faint glow in the Milky Way could be a dark matter footprint](https://www.space.com/astronomy/dark-universe/a-faint-glow-in-the-milky-way-could-be-a-dark-matter-footprint)
 <!-- BLOG-POST-LIST:END -->
 
 ---
