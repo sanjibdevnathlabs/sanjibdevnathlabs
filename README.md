@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use the new ChatGPT app integrations, including Spotify, Figma, Canva, and others](https://techcrunch.com/2025/10/24/how-to-use-the-new-chatgpt-app-integrations-including-spotify-figma-canva-and-others/)
+- [The browser wars are back, and this time they’re powered by AI](https://techcrunch.com/video/the-browser-wars-are-back-and-this-time-theyre-powered-by-ai/)
+- [Space shuttle Discovery fight continues as Texas senators rope Department of Justice into their tug-of-war with Smithsonian](https://www.space.com/space-exploration/senators-cornyn-and-cruz-clap-back-against-smithsonian-space-shuttle-disassembly-claims-call-for-doj-investigation)
+- [Interstellar comet 3I/ATLAS blasts a jet towards the sun in new telescope image](https://www.space.com/astronomy/comets/comet-3i-atlas-blasts-a-jet-towards-the-sun-in-new-telescope-image)
 - [A doomed planet is being torn up by its &#39;zombie&#39; white dwarf star — but astronomers don&#39;t understand why](https://www.space.com/astronomy/stars/a-doomed-planet-is-being-torn-up-by-its-zombie-white-dwarf-star-but-astronomers-dont-understand-why)
-- [Satellite photos show White House East Wing demolished to make way for Trump ballroom](https://www.space.com/astronomy/earth/satellite-photos-show-white-house-east-wing-demolished-to-make-way-for-trump-ballroom)
-- [Instagram’s latest feature lets you go back see your watched Reels](https://techcrunch.com/2025/10/24/instagrams-latest-feature-lets-you-go-back-see-your-watched-reels/)
-- [Arbor’s ‘vegetarian rocket engine’ power plant is actually an omnivore](https://techcrunch.com/2025/10/24/arbors-vegetarian-rocket-engine-power-plant-is-actually-an-omnivore/)
-- [EC finds Meta and TikTok breached transparency rules under DSA](https://techcrunch.com/2025/10/24/ec-finds-meta-and-tiktok-breached-transparency-rules-under-dsa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
