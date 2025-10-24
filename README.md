@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Can steroids combat population collapse? The Enhanced Games wants to find out.](https://techcrunch.com/2025/10/24/can-steroids-combat-population-collapse-the-enhanced-games-wants-to-find-out/)
-- [Ticket savings countdown — just 3 days until TechCrunch Disrupt 2025 turns San Francisco into startup city](https://techcrunch.com/2025/10/24/ticket-savings-countdown-just-3-days-until-techcrunch-disrupt-2025-turns-san-francisco-into-startup-city/)
-- [Australia&#39;s Gilmour Space &#39;not going to give up&#39; as it eyes 2nd orbital launch attempt in 2026](https://www.space.com/space-exploration/launches-spacecraft/australias-gilmour-space-not-going-to-give-up-as-it-eyes-2nd-orbital-launch-attempt-in-2026)
-- [Fomalhaut, the &#39;solitary&#39; star, announces the arrival of autumn in the night sky. Here&#39;s how to see it](https://www.space.com/stargazing/fomalhaut-the-solitary-star-announces-the-arrival-of-autumn-in-the-night-sky-heres-how-to-see-it)
-- [Milky Way dazzles over Vera Rubin Observatory | Space photo of the day for Oct. 24, 2025](https://www.space.com/astronomy/milky-way-dazzles-over-vera-rubin-observatory-space-photo-of-the-day-for-oct-24-2025)
+- [The full breakout session agenda at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-breakout-sessions/)
+- [Cosmic &#39;brain&#39; ponders the cosmos in colorful new photo of the Medulla Nebula](https://www.space.com/stargazing/astrophotography/cosmic-brain-ponders-the-cosmos-in-colorful-new-photo-of-the-medulla-nebula)
+- [Automattic files counterclaims against WP Engine in WordPress lawsuit, alleging trademark misuse](https://techcrunch.com/2025/10/24/automattic-files-counterclaims-against-wp-engine-in-wordpress-lawsuit-alleging-trademark-misuse/)
+- [Rivian will pay $250M to settle lawsuit over R1 price hike](https://techcrunch.com/2025/10/24/rivian-will-pay-250m-to-settle-lawsuit-over-r1-price-hike/)
+- [AI at the edge: How startups are powering the future of space at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/24/ai-at-the-edge-how-startups-are-powering-the-future-of-space-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
