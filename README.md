@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can steroids combat population collapse? The Enhanced Games wants to find out.](https://techcrunch.com/2025/10/24/can-steroids-combat-population-collapse-the-enhanced-games-wants-to-find-out/)
+- [Ticket savings countdown — just 3 days until TechCrunch Disrupt 2025 turns San Francisco into startup city](https://techcrunch.com/2025/10/24/ticket-savings-countdown-just-3-days-until-techcrunch-disrupt-2025-turns-san-francisco-into-startup-city/)
+- [Australia&#39;s Gilmour Space &#39;not going to give up&#39; as it eyes 2nd orbital launch attempt in 2026](https://www.space.com/space-exploration/launches-spacecraft/australias-gilmour-space-not-going-to-give-up-as-it-eyes-2nd-orbital-launch-attempt-in-2026)
 - [Fomalhaut, the &#39;solitary&#39; star, announces the arrival of autumn in the night sky. Here&#39;s how to see it](https://www.space.com/stargazing/fomalhaut-the-solitary-star-announces-the-arrival-of-autumn-in-the-night-sky-heres-how-to-see-it)
 - [Milky Way dazzles over Vera Rubin Observatory | Space photo of the day for Oct. 24, 2025](https://www.space.com/astronomy/milky-way-dazzles-over-vera-rubin-observatory-space-photo-of-the-day-for-oct-24-2025)
-- [Under 200 Unistellar Envision pre-orders left! Save $500 on these star-guiding smart binoculars](https://www.space.com/stargazing/skywatching-kit/under-200-unistellar-envision-pre-orders-left-save-usd500-on-these-star-guiding-smart-binoculars)
-- [Get NordVPN&#39;s unbeatable service for just $2.99 a month, plus three months absolutely free and watch sci-fi, securely on-the-go](https://www.space.com/technology/get-nordvpns-unbeatable-service-for-just-usd2-99-a-month-plus-three-months-absolutely-free-and-watch-sci-fi-securely-on-the-go)
-- [Astronomers discover 2nd fastest asteroid in the solar system hiding in the sun&#39;s glare](https://www.space.com/astronomy/asteroids/astronomers-discover-2nd-fastest-asteroid-in-the-solar-system-hiding-in-the-suns-glare)
 <!-- BLOG-POST-LIST:END -->
 
 ---
