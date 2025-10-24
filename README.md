@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arbor’s ‘vegetarian rocket engine’ power plant is actually an omnivore](https://techcrunch.com/2025/10/24/arbors-vegetarian-rocket-engine-power-plant-is-actually-an-omnivore/)
+- [EC finds Meta and TikTok breached transparency rules under DSA](https://techcrunch.com/2025/10/24/ec-finds-meta-and-tiktok-breached-transparency-rules-under-dsa/)
+- [TechCrunch Disrupt 2025 Side Events schedule:  Women in Tech, MongoDB, Silkroad Innovation Hub and more to host](https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-side-events-schedule-women-in-tech-mongodb-silkroad-innovation-hub-and-more-to-host/)
 - [The full breakout session agenda at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-breakout-sessions/)
 - [Cosmic &#39;brain&#39; ponders the cosmos in colorful new photo of the Medulla Nebula](https://www.space.com/stargazing/astrophotography/cosmic-brain-ponders-the-cosmos-in-colorful-new-photo-of-the-medulla-nebula)
-- [Automattic files counterclaims against WP Engine in WordPress lawsuit, alleging trademark misuse](https://techcrunch.com/2025/10/24/automattic-files-counterclaims-against-wp-engine-in-wordpress-lawsuit-alleging-trademark-misuse/)
-- [Rivian will pay $250M to settle lawsuit over R1 price hike](https://techcrunch.com/2025/10/24/rivian-will-pay-250m-to-settle-lawsuit-over-r1-price-hike/)
-- [AI at the edge: How startups are powering the future of space at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/24/ai-at-the-edge-how-startups-are-powering-the-future-of-space-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
