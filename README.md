@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/24/tech-layoffs-2025-list/)
 - [How to use the new ChatGPT app integrations, including Spotify, Figma, Canva, and others](https://techcrunch.com/2025/10/24/how-to-use-the-new-chatgpt-app-integrations-including-spotify-figma-canva-and-others/)
 - [The browser wars are back, and this time they’re powered by AI](https://techcrunch.com/video/the-browser-wars-are-back-and-this-time-theyre-powered-by-ai/)
 - [Space shuttle Discovery fight continues as Texas senators rope Department of Justice into their tug-of-war with Smithsonian](https://www.space.com/space-exploration/senators-cornyn-and-cruz-clap-back-against-smithsonian-space-shuttle-disassembly-claims-call-for-doj-investigation)
 - [Interstellar comet 3I/ATLAS blasts a jet towards the sun in new telescope image](https://www.space.com/astronomy/comets/comet-3i-atlas-blasts-a-jet-towards-the-sun-in-new-telescope-image)
-- [A doomed planet is being torn up by its &#39;zombie&#39; white dwarf star — but astronomers don&#39;t understand why](https://www.space.com/astronomy/stars/a-doomed-planet-is-being-torn-up-by-its-zombie-white-dwarf-star-but-astronomers-dont-understand-why)
 <!-- BLOG-POST-LIST:END -->
 
 ---
