@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI reportedly developing new generative music tool](https://techcrunch.com/2025/10/25/openai-reportedly-developing-new-generative-music-tool/)
 - [High school’s AI security system confuses Doritos bag for a possible firearm](https://techcrunch.com/2025/10/25/high-schools-ai-security-system-confuses-doritos-bag-for-a-possible-firearm/)
 - [Who are AI browsers for?](https://techcrunch.com/2025/10/25/who-are-ai-browsers-for/)
 - [30 years ago, &#39;The Simpsons&#39; Treehouse of Horror special introduced us to Kang &amp; Kodos, the series&#39; iconic alien invaders](https://www.space.com/entertainment/space-movies-shows/30-years-ago-the-simpsons-treehouse-of-horror-special-introduced-us-to-kang-and-kodos-the-series-iconic-alien-invaders)
 - [TikTok robot star Rizzbot gave me the middle finger](https://techcrunch.com/2025/10/25/tiktok-robot-star-rizzbot-gave-me-the-middle-finger/)
-- [This Week In Space podcast: Episode 183 — Lunar Lander Wanted! Apply Within](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-183-lunar-lander-wanted-apply-within)
 <!-- BLOG-POST-LIST:END -->
 
 ---
