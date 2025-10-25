@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok robot star Rizzbot gave me the middle finger](https://techcrunch.com/2025/10/25/tiktok-robot-star-rizzbot-gave-me-the-middle-finger/)
+- [This Week In Space podcast: Episode 183 — Lunar Lander Wanted! Apply Within](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-183-lunar-lander-wanted-apply-within)
+- [SpaceX launches Starlink satellites on its record 135th orbital mission of the year](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-record-135th-orbital-launch-2025)
 - [India, the market BlaBlaCar once walked away from, is now its biggest](https://techcrunch.com/2025/10/25/india-the-market-blablacar-once-walked-away-from-is-now-its-biggest/)
 - [Fenix E35R flashlight review](https://www.space.com/technology/fenix-e35r-flashlight-review)
-- [Lunar landscapes: Can you name that feature?](https://www.space.com/stargazing/lunar-landscapes-can-you-name-that-feature)
-- [The glaring security risks with AI browser agents](https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/)
-- [Here&#39;s where the James Webb Space Telescope and 4 other legendary spacecraft are in October&#39;s night sky](https://www.space.com/stargazing/heres-where-the-james-webb-space-telescope-and-4-other-legendary-spacecraft-are-in-the-night-sky-october-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
