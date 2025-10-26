@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Less than 24 hours until 10,000 founders, investors, and innovators hit TechCrunch Disrupt 2025 — and ticket rates rise](https://techcrunch.com/2025/10/26/less-than-24-hours-until-10000-founders-investors-and-innovators-hit-techcrunch-disrupt-2025-and-ticket-rates-rise/)
+- [See Comet Lemmon cross paths with a cosmic serpent tonight](https://www.space.com/stargazing/see-comet-lemmon-cross-paths-with-a-cosmic-serpent-this-weekend)
 - [Could we blast space debris out of harm&#39;s way with ion beams?](https://www.space.com/technology/could-we-blast-space-debris-out-of-harms-way-with-ion-beams)
 - [&#39;No spacecraft would survive&#39;: Europe simulates catastrophic solar storm to warn of real risks](https://www.space.com/astronomy/no-spacecraft-would-survive-europe-simulates-catastrophic-solar-storm-to-warn-of-real-risks)
 - [OpenAI reportedly developing new generative music tool](https://techcrunch.com/2025/10/25/openai-reportedly-developing-new-generative-music-tool/)
-- [High school’s AI security system confuses Doritos bag for a possible firearm](https://techcrunch.com/2025/10/25/high-schools-ai-security-system-confuses-doritos-bag-for-a-possible-firearm/)
-- [Who are AI browsers for?](https://techcrunch.com/2025/10/25/who-are-ai-browsers-for/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
