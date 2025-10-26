@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Mobility: The ‘robot army’ argument](https://techcrunch.com/2025/10/26/techcrunch-mobility-the-robot-army-argument/)
+- [How AI can improve storm surge forecasts to help save lives](https://www.space.com/science/climate-change/how-ai-can-improve-storm-surge-forecasts-to-help-save-lives)
 - [WindFire LED flashlight review](https://www.space.com/technology/windfire-led-flashlight-review)
 - [Space radiation can produce some organic molecules detected on icy moons](https://www.space.com/space-exploration/search-for-life/space-radiation-can-produce-some-organic-molecules-detected-on-icy-moons)
 - [Less than 24 hours until 10,000 founders, investors, and innovators hit TechCrunch Disrupt 2025 — and ticket rates rise](https://techcrunch.com/2025/10/26/less-than-24-hours-until-10000-founders-investors-and-innovators-hit-techcrunch-disrupt-2025-and-ticket-rates-rise/)
-- [See Comet Lemmon cross paths with a cosmic serpent tonight](https://www.space.com/stargazing/see-comet-lemmon-cross-paths-with-a-cosmic-serpent-this-weekend)
-- [Could we blast space debris out of harm&#39;s way with ion beams?](https://www.space.com/technology/could-we-blast-space-debris-out-of-harms-way-with-ion-beams)
 <!-- BLOG-POST-LIST:END -->
 
 ---
