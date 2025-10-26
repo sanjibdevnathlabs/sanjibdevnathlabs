@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Could we blast space debris out of harm&#39;s way with ion beams?](https://www.space.com/technology/could-we-blast-space-debris-out-of-harms-way-with-ion-beams)
 - [&#39;No spacecraft would survive&#39;: Europe simulates catastrophic solar storm to warn of real risks](https://www.space.com/astronomy/no-spacecraft-would-survive-europe-simulates-catastrophic-solar-storm-to-warn-of-real-risks)
 - [OpenAI reportedly developing new generative music tool](https://techcrunch.com/2025/10/25/openai-reportedly-developing-new-generative-music-tool/)
 - [High school’s AI security system confuses Doritos bag for a possible firearm](https://techcrunch.com/2025/10/25/high-schools-ai-security-system-confuses-doritos-bag-for-a-possible-firearm/)
 - [Who are AI browsers for?](https://techcrunch.com/2025/10/25/who-are-ai-browsers-for/)
-- [30 years ago, &#39;The Simpsons&#39; Treehouse of Horror special introduced us to Kang &amp; Kodos, the series&#39; iconic alien invaders](https://www.space.com/entertainment/space-movies-shows/30-years-ago-the-simpsons-treehouse-of-horror-special-introduced-us-to-kang-and-kodos-the-series-iconic-alien-invaders)
 <!-- BLOG-POST-LIST:END -->
 
 ---
