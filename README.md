@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The 2025 Startup Battlefield Top 20 are here. Let the competition begin.](https://techcrunch.com/2025/10/27/the-2025-startup-battlefield-top-20-are-here-let-the-competition-begin/)
-- [SpaceX settles $15 million trespassing lawsuit with Cards Against Humanity](https://www.space.com/space-exploration/human-spaceflight/spacex-settles-usd15-million-trespassing-lawsuit-with-cards-against-humanity)
-- [Sequoia unveils $950M in new early-stage funds as it strives to be ‘only as good as our next investment’](https://techcrunch.com/2025/10/27/sequoia-unveils-950m-in-new-early-stage-funds-as-it-strives-to-be-only-as-good-as-our-next-investment/)
-- [TechCrunch Disrupt 2025: Day 1](https://techcrunch.com/2025/10/27/techcrunch-disrupt-2025-day-1/)
-- [Awakening an interstellar wanderer: Surprising nickel detection in Comet 3I/ATLAS](https://www.space.com/astronomy/comets/awakening-an-interstellar-wanderer-surprising-nickel-detection-in-comet-3i-atlas)
+- [Threads adds ‘ghost posts’ that disappear after 24 hours](https://techcrunch.com/2025/10/27/threads-adds-ghost-posts-that-disappear-after-24-hours-and-responses-go-to-dms/)
+- [Mercor quintuples valuation to $10B with $350M Series C](https://techcrunch.com/2025/10/27/mercor-quintuples-valuation-to-10b-with-350m-series-c/)
+- [Pinterest experiments with new AI-powered personalized boards](https://techcrunch.com/2025/10/27/pinterest-experiments-with-new-ai-powered-personalized-boards/)
+- [PSA: Re-register your hardware 2FA key for X before Nov. 10 to avoid getting locked out](https://techcrunch.com/2025/10/27/psa-re-register-your-hardware-2fa-key-for-x-before-nov-10-to-avoid-getting-locked-out/)
+- [TechCrunch Disrupt 2025: How to watch Astro Teller, Startup Battlefield, and more live](https://techcrunch.com/2025/10/27/techcrunch-disrupt-2025-how-to-watch-astro-teller-startup-battlefield-and-more-live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
