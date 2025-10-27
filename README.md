@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Once Upon a Time in Space&#39;: How to watch the latest BBC space documentary series from anywhere in the world](https://www.space.com/entertainment/space-movies-shows/once-upon-a-time-in-space-how-to-watch-the-latest-bbc-space-documentary-series)
 - [COI Energy solves a conundrum: Letting businesses sell unused electricity — catch it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/coi-energy-solves-a-conundrum-letting-businesses-sell-unused-electricity-catch-it-at-techcrunch-disrupt-2025/)
 - [Skyline Nav AI’s software can guide you anywhere, without GPS — find it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/skyline-nav-ais-software-can-guide-you-anywhere-without-gps-find-it-at-techcrunch-disrupt-2025/)
 - [Oxford spinout RADiCAIT uses AI to make diagnostic imaging more affordable and accessible — catch it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/oxford-spinout-radicait-uses-ai-to-make-diagnostic-imaging-more-affordable-and-accessible-catch-it-at-techcrunch-disrupt-2025/)
 - [Miraqules will showcase its blood clotting technology at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/miraqules-will-showcase-its-blood-clotting-technology-at-techcrunch-disrupt-2025/)
-- [Biotech Nephrogen combines AI and gene therapy to reverse kidney disease — check it out at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/biotech-nephrogen-combines-ai-and-gene-therapy-to-reverse-kidney-disease-check-it-out-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
