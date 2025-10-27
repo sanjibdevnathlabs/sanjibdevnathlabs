@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia unveils $950M in new early-stage funds as it strives to be ‘only as good as our next investment’](https://techcrunch.com/2025/10/27/sequoia-unveils-950m-in-new-early-stage-funds-as-it-strives-to-be-only-as-good-as-our-next-investment/)
+- [TechCrunch Disrupt 2025: Day 1](https://techcrunch.com/2025/10/27/techcrunch-disrupt-2025-day-1/)
+- [Awakening an interstellar wanderer: Surprising nickel detection in Comet 3I/ATLAS](https://www.space.com/astronomy/comets/awakening-an-interstellar-wanderer-surprising-nickel-detection-in-comet-3i-atlas)
 - [Israeli intelligence vets raise $20M to track developer buying signals](https://techcrunch.com/2025/10/27/israeli-intelligence-vets-raise-20m-to-track-developer-buying-signals/)
 - [&#39;The solar system on demand&#39;: HEO Robotics aims to push spacecraft imaging deep into the final frontier](https://www.space.com/space-exploration/satellites/the-solar-system-on-demand-heo-robotics-aims-to-push-spacecraft-imaging-deep-into-the-final-frontier)
-- [ESA&#39;s lunar lander on a simulated moon | Space photo of the day for Oct. 28, 2025](https://www.space.com/astronomy/moon/esas-lunar-lander-on-a-simulated-moon-space-photo-of-the-day-for-oct-28-2025)
-- [Workout app Ladder launches  nutrition-tracking experience](https://techcrunch.com/2025/10/27/workout-app-ladder-launches-nutrition-tracking-experience/)
-- [SpaceX Starlink internet isn&#39;t fast enough for Ukraine&#39;s combat robots](https://www.space.com/space-exploration/satellites/spacex-starlink-internet-isnt-fast-enough-for-ukraines-combat-robots)
 <!-- BLOG-POST-LIST:END -->
 
 ---
