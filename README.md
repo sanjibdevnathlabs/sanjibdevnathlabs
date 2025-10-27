@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Once Upon a Time in Space&#39;: How to watch the latest BBC space documentary series from anywhere in the world](https://www.space.com/entertainment/space-movies-shows/once-upon-a-time-in-space-how-to-watch-the-latest-bbc-space-documentary-series)
-- [COI Energy solves a conundrum: Letting businesses sell unused electricity — catch it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/coi-energy-solves-a-conundrum-letting-businesses-sell-unused-electricity-catch-it-at-techcrunch-disrupt-2025/)
-- [Skyline Nav AI’s software can guide you anywhere, without GPS — find it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/skyline-nav-ais-software-can-guide-you-anywhere-without-gps-find-it-at-techcrunch-disrupt-2025/)
-- [Oxford spinout RADiCAIT uses AI to make diagnostic imaging more affordable and accessible — catch it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/oxford-spinout-radicait-uses-ai-to-make-diagnostic-imaging-more-affordable-and-accessible-catch-it-at-techcrunch-disrupt-2025/)
-- [Miraqules will showcase its blood clotting technology at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/miraqules-will-showcase-its-blood-clotting-technology-at-techcrunch-disrupt-2025/)
+- [Scientists discover 3 Earth-size exoplanets that may have double sunsets — like Tatooine in Star Wars](https://www.space.com/astronomy/exoplanets/scientists-discover-3-earth-size-exoplanets-that-may-have-double-sunsets-like-tatooine-in-star-wars)
+- [Amazon reportedly plans to cut around 30,000 corporate jobs](https://techcrunch.com/2025/10/27/amazon-reportedly-plans-to-cut-around-30000-corporate-jobs/)
+- [OpenAI says over a million people talk to ChatGPT about suicide weekly](https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/)
+- [Fitbit’s revamped app, with Gemini-powered health coach, rolls out to Premium users](https://techcrunch.com/2025/10/27/fitbits-revamped-app-with-gemini-powered-health-coach-rolls-out-to-premium-users/)
+- [New corporate espionage claims emerge, centered on two highly valued 401&lpar;k&rpar; admin startups](https://techcrunch.com/2025/10/27/new-corporate-espionage-claims-emerge-centered-on-two-highly-valued-401k-admin-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
