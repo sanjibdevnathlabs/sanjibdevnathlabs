@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Interstellar comet 3I/ATLAS could help protect Earth from dangerous asteroids. Here&#39;s how](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-could-help-protect-earth-from-dangerous-asteroids-heres-how)
-- [Apple says U.S. passport digital IDs are coming to Wallet ‘soon’](https://techcrunch.com/2025/10/27/apple-says-u-s-passport-digital-ids-are-coming-to-wallet-soon/)
-- [TechCrunch Disrupt 2025: How to watch Astro Teller, Startup Battlefield, and more live](https://techcrunch.com/2025/10/27/techcrunch-disrupt-2025-how-to-watch-astro-teller-startup-battlefield-and-more-live/)
-- [Glowing meteor trail photobombs Comet Lemmon in incredible telescope footage. &#39;A pure perspective miracle&#39;](https://www.space.com/stargazing/glowing-meteor-trail-photobombs-comet-lemmon-in-incredible-telescope-footage-a-pure-perspective-miracle)
-- [Threads adds ‘ghost posts’ that disappear after 24 hours](https://techcrunch.com/2025/10/27/threads-adds-ghost-posts-that-disappear-after-24-hours-and-responses-go-to-dms/)
+- [COI Energy solves a conundrum: Letting businesses sell unused electricity — catch it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/coi-energy-solves-a-conundrum-letting-businesses-sell-unused-electricity-catch-it-at-techcrunch-disrupt-2025/)
+- [Skyline Nav AI’s software can guide you anywhere, without GPS — find it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/skyline-nav-ais-software-can-guide-you-anywhere-without-gps-find-it-at-techcrunch-disrupt-2025/)
+- [Oxford spinout RADiCAIT uses AI to make diagnostic imaging more affordable and accessible — catch it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/oxford-spinout-radicait-uses-ai-to-make-diagnostic-imaging-more-affordable-and-accessible-catch-it-at-techcrunch-disrupt-2025/)
+- [Miraqules will showcase its blood clotting technology at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/miraqules-will-showcase-its-blood-clotting-technology-at-techcrunch-disrupt-2025/)
+- [Biotech Nephrogen combines AI and gene therapy to reverse kidney disease — check it out at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/biotech-nephrogen-combines-ai-and-gene-therapy-to-reverse-kidney-disease-check-it-out-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
