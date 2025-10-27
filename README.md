@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo co-CEO on robotaxi vandalism: ‘We’re not standing for it’](https://techcrunch.com/2025/10/27/waymo-co-ceo-on-robotaxi-vandalism-were-not-standing-for-it/)
+- [Robotaxi companies must do more to prove safety, Waymo co-CEO says](https://techcrunch.com/2025/10/27/robotaxi-companies-must-do-more-to-prove-safety-waymo-co-ceo-says/)
 - [Scientists discover 3 Earth-size exoplanets that may have double sunsets — like Tatooine in Star Wars](https://www.space.com/astronomy/exoplanets/scientists-discover-3-earth-size-exoplanets-that-may-have-double-sunsets-like-tatooine-in-star-wars)
 - [Amazon reportedly plans to cut around 30,000 corporate jobs](https://techcrunch.com/2025/10/27/amazon-reportedly-plans-to-cut-around-30000-corporate-jobs/)
 - [OpenAI says over a million people talk to ChatGPT about suicide weekly](https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/)
-- [Fitbit’s revamped app, with Gemini-powered health coach, rolls out to Premium users](https://techcrunch.com/2025/10/27/fitbits-revamped-app-with-gemini-powered-health-coach-rolls-out-to-premium-users/)
-- [New corporate espionage claims emerge, centered on two highly valued 401&lpar;k&rpar; admin startups](https://techcrunch.com/2025/10/27/new-corporate-espionage-claims-emerge-centered-on-two-highly-valued-401k-admin-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
