@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ESA&#39;s lunar lander on a simulated moon | Space photo of the day for Oct. 28, 2025](https://www.space.com/astronomy/moon/esas-lunar-lander-on-a-simulated-moon-space-photo-of-the-day-for-oct-28-2025)
+- [Workout app Ladder launches  nutrition-tracking experience](https://techcrunch.com/2025/10/27/workout-app-ladder-launches-nutrition-tracking-experience/)
 - [SpaceX Starlink internet isn&#39;t fast enough for Ukraine&#39;s combat robots](https://www.space.com/space-exploration/satellites/spacex-starlink-internet-isnt-fast-enough-for-ukraines-combat-robots)
 - [Accel and Prosus team up to back early-stage Indian startups](https://techcrunch.com/2025/10/26/accel-and-prosus-team-up-to-back-early-stage-indian-startups-building-for-1-4b-people/)
 - [Ads might be coming to Apple Maps next year](https://techcrunch.com/2025/10/26/ads-might-be-coming-to-apple-maps-next-year/)
-- [TechCrunch Disrupt 2025 begins in less than 24 hours — catch our last ticket deals](https://techcrunch.com/2025/10/26/techcrunch-disrupt-2025-begins-in-less-than-24-hours-catch-our-last-ticket-deals/)
-- [Trump and Xi will ‘consummate’ TikTok deal on Thursday, treasury secretary says](https://techcrunch.com/2025/10/26/trump-and-xi-will-consummate-tiktok-deal-on-thursday-treasury-secretary-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
