@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 2025 Startup Battlefield Top 20 are here. Let the competition begin.](https://techcrunch.com/2025/10/27/the-2025-startup-battlefield-top-20-are-here-let-the-competition-begin/)
+- [SpaceX settles $15 million trespassing lawsuit with Cards Against Humanity](https://www.space.com/space-exploration/human-spaceflight/spacex-settles-usd15-million-trespassing-lawsuit-with-cards-against-humanity)
 - [Sequoia unveils $950M in new early-stage funds as it strives to be ‘only as good as our next investment’](https://techcrunch.com/2025/10/27/sequoia-unveils-950m-in-new-early-stage-funds-as-it-strives-to-be-only-as-good-as-our-next-investment/)
 - [TechCrunch Disrupt 2025: Day 1](https://techcrunch.com/2025/10/27/techcrunch-disrupt-2025-day-1/)
 - [Awakening an interstellar wanderer: Surprising nickel detection in Comet 3I/ATLAS](https://www.space.com/astronomy/comets/awakening-an-interstellar-wanderer-surprising-nickel-detection-in-comet-3i-atlas)
-- [Israeli intelligence vets raise $20M to track developer buying signals](https://techcrunch.com/2025/10/27/israeli-intelligence-vets-raise-20m-to-track-developer-buying-signals/)
-- [&#39;The solar system on demand&#39;: HEO Robotics aims to push spacecraft imaging deep into the final frontier](https://www.space.com/space-exploration/satellites/the-solar-system-on-demand-heo-robotics-aims-to-push-spacecraft-imaging-deep-into-the-final-frontier)
 <!-- BLOG-POST-LIST:END -->
 
 ---
