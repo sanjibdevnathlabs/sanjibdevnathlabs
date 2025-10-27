@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Threads adds ‘ghost posts’ that disappear after 24 hours](https://techcrunch.com/2025/10/27/threads-adds-ghost-posts-that-disappear-after-24-hours-and-responses-go-to-dms/)
-- [Mercor quintuples valuation to $10B with $350M Series C](https://techcrunch.com/2025/10/27/mercor-quintuples-valuation-to-10b-with-350m-series-c/)
-- [Pinterest experiments with new AI-powered personalized boards](https://techcrunch.com/2025/10/27/pinterest-experiments-with-new-ai-powered-personalized-boards/)
-- [PSA: Re-register your hardware 2FA key for X before Nov. 10 to avoid getting locked out](https://techcrunch.com/2025/10/27/psa-re-register-your-hardware-2fa-key-for-x-before-nov-10-to-avoid-getting-locked-out/)
+- [Interstellar comet 3I/ATLAS could help protect Earth from dangerous asteroids. Here&#39;s how](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-could-help-protect-earth-from-dangerous-asteroids-heres-how)
+- [Apple says U.S. passport digital IDs are coming to Wallet ‘soon’](https://techcrunch.com/2025/10/27/apple-says-u-s-passport-digital-ids-are-coming-to-wallet-soon/)
 - [TechCrunch Disrupt 2025: How to watch Astro Teller, Startup Battlefield, and more live](https://techcrunch.com/2025/10/27/techcrunch-disrupt-2025-how-to-watch-astro-teller-startup-battlefield-and-more-live/)
+- [Glowing meteor trail photobombs Comet Lemmon in incredible telescope footage. &#39;A pure perspective miracle&#39;](https://www.space.com/stargazing/glowing-meteor-trail-photobombs-comet-lemmon-in-incredible-telescope-footage-a-pure-perspective-miracle)
+- [Threads adds ‘ghost posts’ that disappear after 24 hours](https://techcrunch.com/2025/10/27/threads-adds-ghost-posts-that-disappear-after-24-hours-and-responses-go-to-dms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
