@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [He Broke the AI Image Filter &lpar;With One Simple Trick&rpar;](https://www.youtube.com/shorts/v7-gJ3uqZ5A)
 - [Session 4-1: Networked Geothermal: The European Experience](https://www.youtube.com/watch?v=j0Bhj4eCCws)
 - [Session 8-3: Thermal Energy Network Evolution of the Penn South Community in Manhattan](https://www.youtube.com/watch?v=h_LNDKRZ_EI)
 - [Session 1-3: Health Impacts of Methane &lpar;&quot;Natural&quot;&rpar; Gas Systems](https://www.youtube.com/watch?v=dgSFOyxFHW8)
 - [Session 7-3: Techno-Economic Modeling of GENs with HEATNETS Model](https://www.youtube.com/watch?v=NW7cfJwoFMk)
-- [Session 5-3: Introduction to Design of GENs](https://www.youtube.com/watch?v=TxtNBnAXmh8)
 <!-- YOUTUBE:END -->
 
 ---
