@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [1st samples ever collected from the moon&#39;s far side could help reveal where Earth got its water](https://www.space.com/astronomy/moon/1st-samples-ever-collected-from-the-moons-far-side-could-help-reveal-where-earth-got-its-water)
+- [TechCrunch Disrupt 2025: How to watch Vinod Khosla, Netflix, Slate Auto, and Startup Battlefield](https://techcrunch.com/2025/10/28/techcrunch-disrupt-2025-how-to-watch-vinod-khosla-netflix-slate-auto-and-startup-battlefield/)
+- [AccessGrid raises $4.4M to help turn phones into key fobs](https://techcrunch.com/2025/10/28/accessgrid-raises-4-4m-to-help-turn-phones-into-key-fobs/)
 - [Mem0 raises $24M from YC, Peak XV and Basis Set to build the memory layer for AI apps](https://techcrunch.com/2025/10/28/mem0-raises-24m-from-yc-peak-xv-and-basis-set-to-build-the-memory-layer-for-ai-apps/)
 - [Apple and Microsoft are now both worth more than $4T](https://techcrunch.com/2025/10/28/apple-and-microsoft-are-now-both-worth-more-than-4t/)
-- [OpenAI completes its for-profit recapitalization](https://techcrunch.com/2025/10/28/openai-completes-its-for-profit-recapitalization/)
-- [Satellites watch Category 5 Hurricane Melissa ahead of potentially record-breaking landfall in Jamaica](https://www.space.com/technology/satellites-watch-category-5-hurricane-melissa-ahead-of-potentially-record-breaking-landfall-in-jamaica)
-- [TechCrunch Disrupt 2025: Day 2](https://techcrunch.com/2025/10/28/techcrunch-disrupt-2025-day-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
