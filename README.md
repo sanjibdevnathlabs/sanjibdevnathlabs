@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aurora expands self-driving trucks route to El Paso](https://techcrunch.com/2025/10/28/aurora-expands-self-driving-trucks-route-to-el-paso/)
+- [Mirror’s founder is back with a new ‘connected screen’ startup: a gaming device called ‘Board’](https://techcrunch.com/2025/10/28/mirrors-founder-is-back-with-a-new-connected-screen-startup-a-gaming-device-called-board/)
 - [Netflix CTO says more vertical video experiments are coming, but streamer is not competing with TikTok](https://techcrunch.com/2025/10/28/netflix-cto-says-more-vertical-video-experiments-are-coming-but-streamer-is-not-competing-with-tiktok/)
 - [Netflix launches redesigned profiles for kids](https://techcrunch.com/2025/10/28/netflix-launches-redesigned-profiles-for-kids/)
 - [Netflix CTO announces interactive real-time voting for live content](https://techcrunch.com/2025/10/28/netflix-cto-announces-interactive-real-time-voting-for-live-content/)
-- [NASA spots a spooky face glowing on the sun just in time for Halloween &lpar;photo&rpar;](https://www.space.com/astronomy/sun/nasa-spots-a-spooky-face-glowing-on-the-sun-just-in-time-for-halloween-photo)
-- [NASA&#39;s X-59 &#39;quiet&#39; supersonic jet makes historic 1st flight &lpar;photos&rpar;](https://www.space.com/technology/aerospace/nasas-x-59-quiet-supersonic-jet-makes-historic-1st-flight-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
