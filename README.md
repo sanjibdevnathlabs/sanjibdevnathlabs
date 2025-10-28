@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PayPal partners with OpenAI to let users pay for their shopping within ChatGPT](https://techcrunch.com/2025/10/28/paypal-partners-with-openai-to-let-users-pay-for-their-shopping-within-chatgpt/)
 - [Watch 2 Russian cosmonauts spacewalk outside the ISS today](https://www.space.com/space-exploration/international-space-station/watch-2-russian-cosmonauts-spacewalk-outside-the-iss-today)
 - [OpenAI offers free ChatGPT Go for one year to all users in India](https://techcrunch.com/2025/10/27/openai-offers-free-chatgpt-go-for-one-year-to-all-users-in-india/)
 - [SpaceX launches 28 Starlink satellites from California, lands rocket at sea](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-11-21-ocisly)
 - [Venture capital is not an asset class, says Sequoia’s Roelof Botha](https://techcrunch.com/2025/10/27/venture-capital-is-not-an-asset-class-says-sequoias-roelof-botha/)
-- [CEO of Alphabet’s X, Astro Teller, on what makes a moonshot](https://techcrunch.com/2025/10/27/ceo-of-alphabets-x-astro-teller-on-what-makes-a-moonshot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
