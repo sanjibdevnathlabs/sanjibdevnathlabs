@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI and sand dunes on Mars can reveal the planet&#39;s history, one grain at a time](https://www.space.com/astronomy/mars/how-ai-and-sand-dunes-on-mars-can-reveal-the-planets-history-one-grain-at-a-time)
-- [Scientists hear 2 newborn black holes &#39;crying&#39; through ripples in spacetime — and one had a birth unlike anything seen before](https://www.space.com/astronomy/black-holes/scientists-hear-2-newborn-black-holes-crying-through-ripples-in-spacetime-and-one-had-a-birth-unlike-anything-seen-before)
-- [1st samples ever collected from the moon&#39;s far side could help reveal where Earth got its water](https://www.space.com/astronomy/moon/1st-samples-ever-collected-from-the-moons-far-side-could-help-reveal-where-earth-got-its-water)
-- [TechCrunch Disrupt 2025: How to watch Vinod Khosla, Netflix, Slate Auto, and Startup Battlefield](https://techcrunch.com/2025/10/28/techcrunch-disrupt-2025-how-to-watch-vinod-khosla-netflix-slate-auto-and-startup-battlefield/)
-- [AccessGrid raises $4.4M to help turn phones into key fobs](https://techcrunch.com/2025/10/28/accessgrid-raises-4-4m-to-help-turn-phones-into-key-fobs/)
+- [Charter Space brings fintech to spacecraft insurance and is showing off its stuff at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/charter-space-brings-fintech-to-spacecraft-insurance-and-is-showing-off-its-stuff-at-techcrunch-disrupt-2025/)
+- [CyDeploy wants to create a replica of a company’s system to help it test updates before pushing them out — catch it at Disrupt 2025](https://techcrunch.com/2025/10/28/cydeploy-wants-to-create-a-replica-of-a-companys-system-to-help-it-test-updates-before-pushing-them-out-catch-it-at-disrupt-2025/)
+- [Cyphr will reveal how it makes lending easier for small businesses at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/cyphr-will-reveal-how-it-makes-lending-easier-for-small-businesses-at-techcrunch-disrupt-2025/)
+- [Identifee, built by Wells Fargo alumni, unifies productivity tech for bankers into a single platform — catch it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/identifee-built-by-wells-fargo-alumni-unifies-productivity-tech-for-bankers-into-a-single-platform-catch-it-at-techcrunch-disrupt-2025/)
+- [Elloe AI wants to be the ‘immune system’ for AI — check it out at Disrupt 2025](https://techcrunch.com/2025/10/28/elloe-ai-wants-to-be-the-immune-system-for-ai-check-it-out-at-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
