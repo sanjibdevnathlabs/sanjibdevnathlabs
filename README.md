@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [1st cosmic view from 4MOST looks pure sci-fi | Space photo of the day for Oct. 28, 2025](https://www.space.com/astronomy/1st-cosmic-view-from-4most-looks-pure-sci-fi-space-photo-of-the-day-for-oct-28-2025)
 - [Adobe Firefly Image 5 brings support for layers, will let creators make custom models](https://techcrunch.com/2025/10/28/adobe-firefly-image-5-brings-support-for-layers-will-let-creators-make-custom-models/)
 - [Adobe launches AI assistants for Express and Photoshop](https://techcrunch.com/2025/10/28/adobe-launches-ai-assistants-for-express-and-photoshop/)
 - [See a colossal &#39;X&#39; and &#39;V&#39; appear on the moon after sunset tonight](https://www.space.com/stargazing/see-a-colossal-x-and-v-appear-on-the-moon-after-sunset-tonight)
 - [PayPal partners with OpenAI to let users pay for their shopping within ChatGPT](https://techcrunch.com/2025/10/28/paypal-partners-with-openai-to-let-users-pay-for-their-shopping-within-chatgpt/)
-- [Watch 2 Russian cosmonauts spacewalk outside the ISS today](https://www.space.com/space-exploration/international-space-station/watch-2-russian-cosmonauts-spacewalk-outside-the-iss-today)
 <!-- BLOG-POST-LIST:END -->
 
 ---
