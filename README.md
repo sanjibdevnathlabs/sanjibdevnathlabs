@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mem0 raises $24M from YC, Peak XV and Basis Set to build the memory layer for AI apps](https://techcrunch.com/2025/10/28/mem0-raises-24m-from-yc-peak-xv-and-basis-set-to-build-the-memory-layer-for-ai-apps/)
+- [Apple and Microsoft are now both worth more than $4T](https://techcrunch.com/2025/10/28/apple-and-microsoft-are-now-both-worth-more-than-4t/)
+- [OpenAI completes its for-profit recapitalization](https://techcrunch.com/2025/10/28/openai-completes-its-for-profit-recapitalization/)
+- [Satellites watch Category 5 Hurricane Melissa ahead of potentially record-breaking landfall in Jamaica](https://www.space.com/technology/satellites-watch-category-5-hurricane-melissa-ahead-of-potentially-record-breaking-landfall-in-jamaica)
 - [TechCrunch Disrupt 2025: Day 2](https://techcrunch.com/2025/10/28/techcrunch-disrupt-2025-day-2/)
-- [The search for life: A space science quiz](https://www.space.com/space-exploration/search-for-life/the-search-for-life-a-space-science-quiz)
-- [Amazon to cut 14,000 corporate jobs](https://techcrunch.com/2025/10/28/amazon-to-cut-14000-corporate-jobs/)
-- [1st cosmic view from 4MOST looks pure sci-fi | Space photo of the day for Oct. 28, 2025](https://www.space.com/astronomy/1st-cosmic-view-from-4most-looks-pure-sci-fi-space-photo-of-the-day-for-oct-28-2025)
-- [Adobe Firefly Image 5 brings support for layers, will let creators make custom models](https://techcrunch.com/2025/10/28/adobe-firefly-image-5-brings-support-for-layers-will-let-creators-make-custom-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
