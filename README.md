@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Falcon Heavy launch of private Griffin moon lander now targeting mid-2026](https://www.space.com/space-exploration/spacex-falcon-heavy-launch-of-private-griffin-moon-lander-now-targeting-mid-2026)
-- [Khosla-backed Mazama taps super-hot rocks in race to deliver 24/7 power](https://techcrunch.com/2025/10/28/khosla-backed-mazama-taps-super-hot-rocks-in-race-to-deliver-24-7-power/)
-- [Aurora expands self-driving trucks route to El Paso](https://techcrunch.com/2025/10/28/aurora-expands-self-driving-trucks-route-to-el-paso/)
-- [Mirror’s founder is back with a new ‘connected screen’ startup: a gaming device called ‘Board’](https://techcrunch.com/2025/10/28/mirrors-founder-is-back-with-a-new-connected-screen-startup-a-gaming-device-called-board/)
-- [Netflix CTO says more vertical video experiments are coming, but streamer is not competing with TikTok](https://techcrunch.com/2025/10/28/netflix-cto-says-more-vertical-video-experiments-are-coming-but-streamer-is-not-competing-with-tiktok/)
+- [Spacewalking Russian cosmonauts install experiments on the International Space Station](https://www.space.com/space-exploration/international-space-station/spacewalking-russian-cosmonauts-install-experiments-on-the-international-space-station)
+- [Waabi unveils autonomous truck made in partnership with Volvo](https://techcrunch.com/2025/10/28/waabi-unveils-autonomous-truck-made-in-partnership-with-volvo/)
+- [Unlisted connects homeowners with prospective buyers before they even put their homes up for sale and is part of TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/unlisted-homes-connects-homeowners-with-prospective-buyers-before-they-even-put-their-homes-up-for-sale-and-is-part-of-techcrunch-disrupt-2025/)
+- [Super Teacher is building an AI tutor for elementary schools — catch it at Disrupt 2025](https://techcrunch.com/2025/10/28/super-teacher-is-building-an-ai-tutor-for-elementary-schools-catch-it-at-disrupt-2025/)
+- [Mappa’s AI voice analysis helps you find the best job candidates and will show off its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/mappas-ai-voice-analysis-helps-you-find-the-best-job-candidates-and-will-show-off-its-tech-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
