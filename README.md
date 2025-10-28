@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Falcon Heavy launch of private Griffin moon lander now targeting mid-2026](https://www.space.com/space-exploration/spacex-falcon-heavy-launch-of-private-griffin-moon-lander-now-targeting-mid-2026)
+- [Khosla-backed Mazama taps super-hot rocks in race to deliver 24/7 power](https://techcrunch.com/2025/10/28/khosla-backed-mazama-taps-super-hot-rocks-in-race-to-deliver-24-7-power/)
 - [Aurora expands self-driving trucks route to El Paso](https://techcrunch.com/2025/10/28/aurora-expands-self-driving-trucks-route-to-el-paso/)
 - [Mirror’s founder is back with a new ‘connected screen’ startup: a gaming device called ‘Board’](https://techcrunch.com/2025/10/28/mirrors-founder-is-back-with-a-new-connected-screen-startup-a-gaming-device-called-board/)
 - [Netflix CTO says more vertical video experiments are coming, but streamer is not competing with TikTok](https://techcrunch.com/2025/10/28/netflix-cto-says-more-vertical-video-experiments-are-coming-but-streamer-is-not-competing-with-tiktok/)
-- [Netflix launches redesigned profiles for kids](https://techcrunch.com/2025/10/28/netflix-launches-redesigned-profiles-for-kids/)
-- [Netflix CTO announces interactive real-time voting for live content](https://techcrunch.com/2025/10/28/netflix-cto-announces-interactive-real-time-voting-for-live-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
