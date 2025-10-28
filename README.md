@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix CTO announces interactive real-time voting for live content](https://techcrunch.com/2025/10/28/netflix-cto-announces-interactive-real-time-voting-for-live-content/)
+- [NASA spots a spooky face glowing on the sun just in time for Halloween &lpar;photo&rpar;](https://www.space.com/astronomy/sun/nasa-spots-a-spooky-face-glowing-on-the-sun-just-in-time-for-halloween-photo)
+- [NASA&#39;s X-59 &#39;quiet&#39; supersonic jet makes historic 1st flight &lpar;photos&rpar;](https://www.space.com/technology/aerospace/nasas-x-59-quiet-supersonic-jet-makes-historic-1st-flight-photos)
+- [Sam Altman says OpenAI will have a ‘legitimate AI researcher’ by 2028](https://techcrunch.com/2025/10/28/sam-altman-says-openai-will-have-a-legitimate-ai-researcher-by-2028/)
 - [Charter Space brings fintech to spacecraft insurance and is showing off its stuff at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/charter-space-brings-fintech-to-spacecraft-insurance-and-is-showing-off-its-stuff-at-techcrunch-disrupt-2025/)
-- [CyDeploy wants to create a replica of a company’s system to help it test updates before pushing them out — catch it at Disrupt 2025](https://techcrunch.com/2025/10/28/cydeploy-wants-to-create-a-replica-of-a-companys-system-to-help-it-test-updates-before-pushing-them-out-catch-it-at-disrupt-2025/)
-- [Cyphr will reveal how it makes lending easier for small businesses at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/cyphr-will-reveal-how-it-makes-lending-easier-for-small-businesses-at-techcrunch-disrupt-2025/)
-- [Identifee, built by Wells Fargo alumni, unifies productivity tech for bankers into a single platform — catch it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/identifee-built-by-wells-fargo-alumni-unifies-productivity-tech-for-bankers-into-a-single-platform-catch-it-at-techcrunch-disrupt-2025/)
-- [Elloe AI wants to be the ‘immune system’ for AI — check it out at Disrupt 2025](https://techcrunch.com/2025/10/28/elloe-ai-wants-to-be-the-immune-system-for-ai-check-it-out-at-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
