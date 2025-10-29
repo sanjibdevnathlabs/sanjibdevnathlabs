@@ -134,7 +134,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [You NEED to Use AI in the Terminal RIGHT NOW!!](https://www.youtube.com/watch?v=MsQACpcuTkU)
+- [You&#39;ve Been Using AI the Hard Way &lpar;Use This Instead&rpar;](https://www.youtube.com/watch?v=MsQACpcuTkU)
 - [Student Project 1: How to Make a Chinese Calligraphy Brush Stand](https://www.youtube.com/watch?v=eD3YK8iIjpw)
 - [Student Project 2: Ink and Thread: Incorporating Chinese Calligraphy in Fashion](https://www.youtube.com/watch?v=lZtDo237YgE)
 - [He Broke the AI Image Filter &lpar;With One Simple Trick&rpar;](https://www.youtube.com/shorts/v7-gJ3uqZ5A)
