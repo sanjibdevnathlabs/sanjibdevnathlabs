@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2025/)
+- [‘Silicon Valley’ star Thomas Middleditch makes a surprise appearance at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/silicon-valley-star-thomas-middleditch-makes-a-surprise-appearance-at-techcrunch-disrupt-2025/)
 - [Spacewalking Russian cosmonauts install experiments on the International Space Station](https://www.space.com/space-exploration/international-space-station/spacewalking-russian-cosmonauts-install-experiments-on-the-international-space-station)
 - [Waabi unveils autonomous truck made in partnership with Volvo](https://techcrunch.com/2025/10/28/waabi-unveils-autonomous-truck-made-in-partnership-with-volvo/)
 - [Unlisted connects homeowners with prospective buyers before they even put their homes up for sale and is part of TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/unlisted-homes-connects-homeowners-with-prospective-buyers-before-they-even-put-their-homes-up-for-sale-and-is-part-of-techcrunch-disrupt-2025/)
-- [Super Teacher is building an AI tutor for elementary schools — catch it at Disrupt 2025](https://techcrunch.com/2025/10/28/super-teacher-is-building-an-ai-tutor-for-elementary-schools-catch-it-at-disrupt-2025/)
-- [Mappa’s AI voice analysis helps you find the best job candidates and will show off its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/mappas-ai-voice-analysis-helps-you-find-the-best-job-candidates-and-will-show-off-its-tech-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
