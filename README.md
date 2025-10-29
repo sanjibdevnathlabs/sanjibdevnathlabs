@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CEO of spyware maker Memento Labs confirms one of its government customers was caught using its malware](https://techcrunch.com/2025/10/28/ceo-of-spyware-maker-memento-labs-confirms-one-of-its-government-customers-was-caught-using-its-malware/)
 - [LG Uplus is latest South Korean telco to confirm cybersecurity incident](https://techcrunch.com/2025/10/28/lg-uplus-is-latest-south-korean-telco-to-confirm-cybersecurity-incident/)
 - [Tata Motors confirms it fixed security flaws, which exposed company and customer data](https://techcrunch.com/2025/10/28/tata-motors-confirms-it-fixed-security-flaws-that-exposed-company-and-customer-data/)
 - [Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2025/)
 - [‘Silicon Valley’ star Thomas Middleditch makes a surprise appearance at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/silicon-valley-star-thomas-middleditch-makes-a-surprise-appearance-at-techcrunch-disrupt-2025/)
-- [Spacewalking Russian cosmonauts install experiments on the International Space Station](https://www.space.com/space-exploration/international-space-station/spacewalking-russian-cosmonauts-install-experiments-on-the-international-space-station)
 <!-- BLOG-POST-LIST:END -->
 
 ---
