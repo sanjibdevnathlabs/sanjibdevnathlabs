@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Etsy names former head of Depop, Kruti Patel Goyal, as its new CEO](https://techcrunch.com/2025/10/29/etsy-names-former-head-of-depop-kruti-patel-goyal-as-its-new-ceo/)
+- [Enormous black hole unexpectedly found in tiny galaxy](https://www.space.com/astronomy/black-holes/enormous-black-hole-unexpectedly-found-in-tiny-galaxy)
 - [TechCrunch Disrupt 2025: Day 3](https://techcrunch.com/2025/10/29/techcrunch-disrupt-2025-day-3/)
 - [Mercury shines farthest from the sun in the evening sky on Oct. 29](https://www.space.com/stargazing/mercury-shines-farthest-from-the-sun-in-the-evening-sky-oct-29-2025)
 - [US signs collaboration agreements with Japan and South Korea for AI, chips and biotech](https://techcrunch.com/2025/10/29/us-signs-collaboration-agreements-with-japan-and-south-korea-for-ai-chips-and-biotech/)
-- [Grammarly rebrands to ‘Superhuman,’ launches a new AI assistant](https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/)
-- [YouTube looks to improve its TV app with QR codes for shopping, AI-powered upscaling](https://techcrunch.com/2025/10/29/youtubes-latest-updates-are-aimed-at-improving-the-tv-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
