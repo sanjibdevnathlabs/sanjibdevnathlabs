@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MoviePass opens fantasy league game Mogul to the public](https://techcrunch.com/2025/10/29/moviepass-opens-fantasy-league-game-mogul-to-the-public/)
-- [Uber to launch a premium robotaxi service in Waymo’s turf of San Francisco](https://techcrunch.com/2025/10/29/uber-to-launch-a-premium-robotaxi-service-in-waymos-turf-of-san-francisco/)
-- [Can we find water ice on the moon? Only if we know where to look, scientists say](https://www.space.com/astronomy/moon/can-we-find-water-ice-on-the-moon-only-if-we-know-where-to-look-scientists-say)
-- [Watch Japan&#39;s 1st HTV-X cargo craft arrive at the International Space Station today](https://www.space.com/space-exploration/international-space-station/japan-htv-x-cargo-spacecraft-first-arrival-international-space-station)
-- [Flipkart’s Super.money teams up with Kotak811 to make India’s free UPI payments pay](https://techcrunch.com/2025/10/29/flipkarts-super-money-teams-up-with-kotak-bank-to-make-indias-free-upi-payments-pay/)
+- [Grammarly rebrands to ‘Superhuman,’ launches a new AI assistant](https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/)
+- [YouTube looks to improve its TV app with QR codes for shopping, AI-powered upscaling](https://techcrunch.com/2025/10/29/youtubes-latest-updates-are-aimed-at-improving-the-tv-experience/)
+- [Character AI is ending its chatbot experience for kids](https://techcrunch.com/2025/10/29/character-ai-is-killing-the-chatbot-experience-for-minors/)
+- [Sun&#39;s far side erupts in satellite image | Space photo of the day for Oct. 29, 2025](https://www.space.com/astronomy/sun/suns-far-side-erupts-in-satellite-image-space-photo-of-the-day-for-oct-29-2025)
+- [Phia’s founders on how AI is changing online shopping](https://techcrunch.com/2025/10/29/phias-founders-on-how-ai-is-changing-online-shopping/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
