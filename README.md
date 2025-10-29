@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI labs use Mercor to get the data companies won’t share](https://techcrunch.com/2025/10/29/how-ai-labs-use-mercor-to-get-the-data-companies-wont-share/)
-- [You won&#39;t see interstellar comet 3I/ATLAS zoom closest to the sun on Oct. 30 — but these spacecraft will](https://www.space.com/astronomy/comets/you-wont-see-interstellar-comet-3i-atlas-zoom-closest-to-the-sun-on-oct-30-but-these-spacecraft-will)
-- [Nvidia becomes first public company worth $5 trillion](https://techcrunch.com/2025/10/29/nvidia-becomes-first-public-company-worth-5-trillion/)
-- [Etsy names former head of Depop, Kruti Patel Goyal, as its new CEO](https://techcrunch.com/2025/10/29/etsy-names-former-head-of-depop-kruti-patel-goyal-as-its-new-ceo/)
-- [Enormous black hole unexpectedly found in tiny galaxy](https://www.space.com/astronomy/black-holes/enormous-black-hole-unexpectedly-found-in-tiny-galaxy)
+- [Is Earth &#39;on the brink&#39;? 2024 was likely our planet’s hottest year in 125,000 years](https://www.space.com/science/climate-change/is-earth-on-the-brink-2024-was-likely-our-planets-hottest-year-in-125-000-years)
+- [ElevenLabs CEO says AI audio models will be ‘commoditized’ over time](https://techcrunch.com/2025/10/29/elevenlabs-ceo-says-ai-audio-models-will-be-commoditized-over-time/)
+- [TechCrunch Disrupt 2025: How to watch the Startup Battlefield finale, Cluely, Solana, SF’s Mayor](https://techcrunch.com/2025/10/29/techcrunch-disrupt-2025-how-to-watch-the-startup-battlefield-finale-cluely-solana-sfs-mayor/)
+- [It’s official. Fubo is combining with Hulu Live TV](https://techcrunch.com/2025/10/29/its-official-fubo-is-combining-with-hulu-live-tv/)
+- [SpaceX launches 29 Starlink satellites to orbit from Florida](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-37-b1082-ccsfs-jrti)
 <!-- BLOG-POST-LIST:END -->
 
 ---
