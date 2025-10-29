@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The humanoid-robot dystopia arrived early...](https://www.youtube.com/watch?v=q2czJLPJ4nA)
 - [The Silent Killer of Startups...](https://www.youtube.com/shorts/5UE_G0zGsO0)
 - [From QA to DevOps - How I Learned DevOps to future-proof my career](https://www.youtube.com/watch?v=4J53WvB1-4E)
+- [LIVE DevOps Career Workshop](https://www.youtube.com/watch?v=bpJNVKyDOaI)
 - [You&#39;ve Been Using AI the Hard Way &lpar;Use This Instead&rpar;](https://www.youtube.com/watch?v=MsQACpcuTkU)
-- [Student Project 1: How to Make a Chinese Calligraphy Brush Stand](https://www.youtube.com/watch?v=eD3YK8iIjpw)
-- [Student Project 2: Ink and Thread: Incorporating Chinese Calligraphy in Fashion](https://www.youtube.com/watch?v=lZtDo237YgE)
 <!-- YOUTUBE:END -->
 
 ---
