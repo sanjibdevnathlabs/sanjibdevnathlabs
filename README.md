@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [From QA to DevOps - How I Learned DevOps to future-proof my career](https://www.youtube.com/watch?v=4J53WvB1-4E)
 - [You&#39;ve Been Using AI the Hard Way &lpar;Use This Instead&rpar;](https://www.youtube.com/watch?v=MsQACpcuTkU)
 - [Student Project 1: How to Make a Chinese Calligraphy Brush Stand](https://www.youtube.com/watch?v=eD3YK8iIjpw)
 - [Student Project 2: Ink and Thread: Incorporating Chinese Calligraphy in Fashion](https://www.youtube.com/watch?v=lZtDo237YgE)
 - [He Broke the AI Image Filter &lpar;With One Simple Trick&rpar;](https://www.youtube.com/shorts/v7-gJ3uqZ5A)
-- [Session 4-1: Networked Geothermal: The European Experience](https://www.youtube.com/watch?v=j0Bhj4eCCws)
 <!-- YOUTUBE:END -->
 
 ---
