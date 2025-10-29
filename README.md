@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists use James Webb Space Telescope to make 1st 3D map of exoplanet  — and it&#39;s so hot, it rips apart water](https://www.space.com/astronomy/exoplanets/scientists-use-james-webb-space-telescope-to-make-1st-3d-map-of-exoplanet-and-its-so-hot-it-rips-apart-water)
+- [Box CEO Aaron Levie on how AI is changing the enterprise SaaS landscape](https://techcrunch.com/2025/10/29/box-ceo-aaron-levie-on-how-ai-is-changing-the-enterprise-saas-landscape/)
+- [San Francisco mayor: ‘We should be the testbed for emerging tech’](https://techcrunch.com/2025/10/29/sf-mayor-we-should-be-the-testbed-for-emerging-tech/)
 - [Microsoft Azure is down, affecting 365, Xbox, Minecraft, and others](https://techcrunch.com/2025/10/29/microsoft-azure-is-down-affecting-365-xbox-minecraft-and-others/)
 - [GM cuts thousands of EV and battery factory workers](https://techcrunch.com/2025/10/29/gm-cuts-thousands-of-ev-and-battery-factory-workers/)
-- [Every &#39;Star Wars: Visions Volume 3&#39; episode, ranked from worst to best](https://www.space.com/entertainment/space-movies-shows/every-star-wars-visions-volume-3-episode-ranked-from-worst-to-best)
-- [Former L3Harris Trenchant boss pleads guilty to selling zero-day exploits to Russian broker](https://techcrunch.com/2025/10/29/former-l3harris-trenchant-boss-pleads-guilty-to-selling-zero-day-exploits-to-russian-broker/)
-- [&#39;Supergirl&#39; at 10: The Arrowverse TV show laid the blueprint for James Gunn&#39;s DC Universe](https://www.space.com/entertainment/space-movies-shows/supergirl-at-10-the-arrowverse-tv-show-laid-the-blueprint-for-james-gunns-dc-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
