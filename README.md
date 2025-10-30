@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google partners with Ambani’s Reliance to offer free AI Pro access to millions of Jio users in India](https://techcrunch.com/2025/10/30/google-partners-with-ambanis-reliance-to-offer-free-ai-pro-access-to-millions-of-jio-users-in-india/)
+- [Powerful solar storms may help life get going on alien planets. Here&#39;s how](https://www.space.com/space-exploration/search-for-life/powerful-solar-storms-may-help-life-get-going-on-alien-planets-heres-how)
 - [Figma acquires AI-powered media generation company Weavy](https://techcrunch.com/2025/10/30/figma-acquires-ai-powered-media-generation-company-weavy/)
 - [The Prompting Company snags $6.5M to help products get mentioned in ChatGPT and other AI apps](https://techcrunch.com/2025/10/30/the-prompting-company-snags-6-5m-to-help-products-get-mentioned-in-chatgpt-and-other-ai-apps/)
 - [WhatsApp adds passkey protection to end-to-end encrypted backups](https://techcrunch.com/2025/10/30/whatsapp-adds-passkey-protection-to-end-to-end-encrypted-backups/)
-- [James Webb Space Telescope spots the haunting Red Spider Nebula with 3-light-year-long legs](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-spots-the-haunting-red-spider-nebula-with-3-light-year-long-legs)
-- [Peering into the eye of Hurricane Melissa | Space photo of the day for Oct. 30, 2025](https://www.space.com/astronomy/earth/peering-into-the-eye-of-hurricane-melissa-space-photo-of-the-day-for-oct-30-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
