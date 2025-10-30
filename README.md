@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bevel raises $10M Series A from General Catalyst for its AI health companion](https://techcrunch.com/2025/10/30/bevel-raises-10m-series-a-from-general-catalyst-for-its-ai-health-companion/)
+- [Europe is working to develop reusable rockets by the early 2030s](https://www.space.com/technology/europe-is-working-to-develop-reusable-rockets-by-the-early-2030s)
+- [Threads now lets you approve and filter your replies](https://techcrunch.com/2025/10/30/threads-now-lets-you-approve-and-filter-your-replies/)
 - [China reveals crew for Shenzhou 21 mission to Tiangong Space Station, including nation&#39;s youngest astronaut &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/china-reveals-crew-for-shenzhou-21-mission-to-tiangong-space-station-including-nations-youngest-astronaut-video)
 - [Google partners with Ambani’s Reliance to offer free AI Pro access to millions of Jio users in India](https://techcrunch.com/2025/10/30/google-partners-with-ambanis-reliance-to-offer-free-ai-pro-access-to-millions-of-jio-users-in-india/)
-- [Powerful solar storms may help life get going on alien planets. Here&#39;s how](https://www.space.com/space-exploration/search-for-life/powerful-solar-storms-may-help-life-get-going-on-alien-planets-heres-how)
-- [Figma acquires AI-powered media generation company Weavy](https://techcrunch.com/2025/10/30/figma-acquires-ai-powered-media-generation-company-weavy/)
-- [The Prompting Company snags $6.5M to help products get mentioned in ChatGPT and other AI apps](https://techcrunch.com/2025/10/30/the-prompting-company-snags-6-5m-to-help-products-get-mentioned-in-chatgpt-and-other-ai-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
