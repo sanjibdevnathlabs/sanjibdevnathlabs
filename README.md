@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch its 100th Starlink mission of 2025 today](https://www.space.com/space-exploration/launches-spacecraft/spacex-100th-starlink-satellite-launch-2025)
 - [IntrCity SmartBus lands $30M at $140M valuation to deepen its grip on India’s intercity travel market](https://techcrunch.com/2025/10/29/intrcity-smartbus-lands-30m-at-140m-valuation-to-deepen-its-grip-on-indias-intercity-travel-market/)
 - [India’s Snabbit valuation doubled to $180M in 5 months on its quick house-help bet](https://techcrunch.com/2025/10/29/indias-snabbit-valuation-doubled-to-180m-in-5-months-on-its-quick-house-help-bet/)
 - [Cluely’s Roy Lee on the ragebait strategy for startup marketing](https://techcrunch.com/2025/10/29/cluelys-roy-lee-on-the-ragebait-strategy-for-startup-marketing/)
 - [NBA champion Tristan Thompson and World Mobile launch community-owned network Uplift](https://techcrunch.com/2025/10/29/nba-champion-tristan-thompson-and-world-mobile-launch-community-owned-network-uplift/)
-- [Digg founder Kevin Rose on the need for trusted social communities in the AI era](https://techcrunch.com/2025/10/29/digg-founder-kevin-rose-on-the-need-for-trusted-social-communities-in-the-ai-era/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
