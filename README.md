@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia is reportedly investing up to $1 billion in Poolside](https://techcrunch.com/2025/10/30/nvidia-is-reportedly-investing-up-to-1-billion-in-poolside/)
+- [Capture constellations easily with over $1000 off the Sony A7R V at Walmart](https://www.space.com/stargazing/skywatching-kit/capture-constellations-easily-with-over-usd1000-off-the-sony-a7r-v-at-walmart)
+- [New laser drill could help scientists explore ice-covered worlds like Jupiter&#39;s ocean moon Europa](https://www.space.com/space-exploration/new-laser-drill-could-help-scientists-explore-ice-covered-worlds-like-jupiters-ocean-moon-europa)
 - [&#39;Anti-social&#39; cosmic explosion could change the way we think about dying stars and supernovas](https://www.space.com/astronomy/anti-social-cosmic-explosion-could-change-the-way-we-think-about-dying-stars-and-supernovas)
 - [SpaceX looking into &#39;simplified&#39; Starship Artemis 3 mission to get astronauts to the moon faster](https://www.space.com/space-exploration/artemis/spacex-looking-into-simplified-starship-artemis-3-mission-to-get-astronauts-to-the-moon-faster)
-- [These top-rated binoculars deliver &#39;a sky-watching experience that will move your soul&#39; — they&#39;ve just hit the best price we&#39;ve ever seen in this early Black Friday deal](https://www.space.com/stargazing/skywatching-kit/these-top-rated-binoculars-deliver-a-sky-watching-experience-that-will-move-your-soul-theyve-just-hit-the-best-price-weve-ever-seen-in-this-early-black-friday-deal)
-- [Colorado sues Trump administration over plans to relocate US Space Command to Alabama&#39;s &#39;Rocket City&#39;](https://www.space.com/space-exploration/colorado-sues-trump-administration-over-plans-to-relocate-us-space-command-to-alabamas-rocket-city)
-- [Canva launches its own design model, adds new AI features to the platform](https://techcrunch.com/2025/10/30/canva-launches-its-own-design-model-adds-new-ai-features-to-the-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
