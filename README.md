@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Solana co-founder Anatoly Yakovenko is a big fan of agentic coding](https://techcrunch.com/2025/10/29/solana-co-founder-anatoly-yakovenko-is-a-big-fan-of-agentic-coding/)
-- [Venus loses its last active spacecraft, as Japan declares Akatsuki orbiter dead](https://www.space.com/space-exploration/launches-spacecraft/venus-loses-its-last-active-spacecraft-as-japan-declares-akatsuki-orbiter-dead)
-- [2024’s Startup Battlefield runner-up geCKo Materials reveals four new products at TechCrunch Disrupt](https://techcrunch.com/2025/10/29/2024s-startup-battlefield-runner-up-gecko-materials-reveals-four-new-products-at-techcrunch-disrupt/)
-- [Could these mysterious flashes of light in 1950s photos be UFOs? Some researchers think so](https://www.space.com/space-exploration/search-for-life/were-unexplained-flashes-of-light-in-70-year-old-sky-surveys-caused-by-ufos-or-nuclear-testing-why-not-both-researchers-say)
-- [Scientists use James Webb Space Telescope to make 1st 3D map of exoplanet  — and it&#39;s so hot, it rips apart water](https://www.space.com/astronomy/exoplanets/scientists-use-james-webb-space-telescope-to-make-1st-3d-map-of-exoplanet-and-its-so-hot-it-rips-apart-water)
+- [Cluely’s Roy Lee on the ragebait strategy for startup marketing](https://techcrunch.com/2025/10/29/cluelys-roy-lee-on-the-ragebait-strategy-for-startup-marketing/)
+- [NBA champion Tristan Thompson and World Mobile launch community-owned network Uplift](https://techcrunch.com/2025/10/29/nba-champion-tristan-thompson-and-world-mobile-launch-community-owned-network-uplift/)
+- [Digg founder Kevin Rose on the need for trusted social communities in the AI era](https://techcrunch.com/2025/10/29/digg-founder-kevin-rose-on-the-need-for-trusted-social-communities-in-the-ai-era/)
+- [YouTube announces ‘voluntary exit program’ for US staff](https://techcrunch.com/2025/10/29/youtube-announces-voluntary-exit-program-for-us-staff/)
+- [And the winner of Startup Battlefield at Disrupt 2025 is: Glīd](https://techcrunch.com/2025/10/29/and-the-winner-of-startup-battlefield-at-disrupt-2025-is-glid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
