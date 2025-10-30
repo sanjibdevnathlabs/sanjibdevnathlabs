@@ -137,7 +137,7 @@ I'm a software developer passionate about designing and building applications wi
 - [How The ISPs Know Your Location - Computerphile](https://www.youtube.com/watch?v=Cn5E9EI8PgQ)
 - [The humanoid-robot dystopia arrived early...](https://www.youtube.com/watch?v=q2czJLPJ4nA)
 - [The Silent Killer of Startups...](https://www.youtube.com/shorts/5UE_G0zGsO0)
-- [From QA to DevOps - How I Learned DevOps to future-proof my career](https://www.youtube.com/watch?v=4J53WvB1-4E)
+- [13 Years in QA: Why Traditional QA is Disappearing &lpar;And What to Do&rpar;](https://www.youtube.com/watch?v=4J53WvB1-4E)
 - [You&#39;ve Been Using AI the Hard Way &lpar;Use This Instead&rpar;](https://www.youtube.com/watch?v=MsQACpcuTkU)
 <!-- YOUTUBE:END -->
 
