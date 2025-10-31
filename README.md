@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This Docker Update Gives AI Superpowers](https://www.youtube.com/shorts/YiVD5IPxif0)
 - [Cursor 2.0 is here... 5 things you didn&#39;t know it can do](https://www.youtube.com/watch?v=HIp8sFB2GGw)
 - [How IP Addresses Relate to Physical Locations - Computerphile](https://www.youtube.com/watch?v=Cn5E9EI8PgQ)
 - [The humanoid-robot dystopia arrived early...](https://www.youtube.com/watch?v=q2czJLPJ4nA)
 - [The Silent Killer of Startups...](https://www.youtube.com/shorts/5UE_G0zGsO0)
-- [13 Years in QA: Why Traditional QA is Disappearing &lpar;And What to Do&rpar;](https://www.youtube.com/watch?v=4J53WvB1-4E)
 <!-- YOUTUBE:END -->
 
 ---
