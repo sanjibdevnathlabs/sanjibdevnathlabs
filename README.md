@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Halloween stargazing 2025: The moon and Saturn light the night sky for trick-or-treaters](https://www.space.com/stargazing/halloween-stargazing-2025-the-moon-and-saturn-light-the-night-sky-for-trick-or-treaters)
 - [Watch China launch 3 astronauts toward its Tiangong space station today](https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-21-astronaut-launch-webcast)
 - [NASA is sinking its flagship science center during the government shutdown — and may be breaking the law in the process, critics say](https://www.space.com/space-exploration/nasa-is-sinking-its-flagship-science-center-during-the-government-shutdown-and-may-be-breaking-the-law-in-the-process)
 - [Scenes from TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/30/scenes-from-techcrunch-disrupt/)
 - [Navan IPO tumbles 20% after historic debut under SEC shutdown workaround](https://techcrunch.com/2025/10/30/navan-ipo-tumbles-20-after-historic-debut-under-sec-shutdown-workaround/)
-- [Nvidia is reportedly investing up to $1B in Poolside](https://techcrunch.com/2025/10/30/nvidia-is-reportedly-investing-up-to-1-billion-in-poolside/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
