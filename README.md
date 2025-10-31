@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Explore the Milky Way like never before in this stunning new color map &lpar;image&rpar;](https://www.space.com/astronomy/explore-the-milky-way-like-never-before-in-this-stunning-new-color-map-image)
+- [Reddit CEO says chatbots are not a traffic driver](https://techcrunch.com/2025/10/31/reddit-ceo-says-chatbots-are-not-a-traffic-driver/)
+- [Nvidia expands AI ties with Hyundai, Samsung, SK, Naver](https://techcrunch.com/2025/10/31/nvidia-expands-ai-ties-with-hyundai-samsung-sk-naver/)
 - [Halloween colors come to Kitt Peak Observatory | Space photo of the day for Oct. 31, 2025](https://www.space.com/astronomy/halloween-colors-come-to-kitt-peak-observatory-space-photo-of-the-day-for-oct-31-2025)
 - [Halloween stargazing 2025: The moon and Saturn light the night sky for trick-or-treaters](https://www.space.com/stargazing/halloween-stargazing-2025-the-moon-and-saturn-light-the-night-sky-for-trick-or-treaters)
-- [Watch China launch 3 astronauts toward its Tiangong space station today](https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-21-astronaut-launch-webcast)
-- [NASA is sinking its flagship science center during the government shutdown — and may be breaking the law in the process, critics say](https://www.space.com/space-exploration/nasa-is-sinking-its-flagship-science-center-during-the-government-shutdown-and-may-be-breaking-the-law-in-the-process)
-- [Scenes from TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/30/scenes-from-techcrunch-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
