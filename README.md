@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluesky hits 40 million users, introduces ‘dislikes’ beta](https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/)
+- [Satellite images show &#39;mesovortices&#39; forming around the eye of deadly Hurricane Melissa](https://www.space.com/astronomy/earth/satellite-images-show-mesovortices-forming-around-the-eye-of-deadly-hurricane-melissa)
+- [Meta bought 1 GW of solar this week](https://techcrunch.com/2025/10/31/meta-bought-1-gw-of-solar-this-week/)
 - [Astronomers capture vast cosmic bat spreading its wings in time for Halloween &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/astronomers-capture-vast-cosmic-bat-spreading-its-wings-for-halloween-photo-oct-31-2025)
 - [AI mania tanks CoreWeave’s Core Scientific acquisition; it buys Python notebook Marimo](https://techcrunch.com/2025/10/31/ai-mania-tanks-coreweaves-core-scientific-acquisition-it-buys-python-notebook-marimo/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/10/31/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [Tattd gave four TechCrunch writers tattoos at Startup Battlefield](https://techcrunch.com/2025/10/31/tattd-gave-four-techcrunch-writers-tattoos-at-startup-battlefield/)
-- [Hackers threaten to leak data after breaching University of Pennsylvania to send mass emails](https://techcrunch.com/2025/10/31/hackers-threaten-to-leak-data-after-breaching-university-of-pennsylvania-to-send-mass-emails/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
