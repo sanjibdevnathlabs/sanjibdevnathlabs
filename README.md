@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers capture vast cosmic bat spreading its wings in time for Halloween &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/astronomers-capture-vast-cosmic-bat-spreading-its-wings-for-halloween-photo-oct-31-2025)
+- [AI mania tanks CoreWeave’s Core Scientific acquisition; it buys Python notebook Marimo](https://techcrunch.com/2025/10/31/ai-mania-tanks-coreweaves-core-scientific-acquisition-it-buys-python-notebook-marimo/)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/10/31/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [Tattd gave four TechCrunch writers tattoos at Startup Battlefield](https://techcrunch.com/2025/10/31/tattd-gave-four-techcrunch-writers-tattoos-at-startup-battlefield/)
 - [Hackers threaten to leak data after breaching University of Pennsylvania to send mass emails](https://techcrunch.com/2025/10/31/hackers-threaten-to-leak-data-after-breaching-university-of-pennsylvania-to-send-mass-emails/)
-- [Best sci-fi horror books: Top sci-fi horror reads to haunt your Halloween](https://www.space.com/entertainment/space-books/best-sci-fi-horror-books)
-- [AWS exceeds Wall Street’s expectations as demand for cloud infra remains high](https://techcrunch.com/2025/10/31/aws-exceeds-wall-streets-expectations-as-demand-for-cloud-infra-remains-high/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
