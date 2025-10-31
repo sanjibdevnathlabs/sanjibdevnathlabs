@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS exceeds Wall Street’s expectations as demand for cloud infra remains high](https://techcrunch.com/2025/10/31/aws-exceeds-wall-streets-expectations-as-demand-for-cloud-infra-remains-high/)
+- [Trick or treat: Here&#39;s where to find comets Lemmon, SWAN and 3I/ATLAS in the Halloween sky](https://www.space.com/stargazing/find-comet-lemmon-swan-interstellar-object-3iatlas-in-the-halloween-sky-oct-31-2025)
+- [Government hackers breached telecom giant Ribbon for months before getting caught](https://techcrunch.com/2025/10/31/government-hackers-breached-telecom-giant-ribbon-for-months-before-getting-caught/)
 - [&#39;Ghost particles&#39; can zoom through you without a trace. Scientists are getting to the bottom of this cosmic mystery](https://www.space.com/science/particle-physics/ghost-particles-can-zoom-through-you-without-a-trace-scientists-are-getting-to-the-bottom-of-this-cosmic-mystery)
 - [China launches Shenzhou 21 astronauts to Tiangong space station for a 6-month stay &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-launches-shenzhou-21-astronauts-to-tiangong-space-station-for-a-6-month-stay-video)
-- [Perplexity strikes multi-year licensing deal with Getty Images](https://techcrunch.com/2025/10/31/perplexity-strikes-multi-year-licensing-deal-with-getty-images/)
-- [Become the scary alien this Halloween with these 5 reverse space horror games](https://www.space.com/entertainment/space-games/become-the-scary-alien-with-these-reverse-space-horror-games)
-- [Tim Cook says Apple is open to M&amp;A on the AI front](https://techcrunch.com/2025/10/31/tim-cook-says-apple-is-open-to-ma-on-the-ai-front/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
