@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Luminar is cutting jobs, losing its CFO, and warning of a cash shortage](https://techcrunch.com/2025/10/31/luminar-is-cutting-jobs-losing-its-cfo-and-warning-of-a-cash-shortage/)
+- [YC alum Adam raises $4.1M to turn viral text-to-3D tool into AI copilot](https://techcrunch.com/2025/10/31/yc-alum-adam-raises-4-1m-to-turn-viral-text-to-3d-tool-into-ai-copilot/)
 - [Explore the Milky Way like never before in this stunning new color map &lpar;image&rpar;](https://www.space.com/astronomy/explore-the-milky-way-like-never-before-in-this-stunning-new-color-map-image)
 - [Reddit CEO says chatbots are not a traffic driver](https://techcrunch.com/2025/10/31/reddit-ceo-says-chatbots-are-not-a-traffic-driver/)
 - [Nvidia expands AI ties with Hyundai, Samsung, SK, Naver](https://techcrunch.com/2025/10/31/nvidia-expands-ai-ties-with-hyundai-samsung-sk-naver/)
-- [Halloween colors come to Kitt Peak Observatory | Space photo of the day for Oct. 31, 2025](https://www.space.com/astronomy/halloween-colors-come-to-kitt-peak-observatory-space-photo-of-the-day-for-oct-31-2025)
-- [Halloween stargazing 2025: The moon and Saturn light the night sky for trick-or-treaters](https://www.space.com/stargazing/halloween-stargazing-2025-the-moon-and-saturn-light-the-night-sky-for-trick-or-treaters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
