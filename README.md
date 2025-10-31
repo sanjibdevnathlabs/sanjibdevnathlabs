@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Luminar is cutting jobs, losing its CFO, and warning of a cash shortage](https://techcrunch.com/2025/10/31/luminar-is-cutting-jobs-losing-its-cfo-and-warning-of-a-cash-shortage/)
-- [YC alum Adam raises $4.1M to turn viral text-to-3D tool into AI copilot](https://techcrunch.com/2025/10/31/yc-alum-adam-raises-4-1m-to-turn-viral-text-to-3d-tool-into-ai-copilot/)
-- [Explore the Milky Way like never before in this stunning new color map &lpar;image&rpar;](https://www.space.com/astronomy/explore-the-milky-way-like-never-before-in-this-stunning-new-color-map-image)
-- [Reddit CEO says chatbots are not a traffic driver](https://techcrunch.com/2025/10/31/reddit-ceo-says-chatbots-are-not-a-traffic-driver/)
-- [Nvidia expands AI ties with Hyundai, Samsung, SK, Naver](https://techcrunch.com/2025/10/31/nvidia-expands-ai-ties-with-hyundai-samsung-sk-naver/)
+- [&#39;Ghost particles&#39; can zoom through you without a trace. Scientists are getting to the bottom of this cosmic mystery](https://www.space.com/science/particle-physics/ghost-particles-can-zoom-through-you-without-a-trace-scientists-are-getting-to-the-bottom-of-this-cosmic-mystery)
+- [China launches Shenzhou 21 astronauts to Tiangong space station for a 6-month stay &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-launches-shenzhou-21-astronauts-to-tiangong-space-station-for-a-6-month-stay-video)
+- [Perplexity strikes multi-year licensing deal with Getty Images](https://techcrunch.com/2025/10/31/perplexity-strikes-multi-year-licensing-deal-with-getty-images/)
+- [Become the scary alien this Halloween with these 5 reverse space horror games](https://www.space.com/entertainment/space-games/become-the-scary-alien-with-these-reverse-space-horror-games)
+- [Tim Cook says Apple is open to M&amp;A on the AI front](https://techcrunch.com/2025/10/31/tim-cook-says-apple-is-open-to-ma-on-the-ai-front/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
