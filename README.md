@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk wants you to know that Sam Altman got a refund for his Tesla Roadster](https://techcrunch.com/2025/11/01/elon-musk-wants-you-to-know-that-sam-altman-got-a-refund-for-his-tesla-roadster/)
 - [Coinbase CEO Brian Armstrong trolls the prediction markets](https://techcrunch.com/2025/11/01/coinbase-ceo-brian-armstrong-trolls-the-prediction-markets/)
 - [Rising energy prices put AI and data centers in the crosshairs](https://techcrunch.com/2025/11/01/rising-energy-prices-put-ai-and-data-centers-in-the-crosshairs/)
 - [AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams](https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/)
 - [PBS celebrates 25 years of the ISS with NOVA&#39;s &#39;Operation Space Station&#39; on Nov. 5](https://www.space.com/entertainment/pbs-celebrates-25-years-of-the-iss-with-novas-operation-space-station-on-nov-5)
-- [This Week In Space podcast: Episode 184 — Space is Scary!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-184-space-is-scary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
