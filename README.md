@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams](https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/)
+- [PBS celebrates 25 years of the ISS with NOVA&#39;s &#39;Operation Space Station&#39; on Nov. 5](https://www.space.com/entertainment/pbs-celebrates-25-years-of-the-iss-with-novas-operation-space-station-on-nov-5)
 - [This Week In Space podcast: Episode 184 — Space is Scary!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-184-space-is-scary)
 - [A Flash, a Boom, a New Microbe Habitat](https://www.space.com/astronomy/asteroids/a-flash-a-boom-a-new-microbe-habitat)
 - [Blue Origin fires up powerful New Glenn rocket ahead of NASA Mars mission launch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-fires-up-powerful-new-glenn-rocket-ahead-of-nasa-mars-mission-launch-video)
-- [Does the full moon make us sleepless? A neurologist explains the science behind sleep, mood and lunar myths](https://www.space.com/astronomy/moon/does-the-full-moon-make-us-sleepless-a-neurologist-explains-the-science-behind-sleep-mood-and-lunar-myths)
-- [What is Bending Spoons? Everything to know about AOL’s acquirer](https://techcrunch.com/2025/10/31/what-is-bending-spoons-everything-to-know-about-aols-acquirer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
