@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Bending Spoons? Everything to know about AOL’s acquirer](https://techcrunch.com/2025/10/31/what-is-bending-spoons-everything-to-know-about-aols-acquirer/)
 - [Interstellar invader Comet 3I/ATLAS is still full of surprises — an unexpected brightening has scientists baffled](https://www.space.com/astronomy/comets/interstellar-invader-comet-3i-atlas-is-still-full-of-surprises-an-unexpected-brightening-has-scientists-baffled)
 - [Bluesky hits 40 million users, introduces ‘dislikes’ beta](https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/)
 - [Satellite images show &#39;mesovortices&#39; forming around the eye of deadly Hurricane Melissa](https://www.space.com/astronomy/earth/satellite-images-show-mesovortices-forming-around-the-eye-of-deadly-hurricane-melissa)
 - [Meta bought 1 GW of solar this week](https://techcrunch.com/2025/10/31/meta-bought-1-gw-of-solar-this-week/)
-- [Astronomers capture vast cosmic bat spreading its wings in time for Halloween &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/astronomers-capture-vast-cosmic-bat-spreading-its-wings-for-halloween-photo-oct-31-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
