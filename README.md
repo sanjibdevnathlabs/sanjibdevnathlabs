@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Flash, a Boom, a New Microbe Habitat](https://www.space.com/astronomy/asteroids/a-flash-a-boom-a-new-microbe-habitat)
+- [Blue Origin fires up powerful New Glenn rocket ahead of NASA Mars mission launch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-fires-up-powerful-new-glenn-rocket-ahead-of-nasa-mars-mission-launch-video)
 - [Does the full moon make us sleepless? A neurologist explains the science behind sleep, mood and lunar myths](https://www.space.com/astronomy/moon/does-the-full-moon-make-us-sleepless-a-neurologist-explains-the-science-behind-sleep-mood-and-lunar-myths)
 - [What is Bending Spoons? Everything to know about AOL’s acquirer](https://techcrunch.com/2025/10/31/what-is-bending-spoons-everything-to-know-about-aols-acquirer/)
 - [Interstellar invader Comet 3I/ATLAS is still full of surprises — an unexpected brightening has scientists baffled](https://www.space.com/astronomy/comets/interstellar-invader-comet-3i-atlas-is-still-full-of-surprises-an-unexpected-brightening-has-scientists-baffled)
-- [Bluesky hits 40 million users, introduces ‘dislikes’ beta](https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/)
-- [Satellite images show &#39;mesovortices&#39; forming around the eye of deadly Hurricane Melissa](https://www.space.com/astronomy/earth/satellite-images-show-mesovortices-forming-around-the-eye-of-deadly-hurricane-melissa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
