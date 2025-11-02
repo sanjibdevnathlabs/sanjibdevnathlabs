@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Mobility: Everything said on, and off, the stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/11/02/techcrunch-mobility-everything-said-on-and-off-the-stage-at-techcrunch-disrupt-2025/)
+- [China is rolling back rare earth mineral restrictions, White House says](https://techcrunch.com/2025/11/02/china-is-rolling-back-rare-earth-mineral-restrictions-white-house-saus/)
 - [Meta has an AI product problem](https://techcrunch.com/2025/11/02/meta-has-an-ai-product-problem/)
 - [What&#39;s happening on the International Space Station while the government is shut down?](https://www.space.com/space-exploration/international-space-station/whats-happening-on-the-international-space-station-while-the-government-is-shut-down)
 - [25 Years of the International Space Station: What archaeology tells us about living and working in space](https://www.space.com/space-exploration/international-space-station/25-years-of-the-international-space-station-what-archaeology-tells-us-about-living-and-working-in-space)
-- [Meet Point Nemo, where the International Space Station will die in 2030](https://www.space.com/space-exploration/international-space-station/meet-point-nemo-where-the-international-space-station-will-die-in-2030)
-- [India launches a huge military communications satellite to orbit using its most powerful rocket](https://www.space.com/space-exploration/launches-spacecraft/india-lvm3-cms-03-military-communications-satellite-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
