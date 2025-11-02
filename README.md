@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [25 Years of the International Space Station: What archaeology tells us about living and working in space](https://www.space.com/space-exploration/international-space-station/25-years-of-the-international-space-station-what-archaeology-tells-us-about-living-and-working-in-space)
 - [Meet Point Nemo, where the International Space Station will die in 2030](https://www.space.com/space-exploration/international-space-station/meet-point-nemo-where-the-international-space-station-will-die-in-2030)
 - [India launches a huge military communications satellite to orbit using its most powerful rocket](https://www.space.com/space-exploration/launches-spacecraft/india-lvm3-cms-03-military-communications-satellite-launch)
 - [SpaceX launches private space station pathfinder &#39;Haven Demo,&#39; 17 other satellites to orbit](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-private-space-station-pathfinder-haven-demo-17-other-satellites-to-orbit)
 - [Elon Musk wants you to know that Sam Altman got a refund for his Tesla Roadster](https://techcrunch.com/2025/11/01/elon-musk-wants-you-to-know-that-sam-altman-got-a-refund-for-his-tesla-roadster/)
-- [Coinbase CEO Brian Armstrong trolls the prediction markets](https://techcrunch.com/2025/11/01/coinbase-ceo-brian-armstrong-trolls-the-prediction-markets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
