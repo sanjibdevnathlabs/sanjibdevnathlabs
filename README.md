@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dia’s AI browser starts adding Arc’s ‘greatest hits’ to its feature set](https://techcrunch.com/2025/11/03/dias-ai-browser-starts-adding-arcs-greatest-hits-to-its-feature-set/)
-- [Pine Labs aims to take Indian fintech global even as it cuts valuation for IPO](https://techcrunch.com/2025/11/03/pine-labs-aims-to-take-indian-fintech-global-even-as-it-cuts-valuation-for-ipo/)
-- [Space exploration in the backyard, on a budget – how NASA simulates conditions in space without blasting off](https://www.space.com/space-exploration/space-exploration-in-the-backyard-on-a-budget-how-nasa-simulates-conditions-in-space-without-blasting-off)
-- [TikTok announces its first awards show in the US](https://techcrunch.com/2025/11/03/tiktok-announces-its-first-awards-show-in-the-us/)
-- [Astronaut from Pakistan will be 1st international visitor to China&#39;s Tiangong space station](https://www.space.com/space-exploration/human-spaceflight/astronaut-from-pakistan-will-be-1st-international-visitor-to-chinas-tiangong-space-station)
+- [Facebook Groups can now go public without exposing members’ private posts](https://techcrunch.com/2025/11/03/facebook-groups-can-now-go-public-without-exposing-members-private-posts/)
+- [Mars is the ultimate sandbox in &#39;Mars First Logistics&#39;, a physics-based delivery game where you build your own rovers](https://www.space.com/entertainment/space-games/mars-is-the-ultimate-sandbox-in-mars-first-logistics-a-physics-based-delivery-game-where-you-build-your-own-rovers)
+- [Chrome can now autofill your passport, driver’s license, and vehicle registration info](https://techcrunch.com/2025/11/03/chrome-can-now-autofill-your-passport-drivers-license-and-vehicle-registration-info/)
+- [Satellite images show parts of Jamaica in ruins after record-breaking Hurricane Melissa](https://www.space.com/astronomy/earth/satellite-images-show-parts-of-jamaica-in-ruins-after-record-breaking-hurricane-melissa)
+- [Unistellar is offering 20% across its entire range of smart telescopes in November for Black Friday](https://www.space.com/stargazing/skywatching-kit/unistellar-is-offering-20-percent-across-its-entire-range-of-smart-telescopes-in-november-for-black-friday)
 <!-- BLOG-POST-LIST:END -->
 
 ---
