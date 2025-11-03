@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft inks $9.7B deal with Australia’s IREN for AI cloud capacity](https://techcrunch.com/2025/11/03/microsoft-inks-9-7bil-deal-with-australias-iren-for-ai-cloud-capacity/)
+- [LG founder’s grandson, production firm partner up to bring AI to filmmaking](https://techcrunch.com/2025/11/03/lg-scions-stock-farm-road-utopai-launch-ai-driven-filmmaking/)
+- [Rubin Observatory basks in galactic glow | Space photo of the day for Nov. 3, 2025](https://www.space.com/astronomy/rubin-observatory-basks-in-galactic-glow-space-photo-of-the-day-for-nov-3-2025)
 - [Don&#39;t miss the biggest full moon of the year rise on Nov. 5 — Here&#39;s what to expect](https://www.space.com/stargazing/dont-miss-the-biggest-full-moon-of-the-year-rise-on-nov-5-2025-heres-what-to-expect)
 - [Want to beat the Black Friday rush and guarantee a great deal? You can save 28% on the best star projector for kids on the market right now](https://www.space.com/technology/beat-the-black-friday-rush-and-guarantee-22-percent-off-the-best-star-projector-for-kids-on-the-market-right-now)
-- [Scientists discover oldest air on record trapped in 6-million-year-old Antarctic ice](https://www.space.com/astronomy/earth/scientists-discover-oldest-air-on-record-trapped-in-6-million-year-old-antarctic-ice)
-- [Kevin Rose’s simple test for AI hardware — would you want to punch someone in the face who’s wearing it?](https://techcrunch.com/2025/11/02/kevin-roses-simple-test-for-ai-hardware-would-you-want-to-punch-someone-in-the-face-whos-wearing-it/)
-- [Alphabet is increasingly launching “moonshot” projects as independent companies — here’s why](https://techcrunch.com/2025/11/02/alphabet-is-increasingly-launching-moonshot-projects-as-independent-companies-heres-why/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
