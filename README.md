@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t miss the biggest full moon of the year rise on Nov. 5 — Here&#39;s what to expect](https://www.space.com/stargazing/dont-miss-the-biggest-full-moon-of-the-year-rise-on-nov-5-2025-heres-what-to-expect)
+- [Want to beat the Black Friday rush and guarantee a great deal? You can save 28% on the best star projector for kids on the market right now](https://www.space.com/technology/beat-the-black-friday-rush-and-guarantee-22-percent-off-the-best-star-projector-for-kids-on-the-market-right-now)
 - [Scientists discover oldest air on record trapped in 6-million-year-old Antarctic ice](https://www.space.com/astronomy/earth/scientists-discover-oldest-air-on-record-trapped-in-6-million-year-old-antarctic-ice)
 - [Kevin Rose’s simple test for AI hardware — would you want to punch someone in the face who’s wearing it?](https://techcrunch.com/2025/11/02/kevin-roses-simple-test-for-ai-hardware-would-you-want-to-punch-someone-in-the-face-whos-wearing-it/)
 - [Alphabet is increasingly launching “moonshot” projects as independent companies — here’s why](https://techcrunch.com/2025/11/02/alphabet-is-increasingly-launching-moonshot-projects-as-independent-companies-heres-why/)
-- [Sequoia’s Roelof Botha warns founders about chasing sky-high valuations as the firm doubles down on its selective approach](https://techcrunch.com/2025/11/02/sequoias-roelof-botha-warns-founders-about-chasing-sky-high-valuations-as-the-firm-doubles-down-on-its-selective-approach/)
-- [Google pulls Gemma from AI Studio after Senator Blackburn accuses model of defamation](https://techcrunch.com/2025/11/02/google-pulls-gemma-from-ai-studio-after-senator-blackburn-accuses-model-of-defamation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
