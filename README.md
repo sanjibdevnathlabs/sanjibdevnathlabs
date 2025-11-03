@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The International Space Station will fall to Earth in 2030. Can a private space station really fill its gap?](https://www.space.com/space-exploration/international-space-station/the-international-space-station-will-fall-to-earth-in-2030-can-a-private-space-station-really-fill-its-gap)
+- [Bwine F7GIM drone review](https://www.space.com/technology/bwine-f7gim-drone-review)
+- [Microsoft’s $15.2B UAE investment turns Gulf State into test case for US AI diplomacy](https://techcrunch.com/2025/11/03/microsofts-15-2b-uae-investment-turns-gulf-state-into-test-case-for-us-ai-diplomacy/)
 - [Microsoft inks $9.7B deal with Australia’s IREN for AI cloud capacity](https://techcrunch.com/2025/11/03/microsoft-inks-9-7bil-deal-with-australias-iren-for-ai-cloud-capacity/)
 - [LG founder’s grandson, production firm partner up to bring AI to filmmaking](https://techcrunch.com/2025/11/03/lg-scions-stock-farm-road-utopai-launch-ai-driven-filmmaking/)
-- [Rubin Observatory basks in galactic glow | Space photo of the day for Nov. 3, 2025](https://www.space.com/astronomy/rubin-observatory-basks-in-galactic-glow-space-photo-of-the-day-for-nov-3-2025)
-- [Don&#39;t miss the biggest full moon of the year rise on Nov. 5 — Here&#39;s what to expect](https://www.space.com/stargazing/dont-miss-the-biggest-full-moon-of-the-year-rise-on-nov-5-2025-heres-what-to-expect)
-- [Want to beat the Black Friday rush and guarantee a great deal? You can save 28% on the best star projector for kids on the market right now](https://www.space.com/technology/beat-the-black-friday-rush-and-guarantee-22-percent-off-the-best-star-projector-for-kids-on-the-market-right-now)
 <!-- BLOG-POST-LIST:END -->
 
 ---
