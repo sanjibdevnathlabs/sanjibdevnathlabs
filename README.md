@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lawmakers say stolen police logins are exposing Flock surveillance cameras to hackers](https://techcrunch.com/2025/11/03/lawmakers-say-stolen-police-logins-are-exposing-flock-surveillance-cameras-to-hackers/)
+- [Studio Ghibli and other Japanese publishers want OpenAI to stop training on their work](https://techcrunch.com/2025/11/03/studio-ghibli-and-other-japanese-publishers-want-openai-to-stop-training-on-their-work/)
+- [Locket’s social app is picking up steam with Gen Alpha](https://techcrunch.com/2025/11/03/lockets-social-app-is-picking-up-steam-with-gen-alpha/)
+- [Altman and Nadella need more power for AI, but they’re not sure how much](https://techcrunch.com/2025/11/03/altman-and-nadella-need-more-power-for-ai-but-theyre-not-sure-how-much/)
 - [Apple’s App Store gets a new web interface](https://techcrunch.com/2025/11/03/apples-app-store-gets-a-new-web-interface/)
-- [How an ex-L3 Harris Trenchant boss stole and sold cyber exploits to Russia](https://techcrunch.com/2025/11/03/how-an-ex-l3-harris-trenchant-boss-stole-and-sold-cyber-exploits-to-russia/)
-- [Lambda inks multi-billion-dollar AI infrastructure deal with Microsoft](https://techcrunch.com/2025/11/03/lambda-inks-multi-billion-dollar-ai-infrastructure-deal-with-microsoft/)
-- [Latvia will become 60th nation to sign Artemis Accords for peaceful space exploration](https://www.space.com/space-exploration/artemis/latvia-will-become-60th-nation-to-sign-artemis-accords-for-peaceful-space-exploration)
-- [A full moon with a chance of fireballs: Don&#39;t miss the Southern Taurid meteor shower peak tomorrow](https://www.space.com/stargazing/meteor-showers/dont-miss-the-southern-taurid-meteor-shower-peak-overnight-on-nov-4-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
