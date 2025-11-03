@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dia’s AI browser starts adding Arc’s ‘greatest hits’ to its feature set](https://techcrunch.com/2025/11/03/dias-ai-browser-starts-adding-arcs-greatest-hits-to-its-feature-set/)
+- [Pine Labs aims to take Indian fintech global even as it cuts valuation for IPO](https://techcrunch.com/2025/11/03/pine-labs-aims-to-take-indian-fintech-global-even-as-it-cuts-valuation-for-ipo/)
+- [Space exploration in the backyard, on a budget – how NASA simulates conditions in space without blasting off](https://www.space.com/space-exploration/space-exploration-in-the-backyard-on-a-budget-how-nasa-simulates-conditions-in-space-without-blasting-off)
+- [TikTok announces its first awards show in the US](https://techcrunch.com/2025/11/03/tiktok-announces-its-first-awards-show-in-the-us/)
 - [Astronaut from Pakistan will be 1st international visitor to China&#39;s Tiangong space station](https://www.space.com/space-exploration/human-spaceflight/astronaut-from-pakistan-will-be-1st-international-visitor-to-chinas-tiangong-space-station)
-- [OpenAI and Amazon ink $38B cloud computing deal](https://techcrunch.com/2025/11/03/openai-and-amazon-ink-38b-cloud-computing-deal/)
-- [The International Space Station will fall to Earth in 2030. Can a private space station really fill its gap?](https://www.space.com/space-exploration/international-space-station/the-international-space-station-will-fall-to-earth-in-2030-can-a-private-space-station-really-fill-its-gap)
-- [Bwine F7GIM drone review](https://www.space.com/technology/bwine-f7gim-drone-review)
-- [Microsoft’s $15.2B UAE investment turns Gulf State into test case for US AI diplomacy](https://techcrunch.com/2025/11/03/microsofts-15-2b-uae-investment-turns-gulf-state-into-test-case-for-us-ai-diplomacy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
