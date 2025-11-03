@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s App Store gets a new web interface](https://techcrunch.com/2025/11/03/apples-app-store-gets-a-new-web-interface/)
+- [How an ex-L3 Harris Trenchant boss stole and sold cyber exploits to Russia](https://techcrunch.com/2025/11/03/how-an-ex-l3-harris-trenchant-boss-stole-and-sold-cyber-exploits-to-russia/)
+- [Lambda inks multi-billion-dollar AI infrastructure deal with Microsoft](https://techcrunch.com/2025/11/03/lambda-inks-multi-billion-dollar-ai-infrastructure-deal-with-microsoft/)
 - [Latvia will become 60th nation to sign Artemis Accords for peaceful space exploration](https://www.space.com/space-exploration/artemis/latvia-will-become-60th-nation-to-sign-artemis-accords-for-peaceful-space-exploration)
 - [A full moon with a chance of fireballs: Don&#39;t miss the Southern Taurid meteor shower peak tomorrow](https://www.space.com/stargazing/meteor-showers/dont-miss-the-southern-taurid-meteor-shower-peak-overnight-on-nov-4-2025)
-- [DOJ accuses US ransomware negotiators of launching their own ransomware attacks](https://techcrunch.com/2025/11/03/doj-accuses-us-ransomware-negotiators-of-launching-their-own-ransomware-attacks/)
-- [Waymo’s robotaxi expansion accelerates with 3 new cities](https://techcrunch.com/2025/11/03/waymos-robotaxi-expansion-accelerates-with-3-new-cities/)
-- [Our universe&#39;s oldest galaxies were hot messes](https://www.space.com/astronomy/galaxies/our-universes-oldest-galaxies-were-hot-messes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
