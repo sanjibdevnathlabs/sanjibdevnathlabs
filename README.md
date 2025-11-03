@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A full moon with a chance of fireballs: Don&#39;t miss the Southern Taurid meteor shower peak tomorrow](https://www.space.com/stargazing/meteor-showers/dont-miss-the-southern-taurid-meteor-shower-peak-overnight-on-nov-4-2025)
+- [DOJ accuses US ransomware negotiators of launching their own ransomware attacks](https://techcrunch.com/2025/11/03/doj-accuses-us-ransomware-negotiators-of-launching-their-own-ransomware-attacks/)
+- [Waymo’s robotaxi expansion accelerates with 3 new cities](https://techcrunch.com/2025/11/03/waymos-robotaxi-expansion-accelerates-with-3-new-cities/)
 - [Our universe&#39;s oldest galaxies were hot messes](https://www.space.com/astronomy/galaxies/our-universes-oldest-galaxies-were-hot-messes)
 - [Facebook Groups can now go public without exposing members’ private posts](https://techcrunch.com/2025/11/03/facebook-groups-can-now-go-public-without-exposing-members-private-posts/)
-- [Mars is the ultimate sandbox in &#39;Mars First Logistics&#39;, a physics-based delivery game where you build your own rovers](https://www.space.com/entertainment/space-games/mars-is-the-ultimate-sandbox-in-mars-first-logistics-a-physics-based-delivery-game-where-you-build-your-own-rovers)
-- [Chrome can now autofill your passport, driver’s license, and vehicle registration info](https://techcrunch.com/2025/11/03/chrome-can-now-autofill-your-passport-drivers-license-and-vehicle-registration-info/)
-- [Satellite images show parts of Jamaica in ruins after record-breaking Hurricane Melissa](https://www.space.com/astronomy/earth/satellite-images-show-parts-of-jamaica-in-ruins-after-record-breaking-hurricane-melissa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
