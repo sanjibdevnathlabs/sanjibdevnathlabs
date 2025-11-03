@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Our universe&#39;s oldest galaxies were hot messes](https://www.space.com/astronomy/galaxies/our-universes-oldest-galaxies-were-hot-messes)
 - [Facebook Groups can now go public without exposing members’ private posts](https://techcrunch.com/2025/11/03/facebook-groups-can-now-go-public-without-exposing-members-private-posts/)
 - [Mars is the ultimate sandbox in &#39;Mars First Logistics&#39;, a physics-based delivery game where you build your own rovers](https://www.space.com/entertainment/space-games/mars-is-the-ultimate-sandbox-in-mars-first-logistics-a-physics-based-delivery-game-where-you-build-your-own-rovers)
 - [Chrome can now autofill your passport, driver’s license, and vehicle registration info](https://techcrunch.com/2025/11/03/chrome-can-now-autofill-your-passport-drivers-license-and-vehicle-registration-info/)
 - [Satellite images show parts of Jamaica in ruins after record-breaking Hurricane Melissa](https://www.space.com/astronomy/earth/satellite-images-show-parts-of-jamaica-in-ruins-after-record-breaking-hurricane-melissa)
-- [Unistellar is offering 20% across its entire range of smart telescopes in November for Black Friday](https://www.space.com/stargazing/skywatching-kit/unistellar-is-offering-20-percent-across-its-entire-range-of-smart-telescopes-in-november-for-black-friday)
 <!-- BLOG-POST-LIST:END -->
 
 ---
