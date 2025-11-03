@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronaut from Pakistan will be 1st international visitor to China&#39;s Tiangong space station](https://www.space.com/space-exploration/human-spaceflight/astronaut-from-pakistan-will-be-1st-international-visitor-to-chinas-tiangong-space-station)
+- [OpenAI and Amazon ink $38B cloud computing deal](https://techcrunch.com/2025/11/03/openai-and-amazon-ink-38b-cloud-computing-deal/)
 - [The International Space Station will fall to Earth in 2030. Can a private space station really fill its gap?](https://www.space.com/space-exploration/international-space-station/the-international-space-station-will-fall-to-earth-in-2030-can-a-private-space-station-really-fill-its-gap)
 - [Bwine F7GIM drone review](https://www.space.com/technology/bwine-f7gim-drone-review)
 - [Microsoft’s $15.2B UAE investment turns Gulf State into test case for US AI diplomacy](https://techcrunch.com/2025/11/03/microsofts-15-2b-uae-investment-turns-gulf-state-into-test-case-for-us-ai-diplomacy/)
-- [Microsoft inks $9.7B deal with Australia’s IREN for AI cloud capacity](https://techcrunch.com/2025/11/03/microsoft-inks-9-7bil-deal-with-australias-iren-for-ai-cloud-capacity/)
-- [LG founder’s grandson, production firm partner up to bring AI to filmmaking](https://techcrunch.com/2025/11/03/lg-scions-stock-farm-road-utopai-launch-ai-driven-filmmaking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
