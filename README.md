@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists detect biggest black hole flare ever seen — with the power of 10 trillion suns](https://www.space.com/astronomy/black-holes/scientists-detect-biggest-black-hole-flare-ever-seen-with-the-power-of-10-trillion-suns)
 - [Wait, people actually use Facebook Dating?](https://techcrunch.com/2025/11/03/wait-people-actually-use-facebook-dating/)
 - [a16z pauses its famed TxO Fund for underserved founders, lays off staff](https://techcrunch.com/2025/11/03/a16z-pauses-its-famed-txo-fund-for-underserved-founders-lays-off-staff/)
 - [Elad Gil on which AI markets have winners — and which are still wide open](https://techcrunch.com/2025/11/03/elad-gil-on-which-ai-markets-have-winners-and-which-are-still-wide-open/)
 - [Lawmakers say stolen police logins are exposing Flock surveillance cameras to hackers](https://techcrunch.com/2025/11/03/lawmakers-say-stolen-police-logins-are-exposing-flock-surveillance-cameras-to-hackers/)
-- [Studio Ghibli and other Japanese publishers want OpenAI to stop training on their work](https://techcrunch.com/2025/11/03/studio-ghibli-and-other-japanese-publishers-want-openai-to-stop-training-on-their-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
