@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon sends legal threats to Perplexity over agentic browsing](https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/)
+- [James Webb Space telescope spots &#39;big red dot&#39; in the ancient universe: A ravenous supermassive black hole named &#39;BiRD&#39;](https://www.space.com/astronomy/black-holes/james-webb-space-telescope-spots-big-red-dot-in-the-ancient-universe-a-ravenous-supermassive-black-hole-named-bird)
+- [People Inc forges AI licensing deal with Microsoft as Google traffic drops](https://techcrunch.com/2025/11/04/people-inc-forges-ai-licensing-deal-with-microsoft-as-google-traffic-drops/)
+- [Beta Technologies ends first day on NYSE in the green and $1B raised](https://techcrunch.com/2025/11/04/beta-technologies-ends-first-day-on-nyse-in-the-green-and-1b-raised/)
 - [Astronomer captures 2 meteors slamming into the moon &lpar;video&rpar;](https://www.space.com/stargazing/astrophotography/astronomer-captures-2-meteors-slamming-into-the-moon-video)
-- [Rivian creates another spinoff company called Mind Robotics](https://techcrunch.com/2025/11/04/rivian-creates-another-spinoff-company-called-mind-robotics/)
-- [Scientists find twisting magnetic waves on the sun. Could this help solve a huge solar mystery?](https://www.space.com/astronomy/sun/scientists-find-twisting-magnetic-waves-on-the-sun-could-this-help-solve-a-huge-solar-mystery)
-- [Google’s AI Mode gets new agentic capabilities to help book event tickets and beauty appointments](https://techcrunch.com/2025/11/04/googles-ai-mode-gets-new-agentic-capabilities-to-help-book-event-tickets-and-beauty-appointments/)
-- [Sequoia names Alfred Lin and Pat Grady as new Co-Stewards as Roelof Botha steps down](https://techcrunch.com/2025/11/04/sequoia-names-alfred-lin-and-pat-grady-as-new-co-stewards-as-roelof-botha-steps-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
