@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix in talks to license video podcasts from iHeartMedia, report says](https://techcrunch.com/2025/11/04/netflix-in-talks-to-license-video-podcasts-from-iheartmedia-report-says/)
+- [Phone location data of top EU officials for sale, report finds](https://techcrunch.com/2025/11/04/phone-location-data-of-top-eu-officials-for-sale-report-finds/)
 - [&#39;Predator: Badlands&#39; is a human story without a human in sight](https://www.space.com/entertainment/space-movies-shows/predator-badlands-is-a-human-story-without-a-human-in-sight)
 - [Anthropic projects $70B in revenue by 2028: Report](https://techcrunch.com/2025/11/04/anthropic-expects-b2b-demand-to-boost-revenue-to-70b-in-2028-report/)
 - [Tesla’s Master Plan 4 still lacks specifics ahead of $1T Musk pay vote](https://techcrunch.com/2025/11/04/teslas-master-plan-4-still-lacks-specifics-ahead-of-1t-musk-pay-vote/)
-- [Spotify now has half a million video podcasts, which nearly 400M users have watched](https://techcrunch.com/2025/11/04/spotify-now-has-half-a-million-video-podcasts-which-nearly-400m-users-have-watched/)
-- [WhatsApp launches long-awaited Apple Watch app](https://techcrunch.com/2025/11/04/whatsapp-launches-long-awaited-apple-watch-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
