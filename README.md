@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ClickUp adds new AI assistant to better compete with Slack and Notion](https://techcrunch.com/2025/11/04/clickup-adds-new-ai-assistant-to-better-compete-with-slack-and-notion/)
+- [Crowdfunding giant GoFundMe now sells gift cards](https://techcrunch.com/2025/11/04/crowdfunding-giant-gofundme-now-sells-gift-cards/)
+- [Alexa+ comes to the Amazon Music app](https://techcrunch.com/2025/11/04/alexa-comes-to-the-amazon-music-app/)
+- [Hubble sees spiral galaxy in Lion&#39;s heart | Space photo of the day for Nov. 4, 2025](https://www.space.com/astronomy/galaxies/hubble-sees-spiral-galaxy-in-lions-heart-space-photo-of-the-day-for-oct-30-2025)
 - [See 2 of Jupiter&#39;s moons cast vast shadows over the planet early on Nov. 5](https://www.space.com/stargazing/see-2-of-jupiters-moons-cast-vast-shadows-over-the-planet-early-on-nov-5-2025)
-- [iOS 26.1 lets you turn down liquid glass’ transparency](https://techcrunch.com/2025/11/04/ios-26-1-lets-you-turn-down-liquid-glass-transparency/)
-- [Watch Europe&#39;s powerful Ariane 6 rocket launch today for the 4th time ever](https://www.space.com/space-exploration/launches-spacecraft/europe-ariane-6-fourth-launch-sentinel-1d)
-- [Scientists detect biggest black hole flare ever seen — with the power of 10 trillion suns](https://www.space.com/astronomy/black-holes/scientists-detect-biggest-black-hole-flare-ever-seen-with-the-power-of-10-trillion-suns)
-- [Wait, people actually use Facebook Dating?](https://techcrunch.com/2025/11/03/wait-people-actually-use-facebook-dating/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
