@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rivian creates another spinoff company called Mind Robotics](https://techcrunch.com/2025/11/04/rivian-creates-another-spinoff-company-called-mind-robotics/)
+- [Scientists find twisting magnetic waves on the sun. Could this help solve a huge solar mystery?](https://www.space.com/astronomy/sun/scientists-find-twisting-magnetic-waves-on-the-sun-could-this-help-solve-a-huge-solar-mystery)
+- [Google’s AI Mode gets new agentic capabilities to help book event tickets and beauty appointments](https://techcrunch.com/2025/11/04/googles-ai-mode-gets-new-agentic-capabilities-to-help-book-event-tickets-and-beauty-appointments/)
+- [Sequoia names Alfred Lin and Pat Grady as new Co-Stewards as Roelof Botha steps down](https://techcrunch.com/2025/11/04/sequoia-names-alfred-lin-and-pat-grady-as-new-co-stewards-as-roelof-botha-steps-down/)
 - [Watch Chinese astronauts enjoy &#39;1st ever space BBQ&#39; from Tiangong&#39;s brand-new oven &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/watch-chinese-astronauts-enjoy-1st-ever-space-bbq-from-tiangongs-brand-new-oven-video)
-- [Sora is now available on Android in the US, Canada, and other regions](https://techcrunch.com/2025/11/04/sora-is-now-available-on-android-in-the-us-canada-and-other-regions/)
-- [Dark matter obeys gravity after all — could that rule out a 5th fundamental force in the universe?](https://www.space.com/astronomy/dark-universe/dark-matter-obeys-gravity-after-all-could-that-rule-out-a-5th-fundamental-force-in-the-universe)
-- [Norway’s wealth fund vote is latest blow to Musk’s $1 trillion pay package](https://techcrunch.com/2025/11/04/norways-wealth-fund-vote-is-latest-blow-to-musks-1-trillion-pay-package/)
-- [Shopify says AI traffic is up 7x since January, AI-driven orders are up 11x](https://techcrunch.com/2025/11/04/shopify-says-ai-traffic-is-up-7x-since-january-ai-driven-orders-are-up-11x/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
