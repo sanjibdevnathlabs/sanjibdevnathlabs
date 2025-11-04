@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp launches long-awaited Apple Watch app](https://techcrunch.com/2025/11/04/whatsapp-launches-long-awaited-apple-watch-app/)
+- [These 5 Venus missions could launch in the next decade to study Earth&#39;s &#39;evil twin&#39;](https://www.space.com/astronomy/venus/these-5-venus-missions-could-launch-in-the-next-decade-to-study-earths-evil-twin)
+- [The hunt for dark matter: a trivia quiz](https://www.space.com/astronomy/dark-universe/the-hunt-for-dark-matter-a-trivia-quiz)
+- [Nvidia, Deutsche Telekom strike €1B partnership for a data center in Munich](https://techcrunch.com/2025/11/04/nvidia-deutsche-telekom-strike-e1b-partnership-for-a-data-center-in-munich/)
 - [ClickUp adds new AI assistant to better compete with Slack and Notion](https://techcrunch.com/2025/11/04/clickup-adds-new-ai-assistant-to-better-compete-with-slack-and-notion/)
-- [Crowdfunding giant GoFundMe now sells gift cards](https://techcrunch.com/2025/11/04/crowdfunding-giant-gofundme-now-sells-gift-cards/)
-- [Alexa+ comes to the Amazon Music app](https://techcrunch.com/2025/11/04/alexa-comes-to-the-amazon-music-app/)
-- [Hubble sees spiral galaxy in Lion&#39;s heart | Space photo of the day for Nov. 4, 2025](https://www.space.com/astronomy/galaxies/hubble-sees-spiral-galaxy-in-lions-heart-space-photo-of-the-day-for-oct-30-2025)
-- [See 2 of Jupiter&#39;s moons cast vast shadows over the planet early on Nov. 5](https://www.space.com/stargazing/see-2-of-jupiters-moons-cast-vast-shadows-over-the-planet-early-on-nov-5-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
