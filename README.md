@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See 2 of Jupiter&#39;s moons cast vast shadows over the planet early on Nov. 5](https://www.space.com/stargazing/see-2-of-jupiters-moons-cast-vast-shadows-over-the-planet-early-on-nov-5-2025)
 - [iOS 26.1 lets you turn down liquid glass’ transparency](https://techcrunch.com/2025/11/04/ios-26-1-lets-you-turn-down-liquid-glass-transparency/)
 - [Watch Europe&#39;s powerful Ariane 6 rocket launch today for the 4th time ever](https://www.space.com/space-exploration/launches-spacecraft/europe-ariane-6-fourth-launch-sentinel-1d)
 - [Scientists detect biggest black hole flare ever seen — with the power of 10 trillion suns](https://www.space.com/astronomy/black-holes/scientists-detect-biggest-black-hole-flare-ever-seen-with-the-power-of-10-trillion-suns)
 - [Wait, people actually use Facebook Dating?](https://techcrunch.com/2025/11/03/wait-people-actually-use-facebook-dating/)
-- [a16z pauses its famed TxO Fund for underserved founders, lays off staff](https://techcrunch.com/2025/11/03/a16z-pauses-its-famed-txo-fund-for-underserved-founders-lays-off-staff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
