@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DEFCON is Not What I Expected...](https://www.youtube.com/watch?v=qFsj6KL8_nU)
 - [Lecture 11: Contagious Structure in Projection Theory](https://www.youtube.com/watch?v=Uz7aJtbfqkU)
 - [Lecture 02: Fundamental Methods of Projection Theory](https://www.youtube.com/watch?v=sEZHGMV2LiI)
 - [Lecture 13: The Balog-Szemeredi-Gowers Theorem](https://www.youtube.com/watch?v=DGBuM5pEdoo)
 - [Lecture 04: The Fourier Method in Euclidean Space](https://www.youtube.com/watch?v=X-4how4KkPQ)
-- [Lecture 09: Reflections on the Szemeredi-Trotter Theorem](https://www.youtube.com/watch?v=lvdIUKULiak)
 <!-- YOUTUBE:END -->
 
 ---
