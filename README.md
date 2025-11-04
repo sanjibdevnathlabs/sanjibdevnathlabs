@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Predator: Badlands&#39; is a human story without a human in sight](https://www.space.com/entertainment/space-movies-shows/predator-badlands-is-a-human-story-without-a-human-in-sight)
+- [Anthropic projects $70B in revenue by 2028: Report](https://techcrunch.com/2025/11/04/anthropic-expects-b2b-demand-to-boost-revenue-to-70b-in-2028-report/)
+- [Tesla’s Master Plan 4 still lacks specifics ahead of $1T Musk pay vote](https://techcrunch.com/2025/11/04/teslas-master-plan-4-still-lacks-specifics-ahead-of-1t-musk-pay-vote/)
+- [Spotify now has half a million video podcasts, which nearly 400M users have watched](https://techcrunch.com/2025/11/04/spotify-now-has-half-a-million-video-podcasts-which-nearly-400m-users-have-watched/)
 - [WhatsApp launches long-awaited Apple Watch app](https://techcrunch.com/2025/11/04/whatsapp-launches-long-awaited-apple-watch-app/)
-- [These 5 Venus missions could launch in the next decade to study Earth&#39;s &#39;evil twin&#39;](https://www.space.com/astronomy/venus/these-5-venus-missions-could-launch-in-the-next-decade-to-study-earths-evil-twin)
-- [The hunt for dark matter: a trivia quiz](https://www.space.com/astronomy/dark-universe/the-hunt-for-dark-matter-a-trivia-quiz)
-- [Nvidia, Deutsche Telekom strike €1B partnership for a data center in Munich](https://techcrunch.com/2025/11/04/nvidia-deutsche-telekom-strike-e1b-partnership-for-a-data-center-in-munich/)
-- [ClickUp adds new AI assistant to better compete with Slack and Notion](https://techcrunch.com/2025/11/04/clickup-adds-new-ai-assistant-to-better-compete-with-slack-and-notion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
