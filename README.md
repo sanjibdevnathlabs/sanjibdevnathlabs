@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dark matter obeys gravity after all — could that rule out a 5th fundamental force in the universe?](https://www.space.com/astronomy/dark-universe/dark-matter-obeys-gravity-after-all-could-that-rule-out-a-5th-fundamental-force-in-the-universe)
+- [Norway’s wealth fund vote is latest blow to Musk’s $1 trillion pay package](https://techcrunch.com/2025/11/04/norways-wealth-fund-vote-is-latest-blow-to-musks-1-trillion-pay-package/)
+- [Shopify says AI traffic is up 7x since January, AI-driven orders are up 11x](https://techcrunch.com/2025/11/04/shopify-says-ai-traffic-is-up-7x-since-january-ai-driven-orders-are-up-11x/)
 - [Netflix in talks to license video podcasts from iHeartMedia, report says](https://techcrunch.com/2025/11/04/netflix-in-talks-to-license-video-podcasts-from-iheartmedia-report-says/)
 - [Phone location data of top EU officials for sale, report finds](https://techcrunch.com/2025/11/04/phone-location-data-of-top-eu-officials-for-sale-report-finds/)
-- [&#39;Predator: Badlands&#39; is a human story without a human in sight](https://www.space.com/entertainment/space-movies-shows/predator-badlands-is-a-human-story-without-a-human-in-sight)
-- [Anthropic projects $70B in revenue by 2028: Report](https://techcrunch.com/2025/11/04/anthropic-expects-b2b-demand-to-boost-revenue-to-70b-in-2028-report/)
-- [Tesla’s Master Plan 4 still lacks specifics ahead of $1T Musk pay vote](https://techcrunch.com/2025/11/04/teslas-master-plan-4-still-lacks-specifics-ahead-of-1t-musk-pay-vote/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
