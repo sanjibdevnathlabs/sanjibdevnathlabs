@@ -134,7 +134,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [MIT Economist Jon Gruber on AI, Trade-Offs &amp; Healthcare](https://www.youtube.com/watch?v=dLg9MK1hv2Y)
+- [MIT Economist on AI, Trade-Offs &amp; Healthcare](https://www.youtube.com/watch?v=dLg9MK1hv2Y)
 - [DEFCON is Not What I Expected...](https://www.youtube.com/watch?v=qFsj6KL8_nU)
 - [Lecture 11: Contagious Structure in Projection Theory](https://www.youtube.com/watch?v=Uz7aJtbfqkU)
 - [Lecture 02: Fundamental Methods of Projection Theory](https://www.youtube.com/watch?v=sEZHGMV2LiI)
