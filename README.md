@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple nears deal to pay Google $1B annually to power new Siri, report says](https://techcrunch.com/2025/11/05/apple-nears-deal-to-pay-google-1b-annually-to-power-new-siri-report-says/)
 - [Pinterest CEO touts open source AI: ‘tremendous performance’ with reduced costs](https://techcrunch.com/2025/11/05/pinterest-ceo-touts-open-source-ai-tremendous-performance-with-reduced-costs/)
 - [See the moon meet up with the Seven Sisters of the Pleiades early on Nov. 6](https://www.space.com/stargazing/see-moon-meet-up-with-seven-sisters-of-the-pleiades-early-on-nov-6-2025)
 - [Lina Khan to co-chair NYC mayor-elect Zohran Mamdani’s transition team](https://techcrunch.com/2025/11/05/lina-khan-to-co-chair-nyc-mayor-elect-zohran-mamdanis-transition-team/)
 - [Millions to receive free electricity in 2026 thanks to Australia’s solar boom](https://techcrunch.com/2025/11/05/millions-to-receive-free-electricity-in-2026-thanks-to-australias-solar-boom/)
-- [Tinder to use AI to get to know users, tap into their Camera Roll photos](https://techcrunch.com/2025/11/05/tinder-to-use-ai-to-get-to-know-users-tap-into-their-camera-roll-photos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
