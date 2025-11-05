@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Milky Way arcs over the Very Large Telescope | Space photo of the day for Nov. 5, 2025](https://www.space.com/astronomy/the-milky-way-arcs-over-the-very-large-telescope-space-photo-of-the-day-for-nov-5-2025)
+- [Google gets the US government’s green light to acquire Wiz for $32B](https://techcrunch.com/2025/11/05/google-gets-the-us-governments-green-light-to-acquire-wiz-for-32b/)
+- [Epic Games CEO calls Google’s antitrust settlement a win for Android’s ‘vision as an open platform’](https://techcrunch.com/2025/11/05/epic-games-ceo-calls-googles-antitrust-settlement-a-win-for-androids-vision-as-an-open-platform/)
+- [SoftBank, OpenAI launch new joint venture in Japan as AI deals grow ever more circular](https://techcrunch.com/2025/11/05/softbank-openai-launch-new-joint-venture-in-japan-as-ai-deals-grow-ever-more-circular/)
 - [Google Maps bakes in Gemini to improve navigation and hands-free use](https://techcrunch.com/2025/11/05/google-maps-bakes-in-gemini-to-improve-navigation-and-hands-free-use/)
-- [The largest supermoon of 2025 rises tonight: What to know about the November full moon](https://www.space.com/stargazing/largest-supermoon-of-the-year-rises-tonight-how-to-see-the-november-full-moon-nov-5-2025)
-- [Armis raises $435M pre-IPO round at $6.1B valuation after refusing M&amp;A offers](https://techcrunch.com/2025/11/05/armis-raises-435m-pre-ipo-round-at-6-1b-valuation-after-refusing-ma-offers/)
-- [Sun unleashes 2 colossal X-class solar flares, knocking out radio signals across the Americas and Pacific](https://www.space.com/astronomy/sun/sun-unleashes-2-colossal-x-class-solar-flares-knocking-out-radio-signals-across-the-americas-and-pacific)
-- [Watch the biggest and brightest full moon of 2025 shine today with this free supermoon livestream](https://www.space.com/stargazing/watch-the-biggest-and-brightest-full-moon-of-2025-shine-today-with-this-free-supermoon-livestream-nov-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
