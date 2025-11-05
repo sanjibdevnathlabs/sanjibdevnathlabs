@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump nominates billionaire Jared Isaacman for NASA chief — again](https://www.space.com/space-exploration/trump-nominates-billionaire-jared-isaacman-for-nasa-chief-again)
+- [NVIDIA, Qualcomm join U.S., Indian VCs to help build India’s next deep tech startups](https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/)
 - [Trump flips and re-nominates Jared Isaacman to lead NASA](https://techcrunch.com/2025/11/04/trump-flips-and-re-nominates-jared-isaacman-to-lead-nasa/)
 - [Amazon sends legal threats to Perplexity over agentic browsing](https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/)
 - [James Webb Space telescope spots &#39;big red dot&#39; in the ancient universe: A ravenous supermassive black hole named &#39;BiRD&#39;](https://www.space.com/astronomy/black-holes/james-webb-space-telescope-spots-big-red-dot-in-the-ancient-universe-a-ravenous-supermassive-black-hole-named-bird)
-- [People Inc. forges AI licensing deal with Microsoft as Google traffic drops](https://techcrunch.com/2025/11/04/people-inc-forges-ai-licensing-deal-with-microsoft-as-google-traffic-drops/)
-- [Beta Technologies ends first day on NYSE in the green and $1B raised](https://techcrunch.com/2025/11/04/beta-technologies-ends-first-day-on-nyse-in-the-green-and-1b-raised/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
