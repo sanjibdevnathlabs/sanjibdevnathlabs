@@ -148,7 +148,7 @@ I'm a software developer passionate about designing and building applications wi
 <!-- BLOG-POST-LIST:START -->
 - [Amazon sends legal threats to Perplexity over agentic browsing](https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/)
 - [James Webb Space telescope spots &#39;big red dot&#39; in the ancient universe: A ravenous supermassive black hole named &#39;BiRD&#39;](https://www.space.com/astronomy/black-holes/james-webb-space-telescope-spots-big-red-dot-in-the-ancient-universe-a-ravenous-supermassive-black-hole-named-bird)
-- [People Inc forges AI licensing deal with Microsoft as Google traffic drops](https://techcrunch.com/2025/11/04/people-inc-forges-ai-licensing-deal-with-microsoft-as-google-traffic-drops/)
+- [People Inc. forges AI licensing deal with Microsoft as Google traffic drops](https://techcrunch.com/2025/11/04/people-inc-forges-ai-licensing-deal-with-microsoft-as-google-traffic-drops/)
 - [Beta Technologies ends first day on NYSE in the green and $1B raised](https://techcrunch.com/2025/11/04/beta-technologies-ends-first-day-on-nyse-in-the-green-and-1b-raised/)
 - [Astronomer captures 2 meteors slamming into the moon &lpar;video&rpar;](https://www.space.com/stargazing/astrophotography/astronomer-captures-2-meteors-slamming-into-the-moon-video)
 <!-- BLOG-POST-LIST:END -->
