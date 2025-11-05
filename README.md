@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astrophotographer captures fiery plasma dancing above the sun in stunning close-up video](https://www.space.com/stargazing/astrophotography/astrophotographer-captures-fiery-plasma-dancing-above-the-sun-in-stunning-close-up-video)
-- [Motion Picture Association hits Meta with cease-and-desist over use of ‘PG-13’ label](https://techcrunch.com/2025/11/05/motion-picture-association-hits-meta-with-cease-and-desist-over-use-of-pg-13-label/)
-- [University of Pennsylvania confirms hacker stole data during cyberattack](https://techcrunch.com/2025/11/05/university-of-pennsylvania-confirms-hacker-stole-data-during-cyberattack/)
-- [This startup’s metal stacks could help solve AI’s massive heat problem](https://techcrunch.com/2025/11/05/this-startups-metal-stacks-could-help-solve-ais-massive-heat-problem/)
-- [The Milky Way arcs over the Very Large Telescope | Space photo of the day for Nov. 5, 2025](https://www.space.com/astronomy/the-milky-way-arcs-over-the-very-large-telescope-space-photo-of-the-day-for-nov-5-2025)
+- [Replika founder raises $20M pre-seed for Wabi, the ‘YouTube of apps’](https://techcrunch.com/2025/11/05/replika-founder-raises-20m-pre-seed-for-wabi-the-youtube-of-apps/)
+- [Google makes it easier to access AI Mode in Chrome on iOS and Android](https://techcrunch.com/2025/11/05/google-makes-it-easier-to-access-ai-mode-in-chrome-on-ios-and-android/)
+- [Microsoft built a fake marketplace to test AI agents — they failed in surprising ways](https://techcrunch.com/2025/11/05/microsoft-built-a-synthetic-marketplace-for-testing-ai-agents/)
+- [Watch Atlas V rocket launch huge communications satellite to orbit today](https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-viasat-3-f2-launch)
+- [Space debris may have hit a Chinese spacecraft, delaying return of Shenzhou 20 astronauts](https://www.space.com/space-exploration/human-spaceflight/space-debris-may-have-hit-a-chinese-spacecraft-delaying-return-of-shenzhou-20-astronauts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
