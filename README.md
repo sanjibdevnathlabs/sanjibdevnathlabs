@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists recreate &#39;cosmic fireballs&#39; in CERN particle accelerator to hunt for missing gamma-rays](https://www.space.com/astronomy/scientists-recreate-cosmic-fireballs-in-cern-particle-accelerator-to-hunt-for-missing-gamma-rays)
-- [Replika founder raises $20M pre-seed for Wabi, the ‘YouTube of apps’](https://techcrunch.com/2025/11/05/replika-founder-raises-20m-pre-seed-for-wabi-the-youtube-of-apps/)
-- [Google makes it easier to access AI Mode in Chrome on iOS and Android](https://techcrunch.com/2025/11/05/google-makes-it-easier-to-access-ai-mode-in-chrome-on-ios-and-android/)
-- [Microsoft built a fake marketplace to test AI agents — they failed in surprising ways](https://techcrunch.com/2025/11/05/microsoft-built-a-synthetic-marketplace-for-testing-ai-agents/)
-- [Watch Atlas V rocket launch huge communications satellite to orbit today](https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-viasat-3-f2-launch)
+- [Pinterest CEO touts open source AI: ‘tremendous performance’ with reduced costs](https://techcrunch.com/2025/11/05/pinterest-ceo-touts-open-source-ai-tremendous-performance-with-reduced-costs/)
+- [See the moon meet up with the Seven Sisters of the Pleiades early on Nov. 6](https://www.space.com/stargazing/see-moon-meet-up-with-seven-sisters-of-the-pleiades-early-on-nov-6-2025)
+- [Lina Khan to co-chair NYC mayor-elect Zohran Mamdani’s transition team](https://techcrunch.com/2025/11/05/lina-khan-to-co-chair-nyc-mayor-elect-zohran-mamdanis-transition-team/)
+- [Millions to receive free electricity in 2026 thanks to Australia’s solar boom](https://techcrunch.com/2025/11/05/millions-to-receive-free-electricity-in-2026-thanks-to-australias-solar-boom/)
+- [Tinder to use AI to get to know users, tap into their Camera Roll photos](https://techcrunch.com/2025/11/05/tinder-to-use-ai-to-get-to-know-users-tap-into-their-camera-roll-photos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
