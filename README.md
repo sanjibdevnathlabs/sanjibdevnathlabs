@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists recreate &#39;cosmic fireballs&#39; in CERN particle accelerator to hunt for missing gamma-rays](https://www.space.com/astronomy/scientists-recreate-cosmic-fireballs-in-cern-particle-accelerator-to-hunt-for-missing-gamma-rays)
 - [Replika founder raises $20M pre-seed for Wabi, the ‘YouTube of apps’](https://techcrunch.com/2025/11/05/replika-founder-raises-20m-pre-seed-for-wabi-the-youtube-of-apps/)
 - [Google makes it easier to access AI Mode in Chrome on iOS and Android](https://techcrunch.com/2025/11/05/google-makes-it-easier-to-access-ai-mode-in-chrome-on-ios-and-android/)
 - [Microsoft built a fake marketplace to test AI agents — they failed in surprising ways](https://techcrunch.com/2025/11/05/microsoft-built-a-synthetic-marketplace-for-testing-ai-agents/)
 - [Watch Atlas V rocket launch huge communications satellite to orbit today](https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-viasat-3-f2-launch)
-- [Space debris may have hit a Chinese spacecraft, delaying return of Shenzhou 20 astronauts](https://www.space.com/space-exploration/human-spaceflight/space-debris-may-have-hit-a-chinese-spacecraft-delaying-return-of-shenzhou-20-astronauts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
