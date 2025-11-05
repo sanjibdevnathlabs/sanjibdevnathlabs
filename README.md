@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Win a free copy of the movie tie-in edition of Andy Weir&#39;s &#39;Project Hail Mary&#39; with our exclusive sweepstakes!](https://www.space.com/entertainment/space-books/win-a-free-copy-of-the-movie-tie-in-edition-of-andy-weirs-project-hail-mary-with-our-exclusive-sweepstakes)
+- [Cluely’s Roy Lee hints that viral hype is not enough](https://techcrunch.com/2025/11/05/cluelys-roy-lee-hints-that-viral-hype-is-not-enough/)
+- [Lucid Motors’ chief engineer leaves after 10 years](https://techcrunch.com/2025/11/05/lucid-motors-chief-engineer-leaves-after-10-years/)
 - [Apple nears deal to pay Google $1B annually to power new Siri, report says](https://techcrunch.com/2025/11/05/apple-nears-deal-to-pay-google-1b-annually-to-power-new-siri-report-says/)
 - [Pinterest CEO touts open source AI: ‘tremendous performance’ with reduced costs](https://techcrunch.com/2025/11/05/pinterest-ceo-touts-open-source-ai-tremendous-performance-with-reduced-costs/)
-- [See the moon meet up with the Seven Sisters of the Pleiades early on Nov. 6](https://www.space.com/stargazing/see-moon-meet-up-with-seven-sisters-of-the-pleiades-early-on-nov-6-2025)
-- [Lina Khan to co-chair NYC mayor-elect Zohran Mamdani’s transition team](https://techcrunch.com/2025/11/05/lina-khan-to-co-chair-nyc-mayor-elect-zohran-mamdanis-transition-team/)
-- [Millions to receive free electricity in 2026 thanks to Australia’s solar boom](https://techcrunch.com/2025/11/05/millions-to-receive-free-electricity-in-2026-thanks-to-australias-solar-boom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
