@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Maps bakes in Gemini to improve navigation and hands-free use](https://techcrunch.com/2025/11/05/google-maps-bakes-in-gemini-to-improve-navigation-and-hands-free-use/)
+- [The largest supermoon of 2025 rises tonight: What to know about the November full moon](https://www.space.com/stargazing/largest-supermoon-of-the-year-rises-tonight-how-to-see-the-november-full-moon-nov-5-2025)
 - [Armis raises $435M pre-IPO round at $6.1B valuation after refusing M&amp;A offers](https://techcrunch.com/2025/11/05/armis-raises-435m-pre-ipo-round-at-6-1b-valuation-after-refusing-ma-offers/)
-- [Former Meta employees launch a ring to take voice notes and control music](https://techcrunch.com/2025/11/05/former-meta-employees-launch-a-ring-to-take-voice-notes-and-control-music/)
-- [How AI fixed the James Webb Space Telescope&#39;s blurry vision](https://www.space.com/astronomy/james-webb-space-telescope/ai-fixes-webb-telescope-blurry-vision)
-- [Goldman Sachs doubles down on MoEngage in new round to fuel global expansion](https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/)
-- [Trump nominates billionaire Jared Isaacman for NASA chief — again](https://www.space.com/space-exploration/trump-nominates-billionaire-jared-isaacman-for-nasa-chief-again)
+- [Sun unleashes 2 colossal X-class solar flares, knocking out radio signals across the Americas and Pacific](https://www.space.com/astronomy/sun/sun-unleashes-2-colossal-x-class-solar-flares-knocking-out-radio-signals-across-the-americas-and-pacific)
+- [Watch the biggest and brightest full moon of 2025 shine today with this free supermoon livestream](https://www.space.com/stargazing/watch-the-biggest-and-brightest-full-moon-of-2025-shine-today-with-this-free-supermoon-livestream-nov-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
