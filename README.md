@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space dust in the Arctic is helping scientists track the climate crisis](https://www.space.com/science/climate-change/space-dust-in-the-arctic-is-helping-scientists-track-the-climate-crisis)
+- [SpaceX’s Starlink secures more spectrum and airlines as it passes 8 million customers](https://techcrunch.com/2025/11/06/spacexs-starlink-secures-more-spectrum-and-airlines-as-it-passes-8-million-customers/)
+- [Meta brings its short-form video feed of AI slop to Europe](https://techcrunch.com/2025/11/06/meta-brings-its-short-form-video-feed-of-ai-slop-to-europe/)
 - [Get the world&#39;s greatest sci-fi movies and TV at your fingertips and save money with this Disney Plus, Hulu and ESPN streaming bundle](https://www.space.com/entertainment/disney-hulu-espn-streaming-deal-november)
 - [US military launches unarmed nuclear missile from Vandenberg Space Force Base](https://www.space.com/space-exploration/launches-spacecraft/us-military-launches-unarmed-nuclear-missile-from-vandenberg-space-force-base)
-- [Subtle Computing’s voice isolation models help computers understand you in noisy environments](https://techcrunch.com/2025/11/06/subtle-computings-voice-isolation-models-help-computers-understand-you-in-noisy-environments/)
-- [Italian political consultant says he was targeted with Paragon spyware](https://techcrunch.com/2025/11/06/italian-political-consultant-says-he-was-targeted-with-paragon-spyware/)
-- [China reached out to NASA to avoid a potential satellite collision in 1st-of-its-kind space cooperation](https://www.space.com/space-exploration/satellites/china-reached-out-to-nasa-to-avoid-a-potential-satellite-collision-in-1st-of-its-kind-space-cooperation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
