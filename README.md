@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google to buy carbon credits from massive Amazonian reforestation project](https://techcrunch.com/2025/11/06/google-to-buy-carbon-credits-from-massive-amazonian-reforestation-project/)
-- [Amazon launches an AI-powered Kindle Translate service for ebook authors](https://techcrunch.com/2025/11/06/amazon-launches-an-ai-powered-kindle-translate-service-for-ebook-authors/)
-- [Sam Altman says he doesn’t want the government to bail out OpenAI if it fails](https://techcrunch.com/2025/11/06/sam-altman-says-he-doesnt-want-the-government-to-bail-out-openai-if-it-fails/)
-- [Ford execs reportedly discuss ending the F-150 Lightning](https://techcrunch.com/2025/11/06/ford-execs-reportedly-discuss-ending-the-f-150-lightning/)
-- [China&#39;s Tianwen 1 Mars probe captures images of interstellar comet 3I/ATLAS](https://www.space.com/astronomy/comets/chinas-tianwen-1-mars-probe-captures-images-of-interstellar-comet-3i-atlas)
+- [Accel backs Uber rival Rapido as Prosus boosts stake](https://techcrunch.com/2025/11/06/accel-backs-uber-rival-rapido-as-prosus-boosts-stake/)
+- [Grand Theft Auto VI is delayed — again](https://techcrunch.com/2025/11/06/grand-theft-auto-vi-is-delayed-again/)
+- [Best sci-fi strategy games, ranked](https://www.space.com/entertainment/space-games/best-sci-fi-strategy-games-ranked)
+- [Make it so: Lego unveils 1st &#39;Star Trek&#39; kit with the iconic USS Enterprise D and &#39;Next Generation&#39; crew](https://www.space.com/entertainment/make-it-so-lego-unveils-1st-star-trek-kit-with-the-iconic-uss-enterprise-d)
+- [Tesla shareholders approve Elon Musk’s $1T pay package](https://techcrunch.com/2025/11/06/tesla-shareholders-approve-elon-musks-1t-pay-package/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
