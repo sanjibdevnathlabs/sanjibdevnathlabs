@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The expansion of our universe may be slowing down. What does that mean for dark energy?](https://www.space.com/astronomy/dark-universe/the-expansion-of-our-universe-may-be-slowing-down-what-does-that-mean-for-dark-energy)
+- [Blue Origin plans second launch of New Glenn mega-rocket on November 9](https://techcrunch.com/2025/11/05/blue-origin-plans-second-launch-of-new-glenn-mega-rocket-on-november-9/)
 - [Win a free copy of the movie tie-in edition of Andy Weir&#39;s &#39;Project Hail Mary&#39; with our exclusive sweepstakes!](https://www.space.com/entertainment/space-books/win-a-free-copy-of-the-movie-tie-in-edition-of-andy-weirs-project-hail-mary-with-our-exclusive-sweepstakes)
 - [Cluely’s Roy Lee hints that viral hype is not enough](https://techcrunch.com/2025/11/05/cluelys-roy-lee-hints-that-viral-hype-is-not-enough/)
 - [Lucid Motors’ chief engineer leaves after 10 years](https://techcrunch.com/2025/11/05/lucid-motors-chief-engineer-leaves-after-10-years/)
-- [Apple nears deal to pay Google $1B annually to power new Siri, report says](https://techcrunch.com/2025/11/05/apple-nears-deal-to-pay-google-1b-annually-to-power-new-siri-report-says/)
-- [Pinterest CEO touts open source AI: ‘tremendous performance’ with reduced costs](https://techcrunch.com/2025/11/05/pinterest-ceo-touts-open-source-ai-tremendous-performance-with-reduced-costs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
