@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla to begin Cybercab production in April, Musk claims](https://techcrunch.com/2025/11/06/tesla-to-begin-cybercab-production-in-april-musk-claims/)
 - [Accel backs Uber rival Rapido as Prosus boosts stake](https://techcrunch.com/2025/11/06/accel-backs-uber-rival-rapido-as-prosus-boosts-stake/)
 - [Grand Theft Auto VI is delayed — again](https://techcrunch.com/2025/11/06/grand-theft-auto-vi-is-delayed-again/)
-- [Best sci-fi strategy games, ranked](https://www.space.com/entertainment/space-games/best-sci-fi-strategy-games-ranked)
 - [Make it so: Lego unveils 1st &#39;Star Trek&#39; kit with the iconic USS Enterprise D and &#39;Next Generation&#39; crew](https://www.space.com/entertainment/make-it-so-lego-unveils-1st-star-trek-kit-with-the-iconic-uss-enterprise-d)
-- [Tesla shareholders approve Elon Musk’s $1T pay package](https://techcrunch.com/2025/11/06/tesla-shareholders-approve-elon-musks-1t-pay-package/)
+- [Best sci-fi strategy games, ranked](https://www.space.com/entertainment/space-games/best-sci-fi-strategy-games-ranked)
 <!-- BLOG-POST-LIST:END -->
 
 ---
