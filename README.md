@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Benchmark made a rare crypto bet on trading app Fomo, with $17M Series A](https://techcrunch.com/2025/11/06/why-benchmark-made-a-rare-crypto-bet-on-trading-app-fomo-with-17m-series-a/)
+- [Spotify now lets you see weekly listening stats](https://techcrunch.com/2025/11/06/spotify-now-lets-you-see-weekly-listening-stats/)
+- [The moon looks set to roll down a ridge | Space photo of the day for Nov. 6, 2025](https://www.space.com/astronomy/moon/the-moon-looks-set-to-roll-down-a-ridge-space-photo-of-the-day-for-nov-6-2025)
 - [Inception raises $50 million to build diffusion models for code and text](https://techcrunch.com/2025/11/06/inception-raises-50-million-to-build-diffusion-models-for-code-and-text/)
 - [Ancient Australian rocks may shed new light on the birth of the moon](https://www.space.com/astronomy/moon/ancient-australian-rocks-may-shed-new-light-on-the-birth-of-the-moon)
-- [&#39;The Fantastic Four: First Steps&#39; is finally available to stream; here&#39;s how to watch online and from anywhere](https://www.space.com/entertainment/space-movies-shows/the-fantastic-four-first-steps-how-to-watch)
-- [Northern lights may be visible in 22 US states tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-22-us-states-nov-6-7-2025)
-- [Google Maps upgrades navigation in India with Gemini, safety alerts](https://techcrunch.com/2025/11/06/google-maps-upgrades-navigation-in-india-with-gemini-safety-alerts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
