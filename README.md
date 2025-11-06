@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman says he doesn’t want the government to bail out OpenAI if it fails](https://techcrunch.com/2025/11/06/sam-altman-says-he-doesnt-want-the-government-to-bail-out-openai-if-it-fails/)
+- [Ford execs reportedly discuss ending the F-150 Lightning](https://techcrunch.com/2025/11/06/ford-execs-reportedly-discuss-ending-the-f-150-lightning/)
+- [China&#39;s Tianwen 1 Mars probe captures images of interstellar comet 3I/ATLAS](https://www.space.com/astronomy/comets/chinas-tianwen-1-mars-probe-captures-images-of-interstellar-comet-3i-atlas)
+- [Sora for Android saw nearly half a million installs on its first day](https://techcrunch.com/2025/11/06/sora-for-android-saw-nearly-half-a-million-installs-on-its-first-day/)
 - [Space dust in the Arctic is helping scientists track the climate crisis](https://www.space.com/science/climate-change/space-dust-in-the-arctic-is-helping-scientists-track-the-climate-crisis)
-- [SpaceX’s Starlink secures more spectrum and airlines as it passes 8 million customers](https://techcrunch.com/2025/11/06/spacexs-starlink-secures-more-spectrum-and-airlines-as-it-passes-8-million-customers/)
-- [Meta brings its short-form video feed of AI slop to Europe](https://techcrunch.com/2025/11/06/meta-brings-its-short-form-video-feed-of-ai-slop-to-europe/)
-- [Get the world&#39;s greatest sci-fi movies and TV at your fingertips and save money with this Disney Plus, Hulu and ESPN streaming bundle](https://www.space.com/entertainment/disney-hulu-espn-streaming-deal-november)
-- [US military launches unarmed nuclear missile from Vandenberg Space Force Base](https://www.space.com/space-exploration/launches-spacecraft/us-military-launches-unarmed-nuclear-missile-from-vandenberg-space-force-base)
 <!-- BLOG-POST-LIST:END -->
 
 ---
