@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HoverAir X1 PROMAX drone review](https://www.space.com/technology/hoverair-x1-promax-drone-review)
+- [Wildfires are getting more intense around the world due to human-driven climate change](https://www.space.com/science/climate-change/wildfires-are-getting-more-intense-around-the-world-due-to-human-driven-climate-change)
 - [Why Benchmark made a rare crypto bet on trading app Fomo, with $17M Series A](https://techcrunch.com/2025/11/06/why-benchmark-made-a-rare-crypto-bet-on-trading-app-fomo-with-17m-series-a/)
 - [Spotify now lets you see weekly listening stats](https://techcrunch.com/2025/11/06/spotify-now-lets-you-see-weekly-listening-stats/)
 - [The moon looks set to roll down a ridge | Space photo of the day for Nov. 6, 2025](https://www.space.com/astronomy/moon/the-moon-looks-set-to-roll-down-a-ridge-space-photo-of-the-day-for-nov-6-2025)
-- [Inception raises $50 million to build diffusion models for code and text](https://techcrunch.com/2025/11/06/inception-raises-50-million-to-build-diffusion-models-for-code-and-text/)
-- [Ancient Australian rocks may shed new light on the birth of the moon](https://www.space.com/astronomy/moon/ancient-australian-rocks-may-shed-new-light-on-the-birth-of-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
