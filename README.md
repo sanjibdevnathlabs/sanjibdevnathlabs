@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get the world&#39;s greatest sci-fi movies and TV at your fingertips and save money with this Disney Plus, Hulu and ESPN streaming bundle](https://www.space.com/entertainment/disney-hulu-espn-streaming-deal-november)
+- [US military launches unarmed nuclear missile from Vandenberg Space Force Base](https://www.space.com/space-exploration/launches-spacecraft/us-military-launches-unarmed-nuclear-missile-from-vandenberg-space-force-base)
+- [Subtle Computing’s voice isolation models help computers understand you in noisy environments](https://techcrunch.com/2025/11/06/subtle-computings-voice-isolation-models-help-computers-understand-you-in-noisy-environments/)
+- [Italian political consultant says he was targeted with Paragon spyware](https://techcrunch.com/2025/11/06/italian-political-consultant-says-he-was-targeted-with-paragon-spyware/)
 - [China reached out to NASA to avoid a potential satellite collision in 1st-of-its-kind space cooperation](https://www.space.com/space-exploration/satellites/china-reached-out-to-nasa-to-avoid-a-potential-satellite-collision-in-1st-of-its-kind-space-cooperation)
-- [Mastodon’s latest software update brings quote posts to all server operators](https://techcrunch.com/2025/11/06/mastodons-latest-software-update-brings-quote-posts-to-all-server-operators/)
-- [Peloton recalls 833,000 bikes after reports of injuries](https://techcrunch.com/2025/11/06/peloton-recalls-833000-bikes-after-reports-of-injuries/)
-- [HoverAir X1 PROMAX drone review](https://www.space.com/technology/hoverair-x1-promax-drone-review)
-- [Wildfires are getting more intense around the world due to human-driven climate change](https://www.space.com/science/climate-change/wildfires-are-getting-more-intense-around-the-world-due-to-human-driven-climate-change)
 <!-- BLOG-POST-LIST:END -->
 
 ---
