@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inception raises $50 million to build diffusion models for code and text](https://techcrunch.com/2025/11/06/inception-raises-50-million-to-build-diffusion-models-for-code-and-text/)
+- [Ancient Australian rocks may shed new light on the birth of the moon](https://www.space.com/astronomy/moon/ancient-australian-rocks-may-shed-new-light-on-the-birth-of-the-moon)
+- [&#39;The Fantastic Four: First Steps&#39; is finally available to stream; here&#39;s how to watch online and from anywhere](https://www.space.com/entertainment/space-movies-shows/the-fantastic-four-first-steps-how-to-watch)
 - [Northern lights may be visible in 22 US states tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-22-us-states-nov-6-7-2025)
 - [Google Maps upgrades navigation in India with Gemini, safety alerts](https://techcrunch.com/2025/11/06/google-maps-upgrades-navigation-in-india-with-gemini-safety-alerts/)
-- [See stunning photos of November&#39;s full &#39;Beaver Moon&#39; — the biggest supermoon of 2025](https://www.space.com/stargazing/see-stunning-photos-full-beaver-moon-largest-supermoon-nov-5-2025)
-- [Perplexity to pay Snap $400M to power search in Snapchat](https://techcrunch.com/2025/11/06/perplexity-to-pay-snap-400m-to-power-search-in-snapchat/)
-- [Anker-backed hybrid RV startup Evotrex comes out of stealth](https://techcrunch.com/2025/11/06/anker-backed-hybrid-rv-startup-evotrex-comes-out-of-stealth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
