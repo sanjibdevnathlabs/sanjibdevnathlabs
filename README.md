@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ventures Platform, one of Africa’s most active early-stage investors, has raised another $64 million](https://techcrunch.com/2025/11/06/nigeria-backs-ventures-platform-as-seed-fund-hits-64m-first-close/)
 - [Discord’s Family Center update now lets parents monitor weekly purchases](https://techcrunch.com/2025/11/05/discords-family-center-update-now-lets-parents-monitor-weekly-purchases/)
 - [SpaceX launches 29 Starlink satellites from Cape Canaveral](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-81-b1094-ccsfs-jrti)
 - [The expansion of our universe may be slowing down. What does that mean for dark energy?](https://www.space.com/astronomy/dark-universe/the-expansion-of-our-universe-may-be-slowing-down-what-does-that-mean-for-dark-energy)
 - [Blue Origin plans second launch of New Glenn mega-rocket on November 9](https://techcrunch.com/2025/11/05/blue-origin-plans-second-launch-of-new-glenn-mega-rocket-on-november-9/)
-- [Win a free copy of the movie tie-in edition of Andy Weir&#39;s &#39;Project Hail Mary&#39; with our exclusive sweepstakes!](https://www.space.com/entertainment/space-books/win-a-free-copy-of-the-movie-tie-in-edition-of-andy-weirs-project-hail-mary-with-our-exclusive-sweepstakes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
