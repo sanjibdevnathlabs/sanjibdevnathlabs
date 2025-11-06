@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China reached out to NASA to avoid a potential satellite collision in 1st-of-its-kind space cooperation](https://www.space.com/space-exploration/satellites/china-reached-out-to-nasa-to-avoid-a-potential-satellite-collision-in-1st-of-its-kind-space-cooperation)
+- [Mastodon’s latest software update brings quote posts to all server operators](https://techcrunch.com/2025/11/06/mastodons-latest-software-update-brings-quote-posts-to-all-server-operators/)
+- [Peloton recalls 833,000 bikes after reports of injuries](https://techcrunch.com/2025/11/06/peloton-recalls-833000-bikes-after-reports-of-injuries/)
 - [HoverAir X1 PROMAX drone review](https://www.space.com/technology/hoverair-x1-promax-drone-review)
 - [Wildfires are getting more intense around the world due to human-driven climate change](https://www.space.com/science/climate-change/wildfires-are-getting-more-intense-around-the-world-due-to-human-driven-climate-change)
-- [Why Benchmark made a rare crypto bet on trading app Fomo, with $17M Series A](https://techcrunch.com/2025/11/06/why-benchmark-made-a-rare-crypto-bet-on-trading-app-fomo-with-17m-series-a/)
-- [Spotify now lets you see weekly listening stats](https://techcrunch.com/2025/11/06/spotify-now-lets-you-see-weekly-listening-stats/)
-- [The moon looks set to roll down a ridge | Space photo of the day for Nov. 6, 2025](https://www.space.com/astronomy/moon/the-moon-looks-set-to-roll-down-a-ridge-space-photo-of-the-day-for-nov-6-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
