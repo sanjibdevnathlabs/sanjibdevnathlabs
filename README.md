@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Surprise geomagnetic storm arrives early as NOAA warns more solar impacts are on their way](https://www.space.com/stargazing/surprise-geomagnetic-storm-arrives-early-as-noaa-warns-more-solar-impacts-are-on-their-way)
-- [Ventures Platform, one of Africa’s most active early-stage investors, has raised another $64 million](https://techcrunch.com/2025/11/06/nigeria-backs-ventures-platform-as-seed-fund-hits-64m-first-close/)
-- [Discord’s Family Center update now lets parents monitor weekly purchases](https://techcrunch.com/2025/11/05/discords-family-center-update-now-lets-parents-monitor-weekly-purchases/)
-- [SpaceX launches 29 Starlink satellites from Cape Canaveral](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-81-b1094-ccsfs-jrti)
-- [The expansion of our universe may be slowing down. What does that mean for dark energy?](https://www.space.com/astronomy/dark-universe/the-expansion-of-our-universe-may-be-slowing-down-what-does-that-mean-for-dark-energy)
+- [Northern lights may be visible in 22 US states tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-22-us-states-nov-6-7-2025)
+- [Google Maps upgrades navigation in India with Gemini, safety alerts](https://techcrunch.com/2025/11/06/google-maps-upgrades-navigation-in-india-with-gemini-safety-alerts/)
+- [See stunning photos of November&#39;s full &#39;Beaver Moon&#39; — the biggest supermoon of 2025](https://www.space.com/stargazing/see-stunning-photos-full-beaver-moon-largest-supermoon-nov-5-2025)
+- [Perplexity to pay Snap $400M to power search in Snapchat](https://techcrunch.com/2025/11/06/perplexity-to-pay-snap-400m-to-power-search-in-snapchat/)
+- [Anker-backed hybrid RV startup Evotrex comes out of stealth](https://techcrunch.com/2025/11/06/anker-backed-hybrid-rv-startup-evotrex-comes-out-of-stealth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
