@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Disrupt 2025 Startup Battlefield 200: Celebrating outstanding achievements](https://techcrunch.com/2025/11/07/techcrunch-disrupt-2025s-startup-battlefield-200-celebrating-outstanding-achievements/)
+- [Powerful geomagnetic storm sparks stunning northern lights across North America &lpar;photos&rpar;](https://www.space.com/stargazing/auroras/powerful-geomagnetic-storm-sparks-stunning-northern-lights-across-north-america-and-europe-photos-november-2025)
+- [Kim Kardashian says ChatGPT is her ‘frenemy’](https://techcrunch.com/2025/11/07/kim-kardashian-says-chatgpt-is-her-frenemy/)
+- [Congressional Budget Office confirms it was hacked](https://techcrunch.com/2025/11/07/congressional-budget-office-confirms-it-was-hacked/)
 - [&#39;Pluribus&#39;: Release date, plot, &amp; how to watch Apple TV&#39;s sci-fi series from &#39;Breaking Bad&#39; creator Vince Gilligan](https://www.space.com/entertainment/space-movies-shows/pluribus-release-date-plot-and-how-to-watch-apple-tvs-sci-fi-series-from-breaking-bad-creator-vince-gilligan)
-- [Amazon launches a low-price standalone shopping app, Amazon Bazaar, in over a dozen markets](https://techcrunch.com/2025/11/07/amazon-launches-a-low-price-standalone-shopping-app-amazon-bazaar-in-over-a-dozen-markets/)
-- [How one founder plans to save cities from flooding with terraforming robots](https://techcrunch.com/2025/11/07/one-founders-plan-to-save-his-city-san-rafael-with-terraforming-robots/)
-- [Astronomer catches sight of interstellar Comet 3I/ATLAS returning to the predawn sky — Here&#39;s how you can too](https://www.space.com/stargazing/astronomer-catches-sight-of-interstellar-comet-3i-atlas-returning-to-the-predawn-sky-heres-how-you-can-too)
-- [Texas AG sues Roblox, accusing it of prioritizing ‘pixel pedophiles’ over child safety](https://techcrunch.com/2025/11/07/texas-ag-sues-roblox-accusing-it-of-prioritizing-pixel-pedophiles-over-child-safety/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
