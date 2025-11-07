@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nemesis board game review](https://www.space.com/entertainment/nemesis-board-game-review)
+- [Heat leaking from Saturn&#39;s ocean moon Enceladus bolsters its case as an abode for life](https://www.space.com/space-exploration/search-for-life/heat-leaking-from-saturns-moon-enceladus-strengthens-case-for-its-habitability)
+- [I tried the Apple Crossbody Strap. It’s convenient, but the phone looks silly when the strap is removed](https://techcrunch.com/2025/11/07/i-tried-the-apple-crossbody-strap-its-convenient-but-the-phone-looks-silly-when-the-strap-is-removed/)
 - [FAA restricts commercial rocket launches indefinitely due to air traffic risks from government shutdown](https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown)
 - [JWST makes 1st-ever detection of complex organic molecules around star in galaxy beyond our Milky Way](https://www.space.com/astronomy/james-webb-space-telescope/jwst-makes-1st-ever-detection-of-complex-organic-molecules-around-star-in-galaxy-beyond-our-milky-way)
-- [TechCrunch Disrupt 2025 Startup Battlefield 200: Celebrating outstanding achievements](https://techcrunch.com/2025/11/07/techcrunch-disrupt-2025s-startup-battlefield-200-celebrating-outstanding-achievements/)
-- [Powerful geomagnetic storm sparks stunning northern lights across North America &lpar;photos&rpar;](https://www.space.com/stargazing/auroras/powerful-geomagnetic-storm-sparks-stunning-northern-lights-across-north-america-and-europe-photos-november-2025)
-- [Kim Kardashian says ChatGPT is her ‘frenemy’](https://techcrunch.com/2025/11/07/kim-kardashian-says-chatgpt-is-her-frenemy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
