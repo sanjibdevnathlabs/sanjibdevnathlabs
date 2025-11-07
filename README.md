@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jupiter&#39;s volcanic moon Io may be hundreds of times hotter than scientists thought](https://www.space.com/astronomy/jupiter/jupiters-volcanic-moon-io-may-be-hundreds-of-times-hotter-than-scientists-thought)
+- [Washington Post confirms data breach linked to Oracle hacks](https://techcrunch.com/2025/11/07/washington-post-confirms-data-breach-linked-to-oracle-hacks/)
 - [Nemesis board game review](https://www.space.com/entertainment/nemesis-board-game-review)
 - [Heat leaking from Saturn&#39;s ocean moon Enceladus bolsters its case as an abode for life](https://www.space.com/space-exploration/search-for-life/heat-leaking-from-saturns-moon-enceladus-strengthens-case-for-its-habitability)
-- [I tried the Apple Crossbody Strap. It’s convenient, but the phone looks silly when the strap is removed](https://techcrunch.com/2025/11/07/i-tried-the-apple-crossbody-strap-its-convenient-but-the-phone-looks-silly-when-the-strap-is-removed/)
-- [FAA restricts commercial rocket launches indefinitely due to air traffic risks from government shutdown](https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown)
-- [JWST makes 1st-ever detection of complex organic molecules around star in galaxy beyond our Milky Way](https://www.space.com/astronomy/james-webb-space-telescope/jwst-makes-1st-ever-detection-of-complex-organic-molecules-around-star-in-galaxy-beyond-our-milky-way)
+- [I tried the Apple Crossbody Strap. It’s convenient, but the phone looks silly when the strap is removed.](https://techcrunch.com/2025/11/07/i-tried-the-apple-crossbody-strap-its-convenient-but-the-phone-looks-silly-when-the-strap-is-removed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
