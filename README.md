@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Landfall’ spyware abused zero-day to hack Samsung Galaxy phones](https://techcrunch.com/2025/11/07/landfall-spyware-abused-zero-day-to-hack-samsung-galaxy-phones/)
+- [Watch Blue Origin&#39;s huge New Glenn rocket launch NASA Mars mission on Nov. 9](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-new-glenn-escapade-mars-launch-webcast)
 - [Tesla delays reveal of production Roadster 2 to April Fools’ Day](https://techcrunch.com/2025/11/06/tesla-delays-reveal-of-production-roadster-2-to-april-fools-day/)
 - [Chris Sacca’s VC firm is raising a second nuclear fusion fund](https://techcrunch.com/2025/11/06/chris-saccas-vc-firm-is-raising-a-second-nuclear-fusion-fund/)
 - [Tesla to begin Cybercab production in April, Musk claims](https://techcrunch.com/2025/11/06/tesla-to-begin-cybercab-production-in-april-musk-claims/)
-- [Accel backs Uber rival Rapido as Prosus boosts stake](https://techcrunch.com/2025/11/06/accel-backs-uber-rival-rapido-as-prosus-boosts-stake/)
-- [Grand Theft Auto VI is delayed — again](https://techcrunch.com/2025/11/06/grand-theft-auto-vi-is-delayed-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
