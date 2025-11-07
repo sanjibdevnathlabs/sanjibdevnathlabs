@@ -134,7 +134,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [React and Svelte had a secret love child…](https://www.youtube.com/watch?v=IIj9UWpvSFI)
+- [This new JS framework wants you to quit React…](https://www.youtube.com/watch?v=IIj9UWpvSFI)
 - [AI in the Terminal Changes EVERYTHING](https://www.youtube.com/shorts/YSsvdQ12Jns)
 - [How Ethernet Sends Data - Computerphile](https://www.youtube.com/watch?v=SJE2lFR5utM)
 - [The AI Kill Switch &lpar;stop Rogue AI&rpar;](https://www.youtube.com/shorts/Tb8m5nE7PZk)
