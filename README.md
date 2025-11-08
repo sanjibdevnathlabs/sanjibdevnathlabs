@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Wall Street losing faith in AI?](https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/)
 - [‘Breaking Bad’ creator’s new show ‘Pluribus’ was emphatically ‘made by humans,’ not AI](https://techcrunch.com/2025/11/08/breaking-bad-creators-new-show-pluribus-was-emphatically-made-by-humans-not-ai/)
 - [OpenAI asked Trump administration to expand Chips Act tax credit to cover data centers](https://techcrunch.com/2025/11/08/openai-asked-trump-administration-to-expand-chips-act-tax-credit-to-cover-data-centers/)
 - [Space.com headlines crossword quiz for week of Nov. 3, 2025: Which meteor shower peaked this week?](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-nov-3-2025-which-meteor-shower-peaked-this-week)
 - [Astronauts can get motion sick while splashing back down to Earth – virtual reality headsets could help them stay sharp](https://www.space.com/space-exploration/human-spaceflight/astronauts-can-get-motion-sick-while-splashing-back-down-to-earth-virtual-reality-headsets-could-help-them-stay-sharp)
-- [This Week In Space podcast: Episode 185 — Gutting Goddard](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-185-gutting-goddard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
