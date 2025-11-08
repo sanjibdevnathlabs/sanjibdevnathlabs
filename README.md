@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How startups can lure good talent fairly without big tech bank accounts](https://techcrunch.com/2025/11/08/how-startups-can-lure-good-talent-fairly-without-big-tech-bank-accounts/)
+- [Cosmic horror: These are science fiction&#39;s most terrifying alien races](https://www.space.com/entertainment/scary-sci-fi-aliens)
 - [Don&#39;t miss Jupiter and the moon join up in the night sky this weekend](https://www.space.com/stargazing/dont-miss-jupiter-and-the-moon-join-up-in-the-night-sky-this-weekend)
 - [Aging stars destroy their planets more often than we thought: What does this mean for Earth?](https://www.space.com/astronomy/exoplanets/aging-stars-destroy-their-planets-more-often-than-we-thought-what-does-this-mean-for-earth)
 - [No, interstellar comet 3I/ATLAS hasn&#39;t &#39;changed color&#39;, scientist says](https://www.space.com/astronomy/comets/no-interstellar-comet-3i-atlas-hasnt-changed-color-scientists-say)
-- [Rivian gives RJ Scaringe a new pay package worth up to $5B](https://techcrunch.com/2025/11/07/rivian-gives-rj-scaringe-a-new-pay-package-worth-up-to-5b/)
-- [This company wants to be the 1st to launch human remains to Mars. Will it ever get there?](https://www.space.com/space-exploration/launches-spacecraft/this-company-wants-to-be-the-1st-to-launch-human-remains-to-mars-will-it-ever-get-there)
 <!-- BLOG-POST-LIST:END -->
 
 ---
