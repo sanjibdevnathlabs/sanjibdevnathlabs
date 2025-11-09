@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk uses Grok to imagine the possibility of love](https://techcrunch.com/2025/11/09/elon-musk-uses-grok-to-imagine-the-possibility-of-love/)
 - [Apple reportedly plans ambitious satellite-powered iPhone features](https://techcrunch.com/2025/11/09/apple-reportedly-plans-ambitious-satellite-powered-iphone-features/)
 - [TechCrunch Mobility: Elon Musk’s threats worked](https://techcrunch.com/2025/11/09/techcrunch-mobility-elon-musks-threats-worked/)
 - [Moon rocks, magnified: Apollo 16 samples shine in new book &#39;Nanocosmos&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-books/moon-rocks-magnified-apollo-16-samples-shine-in-new-book-nanocosmos-exclusive)
 - [Holy Stone HS600D drone review](https://www.space.com/technology/holy-stone-hs600d-drone-review)
-- [Office of Space Commerce faces an uncertain future amid budget cuts and new oversight](https://www.space.com/space-exploration/office-of-space-commerce-faces-an-uncertain-future-amid-budget-cuts-and-new-oversight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
