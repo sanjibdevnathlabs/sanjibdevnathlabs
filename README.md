@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin delays launch of New Glenn rocket carrying NASA Mars probes, may seek exemption from FAA order for next try](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-delays-launch-of-new-glenn-rocket-carrying-nasa-mars-probes-may-seek-exemption-from-faa-order-for-next-try)
+- [Slow Ventures holds a ‘finishing school’ to help founders learn to be fancy](https://techcrunch.com/2025/11/09/slow-ventures-holds-a-finishing-school-to-help-founders-learn-to-be-fancy/)
+- [YouTube TV is giving customers a $20 credit for Disney blackout](https://techcrunch.com/2025/11/09/youtube-tv-is-giving-customers-a-20-credit-for-disney-blackout/)
+- [Blue Origin scrubs second launch of New Glenn due to weather, cruise ship traffic](https://techcrunch.com/2025/11/09/blue-origin-scrubs-second-launch-of-new-glenn-due-to-weather-cruise-ship-traffic/)
 - [Elon Musk uses Grok to imagine the possibility of love](https://techcrunch.com/2025/11/09/elon-musk-uses-grok-to-imagine-the-possibility-of-love/)
-- [Apple reportedly plans ambitious satellite-powered iPhone features](https://techcrunch.com/2025/11/09/apple-reportedly-plans-ambitious-satellite-powered-iphone-features/)
-- [TechCrunch Mobility: Elon Musk’s threats worked](https://techcrunch.com/2025/11/09/techcrunch-mobility-elon-musks-threats-worked/)
-- [Moon rocks, magnified: Apollo 16 samples shine in new book &#39;Nanocosmos&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-books/moon-rocks-magnified-apollo-16-samples-shine-in-new-book-nanocosmos-exclusive)
-- [Holy Stone HS600D drone review](https://www.space.com/technology/holy-stone-hs600d-drone-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
