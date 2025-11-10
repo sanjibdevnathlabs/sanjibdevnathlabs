@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wikipedia urges AI companies to use its paid API, and stop scraping](https://techcrunch.com/2025/11/10/wikipedia-urges-ai-companies-to-use-its-paid-api-and-stop-scraping/)
 - [New &#39;exosuit&#39; with artificial muscles could help astronauts explore the moon and Mars](https://www.space.com/space-exploration/human-spaceflight/new-exosuit-with-artificial-muscles-could-help-astronauts-explore-the-moon-and-mars)
 - [Private Chinese rocket fails during launch, 3 satellites lost](https://www.space.com/space-exploration/launches-spacecraft/china-galactic-energy-ceres-1-rocket-launch-failure)
 - [Northern lights may be visible in 15 US states tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-us-states-tonight-nov-10-to-12)
 - [Consolidation begins to hit the carbon credit market](https://techcrunch.com/2025/11/10/consolidation-begins-to-hit-the-carbon-credit-market/)
-- [YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying](https://techcrunch.com/2025/11/10/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
