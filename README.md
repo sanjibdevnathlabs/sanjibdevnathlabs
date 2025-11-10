@@ -146,10 +146,10 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin scrubs second New Glenn launch, will try again November 12](https://techcrunch.com/2025/11/09/blue-origin-scrubs-second-new-glenn-launch-will-try-again-november-12/)
 - [Blue Origin delays launch of New Glenn rocket carrying NASA Mars probes, may seek exemption from FAA order for next try](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-delays-launch-of-new-glenn-rocket-carrying-nasa-mars-probes-may-seek-exemption-from-faa-order-for-next-try)
 - [Slow Ventures holds a ‘finishing school’ to help founders learn to be fancy](https://techcrunch.com/2025/11/09/slow-ventures-holds-a-finishing-school-to-help-founders-learn-to-be-fancy/)
 - [YouTube TV is giving customers a $20 credit for Disney blackout](https://techcrunch.com/2025/11/09/youtube-tv-is-giving-customers-a-20-credit-for-disney-blackout/)
-- [Blue Origin scrubs second launch of New Glenn due to weather, cruise ship traffic](https://techcrunch.com/2025/11/09/blue-origin-scrubs-second-launch-of-new-glenn-due-to-weather-cruise-ship-traffic/)
 - [Elon Musk uses Grok to imagine the possibility of love](https://techcrunch.com/2025/11/09/elon-musk-uses-grok-to-imagine-the-possibility-of-love/)
 <!-- BLOG-POST-LIST:END -->
 
