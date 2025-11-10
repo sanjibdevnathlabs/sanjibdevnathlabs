@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Taurid meteor shower could put on its best show this week — keep your eyes peeled for fireballs](https://www.space.com/stargazing/meteor-showers/look-taurid-meteors-fireballs-at-their-best-this-week-november-2025)
-- [Lego City Modular Galactic Spaceship review](https://www.space.com/entertainment/space-games-toys/lego-city-modular-galactic-spaceship-review)
-- [Remote driving startup Vay could grab up to $410M from Singapore’s Grab](https://techcrunch.com/2025/11/10/remote-driving-startup-vay-could-grab-up-to-410m-from-singapores-grab/)
-- [Why a lot of people are getting hacked with government spyware](https://techcrunch.com/2025/11/10/why-a-lot-of-people-are-getting-hacked-with-government-spyware/)
-- [Aurora alert! Sun fires off 2 colossal X flares as multiple CMEs race toward Earth](https://www.space.com/stargazing/auroras/aurora-alert-sun-fires-off-2-colossal-x-flares-as-multiple-cmes-race-toward-earth)
+- [Knicks player Miles McBride launches a location-sharing friendship app to rival Snap Map](https://techcrunch.com/2025/11/10/knicks-player-miles-mcbride-launches-a-location-sharing-friendship-app-to-rival-snap-map/)
+- [Amazon Music allows users in Canada to chat and stream music with each other](https://techcrunch.com/2025/11/10/amazon-music-allows-users-in-canada-to-chat-and-stream-music-with-each-other/)
+- [Can you still do good astrophotography on a 14 year old DSLR?](https://www.space.com/stargazing/skywatching-kit/can-you-still-do-good-astrophotography-on-a-14-year-old-dslr)
+- [ESA&#39;s sun spacecraft captures 1st close-up of our star&#39;s magnetic engine in motion](https://www.space.com/astronomy/sun/esas-sun-spacecraft-captures-1st-close-up-of-our-stars-magnetic-engine-in-motion)
+- [Sapphire Sport spins out, rebrands as 359 Capital with $300M AUM](https://techcrunch.com/2025/11/10/sapphire-sport-spins-out-rebrands-as-359-capital-with-300m-aum/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
