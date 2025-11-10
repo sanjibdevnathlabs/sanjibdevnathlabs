@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying](https://techcrunch.com/2025/11/10/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/)
+- [Google Maps releases new AI tools that let you create interactive projects](https://techcrunch.com/2025/11/10/google-maps-releases-new-ai-tools-to-let-you-create-interactive-projects/)
+- [Planets may make their own water as they form — could that mean more habitable worlds in the universe?](https://www.space.com/space-exploration/search-for-life/planets-may-make-their-own-water-as-they-form-could-that-mean-more-habitable-worlds-in-the-universe)
+- [Venmo launches cash back rewards program for debit cards](https://techcrunch.com/2025/11/10/venmo-launches-cash-back-rewards-program-for-debit-cards/)
 - [Knicks player Miles McBride launches a location-sharing friendship app to rival Snap Map](https://techcrunch.com/2025/11/10/knicks-player-miles-mcbride-launches-a-location-sharing-friendship-app-to-rival-snap-map/)
-- [Amazon Music allows users in Canada to chat and stream music with each other](https://techcrunch.com/2025/11/10/amazon-music-allows-users-in-canada-to-chat-and-stream-music-with-each-other/)
-- [Can you still do good astrophotography on a 14 year old DSLR?](https://www.space.com/stargazing/skywatching-kit/can-you-still-do-good-astrophotography-on-a-14-year-old-dslr)
-- [ESA&#39;s sun spacecraft captures 1st close-up of our star&#39;s magnetic engine in motion](https://www.space.com/astronomy/sun/esas-sun-spacecraft-captures-1st-close-up-of-our-stars-magnetic-engine-in-motion)
-- [Sapphire Sport spins out, rebrands as 359 Capital with $300M AUM](https://techcrunch.com/2025/11/10/sapphire-sport-spins-out-rebrands-as-359-capital-with-300m-aum/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
