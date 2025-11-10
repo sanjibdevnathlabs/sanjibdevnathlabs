@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kaltura acquires eSelf, founded by creator of Snap’s AI, in $27M deal](https://techcrunch.com/2025/11/10/kaltura-acquires-eself-founded-by-creator-of-snaps-ai-in-27m-deal/)
+- [Darth Vader returns in the new &#39;Star Wars&#39; novel &#39;Master of Evil&#39;, and we&#39;ve got a sneak peek &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-books/darth-vader-returns-in-the-new-star-wars-novel-master-of-evil-and-weve-got-a-sneak-peek-exclusive)
 - [China breaks its single-year launch record with weekend flurry](https://www.space.com/space-exploration/launches-spacecraft/china-breaks-its-single-year-launch-record-with-weekend-flurry)
 - [Google brings Gemini to the Google TV Streamer](https://techcrunch.com/2025/11/10/google-brings-gemini-to-the-google-tv-streamer/)
 - [AI PowerPoint-killer Gamma hits $2.1B valuation, $100M ARR, founder says](https://techcrunch.com/2025/11/10/ai-powerpoint-killer-gamma-hits-2-1b-valuation-100m-arr-founder-says/)
-- [Scientists 3D printed muscle tissue in microgravity. The goal is to make human organs from scratch](https://www.space.com/astronomy/earth/scientists-3d-printed-muscle-tissue-in-microgravity-the-goal-is-to-make-human-organs-from-scratch)
-- [Wikipedia urges AI companies to use its paid API, and stop scraping](https://techcrunch.com/2025/11/10/wikipedia-urges-ai-companies-to-use-its-paid-api-and-stop-scraping/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
