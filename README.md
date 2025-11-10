@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China breaks its single-year launch record with weekend flurry](https://www.space.com/space-exploration/launches-spacecraft/china-breaks-its-single-year-launch-record-with-weekend-flurry)
+- [Google brings Gemini to the Google TV Streamer](https://techcrunch.com/2025/11/10/google-brings-gemini-to-the-google-tv-streamer/)
+- [AI PowerPoint-killer Gamma hits $2.1B valuation, $100M ARR, founder says](https://techcrunch.com/2025/11/10/ai-powerpoint-killer-gamma-hits-2-1b-valuation-100m-arr-founder-says/)
+- [Scientists 3D printed muscle tissue in microgravity. The goal is to make human organs from scratch](https://www.space.com/astronomy/earth/scientists-3d-printed-muscle-tissue-in-microgravity-the-goal-is-to-make-human-organs-from-scratch)
 - [Wikipedia urges AI companies to use its paid API, and stop scraping](https://techcrunch.com/2025/11/10/wikipedia-urges-ai-companies-to-use-its-paid-api-and-stop-scraping/)
-- [New &#39;exosuit&#39; with artificial muscles could help astronauts explore the moon and Mars](https://www.space.com/space-exploration/human-spaceflight/new-exosuit-with-artificial-muscles-could-help-astronauts-explore-the-moon-and-mars)
-- [Private Chinese rocket fails during launch, 3 satellites lost](https://www.space.com/space-exploration/launches-spacecraft/china-galactic-energy-ceres-1-rocket-launch-failure)
-- [Northern lights may be visible in 15 US states tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-us-states-tonight-nov-10-to-12)
-- [Consolidation begins to hit the carbon credit market](https://techcrunch.com/2025/11/10/consolidation-begins-to-hit-the-carbon-credit-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
