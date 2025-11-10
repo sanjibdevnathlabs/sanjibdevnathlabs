@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Could this film become the 1st western movie to send a filmmaker into space?](https://www.space.com/entertainment/could-this-film-become-the-1st-western-movie-to-send-a-filmmaker-into-space)
 - [&#39;Shockingly large&#39; amount of sensitive satellite communications are unencrypted and vulnerable to interception, researchers find](https://www.space.com/space-exploration/satellites/shocking-vulnerabilities-satellite-communications-study)
 - [A better way of thinking about the AI bubble](https://techcrunch.com/2025/11/10/a-better-way-of-thinking-about-the-ai-bubble/)
 - [Rad Power Bikes faces shutdown in January without new funding](https://techcrunch.com/2025/11/10/rad-power-bikes-faces-shutdown-in-january-without-new-funding/)
 - [Kaltura acquires eSelf, founded by creator of Snap’s AI, in $27M deal](https://techcrunch.com/2025/11/10/kaltura-acquires-eself-founded-by-creator-of-snaps-ai-in-27m-deal/)
-- [Darth Vader returns in the new &#39;Star Wars&#39; novel &#39;Master of Evil&#39;, and we&#39;ve got a sneak peek &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-books/darth-vader-returns-in-the-new-star-wars-novel-master-of-evil-and-weve-got-a-sneak-peek-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
