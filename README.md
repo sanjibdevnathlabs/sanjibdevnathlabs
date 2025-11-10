@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Private Chinese rocket fails during launch, 3 satellites lost](https://www.space.com/space-exploration/launches-spacecraft/china-galactic-energy-ceres-1-rocket-launch-failure)
+- [Northern lights may be visible in 15 US states tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-us-states-tonight-nov-10-to-12)
+- [Consolidation begins to hit the carbon credit market](https://techcrunch.com/2025/11/10/consolidation-begins-to-hit-the-carbon-credit-market/)
 - [YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying](https://techcrunch.com/2025/11/10/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/)
 - [Google Maps releases new AI tools that let you create interactive projects](https://techcrunch.com/2025/11/10/google-maps-releases-new-ai-tools-to-let-you-create-interactive-projects/)
-- [Planets may make their own water as they form — could that mean more habitable worlds in the universe?](https://www.space.com/space-exploration/search-for-life/planets-may-make-their-own-water-as-they-form-could-that-mean-more-habitable-worlds-in-the-universe)
-- [Venmo launches cash back rewards program for debit cards](https://techcrunch.com/2025/11/10/venmo-launches-cash-back-rewards-program-for-debit-cards/)
-- [Knicks player Miles McBride launches a location-sharing friendship app to rival Snap Map](https://techcrunch.com/2025/11/10/knicks-player-miles-mcbride-launches-a-location-sharing-friendship-app-to-rival-snap-map/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
