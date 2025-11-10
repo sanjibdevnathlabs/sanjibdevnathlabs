@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aurora alert! Sun fires off 2 colossal X flares as multiple CMEs race toward Earth](https://www.space.com/stargazing/auroras/aurora-alert-sun-fires-off-2-colossal-x-flares-as-multiple-cmes-race-toward-earth)
+- [6Sense founder Amanda Kahlow raises $30 million for new human-replacement AI sales startup 1Mind](https://techcrunch.com/2025/11/10/6sense-founder-amanda-kahlow-raises-30-million-for-new-human-replacement-ai-sales-startup-1mind/)
+- [Scribe hits $1.3B valuation as it moves to show where AI will actually pay off](https://techcrunch.com/2025/11/10/scribe-hits-1-3b-valuation-as-it-moves-to-show-where-ai-will-actually-pay-off/)
+- [Volcano belches ash over Chile | Space photo of the day for Nov. 10, 2025](https://www.space.com/astronomy/earth/volcano-belches-ash-over-chile-space-photo-of-the-day-for-nov-10-2025)
 - [Lenskart recovers from tepid open to close first day slightly above IPO price](https://techcrunch.com/2025/11/10/lenskart-recovers-from-tepid-open-to-close-first-day-slightly-above-ipo-price/)
-- [The Unistellar eQuinox 2 is our telescope experts&#39; pick as the best overall smart telescope, and is now $700 off in this early Black Friday telescope deal](https://www.space.com/stargazing/skywatching-kit/the-unistellar-equinox-2-is-our-telescope-experts-pick-as-the-best-overall-smart-telescope-and-is-now-usd700-off-in-this-early-black-friday-telescope-deal)
-- [Blue Origin scrubs second New Glenn launch, will try again November 12](https://techcrunch.com/2025/11/09/blue-origin-scrubs-second-new-glenn-launch-will-try-again-november-12/)
-- [Blue Origin launch of NASA Mars probes on New Glenn rocket delayed by weather, next try set for Nov. 12](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-delays-launch-of-new-glenn-rocket-carrying-nasa-mars-probes-may-seek-exemption-from-faa-order-for-next-try)
-- [Slow Ventures holds a ‘finishing school’ to help founders learn to be fancy](https://techcrunch.com/2025/11/09/slow-ventures-holds-a-finishing-school-to-help-founders-learn-to-be-fancy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
