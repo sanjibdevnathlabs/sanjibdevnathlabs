@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EU considers law to phase out Huawei and ZTE equipment from bloc’s telecom networks](https://techcrunch.com/2025/11/11/eu-considers-law-to-phase-out-huawei-and-zte-equipment-from-blocs-telecom-networks/)
+- [Kenko VC Smart Cellarto 10x30 WP binoculars review](https://www.space.com/stargazing/skywatching-kit/kenko-vc-smart-cellarto-10x30-wp-binoculars-review)
+- [Around the world in 80 telescopes: a space trivia quiz](https://www.space.com/astronomy/around-the-world-in-80-telescopes-a-space-trivia-quiz)
+- [Meta’s chief AI scientist Yann LeCun reportedly plans to leave to build his own startup](https://techcrunch.com/2025/11/11/metas-chief-ai-scientist-yann-lecun-reportedly-plans-to-leave-to-build-his-own-startup/)
 - [A former physician has launched Robyn, an empathetic AI companion](https://techcrunch.com/2025/11/11/a-former-physician-has-launched-robyn-an-empathetic-ai-companion/)
-- [Comet Lemmon lights up the sky over Spain | Space photo of the day for Nov. 11, 2025](https://www.space.com/astronomy/comets/comet-lemmon-lights-up-the-sky-over-spain-space-photo-of-the-day-for-nov-11-2025)
-- [Does quantum gravity exist? A new experiment has deepened the mystery](https://www.space.com/astronomy/does-quantum-gravity-exist-a-new-experiment-has-deepened-the-mystery)
-- [Sun unleashes strongest solar flare of 2025, sparking radio blackouts across Africa and Europe](https://www.space.com/astronomy/sun/sun-unleashes-strongest-solar-flare-of-2025-sparking-radio-blackouts-across-africa-and-europe)
-- [Fujifilm Fujinon Techno-Stabi TS-L 1640 image stabilized binoculars review](https://www.space.com/stargazing/skywatching-kit/fujifilm-fujinon-techno-stabi-ts-l-1640-image-stabilized-binoculars-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
