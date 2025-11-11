@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Photos adds new AI features for editing, expands AI-powered search to over 100 countries](https://techcrunch.com/2025/11/11/google-photos-adds-new-ai-features-for-editing-expands-ai-powered-search-to-over-100-countries/)
+- [Denis Villeneuve&#39;s sci-fi movies ranked, worst to best](https://www.space.com/entertainment/space-movies-shows/denis-villeneuves-sci-fi-movies-ranked-worst-to-best)
 - [Wonderful raised $100M Series A to put AI agents on the front lines of customer service](https://techcrunch.com/2025/11/11/wonderful-raised-100m-series-a-to-put-ai-agents-on-the-front-lines-of-customer-service/)
 - [How founders can prepare for their late-stage fundraises from the start](https://techcrunch.com/2025/11/11/how-founders-can-prepare-for-their-late-stage-fundraises-from-the-start/)
 - [Giving Gemini its due: &#39;Apollo 13&#39; author Jeffrey Kluger honors &#39;forgotten&#39; NASA program with new book &lpar;exclusive interview&rpar;](https://www.space.com/entertainment/space-books/giving-gemini-its-due-apollo-13-author-jeffrey-kluger-honors-forgotten-nasa-program-with-new-book-exclusive-interview)
-- [EU considers law to phase out Huawei and ZTE equipment from bloc’s telecom networks](https://techcrunch.com/2025/11/11/eu-considers-law-to-phase-out-huawei-and-zte-equipment-from-blocs-telecom-networks/)
-- [Kenko VC Smart Cellarto 10x30 WP binoculars review](https://www.space.com/stargazing/skywatching-kit/kenko-vc-smart-cellarto-10x30-wp-binoculars-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
