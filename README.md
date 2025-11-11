@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars orbiter spies &#39;barcode&#39; aftermath of rare Red Planet avalanche caused by meteoroid impact](https://www.space.com/astronomy/mars/mars-orbiter-spies-barcode-aftermath-of-rare-red-planet-avalanche-caused-by-meteoroid-impact)
+- [Threads targets podcasters with new features, aiming to become the home for show discussions](https://techcrunch.com/2025/11/11/threads-targets-podcasters-with-new-features-aiming-to-become-the-place-fans-discuss-shows/)
+- [Immortality startup Eternos pivots to a personal AI that sounds like you](https://techcrunch.com/2025/11/11/immortality-startup-eternos-pivots-to-a-personal-ai-that-sounds-like-you/)
+- [How AI startups should be thinking about product-market fit](https://techcrunch.com/2025/11/11/how-ai-startups-should-be-thinking-about-product-market-fit/)
 - [Google Photos adds new AI features for editing, expands AI-powered search to over 100 countries](https://techcrunch.com/2025/11/11/google-photos-adds-new-ai-features-for-editing-expands-ai-powered-search-to-over-100-countries/)
-- [Denis Villeneuve&#39;s sci-fi movies ranked, worst to best](https://www.space.com/entertainment/space-movies-shows/denis-villeneuves-sci-fi-movies-ranked-worst-to-best)
-- [Wonderful raised $100M Series A to put AI agents on the front lines of customer service](https://techcrunch.com/2025/11/11/wonderful-raised-100m-series-a-to-put-ai-agents-on-the-front-lines-of-customer-service/)
-- [How founders can prepare for their late-stage fundraises from the start](https://techcrunch.com/2025/11/11/how-founders-can-prepare-for-their-late-stage-fundraises-from-the-start/)
-- [Giving Gemini its due: &#39;Apollo 13&#39; author Jeffrey Kluger honors &#39;forgotten&#39; NASA program with new book &lpar;exclusive interview&rpar;](https://www.space.com/entertainment/space-books/giving-gemini-its-due-apollo-13-author-jeffrey-kluger-honors-forgotten-nasa-program-with-new-book-exclusive-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
