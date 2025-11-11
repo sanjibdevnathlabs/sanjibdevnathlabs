@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches 29 Starlink satellites to orbit from Florida](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-6-87-jrti)
 - [Lovable says it’s nearing 8 million users as the year-old AI coding startup eyes more corporate employees](https://techcrunch.com/2025/11/10/lovable-says-its-nearing-8-million-users-as-the-year-old-ai-coding-startup-eyes-more-corporate-employees/)
 - [The circular money problem at the heart of AI’s biggest deals](https://techcrunch.com/video/the-circular-money-problem-at-the-heart-of-ais-biggest-deals/)
 - [VC Jennifer Neundorfer explains how founders can stand out in a crowded AI market](https://techcrunch.com/2025/11/10/vc-jennifer-neundorfer-explains-how-founders-can-stand-out-in-a-crowded-ai-market/)
 - [Could this film become the 1st western movie to send a filmmaker into space?](https://www.space.com/entertainment/could-this-film-become-the-1st-western-movie-to-send-a-filmmaker-into-space)
-- [&#39;Shockingly large&#39; amount of sensitive satellite communications are unencrypted and vulnerable to interception, researchers find](https://www.space.com/space-exploration/satellites/shocking-vulnerabilities-satellite-communications-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
