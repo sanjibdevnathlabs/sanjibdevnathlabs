@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wonderful raised $100M Series A to put AI agents on the front lines of customer service](https://techcrunch.com/2025/11/11/wonderful-raised-100m-series-a-to-put-ai-agents-on-the-front-lines-of-customer-service/)
+- [How founders can prepare for their late-stage fundraises from the start](https://techcrunch.com/2025/11/11/how-founders-can-prepare-for-their-late-stage-fundraises-from-the-start/)
+- [Giving Gemini its due: &#39;Apollo 13&#39; author Jeffrey Kluger honors &#39;forgotten&#39; NASA program with new book &lpar;exclusive interview&rpar;](https://www.space.com/entertainment/space-books/giving-gemini-its-due-apollo-13-author-jeffrey-kluger-honors-forgotten-nasa-program-with-new-book-exclusive-interview)
 - [EU considers law to phase out Huawei and ZTE equipment from bloc’s telecom networks](https://techcrunch.com/2025/11/11/eu-considers-law-to-phase-out-huawei-and-zte-equipment-from-blocs-telecom-networks/)
 - [Kenko VC Smart Cellarto 10x30 WP binoculars review](https://www.space.com/stargazing/skywatching-kit/kenko-vc-smart-cellarto-10x30-wp-binoculars-review)
-- [Around the world in 80 telescopes: a space trivia quiz](https://www.space.com/astronomy/around-the-world-in-80-telescopes-a-space-trivia-quiz)
-- [Meta’s chief AI scientist Yann LeCun reportedly plans to leave to build his own startup](https://techcrunch.com/2025/11/11/metas-chief-ai-scientist-yann-lecun-reportedly-plans-to-leave-to-build-his-own-startup/)
-- [A former physician has launched Robyn, an empathetic AI companion](https://techcrunch.com/2025/11/11/a-former-physician-has-launched-robyn-an-empathetic-ai-companion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
