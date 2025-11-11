@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Does quantum gravity exist? A new experiment has deepened the mystery](https://www.space.com/astronomy/does-quantum-gravity-exist-a-new-experiment-has-deepened-the-mystery)
+- [Sun unleashes strongest solar flare of 2025, sparking radio blackouts across Africa and Europe](https://www.space.com/astronomy/sun/sun-unleashes-strongest-solar-flare-of-2025-sparking-radio-blackouts-across-africa-and-europe)
 - [Fujifilm Fujinon Techno-Stabi TS-L 1640 image stabilized binoculars review](https://www.space.com/stargazing/skywatching-kit/fujifilm-fujinon-techno-stabi-ts-l-1640-image-stabilized-binoculars-review)
 - [Space rescue services needed? 2 &#39;stranded&#39; astronaut incidents are a &#39;massive wake-up call,&#39; experts say](https://www.space.com/space-exploration/human-spaceflight/space-rescue-services-needed-2-stranded-astronaut-incidents-are-a-massive-wake-up-call-experts-say)
 - [SpaceX launches 29 Starlink satellites to orbit from Florida](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-6-87-jrti)
-- [Lovable says it’s nearing 8 million users as the year-old AI coding startup eyes more corporate employees](https://techcrunch.com/2025/11/10/lovable-says-its-nearing-8-million-users-as-the-year-old-ai-coding-startup-eyes-more-corporate-employees/)
-- [The circular money problem at the heart of AI’s biggest deals](https://techcrunch.com/video/the-circular-money-problem-at-the-heart-of-ais-biggest-deals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
