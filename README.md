@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Pixel update adds battery-saving maps mode, AI photo remixing, and smarter notifications](https://techcrunch.com/2025/11/11/google-pixel-update-adds-battery-saving-maps-mode-ai-photo-remixing-and-smarter-notifications/)
+- [Comet Lemmon photos are plagued by satellite streaks. Here&#39;s how amateur astronomers face the problem](https://www.space.com/stargazing/astrophotography/comet-lemmon-photos-are-plagued-by-satellite-streaks-heres-how-amateur-astronomers-face-the-problem)
 - [Mars orbiter spies &#39;barcode&#39; aftermath of rare Red Planet avalanche caused by meteoroid impact](https://www.space.com/astronomy/mars/mars-orbiter-spies-barcode-aftermath-of-rare-red-planet-avalanche-caused-by-meteoroid-impact)
 - [Threads targets podcasters with new features, aiming to become the home for show discussions](https://techcrunch.com/2025/11/11/threads-targets-podcasters-with-new-features-aiming-to-become-the-place-fans-discuss-shows/)
 - [Immortality startup Eternos pivots to a personal AI that sounds like you](https://techcrunch.com/2025/11/11/immortality-startup-eternos-pivots-to-a-personal-ai-that-sounds-like-you/)
-- [How AI startups should be thinking about product-market fit](https://techcrunch.com/2025/11/11/how-ai-startups-should-be-thinking-about-product-market-fit/)
-- [Google Photos adds new AI features for editing, expands AI-powered search to over 100 countries](https://techcrunch.com/2025/11/11/google-photos-adds-new-ai-features-for-editing-expands-ai-powered-search-to-over-100-countries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
