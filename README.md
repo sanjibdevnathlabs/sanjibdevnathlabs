@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Figma bets on India to expand beyond design](https://techcrunch.com/2025/11/12/figma-bets-on-india-to-expand-beyond-design/)
 - [Astronomers discover the famous Pleiades star cluster could be 20 times bigger than we thought](https://www.space.com/astronomy/astronomers-discover-the-famous-pleiades-star-cluster-could-be-20-times-bigger-than-we-thought)
 - [The global race for the AI app layer is still on](https://techcrunch.com/2025/11/11/the-global-race-for-the-ai-app-layer-is-still-on/)
 - [Red Bull Racing’s secret weapon? An engineer who treats workflows like lap times](https://techcrunch.com/2025/11/11/red-bull-racings-secret-weapon-an-engineer-who-treats-workflows-like-lap-times/)
 - [India tests parachutes for Gaganyaan astronaut capsule &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/india-tests-parachutes-for-gaganyaan-astronaut-capsule-video)
-- [&#39;This all must end now.&#39; NASA lab closures at Goddard Space Flight Center under Congressional scrutiny](https://www.space.com/space-exploration/this-all-must-end-now-nasa-lab-closures-at-goddard-space-flight-center-under-congressional-scrutiny)
 <!-- BLOG-POST-LIST:END -->
 
 ---
