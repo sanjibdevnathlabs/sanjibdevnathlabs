@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Red Bull Racing’s secret weapon? An engineer who treats workflows like lap times](https://techcrunch.com/2025/11/11/red-bull-racings-secret-weapon-an-engineer-who-treats-workflows-like-lap-times/)
 - [India tests parachutes for Gaganyaan astronaut capsule &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/india-tests-parachutes-for-gaganyaan-astronaut-capsule-video)
 - [&#39;This all must end now.&#39; NASA lab closures at Goddard Space Flight Center under Congressional scrutiny](https://www.space.com/space-exploration/this-all-must-end-now-nasa-lab-closures-at-goddard-space-flight-center-under-congressional-scrutiny)
 - [See Mars and Mercury shine in the glow of the setting sun on Nov. 12](https://www.space.com/stargazing/see-mars-and-mercury-shine-in-the-glow-of-the-setting-sun-on-nov-12-2025)
 - [SoftBank’s Nvidia sale rattles market, raises questions](https://techcrunch.com/2025/11/11/softbanks-nvidia-sale-rattles-market-raises-questions/)
-- [Google Pixel update adds battery-saving maps mode, AI photo remixing, and smarter notifications](https://techcrunch.com/2025/11/11/google-pixel-update-adds-battery-saving-maps-mode-ai-photo-remixing-and-smarter-notifications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
