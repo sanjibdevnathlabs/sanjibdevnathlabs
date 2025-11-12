@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Severe geomagnetic storm sparks northern lights across North America and as far south as Mexico &lpar;photos&rpar;](https://www.space.com/stargazing/auroras/severe-geomagnetic-storm-sparks-northern-lights-across-north-america-and-as-far-south-as-mexico-photos)
+- [&#39;Alien: Earth&#39; renewed for season 2 at FX, set to film in London in 2026](https://www.space.com/entertainment/space-movies-shows/alien-earth-renewed-for-season-2-at-fx-set-to-film-in-london-in-2026)
+- [Teradar raises $150M for a sensor it says beats lidar and radar](https://techcrunch.com/2025/11/12/teradar-exits-stealth-with-an-all-weather-sensor-for-autonomy-and-150m-in-funding/)
+- [Self-driving trucks startup Einride plans to go public via a SPAC](https://techcrunch.com/2025/11/12/self-driving-trucks-startup-einride-plans-to-go-public-via-a-spac/)
 - [Figma bets on India to expand beyond design](https://techcrunch.com/2025/11/12/figma-bets-on-india-to-expand-beyond-design/)
-- [Astronomers discover the famous Pleiades star cluster could be 20 times bigger than we thought](https://www.space.com/astronomy/astronomers-discover-the-famous-pleiades-star-cluster-could-be-20-times-bigger-than-we-thought)
-- [The global race for the AI app layer is still on](https://techcrunch.com/2025/11/11/the-global-race-for-the-ai-app-layer-is-still-on/)
-- [Red Bull Racing’s secret weapon? An engineer who treats workflows like lap times](https://techcrunch.com/2025/11/11/red-bull-racings-secret-weapon-an-engineer-who-treats-workflows-like-lap-times/)
-- [India tests parachutes for Gaganyaan astronaut capsule &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/india-tests-parachutes-for-gaganyaan-astronaut-capsule-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
