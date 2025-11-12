@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists watch supernova shockwave shoot through a dying star for 1st time](https://www.space.com/astronomy/scientists-watch-supernova-shockwave-shoot-through-a-dying-star-for-1st-time)
-- [iOS 26.2 beta adds new Liquid Glass customization, alarms in the Reminders app, and more](https://techcrunch.com/2025/11/12/ios-26-2-beta-adds-new-liquid-glass-customization-alarms-in-the-reminders-app-and-more/)
-- [Interstellar comet 3I/ATLAS&#39;s tail is still growing, new image shows](https://www.space.com/stargazing/interstellar-comet-3i-atlass-tail-is-still-growing-new-image-shows)
-- [YouTube TV’s Disney blackout is ruining my life &lpar;I can’t watch ‘Jeopardy!’&rpar;](https://techcrunch.com/2025/11/12/youtube-tvs-disney-blackout-is-ruining-my-life-i-cant-watch-jeopardy/)
-- [Why a researcher is building robots that look and act like bats](https://techcrunch.com/2025/11/12/why-a-researcher-is-building-robots-that-look-and-act-like-bats/)
+- [Cybersecurity firm Deepwatch lays off dozens, citing move to “accelerate” AI investment](https://techcrunch.com/2025/11/12/cybersecurity-firm-deepwatch-lays-off-dozens-citing-move-to-accelerate-ai-investment/)
+- [ElevenLabs strike deals with celebs to create AI audio](https://techcrunch.com/2025/11/12/elevenlabs-strike-deals-with-celebs-to-create-ai-audio/)
+- [Rocket Lab delays debut of powerful, partially reusable Neutron rocket to 2026](https://www.space.com/space-exploration/rocket-lab-delays-debut-of-powerful-partially-reusable-neutron-rocket-to-2026)
+- [Elon Musk’s X botched its security key switchover, locking users out](https://techcrunch.com/2025/11/12/elon-musks-x-botched-its-security-key-switchover-locking-users-out/)
+- [Court rules that OpenAI violated German copyright law; ordered it to pay damages](https://techcrunch.com/2025/11/12/court-rules-that-openai-violated-german-copyright-law-ordered-it-to-pay-damages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
