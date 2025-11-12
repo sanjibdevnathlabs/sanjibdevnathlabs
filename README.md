@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists watch supernova shockwave shoot through a dying star for 1st time](https://www.space.com/astronomy/scientists-watch-supernova-shockwave-shoot-through-a-dying-star-for-1st-time)
+- [iOS 26.2 beta adds new Liquid Glass customization, alarms in the Reminders app, and more](https://techcrunch.com/2025/11/12/ios-26-2-beta-adds-new-liquid-glass-customization-alarms-in-the-reminders-app-and-more/)
 - [Interstellar comet 3I/ATLAS&#39;s tail is still growing, new image shows](https://www.space.com/stargazing/interstellar-comet-3i-atlass-tail-is-still-growing-new-image-shows)
 - [YouTube TV’s Disney blackout is ruining my life &lpar;I can’t watch ‘Jeopardy!’&rpar;](https://techcrunch.com/2025/11/12/youtube-tvs-disney-blackout-is-ruining-my-life-i-cant-watch-jeopardy/)
 - [Why a researcher is building robots that look and act like bats](https://techcrunch.com/2025/11/12/why-a-researcher-is-building-robots-that-look-and-act-like-bats/)
-- [Productivity app Hero announces an SDK that will complete your AI prompts for you](https://techcrunch.com/2025/11/12/productivity-app-hero-announces-an-sdk-that-will-complete-your-ai-prompts-for-you/)
-- [Radio streamer TuneIn acquired for $175M](https://techcrunch.com/2025/11/12/radio-streamer-tunein-acquired-for-175m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
