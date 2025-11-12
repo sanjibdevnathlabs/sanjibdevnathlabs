@@ -147,7 +147,7 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- BLOG-POST-LIST:START -->
 - [Scientists solve the mystery of &#39;impossible&#39; merger of &#39;forbidden&#39; black holes](https://www.space.com/astronomy/black-holes/scientists-solve-the-mystery-of-impossible-merger-of-forbidden-black-holes)
-- [Cybersecurity firm Deepwatch lays off dozens, citing move to “accelerate” AI investment](https://techcrunch.com/2025/11/12/cybersecurity-firm-deepwatch-lays-off-dozens-citing-move-to-accelerate-ai-investment/)
+- [Cybersecurity firm Deepwatch lays off dozens, citing move to ‘accelerate’ AI investment](https://techcrunch.com/2025/11/12/cybersecurity-firm-deepwatch-lays-off-dozens-citing-move-to-accelerate-ai-investment/)
 - [ElevenLabs strike deals with celebs to create AI audio](https://techcrunch.com/2025/11/12/elevenlabs-strike-deals-with-celebs-to-create-ai-audio/)
 - [Rocket Lab delays debut of powerful, partially reusable Neutron rocket to 2026](https://www.space.com/space-exploration/rocket-lab-delays-debut-of-powerful-partially-reusable-neutron-rocket-to-2026)
 - [Elon Musk’s X botched its security key switchover, locking users out](https://techcrunch.com/2025/11/12/elon-musks-x-botched-its-security-key-switchover-locking-users-out/)
