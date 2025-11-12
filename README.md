@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Airbnb’s testing a ‘kitchen stocking’ service that lets guests place Instacart orders before their stay](https://techcrunch.com/2025/11/12/airbnbs-testing-a-kitchen-stocking-service-that-lets-guests-place-instacart-orders-before-their-stay/)
-- [Nikon Z50 II camera review](https://www.space.com/stargazing/skywatching-kit/nikon-z50-ii-camera-review)
-- [Fei-Fei Li’s World Labs speeds up the world model race with Marble, its first commercial product](https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/)
-- [Microsoft-backed VEIR is bringing superconductors to data centers](https://techcrunch.com/2025/11/12/microsoft-backed-veir-targets-data-centers-for-its-megawatt-class-superconductors/)
-- [Star and satellite streaks in a green night sky | Space photo of the day for Nov. 12, 2025](https://www.space.com/astronomy/star-and-satellite-streaks-in-a-green-night-sky-space-photo-of-the-day-for-nov-12-2025)
+- [Astronomers spot 1st coronal mass ejection from an alien star – and that&#39;s bad news in the search for life](https://www.space.com/astronomy/stars/astronomers-spot-1st-coronal-mass-ejection-from-an-alien-star-and-thats-bad-news-in-the-search-for-life)
+- [AI data startup WisdomAI has raised another $50M, led by Kleiner, Nvidia](https://techcrunch.com/2025/11/12/ai-data-startup-wisdomai-has-raised-another-50m-led-by-kleiner-nvidia/)
+- [Waymo robotaxis are now giving rides on freeways in LA, San Francisco, and Phoenix](https://techcrunch.com/2025/11/12/waymo-robotaxis-are-now-giving-rides-on-freeways-in-these-3-cities/)
+- [Anthropic announces $50 billion data center plan](https://techcrunch.com/2025/11/12/anthropic-announces-50-billion-data-center-plan/)
+- [Ongoing solar storm delays Blue Origin launch of NASA Mars probes](https://www.space.com/space-exploration/launches-spacecraft/ongoing-solar-storm-delays-blue-origin-launch-of-nasa-mars-probes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
