@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Airbnb’s testing a ‘kitchen stocking’ service that lets guests place Instacart orders before their stay](https://techcrunch.com/2025/11/12/airbnbs-testing-a-kitchen-stocking-service-that-lets-guests-place-instacart-orders-before-their-stay/)
+- [Nikon Z50 II camera review](https://www.space.com/stargazing/skywatching-kit/nikon-z50-ii-camera-review)
 - [Fei-Fei Li’s World Labs speeds up the world model race with Marble, its first commercial product](https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/)
 - [Microsoft-backed VEIR is bringing superconductors to data centers](https://techcrunch.com/2025/11/12/microsoft-backed-veir-targets-data-centers-for-its-megawatt-class-superconductors/)
 - [Star and satellite streaks in a green night sky | Space photo of the day for Nov. 12, 2025](https://www.space.com/astronomy/star-and-satellite-streaks-in-a-green-night-sky-space-photo-of-the-day-for-nov-12-2025)
-- [Australian spy chief warns Chinese hackers are ‘probing’ critical networks for espionage and sabotage](https://techcrunch.com/2025/11/12/australian-spy-chief-warns-chinese-hackers-are-probing-critical-networks-for-espionage-and-sabotage/)
-- [Groww raises nearly $750M in IPO as India’s retail investing boom continues](https://techcrunch.com/2025/11/12/groww-raises-nearly-750m-in-ipo-as-indias-retail-investing-boom-continues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
