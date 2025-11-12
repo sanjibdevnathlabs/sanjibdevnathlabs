@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronomers spot 1st coronal mass ejection from an alien star – and that&#39;s bad news in the search for life](https://www.space.com/astronomy/stars/astronomers-spot-1st-coronal-mass-ejection-from-an-alien-star-and-thats-bad-news-in-the-search-for-life)
-- [AI data startup WisdomAI has raised another $50M, led by Kleiner, Nvidia](https://techcrunch.com/2025/11/12/ai-data-startup-wisdomai-has-raised-another-50m-led-by-kleiner-nvidia/)
-- [Waymo robotaxis are now giving rides on freeways in LA, San Francisco, and Phoenix](https://techcrunch.com/2025/11/12/waymo-robotaxis-are-now-giving-rides-on-freeways-in-these-3-cities/)
-- [Anthropic announces $50 billion data center plan](https://techcrunch.com/2025/11/12/anthropic-announces-50-billion-data-center-plan/)
-- [Ongoing solar storm delays Blue Origin launch of NASA Mars probes](https://www.space.com/space-exploration/launches-spacecraft/ongoing-solar-storm-delays-blue-origin-launch-of-nasa-mars-probes)
+- [Why a researcher is building robots that look and act like bats](https://techcrunch.com/2025/11/12/why-a-researcher-is-building-robots-that-look-and-act-like-bats/)
+- [Productivity app Hero announces an SDK that will complete your AI prompts for you](https://techcrunch.com/2025/11/12/productivity-app-hero-announces-an-sdk-that-will-complete-your-ai-prompts-for-you/)
+- [Radio streamer TuneIn acquired for $175M](https://techcrunch.com/2025/11/12/radio-streamer-tunein-acquired-for-175m/)
+- [Data centers now attract more investment than than finding new oil supplies](https://techcrunch.com/2025/11/12/data-centers-now-attract-more-investment-than-than-finding-new-oil-supplies/)
+- [Lawmakers warn Democratic governors that states are sharing drivers’ data with ICE](https://techcrunch.com/2025/11/12/lawmakers-warn-democratic-governors-that-states-are-sharing-drivers-data-with-ice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
