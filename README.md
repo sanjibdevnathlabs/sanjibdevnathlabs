@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ISS astronauts take cover from radiation as solar storms spark auroras across the planet](https://www.space.com/space-exploration/international-space-station/iss-astronauts-take-cover-from-radiation-as-solar-storms-spark-auroras-across-the-planet)
-- [Comet C/2025 K1 &lpar;ATLAS&rpar; splits into 3 pieces after a close brush with the sun &lpar;video&rpar;](https://www.space.com/stargazing/comet-c2025k1-atlas-splits-into-3-pieces-after-close-brush-with-the-sun-video-nov-2025)
-- [Uber quietly pilots in-app video recording for drivers in India](https://techcrunch.com/2025/11/13/uber-quietly-pilots-in-app-video-recording-for-drivers-in-india/)
-- [Newsletter platform beehiiv adds AI website building, creator tools in major expansion](https://techcrunch.com/2025/11/13/newsletter-platform-beehiiv-adds-ai-website-building-creator-tools-in-major-expansion/)
-- [After 5 months, the $1,200 bottles of Besties All-In tequila are finally starting to ship](https://techcrunch.com/2025/11/13/after-5-months-the-1200-bottles-of-besties-all-in-tequila-are-finally-starting-to-ship/)
+- [Could alien life be found in the clouds of an exoplanet?](https://www.space.com/astronomy/exoplanets/colorful-microorganisms-might-help-identify-life-in-exoplanet-clouds)
+- [Blue Origin sticks first New Glenn rocket landing and launches NASA spacecraft](https://techcrunch.com/2025/11/13/blue-origin-sticks-first-new-glenn-rocket-landing-and-launches-nasa-spacecraft/)
+- [Build Mode starts at the beginning: How Forethought AI found product-market fit](https://techcrunch.com/2025/11/13/build-mode-starts-at-the-beginning-how-forethought-ai-found-product-market-fit/)
+- [Blue Origin lands huge New Glenn rocket booster for 1st time after acing Mars ESCAPADE launch for NASA](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-lands-huge-new-glenn-rocket-booster-for-1st-time-after-acing-mars-escapade-launch-for-nasa)
+- [Apple’s new App Review Guidelines clamp down on apps sharing personal data with ‘third-party AI’](https://techcrunch.com/2025/11/13/apples-new-app-review-guidelines-clamp-down-on-apps-sharing-personal-data-with-third-party-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
