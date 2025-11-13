@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google augments AI shopping with conversational search, agentic checkout and an AI that calls stores for you](https://techcrunch.com/2025/11/13/google-expands-ai-shopping-with-conversational-search-agentic-checkout-and-an-ai-that-calls-stores-for-you/)
+- [Coding assistant Cursor raises $2.3bn five months after its previous round](https://techcrunch.com/2025/11/13/coding-assistant-cursor-raises-2-3bn-five-months-after-its-previous-round/)
+- [Spotify adds a new, less repetitive shuffle, plus audiobook recaps](https://techcrunch.com/2025/11/13/spotify-adds-a-new-less-repetitive-shuffle-plus-audiobook-recaps/)
 - [Europe&#39;s Ariane 6 rocket blasts off | Space photo of the day for Nov. 13, 2025](https://www.space.com/space-exploration/launches-spacecraft/europes-ariane-6-rocket-blasts-off-space-photo-of-the-day-for-nov-13-2025)
 - [Microsoft’s plan to fix its chip problem is, partly, to let OpenAI do the heavy lifting](https://techcrunch.com/2025/11/13/microsofts-plan-to-fix-its-chip-problem-is-partly-to-let-openai-do-the-heavy-lifting/)
-- [Milestone raises $10M to make sure AI rhymes with ROI](https://techcrunch.com/2025/11/13/milestone-raises-10m-to-make-sure-ai-rhymes-with-roi/)
-- [&quot;The Celestron Inspire 100AZ telescope has more to get excited about than many of its cut-price rivals&quot; — it just hit the best price of the year in this early Black Friday deal](https://www.space.com/stargazing/skywatching-kit/celestron-inspire-100az-telescope-best-price-of-the-year-in-this-early-black-friday-deal-2025)
-- [Cash App debuts a new AI assistant that answers questions about your finances](https://techcrunch.com/2025/11/13/cash-app-debuts-a-new-ai-assistant-that-answers-questions-about-your-finances/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
