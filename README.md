@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jack Dorsey funds diVine, a Vine reboot that includes Vine’s video archive](https://techcrunch.com/2025/11/12/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive/)
 - [‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake](https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/)
 - [Mario and Peach go planet-hopping in 1st trailer for &#39;The Super Mario Galaxy Movie&#39; &lpar;video&rpar;](https://www.space.com/entertainment/mario-and-peach-go-planet-hopping-in-1st-trailer-for-the-super-mario-galaxy-movie-video)
 - [Scientists solve the mystery of &#39;impossible&#39; merger of &#39;forbidden&#39; black holes](https://www.space.com/astronomy/black-holes/scientists-solve-the-mystery-of-impossible-merger-of-forbidden-black-holes)
 - [Cybersecurity firm Deepwatch lays off dozens, citing move to ‘accelerate’ AI investment](https://techcrunch.com/2025/11/12/cybersecurity-firm-deepwatch-lays-off-dozens-citing-move-to-accelerate-ai-investment/)
-- [ElevenLabs strike deals with celebs to create AI audio](https://techcrunch.com/2025/11/12/elevenlabs-strike-deals-with-celebs-to-create-ai-audio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
