@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Newsletter platform beehiiv adds AI website building, creator tools in major expansion](https://techcrunch.com/2025/11/13/newsletter-platform-beehiiv-adds-ai-website-building-creator-tools-in-major-expansion/)
+- [After 5 months, the $1,200 bottles of Besties All-In tequila are finally starting to ship](https://techcrunch.com/2025/11/13/after-5-months-the-1200-bottles-of-besties-all-in-tequila-are-finally-starting-to-ship/)
 - [In defense of Apple’s $230 iPhone sock](https://techcrunch.com/2025/11/13/in-defense-of-apples-230-iphone-sock/)
 - [Apple halves commissions for mini app makers](https://techcrunch.com/2025/11/13/apple-halves-commissions-for-mini-app-makers/)
 - [Police take down three cybercrime operations in latest round of ‘whack-a-mole’](https://techcrunch.com/2025/11/13/police-take-down-three-cybercrime-operations-in-latest-round-of-whack-a-mole/)
-- [The 10 companies that just launched from Betaworks latest startup camp](https://techcrunch.com/2025/11/13/the-10-companies-that-just-launched-from-betaworks-latest-startup-camp/)
-- [Tesla might finally bring CarPlay to its EVs](https://techcrunch.com/2025/11/13/tesla-might-finally-bring-carplay-to-its-evs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
