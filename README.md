@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cash App debuts a new AI assistant that answers questions about your finances](https://techcrunch.com/2025/11/13/cash-app-debuts-a-new-ai-assistant-that-answers-questions-about-your-finances/)
+- [Scientists find a surprising twist in Earth&#39;s magnetic field](https://www.space.com/astronomy/earth/scientists-find-a-surprising-twist-in-earths-magnetic-field)
 - [Willow’s voice keyboard lets you type across all your iOS apps — and actually edit what you said](https://techcrunch.com/2025/11/12/willows-voice-keyboard-lets-you-type-across-all-your-ios-apps-and-actually-edit-what-you-said/)
 - [Kering-backed fund Mirova pours $30.5M into India’s Varaha for regenerative farming](https://techcrunch.com/2025/11/12/kering-backed-fund-mirova-pours-30-5m-into-indias-varaha-for-regenerative-farming-push/)
 - [Jack Dorsey funds diVine, a Vine reboot that includes Vine’s video archive](https://techcrunch.com/2025/11/12/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive/)
-- [‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake](https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/)
-- [Mario and Peach go planet-hopping in 1st trailer for &#39;The Super Mario Galaxy Movie&#39; &lpar;video&rpar;](https://www.space.com/entertainment/mario-and-peach-go-planet-hopping-in-1st-trailer-for-the-super-mario-galaxy-movie-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
