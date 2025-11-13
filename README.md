@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s SIMA 2 agent uses Gemini to reason and act in virtual world](https://techcrunch.com/2025/11/13/googles-sima-2-agent-uses-gemini-to-reason-and-act-in-virtual-world/)
+- [LinkedIn adds AI-powered search to help users find people](https://techcrunch.com/2025/11/13/linkedin-adds-ai-powered-search-to-help-users-find-people/)
+- [US military wants to track &#39;potential threats&#39; coming from the moon](https://www.space.com/space-exploration/launches-spacecraft/us-military-wants-to-track-potential-threats-coming-from-the-moon)
+- [Sam Atlman-backed Exowatt wants to power AI data centers with billions of hot rocks](https://techcrunch.com/2025/11/13/sam-atlman-backed-exowatt-wants-to-power-ai-data-centers-with-billions-of-hot-rocks/)
 - [Teen founders raise $6M to reinvent pesticides using AI — and convince Paul Graham to join in](https://techcrunch.com/2025/11/13/teen-founders-raise-6m-to-reinvent-pesticides-using-ai-and-convince-paul-graham-to-join-in/)
-- [BioLite Dash 450 headlamp review](https://www.space.com/technology/biolite-dash-450-headlamp-review)
-- [Star Wars versus Marvel: Which Lego logo set should you buy?](https://www.space.com/technology/star-wars-vs-marvel-lego-logo-set-should-you-buy)
-- [Astrophotographer spies a spiral galaxy bursting with starbirth &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotographer-spies-a-spiral-galaxy-bursting-with-starbirth-photo)
-- [EU launches antitrust probe into how Google’s anti-spam policy affects publishers’ search rankings](https://techcrunch.com/2025/11/13/eu-launches-antitrust-probe-into-how-googles-anti-spam-policy-affects-publishers-search-rankings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
