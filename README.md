@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google augments AI shopping with conversational search, agentic checkout and an AI that calls stores for you](https://techcrunch.com/2025/11/13/google-expands-ai-shopping-with-conversational-search-agentic-checkout-and-an-ai-that-calls-stores-for-you/)
-- [Coding assistant Cursor raises $2.3bn five months after its previous round](https://techcrunch.com/2025/11/13/coding-assistant-cursor-raises-2-3bn-five-months-after-its-previous-round/)
-- [Spotify adds a new, less repetitive shuffle, plus audiobook recaps](https://techcrunch.com/2025/11/13/spotify-adds-a-new-less-repetitive-shuffle-plus-audiobook-recaps/)
-- [Europe&#39;s Ariane 6 rocket blasts off | Space photo of the day for Nov. 13, 2025](https://www.space.com/space-exploration/launches-spacecraft/europes-ariane-6-rocket-blasts-off-space-photo-of-the-day-for-nov-13-2025)
-- [Microsoft’s plan to fix its chip problem is, partly, to let OpenAI do the heavy lifting](https://techcrunch.com/2025/11/13/microsofts-plan-to-fix-its-chip-problem-is-partly-to-let-openai-do-the-heavy-lifting/)
+- [Teen founders raise $6M to reinvent pesticides using AI — and convince Paul Graham to join in](https://techcrunch.com/2025/11/13/teen-founders-raise-6m-to-reinvent-pesticides-using-ai-and-convince-paul-graham-to-join-in/)
+- [BioLite Dash 450 headlamp review](https://www.space.com/technology/biolite-dash-450-headlamp-review)
+- [Star Wars versus Marvel: Which Lego logo set should you buy?](https://www.space.com/technology/star-wars-vs-marvel-lego-logo-set-should-you-buy)
+- [Astrophotographer spies a spiral galaxy bursting with starbirth &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotographer-spies-a-spiral-galaxy-bursting-with-starbirth-photo)
+- [EU launches antitrust probe into how Google’s anti-spam policy affects publishers’ search rankings](https://techcrunch.com/2025/11/13/eu-launches-antitrust-probe-into-how-googles-anti-spam-policy-affects-publishers-search-rankings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
