@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In defense of Apple’s $230 iPhone sock](https://techcrunch.com/2025/11/13/in-defense-of-apples-230-iphone-sock/)
+- [Apple halves commissions for mini app makers](https://techcrunch.com/2025/11/13/apple-halves-commissions-for-mini-app-makers/)
+- [Police take down three cybercrime operations in latest round of ‘whack-a-mole’](https://techcrunch.com/2025/11/13/police-take-down-three-cybercrime-operations-in-latest-round-of-whack-a-mole/)
 - [The 10 companies that just launched from Betaworks latest startup camp](https://techcrunch.com/2025/11/13/the-10-companies-that-just-launched-from-betaworks-latest-startup-camp/)
 - [Tesla might finally bring CarPlay to its EVs](https://techcrunch.com/2025/11/13/tesla-might-finally-bring-carplay-to-its-evs/)
-- [Facebook Marketplace gets new collaborative and social features, Meta AI integrations](https://techcrunch.com/2025/11/13/facebook-marketplace-gets-new-collaborative-and-social-features-meta-ai-integrations/)
-- [Google’s NotebookLM adds ‘Deep Research’ tool, support for more file types](https://techcrunch.com/2025/11/13/googles-notebooklm-adds-deep-research-tool-support-for-more-file-types/)
-- [CISA warns federal agencies to patch flawed Cisco firewalls amid ‘active exploitation’ across the US government](https://techcrunch.com/2025/11/13/cisa-warns-federal-agencies-to-patch-flawed-cisco-firewalls-amid-active-exploitation-across-the-us-government/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
