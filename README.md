@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s SIMA 2 agent uses Gemini to reason and act in virtual world](https://techcrunch.com/2025/11/13/googles-sima-2-agent-uses-gemini-to-reason-and-act-in-virtual-world/)
-- [LinkedIn adds AI-powered search to help users find people](https://techcrunch.com/2025/11/13/linkedin-adds-ai-powered-search-to-help-users-find-people/)
-- [US military wants to track &#39;potential threats&#39; coming from the moon](https://www.space.com/space-exploration/launches-spacecraft/us-military-wants-to-track-potential-threats-coming-from-the-moon)
-- [Sam Atlman-backed Exowatt wants to power AI data centers with billions of hot rocks](https://techcrunch.com/2025/11/13/sam-atlman-backed-exowatt-wants-to-power-ai-data-centers-with-billions-of-hot-rocks/)
-- [Teen founders raise $6M to reinvent pesticides using AI — and convince Paul Graham to join in](https://techcrunch.com/2025/11/13/teen-founders-raise-6m-to-reinvent-pesticides-using-ai-and-convince-paul-graham-to-join-in/)
+- [The 10 companies that just launched from Betaworks latest startup camp](https://techcrunch.com/2025/11/13/the-10-companies-that-just-launched-from-betaworks-latest-startup-camp/)
+- [Tesla might finally bring CarPlay to its EVs](https://techcrunch.com/2025/11/13/tesla-might-finally-bring-carplay-to-its-evs/)
+- [Facebook Marketplace gets new collaborative and social features, Meta AI integrations](https://techcrunch.com/2025/11/13/facebook-marketplace-gets-new-collaborative-and-social-features-meta-ai-integrations/)
+- [Google’s NotebookLM adds ‘Deep Research’ tool, support for more file types](https://techcrunch.com/2025/11/13/googles-notebooklm-adds-deep-research-tool-support-for-more-file-types/)
+- [CISA warns federal agencies to patch flawed Cisco firewalls amid ‘active exploitation’ across the US government](https://techcrunch.com/2025/11/13/cisa-warns-federal-agencies-to-patch-flawed-cisco-firewalls-amid-active-exploitation-across-the-us-government/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
