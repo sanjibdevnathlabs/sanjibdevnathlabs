@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI says it’s fixed ChatGPT’s em dash problem](https://techcrunch.com/2025/11/14/openai-says-its-fixed-chatgpts-em-dash-problem/)
+- [Five people plead guilty to helping North Koreans infiltrate US companies as ‘remote IT workers’](https://techcrunch.com/2025/11/14/five-people-plead-guilty-to-helping-north-koreans-infiltrate-us-companies-as-remote-it-workers/)
 - [Boeing has a carbon emissions problem. Startup Charm Industrial is cleaning up.](https://techcrunch.com/2025/11/14/boeing-has-a-carbon-emissions-problem-startup-charm-industrial-is-cleaning-up/)
 - [Maryland lawmakers demand answers for NASA changes at Goddard Space Flight Center](https://www.space.com/space-exploration/maryland-lawmakers-demand-answers-for-nasa-changes-at-goddard-space-flight-center)
 - [What&#39;s the deal with the deep space transmission and alien &#39;happy&#39; virus in Apple TV&#39;s &#39;Pluribus&#39;?](https://www.space.com/entertainment/space-movies-shows/whats-the-deal-with-the-deep-space-transmission-and-alien-happy-virus-in-apple-tvs-pluribus)
-- [German court rules Google must pay €572M for violating antitrust rules in price comparison sector](https://techcrunch.com/2025/11/14/german-court-rules-google-must-pay-e572m-for-violating-antitrust-rules-in-price-comparison-sector/)
-- [WhatsApp to launch third-party chat integration in Europe soon](https://techcrunch.com/2025/11/14/whatsapp-to-launch-third-party-chat-integration-in-europe-soon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
