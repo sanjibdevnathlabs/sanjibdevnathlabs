@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok users can now share tracks and more from Amazon Music](https://techcrunch.com/2025/11/14/tiktok-users-can-now-share-tracks-and-more-from-amazon-music/)
-- [NOAA satellite sees glowing auroras from orbit | Space photo of the day for Nov. 14, 2025](https://www.space.com/stargazing/noaa-satellite-sees-glowing-auroras-from-orbit-space-photo-of-the-day-for-nov-14-2025)
-- [Sun fires off 2nd-strongest flare of 2025, sparking radio blackouts across Africa](https://www.space.com/astronomy/sun/sun-fires-off-2nd-strongest-flare-of-2025-sparking-radio-blackouts-across-africa)
-- [&#39;Kitten Space Agency&#39; is the spiritual successor to &#39;Kerbal Space Program&#39;, and they have an ex-SpaceX engineer on the team &lpar;interview&rpar;](https://www.space.com/entertainment/space-games/kitten-space-agency-is-the-spiritual-successor-to-kerbal-space-program-and-they-have-an-ex-spacex-engineer-on-the-team-interview)
-- [Inside Harvey: How a first-year legal associate built one of Silicon Valley’s hottest startups](https://techcrunch.com/2025/11/14/inside-harvey-how-a-first-year-legal-associate-built-one-of-silicon-valleys-hottest-startups/)
+- [What&#39;s the deal with the deep space transmission and alien &#39;happy&#39; virus in Apple TV&#39;s &#39;Pluribus&#39;?](https://www.space.com/entertainment/space-movies-shows/whats-the-deal-with-the-deep-space-transmission-and-alien-happy-virus-in-apple-tvs-pluribus)
+- [German court rules Google must pay €572M for violating antitrust rules in price comparison sector](https://techcrunch.com/2025/11/14/german-court-rules-google-must-pay-e572m-for-violating-antitrust-rules-in-price-comparison-sector/)
+- [WhatsApp to launch third-party chat integration in Europe soon](https://techcrunch.com/2025/11/14/whatsapp-to-launch-third-party-chat-integration-in-europe-soon/)
+- [Pine Labs gets warm market welcome on $440M India IPO despite a valuation trim](https://techcrunch.com/2025/11/14/pine-labs-gets-warm-market-welcome-on-440m-india-ipo-despite-a-valuation-trim/)
+- [Pixel 10 Pro Fold review: Google’s bet to make foldables sturdy](https://techcrunch.com/2025/11/14/pixel-10-pro-fold-review-googles-bet-to-make-foldables-sturdy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
