@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s Shenzhou 20 astronauts head home to Earth after space-debris scare](https://www.space.com/space-exploration/human-spaceflight/chinas-shenzhou-20-astronauts-head-home-to-earth-after-space-debris-scare)
 - [VCs abandon old rules for a ‘funky time’ of investing in AI startups](https://techcrunch.com/2025/11/13/vcs-abandon-old-rules-for-a-funky-time-of-investing-in-ai-startups/)
 - [5 reasons why Blue Origin&#39;s New Glenn Mars launch was a big deal](https://www.space.com/space-exploration/5-reasons-why-blue-origins-new-glenn-mars-launch-was-a-big-deal)
 - [Could alien life be found in the clouds of an exoplanet?](https://www.space.com/astronomy/exoplanets/colorful-microorganisms-might-help-identify-life-in-exoplanet-clouds)
 - [Blue Origin sticks first New Glenn rocket landing and launches NASA spacecraft](https://techcrunch.com/2025/11/13/blue-origin-sticks-first-new-glenn-rocket-landing-and-launches-nasa-spacecraft/)
-- [Build Mode starts at the beginning: How Forethought AI found product-market fit](https://techcrunch.com/2025/11/13/build-mode-starts-at-the-beginning-how-forethought-ai-found-product-market-fit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
