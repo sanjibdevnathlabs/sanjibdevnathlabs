@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Leonid meteor shower peaks next week. Here&#39;s what to expect](https://www.space.com/stargazing/meteor-showers/the-leonid-meteor-shower-peaks-next-week-heres-what-to-expect)
+- [Oura Ring 4 Ceramic review: A colorful glow-up](https://techcrunch.com/2025/11/14/oura-ring-4-ceramic-review-a-colorful-glow-up/)
 - [The solar system may be racing through space 3 times faster than expected. Is the standard model of cosmology wrong?](https://www.space.com/astronomy/solar-system/the-solar-system-may-be-racing-through-space-3-times-faster-than-expected-is-the-standard-model-of-cosmology-wrong)
 - [OpenAI says it’s fixed ChatGPT’s em dash problem](https://techcrunch.com/2025/11/14/openai-says-its-fixed-chatgpts-em-dash-problem/)
 - [Five people plead guilty to helping North Koreans infiltrate US companies as ‘remote IT workers’](https://techcrunch.com/2025/11/14/five-people-plead-guilty-to-helping-north-koreans-infiltrate-us-companies-as-remote-it-workers/)
-- [Boeing has a carbon emissions problem. Startup Charm Industrial is cleaning up.](https://techcrunch.com/2025/11/14/boeing-has-a-carbon-emissions-problem-startup-charm-industrial-is-cleaning-up/)
-- [Maryland lawmakers demand answers for NASA changes at Goddard Space Flight Center](https://www.space.com/space-exploration/maryland-lawmakers-demand-answers-for-nasa-changes-at-goddard-space-flight-center)
 <!-- BLOG-POST-LIST:END -->
 
 ---
