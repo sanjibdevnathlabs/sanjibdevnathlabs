@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Databricks co-founder argues US must go open source to beat China in AI](https://techcrunch.com/2025/11/14/databricks-co-founder-argues-us-must-go-open-source-to-beat-china-in-ai/)
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/11/14/tech-layoffs-2025-list/)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/11/14/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [China&#39;s Shenzhou 21 astronauts are stranded aboard the Tiangong space station — for now](https://www.space.com/space-exploration/human-spaceflight/chinas-shenzhou-21-astronauts-are-stranded-aboard-the-tiangong-space-station-for-now)
 - [Tesla releases detailed safety report after Waymo co-CEO called for more data](https://techcrunch.com/2025/11/14/tesla-releases-detailed-safety-report-after-waymo-co-ceo-called-for-more-data/)
-- [The Leonid meteor shower peaks next week. Here&#39;s what to expect](https://www.space.com/stargazing/meteor-showers/the-leonid-meteor-shower-peaks-next-week-heres-what-to-expect)
-- [Oura Ring 4 Ceramic review: A colorful glow-up](https://techcrunch.com/2025/11/14/oura-ring-4-ceramic-review-a-colorful-glow-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
