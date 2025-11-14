@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok users can now share tracks and more from Amazon Music](https://techcrunch.com/2025/11/14/tiktok-users-can-now-share-tracks-and-more-from-amazon-music/)
 - [NOAA satellite sees glowing auroras from orbit | Space photo of the day for Nov. 14, 2025](https://www.space.com/stargazing/noaa-satellite-sees-glowing-auroras-from-orbit-space-photo-of-the-day-for-nov-14-2025)
 - [Sun fires off 2nd-strongest flare of 2025, sparking radio blackouts across Africa](https://www.space.com/astronomy/sun/sun-fires-off-2nd-strongest-flare-of-2025-sparking-radio-blackouts-across-africa)
 - [&#39;Kitten Space Agency&#39; is the spiritual successor to &#39;Kerbal Space Program&#39;, and they have an ex-SpaceX engineer on the team &lpar;interview&rpar;](https://www.space.com/entertainment/space-games/kitten-space-agency-is-the-spiritual-successor-to-kerbal-space-program-and-they-have-an-ex-spacex-engineer-on-the-team-interview)
 - [Inside Harvey: How a first-year legal associate built one of Silicon Valley’s hottest startups](https://techcrunch.com/2025/11/14/inside-harvey-how-a-first-year-legal-associate-built-one-of-silicon-valleys-hottest-startups/)
-- [Next stop, not Mars: What&#39;s ahead for NASA&#39;s newly launched ESCAPADE Red Planet probes](https://www.space.com/astronomy/mars/next-stop-not-mars-whats-ahead-for-nasas-newly-launched-escapade-red-planet-probes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
