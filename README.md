@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing has a carbon emissions problem. Startup Charm Industrial is cleaning up.](https://techcrunch.com/2025/11/14/boeing-has-a-carbon-emissions-problem-startup-charm-industrial-is-cleaning-up/)
+- [Maryland lawmakers demand answers for NASA changes at Goddard Space Flight Center](https://www.space.com/space-exploration/maryland-lawmakers-demand-answers-for-nasa-changes-at-goddard-space-flight-center)
 - [What&#39;s the deal with the deep space transmission and alien &#39;happy&#39; virus in Apple TV&#39;s &#39;Pluribus&#39;?](https://www.space.com/entertainment/space-movies-shows/whats-the-deal-with-the-deep-space-transmission-and-alien-happy-virus-in-apple-tvs-pluribus)
 - [German court rules Google must pay €572M for violating antitrust rules in price comparison sector](https://techcrunch.com/2025/11/14/german-court-rules-google-must-pay-e572m-for-violating-antitrust-rules-in-price-comparison-sector/)
 - [WhatsApp to launch third-party chat integration in Europe soon](https://techcrunch.com/2025/11/14/whatsapp-to-launch-third-party-chat-integration-in-europe-soon/)
-- [Pine Labs gets warm market welcome on $440M India IPO despite a valuation trim](https://techcrunch.com/2025/11/14/pine-labs-gets-warm-market-welcome-on-440m-india-ipo-despite-a-valuation-trim/)
-- [Pixel 10 Pro Fold review: Google’s bet to make foldables sturdy](https://techcrunch.com/2025/11/14/pixel-10-pro-fold-review-googles-bet-to-make-foldables-sturdy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
