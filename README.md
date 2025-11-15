@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space.com headlines crossword quiz for week of Nov. 10, 2025: Which hit show on Hulu was just renewed for season 2?](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-nov-10-2025-which-hit-show-on-hulu-was-just-renewed-for-season-2)
+- [This Week In Space podcast: Episode 186 — Snow on the Moon?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-186-snow-on-the-moon)
 - [How spacefaring nations could avoid conflict on the moon](https://www.space.com/astronomy/moon/how-spacefaring-nations-could-avoid-conflict-on-the-moon)
 - [Watch Blue Origin&#39;s huge New Glenn rocket ace its epic landing on a ship at sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-blue-origins-huge-new-glenn-rocket-ace-its-epic-landing-on-a-ship-at-sea-video)
 - [SpaceX launches 2 rockets less than 4 hours apart from Florida&#39;s Space Coast](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2-rockets-less-than-4-hours-apart-from-floridas-space-coast)
-- [Leaked documents shed light into how much OpenAI pays Microsoft](https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/)
-- [Databricks co-founder argues US must go open source to beat China in AI](https://techcrunch.com/2025/11/14/databricks-co-founder-argues-us-must-go-open-source-to-beat-china-in-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
