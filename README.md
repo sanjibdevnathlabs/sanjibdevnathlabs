@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Leaked documents shed light into how much OpenAI pays Microsoft](https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/)
-- [Databricks co-founder argues US must go open source to beat China in AI](https://techcrunch.com/2025/11/14/databricks-co-founder-argues-us-must-go-open-source-to-beat-china-in-ai/)
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/11/14/tech-layoffs-2025-list/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/11/14/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [Tesla releases detailed safety report after Waymo co-CEO called for more data](https://techcrunch.com/2025/11/14/tesla-releases-detailed-safety-report-after-waymo-co-ceo-called-for-more-data/)
+- [Disney and YouTube TV reach deal to end blackout](https://techcrunch.com/2025/11/15/disney-and-youtube-tv-reach-deal-to-end-blackout/)
+- [Expert advice for new stargazers: How to begin your amateur astronomy journey](https://www.space.com/stargazing/expert-advice-for-new-stargazers-how-to-begin-your-amateur-astronomy-journey)
+- [Space.com headlines crossword quiz for week of Nov. 10, 2025: Which hit show on Hulu was just renewed for season 2?](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-nov-10-2025-which-hit-show-on-hulu-was-just-renewed-for-season-2)
+- [This Week In Space podcast: Episode 186 — Snow on the Moon?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-186-snow-on-the-moon)
+- [How spacefaring nations could avoid conflict on the moon](https://www.space.com/astronomy/moon/how-spacefaring-nations-could-avoid-conflict-on-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
