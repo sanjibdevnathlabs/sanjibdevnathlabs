@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch interstellar comet 3I/ATLAS speed away from the sun in free telescope livestream on Nov. 16](https://www.space.com/stargazing/watch-interstellar-comet-3iatlas-speed-away-from-the-sun-in-free-telescope-livestream-nov-16-2025)
 - [JPMorgan doesn’t want to pay Frank founder Charlie Javice’s legal bills](https://techcrunch.com/2025/11/15/jpmorgan-doesnt-want-to-pay-frank-founder-charlie-javices-legal-bills/)
 - [Jury says Apple owes Masimo $634M for patent infringement](https://techcrunch.com/2025/11/15/jury-says-apple-owes-masimo-634m-for-patent-infringement/)
 - [Disney and YouTube TV reach deal to end blackout](https://techcrunch.com/2025/11/15/disney-and-youtube-tv-reach-deal-to-end-blackout/)
 - [Expert advice for new stargazers: How to begin your amateur astronomy journey](https://www.space.com/stargazing/expert-advice-for-new-stargazers-how-to-begin-your-amateur-astronomy-journey)
-- [Space.com headlines crossword quiz for week of Nov. 10, 2025: Which hit show on Hulu was just renewed for season 2?](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-nov-10-2025-which-hit-show-on-hulu-was-just-renewed-for-season-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
