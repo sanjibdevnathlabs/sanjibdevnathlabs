@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the famous winged horse Pegasus fly in the autumn night sky](https://www.space.com/stargazing/see-the-famous-winged-horse-pegasus-fly-in-the-autumn-night-sky)
 - [With more moon missions on the horizon, avoiding crowding and collisions will be a growing challenge](https://www.space.com/astronomy/moon/with-more-moon-missions-on-the-horizon-avoiding-crowding-and-collisions-will-be-a-growing-challenge)
 - [Watch interstellar comet 3I/ATLAS speed away from the sun in free telescope livestream on Nov. 16](https://www.space.com/stargazing/watch-interstellar-comet-3iatlas-speed-away-from-the-sun-in-free-telescope-livestream-nov-16-2025)
 - [JPMorgan doesn’t want to pay Frank founder Charlie Javice’s legal bills](https://techcrunch.com/2025/11/15/jpmorgan-doesnt-want-to-pay-frank-founder-charlie-javices-legal-bills/)
 - [Jury says Apple owes Masimo $634M for patent infringement](https://techcrunch.com/2025/11/15/jury-says-apple-owes-masimo-634m-for-patent-infringement/)
-- [Disney and YouTube TV reach deal to end blackout](https://techcrunch.com/2025/11/15/disney-and-youtube-tv-reach-deal-to-end-blackout/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
