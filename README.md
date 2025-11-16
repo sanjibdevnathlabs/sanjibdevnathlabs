@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon satellite network gets a rebrand — and drops its affordability pitch](https://techcrunch.com/2025/11/16/amazon-satellite-network-gets-a-rebrand-and-drops-its-affordability-pitch/)
 - [TechCrunch Mobility: The robotaxi expansion that really matters](https://techcrunch.com/2025/11/16/techcrunch-mobility-the-robotaxi-expansion-that-really-matters/)
 - [How much of the AI data center boom will be powered by renewable energy?](https://techcrunch.com/2025/11/16/how-much-of-the-ai-data-center-boom-will-be-powered-by-renewable-energy/)
 - [The Leonid meteor shower peaks tonight: Here&#39;s where to look for &#39;shooting stars&#39;](https://www.space.com/stargazing/meteor-showers/leonid-meteor-shower-peaks-tonight-where-to-look-for-shooting-stars-nov-16-17-2025)
 - [Watch SpaceX launch powerful ocean-mapping satellite for Europe and NASA early Nov. 17](https://www.space.com/space-exploration/launches-spacecraft/spacex-sentinel-6b-sea-level-monitoring-satellite-launch)
-- [See the famous winged horse Pegasus fly in the autumn night sky](https://www.space.com/stargazing/see-the-famous-winged-horse-pegasus-fly-in-the-autumn-night-sky)
 <!-- BLOG-POST-LIST:END -->
 
 ---
