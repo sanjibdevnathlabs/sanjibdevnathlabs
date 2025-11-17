@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Luminal raises $5.3 million to build a better GPU code framework](https://techcrunch.com/2025/11/17/luminal-raises-5-3-million-to-build-a-better-gpu-code-framework/)
+- [MCP AI agent security startup Runlayer launches with 8 unicorns, $11M from Khosla’s Keith Rabois and Felicis](https://techcrunch.com/2025/11/17/mcp-ai-agent-security-startup-runlayer-launches-with-8-unicorns-11m-from-khoslas-keith-rabois-and-felicis/)
+- [Astrophotographer spies an ancient supernova remnant shining in the wing of a cosmic swan &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/astrophotographer-spies-ancient-supernova-remnant-shining-in-the-wing-of-a-cosmic-swan-photo-nov-2025)
 - [Surveillance tech provider Protei was hacked, its data stolen and its website defaced](https://techcrunch.com/2025/11/17/surveillance-tech-provider-protei-was-hacked-its-data-stolen-and-its-website-defaced/)
 - [Bone AI raises $12M to challenge Asia’s defense giants with AI-powered robotics](https://techcrunch.com/2025/11/17/bone-ai-raises-funding-to-challenge-asias-defense-giants-with-next-gen-ai-powered-robotics/)
-- [Satellite captures destructive power of Hurricane Melissa | Space photo of the day for Nov. 17, 2025](https://www.space.com/astronomy/earth/satellite-captures-destructive-power-of-hurricane-melissa-space-photo-of-the-day-for-nov-17-2025)
-- [Sakana AI raises $135M Series B at a $2.65B valuation to continue building AI models for Japan](https://techcrunch.com/2025/11/17/sakana-ai-raises-135m-series-b-at-a-2-65b-valuation-to-continue-building-ai-models-for-japan/)
-- [How the sun threatens your nuts: Inside the $100 million solar storm peanut problem](https://www.space.com/astronomy/sun/how-the-sun-threatens-your-nuts-inside-the-usd100-million-solar-storm-peanut-problem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
