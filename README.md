@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FAA lifts ban on daytime rocket launches after government shutdown ends](https://www.space.com/space-exploration/launches-spacecraft/faa-lifts-ban-on-daytime-rocket-launches-after-government-shutdown-ends)
+- [SpaceX Starship timeline delays astronaut moon landing for NASA&#39;s Artemis 3 mission to 2028: Report](https://www.space.com/space-exploration/spacex-starship-timeline-delays-astronaut-moon-landing-for-nasas-artemis-3-mission-to-2028-report)
+- [Ramp hits $32B valuation, just three months after hitting $22.5B](https://techcrunch.com/2025/11/17/ramp-hits-32b-valuation-just-three-months-after-hitting-22-5b/)
 - [&#39;Invasion&#39; showrunner Simon Kinberg on Season 3&#39;s cliffhanger finale and high hopes for Season 4 &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/invasion-showrunner-simon-kinberg-on-season-3s-cliffhanger-finale-and-high-hopes-for-season-4-exclusive)
 - [Cisco acquires translation startup EzDubs](https://techcrunch.com/2025/11/17/cisco-acquires-translation-startup-ezdubs/)
-- [Luminar is fighting with its biggest customer as bankruptcy threat looms](https://techcrunch.com/2025/11/17/luminar-is-fighting-with-its-biggest-customer-as-bankruptcy-threat-looms/)
-- [Sequoia-backed fintech Aspora will let Indian diaspora pay bills back home](https://techcrunch.com/2025/11/17/sequoia-backed-fintech-aspora-will-let-indian-diaspora-pay-bills-back-home/)
-- [Google rolls out its AI ‘Flight Deals’ tool globally, adds new travel features in Search](https://techcrunch.com/2025/11/17/google-rolls-out-its-ai-flight-deals-tool-globally-adds-new-travel-features-in-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
