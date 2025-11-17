@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sakana AI raises $135M Series B at a $2.65B valuation to continue building AI models for Japan](https://techcrunch.com/2025/11/17/sakana-ai-raises-135m-series-b-at-a-2-65b-valuation-to-continue-building-ai-models-for-japan/)
 - [How the sun threatens your nuts: Inside the $100 million solar storm peanut problem](https://www.space.com/astronomy/sun/how-the-sun-threatens-your-nuts-inside-the-usd100-million-solar-storm-peanut-problem)
 - [Danish startup FlatPay joins the club of European fintech unicorns to track](https://techcrunch.com/2025/11/16/fast-growing-danish-startup-flatpay-joins-the-club-of-european-fintech-unicorns-to-track/)
 - [Beloved SF cat’s death fuels Waymo criticism](https://techcrunch.com/2025/11/16/beloved-sf-cats-death-fuels-waymo-criticism/)
 - [‘Buy Now, Pay Later’ is expanding fast, and that should worry everyone](https://techcrunch.com/2025/11/16/bnpl-is-expanding-fast-and-that-should-worry-everyone/)
-- [Are we nearing the end of Apple’s Tim Cook era?](https://techcrunch.com/2025/11/16/are-we-nearing-the-end-of-apples-tim-cook-era/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
