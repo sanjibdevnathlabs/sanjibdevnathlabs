@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerLattice attracts investment from ex-Intel CEO Pat Gelsinger for its power saving chiplet](https://techcrunch.com/2025/11/17/powerlattice-attracts-investment-from-ex-intel-ceo-pat-gelsinger-for-its-power-saving-chiplet/)
+- [Advent Calendar versus Gingerbread AT-AT: Which new Lego Star Wars set should you get for Christmas 2025?](https://www.space.com/technology/advent-calendar-versus-gingerbread-at-at-which-new-lego-star-wars-set-should-you-get-for-christmas-2025)
+- [Is an aurora cruise worth it? I joined Hurtigruten&#39;s Signature Voyage to find out](https://www.space.com/stargazing/auroras/is-an-aurora-cruise-worth-it-i-joined-hurtigrutens-signature-voyage-to-find-out)
+- [Jeff Bezos reportedly returns to the trenches as co-CEO of new AI startup, Project Prometheus](https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/)
 - [Luminal raises $5.3 million to build a better GPU code framework](https://techcrunch.com/2025/11/17/luminal-raises-5-3-million-to-build-a-better-gpu-code-framework/)
-- [MCP AI agent security startup Runlayer launches with 8 unicorns, $11M from Khosla’s Keith Rabois and Felicis](https://techcrunch.com/2025/11/17/mcp-ai-agent-security-startup-runlayer-launches-with-8-unicorns-11m-from-khoslas-keith-rabois-and-felicis/)
-- [Astrophotographer spies an ancient supernova remnant shining in the wing of a cosmic swan &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/astrophotographer-spies-ancient-supernova-remnant-shining-in-the-wing-of-a-cosmic-swan-photo-nov-2025)
-- [Surveillance tech provider Protei was hacked, its data stolen and its website defaced](https://techcrunch.com/2025/11/17/surveillance-tech-provider-protei-was-hacked-its-data-stolen-and-its-website-defaced/)
-- [Bone AI raises $12M to challenge Asia’s defense giants with AI-powered robotics](https://techcrunch.com/2025/11/17/bone-ai-raises-funding-to-challenge-asias-defense-giants-with-next-gen-ai-powered-robotics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
