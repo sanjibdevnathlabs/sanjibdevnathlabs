@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [6 HOURS of Dark Web research in 30 MINUTES](https://www.youtube.com/shorts/WQveY48yM7U)
 - [Dark Web Expert gave me his AI Tool](https://www.youtube.com/watch?v=_KzObeom88Y)
 - [Can AI fix the economy?](https://www.youtube.com/watch?v=rLmRoJQNHT8)
 - [LIVE DevOps Career Workshop](https://www.youtube.com/watch?v=bpJNVKyDOaI)
 - [The gaming console wars just got weird...](https://www.youtube.com/watch?v=Q8QdKRbC1O0)
-- [The Problem with A.I. Slop! - Computerphile](https://www.youtube.com/watch?v=vrTrOCQZoQE)
 <!-- YOUTUBE:END -->
 
 ---
