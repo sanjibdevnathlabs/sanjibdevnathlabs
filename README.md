@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars spacecraft images pinpoint comet 3I/ATLAS&#39;s path with 10x higher accuracy. This could help us protect Earth someday](https://www.space.com/astronomy/comets/mars-spacecraft-images-pinpoint-comet-3i-atlass-path-with-10x-higher-accuracy-this-could-help-us-protect-earth-someday)
+- [DoorDash confirms data breach impacting users’ phone numbers and physical addresses](https://techcrunch.com/2025/11/17/doordash-confirms-data-breach-impacting-users-phone-numbers-and-physical-addresses/)
 - [PowerLattice attracts investment from ex-Intel CEO Pat Gelsinger for its power saving chiplet](https://techcrunch.com/2025/11/17/powerlattice-attracts-investment-from-ex-intel-ceo-pat-gelsinger-for-its-power-saving-chiplet/)
 - [Advent Calendar versus Gingerbread AT-AT: Which new Lego Star Wars set should you get for Christmas 2025?](https://www.space.com/technology/advent-calendar-versus-gingerbread-at-at-which-new-lego-star-wars-set-should-you-get-for-christmas-2025)
 - [Is an aurora cruise worth it? I joined Hurtigruten&#39;s Signature Voyage to find out](https://www.space.com/stargazing/auroras/is-an-aurora-cruise-worth-it-i-joined-hurtigrutens-signature-voyage-to-find-out)
-- [Jeff Bezos reportedly returns to the trenches as co-CEO of new AI startup, Project Prometheus](https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/)
-- [Luminal raises $5.3 million to build a better GPU code framework](https://techcrunch.com/2025/11/17/luminal-raises-5-3-million-to-build-a-better-gpu-code-framework/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
