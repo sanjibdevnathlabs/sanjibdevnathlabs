@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Superheated&#39; stellar factory in the early cosmos is producing stars 180 times faster than the Milky Way](https://www.space.com/astronomy/superheated-stellar-factory-in-the-early-cosmos-is-producing-stars-180-times-faster-than-the-milky-way)
 - [&#39;Star Wars Battlefront&#39; at 10: How DICE&#39;s reboot captured the feel of &#39;Star Wars&#39; like no other game before or since](https://www.space.com/entertainment/space-games/star-wars-battlefront-at-10-how-dices-reboot-captured-the-feel-of-star-wars-like-no-other-game-before-or-since)
 - [Orbiting satellite uses AI to reorient itself in &#39;major step towards full autonomy in space&#39;](https://www.space.com/space-exploration/satellites/orbiting-satellite-uses-ai-to-reorient-itself-in-major-step-towards-full-autonomy-in-space)
 - [Meta releases a new tool to protect reels creators from having their work stolen](https://techcrunch.com/2025/11/17/meta-releases-a-new-tool-to-protect-reels-creators-from-having-their-work-stolen/)
 - [Ford turns to Amazon to give used cars sales a boost](https://techcrunch.com/2025/11/17/ford-turns-to-amazon-to-give-used-cars-sales-a-boost/)
-- [FAA lifts ban on daytime rocket launches after government shutdown ends](https://www.space.com/space-exploration/launches-spacecraft/faa-lifts-ban-on-daytime-rocket-launches-after-government-shutdown-ends)
 <!-- BLOG-POST-LIST:END -->
 
 ---
