@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Luminar is fighting with its biggest customer as bankruptcy threat looms](https://techcrunch.com/2025/11/17/luminar-is-fighting-with-its-biggest-customer-as-bankruptcy-threat-looms/)
+- [Sequoia-backed fintech Aspora will let Indian diaspora pay bills back home](https://techcrunch.com/2025/11/17/sequoia-backed-fintech-aspora-will-let-indian-diaspora-pay-bills-back-home/)
 - [Google rolls out its AI ‘Flight Deals’ tool globally, adds new travel features in Search](https://techcrunch.com/2025/11/17/google-rolls-out-its-ai-flight-deals-tool-globally-adds-new-travel-features-in-search/)
 - [Chinese astronauts to get replacement spacecraft after debris strike leaves them without a ride home](https://www.space.com/space-exploration/launches-spacecraft/chinese-astronauts-to-get-replacement-spacecraft-after-debris-strike-leaves-them-without-a-ride-home)
 - [Mars spacecraft images pinpoint comet 3I/ATLAS&#39;s path with 10x higher accuracy. This could help us protect Earth someday](https://www.space.com/astronomy/comets/mars-spacecraft-images-pinpoint-comet-3i-atlass-path-with-10x-higher-accuracy-this-could-help-us-protect-earth-someday)
-- [DoorDash confirms data breach impacting users’ phone numbers and physical addresses](https://techcrunch.com/2025/11/17/doordash-confirms-data-breach-impacting-users-phone-numbers-and-physical-addresses/)
-- [PowerLattice attracts investment from ex-Intel CEO Pat Gelsinger for its power-saving chiplet](https://techcrunch.com/2025/11/17/powerlattice-attracts-investment-from-ex-intel-ceo-pat-gelsinger-for-its-power-saving-chiplet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
