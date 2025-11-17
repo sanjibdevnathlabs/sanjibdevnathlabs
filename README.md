@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Can AI fix the economy?](https://www.youtube.com/watch?v=rLmRoJQNHT8)
 - [LIVE DevOps Career Workshop](https://www.youtube.com/watch?v=bpJNVKyDOaI)
 - [The gaming console wars just got weird...](https://www.youtube.com/watch?v=Q8QdKRbC1O0)
 - [The Problem with A.I. Slop! - Computerphile](https://www.youtube.com/watch?v=vrTrOCQZoQE)
 - [MLOps Explained - What It Is, Why You Need It and How It Works](https://www.youtube.com/watch?v=biqYkVf-a7Y)
-- [This neural interface writes code from my brain waves…](https://www.youtube.com/watch?v=4bQ2qhfJUjA)
 <!-- YOUTUBE:END -->
 
 ---
