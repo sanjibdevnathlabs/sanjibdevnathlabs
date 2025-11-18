@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt](https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/)
 - [a16z-backed super PAC is targeting Alex Bores, sponsor of New York’s AI safety bill — he says bring it on](https://techcrunch.com/2025/11/17/a16z-backed-super-pac-is-targeting-alex-bores-sponsor-of-new-yorks-ai-safety-bill-he-says-bring-it-on/)
 - [&#39;Superheated&#39; stellar factory in the early cosmos is producing stars 180 times faster than the Milky Way](https://www.space.com/astronomy/superheated-stellar-factory-in-the-early-cosmos-is-producing-stars-180-times-faster-than-the-milky-way)
 - [&#39;Star Wars Battlefront&#39; at 10: How DICE&#39;s reboot captured the feel of &#39;Star Wars&#39; like no other game before or since](https://www.space.com/entertainment/space-games/star-wars-battlefront-at-10-how-dices-reboot-captured-the-feel-of-star-wars-like-no-other-game-before-or-since)
 - [Orbiting satellite uses AI to reorient itself in &#39;major step towards full autonomy in space&#39;](https://www.space.com/space-exploration/satellites/orbiting-satellite-uses-ai-to-reorient-itself-in-major-step-towards-full-autonomy-in-space)
-- [Meta releases a new tool to protect reels creators from having their work stolen](https://techcrunch.com/2025/11/17/meta-releases-a-new-tool-to-protect-reels-creators-from-having-their-work-stolen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
