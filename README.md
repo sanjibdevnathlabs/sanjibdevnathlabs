@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Poe’s AI app now supports group chats across AI models](https://techcrunch.com/2025/11/18/poes-ai-app-now-supports-group-chats-across-ai-models/)
+- [‘Our funds are 20 years old’: limited partners confront VCs’ liquidity crisis](https://techcrunch.com/2025/11/18/our-funds-are-20-years-old-a-look-inside-the-liquidity-crisis-reshaping-venture-capital/)
+- [a16z leads $21M Series A into AI-native tax compliance software Sphere](https://techcrunch.com/2025/11/18/a16z-leads-21m-series-a-into-tax-compliance-platform-sphere/)
+- [Huge red giant star has newfound companion — and it may be a bad neighbor](https://www.space.com/astronomy/stars/huge-red-giant-star-has-newfound-companion-and-it-may-be-a-bad-neighbor)
 - [Hank Green’s Focus Friend is Google Play’s app of the year](https://techcrunch.com/2025/11/18/hank-greens-focus-friend-is-google-plays-app-of-the-year/)
-- [Google launches Gemini 3 with new coding app and record benchmark scores](https://techcrunch.com/2025/11/18/google-launches-gemini-3-with-new-coding-app-and-record-benchmark-scores/)
-- [Will Europe&#39;s flagship space science missions survive NASA&#39;s budget cuts?](https://www.space.com/space-exploration/european-space-mission-threatened-by-nasa-budget-cuts)
-- [Snapchat rolls out ‘Topic Chats’ for public conversations](https://techcrunch.com/2025/11/18/snapchat-rolls-out-topic-chats-for-public-conversations/)
-- [Physics Wallah enjoys a rosy IPO day, bucking the broader slowdown in Indian edtech](https://techcrunch.com/2025/11/18/physics-wallah-enjoys-a-rosy-ipo-day-bucking-the-broader-slowdown-in-indian-edtech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
