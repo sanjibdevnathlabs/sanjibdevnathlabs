@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best UCS Lego Star Wars sets ranked](https://www.space.com/entertainment/space-toys-lego/the-best-ucs-lego-star-wars-sets-ranked)
+- [Galaxy quest: A galaxy-themed trivia quiz](https://www.space.com/astronomy/galaxies/galaxy-quest-a-galaxy-themed-trivia-quiz)
 - [Agentio secures $40 million from Forerunner as it scales its creator marketplace beyond YouTube](https://techcrunch.com/2025/11/18/agentio-secures-40-million-from-forerunner-as-it-scales-its-creator-marketplace-beyond-youtube/)
 - [Boop’s new app turns social recommendations into bookable itineraries](https://techcrunch.com/2025/11/18/boops-new-app-turns-social-recommendations-into-bookable-itineraries/)
 - [Stack Overflow is remaking itself into an AI data provider](https://techcrunch.com/2025/11/18/stack-overflow-is-remaking-itself-into-an-ai-data-provider/)
-- [Zoox to begin offering robotaxi rides to public in San Francisco](https://techcrunch.com/2025/11/18/zoox-to-begin-offering-robotaxi-rides-to-public-in-san-francisco/)
-- [Zap Energy ramps up the pressure in its latest fusion device](https://techcrunch.com/2025/11/18/zap-energy-ramps-up-the-pressure-in-its-latest-fusion-device/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
