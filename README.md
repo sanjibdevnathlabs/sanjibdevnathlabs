@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta wins antitrust trial as judge denies that it’s a monopoly](https://techcrunch.com/2025/11/18/meta-wins-antitrust-trial-as-judge-denies-that-its-a-monopoly/)
+- [Do the cores of dead stars exist forever?](https://www.space.com/astronomy/stars/do-the-cores-of-dead-stars-exist-forever)
+- [Monarch Tractor sued over tractors that were ‘unable to operate autonomously’](https://techcrunch.com/2025/11/18/monarch-tractor-sued-over-tractors-that-were-unable-to-operate-autonomously/)
 - [Toyota keeps betting on hybrid vehicles in the US](https://techcrunch.com/2025/11/18/toyota-keeps-betting-on-hybrid-vehicles-in-the-us/)
 - [Poe’s AI app now supports group chats across AI models](https://techcrunch.com/2025/11/18/poes-ai-app-now-supports-group-chats-across-ai-models/)
-- [‘Our funds are 20 years old’: limited partners confront VCs’ liquidity crisis](https://techcrunch.com/2025/11/18/our-funds-are-20-years-old-a-look-inside-the-liquidity-crisis-reshaping-venture-capital/)
-- [a16z leads $21M Series A into AI-native tax compliance software Sphere](https://techcrunch.com/2025/11/18/a16z-leads-21m-series-a-into-tax-compliance-platform-sphere/)
-- [Huge red giant star has newfound companion — and it may be a bad neighbor](https://www.space.com/astronomy/stars/huge-red-giant-star-has-newfound-companion-and-it-may-be-a-bad-neighbor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
