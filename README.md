@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Walk through the asteroid strike that killed the dinosaurs with American Museum of Natural History&#39;s new &#39;Impact&#39; exhibit](https://www.space.com/astronomy/asteroids/walk-through-the-asteroid-strike-that-killed-the-dinosaurs-with-american-museum-of-natural-historys-new-impact-exhibit)
+- [Hugging Face CEO says we’re in an ‘LLM bubble,’ not an AI bubble](https://techcrunch.com/2025/11/18/hugging-face-ceo-says-were-in-an-llm-bubble-not-an-ai-bubble/)
+- [Ryan Gosling and &#39;Rocky&#39; team up to save the galaxy in new &#39;Project Hail Mary&#39; trailer &lpar;video&rpar;](https://www.space.com/entertainment/ryan-gosling-and-rocky-save-life-on-earth-in-new-project-hail-mary-trailer-video)
 - [The James Webb Space Telescope may have finally found the 1st stars in the universe](https://www.space.com/astronomy/the-james-webb-space-telescope-may-have-finally-found-the-1st-stars-in-the-universe)
 - [AI data center provider Lambda raises whopping $1.5B after multibillion-dollar Microsoft deal](https://techcrunch.com/2025/11/18/ai-data-center-provider-lambda-raises-whopping-1-5b-after-multibillion-dollar-microsoft-deal/)
-- [Meta wins antitrust trial as judge denies that it’s a monopoly](https://techcrunch.com/2025/11/18/meta-wins-antitrust-trial-as-judge-denies-that-its-a-monopoly/)
-- [Do the cores of dead stars exist forever?](https://www.space.com/astronomy/stars/do-the-cores-of-dead-stars-exist-forever)
-- [Monarch Tractor sued over tractors that were ‘unable to operate autonomously’](https://techcrunch.com/2025/11/18/monarch-tractor-sued-over-tractors-that-were-unable-to-operate-autonomously/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
