@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The best UCS Lego Star Wars sets ranked](https://www.space.com/entertainment/space-toys-lego/the-best-ucs-lego-star-wars-sets-ranked)
-- [Galaxy quest: A galaxy-themed trivia quiz](https://www.space.com/astronomy/galaxies/galaxy-quest-a-galaxy-themed-trivia-quiz)
-- [Agentio secures $40 million from Forerunner as it scales its creator marketplace beyond YouTube](https://techcrunch.com/2025/11/18/agentio-secures-40-million-from-forerunner-as-it-scales-its-creator-marketplace-beyond-youtube/)
-- [Boop’s new app turns social recommendations into bookable itineraries](https://techcrunch.com/2025/11/18/boops-new-app-turns-social-recommendations-into-bookable-itineraries/)
-- [Stack Overflow is remaking itself into an AI data provider](https://techcrunch.com/2025/11/18/stack-overflow-is-remaking-itself-into-an-ai-data-provider/)
+- [Hank Green’s Focus Friend is Google Play’s app of the year](https://techcrunch.com/2025/11/18/hank-greens-focus-friend-is-google-plays-app-of-the-year/)
+- [Google launches Gemini 3 with new coding app and record benchmark scores](https://techcrunch.com/2025/11/18/google-launches-gemini-3-with-new-coding-app-and-record-benchmark-scores/)
+- [Will Europe&#39;s flagship space science missions survive NASA&#39;s budget cuts?](https://www.space.com/space-exploration/european-space-mission-threatened-by-nasa-budget-cuts)
+- [Snapchat rolls out ‘Topic Chats’ for public conversations](https://techcrunch.com/2025/11/18/snapchat-rolls-out-topic-chats-for-public-conversations/)
+- [Physics Wallah enjoys a rosy IPO day, bucking the broader slowdown in Indian edtech](https://techcrunch.com/2025/11/18/physics-wallah-enjoys-a-rosy-ipo-day-bucking-the-broader-slowdown-in-indian-edtech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
