@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intuit signs $100M+ deal with OpenAI to bring its apps to ChatGPT](https://techcrunch.com/2025/11/18/intuit-signs-100m-deal-with-openai-to-bring-its-apps-to-chatgpt/)
+- [As our black hole images get more detailed, we may find Einstein wasn&#39;t quite right about them](https://www.space.com/astronomy/black-holes/as-our-black-hole-images-get-more-detailed-we-may-find-einstein-wasnt-quite-right-about-them)
 - [Roblox will require all users to perform age-checks to access chat from January](https://techcrunch.com/2025/11/18/roblox-will-require-all-users-to-perform-age-checks-to-access-chat-from-january/)
 - [Databricks reportedly in talks to raise funding at a $130B+ valuation](https://techcrunch.com/2025/11/18/databricks-reportedly-in-talks-to-raise-funding-at-a-130b-valuation/)
 - [NASA will unveil new images of interstellar comet 3I/ATLAS on Nov. 19. Here&#39;s how to watch live](https://www.space.com/stargazing/nasa-will-unveil-new-images-of-interstellar-comet-3i-atlas-on-nov-19-heres-how-to-watch-live)
-- [Mastodon CEO steps down as the social network restructures](https://techcrunch.com/2025/11/18/mastodon-ceo-steps-down-as-the-social-network-restructures/)
-- [As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt](https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
