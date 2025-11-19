@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Onepot AI raises $13M to help make chemical drug creation easier](https://techcrunch.com/2025/11/19/onepot-ai-raises-13m-to-help-make-chemical-drug-creation-easier/)
-- [Comet C/2025 K1 &lpar;ATLAS&rpar; breaks apart in incredible telescope photos](https://www.space.com/stargazing/comet-c-2025-k1-atlas-breaks-apart-in-incredible-telescope-photos)
-- [Target joins OpenAI’s growing list of retail apps](https://techcrunch.com/2025/11/19/target-joins-openais-growing-list-of-retail-apps/)
-- [The Epstein files have claimed their first OpenAI victim: board member Larry Summers](https://techcrunch.com/2025/11/19/the-epstein-files-have-claimed-their-first-openai-victim-board-member-larry-summers/)
-- [Private mission to save NASA space telescope will launch in 2026 on a rocket dropped from a plane](https://www.space.com/space-exploration/missions/katalyst-space-technologies-swift-observatory-rescue-mission-pegasus-rocket)
+- [Google Maps adds Gemini-powered tips section, EV charger availability predictions, and more](https://techcrunch.com/2025/11/19/google-maps-adds-gemini-powered-tips-section-ev-charger-availability-predictions-and-more/)
+- [Pilot captures jaw-dropping northern lights show from 36,000 feet &lpar;photos&rpar;](https://www.space.com/stargazing/auroras/pilot-captures-jaw-dropping-northern-lights-show-from-36-000-feet-photos)
+- [Adobe to buy Semrush for $1.9 billion](https://techcrunch.com/2025/11/19/adobe-to-buy-semrush-for-1-9-billion/)
+- [With upcoming ban, Meta begins to notify Australian teens that their accounts will be shut down](https://techcrunch.com/2025/11/19/with-upcoming-ban-meta-begins-to-notify-australian-teens-that-their-accounts-will-be-shut-down/)
+- [Spotify’s new features let listeners explore the people and stories behind their favorite music](https://techcrunch.com/2025/11/19/spotifys-new-features-let-listeners-explore-the-people-and-stories-behind-their-favorite-music/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
