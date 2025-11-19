@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [6 things you might have missed in the new &#39;Fallout&#39; Season 2 trailer &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/6-things-you-might-have-missed-in-the-new-fallout-season-2-trailer-video)
+- [The moon is farther from Earth tonight than it will be until 2043](https://www.space.com/stargazing/the-moon-is-farther-from-earth-tonight-than-it-will-be-until-2043)
 - [Why January Ventures is funding underrepresented AI founders](https://techcrunch.com/video/why-january-ventures-is-funding-underrepresented-ai-founders/)
 - [Subletting startup Kiki paid over $152K to settle charges after violating NYC short-term rental laws](https://techcrunch.com/2025/11/19/subletting-startup-kiki-paid-over-152k-to-settle-charges-after-violating-nyc-short-term-rental-laws/)
 - [Rocket Lab launches hypersonic test flight for US military &lpar;photo&rpar;](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-hypersonic-test-flight-for-us-military-photo)
-- [Bluesky announces moderation changes focused on better tracking, improved transparency](https://techcrunch.com/2025/11/19/bluesky-announces-moderation-changes-focused-on-better-tracking-improved-transparency/)
-- [Amazon’s Prime Video is getting AI-generated Video Recaps for some TV shows](https://techcrunch.com/2025/11/19/amazons-prime-video-is-getting-ai-generated-video-recaps-for-some-tv-shows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
