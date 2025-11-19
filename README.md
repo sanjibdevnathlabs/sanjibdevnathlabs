@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YC-backed Poly relaunches as a cloud-hosted file storage with AI search](https://techcrunch.com/2025/11/19/yc-backed-poly-relaunches-as-a-cloud-hosted-file-storage-with-ai-search/)
-- [&#39;Predator: Badlands&#39; remembers that action movies should be fun](https://www.space.com/entertainment/space-movies-shows/predator-badlands-remembers-that-action-movies-should-be-fun)
-- [Fly high with this low price on the DJI Mini 4K drone, now 21% cheaper in an early Black Friday drone deal](https://www.space.com/stargazing/skywatching-kit/dji-mini-4k-combo-black-friday-drone-deal-november-2025)
-- [Google Maps adds Gemini-powered tips section, EV charger availability predictions, and more](https://techcrunch.com/2025/11/19/google-maps-adds-gemini-powered-tips-section-ev-charger-availability-predictions-and-more/)
-- [Pilot captures jaw-dropping northern lights show from 36,000 feet &lpar;photos&rpar;](https://www.space.com/stargazing/auroras/pilot-captures-jaw-dropping-northern-lights-show-from-36-000-feet-photos)
+- [Why January Ventures is funding underrepresented AI founders](https://techcrunch.com/video/why-january-ventures-is-funding-underrepresented-ai-founders/)
+- [Subletting startup Kiki paid over $152K to settle charges after violating NYC short-term rental laws](https://techcrunch.com/2025/11/19/subletting-startup-kiki-paid-over-152k-to-settle-charges-after-violating-nyc-short-term-rental-laws/)
+- [Rocket Lab launches hypersonic test flight for US military &lpar;photo&rpar;](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-hypersonic-test-flight-for-us-military-photo)
+- [Bluesky announces moderation changes focused on better tracking, improved transparency](https://techcrunch.com/2025/11/19/bluesky-announces-moderation-changes-focused-on-better-tracking-improved-transparency/)
+- [Amazon’s Prime Video is getting AI-generated Video Recaps for some TV shows](https://techcrunch.com/2025/11/19/amazons-prime-video-is-getting-ai-generated-video-recaps-for-some-tv-shows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
