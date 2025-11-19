@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok will now give you badges for limiting your doomscrolling](https://techcrunch.com/2025/11/18/tiktok-will-now-give-you-badges-for-limiting-your-doomscrolling/)
 - [TikTok now lets you choose how much AI-generated content you want to see](https://techcrunch.com/2025/11/18/tiktok-now-lets-you-choose-how-much-ai-generated-content-you-want-to-see/)
 - [Emm raises $9M seed to create one of the world’s first ‘smart’ menstrual cups](https://techcrunch.com/2025/11/18/emm-raises-9m-seed-to-create-to-launch-one-of-the-worlds-first-smart-menstrual-cups/)
 - [The all-electric Jeep Recon is finally here](https://techcrunch.com/2025/11/18/the-all-electric-jeep-recon-is-finally-here/)
 - [SpaceX Falcon 9 rocket streaks into Florida&#39;s night sky carrying Starlink satellites to orbit &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-6-94-asog)
-- [Trump DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor](https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
