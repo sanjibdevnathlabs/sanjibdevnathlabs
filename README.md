@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [6 things you might have missed in the new &#39;Fallout&#39; Season 2 trailer &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/6-things-you-might-have-missed-in-the-new-fallout-season-2-trailer-video)
-- [The moon is farther from Earth tonight than it will be until 2043](https://www.space.com/stargazing/the-moon-is-farther-from-earth-tonight-than-it-will-be-until-2043)
-- [Why January Ventures is funding underrepresented AI founders](https://techcrunch.com/video/why-january-ventures-is-funding-underrepresented-ai-founders/)
-- [Subletting startup Kiki paid over $152K to settle charges after violating NYC short-term rental laws](https://techcrunch.com/2025/11/19/subletting-startup-kiki-paid-over-152k-to-settle-charges-after-violating-nyc-short-term-rental-laws/)
-- [Rocket Lab launches hypersonic test flight for US military &lpar;photo&rpar;](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-hypersonic-test-flight-for-us-military-photo)
+- [Spotify acquires music database WhoSampled](https://techcrunch.com/2025/11/19/spotify-acquires-music-database-whosampled/)
+- [Warner Music settles copyright lawsuit with Udio, signs deal for AI music platform](https://techcrunch.com/2025/11/19/warner-music-settles-copyright-lawsuit-with-udio-signs-deal-for-ai-music-platform/)
+- [Legally embattled AI music startup Suno raises at $2.45B valuation on $200M revenue](https://techcrunch.com/2025/11/19/legally-embattled-ai-music-startup-suno-raises-at-2-45b-valuation-on-200m-revenue/)
+- [Rising data center electricity use risks blackouts during winter storms](https://techcrunch.com/2025/11/19/rising-data-center-electricity-use-risks-blackouts-during-winter-storms/)
+- [Interstellar comet 3I/ATLAS shines in new image captured after close pass by the sun &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/-interstellar-comet-3iatlas-shines-in-new-image-captured-after-close-pass-by-the-sun-photo-nov-19-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
