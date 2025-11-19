@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YC-backed Poly relaunches as a cloud-hosted file storage with AI search](https://techcrunch.com/2025/11/19/yc-backed-poly-relaunches-as-a-cloud-hosted-file-storage-with-ai-search/)
+- [&#39;Predator: Badlands&#39; remembers that action movies should be fun](https://www.space.com/entertainment/space-movies-shows/predator-badlands-remembers-that-action-movies-should-be-fun)
+- [Fly high with this low price on the DJI Mini 4K drone, now 21% cheaper in an early Black Friday drone deal](https://www.space.com/stargazing/skywatching-kit/dji-mini-4k-combo-black-friday-drone-deal-november-2025)
 - [Google Maps adds Gemini-powered tips section, EV charger availability predictions, and more](https://techcrunch.com/2025/11/19/google-maps-adds-gemini-powered-tips-section-ev-charger-availability-predictions-and-more/)
 - [Pilot captures jaw-dropping northern lights show from 36,000 feet &lpar;photos&rpar;](https://www.space.com/stargazing/auroras/pilot-captures-jaw-dropping-northern-lights-show-from-36-000-feet-photos)
-- [Adobe to buy Semrush for $1.9 billion](https://techcrunch.com/2025/11/19/adobe-to-buy-semrush-for-1-9-billion/)
-- [With upcoming ban, Meta begins to notify Australian teens that their accounts will be shut down](https://techcrunch.com/2025/11/19/with-upcoming-ban-meta-begins-to-notify-australian-teens-that-their-accounts-will-be-shut-down/)
-- [Spotify’s new features let listeners explore the people and stories behind their favorite music](https://techcrunch.com/2025/11/19/spotifys-new-features-let-listeners-explore-the-people-and-stories-behind-their-favorite-music/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
