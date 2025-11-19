@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The all-electric Jeep Recon is finally here](https://techcrunch.com/2025/11/18/the-all-electric-jeep-recon-is-finally-here/)
+- [SpaceX Falcon 9 rocket streaks into Florida&#39;s night sky carrying Starlink satellites to orbit &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-6-94-asog)
 - [Trump DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor](https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/)
 - [European tech gets political](https://techcrunch.com/2025/11/18/european-tech-gets-political/)
 - [The Euclid space telescope observed 1.2 million galaxies in just 1 year. Here&#39;s what we&#39;ve learned](https://www.space.com/astronomy/the-euclid-space-telescope-observed-1-2-million-galaxies-in-just-1-year-heres-what-weve-learned)
-- [Tesla receives ride-hailing permit in Arizona in last required step to launch robotaxi service](https://techcrunch.com/2025/11/18/tesla-receives-ride-hailing-permit-in-arizona-in-last-required-step-to-launch-robotaxi-service/)
-- [Walk through the asteroid strike that killed the dinosaurs with American Museum of Natural History&#39;s new &#39;Impact&#39; exhibit](https://www.space.com/astronomy/asteroids/walk-through-the-asteroid-strike-that-killed-the-dinosaurs-with-american-museum-of-natural-historys-new-impact-exhibit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
