@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Security startup Guardio nabs $80M from ION Crossover Partners](https://techcrunch.com/2025/11/19/security-startup-guardio-nabs-80m-from-ion-crossover-partners/)
 - [Credit risk automation platform Kaaj raises $3.8M seed from Kindred Ventures](https://techcrunch.com/2025/11/19/credit-risk-automation-platform-kaaj-raises-3-8m-seed-from-kindred-ventures/)
 - [Lasers target the Tarantula Nebula with &#39;artificial stars&#39; | Space photo of the day for Nov. 19, 2025](https://www.space.com/astronomy/lasers-target-the-tarantula-nebula-with-artificial-stars-space-photo-of-the-day-for-nov-19-2025)
 - [As Lovable hits $200M ARR, its CEO credits staying in Europe for its success](https://techcrunch.com/2025/11/19/as-lovable-hits-200m-arr-its-ceo-credits-staying-in-europe-for-its-success/)
 - [Scientists just discovered a new crater on the moon — they call it a &#39;freckle&#39;](https://www.space.com/astronomy/moon/scientists-just-discovered-a-new-crater-on-the-moon-they-call-it-a-freckle)
-- [TikTok will now give you badges for limiting your doomscrolling](https://techcrunch.com/2025/11/18/tiktok-will-now-give-you-badges-for-limiting-your-doomscrolling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
