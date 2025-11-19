@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Security startup Guardio nabs $80M from ION Crossover Partners](https://techcrunch.com/2025/11/19/security-startup-guardio-nabs-80m-from-ion-crossover-partners/)
-- [Credit risk automation platform Kaaj raises $3.8M seed from Kindred Ventures](https://techcrunch.com/2025/11/19/credit-risk-automation-platform-kaaj-raises-3-8m-seed-from-kindred-ventures/)
-- [Lasers target the Tarantula Nebula with &#39;artificial stars&#39; | Space photo of the day for Nov. 19, 2025](https://www.space.com/astronomy/lasers-target-the-tarantula-nebula-with-artificial-stars-space-photo-of-the-day-for-nov-19-2025)
-- [As Lovable hits $200M ARR, its CEO credits staying in Europe for its success](https://techcrunch.com/2025/11/19/as-lovable-hits-200m-arr-its-ceo-credits-staying-in-europe-for-its-success/)
-- [Scientists just discovered a new crater on the moon — they call it a &#39;freckle&#39;](https://www.space.com/astronomy/moon/scientists-just-discovered-a-new-crater-on-the-moon-they-call-it-a-freckle)
+- [Onepot AI raises $13M to help make chemical drug creation easier](https://techcrunch.com/2025/11/19/onepot-ai-raises-13m-to-help-make-chemical-drug-creation-easier/)
+- [Comet C/2025 K1 &lpar;ATLAS&rpar; breaks apart in incredible telescope photos](https://www.space.com/stargazing/comet-c-2025-k1-atlas-breaks-apart-in-incredible-telescope-photos)
+- [Target joins OpenAI’s growing list of retail apps](https://techcrunch.com/2025/11/19/target-joins-openais-growing-list-of-retail-apps/)
+- [The Epstein files have claimed their first OpenAI victim: board member Larry Summers](https://techcrunch.com/2025/11/19/the-epstein-files-have-claimed-their-first-openai-victim-board-member-larry-summers/)
+- [Private mission to save NASA space telescope will launch in 2026 on a rocket dropped from a plane](https://www.space.com/space-exploration/missions/katalyst-space-technologies-swift-observatory-rescue-mission-pegasus-rocket)
 <!-- BLOG-POST-LIST:END -->
 
 ---
