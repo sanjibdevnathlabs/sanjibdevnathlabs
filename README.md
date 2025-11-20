@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google steps up AI scam protection in India, but gaps remain](https://techcrunch.com/2025/11/20/google-steps-up-ai-scam-protection-in-india-but-gaps-remain/)
 - [Joby Aviation makes ‘corporate espionage’ claims in lawsuit against rival Archer](https://techcrunch.com/2025/11/20/joby-aviation-makes-corporate-espionage-claims-in-lawsuit-against-rival-archer/)
 - [WhatsApp gets its own Instagram Notes-like feature](https://techcrunch.com/2025/11/20/whatsapp-gets-its-own-instagram-notes-like-feature/)
 - [James Webb Space Telescope spots rapidly feeding supermassive black hole in the infant universe: &#39;This discovery is truly remarkable.&#39;](https://www.space.com/astronomy/black-holes/james-webb-space-telescope-spots-rapidly-feeding-supermassive-black-hole-in-the-infant-universe-this-discovery-is-truly-remarkable)
 - [Source: Kalshi’s valuation jumps to $11B after raising massive $1B round](https://techcrunch.com/2025/11/20/source-kalshis-valuation-jumps-to-11b-after-raising-massive-1b-round/)
-- [Jeff Bezos&#39; Blue Origin will build a &#39;super heavy&#39; version of its powerful New Glenn rocket](https://www.space.com/space-exploration/launches-spacecraft/jeff-bezos-blue-origin-will-build-a-super-heavy-version-of-its-powerful-new-glenn-rocket)
 <!-- BLOG-POST-LIST:END -->
 
 ---
