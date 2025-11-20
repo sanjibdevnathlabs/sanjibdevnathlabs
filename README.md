@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch SpaceX launch more than 100 satellites to orbit today on Transporter 15 rideshare mission](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-more-than-100-satellites-to-orbit-today-on-transporter-15-rideshare-mission)
-- [Rubin Observatory peers into the &#39;hidden universe&#39; and discovers stream of stars longer than our entire Milky Way](https://www.space.com/astronomy/rubin-observatory-peers-into-the-hidden-universe-and-discovers-stream-of-stars-longer-than-our-entire-milky-way)
-- [Sortera is turning America’s scrap aluminum problem into cash](https://techcrunch.com/2025/11/20/sortera-is-turning-americas-scrap-aluminum-problem-into-cash/)
-- [Finland’s NestAI lands €100M, partners with Nokia to build AI for defense applications](https://techcrunch.com/2025/11/20/finlands-nestai-lands-e100m-partners-with-nokia-to-build-ai-for-defense-applications/)
-- [ISS astronauts see comet Lemmon &#39;absorbed&#39; by aurora | Space photo of the day for Nov. 20, 2025](https://www.space.com/space-exploration/international-space-station/iss-astronauts-see-comet-lemmon-absorbed-by-aurora-space-photo-of-the-day-for-nov-20-2025)
+- [Another fire breaks out at aluminum plant that supplies Ford](https://techcrunch.com/2025/11/20/another-fire-breaks-out-at-aluminum-plant-that-supplies-ford/)
+- [Google releases Nano Banana Pro, its latest image generation model](https://techcrunch.com/2025/11/20/google-releases-nano-banana-pro-its-latest-image-generation-model/)
+- [As its voice dectation app takes off, Wispr secures $25M from Notable Capital](https://techcrunch.com/2025/11/20/as-its-voice-dectation-app-takes-off-wispr-secures-25m-from-notable-capital/)
+- [Nikon Monarch M7 8x42 binocular review](https://www.space.com/stargazing/skywatching-kit/nikon-monarch-m7-8x42-binocular-review)
+- [Waymo enters 3 more cities: Minneapolis, New Orleans and Tampa](https://techcrunch.com/2025/11/20/waymo-enters-3-more-cities-minneapolis-new-orleans-and-tampa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
