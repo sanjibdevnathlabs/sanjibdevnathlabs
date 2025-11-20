@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope spots rapidly feeding supermassive black hole in the infant universe: &#39;This discovery is truly remarkable.&#39;](https://www.space.com/astronomy/black-holes/james-webb-space-telescope-spots-rapidly-feeding-supermassive-black-hole-in-the-infant-universe-this-discovery-is-truly-remarkable)
+- [Source: Kalshi’s valuation jumps to $11B after raising massive $1B round](https://techcrunch.com/2025/11/20/source-kalshis-valuation-jumps-to-11b-after-raising-massive-1b-round/)
+- [Jeff Bezos&#39; Blue Origin will build a &#39;super heavy&#39; version of its powerful New Glenn rocket](https://www.space.com/space-exploration/launches-spacecraft/jeff-bezos-blue-origin-will-build-a-super-heavy-version-of-its-powerful-new-glenn-rocket)
 - [Salesforce says some of its customers’ data was accessed after Gainsight breach](https://techcrunch.com/2025/11/20/salesforce-says-some-of-its-customers-data-was-accessed-after-gainsight-breach/)
 - [ChatGPT launches group chats globally](https://techcrunch.com/2025/11/20/chatgpt-launches-group-chats-globally/)
-- [Earth and Theia smashed to birth the moon, but did they first start out as close neighbors?](https://www.space.com/astronomy/earth-and-theia-collided-to-birth-the-moon-but-did-they-first-start-out-as-close-neighbors)
-- [Why these founders ditched social ads for Taylor Swift concerts and prison tablets](https://techcrunch.com/2025/11/20/why-these-founders-ditched-social-ads-for-taylor-swift-concerts-and-prison-tablets/)
-- [Mixup is a new, Mad Libs-style app for creating AI images from photos, text, and doodles](https://techcrunch.com/2025/11/20/mixup-is-a-new-mad-libs-style-app-for-creating-ai-images-from-photos-text-and-doodles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
