@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spot Uranus shining at its brightest this year — here&#39;s what to expect on Nov. 21](https://www.space.com/stargazing/spot-uranus-shining-at-its-brightest-this-year-what-to-expect-nov-21-2025)
+- [Spotify’s latest feature lets you transfer playlists from other services](https://techcrunch.com/2025/11/20/spotifys-latest-feature-lets-you-transfer-playlists-from-other-services/)
+- [India’s TCS gets TPG to fund half of $2B AI data center project](https://techcrunch.com/2025/11/20/indias-tcs-gets-tpg-to-fund-half-of-2b-ai-data-center-project/)
 - [Another fire breaks out at aluminum plant that supplies Ford](https://techcrunch.com/2025/11/20/another-fire-breaks-out-at-aluminum-plant-that-supplies-ford/)
 - [Google releases Nano Banana Pro, its latest image generation model](https://techcrunch.com/2025/11/20/google-releases-nano-banana-pro-its-latest-image-generation-model/)
-- [As its voice dectation app takes off, Wispr secures $25M from Notable Capital](https://techcrunch.com/2025/11/20/as-its-voice-dectation-app-takes-off-wispr-secures-25m-from-notable-capital/)
-- [Nikon Monarch M7 8x42 binocular review](https://www.space.com/stargazing/skywatching-kit/nikon-monarch-m7-8x42-binocular-review)
-- [Waymo enters 3 more cities: Minneapolis, New Orleans and Tampa](https://techcrunch.com/2025/11/20/waymo-enters-3-more-cities-minneapolis-new-orleans-and-tampa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
