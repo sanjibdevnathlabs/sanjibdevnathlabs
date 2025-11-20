@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blue Origin reveals a super-heavy variant of its New Glenn rocket that is taller than a Saturn V](https://techcrunch.com/2025/11/20/blue-origin-reveals-a-super-heavy-variant-of-its-new-glenn-rocket-that-is-taller-than-a-saturn-v/)
-- [Letterboxd to launch new movie rental feature in December](https://techcrunch.com/2025/11/20/letterboxd-to-launch-new-movie-rental-feature-in-december/)
-- [Gemini starts rolling out to Android Auto globally](https://techcrunch.com/2025/11/20/gemini-starts-rolling-out-to-android-auto-globally/)
-- [The best guide to spotting AI writing comes from Wikipedia](https://techcrunch.com/2025/11/20/the-best-guide-to-spotting-ai-writing-comes-from-wikipedia/)
-- [After SEC investigation, Curastory founder resigns, hires replacement](https://techcrunch.com/2025/11/20/after-sec-investigation-curastory-founder-resigns-hires-replacement/)
+- [Perplexity brings its AI browser Comet to Android](https://techcrunch.com/2025/11/20/perplexity-brings-its-ai-browser-comet-to-android/)
+- [Android’s Quick Share now works with iPhone’s AirDrop, starting with the Pixel 10 lineup](https://techcrunch.com/2025/11/20/androids-quick-share-now-works-with-iphones-airdrop-starting-with-the-pixel-10-lineup/)
+- [This Khosla-based startup can track drones, trucks, and robotaxis, inch by inch](https://techcrunch.com/2025/11/20/this-khosla-based-startup-can-track-drones-trucks-and-robotaxis-inch-by-inch/)
+- [The marketing guru who helped turn Khosla Ventures into an AI powerhouse is moving on](https://techcrunch.com/2025/11/20/the-marketing-guru-who-helped-turn-khosla-ventures-into-an-ai-powerhouse-is-moving-on/)
+- [AI helps build the most detailed Milky Way simulation ever, mapping 100 billion stars](https://www.space.com/astronomy/ai-helps-build-the-most-detailed-milky-way-simulation-ever-mapping-100-billion-stars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
