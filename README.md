@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch more than 100 satellites to orbit today on Transporter 15 rideshare mission](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-more-than-100-satellites-to-orbit-today-on-transporter-15-rideshare-mission)
+- [Rubin Observatory peers into the &#39;hidden universe&#39; and discovers stream of stars longer than our entire Milky Way](https://www.space.com/astronomy/rubin-observatory-peers-into-the-hidden-universe-and-discovers-stream-of-stars-longer-than-our-entire-milky-way)
 - [Sortera is turning America’s scrap aluminum problem into cash](https://techcrunch.com/2025/11/20/sortera-is-turning-americas-scrap-aluminum-problem-into-cash/)
 - [Finland’s NestAI lands €100M, partners with Nokia to build AI for defense applications](https://techcrunch.com/2025/11/20/finlands-nestai-lands-e100m-partners-with-nokia-to-build-ai-for-defense-applications/)
 - [ISS astronauts see comet Lemmon &#39;absorbed&#39; by aurora | Space photo of the day for Nov. 20, 2025](https://www.space.com/space-exploration/international-space-station/iss-astronauts-see-comet-lemmon-absorbed-by-aurora-space-photo-of-the-day-for-nov-20-2025)
-- [Experience instant stargazing with one of the most versatile smart telescopes this Black Friday, with $1149 off](https://www.space.com/stargazing/skywatching-kit/experience-instant-stargazing-with-one-of-the-most-versatile-smart-telescopes-this-black-friday-with-1149-dollars-off)
-- [Amazon says &#39;indeed&#39; to a new &#39;Stargate&#39; show for Prime Video](https://www.space.com/entertainment/space-movies-shows/amazon-says-indeed-to-a-new-stargate-show-for-prime-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
