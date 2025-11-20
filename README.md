@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT launches group chats globally](https://techcrunch.com/2025/11/20/chatgpt-launches-group-chats-globally/)
+- [Why these founders ditched social ads for Taylor Swift concerts and prison tablets](https://techcrunch.com/2025/11/20/why-these-founders-ditched-social-ads-for-taylor-swift-concerts-and-prison-tablets/)
+- [Mixup is a new, Mad Libs-style app for creating AI images from photos, text and doodles](https://techcrunch.com/2025/11/20/mixup-is-a-new-mad-libs-style-app-for-creating-ai-images-from-photos-text-and-doodles/)
 - [Perplexity brings its AI browser Comet to Android](https://techcrunch.com/2025/11/20/perplexity-brings-its-ai-browser-comet-to-android/)
 - [Android’s Quick Share now works with iPhone’s AirDrop, starting with the Pixel 10 lineup](https://techcrunch.com/2025/11/20/androids-quick-share-now-works-with-iphones-airdrop-starting-with-the-pixel-10-lineup/)
-- [This Khosla-based startup can track drones, trucks, and robotaxis, inch by inch](https://techcrunch.com/2025/11/20/this-khosla-based-startup-can-track-drones-trucks-and-robotaxis-inch-by-inch/)
-- [The marketing guru who helped turn Khosla Ventures into an AI powerhouse is moving on](https://techcrunch.com/2025/11/20/the-marketing-guru-who-helped-turn-khosla-ventures-into-an-ai-powerhouse-is-moving-on/)
-- [AI helps build the most detailed Milky Way simulation ever, mapping 100 billion stars](https://www.space.com/astronomy/ai-helps-build-the-most-detailed-milky-way-simulation-ever-mapping-100-billion-stars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
