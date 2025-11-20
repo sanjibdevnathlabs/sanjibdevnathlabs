@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope captures &#39;one-of-a-kind&#39; triple star system that looks like a cosmic embryo &lpar;image&rpar;](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-captures-one-of-a-kind-triple-star-system-that-looks-like-a-cosmic-embryo-image)
+- [Stream Pluribus and other great sci-fi content as Apple TV is over 50% off for 6 months in one of the best Black Friday Streaming deals available](https://www.space.com/entertainment/stream-pluribus-and-other-sci-fi-content-as-apple-tv-is-over-50-percent-off-for-6-months-best-black-friday-streaming-deals)
 - [Monarch Tractor preps for layoffs and warns employees it may ‘shut down’](https://techcrunch.com/2025/11/19/monarch-tractor-preps-for-layoffs-and-warns-employees-it-may-shut-down/)
 - [NASA reveals new images of interstellar comet 3I/ATLAS from across the solar system: &#39;It looks and behaves like a comet&#39;](https://www.space.com/astronomy/comets/nasa-reveals-new-images-of-interstellar-comet-3i-atlas-from-across-the-solar-system-it-looks-and-behaves-like-a-comet)
 - [Senate to hold hearing for billionaire Jared Isaacman&#39;s re-nomination as NASA chief on Dec. 3](https://www.space.com/space-exploration/senate-to-hold-hearing-for-billionaire-jared-isaacmans-re-nomination-as-nasa-chief-on-dec-3)
-- [Nvidia’s record $57B revenue and upbeat forecast quiets AI bubble talk](https://techcrunch.com/2025/11/19/nvidias-record-57b-revenue-and-upbeat-forecast-quiets-ai-bubble-talk/)
-- [How the classic anime ‘Ghost in the Shell’ predicted the future of cybersecurity 30 years ago](https://techcrunch.com/2025/11/19/how-the-classic-anime-ghost-in-the-shell-predicted-the-future-of-cybersecurity-30-years-ago/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
