@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Salesforce says some of its customers’ data was accessed after Gainsight breach](https://techcrunch.com/2025/11/20/salesforce-says-some-of-its-customers-data-was-accessed-after-gainsight-breach/)
 - [ChatGPT launches group chats globally](https://techcrunch.com/2025/11/20/chatgpt-launches-group-chats-globally/)
+- [Earth and Theia smashed to birth the moon, but did they first start out as close neighbors?](https://www.space.com/astronomy/earth-and-theia-collided-to-birth-the-moon-but-did-they-first-start-out-as-close-neighbors)
 - [Why these founders ditched social ads for Taylor Swift concerts and prison tablets](https://techcrunch.com/2025/11/20/why-these-founders-ditched-social-ads-for-taylor-swift-concerts-and-prison-tablets/)
-- [Mixup is a new, Mad Libs-style app for creating AI images from photos, text and doodles](https://techcrunch.com/2025/11/20/mixup-is-a-new-mad-libs-style-app-for-creating-ai-images-from-photos-text-and-doodles/)
-- [Perplexity brings its AI browser Comet to Android](https://techcrunch.com/2025/11/20/perplexity-brings-its-ai-browser-comet-to-android/)
-- [Android’s Quick Share now works with iPhone’s AirDrop, starting with the Pixel 10 lineup](https://techcrunch.com/2025/11/20/androids-quick-share-now-works-with-iphones-airdrop-starting-with-the-pixel-10-lineup/)
+- [Mixup is a new, Mad Libs-style app for creating AI images from photos, text, and doodles](https://techcrunch.com/2025/11/20/mixup-is-a-new-mad-libs-style-app-for-creating-ai-images-from-photos-text-and-doodles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
