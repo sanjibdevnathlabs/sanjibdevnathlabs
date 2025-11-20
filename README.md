@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Monarch Tractor preps for layoffs and warns employees it may ‘shut down’](https://techcrunch.com/2025/11/19/monarch-tractor-preps-for-layoffs-and-warns-employees-it-may-shut-down/)
 - [NASA reveals new images of interstellar comet 3I/ATLAS from across the solar system: &#39;It looks and behaves like a comet&#39;](https://www.space.com/astronomy/comets/nasa-reveals-new-images-of-interstellar-comet-3i-atlas-from-across-the-solar-system-it-looks-and-behaves-like-a-comet)
 - [Senate to hold hearing for billionaire Jared Isaacman&#39;s re-nomination as NASA chief on Dec. 3](https://www.space.com/space-exploration/senate-to-hold-hearing-for-billionaire-jared-isaacmans-re-nomination-as-nasa-chief-on-dec-3)
 - [Nvidia’s record $57B revenue and upbeat forecast quiets AI bubble talk](https://techcrunch.com/2025/11/19/nvidias-record-57b-revenue-and-upbeat-forecast-quiets-ai-bubble-talk/)
 - [How the classic anime ‘Ghost in the Shell’ predicted the future of cybersecurity 30 years ago](https://techcrunch.com/2025/11/19/how-the-classic-anime-ghost-in-the-shell-predicted-the-future-of-cybersecurity-30-years-ago/)
-- [Cavela lands $6.6M to help brands beat pre-tariff manufacturing costs](https://techcrunch.com/2025/11/19/cavela-lands-6-6m-to-help-brands-beat-pre-tariff-manufacturing-costs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
