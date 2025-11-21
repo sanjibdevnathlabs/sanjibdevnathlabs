@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The hottest AI wearables and gadgets you can buy right now](https://techcrunch.com/2025/11/21/the-hottest-ai-wearables-and-gadgets-you-can-buy-right-now/)
+- [Astronomers finally explain the strange physics of ghostly &#39;radio relics&#39; in space](https://www.space.com/astronomy/astronomers-finally-explain-the-strange-physics-of-ghostly-radio-relics-in-space)
+- [Members of Congress call on NASA inspector general to investigate Goddard Space Flight Center as agency defends campus closures: Exclusive](https://www.space.com/space-exploration/members-of-congress-call-on-nasa-inspector-general-to-investigate-goddard-space-flight-center-as-agency-defends-campus-closures-exclusive)
+- [Missing &#39;Alien: Earth&#39; already? &#39;The Thing&#39; could be the extraterrestrial horror flick you&#39;re looking for](https://www.space.com/entertainment/space-movies-shows/missing-alien-earth-already-the-thing-could-be-the-extraterrestrial-horror-flick-youre-looking-for)
 - [CrowdStrike fires ‘suspicious insider’ who passed information to hackers](https://techcrunch.com/2025/11/21/crowdstrike-fires-suspicious-insider-who-passed-information-to-hackers/)
-- [Google says hackers stole data from 200 companies following Gainsight breach](https://techcrunch.com/2025/11/21/google-says-hackers-stole-data-from-200-companies-following-gainsight-breach/)
-- [X begins rolling out the ‘About this account’ feature to users’ profiles](https://techcrunch.com/2025/11/21/x-begins-rolling-out-the-about-this-account-feature-to-users-profiles/)
-- [Impersonators are &lpar;still&rpar; targeting companies with fake TechCrunch outreach](https://techcrunch.com/2025/11/21/impersonators-are-targeting-companies-with-fake-techcrunch-outreach/)
-- [NASA astronaut shows how to &#39;weigh&#39; yourself in space | On the ISS this week Nov. 17-21, 2025](https://www.space.com/space-exploration/international-space-station/nasa-astronaut-shows-how-to-weigh-yourself-in-space-on-the-iss-this-week-nov-17-21-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
