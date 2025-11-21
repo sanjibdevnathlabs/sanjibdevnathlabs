@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Should I wait for Black Friday to get a streaming subscription?](https://www.space.com/entertainment/should-i-wait-for-black-friday-to-get-a-streaming-subscription)
+- [Grok says Elon Musk is better than basically everyone, except Shohei Ohtani](https://techcrunch.com/2025/11/20/grok-says-elon-musk-is-better-than-basically-everyone-except-shohei-ohtani/)
+- [Rocket returned, lightly used: Why Blue Origin&#39;s landed New Glenn booster is so clean](https://www.space.com/space-exploration/launches-spacecraft/rocket-returned-lightly-used-why-blue-origins-landed-new-glenn-booster-is-so-clean)
 - [Google steps up AI scam protection in India, but gaps remain](https://techcrunch.com/2025/11/20/google-steps-up-ai-scam-protection-in-india-but-gaps-remain/)
 - [Joby Aviation makes ‘corporate espionage’ claims in lawsuit against rival Archer](https://techcrunch.com/2025/11/20/joby-aviation-makes-corporate-espionage-claims-in-lawsuit-against-rival-archer/)
-- [WhatsApp gets its own Instagram Notes-like feature](https://techcrunch.com/2025/11/20/whatsapp-gets-its-own-instagram-notes-like-feature/)
-- [James Webb Space Telescope spots rapidly feeding supermassive black hole in the infant universe: &#39;This discovery is truly remarkable.&#39;](https://www.space.com/astronomy/black-holes/james-webb-space-telescope-spots-rapidly-feeding-supermassive-black-hole-in-the-infant-universe-this-discovery-is-truly-remarkable)
-- [Source: Kalshi’s valuation jumps to $11B after raising massive $1B round](https://techcrunch.com/2025/11/20/source-kalshis-valuation-jumps-to-11b-after-raising-massive-1b-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
