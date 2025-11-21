@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX&#39;s 1st &#39;Version 3&#39; Super Heavy Starship booster buckles under pressure during initial tests](https://www.space.com/space-exploration/launches-spacecraft/spacexs-1st-version-3-super-heavy-starship-booster-buckles-under-pressure-during-initial-tests)
-- [Canon 18x50 IS UD all-weather binocular review](https://www.space.com/stargazing/skywatching-kit/canon-18x50-is-ud-all-weather-binocular-review)
-- [SpaceX’s upgraded Starship suffers explosion during testing](https://techcrunch.com/2025/11/21/spacexs-upgraded-starship-suffers-explosion-during-testing/)
-- [Rocket Lab launches mystery satellite for &#39;confidential commercial customer&#39; &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-mystery-satellite-for-confidential-commercial-customer-video)
-- [Canon 10x20 IS binocular review: A compact binocular suitable for stargazing](https://www.space.com/stargazing/skywatching-kit/canon-10x20-is-binocular-review)
+- [Impersonators are &lpar;still&rpar; targeting companies with fake TechCrunch outreach](https://techcrunch.com/2025/11/21/impersonators-are-targeting-companies-with-fake-techcrunch-outreach/)
+- [NASA astronaut shows how to &#39;weigh&#39; yourself in space | On the ISS this week Nov. 17-21, 2025](https://www.space.com/space-exploration/international-space-station/nasa-astronaut-shows-how-to-weigh-yourself-in-space-on-the-iss-this-week-nov-17-21-2025)
+- [Phictly’s new app brings people together over their favorite books and TV shows](https://techcrunch.com/2025/11/21/phictlys-new-app-brings-people-together-over-their-favorite-books-and-tv-shows/)
+- [Capture the beauty of the cosmos for under $500 with this super-portable smart telescope Black Friday deal](https://www.space.com/stargazing/skywatching-kit/capture-the-beauty-of-the-night-sky-with-55-dollars-off-this-super-portable-smart-telescope)
+- [Trump Energy department drops renewables, promotes fusion in office reshuffle](https://techcrunch.com/2025/11/21/trump-energy-department-drops-renewables-promotes-fusion-in-office-reshuffle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
