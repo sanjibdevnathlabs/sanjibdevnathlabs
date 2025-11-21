@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s 1st &#39;Version 3&#39; Super Heavy Starship booster buckles under pressure during initial tests](https://www.space.com/space-exploration/launches-spacecraft/spacexs-1st-version-3-super-heavy-starship-booster-buckles-under-pressure-during-initial-tests)
+- [Canon 18x50 IS UD all-weather binocular review](https://www.space.com/stargazing/skywatching-kit/canon-18x50-is-ud-all-weather-binocular-review)
 - [SpaceX’s upgraded Starship suffers explosion during testing](https://techcrunch.com/2025/11/21/spacexs-upgraded-starship-suffers-explosion-during-testing/)
+- [Rocket Lab launches mystery satellite for &#39;confidential commercial customer&#39; &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-mystery-satellite-for-confidential-commercial-customer-video)
 - [Canon 10x20 IS binocular review: A compact binocular suitable for stargazing](https://www.space.com/stargazing/skywatching-kit/canon-10x20-is-binocular-review)
-- [How did this 20-light-year-wide &#39;Diamond Ring&#39; form in space? Maybe a cosmic bubble burst](https://www.space.com/astronomy/how-did-this-20-light-year-wide-diamond-ring-form-in-space-maybe-a-cosmic-bubble-burst)
-- [Despite Chinese hacks, Trump’s FCC votes to scrap cybersecurity rules for phone and internet companies](https://techcrunch.com/2025/11/21/despite-chinese-hacks-trumps-fcc-votes-to-scrap-cybersecurity-rules-for-phone-and-internet-companies/)
-- [Earth just got hit by a stealth solar storm no one saw coming](https://www.space.com/stargazing/auroras/earth-just-got-hit-by-a-stealth-solar-storm-no-one-saw-coming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
