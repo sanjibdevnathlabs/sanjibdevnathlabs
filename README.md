@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [“Learning for Life: How Curiosity Shapes Well-Being” with Bia Adams](https://www.youtube.com/watch?v=R33hB6mXU5o)
 - [Searching the Dark Web is HARD!! &lpar;this makes it easy&rpar;](https://www.youtube.com/shorts/LcueDIPb3vk)
 - [The entire internet just crashed... again](https://www.youtube.com/watch?v=tF_4baiIUiQ)
 - [6 HOURS of Dark Web research in 30 MINUTES](https://www.youtube.com/shorts/WQveY48yM7U)
 - [The Dark Web EXPOSED &lpar;FREE + Open-Source Tool&rpar;](https://www.youtube.com/watch?v=_KzObeom88Y)
-- [Can AI fix the economy?](https://www.youtube.com/watch?v=rLmRoJQNHT8)
 <!-- YOUTUBE:END -->
 
 ---
