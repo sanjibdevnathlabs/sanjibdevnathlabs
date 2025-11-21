@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX’s upgraded Starship suffers explosion during testing](https://techcrunch.com/2025/11/21/spacexs-upgraded-starship-suffers-explosion-during-testing/)
+- [Canon 10x20 IS binocular review: A compact binocular suitable for stargazing](https://www.space.com/stargazing/skywatching-kit/canon-10x20-is-binocular-review)
 - [How did this 20-light-year-wide &#39;Diamond Ring&#39; form in space? Maybe a cosmic bubble burst](https://www.space.com/astronomy/how-did-this-20-light-year-wide-diamond-ring-form-in-space-maybe-a-cosmic-bubble-burst)
 - [Despite Chinese hacks, Trump’s FCC votes to scrap cybersecurity rules for phone and internet companies](https://techcrunch.com/2025/11/21/despite-chinese-hacks-trumps-fcc-votes-to-scrap-cybersecurity-rules-for-phone-and-internet-companies/)
 - [Earth just got hit by a stealth solar storm no one saw coming](https://www.space.com/stargazing/auroras/earth-just-got-hit-by-a-stealth-solar-storm-no-one-saw-coming)
-- [Australia adds Twitch to teen social media ban, Pinterest exempted](https://techcrunch.com/2025/11/21/australia-adds-twitch-to-teen-social-media-ban-pinterest-exempted/)
-- [NASA’s Artemis 2 moon rocket comes together | Space photo of the day for Nov. 21, 2025](https://www.space.com/space-exploration/artemis/nasas-artemis-2-moon-rocket-comes-together-space-photo-of-the-day-for-nov-21-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
