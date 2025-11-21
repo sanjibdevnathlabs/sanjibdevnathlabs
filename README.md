@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CrowdStrike fires ‘suspicious insider’ who passed information to hackers](https://techcrunch.com/2025/11/21/crowdstrike-fires-suspicious-insider-who-passed-information-to-hackers/)
+- [Google says hackers stole data from 200 companies following Gainsight breach](https://techcrunch.com/2025/11/21/google-says-hackers-stole-data-from-200-companies-following-gainsight-breach/)
 - [X begins rolling out the ‘About this account’ feature to users’ profiles](https://techcrunch.com/2025/11/21/x-begins-rolling-out-the-about-this-account-feature-to-users-profiles/)
 - [Impersonators are &lpar;still&rpar; targeting companies with fake TechCrunch outreach](https://techcrunch.com/2025/11/21/impersonators-are-targeting-companies-with-fake-techcrunch-outreach/)
 - [NASA astronaut shows how to &#39;weigh&#39; yourself in space | On the ISS this week Nov. 17-21, 2025](https://www.space.com/space-exploration/international-space-station/nasa-astronaut-shows-how-to-weigh-yourself-in-space-on-the-iss-this-week-nov-17-21-2025)
-- [Phictly’s new app brings people together over their favorite books and TV shows](https://techcrunch.com/2025/11/21/phictlys-new-app-brings-people-together-over-their-favorite-books-and-tv-shows/)
-- [Capture the beauty of the cosmos for under $500 with this super-portable smart telescope Black Friday deal](https://www.space.com/stargazing/skywatching-kit/capture-the-beauty-of-the-night-sky-with-55-dollars-off-this-super-portable-smart-telescope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
