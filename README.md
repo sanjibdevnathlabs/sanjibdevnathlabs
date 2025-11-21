@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists get 1st good look at a &#39;vampire star&#39; feeding on its victim](https://www.space.com/astronomy/scientists-get-1st-good-look-at-a-vampire-star-feeding-on-its-victim)
 - [&#39;Like a mermaid swimming through a sea of auroras&#39;: ISS astronauts photograph 2 comets dancing above the northern lights](https://www.space.com/stargazing/auroras/like-a-mermaid-swimming-through-a-sea-of-auroras-iss-astronauts-photograph-2-comets-dancing-above-the-northern-lights)
 - [The hottest AI wearables and gadgets you can buy right now](https://techcrunch.com/2025/11/21/the-hottest-ai-wearables-and-gadgets-you-can-buy-right-now/)
 - [Astronomers finally explain the strange physics of ghostly &#39;radio relics&#39; in space](https://www.space.com/astronomy/astronomers-finally-explain-the-strange-physics-of-ghostly-radio-relics-in-space)
-- [Members of Congress call on NASA inspector general to investigate Goddard Space Flight Center as agency defends campus closures: Exclusive](https://www.space.com/space-exploration/members-of-congress-call-on-nasa-inspector-general-to-investigate-goddard-space-flight-center-as-agency-defends-campus-closures-exclusive)
-- [Missing &#39;Alien: Earth&#39; already? &#39;The Thing&#39; could be the extraterrestrial horror flick you&#39;re looking for](https://www.space.com/entertainment/space-movies-shows/missing-alien-earth-already-the-thing-could-be-the-extraterrestrial-horror-flick-youre-looking-for)
+- [Lawmakers call on NASA inspector general to investigate Goddard Space Flight Center as agency defends campus closures: Exclusive](https://www.space.com/space-exploration/members-of-congress-call-on-nasa-inspector-general-to-investigate-goddard-space-flight-center-as-agency-defends-campus-closures-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
