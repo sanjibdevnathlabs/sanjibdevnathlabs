@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The European startup market is ready for the limelight](https://techcrunch.com/2025/11/21/the-european-startup-market-is-ready-for-the-limelight/)
 - [James Webb Space Telescope spots a gassy baby galaxy throwing a tantrum in the early universe](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-spots-a-gassy-baby-galaxy-throwing-a-tantrum-in-the-early-universe)
-- [SpaceX launches the 100th mission of the year from Florida&#39;s Space Coast](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-the-100th-mission-of-the-year-from-floridas-space-coast)
+- [SpaceX launches the 100th mission of the year from Florida&#39;s Space Coast &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-the-100th-mission-of-the-year-from-floridas-space-coast)
 - [Should I wait for Black Friday to get a streaming subscription?](https://www.space.com/entertainment/should-i-wait-for-black-friday-to-get-a-streaming-subscription)
 - [Grok says Elon Musk is better than basically everyone, except Shohei Ohtani](https://techcrunch.com/2025/11/20/grok-says-elon-musk-is-better-than-basically-everyone-except-shohei-ohtani/)
-- [Rocket returned, lightly used: Why Blue Origin&#39;s landed New Glenn booster is so clean](https://www.space.com/space-exploration/launches-spacecraft/rocket-returned-lightly-used-why-blue-origins-landed-new-glenn-booster-is-so-clean)
 <!-- BLOG-POST-LIST:END -->
 
 ---
