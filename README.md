@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How did this 20-light-year-wide &#39;Diamond Ring&#39; form in space? Maybe a cosmic bubble burst](https://www.space.com/astronomy/how-did-this-20-light-year-wide-diamond-ring-form-in-space-maybe-a-cosmic-bubble-burst)
+- [Despite Chinese hacks, Trump’s FCC votes to scrap cybersecurity rules for phone and internet companies](https://techcrunch.com/2025/11/21/despite-chinese-hacks-trumps-fcc-votes-to-scrap-cybersecurity-rules-for-phone-and-internet-companies/)
+- [Earth just got hit by a stealth solar storm no one saw coming](https://www.space.com/stargazing/auroras/earth-just-got-hit-by-a-stealth-solar-storm-no-one-saw-coming)
 - [Australia adds Twitch to teen social media ban, Pinterest exempted](https://techcrunch.com/2025/11/21/australia-adds-twitch-to-teen-social-media-ban-pinterest-exempted/)
 - [NASA’s Artemis 2 moon rocket comes together | Space photo of the day for Nov. 21, 2025](https://www.space.com/space-exploration/artemis/nasas-artemis-2-moon-rocket-comes-together-space-photo-of-the-day-for-nov-21-2025)
-- [The European startup market is ready for the limelight](https://techcrunch.com/2025/11/21/the-european-startup-market-is-ready-for-the-limelight/)
-- [James Webb Space Telescope spots a gassy baby galaxy throwing a tantrum in the early universe](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-spots-a-gassy-baby-galaxy-throwing-a-tantrum-in-the-early-universe)
-- [SpaceX launches the 100th mission of the year from Florida&#39;s Space Coast &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-the-100th-mission-of-the-year-from-floridas-space-coast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
