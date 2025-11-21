@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches the 100th mission of the year from Florida&#39;s Space Coast](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-the-100th-mission-of-the-year-from-floridas-space-coast)
 - [Should I wait for Black Friday to get a streaming subscription?](https://www.space.com/entertainment/should-i-wait-for-black-friday-to-get-a-streaming-subscription)
 - [Grok says Elon Musk is better than basically everyone, except Shohei Ohtani](https://techcrunch.com/2025/11/20/grok-says-elon-musk-is-better-than-basically-everyone-except-shohei-ohtani/)
 - [Rocket returned, lightly used: Why Blue Origin&#39;s landed New Glenn booster is so clean](https://www.space.com/space-exploration/launches-spacecraft/rocket-returned-lightly-used-why-blue-origins-landed-new-glenn-booster-is-so-clean)
 - [Google steps up AI scam protection in India, but gaps remain](https://techcrunch.com/2025/11/20/google-steps-up-ai-scam-protection-in-india-but-gaps-remain/)
-- [Joby Aviation makes ‘corporate espionage’ claims in lawsuit against rival Archer](https://techcrunch.com/2025/11/20/joby-aviation-makes-corporate-espionage-claims-in-lawsuit-against-rival-archer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
