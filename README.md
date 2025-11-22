@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;We were genuinely astonished&#39;: This moss survived 9 months outside the International Space Station and could still grow on Earth](https://www.space.com/space-exploration/international-space-station/we-were-genuinely-astonished-this-moss-survived-9-months-outside-the-international-space-station-and-could-still-grow-on-earth)
 - [&#39;It was an incredible moment.&#39; Skydiver plunges across the face of the sun jaw-dropping astrophotographer photo](https://www.space.com/stargazing/astrophotography/it-was-an-incredible-moment-skydiver-plunges-across-the-face-of-the-sun-jaw-dropping-astrophotographer-photo)
 - [Canon 12x36 IS III binocular review](https://www.space.com/stargazing/skywatching-kit/canon-12x36-is-iii-binocular-review)
 - [How this founder’s unlikely path to Silicon Valley could become an edge in industrial tech](https://techcrunch.com/2025/11/21/how-this-founders-unlikely-path-to-silicon-valley-could-become-an-edge-in-industrial-tech/)
 - [Bret Taylor’s Sierra reaches $100M ARR in under two years](https://techcrunch.com/2025/11/21/bret-taylors-sierra-reaches-100m-arr-in-under-two-years/)
-- [Scientists get 1st good look at a &#39;vampire star&#39; feeding on its victim](https://www.space.com/astronomy/scientists-get-1st-good-look-at-a-vampire-star-feeding-on-its-victim)
 <!-- BLOG-POST-LIST:END -->
 
 ---
