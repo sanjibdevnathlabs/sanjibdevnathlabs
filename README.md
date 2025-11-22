@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why now is the best time to invest in climate tech](https://techcrunch.com/2025/11/22/why-now-is-the-best-time-to-invest-in-climate-tech/)
+- [Pew’s latest social media report shows X’s staying power in the U.S., despite competition](https://techcrunch.com/2025/11/22/pews-latest-social-media-report-shows-xs-staying-power-in-the-u-s-despite-competition/)
+- [This Week In Space podcast: Episode 187 — An Inspired Enterprise](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-187-an-inspired-enterprise)
 - [A &#39;rampaging lion&#39; nebula roars to life in a stunning deep-space photo](https://www.space.com/stargazing/astrophotography/a-rampaging-lion-nebula-roars-to-life-in-a-stunning-deep-space-photo)
 - [Space junk strike on China&#39;s astronaut capsule highlights need for a space rescue service, experts say](https://www.space.com/space-exploration/human-spaceflight/space-junk-strike-on-chinas-astronaut-capsule-highlights-need-for-a-space-rescue-service-experts-say)
-- [&#39;We were genuinely astonished&#39;: This moss survived 9 months outside the International Space Station and could still grow on Earth](https://www.space.com/space-exploration/international-space-station/we-were-genuinely-astonished-this-moss-survived-9-months-outside-the-international-space-station-and-could-still-grow-on-earth)
-- [&#39;It was an incredible moment.&#39; Skydiver plunges across the face of the sun jaw-dropping astrophotographer photo](https://www.space.com/stargazing/astrophotography/it-was-an-incredible-moment-skydiver-plunges-across-the-face-of-the-sun-jaw-dropping-astrophotographer-photo)
-- [Canon 12x36 IS III binocular review](https://www.space.com/stargazing/skywatching-kit/canon-12x36-is-iii-binocular-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
