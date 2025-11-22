@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [👨‍💻 3 minutes on whether AI will eat DevOps jobs](https://www.youtube.com/shorts/krG1iDQMGKA)
 - [Did Google just kill OpenAI?](https://www.youtube.com/watch?v=bsL7ZnKIAhs)
 - [Path Planning for Robotics - Computerphile](https://www.youtube.com/watch?v=LHHEOjd0z3s)
 - [“Learning for Life: How Curiosity Shapes Well-Being” with Bia Adams](https://www.youtube.com/watch?v=R33hB6mXU5o)
 - [Searching the Dark Web is HARD!! &lpar;this makes it easy&rpar;](https://www.youtube.com/shorts/LcueDIPb3vk)
-- [The entire internet just crashed... again](https://www.youtube.com/watch?v=tF_4baiIUiQ)
 <!-- YOUTUBE:END -->
 
 ---
