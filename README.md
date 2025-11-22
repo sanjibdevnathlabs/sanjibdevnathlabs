@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta wants to get into the electricity trading business](https://techcrunch.com/2025/11/22/meta-wants-to-get-into-the-electricity-trading-business/)
 - [Byju’s founder to appeal U.S. court order to pay over $1B in bankruptcy case](https://techcrunch.com/2025/11/22/byjus-founder-to-appeal-u-s-court-order-to-pay-over-1b-in-bankruptcy-case/)
 - [SpaceX launches Starlink satellites on its 150th Falcon 9 mission of the year](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-79-b1090-ccsfs-asog)
 - [Why now is the best time to invest in climate tech](https://techcrunch.com/2025/11/22/why-now-is-the-best-time-to-invest-in-climate-tech/)
 - [Pew’s latest social media report shows X’s staying power in the U.S., despite competition](https://techcrunch.com/2025/11/22/pews-latest-social-media-report-shows-xs-staying-power-in-the-u-s-despite-competition/)
-- [This Week In Space podcast: Episode 187 — An Inspired Enterprise](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-187-an-inspired-enterprise)
 <!-- BLOG-POST-LIST:END -->
 
 ---
