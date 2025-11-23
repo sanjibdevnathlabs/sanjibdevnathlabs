@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X’s new About This Account feature is going great](https://techcrunch.com/2025/11/23/xs-new-about-this-account-feature-is-going-great/)
 - [AI is too risky to insure, say people whose job is insuring risk](https://techcrunch.com/2025/11/23/ai-is-too-risky-to-insure-say-people-whose-job-is-insuring-risk/)
 - [SpaceX launches 28 Starlink satellites on new Falcon 9 rocket from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-11-30-b1100-vsfb-ocisly)
 - [TechCrunch Mobility: Searching for the robotaxi tipping point](https://techcrunch.com/2025/11/23/techcrunch-mobility-searching-for-the-robotaxi-tipping-point/)
 - [Space.com headlines crossword quiz for week of Nov. 17, 2025: What does the I in comet 3I/ATLAS stand for?](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-nov-17-2025-what-does-the-i-in-comet-3i-atlas-stand-for)
-- [Beehiiv’s CEO isn’t worried about newsletter saturation](https://techcrunch.com/2025/11/23/beehiivs-ceo-isnt-worried-about-newsletter-saturation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
