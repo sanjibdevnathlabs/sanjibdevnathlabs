@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Canon 8x20 IS binocular review](https://www.space.com/stargazing/skywatching-kit/canon-8x20-is-binocular-review)
 - [Trump administration might not fight state AI regulations after all](https://techcrunch.com/2025/11/22/trump-administration-might-not-fight-state-ai-regulations-after-all/)
 - [Waymo gets regulatory approval to expand across Bay Area and Southern California](https://techcrunch.com/2025/11/22/waymo-gets-regulatory-approval-to-expand-across-bay-area-and-southern-california/)
 - [Meta wants to get into the electricity trading business](https://techcrunch.com/2025/11/22/meta-wants-to-get-into-the-electricity-trading-business/)
 - [Byju’s founder to appeal U.S. court order to pay over $1B in bankruptcy case](https://techcrunch.com/2025/11/22/byjus-founder-to-appeal-u-s-court-order-to-pay-over-1b-in-bankruptcy-case/)
-- [SpaceX launches Starlink satellites on its 150th Falcon 9 mission of the year](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-79-b1090-ccsfs-asog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
