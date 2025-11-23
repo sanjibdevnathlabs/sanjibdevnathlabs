@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches 28 Starlink satellites on new Falcon 9 rocket from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-11-30-b1100-vsfb-ocisly)
+- [TechCrunch Mobility: Searching for the robotaxi tipping point](https://techcrunch.com/2025/11/23/techcrunch-mobility-searching-for-the-robotaxi-tipping-point/)
+- [Space.com headlines crossword quiz for week of Nov. 17, 2025: What does the I in comet 3I/ATLAS stand for?](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-nov-17-2025-what-does-the-i-in-comet-3i-atlas-stand-for)
+- [Beehiiv’s CEO isn’t worried about newsletter saturation](https://techcrunch.com/2025/11/23/beehiivs-ceo-isnt-worried-about-newsletter-saturation/)
 - [ChatGPT told them they were special — their families say it led to tragedy](https://techcrunch.com/2025/11/23/chatgpt-told-them-they-were-special-their-families-say-it-led-to-tragedy/)
-- [How a medieval Oxford friar used light and color to find out what stars and planets are made of](https://www.space.com/astronomy/how-a-medieval-oxford-friar-used-light-and-color-to-find-out-what-stars-and-planets-are-made-of)
-- [&#39;The Second World&#39; shows how humanity makes mistakes in futuristic society](https://www.space.com/entertainment/space-books/the-second-world-shows-how-humanity-makes-mistakes-in-futuristic-society)
-- [Saturn&#39;s rings will seem to disappear on Nov. 23: Here&#39;s how to catch the illusion](https://www.space.com/stargazing/saturns-rings-will-seem-to-disappear-on-nov-23-heres-how-to-catch-the-illusion)
-- [Does the universe have extra dimensions hiding in plain sight?](https://www.space.com/astronomy/does-the-universe-have-extra-dimensions-hiding-in-plain-sight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
