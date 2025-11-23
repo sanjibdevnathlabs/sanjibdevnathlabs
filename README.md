@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How a medieval Oxford friar used light and color to find out what stars and planets are made of](https://www.space.com/astronomy/how-a-medieval-oxford-friar-used-light-and-color-to-find-out-what-stars-and-planets-are-made-of)
+- [&#39;The Second World&#39; shows how humanity makes mistakes in futuristic society](https://www.space.com/entertainment/space-books/the-second-world-shows-how-humanity-makes-mistakes-in-futuristic-society)
 - [Saturn&#39;s rings will seem to disappear on Nov. 23: Here&#39;s how to catch the illusion](https://www.space.com/stargazing/saturns-rings-will-seem-to-disappear-on-nov-23-heres-how-to-catch-the-illusion)
 - [Does the universe have extra dimensions hiding in plain sight?](https://www.space.com/astronomy/does-the-universe-have-extra-dimensions-hiding-in-plain-sight)
 - [Canon 8x20 IS binocular review](https://www.space.com/stargazing/skywatching-kit/canon-8x20-is-binocular-review)
-- [Trump administration might not fight state AI regulations after all](https://techcrunch.com/2025/11/22/trump-administration-might-not-fight-state-ai-regulations-after-all/)
-- [Waymo gets regulatory approval to expand across Bay Area and Southern California](https://techcrunch.com/2025/11/22/waymo-gets-regulatory-approval-to-expand-across-bay-area-and-southern-california/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
