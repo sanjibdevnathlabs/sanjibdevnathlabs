@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Satellite sees Antarctic ice shrink to 3rd-lowest max ever | Space photo of the day for Nov. 24, 2025](https://www.space.com/astronomy/earth/satellite-sees-antarctic-ice-shrink-to-3rd-lowest-max-ever-space-photo-of-the-day-for-nov-24-2025)
-- [&#39;An absolute behemoth&#39; of a camera for astro — Nikon Z8 now the cheapest it&#39;s been since June 2025](https://www.space.com/stargazing/skywatching-kit/an-absolute-behemoth-of-a-camera-for-astro-nikon-z8-now-the-cheapest-its-been-since-june-2025)
-- [The best image stabilized binocular you can buy is now $324 cheaper for Black Friday](https://www.space.com/stargazing/skywatching-kit/the-best-image-stabilized-binocular-you-can-buy-is-now-324-dollars-cheaper-for-black-friday)
-- [Scientists want to search for life in this double star system devoid of giant exoplanets. Here&#39;s why](https://www.space.com/space-exploration/search-for-life/why-scientists-want-to-search-for-life-in-this-double-star-system-devoid-of-giant-exoplanets)
-- [Get closer to the stars with $64 off these rugged multi-purpose binoculars](https://www.space.com/stargazing/skywatching-kit/get-closer-to-the-stars-with-64-dollars-off-these-rugged-multi-purpose-binoculars)
+- [Malaysia may ban users under 16 from social media starting next year](https://techcrunch.com/2025/11/24/malaysia-may-ban-users-under-16-from-social-media-starting-next-year/)
+- [Momentic raises $15M to automate software testing](https://techcrunch.com/2025/11/24/momentic-raises-15m-to-automate-software-testing/)
+- [This startup wants to build a fusion reactor — on a boat](https://techcrunch.com/2025/11/24/this-startup-wants-to-build-a-fusion-reactor-on-a-boat/)
+- [Could satellite-beaming planes and airships make SpaceX&#39;s Starlink obsolete?](https://www.space.com/space-exploration/satellites/internet-from-stratosphere-could-replace-starlink)
+- [Revolut hits $75B valuation in new capital raise](https://techcrunch.com/2025/11/24/revolut-hits-75b-valuation-in-new-capital-raise/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
