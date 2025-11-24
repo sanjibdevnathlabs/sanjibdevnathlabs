@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rad Power Bikes’ batteries receive major fire risk warning](https://techcrunch.com/2025/11/24/rad-power-bikes-batteries-receive-major-fire-risk-warning/)
 - [Tesla FSD software may not be approved by EU regulator after all](https://techcrunch.com/2025/11/24/tesla-fsd-software-may-not-be-approved-by-eu-regulator-after-all/)
 - [China&#39;s rising influence in space prompts Senate to call for new US research institute in post-ISS era](https://www.space.com/space-exploration/chinas-rising-influence-in-space-prompts-senate-to-call-for-new-us-research-institute-in-post-iss-era)
 - [Hands on with Stickerbox, the AI-powered sticker maker for kids](https://techcrunch.com/2025/11/24/hands-on-with-stickerbox-the-ai-powered-sticker-maker-for-kids/)
 - [Evidence of ancient life on Mars could be hidden away in colossal water-carved caves](https://www.space.com/astronomy/mars/newfound-water-carved-caves-on-mars-could-hide-evidence-of-past-red-planet-life)
-- [AWS is spending $50B build AI infrastructure for the US government](https://techcrunch.com/2025/11/24/aws-is-spending-50b-build-ai-infrastructure-for-the-us-government/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
