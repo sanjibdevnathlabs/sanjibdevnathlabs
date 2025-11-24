@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These 2 moon rovers used cameras and lasers to hunt for simulated water ice — and one looks like WALL-E](https://www.space.com/astronomy/moon/these-2-moon-rovers-used-cameras-and-lasers-to-hunt-for-simulated-water-ice-and-one-looks-like-wall-e)
+- [Facebook takes on Reddit with launch of nicknames for Facebook Groups](https://techcrunch.com/2025/11/24/facebook-takes-on-reddit-with-launch-of-nicknames-for-facebook-groups/)
 - [Former MrBeast content strategist is building an AI tool for creator ideation and analytics](https://techcrunch.com/2025/11/24/former-mrbeast-content-strategist-is-building-an-ai-tool-for-creator-ideation-and-analytics/)
 - [US banks scramble to assess data theft after hackers breach financial tech firm](https://techcrunch.com/2025/11/24/us-banks-scramble-to-assess-data-theft-after-hackers-breach-financial-tech-firm/)
 - [Malaysia may ban users under 16 from social media starting next year](https://techcrunch.com/2025/11/24/malaysia-may-ban-users-under-16-from-social-media-starting-next-year/)
-- [Momentic raises $15M to automate software testing](https://techcrunch.com/2025/11/24/momentic-raises-15m-to-automate-software-testing/)
-- [This startup wants to build a fusion reactor — on a boat](https://techcrunch.com/2025/11/24/this-startup-wants-to-build-a-fusion-reactor-on-a-boat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
