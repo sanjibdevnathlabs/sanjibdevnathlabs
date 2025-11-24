@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla FSD software may not be approved by EU regulator after all](https://techcrunch.com/2025/11/24/tesla-fsd-software-may-not-be-approved-by-eu-regulator-after-all/)
+- [China&#39;s rising influence in space prompts Senate to call for new US research institute in post-ISS era](https://www.space.com/space-exploration/chinas-rising-influence-in-space-prompts-senate-to-call-for-new-us-research-institute-in-post-iss-era)
+- [Hands on with Stickerbox, the AI-powered sticker maker for kids](https://techcrunch.com/2025/11/24/hands-on-with-stickerbox-the-ai-powered-sticker-maker-for-kids/)
 - [Evidence of ancient life on Mars could be hidden away in colossal water-carved caves](https://www.space.com/astronomy/mars/newfound-water-carved-caves-on-mars-could-hide-evidence-of-past-red-planet-life)
 - [AWS is spending $50B build AI infrastructure for the US government](https://techcrunch.com/2025/11/24/aws-is-spending-50b-build-ai-infrastructure-for-the-us-government/)
-- [Anthropic releases Opus 4.5 with new Chrome and Excel integrations](https://techcrunch.com/2025/11/24/anthropic-releases-opus-4-5-with-new-chrome-and-excel-integrations/)
-- [SETI&#39;s &#39;Noah’s Ark&#39; – a space historian explores how the advent of radio astronomy led to the USSR’s search for extraterrestrial life](https://www.space.com/space-exploration/search-for-life/setis-noahs-ark-a-space-historian-explores-how-the-advent-of-radio-astronomy-led-to-the-ussrs-search-for-extraterrestrial-life)
-- [X-energy rides nuclear wave, raises $700M Series D](https://techcrunch.com/2025/11/24/x-energy-rides-nuclear-wave-raises-700m-series-d/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
