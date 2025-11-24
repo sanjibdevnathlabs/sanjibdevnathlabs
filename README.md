@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best image stabilized binocular you can buy is now $324 cheaper for Black Friday](https://www.space.com/stargazing/skywatching-kit/the-best-image-stabilized-binocular-you-can-buy-is-now-324-dollars-cheaper-for-black-friday)
 - [Scientists want to search for life in this double star system devoid of giant exoplanets. Here&#39;s why](https://www.space.com/space-exploration/search-for-life/why-scientists-want-to-search-for-life-in-this-double-star-system-devoid-of-giant-exoplanets)
 - [Get closer to the stars with $64 off these rugged multi-purpose binoculars](https://www.space.com/stargazing/skywatching-kit/get-closer-to-the-stars-with-64-dollars-off-these-rugged-multi-purpose-binoculars)
 - [Roblox CEO interview gets heated over child safety](https://techcrunch.com/2025/11/23/roblox-ceo-interview-gets-heated-over-child-safety/)
 - [X’s new About This Account feature is going great](https://techcrunch.com/2025/11/23/xs-new-about-this-account-feature-is-going-great/)
-- [AI is too risky to insure, say people whose job is insuring risk](https://techcrunch.com/2025/11/23/ai-is-too-risky-to-insure-say-people-whose-job-is-insuring-risk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
