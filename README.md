@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic releases Opus 4.5 with new Chrome and Excel integrations](https://techcrunch.com/2025/11/24/anthropic-releases-opus-4-5-with-new-chrome-and-excel-integrations/)
+- [SETI&#39;s &#39;Noah’s Ark&#39; – a space historian explores how the advent of radio astronomy led to the USSR’s search for extraterrestrial life](https://www.space.com/space-exploration/search-for-life/setis-noahs-ark-a-space-historian-explores-how-the-advent-of-radio-astronomy-led-to-the-ussrs-search-for-extraterrestrial-life)
+- [X-energy rides nuclear wave, raises $700M Series D](https://techcrunch.com/2025/11/24/x-energy-rides-nuclear-wave-raises-700m-series-d/)
 - [Watch fractured comet C/2025 K1 &lpar;ATLAS&rpar; race away from the sun in free livestream tonight](https://www.space.com/stargazing/watch-fractured-comet-c-2025-k1-atlas-race-away-from-the-sun-in-free-livestream-tonight)
 - [China to launch an empty Shenzhou 22 spacecraft to help stranded astronauts on Tiangong space station](https://www.space.com/space-exploration/launches-spacecraft/china-to-launch-an-empty-shenzhou-22-spacecraft-to-help-stranded-astronauts-on-tiangong-space-station)
-- [Take your astrophotography to new heights for less, save $165 on this powerhouse Sony mirrorless camera](https://www.space.com/stargazing/skywatching-kit/take-your-astrophotography-to-new-heights-for-less-save-165-dollars-on-this-powerhouse-sony-mirrorless-camera)
-- [DOGE days are over as Trump disbands Elon Musk’s team of federal cost-cutters](https://techcrunch.com/2025/11/24/doge-days-are-over-as-trump-disbands-elon-musks-team-of-federal-cost-cutters/)
-- [Pocket Casts now lets you create a playlist of your favorite podcast episodes](https://techcrunch.com/2025/11/24/pocket-casts-now-lets-you-create-a-playlist-of-your-favorite-podcast-episodes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
