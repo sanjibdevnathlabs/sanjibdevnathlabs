@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former MrBeast content strategist is building an AI tool for creator ideation and analytics](https://techcrunch.com/2025/11/24/former-mrbeast-content-strategist-is-building-an-ai-tool-for-creator-ideation-and-analytics/)
+- [US banks scramble to assess data theft after hackers breach financial tech firm](https://techcrunch.com/2025/11/24/us-banks-scramble-to-assess-data-theft-after-hackers-breach-financial-tech-firm/)
 - [Malaysia may ban users under 16 from social media starting next year](https://techcrunch.com/2025/11/24/malaysia-may-ban-users-under-16-from-social-media-starting-next-year/)
 - [Momentic raises $15M to automate software testing](https://techcrunch.com/2025/11/24/momentic-raises-15m-to-automate-software-testing/)
 - [This startup wants to build a fusion reactor — on a boat](https://techcrunch.com/2025/11/24/this-startup-wants-to-build-a-fusion-reactor-on-a-boat/)
-- [Could satellite-beaming planes and airships make SpaceX&#39;s Starlink obsolete?](https://www.space.com/space-exploration/satellites/internet-from-stratosphere-could-replace-starlink)
-- [Revolut hits $75B valuation in new capital raise](https://techcrunch.com/2025/11/24/revolut-hits-75b-valuation-in-new-capital-raise/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
