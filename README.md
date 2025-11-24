@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [These 2 moon rovers used cameras and lasers to hunt for simulated water ice — and one looks like WALL-E](https://www.space.com/astronomy/moon/these-2-moon-rovers-used-cameras-and-lasers-to-hunt-for-simulated-water-ice-and-one-looks-like-wall-e)
-- [Facebook takes on Reddit with launch of nicknames for Facebook Groups](https://techcrunch.com/2025/11/24/facebook-takes-on-reddit-with-launch-of-nicknames-for-facebook-groups/)
-- [Former MrBeast content strategist is building an AI tool for creator ideation and analytics](https://techcrunch.com/2025/11/24/former-mrbeast-content-strategist-is-building-an-ai-tool-for-creator-ideation-and-analytics/)
-- [US banks scramble to assess data theft after hackers breach financial tech firm](https://techcrunch.com/2025/11/24/us-banks-scramble-to-assess-data-theft-after-hackers-breach-financial-tech-firm/)
-- [Malaysia may ban users under 16 from social media starting next year](https://techcrunch.com/2025/11/24/malaysia-may-ban-users-under-16-from-social-media-starting-next-year/)
+- [China to launch an empty Shenzhou 22 spacecraft to help stranded astronauts on Tiangong space station](https://www.space.com/space-exploration/launches-spacecraft/china-to-launch-an-empty-shenzhou-22-spacecraft-to-help-stranded-astronauts-on-tiangong-space-station)
+- [Take your astrophotography to new heights for less, save $165 on this powerhouse Sony mirrorless camera](https://www.space.com/stargazing/skywatching-kit/take-your-astrophotography-to-new-heights-for-less-save-165-dollars-on-this-powerhouse-sony-mirrorless-camera)
+- [DOGE days are over as Trump disbands Elon Musk’s team of federal cost-cutters](https://techcrunch.com/2025/11/24/doge-days-are-over-as-trump-disbands-elon-musks-team-of-federal-cost-cutters/)
+- [Pocket Casts now lets you create a playlist of your favorite podcast episodes](https://techcrunch.com/2025/11/24/pocket-casts-now-lets-you-create-a-playlist-of-your-favorite-podcast-episodes/)
+- [A new AI benchmark tests whether chatbots protect human wellbeing](https://techcrunch.com/2025/11/24/a-new-ai-benchmark-tests-whether-chatbots-protect-human-wellbeing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
