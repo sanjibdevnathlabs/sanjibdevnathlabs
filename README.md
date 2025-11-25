@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Satellite space quiz: What&#39;s orbiting Earth?](https://www.space.com/space-exploration/satellites/satellite-space-quiz-whats-orbiting-earth)
-- [Northern lights may be visible in 14 states tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-14-states-tonight)
-- [I can&#39;t find it any cheaper, $450 off this Canon EOS R5 Mark II camera is my favorite Black Friday camera deal so far](https://www.space.com/stargazing/skywatching-kit/i-cant-find-it-any-cheaper-450-dollars-off-this-canon-eos-r5-mark-ii-camera-is-my-favorite-black-friday-camera-deal-so-far)
-- [New video takes you into the cockpit for 1st flight of NASA&#39;s new X-59 &#39;quiet&#39; supersonic jet](https://www.space.com/technology/new-video-takes-you-into-the-cockpit-for-1st-flight-of-nasas-new-x-59-quiet-supersonic-jet)
-- [Fly high this Black Friday with the best early drone deals we can find](https://www.space.com/stargazing/skywatching-kit/fly-high-this-black-friday-with-our-round-up-of-the-best-drone-deals)
+- [Fleet Space finds massive lithium deposit using AI and satellites](https://techcrunch.com/2025/11/25/fleet-space-finds-massive-lithium-deposit-using-ai-and-satellites/)
+- [Speechify adds voice typing and voice assistant to its Chrome extension](https://techcrunch.com/2025/11/25/speechify-adds-voice-typing-and-voice-assistant-to-its-chrome-extension/)
+- [Satellite data reveals a huge solar storm in 2024 shrank Earth&#39;s protective plasma shield](https://www.space.com/astronomy/sun/earths-protective-plasma-layer-squeezed-by-solar-storm)
+- [Stargaze for less this Thanksgiving with these beginner-friendly super-sharp Nikon binoculars, $63 off for Black Friday](https://www.space.com/stargazing/skywatching-kit/stargaze-for-less-this-thanksgiving-with-these-beginner-friendly-super-sharp-nikon-binoculars-63-dollars-off-for-black-friday)
+- [Spotify to raise US prices in first quarter of next year, report says](https://techcrunch.com/2025/11/25/spotify-to-raise-us-prices-in-first-quarter-of-next-year-report-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
