@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google teams up with Accel to hunt for India’s next AI breakouts](https://techcrunch.com/2025/11/24/google-teams-up-with-accel-to-hunt-for-indias-next-ai-breakouts/)
 - [NASA&#39;s next-gen Roman Space Telescope is surprising scientists with its capabilities. It hasn&#39;t even launched yet](https://www.space.com/space-exploration/missions/nasas-next-gen-roman-space-telescope-is-surprising-scientists-with-its-capabilities-it-hasnt-even-launched-yet)
 - [Altman describes OpenAI’s forthcoming AI device as more peaceful and calm than the iPhone](https://techcrunch.com/2025/11/24/altman-describes-openais-forthcoming-ai-device-as-more-peaceful-and-calm-than-the-iphone/)
 - [OpenAI learned the hard way that Cameo trademarked the word ‘cameo’](https://techcrunch.com/2025/11/24/openai-learned-the-hard-way-that-cameo-trademarked-the-word-cameo/)
 - [Rad Power Bikes’ batteries receive major fire risk warning](https://techcrunch.com/2025/11/24/rad-power-bikes-batteries-receive-major-fire-risk-warning/)
-- [Tesla FSD software may not be approved by EU regulator after all](https://techcrunch.com/2025/11/24/tesla-fsd-software-may-not-be-approved-by-eu-regulator-after-all/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
