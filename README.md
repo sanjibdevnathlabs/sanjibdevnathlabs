@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Satellite space quiz: What&#39;s orbiting Earth?](https://www.space.com/space-exploration/satellites/satellite-space-quiz-whats-orbiting-earth)
+- [Northern lights may be visible in 14 states tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-14-states-tonight)
+- [I can&#39;t find it any cheaper, $450 off this Canon EOS R5 Mark II camera is my favorite Black Friday camera deal so far](https://www.space.com/stargazing/skywatching-kit/i-cant-find-it-any-cheaper-450-dollars-off-this-canon-eos-r5-mark-ii-camera-is-my-favorite-black-friday-camera-deal-so-far)
+- [New video takes you into the cockpit for 1st flight of NASA&#39;s new X-59 &#39;quiet&#39; supersonic jet](https://www.space.com/technology/new-video-takes-you-into-the-cockpit-for-1st-flight-of-nasas-new-x-59-quiet-supersonic-jet)
 - [Fly high this Black Friday with the best early drone deals we can find](https://www.space.com/stargazing/skywatching-kit/fly-high-this-black-friday-with-our-round-up-of-the-best-drone-deals)
-- [Star trails over telescope in Chile | Space photo of the day for Nov. 25, 2025](https://www.space.com/astronomy/star-trails-over-telescope-in-chile-space-photo-of-the-day-for-nov-25-2025)
-- [We don&#39;t mean to drone on but this five-star DJI Mini 4K drone is 20% cheaper for Black Friday](https://www.space.com/stargazing/skywatching-kit/we-dont-mean-to-drone-on-but-this-five-star-dji-mini-4k-drone-is-20-percent-cheaper-for-black-friday)
-- [Black Friday Disney Plus deal: Save over 60% and get Disney Plus for just $4.99 a month or $90 for a year](https://www.space.com/entertainment/space-movies-shows/black-friday-disney-plus-deal-over-60-percent-off-just-4-99-dollars-a-month)
-- [Boeing&#39;s next Starliner spacecraft to fly won&#39;t carry NASA astronauts when it launches in April 2026](https://www.space.com/space-exploration/human-spaceflight/boeing-starliner-wont-carry-nasa-astronauts-next-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
