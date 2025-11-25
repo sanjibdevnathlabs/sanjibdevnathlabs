@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Character.AI will offer interactive ‘Stories’ to kids instead of open-ended chat](https://techcrunch.com/2025/11/25/character-ai-will-offer-interactive-stories-to-kids-instead-of-open-ended-chat/)
+- [Scientists may have finally &#39;seen&#39; dark matter for the 1st time](https://www.space.com/astronomy/dark-universe/scientists-may-have-finally-seen-dark-matter-for-the-1st-time)
+- [Why ‘hold forever’ investors are snapping up venture capital ‘zombies’](https://techcrunch.com/2025/11/25/why-hold-forever-investors-are-snapping-up-venture-capital-zombies/)
+- [YouTube is working on a feature that will fix the messy home feed](https://techcrunch.com/2025/11/25/youtube-is-working-on-a-feature-that-will-fix-the-messy-home-feed/)
+- [Character AI will offer interactive ‘Stories’ to kids instead of open-ended chat](https://techcrunch.com/2025/11/25/character-ai-will-offer-interactive-stories-to-kids-instead-of-open-ended-chat/)
 - [Icy moons in our solar system may have boiling oceans — but life could potentially still survive](https://www.space.com/astronomy/solar-system/icy-moons-in-our-solar-system-may-have-boiling-oceans-but-life-could-potentially-still-survive)
-- [If you&#39;re a sci-fi fan looking for a Black Friday streaming deal, then saving 70% on HBO Max as a Hulu add-on is worth getting](https://www.space.com/entertainment/space-movies-shows/-sci-fi-black-friday-streaming-deal-70-percent-off-hbo-max-as-a-hulu-add-on)
-- [ChatGPT’s voice mode is no longer a separate interface](https://techcrunch.com/2025/11/25/chatgpts-voice-mode-is-no-longer-a-separate-interface/)
-- [Stream Borderlands and other recent sci-fi hits on STARZ for just $2.99 a month when added to Hulu in this Black Friday streaming deal](https://www.space.com/entertainment/space-movies-shows/starz-72-percent-off-full-year-black-friday-deal-hulu-add-on)
 <!-- BLOG-POST-LIST:END -->
 
 ---
