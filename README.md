@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Star trails over telescope in Chile | Space photo of the day for Nov. 25, 2025](https://www.space.com/astronomy/star-trails-over-telescope-in-chile-space-photo-of-the-day-for-nov-25-2025)
 - [We don&#39;t mean to drone on but this five-star DJI Mini 4K drone is 20% cheaper for Black Friday](https://www.space.com/stargazing/skywatching-kit/we-dont-mean-to-drone-on-but-this-five-star-dji-mini-4k-drone-is-20-percent-cheaper-for-black-friday)
 - [Black Friday Disney Plus deal: Save over 60% and get Disney Plus for just $4.99 a month or $90 for a year](https://www.space.com/entertainment/space-movies-shows/black-friday-disney-plus-deal-over-60-percent-off-just-4-99-dollars-a-month)
 - [Boeing&#39;s next Starliner spacecraft to fly won&#39;t carry NASA astronauts when it launches in April 2026](https://www.space.com/space-exploration/human-spaceflight/boeing-starliner-wont-carry-nasa-astronauts-next-flight)
 - [India’s gig workers win legal status, but access to social security remains elusive](https://techcrunch.com/2025/11/24/indias-gig-workers-win-legal-status-but-access-to-social-security-remains-elusive/)
-- [China launches uncrewed Shenzhou capsule for 3 astronauts stuck on Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-launches-shenzhou-22-mission-stranded-astronauts-tiangong)
 <!-- BLOG-POST-LIST:END -->
 
 ---
