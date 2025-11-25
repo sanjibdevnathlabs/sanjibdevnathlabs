@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [If you&#39;re a sci-fi fan looking for a Black Friday streaming deal, then saving 70% on HBO Max as a Hulu add-on is worth getting](https://www.space.com/entertainment/space-movies-shows/-sci-fi-black-friday-streaming-deal-70-percent-off-hbo-max-as-a-hulu-add-on)
 - [ChatGPT’s voice mode is no longer a separate interface](https://techcrunch.com/2025/11/25/chatgpts-voice-mode-is-no-longer-a-separate-interface/)
 - [Stream Borderlands and other recent sci-fi hits on STARZ for just $2.99 a month when added to Hulu in this Black Friday streaming deal](https://www.space.com/entertainment/space-movies-shows/starz-72-percent-off-full-year-black-friday-deal-hulu-add-on)
 - [An unmissable Black Friday streaming deal for sci-fi fans — get Paramount+ for just $2.99 a month](https://www.space.com/stargazing/skywatching-kit/paramount-plus-sci-fi-black-friday-deal)
 - [The cheapest way to stargaze? The best premium monocular we&#39;ve tested is 25% off for Black Friday](https://www.space.com/stargazing/skywatching-kit/spotted-the-bushnell-legend-ultra-10x42-monocular-is-25-percent-off-for-black-friday)
-- [Trump administration targets former NASA astronaut Mark Kelly over &#39;illegal orders&#39; video](https://www.space.com/space-exploration/human-spaceflight/trump-administration-targets-former-nasa-astronaut-mark-kelly-over-illegal-orders-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
