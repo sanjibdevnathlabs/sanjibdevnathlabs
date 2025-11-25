@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Find Your Grind raises $5M to grow platform empowering students to explore unique career paths](https://techcrunch.com/2025/11/25/find-your-grind-raises-5m-to-grow-platform-empowering-students-to-explore-unique-career-paths/)
-- [Microsoft’s AI chatbot Copilot leaves WhatsApp on January 15](https://techcrunch.com/2025/11/25/microsofts-ai-chatbot-copilot-leaves-whatsapp-on-january-15/)
-- [Photographer captures eerie red halo hovering over the Italian Alps in rare &#39;elve&#39; sighting &lpar;photo&rpar;](https://www.space.com/stargazing/photographer-captures-eerie-red-halo-hovering-over-the-italian-alps-in-rare-elve-sighting-photo)
-- [China’s Pony AI plans to triple global robotaxi fleet by the end of 2026](https://techcrunch.com/2025/11/25/chinas-pony-ai-plans-to-triple-global-robotaxi-fleet-by-the-end-of-2026/)
-- [Watch China&#39;s Shenzhou 22 rescue ship arrive at Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-chinas-shenzhou-22-rescue-ship-arrive-at-tiangong-space-station-video)
+- [ChatGPT’s voice mode is no longer a separate interface](https://techcrunch.com/2025/11/25/chatgpts-voice-mode-is-no-longer-a-separate-interface/)
+- [Stream Borderlands and other recent sci-fi hits on STARZ for just $2.99 a month when added to Hulu in this Black Friday streaming deal](https://www.space.com/entertainment/space-movies-shows/starz-72-percent-off-full-year-black-friday-deal-hulu-add-on)
+- [An unmissable Black Friday streaming deal for sci-fi fans — get Paramount+ for just $2.99 a month](https://www.space.com/stargazing/skywatching-kit/paramount-plus-sci-fi-black-friday-deal)
+- [The cheapest way to stargaze? The best premium monocular we&#39;ve tested is 25% off for Black Friday](https://www.space.com/stargazing/skywatching-kit/spotted-the-bushnell-legend-ultra-10x42-monocular-is-25-percent-off-for-black-friday)
+- [Trump administration targets former NASA astronaut Mark Kelly over &#39;illegal orders&#39; video](https://www.space.com/space-exploration/human-spaceflight/trump-administration-targets-former-nasa-astronaut-mark-kelly-over-illegal-orders-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
