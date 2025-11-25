@@ -148,7 +148,7 @@ I'm a software developer passionate about designing and building applications wi
 <!-- BLOG-POST-LIST:START -->
 - [Microsoft’s AI chatbot Copilot leaves WhatsApp on January 15](https://techcrunch.com/2025/11/25/microsofts-ai-chatbot-copilot-leaves-whatsapp-on-january-15/)
 - [Photographer captures eerie red halo hovering over the Italian Alps in rare &#39;elve&#39; sighting &lpar;photo&rpar;](https://www.space.com/stargazing/photographer-captures-eerie-red-halo-hovering-over-the-italian-alps-in-rare-elve-sighting-photo)
-- [China’s Pony.ai plans to triple global robotaxi fleet by the end of 2026](https://techcrunch.com/2025/11/25/chinas-pony-ai-plans-to-triple-global-robotaxi-fleet-by-the-end-of-2026/)
+- [China’s Pony AI plans to triple global robotaxi fleet by the end of 2026](https://techcrunch.com/2025/11/25/chinas-pony-ai-plans-to-triple-global-robotaxi-fleet-by-the-end-of-2026/)
 - [Watch China&#39;s Shenzhou 22 rescue ship arrive at Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-chinas-shenzhou-22-rescue-ship-arrive-at-tiangong-space-station-video)
 - [Fleet Space finds massive lithium deposit using AI and satellites](https://techcrunch.com/2025/11/25/fleet-space-finds-massive-lithium-deposit-using-ai-and-satellites/)
 <!-- BLOG-POST-LIST:END -->
