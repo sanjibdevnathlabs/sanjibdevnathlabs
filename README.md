@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Black Friday Disney Plus deal: Save over 60% and get Disney Plus for just $4.99 a month or $90 for a year](https://www.space.com/entertainment/space-movies-shows/black-friday-disney-plus-deal-over-60-percent-off-just-4-99-dollars-a-month)
+- [Boeing&#39;s next Starliner spacecraft to fly won&#39;t carry NASA astronauts when it launches in April 2026](https://www.space.com/space-exploration/human-spaceflight/boeing-starliner-wont-carry-nasa-astronauts-next-flight)
 - [India’s gig workers win legal status, but access to social security remains elusive](https://techcrunch.com/2025/11/24/indias-gig-workers-win-legal-status-but-access-to-social-security-remains-elusive/)
 - [China launches uncrewed Shenzhou capsule for 3 astronauts stuck on Tiangong space station](https://www.space.com/space-exploration/launches-spacecraft/china-launches-shenzhou-22-mission-stranded-astronauts-tiangong)
 - [Give any room a stunning, stellar makeover with these Black Friday star projector deals](https://www.space.com/stargazing/skywatching-kit/give-any-room-a-stunning-stellar-makeover-with-these-early-black-friday-star-projector-deals)
-- [Google teams up with Accel to hunt for India’s next AI breakouts](https://techcrunch.com/2025/11/24/google-teams-up-with-accel-to-hunt-for-indias-next-ai-breakouts/)
-- [NASA&#39;s next-gen Roman Space Telescope is surprising scientists with its capabilities. It hasn&#39;t even launched yet](https://www.space.com/space-exploration/missions/nasas-next-gen-roman-space-telescope-is-surprising-scientists-with-its-capabilities-it-hasnt-even-launched-yet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
