@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the Butterfly Nebula like never before in this spectacular Gemini South telescope image](https://www.space.com/astronomy/see-the-butterfly-nebula-like-never-before-in-this-spectacular-gemini-south-telescope-image)
+- [Are you balding? There’s an AI for that](https://techcrunch.com/2025/11/26/are-you-balding-theres-an-ai-for-that/)
+- [South Korea launches Earth-observation satellite on homegrown Nuri rocket](https://www.space.com/space-exploration/satellites/south-korea-nuri-rocket-cas500-3-earth-observation-satellite-launch)
 - [Bug in jury systems used by several US states exposed sensitive personal data](https://techcrunch.com/2025/11/26/bug-in-jury-systems-used-by-several-us-states-exposed-sensitive-personal-data/)
 - [Mysterious lava puddles in Earth&#39;s mantle may hold clues about the origin of life: &#39;These are not random oddities&#39;](https://www.space.com/astronomy/earth/mysterious-lava-puddles-in-earths-mantle-may-hold-clues-about-the-origin-of-life-these-are-not-random-oddities)
-- [Scientists discover ancient magnetic fossils of unknown creature with internal GPS](https://www.space.com/astronomy/earth/scientists-discover-ancient-magnetic-fossils-of-unknown-creature-with-internal-gps)
-- [The Force is strong with this Black Friday Disney+ and Hulu bundle deal — subscribe to both channels for just $4.99 a month](https://www.space.com/entertainment/space-movies-shows/the-force-is-strong-with-this-black-friday-disney-and-hulu-bundle-deal-subscribe-to-both-channels-for-just-usd4-99-a-month)
-- [Dark plasma dances over the sun | Space photo of the day for Nov. 26, 2025](https://www.space.com/astronomy/sun/dark-plasma-dances-over-the-sun-space-photo-of-the-day-for-nov-26-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
