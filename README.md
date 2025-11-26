@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Force is strong with this Black Friday Disney+ and Hulu bundle deal — subscribe to both channels for just $4.99 a month](https://www.space.com/entertainment/space-movies-shows/the-force-is-strong-with-this-black-friday-disney-and-hulu-bundle-deal-subscribe-to-both-channels-for-just-usd4-99-a-month)
+- [Dark plasma dances over the sun | Space photo of the day for Nov. 26, 2025](https://www.space.com/astronomy/sun/dark-plasma-dances-over-the-sun-space-photo-of-the-day-for-nov-26-2025)
+- [My favorite smart telescope is now $1000 off this Black Friday — the lowest price it’s been all year.](https://www.space.com/stargazing/skywatching-kit/my-favorite-smart-telescope-is-now-1000-dollars-off-this-black-friday-the-lowest-price-its-been-all-year)
 - [Is it a bird? Is it a plane? No, it&#39;s a Black Friday deal on one of the best beginner DJI drone bundles!](https://www.space.com/stargazing/skywatching-kit/is-it-a-bird-is-it-a-plane-no-its-a-black-friday-deal-on-one-of-the-best-beginner-dji-drone-bundles)
 - [Onton raises $7.5M to expand its AI-powered shopping site beyond furniture](https://techcrunch.com/2025/11/26/onton-raises-7-5m-to-expand-its-ai-powered-shopping-site-beyond-furniture/)
-- [I&#39;ve hand-picked all the best Black Friday VPN deals for 2025, save over 70% on select services](https://www.space.com/technology/best-black-friday-vpn-deals-2025)
-- [Why is this star so weird? Maybe because it ate one of its own planets](https://www.space.com/astronomy/stars/why-is-this-star-so-weird-maybe-because-it-ate-one-of-its-own-planets)
-- [Uber and WeRide’s robotaxi service in Abu Dhabi is officially driverless](https://techcrunch.com/2025/11/25/uber-and-werides-robotaxi-service-in-abu-dhabi-is-officially-driverless/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
