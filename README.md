@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mysterious lava puddles in Earth&#39;s mantle may hold clues about the origin of life: &#39;These are not random oddities&#39;](https://www.space.com/astronomy/earth/mysterious-lava-puddles-in-earths-mantle-may-hold-clues-about-the-origin-of-life-these-are-not-random-oddities)
 - [Scientists discover ancient magnetic fossils of unknown creature with internal GPS](https://www.space.com/astronomy/earth/scientists-discover-ancient-magnetic-fossils-of-unknown-creature-with-internal-gps)
 - [The Force is strong with this Black Friday Disney+ and Hulu bundle deal — subscribe to both channels for just $4.99 a month](https://www.space.com/entertainment/space-movies-shows/the-force-is-strong-with-this-black-friday-disney-and-hulu-bundle-deal-subscribe-to-both-channels-for-just-usd4-99-a-month)
 - [Dark plasma dances over the sun | Space photo of the day for Nov. 26, 2025](https://www.space.com/astronomy/sun/dark-plasma-dances-over-the-sun-space-photo-of-the-day-for-nov-26-2025)
 - [My favorite smart telescope is now $1000 off this Black Friday — the lowest price it’s been all year.](https://www.space.com/stargazing/skywatching-kit/my-favorite-smart-telescope-is-now-1000-dollars-off-this-black-friday-the-lowest-price-its-been-all-year)
-- [Is it a bird? Is it a plane? No, it&#39;s a Black Friday deal on one of the best beginner DJI drone bundles!](https://www.space.com/stargazing/skywatching-kit/is-it-a-bird-is-it-a-plane-no-its-a-black-friday-deal-on-one-of-the-best-beginner-dji-drone-bundles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
