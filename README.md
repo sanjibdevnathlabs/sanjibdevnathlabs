@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GM tech executive shakeup continues on software team](https://techcrunch.com/2025/11/26/gm-tech-executive-shakeup-continues-on-software-team/)
 - [&#39;We&#39;ve even got some lobster&#39;: Thanksgiving dinner on the International Space Station will be out of this world for astronauts &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/weve-even-got-some-lobster-thanksgiving-dinner-on-the-international-space-station-will-be-out-of-this-world-for-astronauts-video)
 - [Breaking down the boom in the Nordic’s startup ecosystem](https://techcrunch.com/2025/11/26/breaking-down-the-boom-in-the-nordics-startup-ecosystem/)
 - [I think this is the best DSLR ever made  — Nikon&#39;s legendary D850 is at its cheapest price ever for Black Friday](https://www.space.com/stargazing/skywatching-kit/the-best-dslr-ever-made-nikons-legendary-d850-is-at-its-cheapest-price-ever-for-black-friday)
 - [Musk’s xAI to build small solar farm adjacent to Colossus data center](https://techcrunch.com/2025/11/26/musks-xai-to-build-small-solar-farm-adjacent-to-colossus-data-center/)
-- [See the Butterfly Nebula like never before in this spectacular Gemini South telescope image](https://www.space.com/astronomy/see-the-butterfly-nebula-like-never-before-in-this-spectacular-gemini-south-telescope-image)
 <!-- BLOG-POST-LIST:END -->
 
 ---
