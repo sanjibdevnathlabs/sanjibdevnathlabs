@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GM tech executive shakeup continues on software team](https://techcrunch.com/2025/11/26/gm-tech-executive-shakeup-continues-on-software-team/)
-- [&#39;We&#39;ve even got some lobster&#39;: Thanksgiving dinner on the International Space Station will be out of this world for astronauts &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/weve-even-got-some-lobster-thanksgiving-dinner-on-the-international-space-station-will-be-out-of-this-world-for-astronauts-video)
-- [Breaking down the boom in the Nordic’s startup ecosystem](https://techcrunch.com/2025/11/26/breaking-down-the-boom-in-the-nordics-startup-ecosystem/)
-- [I think this is the best DSLR ever made  — Nikon&#39;s legendary D850 is at its cheapest price ever for Black Friday](https://www.space.com/stargazing/skywatching-kit/the-best-dslr-ever-made-nikons-legendary-d850-is-at-its-cheapest-price-ever-for-black-friday)
-- [Musk’s xAI to build small solar farm adjacent to Colossus data center](https://techcrunch.com/2025/11/26/musks-xai-to-build-small-solar-farm-adjacent-to-colossus-data-center/)
+- [Redwood Materials reportedly cuts 5% of staff after $350M raise](https://techcrunch.com/2025/11/26/redwood-materials-reportedly-cuts-5-of-staff-after-350m-raise/)
+- [Stream all of Star Trek, including the latest season of Strange New Worlds and the upcoming Starfleet Academy for up to 77% off Paramount+](https://www.space.com/entertainment/space-movies-shows/paramount-plus-black-friday-streaming-deal-watch-star-trek-strange-new-worlds-starfleet-academy-77-percent-off)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/11/26/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/11/26/tech-layoffs-2025-list/)
+- [Multiple London councils report disruption amid ongoing cyberattack](https://techcrunch.com/2025/11/26/multiple-london-councils-report-disruption-amid-ongoing-cyberattack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
