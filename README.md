@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is it a bird? Is it a plane? No, it&#39;s a Black Friday deal on one of the best beginner DJI drone bundles!](https://www.space.com/stargazing/skywatching-kit/is-it-a-bird-is-it-a-plane-no-its-a-black-friday-deal-on-one-of-the-best-beginner-dji-drone-bundles)
+- [Onton raises $7.5M to expand its AI-powered shopping site beyond furniture](https://techcrunch.com/2025/11/26/onton-raises-7-5m-to-expand-its-ai-powered-shopping-site-beyond-furniture/)
+- [I&#39;ve hand-picked all the best Black Friday VPN deals for 2025, save over 70% on select services](https://www.space.com/technology/best-black-friday-vpn-deals-2025)
 - [Why is this star so weird? Maybe because it ate one of its own planets](https://www.space.com/astronomy/stars/why-is-this-star-so-weird-maybe-because-it-ate-one-of-its-own-planets)
 - [Uber and WeRide’s robotaxi service in Abu Dhabi is officially driverless](https://techcrunch.com/2025/11/25/uber-and-werides-robotaxi-service-in-abu-dhabi-is-officially-driverless/)
-- [Scientists may have finally &#39;seen&#39; dark matter for the 1st time](https://www.space.com/astronomy/dark-universe/scientists-may-have-finally-seen-dark-matter-for-the-1st-time)
-- [Why ‘hold forever’ investors are snapping up venture capital ‘zombies’](https://techcrunch.com/2025/11/25/why-hold-forever-investors-are-snapping-up-venture-capital-zombies/)
-- [YouTube is working on a feature that will fix the messy home feed](https://techcrunch.com/2025/11/25/youtube-is-working-on-a-feature-that-will-fix-the-messy-home-feed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
