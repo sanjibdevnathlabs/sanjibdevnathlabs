@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Redwood Materials reportedly cuts 5% of staff after $350M raise](https://techcrunch.com/2025/11/26/redwood-materials-reportedly-cuts-5-of-staff-after-350m-raise/)
-- [Stream all of Star Trek, including the latest season of Strange New Worlds and the upcoming Starfleet Academy for up to 77% off Paramount+](https://www.space.com/entertainment/space-movies-shows/paramount-plus-black-friday-streaming-deal-watch-star-trek-strange-new-worlds-starfleet-academy-77-percent-off)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/11/26/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/11/26/tech-layoffs-2025-list/)
-- [Multiple London councils report disruption amid ongoing cyberattack](https://techcrunch.com/2025/11/26/multiple-london-councils-report-disruption-amid-ongoing-cyberattack/)
+- [Nordic founders are taking bigger swings, and it’s paying off](https://techcrunch.com/video/nordic-founders-are-taking-bigger-swings-and-its-paying-off/)
+- [Best sci-fi action movies of all time, ranked](https://www.space.com/entertainment/space-movies-shows/best-sci-fi-action-movies-of-all-time-ranked)
+- [Here are the 49 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/11/26/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/)
+- [JustiGuide wants to use AI to help people navigate the US immigration system](https://techcrunch.com/2025/11/26/justiguide-wants-to-use-ai-to-help-people-navigate-the-u-s-immigration-system/)
+- [OpenAI claims teen circumvented safety features before suicide that ChatGPT helped plan](https://techcrunch.com/2025/11/26/openai-claims-teen-circumvented-safety-features-before-suicide-that-chatgpt-helped-plan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
