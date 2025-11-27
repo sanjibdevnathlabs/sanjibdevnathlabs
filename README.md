@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Glīd won Startup Battlefield 2025 by building solutions to make logistis simpler, safer, and smarter](https://techcrunch.com/2025/11/27/glid-won-startup-battlefield-2025-by-building-solutions-to-make-logistics-simpler-safer-and-smarter/)
+- [Key Driver of Extreme Winds on Venus Identified](https://www.space.com/astronomy/venus/key-driver-of-extreme-winds-on-venus-identified)
+- [Rock your stockings with this guitar-playing Astronaut Star Projector for less than $12 this Black Friday](https://www.space.com/stargazing/skywatching-kit/rock-your-stockings-with-this-guitar-playing-astronaut-star-projector-for-less-than-usd12-this-black-friday)
 - [See a half-lit moon shine among the stars of Aquarius on Nov. 27](https://www.space.com/stargazing/see-a-half-lit-moon-shine-among-the-stars-of-aquarius-on-nov-27)
 - [My favorite rechargeable star projector is cheaper than it&#39;s ever been this Black Friday](https://www.space.com/stargazing/skywatching-kit/my-favorite-rechargeable-star-projector-is-cheaper-than-its-ever-been-this-black-friday)
-- [Everything you need to go stargazing this winter and into 2026](https://www.space.com/stargazing/skywatching-kit/everything-you-need-to-go-stargazing-this-winter-and-into-2026)
-- [I&#39;m a northern lights-chasing expert and these are 10 things I think you need for your next expedition](https://www.space.com/stargazing/skywatching-kit/im-a-northern-lights-chasing-expert-and-these-are-10-things-i-think-you-need-for-your-next-expedition)
-- [I&#39;ve hand-picked these early Black Friday deals on image-stabilized binoculars, helping you to get steady views of the night sky](https://www.space.com/stargazing/skywatching-kit/ive-hand-picked-these-early-black-friday-deals-on-image-stabilized-binoculars-helping-you-to-get-steady-views-of-the-night-sky)
 <!-- BLOG-POST-LIST:END -->
 
 ---
