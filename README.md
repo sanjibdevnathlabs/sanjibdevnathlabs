@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Code Optimisation via Memoization - Computerphile](https://www.youtube.com/watch?v=JXUOMsFBDXQ)
 - [AI Hype vs Reality - And What It Means For You](https://www.youtube.com/watch?v=QQ4UyZNXof8)
 - [Forcing My Kids to Become Hackers &lpar;It Actually Worked&rpar;](https://www.youtube.com/shorts/lax6vdOko20)
 - [AI agents are paying each other now…](https://www.youtube.com/watch?v=S6wc6yvoZLY)
 - [You SUCK at Prompting AI &lpar;Here&#39;s the secret&rpar;](https://www.youtube.com/watch?v=pwWBcsxEoLk)
-- [How to Sell Concert Tickets, with MIT Economist Jon Gruber](https://www.youtube.com/watch?v=gUNP33_kz_E)
 <!-- YOUTUBE:END -->
 
 ---
