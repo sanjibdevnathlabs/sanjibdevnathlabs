@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save a huge 77% on Paramount+ in this Black Friday deal.](https://www.space.com/entertainment/space-movies-shows/save-a-huge-77-percent-on-paramount-in-this-black-friday-deal-that-works-out-at-less-than-10-cents-a-day)
+- [Soyuz rocket launches US-Russian crew to International Space Station with Thanksgiving Day liftoff](https://www.space.com/space-exploration/human-spaceflight/soyuz-rocket-launches-us-russian-crew-to-international-space-station-with-thanksgiving-day-liftoff)
 - [The future will be explained to you in Palo Alto](https://techcrunch.com/2025/11/26/the-future-will-be-explained-to-you-in-palo-alto/)
 - [Watch NASA astronaut, 2 cosmonauts launch to the International Space Station on Thanksgiving morning](https://www.space.com/space-exploration/launches-spacecraft/watch-nasa-astronaut-2-cosmonauts-launch-to-the-international-space-station-on-thanksgiving-morning)
 - [Nordic founders are taking bigger swings, and it’s paying off](https://techcrunch.com/video/nordic-founders-are-taking-bigger-swings-and-its-paying-off/)
-- [Best sci-fi action movies of all time, ranked](https://www.space.com/entertainment/space-movies-shows/best-sci-fi-action-movies-of-all-time-ranked)
-- [Here are the 49 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/11/26/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
