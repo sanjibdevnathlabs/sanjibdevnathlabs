@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything you need to go stargazing this winter and into 2026](https://www.space.com/stargazing/skywatching-kit/everything-you-need-to-go-stargazing-this-winter-and-into-2026)
+- [I&#39;m a northern lights-chasing expert and these are 10 things I think you need for your next expedition](https://www.space.com/stargazing/skywatching-kit/im-a-northern-lights-chasing-expert-and-these-are-10-things-i-think-you-need-for-your-next-expedition)
+- [NASA renews commitment to Europe&#39;s life-hunting Mars rover despite Trump budget cuts](https://www.space.com/space-exploration/nasa-confirms-exomars-rover-participation)
+- [I&#39;ve hand-picked these early Black Friday deals on image-stabilized binoculars, helping you to get steady views of the night sky](https://www.space.com/stargazing/skywatching-kit/ive-hand-picked-these-early-black-friday-deals-on-image-stabilized-binoculars-helping-you-to-get-steady-views-of-the-night-sky)
 - [Thanksgiving night sky 2025: Moon, Saturn and autumn stars put on a post-turkey show](https://www.space.com/stargazing/thanksgiving-night-sky-2025-moon-saturn-and-autumn-stars-put-on-a-post-turkey-show)
-- [The UCS Death Star is the biggest Lego Star Wars set yet: Here&#39;s why we WON&#39;T get it](https://www.space.com/entertainment/space-toys-lego/the-ucs-death-star-is-the-biggest-lego-star-wars-set-yet-heres-why-we-wont-get-it)
-- [Astrophotographers, rejoice at this stellar Black Friday smart telescope deal from Celestron](https://www.space.com/stargazing/skywatching-kit/astrophotographers-rejoice-at-this-stellar-black-friday-smart-telescope-deal-from-celestron)
-- [ISS astronaut Jonny Kim floats with his lunch | Space photo of the day for Nov. 27, 2025](https://www.space.com/space-exploration/international-space-station/iss-astronaut-jonny-kim-floats-with-his-lunch-space-photo-of-the-day-for-nov-27-2025)
-- [I love this Black Friday streaming deal — save over 60% on Disney Plus and Hulu where you can stream the Alien movies and TV show this holiday season](https://www.space.com/entertainment/space-movies-shows/save-over-60-percent-disney-plus-and-hulu-black-friday-streaming-deal-stream-the-alien-movies-)
 <!-- BLOG-POST-LIST:END -->
 
 ---
