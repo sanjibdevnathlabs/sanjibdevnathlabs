@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thanksgiving night sky 2025: Moon, Saturn and autumn stars put on a post-turkey show](https://www.space.com/stargazing/thanksgiving-night-sky-2025-moon-saturn-and-autumn-stars-put-on-a-post-turkey-show)
+- [The UCS Death Star is the biggest Lego Star Wars set yet: Here&#39;s why we WON&#39;T get it](https://www.space.com/entertainment/space-toys-lego/the-ucs-death-star-is-the-biggest-lego-star-wars-set-yet-heres-why-we-wont-get-it)
+- [Astrophotographers, rejoice at this stellar Black Friday smart telescope deal from Celestron](https://www.space.com/stargazing/skywatching-kit/astrophotographers-rejoice-at-this-stellar-black-friday-smart-telescope-deal-from-celestron)
 - [ISS astronaut Jonny Kim floats with his lunch | Space photo of the day for Nov. 27, 2025](https://www.space.com/space-exploration/international-space-station/iss-astronaut-jonny-kim-floats-with-his-lunch-space-photo-of-the-day-for-nov-27-2025)
 - [I love this Black Friday streaming deal — save over 60% on Disney Plus and Hulu where you can stream the Alien movies and TV show this holiday season](https://www.space.com/entertainment/space-movies-shows/save-over-60-percent-disney-plus-and-hulu-black-friday-streaming-deal-stream-the-alien-movies-)
-- [Our expert raves about this telescope, and now it&#39;s the cheapest it&#39;s been since March in this early Black Friday deal](https://www.space.com/stargazing/skywatching-kit/our-expert-raves-about-this-telescope-and-now-its-the-cheapest-its-been-since-march-in-this-early-black-friday-deal)
-- [Save a huge 77% on Paramount+ in this Black Friday deal.](https://www.space.com/entertainment/space-movies-shows/save-a-huge-77-percent-on-paramount-in-this-black-friday-deal-that-works-out-at-less-than-10-cents-a-day)
-- [US-Russian Soyuz crew launches to and arrives at the International Space Station on Thanksgiving Day](https://www.space.com/space-exploration/human-spaceflight/soyuz-rocket-launches-us-russian-crew-to-international-space-station-with-thanksgiving-day-liftoff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
