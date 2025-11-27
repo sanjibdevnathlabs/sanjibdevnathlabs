@@ -146,7 +146,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How Glīd won Startup Battlefield 2025: Mentorship, mission-focus, and meditation](https://techcrunch.com/video/how-glid-won-startup-battlefield-2025-mentorship-mission-focus-and-meditation/)
+- [Our Lego expert gave this Star Wars set 5 out of 5 stars, and now it could be yours for just $40 this Black Friday](https://www.space.com/stargazing/skywatching-kit/our-lego-expert-gave-this-star-wars-set-5-out-of-5-stars-and-now-it-could-be-yours-for-just-usd40-this-black-friday)
 - [This LEGO Technic NASA Apollo Lunar Roving Vehicle has $66 off this Black Friday but this is your last chance to grab it before it retires forever!](https://www.space.com/entertainment/space-toys-lego/we-have-reviewed-over-70-lego-sets-but-this-is-the-early-black-friday-deal-wed-recommend)
 - [Best iPad apps for unleashing and exploring your creativity](https://techcrunch.com/2025/11/27/best-ipad-apps-for-unleashing-and-exploring-your-creativity/)
 - [Glīd won Startup Battlefield 2025 by building solutions to make logistis simpler, safer, and smarter](https://techcrunch.com/2025/11/27/glid-won-startup-battlefield-2025-by-building-solutions-to-make-logistics-simpler-safer-and-smarter/)
