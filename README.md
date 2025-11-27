@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;The War Between the Land and the Sea&#39;: Release date, plot, cast, and everything we know about the aquatic &#39;Doctor Who&#39; spin-off](https://www.space.com/entertainment/space-movies-shows/the-war-between-the-land-and-the-sea-release-date-plot-cast-and-everything-we-know-about-the-aquatic-doctor-who-spin-off)
+- [This Thanksgiving’s real drama may be Michael Burry versus Nvidia](https://techcrunch.com/2025/11/27/this-thanksgivings-real-drama-may-be-michael-burry-versus-nvidia/)
+- [One of the best Lego Star Wars helmets, the Jango Fett Helmet, is 20% off in this early Black Friday deal](https://www.space.com/entertainment/space-toys-lego/one-of-the-best-lego-star-wars-helmets-the-jango-fett-helmet-is-20-percent-off-in-this-early-black-friday-deal)
 - [Our Lego expert gave this Star Wars set 5 out of 5 stars, and now it could be yours for just $40 this Black Friday](https://www.space.com/stargazing/skywatching-kit/our-lego-expert-gave-this-star-wars-set-5-out-of-5-stars-and-now-it-could-be-yours-for-just-usd40-this-black-friday)
 - [This LEGO Technic NASA Apollo Lunar Roving Vehicle has $66 off this Black Friday but this is your last chance to grab it before it retires forever!](https://www.space.com/entertainment/space-toys-lego/we-have-reviewed-over-70-lego-sets-but-this-is-the-early-black-friday-deal-wed-recommend)
-- [Best iPad apps for unleashing and exploring your creativity](https://techcrunch.com/2025/11/27/best-ipad-apps-for-unleashing-and-exploring-your-creativity/)
-- [Glīd won Startup Battlefield 2025 by building solutions to make logistis simpler, safer, and smarter](https://techcrunch.com/2025/11/27/glid-won-startup-battlefield-2025-by-building-solutions-to-make-logistics-simpler-safer-and-smarter/)
-- [Key Driver of Extreme Winds on Venus Identified](https://www.space.com/astronomy/venus/key-driver-of-extreme-winds-on-venus-identified)
 <!-- BLOG-POST-LIST:END -->
 
 ---
