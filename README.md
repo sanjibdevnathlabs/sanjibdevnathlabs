@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Glīd won Startup Battlefield 2025: Mentorship, mission-focus, and meditation](https://techcrunch.com/video/how-glid-won-startup-battlefield-2025-mentorship-mission-focus-and-meditation/)
+- [This LEGO Technic NASA Apollo Lunar Roving Vehicle has $66 off this Black Friday but this is your last chance to grab it before it retires forever!](https://www.space.com/entertainment/space-toys-lego/we-have-reviewed-over-70-lego-sets-but-this-is-the-early-black-friday-deal-wed-recommend)
+- [Best iPad apps for unleashing and exploring your creativity](https://techcrunch.com/2025/11/27/best-ipad-apps-for-unleashing-and-exploring-your-creativity/)
 - [Glīd won Startup Battlefield 2025 by building solutions to make logistis simpler, safer, and smarter](https://techcrunch.com/2025/11/27/glid-won-startup-battlefield-2025-by-building-solutions-to-make-logistics-simpler-safer-and-smarter/)
 - [Key Driver of Extreme Winds on Venus Identified](https://www.space.com/astronomy/venus/key-driver-of-extreme-winds-on-venus-identified)
-- [Rock your stockings with this guitar-playing Astronaut Star Projector for less than $12 this Black Friday](https://www.space.com/stargazing/skywatching-kit/rock-your-stockings-with-this-guitar-playing-astronaut-star-projector-for-less-than-usd12-this-black-friday)
-- [See a half-lit moon shine among the stars of Aquarius on Nov. 27](https://www.space.com/stargazing/see-a-half-lit-moon-shine-among-the-stars-of-aquarius-on-nov-27)
-- [My favorite rechargeable star projector is cheaper than it&#39;s ever been this Black Friday](https://www.space.com/stargazing/skywatching-kit/my-favorite-rechargeable-star-projector-is-cheaper-than-its-ever-been-this-black-friday)
 <!-- BLOG-POST-LIST:END -->
 
 ---
