@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ISS astronaut Jonny Kim floats with his lunch | Space photo of the day for Nov. 27, 2025](https://www.space.com/space-exploration/international-space-station/iss-astronaut-jonny-kim-floats-with-his-lunch-space-photo-of-the-day-for-nov-27-2025)
+- [I love this Black Friday streaming deal — save over 60% on Disney Plus and Hulu where you can stream the Alien movies and TV show this holiday season](https://www.space.com/entertainment/space-movies-shows/save-over-60-percent-disney-plus-and-hulu-black-friday-streaming-deal-stream-the-alien-movies-)
 - [Our expert raves about this telescope, and now it&#39;s the cheapest it&#39;s been since March in this early Black Friday deal](https://www.space.com/stargazing/skywatching-kit/our-expert-raves-about-this-telescope-and-now-its-the-cheapest-its-been-since-march-in-this-early-black-friday-deal)
 - [Save a huge 77% on Paramount+ in this Black Friday deal.](https://www.space.com/entertainment/space-movies-shows/save-a-huge-77-percent-on-paramount-in-this-black-friday-deal-that-works-out-at-less-than-10-cents-a-day)
-- [Soyuz rocket launches US-Russian crew to International Space Station with Thanksgiving Day liftoff &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/soyuz-rocket-launches-us-russian-crew-to-international-space-station-with-thanksgiving-day-liftoff)
-- [The future will be explained to you in Palo Alto](https://techcrunch.com/2025/11/26/the-future-will-be-explained-to-you-in-palo-alto/)
-- [Watch NASA astronaut, 2 cosmonauts launch to the International Space Station on Thanksgiving morning](https://www.space.com/space-exploration/launches-spacecraft/watch-nasa-astronaut-2-cosmonauts-launch-to-the-international-space-station-on-thanksgiving-morning)
+- [US-Russian Soyuz crew launches to and arrives at the International Space Station on Thanksgiving Day](https://www.space.com/space-exploration/human-spaceflight/soyuz-rocket-launches-us-russian-crew-to-international-space-station-with-thanksgiving-day-liftoff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
