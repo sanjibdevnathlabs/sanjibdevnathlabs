@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Forget Stranger Things, if you want retro 80s vibey sci-fi, these are the top Black Friday streaming deals you need](https://www.space.com/entertainment/space-movies-shows/forget-stranger-things-if-you-want-retro-80s-vibey-sci-fi-these-are-the-top-black-friday-streaming-deals-you-need)
 - [Beat the Paramount+ price hike with this half-price Black Friday Walmart+ deal](https://www.space.com/entertainment/space-movies-shows/beat-the-paramount-price-hike-with-this-half-price-black-friday-walmart-deal)
 - [Russia&#39;s only active launch pad for cosmonauts damaged by Soyuz crew launch to International Space Station](https://www.space.com/space-exploration/international-space-station/russias-only-launch-pad-for-cosmonauts-damaged-by-soyuz-crew-launch-to-international-space-station)
 - [Feel the force with 20% off our best lightsaber for kids — Star Wars Yoda lightsaber now only $40 at the Disney store](https://www.space.com/entertainment/space-toys-lego/feel-the-force-with-20-percent-off-our-best-lightsaber-for-kids-star-wars-yoda-lightsaber-now-only-40-dollars-at-the-disney-store)
 - [SoftBank stays in as Meesho $606M IPO becomes India’s first major e-commerce listing](https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing/)
-- [How OpenAI and Google see AI changing go-to-market strategies](https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
