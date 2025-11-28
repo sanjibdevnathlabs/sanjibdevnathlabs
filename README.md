@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking for a cheap Black Friday laptop deal? These 7 offers have caught my eye](https://www.space.com/technology/looking-for-a-cheap-black-friday-laptop-deal-these-7-offers-have-caught-my-eye)
+- [Here&#39;s my round-up of the 10 best Christmas gifts for space fans, this Black Friday](https://www.space.com/stargazing/skywatching-kit/heres-my-round-up-of-the-10-best-christmas-gifts-for-space-fans-this-black-friday)
 - [I think this is the best VPN deal around — NordVPN has 77% off this Black Friday](https://www.space.com/tech/must-have-nord-vpn-black-friday-deal-save-up-to-77-percent)
 - [4 key things NASA just revealed about the interstellar comet 3I/ATLAS](https://www.space.com/astronomy/comets/4-key-things-nasa-just-revealed-about-the-interstellar-comet-3i-atlas)
 - [What you need to buy to get ready for the 2026 total solar eclipse](https://www.space.com/stargazing/skywatching-kit/what-you-need-to-buy-to-get-ready-for-the-2026-total-solar-eclipse)
-- [Unlock the Marvel Multiverse this Black Friday with this Disney+ and Hulu bundle deal, just $4.99 a month](https://www.space.com/entertainment/space-movies-shows/unlock-the-marvel-multiverse-this-black-friday-with-this-disney-and-hulu-bundle-deal-just-usd4-99-a-month)
-- [Anduril’s autonomous weapons stumble in tests and combat, WSJ reports](https://techcrunch.com/2025/11/27/andurils-autonomous-weapons-stumble-in-tests-and-combat-wsj-reports/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
