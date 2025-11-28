@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The race to regulate AI has sparked a federal vs state showdown](https://techcrunch.com/2025/11/28/the-race-to-regulate-ai-has-sparked-a-federal-vs-state-showdown/)
-- [James Webb Space Telescope watches our Milky Way galaxy&#39;s monster black hole fire out a flare](https://www.space.com/astronomy/black-holes/james-webb-space-telescope-watches-our-milky-way-galaxys-monster-black-hole-fire-out-a-flare)
-- [Astronomer Gemma Lavender thinks the Vespera Pro is perfect for beginners and it&#39;s now $500 off for Black Friday on Amazon](https://www.space.com/stargazing/skywatching-kit/astronomer-gemma-lavender-thinks-the-vespera-pro-is-perfect-for-beginners-and-its-now-500-dollars-off-for-black-friday-on-amazon)
-- [Best iPad apps to boost productivity and make your life easier](https://techcrunch.com/2025/11/28/best-ipad-apps-to-boost-productivity-and-make-your-life-easier/)
-- [A &quot;hugely enjoyable product that punches way above its price point&quot;, the ZWO Seestar S50 smart telescope is $26 off this Black Friday](https://www.space.com/stargazing/skywatching-kit/a-hugely-enjoyable-product-that-punches-way-above-its-price-point-the-zwo-seestar-s50-smart-telescope-is-26-dollars-off-this-black-friday)
+- [SoftBank stays in as Meesho $606M IPO becomes India’s first major e-commerce listing](https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing/)
+- [How OpenAI and Google see AI changing go-to-market strategies](https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/)
+- [Native artists in Texas and Mexico shared their vision of the universe for 4,000 years, ancient murals suggest](https://www.space.com/astronomy/earth/native-artists-in-texas-and-mexico-shared-their-vision-of-the-universe-for-4-000-years-ancient-murals-suggest)
+- [From malware to identity theft, the internet is more dangerous than ever — Surfshark VPN is the protection you need, with $110 off this Black Friday](https://www.space.com/technology/from-malware-to-identity-theft-the-internet-is-more-dangerous-than-ever-surfshark-vpn-is-the-protection-you-need-with-usd110-off-this-black-friday)
+- [With 55% off for Black Friday, this Lego Marvel The Avengers vs. The Leviathan set makes me want a big-screen Lego Avengers movie](https://www.space.com/entertainment/space-toys-lego/with-55-percent-off-for-black-friday-this-lego-marvel-the-avengers-vs-the-leviathan-set-makes-me-want-a-big-screen-lego-avengers-movie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
