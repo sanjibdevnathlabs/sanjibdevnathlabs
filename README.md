@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA probe captures stunning photos of Earth and moon on the way to infamous asteroid Apophis](https://www.space.com/astronomy/asteroids/nasa-probe-captures-stunning-photos-of-earth-and-moon-on-the-way-to-infamous-asteroid-apophis)
 - [Astronauts welcome arrival of new crewmates | On the ISS this week Nov. 24-28, 2025](https://www.space.com/space-exploration/international-space-station/astronauts-welcome-arrival-of-new-crewmates-on-the-iss-this-week-nov-24-28-2025)
 - [I&#39;ve scoured the internet and found this great streaming deal — save over 60% on two major streaming services and watch the Predator movies and more, for less](https://www.space.com/entertainment/space-movies-shows/disney-plus-hulu-bundle-stream-predator-and-more-over-60-percent-off-black-friday)
 - [Forget Stranger Things, if you want retro 80s vibey sci-fi, these are the top Black Friday streaming deals you need](https://www.space.com/entertainment/space-movies-shows/forget-stranger-things-if-you-want-retro-80s-vibey-sci-fi-these-are-the-top-black-friday-streaming-deals-you-need)
 - [Beat the Paramount+ price hike with this half-price Black Friday Walmart+ deal](https://www.space.com/entertainment/space-movies-shows/beat-the-paramount-price-hike-with-this-half-price-black-friday-walmart-deal)
-- [Russia&#39;s only active launch pad for cosmonauts damaged by Soyuz crew launch to International Space Station](https://www.space.com/space-exploration/international-space-station/russias-only-launch-pad-for-cosmonauts-damaged-by-soyuz-crew-launch-to-international-space-station)
 <!-- BLOG-POST-LIST:END -->
 
 ---
