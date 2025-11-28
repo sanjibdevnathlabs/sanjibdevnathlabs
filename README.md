@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Feel the force with 20% off our best lightsaber for kids — Star Wars Yoda lightsaber now only $40 at the Disney store](https://www.space.com/entertainment/space-toys-lego/feel-the-force-with-20-percent-off-our-best-lightsaber-for-kids-star-wars-yoda-lightsaber-now-only-40-dollars-at-the-disney-store)
 - [SoftBank stays in as Meesho $606M IPO becomes India’s first major e-commerce listing](https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing/)
 - [How OpenAI and Google see AI changing go-to-market strategies](https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/)
 - [Native artists in Texas and Mexico shared their vision of the universe for 4,000 years, ancient murals suggest](https://www.space.com/astronomy/earth/native-artists-in-texas-and-mexico-shared-their-vision-of-the-universe-for-4-000-years-ancient-murals-suggest)
 - [From malware to identity theft, the internet is more dangerous than ever — Surfshark VPN is the protection you need, with $110 off this Black Friday](https://www.space.com/technology/from-malware-to-identity-theft-the-internet-is-more-dangerous-than-ever-surfshark-vpn-is-the-protection-you-need-with-usd110-off-this-black-friday)
-- [With 55% off for Black Friday, this Lego Marvel The Avengers vs. The Leviathan set makes me want a big-screen Lego Avengers movie](https://www.space.com/entertainment/space-toys-lego/with-55-percent-off-for-black-friday-this-lego-marvel-the-avengers-vs-the-leviathan-set-makes-me-want-a-big-screen-lego-avengers-movie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
