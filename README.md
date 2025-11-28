@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I Found a Secret Hacker Team Fighting Cybercrime &lpar;they saved $1 billion&rpar;](https://www.youtube.com/watch?v=o-8amaZBi5M)
 - [Code Optimisation via Memoization - Computerphile](https://www.youtube.com/watch?v=JXUOMsFBDXQ)
 - [AI Hype vs Reality - And What It Means For You](https://www.youtube.com/watch?v=QQ4UyZNXof8)
 - [Forcing My Kids to Become Hackers &lpar;It Actually Worked&rpar;](https://www.youtube.com/shorts/lax6vdOko20)
 - [AI agents are paying each other now…](https://www.youtube.com/watch?v=S6wc6yvoZLY)
-- [You SUCK at Prompting AI &lpar;Here&#39;s the secret&rpar;](https://www.youtube.com/watch?v=pwWBcsxEoLk)
 <!-- YOUTUBE:END -->
 
 ---
