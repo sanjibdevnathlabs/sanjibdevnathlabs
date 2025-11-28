@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This small but mighty smart telescope impressed our astronomy expert and now it&#39;s $50 cheaper for Black Friday](https://www.space.com/stargazing/skywatching-kit/this-small-but-mighty-smart-telescope-impressed-our-astronomy-expert-and-now-its-usd50-cheaper-for-black-friday)
-- [Looking for a cheap Black Friday laptop deal? These 7 offers have caught my eye](https://www.space.com/technology/looking-for-a-cheap-black-friday-laptop-deal-these-7-offers-have-caught-my-eye)
-- [Here&#39;s my round-up of the 10 best Christmas gifts for space fans, this Black Friday](https://www.space.com/stargazing/skywatching-kit/heres-my-round-up-of-the-10-best-christmas-gifts-for-space-fans-this-black-friday)
-- [I think this is the best VPN deal around — NordVPN has 77% off this Black Friday](https://www.space.com/tech/must-have-nord-vpn-black-friday-deal-save-up-to-77-percent)
-- [4 key things NASA just revealed about the interstellar comet 3I/ATLAS](https://www.space.com/astronomy/comets/4-key-things-nasa-just-revealed-about-the-interstellar-comet-3i-atlas)
+- [The race to regulate AI has sparked a federal vs state showdown](https://techcrunch.com/2025/11/28/the-race-to-regulate-ai-has-sparked-a-federal-vs-state-showdown/)
+- [James Webb Space Telescope watches our Milky Way galaxy&#39;s monster black hole fire out a flare](https://www.space.com/astronomy/black-holes/james-webb-space-telescope-watches-our-milky-way-galaxys-monster-black-hole-fire-out-a-flare)
+- [Astronomer Gemma Lavender thinks the Vespera Pro is perfect for beginners and it&#39;s now $500 off for Black Friday on Amazon](https://www.space.com/stargazing/skywatching-kit/astronomer-gemma-lavender-thinks-the-vespera-pro-is-perfect-for-beginners-and-its-now-500-dollars-off-for-black-friday-on-amazon)
+- [Best iPad apps to boost productivity and make your life easier](https://techcrunch.com/2025/11/28/best-ipad-apps-to-boost-productivity-and-make-your-life-easier/)
+- [A &quot;hugely enjoyable product that punches way above its price point&quot;, the ZWO Seestar S50 smart telescope is $26 off this Black Friday](https://www.space.com/stargazing/skywatching-kit/a-hugely-enjoyable-product-that-punches-way-above-its-price-point-the-zwo-seestar-s50-smart-telescope-is-26-dollars-off-this-black-friday)
 <!-- BLOG-POST-LIST:END -->
 
 ---
