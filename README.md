@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What you need to buy to get ready for the 2026 total solar eclipse](https://www.space.com/stargazing/skywatching-kit/what-you-need-to-buy-to-get-ready-for-the-2026-total-solar-eclipse)
+- [Unlock the Marvel Multiverse this Black Friday with this Disney+ and Hulu bundle deal, just $4.99 a month](https://www.space.com/entertainment/space-movies-shows/unlock-the-marvel-multiverse-this-black-friday-with-this-disney-and-hulu-bundle-deal-just-usd4-99-a-month)
 - [Anduril’s autonomous weapons stumble in tests and combat, WSJ reports](https://techcrunch.com/2025/11/27/andurils-autonomous-weapons-stumble-in-tests-and-combat-wsj-reports/)
 - [Here are my top picks of all the early Black Friday Lego deals available to build right now](https://www.space.com/entertainment/space-toys-lego/here-are-all-the-black-friday-lego-deals-available-right-now)
 - [We&#39;ve reviewed countless drones, and this lightweight, beginner-friendly drone is one of the best — now with $32 off this Black Friday](https://www.space.com/stargazing/skywatching-kit/weve-reviewed-countless-drones-and-this-lightweight-beginner-friendly-drone-is-one-of-the-best-now-with-32-dollars-off-this-black-friday)
-- [&#39;The War Between the Land and the Sea&#39;: Release date, plot, cast, and everything we know about the aquatic &#39;Doctor Who&#39; spin-off](https://www.space.com/entertainment/space-movies-shows/the-war-between-the-land-and-the-sea-release-date-plot-cast-and-everything-we-know-about-the-aquatic-doctor-who-spin-off)
-- [This Thanksgiving’s real drama may be Michael Burry versus Nvidia](https://techcrunch.com/2025/11/27/this-thanksgivings-real-drama-may-be-michael-burry-versus-nvidia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
