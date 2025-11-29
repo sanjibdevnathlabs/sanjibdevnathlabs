@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch live as near-Earth asteroid Eros buzzes the Andromeda Galaxy on Nov. 30 &lpar;video&rpar;](https://www.space.com/stargazing/watch-live-as-near-earth-asteroid-eros-buzzes-the-andromeda-galaxy-on-nov-30-video)
 - [No, you can’t get your AI to ‘admit’ to being sexist, but it probably is](https://techcrunch.com/2025/11/29/no-you-cant-get-your-ai-to-admit-to-being-sexist-but-it-probably-is/)
 - [Space.com headlines crossword quiz for week of Nov. 24, 2025: The strange star Kepler-56 is classified as this type of star](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-nov-24-2025-the-strange-star-kepler-56-is-classified-as-this-type-of-star)
 - [No other DSLR comes close to the Nikon D850 — save a massive $600 on our best DSLR for astrophotography for Black Friday weekend](https://www.space.com/stargazing/skywatching-kit/no-other-dslr-comes-close-to-the-nikon-d850-save-a-massive-600-dollars-on-our-best-dslr-for-astrophotography-for-black-friday-weekend)
 - [Best Disney sci-fi movies &lpar;that aren&#39;t Star Wars, Marvel, or Pixar&rpar;](https://www.space.com/entertainment/space-movies-shows/best-disney-sci-fi-movies-that-arent-big-franchises)
-- [We reviewed this iconic Lego Star Wars starship and felt it was expensive — but with 50% off this Black Friday weekend, we wouldn&#39;t hesitate to buy it](https://www.space.com/entertainment/space-toys-lego/we-reviewed-this-iconic-lego-star-wars-starship-and-felt-it-was-expensive-but-with-50-percent-off-this-black-friday-weekend-we-wouldnt-hesitate-to-buy-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
