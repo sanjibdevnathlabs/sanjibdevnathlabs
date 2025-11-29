@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Disney sci-fi movies &lpar;that aren&#39;t Star Wars, Marvel, or Pixar&rpar;](https://www.space.com/entertainment/space-movies-shows/best-disney-sci-fi-movies-that-arent-big-franchises)
+- [We reviewed this iconic Lego Star Wars starship and felt it was expensive — but with 50% off this Black Friday weekend, we wouldn&#39;t hesitate to buy it](https://www.space.com/entertainment/space-toys-lego/we-reviewed-this-iconic-lego-star-wars-starship-and-felt-it-was-expensive-but-with-50-percent-off-this-black-friday-weekend-we-wouldnt-hesitate-to-buy-it)
+- [I have used this half-price Apple TV deal for two days and I&#39;m already addicted to Pluribus](https://www.space.com/entertainment/space-movies-shows/i-have-used-this-half-price-apple-tv-deal-for-two-days-and-im-already-addicted-to-pluribus)
 - [Saturn shines with the waxing moon at sunset on Nov. 29](https://www.space.com/stargazing/saturn-shines-with-the-waxing-moon-sunset-nov-29-2025)
 - [We gave this star projector 5 stars and now it&#39;s at its lowest-ever price this Black Friday weekend](https://www.space.com/stargazing/skywatching-kit/we-gave-this-star-projector-5-stars-and-now-its-at-its-lowest-ever-price-this-black-friday-weekend)
-- [Watch the Avatar movies ahead of Fire and Ash next month with this Disney Plus and Hulu Black Friday deal, now just $4.99 a month](https://www.space.com/entertainment/space-movies-shows/watch-avatar-movies-before-fire-and-ash-with-this-disney-plus-black-friday-deal-4-dollars-99-a-month)
-- [These are the best affordable binoculars I use for stargazing and now they&#39;re only $212 this Black Friday](https://www.space.com/stargazing/skywatching-kit/these-are-the-best-affordable-binoculars-i-use-for-stargazing-and-now-theyre-only-212-dollars-this-black-friday)
-- [Physicists and philosophers have long struggled to understand the nature of time: Here&#39;s why](https://www.space.com/science/particle-physics/physicists-and-philosophers-have-long-struggled-to-understand-the-nature-of-time-heres-why)
 <!-- BLOG-POST-LIST:END -->
 
 ---
