@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No, you can’t get your AI to ‘admit’ to being sexist, but it probably is](https://techcrunch.com/2025/11/29/no-you-cant-get-your-ai-to-admit-to-being-sexist-but-it-probably-is/)
+- [Space.com headlines crossword quiz for week of Nov. 24, 2025: The strange star Kepler-56 is classified as this type of star](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-nov-24-2025-the-strange-star-kepler-56-is-classified-as-this-type-of-star)
+- [No other DSLR comes close to the Nikon D850 — save a massive $600 on our best DSLR for astrophotography for Black Friday weekend](https://www.space.com/stargazing/skywatching-kit/no-other-dslr-comes-close-to-the-nikon-d850-save-a-massive-600-dollars-on-our-best-dslr-for-astrophotography-for-black-friday-weekend)
 - [Best Disney sci-fi movies &lpar;that aren&#39;t Star Wars, Marvel, or Pixar&rpar;](https://www.space.com/entertainment/space-movies-shows/best-disney-sci-fi-movies-that-arent-big-franchises)
 - [We reviewed this iconic Lego Star Wars starship and felt it was expensive — but with 50% off this Black Friday weekend, we wouldn&#39;t hesitate to buy it](https://www.space.com/entertainment/space-toys-lego/we-reviewed-this-iconic-lego-star-wars-starship-and-felt-it-was-expensive-but-with-50-percent-off-this-black-friday-weekend-we-wouldnt-hesitate-to-buy-it)
-- [I have used this half-price Apple TV deal for two days and I&#39;m already addicted to Pluribus](https://www.space.com/entertainment/space-movies-shows/i-have-used-this-half-price-apple-tv-deal-for-two-days-and-im-already-addicted-to-pluribus)
-- [Saturn shines with the waxing moon at sunset on Nov. 29](https://www.space.com/stargazing/saturn-shines-with-the-waxing-moon-sunset-nov-29-2025)
-- [We gave this star projector 5 stars and now it&#39;s at its lowest-ever price this Black Friday weekend](https://www.space.com/stargazing/skywatching-kit/we-gave-this-star-projector-5-stars-and-now-its-at-its-lowest-ever-price-this-black-friday-weekend)
 <!-- BLOG-POST-LIST:END -->
 
 ---
