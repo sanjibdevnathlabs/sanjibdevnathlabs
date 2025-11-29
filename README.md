@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Airbus orders software fix to thousands of planes due to solar radiation risk](https://techcrunch.com/2025/11/29/airbus-orders-software-fix-to-thousands-of-planes-due-to-solar-radiation-risk/)
+- [Black Friday sets online spending record of $11.8B, Adobe says](https://techcrunch.com/2025/11/29/black-friday-sets-online-spending-record-of-11-8b-adobe-says/)
 - [New York state law takes aim at personalized pricing](https://techcrunch.com/2025/11/29/new-york-state-law-takes-aim-at-personalized-pricing/)
 - [Buzz Lightyear at 30: How sci-fi&#39;s most famous flying toy took us to infinity… and beyond](https://www.space.com/entertainment/space-movies-shows/buzz-lightyear-at-30-how-sci-fis-most-famous-flying-toy-took-us-to-infinity-and-beyond)
 - [Watch live as near-Earth asteroid Eros buzzes the Andromeda Galaxy on Nov. 30 &lpar;video&rpar;](https://www.space.com/stargazing/watch-live-as-near-earth-asteroid-eros-buzzes-the-andromeda-galaxy-on-nov-30-video)
-- [No, you can’t get your AI to ‘admit’ to being sexist, but it probably is](https://techcrunch.com/2025/11/29/no-you-cant-get-your-ai-to-admit-to-being-sexist-but-it-probably-is/)
-- [Space.com headlines crossword quiz for week of Nov. 24, 2025: The strange star Kepler-56 is classified as this type of star](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-nov-24-2025-the-strange-star-kepler-56-is-classified-as-this-type-of-star)
 <!-- BLOG-POST-LIST:END -->
 
 ---
