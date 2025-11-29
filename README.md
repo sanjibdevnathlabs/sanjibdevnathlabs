@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Physicists and philosophers have long struggled to understand the nature of time: Here&#39;s why](https://www.space.com/science/particle-physics/physicists-and-philosophers-have-long-struggled-to-understand-the-nature-of-time-heres-why)
+- [Crush the Rebel scum with $33 off this full-sized Star Wars Scout Trooper Helmet, but you&#39;ll have to hurry](https://www.space.com/entertainment/space-toys-lego/crush-the-rebel-scum-with-33-dollars-off-this-full-sized-star-wars-scout-trooper-helmet-but-youll-have-to-hurry)
+- [Our Lego expert ranks this as the best version of Jango Fett&#39;s ship and it&#39;s cheaper than ever this Black Friday](https://www.space.com/entertainment/space-toys-lego/our-lego-expert-ranks-this-as-the-best-version-of-jango-fetts-ship-and-its-cheaper-than-ever-this-black-friday)
 - [This Sony camera dominates our buying guides and this Black Friday it&#39;s $900 off](https://www.space.com/stargazing/skywatching-kit/this-sony-camera-dominates-our-buying-guides-and-this-black-friday-its-900-dollars-off)
 - [I take these compact Nikon Stabilized 12x25 binoculars with me everywhere and they just dropped in price, again.](https://www.space.com/stargazing/skywatching-kit/i-take-these-compact-nikon-stabilized-12x25-binoculars-with-me-everywhere-and-they-just-dropped-in-price-again)
-- [Satellites capture aftermath of Ethiopian volcano&#39;s 1st eruption in recorded history &lpar;images&rpar;](https://www.space.com/space-exploration/satellites/satellites-capture-aftermath-of-ethiopian-volcanos-1st-eruption-in-recorded-history-images)
-- [Save over 60% on Disney Plus &lpar;and Hulu!&rpar; this Black Friday for the best vintage Disney space films](https://www.space.com/entertainment/space-movies-shows/save-over-60-percent-on-disney-plus-and-hulu-this-black-friday-for-the-best-vintage-disney-space-films)
-- [10 of the best things to see with your smart telescope in the winter night sky](https://www.space.com/stargazing/skywatching-kit/10-of-the-best-things-to-see-with-your-smart-telescope-in-the-winter-night-sky)
 <!-- BLOG-POST-LIST:END -->
 
 ---
