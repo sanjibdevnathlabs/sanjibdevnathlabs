@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VC Kara Nortman bet early on women’s sports, and now she’s creating the market](https://techcrunch.com/2025/11/28/vc-kara-nortman-bet-early-on-womens-sports-and-now-shes-creating-the-market/)
 - [Supabase hit $5B by turning down million-dollar contracts. Here’s why.](https://techcrunch.com/video/supabase-hit-5b-by-turning-down-million-dollar-contracts-heres-why/)
 - [Beyond the habitable zone: Exoplanet atmospheres are the next clue to finding life on planets orbiting distant stars](https://www.space.com/space-exploration/search-for-life/beyond-the-habitable-zone-exoplanet-atmospheres-are-the-next-clue-to-finding-life-on-planets-orbiting-distant-stars)
 - [NASA probe captures stunning photos of Earth and moon on the way to infamous asteroid Apophis](https://www.space.com/astronomy/asteroids/nasa-probe-captures-stunning-photos-of-earth-and-moon-on-the-way-to-infamous-asteroid-apophis)
 - [Astronauts welcome arrival of new crewmates | On the ISS this week Nov. 24-28, 2025](https://www.space.com/space-exploration/international-space-station/astronauts-welcome-arrival-of-new-crewmates-on-the-iss-this-week-nov-24-28-2025)
-- [I&#39;ve scoured the internet and found this great streaming deal — save over 60% on two major streaming services and watch the Predator movies and more, for less](https://www.space.com/entertainment/space-movies-shows/disney-plus-hulu-bundle-stream-predator-and-more-over-60-percent-off-black-friday)
 <!-- BLOG-POST-LIST:END -->
 
 ---
