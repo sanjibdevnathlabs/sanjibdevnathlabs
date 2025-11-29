@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Sony camera dominates our buying guides and this Black Friday it&#39;s $900 off](https://www.space.com/stargazing/skywatching-kit/this-sony-camera-dominates-our-buying-guides-and-this-black-friday-its-900-dollars-off)
+- [I take these compact Nikon Stabilized 12x25 binoculars with me everywhere and they just dropped in price, again.](https://www.space.com/stargazing/skywatching-kit/i-take-these-compact-nikon-stabilized-12x25-binoculars-with-me-everywhere-and-they-just-dropped-in-price-again)
 - [Satellites capture aftermath of Ethiopian volcano&#39;s 1st eruption in recorded history &lpar;images&rpar;](https://www.space.com/space-exploration/satellites/satellites-capture-aftermath-of-ethiopian-volcanos-1st-eruption-in-recorded-history-images)
 - [Save over 60% on Disney Plus &lpar;and Hulu!&rpar; this Black Friday for the best vintage Disney space films](https://www.space.com/entertainment/space-movies-shows/save-over-60-percent-on-disney-plus-and-hulu-this-black-friday-for-the-best-vintage-disney-space-films)
 - [10 of the best things to see with your smart telescope in the winter night sky](https://www.space.com/stargazing/skywatching-kit/10-of-the-best-things-to-see-with-your-smart-telescope-in-the-winter-night-sky)
-- [VC Kara Nortman bet early on women’s sports, and now she’s creating the market](https://techcrunch.com/2025/11/28/vc-kara-nortman-bet-early-on-womens-sports-and-now-shes-creating-the-market/)
-- [Supabase hit $5B by turning down million-dollar contracts. Here’s why.](https://techcrunch.com/video/supabase-hit-5b-by-turning-down-million-dollar-contracts-heres-why/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
