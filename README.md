@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT launched three years ago today](https://techcrunch.com/2025/11/30/chatgpt-launched-three-years-ago-today/)
 - [Is this the cheapest Black Friday telescope deal we&#39;ve seen? Yes! Best budget telescope now $182 in time for Christmas!](https://www.space.com/stargazing/skywatching-kit/buying-a-beginners-telescope-for-christmas-one-of-the-best-budget-telescopes-we-recommend-now-only-182-dollars-in-the-black-friday-sales)
 - [Behind the scenes of drone food delivery in Finland](https://techcrunch.com/2025/11/30/behind-the-scenes-of-drone-food-delivery-in-finland/)
 - [Earth&#39;s newfound &#39;episodic-squishy lid&#39; may guide our search for habitable worlds](https://www.space.com/astronomy/earth/earths-newfound-episodic-squishy-lid-may-guide-our-search-for-habitable-worlds)
 - [James Webb Space Telescope spies mysterious high-energy radiation in star nursery](https://www.space.com/astronomy/james-webb-space-telescope-spies-mysterious-high-energy-radiation-in-star-nursery)
-- [I can&#39;t find the Canon EOS R5 II any cheaper this Black Friday weekend — save $499 now!](https://www.space.com/stargazing/skywatching-kit/i-cant-find-the-canon-eos-r5-ii-any-cheaper-this-black-friday-weekend-save-499-dollars-now)
 <!-- BLOG-POST-LIST:END -->
 
 ---
