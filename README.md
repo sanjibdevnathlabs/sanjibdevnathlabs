@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to see Saturn and Jupiter with a telescope](https://www.space.com/stargazing/skywatching-kit/how-to-see-saturn-and-jupiter-with-a-telescope)
 - [Airbus orders software fix to thousands of planes due to solar radiation risk](https://techcrunch.com/2025/11/29/airbus-orders-software-fix-to-thousands-of-planes-due-to-solar-radiation-risk/)
 - [Black Friday sets online spending record of $11.8B, Adobe says](https://techcrunch.com/2025/11/29/black-friday-sets-online-spending-record-of-11-8b-adobe-says/)
 - [New York state law takes aim at personalized pricing](https://techcrunch.com/2025/11/29/new-york-state-law-takes-aim-at-personalized-pricing/)
 - [Buzz Lightyear at 30: How sci-fi&#39;s most famous flying toy took us to infinity… and beyond](https://www.space.com/entertainment/space-movies-shows/buzz-lightyear-at-30-how-sci-fis-most-famous-flying-toy-took-us-to-infinity-and-beyond)
-- [Watch live as near-Earth asteroid Eros buzzes the Andromeda Galaxy on Nov. 30 &lpar;video&rpar;](https://www.space.com/stargazing/watch-live-as-near-earth-asteroid-eros-buzzes-the-andromeda-galaxy-on-nov-30-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
