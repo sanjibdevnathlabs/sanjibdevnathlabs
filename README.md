@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Limited-time Black Friday lightsaber deal at Disney store — our best Ahsoka lightsaber is now $80 off, but you&#39;ll have to hurry](https://www.space.com/entertainment/space-toys-lego/limited-time-black-friday-lightsaber-deal-our-best-ahsoka-lightsaber-is-now-80-dollars-off-but-youll-have-to-hurry)
+- [How will the universe end?](https://www.space.com/astronomy/how-will-the-universe-end)
+- [Have gravitational waves provided the first hint of primordial black holes born during the Big Bang?](https://www.space.com/astronomy/black-holes/have-gravitational-waves-provided-the-first-hint-of-primordial-black-holes-born-during-the-big-bang)
 - [I&#39;ve handpicked these camera and lens deals — save some serious cash this Black Friday weekend](https://www.space.com/stargazing/skywatching-kit/ive-handpicked-these-camera-and-lens-deals-save-some-serious-cash-this-black-friday-weekend)
 - [Highest powered astronomy binoculars we have tested — now $140 cheaper this Black Friday weekend](https://www.space.com/stargazing/skywatching-kit/highest-powered-astronomy-binoculars-we-have-tested-now-usd140-cheaper-this-black-friday-weekend)
-- [How to see Saturn and Jupiter with a telescope](https://www.space.com/stargazing/skywatching-kit/how-to-see-saturn-and-jupiter-with-a-telescope)
-- [Airbus orders software fix to thousands of planes due to solar radiation risk](https://techcrunch.com/2025/11/29/airbus-orders-software-fix-to-thousands-of-planes-due-to-solar-radiation-risk/)
-- [Black Friday sets online spending record of $11.8B, Adobe says](https://techcrunch.com/2025/11/29/black-friday-sets-online-spending-record-of-11-8b-adobe-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
