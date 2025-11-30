@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Behind the scenes of drone food delivery in Finland](https://techcrunch.com/2025/11/30/behind-the-scenes-of-drone-food-delivery-in-finland/)
 - [Earth&#39;s newfound &#39;episodic-squishy lid&#39; may guide our search for habitable worlds](https://www.space.com/astronomy/earth/earths-newfound-episodic-squishy-lid-may-guide-our-search-for-habitable-worlds)
 - [James Webb Space Telescope spies mysterious high-energy radiation in star nursery](https://www.space.com/astronomy/james-webb-space-telescope-spies-mysterious-high-energy-radiation-in-star-nursery)
 - [I can&#39;t find the Canon EOS R5 II any cheaper this Black Friday weekend — save $499 now!](https://www.space.com/stargazing/skywatching-kit/i-cant-find-the-canon-eos-r5-ii-any-cheaper-this-black-friday-weekend-save-499-dollars-now)
 - [The best star projector for kids, as crowned by our expert reviewers, is 38% off for Black Friday](https://www.space.com/technology/the-best-star-projector-for-kids-as-crowned-by-our-expert-staff-and-freelancers-is-38-percent-off-for-black-friday)
-- [Flying off the shelves! The best drone on the market is $500 off this Cyber Monday weekend](https://www.space.com/technology/drones/the-best-drone-on-the-market-is-500-dollars-off-this-cyber-monday-weekend-black-friday-dji-mavic-4-pro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
