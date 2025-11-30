@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best star projector for kids, as crowned by our expert reviewers, is 38% off for Black Friday](https://www.space.com/technology/the-best-star-projector-for-kids-as-crowned-by-our-expert-staff-and-freelancers-is-38-percent-off-for-black-friday)
 - [Flying off the shelves! The best drone on the market is $500 off this Cyber Monday weekend](https://www.space.com/technology/drones/the-best-drone-on-the-market-is-500-dollars-off-this-cyber-monday-weekend-black-friday-dji-mavic-4-pro)
 - [2026 is going to be a big year for Star Wars, so start feeling the Force early with 58% off this impressive Lightsaber over the Black Friday weekend](https://www.space.com/entertainment/space-toys-lego/2026-is-going-to-be-a-big-year-for-star-wars-so-start-feeling-the-force-early-with-58-percent-off-this-impressive-lightsaber-over-the-black-friday-weekend)
 - [Limited-time Black Friday lightsaber deal at Disney store — our best Ahsoka lightsaber is now $80 off, but you&#39;ll have to hurry](https://www.space.com/entertainment/space-toys-lego/limited-time-black-friday-lightsaber-deal-our-best-ahsoka-lightsaber-is-now-80-dollars-off-but-youll-have-to-hurry)
 - [How will the universe end?](https://www.space.com/astronomy/how-will-the-universe-end)
-- [Have gravitational waves provided the first hint of primordial black holes born during the Big Bang?](https://www.space.com/astronomy/black-holes/have-gravitational-waves-provided-the-first-hint-of-primordial-black-holes-born-during-the-big-bang)
 <!-- BLOG-POST-LIST:END -->
 
 ---
