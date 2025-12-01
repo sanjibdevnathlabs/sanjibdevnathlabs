@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA exoplanet-hunting spacecraft hears a red giant star &#39;singing&#39; to its partner black hole](https://www.space.com/astronomy/black-holes/nasa-exoplanet-hunting-spacecraft-hears-a-red-giant-star-singing-to-its-partner-black-hole)
-- [Are you shopping securely this Cyber Monday? Don&#39;t risk your online safety, save up to 77% off with this NordVPN deal](https://www.space.com/stargazing/skywatching-kit/are-you-shopping-securely-this-cyber-monday-dont-risk-your-online-safety-save-up-to-77-percent-off-with-this-nordvpn-deal)
-- [Sun unleashes powerful X-class solar flare, knocking out radio signals across Australia](https://www.space.com/astronomy/sun/sun-unleashes-powerful-x-class-solar-flare-knocking-out-radio-signals-across-australia-dec-1-2025)
-- [This Lego Star Wars Executor Super Star Destroyer is the best set I&#39;ve built and it&#39;s just $40 this Cyber Monday](https://www.space.com/entertainment/space-toys-lego/this-lego-star-wars-executor-super-star-destroyer-is-the-best-set-ive-built-and-its-just-40-dollars-this-cyber-monday)
-- [OpenAI’s investment into Thrive Holdings is its latest circular deal](https://techcrunch.com/2025/12/01/openais-investment-into-thrive-holdings-is-its-latest-circular-deal/)
+- [Construction workers are cashing in on the AI boom](https://techcrunch.com/2025/12/01/construction-workers-are-cashing-in-on-the-ai-boom/)
+- [Data center energy demand forecasted to soar nearly 300% through 2035](https://techcrunch.com/2025/12/01/data-center-energy-demand-forecasted-to-soar-nearly-300-through-2035/)
+- [&#39;Marvel Cosmic Invasion&#39; is an old-fashioned space adventure up featuring one of the greatest Marvel villains of all time &lpar;review&rpar;](https://www.space.com/entertainment/space-games/marvel-cosmic-invasion-is-an-old-fashioned-space-adventure-up-featuring-one-of-the-greatest-marvel-villains-of-all-time-review)
+- [European cops shut down crypto mixing website that helped launder 1.3 billion euros](https://techcrunch.com/2025/12/01/european-cops-shut-down-crypto-mixing-website-that-helped-launder-1-3-billion-euros/)
+- [Festivitas lets you decorate your Apple devices with holiday lights and snow](https://techcrunch.com/2025/12/01/festivitas-lets-you-decorate-your-apple-devices-with-holiday-lights-and-snow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
