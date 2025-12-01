@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA exoplanet-hunting spacecraft hears a red giant star &#39;singing&#39; to its partner black hole](https://www.space.com/astronomy/black-holes/nasa-exoplanet-hunting-spacecraft-hears-a-red-giant-star-singing-to-its-partner-black-hole)
+- [Are you shopping securely this Cyber Monday? Don&#39;t risk your online safety, save up to 77% off with this NordVPN deal](https://www.space.com/stargazing/skywatching-kit/are-you-shopping-securely-this-cyber-monday-dont-risk-your-online-safety-save-up-to-77-percent-off-with-this-nordvpn-deal)
 - [Sun unleashes powerful X-class solar flare, knocking out radio signals across Australia](https://www.space.com/astronomy/sun/sun-unleashes-powerful-x-class-solar-flare-knocking-out-radio-signals-across-australia-dec-1-2025)
 - [This Lego Star Wars Executor Super Star Destroyer is the best set I&#39;ve built and it&#39;s just $40 this Cyber Monday](https://www.space.com/entertainment/space-toys-lego/this-lego-star-wars-executor-super-star-destroyer-is-the-best-set-ive-built-and-its-just-40-dollars-this-cyber-monday)
 - [OpenAI’s investment into Thrive Holdings is its latest circular deal](https://techcrunch.com/2025/12/01/openais-investment-into-thrive-holdings-is-its-latest-circular-deal/)
-- [Deezer rolls out ‘My Deezer Year 2025,’ its Spotify Wrapped clone](https://techcrunch.com/2025/12/01/deezer-rolls-out-my-deezer-year-2025-its-spotify-wrapped-clone/)
-- [Nvidia’s $2B Synopsys bet tightens its grip on the chip-design stack](https://techcrunch.com/2025/12/01/nvidias-2b-synopsys-bet-tightens-its-grip-on-the-chip-design-stack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
