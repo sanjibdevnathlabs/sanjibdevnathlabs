@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zillow drops climate risk scores after agents complained of lost sales](https://techcrunch.com/2025/12/01/zillow-drops-climate-risk-scores-after-agents-complained-of-lost-sales/)
 - [Scientists discover 53 powerful quasars shooting out jets up to 50 times wider than our Milky Way](https://www.space.com/astronomy/black-holes/scientists-discover-53-powerful-quasars-shooting-out-jets-up-to-50-times-wider-than-our-milky-way)
 - [It&#39;s your last chance to unlock a world of science fiction and science fact for just $2.99 a month with this HBO Max offer](https://www.space.com/stargazing/skywatching-kit/its-your-last-chance-to-unlock-a-world-of-science-fiction-and-science-fact-for-just-usd2-99-a-month-with-this-hbo-max-offer)
 - [Looking for a last-minute bargain? These Cyber Monday streaming, Lego and drone deals are must-haves, but time&#39;s running out, so you&#39;ll have to hurry](https://www.space.com/technology/looking-for-a-last-minute-bargain-these-cyber-monday-streaming-lego-and-drone-deals-are-must-haves-but-times-running-out-so-youll-have-to-hurry)
 - [Shopify resolves outage disrupting merchants on Cyber Monday](https://techcrunch.com/2025/12/01/shopify-resolves-outage-disrupting-merchants-on-cyber-monday/)
-- [Nvidia announces new open AI models and tools for autonomous driving research](https://techcrunch.com/2025/12/01/nvidia-announces-new-open-ai-models-and-tools-for-autonomous-driving-research/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
