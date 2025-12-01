@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI PR startup Clipbook won Mark Cuban’s investment from a cold email](https://techcrunch.com/2025/12/01/how-ai-pr-startup-clipbook-won-mark-cubans-investment-from-a-cold-email/)
-- [Amazon&#39;s 23 best Cyber Monday deals on telescopes, binoculars and cameras](https://www.space.com/stargazing/skywatching-kit/top-23-best-amazon-deals-on-telescopes-binoculars-and-cameras-we-recommend)
-- [This Cyber Monday deal ends tomorrow — don&#39;t miss this huge discount on Paramount Plus, just $2.99 a month](https://www.space.com/entertainment/space-movies-shows/this-cyber-monday-deal-ends-tomorrow-dont-miss-this-huge-discount-on-paramount-plus-just-2-99-dollars-a-month)
-- [Europe could get 42 more days of summer by the year 2100 due to climate change](https://www.space.com/science/climate-change/europe-could-get-42-more-days-of-summer-by-the-year-2100-due-to-climate-change)
-- [Pocket the Occer 12x25 compact binoculars for under $20 this Cyber Monday!](https://www.space.com/stargazing/skywatching-kit/pocket-the-occer-12x25-compact-binoculars-for-under-usd20-this-cyber-monday)
+- [Sun unleashes powerful X-class solar flare, knocking out radio signals across Australia](https://www.space.com/astronomy/sun/sun-unleashes-powerful-x-class-solar-flare-knocking-out-radio-signals-across-australia-dec-1-2025)
+- [This Lego Star Wars Executor Super Star Destroyer is the best set I&#39;ve built and it&#39;s just $40 this Cyber Monday](https://www.space.com/entertainment/space-toys-lego/this-lego-star-wars-executor-super-star-destroyer-is-the-best-set-ive-built-and-its-just-40-dollars-this-cyber-monday)
+- [OpenAI’s investment into Thrive Holdings is its latest circular deal](https://techcrunch.com/2025/12/01/openais-investment-into-thrive-holdings-is-its-latest-circular-deal/)
+- [Deezer rolls out ‘My Deezer Year 2025,’ its Spotify Wrapped clone](https://techcrunch.com/2025/12/01/deezer-rolls-out-my-deezer-year-2025-its-spotify-wrapped-clone/)
+- [Nvidia’s $2B Synopsys bet tightens its grip on the chip-design stack](https://techcrunch.com/2025/12/01/nvidias-2b-synopsys-bet-tightens-its-grip-on-the-chip-design-stack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
