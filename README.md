@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MKBHD’s wallpaper app Panels is shutting down](https://techcrunch.com/2025/12/01/mkbhds-wallpaper-app-panels-is-shutting-down/)
+- [1st European to fly to the moon will be German](https://www.space.com/space-exploration/human-spaceflight/1st-european-to-fly-to-the-moon-will-be-german)
 - [Construction workers are cashing in on the AI boom](https://techcrunch.com/2025/12/01/construction-workers-are-cashing-in-on-the-ai-boom/)
 - [Data center energy demand forecasted to soar nearly 300% through 2035](https://techcrunch.com/2025/12/01/data-center-energy-demand-forecasted-to-soar-nearly-300-through-2035/)
-- [&#39;Marvel Cosmic Invasion&#39; is an old-fashioned space adventure up featuring one of the greatest Marvel villains of all time &lpar;review&rpar;](https://www.space.com/entertainment/space-games/marvel-cosmic-invasion-is-an-old-fashioned-space-adventure-up-featuring-one-of-the-greatest-marvel-villains-of-all-time-review)
-- [European cops shut down crypto mixing website that helped launder 1.3 billion euros](https://techcrunch.com/2025/12/01/european-cops-shut-down-crypto-mixing-website-that-helped-launder-1-3-billion-euros/)
-- [Festivitas lets you decorate your Apple devices with holiday lights and snow](https://techcrunch.com/2025/12/01/festivitas-lets-you-decorate-your-apple-devices-with-holiday-lights-and-snow/)
+- [&#39;Marvel Cosmic Invasion&#39; is an old-fashioned space adventure featuring one of the greatest Marvel villains of all time &lpar;review&rpar;](https://www.space.com/entertainment/space-games/marvel-cosmic-invasion-is-an-old-fashioned-space-adventure-up-featuring-one-of-the-greatest-marvel-villains-of-all-time-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
