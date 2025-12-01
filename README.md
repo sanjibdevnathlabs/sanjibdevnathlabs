@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Black Forest Labs raises $300M at $3.25B valuation](https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation/)
-- [Cygnus XL brings cargo to the ISS for 1st time | Space photo of the day for Dec. 1, 2025](https://www.space.com/space-exploration/international-space-station/cygnus-xl-brings-cargo-to-the-iss-for-1st-time-space-photo-of-the-day-for-dec-1-2025)
-- [Is the new Lego Star Wars UCS Death Star set really worth it?](https://www.space.com/entertainment/space-toys-lego/is-the-new-lego-star-wars-ucs-death-star-set-really-worth-it)
-- [Electric discovery on Mars! Scientists find tiny lightning bolts coming from Red Planet dust clouds](https://www.space.com/astronomy/mars/electric-discovery-on-mars-scientists-find-tiny-lightning-bolts-coming-from-red-planet-dust-clouds)
-- [SpaceX blasts off into December with early morning Starlink launch from Florida &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-b1095-group-6-86-jrti)
+- [Europe could get 42 more days of summer by the year 2100 due to climate change](https://www.space.com/science/climate-change/europe-could-get-42-more-days-of-summer-by-the-year-2100-due-to-climate-change)
+- [Pocket the Occer 12x25 compact binoculars for under $20 this Cyber Monday!](https://www.space.com/stargazing/skywatching-kit/pocket-the-occer-12x25-compact-binoculars-for-under-usd20-this-cyber-monday)
+- [&quot;Stunning Lego recreation of one of Star Wars&#39; coolest ships&quot; is £160 off with this UK Cyber Monday deal](https://www.space.com/stargazing/skywatching-kit/stunning-lego-recreation-of-one-of-star-wars-coolest-ships-is-gbp160-off-with-this-uk-cyber-monday-deal)
+- [At least 80 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/12/01/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/)
+- [It&#39;s your last chance to grab these must-have Cyber Monday streaming deals: Save over 70% on Paramount Plus and over 60% on Disney Plus and Hulu](https://www.space.com/entertainment/space-movies-shows/last-chance-must-have-cyber-monday-streaming-deals-save-over-70-percent-paramount-plus-disney-plus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
