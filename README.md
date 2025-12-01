@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists discover 53 powerful quasars shooting out jets up to 50 times wider than our Milky Way](https://www.space.com/astronomy/black-holes/scientists-discover-53-powerful-quasars-shooting-out-jets-up-to-50-times-wider-than-our-milky-way)
+- [It&#39;s your last chance to unlock a world of science fiction and science fact for just $2.99 a month with this HBO Max offer](https://www.space.com/stargazing/skywatching-kit/its-your-last-chance-to-unlock-a-world-of-science-fiction-and-science-fact-for-just-usd2-99-a-month-with-this-hbo-max-offer)
+- [Looking for a last-minute bargain? These Cyber Monday streaming, Lego and drone deals are must-haves, but time&#39;s running out, so you&#39;ll have to hurry](https://www.space.com/technology/looking-for-a-last-minute-bargain-these-cyber-monday-streaming-lego-and-drone-deals-are-must-haves-but-times-running-out-so-youll-have-to-hurry)
+- [Shopify resolves outage disrupting merchants on Cyber Monday](https://techcrunch.com/2025/12/01/shopify-resolves-outage-disrupting-merchants-on-cyber-monday/)
 - [Nvidia announces new open AI models and tools for autonomous driving research](https://techcrunch.com/2025/12/01/nvidia-announces-new-open-ai-models-and-tools-for-autonomous-driving-research/)
-- [AWS re:Invent 2025: How to watch and follow along live](https://techcrunch.com/2025/12/01/aws-reinvent-2025-how-to-watch-and-follow-along-live/)
-- [MKBHD’s wallpaper app Panels is shutting down](https://techcrunch.com/2025/12/01/mkbhds-wallpaper-app-panels-is-shutting-down/)
-- [1st European to fly to the moon will be German](https://www.space.com/space-exploration/human-spaceflight/1st-european-to-fly-to-the-moon-will-be-german)
-- [Construction workers are cashing in on the AI boom](https://techcrunch.com/2025/12/01/construction-workers-are-cashing-in-on-the-ai-boom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
