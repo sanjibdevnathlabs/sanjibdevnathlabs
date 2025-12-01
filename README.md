@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Black Forest Labs raises $300M at $3.25B valuation](https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation/)
+- [Cygnus XL brings cargo to the ISS for 1st time | Space photo of the day for Dec. 1, 2025](https://www.space.com/space-exploration/international-space-station/cygnus-xl-brings-cargo-to-the-iss-for-1st-time-space-photo-of-the-day-for-dec-1-2025)
 - [Is the new Lego Star Wars UCS Death Star set really worth it?](https://www.space.com/entertainment/space-toys-lego/is-the-new-lego-star-wars-ucs-death-star-set-really-worth-it)
 - [Electric discovery on Mars! Scientists find tiny lightning bolts coming from Red Planet dust clouds](https://www.space.com/astronomy/mars/electric-discovery-on-mars-scientists-find-tiny-lightning-bolts-coming-from-red-planet-dust-clouds)
 - [SpaceX blasts off into December with early morning Starlink launch from Florida &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-b1095-group-6-86-jrti)
-- [Star Wars collectors pay attention! Be the Jedi you were born to be with this Cyber Monday lightsaber deal, now 20% off](https://www.space.com/technology/save-credits-cyber-monday-lightsaber-deal-now-20-percent-off-skywalker-legacy-collectible-set)
-- [Korea’s Coupang says data breach exposed nearly 34M customers’ personal information](https://techcrunch.com/2025/12/01/koreas-coupang-says-data-breach-exposed-nearly-34m-customers-personal-information/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
