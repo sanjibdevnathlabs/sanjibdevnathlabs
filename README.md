@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How AI PR startup Clipbook won Mark Cuban’s investment from a cold email](https://techcrunch.com/2025/12/01/how-ai-pr-startup-clipbook-won-mark-cubans-investment-from-a-cold-email/)
+- [Amazon&#39;s 23 best Cyber Monday deals on telescopes, binoculars and cameras](https://www.space.com/stargazing/skywatching-kit/top-23-best-amazon-deals-on-telescopes-binoculars-and-cameras-we-recommend)
+- [This Cyber Monday deal ends tomorrow — don&#39;t miss this huge discount on Paramount Plus, just $2.99 a month](https://www.space.com/entertainment/space-movies-shows/this-cyber-monday-deal-ends-tomorrow-dont-miss-this-huge-discount-on-paramount-plus-just-2-99-dollars-a-month)
 - [Europe could get 42 more days of summer by the year 2100 due to climate change](https://www.space.com/science/climate-change/europe-could-get-42-more-days-of-summer-by-the-year-2100-due-to-climate-change)
 - [Pocket the Occer 12x25 compact binoculars for under $20 this Cyber Monday!](https://www.space.com/stargazing/skywatching-kit/pocket-the-occer-12x25-compact-binoculars-for-under-usd20-this-cyber-monday)
-- [&quot;Stunning Lego recreation of one of Star Wars&#39; coolest ships&quot; is £160 off with this UK Cyber Monday deal](https://www.space.com/stargazing/skywatching-kit/stunning-lego-recreation-of-one-of-star-wars-coolest-ships-is-gbp160-off-with-this-uk-cyber-monday-deal)
-- [At least 80 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/12/01/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/)
-- [It&#39;s your last chance to grab these must-have Cyber Monday streaming deals: Save over 70% on Paramount Plus and over 60% on Disney Plus and Hulu](https://www.space.com/entertainment/space-movies-shows/last-chance-must-have-cyber-monday-streaming-deals-save-over-70-percent-paramount-plus-disney-plus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
