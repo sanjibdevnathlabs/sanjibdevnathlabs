@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Varda says it has proven space manufacturing works — now it wants to make it boring](https://techcrunch.com/2025/11/30/varda-says-it-has-proven-space-manufacturing-works-now-it-wants-to-make-it-boring/)
 - [‘Avatar’ director James Cameron says generative AI is ‘horrifying’](https://techcrunch.com/2025/11/30/avatar-director-james-cameron-says-generative-ai-is-horrifying/)
 - [New report examines how David Sacks might profit from Trump administration role](https://techcrunch.com/2025/11/30/new-report-examines-how-david-sacks-might-profit-from-trump-administration-role/)
 - [ChatGPT launched three years ago today](https://techcrunch.com/2025/11/30/chatgpt-launched-three-years-ago-today/)
 - [Is this the cheapest Black Friday telescope deal we&#39;ve seen? Yes! Best budget telescope now $182 in time for Christmas!](https://www.space.com/stargazing/skywatching-kit/buying-a-beginners-telescope-for-christmas-one-of-the-best-budget-telescopes-we-recommend-now-only-182-dollars-in-the-black-friday-sales)
-- [Behind the scenes of drone food delivery in Finland](https://techcrunch.com/2025/11/30/behind-the-scenes-of-drone-food-delivery-in-finland/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
