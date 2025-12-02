@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What does it mean when Uncle Sam is one of your biggest shareholders? Chip startup xLight is about to find out](https://techcrunch.com/2025/12/01/what-does-it-mean-when-uncle-sam-is-one-of-your-biggest-shareholders-chip-startup-xlight-is-about-to-find-out/)
 - [Apple just named a new AI chief with Google and Microsoft expertise, as John Giannandrea steps down](https://techcrunch.com/2025/12/01/apple-just-named-a-new-ai-chief-with-google-and-microsoft-expertise-as-john-giannandrea-steps-down/)
 - [One of Google’s biggest AI advantages is what it already knows about you](https://techcrunch.com/2025/12/01/one-of-googles-biggest-ai-advantages-is-what-it-already-knows-about-you/)
 - [Zillow drops climate risk scores after agents complained of lost sales](https://techcrunch.com/2025/12/01/zillow-drops-climate-risk-scores-after-agents-complained-of-lost-sales/)
 - [Scientists discover 53 powerful quasars shooting out jets up to 50 times wider than our Milky Way](https://www.space.com/astronomy/black-holes/scientists-discover-53-powerful-quasars-shooting-out-jets-up-to-50-times-wider-than-our-milky-way)
-- [It&#39;s your last chance to unlock a world of science fiction and science fact for just $2.99 a month with this HBO Max offer](https://www.space.com/stargazing/skywatching-kit/its-your-last-chance-to-unlock-a-world-of-science-fiction-and-science-fact-for-just-usd2-99-a-month-with-this-hbo-max-offer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
