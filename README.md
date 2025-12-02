@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [30 years of SOHO staring at the sun | Space photo of the day for Dec. 2, 2025](https://www.space.com/astronomy/sun/30-years-of-soho-staring-at-the-sun-space-photo-of-the-day-for-dec-2-2025)
-- [One of the best Lego Star Wars UCS sets is still £160 off in the UK with this Cyber Monday deal, but you&#39;ll have to be fast](https://www.space.com/entertainment/space-toys-lego/one-of-the-best-lego-star-wars-ucs-sets-is-still-160-pounds-off-in-the-uk-with-this-cyber-monday-deal)
-- [That&#39;s one small step for trivia: An Apollo space quiz](https://www.space.com/space-exploration/apollo/thats-one-small-step-for-trivia-an-apollo-space-quiz)
-- [Apple Music’s Replay 2025 is here](https://techcrunch.com/2025/12/02/apple-musics-replay-2025-is-here/)
-- [A dying satellite could use its final moments to photograph the infamous asteroid Apophis in 2029](https://www.space.com/astronomy/asteroids/a-dying-satellite-could-use-its-final-moments-to-photograph-the-infamous-asteroid-apophis-in-2029)
+- [Could future astronauts build houses on Mars with bacteria?](https://www.space.com/astronomy/mars/could-future-astronauts-build-houses-on-mars-with-bacteria)
+- [Simular’s AI agent wants to run your Mac, Windows PC for you](https://techcrunch.com/2025/12/02/simular-releases-mac-os-ai-agent-raises-21-5m-from-felicis-with-windows-coming-soon/)
+- [Amazon releases an impressive new AI chip and teases a Nvidia-friendly roadmap](https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/)
+- [AWS announces new capabilities for its AI agent builder](https://techcrunch.com/2025/12/02/aws-announces-new-capabilities-for-its-ai-agent-builder/)
+- [Mistral closes in on Big AI rivals with new open-weight frontier and small models](https://techcrunch.com/2025/12/02/mistral-closes-in-on-big-ai-rivals-with-mistral-3-open-weight-frontier-and-small-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
