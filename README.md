@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [For the 1st time ever, 8 spacecraft are docked to the International Space Station](https://www.space.com/space-exploration/international-space-station/for-the-1st-time-ever-8-spacecraft-are-docked-to-the-international-space-station)
+- [The future of deep tech will be explained to you at StrictlyVC Palo Alto on Dec 3](https://techcrunch.com/2025/12/02/the-future-of-deep-tech-will-be-explained-to-you-at-strictlyvc-palo-alto-on-dec-3/)
+- [Microreactor startup Antares raises $96M for land, sea, and space-based nuclear power](https://techcrunch.com/2025/12/02/microreactor-startup-antares-raises-96m-for-land-sea-and-space-based-nuclear-power/)
 - [Hurry! The best done on the market is still on sale for Cyber Monday, but there are only a few left in stock](https://www.space.com/technology/drones/hurry-the-best-done-on-the-market-is-still-on-sale-for-cyber-monday-but-theres-only-a-few-left-in-stock)
 - [The spectacle of Bryan Johnson and his livestreamed shrooms trip](https://techcrunch.com/2025/12/02/the-spectacle-of-bryan-johnson-and-his-livestreamed-shrooms-trip/)
-- [Android 16 adds AI notification summaries, new customization options, and more](https://techcrunch.com/2025/12/02/android-16-adds-ai-notification-summaries-new-customization-options-and-more/)
-- [Europe passes record-breaking space budget while NASA hit with deep cuts](https://www.space.com/space-exploration/europe-passes-record-breaking-space-budget-while-nasa-hit-with-deep-cuts)
-- [China to bring damaged spacecraft back to Earth after sending up replacement for stuck astronauts](https://www.space.com/space-exploration/launches-spacecraft/china-to-bring-damaged-spacecraft-back-to-earth-after-sending-up-replacement-for-stuck-astronauts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
