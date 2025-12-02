@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hurry! The best done on the market is still on sale for Cyber Monday, but there are only a few left in stock](https://www.space.com/technology/drones/hurry-the-best-done-on-the-market-is-still-on-sale-for-cyber-monday-but-theres-only-a-few-left-in-stock)
+- [The spectacle of Bryan Johnson and his livestreamed shrooms trip](https://techcrunch.com/2025/12/02/the-spectacle-of-bryan-johnson-and-his-livestreamed-shrooms-trip/)
 - [Android 16 adds AI notification summaries, new customization options, and more](https://techcrunch.com/2025/12/02/android-16-adds-ai-notification-summaries-new-customization-options-and-more/)
 - [Europe passes record-breaking space budget while NASA hit with deep cuts](https://www.space.com/space-exploration/europe-passes-record-breaking-space-budget-while-nasa-hit-with-deep-cuts)
 - [China to bring damaged spacecraft back to Earth after sending up replacement for stuck astronauts](https://www.space.com/space-exploration/launches-spacecraft/china-to-bring-damaged-spacecraft-back-to-earth-after-sending-up-replacement-for-stuck-astronauts)
-- [These five last-chance Cyber Monday telescope deals are still live, but you&#39;ll have to hurry](https://www.space.com/stargazing/skywatching-kit/these-five-last-chance-cyber-monday-telescope-deals-are-still-live-but-youll-have-to-hurry)
-- [Netflix launches a mobile-friendly version of Red Dead Redemption](https://techcrunch.com/2025/12/02/netflix-launches-a-mobile-friendly-version-of-red-dead-redemption/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
