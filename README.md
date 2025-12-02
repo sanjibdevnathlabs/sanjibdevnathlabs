@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Could future astronauts build houses on Mars with bacteria?](https://www.space.com/astronomy/mars/could-future-astronauts-build-houses-on-mars-with-bacteria)
-- [Simular’s AI agent wants to run your Mac, Windows PC for you](https://techcrunch.com/2025/12/02/simular-releases-mac-os-ai-agent-raises-21-5m-from-felicis-with-windows-coming-soon/)
-- [Amazon releases an impressive new AI chip and teases a Nvidia-friendly roadmap](https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/)
-- [AWS announces new capabilities for its AI agent builder](https://techcrunch.com/2025/12/02/aws-announces-new-capabilities-for-its-ai-agent-builder/)
-- [Mistral closes in on Big AI rivals with new open-weight frontier and small models](https://techcrunch.com/2025/12/02/mistral-closes-in-on-big-ai-rivals-with-mistral-3-open-weight-frontier-and-small-models/)
+- [Round 2: Watch Senate hearing for Jared Isaacman&#39;s re-nomination as NASA chief on Dec. 3](https://www.space.com/space-exploration/round-2-watch-senate-hearing-for-jared-isaacmans-re-nomination-as-nasa-chief-on-dec-3)
+- [OpenAI slammed for app suggestions that looked like ads](https://techcrunch.com/2025/12/02/openai-slammed-for-app-suggestions-that-looked-like-ads/)
+- [Discord users can now buy in-game items without leaving the platform](https://techcrunch.com/2025/12/02/discord-users-can-now-buy-in-game-items-without-leaving-the-platform/)
+- [YouTube releases its first-ever recap of videos you’ve watched](https://techcrunch.com/2025/12/02/youtube-releases-its-first-ever-recap-of-videos-youve-watched/)
+- [A data breach at analytics giant Mixpanel leaves a lot of open questions](https://techcrunch.com/2025/12/02/a-data-breach-at-analytics-giant-mixpanel-leaves-a-lot-of-open-questions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
