@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Round 2: Watch Senate hearing for Jared Isaacman&#39;s re-nomination as NASA chief on Dec. 3](https://www.space.com/space-exploration/round-2-watch-senate-hearing-for-jared-isaacmans-re-nomination-as-nasa-chief-on-dec-3)
-- [OpenAI slammed for app suggestions that looked like ads](https://techcrunch.com/2025/12/02/openai-slammed-for-app-suggestions-that-looked-like-ads/)
-- [Discord users can now buy in-game items without leaving the platform](https://techcrunch.com/2025/12/02/discord-users-can-now-buy-in-game-items-without-leaving-the-platform/)
-- [YouTube releases its first-ever recap of videos you’ve watched](https://techcrunch.com/2025/12/02/youtube-releases-its-first-ever-recap-of-videos-youve-watched/)
-- [A data breach at analytics giant Mixpanel leaves a lot of open questions](https://techcrunch.com/2025/12/02/a-data-breach-at-analytics-giant-mixpanel-leaves-a-lot-of-open-questions/)
+- [China to bring damaged spacecraft back to Earth after sending up replacement for stuck astronauts](https://www.space.com/space-exploration/launches-spacecraft/china-to-bring-damaged-spacecraft-back-to-earth-after-sending-up-replacement-for-stuck-astronauts)
+- [These five last-chance Cyber Monday telescope deals are still live, but you&#39;ll have to hurry](https://www.space.com/stargazing/skywatching-kit/these-five-last-chance-cyber-monday-telescope-deals-are-still-live-but-youll-have-to-hurry)
+- [Netflix launches a mobile-friendly version of Red Dead Redemption](https://techcrunch.com/2025/12/02/netflix-launches-a-mobile-friendly-version-of-red-dead-redemption/)
+- [ChatGPT referrals to retailers’ apps increased 28% year-over-year, says report](https://techcrunch.com/2025/12/02/chatgpt-referrals-to-retailers-apps-increased-28-year-over-year-says-report/)
+- [AWS launches new Nova AI models and a service that gives customers more control](https://techcrunch.com/2025/12/02/aws-launches-new-nova-ai-models-and-a-service-that-gives-customers-more-control/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
