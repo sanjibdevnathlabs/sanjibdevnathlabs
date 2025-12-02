@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [30 years of SOHO staring at the sun | Space photo of the day for Dec. 2, 2025](https://www.space.com/astronomy/sun/30-years-of-soho-staring-at-the-sun-space-photo-of-the-day-for-dec-2-2025)
+- [One of the best Lego Star Wars UCS sets is still £160 off in the UK with this Cyber Monday deal, but you&#39;ll have to be fast](https://www.space.com/entertainment/space-toys-lego/one-of-the-best-lego-star-wars-ucs-sets-is-still-160-pounds-off-in-the-uk-with-this-cyber-monday-deal)
+- [That&#39;s one small step for trivia: An Apollo space quiz](https://www.space.com/space-exploration/apollo/thats-one-small-step-for-trivia-an-apollo-space-quiz)
 - [Apple Music’s Replay 2025 is here](https://techcrunch.com/2025/12/02/apple-musics-replay-2025-is-here/)
 - [A dying satellite could use its final moments to photograph the infamous asteroid Apophis in 2029](https://www.space.com/astronomy/asteroids/a-dying-satellite-could-use-its-final-moments-to-photograph-the-infamous-asteroid-apophis-in-2029)
-- [These last-chance Cyber Monday streaming deals are still live, but not for much longer](https://www.space.com/entertainment/space-movies-shows/these-last-chance-cyber-monday-streaming-deals-are-still-live-but-not-for-much-longer)
-- [Amazon Music’s 2025 Delivered is now here to compete with Spotify Wrapped](https://techcrunch.com/2025/12/02/amazon-musics-2025-delivered-is-now-here-to-compete-with-spotify-wrapped/)
-- [I watched scientists track interstellar comet 3I/ATLAS leaving the solar system in real-time: &#39;This is some prime-time science&#39;](https://www.space.com/astronomy/comets/scientists-cant-get-enough-of-ancient-comet-3i-atlas-in-real-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
