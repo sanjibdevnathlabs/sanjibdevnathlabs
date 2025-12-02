@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Music’s Replay 2025 is here](https://techcrunch.com/2025/12/02/apple-musics-replay-2025-is-here/)
+- [A dying satellite could use its final moments to photograph the infamous asteroid Apophis in 2029](https://www.space.com/astronomy/asteroids/a-dying-satellite-could-use-its-final-moments-to-photograph-the-infamous-asteroid-apophis-in-2029)
 - [These last-chance Cyber Monday streaming deals are still live, but not for much longer](https://www.space.com/entertainment/space-movies-shows/these-last-chance-cyber-monday-streaming-deals-are-still-live-but-not-for-much-longer)
 - [Amazon Music’s 2025 Delivered is now here to compete with Spotify Wrapped](https://techcrunch.com/2025/12/02/amazon-musics-2025-delivered-is-now-here-to-compete-with-spotify-wrapped/)
 - [I watched scientists track interstellar comet 3I/ATLAS leaving the solar system in real-time: &#39;This is some prime-time science&#39;](https://www.space.com/astronomy/comets/scientists-cant-get-enough-of-ancient-comet-3i-atlas-in-real-time)
-- [India plans to verify and record every smartphone in circulation](https://techcrunch.com/2025/12/02/india-plans-to-verify-and-record-every-smartphone-in-circulation/)
-- [With Cyber Monday over, you can still save $50 on this smart telescope, our expert called &#39;small but mighty&#39;](https://www.space.com/stargazing/skywatching-kit/with-cyber-monday-over-you-can-still-save-50-dollars-on-smart-telescope-zwo-seestar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
