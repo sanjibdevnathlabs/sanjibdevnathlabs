@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Paris-based AI voice startup Gradium nabs $70M seed](https://techcrunch.com/2025/12/02/paris-based-ai-voice-startup-gradium-nabs-70m-seed/)
-- [Trump pick for NASA chief Jared Isaacman pledges to move space shuttle Discovery to Houston, lawmaker says](https://www.space.com/space-exploration/trump-pick-for-nasa-chief-jared-isaacman-pledges-to-move-space-shuttle-discovery-to-houston-lawmaker-says)
-- [SpaceX launches 60th mission of the year from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-60th-mission-of-the-year-from-california)
-- [What does it mean when Uncle Sam is one of your biggest shareholders? Chip startup xLight is about to find out](https://techcrunch.com/2025/12/01/what-does-it-mean-when-uncle-sam-is-one-of-your-biggest-shareholders-chip-startup-xlight-is-about-to-find-out/)
-- [Apple just named a new AI chief with Google and Microsoft expertise, as John Giannandrea steps down](https://techcrunch.com/2025/12/01/apple-just-named-a-new-ai-chief-with-google-and-microsoft-expertise-as-john-giannandrea-steps-down/)
+- [These last-chance Cyber Monday streaming deals are still live, but not for much longer](https://www.space.com/entertainment/space-movies-shows/these-last-chance-cyber-monday-streaming-deals-are-still-live-but-not-for-much-longer)
+- [Amazon Music’s 2025 Delivered is now here to compete with Spotify Wrapped](https://techcrunch.com/2025/12/02/amazon-musics-2025-delivered-is-now-here-to-compete-with-spotify-wrapped/)
+- [I watched scientists track interstellar comet 3I/ATLAS leaving the solar system in real-time: &#39;This is some prime-time science&#39;](https://www.space.com/astronomy/comets/scientists-cant-get-enough-of-ancient-comet-3i-atlas-in-real-time)
+- [India plans to verify and record every smartphone in circulation](https://techcrunch.com/2025/12/02/india-plans-to-verify-and-record-every-smartphone-in-circulation/)
+- [With Cyber Monday over, you can still save $50 on this smart telescope, our expert called &#39;small but mighty&#39;](https://www.space.com/stargazing/skywatching-kit/with-cyber-monday-over-you-can-still-save-50-dollars-on-smart-telescope-zwo-seestar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
