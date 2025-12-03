@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX can launch its Starship megarocket from Florida pad, Air Force says](https://www.space.com/space-exploration/launches-spacecraft/spacex-can-launch-its-starship-megarocket-from-florida-pad-air-force-says)
 - [Autolane is building ‘air traffic control’ for autonomous vehicles](https://techcrunch.com/2025/12/03/autolane-is-building-air-traffic-control-for-autonomous-vehicles/)
 - [Waymo starts autonomous testing in Philadelphia](https://techcrunch.com/2025/12/03/waymo-starts-autonomous-testing-in-philadelphia/)
 - [Large Magellanic Cloud bursts with baby stars | Space photo of the day for Dec. 3, 2025](https://www.space.com/astronomy/large-magellanic-cloud-bursts-with-baby-stars-space-photo-of-the-day-for-dec-3-2025)
 - [Spotify Wrapped 2025 adds its first multiplayer feature with ‘Wrapped Party’](https://techcrunch.com/2025/12/03/spotifys-2025-wrapped-becomes-a-multiplayer-experience/)
-- [A &#39;super-puff&#39; exoplanet is losing its atmosphere, and the James Webb Space Telescope had a look](https://www.space.com/astronomy/james-webb-space-telescope/giant-helium-cloud-caught-escaping-from-puffy-exoplanet-by-jwst)
 <!-- BLOG-POST-LIST:END -->
 
 ---
