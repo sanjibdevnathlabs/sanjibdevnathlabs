@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tonight, the future of deep tech will be explained to you at StrictlyVC Palo Alto](https://techcrunch.com/2025/12/03/tonight-the-future-of-deep-tech-will-be-explained-to-you-at-strictlyvc-palo-alto/)
+- [Fintech firm Marquis alerts dozens of US banks and credit unions of a data breach after ransomware attack](https://techcrunch.com/2025/12/03/fintech-firm-marquis-alerts-dozens-of-us-banks-and-credit-unions-of-a-data-breach-after-ransomware-attack/)
 - [Struck by a cosmic ray: Galactic particles may have forced a passenger jet to make an emergency landing](https://www.space.com/technology/aerospace/cosmic-ray-forces-airliner-emergency-landing)
 - [Energy department hands out $800M in grants for small nuclear reactors](https://techcrunch.com/2025/12/03/energy-department-hands-out-800m-in-grants-for-small-nuclear-reactors/)
 - [Anthropic hires lawyers as it preps for IPO](https://techcrunch.com/2025/12/03/anthropic-hires-lawyers-as-it-preps-for-ipo/)
-- [AWS doubles down on custom LLMs with features meant to simplify model creation](https://techcrunch.com/2025/12/03/aws-doubles-down-on-custom-llms-with-features-meant-to-simplify-model-creation/)
-- [What is Bending Spoons? Everything to know about Eventbrite’s acquirer](https://techcrunch.com/2025/12/03/what-is-bending-spoons-everything-to-know-about-aols-acquirer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
