@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX can launch its Starship megarocket from Florida pad, Air Force says](https://www.space.com/space-exploration/launches-spacecraft/spacex-can-launch-its-starship-megarocket-from-florida-pad-air-force-says)
-- [Autolane is building ‘air traffic control’ for autonomous vehicles](https://techcrunch.com/2025/12/03/autolane-is-building-air-traffic-control-for-autonomous-vehicles/)
-- [Waymo starts autonomous testing in Philadelphia](https://techcrunch.com/2025/12/03/waymo-starts-autonomous-testing-in-philadelphia/)
-- [Large Magellanic Cloud bursts with baby stars | Space photo of the day for Dec. 3, 2025](https://www.space.com/astronomy/large-magellanic-cloud-bursts-with-baby-stars-space-photo-of-the-day-for-dec-3-2025)
-- [Spotify Wrapped 2025 adds its first multiplayer feature with ‘Wrapped Party’](https://techcrunch.com/2025/12/03/spotifys-2025-wrapped-becomes-a-multiplayer-experience/)
+- [What is Bending Spoons? Everything to know about Eventbrite’s acquirer](https://techcrunch.com/2025/12/03/what-is-bending-spoons-everything-to-know-about-aols-acquirer/)
+- [Another bid to block state AI regulation has failed…for now](https://techcrunch.com/2025/12/03/another-bid-to-block-state-ai-regulation-has-failedfor-now/)
+- [Google Photos’ 2025 Recap turns to Gemini to find your highlights](https://techcrunch.com/2025/12/03/google-photos-2025-recap-turns-to-gemini-to-find-your-highlights/)
+- [Europe picks companies to help build Argonaut moon lander](https://www.space.com/astronomy/moon/europe-picks-companies-to-help-build-argonaut-moon-lander)
+- [Amazon Fire TV’s new AI feature lets you jump to scenes by describing them to Alexa+](https://techcrunch.com/2025/12/03/amazon-fire-tvs-new-ai-feature-lets-you-jump-to-scenes-by-describing-them-to-alexa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
