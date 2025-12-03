@@ -146,7 +146,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Falcon 9 rocket launches 29 Starlink satellites from Florida](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-95-b1077-ccsfs-asog)
+- [SpaceX Falcon 9 rocket launches 29 Starlink satellites from Florida &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-95-b1077-ccsfs-asog)
 - [All the biggest news from AWS’ big tech show re:Invent 2025](https://techcrunch.com/2025/12/02/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/)
 - [Amazon challenges competitors with on-premises Nvidia ‘AI Factories’](https://techcrunch.com/2025/12/02/amazon-challenges-competitors-with-on-premises-nvidia-ai-factories/)
 - [Bending Spoons agrees to buy Eventbrite for $500M to revive stalled brand](https://techcrunch.com/2025/12/02/bending-spoons-agrees-to-buy-eventbrite-for-500m-to-revive-stalled-brand/)
