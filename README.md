@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Struck by a cosmic ray: Galactic particles may have forced a passenger jet to make an emergency landing](https://www.space.com/technology/aerospace/cosmic-ray-forces-airliner-emergency-landing)
+- [Energy department hands out $800M in grants for small nuclear reactors](https://techcrunch.com/2025/12/03/energy-department-hands-out-800m-in-grants-for-small-nuclear-reactors/)
+- [Anthropic hires lawyers as it preps for IPO](https://techcrunch.com/2025/12/03/anthropic-hires-lawyers-as-it-preps-for-ipo/)
 - [AWS doubles down on custom LLMs with features meant to simplify model creation](https://techcrunch.com/2025/12/03/aws-doubles-down-on-custom-llms-with-features-meant-to-simplify-model-creation/)
 - [What is Bending Spoons? Everything to know about Eventbrite’s acquirer](https://techcrunch.com/2025/12/03/what-is-bending-spoons-everything-to-know-about-aols-acquirer/)
-- [Another bid to block state AI regulation has failed… for now](https://techcrunch.com/2025/12/03/another-bid-to-block-state-ai-regulation-has-failedfor-now/)
-- [Google Photos’ 2025 Recap turns to Gemini to find your highlights](https://techcrunch.com/2025/12/03/google-photos-2025-recap-turns-to-gemini-to-find-your-highlights/)
-- [Europe picks companies to help build Argonaut moon lander](https://www.space.com/astronomy/moon/europe-picks-companies-to-help-build-argonaut-moon-lander)
 <!-- BLOG-POST-LIST:END -->
 
 ---
