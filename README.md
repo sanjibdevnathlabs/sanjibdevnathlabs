@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Autolane is building ‘air traffic control’ for autonomous vehicles](https://techcrunch.com/2025/12/03/autolane-is-building-air-traffic-control-for-autonomous-vehicles/)
+- [Waymo starts autonomous testing in Philadelphia](https://techcrunch.com/2025/12/03/waymo-starts-autonomous-testing-in-philadelphia/)
+- [Large Magellanic Cloud bursts with baby stars | Space photo of the day for Dec. 3, 2025](https://www.space.com/astronomy/large-magellanic-cloud-bursts-with-baby-stars-space-photo-of-the-day-for-dec-3-2025)
 - [Spotify Wrapped 2025 adds its first multiplayer feature with ‘Wrapped Party’](https://techcrunch.com/2025/12/03/spotifys-2025-wrapped-becomes-a-multiplayer-experience/)
 - [A &#39;super-puff&#39; exoplanet is losing its atmosphere, and the James Webb Space Telescope had a look](https://www.space.com/astronomy/james-webb-space-telescope/giant-helium-cloud-caught-escaping-from-puffy-exoplanet-by-jwst)
-- [Nothing looks to its community to raise $5M, wants to be ‘IPO-ready’ in 3 years](https://techcrunch.com/2025/12/03/nothing-looks-to-its-community-to-raise-5m-wants-to-be-ipo-ready-in-3-years/)
-- [Northern lights may be visible in 15 states tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-15-states-dec-3-4-2025)
-- [After intense backlash, India pulls mandate to pre-install government app on smartphones](https://techcrunch.com/2025/12/03/after-intense-backlash-india-pulls-mandate-to-pre-install-government-app-on-smartphones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
