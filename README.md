@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify Wrapped 2025 adds its first multiplayer feature with ‘Wrapped Party’](https://techcrunch.com/2025/12/03/spotifys-2025-wrapped-becomes-a-multiplayer-experience/)
+- [A &#39;super-puff&#39; exoplanet is losing its atmosphere, and the James Webb Space Telescope had a look](https://www.space.com/astronomy/james-webb-space-telescope/giant-helium-cloud-caught-escaping-from-puffy-exoplanet-by-jwst)
+- [Nothing looks to its community to raise $5M, wants to be ‘IPO-ready’ in 3 years](https://techcrunch.com/2025/12/03/nothing-looks-to-its-community-to-raise-5m-wants-to-be-ipo-ready-in-3-years/)
+- [Northern lights may be visible in 15 states tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-15-states-dec-3-4-2025)
 - [After intense backlash, India pulls mandate to pre-install government app on smartphones](https://techcrunch.com/2025/12/03/after-intense-backlash-india-pulls-mandate-to-pre-install-government-app-on-smartphones/)
-- [Uber and Avride launch robotaxi service in Dallas](https://techcrunch.com/2025/12/03/uber-and-avride-launch-robotaxi-service-in-dallas/)
-- [NASA discovers &#39;space gum&#39; and sugars &#39;crucial to life&#39; in asteroid Bennu samples brought to Earth &lpar;video&rpar;](https://www.space.com/astronomy/asteroids/nasa-discovers-space-gum-and-sugars-crucial-to-life-in-asteroid-bennu-samples-brought-to-earth-video)
-- [Healthify upgrades its AI assistant Ria with real-time conversation capabilities](https://techcrunch.com/2025/12/02/healthify-upgrades-its-ai-assistant-ria-with-real-time-conversation-capabilities/)
-- [SpaceX Falcon 9 rocket launches 29 Starlink satellites from Florida &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-95-b1077-ccsfs-asog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
