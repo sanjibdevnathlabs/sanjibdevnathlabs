@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Andy Jassy says Amazon’s Nvidia competitor chip is already a multi-billion-dollar business](https://techcrunch.com/2025/12/03/andy-jassy-says-amazons-nvidia-competitor-chip-is-already-a-multi-billion-dollar-business/)
+- [Roblox banned in Russia, local media says](https://techcrunch.com/2025/12/03/roblox-banned-in-russia-local-media-says/)
+- [The US must beat China to moon, Trump pick for NASA chief Jared Isaacman tells Senate: &#39;If we make a mistake, we may never catch up&#39;](https://www.space.com/space-exploration/the-us-must-beat-china-to-moon-trump-pick-for-nasa-chief-jared-isaacman-tells-senate-if-we-make-a-mistake-we-may-never-catch-up)
+- [Andy Jassy says Amazon’s Nvidia competitor chip is already a multibillion-dollar business](https://techcrunch.com/2025/12/03/andy-jassy-says-amazons-nvidia-competitor-chip-is-already-a-multi-billion-dollar-business/)
 - [A &quot;Cold Supermoon&quot; rises this week: Watch it take flight online with these free livestreams &lpar;video&rpar;](https://www.space.com/stargazing/a-cold-supermoon-rises-this-week-watch-it-take-flight-online-with-these-free-livestreams-video)
 - [Next Blue Origin tourist launch will fly wheelchair user to space for 1st time](https://www.space.com/space-exploration/private-spaceflight/blue-origin-ns-37-tourism-launch-first-wheelchair-user-in-space)
-- [Trump administration rolls back fuel economy standards, again](https://techcrunch.com/2025/12/03/trump-administration-rolls-back-fuel-economy-standards-again/)
-- [WordPress’s vibe-coding experiment, Telex, has already been put to real-world use](https://techcrunch.com/2025/12/03/wordpresss-vibe-coding-experiment-telex-has-already-been-put-to-real-world-use/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
