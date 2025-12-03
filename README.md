@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [3 n8n Tricks You&#39;re NOT Using &lpar;but should be!!!&rpar;](https://www.youtube.com/shorts/vD-5FhePDGY)
-- [Hackers infected the wrong girlfriend....](https://www.youtube.com/watch?v=o-8amaZBi5M)
-- [Code Optimisation via Memoization - Computerphile](https://www.youtube.com/watch?v=JXUOMsFBDXQ)
-- [How AI is Changing DevOps Careers | What You Need to Know](https://www.youtube.com/watch?v=QQ4UyZNXof8)
-- [Forcing My Kids to Become Hackers &lpar;It Actually Worked&rpar;](https://www.youtube.com/shorts/lax6vdOko20)
+- [Lecture 20: Building the First Federally &lpar;CFTC&rpar; Regulated Exchange Dedicated to Trading on Events](https://www.youtube.com/watch?v=8XrYjnDHmE4)
+- [Lecture 1, Part III: Bond “Mathematics”](https://www.youtube.com/watch?v=NZ3Mva95UsQ)
+- [Lecture 13: Portfolio Management](https://www.youtube.com/watch?v=o7OnkMdmjLg)
+- [Lecture 14: Stochastic Processes II](https://www.youtube.com/watch?v=VM29JyI1sio)
+- [Lecture 4: Linear Algebra &lpar;cont.&rpar;; Probability Theory](https://www.youtube.com/watch?v=mtXTs2U1uMA)
 <!-- YOUTUBE:END -->
 
 ---
