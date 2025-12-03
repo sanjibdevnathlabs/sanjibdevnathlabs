@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [All the biggest news from AWS’ big tech show re:Invent 2025](https://techcrunch.com/2025/12/02/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/)
+- [Amazon challenges competitors with on-premises Nvidia ‘AI Factories’](https://techcrunch.com/2025/12/02/amazon-challenges-competitors-with-on-premises-nvidia-ai-factories/)
 - [Bending Spoons agrees to buy Eventbrite for $500M to revive stalled brand](https://techcrunch.com/2025/12/02/bending-spoons-agrees-to-buy-eventbrite-for-500m-to-revive-stalled-brand/)
 - [Last-minute camera deals: Grab these final few Cyber Monday camera deals before they&#39;re gone](https://www.space.com/stargazing/skywatching-kit/last-minute-camera-deals-grab-these-final-few-cyber-monday-camera-deals-before-theyre-gone)
 - [Cosmonaut removed from SpaceX&#39;s Crew 12 mission for violating national security rules: report](https://www.space.com/space-exploration/launches-spacecraft/cosmonaut-removed-from-spacexs-crew-12-mission-for-violating-national-security-rules-report)
-- [Kalshi raises $1B at $11B valuation, doubling value in under two months](https://techcrunch.com/2025/12/02/kalshi-raises-1b-at-11b-valuation-doubling-value-in-under-two-months/)
-- [Google tests merging AI Overviews with AI Mode](https://techcrunch.com/2025/12/02/google-tests-merging-ai-overviews-with-ai-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
