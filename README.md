@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Move over Chalamet — The Dune TV miniseries turns 25 today, so we talked to the director of the star-studded show that reached for the stars on a shoestring budget &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/move-over-chalamet-the-dune-tv-miniseries-turns-25-today-so-we-talked-to-the-director-of-the-star-studded-show-that-reached-for-the-stars-on-a-shoestring-budget-exclusive)
+- [‘End-to-end encrypted’ smart toilet camera is not actually end-to-end encrypted](https://techcrunch.com/2025/12/03/end-to-end-encrypted-smart-toilet-camera-is-not-actually-end-to-end-encrypted/)
+- [Company backed by Donald Trump Jr.’s firm nabs $620M government contract](https://techcrunch.com/2025/12/03/company-backed-by-donald-trump-jr-s-firm-nabs-620m-government-contract/)
 - [Tonight, the future of deep tech will be explained to you at StrictlyVC Palo Alto](https://techcrunch.com/2025/12/03/tonight-the-future-of-deep-tech-will-be-explained-to-you-at-strictlyvc-palo-alto/)
 - [Fintech firm Marquis alerts dozens of US banks and credit unions of a data breach after ransomware attack](https://techcrunch.com/2025/12/03/fintech-firm-marquis-alerts-dozens-of-us-banks-and-credit-unions-of-a-data-breach-after-ransomware-attack/)
-- [Struck by a cosmic ray: Galactic particles may have forced a passenger jet to make an emergency landing](https://www.space.com/technology/aerospace/cosmic-ray-forces-airliner-emergency-landing)
-- [Energy department hands out $800M in grants for small nuclear reactors](https://techcrunch.com/2025/12/03/energy-department-hands-out-800m-in-grants-for-small-nuclear-reactors/)
-- [Anthropic hires lawyers as it preps for IPO](https://techcrunch.com/2025/12/03/anthropic-hires-lawyers-as-it-preps-for-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
