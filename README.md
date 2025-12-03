@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA discovers &#39;space gum&#39; and sugars &#39;crucial to life&#39; in asteroid Bennu samples brought to Earth &lpar;video&rpar;](https://www.space.com/astronomy/asteroids/nasa-discovers-space-gum-and-sugars-crucial-to-life-in-asteroid-bennu-samples-brought-to-earth-video)
 - [Healthify upgrades its AI assistant Ria with real-time conversation capabilities](https://techcrunch.com/2025/12/02/healthify-upgrades-its-ai-assistant-ria-with-real-time-conversation-capabilities/)
 - [SpaceX Falcon 9 rocket launches 29 Starlink satellites from Florida &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-95-b1077-ccsfs-asog)
 - [All the biggest news from AWS’ big tech show re:Invent 2025](https://techcrunch.com/2025/12/02/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/)
 - [Amazon challenges competitors with on-premises Nvidia ‘AI Factories’](https://techcrunch.com/2025/12/02/amazon-challenges-competitors-with-on-premises-nvidia-ai-factories/)
-- [Bending Spoons agrees to buy Eventbrite for $500M to revive stalled brand](https://techcrunch.com/2025/12/02/bending-spoons-agrees-to-buy-eventbrite-for-500m-to-revive-stalled-brand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
