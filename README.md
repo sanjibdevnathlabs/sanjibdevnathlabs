@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Geminid shooting stars: One of 2025&#39;s most exciting meteor showers begins tonight](https://www.space.com/stargazing/meteor-showers/geminid-shooting-stars-one-of-2025s-most-exciting-meteor-showers-begins-tonight)
+- [Anthropic signs $200M deal to bring its LLMs to Snowflake’s customers](https://techcrunch.com/2025/12/04/anthropic-signs-200m-deal-to-bring-its-llms-to-snowflakes-customers/)
 - [EU investigating Meta over policy change that bans rival AI chatbots from WhatsApp](https://techcrunch.com/2025/12/04/eu-investigating-meta-over-policy-change-that-bans-rival-ai-chatbots-from-whatsapp/)
 - [AI finds its way into Apple’s top apps of the year](https://techcrunch.com/2025/12/04/ai-finds-its-way-into-apples-top-apps-of-the-year/)
 - [See the metal guts of a satellite in this wild X-ray view | Space photo of the day for Dec. 4, 2025](https://www.space.com/space-exploration/satellites/see-the-metal-guts-of-a-satellite-in-this-wild-x-ray-view-space-photo-of-the-day-for-dec-4-2025)
-- [Why is the universe made of matter? These &#39;ghost particle&#39; experiments could help us find out](https://www.space.com/science/particle-physics/the-universes-existence-itself-is-a-mystery-and-these-ghost-particle-experiments-are-on-the-case)
-- [Nexus isn’t going all-in on AI, keeping half of its new $700M fund for India startups](https://techcrunch.com/2025/12/04/nexus-isnt-going-all-in-on-ai-keeping-its-new-700m-fund-balanced-with-india-bets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
