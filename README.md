@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nexus isn’t going all-in on AI, keeping half of its new $700M fund for India startups](https://techcrunch.com/2025/12/04/nexus-isnt-going-all-in-on-ai-keeping-its-new-700m-fund-balanced-with-india-bets/)
+- [Don&#39;t miss the last full moon of 2025 as the &#39;Cold Supermoon&#39; takes to the autumn sky on Dec. 4](https://www.space.com/stargazing/dont-miss-the-last-full-moon-of-2025-as-the-cold-supermoon-takes-to-the-autumn-sky-on-dec-4)
 - [Gemini was Google’s top trending search term in 2025](https://techcrunch.com/2025/12/04/gemini-was-googles-top-trending-search-term-in-2025/)
 - [New unicorn Brevo raises $583M to challenge CRM giants](https://techcrunch.com/2025/12/03/new-unicorn-brevo-raises-583m-to-challenge-crm-giants/)
 - [Day One Ventures’ Masha Bucher on why every founder needs to be an influencer](https://techcrunch.com/video/day-one-ventures-masha-bucher-on-why-every-founder-needs-to-be-an-influencer/)
-- [Amazon hopes to jump-start its AI coding tool Kiro by giving it away to startups](https://techcrunch.com/2025/12/03/amazon-hopes-to-jump-start-its-ai-coding-tool-kiro-by-giving-it-away-to-startups/)
-- [All the biggest news from AWS’ big tech show re:Invent 2025](https://techcrunch.com/2025/12/03/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
