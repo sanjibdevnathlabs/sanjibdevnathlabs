@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok rolls out a ‘Nearby’ feed to display local content in select countries](https://techcrunch.com/2025/12/04/tiktok-rolls-out-a-nearby-feed-to-display-local-content-in-select-countries/)
-- [Meta reportedly plans to slash Metaverse budget by up to 30%](https://techcrunch.com/2025/12/04/meta-reportedly-plans-to-slash-metaverse-budget-by-up-to-30/)
-- [Damaged launch pad: How long before Russia can send astronauts to the ISS again?](https://www.space.com/space-exploration/damaged-launch-pad-how-long-before-russia-can-send-astronauts-to-the-iss-again)
-- [Spotify says Wrapped 2025 is its biggest yet, with 200M+ users in its first day](https://techcrunch.com/2025/12/04/spotify-says-wrapped-2025-is-its-biggest-yet-with-200m-users-in-its-first-day/)
-- [Geminid shooting stars: One of 2025&#39;s most exciting meteor showers begins tonight](https://www.space.com/stargazing/meteor-showers/geminid-shooting-stars-one-of-2025s-most-exciting-meteor-showers-begins-tonight)
+- [California’s ban on self-driving trucks could soon be over](https://techcrunch.com/2025/12/04/californias-ban-on-self-driving-trucks-could-soon-be-over/)
+- [Why Day One Ventures’ Masha Bucher thinks VCs and storytelling go hand-in-hand](https://techcrunch.com/2025/12/04/why-day-one-ventures-masha-bucher-thinks-vcs-and-storytelling-go-hand-in-hand/)
+- [Meta centralizes Facebook and Instagram support, tests AI support assistant](https://techcrunch.com/2025/12/04/meta-centralizes-facebook-and-instagram-support-tests-ai-support-assistant/)
+- [Rare images reveal active sunspots minutes before they unleashed powerful X-flares that caused November 2025&#39;s stunning auroras](https://www.space.com/astronomy/sun/rare-high-definition-images-of-active-sunspots)
+- [Watch the &#39;PC Gaming Show: Most Wanted&#39; for updates on High on Life 2, Remnant Protocol, plus more cool sci-fi &amp; space games](https://www.space.com/entertainment/space-games/watch-the-pc-gaming-show-most-wanted-for-updates-on-high-on-life-2-remnant-protocol-plus-more-cool-sci-fi-and-space-games)
 <!-- BLOG-POST-LIST:END -->
 
 ---
