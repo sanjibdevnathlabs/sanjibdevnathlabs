@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sanctioned spyware maker Intellexa had direct access to government espionage victims, researchers say](https://techcrunch.com/2025/12/04/sanctioned-spyware-maker-intellexa-had-direct-access-to-government-espionage-victims-researchers-say/)
+- [Mercury is hard to spot, but you can catch it in the morning sky this month](https://www.space.com/stargazing/mercury-is-hard-to-spot-but-you-can-catch-it-in-the-morning-sky-this-month)
+- [Amazon’s new Kindle Scribe and Kindle Scribe Colorsoft launch on December 10](https://techcrunch.com/2025/12/04/amazon-unveils-new-kindle-scribe-and-kindle-scribe-colorsoft/)
 - [California’s ban on self-driving trucks could soon be over](https://techcrunch.com/2025/12/04/californias-ban-on-self-driving-trucks-could-soon-be-over/)
 - [Why Day One Ventures’ Masha Bucher thinks VCs and storytelling go hand-in-hand](https://techcrunch.com/2025/12/04/why-day-one-ventures-masha-bucher-thinks-vcs-and-storytelling-go-hand-in-hand/)
-- [Meta centralizes Facebook and Instagram support, tests AI support assistant](https://techcrunch.com/2025/12/04/meta-centralizes-facebook-and-instagram-support-tests-ai-support-assistant/)
-- [Rare images reveal active sunspots minutes before they unleashed powerful X-flares that caused November 2025&#39;s stunning auroras](https://www.space.com/astronomy/sun/rare-high-definition-images-of-active-sunspots)
-- [Watch the &#39;PC Gaming Show: Most Wanted&#39; for updates on High on Life 2, Remnant Protocol, plus more cool sci-fi &amp; space games](https://www.space.com/entertainment/space-games/watch-the-pc-gaming-show-most-wanted-for-updates-on-high-on-life-2-remnant-protocol-plus-more-cool-sci-fi-and-space-games)
 <!-- BLOG-POST-LIST:END -->
 
 ---
