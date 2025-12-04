@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rare solar flare caused radiation in Earth&#39;s atmosphere to spike to highest levels in nearly 20 years, researchers say](https://www.space.com/astronomy/sun/rare-solar-flare-caused-radiation-in-earths-atmosphere-to-spike-to-highest-levels-in-nearly-20-years-researchers-say)
+- [From the NFL to Startup Battlefield: How Alltroo built a brand that wins](https://techcrunch.com/2025/12/04/alltroo-co-founders-finding-founder-market-fit/)
+- [Legal AI startup Harvey confirms $8B valuation](https://techcrunch.com/2025/12/04/legal-ai-startup-harvey-confirms-8b-valuation/)
 - [Sanctioned spyware maker Intellexa had direct access to government espionage victims, researchers say](https://techcrunch.com/2025/12/04/sanctioned-spyware-maker-intellexa-had-direct-access-to-government-espionage-victims-researchers-say/)
 - [Mercury is hard to spot, but you can catch it in the morning sky this month](https://www.space.com/stargazing/mercury-is-hard-to-spot-but-you-can-catch-it-in-the-morning-sky-this-month)
-- [Amazon’s new Kindle Scribe and Kindle Scribe Colorsoft launch on December 10](https://techcrunch.com/2025/12/04/amazon-unveils-new-kindle-scribe-and-kindle-scribe-colorsoft/)
-- [California’s ban on self-driving trucks could soon be over](https://techcrunch.com/2025/12/04/californias-ban-on-self-driving-trucks-could-soon-be-over/)
-- [Why Day One Ventures’ Masha Bucher thinks VCs and storytelling go hand-in-hand](https://techcrunch.com/2025/12/04/why-day-one-ventures-masha-bucher-thinks-vcs-and-storytelling-go-hand-in-hand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
