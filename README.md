@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists discover one of our universe&#39;s largest spinning structures — a 50-million-light-year-long cosmic thread](https://www.space.com/astronomy/scientists-discover-one-of-our-universes-largest-spinning-structures-a-50-million-light-year-long-cosmic-thread)
+- [Anthropic CEO weighs in on AI bubble talk and risk-taking among competitors](https://techcrunch.com/2025/12/04/anthropic-ceo-weighs-in-on-ai-bubble-talk-and-risk-taking-among-competitors/)
 - [Musk says new Tesla software allows texting and driving, which is illegal in most states](https://techcrunch.com/2025/12/04/musk-says-new-tesla-software-allows-texting-and-driving-which-is-illegal-in-most-states/)
 - [Was Elon in the room where it happened? This senator still wants to know](https://www.space.com/space-exploration/was-elon-in-the-room-where-it-happened-this-senator-still-wants-to-know)
 - [Rare solar flare caused radiation in Earth&#39;s atmosphere to spike to highest levels in nearly 20 years, researchers say](https://www.space.com/astronomy/sun/rare-solar-flare-caused-radiation-in-earths-atmosphere-to-spike-to-highest-levels-in-nearly-20-years-researchers-say)
-- [From the NFL to Startup Battlefield: How Alltroo built a brand that wins](https://techcrunch.com/2025/12/04/alltroo-co-founders-finding-founder-market-fit/)
-- [Legal AI startup Harvey confirms $8B valuation](https://techcrunch.com/2025/12/04/legal-ai-startup-harvey-confirms-8b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
