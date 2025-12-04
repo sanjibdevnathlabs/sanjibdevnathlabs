@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New unicorn Brevo raises $583M to challenge CRM giants](https://techcrunch.com/2025/12/03/new-unicorn-brevo-raises-583m-to-challenge-crm-giants/)
 - [Day One Ventures’ Masha Bucher on why every founder needs to be an influencer](https://techcrunch.com/video/day-one-ventures-masha-bucher-on-why-every-founder-needs-to-be-an-influencer/)
 - [Amazon hopes to jump-start its AI coding tool Kiro by giving it away to startups](https://techcrunch.com/2025/12/03/amazon-hopes-to-jump-start-its-ai-coding-tool-kiro-by-giving-it-away-to-startups/)
 - [All the biggest news from AWS’ big tech show re:Invent 2025](https://techcrunch.com/2025/12/03/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/)
 - [Meta poaches Apple design exec Alan Dye to lead new creative studio in Reality Labs](https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye-to-lead-new-creative-studio-in-reality-labs/)
-- [Could MrBeast IPO? His CEO wants fans to have ‘a chance to be owners of the company’](https://techcrunch.com/2025/12/03/could-mrbeast-ipo-his-ceo-wants-fans-to-have-a-chance-to-be-owners-of-the-company/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
