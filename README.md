@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok rolls out a ‘Nearby’ feed to display local content in select countries](https://techcrunch.com/2025/12/04/tiktok-rolls-out-a-nearby-feed-to-display-local-content-in-select-countries/)
+- [Meta reportedly plans to slash Metaverse budget by up to 30%](https://techcrunch.com/2025/12/04/meta-reportedly-plans-to-slash-metaverse-budget-by-up-to-30/)
+- [Damaged launch pad: How long before Russia can send astronauts to the ISS again?](https://www.space.com/space-exploration/damaged-launch-pad-how-long-before-russia-can-send-astronauts-to-the-iss-again)
+- [Spotify says Wrapped 2025 is its biggest yet, with 200M+ users in its first day](https://techcrunch.com/2025/12/04/spotify-says-wrapped-2025-is-its-biggest-yet-with-200m-users-in-its-first-day/)
 - [Geminid shooting stars: One of 2025&#39;s most exciting meteor showers begins tonight](https://www.space.com/stargazing/meteor-showers/geminid-shooting-stars-one-of-2025s-most-exciting-meteor-showers-begins-tonight)
-- [Anthropic signs $200M deal to bring its LLMs to Snowflake’s customers](https://techcrunch.com/2025/12/04/anthropic-signs-200m-deal-to-bring-its-llms-to-snowflakes-customers/)
-- [EU investigating Meta over policy change that bans rival AI chatbots from WhatsApp](https://techcrunch.com/2025/12/04/eu-investigating-meta-over-policy-change-that-bans-rival-ai-chatbots-from-whatsapp/)
-- [AI finds its way into Apple’s top apps of the year](https://techcrunch.com/2025/12/04/ai-finds-its-way-into-apples-top-apps-of-the-year/)
-- [See the metal guts of a satellite in this wild X-ray view | Space photo of the day for Dec. 4, 2025](https://www.space.com/space-exploration/satellites/see-the-metal-guts-of-a-satellite-in-this-wild-x-ray-view-space-photo-of-the-day-for-dec-4-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
