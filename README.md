@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Hubble tension&#39; is back again as a new cosmic map deepens the puzzle](https://www.space.com/astronomy/hubble-tension-is-back-again-as-a-new-cosmic-map-deepens-the-puzzle)
+- [SpaceX launches 28 Starlink satellites to orbit from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-vandenberg-group-11-25-ocisly)
 - [Scientists discover one of our universe&#39;s largest spinning structures — a 50-million-light-year-long cosmic thread](https://www.space.com/astronomy/scientists-discover-one-of-our-universes-largest-spinning-structures-a-50-million-light-year-long-cosmic-thread)
 - [Anthropic CEO weighs in on AI bubble talk and risk-taking among competitors](https://techcrunch.com/2025/12/04/anthropic-ceo-weighs-in-on-ai-bubble-talk-and-risk-taking-among-competitors/)
 - [Musk says new Tesla software allows texting and driving, which is illegal in most states](https://techcrunch.com/2025/12/04/musk-says-new-tesla-software-allows-texting-and-driving-which-is-illegal-in-most-states/)
-- [Was Elon in the room where it happened? This senator still wants to know](https://www.space.com/space-exploration/was-elon-in-the-room-where-it-happened-this-senator-still-wants-to-know)
-- [Rare solar flare caused radiation in Earth&#39;s atmosphere to spike to highest levels in nearly 20 years, researchers say](https://www.space.com/astronomy/sun/rare-solar-flare-caused-radiation-in-earths-atmosphere-to-spike-to-highest-levels-in-nearly-20-years-researchers-say)
 <!-- BLOG-POST-LIST:END -->
 
 ---
