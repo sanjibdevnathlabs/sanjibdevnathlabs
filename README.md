@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The New York Times is suing Perplexity for copyright infringement](https://techcrunch.com/2025/12/05/the-new-york-times-is-suing-perplexity-for-copyright-infringement/)
+- [Blue Origin&#39;s next space tourism flight will break new ground for people with disabilities](https://www.space.com/space-exploration/human-spaceflight/blue-origins-next-space-tourism-flight-will-break-new-ground-for-people-with-disabilities)
+- [Meta signs commercial AI data agreements with publishers to offer real-time news on Meta AI](https://techcrunch.com/2025/12/05/meta-signs-commercial-ai-data-agreements-with-publishers-to-offer-real-time-news-on-meta-ai/)
+- [Energy storage industry set aggressive goals for 2025 — and already crushed them](https://techcrunch.com/2025/12/05/energy-storage-industry-set-aggressive-goals-for-2025-and-already-crushed-them/)
 - [In its first DSA penalty, EU fines X €120M for ‘deceptive’ blue check verification system](https://techcrunch.com/2025/12/05/in-its-first-dsa-penalty-eu-fines-x-e120m-for-deceptive-blue-check-verification-system/)
-- [Mars orbiter sees &#39;butterfly&#39; crater spread its wings on the Red Planet](https://www.space.com/astronomy/mars/mars-orbiter-sees-butterfly-crater-spread-its-wings-on-the-red-planet)
-- [Petco confirms security lapse exposed customers’ personal data](https://techcrunch.com/2025/12/05/petco-confirms-security-lapse-exposed-customers-personal-data/)
-- [Netflix to acquire Warner Bros. in a disruptive deal valued at $82.7B](https://techcrunch.com/2025/12/05/netflix-to-acquire-warner-bros-in-a-disruptive-deal-valued-at-82-7b/)
-- [The 1st Global Space Awards honors late Apollo 13 astronaut James Lovell on Dec. 5](https://www.space.com/space-exploration/the-1st-global-space-awards-honors-late-apollo-13-astronaut-james-lovell-on-dec-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
