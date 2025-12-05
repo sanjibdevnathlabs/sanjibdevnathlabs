@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Walmart-backed PhonePe winds down its Pincode app in yet another e-commerce step back](https://techcrunch.com/2025/12/05/walmart-backed-phonepe-winds-down-its-pincode-app-in-yet-another-e-commerce-step-back/)
+- [What can ancient Chinese texts teach us about solar eclipses and Earth&#39;s rotation?](https://www.space.com/astronomy/sun/what-can-ancient-chinese-texts-teach-us-about-solar-eclipses-and-earths-rotation)
 - [Chicago Tribune sues Perplexity](https://techcrunch.com/2025/12/04/chicago-tribune-sues-perplexity/)
 - [All the biggest news from AWS’ big tech show re:Invent 2025](https://techcrunch.com/2025/12/04/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/)
 - [Glowing bridge links dwarf galaxies in stunning new image from the James Webb Space Telescope](https://www.space.com/astronomy/james-webb-space-telescope/glowing-bridge-linking-dwarf-galaxies-captured-in-stunning-new-webb-image)
-- [Feds ask Waymo about robotaxis repeatedly passing school buses in Austin](https://techcrunch.com/2025/12/04/feds-ask-waymo-about-robotaxis-repeatedly-passing-school-buses-in-austin/)
-- [Micro1, a Scale AI competitor, touts crossing $100M ARR](https://techcrunch.com/2025/12/04/micro1-a-scale-ai-competitor-touts-crossing-100m-arr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
