@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Seeing a bull&#39;s-eye in the desert | Space photo of the day for Dec. 5, 2025](https://www.space.com/astronomy/earth/seeing-a-bulls-eye-in-the-desert-space-photo-of-the-day-for-dec-5-2025)
+- [After Neuralink, Max Hodak is building something stranger](https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/)
 - [December&#39;s &#39;Cold Moon&#39; rises: See breathtaking images of the final full moon of 2025](https://www.space.com/stargazing/decembers-cold-moon-rises-see-breathtaking-images-of-the-final-full-moon-of-2025)
 - [Walmart-backed PhonePe winds down its Pincode app in yet another e-commerce step back](https://techcrunch.com/2025/12/05/walmart-backed-phonepe-winds-down-its-pincode-app-in-yet-another-e-commerce-step-back/)
 - [What can ancient Chinese texts teach us about solar eclipses and Earth&#39;s rotation?](https://www.space.com/astronomy/sun/what-can-ancient-chinese-texts-teach-us-about-solar-eclipses-and-earths-rotation)
-- [Chicago Tribune sues Perplexity](https://techcrunch.com/2025/12/04/chicago-tribune-sues-perplexity/)
-- [All the biggest news from AWS’ big tech show re:Invent 2025](https://techcrunch.com/2025/12/04/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
