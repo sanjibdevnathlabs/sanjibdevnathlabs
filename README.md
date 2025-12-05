@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New streaming channel launches to give viewers a peek into city council meetings](https://techcrunch.com/2025/12/05/new-streaming-channel-launches-to-give-viewers-a-peek-into-city-council-meetings/)
+- [&#39;We have lost a lot of time.&#39; Former NASA chief says US needs to start over with moon landing plans or risk losing to China](https://www.space.com/space-exploration/artemis/we-have-lost-a-lot-of-time-former-nasa-chief-says-us-needs-to-start-over-with-moon-landing-plans-or-risk-losing-to-china)
 - [The New York Times is suing Perplexity for copyright infringement](https://techcrunch.com/2025/12/05/the-new-york-times-is-suing-perplexity-for-copyright-infringement/)
 - [Blue Origin&#39;s next space tourism flight will break new ground for people with disabilities](https://www.space.com/space-exploration/human-spaceflight/blue-origins-next-space-tourism-flight-will-break-new-ground-for-people-with-disabilities)
 - [Meta signs commercial AI data agreements with publishers to offer real-time news on Meta AI](https://techcrunch.com/2025/12/05/meta-signs-commercial-ai-data-agreements-with-publishers-to-offer-real-time-news-on-meta-ai/)
-- [Energy storage industry set aggressive goals for 2025 — and already crushed them](https://techcrunch.com/2025/12/05/energy-storage-industry-set-aggressive-goals-for-2025-and-already-crushed-them/)
-- [In its first DSA penalty, EU fines X €120M for ‘deceptive’ blue check verification system](https://techcrunch.com/2025/12/05/in-its-first-dsa-penalty-eu-fines-x-e120m-for-deceptive-blue-check-verification-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
