@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT’s user growth has slowed, report finds](https://techcrunch.com/2025/12/05/chatgpts-user-growth-has-slowed-report-finds/)
+- [NASA spacecraft tracks comet SWAN in incredible 40-day timelapse — and even glimpses interstellar invader 3I/ATLAS &lpar;video&rpar;](https://www.space.com/astronomy/comets/nasa-spacecraft-tracks-comet-swan-in-incredible-40-day-timelapse-and-even-glimpses-interstellar-invader-3i-atlas)
 - [Scientists capture 51 images showing exoplanets coming together around other stars: &#39;This data set is an astronomical treasure&#39;](https://www.space.com/astronomy/stars/scientists-capture-51-images-showing-exoplanets-coming-together-around-other-stars-this-data-set-is-an-astronomical-treasure)
 - [AWS re:Invent was an all-in pitch for AI. Customers might not be ready.](https://techcrunch.com/2025/12/05/aws-reinvent-was-an-all-in-pitch-for-ai-customers-might-not-be-ready/)
 - [&#39;Torchwood: Children of Earth&#39;: Why the 2009 mini-series is the greatest thing ever to come out of the &#39;Doctor Who&#39; universe](https://www.space.com/entertainment/space-movies-shows/torchwood-children-of-earth-why-the-2009-mini-series-is-the-greatest-thing-ever-to-come-out-of-the-doctor-who-universe)
-- [eSIM adoption is on the rise thanks to travel and device compatibility](https://techcrunch.com/2025/12/05/esim-adoption-is-on-the-rise-thanks-to-travel-and-device-compatibility/)
-- [New ‘KnoWay’ robotaxis cause chaos in upcoming Grand Theft Auto Online DLC](https://techcrunch.com/2025/12/05/new-knoway-robotaxis-cause-chaos-in-upcoming-grand-theft-auto-online-dlc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
