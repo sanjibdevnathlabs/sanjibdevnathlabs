@@ -134,7 +134,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Constraining AI Agents - Computerphile](https://www.youtube.com/watch?v=JAcwtV_bFp4)
+- [The Hard Problem of Controlling Powerful AI Systems - Computerphile](https://www.youtube.com/watch?v=JAcwtV_bFp4)
 - [“Learning for Life: How Curiosity Shapes Well-Being” with Bia Adams](https://www.youtube.com/watch?v=R33hB6mXU5o)
 - [Lecture 20: Building the First Federally &lpar;CFTC&rpar; Regulated Exchange Dedicated to Trading on Events](https://www.youtube.com/watch?v=8XrYjnDHmE4)
 - [Lecture 1, Part III: Bond “Mathematics”](https://www.youtube.com/watch?v=NZ3Mva95UsQ)
