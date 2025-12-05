@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chicago Tribune sues Perplexity](https://techcrunch.com/2025/12/04/chicago-tribune-sues-perplexity/)
+- [All the biggest news from AWS’ big tech show re:Invent 2025](https://techcrunch.com/2025/12/04/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/)
 - [Glowing bridge links dwarf galaxies in stunning new image from the James Webb Space Telescope](https://www.space.com/astronomy/james-webb-space-telescope/glowing-bridge-linking-dwarf-galaxies-captured-in-stunning-new-webb-image)
 - [Feds ask Waymo about robotaxis repeatedly passing school buses in Austin](https://techcrunch.com/2025/12/04/feds-ask-waymo-about-robotaxis-repeatedly-passing-school-buses-in-austin/)
 - [Micro1, a Scale AI competitor, touts crossing $100M ARR](https://techcrunch.com/2025/12/04/micro1-a-scale-ai-competitor-touts-crossing-100m-arr/)
-- [Apple’s executive shake-up continues with departures of general counsel and policy head](https://techcrunch.com/2025/12/04/apples-executive-shakeup-continues-with-departures-of-general-counsel-and-policy-head/)
-- [&#39;Hubble tension&#39; is back again as a new cosmic map deepens the puzzle](https://www.space.com/astronomy/hubble-tension-is-back-again-as-a-new-cosmic-map-deepens-the-puzzle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
