@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS needs you to believe in AI agents](https://techcrunch.com/video/aws-needs-you-to-believe-in-ai-agents/)
+- [NASA&#39;s next-gen Roman Space Telescope is fully built. Could it launch earlier than expected?](https://www.space.com/space-nasa-completes-assembly-of-nancy-grace-roman-space-telescope-exploration/missions)
+- [Feds find more complaints of Tesla’s FSD running red lights and crossing lanes](https://techcrunch.com/2025/12/05/feds-find-more-complaints-of-teslas-fsd-running-red-lights-and-crossing-lanes/)
 - [This startup built a Fitbit for your brain to combat chronic stress](https://techcrunch.com/2025/12/05/this-startup-built-a-fitbit-for-your-brain-to-combat-chronic-stress/)
 - [SpaceX reportedly in talks for secondary sale at $800B valuation, which would make it America’s most valuable private company](https://techcrunch.com/2025/12/05/spacex-reportedly-in-talks-for-secondary-sale-at-800b-valuation-which-would-make-it-americas-most-valuable-private-company/)
-- [Meta acquires AI device startup Limitless](https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/)
-- [Every space and sci-fi game at the PC Gaming Show: Most Wanted 2025](https://www.space.com/entertainment/space-games/every-space-and-sci-fi-game-at-the-pc-gaming-show-most-wanted-2025)
-- [ChatGPT’s user growth has slowed, report finds](https://techcrunch.com/2025/12/05/chatgpts-user-growth-has-slowed-report-finds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
