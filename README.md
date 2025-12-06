@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Rocket Lab launch Japanese technology-demonstrating satellite to orbit tonight](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-japanese-technology-demonstrating-satellite-raise-and-shine)
 - [Digital artist Beeple put his face on a $100K robot dog next to Elon Musk and Picasso – it sold first](https://techcrunch.com/2025/12/05/digital-artist-beeple-put-his-face-on-a-100k-robot-dog-next-to-elon-musk-and-picasso-it-sold-first/)
 - [Ex-Googler’s Yoodli triples valuation to $300M+ with AI built to assist, not replace, people](https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people/)
 - [Sources: AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation](https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation/)
 - [Waymo to issue software recall over how robotaxis behave around school buses](https://techcrunch.com/2025/12/05/waymo-to-issue-software-recall-over-how-robotaxis-behave-around-school-buses/)
-- [3 astronauts settle into their new life in orbit | On the International Space Station this week Dec. 1-5, 2025](https://www.space.com/space-exploration/international-space-station/3-new-crew-members-settle-in-to-life-in-orbit-on-the-international-space-station-this-week-dec-1-5-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
