@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Digital artist Beeple put his face on a $100K robot dog next to Elon Musk and Picasso – it sold first](https://techcrunch.com/2025/12/05/digital-artist-beeple-put-his-face-on-a-100k-robot-dog-next-to-elon-musk-and-picasso-it-sold-first/)
+- [Ex-Googler’s Yoodli triples valuation to $300M+ with AI built to assist, not replace, people](https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people/)
+- [Sources: AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation](https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation/)
 - [Waymo to issue software recall over how robotaxis behave around school buses](https://techcrunch.com/2025/12/05/waymo-to-issue-software-recall-over-how-robotaxis-behave-around-school-buses/)
 - [3 astronauts settle into their new life in orbit | On the International Space Station this week Dec. 1-5, 2025](https://www.space.com/space-exploration/international-space-station/3-new-crew-members-settle-in-to-life-in-orbit-on-the-international-space-station-this-week-dec-1-5-2025)
-- [AWS needs you to believe in AI agents](https://techcrunch.com/video/aws-needs-you-to-believe-in-ai-agents/)
-- [NASA&#39;s next-gen Roman Space Telescope is fully built. Could it launch earlier than expected?](https://www.space.com/space-nasa-completes-assembly-of-nancy-grace-roman-space-telescope-exploration/missions)
-- [Feds find more complaints of Tesla’s FSD running red lights and crossing lanes](https://techcrunch.com/2025/12/05/feds-find-more-complaints-of-teslas-fsd-running-red-lights-and-crossing-lanes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
