@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 188 — A New NASA Leader Rises?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-188-a-new-nasa-leader-rises)
+- [Space.com headlines crossword quiz for week of Dec. 1, 2025: What is the name of December&#39;s supermoon?](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-dec-1-2025-what-is-the-name-of-decembers-supermoon)
 - [After you check out your Spotify Wrapped 2025, explore these copycats](https://techcrunch.com/2025/12/06/spotify-wrapped-2024-is-almost-here-its-time-to-explore-all-the-copycats/)
 - [Don&#39;t miss Jupiter shining close to the waning gibbous moon on Dec. 7](https://www.space.com/stargazing/dont-miss-jupiter-shining-close-to-the-waning-gibbous-moon-dec-7-2025)
 - [Watch Rocket Lab launch Japanese technology-demonstrating satellite to orbit tonight](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-japanese-technology-demonstrating-satellite-raise-and-shine)
-- [Digital artist Beeple put his face on a $100K robot dog next to Elon Musk and Picasso – it sold first](https://techcrunch.com/2025/12/05/digital-artist-beeple-put-his-face-on-a-100k-robot-dog-next-to-elon-musk-and-picasso-it-sold-first/)
-- [Ex-Googler’s Yoodli triples valuation to $300M+ with AI built to assist, not replace, people](https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
