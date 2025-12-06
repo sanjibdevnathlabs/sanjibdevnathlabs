@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta reportedly delays mixed reality glasses until 2027](https://techcrunch.com/2025/12/06/meta-reportedly-delays-mixed-reality-glasses-until-2027/)
 - [Is it time to ‘refound’ your startup?](https://techcrunch.com/2025/12/06/is-it-time-to-refound-your-startup/)
 - [How would the Netflix-Warner Bros. deal reshape Hollywood?](https://techcrunch.com/2025/12/06/how-would-the-netflix-warner-bros-deal-reshape-hollywood/)
 - [Creator IShowSpeed sued for allegedly punching, choking viral humanoid Rizzbot](https://techcrunch.com/2025/12/06/creator-ishowspeed-sued-for-allegedly-punching-choking-viral-humanoid-rizzbot/)
 - [This Week In Space podcast: Episode 188 — A New NASA Leader Rises?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-188-a-new-nasa-leader-rises)
-- [Space.com headlines crossword quiz for week of Dec. 1, 2025: What is the name of December&#39;s supermoon?](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-dec-1-2025-what-is-the-name-of-decembers-supermoon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
