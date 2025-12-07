@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Falcon 9 rocket launches Starlink satellites from Vandenberg in California](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-internet-satellite-launch-group-11-15-b1088-ocisly)
 - [The accelerator is on the floor for autonomous vehicles](https://techcrunch.com/2025/12/07/the-accelerator-is-on-the-floor-for-autonomous-vehicles/)
 - [How to Watch &#39;Apollo 1: Destination Moon&#39;, the Channel 4 documentary revisiting the tragic accident during the race to the moon](https://www.space.com/entertainment/space-movies-shows/how-to-watch-apollo-1-destination-moon-the-channel-4-documentary-revisiting-the-tragic-accident-during-the-race-to-the-moon)
 - [Coinbase starts onboarding users again in India, plans for fiat on-ramp next year](https://techcrunch.com/2025/12/07/coinbase-starts-onboarding-users-again-in-india-plans-for-fiat-on-ramp-for-next-year/)
 - [AI is making spacecraft propulsion more efficient – and could even lead to nuclear-powered rockets](https://www.space.com/technology/ai-is-making-spacecraft-propulsion-more-efficient-and-could-even-lead-to-nuclear-powered-rockets)
-- [OpenAI says it’s turned off app suggestions that look like ads](https://techcrunch.com/2025/12/07/openai-says-its-turned-off-app-suggestions-that-look-like-ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
