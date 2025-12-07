@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI says it’s turned off app suggestions that look like ads](https://techcrunch.com/2025/12/07/openai-says-its-turned-off-app-suggestions-that-look-like-ads/)
+- [How to watch &#39;The War Between the Land and the Sea&#39;: stream the &#39;Doctor Who&#39; spin-off online and from anywhere](https://www.space.com/entertainment/space-movies-shows/how-to-watch-the-war-between-the-land-and-the-sea-stream-the-doctor-who-spin-off-online-and-from-anywhere)
 - [Scientists sent a menstrual cup to space. This is how it went](https://www.space.com/space-exploration/human-spaceflight/scientists-sent-a-menstrual-cup-to-space-this-is-how-it-went)
 - [Geminid meteor shower 2025 peaks next week. Here&#39;s what you need to know about this year&#39;s best meteor shower](https://www.space.com/stargazing/geminid-meteor-shower-2025-peaks-next-week-heres-what-you-need-to-know-about-this-years-best-meteor-shower)
 - [Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds](https://techcrunch.com/2025/12/06/pat-gelsinger-wants-to-save-moores-law-with-a-little-help-from-the-feds/)
-- [Meta reportedly delays mixed reality glasses until 2027](https://techcrunch.com/2025/12/06/meta-reportedly-delays-mixed-reality-glasses-until-2027/)
-- [Is it time to ‘refound’ your startup?](https://techcrunch.com/2025/12/06/is-it-time-to-refound-your-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
