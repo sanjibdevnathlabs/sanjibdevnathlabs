@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Which exoplanet in the TRAPPIST-1 system could be habitable? Scientists are modeling the star to find out](https://www.space.com/space-exploration/search-for-life/trappist-1-frequent-flares-may-reveal-clues-to-habitable-planets-beyond-earth)
 - [Google details security measures for Chrome’s agentic features](https://techcrunch.com/2025/12/08/google-details-security-measures-for-chromes-agentic-features/)
 - [Watch live: US Senate vote to appoint Jared Isaacman as head of NASA today](https://www.space.com/space-exploration/watch-live-us-senate-vote-to-appoint-jared-isaacman-as-head-of-nasa-today)
 - [You can buy your Instacart groceries without leaving ChatGPT](https://techcrunch.com/2025/12/08/you-can-buy-your-instacart-groceries-without-leaving-chatgpt/)
 - [TikTok adds a space for organizing content with others, teases ‘Shared Feeds’](https://techcrunch.com/2025/12/08/tiktok-adds-a-space-for-organizing-content-with-others-teases-shared-feeds/)
-- [What supermoon am I? A lunar personality test](https://www.space.com/stargazing/what-supermoon-am-i-a-lunar-personality-test)
 <!-- BLOG-POST-LIST:END -->
 
 ---
