@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tiger Global plans cautious venture  future with a new $2.2B fund](https://techcrunch.com/2025/12/08/tiger-global-plans-cautious-venture-future-with-a-new-2-2b-fund/)
+- [Scientists discover cosmic &#39;scar&#39; in interstellar clouds left by a close shave between our sun and 2 intruder stars](https://www.space.com/astronomy/stars/scientists-discover-cosmic-scar-in-interstellar-clouds-left-by-a-close-shave-between-our-sun-and-2-intruder-stars)
+- [Environmental groups call for halt to new data center construction](https://techcrunch.com/2025/12/08/environmental-groups-call-for-halt-to-new-data-center-construction/)
+- [Claude Code is coming to Slack, and that’s a bigger deal than it sounds](https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/)
 - [Which exoplanet in the TRAPPIST-1 system could be habitable? Scientists are modeling the star to find out](https://www.space.com/space-exploration/search-for-life/trappist-1-frequent-flares-may-reveal-clues-to-habitable-planets-beyond-earth)
-- [Google details security measures for Chrome’s agentic features](https://techcrunch.com/2025/12/08/google-details-security-measures-for-chromes-agentic-features/)
-- [Watch live: US Senate vote to appoint Jared Isaacman as head of NASA today](https://www.space.com/space-exploration/watch-live-us-senate-vote-to-appoint-jared-isaacman-as-head-of-nasa-today)
-- [You can buy your Instacart groceries without leaving ChatGPT](https://techcrunch.com/2025/12/08/you-can-buy-your-instacart-groceries-without-leaving-chatgpt/)
-- [TikTok adds a space for organizing content with others, teases ‘Shared Feeds’](https://techcrunch.com/2025/12/08/tiktok-adds-a-space-for-organizing-content-with-others-teases-shared-feeds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
