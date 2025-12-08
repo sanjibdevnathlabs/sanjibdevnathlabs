@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What supermoon am I? A lunar personality test](https://www.space.com/stargazing/what-supermoon-am-i-a-lunar-personality-test)
+- [Petco’s security lapse affected customers’ SSNs, drivers’ licenses and more](https://techcrunch.com/2025/12/08/petcos-security-lapse-affected-customers-ssns-drivers-licenses-and-more/)
+- [Heat pump startup Quilt raises $20M Series B to expand sales](https://techcrunch.com/2025/12/08/heat-pump-startup-quilt-raises-20m-series-b-to-expand-sales/)
 - [‘ONE RULE’: Trump says he’ll sign an executive order blocking state AI laws despite bipartisan pushback](https://techcrunch.com/2025/12/08/one-rule-trump-says-hell-sign-an-executive-order-blocking-state-ai-laws-despite-bipartisan-pushback/)
 - [Northern lights may be visible in 17 states &lpar;and maybe more&rpar; tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-17-states-and-maybe-more-dec-8-9-2025)
-- [Uranus&#39;s small moons are dark, red, and water-poor](https://www.space.com/astronomy/uranus/uranuss-small-moons-are-dark-red-and-water-poor)
-- [Paramount goes to war with Netflix for Warner Bros. Discovery with hostile $108.4B bid](https://techcrunch.com/2025/12/08/paramount-goes-to-war-with-netflix-for-warner-bros-discovery-with-hostile-108-4b-bid/)
-- [5 key takeaways from Jared Isaacman&#39;s 2nd NASA chief nomination hearing](https://www.space.com/space-exploration/5-key-takeaways-from-jared-isaacmans-2nd-nasa-chief-nomination-hearing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
