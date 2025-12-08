@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google details security measures for Chrome’s agentic features](https://techcrunch.com/2025/12/08/google-details-security-measures-for-chromes-agentic-features/)
+- [Watch live: US Senate vote to appoint Jared Isaacman as head of NASA today](https://www.space.com/space-exploration/watch-live-us-senate-vote-to-appoint-jared-isaacman-as-head-of-nasa-today)
+- [You can buy your Instacart groceries without leaving ChatGPT](https://techcrunch.com/2025/12/08/you-can-buy-your-instacart-groceries-without-leaving-chatgpt/)
+- [TikTok adds a space for organizing content with others, teases ‘Shared Feeds’](https://techcrunch.com/2025/12/08/tiktok-adds-a-space-for-organizing-content-with-others-teases-shared-feeds/)
 - [What supermoon am I? A lunar personality test](https://www.space.com/stargazing/what-supermoon-am-i-a-lunar-personality-test)
-- [Petco’s security lapse affected customers’ SSNs, drivers’ licenses and more](https://techcrunch.com/2025/12/08/petcos-security-lapse-affected-customers-ssns-drivers-licenses-and-more/)
-- [Heat pump startup Quilt raises $20M Series B to expand sales](https://techcrunch.com/2025/12/08/heat-pump-startup-quilt-raises-20m-series-b-to-expand-sales/)
-- [‘ONE RULE’: Trump says he’ll sign an executive order blocking state AI laws despite bipartisan pushback](https://techcrunch.com/2025/12/08/one-rule-trump-says-hell-sign-an-executive-order-blocking-state-ai-laws-despite-bipartisan-pushback/)
-- [Northern lights may be visible in 17 states &lpar;and maybe more&rpar; tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-17-states-and-maybe-more-dec-8-9-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
