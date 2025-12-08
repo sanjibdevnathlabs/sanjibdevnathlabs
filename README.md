@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Subaru Telescope just made its 1st discoveries: a &#39;failed star&#39; and an exoplanet](https://www.space.com/astronomy/exoplanets/the-subaru-telescope-just-made-its-1st-discoveries-a-failed-star-and-an-exoplanet)
+- [FTC upholds ban on stalkerware founder Scott Zuckerman](https://techcrunch.com/2025/12/08/ftc-upholds-ban-on-stalkerware-founder-scott-zuckerman/)
+- [SpaceX launches Starlink satellites on record 32nd re-flight of Falcon 9 rocket](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-92-b1067-ksc-jrti)
+- [SoftBank and Nvidia reportedly in talks to fund Skild AI at $14B, nearly tripling its value](https://techcrunch.com/2025/12/08/softbank-and-nvidia-reportedly-in-talks-to-fund-skildai-at-14b-nearly-tripling-its-value/)
 - [One of the most promising Earth-like worlds may not have an atmosphere after all](https://www.space.com/astronomy/exoplanets/one-of-the-most-promising-earth-like-worlds-may-not-have-an-atmosphere-after-all)
-- [Investor letter reveals skyrocketing growth of Waymo’s robotaxi rides](https://techcrunch.com/2025/12/08/investor-letter-reveals-skyrocketing-growth-of-waymos-robotaxi-rides/)
-- [Department of Commerce may approve Nvidia H200 chip exports to China](https://techcrunch.com/2025/12/08/department-of-commerce-may-approve-nvidia-h200-chip-exports-to-china/)
-- [Google’s AI try-on app Doppl adds a shoppable discovery feed](https://techcrunch.com/2025/12/08/googles-ai-try-on-app-doppl-adds-a-shoppable-discovery-feed/)
-- [Lucid Motors’ former chief engineer sues for wrongful termination and discrimination](https://techcrunch.com/2025/12/08/lucid-motors-former-chief-engineer-sues-for-wrongful-termination-and-discrimination/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
