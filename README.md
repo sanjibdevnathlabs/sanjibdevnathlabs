@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A green flash at sunset | Space photo of the day for Dec. 8, 2025](https://www.space.com/stargazing/a-green-flash-at-sunset-space-photo-of-the-day-for-dec-8-2025)
+- [Adobe launches content creation hub in Premiere mobile for YouTube Shorts creators](https://techcrunch.com/2025/12/08/adobe-launches-content-creation-hub-in-premiere-mobile-for-youtube-shorts-creators/)
 - [Hinge’s new AI feature helps daters move beyond boring small talk](https://techcrunch.com/2025/12/08/hinges-new-ai-feature-helps-daters-start-better-convos-moving-beyond-boring-small-talk/)
 - [NASA spacecraft were vulnerable to hacking for 3 years and nobody knew. AI found and fixed the flaw in 4 days](https://www.space.com/technology/nasa-spacecraft-were-vulnerable-to-hacking-for-3-years-and-nobody-knew-ai-found-and-fixed-the-flaw-in-4-days)
 - [Sun unleashes intense X-class solar flare, triggering radio blackouts across Australia](https://www.space.com/astronomy/sun/sun-unleashes-intense-x-class-solar-flare-triggering-radio-blackouts-across-australia)
-- [OpenAI boasts enterprise win days after internal ‘code red’ on Google threat](https://techcrunch.com/2025/12/08/openai-boasts-enterprise-win-days-after-internal-code-red-on-google-threat/)
-- [Watch 3 astronauts head home to Earth from the International Space Station tonight](https://www.space.com/space-exploration/international-space-station/watch-3-astronauts-head-home-to-earth-from-the-international-space-station-tonight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
