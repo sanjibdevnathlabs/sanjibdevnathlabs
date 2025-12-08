@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘ONE RULE’: Trump says he’ll sign an executive order blocking state AI laws despite bipartisan pushback](https://techcrunch.com/2025/12/08/one-rule-trump-says-hell-sign-an-executive-order-blocking-state-ai-laws-despite-bipartisan-pushback/)
+- [Northern lights may be visible in 17 states &lpar;and maybe more&rpar; tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-17-states-and-maybe-more-dec-8-9-2025)
+- [Uranus&#39;s small moons are dark, red, and water-poor](https://www.space.com/astronomy/uranus/uranuss-small-moons-are-dark-red-and-water-poor)
 - [Paramount goes to war with Netflix for Warner Bros. Discovery with hostile $108.4B bid](https://techcrunch.com/2025/12/08/paramount-goes-to-war-with-netflix-for-warner-bros-discovery-with-hostile-108-4b-bid/)
 - [5 key takeaways from Jared Isaacman&#39;s 2nd NASA chief nomination hearing](https://www.space.com/space-exploration/5-key-takeaways-from-jared-isaacmans-2nd-nasa-chief-nomination-hearing)
-- [IBM to acquire Confluent for $11B as it seeks to bolster its data offerings](https://techcrunch.com/2025/12/08/ibm-to-acquire-confluent-for-11b-as-it-seeks-to-bolster-its-data-offerings/)
-- [A green flash at sunset | Space photo of the day for Dec. 8, 2025](https://www.space.com/stargazing/a-green-flash-at-sunset-space-photo-of-the-day-for-dec-8-2025)
-- [Adobe launches content creation hub in Premiere mobile for YouTube Shorts creators](https://techcrunch.com/2025/12/08/adobe-launches-content-creation-hub-in-premiere-mobile-for-youtube-shorts-creators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
