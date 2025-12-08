@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Terminator games that are actually good](https://www.space.com/entertainment/space-games/5-terminator-games-that-are-actually-good)
-- [Tiger Global plans cautious venture  future with a new $2.2B fund](https://techcrunch.com/2025/12/08/tiger-global-plans-cautious-venture-future-with-a-new-2-2b-fund/)
-- [Scientists discover cosmic &#39;scar&#39; in interstellar clouds left by a close shave between our sun and 2 intruder stars](https://www.space.com/astronomy/stars/scientists-discover-cosmic-scar-in-interstellar-clouds-left-by-a-close-shave-between-our-sun-and-2-intruder-stars)
-- [Environmental groups call for halt to new data center construction](https://techcrunch.com/2025/12/08/environmental-groups-call-for-halt-to-new-data-center-construction/)
-- [Claude Code is coming to Slack, and that’s a bigger deal than it sounds](https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/)
+- [One of the most promising Earth-like worlds may not have an atmosphere after all](https://www.space.com/astronomy/exoplanets/one-of-the-most-promising-earth-like-worlds-may-not-have-an-atmosphere-after-all)
+- [Investor letter reveals skyrocketing growth of Waymo’s robotaxi rides](https://techcrunch.com/2025/12/08/investor-letter-reveals-skyrocketing-growth-of-waymos-robotaxi-rides/)
+- [Department of Commerce may approve Nvidia H200 chip exports to China](https://techcrunch.com/2025/12/08/department-of-commerce-may-approve-nvidia-h200-chip-exports-to-china/)
+- [Google’s AI try-on app Doppl adds a shoppable discovery feed](https://techcrunch.com/2025/12/08/googles-ai-try-on-app-doppl-adds-a-shoppable-discovery-feed/)
+- [Lucid Motors’ former chief engineer sues for wrongful termination and discrimination](https://techcrunch.com/2025/12/08/lucid-motors-former-chief-engineer-sues-for-wrongful-termination-and-discrimination/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
