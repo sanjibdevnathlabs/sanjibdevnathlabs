@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Paramount goes to war with Netflix for Warner Bros. Discovery with hostile $108.4B bid](https://techcrunch.com/2025/12/08/paramount-goes-to-war-with-netflix-for-warner-bros-discovery-with-hostile-108-4b-bid/)
+- [5 key takeaways from Jared Isaacman&#39;s 2nd NASA chief nomination hearing](https://www.space.com/space-exploration/5-key-takeaways-from-jared-isaacmans-2nd-nasa-chief-nomination-hearing)
+- [IBM to acquire Confluent for $11B as it seeks to bolster its data offerings](https://techcrunch.com/2025/12/08/ibm-to-acquire-confluent-for-11b-as-it-seeks-to-bolster-its-data-offerings/)
 - [A green flash at sunset | Space photo of the day for Dec. 8, 2025](https://www.space.com/stargazing/a-green-flash-at-sunset-space-photo-of-the-day-for-dec-8-2025)
 - [Adobe launches content creation hub in Premiere mobile for YouTube Shorts creators](https://techcrunch.com/2025/12/08/adobe-launches-content-creation-hub-in-premiere-mobile-for-youtube-shorts-creators/)
-- [Hinge’s new AI feature helps daters move beyond boring small talk](https://techcrunch.com/2025/12/08/hinges-new-ai-feature-helps-daters-start-better-convos-moving-beyond-boring-small-talk/)
-- [NASA spacecraft were vulnerable to hacking for 3 years and nobody knew. AI found and fixed the flaw in 4 days](https://www.space.com/technology/nasa-spacecraft-were-vulnerable-to-hacking-for-3-years-and-nobody-knew-ai-found-and-fixed-the-flaw-in-4-days)
-- [Sun unleashes intense X-class solar flare, triggering radio blackouts across Australia](https://www.space.com/astronomy/sun/sun-unleashes-intense-x-class-solar-flare-triggering-radio-blackouts-across-australia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
