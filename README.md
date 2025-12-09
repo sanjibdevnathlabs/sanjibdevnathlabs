@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VSCO lays off 24 staff as its consumer business suffers](https://techcrunch.com/2025/12/09/vsco-lays-off-24-staff-as-its-consumer-business-suffers/)
+- [India proposes charging OpenAI, Google for training AI on copyrighted content](https://techcrunch.com/2025/12/09/india-proposes-charging-openai-google-for-training-ai-on-copyrighted-content/)
 - [Anthropic and Accenture sign multi-year AI strategic partnership](https://techcrunch.com/2025/12/09/anthropic-and-accenture-sign-multi-year-ai-strategic-partnership/)
 - [Pebble’s founder introduces a $75 AI smart ring for recording brief notes with a press of a button](https://techcrunch.com/2025/12/09/pebbles-founder-introduces-a-75-ai-smart-ring-for-recording-brief-notes-with-a-press-of-a-button/)
 - [Spotify launches music videos in the U.S. and Canada for Premium subscribers](https://techcrunch.com/2025/12/09/spotify-launches-music-videos-in-the-u-s-and-canada-for-premium-subscribers/)
-- [From Bezos to beyond: Blue Origin quiz](https://www.space.com/space-exploration/private-spaceflight/from-bezos-to-beyond-blue-origin-quiz)
-- [Mistral AI surfs vibe coding tailwinds with new coding models](https://techcrunch.com/2025/12/09/mistral-ai-surfs-vibe-coding-tailwinds-with-new-coding-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
