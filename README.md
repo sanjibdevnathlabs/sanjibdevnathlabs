@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This 7-hour cosmic explosion is the longest gamma-ray burst ever seen. Could it be from an elusive class of black hole?](https://www.space.com/astronomy/black-holes/this-7-hour-cosmic-explosion-is-the-longest-gamma-ray-burst-ever-seen-could-it-be-from-an-elusive-class-of-black-hole)
+- [Why Cursor’s CEO believes OpenAI, Anthropic competition won’t crush his startup](https://techcrunch.com/2025/12/09/why-cursors-ceo-believes-openai-anthropic-competition-wont-crush-his-startup/)
 - [Rivian is building its own AI assistant](https://techcrunch.com/2025/12/09/rivian-is-building-its-own-ai-assistant/)
-- [Three in ten U.S. teens use AI chatbots every day, but safety concerns are growing](https://techcrunch.com/2025/12/09/three-in-ten-u-s-teens-use-ai-chatbots-every-day-but-safety-concerns-are-growing/)
+- [Three in 10 US teens use AI chatbots every day, but safety concerns are growing](https://techcrunch.com/2025/12/09/three-in-ten-u-s-teens-use-ai-chatbots-every-day-but-safety-concerns-are-growing/)
 - [Slack CEO Denise Dresser to join OpenAI as chief revenue officer](https://techcrunch.com/2025/12/09/slack-ceo-denise-dresser-to-join-openai-as-chief-revenue-officer/)
-- [Boom Supersonic raises $300M to build natural gas turbines for Crusoe data centers](https://techcrunch.com/2025/12/09/boom-supersonic-raises-300m-to-build-natural-gas-turbines-for-crusoe-data-centers/)
-- [Amazon’s Ring rolls out controversial, AI-powered facial-recognition feature to video doorbells](https://techcrunch.com/2025/12/09/amazons-ring-rolls-out-controversial-ai-powered-facial-recognition-feature-to-video-doorbells/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
