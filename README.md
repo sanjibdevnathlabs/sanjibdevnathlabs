@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon’s Ring rolls out controversial, AI-powered facial recognition feature to video doorbells](https://techcrunch.com/2025/12/09/amazons-ring-rolls-out-controversial-ai-powered-facial-recognition-feature-to-video-doorbells/)
-- [Chinese astronauts inspect damaged Shenzhou 20 spacecraft during 8-hour spacewalk &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/chinese-astronauts-inspect-damaged-shenzhou-20-spacecraft-during-8-hour-spacewalk-video)
-- [Truecaller now lets users protect households from scam calls](https://techcrunch.com/2025/12/09/truecaller-now-lets-users-protect-households-from-scam-calls/)
-- [Ford and Renault team up on cheaper EVs in a ‘fight for our lives’](https://techcrunch.com/2025/12/09/ford-and-renault-team-up-on-cheaper-evs-in-a-fight-for-our-lives/)
-- [Google Photos launches new video editing tools](https://techcrunch.com/2025/12/09/google-photos-launches-new-video-editing-tools/)
+- [Rivian is building its own AI assistant](https://techcrunch.com/2025/12/09/rivian-is-building-its-own-ai-assistant/)
+- [Three in ten U.S. teens use AI chatbots every day, but safety concerns are growing](https://techcrunch.com/2025/12/09/three-in-ten-u-s-teens-use-ai-chatbots-every-day-but-safety-concerns-are-growing/)
+- [Slack CEO Denise Dresser to join OpenAI as chief revenue officer](https://techcrunch.com/2025/12/09/slack-ceo-denise-dresser-to-join-openai-as-chief-revenue-officer/)
+- [Boom Supersonic raises $300M to build natural gas turbines for Crusoe data centers](https://techcrunch.com/2025/12/09/boom-supersonic-raises-300m-to-build-natural-gas-turbines-for-crusoe-data-centers/)
+- [Amazon’s Ring rolls out controversial, AI-powered facial-recognition feature to video doorbells](https://techcrunch.com/2025/12/09/amazons-ring-rolls-out-controversial-ai-powered-facial-recognition-feature-to-video-doorbells/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
