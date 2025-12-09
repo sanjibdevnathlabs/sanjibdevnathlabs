@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startup announces &#39;Galactic Brain&#39; project to put AI data centers in orbit](https://www.space.com/technology/startup-announces-galactic-brain-project-to-put-ai-data-centers-in-orbit)
 - [Watch SpaceX launch mystery mission for the US military today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-spy-satellite-mission-nrol-77-nro)
-- [NASA astronaut and 2 cosmonauts land aboard Russian Soyuz after 8 months on International Space Station](https://www.space.com/space-exploration/international-space-station/astronaut-and-cosmonauts-land-on-russian-soyuz-after-8-months-aboard-international-space-station)
+- [NASA astronaut and 2 cosmonauts land aboard Russian Soyuz after 8 months on International Space Station &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/astronaut-and-cosmonauts-land-on-russian-soyuz-after-8-months-aboard-international-space-station)
 - [The Subaru Telescope just made its 1st discoveries: a &#39;failed star&#39; and an exoplanet](https://www.space.com/astronomy/exoplanets/the-subaru-telescope-just-made-its-1st-discoveries-a-failed-star-and-an-exoplanet)
 - [FTC upholds ban on stalkerware founder Scott Zuckerman](https://techcrunch.com/2025/12/08/ftc-upholds-ban-on-stalkerware-founder-scott-zuckerman/)
-- [SpaceX launches Starlink satellites on record 32nd flight of Falcon 9 rocket &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-92-b1067-ksc-jrti)
 <!-- BLOG-POST-LIST:END -->
 
 ---
