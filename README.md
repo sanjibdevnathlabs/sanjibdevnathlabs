@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China breaks record with 3 Long March rocket launches in 19-hour stretch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-breaks-record-with-3-long-march-rocket-launches-in-19-hour-stretch-video)
+- [Fal nabs $140M in fresh funding led by Sequoia, tripling valuation to $4.5B](https://techcrunch.com/2025/12/09/fal-nabs-140m-in-fresh-funding-led-by-sequoia-tripling-valuation-to-4-5b/)
+- [Cashew Research is going after the $90B market research industry with AI](https://techcrunch.com/2025/12/09/cashew-research-is-going-after-the-90b-market-research-industry-with-ai/)
+- [The James Webb Space Telescope just found the oldest supernova ever seen](https://www.space.com/astronomy/james-webb-space-telescope/the-james-webb-space-telescope-just-found-the-oldest-supernova-ever-seen)
 - [SpaceX reportedly planning 2026 IPO with $1.5T valuation target](https://techcrunch.com/2025/12/09/spacex-reportedly-planning-2026-ipo-with-1-5t-valuation-target/)
-- [B Capital founding partner Kabir Narang leaves to launch new investment platform](https://techcrunch.com/2025/12/09/b-capital-founding-partner-kabir-narang-leaves-to-launch-new-investment-platform/)
-- [This 7-hour cosmic explosion is the longest gamma-ray burst ever seen. Could it be from an elusive class of black hole?](https://www.space.com/astronomy/black-holes/this-7-hour-cosmic-explosion-is-the-longest-gamma-ray-burst-ever-seen-could-it-be-from-an-elusive-class-of-black-hole)
-- [Why Cursor’s CEO believes OpenAI, Anthropic competition won’t crush his startup](https://techcrunch.com/2025/12/09/why-cursors-ceo-believes-openai-anthropic-competition-wont-crush-his-startup/)
-- [Rivian is building its own AI assistant](https://techcrunch.com/2025/12/09/rivian-is-building-its-own-ai-assistant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
