@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon’s Ring rolls out controversial, AI-powered facial recognition feature to video doorbells](https://techcrunch.com/2025/12/09/amazons-ring-rolls-out-controversial-ai-powered-facial-recognition-feature-to-video-doorbells/)
+- [Chinese astronauts inspect damaged Shenzhou 20 spacecraft during 8-hour spacewalk &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/chinese-astronauts-inspect-damaged-shenzhou-20-spacecraft-during-8-hour-spacewalk-video)
+- [Truecaller now lets users protect households from scam calls](https://techcrunch.com/2025/12/09/truecaller-now-lets-users-protect-households-from-scam-calls/)
 - [Ford and Renault team up on cheaper EVs in a ‘fight for our lives’](https://techcrunch.com/2025/12/09/ford-and-renault-team-up-on-cheaper-evs-in-a-fight-for-our-lives/)
 - [Google Photos launches new video editing tools](https://techcrunch.com/2025/12/09/google-photos-launches-new-video-editing-tools/)
-- [January full moon 2026: When, where and how to see the Wolf Moon](https://www.space.com/stargazing/january-full-moon-2026-when-where-and-how-to-see-the-wolf-moon)
-- [NASA and USPS stop using Canoo EVs despite CEO’s pledged support](https://techcrunch.com/2025/12/09/nasa-and-usps-stop-using-canoo-evs-despite-ceos-pledged-support/)
-- [OpenAI, Anthropic and Block join new Linux Foundation effort to standardize the AI agent era](https://techcrunch.com/2025/12/09/openai-anthropic-and-block-join-new-linux-foundation-effort-to-standardize-the-ai-agent-era/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
