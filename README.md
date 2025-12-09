@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ISS astronauts watch Earth&#39;s atmosphere glow green | Space photo of the day for Dec. 8, 2025](https://www.space.com/space-exploration/international-space-station/iss-astronauts-watch-earths-atmosphere-glow-green-space-photo-of-the-day-for-dec-8-2025)
-- [Empromptu raises $2M pre-seed to help enterprises build AI apps](https://techcrunch.com/2025/12/09/empromptu-raises-2m-pre-seed-to-help-enterprises-build-ai-apps/)
-- [This supermassive black hole flung out matter at 134 million mph: &#39;On a scale almost too big to imagine&#39;](https://www.space.com/astronomy/black-holes/this-supermassive-black-hole-flung-out-matter-at-134-million-mph-on-a-scale-almost-too-big-to-imagine)
-- [Startup announces &#39;Galactic Brain&#39; project to put AI data centers in orbit](https://www.space.com/technology/startup-announces-galactic-brain-project-to-put-ai-data-centers-in-orbit)
-- [Watch SpaceX launch mystery mission for the US military today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-spy-satellite-mission-nrol-77-nro)
+- [Anthropic and Accenture sign multi-year AI strategic partnership](https://techcrunch.com/2025/12/09/anthropic-and-accenture-sign-multi-year-ai-strategic-partnership/)
+- [Pebble’s founder introduces a $75 AI smart ring for recording brief notes with a press of a button](https://techcrunch.com/2025/12/09/pebbles-founder-introduces-a-75-ai-smart-ring-for-recording-brief-notes-with-a-press-of-a-button/)
+- [Spotify launches music videos in the U.S. and Canada for Premium subscribers](https://techcrunch.com/2025/12/09/spotify-launches-music-videos-in-the-u-s-and-canada-for-premium-subscribers/)
+- [From Bezos to beyond: Blue Origin quiz](https://www.space.com/space-exploration/private-spaceflight/from-bezos-to-beyond-blue-origin-quiz)
+- [Mistral AI surfs vibe coding tailwinds with new coding models](https://techcrunch.com/2025/12/09/mistral-ai-surfs-vibe-coding-tailwinds-with-new-coding-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
