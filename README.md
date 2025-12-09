@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VSCO lays off 24 staff as its consumer business suffers](https://techcrunch.com/2025/12/09/vsco-lays-off-24-staff-as-its-consumer-business-suffers/)
-- [India proposes charging OpenAI, Google for training AI on copyrighted content](https://techcrunch.com/2025/12/09/india-proposes-charging-openai-google-for-training-ai-on-copyrighted-content/)
-- [Anthropic and Accenture sign multi-year AI strategic partnership](https://techcrunch.com/2025/12/09/anthropic-and-accenture-sign-multi-year-ai-strategic-partnership/)
-- [Pebble’s founder introduces a $75 AI smart ring for recording brief notes with a press of a button](https://techcrunch.com/2025/12/09/pebbles-founder-introduces-a-75-ai-smart-ring-for-recording-brief-notes-with-a-press-of-a-button/)
-- [Spotify launches music videos in the U.S. and Canada for Premium subscribers](https://techcrunch.com/2025/12/09/spotify-launches-music-videos-in-the-u-s-and-canada-for-premium-subscribers/)
+- [Fairphone refreshes its good-looking, repairable headphones](https://techcrunch.com/2025/12/09/fairphone-refreshes-its-good-looking-repairable-headphones/)
+- [Facebook redesign focuses on friends, photos, Marketplace and more](https://techcrunch.com/2025/12/09/facebook-redesign-focuses-on-friends-photos-marketplace-and-more/)
+- [Amazon adds delivery tracking, last-minute adds, gift ideas to Alexa+](https://techcrunch.com/2025/12/09/amazon-adds-delivery-tracking-last-minute-adds-gift-ideas-to-alexa/)
+- [Google’s first AI glasses expected next year](https://techcrunch.com/2025/12/09/googles-first-ai-glasses-expected-next-year/)
+- [EU launches antitrust probe into Google’s AI search tools](https://techcrunch.com/2025/12/09/eu-launches-antitrust-probe-into-googles-ai-search-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
