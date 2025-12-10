@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia is reportedly testing tracking software as chip smuggling rumors swirl](https://techcrunch.com/2025/12/10/nvidia-is-reportedly-testing-tracking-software-as-chip-smuggling-rumors-swirl/)
+- [How do you activate a supermassive black hole? A galaxy merger should do the trick](https://www.space.com/astronomy/how-do-you-activate-a-supermassive-black-hole-a-galaxy-merger-should-do-the-trick)
+- [Nvidia is reportedly testing tracking software as chip-smuggling rumors swirl](https://techcrunch.com/2025/12/10/nvidia-is-reportedly-testing-tracking-software-as-chip-smuggling-rumors-swirl/)
+- [Want to see further for less? We have rounded up the last few Cyber Monday binocular deals, saving up to hundreds, but you&#39;ll have to be fast](https://www.space.com/stargazing/skywatching-kit/we-have-rounded-up-the-last-few-cyber-monday-binocular-deals-saving-up-to-hundreds-but-youll-have-to-be-fast)
+- [Human evolution hits a crossroad in daring new sci-fi novel, &#39;Existence Equation&#39;, and we have an exclusive excerpt for you](https://www.space.com/entertainment/space-books/human-evolution-hits-a-crossroad-in-daring-new-sci-fi-novel-existence-equation-and-we-have-an-exclusive-excerpt-for-you)
 - [You can now share live video with emergency services on Android](https://techcrunch.com/2025/12/10/you-can-now-share-live-video-with-emergency-services-on-android/)
-- [CEO of South Korean retail giant Coupang resigns after massive data breach](https://techcrunch.com/2025/12/10/ceo-of-south-korean-retail-giant-coupang-resigns-after-massive-data-breach/)
-- [Rocket Lab completes final tests on reusable &#39;Hungry Hippo&#39; fairing ahead of 1st Neutron rocket launch](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-completes-final-tests-on-reusable-hungry-hippo-fairing-ahead-of-1st-neutron-rocket-launch)
-- [Spotify tests more personalized, AI-powered ‘Prompted Playlists’](https://techcrunch.com/2025/12/10/spotify-tests-more-personalized-ai-powered-prompted-playlists/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
