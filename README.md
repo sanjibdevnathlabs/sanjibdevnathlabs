@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google invests in Fervo’s $462M round to unlock even more geothermal energy](https://techcrunch.com/2025/12/10/google-invests-in-fervos-462m-round-to-unlock-even-more-geothermal-energy/)
+- [Meesho’s $606M IPO pops as enthusiasm for India’s e-commerce startups rises](https://techcrunch.com/2025/12/10/meeshos-606m-ipo-pops-as-enthusiasm-for-indias-e-commerce-startups-rises/)
+- [Fertility startup Inito wants to use AI-designed antibodies to expand at-home health tests](https://techcrunch.com/2025/12/10/fertility-startup-inito-wants-to-use-ai-designed-antibodies-to-expand-at-home-health-tests/)
 - [Hear dust devils on Mars crackle with electricity in new NASA Perseverance rover video](https://www.space.com/astronomy/mars/hear-dust-devils-on-mars-crackle-with-electricity-in-new-nasa-perseverance-rover-video)
 - [CoreWeave CEO defends AI circular deals as ‘working together’](https://techcrunch.com/2025/12/09/coreweave-ceo-defends-ai-circular-deals-as-working-together/)
-- [Unconventional AI confirms its massive  $475M seed round](https://techcrunch.com/2025/12/09/unconventional-ai-confirms-its-massive-475m-seed-round/)
-- [Hinge CEO steps down to launch Overtone, an AI dating app](https://techcrunch.com/2025/12/09/hinge-ceo-steps-down-to-launch-overtone-an-ai-dating-app/)
-- [China breaks record with 3 Long March rocket launches in 19-hour stretch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-breaks-record-with-3-long-march-rocket-launches-in-19-hour-stretch-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
