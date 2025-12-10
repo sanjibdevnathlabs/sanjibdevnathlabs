@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coreweave CEO defends AI circular deals as ‘working together’](https://techcrunch.com/2025/12/09/coreweave-ceo-defends-ai-circular-deals-as-working-together/)
+- [Unconventional AI confirms its massive  $475M seed round](https://techcrunch.com/2025/12/09/unconventional-ai-confirms-its-massive-475m-seed-round/)
+- [Hinge CEO steps down to launch Overtone, an AI dating app](https://techcrunch.com/2025/12/09/hinge-ceo-steps-down-to-launch-overtone-an-ai-dating-app/)
 - [China breaks record with 3 Long March rocket launches in 19-hour stretch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-breaks-record-with-3-long-march-rocket-launches-in-19-hour-stretch-video)
 - [Fal nabs $140M in fresh funding led by Sequoia, tripling valuation to $4.5B](https://techcrunch.com/2025/12/09/fal-nabs-140m-in-fresh-funding-led-by-sequoia-tripling-valuation-to-4-5b/)
-- [Cashew Research is going after the $90B market research industry with AI](https://techcrunch.com/2025/12/09/cashew-research-is-going-after-the-90b-market-research-industry-with-ai/)
-- [The James Webb Space Telescope just found the oldest supernova ever seen](https://www.space.com/astronomy/james-webb-space-telescope/the-james-webb-space-telescope-just-found-the-oldest-supernova-ever-seen)
-- [SpaceX reportedly planning 2026 IPO with $1.5T valuation target](https://techcrunch.com/2025/12/09/spacex-reportedly-planning-2026-ipo-with-1-5t-valuation-target/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
