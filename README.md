@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify tests more personalized, AI-powered ‘Prompted Playlists’](https://techcrunch.com/2025/12/10/spotify-tests-more-personalized-ai-powered-prompted-playlists/)
+- [ARC Raiders is an oddly comforting reminder that Earth will get along just fine without us after the AI apocalypse](https://www.space.com/entertainment/space-games/arc-raiders-is-an-oddly-comforting-reminder-that-earth-will-get-along-just-fine-without-us-after-the-ai-apocalypse)
+- [Overview Energy wants to beam energy from space to existing solar farms](https://techcrunch.com/2025/12/10/overview-energy-wants-to-beam-energy-from-space-to-existing-solar-farms/)
 - [OSHA investigating new crane accident at SpaceX’s Starbase facility](https://techcrunch.com/2025/12/10/osha-investigating-new-crane-accident-at-spacexs-starbase-facility/)
 - [Marco Rubio bans Calibri font at State Department for being too DEI](https://techcrunch.com/2025/12/10/marco-rubio-bans-calibri-font-at-state-department-for-being-too-dei/)
-- [Watch Rocket Lab launch Korean disaster-monitoring satellite today](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-korean-disaster-monitoring-satellite-today)
-- [YouTube TV to launch genre-based subscription plans in 2026](https://techcrunch.com/2025/12/10/youtube-tv-to-launch-genre-based-subscription-plans-in-2026/)
-- [Reddit is testing verification badges](https://techcrunch.com/2025/12/10/reddit-is-testing-verification-badges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
