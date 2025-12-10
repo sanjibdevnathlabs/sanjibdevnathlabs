@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google is testing AI-powered article overviews on select publications’ Google News pages](https://techcrunch.com/2025/12/10/google-is-testing-ai-powered-article-overviews-on-select-publications-google-news-pages/)
+- [&#39;Star Trek: Starfleet Academy&#39; clip shows off hammy acting and teen drama, putting fans on yellow alert &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-starfleet-academy-clip-shows-off-hammy-acting-and-teen-drama-putting-fans-on-yellow-alert-video)
+- [Amazon changes how copyright protection is applied to Kindle Direct’s self-published ebooks](https://techcrunch.com/2025/12/10/amazon-changes-how-copyright-protection-is-applied-to-kindle-directs-self-published-ebooks/)
 - [SpaceX launches Starlink satellites from California on 160th Falcon 9 flight of the year &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-11-b1082-vsfb-ocisly)
 - [Comet SWAN shines with the Pillars of Creation in breathtaking deep space photo](https://www.space.com/stargazing/astrophotography/comet-swan-shines-with-the-pillars-of-creation-in-breathtaking-deep-space-photo)
-- [ChatGPT is Apple’s most downloaded app of 2025 in the US](https://techcrunch.com/2025/12/10/chatgpt-is-apples-most-downloaded-app-of-2025-in-the-us/)
-- [Amazon now offers same-day delivery of perishable groceries in 2,300 US cities](https://techcrunch.com/2025/12/10/amazon-now-offers-same-day-delivery-of-perishable-groceries-in-2300-us-cities/)
-- [Oboe raises $16 million from a16z for its AI-powered course generation platform](https://techcrunch.com/2025/12/10/oboe-raises-16-million-from-a16z-for-its-ai-powered-course-generation-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
