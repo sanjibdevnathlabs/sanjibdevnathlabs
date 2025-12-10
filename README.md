@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches Starlink satellites from California on 160th Falcon 9 flight of the year &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-11-b1082-vsfb-ocisly)
+- [Comet SWAN shines with the Pillars of Creation in breathtaking deep space photo](https://www.space.com/stargazing/astrophotography/comet-swan-shines-with-the-pillars-of-creation-in-breathtaking-deep-space-photo)
 - [ChatGPT is Apple’s most downloaded app of 2025 in the US](https://techcrunch.com/2025/12/10/chatgpt-is-apples-most-downloaded-app-of-2025-in-the-us/)
 - [Amazon now offers same-day delivery of perishable groceries in 2,300 US cities](https://techcrunch.com/2025/12/10/amazon-now-offers-same-day-delivery-of-perishable-groceries-in-2300-us-cities/)
 - [Oboe raises $16 million from a16z for its AI-powered course generation platform](https://techcrunch.com/2025/12/10/oboe-raises-16-million-from-a16z-for-its-ai-powered-course-generation-platform/)
-- [Google launches managed MCP servers that let AI agents simply plug into its tools](https://techcrunch.com/2025/12/10/google-is-going-all-in-on-mcp-servers-agent-ready-by-design/)
-- [Uranus may have more in common with Earth than we thought, 40-year-old Voyager 2 probe data shows](https://www.space.com/astronomy/uranus/uranus-may-have-more-in-common-with-earth-than-we-thought-40-year-old-voyager-2-probe-data-shows)
 <!-- BLOG-POST-LIST:END -->
 
 ---
