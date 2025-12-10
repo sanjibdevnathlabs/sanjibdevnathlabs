@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI startup Tavus founder says users talk to its AI Santa ‘for hours’ per day](https://techcrunch.com/2025/12/10/ai-startup-tavus-founder-says-users-talk-to-its-ai-santa-for-hours-per-day/)
+- [Figma launches new AI-powered object removal and image extension](https://techcrunch.com/2025/12/10/figma-launches-new-ai-powered-object-removal-and-image-extension/)
+- [Extremely Large Telescope under construction | Space photo of the day for Dec. 10, 2025](https://www.space.com/astronomy/extremely-large-telescope-under-construction-space-photo-of-the-day-for-dec-10-2025)
+- [Petco takes down Vetco website after exposing customers’ personal information](https://techcrunch.com/2025/12/10/petco-takes-down-vetco-website-after-exposing-customers-personal-information/)
 - [Google launches sub-$5 AI Plus plan in India to compete with ChatGPT Go](https://techcrunch.com/2025/12/10/google-launches-sub-5-ai-plus-plan-in-india-to-compete-with-chatgpt-go/)
-- [Instagram’s new ‘Your Algorithm’ tool gives you more control over the Reels you see](https://techcrunch.com/2025/12/10/instagrams-new-your-algorithm-tool-gives-you-more-control-over-the-reels-you-see/)
-- [Adobe brings Photoshop, Express and Acrobat features to ChatGPT](https://techcrunch.com/2025/12/10/adobe-brings-photoshop-express-and-acrobat-features-to-chatgpt/)
-- [An industrial project in Chile threatens Earth&#39;s darkest sky. 28 leading astronomers signed an open letter urging to move it](https://www.space.com/astronomy/an-industrial-project-in-chile-threatens-earths-darkest-sky-28-leading-astronomers-signed-an-open-letter-urging-to-move-it)
-- [Amazon to invest additional $35B in India by 2030, taking total planned spending to $75B](https://techcrunch.com/2025/12/10/amazon-to-invest-additional-35b-in-india-by-2030-taking-total-planned-spending-to-75b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
