@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CEO of South Korean retail giant Coupang resigns after massive data breach](https://techcrunch.com/2025/12/10/ceo-of-south-korean-retail-giant-coupang-resigns-after-massive-data-breach/)
+- [Rocket Lab completes final tests on reusable &#39;Hungry Hippo&#39; fairing ahead of 1st Neutron rocket launch](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-completes-final-tests-on-reusable-hungry-hippo-fairing-ahead-of-1st-neutron-rocket-launch)
 - [Spotify tests more personalized, AI-powered ‘Prompted Playlists’](https://techcrunch.com/2025/12/10/spotify-tests-more-personalized-ai-powered-prompted-playlists/)
 - [ARC Raiders is an oddly comforting reminder that Earth will get along just fine without us after the AI apocalypse](https://www.space.com/entertainment/space-games/arc-raiders-is-an-oddly-comforting-reminder-that-earth-will-get-along-just-fine-without-us-after-the-ai-apocalypse)
 - [Overview Energy wants to beam energy from space to existing solar farms](https://techcrunch.com/2025/12/10/overview-energy-wants-to-beam-energy-from-space-to-existing-solar-farms/)
-- [OSHA investigating new crane accident at SpaceX’s Starbase facility](https://techcrunch.com/2025/12/10/osha-investigating-new-crane-accident-at-spacexs-starbase-facility/)
-- [Marco Rubio bans Calibri font at State Department for being too DEI](https://techcrunch.com/2025/12/10/marco-rubio-bans-calibri-font-at-state-department-for-being-too-dei/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
