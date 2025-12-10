@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google is testing AI-powered article overviews on select publications’ Google News pages](https://techcrunch.com/2025/12/10/google-is-testing-ai-powered-article-overviews-on-select-publications-google-news-pages/)
-- [&#39;Star Trek: Starfleet Academy&#39; clip shows off hammy acting and teen drama, putting fans on yellow alert &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-starfleet-academy-clip-shows-off-hammy-acting-and-teen-drama-putting-fans-on-yellow-alert-video)
-- [Amazon changes how copyright protection is applied to Kindle Direct’s self-published ebooks](https://techcrunch.com/2025/12/10/amazon-changes-how-copyright-protection-is-applied-to-kindle-directs-self-published-ebooks/)
-- [SpaceX launches Starlink satellites from California on 160th Falcon 9 flight of the year &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-11-b1082-vsfb-ocisly)
-- [Comet SWAN shines with the Pillars of Creation in breathtaking deep space photo](https://www.space.com/stargazing/astrophotography/comet-swan-shines-with-the-pillars-of-creation-in-breathtaking-deep-space-photo)
+- [OSHA investigating new crane accident at SpaceX’s Starbase facility](https://techcrunch.com/2025/12/10/osha-investigating-new-crane-accident-at-spacexs-starbase-facility/)
+- [Marco Rubio bans Calibri font at State Department for being too DEI](https://techcrunch.com/2025/12/10/marco-rubio-bans-calibri-font-at-state-department-for-being-too-dei/)
+- [Watch Rocket Lab launch Korean disaster-monitoring satellite today](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-korean-disaster-monitoring-satellite-today)
+- [YouTube TV to launch genre-based subscription plans in 2026](https://techcrunch.com/2025/12/10/youtube-tv-to-launch-genre-based-subscription-plans-in-2026/)
+- [Reddit is testing verification badges](https://techcrunch.com/2025/12/10/reddit-is-testing-verification-badges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
