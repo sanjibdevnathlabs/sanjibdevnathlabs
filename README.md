@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google invests in Fervo’s $462M round to unlock even more geothermal energy](https://techcrunch.com/2025/12/10/google-invests-in-fervos-462m-round-to-unlock-even-more-geothermal-energy/)
-- [Meesho’s $606M IPO pops as enthusiasm for India’s e-commerce startups rises](https://techcrunch.com/2025/12/10/meeshos-606m-ipo-pops-as-enthusiasm-for-indias-e-commerce-startups-rises/)
-- [Fertility startup Inito wants to use AI-designed antibodies to expand at-home health tests](https://techcrunch.com/2025/12/10/fertility-startup-inito-wants-to-use-ai-designed-antibodies-to-expand-at-home-health-tests/)
-- [Hear dust devils on Mars crackle with electricity in new NASA Perseverance rover video](https://www.space.com/astronomy/mars/hear-dust-devils-on-mars-crackle-with-electricity-in-new-nasa-perseverance-rover-video)
-- [CoreWeave CEO defends AI circular deals as ‘working together’](https://techcrunch.com/2025/12/09/coreweave-ceo-defends-ai-circular-deals-as-working-together/)
+- [Google launches sub-$5 AI Plus plan in India to compete with ChatGPT Go](https://techcrunch.com/2025/12/10/google-launches-sub-5-ai-plus-plan-in-india-to-compete-with-chatgpt-go/)
+- [Instagram’s new ‘Your Algorithm’ tool gives you more control over the Reels you see](https://techcrunch.com/2025/12/10/instagrams-new-your-algorithm-tool-gives-you-more-control-over-the-reels-you-see/)
+- [Adobe brings Photoshop, Express and Acrobat features to ChatGPT](https://techcrunch.com/2025/12/10/adobe-brings-photoshop-express-and-acrobat-features-to-chatgpt/)
+- [An industrial project in Chile threatens Earth&#39;s darkest sky. 28 leading astronomers signed an open letter urging to move it](https://www.space.com/astronomy/an-industrial-project-in-chile-threatens-earths-darkest-sky-28-leading-astronomers-signed-an-open-letter-urging-to-move-it)
+- [Amazon to invest additional $35B in India by 2030, taking total planned spending to $75B](https://techcrunch.com/2025/12/10/amazon-to-invest-additional-35b-in-india-by-2030-taking-total-planned-spending-to-75b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
