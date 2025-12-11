@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers capture close-up images of nova explosions on 2 dead stars in unprecedented detail](https://www.space.com/astronomy/stars/astronomers-capture-close-up-images-of-nova-explosions-on-2-dead-stars-in-unprecedented-detail)
 - [The market has ‘switched’ and founders have the power now, VCs say](https://techcrunch.com/2025/12/11/the-market-has-switched-and-founders-have-the-power-now-vcs-say/)
 - [SpaceX plans to go public in 2026, seeks $1.5 trillion valuation: reports](https://www.space.com/space-exploration/spacex-plans-to-go-public-in-2026-seeks-usd1-5-trillion-valuation-reports)
-- [Epic Games’s Fortnite is back in US Google Play Store, as court partially reverses restrictions it won on iOS](https://techcrunch.com/2025/12/11/epic-gamess-fortnite-is-back-in-us-google-play-store-as-court-partially-reverses-restrictions-it-won-on-ios/)
+- [Epic Games’ Fortnite is back in US Google Play Store, as court partially reverses restrictions it won on iOS](https://techcrunch.com/2025/12/11/epic-gamess-fortnite-is-back-in-us-google-play-store-as-court-partially-reverses-restrictions-it-won-on-ios/)
 - [Disney hits Google with cease-and-desist claiming ‘massive’ copyright infringement](https://techcrunch.com/2025/12/11/disney-hits-google-with-cease-and-desist-claiming-massive-copyright-infringement/)
-- [Google’s AI try-on feature for clothes now works with just a selfie](https://techcrunch.com/2025/12/11/googles-ai-try-on-feature-for-clothes-now-works-with-just-a-selfie/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
