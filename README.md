@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Port raises $100M at $800M valuation to take on Spotify’s Backstage](https://techcrunch.com/2025/12/11/port-raises-100m-at-800m-valuation-to-take-on-spotifys-backstage/)
+- [Runware raises $50M Series A to help make image, video generation easier for developers](https://techcrunch.com/2025/12/11/runware-raises-50m-series-a-from-dawn-capital-comcast-ventures-to-become-the-api-for-all-ai/)
+- [James Webb Space Telescope discovers a hot Jupiter exoplanet leaking twin gas tails that defy explanation](https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-discovers-a-hot-jupiter-exoplanet-leaking-twin-gas-tails-that-defy-explanation)
+- [Harness hits $5.5B valuation with $240M raise to automate AI’s ‘after-code’ gap](https://techcrunch.com/2025/12/11/harness-hits-5-5b-valuation-with-240m-to-automate-ais-after-code-gap/)
 - [Baby delivered in Waymo continues proud tradition of not making it to the hospital](https://techcrunch.com/2025/12/10/baby-delivered-in-waymo-continues-proud-tradition-of-not-making-it-to-the-hospital/)
-- [Google’s answer to the AI arms race — promote the guy behind its data center tech](https://techcrunch.com/2025/12/10/googles-answer-to-the-ai-arms-race-promote-the-guy-behind-its-data-center-tech/)
-- [State attorneys general warn Microsoft, OpenAI, Google, and other AI giants to fix ‘delusional’ outputs](https://techcrunch.com/2025/12/10/state-attorneys-general-warn-microsoft-openai-google-and-other-ai-giants-to-fix-delusional-outputs/)
-- [How do you activate a supermassive black hole? A galaxy merger should do the trick](https://www.space.com/astronomy/how-do-you-activate-a-supermassive-black-hole-a-galaxy-merger-should-do-the-trick)
-- [Nvidia is reportedly testing tracking software as chip-smuggling rumors swirl](https://techcrunch.com/2025/12/10/nvidia-is-reportedly-testing-tracking-software-as-chip-smuggling-rumors-swirl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
