@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble sees &#39;Lost Galaxy&#39; in the Virgo constellation | Space photo of the day for Dec. 11, 2025](https://www.space.com/astronomy/hubble-space-telescope/hubble-sees-lost-galaxy-in-the-virgo-constellation-space-photo-of-the-day-for-dec-11-2025)
+- [Security flaws in Freedom Chat app exposed users’ phone numbers and PINs](https://techcrunch.com/2025/12/11/security-flaws-in-freedom-chat-app-exposed-users-phone-numbers-and-pins/)
 - [Interest in Spoor’s bird monitoring AI software is soaring](https://techcrunch.com/2025/12/11/interest-in-spoors-bird-monitoring-ai-software-is-soaring/)
 - [Eclipse Energy’s microbes can turn idle oil wells into hydrogen factories](https://techcrunch.com/2025/12/11/eclipse-energys-microbes-can-turn-idle-oil-wells-into-hydrogen-factories/)
 - [Opera wants you to pay $20 a month to use its AI-powered browser Neon](https://techcrunch.com/2025/12/11/opera-wants-you-to-pay-20-a-month-to-use-its-ai-powered-browser-neon/)
-- [Interstellar comet 3I/ATLAS caught on camera in new images from Hubble Space Telescope and JUICE Jupiter probe](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-caught-on-camera-in-new-images-from-hubble-space-telescope-and-juice-jupiter-probe)
-- [Port raises $100M at $800M valuation to take on Spotify’s Backstage](https://techcrunch.com/2025/12/11/port-raises-100m-at-800m-valuation-to-take-on-spotifys-backstage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
