@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [1X struck a deal to send its ‘home’ humanoids to factories and warehouses](https://techcrunch.com/2025/12/11/1x-struck-a-deal-to-send-its-home-humanoids-to-factories-and-warehouses/)
+- [NASA&#39;s Chandra telescope uses &#39;X-arithmetic&#39; to reveal how black holes shape galaxy clusters &lpar;images&rpar;](https://www.space.com/astronomy/nasa-unveils-colorful-new-chandra-x-ray-views-of-galaxy-clusters)
 - [Astronomers capture close-up images of nova explosions on 2 dead stars in unprecedented detail](https://www.space.com/astronomy/stars/astronomers-capture-close-up-images-of-nova-explosions-on-2-dead-stars-in-unprecedented-detail)
 - [The market has ‘switched’ and founders have the power now, VCs say](https://techcrunch.com/2025/12/11/the-market-has-switched-and-founders-have-the-power-now-vcs-say/)
 - [SpaceX plans to go public in 2026, seeks $1.5 trillion valuation: reports](https://www.space.com/space-exploration/spacex-plans-to-go-public-in-2026-seeks-usd1-5-trillion-valuation-reports)
-- [Epic Games’ Fortnite is back in US Google Play Store, as court partially reverses restrictions it won on iOS](https://techcrunch.com/2025/12/11/epic-gamess-fortnite-is-back-in-us-google-play-store-as-court-partially-reverses-restrictions-it-won-on-ios/)
-- [Disney hits Google with cease-and-desist claiming ‘massive’ copyright infringement](https://techcrunch.com/2025/12/11/disney-hits-google-with-cease-and-desist-claiming-massive-copyright-infringement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
