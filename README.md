@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney hits Google with cease-and-desist claiming ‘massive’ copyright infringement](https://techcrunch.com/2025/12/11/disney-hits-google-with-cease-and-desist-claiming-massive-copyright-infringement/)
 - [Google’s AI try-on feature for clothes now works with just a selfie](https://techcrunch.com/2025/12/11/googles-ai-try-on-feature-for-clothes-now-works-with-just-a-selfie/)
 - [57 ways to capture a dying star: Astronomers get a glimpse of what will happen when our sun dies](https://www.space.com/astronomy/stars/57-ways-to-capture-a-dying-star-astronomers-get-a-glimpse-of-what-will-happen-when-our-sun-dies)
 - [OpenAI fires back at Google with GPT-5.2 after ‘code red’ memo](https://techcrunch.com/2025/12/11/openai-fires-back-at-google-with-gpt-5-2-after-code-red-memo/)
 - [Google debuts ‘Disco,’ a Gemini-powered tool for making web apps from browser tabs](https://techcrunch.com/2025/12/11/google-debuts-disco-a-gemini-powered-tool-for-making-web-apps-from-browser-tabs/)
-- [Rivian’s AI assistant is coming to its EVs in early 2026](https://techcrunch.com/2025/12/11/rivians-ai-assistant-is-coming-to-its-evs-in-early-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
