@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Baby delivered in Waymo continues proud tradition of not making it to the hospital](https://techcrunch.com/2025/12/10/baby-delivered-in-waymo-continues-proud-tradition-of-not-making-it-to-the-hospital/)
 - [Google’s answer to the AI arms race — promote the guy behind its data center tech](https://techcrunch.com/2025/12/10/googles-answer-to-the-ai-arms-race-promote-the-guy-behind-its-data-center-tech/)
 - [State attorneys general warn Microsoft, OpenAI, Google, and other AI giants to fix ‘delusional’ outputs](https://techcrunch.com/2025/12/10/state-attorneys-general-warn-microsoft-openai-google-and-other-ai-giants-to-fix-delusional-outputs/)
 - [How do you activate a supermassive black hole? A galaxy merger should do the trick](https://www.space.com/astronomy/how-do-you-activate-a-supermassive-black-hole-a-galaxy-merger-should-do-the-trick)
 - [Nvidia is reportedly testing tracking software as chip-smuggling rumors swirl](https://techcrunch.com/2025/12/10/nvidia-is-reportedly-testing-tracking-software-as-chip-smuggling-rumors-swirl/)
-- [Want to see further for less? We have rounded up the last few Cyber Monday binocular deals, saving up to hundreds, but you&#39;ll have to be fast](https://www.space.com/stargazing/skywatching-kit/we-have-rounded-up-the-last-few-cyber-monday-binocular-deals-saving-up-to-hundreds-but-youll-have-to-be-fast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
