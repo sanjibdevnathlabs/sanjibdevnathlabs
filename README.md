@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rivian goes big on autonomy, with custom silicon, lidar, and a hint at robotaxis](https://techcrunch.com/2025/12/11/rivian-goes-big-on-autonomy-with-custom-silicon-lidar-and-a-hint-at-robotaxis/)
+- [Astronomers discover images of a Tatooine-like exoplanet with a bizarre orbit hidden in 10-year-old data](https://www.space.com/astronomy/exoplanets/astronomers-discover-images-of-a-tatooine-like-exoplanet-with-a-bizarre-orbit-hidden-in-10-year-old-data)
+- [Runway releases its first world model, adds native audio to latest video model](https://techcrunch.com/2025/12/11/runway-releases-its-first-world-model-adds-native-audio-to-latest-video-model/)
 - [Ford and SK On are ending their U.S. battery joint venture](https://techcrunch.com/2025/12/11/ford-and-sk-on-are-ending-their-u-s-battery-joint-venture/)
 - [AI helps pilot free-flying robot around the International Space Station for 1st time ever](https://www.space.com/space-exploration/international-space-station/ai-helps-pilot-free-flying-robot-around-the-international-space-station-for-1st-time-ever)
-- [James Webb Space Telescope finds strongest evidence yet for atmosphere around rocky exoplanet: &#39;It&#39;s really like a wet lava ball&#39;](https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-finds-strongest-evidence-yet-for-atmosphere-around-rocky-exoplanet-its-really-like-a-wet-lava-ball)
-- [Disney signs deal with OpenAI to allow Sora to generate AI videos featuring its characters](https://techcrunch.com/2025/12/11/disney-signs-deal-with-openai-to-allow-sora-to-generate-ai-videos-featuring-its-characters/)
-- [On Me raises $6M to shake up the gift card industry](https://techcrunch.com/2025/12/11/on-me-raises-6m-to-shake-up-the-gift-card-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
