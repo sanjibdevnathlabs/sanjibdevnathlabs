@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Procedural Generation in Games - Computerphile](https://www.youtube.com/watch?v=G6ZHUOSXZDo)
 - [I&#39;ll never use n8n the same......](https://www.youtube.com/watch?v=s96JeuuwLzc)
 - [12 Networking Fundamentals Every Engineer Should Know](https://www.youtube.com/watch?v=xj_GjnD4uyI)
 - [React.js shell shocked by 10.0 critical vulnerability…](https://www.youtube.com/watch?v=QLK9G5zyU-Q)
 - [“Learning for Life: How Curiosity Shapes Well-Being” with Bia Adams](https://www.youtube.com/watch?v=LNQtwCi_qys)
-- [Anthropic just bought your favorite JS runtime...](https://www.youtube.com/watch?v=5JMiNsV7P3Y)
 <!-- YOUTUBE:END -->
 
 ---
