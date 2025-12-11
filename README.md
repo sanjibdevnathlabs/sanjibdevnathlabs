@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford and SK On are ending their U.S. battery joint venture](https://techcrunch.com/2025/12/11/ford-and-sk-on-are-ending-their-u-s-battery-joint-venture/)
+- [AI helps pilot free-flying robot around the International Space Station for 1st time ever](https://www.space.com/space-exploration/international-space-station/ai-helps-pilot-free-flying-robot-around-the-international-space-station-for-1st-time-ever)
+- [James Webb Space Telescope finds strongest evidence yet for atmosphere around rocky exoplanet: &#39;It&#39;s really like a wet lava ball&#39;](https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-finds-strongest-evidence-yet-for-atmosphere-around-rocky-exoplanet-its-really-like-a-wet-lava-ball)
+- [Disney signs deal with OpenAI to allow Sora to generate AI videos featuring its characters](https://techcrunch.com/2025/12/11/disney-signs-deal-with-openai-to-allow-sora-to-generate-ai-videos-featuring-its-characters/)
 - [On Me raises $6M to shake up the gift card industry](https://techcrunch.com/2025/12/11/on-me-raises-6m-to-shake-up-the-gift-card-industry/)
-- [Scientists map of old Mars river basins for the 1st time. These could be great places to search for ancient life](https://www.space.com/astronomy/mars/scientists-map-of-old-mars-river-basins-for-the-1st-time-these-could-be-great-places-to-search-for-ancient-life)
-- [TIME names ‘Architects of AI’ its Person of the Year](https://techcrunch.com/2025/12/11/time-names-architects-of-ai-its-person-of-the-year/)
-- [Hubble sees &#39;Lost Galaxy&#39; in the Virgo constellation | Space photo of the day for Dec. 11, 2025](https://www.space.com/astronomy/hubble-space-telescope/hubble-sees-lost-galaxy-in-the-virgo-constellation-space-photo-of-the-day-for-dec-11-2025)
-- [Security flaws in Freedom Chat app exposed users’ phone numbers and PINs](https://techcrunch.com/2025/12/11/security-flaws-in-freedom-chat-app-exposed-users-phone-numbers-and-pins/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
