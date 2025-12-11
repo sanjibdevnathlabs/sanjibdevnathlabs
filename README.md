@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On Me raises $6M to shake up the gift card industry](https://techcrunch.com/2025/12/11/on-me-raises-6m-to-shake-up-the-gift-card-industry/)
+- [Scientists map of old Mars river basins for the 1st time. These could be great places to search for ancient life](https://www.space.com/astronomy/mars/scientists-map-of-old-mars-river-basins-for-the-1st-time-these-could-be-great-places-to-search-for-ancient-life)
+- [TIME names ‘Architects of AI’ its Person of the Year](https://techcrunch.com/2025/12/11/time-names-architects-of-ai-its-person-of-the-year/)
 - [Hubble sees &#39;Lost Galaxy&#39; in the Virgo constellation | Space photo of the day for Dec. 11, 2025](https://www.space.com/astronomy/hubble-space-telescope/hubble-sees-lost-galaxy-in-the-virgo-constellation-space-photo-of-the-day-for-dec-11-2025)
 - [Security flaws in Freedom Chat app exposed users’ phone numbers and PINs](https://techcrunch.com/2025/12/11/security-flaws-in-freedom-chat-app-exposed-users-phone-numbers-and-pins/)
-- [Interest in Spoor’s bird monitoring AI software is soaring](https://techcrunch.com/2025/12/11/interest-in-spoors-bird-monitoring-ai-software-is-soaring/)
-- [Eclipse Energy’s microbes can turn idle oil wells into hydrogen factories](https://techcrunch.com/2025/12/11/eclipse-energys-microbes-can-turn-idle-oil-wells-into-hydrogen-factories/)
-- [Opera wants you to pay $20 a month to use its AI-powered browser Neon](https://techcrunch.com/2025/12/11/opera-wants-you-to-pay-20-a-month-to-use-its-ai-powered-browser-neon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
