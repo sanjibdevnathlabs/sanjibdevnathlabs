@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Interest in Spoor’s bird monitoring AI software is soaring](https://techcrunch.com/2025/12/11/interest-in-spoors-bird-monitoring-ai-software-is-soaring/)
+- [Eclipse Energy’s microbes can turn idle oil wells into hydrogen factories](https://techcrunch.com/2025/12/11/eclipse-energys-microbes-can-turn-idle-oil-wells-into-hydrogen-factories/)
+- [Opera wants you to pay $20 a month to use its AI-powered browser Neon](https://techcrunch.com/2025/12/11/opera-wants-you-to-pay-20-a-month-to-use-its-ai-powered-browser-neon/)
+- [Interstellar comet 3I/ATLAS caught on camera in new images from Hubble Space Telescope and JUICE Jupiter probe](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-caught-on-camera-in-new-images-from-hubble-space-telescope-and-juice-jupiter-probe)
 - [Port raises $100M at $800M valuation to take on Spotify’s Backstage](https://techcrunch.com/2025/12/11/port-raises-100m-at-800m-valuation-to-take-on-spotifys-backstage/)
-- [Runware raises $50M Series A to help make image, video generation easier for developers](https://techcrunch.com/2025/12/11/runware-raises-50m-series-a-from-dawn-capital-comcast-ventures-to-become-the-api-for-all-ai/)
-- [James Webb Space Telescope discovers a hot Jupiter exoplanet leaking twin gas tails that defy explanation](https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-discovers-a-hot-jupiter-exoplanet-leaking-twin-gas-tails-that-defy-explanation)
-- [Harness hits $5.5B valuation with $240M raise to automate AI’s ‘after-code’ gap](https://techcrunch.com/2025/12/11/harness-hits-5-5b-valuation-with-240m-to-automate-ais-after-code-gap/)
-- [Baby delivered in Waymo continues proud tradition of not making it to the hospital](https://techcrunch.com/2025/12/10/baby-delivered-in-waymo-continues-proud-tradition-of-not-making-it-to-the-hospital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
