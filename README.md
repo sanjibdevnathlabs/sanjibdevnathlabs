@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The market has ‘switched’ and founders have the power now, VCs say](https://techcrunch.com/2025/12/11/the-market-has-switched-and-founders-have-the-power-now-vcs-say/)
+- [SpaceX plans to go public in 2026, seeks $1.5 trillion valuation: reports](https://www.space.com/space-exploration/spacex-plans-to-go-public-in-2026-seeks-usd1-5-trillion-valuation-reports)
+- [Epic Games’s Fortnite is back in US Google Play Store, as court partially reverses restrictions it won on iOS](https://techcrunch.com/2025/12/11/epic-gamess-fortnite-is-back-in-us-google-play-store-as-court-partially-reverses-restrictions-it-won-on-ios/)
 - [Disney hits Google with cease-and-desist claiming ‘massive’ copyright infringement](https://techcrunch.com/2025/12/11/disney-hits-google-with-cease-and-desist-claiming-massive-copyright-infringement/)
 - [Google’s AI try-on feature for clothes now works with just a selfie](https://techcrunch.com/2025/12/11/googles-ai-try-on-feature-for-clothes-now-works-with-just-a-selfie/)
-- [57 ways to capture a dying star: Astronomers get a glimpse of what will happen when our sun dies](https://www.space.com/astronomy/stars/57-ways-to-capture-a-dying-star-astronomers-get-a-glimpse-of-what-will-happen-when-our-sun-dies)
-- [OpenAI fires back at Google with GPT-5.2 after ‘code red’ memo](https://techcrunch.com/2025/12/11/openai-fires-back-at-google-with-gpt-5-2-after-code-red-memo/)
-- [Google debuts ‘Disco,’ a Gemini-powered tool for making web apps from browser tabs](https://techcrunch.com/2025/12/11/google-debuts-disco-a-gemini-powered-tool-for-making-web-apps-from-browser-tabs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
