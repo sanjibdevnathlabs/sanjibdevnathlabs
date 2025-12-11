@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rivian goes big on autonomy, with custom silicon, lidar, and a hint at robotaxis](https://techcrunch.com/2025/12/11/rivian-goes-big-on-autonomy-with-custom-silicon-lidar-and-a-hint-at-robotaxis/)
-- [Astronomers discover images of a Tatooine-like exoplanet with a bizarre orbit hidden in 10-year-old data](https://www.space.com/astronomy/exoplanets/astronomers-discover-images-of-a-tatooine-like-exoplanet-with-a-bizarre-orbit-hidden-in-10-year-old-data)
-- [Runway releases its first world model, adds native audio to latest video model](https://techcrunch.com/2025/12/11/runway-releases-its-first-world-model-adds-native-audio-to-latest-video-model/)
-- [Ford and SK On are ending their U.S. battery joint venture](https://techcrunch.com/2025/12/11/ford-and-sk-on-are-ending-their-u-s-battery-joint-venture/)
-- [AI helps pilot free-flying robot around the International Space Station for 1st time ever](https://www.space.com/space-exploration/international-space-station/ai-helps-pilot-free-flying-robot-around-the-international-space-station-for-1st-time-ever)
+- [Google’s AI try-on feature for clothes now works with just a selfie](https://techcrunch.com/2025/12/11/googles-ai-try-on-feature-for-clothes-now-works-with-just-a-selfie/)
+- [57 ways to capture a dying star: Astronomers get a glimpse of what will happen when our sun dies](https://www.space.com/astronomy/stars/57-ways-to-capture-a-dying-star-astronomers-get-a-glimpse-of-what-will-happen-when-our-sun-dies)
+- [OpenAI fires back at Google with GPT-5.2 after ‘code red’ memo](https://techcrunch.com/2025/12/11/openai-fires-back-at-google-with-gpt-5-2-after-code-red-memo/)
+- [Google debuts ‘Disco,’ a Gemini-powered tool for making web apps from browser tabs](https://techcrunch.com/2025/12/11/google-debuts-disco-a-gemini-powered-tool-for-making-web-apps-from-browser-tabs/)
+- [Rivian’s AI assistant is coming to its EVs in early 2026](https://techcrunch.com/2025/12/11/rivians-ai-assistant-is-coming-to-its-evs-in-early-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
