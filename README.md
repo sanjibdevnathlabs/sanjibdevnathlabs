@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Global Space Award winners 2025: Playmakers, innovators, and science breakthroughs](https://www.space.com/space-exploration/global-space-award-winners-2025-playmakers-innovators-and-science-breakthroughs)
 - [Einstein&#39;s right again! Scientists catch a feasting black hole dragging the very fabric of spacetime](https://www.space.com/astronomy/black-holes/einsteins-right-again-scientists-catch-a-feasting-black-hole-dragging-the-very-fabric-of-spacetime)
 - [Riding onboard with Rivian’s race to autonomy](https://techcrunch.com/2025/12/12/riding-onboard-with-rivians-race-to-autonomy/)
 - [&#39;Exodus&#39; is a spiritual successor to &#39;Mass Effect&#39; with a hard sci-fi edge. We spoke to the devs about time-dilation, human evolution, and honoring hard sci-fi &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-games/exodus-is-a-spiritual-successor-to-mass-effect-with-a-hard-sci-fi-edge-we-spoke-to-the-devs-about-time-dilation-human-evolution-and-honoring-hard-sci-fi-exclusive)
 - [When is the best time to watch the Geminid meteor shower this weekend?](https://www.space.com/stargazing/meteor-showers/when-is-the-best-time-to-watch-the-geminid-meteor-shower-peak-dec-13-14-2025)
-- [Get 45% off Marvel&#39;s Fantastic Four and the Predator movies with this Disney Plus streaming deal ahead of the holiday season](https://www.space.com/entertainment/space-movies-shows/get-45-percent-off-marvels-fantastic-four-and-the-predator-movies-disney-plus-streaming-deal-holiday-season)
 <!-- BLOG-POST-LIST:END -->
 
 ---
