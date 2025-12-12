@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comet Lemmon and Milky Way spotted over Hawaii | Space photo of the day for Dec. 12, 2025](https://www.space.com/stargazing/comet-lemmon-and-milky-way-spotted-over-hawaii-space-photo-of-the-day-for-dec-12-2025)
 - [Satellite constellations could obscure most space telescope observations by late 2030s: &#39;That part of the image will be forever lost&#39;](https://www.space.com/space-exploration/satellites/satellite-constellations-could-obscure-most-space-telescope-observations-by-late-2030s-that-part-of-the-image-will-be-forever-lost)
 - [World launches its ‘super app,’ including crypto pay and encrypted chat features](https://techcrunch.com/2025/12/11/world-launches-its-super-app-including-crypto-pay-and-encrypted-chat-features/)
 - [Stanford’s star reporter takes on Silicon Valley’s ‘money-soaked’ startup culture](https://techcrunch.com/2025/12/11/stanfords-star-reporter-takes-on-silicon-valleys-money-soaked-startup-culture/)
 - [Google launched its deepest AI research agent yet — on the same day OpenAI dropped GPT-5.2](https://techcrunch.com/2025/12/11/google-launched-its-deepest-ai-research-agent-yet-on-the-same-day-openai-dropped-gpt-5-2/)
-- [Blue Origin targeting Dec. 18 for historic 1st spaceflight of wheelchair user](https://www.space.com/space-exploration/private-spaceflight/blue-origin-targeting-dec-18-for-historic-1st-spaceflight-of-wheelchair-user)
 <!-- BLOG-POST-LIST:END -->
 
 ---
