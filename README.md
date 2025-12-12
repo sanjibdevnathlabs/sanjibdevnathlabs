@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [OpenAI is edging us all... Closer to AGI](https://www.youtube.com/watch?v=rEvEXQvo-F8)
 - [Is this voice REAL or AI?](https://www.youtube.com/shorts/1AVlW7TB-Oo)
 - [I made an AI that roasts me. You should too](https://www.youtube.com/shorts/eGBxLRPBLM4)
 - [Procedural Generation in Games - Computerphile](https://www.youtube.com/watch?v=G6ZHUOSXZDo)
 - [I&#39;ll never use n8n the same......](https://www.youtube.com/watch?v=s96JeuuwLzc)
-- [12 Networking Fundamentals Every Engineer Should Know](https://www.youtube.com/watch?v=xj_GjnD4uyI)
 <!-- YOUTUBE:END -->
 
 ---
