@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US Space Force is installing a &#39;next level&#39; system to combat drones near Cape Canaveral launch sites](https://www.space.com/technology/aerospace/us-space-force-is-installing-a-next-level-system-to-combat-drones-near-cape-canaveral-launch-sites)
+- [Zevo wants to add robotaxis to its car-share fleet, starting with newcomer Tensor](https://techcrunch.com/2025/12/12/zevo-wants-to-add-robotaxis-to-its-car-share-fleet-starting-with-newcomer-tensor/)
 - [How color-changing, bacteria-infused spacesuits could help keep future astronauts safe from space radiation](https://www.space.com/technology/how-color-changing-bacteria-infused-spacesuits-could-help-keep-future-astronauts-safe-from-space-radiation)
 - [Reddit argues it isn’t like other social platforms in case against Australia’s social media ban](https://techcrunch.com/2025/12/12/reddit-argues-it-isnt-like-other-social-platforms-in-case-against-australias-social-media-ban/)
 - [Comet Lemmon and Milky Way spotted over Hawaii | Space photo of the day for Dec. 12, 2025](https://www.space.com/stargazing/comet-lemmon-and-milky-way-spotted-over-hawaii-space-photo-of-the-day-for-dec-12-2025)
-- [Satellite constellations could obscure most space telescope observations by late 2030s: &#39;That part of the image will be forever lost&#39;](https://www.space.com/space-exploration/satellites/satellite-constellations-could-obscure-most-space-telescope-observations-by-late-2030s-that-part-of-the-image-will-be-forever-lost)
-- [World launches its ‘super app,’ including crypto pay and encrypted chat features](https://techcrunch.com/2025/12/11/world-launches-its-super-app-including-crypto-pay-and-encrypted-chat-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
