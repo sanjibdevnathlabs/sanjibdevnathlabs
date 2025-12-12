@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Every space and sci-fi game at The Game Awards 2025](https://www.space.com/entertainment/space-games/every-space-and-sci-fi-game-at-the-game-awards-2025)
-- [Flaw in photo booth maker’s website exposes customers’ pictures](https://techcrunch.com/2025/12/12/flaw-in-photo-booth-makers-website-exposes-customers-pictures/)
-- [US Space Force is installing a &#39;next level&#39; system to combat drones near Cape Canaveral launch sites](https://www.space.com/technology/aerospace/us-space-force-is-installing-a-next-level-system-to-combat-drones-near-cape-canaveral-launch-sites)
-- [Zevo wants to add robotaxis to its car-share fleet, starting with newcomer Tensor](https://techcrunch.com/2025/12/12/zevo-wants-to-add-robotaxis-to-its-car-share-fleet-starting-with-newcomer-tensor/)
-- [How color-changing, bacteria-infused spacesuits could help keep future astronauts safe from space radiation](https://www.space.com/technology/how-color-changing-bacteria-infused-spacesuits-could-help-keep-future-astronauts-safe-from-space-radiation)
+- [Trump’s AI executive order promises ‘one rulebook.’ Startups may get legal limbo instead.](https://techcrunch.com/2025/12/12/trumps-ai-executive-order-promises-one-rulebook-startups-may-get-legal-limbo-instead/)
+- [Google Translate now lets you hear real-time translations in your headphones](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/)
+- [Geminid meteor shower forecast: Will skies be clear across the US on Dec. 13–14?](https://www.space.com/stargazing/meteor-showers/geminid-meteor-shower-forecast-2025-will-skies-be-clear-across-the-us-on-dec-13-14)
+- [Retro, a photo sharing app for friends, lets you ‘time-travel’ through your Camera Roll](https://techcrunch.com/2025/12/12/retro-a-photo-sharing-app-for-friends-lets-you-time-travel-through-your-camera-roll/)
+- [Home Depot exposed access to internal systems for a year, says researcher](https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
