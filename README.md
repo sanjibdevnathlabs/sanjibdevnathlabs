@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [World launches its ‘super app,’ including crypto pay and encrypted chat features](https://techcrunch.com/2025/12/11/world-launches-its-super-app-including-crypto-pay-and-encrypted-chat-features/)
 - [Stanford’s star reporter takes on Silicon Valley’s ‘money-soaked’ startup culture](https://techcrunch.com/2025/12/11/stanfords-star-reporter-takes-on-silicon-valleys-money-soaked-startup-culture/)
 - [Google launched its deepest AI research agent yet — on the same day OpenAI dropped GPT-5.2](https://techcrunch.com/2025/12/11/google-launched-its-deepest-ai-research-agent-yet-on-the-same-day-openai-dropped-gpt-5-2/)
 - [Blue Origin targeting Dec. 18 for historic 1st spaceflight of wheelchair user](https://www.space.com/space-exploration/private-spaceflight/blue-origin-targeting-dec-18-for-historic-1st-spaceflight-of-wheelchair-user)
 - [SpaceX launches Starlink satellites from Florida on worldwide 300th orbital flight of 2025 &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-90-b1083-ccsfs-jrti)
-- [1X struck a deal to send its ‘home’ humanoids to factories and warehouses](https://techcrunch.com/2025/12/11/1x-struck-a-deal-to-send-its-home-humanoids-to-factories-and-warehouses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
