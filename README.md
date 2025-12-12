@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Every space and sci-fi game at The Game Awards 2025](https://www.space.com/entertainment/space-games/every-space-and-sci-fi-game-at-the-game-awards-2025)
+- [Flaw in photo booth maker’s website exposes customers’ pictures](https://techcrunch.com/2025/12/12/flaw-in-photo-booth-makers-website-exposes-customers-pictures/)
 - [US Space Force is installing a &#39;next level&#39; system to combat drones near Cape Canaveral launch sites](https://www.space.com/technology/aerospace/us-space-force-is-installing-a-next-level-system-to-combat-drones-near-cape-canaveral-launch-sites)
 - [Zevo wants to add robotaxis to its car-share fleet, starting with newcomer Tensor](https://techcrunch.com/2025/12/12/zevo-wants-to-add-robotaxis-to-its-car-share-fleet-starting-with-newcomer-tensor/)
 - [How color-changing, bacteria-infused spacesuits could help keep future astronauts safe from space radiation](https://www.space.com/technology/how-color-changing-bacteria-infused-spacesuits-could-help-keep-future-astronauts-safe-from-space-radiation)
-- [Reddit argues it isn’t like other social platforms in case against Australia’s social media ban](https://techcrunch.com/2025/12/12/reddit-argues-it-isnt-like-other-social-platforms-in-case-against-australias-social-media-ban/)
-- [Comet Lemmon and Milky Way spotted over Hawaii | Space photo of the day for Dec. 12, 2025](https://www.space.com/stargazing/comet-lemmon-and-milky-way-spotted-over-hawaii-space-photo-of-the-day-for-dec-12-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
