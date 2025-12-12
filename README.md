@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trump’s AI executive order promises ‘one rulebook.’ Startups may get legal limbo instead.](https://techcrunch.com/2025/12/12/trumps-ai-executive-order-promises-one-rulebook-startups-may-get-legal-limbo-instead/)
+- [Data breach at credit check giant 700Credit affects at least 5.6 million](https://techcrunch.com/2025/12/12/data-breach-at-credit-check-giant-700credit-affects-at-least-5-6-million/)
+- [Trump’s AI executive order promises ‘one rulebook’ — startups may get legal limbo instead](https://techcrunch.com/2025/12/12/trumps-ai-executive-order-promises-one-rulebook-startups-may-get-legal-limbo-instead/)
 - [Google Translate now lets you hear real-time translations in your headphones](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/)
 - [Geminid meteor shower forecast: Will skies be clear across the US on Dec. 13–14?](https://www.space.com/stargazing/meteor-showers/geminid-meteor-shower-forecast-2025-will-skies-be-clear-across-the-us-on-dec-13-14)
-- [Retro, a photo sharing app for friends, lets you ‘time-travel’ through your Camera Roll](https://techcrunch.com/2025/12/12/retro-a-photo-sharing-app-for-friends-lets-you-time-travel-through-your-camera-roll/)
-- [Home Depot exposed access to internal systems for a year, says researcher](https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/)
+- [Retro, a photo-sharing app for friends, lets you ‘time-travel’ through your camera roll](https://techcrunch.com/2025/12/12/retro-a-photo-sharing-app-for-friends-lets-you-time-travel-through-your-camera-roll/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
