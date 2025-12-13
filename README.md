@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Doctor Who&#39; spin-offs ranked: From K-9 and Daleks! to &#39;Class&#39;, &#39;The Sarah Jane Adventures&#39; and &#39;Torchwood&#39;](https://www.space.com/entertainment/space-movies-shows/doctor-who-spin-offs-ranked)
 - [This Week In Space podcast: Episode 189 — Privatizing Orbit](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-189-privatizing-orbit)
 - [When darkness shines: How dark stars could illuminate the early universe](https://www.space.com/astronomy/dark-universe/when-darkness-shines-how-dark-stars-could-illuminate-the-early-universe)
 - [Watch the Geminid meteor shower peak tonight from the comfort of home with this free livestream](https://www.space.com/stargazing/meteor-showers/watch-the-geminid-meteor-shower-peak-tonight-from-the-comfort-of-home-with-this-free-livestream)
 - [Geminid meteor shower peaks tonight — here’s what to expect from one of the best shooting star shows of the year](https://www.space.com/stargazing/meteor-showers/geminid-meteor-shower-peaks-tonight-heres-what-to-expect-from-one-of-the-best-shooting-star-shows-of-the-year)
-- [Spacecraft from Chinese launch nearly slammed into Starlink satellite, SpaceX says](https://www.space.com/space-exploration/satellites/spacecraft-from-chinese-launch-nearly-slammed-into-starlink-satellite-spacex-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
