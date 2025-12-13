@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch the Geminid meteor shower peak tonight from the comfort of home with this free livestream](https://www.space.com/stargazing/meteor-showers/watch-the-geminid-meteor-shower-peak-tonight-from-the-comfort-of-home-with-this-free-livestream)
 - [Geminid meteor shower peaks tonight — here’s what to expect from one of the best shooting star shows of the year](https://www.space.com/stargazing/meteor-showers/geminid-meteor-shower-peaks-tonight-heres-what-to-expect-from-one-of-the-best-shooting-star-shows-of-the-year)
 - [Spacecraft from Chinese launch nearly slammed into Starlink satellite, SpaceX says](https://www.space.com/space-exploration/satellites/spacecraft-from-chinese-launch-nearly-slammed-into-starlink-satellite-spacex-says)
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/12/12/tech-layoffs-2025-list/)
 - [Astronaut sees gorgeous &#39;skies of blue and clouds of white&#39; | On the International Space Station this week Dec. 8-12, 2025](https://www.space.com/space-exploration/international-space-station/astronaut-sees-gorgeous-skies-of-blue-and-clouds-of-white-on-the-international-space-station-this-week-dec-8-12-2025)
-- [Global Space Award winners 2025: Playmakers, innovators, and science breakthroughs](https://www.space.com/space-exploration/global-space-award-winners-2025-playmakers-innovators-and-science-breakthroughs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
