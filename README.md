@@ -149,7 +149,7 @@ I'm a software developer passionate about designing and building applications wi
 - [December&#39;s overlooked meteor shower peaks next week — will the Ursids surprise us?](https://www.space.com/stargazing/meteor-showers/decembers-overlooked-meteor-shower-peaks-next-week-will-the-ursids-surprise-us)
 - [Data centers in space: Will 2027 really be the year AI goes to orbit?](https://www.space.com/technology/data-centers-in-space-will-2027-really-be-the-year-ai-goes-to-orbit)
 - [&#39;Fiddler on the Moon&#39; documentary explores how Judaism might adapt as humanity reaches out into space](https://www.space.com/space-exploration/fiddler-on-the-moon-documentary-explores-how-judaism-might-adapt-as-humanity-reaches-out-into-space)
-- [Falcon 9 rocket launches Starlink satellites before making 550th SpaceX landing](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-12-b1093-vsfb-ocisly)
+- [Falcon 9 rocket launches Starlink satellites before making 550th SpaceX landing &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-12-b1093-vsfb-ocisly)
 - [India’s Spinny lines up $160M funding to acquire GoMechanic, sources say](https://techcrunch.com/2025/12/13/indias-spinny-lines-up-160m-funding-to-acquire-gomechanic-sources-say/)
 <!-- BLOG-POST-LIST:END -->
 
