@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Falcon 9 rocket launches Starlink satellites before making 550th SpaceX landing](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-12-b1093-vsfb-ocisly)
 - [India’s Spinny lines up $160M funding to acquire GoMechanic, sources say](https://techcrunch.com/2025/12/13/indias-spinny-lines-up-160m-funding-to-acquire-gomechanic-sources-say/)
 - [DoorDash driver faces felony charges after allegedly spraying customers’ food](https://techcrunch.com/2025/12/13/doordash-driver-faces-felony-charges-after-allegedly-spraying-customers-food/)
 - [AI data center boom could be bad news for other infrastructure projects](https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/)
 - [Space.com headlines crossword quiz for week of Dec. 8, 2025: NASA lost contact with which Mars spacecraft this week?](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-dec-8-2025-nasa-lost-contact-with-which-mars-spacecraft-this-week)
-- [&#39;Doctor Who&#39; spin-offs ranked: From K-9 and Daleks! to &#39;Class&#39;, &#39;The Sarah Jane Adventures&#39; and &#39;Torchwood&#39;](https://www.space.com/entertainment/space-movies-shows/doctor-who-spin-offs-ranked)
 <!-- BLOG-POST-LIST:END -->
 
 ---
