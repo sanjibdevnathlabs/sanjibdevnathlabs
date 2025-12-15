@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding the point of no return: Sun&#39;s shifting, spiky atmospheric boundary mapped in detail for 1st time](https://www.space.com/astronomy/sun/finding-the-point-of-no-return-suns-shifting-spiky-atmospheric-boundary-mapped-in-detail-for-1st-time)
 - [Tesla starts testing robotaxis in Austin with no safety driver](https://techcrunch.com/2025/12/15/tesla-starts-testing-robotaxis-in-austin-with-no-safety-driver/)
 - [Snapchat rolls out its end-of-year Recaps](https://techcrunch.com/2025/12/15/snapchat-rolls-out-its-end-of-year-recaps/)
 - [NASA tests drones in Death Valley | Space photo of the day for Dec. 15, 2025](https://www.space.com/technology/nasa-tests-drones-in-death-valley-space-photo-of-the-day-for-dec-15-2025)
 - [First Voyage raises $2.5M for its AI companion helps you build habits](https://techcrunch.com/2025/12/15/first-voyage-raises-2-5m-for-its-ai-companion-helps-you-build-habits/)
-- [Nvidia reportedly weighs ramping up H200 production to meet surging demand in China](https://techcrunch.com/2025/12/15/nvidia-is-reportedly-weighs-ramping-up-h200-production-to-meet-surging-demand-in-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
