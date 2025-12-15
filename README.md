@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mirelo raises $41M from Index and a16z to solve AI video’s silent problem](https://techcrunch.com/2025/12/15/mirelo-raises-41m-from-index-and-a16z-to-solve-ai-videos-silent-problem/)
+- [Thea Energy previews Helios, its pixel-inspired fusion power plant](https://techcrunch.com/2025/12/15/thea-energy-previews-helios-its-pixel-inspired-fusion-power-plant/)
 - [Why interstellar comet 3I/ATLAS&#39; close Earth approach is an early Christmas gift for astronomers](https://www.space.com/astronomy/comets/why-interstellar-comet-3i-atlas-close-earth-approach-is-an-early-christmas-gift-for-astronomers)
 - [SpaceX Falcon 9 launches 29 Starlink satellites into low Earth orbit from Florida](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-82-b1092-ccsfs-asog)
 - [How iRobot lost its way home](https://techcrunch.com/2025/12/14/how-irobot-lost-its-way-home/)
-- [WhatsApp’s biggest market is becoming its toughest test](https://techcrunch.com/2025/12/14/whatsapps-biggest-market-is-becoming-its-toughest-test/)
-- [Grok got crucial facts wrong about Bondi Beach shooting](https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
