@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ghosts, sharks and Norse mythology: US Space Force unveils new names for satellites and space weapons](https://www.space.com/space-exploration/launches-spacecraft/ghosts-sharks-and-norse-mythology-us-space-force-unveils-new-names-for-satellites-and-space-weapons)
+- [Merriam-Webster names ‘slop’ the word of the year](https://techcrunch.com/2025/12/15/merriam-webster-names-slop-the-word-of-the-year/)
+- [Google’s ‘dark web report’ feature will no longer be available starting in February](https://techcrunch.com/2025/12/15/googles-dark-web-report-feature-will-no-longer-be-available-starting-in-february/)
 - [Fallout games ranked, worst to best](https://www.space.com/entertainment/space-games/fallout-games-ranked-worst-to-best)
 - [Gift guide: TechCrunch’s favorite things](https://techcrunch.com/2025/12/15/gift-guide-techcrunchs-favorite-things/)
-- [Threads adds new communities, tests badges for highly engaged members](https://techcrunch.com/2025/12/15/threads-adds-new-communities-tests-badges-for-highly-engaged-members/)
-- [Interstellar comet 3I/ATLAS makes its closest approach to Earth on Dec. 19: Here&#39;s what you need to know](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-makes-its-closest-approach-to-earth-on-dec-19-heres-what-you-need-to-know)
-- [Lidar-maker Luminar files for bankruptcy](https://techcrunch.com/2025/12/15/lidar-maker-luminar-files-for-bankruptcy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
