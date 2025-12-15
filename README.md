@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Grok got crucial facts wrong about Bondi Beach shooting](https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/)
 - [Mesa shuts down credit card that rewarded cardholders for paying their mortgages](https://techcrunch.com/2025/12/14/mesa-shuts-down-credit-card-that-rewarded-cardholders-for-paying-their-mortgages/)
 - [Making sense of the risky Netflix-Warner Bros. deal](https://techcrunch.com/2025/12/14/making-sense-of-the-risky-netflix-warner-bros-deal/)
 - [TechCrunch Mobility: Rivian’s survival plan involves more than cars](https://techcrunch.com/2025/12/14/rivians-survival-plan-involves-more-than-cars/)
 - [Watch Atlas V rocket launch 27 of Amazon&#39;s internet satellites to orbit early Dec. 15](https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-4)
-- [&#39;The Expanse&#39; at 10: the outer space drama that should have been as big as &#39;Game of Thrones&#39;](https://www.space.com/entertainment/space-movies-shows/the-expanse-at-10-the-outer-space-drama-that-should-have-been-as-big-as-game-of-thrones)
 <!-- BLOG-POST-LIST:END -->
 
 ---
