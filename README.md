@@ -134,7 +134,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [you need to use Frigate RIGHT NOW!! &lpar;Local + Private AI Surveillance&rpar;](https://www.youtube.com/watch?v=tbCKWX34_G4)
+- [stop trusting cloud cameras!! &lpar;here&#39;s what I use instead&rpar;](https://www.youtube.com/watch?v=tbCKWX34_G4)
 - [OpenAI was dead… Then GPT-5.2 dropped](https://www.youtube.com/watch?v=rEvEXQvo-F8)
 - [Is this voice REAL or AI?](https://www.youtube.com/shorts/1AVlW7TB-Oo)
 - [I made an AI that roasts me. You should too](https://www.youtube.com/shorts/eGBxLRPBLM4)
