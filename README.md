@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia bulks up open source offerings with an acquisition and new open AI models](https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/)
+- [Private satellites pinpoint methane emissions from oil, gas and coal facilities worldwide](https://www.space.com/science/climate-change/private-satellites-pinpoint-methane-emissions-from-oil-gas-and-coal-facilities-worldwide)
+- [Ford is starting a battery storage business to power data centers and the grid](https://techcrunch.com/2025/12/15/ford-is-starting-a-battery-storage-business-to-power-data-centers-and-the-grid/)
 - [Ford’s next F-150 Lightning will have a gas generator as it pivots away from large EVs](https://techcrunch.com/2025/12/15/fords-next-f-150-lightning-will-have-a-gas-generator-as-it-pivots-away-from-large-evs/)
 - [Creative Commons announces tentative support for AI ‘pay-to-crawl’ systems](https://techcrunch.com/2025/12/15/creative-commons-announces-tentative-support-for-ai-pay-to-crawl-systems/)
-- [Lightspeed raises record $9B in fresh capital](https://techcrunch.com/2025/12/15/lightspeed-raises-record-9b-in-fresh-capital/)
-- [Ghosts, sharks and Norse mythology: US Space Force unveils new names for satellites and space weapons](https://www.space.com/space-exploration/launches-spacecraft/ghosts-sharks-and-norse-mythology-us-space-force-unveils-new-names-for-satellites-and-space-weapons)
-- [Merriam-Webster names ‘slop’ the word of the year](https://techcrunch.com/2025/12/15/merriam-webster-names-slop-the-word-of-the-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
