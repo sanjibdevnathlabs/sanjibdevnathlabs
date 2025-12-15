@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I hate that I love Riverside’s AI-driven “Rewind” for podcasters](https://techcrunch.com/2025/12/15/i-hate-that-i-love-riversides-ai-driven-rewind-for-podcasters/)
+- [Disney’s OpenAI deal is exclusive for just one year  — then it’s open season](https://techcrunch.com/2025/12/15/disneys-openai-deal-is-exclusive-for-just-one-year-then-its-open-season/)
 - [Nvidia bulks up open source offerings with an acquisition and new open AI models](https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/)
 - [Private satellites pinpoint methane emissions from oil, gas and coal facilities worldwide](https://www.space.com/science/climate-change/private-satellites-pinpoint-methane-emissions-from-oil-gas-and-coal-facilities-worldwide)
 - [Ford is starting a battery storage business to power data centers and the grid](https://techcrunch.com/2025/12/15/ford-is-starting-a-battery-storage-business-to-power-data-centers-and-the-grid/)
-- [Ford’s next F-150 Lightning will have a gas generator as it pivots away from large EVs](https://techcrunch.com/2025/12/15/fords-next-f-150-lightning-will-have-a-gas-generator-as-it-pivots-away-from-large-evs/)
-- [Creative Commons announces tentative support for AI ‘pay-to-crawl’ systems](https://techcrunch.com/2025/12/15/creative-commons-announces-tentative-support-for-ai-pay-to-crawl-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
