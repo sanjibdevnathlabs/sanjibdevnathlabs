@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Surprise! 2 private spacecraft rendezvous in orbit on newly revealed &#39;Remora&#39; mission](https://www.space.com/space-exploration/launches-spacecraft/starfish-impulse-space-remora-private-rendezvous-mission-earth-orbit)
-- [Good news for lunar bases? Earth&#39;s atmosphere leaks all the way out to the moon](https://www.space.com/astronomy/moon/good-news-for-lunar-bases-earths-atmosphere-leaks-all-the-way-out-to-the-moon)
-- [Mirelo raises $41M from Index and a16z to solve AI video’s silent problem](https://techcrunch.com/2025/12/15/mirelo-raises-41m-from-index-and-a16z-to-solve-ai-videos-silent-problem/)
-- [Thea Energy previews Helios, its pixel-inspired fusion power plant](https://techcrunch.com/2025/12/15/thea-energy-previews-helios-its-pixel-inspired-fusion-power-plant/)
-- [Why interstellar comet 3I/ATLAS&#39; close Earth approach is an early Christmas gift for astronomers](https://www.space.com/astronomy/comets/why-interstellar-comet-3i-atlas-close-earth-approach-is-an-early-christmas-gift-for-astronomers)
+- [Tesla starts testing robotaxis in Austin with no safety driver](https://techcrunch.com/2025/12/15/tesla-starts-testing-robotaxis-in-austin-with-no-safety-driver/)
+- [Snapchat rolls out its end-of-year Recaps](https://techcrunch.com/2025/12/15/snapchat-rolls-out-its-end-of-year-recaps/)
+- [NASA tests drones in Death Valley | Space photo of the day for Dec. 15, 2025](https://www.space.com/technology/nasa-tests-drones-in-death-valley-space-photo-of-the-day-for-dec-15-2025)
+- [First Voyage raises $2.5M for its AI companion helps you build habits](https://techcrunch.com/2025/12/15/first-voyage-raises-2-5m-for-its-ai-companion-helps-you-build-habits/)
+- [Nvidia reportedly weighs ramping up H200 production to meet surging demand in China](https://techcrunch.com/2025/12/15/nvidia-is-reportedly-weighs-ramping-up-h200-production-to-meet-surging-demand-in-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
