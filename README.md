@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zoom brings its AI assistant to the web with access to free users](https://techcrunch.com/2025/12/15/zoom-brings-its-ai-assistant-to-the-web-with-access-to-free-users/)
+- [Netflix responds to concerns about WBD deal](https://techcrunch.com/2025/12/15/netflix-responds-to-concerns-about-wbd-deal/)
+- [Facebook Messenger’s desktop app is no more](https://techcrunch.com/2025/12/15/facebook-messengers-desktop-app-is-no-more/)
 - [Finding the point of no return: Sun&#39;s shifting, spiky atmospheric boundary mapped in detail for 1st time](https://www.space.com/astronomy/sun/finding-the-point-of-no-return-suns-shifting-spiky-atmospheric-boundary-mapped-in-detail-for-1st-time)
 - [Tesla starts testing robotaxis in Austin with no safety driver](https://techcrunch.com/2025/12/15/tesla-starts-testing-robotaxis-in-austin-with-no-safety-driver/)
-- [Snapchat rolls out its end-of-year Recaps](https://techcrunch.com/2025/12/15/snapchat-rolls-out-its-end-of-year-recaps/)
-- [NASA tests drones in Death Valley | Space photo of the day for Dec. 15, 2025](https://www.space.com/technology/nasa-tests-drones-in-death-valley-space-photo-of-the-day-for-dec-15-2025)
-- [First Voyage raises $2.5M for its AI companion helps you build habits](https://techcrunch.com/2025/12/15/first-voyage-raises-2-5m-for-its-ai-companion-helps-you-build-habits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
