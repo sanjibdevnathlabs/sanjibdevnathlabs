@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoom brings its AI assistant to the web with access to free users](https://techcrunch.com/2025/12/15/zoom-brings-its-ai-assistant-to-the-web-with-access-to-free-users/)
-- [Netflix responds to concerns about WBD deal](https://techcrunch.com/2025/12/15/netflix-responds-to-concerns-about-wbd-deal/)
-- [Facebook Messenger’s desktop app is no more](https://techcrunch.com/2025/12/15/facebook-messengers-desktop-app-is-no-more/)
-- [Finding the point of no return: Sun&#39;s shifting, spiky atmospheric boundary mapped in detail for 1st time](https://www.space.com/astronomy/sun/finding-the-point-of-no-return-suns-shifting-spiky-atmospheric-boundary-mapped-in-detail-for-1st-time)
-- [Tesla starts testing robotaxis in Austin with no safety driver](https://techcrunch.com/2025/12/15/tesla-starts-testing-robotaxis-in-austin-with-no-safety-driver/)
+- [Threads adds new communities, tests badges for highly engaged members](https://techcrunch.com/2025/12/15/threads-adds-new-communities-tests-badges-for-highly-engaged-members/)
+- [Interstellar comet 3I/ATLAS makes its closest approach to Earth on Dec. 19: Here&#39;s what you need to know](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-makes-its-closest-approach-to-earth-on-dec-19-heres-what-you-need-to-know)
+- [Lidar-maker Luminar files for bankruptcy](https://techcrunch.com/2025/12/15/lidar-maker-luminar-files-for-bankruptcy/)
+- [These Canon 18x50 image-stabilized binoculars are my top choice for up-close stargazing — even cheaper than Black Friday](https://www.space.com/stargazing/skywatching-kit/these-canon-18x50-image-stabilized-binoculars-are-my-top-choice-for-up-close-stargazing-even-cheaper-than-black-friday)
+- [James Webb Space Telescope finds 1st evidence of &#39;dinosaur-like&#39; stars in the early universe](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-finds-1st-evidence-of-dinosaur-like-stars-in-the-early-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
