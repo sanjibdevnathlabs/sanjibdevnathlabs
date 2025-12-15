@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford’s next F-150 Lightning will have a gas generator as it pivots away from large EVs](https://techcrunch.com/2025/12/15/fords-next-f-150-lightning-will-have-a-gas-generator-as-it-pivots-away-from-large-evs/)
+- [Creative Commons announces tentative support for AI ‘pay-to-crawl’ systems](https://techcrunch.com/2025/12/15/creative-commons-announces-tentative-support-for-ai-pay-to-crawl-systems/)
+- [Lightspeed raises record $9B in fresh capital](https://techcrunch.com/2025/12/15/lightspeed-raises-record-9b-in-fresh-capital/)
 - [Ghosts, sharks and Norse mythology: US Space Force unveils new names for satellites and space weapons](https://www.space.com/space-exploration/launches-spacecraft/ghosts-sharks-and-norse-mythology-us-space-force-unveils-new-names-for-satellites-and-space-weapons)
 - [Merriam-Webster names ‘slop’ the word of the year](https://techcrunch.com/2025/12/15/merriam-webster-names-slop-the-word-of-the-year/)
-- [Google’s ‘dark web report’ feature will no longer be available starting in February](https://techcrunch.com/2025/12/15/googles-dark-web-report-feature-will-no-longer-be-available-starting-in-february/)
-- [Fallout games ranked, worst to best](https://www.space.com/entertainment/space-games/fallout-games-ranked-worst-to-best)
-- [Gift guide: TechCrunch’s favorite things](https://techcrunch.com/2025/12/15/gift-guide-techcrunchs-favorite-things/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
