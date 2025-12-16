@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Netflix doubles down on video podcasts with iHeartMedia deal](https://techcrunch.com/2025/12/16/netflix-doubles-down-on-video-podcasts-with-iheartmedia-deal/)
-- [Watch Japanese H3 rocket launch Michibiki 5 navigation satellite tonight](https://www.space.com/space-exploration/launches-spacecraft/japan-h3-rocket-launch-michibiki-5-navigation-satellite)
-- [Canadian peer-to-peer clothing rental company Rax is expanding to the U.S.](https://techcrunch.com/2025/12/16/canadian-peer-to-peer-clothing-rental-company-rax-is-expanding-to-the-u-s/)
-- [Instagram brings Reels to the big screen, starting with Amazon Fire TV](https://techcrunch.com/2025/12/16/instagram-brings-reels-to-the-big-screen-starting-with-amazon-fire-tv/)
-- [How to watch &#39;Fallout&#39; Season 2 online and from anywhere](https://www.space.com/entertainment/space-movies-shows/how-to-watch-fallout-season-2-online-and-from-anywhere)
+- [OpenAI continues on its ‘code red’ warpath with new image generation model](https://techcrunch.com/2025/12/16/openai-continues-on-its-code-red-warpath-with-new-image-generation-model/)
+- [How Luminar’s doomed Volvo deal helped drag the company into bankruptcy](https://techcrunch.com/2025/12/16/how-luminars-doomed-volvo-deal-helped-drag-the-company-into-bankruptcy/)
+- [Uber Eats alum lands $14M seed from a16z to fix WhatsApp chaos for LatAm’s doctors](https://techcrunch.com/2025/12/16/uber-eats-alum-lands-14m-seed-from-a16z-to-fix-whatsapp-chaos-for-latams-doctors/)
+- [Google tests an email-based productivity assistant](https://techcrunch.com/2025/12/16/google-tests-an-email-based-productivity-assistant/)
+- [Stay up late tonight to watch Europe&#39;s Ariane 6 rocket launch its 1st pair of Galileo navigation satellites](https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-launch-galileo-33-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
