@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nuclear startup Last Energy raises $100M for its steel-encased micro reactor](https://techcrunch.com/2025/12/16/nuclear-startup-last-energy-raises-100m-for-its-steel-encased-micro-reactor/)
+- [Strange structures of space: a weird quiz](https://www.space.com/astronomy/strange-structures-of-space-a-weird-quiz)
 - [Everbloom built an AI to turn chicken feathers into cashmere](https://techcrunch.com/2025/12/16/everbloom-built-an-ai-to-turn-chicken-feathers-into-cashmere/)
 - [Solo VC and Lovable investor Neil Murray raises third Nordic-focused fund](https://techcrunch.com/2025/12/16/solo-gp-neil-murray-closes-6m-fund-iii-to-back-nordic-founders/)
 - [James Webb Space Telescope could illuminate dark matter in a way scientists didn&#39;t realize](https://www.space.com/astronomy/dark-universe/james-webb-space-telescope-could-illuminate-dark-matter-in-a-way-scientists-didnt-realize)
-- [VCs discuss why most consumer AI startups still lack staying power](https://techcrunch.com/2025/12/15/vcs-discuss-why-most-consumer-ai-startups-still-lack-staying-power/)
-- [OpenAI-backed biotech firm Chai Discovery raises $130M Series B at $1.3B valuation](https://techcrunch.com/2025/12/15/openai-backed-biotech-firm-chai-discovery-raises-130m-series-b-at-1-3b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
