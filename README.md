@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I hate that I love Riverside’s AI-driven “Rewind” for podcasters](https://techcrunch.com/2025/12/15/i-hate-that-i-love-riversides-ai-driven-rewind-for-podcasters/)
-- [Disney’s OpenAI deal is exclusive for just one year  — then it’s open season](https://techcrunch.com/2025/12/15/disneys-openai-deal-is-exclusive-for-just-one-year-then-its-open-season/)
-- [Nvidia bulks up open source offerings with an acquisition and new open AI models](https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/)
-- [Private satellites pinpoint methane emissions from oil, gas and coal facilities worldwide](https://www.space.com/science/climate-change/private-satellites-pinpoint-methane-emissions-from-oil-gas-and-coal-facilities-worldwide)
-- [Ford is starting a battery storage business to power data centers and the grid](https://techcrunch.com/2025/12/15/ford-is-starting-a-battery-storage-business-to-power-data-centers-and-the-grid/)
+- [VCs discuss why most consumer AI startups still lack staying power](https://techcrunch.com/2025/12/15/vcs-discuss-why-most-consumer-ai-startups-still-lack-staying-power/)
+- [OpenAI-backed biotech firm Chai Discovery raises $130M Series B at $1.3B valuation](https://techcrunch.com/2025/12/15/openai-backed-biotech-firm-chai-discovery-raises-130m-series-b-at-1-3b-valuation/)
+- [I hate that I love Riverside’s AI-driven ‘Rewind’ for podcasters](https://techcrunch.com/2025/12/15/i-hate-that-i-love-riversides-ai-driven-rewind-for-podcasters/)
+- [Disney’s OpenAI deal is exclusive for just one year — then it’s open season](https://techcrunch.com/2025/12/15/disneys-openai-deal-is-exclusive-for-just-one-year-then-its-open-season/)
+- [Nvidia bulks up open source offerings with an acquisition and new open AI models](https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
