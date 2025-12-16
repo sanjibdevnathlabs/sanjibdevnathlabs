@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Slate crosses 150,000 reservations despite waning EV truck enthusiasm](https://techcrunch.com/2025/12/16/slate-crosses-150000-reservations-despite-waning-ev-truck-enthusiasm/)
 - [NASA&#39;s MAVEN spacecraft is still silent at Mars — and apparently is spinning, too](https://www.space.com/space-exploration/launches-spacecraft/nasas-maven-spacecraft-is-still-silent-at-mars-and-apparently-is-spinning-too)
 - [DoorDash rolls out Zesty, an AI social app for discovering new restaurants](https://techcrunch.com/2025/12/16/doordash-rolls-out-zesty-an-ai-social-app-for-discovering-new-restaurants/)
 - [Meta’s AI glasses can now help you hear conversations better](https://techcrunch.com/2025/12/16/metas-ai-glasses-can-now-help-you-hear-conversations-better/)
 - [OpenAI continues on its ‘code red’ warpath with new image generation model](https://techcrunch.com/2025/12/16/openai-continues-on-its-code-red-warpath-with-new-image-generation-model/)
-- [How Luminar’s doomed Volvo deal helped drag the company into bankruptcy](https://techcrunch.com/2025/12/16/how-luminars-doomed-volvo-deal-helped-drag-the-company-into-bankruptcy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
