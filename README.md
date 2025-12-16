@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s MAVEN spacecraft is still silent at Mars — and apparently is spinning, too](https://www.space.com/space-exploration/launches-spacecraft/nasas-maven-spacecraft-is-still-silent-at-mars-and-apparently-is-spinning-too)
+- [DoorDash rolls out Zesty, an AI social app for discovering new restaurants](https://techcrunch.com/2025/12/16/doordash-rolls-out-zesty-an-ai-social-app-for-discovering-new-restaurants/)
+- [Meta’s AI glasses can now help you hear conversations better](https://techcrunch.com/2025/12/16/metas-ai-glasses-can-now-help-you-hear-conversations-better/)
 - [OpenAI continues on its ‘code red’ warpath with new image generation model](https://techcrunch.com/2025/12/16/openai-continues-on-its-code-red-warpath-with-new-image-generation-model/)
 - [How Luminar’s doomed Volvo deal helped drag the company into bankruptcy](https://techcrunch.com/2025/12/16/how-luminars-doomed-volvo-deal-helped-drag-the-company-into-bankruptcy/)
-- [Uber Eats alum lands $14M seed from a16z to fix WhatsApp chaos for LatAm’s doctors](https://techcrunch.com/2025/12/16/uber-eats-alum-lands-14m-seed-from-a16z-to-fix-whatsapp-chaos-for-latams-doctors/)
-- [Google tests an email-based productivity assistant](https://techcrunch.com/2025/12/16/google-tests-an-email-based-productivity-assistant/)
-- [Stay up late tonight to watch Europe&#39;s Ariane 6 rocket launch its 1st pair of Galileo navigation satellites](https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-launch-galileo-33-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
