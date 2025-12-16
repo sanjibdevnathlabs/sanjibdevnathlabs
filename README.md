@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe Firefly now supports prompt-based video editing, adds more third-party models](https://techcrunch.com/2025/12/16/adobe-firefly-now-supports-prompt-based-video-editing-adds-more-third-party-models/)
+- [Satellite watches volcano spew ash over Middle East | Space photo of the day for Dec. 16, 2025](https://www.space.com/space-exploration/satellites/satellite-watches-volcano-spew-ash-over-middle-east-space-photo-of-the-day-for-dec-16-2025)
+- [&#39;Fallout&#39; Season 2 review: A stark warning against letting tech billionaires decide humanity&#39;s fate](https://www.space.com/entertainment/space-movies-shows/fallout-season-2-review)
 - [Nuclear startup Last Energy raises $100M for its steel-encased micro reactor](https://techcrunch.com/2025/12/16/nuclear-startup-last-energy-raises-100m-for-its-steel-encased-micro-reactor/)
 - [Strange structures of space: a weird quiz](https://www.space.com/astronomy/strange-structures-of-space-a-weird-quiz)
-- [Everbloom built an AI to turn chicken feathers into cashmere](https://techcrunch.com/2025/12/16/everbloom-built-an-ai-to-turn-chicken-feathers-into-cashmere/)
-- [Solo VC and Lovable investor Neil Murray raises third Nordic-focused fund](https://techcrunch.com/2025/12/16/solo-gp-neil-murray-closes-6m-fund-iii-to-back-nordic-founders/)
-- [James Webb Space Telescope could illuminate dark matter in a way scientists didn&#39;t realize](https://www.space.com/astronomy/dark-universe/james-webb-space-telescope-could-illuminate-dark-matter-in-a-way-scientists-didnt-realize)
 <!-- BLOG-POST-LIST:END -->
 
 ---
