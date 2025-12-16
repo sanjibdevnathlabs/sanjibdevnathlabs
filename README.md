@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope discovers a lemon-shaped exoplanet unlike anything seen before: &#39;What the heck is this?&#39;](https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-discovers-a-lemon-shaped-exoplanet-unlike-anything-seen-before-what-the-heck-is-this)
-- [Could the Star of Bethlehem have actually been a comet?](https://www.space.com/astronomy/comets/the-comet-of-bethlehem-why-we-may-need-to-rethink-a-popular-christmas-story)
-- [Best space stocking stuffers: Budget friendly Christmas gifts for stargazers and astrophotographers](https://www.space.com/stargazing/skywatching-kit/best-space-stocking-stuffers-budget-friendly-christmas-gifts-for-stargazers-and-astrophotographers)
-- [India’s Digantara raises $50M for space-based missile defence tech](https://techcrunch.com/2025/12/16/indias-digantara-raises-50m-for-space-based-missile-defence-tech/)
-- [Databricks raises $4B at $134B valuation as its AI business heats up](https://techcrunch.com/2025/12/16/databricks-raises-4b-at-134b-valuation-as-its-ai-business-heats-up/)
+- [Canadian peer-to-Peer clothing rental company Rax is expanding to the U.S.](https://techcrunch.com/2025/12/16/canadian-peer-to-peer-clothing-rental-company-rax-is-expanding-to-the-u-s/)
+- [Instagram brings Reels to the big screen, starting with Amazon Fire TV](https://techcrunch.com/2025/12/16/instagram-brings-reels-to-the-big-screen-starting-with-amazon-fire-tv/)
+- [How to watch &#39;Fallout&#39; Season 2 online and from anywhere](https://www.space.com/entertainment/space-movies-shows/how-to-watch-fallout-season-2-online-and-from-anywhere)
+- [Apple TV adds support for Google Cast even as Netflix ditches the feature](https://techcrunch.com/2025/12/16/apple-tv-adds-support-for-google-cast-even-as-netflix-ditches-the-feature/)
+- [Hacking group says it’s extorting Pornhub after stealing users’ viewing data](https://techcrunch.com/2025/12/16/hacking-group-says-its-extorting-pornhub-after-stealing-users-viewing-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
