@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Canadian peer-to-Peer clothing rental company Rax is expanding to the U.S.](https://techcrunch.com/2025/12/16/canadian-peer-to-peer-clothing-rental-company-rax-is-expanding-to-the-u-s/)
+- [Netflix doubles down on video podcasts with iHeartMedia deal](https://techcrunch.com/2025/12/16/netflix-doubles-down-on-video-podcasts-with-iheartmedia-deal/)
+- [Watch Japanese H3 rocket launch Michibiki 5 navigation satellite tonight](https://www.space.com/space-exploration/launches-spacecraft/japan-h3-rocket-launch-michibiki-5-navigation-satellite)
+- [Canadian peer-to-peer clothing rental company Rax is expanding to the U.S.](https://techcrunch.com/2025/12/16/canadian-peer-to-peer-clothing-rental-company-rax-is-expanding-to-the-u-s/)
 - [Instagram brings Reels to the big screen, starting with Amazon Fire TV](https://techcrunch.com/2025/12/16/instagram-brings-reels-to-the-big-screen-starting-with-amazon-fire-tv/)
 - [How to watch &#39;Fallout&#39; Season 2 online and from anywhere](https://www.space.com/entertainment/space-movies-shows/how-to-watch-fallout-season-2-online-and-from-anywhere)
-- [Apple TV adds support for Google Cast even as Netflix ditches the feature](https://techcrunch.com/2025/12/16/apple-tv-adds-support-for-google-cast-even-as-netflix-ditches-the-feature/)
-- [Hacking group says it’s extorting Pornhub after stealing users’ viewing data](https://techcrunch.com/2025/12/16/hacking-group-says-its-extorting-pornhub-after-stealing-users-viewing-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
