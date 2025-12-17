@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 years into the Disney &#39;Star Wars&#39; era: Grading the ups and downs of a galaxy far, far away](https://www.space.com/entertainment/space-movies-shows/10-years-into-the-disney-star-wars-era-grading-the-ups-and-downs-of-a-galaxy-far-far-away)
+- [YouTube to pull music data from Billboard’s charts because it doesn’t like its ranking formula](https://techcrunch.com/2025/12/17/youtube-to-pull-music-data-from-billboards-charts-because-it-doesnt-like-its-ranking-formula/)
+- [US Senate confirms Jared Isaacman as new NASA administrator](https://www.space.com/space-exploration/us-senate-confirms-jared-isaacman-as-new-nasa-administrator)
 - [Watch Blue Origin launch 1st wheelchair user to space on Dec. 18](https://www.space.com/space-exploration/private-spaceflight/watch-blue-origin-launch-1st-wheelchair-user-to-space-on-dec-18)
 - [YouTube will stream the Oscars — exclusively — beginning in 2029](https://techcrunch.com/2025/12/17/youtube-will-stream-the-oscars-exclusively-beginning-in-2029/)
-- [Meta is pausing its dream of sharing Quest’s Horizon OS with third-party headset makers](https://techcrunch.com/2025/12/17/meta-is-pausing-its-dream-of-sharing-quests-horizon-os-with-third-party-headset-makers/)
-- [Watch Rocket Lab launch 4 experimental &#39;DiskSats&#39; for the US military tonight](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-disksats-us-space-force)
-- [Cisco says Chinese hackers are exploiting its customers with a new zero-day](https://techcrunch.com/2025/12/17/cisco-says-chinese-hackers-are-exploiting-its-customers-with-a-new-zero-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
