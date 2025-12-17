@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon reportedly in talks to invest $10B in OpenAI as circular deals stay popular](https://techcrunch.com/2025/12/17/amazon-reportedly-in-talks-to-invest-10b-in-openai-as-circular-deals-stay-popular/)
+- [Latest Comet 3I/ATLAS news: Closest approach to Earth this week](https://www.space.com/news/live/interstellar-comet-3i-atlas-closest-to-earth-flyby-week-dec-17-2025)
 - [Interstellar comet 3I/ATLAS wasn&#39;t supposed to be there — meet the astronomer who discovered it](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-wasnt-supposed-to-be-there-meet-the-astronomer-who-discovered-it)
 - [Google deepens consumer credit push in India with UPI-linked card](https://techcrunch.com/2025/12/17/google-deepens-consumer-credit-push-in-india-with-upi-linked-card/)
 - [Weeks after raising $100M, investors pump another $180M into hot Indian startup MoEngage](https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage/)
-- [Monzo board reportedly pushed out CEO Anil over IPO timing](https://techcrunch.com/2025/12/16/monzo-board-reportedly-pushed-out-ceo-anil-over-ipo-timing/)
-- [Tesla engaged in deceptive marketing for Autopilot and Full Self-Driving, judge rules](https://techcrunch.com/2025/12/16/tesla-engaged-in-deceptive-marketing-for-autopilot-and-full-self-driving-judge-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
