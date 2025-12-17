@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Rocket Lab launch 4 experimental &#39;DiskSats&#39; for the US military tonight](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-disksats-us-space-force)
+- [Cisco says Chinese hackers are exploiting its customers with a new zero-day](https://techcrunch.com/2025/12/17/cisco-says-chinese-hackers-are-exploiting-its-customers-with-a-new-zero-day/)
 - [Facebook is testing a link posting limit for professional accounts and pages](https://techcrunch.com/2025/12/17/facebook-is-testing-a-link-posting-limit-for-professional-accounts-and-pages/)
 - [Amazon appoints longtime AWS exec Peter DeSantis to lead new AI org](https://techcrunch.com/2025/12/17/amazon-appoints-longtime-aws-exec-peter-desantis-to-lead-new-ai-org/)
 - [Camera on NASA Mars probe snaps its 100,000th photo of the Red Planet](https://www.space.com/astronomy/mars/nasa-mars-reconnaissance-orbiter-hirise-camera-100000-photos)
-- [Rad Power Bikes files for bankruptcy and is looking to sell the business](https://techcrunch.com/2025/12/17/rad-power-bikes-files-for-bankruptcy-and-is-looking-to-sell-the-business/)
-- [10 years later, &#39;The Force Awakens&#39; stands as the blueprint for a &#39;Star Wars&#39; that never was](https://www.space.com/entertainment/space-movies-shows/10-years-later-the-force-awakens-stands-as-the-blueprint-for-a-star-wars-that-never-was)
 <!-- BLOG-POST-LIST:END -->
 
 ---
