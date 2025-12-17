@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Your Prompts Are Bad. Here’s How to Fix Them.](https://www.youtube.com/shorts/AUb-xpYoV8I)
-- [someone could be watching you....](https://www.youtube.com/shorts/_31113MIaxI)
-- [stop trusting cloud cameras!! &lpar;here&#39;s what I use instead&rpar;](https://www.youtube.com/watch?v=tbCKWX34_G4)
-- [OpenAI was dead… Then GPT-5.2 dropped](https://www.youtube.com/watch?v=rEvEXQvo-F8)
-- [Is this voice REAL or AI?](https://www.youtube.com/shorts/1AVlW7TB-Oo)
+- [Lecture 16: Data Compression and Shannon’s Noiseless Coding Theorem](https://www.youtube.com/watch?v=4OpiI5NLjIE)
+- [Lecture 7: Generating Functions for Catalan Numbers](https://www.youtube.com/watch?v=JNSyyOAeMOc)
+- [Lecture 3: Inclusion-Exclusion](https://www.youtube.com/watch?v=cqPcQ3QqYnE)
+- [Lecture 17: Huffman Coding](https://www.youtube.com/watch?v=zZN1A0Ufb8E)
+- [Lecture 11: Basic Group Theory](https://www.youtube.com/watch?v=hUtdHAeyY6Y)
 <!-- YOUTUBE:END -->
 
 ---
