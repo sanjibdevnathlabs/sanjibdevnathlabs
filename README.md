@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook is testing a link posting limit for professional accounts and pages](https://techcrunch.com/2025/12/17/facebook-is-testing-a-link-posting-limit-for-professional-accounts-and-pages/)
+- [Amazon appoints longtime AWS exec Peter DeSantis to lead new AI org](https://techcrunch.com/2025/12/17/amazon-appoints-longtime-aws-exec-peter-desantis-to-lead-new-ai-org/)
+- [Camera on NASA Mars probe snaps its 100,000th photo of the Red Planet](https://www.space.com/astronomy/mars/nasa-mars-reconnaissance-orbiter-hirise-camera-100000-photos)
+- [Rad Power Bikes files for bankruptcy and is looking to sell the business](https://techcrunch.com/2025/12/17/rad-power-bikes-files-for-bankruptcy-and-is-looking-to-sell-the-business/)
 - [10 years later, &#39;The Force Awakens&#39; stands as the blueprint for a &#39;Star Wars&#39; that never was](https://www.space.com/entertainment/space-movies-shows/10-years-later-the-force-awakens-stands-as-the-blueprint-for-a-star-wars-that-never-was)
-- [SpaceX launches Starlink missions in dual-coast spaceflight doubleheader &lpar;videos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-99-ksc-jrti-15-13-vsfb-ocisly)
-- [Radiant Nuclear raises $300M for its semi-sized 1 MW reactor](https://techcrunch.com/2025/12/17/radiant-nuclear-raises-300m-for-its-semi-sized-1-mw-reactor/)
-- [Surprise! Saturn&#39;s huge moon Titan may not have a buried ocean after all](https://www.space.com/space-exploration/search-for-life/surprise-saturns-huge-moon-titan-may-not-have-a-buried-ocean-after-all)
-- [Google launches Gemini 3 Flash, makes it the default model in the Gemini app](https://techcrunch.com/2025/12/17/google-launches-gemini-3-flash-makes-it-the-default-model-in-the-gemini-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
