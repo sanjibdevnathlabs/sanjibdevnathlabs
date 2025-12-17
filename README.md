@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Weeks after raising $100M, investors pump another $180M into hot Indian startup MoEngage](https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage/)
 - [Monzo board reportedly pushed out CEO Anil over IPO timing](https://techcrunch.com/2025/12/16/monzo-board-reportedly-pushed-out-ceo-anil-over-ipo-timing/)
 - [Tesla engaged in deceptive marketing for Autopilot and Full Self-Driving, judge rules](https://techcrunch.com/2025/12/16/tesla-engaged-in-deceptive-marketing-for-autopilot-and-full-self-driving-judge-rules/)
 - [Wildfire smoke lofted miles high could have an unexpected effect on Earth&#39;s climate](https://www.space.com/astronomy/earth/wildfire-smoke-created-a-new-particle-in-the-atmosphere)
 - [How Luminar’s doomed Volvo deal helped drag the company into bankruptcy](https://techcrunch.com/2025/12/16/how-luminars-doomed-volvo-deal-helped-drag-the-company-into-bankruptcy/)
-- [WikiFlix shows us what Netflix would have been like 100 years ago](https://techcrunch.com/2025/12/16/wikiflix-shows-us-what-netflix-would-have-been-like-100-years-ago/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
