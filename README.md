@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Fallout gifts to spend your caps on](https://www.space.com/entertainment/space-movies-shows/best-fallout-gifts)
-- [Watch interstellar comet 3I/ATLAS make its closest approach to Earth in free livestream on Dec. 18](https://www.space.com/astronomy/comets/watch-interstellar-comet-3i-atlas-make-its-closest-approach-to-earth-in-free-livestream-on-dec-18)
-- [Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)
-- [Crewed Russian spacecraft meets up with ISS | Space photo of the day for Dec. 17, 2025](https://www.space.com/space-exploration/international-space-station/crewed-russian-spacecraft-meets-up-with-iss-space-photo-of-the-day-for-dec-17-2025)
-- [Experiments on a private space station: Vast asks scientists for research proposals](https://www.space.com/space-exploration/human-spaceflight/experiments-on-a-private-space-station-vast-asks-scientists-for-research-proposals)
+- [Radiant Nuclear raises $300M for its semi-sized 1 MW reactor](https://techcrunch.com/2025/12/17/radiant-nuclear-raises-300m-for-its-semi-sized-1-mw-reactor/)
+- [Surprise! Saturn&#39;s huge moon Titan may not have a buried ocean after all](https://www.space.com/space-exploration/search-for-life/surprise-saturns-huge-moon-titan-may-not-have-a-buried-ocean-after-all)
+- [Google launches Gemini 3 Flash, makes it the default model in the Gemini app](https://techcrunch.com/2025/12/17/google-launches-gemini-3-flash-makes-it-the-default-model-in-the-gemini-app/)
+- [Coursera and Udemy enter a merger agreement valued at around $2.5B](https://techcrunch.com/2025/12/17/coursera-and-udemy-enter-a-merger-agreement-valued-at-around-2-5b/)
+- [Bluesky launches a privacy-focused ‘find friends’ feature without invite spam](https://techcrunch.com/2025/12/17/bluesky-launches-a-privacy-focused-find-friends-feature-without-invite-spam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
