@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Monzo board reportedly pushed out CEO Anil over IPO timing](https://techcrunch.com/2025/12/16/monzo-board-reportedly-pushed-out-ceo-anil-over-ipo-timing/)
+- [Tesla engaged in deceptive marketing for Autopilot and Full Self-Driving, judge rules](https://techcrunch.com/2025/12/16/tesla-engaged-in-deceptive-marketing-for-autopilot-and-full-self-driving-judge-rules/)
 - [Wildfire smoke lofted miles high could have an unexpected effect on Earth&#39;s climate](https://www.space.com/astronomy/earth/wildfire-smoke-created-a-new-particle-in-the-atmosphere)
 - [How Luminar’s doomed Volvo deal helped drag the company into bankruptcy](https://techcrunch.com/2025/12/16/how-luminars-doomed-volvo-deal-helped-drag-the-company-into-bankruptcy/)
 - [WikiFlix shows us what Netflix would have been like 100 years ago](https://techcrunch.com/2025/12/16/wikiflix-shows-us-what-netflix-would-have-been-like-100-years-ago/)
-- [X updates its terms, files countersuit to lay claim to the ‘Twitter’ trademark after newcomer’s challenge](https://techcrunch.com/2025/12/16/x-updates-its-terms-files-countersuit-to-lay-claim-to-the-twitter-trademark-after-newcomers-challenge/)
-- [NASA&#39;s Parker Solar Probe captures solar wind doing a &#39;U-turn&#39;](https://www.space.com/astronomy/sun/nasas-parker-solar-probe-captures-solar-wind-doing-a-u-turn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
