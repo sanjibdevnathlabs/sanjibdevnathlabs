@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Fallout gifts to spend your caps on](https://www.space.com/entertainment/space-movies-shows/best-fallout-gifts)
+- [Watch interstellar comet 3I/ATLAS make its closest approach to Earth in free livestream on Dec. 18](https://www.space.com/astronomy/comets/watch-interstellar-comet-3i-atlas-make-its-closest-approach-to-earth-in-free-livestream-on-dec-18)
 - [Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)
 - [Crewed Russian spacecraft meets up with ISS | Space photo of the day for Dec. 17, 2025](https://www.space.com/space-exploration/international-space-station/crewed-russian-spacecraft-meets-up-with-iss-space-photo-of-the-day-for-dec-17-2025)
 - [Experiments on a private space station: Vast asks scientists for research proposals](https://www.space.com/space-exploration/human-spaceflight/experiments-on-a-private-space-station-vast-asks-scientists-for-research-proposals)
-- [Amazon reportedly in talks to invest $10B in OpenAI as circular deals stay popular](https://techcrunch.com/2025/12/17/amazon-reportedly-in-talks-to-invest-10b-in-openai-as-circular-deals-stay-popular/)
-- [Latest Comet 3I/ATLAS news: Closest approach to Earth this week](https://www.space.com/news/live/interstellar-comet-3i-atlas-closest-to-earth-flyby-week-dec-17-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
