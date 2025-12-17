@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)
+- [Crewed Russian spacecraft meets up with ISS | Space photo of the day for Dec. 17, 2025](https://www.space.com/space-exploration/international-space-station/crewed-russian-spacecraft-meets-up-with-iss-space-photo-of-the-day-for-dec-17-2025)
 - [Experiments on a private space station: Vast asks scientists for research proposals](https://www.space.com/space-exploration/human-spaceflight/experiments-on-a-private-space-station-vast-asks-scientists-for-research-proposals)
 - [Amazon reportedly in talks to invest $10B in OpenAI as circular deals stay popular](https://techcrunch.com/2025/12/17/amazon-reportedly-in-talks-to-invest-10b-in-openai-as-circular-deals-stay-popular/)
 - [Latest Comet 3I/ATLAS news: Closest approach to Earth this week](https://www.space.com/news/live/interstellar-comet-3i-atlas-closest-to-earth-flyby-week-dec-17-2025)
-- [Interstellar comet 3I/ATLAS wasn&#39;t supposed to be there — meet the astronomer who discovered it](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-wasnt-supposed-to-be-there-meet-the-astronomer-who-discovered-it)
-- [Google deepens consumer credit push in India with UPI-linked card](https://techcrunch.com/2025/12/17/google-deepens-consumer-credit-push-in-india-with-upi-linked-card/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
