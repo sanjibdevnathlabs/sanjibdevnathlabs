@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon’s new Alexa+ feature adds conversational AI to Ring doorbells](https://techcrunch.com/2025/12/18/amazons-new-alexa-feature-adds-conversational-ai-to-ring-doorbells/)
+- [Will 2026 bring strong auroras? What the sun&#39;s recent activity tells us](https://www.space.com/stargazing/auroras/will-2026-still-bring-strong-auroras-what-the-suns-recent-activity-tells-us)
+- [As above, so below: Earth in the sky | Space photo of the day for Dec. 18, 2025](https://www.space.com/technology/as-above-so-below-earth-in-the-sky-space-photo-of-the-day-for-dec-18-2025)
 - [Night sky tonight: See the Orion Nebula shine after dark on Dec. 18](https://www.space.com/news/live/night-sky-what-you-can-see-tonight)
 - [What time will interstellar comet 3I/ATLAS be closest to Earth tonight?](https://www.space.com/astronomy/comets/what-time-will-interstellar-comet-3i-atlas-be-closest-to-earth-on-dec-19)
-- [Which is the best star projector for under $50 this Christmas?](https://www.space.com/technology/which-is-the-best-star-projector-for-under-50-dollars)
-- [10 gifts under $100 to transform any space-loving kid&#39;s bedroom](https://www.space.com/technology/10-gifts-under-100-dollars-to-kit-out-any-space-loving-kids-bedroom)
-- [Instacart’s AI-driven pricing tool attracted attention — now the FTC has questions](https://techcrunch.com/2025/12/17/instacarts-ai-driven-pricing-tool-attracted-attention-now-the-ftc-has-questions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
