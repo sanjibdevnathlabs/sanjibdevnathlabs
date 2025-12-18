@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These 21-year-old dropouts raised $2M to build Givefront, a fintech for nonprofits](https://techcrunch.com/2025/12/18/these-21-year-old-dropouts-raised-2m-to-build-givefront-a-fintech-for-nonprofits/)
+- [4 ways to track 3I/ATLAS without a telescope as it makes its closest approach to Earth tonight](https://www.space.com/stargazing/4-ways-to-track-3i-atlas-without-a-telescope-as-it-makes-its-closest-approach-to-earth-tonight)
 - [Trump Media is merging with fusion power company TAE Technologies in $6B+ deal](https://techcrunch.com/2025/12/18/trump-media-is-merging-with-fusion-power-company-tae-technologies-in-6b-deal/)
 - [&#39;Crash Clock&#39; reveals how soon satellite collisions would occur after a severe solar storm — and it&#39;s pretty scary](https://www.space.com/space-exploration/satellites/crash-clock-reveals-how-soon-satellite-collisions-would-occur-after-a-severe-solar-storm-and-its-pretty-scary)
-- [TDK Ventures, Accel set to back India’s EtherealX in reusable launch vehicle push: sources](https://techcrunch.com/2025/12/18/tdk-ventures-accel-set-to-back-indias-etherealx-in-reusable-launch-vehicle-push-sources/)
-- [Tech provider for NHS England confirms data breach](https://techcrunch.com/2025/12/18/tech-provider-for-nhs-england-confirms-data-breach/)
-- [Peripheral Labs taps into self-driving car sensors to bring sports fans right into the game](https://techcrunch.com/2025/12/18/peripheral-labs-taps-into-self-driving-car-sensors-to-bring-sports-fans-right-into-the-game/)
+- [TDK Ventures, Accel set to back India’s EtherealX in reusable launch vehicle push: Sources](https://techcrunch.com/2025/12/18/tdk-ventures-accel-set-to-back-indias-etherealx-in-reusable-launch-vehicle-push-sources/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
