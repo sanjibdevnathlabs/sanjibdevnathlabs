@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe hit with proposed class-action, accused of misusing authors’ work in AI training](https://techcrunch.com/2025/12/17/adobe-hit-with-proposed-class-action-accused-of-misusing-authors-work-in-ai-training/)
 - [James Webb Space Telescope confirms 1st &#39;runaway&#39; supermassive black hole rocketing through &#39;Cosmic Owl&#39; galaxies at 2.2 million mph: &#39;It boggles the mind!&#39;](https://www.space.com/astronomy/black-holes/james-webb-space-telescope-confirms-1st-runaway-supermassive-black-hole-rocketing-through-cosmic-owl-galaxies-at-2-2-million-mph-it-boggles-the-mind)
 - [Jared Isaacman confirmed as next head of NASA](https://techcrunch.com/2025/12/17/jared-isaacman-confirmed-as-next-head-of-nasa/)
 - [10 years into the Disney &#39;Star Wars&#39; era: Grading the ups and downs of a galaxy far, far away](https://www.space.com/entertainment/space-movies-shows/10-years-into-the-disney-star-wars-era-grading-the-ups-and-downs-of-a-galaxy-far-far-away)
 - [YouTube to pull music data from Billboard’s charts because it doesn’t like its ranking formula](https://techcrunch.com/2025/12/17/youtube-to-pull-music-data-from-billboards-charts-because-it-doesnt-like-its-ranking-formula/)
-- [US Senate confirms Jared Isaacman as new NASA administrator](https://www.space.com/space-exploration/us-senate-confirms-jared-isaacman-as-new-nasa-administrator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
