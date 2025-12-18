@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump Media is merging with fusion power company TAE Technologies in $6B+ deal](https://techcrunch.com/2025/12/18/trump-media-is-merging-with-fusion-power-company-tae-technologies-in-6b-deal/)
+- [&#39;Crash Clock&#39; reveals how soon satellite collisions would occur after a severe solar storm — and it&#39;s pretty scary](https://www.space.com/space-exploration/satellites/crash-clock-reveals-how-soon-satellite-collisions-would-occur-after-a-severe-solar-storm-and-its-pretty-scary)
+- [TDK Ventures, Accel set to back India’s EtherealX in reusable launch vehicle push: sources](https://techcrunch.com/2025/12/18/tdk-ventures-accel-set-to-back-indias-etherealx-in-reusable-launch-vehicle-push-sources/)
 - [Tech provider for NHS England confirms data breach](https://techcrunch.com/2025/12/18/tech-provider-for-nhs-england-confirms-data-breach/)
 - [Peripheral Labs taps into self-driving car sensors to bring sports fans right into the game](https://techcrunch.com/2025/12/18/peripheral-labs-taps-into-self-driving-car-sensors-to-bring-sports-fans-right-into-the-game/)
-- [No keynotes, no BS — why this year’s best tech talks happened over cocktails at StrictlyVC](https://techcrunch.com/2025/12/18/no-keynotes-no-bs-why-this-years-best-tech-talks-happened-over-cocktails-at-strictlyvc/)
-- [Rivian rolls out new ‘Universal Hands-Free’ driving feature](https://techcrunch.com/2025/12/18/rivian-rolls-out-new-universal-hands-free-driving-feature/)
-- [Apple opens up its App Store to competition in Japan](https://techcrunch.com/2025/12/18/apple-opens-up-its-app-store-to-competition-in-japan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
