@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech provider for NHS England confirms data breach](https://techcrunch.com/2025/12/18/tech-provider-for-nhs-england-confirms-data-breach/)
+- [Peripheral Labs taps into self-driving car sensors to bring sports fans right into the game](https://techcrunch.com/2025/12/18/peripheral-labs-taps-into-self-driving-car-sensors-to-bring-sports-fans-right-into-the-game/)
+- [No keynotes, no BS — why this year’s best tech talks happened over cocktails at StrictlyVC](https://techcrunch.com/2025/12/18/no-keynotes-no-bs-why-this-years-best-tech-talks-happened-over-cocktails-at-strictlyvc/)
+- [Rivian rolls out new ‘Universal Hands-Free’ driving feature](https://techcrunch.com/2025/12/18/rivian-rolls-out-new-universal-hands-free-driving-feature/)
 - [Apple opens up its App Store to competition in Japan](https://techcrunch.com/2025/12/18/apple-opens-up-its-app-store-to-competition-in-japan/)
-- [Scientists detect X-ray glow from interstellar comet 3I/ATLAS extending 250,000 miles into space](https://www.space.com/astronomy/comets/scientists-detect-x-ray-glow-from-interstellar-comet-3i-atlas-extending-250-000-out-miles-into-space)
-- [Trump Media is merging with fusion power company TAE Technologies in $6B+ deal](https://techcrunch.com/2025/12/18/trump-media-is-merging-with-fusion-power-company-tae-technologies-in-6b-deal/)
-- [Luma releases a new AI model that lets users generate a video from a start  and end frame](https://techcrunch.com/2025/12/18/luma-releases-a-new-ai-model-that-lets-users-generate-a-video-from-a-start-and-end-frame/)
-- [Vibe-coding startup Lovable raises $330M at a $6.6B valuation](https://techcrunch.com/2025/12/18/vibe-coding-startup-lovable-raises-330m-at-a-6-6b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
