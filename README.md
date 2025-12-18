@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instacart to pay $60M to settle FTC claims it deceived consumers](https://techcrunch.com/2025/12/18/instacart-to-pay-60m-to-settle-ftc-claims-it-deceived-consumers/)
+- [Best streaming devices to watch sci-fi shows and movies in 2025](https://www.space.com/technology/the-best-streaming-devices-to-have-all-your-subscriptions-in-one-place)
+- [Why are the &#39;Avatar&#39; movies so massive? Their success seems to defy conventional logic](https://www.space.com/entertainment/space-movies-shows/why-are-the-avatar-movies-so-massive-their-success-seems-to-defy-conventional-logic)
+- [ChatGPT launches an app store, lets developers know it’s open for business](https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/)
 - [Pickle Robot adds Tesla veteran as first CFO](https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/)
-- [A SpaceX Starlink satellite is tumbling and falling out of space after partial breakup in orbit](https://www.space.com/space-exploration/satellites/a-spacex-starlink-satellite-is-tumbling-and-falling-out-of-space-after-partial-breakup-in-orbit)
-- [Why British politicians are flocking to American tech giants](https://techcrunch.com/2025/12/18/why-british-politicians-are-flocking-to-american-tech-giants/)
-- [ChatGPT’s mobile app hits new milestone of $3B in consumer spending](https://techcrunch.com/2025/12/18/chatgpts-mobile-app-hits-new-milestone-of-3b-in-consumer-spending/)
-- [Astronomers capture 1st direct images of collisions in a nearby star system: &#39;It&#39;s like looking back in time&#39;](https://www.space.com/astronomy/stars/astronomers-capture-1st-direct-images-of-collisions-in-a-nearby-star-system-its-like-looking-back-in-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
