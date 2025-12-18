@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon’s new Alexa+ feature adds conversational AI to Ring doorbells](https://techcrunch.com/2025/12/18/amazons-new-alexa-feature-adds-conversational-ai-to-ring-doorbells/)
-- [Will 2026 bring strong auroras? What the sun&#39;s recent activity tells us](https://www.space.com/stargazing/auroras/will-2026-still-bring-strong-auroras-what-the-suns-recent-activity-tells-us)
-- [As above, so below: Earth in the sky | Space photo of the day for Dec. 18, 2025](https://www.space.com/technology/as-above-so-below-earth-in-the-sky-space-photo-of-the-day-for-dec-18-2025)
-- [Night sky tonight: See the Orion Nebula shine after dark on Dec. 18](https://www.space.com/news/live/night-sky-what-you-can-see-tonight)
-- [What time will interstellar comet 3I/ATLAS be closest to Earth tonight?](https://www.space.com/astronomy/comets/what-time-will-interstellar-comet-3i-atlas-be-closest-to-earth-on-dec-19)
+- [Apple opens up its App Store to competition in Japan](https://techcrunch.com/2025/12/18/apple-opens-up-its-app-store-to-competition-in-japan/)
+- [Scientists detect X-ray glow from interstellar comet 3I/ATLAS extending 250,000 miles into space](https://www.space.com/astronomy/comets/scientists-detect-x-ray-glow-from-interstellar-comet-3i-atlas-extending-250-000-out-miles-into-space)
+- [Trump Media is merging with fusion power company TAE Technologies in $6B+ deal](https://techcrunch.com/2025/12/18/trump-media-is-merging-with-fusion-power-company-tae-technologies-in-6b-deal/)
+- [Luma releases a new AI model that lets users generate a video from a start  and end frame](https://techcrunch.com/2025/12/18/luma-releases-a-new-ai-model-that-lets-users-generate-a-video-from-a-start-and-end-frame/)
+- [Vibe-coding startup Lovable raises $330M at a $6.6B valuation](https://techcrunch.com/2025/12/18/vibe-coding-startup-lovable-raises-330m-at-a-6-6b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
