@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers capture 1st direct images of collisions in a nearby star system: &#39;It&#39;s like looking back in time&#39;](https://www.space.com/astronomy/stars/astronomers-capture-1st-direct-images-of-collisions-in-a-nearby-star-system-its-like-looking-back-in-time)
+- [LinkedIn’s profile verification push is accelerating — and India is leading the charge in 2025](https://techcrunch.com/2025/12/18/linkedins-profile-verification-push-is-accelerating-and-india-is-leading-the-charge-in-2025/)
 - [These 21-year-old dropouts raised $2M to build Givefront, a fintech for nonprofits](https://techcrunch.com/2025/12/18/these-21-year-old-dropouts-raised-2m-to-build-givefront-a-fintech-for-nonprofits/)
 - [4 ways to track 3I/ATLAS without a telescope as it makes its closest approach to Earth tonight](https://www.space.com/stargazing/4-ways-to-track-3i-atlas-without-a-telescope-as-it-makes-its-closest-approach-to-earth-tonight)
 - [Trump Media is merging with fusion power company TAE Technologies in $6B+ deal](https://techcrunch.com/2025/12/18/trump-media-is-merging-with-fusion-power-company-tae-technologies-in-6b-deal/)
-- [&#39;Crash Clock&#39; reveals how soon satellite collisions would occur after a severe solar storm — and it&#39;s pretty scary](https://www.space.com/space-exploration/satellites/crash-clock-reveals-how-soon-satellite-collisions-would-occur-after-a-severe-solar-storm-and-its-pretty-scary)
-- [TDK Ventures, Accel set to back India’s EtherealX in reusable launch vehicle push: Sources](https://techcrunch.com/2025/12/18/tdk-ventures-accel-set-to-back-indias-etherealx-in-reusable-launch-vehicle-push-sources/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
