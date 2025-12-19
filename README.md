@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix acquires gaming avatar maker Ready Player Me](https://techcrunch.com/2025/12/19/netflix-acquires-gaming-avatar-maker-ready-player-me/)
+- [Love capturing the cosmos? Make your money go further this Christmas with these last-minute camera and lens deals](https://www.space.com/stargazing/skywatching-kit/love-capturing-the-cosmos-make-your-money-go-further-this-christmas-with-these-last-minute-camera-and-lens-deals)
+- [2 of Earth&#39;s rarest lightning phenomena captured simultaneously in once-in-a-lifetime photo](https://www.space.com/stargazing/2-of-earths-rarest-lightning-phenomena-captured-simultaneously-in-once-in-a-lifetime-photo)
 - [Meta is developing a new image and video model for a 2026 release, report says](https://techcrunch.com/2025/12/19/meta-is-developing-a-new-image-and-video-model-for-a-2026-release-report-says/)
 - [James Webb Space Telescope watches &#39;Jekyll and Hyde&#39; galaxy shapeshift into a cosmic monster](https://www.space.com/astronomy/galaxies/james-webb-space-telescope-watches-jekyll-and-hyde-galaxy-shapeshift-into-a-cosmic-monster)
-- [NASA&#39;s Perseverance Mars rover could break the record for miles driven on another planet](https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-could-break-the-record-for-miles-driven-on-another-planet)
-- [Krafton hikes India bet with new $670M fund](https://techcrunch.com/2025/12/19/krafton-hikes-india-bet-with-new-670m-fund/)
-- [Hacks, thefts and disruption: The worst data breaches of 2025](https://techcrunch.com/2025/12/19/hacks-thefts-and-disruption-the-worst-data-breaches-of-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
