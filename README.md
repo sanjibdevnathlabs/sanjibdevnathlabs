@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Perseverance Mars rover could break the record for miles driven on another planet](https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-could-break-the-record-for-miles-driven-on-another-planet)
+- [Krafton hikes India bet with new $670M fund](https://techcrunch.com/2025/12/19/krafton-hikes-india-bet-with-new-670m-fund/)
 - [Hacks, thefts and disruption: The worst data breaches of 2025](https://techcrunch.com/2025/12/19/hacks-thefts-and-disruption-the-worst-data-breaches-of-2025/)
 - [Best Lego Avatar sets 2025](https://www.space.com/entertainment/space-toys-lego/best-lego-avatar-sets-2025)
 - [Geminid meteors streak under green sky | Space photo of the day for Dec. 19, 2025](https://www.space.com/stargazing/meteor-showers/geminid-meteors-streak-under-green-sky-space-photo-of-the-day-for-dec-19-2025)
-- [Traveling over the holidays? Maximize your online safety with our exclusive 72% discount on Norton VPN](https://www.space.com/technology/travelling-over-the-holidays-maximize-your-online-safety-with-our-exclusive-72-percent-discount-on-norton-vpn)
-- [OpenAI is reportedly trying to raise $100B at an $830B valuation](https://techcrunch.com/2025/12/19/openai-is-reportedly-trying-to-raise-100b-at-an-830b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
