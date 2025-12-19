@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hundreds of Cisco customers are vulnerable to new Chinese hacking campaign, researchers say](https://techcrunch.com/2025/12/19/hundreds-of-cisco-customers-are-vulnerable-to-new-chinese-hacking-campaign-researchers-say/)
+- [These 2 companies are teaming up to offer insurance for space debris strikes on satellites](https://www.space.com/space-exploration/satellites/these-2-companies-are-teaming-up-to-offer-insurance-for-space-debris-strikes-on-satellites)
+- [Yann LeCun confirms his new ‘world model’ startup, reportedly seeks $5B+ valuation](https://techcrunch.com/2025/12/19/yann-lecun-confirms-his-new-world-model-startup-reportedly-seeks-5b-valuation/)
 - [Netflix is betting on podcasts to become the new daytime talk show](https://techcrunch.com/2025/12/19/netflix-is-betting-on-podcasts-to-become-the-new-daytime-talk-show/)
 - [As Avatar returns to theaters, there&#39;s never been a better time to check out &#39;Avatar: Frontiers of Pandora&#39;](https://www.space.com/entertainment/space-games/as-avatar-returns-to-theaters-theres-never-been-a-better-time-to-check-out-avatar-frontiers-of-pandora)
-- [OpenAI adds new teen safety rules to ChatGPT as lawmakers weigh AI standards for minors](https://techcrunch.com/2025/12/19/openai-adds-new-teen-safety-rules-to-models-as-lawmakers-weigh-ai-standards-for-minors/)
-- [Known uses voice AI to help you go on more in-person dates](https://techcrunch.com/2025/12/19/known-uses-voice-ai-to-help-you-go-on-more-in-person-dates/)
-- [Netflix acquires gaming avatar maker Ready Player Me](https://techcrunch.com/2025/12/19/netflix-acquires-gaming-avatar-maker-ready-player-me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
