@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok agrees to deal to cede control of US business to American investor group](https://techcrunch.com/2025/12/18/tiktok-agrees-to-deal-to-cede-control-of-u-s-business-to-american-investor-group/)
+- [Trump signs sweeping executive order aimed at &#39;ensuring American space superiority&#39;](https://www.space.com/space-exploration/trump-signs-sweeping-executive-order-aimed-at-ensuring-american-space-superiority)
+- [Apple becomes a debt collector with its new developer agreement](https://techcrunch.com/2025/12/18/apple-becomes-a-debt-collector-with-its-new-developer-agreement/)
 - [Instacart to pay $60M to settle FTC claims it deceived consumers](https://techcrunch.com/2025/12/18/instacart-to-pay-60m-to-settle-ftc-claims-it-deceived-consumers/)
 - [Best streaming devices to watch sci-fi shows and movies in 2025](https://www.space.com/technology/the-best-streaming-devices-to-have-all-your-subscriptions-in-one-place)
-- [Why are the &#39;Avatar&#39; movies so massive? Their success seems to defy conventional logic](https://www.space.com/entertainment/space-movies-shows/why-are-the-avatar-movies-so-massive-their-success-seems-to-defy-conventional-logic)
-- [ChatGPT launches an app store, lets developers know it’s open for business](https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/)
-- [Pickle Robot adds Tesla veteran as first CFO](https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
