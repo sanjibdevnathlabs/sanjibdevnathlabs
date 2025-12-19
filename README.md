@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta is developing a new image and video model for a 2026 release, report says](https://techcrunch.com/2025/12/19/meta-is-developing-a-new-image-and-video-model-for-a-2026-release-report-says/)
+- [James Webb Space Telescope watches &#39;Jekyll and Hyde&#39; galaxy shapeshift into a cosmic monster](https://www.space.com/astronomy/galaxies/james-webb-space-telescope-watches-jekyll-and-hyde-galaxy-shapeshift-into-a-cosmic-monster)
 - [NASA&#39;s Perseverance Mars rover could break the record for miles driven on another planet](https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-could-break-the-record-for-miles-driven-on-another-planet)
 - [Krafton hikes India bet with new $670M fund](https://techcrunch.com/2025/12/19/krafton-hikes-india-bet-with-new-670m-fund/)
 - [Hacks, thefts and disruption: The worst data breaches of 2025](https://techcrunch.com/2025/12/19/hacks-thefts-and-disruption-the-worst-data-breaches-of-2025/)
-- [Best Lego Avatar sets 2025](https://www.space.com/entertainment/space-toys-lego/best-lego-avatar-sets-2025)
-- [Geminid meteors streak under green sky | Space photo of the day for Dec. 19, 2025](https://www.space.com/stargazing/meteor-showers/geminid-meteors-streak-under-green-sky-space-photo-of-the-day-for-dec-19-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
