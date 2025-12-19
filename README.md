@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lego has gone boldly where they have never gone before with their first-ever Star Trek set, and it&#39;s back in stock with a free gift!](https://www.space.com/entertainment/space-toys-lego/first-ever-lego-star-trek-set-now-available-with-free-gift)
+- [Astronomers may have spotted the 1st known &#39;superkilonova&#39; double star explosion](https://www.space.com/astronomy/stars/astronomers-may-have-spotted-the-1st-known-superkilonova-double-star-explosion)
+- [Anonymous messaging app NGL was acquired by ‘EarnPhone’ startup Mode Mobile](https://techcrunch.com/2025/12/19/anonymous-messaging-app-ngl-was-acquired-by-earnphone-startup-mode-mobile/)
 - [Hundreds of Cisco customers are vulnerable to new Chinese hacking campaign, researchers say](https://techcrunch.com/2025/12/19/hundreds-of-cisco-customers-are-vulnerable-to-new-chinese-hacking-campaign-researchers-say/)
 - [These 2 companies are teaming up to offer insurance for space debris strikes on satellites](https://www.space.com/space-exploration/satellites/these-2-companies-are-teaming-up-to-offer-insurance-for-space-debris-strikes-on-satellites)
-- [Yann LeCun confirms his new ‘world model’ startup, reportedly seeks $5B+ valuation](https://techcrunch.com/2025/12/19/yann-lecun-confirms-his-new-world-model-startup-reportedly-seeks-5b-valuation/)
-- [Netflix is betting on podcasts to become the new daytime talk show](https://techcrunch.com/2025/12/19/netflix-is-betting-on-podcasts-to-become-the-new-daytime-talk-show/)
-- [As Avatar returns to theaters, there&#39;s never been a better time to check out &#39;Avatar: Frontiers of Pandora&#39;](https://www.space.com/entertainment/space-games/as-avatar-returns-to-theaters-theres-never-been-a-better-time-to-check-out-avatar-frontiers-of-pandora)
 <!-- BLOG-POST-LIST:END -->
 
 ---
