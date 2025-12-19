@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best VPN services we recommend 2025](https://www.space.com/technology/best-vpn-services-we-recommend)
-- [Watch South Korean startup Innospace attempt its 1st-ever orbital launch today](https://www.space.com/space-exploration/launches-spacecraft/south-korea-innospace-first-orbital-launch-attempt-spaceward)
-- [Farewell, comet 3I/ATLAS! Interstellar visitor heads for the outer solar system after its closest approach to Earth](https://www.space.com/astronomy/comets/interstellar-comet-3iatlas-heads-for-the-outer-solar-system-after-its-closest-approach-to-earth)
-- [How interstellar comet 3I/ATLAS went from routine discovery to viral obsession in 2025](https://www.space.com/astronomy/comets/how-interstellar-comet-3i-atlas-went-from-routine-discovery-to-viral-obsession-in-2025)
-- [TikTok agrees to deal to cede control of US business to American investor group](https://techcrunch.com/2025/12/18/tiktok-agrees-to-deal-to-cede-control-of-u-s-business-to-american-investor-group/)
+- [Hacks, thefts and disruption: The worst data breaches of 2025](https://techcrunch.com/2025/12/19/hacks-thefts-and-disruption-the-worst-data-breaches-of-2025/)
+- [Best Lego Avatar sets 2025](https://www.space.com/entertainment/space-toys-lego/best-lego-avatar-sets-2025)
+- [Geminid meteors streak under green sky | Space photo of the day for Dec. 19, 2025](https://www.space.com/stargazing/meteor-showers/geminid-meteors-streak-under-green-sky-space-photo-of-the-day-for-dec-19-2025)
+- [Traveling over the holidays? Maximize your online safety with our exclusive 72% discount on Norton VPN](https://www.space.com/technology/travelling-over-the-holidays-maximize-your-online-safety-with-our-exclusive-72-percent-discount-on-norton-vpn)
+- [OpenAI is reportedly trying to raise $100B at an $830B valuation](https://techcrunch.com/2025/12/19/openai-is-reportedly-trying-to-raise-100b-at-an-830b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
