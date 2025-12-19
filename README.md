@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best VPN services we recommend 2025](https://www.space.com/technology/best-vpn-services-we-recommend)
+- [Watch South Korean startup Innospace attempt its 1st-ever orbital launch today](https://www.space.com/space-exploration/launches-spacecraft/south-korea-innospace-first-orbital-launch-attempt-spaceward)
 - [Farewell, comet 3I/ATLAS! Interstellar visitor heads for the outer solar system after its closest approach to Earth](https://www.space.com/astronomy/comets/interstellar-comet-3iatlas-heads-for-the-outer-solar-system-after-its-closest-approach-to-earth)
 - [How interstellar comet 3I/ATLAS went from routine discovery to viral obsession in 2025](https://www.space.com/astronomy/comets/how-interstellar-comet-3i-atlas-went-from-routine-discovery-to-viral-obsession-in-2025)
 - [TikTok agrees to deal to cede control of US business to American investor group](https://techcrunch.com/2025/12/18/tiktok-agrees-to-deal-to-cede-control-of-u-s-business-to-american-investor-group/)
-- [Trump signs sweeping executive order aimed at &#39;ensuring American space superiority&#39;](https://www.space.com/space-exploration/trump-signs-sweeping-executive-order-aimed-at-ensuring-american-space-superiority)
-- [Apple becomes a debt collector with its new developer agreement](https://techcrunch.com/2025/12/18/apple-becomes-a-debt-collector-with-its-new-developer-agreement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
