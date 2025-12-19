@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How interstellar comet 3I/ATLAS went from routine discovery to viral obsession in 2025](https://www.space.com/astronomy/comets/how-interstellar-comet-3i-atlas-went-from-routine-discovery-to-viral-obsession-in-2025)
 - [TikTok agrees to deal to cede control of US business to American investor group](https://techcrunch.com/2025/12/18/tiktok-agrees-to-deal-to-cede-control-of-u-s-business-to-american-investor-group/)
 - [Trump signs sweeping executive order aimed at &#39;ensuring American space superiority&#39;](https://www.space.com/space-exploration/trump-signs-sweeping-executive-order-aimed-at-ensuring-american-space-superiority)
 - [Apple becomes a debt collector with its new developer agreement](https://techcrunch.com/2025/12/18/apple-becomes-a-debt-collector-with-its-new-developer-agreement/)
 - [Instacart to pay $60M to settle FTC claims it deceived consumers](https://techcrunch.com/2025/12/18/instacart-to-pay-60m-to-settle-ftc-claims-it-deceived-consumers/)
-- [Best streaming devices to watch sci-fi shows and movies in 2025](https://www.space.com/technology/the-best-streaming-devices-to-have-all-your-subscriptions-in-one-place)
 <!-- BLOG-POST-LIST:END -->
 
 ---
