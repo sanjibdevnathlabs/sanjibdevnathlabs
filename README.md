@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New York Governor Kathy Hochul signs RAISE Act to regulate AI safety](https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act-to-regulate-ai-safety/)
 - [James Cameron&#39;s sci-fi movies ranked, worst to best](https://www.space.com/entertainment/space-movies-shows/james-camerons-sci-fi-movies-ranked-worst-to-best)
 - [This Week In Space podcast: Episode 190 — Holiday Special 2025](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-190-holiday-special-2025)
 - [&#39;Enemy Mine&#39; at 40: An empathetic space adventure that still resonates strongly today](https://www.space.com/entertainment/space-movies-shows/enemy-mine-at-40-an-empathetic-space-adventure-that-still-resonates-strongly-today)
 - [How the &#39;delayed choice quantum eraser&#39; experiment got us to rethink reality](https://www.space.com/science/particle-physics/how-the-delayed-choice-quantum-eraser-experiment-got-us-to-rethink-reality)
-- [Looking for a skywatching Christmas gift? We have hunted down the best last-minute deals on telescopes, binoculars and more](https://www.space.com/stargazing/skywatching-kit/looking-for-a-skywatching-christmas-gift-we-have-hunted-down-the-best-last-minute-deals-on-telescopes-binoculars-and-more)
 <!-- BLOG-POST-LIST:END -->
 
 ---
