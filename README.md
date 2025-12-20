@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ex-Splunk execs’ startup Resolve AI hits $1 billion valuation with Series A](https://techcrunch.com/2025/12/19/ex-splunk-execs-startup-resolve-ai-hits-1-billion-valuation-with-series-a/)
 - [Rocket Lab wins another defense-related space contract](https://techcrunch.com/2025/12/19/rocket-lab-wins-another-defense-related-space-contract/)
 - [Building venture-backable companies in heavily regulated spaces](https://techcrunch.com/2025/12/19/building-venture-backable-companies-in-heavily-regulated-spaces/)
 - [Former Patagonia CEO Rose Marcario resigns from Rivian’s board](https://techcrunch.com/2025/12/19/former-patagonia-ceo-rose-marcario-resigns-from-rivians-board/)
 - [Where are investors placing their bets next year? AI, AI, AI.](https://techcrunch.com/2025/12/19/where-are-investors-placing-their-bets-next-year-ai-ai-ai/)
-- [Mysterious bright blue cosmic blasts triggered by black holes shredding stars, scientists say. &#39;It&#39;s definitely not just an exploding star.&#39;](https://www.space.com/astronomy/black-holes/mysterious-bright-blue-cosmic-blasts-triggered-by-black-holes-shredding-stars-scientists-say-its-definitely-not-just-an-exploding-star)
 <!-- BLOG-POST-LIST:END -->
 
 ---
