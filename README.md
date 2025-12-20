@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best last-minute holiday gifts for any die hard space superfan](https://www.space.com/technology/the-best-last-minute-holiday-gifts-for-any-die-hard-space-superfan)
+- [Looking for a skywatching Christmas gift? We have hunted down the best last-minute deals on telescopes, binoculars and more](https://www.space.com/stargazing/skywatching-kit/looking-for-a-skywatching-christmas-gift-we-have-hunted-down-the-best-last-minute-deals-on-telescopes-binoculars-and-more)
 - [Sequoia partner spreads debunked Brown shooting theory, testing new leadership](https://techcrunch.com/2025/12/19/sequoia-partner-spreads-debunked-brown-shooting-theory-testing-new-leadership/)
 - [Ex-Splunk execs’ startup Resolve AI hits $1 billion valuation with Series A](https://techcrunch.com/2025/12/19/ex-splunk-execs-startup-resolve-ai-hits-1-billion-valuation-with-series-a/)
 - [Rocket Lab wins another defense-related space contract](https://techcrunch.com/2025/12/19/rocket-lab-wins-another-defense-related-space-contract/)
-- [Building venture-backable companies in heavily regulated spaces](https://techcrunch.com/2025/12/19/building-venture-backable-companies-in-heavily-regulated-spaces/)
-- [Former Patagonia CEO Rose Marcario resigns from Rivian’s board](https://techcrunch.com/2025/12/19/former-patagonia-ceo-rose-marcario-resigns-from-rivians-board/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
