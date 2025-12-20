@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia partner spreads debunked Brown shooting theory, testing new leadership](https://techcrunch.com/2025/12/19/sequoia-partner-spreads-debunked-brown-shooting-theory-testing-new-leadership/)
 - [Ex-Splunk execs’ startup Resolve AI hits $1 billion valuation with Series A](https://techcrunch.com/2025/12/19/ex-splunk-execs-startup-resolve-ai-hits-1-billion-valuation-with-series-a/)
 - [Rocket Lab wins another defense-related space contract](https://techcrunch.com/2025/12/19/rocket-lab-wins-another-defense-related-space-contract/)
 - [Building venture-backable companies in heavily regulated spaces](https://techcrunch.com/2025/12/19/building-venture-backable-companies-in-heavily-regulated-spaces/)
 - [Former Patagonia CEO Rose Marcario resigns from Rivian’s board](https://techcrunch.com/2025/12/19/former-patagonia-ceo-rose-marcario-resigns-from-rivians-board/)
-- [Where are investors placing their bets next year? AI, AI, AI.](https://techcrunch.com/2025/12/19/where-are-investors-placing-their-bets-next-year-ai-ai-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
