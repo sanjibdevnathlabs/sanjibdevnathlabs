@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Winter solstice 2025 marks the shortest day of the year in the Northern Hemisphere today](https://www.space.com/stargazing/winter-solstice-2025-marks-the-shortest-day-of-the-year-in-the-northern-hemisphere-today)
 - [When are the next best sales after Black Friday?](https://www.space.com/stargazing/skywatching-kit/when-are-the-next-best-sales-after-black-friday)
 - [Google and Apple reportedly warn employees on visas to avoid international travel](https://techcrunch.com/2025/12/20/google-and-apple-reportedly-warn-employees-on-visas-to-avoid-international-travel/)
 - [‘It felt so wrong’: Colin Angle on iRobot, the FTC, and the Amazon deal that never was](https://techcrunch.com/2025/12/20/it-felt-so-wrong-colin-angle-on-irobot-the-ftc-and-the-amazon-deal-that-never-was/)
 - [The best Stranger Things gifts to celebrate season 5](https://www.space.com/entertainment/space-movies-shows/the-best-stranger-things-gifts-to-celebrate-season-five)
-- [OpenAI allows users to directly adjust ChatGPT’s enthusiasm level](https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
