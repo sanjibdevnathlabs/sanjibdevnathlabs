@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As EU waters down 2035 EV goals, electric startups express concern](https://techcrunch.com/2025/12/21/as-eu-waters-down-2035-ev-goals-electric-startups-express-concern/)
+- [Planet-eating stars hint at Earth&#39;s ultimate fate](https://www.space.com/astronomy/stars/planet-eating-stars-hint-at-earths-ultimate-fate)
 - [Starship success, a private moon landing and more: The top 10 spaceflight stories of 2025](https://www.space.com/space-exploration/starship-success-a-private-moon-landing-and-more-the-top-10-spaceflight-stories-of-2025)
 - [Israel’s famed VC Jon Medved, diagnosed with ALS, backed the tech that will improve his life](https://techcrunch.com/2025/12/21/israels-famed-vc-jon-medved-diagnosed-with-als-backed-the-tech-that-will-improve-his-life/)
 - [Ursid meteor shower 2025 peaks tonight: Here&#39;s what to expect from the yuletide light show](https://www.space.com/stargazing/meteor-showers/ursid-meteor-shower-2025-peaks-tonight-heres-what-to-expect-from-the-yuletide-light-show)
-- [Who are the Sea Devils? The classic &#39;Doctor Who&#39; monsters in &#39;The War Between the Land and the Sea&#39;](https://www.space.com/entertainment/space-movies-shows/who-are-the-sea-devils-the-classic-doctor-who-monsters-in-the-war-between-the-land-and-the-sea)
-- [Winter solstice 2025 marks the shortest day of the year in the Northern Hemisphere today](https://www.space.com/stargazing/winter-solstice-2025-marks-the-shortest-day-of-the-year-in-the-northern-hemisphere-today)
 <!-- BLOG-POST-LIST:END -->
 
 ---
