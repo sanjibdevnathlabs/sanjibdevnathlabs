@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/12/22/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [Satellites reveal heat leaking from largest US cryptocurrency mining center](https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center)
 - [TikTok Shop launches digital gift cards to challenge Amazon and eBay](https://techcrunch.com/2025/12/22/tiktok-shop-launches-digital-gift-cards-to-challenge-amazon-and-ebay/)
 - [NASA launches science balloon in Antarctica | Space photo of the day for Dec. 22, 2025](https://www.space.com/astronomy/earth/nasa-launches-science-balloon-in-antarctica-space-photo-of-the-day-for-dec-22-2025)
-- [NASA&#39;s SPHEREx telescope completes its 1st cosmic map of the entire sky and it&#39;s stunning!](https://www.space.com/astronomy/galaxies/nasas-spherex-telescope-completes-its-1st-cosmic-map-of-the-entire-sky-and-its-stunning)
-- [10 times the sky amazed us in 2025](https://www.space.com/stargazing/10-times-the-sky-amazed-us-in-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
