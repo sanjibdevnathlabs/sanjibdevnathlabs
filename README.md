@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok Shop launches digital gift cards to challenge Amazon and eBay](https://techcrunch.com/2025/12/22/tiktok-shop-launches-digital-gift-cards-to-challenge-amazon-and-ebay/)
+- [NASA launches science balloon in Antarctica | Space photo of the day for Dec. 22, 2025](https://www.space.com/astronomy/earth/nasa-launches-science-balloon-in-antarctica-space-photo-of-the-day-for-dec-22-2025)
 - [NASA&#39;s SPHEREx telescope completes its 1st cosmic map of the entire sky and it&#39;s stunning!](https://www.space.com/astronomy/galaxies/nasas-spherex-telescope-completes-its-1st-cosmic-map-of-the-entire-sky-and-its-stunning)
 - [10 times the sky amazed us in 2025](https://www.space.com/stargazing/10-times-the-sky-amazed-us-in-2025)
 - [Japanese H3 rocket fails during launch of navigation satellite &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/japanese-h3-rocket-fails-during-launch-of-navigation-satellite)
-- [Waymo resumes service in San Francisco after robotaxis stall during blackout](https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/)
-- [A rough week for hardware companies](https://techcrunch.com/2025/12/21/a-rough-week-for-hardware-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
