@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT launches a year-end review like Spotify Wrapped](https://techcrunch.com/2025/12/22/chatgpt-launches-a-year-end-review-like-spotify-wrapped/)
+- [Meet Qingzhou, China&#39;s next-gen cargo craft for its Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/meet-qingzhou-chinas-next-gen-cargo-craft-for-its-tiangong-space-station-video)
+- [CEO of SpaceX rival United Launch Alliance resigns](https://techcrunch.com/2025/12/22/ceo-of-spacex-rival-united-launch-alliance-resigns/)
 - [Elevate your home bar with these mixology gadgets](https://techcrunch.com/2025/12/22/elevate-your-home-bar-with-these-mixology-gadgets/)
 - [Northern lights may be visible in 10 states tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-10-states-dec-22-23)
-- [10 space zombie movies, books, and games to prepare you for the night of the intergalactic dead](https://www.space.com/entertainment/space-zombie-movies-books-and-games-to-prepare-you-for-the-night-of-the-intergalactic-dead)
-- [Splat’s app uses AI to turn your photos into coloring pages for kids](https://techcrunch.com/2025/12/22/splats-app-uses-ai-to-turn-your-photos-into-coloring-pages-for-kids/)
-- [Uber and Lyft to test Baidu robotaxis in London next year, joining Waymo](https://techcrunch.com/2025/12/22/uber-and-lyft-to-test-baidu-robotaxis-in-london-next-year-joining-waymo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
