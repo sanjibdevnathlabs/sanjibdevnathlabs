@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Northern lights may be visible in 10 states tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-10-states-dec-22-23)
+- [10 space zombie movies, books, and games to prepare you for the night of the intergalactic dead](https://www.space.com/entertainment/space-zombie-movies-books-and-games-to-prepare-you-for-the-night-of-the-intergalactic-dead)
+- [Splat’s app uses AI to turn your photos into coloring pages for kids](https://techcrunch.com/2025/12/22/splats-app-uses-ai-to-turn-your-photos-into-coloring-pages-for-kids/)
+- [Uber and Lyft to test Baidu robotaxis in London next year, joining Waymo](https://techcrunch.com/2025/12/22/uber-and-lyft-to-test-baidu-robotaxis-in-london-next-year-joining-waymo/)
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/12/22/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [Satellites reveal heat leaking from largest US cryptocurrency mining center](https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center)
-- [TikTok Shop launches digital gift cards to challenge Amazon and eBay](https://techcrunch.com/2025/12/22/tiktok-shop-launches-digital-gift-cards-to-challenge-amazon-and-ebay/)
-- [NASA launches science balloon in Antarctica | Space photo of the day for Dec. 22, 2025](https://www.space.com/astronomy/earth/nasa-launches-science-balloon-in-antarctica-space-photo-of-the-day-for-dec-22-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
