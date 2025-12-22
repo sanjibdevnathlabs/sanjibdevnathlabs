@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alphabet to buy Intersect Power to bypass energy grid bottlenecks](https://techcrunch.com/2025/12/22/alphabet-to-buy-intersect-power-to-bypass-energy-grid-bottlenecks/)
+- [12 days of space and sci-fi books: Check out these festive holiday titles for your gift list or yourself!](https://www.space.com/entertainment/12-days-of-space-and-sci-fi-books-check-out-these-festive-holiday-titles-for-your-gift-list-or-yourself)
+- [How to track Santa Claus this Christmas Eve with NORAD&#39;s 2025 tracker](https://www.space.com/entertainment/how-to-track-santa-claus-this-christmas-eve-with-norads-2025-tracker)
+- [Trump admin halts 6 GW of offshore wind leases again](https://techcrunch.com/2025/12/22/trump-admin-halts-6-gw-of-offshore-wind-leases-again/)
 - [Rocket Lab launches final mission of 2025, sends Japanese Earth-observing satellite to orbit &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-final-mission-of-2025-sends-japanese-earth-observing-satellite-to-orbit-video)
-- [Paramount renews bid for Warner Bros, ensuring $40 billion Larry Ellison backing](https://techcrunch.com/2025/12/22/paramount-renews-bid-for-warner-bros-ensuring-40-billion-larry-ellison-backing/)
-- [ChatGPT launches a year-end review like Spotify Wrapped](https://techcrunch.com/2025/12/22/chatgpt-launches-a-year-end-review-like-spotify-wrapped/)
-- [Meet Qingzhou, China&#39;s next-gen cargo craft for its Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/meet-qingzhou-chinas-next-gen-cargo-craft-for-its-tiangong-space-station-video)
-- [CEO of SpaceX rival United Launch Alliance resigns](https://techcrunch.com/2025/12/22/ceo-of-spacex-rival-united-launch-alliance-resigns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
