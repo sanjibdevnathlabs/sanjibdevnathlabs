@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elevate your home bar with these mixology gadgets](https://techcrunch.com/2025/12/22/elevate-your-home-bar-with-these-mixology-gadgets/)
 - [Northern lights may be visible in 10 states tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-10-states-dec-22-23)
 - [10 space zombie movies, books, and games to prepare you for the night of the intergalactic dead](https://www.space.com/entertainment/space-zombie-movies-books-and-games-to-prepare-you-for-the-night-of-the-intergalactic-dead)
 - [Splat’s app uses AI to turn your photos into coloring pages for kids](https://techcrunch.com/2025/12/22/splats-app-uses-ai-to-turn-your-photos-into-coloring-pages-for-kids/)
 - [Uber and Lyft to test Baidu robotaxis in London next year, joining Waymo](https://techcrunch.com/2025/12/22/uber-and-lyft-to-test-baidu-robotaxis-in-london-next-year-joining-waymo/)
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
