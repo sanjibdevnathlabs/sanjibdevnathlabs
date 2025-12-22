@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket Lab launches final mission of 2025, sends Japanese Earth-observing satellite to orbit &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-final-mission-of-2025-sends-japanese-earth-observing-satellite-to-orbit-video)
+- [Paramount renews bid for Warner Bros, ensuring $40 billion Larry Ellison backing](https://techcrunch.com/2025/12/22/paramount-renews-bid-for-warner-bros-ensuring-40-billion-larry-ellison-backing/)
 - [ChatGPT launches a year-end review like Spotify Wrapped](https://techcrunch.com/2025/12/22/chatgpt-launches-a-year-end-review-like-spotify-wrapped/)
 - [Meet Qingzhou, China&#39;s next-gen cargo craft for its Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/meet-qingzhou-chinas-next-gen-cargo-craft-for-its-tiangong-space-station-video)
 - [CEO of SpaceX rival United Launch Alliance resigns](https://techcrunch.com/2025/12/22/ceo-of-spacex-rival-united-launch-alliance-resigns/)
-- [Elevate your home bar with these mixology gadgets](https://techcrunch.com/2025/12/22/elevate-your-home-bar-with-these-mixology-gadgets/)
-- [Northern lights may be visible in 10 states tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-10-states-dec-22-23)
 <!-- BLOG-POST-LIST:END -->
 
 ---
