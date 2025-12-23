@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 most expensive Lego Star Wars sets available right now](https://www.space.com/entertainment/space-toys-lego/10-most-expensive-lego-star-wars-sets-available-right-now)
+- [Before trips to Mars, we need better protection from cosmic rays](https://www.space.com/astronomy/mars/before-trips-to-mars-we-need-better-protection-from-cosmic-rays)
+- [ServiceNow to acquire cybersecurity startup Armis for $7.75B](https://techcrunch.com/2025/12/23/servicenow-to-acquire-cybersecurity-startup-armis-for-7-75b/)
 - [Zoox issues software recall over lane crossings](https://techcrunch.com/2025/12/23/zoox-issues-software-recall-over-lane-crossings/)
 - [John Carreyrou and other authors bring new lawsuit against six major AI companies](https://techcrunch.com/2025/12/23/john-carreyrou-and-other-authors-bring-new-lawsuit-against-six-major-ai-companies/)
-- [Hackers stole over $2.7B in crypto in 2025, data shows](https://techcrunch.com/2025/12/23/hackers-stole-over-2-7-billion-in-crypto-in-2025-data-shows/)
-- [Santa&#39;s sleigh or the International Space Station? How to spot a bright Christmas flyby Dec. 24 and 25](https://www.space.com/stargazing/santas-sleigh-or-the-international-space-station-how-to-spot-a-bright-christmas-flyby-dec-24-and-25)
-- [Northern lights may delight this Christmas — here&#39;s what you need to know](https://www.space.com/stargazing/auroras/northern-lights-may-delight-this-christmas-heres-what-you-need-to-know)
 <!-- BLOG-POST-LIST:END -->
 
 ---
