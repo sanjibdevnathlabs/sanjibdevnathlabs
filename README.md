@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia patents space station designed to generate artificial gravity](https://www.space.com/technology/russia-patents-space-station-designed-to-generate-artificial-gravity)
+- [Trump administration’s ban on foreign-made drones starts this week — you can say goodbye to new DJI models](https://techcrunch.com/2025/12/23/trump-administrations-ban-on-foreign-made-drones-starts-this-week-you-can-say-goodbye-to-new-dji-models/)
 - [10 most expensive Lego Star Wars sets available right now](https://www.space.com/entertainment/space-toys-lego/10-most-expensive-lego-star-wars-sets-available-right-now)
 - [Before trips to Mars, we need better protection from cosmic rays](https://www.space.com/astronomy/mars/before-trips-to-mars-we-need-better-protection-from-cosmic-rays)
 - [ServiceNow to acquire cybersecurity startup Armis for $7.75B](https://techcrunch.com/2025/12/23/servicenow-to-acquire-cybersecurity-startup-armis-for-7-75b/)
-- [Zoox issues software recall over lane crossings](https://techcrunch.com/2025/12/23/zoox-issues-software-recall-over-lane-crossings/)
-- [John Carreyrou and other authors bring new lawsuit against six major AI companies](https://techcrunch.com/2025/12/23/john-carreyrou-and-other-authors-bring-new-lawsuit-against-six-major-ai-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
