@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Northern lights may delight this Christmas — here&#39;s what you need to know](https://www.space.com/stargazing/auroras/northern-lights-may-delight-this-christmas-heres-what-you-need-to-know)
+- [Interstellar comet 3I/ATLAS reveals weird wobbling jets in rare sun-facing tail](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-reveals-weird-wobbling-jets-in-rare-sun-facing-tail)
 - [US insurance giant Aflac says hackers stole personal and health data of 22.6 million](https://techcrunch.com/2025/12/23/us-insurance-giant-aflac-says-hackers-stole-personal-data-of-22-6-million/)
-- [This founder just landed funding for a second go at the same problem: affordable custom home design](https://techcrunch.com/2025/12/23/this-founder-just-landed-backing-for-a-second-go-at-the-same-problem-affordable-custom-home-design/)
-- [Marissa Mayer’s new startup Dazzle raises $8M led by Forerruner’s Kirsten Green](https://techcrunch.com/2025/12/23/marissa-mayers-new-startup-dazzle-raises-8m-led-by-forerruners-kirsten-green/)
-- [Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp](https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/)
-- [Lemon Slice nabs $10.5M from YC and Matrix to build out its digital avatar tech](https://techcrunch.com/2025/12/23/lemon-slice-nabs-10-5m-from-yc-and-matrix-to-build-out-its-digital-avatar-tech/)
+- [This founder just landed funding for a second go at the same problem: Affordable custom home design](https://techcrunch.com/2025/12/23/this-founder-just-landed-backing-for-a-second-go-at-the-same-problem-affordable-custom-home-design/)
+- [Marissa Mayer’s new startup Dazzle raises $8M led by Forerunner’s Kirsten Green](https://techcrunch.com/2025/12/23/marissa-mayers-new-startup-dazzle-raises-8m-led-by-forerunners-kirsten-green/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
