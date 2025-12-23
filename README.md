@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside Uzbekistan’s nationwide license plate surveillance system](https://techcrunch.com/2025/12/23/inside-uzbekistans-nationwide-license-plate-surveillance-system/)
+- [We didn&#39;t find answers in 2025, but UFO researchers say the search continues](https://www.space.com/space-exploration/search-for-life/we-didnt-find-answers-in-2025-but-ufo-researchers-say-the-search-continues)
+- [Pirate group Anna’s Archive says it has scraped 86 million songs from Spotify](https://techcrunch.com/2025/12/23/pirate-group-annas-archive-says-it-has-scraped-86-million-songs-from-spotify/)
 - [The tooth fairy just got reimagined for the tech-savvy generation](https://techcrunch.com/2025/12/23/the-tooth-fairy-just-got-reimagined-for-the-tech-savvy-generation/)
 - [How 2025 became the year of comet: The rise of interstellar 3I/ATLAS, an icy Lemmon and a cosmic SWAN](https://www.space.com/astronomy/comets/how-2025-became-the-year-of-comet-the-rise-of-interstellar-3i-atlas-an-icy-lemmon-and-a-cosmic-swan)
-- [Artemis 2 moon rocket gets &#39;America 250&#39; paint job | Space photo of the day for Dec. 23, 2025](https://www.space.com/space-exploration/artemis/artemis-2-moon-rocket-gets-america-250-paint-job-space-photo-of-the-day-for-dec-23-2025)
-- [Doomed SpaceX Starlink satellite photographed from orbit](https://www.space.com/space-exploration/satellites/doomed-spacex-starlink-satellite-photographed-from-orbit)
-- [Best targets to observe between Christmas and New Year 2025](https://www.space.com/stargazing/skywatching-kit/best-targets-to-observe-between-christmas-and-new-year-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
