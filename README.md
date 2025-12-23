@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zoox issues software recall over lane crossings](https://techcrunch.com/2025/12/23/zoox-issues-software-recall-over-lane-crossings/)
 - [John Carreyrou and other authors bring new lawsuit against six major AI companies](https://techcrunch.com/2025/12/23/john-carreyrou-and-other-authors-bring-new-lawsuit-against-six-major-ai-companies/)
 - [Hackers stole over $2.7B in crypto in 2025, data shows](https://techcrunch.com/2025/12/23/hackers-stole-over-2-7-billion-in-crypto-in-2025-data-shows/)
 - [Santa&#39;s sleigh or the International Space Station? How to spot a bright Christmas flyby Dec. 24 and 25](https://www.space.com/stargazing/santas-sleigh-or-the-international-space-station-how-to-spot-a-bright-christmas-flyby-dec-24-and-25)
 - [Northern lights may delight this Christmas — here&#39;s what you need to know](https://www.space.com/stargazing/auroras/northern-lights-may-delight-this-christmas-heres-what-you-need-to-know)
-- [Interstellar comet 3I/ATLAS reveals weird wobbling jets in rare sun-facing tail](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-reveals-weird-wobbling-jets-in-rare-sun-facing-tail)
 <!-- BLOG-POST-LIST:END -->
 
 ---
