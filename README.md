@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 9 top biotech startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/24/the-9-top-biotech-startups-from-disrupt-startup-battlefield/)
+- [&#39;Dracula&#39;s Chivito&#39; looks stunning in this tasty Christmas photo from the Hubble Telescope](https://www.space.com/astronomy/stars/draculas-chivito-looks-stunning-in-this-tasty-christmas-photo-from-the-hubble-telescope)
+- [How Mill closed the deal with Amazon and Whole Foods](https://techcrunch.com/2025/12/24/how-mill-closed-the-deal-with-amazon-and-whole-foods/)
 - [Apple pauses app store changes in Texas after court blocks age assurance law](https://techcrunch.com/2025/12/24/apple-pauses-app-store-changes-in-texas-after-court-blocks-age-assurance-law/)
 - [The 14 top agtech, food tech startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/24/the-14-top-agtech-food-tech-startups-from-disrupt-startup-battlefield/)
-- [NASA&#39;s Apollo 8 moonshot saved 1968. Could Artemis 2 do the same in 2026?](https://www.space.com/space-exploration/artemis/nasas-apollo-8-moonshot-saved-1968-could-artemis-2-do-the-same-in-2026)
-- [Italy tells Meta to suspend its policy that bans rival AI chatbots from WhatsApp](https://techcrunch.com/2025/12/24/italy-tells-meta-to-suspend-its-policy-that-bans-rival-ai-chatbots-from-whatsapp/)
-- [How to track Santa Claus this Christmas Eve using AI](https://techcrunch.com/2025/12/24/how-to-track-santa-claus-this-christmas-eve-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
