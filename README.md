@@ -146,7 +146,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia acquires AI chip challenger Groq for $20B, report says](https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/)
+- [Nvidia to license AI chip challenger Groq’s tech and hire its CEO](https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/)
 - [What old, dying stars teach us about axions as a candidate for dark matter](https://www.space.com/astronomy/stars/what-old-dying-stars-teach-us-about-axions-as-a-candidate-for-dark-matter)
 - [UCS Millennium Falcon versus UCS Death Star: Which is the best Lego Star Wars set?](https://www.space.com/entertainment/space-toys-lego/ucs-millennium-falcon-versus-ucs-death-star-which-is-the-best-lego-star-wars-set)
 - [The year data centers went from backend to center stage](https://techcrunch.com/2025/12/24/the-year-data-centers-went-from-backend-to-center-stage/)
