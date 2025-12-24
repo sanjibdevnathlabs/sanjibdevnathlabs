@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [60,000 feet above Earth, NASA is hunting for the minerals that power phones, EVs and clean energy](https://www.space.com/astronomy/earth/60-000-feet-above-earth-nasa-is-hunting-for-the-minerals-that-power-phones-evs-and-clean-energy)
 - [The European startup market’s data doesn’t match its energy — yet](https://techcrunch.com/2025/12/24/the-european-startup-markets-data-doesnt-match-its-energy-yet/)
 - [Record launches, reusable rockets and a rescue: China made big strides in space in 2025](https://www.space.com/space-exploration/launches-spacecraft/record-launches-reusable-rockets-and-a-rescue-china-made-big-strides-in-space-in-2025)
 - [Waymo explains why its robotaxis got stuck during the SF blackout](https://techcrunch.com/2025/12/24/waymo-explains-why-its-robotaxis-got-stuck-during-the-sf-blackout/)
 - [Waymo is testing Gemini as an in-car AI assistant in its robotaxis](https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/)
-- [The 9 top biotech startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/24/the-9-top-biotech-startups-from-disrupt-startup-battlefield/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
