@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia acquires AI chip challenger Groq for $20B, report says](https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/)
+- [What old, dying stars teach us about axions as a candidate for dark matter](https://www.space.com/astronomy/stars/what-old-dying-stars-teach-us-about-axions-as-a-candidate-for-dark-matter)
 - [UCS Millennium Falcon versus UCS Death Star: Which is the best Lego Star Wars set?](https://www.space.com/entertainment/space-toys-lego/ucs-millennium-falcon-versus-ucs-death-star-which-is-the-best-lego-star-wars-set)
 - [The year data centers went from backend to center stage](https://techcrunch.com/2025/12/24/the-year-data-centers-went-from-backend-to-center-stage/)
 - [60,000 feet above Earth, NASA is hunting for the minerals that power phones, EVs and clean energy](https://www.space.com/astronomy/earth/60-000-feet-above-earth-nasa-is-hunting-for-the-minerals-that-power-phones-evs-and-clean-energy)
-- [The European startup market’s data doesn’t match its energy — yet](https://techcrunch.com/2025/12/24/the-european-startup-markets-data-doesnt-match-its-energy-yet/)
-- [Record launches, reusable rockets and a rescue: China made big strides in space in 2025](https://www.space.com/space-exploration/launches-spacecraft/record-launches-reusable-rockets-and-a-rescue-china-made-big-strides-in-space-in-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
