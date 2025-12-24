@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA satellite gazes into Medusa Pool | Space photo of the day for Dec. 24, 2025](https://www.space.com/astronomy/earth/nasa-satellite-gazes-into-medusa-pool-space-photo-of-the-day-for-dec-24-2025)
 - [The biggest black hole breakthroughs of 2025](https://www.space.com/astronomy/black-holes/the-biggest-black-hole-breakthroughs-of-2025)
 - [Russia patents space station designed to generate artificial gravity](https://www.space.com/technology/russia-patents-space-station-designed-to-generate-artificial-gravity)
 - [Trump administration’s ban on foreign-made drones starts this week — you can say goodbye to new DJI models](https://techcrunch.com/2025/12/23/trump-administrations-ban-on-foreign-made-drones-starts-this-week-you-can-say-goodbye-to-new-dji-models/)
 - [10 most expensive Lego Star Wars sets available right now](https://www.space.com/entertainment/space-toys-lego/10-most-expensive-lego-star-wars-sets-available-right-now)
-- [Before trips to Mars, we need better protection from cosmic rays](https://www.space.com/astronomy/mars/before-trips-to-mars-we-need-better-protection-from-cosmic-rays)
 <!-- BLOG-POST-LIST:END -->
 
 ---
