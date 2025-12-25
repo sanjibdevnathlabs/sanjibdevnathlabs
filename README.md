@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google&#39;s proposed data center in orbit will face issues with space debris in an already crowded orbit](https://www.space.com/technology/googles-proposed-data-center-in-orbit-will-face-issues-with-space-debris-in-an-already-crowded-orbit)
 - [Roman around the Christmas tree | Space photo of the day for Dec. 25, 2025](https://www.space.com/astronomy/roman-around-the-christmas-tree-space-photo-of-the-day-for-dec-25-2025)
 - [Astronauts beam home Christmas wishes from International Space Station: &#39;I think we may be orbiting a little higher than Santa&#39; &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/astronauts-beam-home-christmas-wishes-from-international-space-station-i-think-we-may-be-orbiting-a-little-higher-than-santa-video)
 - [Christmas 2025 skywatching guide: What you can see in the night sky on Dec. 25](https://www.space.com/stargazing/christmas-2025-skywatching-guide-what-you-can-see-in-the-night-sky-on-dec-25)
 - [Nvidia to license AI chip challenger Groq’s tech and hire its CEO](https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/)
-- [What old, dying stars teach us about axions as a candidate for dark matter](https://www.space.com/astronomy/stars/what-old-dying-stars-teach-us-about-axions-as-a-candidate-for-dark-matter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
