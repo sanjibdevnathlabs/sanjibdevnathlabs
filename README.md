@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Christmas 2025 skywatching guide: What you can see in the night sky on Dec. 25](https://www.space.com/stargazing/christmas-2025-skywatching-guide-what-you-can-see-in-the-night-sky-on-dec-25)
 - [Nvidia to license AI chip challenger Groq’s tech and hire its CEO](https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/)
 - [What old, dying stars teach us about axions as a candidate for dark matter](https://www.space.com/astronomy/stars/what-old-dying-stars-teach-us-about-axions-as-a-candidate-for-dark-matter)
 - [UCS Millennium Falcon versus UCS Death Star: Which is the best Lego Star Wars set?](https://www.space.com/entertainment/space-toys-lego/ucs-millennium-falcon-versus-ucs-death-star-which-is-the-best-lego-star-wars-set)
 - [The year data centers went from backend to center stage](https://techcrunch.com/2025/12/24/the-year-data-centers-went-from-backend-to-center-stage/)
-- [60,000 feet above Earth, NASA is hunting for the minerals that power phones, EVs and clean energy](https://www.space.com/astronomy/earth/60-000-feet-above-earth-nasa-is-hunting-for-the-minerals-that-power-phones-evs-and-clean-energy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
