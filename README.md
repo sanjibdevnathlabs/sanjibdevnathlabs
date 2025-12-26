@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 9 top cybersecurity startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/26/the-9-top-cybersecurity-startups-from-disrupt-startup-battlefield/)
+- [Space Force Guardians show off shiny new duds | Space photo of the day for Dec. 26, 2025](https://www.space.com/space-exploration/space-force-guardians-show-off-shiny-new-duds-space-photo-of-the-day-for-dec-26-2025)
 - [These are the cybersecurity stories we were jealous of in 2025](https://techcrunch.com/2025/12/26/these-are-the-cybersecurity-stories-we-were-jealous-of-in-2025/)
 - [See the moon shine with Saturn in the southern sky after sunset Dec. 26](https://www.space.com/stargazing/see-the-moon-shine-with-saturn-in-the-southern-sky-after-sunset-dec-26)
 - [The most exciting exoplanet discoveries of 2025](https://www.space.com/astronomy/exoplanets/the-most-exciting-exoplanet-discoveries-of-2025)
-- [What should I look at with my new telescope?](https://www.space.com/stargazing/skywatching-kit/what-should-i-look-at-with-my-new-telescope)
-- [How a Spanish virus brought Google to Málaga](https://techcrunch.com/2025/12/25/how-a-spanish-virus-brought-google-to-malaga/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
