@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [What is a Passkey? - Computerphile](https://www.youtube.com/watch?v=xYfiOnufBSk)
+- [Ethernet is DEAD?? Mac Studio is 100x FASTER!!](https://www.youtube.com/watch?v=bFgTxr5yst0)
 - [Gen AI &amp; Reinforcement Learning- Computerphile](https://www.youtube.com/watch?v=LHsgtcNNM0A)
-- [OpenAI was dead… Then GPT-5.2 dropped](https://www.youtube.com/watch?v=rEvEXQvo-F8)
-- [Procedural Generation in Games - Computerphile](https://www.youtube.com/watch?v=G6ZHUOSXZDo)
-- [React.js shell shocked by 10.0 critical vulnerability…](https://www.youtube.com/watch?v=QLK9G5zyU-Q)
+- [n8n + Claude Code Is TOO Powerful](https://www.youtube.com/shorts/p4M50NgC9qU)
+- [Lecture 16: Data Compression and Shannon’s Noiseless Coding Theorem](https://www.youtube.com/watch?v=4OpiI5NLjIE)
 <!-- YOUTUBE:END -->
 
 ---
