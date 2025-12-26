@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s ahead for startups and VCs in 2026? Investors weigh in](https://techcrunch.com/2025/12/26/whats-ahead-for-startups-and-vcs-in-2026-investors-weigh-in/)
+- [The best streaming device out there: Which one comes out on top — Amazon Fire TV Stick, Roku Ultra, Apple TV and Google TV Streamer?](https://www.space.com/technology/amazon-fire-tv-stick-versus-roku-ultra-versus-apple-tv-versus-google-tv-streamer-the-best-streaming-device-out-there)
 - [Naware’s chemical-free weed killer tech could change how we treat lawns](https://techcrunch.com/2025/12/26/nawares-chemical-free-weed-killer-tech-could-change-how-we-treat-lawns/)
 - [The best sci-fi and space games of 2025, ranked](https://www.space.com/entertainment/space-games/the-best-sci-fi-and-space-games-of-2025-ranked)
 - [Longtime United Launch Alliance CEO Tory Bruno resigns from space company. &#39;Finished the mission I came to do.&#39;](https://www.space.com/space-exploration/longtime-united-launch-alliance-ceo-tory-bruno-resigns-from-space-company-finished-the-mission-i-came-to-do)
-- [Treat yourself: The best smart glasses to buy with your holiday gift money](https://techcrunch.com/2025/12/26/treat-yourself-the-best-smart-glasses-to-buy-with-your-holiday-gift-money/)
-- [The 9 top cybersecurity startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/26/the-9-top-cybersecurity-startups-from-disrupt-startup-battlefield/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
