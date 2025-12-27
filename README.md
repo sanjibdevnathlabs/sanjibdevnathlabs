@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [What is a Passkey? - Computerphile](https://www.youtube.com/watch?v=xYfiOnufBSk)
+- [Ethernet is DEAD?? Mac Studio is 100x FASTER!!](https://www.youtube.com/watch?v=bFgTxr5yst0)
 - [Gen AI &amp; Reinforcement Learning- Computerphile](https://www.youtube.com/watch?v=LHsgtcNNM0A)
-- [Procedural Generation in Games - Computerphile](https://www.youtube.com/watch?v=G6ZHUOSXZDo)
-- [The Hard Problem of Controlling Powerful AI Systems - Computerphile](https://www.youtube.com/watch?v=JAcwtV_bFp4)
-- [Code Optimisation via Memoization - Computerphile](https://www.youtube.com/watch?v=JXUOMsFBDXQ)
+- [n8n + Claude Code Is TOO Powerful](https://www.youtube.com/shorts/p4M50NgC9qU)
+- [Lecture 16: Data Compression and Shannon’s Noiseless Coding Theorem](https://www.youtube.com/watch?v=4OpiI5NLjIE)
 <!-- YOUTUBE:END -->
 
 ---
