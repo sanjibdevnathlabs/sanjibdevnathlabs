@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space.com headlines crossword quiz for week of Dec. 22, 2025: Which NASA observatory just completed its first sky map?](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-dec-22-2025-which-nasa-observatory-just-completed-its-first-sky-map)
 - [The 22 top clean tech and energy startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/27/the-22-top-clean-tech-and-energy-startups-from-disrupt-startup-battlefield/)
 - [NY Governor Hochul signs bill requiring warning labels on ‘addictive’ social media](https://techcrunch.com/2025/12/27/ny-governor-hochul-signs-bill-requiring-warning-labels-on-addictive-social-media/)
 - [The 7 top space and defense tech startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/27/the-7-top-space-and-defense-tech-startups-from-disrupt-startup-battlefield/)
 - [Space debris: will it take a catastrophe for nations to take the issue seriously?](https://www.space.com/space-exploration/space-debris-will-it-take-a-catastrophe-for-nations-to-take-the-issue-seriously)
-- [The best sci-fi movies of 2025. ranked](https://www.space.com/entertainment/space-movies-shows/the-best-sci-fi-movies-of-2025-ranked)
 <!-- BLOG-POST-LIST:END -->
 
 ---
