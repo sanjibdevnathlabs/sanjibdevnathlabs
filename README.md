@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 12 biggest space stories of 2025 — according to you](https://www.space.com/space-exploration/the-12-biggest-space-stories-of-2025-according-to-you)
 - [How reality crushed Ÿnsect, the French startup that had raised over $600M for insect farming](https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/)
 - [Dark matter may be made of pieces of giant, exotic objects — and astronomers think they know how to look for them](https://www.space.com/astronomy/dark-universe/dark-matter-may-be-made-of-pieces-of-giant-exotic-objects-and-astronomers-think-they-know-how-to-look-for-them)
 - [As people look for ways to make new friends, here are the apps promising to help](https://techcrunch.com/2025/12/26/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/)
 - [Most normal matter in the universe isn&#39;t found in planets, stars or galaxies – an astronomer explains where it&#39;s distributed](https://www.space.com/astronomy/most-normal-matter-in-the-universe-isnt-found-in-planets-stars-or-galaxies-an-astronomer-explains-where-its-distributed)
-- [What’s ahead for startups and VCs in 2026? Investors weigh in](https://techcrunch.com/2025/12/26/whats-ahead-for-startups-and-vcs-in-2026-investors-weigh-in/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
