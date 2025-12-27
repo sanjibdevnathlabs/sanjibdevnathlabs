@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump administration seeks to deport hate speech researcher previously sued by X](https://techcrunch.com/2025/12/27/trump-administration-seeks-to-deport-hate-speech-researcher-previously-sued-by-x/)
 - [Investors share what to remember while raising a Series A](https://techcrunch.com/2025/12/27/investors-share-what-to-remember-while-raising-a-series-a/)
 - [Meet the team that investigates when journalists and activists get hacked with government spyware](https://techcrunch.com/2025/12/27/meet-the-team-that-investigates-when-journalists-and-activists-get-hacked-with-government-spyware/)
 - [Space.com headlines crossword quiz for week of Dec. 22, 2025: Which NASA observatory just completed its first sky map?](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-dec-22-2025-which-nasa-observatory-just-completed-its-first-sky-map)
 - [The 22 top clean tech and energy startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/27/the-22-top-clean-tech-and-energy-startups-from-disrupt-startup-battlefield/)
-- [NY Governor Hochul signs bill requiring warning labels on ‘addictive’ social media](https://techcrunch.com/2025/12/27/ny-governor-hochul-signs-bill-requiring-warning-labels-on-addictive-social-media/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
