@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI is looking for a new Head of Preparedness](https://techcrunch.com/2025/12/28/openai-is-looking-for-a-new-head-of-preparedness/)
+- [The 14 fintech, real estate, proptech startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/28/the-14-fintech-real-estate-proptech-startups-from-disrupt-startup-battlefield/)
+- [Event horizon hunt: A black hole word search](https://www.space.com/astronomy/black-holes/event-horizon-hunt-a-black-hole-word-search)
 - [Our favorite Space.com stories of 2025](https://www.space.com/space-exploration/our-favorite-space-com-stories-of-2025)
 - [The top astronomical discoveries of 2025](https://www.space.com/astronomy/the-top-astronomical-discoveries-of-2025)
-- [Best Apple Watch apps for boosting your productivity](https://techcrunch.com/2025/12/27/best-apple-watch-apps-for-boosting-your-productivity/)
-- [India startup funding hits $11B in 2025 as investors grow more selective](https://techcrunch.com/2025/12/27/india-startup-funding-hits-11b-in-2025-as-investors-grow-more-selective/)
-- [Lego U.S.S. Enterprise NCC-1701-D review](https://www.space.com/entertainment/space-toys-lego/lego-u-s-s-enterprise-ncc-1701-d-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
