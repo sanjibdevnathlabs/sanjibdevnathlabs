@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MayimFlow wants to stop data center leaks before they happen](https://techcrunch.com/2025/12/28/mayimflow-wants-to-stop-data-center-leaks-before-they-happen/)
 - [The 33 top health and wellness startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/28/the-33-top-health-and-wellness-startups-from-disrupt-startup-battlefield/)
 - [The Google Pixel Watch 4 made me like smartwatches again](https://techcrunch.com/2025/12/28/the-google-pixel-watch-4-made-me-like-smartwatches-again/)
 - [Lower-cost space missions like NASA&#39;s ESCAPADE are starting to deliver exciting science – but at a price in risk and trade‑offs](https://www.space.com/space-exploration/missions/lower-cost-space-missions-like-nasas-escapade-are-starting-to-deliver-exciting-science-but-at-a-price-in-risk-and-trade-offs)
 - [OpenAI is looking for a new Head of Preparedness](https://techcrunch.com/2025/12/28/openai-is-looking-for-a-new-head-of-preparedness/)
-- [The 14 fintech, real estate, proptech startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/28/the-14-fintech-real-estate-proptech-startups-from-disrupt-startup-battlefield/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
