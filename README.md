@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Our favorite Space.com stories of 2025](https://www.space.com/space-exploration/our-favorite-space-com-stories-of-2025)
 - [The top astronomical discoveries of 2025](https://www.space.com/astronomy/the-top-astronomical-discoveries-of-2025)
 - [Best Apple Watch apps for boosting your productivity](https://techcrunch.com/2025/12/27/best-apple-watch-apps-for-boosting-your-productivity/)
 - [India startup funding hits $11B in 2025 as investors grow more selective](https://techcrunch.com/2025/12/27/india-startup-funding-hits-11b-in-2025-as-investors-grow-more-selective/)
 - [Lego U.S.S. Enterprise NCC-1701-D review](https://www.space.com/entertainment/space-toys-lego/lego-u-s-s-enterprise-ncc-1701-d-review)
-- [FaZe Clan’s future is uncertain after influencers depart](https://techcrunch.com/2025/12/27/faze-clans-future-is-uncertain-after-influencers-depart/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
