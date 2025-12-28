@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Police charge driver who allegedly killed a pedestrian while livestreaming on TikTok](https://techcrunch.com/2025/12/28/police-charge-driver-who-allegedly-killed-a-pedestrian-while-livestreaming-on-tiktok/)
+- [You may soon be able to change your Gmail address](https://techcrunch.com/2025/12/28/you-may-soon-be-able-to-change-your-gmail-address/)
 - [The best sci-fi Blu-rays to own: Beat the streaming subscriptions](https://www.space.com/entertainment/space-movies-shows/the-best-sci-fi-blu-rays-to-own-beat-the-streaming-subscriptions)
 - [A guide to choosing the right Apple Watch](https://techcrunch.com/2025/12/28/is-the-apple-watch-se-3-a-good-deal/)
 - [Why WeTransfer’s co-founder is building another file transfer service](https://techcrunch.com/2025/12/28/why-wetransfer-co-founder-is-building-another-file-transfer-service/)
-- [MayimFlow wants to stop data center leaks before they happen](https://techcrunch.com/2025/12/28/mayimflow-wants-to-stop-data-center-leaks-before-they-happen/)
-- [The 33 top health and wellness startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/28/the-33-top-health-and-wellness-startups-from-disrupt-startup-battlefield/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
