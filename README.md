@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Celestis books Stoke Space rocket for 2nd-ever deep space memorial flight for human remains](https://www.space.com/space-exploration/celestis-books-stoke-space-rocket-for-2nd-ever-deep-space-memorial-flight-for-human-remains)
 - [How to make your startup stand out in a crowded market, according to investors](https://techcrunch.com/2025/12/29/vcs-spill-what-they-really-want-to-hear-in-a-founder-pitch/)
 - [10 most expensive Lego Marvel sets on the market right now](https://www.space.com/entertainment/space-toys-lego/10-most-expensive-lego-marvel-sets-available-right-now)
 - [Social media follower counts have never mattered less, creator economy execs say](https://techcrunch.com/2025/12/29/social-media-follower-counts-have-never-mattered-less-creator-economy-execs-say/)
 - [2025 was the year AI got a vibe check](https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/)
-- [Flat Earth, spirits and conspiracy theories — experience can shape even extraordinary beliefs](https://www.space.com/astronomy/earth/flat-earth-spirits-and-conspiracy-theories-experience-can-shape-even-extraordinary-beliefs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
