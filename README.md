@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2025 was the year AI got a vibe check](https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/)
+- [Flat Earth, spirits and conspiracy theories — experience can shape even extraordinary beliefs](https://www.space.com/astronomy/earth/flat-earth-spirits-and-conspiracy-theories-experience-can-shape-even-extraordinary-beliefs)
 - [Plaud Note Pro is an excellent AI-powered recorder that I carry everywhere](https://techcrunch.com/2025/12/29/plaud-note-pro-is-an-excellent-ai-powered-recorder-that-i-carry-everywhere/)
 - [Iran says it launched 3 satellites to space on Russian rocket: report](https://www.space.com/space-exploration/launches-spacecraft/iran-says-it-launched-3-satellites-to-space-on-russian-rocket-report)
 - [Why the electrical grid needs more software](https://techcrunch.com/2025/12/29/why-the-electrical-grid-needs-more-software/)
-- [How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others](https://techcrunch.com/2025/12/29/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/)
-- [12 times rockets and spacecraft crashed and burned in 2025](https://www.space.com/space-exploration/launches-spacecraft/11-times-rockets-and-spacecraft-crashed-and-burned-in-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
