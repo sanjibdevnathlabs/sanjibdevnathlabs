@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Add a REAL Desk Phone to the Cloud in 60 Seconds &lpar;FREE&rpar;](https://www.youtube.com/shorts/_3pW7mkKTDk)
+- [From Non IT to Lead DevOps Engineer | The Exact Roadmap](https://www.youtube.com/watch?v=YTIvpuV6I20)
 - [What is a Passkey? - Computerphile](https://www.youtube.com/watch?v=xYfiOnufBSk)
 - [Ethernet is DEAD?? Mac Studio is 100x FASTER!!](https://www.youtube.com/watch?v=bFgTxr5yst0)
 - [Gen AI &amp; Reinforcement Learning- Computerphile](https://www.youtube.com/watch?v=LHsgtcNNM0A)
-- [n8n + Claude Code Is TOO Powerful](https://www.youtube.com/shorts/p4M50NgC9qU)
-- [Lecture 16: Data Compression and Shannon’s Noiseless Coding Theorem](https://www.youtube.com/watch?v=4OpiI5NLjIE)
 <!-- YOUTUBE:END -->
 
 ---
