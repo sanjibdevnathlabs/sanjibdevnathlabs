@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung plans to bring Google Photos to its TVs in 2026](https://techcrunch.com/2025/12/29/samsung-plans-to-bring-google-photos-to-its-tvs-in-2026/)
+- [VCs predict strong enterprise AI adoption next year — again](https://techcrunch.com/2025/12/29/vcs-predict-strong-enterprise-ai-adoption-next-year-again/)
 - [Does physics say that free will doesn&#39;t exist?](https://www.space.com/science/particle-physics/does-physics-say-that-free-will-doesnt-exist)
 - [13 must-see moon events in 2026: Eclipses, supermoons, conjunctions and more](https://www.space.com/stargazing/13-must-see-moon-events-in-2026-eclipses-supermoons-conjunctions-and-more)
 - [You’ve been targeted by government spyware. Now what?](https://techcrunch.com/2025/12/29/youve-been-targeted-by-government-spyware-now-what/)
-- [Fujifilm GFX 100S II review](https://www.space.com/stargazing/skywatching-kit/fujifilm-gfx-100s-ii-review)
-- [Sauron, the high-end home security startup for “super premium” customers, plucks a new CEO out of Sonos](https://techcrunch.com/2025/12/28/from-sonos-to-sauron-new-ceo-takes-on-high-end-home-security-startup-still-in-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
