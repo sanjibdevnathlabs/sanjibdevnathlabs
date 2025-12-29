@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [OpenAI was dead… Then GPT-5.2 dropped](https://www.youtube.com/watch?v=rEvEXQvo-F8)
-- [React.js shell shocked by 10.0 critical vulnerability…](https://www.youtube.com/watch?v=QLK9G5zyU-Q)
-- [Anthropic just bought your favorite JS runtime...](https://www.youtube.com/watch?v=5JMiNsV7P3Y)
-- [AI agents are paying each other now…](https://www.youtube.com/watch?v=S6wc6yvoZLY)
-- [Did Google just kill OpenAI?](https://www.youtube.com/watch?v=bsL7ZnKIAhs)
+- [What is a Passkey? - Computerphile](https://www.youtube.com/watch?v=xYfiOnufBSk)
+- [Ethernet is DEAD?? Mac Studio is 100x FASTER!!](https://www.youtube.com/watch?v=bFgTxr5yst0)
+- [Gen AI &amp; Reinforcement Learning- Computerphile](https://www.youtube.com/watch?v=LHsgtcNNM0A)
+- [n8n + Claude Code Is TOO Powerful](https://www.youtube.com/shorts/p4M50NgC9qU)
+- [Lecture 16: Data Compression and Shannon’s Noiseless Coding Theorem](https://www.youtube.com/watch?v=4OpiI5NLjIE)
 <!-- YOUTUBE:END -->
 
 ---
