@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 32 top enterprise tech startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/29/the-32-top-enterprise-tech-startups-from-disrupt-startup-battlefield/)
+- [ISS astronaut snaps stunning nighttime photo of Florida and Cuba | Space photo of the day for Dec. 29, 2025](https://www.space.com/astronomy/earth/iss-astronaut-snaps-stunning-nighttime-photo-of-florida-and-cuba-space-photo-of-the-day-for-dec-29-2025)
 - [Samsung plans to bring Google Photos to its TVs in 2026](https://techcrunch.com/2025/12/29/samsung-plans-to-bring-google-photos-to-its-tvs-in-2026/)
 - [VCs predict strong enterprise AI adoption next year — again](https://techcrunch.com/2025/12/29/vcs-predict-strong-enterprise-ai-adoption-next-year-again/)
 - [Does physics say that free will doesn&#39;t exist?](https://www.space.com/science/particle-physics/does-physics-say-that-free-will-doesnt-exist)
-- [13 must-see moon events in 2026: Eclipses, supermoons, conjunctions and more](https://www.space.com/stargazing/13-must-see-moon-events-in-2026-eclipses-supermoons-conjunctions-and-more)
-- [You’ve been targeted by government spyware. Now what?](https://techcrunch.com/2025/12/29/youve-been-targeted-by-government-spyware-now-what/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
