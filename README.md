@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best AI-powered dictation apps of 2025](https://techcrunch.com/2025/12/30/the-best-ai-powered-dictation-apps-of-2025/)
+- [VCs predict enterprises will spend more on AI in 2026 — through fewer vendors](https://techcrunch.com/2025/12/30/vcs-predict-enterprises-will-spend-more-on-ai-in-2026-through-fewer-vendors/)
 - [The top 26 consumer/edtech companies from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/30/the-top-26-consumer-edtech-companies-from-disrupt-startup-battlefield/)
 - [Golden satellite insulation sparkles during test | Space photo of the day for Dec. 30, 2025](https://www.space.com/space-exploration/satellites/golden-satellite-insulation-sparkles-during-test-space-photo-of-the-day-for-dec-30-2025)
 - [Here’s what you should know about the US TikTok deal](https://techcrunch.com/2025/12/30/heres-whats-you-should-know-about-the-us-tiktok-deal/)
-- [How NASA changed in 2025 — possibly forever](https://www.space.com/space-exploration/how-nasa-changed-in-2025-possibly-forever)
-- [Our 10 favorite Space.com reader photos of 2025](https://www.space.com/stargazing/astrophotography/our-10-favorite-space-com-reader-photos-of-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
