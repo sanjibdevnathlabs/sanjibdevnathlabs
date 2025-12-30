@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here’s what you should know about the US TikTok deal](https://techcrunch.com/2025/12/30/heres-whats-you-should-know-about-the-us-tiktok-deal/)
 - [How NASA changed in 2025 — possibly forever](https://www.space.com/space-exploration/how-nasa-changed-in-2025-possibly-forever)
 - [Our 10 favorite Space.com reader photos of 2025](https://www.space.com/stargazing/astrophotography/our-10-favorite-space-com-reader-photos-of-2025)
 - [Meta just bought Manus, an AI startup everyone has been talking about](https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/)
 - [Celestis books Stoke Space rocket for 2nd-ever deep space memorial flight for human remains](https://www.space.com/space-exploration/celestis-books-stoke-space-rocket-for-2nd-ever-deep-space-memorial-flight-for-human-remains)
-- [How to make your startup stand out in a crowded market, according to investors](https://techcrunch.com/2025/12/29/vcs-spill-what-they-really-want-to-hear-in-a-founder-pitch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
