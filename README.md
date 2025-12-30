@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Govee Galaxy Light Projector 2 Pro review](https://www.space.com/technology/govee-galaxy-light-projector-2-pro-review)
+- [Almost 80 European deep tech university spinouts reached $1B valuations or $100M in revenue in 2025](https://techcrunch.com/2025/12/30/76-european-deep-tech-university-spinouts-reached-unicorn-or-centaur-status/)
 - [Artemis 2 moon astronauts rehearse for launch day &lpar;photos&rpar;](https://www.space.com/space-exploration/artemis/artemis-2-moon-astronauts-rehearse-for-launch-day-photos)
 - [12 investors dish on what 2026 will bring for climate tech](https://techcrunch.com/2025/12/30/12-investors-dish-on-what-2026-will-bring-for-climate-tech/)
 - [What constellation am I? A starry personality quiz](https://www.space.com/stargazing/constellations/what-constellation-am-i-a-starry-personality-quiz)
-- [The best AI-powered dictation apps of 2025](https://techcrunch.com/2025/12/30/the-best-ai-powered-dictation-apps-of-2025/)
-- [VCs predict enterprises will spend more on AI in 2026 — through fewer vendors](https://techcrunch.com/2025/12/30/vcs-predict-enterprises-will-spend-more-on-ai-in-2026-through-fewer-vendors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
