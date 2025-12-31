@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Every fusion startup that has raised over $100M](https://techcrunch.com/2025/12/31/every-fusion-startup-that-has-raised-over-100m/)
+- [The 10 top government, legal startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/31/the-10-top-government-legal-startups-from-disrupt-startup-battlefield/)
+- [Big Bear glows with big stars | Space photo of the day for Dec. 31, 2025](https://www.space.com/astronomy/galaxies/big-bear-glows-with-big-stars-space-photo-of-the-day-for-dec-31-2025)
 - [The dumbest things that happened in tech this year](https://techcrunch.com/2025/12/31/the-dumbest-things-that-happened-in-tech-this-year/)
 - [SpaceX shatters its rocket launch record yet again — 167 orbital flights in 2025](https://www.space.com/space-exploration/private-spaceflight/spacex-shatters-its-rocket-launch-record-yet-again-167-orbital-flights-in-2025)
-- [New Year&#39;s Eve sky: Here&#39;s what to look out for on the final night of 2025](https://www.space.com/stargazing/new-years-eve-sky-heres-what-to-look-out-for-on-the-final-night-of-2025)
-- [The phone is dead. Long live . . . what exactly?](https://techcrunch.com/2025/12/30/the-phone-is-dead-long-live-what-exactly/)
-- [Space debris led to an orbital emergency in 2025. Will anything change?](https://www.space.com/space-exploration/launches-spacecraft/space-debris-led-to-an-orbital-emergency-in-2025-will-anything-change)
 <!-- BLOG-POST-LIST:END -->
 
 ---
