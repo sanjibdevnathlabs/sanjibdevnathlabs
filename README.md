@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Upcoming sci-fi movies in 2026: 10 good reasons to head to theaters next year](https://www.space.com/entertainment/space-movies-shows/upcoming-sci-fi-movies-in-2026-10-good-reasons-to-head-to-theaters-this-year)
 - [Lego Icons Shuttle Carrier Aircraft review](https://www.space.com/entertainment/lego-icons-shuttle-carrier-aircraft-review)
 - [NASA chief Jared Isaacman says Texas may get a moonship, not space shuttle Discovery](https://www.space.com/space-exploration/nasa-chief-jared-isaacman-says-texas-may-get-a-moonship-not-space-shuttle-discovery)
 - [The race to mine the moon is on – and it urgently needs some clear international rules](https://www.space.com/astronomy/moon/the-race-to-mine-the-moon-is-on-and-it-urgently-needs-some-clear-international-rules)
 - [Investors predict AI is coming for labor in 2026](https://techcrunch.com/2025/12/31/investors-predict-ai-is-coming-for-labor-in-2026/)
-- [Former United Launch Alliance CEO Tory Bruno joins competitor Blue Origin for national security projects](https://www.space.com/space-exploration/former-united-launch-alliance-ceo-tory-bruno-joins-competitor-blue-origin-for-national-security-projects)
 <!-- BLOG-POST-LIST:END -->
 
 ---
