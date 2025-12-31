@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These are the best gadgets for your pet right now](https://techcrunch.com/2025/12/31/these-are-the-best-gadgets-for-your-pet-right-now/)
+- [Tade Oyerinde and Teddy Solomon talk about building engaged audiences at TechCrunch Disrupt](https://techcrunch.com/2025/12/31/tade-oyerinde-and-teddy-solomon-talk-about-building-engaged-audiences-at-techcrunch-disrupt/)
 - [Every fusion startup that has raised over $100M](https://techcrunch.com/2025/12/31/every-fusion-startup-that-has-raised-over-100m/)
 - [The 10 top government, legal startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/31/the-10-top-government-legal-startups-from-disrupt-startup-battlefield/)
 - [Big Bear glows with big stars | Space photo of the day for Dec. 31, 2025](https://www.space.com/astronomy/galaxies/big-bear-glows-with-big-stars-space-photo-of-the-day-for-dec-31-2025)
-- [The dumbest things that happened in tech this year](https://techcrunch.com/2025/12/31/the-dumbest-things-that-happened-in-tech-this-year/)
-- [SpaceX shatters its rocket launch record yet again — 167 orbital flights in 2025](https://www.space.com/space-exploration/private-spaceflight/spacex-shatters-its-rocket-launch-record-yet-again-167-orbital-flights-in-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
