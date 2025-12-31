@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The dumbest things that happened in tech this year](https://techcrunch.com/2025/12/31/the-dumbest-things-that-happened-in-tech-this-year/)
+- [SpaceX shatters its rocket launch record yet again — 167 orbital flights in 2025](https://www.space.com/space-exploration/private-spaceflight/spacex-shatters-its-rocket-launch-record-yet-again-167-orbital-flights-in-2025)
 - [New Year&#39;s Eve sky: Here&#39;s what to look out for on the final night of 2025](https://www.space.com/stargazing/new-years-eve-sky-heres-what-to-look-out-for-on-the-final-night-of-2025)
 - [The phone is dead. Long live . . . what exactly?](https://techcrunch.com/2025/12/30/the-phone-is-dead-long-live-what-exactly/)
 - [Space debris led to an orbital emergency in 2025. Will anything change?](https://www.space.com/space-exploration/launches-spacecraft/space-debris-led-to-an-orbital-emergency-in-2025-will-anything-change)
-- [Govee Galaxy Light Projector 2 Pro review](https://www.space.com/technology/govee-galaxy-light-projector-2-pro-review)
-- [Almost 80 European deep tech university spinouts reached $1B valuations or $100M in revenue in 2025](https://techcrunch.com/2025/12/30/76-european-deep-tech-university-spinouts-reached-unicorn-or-centaur-status/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
