@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moon landings, asteroid missions and new telescopes: Here are the top spaceflight moments to look forward to in 2026](https://www.space.com/space-exploration/moon-landings-asteroid-missions-and-new-telescopes-here-are-the-top-spaceflight-moments-to-look-forward-to-in-2026)
 - [The top 6 media/entertainment startups from Disrupt Startup Battlefield](https://techcrunch.com/2026/01/01/the-top-6-media-entertainment-startups-from-disrupt-startup-battlefield/)
 - [15 skywatching events you won&#39;t want to miss in 2026](https://www.space.com/stargazing/15-skywatching-events-you-wont-want-to-miss-in-2026)
 - [Space Force shows off snowy new Alaska radar post | Space photo of the day for Jan. 1, 2026](https://www.space.com/astronomy/earth/space-force-shows-off-snowy-new-alaska-radar-post-space-photo-of-the-day-for-jan-1-2026)
 - [Fizz social app’s CEO on why anon works](https://techcrunch.com/video/fizz-social-apps-ceo-on-why-anon-works/)
-- [What to expect from the planets in 2026 — key dates and sky events](https://www.space.com/stargazing/what-to-expect-from-the-planets-in-2026-key-dates-and-sky-events)
 <!-- BLOG-POST-LIST:END -->
 
 ---
