@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Lecture 16: Data Compression and Shannon’s Noiseless Coding Theorem](https://www.youtube.com/watch?v=4OpiI5NLjIE)
-- [Lecture 7: Generating Functions for Catalan Numbers](https://www.youtube.com/watch?v=JNSyyOAeMOc)
-- [Lecture 3: Inclusion-Exclusion](https://www.youtube.com/watch?v=cqPcQ3QqYnE)
-- [Lecture 17: Huffman Coding](https://www.youtube.com/watch?v=zZN1A0Ufb8E)
-- [Lecture 11: Basic Group Theory](https://www.youtube.com/watch?v=hUtdHAeyY6Y)
+- [The Return of Festive Flashing Lights - Computerphile](https://www.youtube.com/watch?v=skmqR_VMECQ)
+- [Add a REAL Desk Phone to the Cloud in 60 Seconds &lpar;FREE&rpar;](https://www.youtube.com/shorts/_3pW7mkKTDk)
+- [From Non IT to Lead DevOps Engineer | The Exact Roadmap](https://www.youtube.com/watch?v=YTIvpuV6I20)
+- [What is a Passkey? - Computerphile](https://www.youtube.com/watch?v=xYfiOnufBSk)
+- [Ethernet is DEAD?? Mac Studio is 100x FASTER!!](https://www.youtube.com/watch?v=bFgTxr5yst0)
 <!-- YOUTUBE:END -->
 
 ---
