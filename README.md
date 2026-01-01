@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Playmobil versus Lego: Which is the best USS Enterprise set?](https://www.space.com/entertainment/space-toys-lego/playmobil-versus-lego-which-is-the-best-uss-enterprise-set)
+- [A beginner’s guide to Mastodon, the open source Twitter alternative](https://techcrunch.com/2026/01/01/what-is-mastodon/)
+- [European banks plan to cut 200,000 jobs as AI takes hold](https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/)
 - [Nebula nights: Award-winning sci-fi literature through the ages](https://www.space.com/entertainment/space-books/nebula-nights-award-winning-sci-fi-literature-through-the-ages)
 - [OpenAI bets big on audio as Silicon Valley declares war on screens](https://techcrunch.com/2026/01/01/openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens/)
-- [Moon landings, asteroid missions and new telescopes: Here are the top spaceflight moments to look forward to in 2026](https://www.space.com/space-exploration/moon-landings-asteroid-missions-and-new-telescopes-here-are-the-top-spaceflight-moments-to-look-forward-to-in-2026)
-- [The top 6 media/entertainment startups from Disrupt Startup Battlefield](https://techcrunch.com/2026/01/01/the-top-6-media-entertainment-startups-from-disrupt-startup-battlefield/)
-- [15 skywatching events you won&#39;t want to miss in 2026](https://www.space.com/stargazing/15-skywatching-events-you-wont-want-to-miss-in-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
