@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space Force shows off snowy new Alaska radar post | Space photo of the day for Jan. 1, 2026](https://www.space.com/astronomy/earth/space-force-shows-off-snowy-new-alaska-radar-post-space-photo-of-the-day-for-jan-1-2026)
 - [Fizz social app’s CEO on why anon works](https://techcrunch.com/video/fizz-social-apps-ceo-on-why-anon-works/)
 - [What to expect from the planets in 2026 — key dates and sky events](https://www.space.com/stargazing/what-to-expect-from-the-planets-in-2026-key-dates-and-sky-events)
 - [Are image-stabilized binoculars good for stargazing?](https://www.space.com/stargazing/are-image-stabilized-binoculars-good-for-stargazing)
 - [‘College dropout’ has become the most coveted startup founder credential](https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-startup-founder-credential/)
-- [Scientists are getting our robotic explorers ready to help send humans to Mars](https://www.space.com/space-exploration/human-spaceflight/scientists-are-getting-our-robotic-explorers-ready-to-help-send-humans-to-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
