@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘College dropout’ has become the most coveted startup founder credential](https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-startup-founder-credential/)
 - [Scientists are getting our robotic explorers ready to help send humans to Mars](https://www.space.com/space-exploration/human-spaceflight/scientists-are-getting-our-robotic-explorers-ready-to-help-send-humans-to-mars)
 - [Lego Star Wars 2025: A year in review](https://www.space.com/entertainment/space-toys-lego/lego-star-wars-2025-a-year-in-review)
 - [Upcoming sci-fi movies in 2026: 10 good reasons to head to theaters next year](https://www.space.com/entertainment/space-movies-shows/upcoming-sci-fi-movies-in-2026-10-good-reasons-to-head-to-theaters-this-year)
 - [Lego Icons Shuttle Carrier Aircraft review](https://www.space.com/entertainment/lego-icons-shuttle-carrier-aircraft-review)
-- [NASA chief Jared Isaacman says Texas may get a moonship, not space shuttle Discovery](https://www.space.com/space-exploration/nasa-chief-jared-isaacman-says-texas-may-get-a-moonship-not-space-shuttle-discovery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
