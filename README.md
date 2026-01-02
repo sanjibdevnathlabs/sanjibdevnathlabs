@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 16 top logistics, manufacturing, materials startups from Disrupt Startup Battlefield](https://techcrunch.com/2026/01/02/the-16-top-logistics-manufacturing-materials-startups-from-disrupt-startup-battlefield/)
+- [Pebble reboots its thinnest smartwatch with the Pebble Round 2](https://techcrunch.com/2026/01/02/pebble-reboots-its-thinnest-smartwatch-with-the-pebble-round-2/)
+- [Astronomers detect rare &#39;free floating&#39; exoplanet 10,000 light-years from Earth](https://www.space.com/astronomy/exoplanets/astronomers-detect-rare-free-floating-exoplanet-10-000-light-years-from-earth)
+- [In 2026, AI will move from hype to pragmatism](https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/)
 - [Nature carves colossal snowman in Siberia | Space photo of the day for Jan. 2, 2026](https://www.space.com/astronomy/earth/nature-carves-colossal-snowman-in-siberia-space-photo-of-the-day-for-jan-2-2026)
-- [Clicks debuts its own take on the BlackBerry smartphone, plus a $79 snap-on mobile keyboard](https://techcrunch.com/2026/01/02/clicks-debuts-its-own-take-on-the-blackberry-smartphone-plus-a-79-snap-on-mobile-keyboard/)
-- [Will Comet C/2025 R3 &lpar;PanSTARRS&rpar; be the &#39;great comet&#39; of 2026?](https://www.space.com/astronomy/comets/will-comet-c-2025-r3-panstarrs-be-the-great-comet-of-2026)
-- [Even as global crop prices fall, India’s Arya.ag is attracting investors — and staying profitable](https://techcrunch.com/2026/01/01/even-as-global-crop-prices-fall-indias-arya-ag-is-attracting-investors-and-staying-profitable/)
-- [A guide to choosing the right Apple Watch](https://techcrunch.com/2026/01/01/is-the-apple-watch-se-3-a-good-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
