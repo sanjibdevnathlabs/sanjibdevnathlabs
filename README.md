@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [16 upcoming sci-fi shows to be excited for in 2026](https://www.space.com/entertainment/space-movies-shows/16-upcoming-sci-fi-shows-to-be-excited-for-in-2026)
+- [India orders Musk’s X to fix Grok over “obscene” AI content](https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/)
 - [10 useful gadgets for your first apartment](https://techcrunch.com/2026/01/02/10-useful-gadgets-for-your-first-apartment/)
 - [2026 is the year humanity will finally go back to the moon](https://www.space.com/space-exploration/artemis/2026-is-the-year-humanity-will-finally-go-back-to-the-moon)
 - [Tesla annual sales decline 9% as it’s overtaken by BYD as global EV leader](https://techcrunch.com/2026/01/02/tesla-annual-sales-decline-9-as-its-overtaken-by-byd-as-global-ev-leader/)
-- [Northern lights may be visible in 18 states tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-18-states-tonight)
-- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2026/01/02/nvidias-ai-empire-a-look-at-its-top-startup-investments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
