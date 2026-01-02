@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Even as global crop prices fall, India’s Arya.ag is attracting investors — and staying profitable](https://techcrunch.com/2026/01/01/even-as-global-crop-prices-fall-indias-arya-ag-is-attracting-investors-and-staying-profitable/)
 - [A guide to choosing the right Apple Watch](https://techcrunch.com/2026/01/01/is-the-apple-watch-se-3-a-good-deal/)
 - [One of the best meteor showers of the year peaks at the worst possible time this week](https://www.space.com/stargazing/meteor-showers/one-of-the-best-meteor-showers-of-the-year-peaks-at-the-worst-possible-time-this-week)
 - [Playmobil versus Lego: Which is the best USS Enterprise set?](https://www.space.com/entertainment/space-toys-lego/playmobil-versus-lego-which-is-the-best-uss-enterprise-set)
 - [A beginner’s guide to Mastodon, the open source Twitter alternative](https://techcrunch.com/2026/01/01/what-is-mastodon/)
-- [European banks plan to cut 200,000 jobs as AI takes hold](https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
