@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Do Computer Scientists Prefer Tea or Coffee? &lpar;Microphone Sound Check Question 2025&rpar;  - Computerphile](https://www.youtube.com/watch?v=rV2h4Tso46Y)
 - [The Return of Festive Flashing Lights - Computerphile](https://www.youtube.com/watch?v=skmqR_VMECQ)
 - [Add a REAL Desk Phone to the Cloud in 60 Seconds &lpar;FREE&rpar;](https://www.youtube.com/shorts/_3pW7mkKTDk)
 - [From Non IT to Lead DevOps Engineer | The Exact Roadmap](https://www.youtube.com/watch?v=YTIvpuV6I20)
 - [What is a Passkey? - Computerphile](https://www.youtube.com/watch?v=xYfiOnufBSk)
-- [Ethernet is DEAD?? Mac Studio is 100x FASTER!!](https://www.youtube.com/watch?v=bFgTxr5yst0)
 <!-- YOUTUBE:END -->
 
 ---
