@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space.com headlines crossword quiz for week of Dec. 29, 2025: Which meteor shower peaks in early January?](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-dec-29-2025-which-meteor-shower-peaks-in-early-january)
 - [2025&#39;s extreme weather had the jet stream&#39;s fingerprints all over it, from flash floods to hurricanes](https://www.space.com/science/climate-change/2025s-extreme-weather-had-the-jet-streams-fingerprints-all-over-it-from-flash-floods-to-hurricanes)
 - [Can scientists detect life without knowing what it looks like? Research using machine learning offers a new way](https://www.space.com/space-exploration/search-for-life/can-scientists-detect-life-without-knowing-what-it-looks-like-research-using-machine-learning-offers-a-new-way)
 - [The largest sun of 2026 rises today as Earth draws closest to our parent star](https://www.space.com/stargazing/the-largest-sun-of-2026-rises-today-as-earth-draws-closest-to-our-parent-star)
 - [The Quadrantid meteor shower peaks tonight, but will the full &#39;Wolf Moon&#39; outshine the show?](https://www.space.com/stargazing/meteor-showers/the-quadrantid-meteor-shower-2026-peaks-tonight-but-will-the-full-wolf-moon-outshine-the-show)
-- [&#39;Star Trek&#39; warps into 2026 with epic &#39;Space For Everybody&#39; Rose Parade float](https://www.space.com/entertainment/star-trek-warps-into-2026-with-epic-space-for-everybody-rose-parade-float)
 <!-- BLOG-POST-LIST:END -->
 
 ---
