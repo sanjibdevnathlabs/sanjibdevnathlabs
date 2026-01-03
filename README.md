@@ -148,7 +148,7 @@ I'm a software developer passionate about designing and building applications wi
 <!-- BLOG-POST-LIST:START -->
 - [&#39;Star Trek&#39; warps into 2026 with epic &#39;Space For Everybody&#39; Rose Parade float](https://www.space.com/entertainment/star-trek-warps-into-2026-with-epic-space-for-everybody-rose-parade-float)
 - [Why do I need a VPN?](https://www.space.com/technology/why-do-i-need-a-vpn)
-- [Watch SpaceX launch the 1st mission of 2026 tonight](https://www.space.com/space-exploration/private-spaceflight/spacex-cosmo-skymed-second-generation-falcon-9-launch)
+- [SpaceX launches Italian Earth-observing satellite to orbit on the 1st mission of 2026](https://www.space.com/space-exploration/private-spaceflight/spacex-cosmo-skymed-second-generation-falcon-9-launch)
 - [SpaceX lowering orbits of 4,400 Starlink satellites for safety&#39;s sake](https://www.space.com/space-exploration/satellites/spacex-lowering-orbits-of-4-400-starlink-satellites-for-safetys-sake)
 - [16 upcoming sci-fi shows to be excited for in 2026](https://www.space.com/entertainment/space-movies-shows/16-upcoming-sci-fi-shows-to-be-excited-for-in-2026)
 <!-- BLOG-POST-LIST:END -->
