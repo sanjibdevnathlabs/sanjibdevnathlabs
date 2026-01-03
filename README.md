@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The largest sun of 2026 rises today as Earth draws closest to our parent star](https://www.space.com/stargazing/the-largest-sun-of-2026-rises-today-as-earth-draws-closest-to-our-parent-star)
 - [The Quadrantid meteor shower peaks tonight, but will the full &#39;Wolf Moon&#39; outshine the show?](https://www.space.com/stargazing/meteor-showers/the-quadrantid-meteor-shower-2026-peaks-tonight-but-will-the-full-wolf-moon-outshine-the-show)
 - [&#39;Star Trek&#39; warps into 2026 with epic &#39;Space For Everybody&#39; Rose Parade float](https://www.space.com/entertainment/star-trek-warps-into-2026-with-epic-space-for-everybody-rose-parade-float)
 - [Why do I need a VPN?](https://www.space.com/technology/why-do-i-need-a-vpn)
 - [SpaceX launches Italian Earth-observing satellite to orbit on the 1st mission of 2026](https://www.space.com/space-exploration/private-spaceflight/spacex-cosmo-skymed-second-generation-falcon-9-launch)
-- [SpaceX lowering orbits of 4,400 Starlink satellites for safety&#39;s sake](https://www.space.com/space-exploration/satellites/spacex-lowering-orbits-of-4-400-starlink-satellites-for-safetys-sake)
 <!-- BLOG-POST-LIST:END -->
 
 ---
