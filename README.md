@@ -138,7 +138,7 @@ I'm a software developer passionate about designing and building applications wi
 - [The Return of Festive Flashing Lights - Computerphile](https://www.youtube.com/watch?v=skmqR_VMECQ)
 - [Add a REAL Desk Phone to the Cloud in 60 Seconds &lpar;FREE&rpar;](https://www.youtube.com/shorts/_3pW7mkKTDk)
 - [From Non IT to Lead DevOps Engineer | The Exact Roadmap](https://www.youtube.com/watch?v=YTIvpuV6I20)
-- [What is a Passkey? - Computerphile](https://www.youtube.com/watch?v=xYfiOnufBSk)
+- [How Passkeys Work - Computerphile](https://www.youtube.com/watch?v=xYfiOnufBSk)
 <!-- YOUTUBE:END -->
 
 ---
