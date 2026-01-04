@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2026 begins a golden age of solar eclipses: How to see 3 total solar eclipses and 3 &#39;ring of fire&#39; eclipses in 3 years](https://www.space.com/stargazing/eclipses/2026-begins-a-golden-age-of-solar-eclipses-how-to-see-3-total-solar-eclipses-and-3-ring-of-fire-eclipses-in-3-years)
 - [Tech billionaires cashed out $16 billion in 2025 as stocks soared](https://techcrunch.com/2026/01/03/tech-billionaires-cashed-out-16-billion-in-2025-as-stocks-soared/)
 - [California residents can use new tool to demand brokers delete their personal data](https://techcrunch.com/2026/01/03/california-residents-can-use-new-tool-to-demand-brokers-delete-their-personal-data/)
 - [Bitfinex hacker Ilya Lichtenstein credits Trump for early release from prison](https://techcrunch.com/2026/01/03/bitfinex-hacker-ilya-lichtenstein-credits-trump-for-early-release-from-prison/)
 - [Space.com headlines crossword quiz for week of Dec. 29, 2025: Which meteor shower peaks in early January?](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-dec-29-2025-which-meteor-shower-peaks-in-early-january)
-- [2025&#39;s extreme weather had the jet stream&#39;s fingerprints all over it, from flash floods to hurricanes](https://www.space.com/science/climate-change/2025s-extreme-weather-had-the-jet-streams-fingerprints-all-over-it-from-flash-floods-to-hurricanes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
