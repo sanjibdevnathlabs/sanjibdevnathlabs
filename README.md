@@ -146,7 +146,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX launches 1st Starlink satellites of 2026 on new Falcon 9 rocket](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-88-b1101-ccsfs-jrti)
+- [SpaceX launches 1st Starlink satellites of 2026 on new Falcon 9 rocket &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-88-b1101-ccsfs-jrti)
 - [French and Malaysian authorities are investigating Grok for generating sexualized deepfakes](https://techcrunch.com/2026/01/04/french-and-malaysian-authorities-are-investigating-grok-for-generating-sexualized-deepfakes/)
 - [Plaud launches a new AI pin and a desktop meeting notetaker](https://techcrunch.com/2026/01/04/plaud-launches-a-new-ai-pin-and-a-desktop-meeting-notetaker/)
 - [The risk of falling space junk hitting airplanes is on the rise, experts warn](https://www.space.com/space-exploration/satellites/the-risk-of-falling-space-junk-hitting-airplanes-is-on-the-rise-experts-warn)
