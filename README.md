@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches 1st Starlink satellites of 2026 on new Falcon 9 rocket](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-88-b1101-ccsfs-jrti)
+- [French and Malaysian authorities are investigating Grok for generating sexualized deepfakes](https://techcrunch.com/2026/01/04/french-and-malaysian-authorities-are-investigating-grok-for-generating-sexualized-deepfakes/)
+- [Plaud launches a new AI pin and a desktop meeting notetaker](https://techcrunch.com/2026/01/04/plaud-launches-a-new-ai-pin-and-a-desktop-meeting-notetaker/)
 - [The risk of falling space junk hitting airplanes is on the rise, experts warn](https://www.space.com/space-exploration/satellites/the-risk-of-falling-space-junk-hitting-airplanes-is-on-the-rise-experts-warn)
 - [The next frontier in space is closer than you think – welcome to the world of very low Earth orbit satellites](https://www.space.com/space-exploration/satellites/the-next-frontier-in-space-is-closer-than-you-think-welcome-to-the-world-of-very-low-earth-orbit-satellites)
-- [Live long and loiter: Why NASA&#39;s ESCAPADE probes will wait a year in space before heading to Mars](https://www.space.com/space-exploration/launches-spacecraft/live-long-and-loiter-why-nasas-escapade-probes-will-wait-a-year-in-space-before-heading-to-mars)
-- [Subtle releases ear buds with its noise cancelation models](https://techcrunch.com/2026/01/04/subtle-releases-ear-buds-with-its-noise-cancelation-models/)
-- [2026 begins a golden age of solar eclipses: How to see 3 total solar eclipses and 3 &#39;ring of fire&#39; eclipses in 3 years](https://www.space.com/stargazing/eclipses/2026-begins-a-golden-age-of-solar-eclipses-how-to-see-3-total-solar-eclipses-and-3-ring-of-fire-eclipses-in-3-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
