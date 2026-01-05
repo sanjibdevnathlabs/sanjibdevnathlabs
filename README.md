@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moon rush: These private spacecraft will attempt lunar landings in 2026](https://www.space.com/astronomy/moon/moon-rush-these-private-spacecraft-will-attempt-lunar-landings-in-2026)
 - [Kodiak taps Bosch to scale its self-driving truck tech](https://techcrunch.com/2026/01/05/kodiak-taps-bosch-to-scale-its-self-driving-truck-tech/)
 - [Flutterwave buys Nigeria’s Mono in rare African fintech exit](https://techcrunch.com/2026/01/05/flutterwave-buys-nigerias-mono-in-rare-african-fintech-exit/)
 - [Can a social app fix the ‘terrible devastation’ of social media?](https://techcrunch.com/2026/01/04/can-a-social-app-fix-the-terrible-devastation-of-social-media/)
 - [DoorDash says it banned driver who seemingly faked a delivery using AI](https://techcrunch.com/2026/01/04/doordash-says-it-banned-driver-who-seemingly-faked-a-delivery-using-ai/)
-- [SpaceX launches 1st Starlink satellites of 2026 on new Falcon 9 rocket &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-88-b1101-ccsfs-jrti)
 <!-- BLOG-POST-LIST:END -->
 
 ---
