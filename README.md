@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon revamps Fire TV, launches its own ‘Artline’ televisions with frames at CES](https://techcrunch.com/2026/01/05/amazon-revamps-fire-tv-launches-its-own-artline-televisions-with-frames/)
+- [Amazon’s AI assistant comes to the web with Alexa.com](https://techcrunch.com/2026/01/05/alexa-without-an-echo-amazons-ai-chatbot-comes-to-the-web-and-a-revamped-alexa-app/)
+- [Catch the moon dancing with bright star Regulus tonight](https://www.space.com/stargazing/catch-the-moon-dancing-with-bright-star-regulus-jan-5-6-2026)
 - [Google previews new Gemini features for TV at CES 2026](https://techcrunch.com/2026/01/05/google-previews-new-gemini-features-for-tv-at-ces-2026/)
 - [How did life begin on Earth? New experiments support &#39;RNA world&#39; hypothesis](https://www.space.com/space-exploration/search-for-life/how-did-life-begin-on-earth-new-experiments-support-rna-world-hypothesis)
-- [Carina Nebula shines with white-blue stars | Space photo of the day for Jan. 5, 2026](https://www.space.com/astronomy/stars/carina-nebula-shines-with-white-blue-stars-space-photo-of-the-day-for-jan-5-2026)
-- [LG’s new OLED TV is just 9mm thick](https://techcrunch.com/2026/01/05/lgs-new-oled-tv-is-just-9mm-thick/)
-- [Luminar claims founder Austin Russell is dodging a subpoena in the bankruptcy case](https://techcrunch.com/2026/01/05/luminar-claims-founder-austin-russell-is-dodging-a-subpoena-in-the-bankruptcy-case/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
