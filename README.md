@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump administration censures former NASA astronaut Mark Kelly over &#39;illegal orders&#39; video](https://www.space.com/space-exploration/human-spaceflight/trump-administration-censures-former-nasa-astronaut-mark-kelly-over-illegal-orders-video)
+- [11 upcoming space and sci-fi games to be excited for in 2026](https://www.space.com/entertainment/space-games/11-upcoming-space-and-sci-fi-games-to-be-excited-for-in-2026)
 - [&#39;It would be a fundamental breakthrough&#39;: Mysterious dark matter may interact with cosmic &#39;ghost particles&#39;](https://www.space.com/astronomy/dark-universe/it-would-be-a-fundamental-breakthrough-mysterious-dark-matter-may-interact-with-cosmic-ghost-particles)
-- [Hacktivist deletes white supremacist websites live on stage during hacker conference](https://techcrunch.com/2026/01/05/hacktivist-deletes-white-supremacist-websites-live-on-stage-during-hacker-conference/)
+- [Hacktivist deletes white supremacist websites live onstage during hacker conference](https://techcrunch.com/2026/01/05/hacktivist-deletes-white-supremacist-websites-live-on-stage-during-hacker-conference/)
 - [Offshore wind developers sue Trump administration for halting $25B in projects](https://techcrunch.com/2026/01/05/offshore-wind-developers-sue-trump-administration-for-halting-25b-in-projects/)
-- [China’s Hesai will double production as lidar sensor industry shakes out](https://techcrunch.com/2026/01/05/chinas-hesai-will-double-production-as-lidar-sensor-industry-shakes-out/)
-- [The 2026 BMW iX3 voice assistant will be powered by Alexa+](https://techcrunch.com/2026/01/05/the-2026-bmw-ix3-voice-assistant-will-be-powered-by-alexa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
