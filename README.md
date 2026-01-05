@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;It would be a fundamental breakthrough&#39;: Mysterious dark matter may interact with cosmic &#39;ghost particles&#39;](https://www.space.com/astronomy/dark-universe/it-would-be-a-fundamental-breakthrough-mysterious-dark-matter-may-interact-with-cosmic-ghost-particles)
+- [Hacktivist deletes white supremacist websites live on stage during hacker conference](https://techcrunch.com/2026/01/05/hacktivist-deletes-white-supremacist-websites-live-on-stage-during-hacker-conference/)
 - [Offshore wind developers sue Trump administration for halting $25B in projects](https://techcrunch.com/2026/01/05/offshore-wind-developers-sue-trump-administration-for-halting-25b-in-projects/)
 - [China’s Hesai will double production as lidar sensor industry shakes out](https://techcrunch.com/2026/01/05/chinas-hesai-will-double-production-as-lidar-sensor-industry-shakes-out/)
 - [The 2026 BMW iX3 voice assistant will be powered by Alexa+](https://techcrunch.com/2026/01/05/the-2026-bmw-ix3-voice-assistant-will-be-powered-by-alexa/)
-- [The universe may be lopsided, new research says](https://www.space.com/astronomy/the-universe-may-be-lopsided-new-research-says)
-- [Lucid Motors doubled EV output in 2025 after early Gravity SUV struggles](https://techcrunch.com/2026/01/05/lucid-motors-doubled-ev-output-in-2025-after-early-gravity-suv-struggles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
