@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boston Dynamics’s next-gen humanoid robot will have Google DeepMind DNA](https://techcrunch.com/2026/01/05/boston-dynamicss-next-gen-humanoid-robot-will-have-google-deepmind-dna/)
+- [Nvidia launches Alpamayo, open AI models that allow autonomous vehicles to ‘think like a human’](https://techcrunch.com/2026/01/05/nvidia-launches-alpamayo-open-ai-models-that-allow-autonomous-vehicles-to-think-like-a-human/)
 - [Lego Smart Bricks introduce a new way to build — and they don’t require screens](https://techcrunch.com/2026/01/05/lego-smart-bricks-introduce-a-new-way-to-build-and-they-dont-require-screens/)
 - [Trump administration censures former NASA astronaut Mark Kelly over &#39;illegal orders&#39; video](https://www.space.com/space-exploration/human-spaceflight/trump-administration-censures-former-nasa-astronaut-mark-kelly-over-illegal-orders-video)
 - [11 upcoming space and sci-fi games to be excited for in 2026](https://www.space.com/entertainment/space-games/11-upcoming-space-and-sci-fi-games-to-be-excited-for-in-2026)
-- [&#39;It would be a fundamental breakthrough&#39;: Mysterious dark matter may interact with cosmic &#39;ghost particles&#39;](https://www.space.com/astronomy/dark-universe/it-would-be-a-fundamental-breakthrough-mysterious-dark-matter-may-interact-with-cosmic-ghost-particles)
-- [Hacktivist deletes white supremacist websites live onstage during hacker conference](https://techcrunch.com/2026/01/05/hacktivist-deletes-white-supremacist-websites-live-on-stage-during-hacker-conference/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
