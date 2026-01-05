@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Boston Dynamics’s next-gen humanoid robot will have Google DeepMind DNA](https://techcrunch.com/2026/01/05/boston-dynamicss-next-gen-humanoid-robot-will-have-google-deepmind-dna/)
-- [Nvidia launches Alpamayo, open AI models that allow autonomous vehicles to ‘think like a human’](https://techcrunch.com/2026/01/05/nvidia-launches-alpamayo-open-ai-models-that-allow-autonomous-vehicles-to-think-like-a-human/)
-- [Lego Smart Bricks introduce a new way to build — and they don’t require screens](https://techcrunch.com/2026/01/05/lego-smart-bricks-introduce-a-new-way-to-build-and-they-dont-require-screens/)
-- [Trump administration censures former NASA astronaut Mark Kelly over &#39;illegal orders&#39; video](https://www.space.com/space-exploration/human-spaceflight/trump-administration-censures-former-nasa-astronaut-mark-kelly-over-illegal-orders-video)
-- [11 upcoming space and sci-fi games to be excited for in 2026](https://www.space.com/entertainment/space-games/11-upcoming-space-and-sci-fi-games-to-be-excited-for-in-2026)
+- [Microsoft’s Nadella wants us to stop thinking of AI as ‘slop’](https://techcrunch.com/2026/01/05/microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop/)
+- [This is Uber’s new robotaxi from Lucid and Nuro](https://techcrunch.com/2026/01/05/this-is-ubers-new-robotaxi-from-lucid-and-nuro/)
+- [Nvidia wants to be the Android of generalist robotics](https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/)
+- [‘Space particle’ slams into Spain’s new communications satellite high above Earth](https://www.space.com/space-exploration/launches-spacecraft/spains-newest-communications-satellite-suffers-space-particle-strike-high-above-earth)
+- [Nvidia launches powerful new Rubin chip architecture](https://techcrunch.com/2026/01/05/nvidia-launches-powerful-new-rubin-chip-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
