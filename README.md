@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Carina Nebula shines with white-blue stars | Space photo of the day for Jan. 5, 2026](https://www.space.com/astronomy/stars/carina-nebula-shines-with-white-blue-stars-space-photo-of-the-day-for-jan-5-2026)
 - [LG’s new OLED TV is just 9mm thick](https://techcrunch.com/2026/01/05/lgs-new-oled-tv-is-just-9mm-thick/)
 - [Luminar claims founder Austin Russell is dodging a subpoena in the bankruptcy case](https://techcrunch.com/2026/01/05/luminar-claims-founder-austin-russell-is-dodging-a-subpoena-in-the-bankruptcy-case/)
 - [Teradar reveals its first terahertz-band vision sensor for cars](https://techcrunch.com/2026/01/05/teradar-reveals-its-first-terahertz-band-vision-sensor-for-cars/)
 - [January full moon wows skywatchers with a striking &#39;Wolf Supermoon&#39; &lpar;photos&rpar;](https://www.space.com/stargazing/january-full-moon-2026-wows-skywatchers-with-a-striking-wolf-supermoon-photos)
-- [Moon rush: These private spacecraft will attempt lunar landings in 2026](https://www.space.com/astronomy/moon/moon-rush-these-private-spacecraft-will-attempt-lunar-landings-in-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
