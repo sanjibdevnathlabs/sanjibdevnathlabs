@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mobileye acquires humanoid robot startup Mentee Robotics for $900M](https://techcrunch.com/2026/01/06/mobileye-acquires-humanoid-robot-startup-mentee-robotics-for-900m/)
+- [Saros: Release date, trailers, and everything we know about PlayStation&#39;s next sci-fi adventure](https://www.space.com/entertainment/space-games/saros-release-date-trailers-and-everything-we-know-about-playstations-next-sci-fi-adventure)
+- [xAI says it raised $20B in Series E funding](https://techcrunch.com/2026/01/06/xai-says-it-raised-20b-in-series-e-funding/)
+- [California lawmaker proposes a four-year ban on AI chatbots in kids’ toys](https://techcrunch.com/2026/01/06/california-lawmaker-proposes-a-four-year-ban-on-ai-chatbots-in-kids-toys/)
 - [The most bizarre tech announced so far at CES 2026](https://techcrunch.com/2026/01/06/the-most-bizarre-tech-announced-so-far-at-ces-2026/)
-- [NASA&#39;s Curiosity rover sends stunning new panorama from high on Mars&#39; Mount Sharp](https://www.space.com/space-exploration/mars-rovers/nasas-curiosity-rover-sends-stunning-new-panorama-from-high-on-mars-mount-sharp)
-- [Intel is building a handheld gaming platform including a dedicated chip](https://techcrunch.com/2026/01/06/intel-is-building-a-handheld-gaming-platform-including-a-dedicated-chip/)
-- [LMArena lands $1.7B valuation four months after launching its product](https://techcrunch.com/2026/01/06/lmarena-lands-1-7b-valuation-four-months-after-launching-its-product/)
-- [Founder of spyware maker pcTattletale pleads guilty to hacking and advertising surveillance software](https://techcrunch.com/2026/01/06/founder-of-spyware-maker-pctattletale-pleads-guilty-to-hacking-and-advertising-surveillance-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
