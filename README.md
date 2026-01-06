@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble telescope discovers a new type of cosmic object and astronomers are on &#39;Cloud 9&#39;](https://www.space.com/astronomy/stars/hubble-telescope-discovers-a-new-type-of-cosmic-object-and-astronomers-are-on-cloud-9)
 - [How World Cup champion Mario Götze built a parallel career as an angel investor](https://techcrunch.com/2026/01/06/how-world-cup-champion-mario-gotze-built-a-parallel-career-as-an-angel-investor/)
 - [Historic Artemis 2 moon launch may be just 1 month away](https://www.space.com/space-exploration/artemis/historic-artemis-2-moon-launch-may-be-just-1-month-away)
 - [Threads is developing in-message games](https://techcrunch.com/2026/01/06/threads-is-developing-in-message-games/)
 - [Venus reaches superior solar conjunction today: What does it mean and can you see it?](https://www.space.com/stargazing/venus-reaches-solar-conjunction-jan-2026)
-- [Commonwealth Fusion Systems installs reactor magnet, lands deal with Nvidia](https://techcrunch.com/2026/01/06/commonwealth-fusion-systems-installs-reactor-magnet-lands-deal-with-nvidia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
