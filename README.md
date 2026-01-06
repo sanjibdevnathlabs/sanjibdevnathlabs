@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Congress rejects President Trump&#39;s deep NASA budget cuts, proposes $24.4 billion for the agency](https://www.space.com/space-exploration/congress-rejects-president-trumps-deep-nasa-budget-cuts-proposes-usd24-4-billion-for-the-agency)
 - [Meta pauses international expansion of its Ray-Ban Display glasses](https://techcrunch.com/2026/01/06/meta-pauses-international-expansion-of-its-ray-ban-display-glasses/)
 - [This Canadian crater looks like marbled meat | Space photo of the day for Jan. 6, 2026](https://www.space.com/astronomy/earth/this-canadian-crater-looks-like-marbled-meat-space-photo-of-the-day-for-jan-6-2026)
 - [Amazon’s Ring doorbells get fire alerts, an app store and new sensors](https://techcrunch.com/2026/01/06/amazons-ring-doorbells-get-fire-alerts-an-app-store-and-new-sensors/)
 - [Women who rewrote the stars: Test your knowledge of female astronomers](https://www.space.com/astronomy/women-who-rewrote-the-stars-test-your-knowledge-of-female-astronomers)
-- [Interstellar comet 3I/ATLAS isn&#39;t an alien spacecraft, astronomers confirm. &#39;In the end, there were no surprises.&#39;](https://www.space.com/astronomy/asteroids/interstellar-comet-3i-atlas-isnt-an-alien-spacecraft-astronomers-confirm-in-the-end-there-were-no-surprises)
 <!-- BLOG-POST-LIST:END -->
 
 ---
