@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Narwal adds AI to its vacuum cleaners to monitor pets and find jewelry](https://techcrunch.com/2026/01/05/narwal-adds-ai-to-its-vacuum-cleaners-to-monitor-pets-and-find-jewelry/)
 - [AMD unveils new AI PC processors for general use and gaming at CES](https://techcrunch.com/2026/01/05/amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces/)
 - [Insight Partners sued by former vice president Kate Lowry](https://techcrunch.com/2026/01/05/insight-partners-sued-by-former-vice-president-kate-lowry/)
 - [Microsoft’s Nadella wants us to stop thinking of AI as ‘slop’](https://techcrunch.com/2026/01/05/microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop/)
 - [This is Uber’s new robotaxi from Lucid and Nuro](https://techcrunch.com/2026/01/05/this-is-ubers-new-robotaxi-from-lucid-and-nuro/)
-- [Nvidia wants to be the Android of generalist robotics](https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
