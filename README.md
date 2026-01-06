@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble telescope discovers a new type of cosmic object and astronomers are on &#39;Cloud 9&#39;](https://www.space.com/astronomy/stars/hubble-telescope-discovers-a-new-type-of-cosmic-object-and-astronomers-are-on-cloud-9)
-- [How World Cup champion Mario Götze built a parallel career as an angel investor](https://techcrunch.com/2026/01/06/how-world-cup-champion-mario-gotze-built-a-parallel-career-as-an-angel-investor/)
-- [Historic Artemis 2 moon launch may be just 1 month away](https://www.space.com/space-exploration/artemis/historic-artemis-2-moon-launch-may-be-just-1-month-away)
-- [Threads is developing in-message games](https://techcrunch.com/2026/01/06/threads-is-developing-in-message-games/)
-- [Venus reaches superior solar conjunction today: What does it mean and can you see it?](https://www.space.com/stargazing/venus-reaches-solar-conjunction-jan-2026)
+- [The most bizarre tech announced so far at CES 2026](https://techcrunch.com/2026/01/06/the-most-bizarre-tech-announced-so-far-at-ces-2026/)
+- [NASA&#39;s Curiosity rover sends stunning new panorama from high on Mars&#39; Mount Sharp](https://www.space.com/space-exploration/mars-rovers/nasas-curiosity-rover-sends-stunning-new-panorama-from-high-on-mars-mount-sharp)
+- [Intel is building a handheld gaming platform including a dedicated chip](https://techcrunch.com/2026/01/06/intel-is-building-a-handheld-gaming-platform-including-a-dedicated-chip/)
+- [LMArena lands $1.7B valuation four months after launching its product](https://techcrunch.com/2026/01/06/lmarena-lands-1-7b-valuation-four-months-after-launching-its-product/)
+- [Founder of spyware maker pcTattletale pleads guilty to hacking and advertising surveillance software](https://techcrunch.com/2026/01/06/founder-of-spyware-maker-pctattletale-pleads-guilty-to-hacking-and-advertising-surveillance-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
