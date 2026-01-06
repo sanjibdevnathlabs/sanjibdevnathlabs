@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon’s Ring doorbells get fire alerts, an app store and new sensors](https://techcrunch.com/2026/01/06/amazons-ring-doorbells-get-fire-alerts-an-app-store-and-new-sensors/)
+- [Women who rewrote the stars: Test your knowledge of female astronomers](https://www.space.com/astronomy/women-who-rewrote-the-stars-test-your-knowledge-of-female-astronomers)
+- [Interstellar comet 3I/ATLAS isn&#39;t an alien spacecraft, astronomers confirm. &#39;In the end, there were no surprises.&#39;](https://www.space.com/astronomy/asteroids/interstellar-comet-3i-atlas-isnt-an-alien-spacecraft-astronomers-confirm-in-the-end-there-were-no-surprises)
 - [China&#39;s next moonshot: Chang&#39;e 7 could search the lunar south pole for water this year](https://www.space.com/astronomy/moon/chinas-next-moonshot-change-could-search-the-lunar-south-pole-for-water-this-year)
 - [Narwal adds AI to its vacuum cleaners to monitor pets and find jewelry](https://techcrunch.com/2026/01/05/narwal-adds-ai-to-its-vacuum-cleaners-to-monitor-pets-and-find-jewelry/)
-- [AMD unveils new AI PC processors for general use and gaming at CES](https://techcrunch.com/2026/01/05/amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces/)
-- [Insight Partners sued by former vice president Kate Lowry](https://techcrunch.com/2026/01/05/insight-partners-sued-by-former-vice-president-kate-lowry/)
-- [Microsoft’s Nadella wants us to stop thinking of AI as ‘slop’](https://techcrunch.com/2026/01/05/microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
