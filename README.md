@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX stacks Super Heavy booster ahead of Starship megarocket&#39;s 12th test flight](https://www.space.com/space-exploration/launches-spacecraft/spacex-stacks-super-heavy-booster-ahead-of-starship-megarockets-12th-test-flight)
 - [Mobileye acquires humanoid robot startup Mentee Robotics for $900M](https://techcrunch.com/2026/01/06/mobileye-acquires-humanoid-robot-startup-mentee-robotics-for-900m/)
 - [Saros: Release date, trailers, and everything we know about PlayStation&#39;s next sci-fi adventure](https://www.space.com/entertainment/space-games/saros-release-date-trailers-and-everything-we-know-about-playstations-next-sci-fi-adventure)
 - [xAI says it raised $20B in Series E funding](https://techcrunch.com/2026/01/06/xai-says-it-raised-20b-in-series-e-funding/)
 - [California lawmaker proposes a four-year ban on AI chatbots in kids’ toys](https://techcrunch.com/2026/01/06/california-lawmaker-proposes-a-four-year-ban-on-ai-chatbots-in-kids-toys/)
-- [The most bizarre tech announced so far at CES 2026](https://techcrunch.com/2026/01/06/the-most-bizarre-tech-announced-so-far-at-ces-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
