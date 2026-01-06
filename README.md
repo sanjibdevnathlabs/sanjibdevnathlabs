@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Telescope spies &#39;wake&#39; of supergiant Beutelgeuse&#39;s hidden companion star](https://www.space.com/astronomy/stars/hubble-telescope-spies-wake-of-supergiant-beutelgeuses-hidden-companion-star)
+- [CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities](https://techcrunch.com/2026/01/06/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/)
+- [Wearable health devices could generate a million tons of e-waste by 2050](https://techcrunch.com/2026/01/06/wearable-health-devices-could-generate-a-million-tons-of-e-waste-by-2050/)
+- [A viral Reddit post alleging fraud from a food delivery app turned out to be AI-generated](https://techcrunch.com/2026/01/06/a-viral-reddit-post-alleging-fraud-from-a-food-delivery-app-turned-out-to-be-ai-generated/)
 - [SpaceX stacks Super Heavy booster ahead of Starship megarocket&#39;s 12th test flight](https://www.space.com/space-exploration/launches-spacecraft/spacex-stacks-super-heavy-booster-ahead-of-starship-megarockets-12th-test-flight)
-- [Mobileye acquires humanoid robot startup Mentee Robotics for $900M](https://techcrunch.com/2026/01/06/mobileye-acquires-humanoid-robot-startup-mentee-robotics-for-900m/)
-- [Saros: Release date, trailers, and everything we know about PlayStation&#39;s next sci-fi adventure](https://www.space.com/entertainment/space-games/saros-release-date-trailers-and-everything-we-know-about-playstations-next-sci-fi-adventure)
-- [xAI says it raised $20B in Series E funding](https://techcrunch.com/2026/01/06/xai-says-it-raised-20b-in-series-e-funding/)
-- [California lawmaker proposes a four-year ban on AI chatbots in kids’ toys](https://techcrunch.com/2026/01/06/california-lawmaker-proposes-a-four-year-ban-on-ai-chatbots-in-kids-toys/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
