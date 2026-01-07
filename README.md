@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I thought I knew the night sky, but what I saw from the Canary Islands left me speechless](https://www.space.com/stargazing/i-thought-i-knew-the-night-sky-but-what-i-saw-from-the-canary-islands-left-me-speechless)
+- [NASA Perseverance rover sees megaripples on Mars | Space photo of the day for Jan. 7, 2026.](https://www.space.com/space-exploration/mars-rovers/nasa-perseverance-rover-sees-megaripples-on-mars-space-photo-of-the-day-for-jan-7-2026)
 - [Roblox now requires all users globally to complete age checks to access chat](https://techcrunch.com/2026/01/07/roblox-now-requires-all-users-globally-to-complete-age-checks-to-access-chat/)
 - [Intel spinout Articul8 raises more than half of $70M round at $500M valuation](https://techcrunch.com/2026/01/07/intel-spin-off-articul8-is-halfway-to-70m-ai-funding-round-at-500m-valuation/)
 - [Winning the Red Planet race: Returning Mars samples before China should be a top US priority, experts say](https://www.space.com/astronomy/mars/winning-the-red-planet-race-returning-mars-samples-before-china-should-be-a-top-us-priority-experts-say)
-- [McKinsey and General Catalyst execs say the era of ‘learn once, work forever’ is over](https://techcrunch.com/2026/01/06/mckinsey-and-general-catalyst-execs-say-the-era-of-learn-once-work-forever-is-over/)
-- [Meta’s Manus news is getting different receptions in Washington and Beijing](https://techcrunch.com/2026/01/06/metas-manus-news-is-getting-different-receptions-in-washington-and-beijing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
