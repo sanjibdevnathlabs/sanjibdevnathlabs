@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shopify competitor Swap raises $100M six months after raising $40M](https://techcrunch.com/2026/01/07/shopify-competitor-swap-raises-100m-six-months-after-raising-40m/)
+- [&#39;Tron Ares&#39; debuts on streaming today: Here&#39;s how to watch Jared Leto&#39;s sci-fi AI blockbuster](https://www.space.com/entertainment/space-movies-shows/tron-ares-debuts-on-streaming-heres-how-to-watch-jared-letos-sci-fi-ai-blockbuster)
+- [Where VCs think AI startups can win, even with OpenAI in the game](https://techcrunch.com/video/where-vcs-think-ai-startups-can-win-even-with-openai-in-the-game/)
+- [Anthropic reportedly raising $10B at $350B valuation](https://techcrunch.com/2026/01/07/anthropic-reportedly-raising-10b-at-350b-valuation/)
 - [Skylight debuts Calendar 2 to keep your family organized](https://techcrunch.com/2026/01/07/skylight-debuts-calendar-2-to-keep-your-family-organized/)
-- [Google Classroom’s new tool uses Gemini to transform lessons into podcast episodes](https://techcrunch.com/2026/01/07/google-classrooms-new-tool-uses-gemini-to-transform-lessons-into-podcast-episodes/)
-- [Caterpillar taps Nvidia to bring AI to its construction equipment](https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/)
-- [January belongs to Jupiter: See the king of planets in the night sky this month](https://www.space.com/stargazing/january-belongs-to-jupiter-see-the-king-of-planets-in-the-night-sky-this-month)
-- [How Quilt solved the heat pump’s biggest challenge](https://techcrunch.com/2026/01/07/how-quilt-solved-the-heat-pumps-biggest-challenge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
