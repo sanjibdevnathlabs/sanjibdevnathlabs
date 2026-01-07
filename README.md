@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lux Capital lands $1.5 billion for its largest fund ever](https://techcrunch.com/2026/01/07/lux-capital-lands-1-5-billion-for-its-largest-fund-ever/)
+- [OpenAI unveils ChatGPT Health, says 230 million users ask about health each week](https://techcrunch.com/2026/01/07/openai-unveils-chatgpt-health-says-230-million-users-ask-about-health-each-week/)
+- [10 retired Lego Star Wars sets we wish would come back](https://www.space.com/entertainment/space-toys-lego/10-retired-lego-star-wars-sets-we-wish-would-come-back)
+- [Watch astronaut Mike Fincke tie NASA spacewalking record on Jan. 8](https://www.space.com/space-exploration/international-space-station/watch-astronaut-mike-fincke-tie-nasa-spacewalking-record-on-jan-8)
+- [Lux Capital lands $1.5B for its largest fund ever](https://techcrunch.com/2026/01/07/lux-capital-lands-1-5-billion-for-its-largest-fund-ever/)
 - [AMC previews its new show, ‘The Audacity,’ focused on Silicon Valley](https://techcrunch.com/2026/01/07/amc-previews-its-new-show-the-audacity-focused-on-silicon-valley/)
-- [Discord’s IPO could happen in March](https://techcrunch.com/2026/01/07/discords-ipo-could-happen-in-march/)
-- [Shopify competitor Swap raises $100M six months after raising $40M](https://techcrunch.com/2026/01/07/shopify-competitor-swap-raises-100m-six-months-after-raising-40m/)
-- [&#39;Tron Ares&#39; debuts on streaming today: Here&#39;s how to watch Jared Leto&#39;s sci-fi AI blockbuster](https://www.space.com/entertainment/space-movies-shows/tron-ares-debuts-on-streaming-heres-how-to-watch-jared-letos-sci-fi-ai-blockbuster)
 <!-- BLOG-POST-LIST:END -->
 
 ---
