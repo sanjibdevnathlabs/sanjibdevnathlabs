@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Winning the Red Planet race: Returning Mars samples before China should be a top US priority, experts say](https://www.space.com/astronomy/mars/winning-the-red-planet-race-returning-mars-samples-before-china-should-be-a-top-us-priority-experts-say)
 - [McKinsey and General Catalyst execs say the era of ‘learn once, work forever’ is over](https://techcrunch.com/2026/01/06/mckinsey-and-general-catalyst-execs-say-the-era-of-learn-once-work-forever-is-over/)
 - [Meta’s Manus news is getting different receptions in Washington and Beijing](https://techcrunch.com/2026/01/06/metas-manus-news-is-getting-different-receptions-in-washington-and-beijing/)
 - [Hubble Telescope spies &#39;wake&#39; of supergiant Beutelgeuse&#39;s hidden companion star](https://www.space.com/astronomy/stars/hubble-telescope-spies-wake-of-supergiant-beutelgeuses-hidden-companion-star)
 - [CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities](https://techcrunch.com/2026/01/06/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/)
-- [Wearable health devices could generate a million tons of e-waste by 2050](https://techcrunch.com/2026/01/06/wearable-health-devices-could-generate-a-million-tons-of-e-waste-by-2050/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
