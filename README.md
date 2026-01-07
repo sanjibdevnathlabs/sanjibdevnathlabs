@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Roblox now requires all users globally to complete age checks to access chat](https://techcrunch.com/2026/01/07/roblox-now-requires-all-users-globally-to-complete-age-checks-to-access-chat/)
+- [Intel spinout Articul8 raises more than half of $70M round at $500M valuation](https://techcrunch.com/2026/01/07/intel-spin-off-articul8-is-halfway-to-70m-ai-funding-round-at-500m-valuation/)
 - [Winning the Red Planet race: Returning Mars samples before China should be a top US priority, experts say](https://www.space.com/astronomy/mars/winning-the-red-planet-race-returning-mars-samples-before-china-should-be-a-top-us-priority-experts-say)
 - [McKinsey and General Catalyst execs say the era of ‘learn once, work forever’ is over](https://techcrunch.com/2026/01/06/mckinsey-and-general-catalyst-execs-say-the-era-of-learn-once-work-forever-is-over/)
 - [Meta’s Manus news is getting different receptions in Washington and Beijing](https://techcrunch.com/2026/01/06/metas-manus-news-is-getting-different-receptions-in-washington-and-beijing/)
-- [Hubble Telescope spies &#39;wake&#39; of supergiant Beutelgeuse&#39;s hidden companion star](https://www.space.com/astronomy/stars/hubble-telescope-spies-wake-of-supergiant-beutelgeuses-hidden-companion-star)
-- [CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities](https://techcrunch.com/2026/01/06/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
