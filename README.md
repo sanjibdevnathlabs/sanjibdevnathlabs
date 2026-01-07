@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Yes, LinkedIn banned AI agent startup Artisan, but now it’s back](https://techcrunch.com/2026/01/07/yes-linkedin-banned-ai-agent-startup-artisan-but-now-its-back/)
+- [Astronomers discover the earliest, hottest galaxy cluster in the universe, and it breaks all the rules](https://www.space.com/astronomy/galaxies/astronomers-discover-the-earliest-hottest-galaxy-cluster-in-the-universe-and-it-breaks-all-the-rules)
+- [Roku’s $3 streaming service Howdy will be coming to other platforms, CEO says](https://techcrunch.com/2026/01/07/rokus-3-streaming-service-howdy-will-be-coming-to-other-platforms-ceo-says/)
 - [OpenAI unveils ChatGPT Health, says 230 million users ask about health each week](https://techcrunch.com/2026/01/07/openai-unveils-chatgpt-health-says-230-million-users-ask-about-health-each-week/)
 - [10 retired Lego Star Wars sets we wish would come back](https://www.space.com/entertainment/space-toys-lego/10-retired-lego-star-wars-sets-we-wish-would-come-back)
-- [Watch astronaut Mike Fincke tie NASA spacewalking record on Jan. 8](https://www.space.com/space-exploration/international-space-station/watch-astronaut-mike-fincke-tie-nasa-spacewalking-record-on-jan-8)
-- [Lux Capital lands $1.5B for its largest fund ever](https://techcrunch.com/2026/01/07/lux-capital-lands-1-5-billion-for-its-largest-fund-ever/)
-- [AMC previews its new show, ‘The Audacity,’ focused on Silicon Valley](https://techcrunch.com/2026/01/07/amc-previews-its-new-show-the-audacity-focused-on-silicon-valley/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
