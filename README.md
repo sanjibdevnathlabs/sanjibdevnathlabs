@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lux Capital lands $1.5 billion for its largest fund ever](https://techcrunch.com/2026/01/07/lux-capital-lands-1-5-billion-for-its-largest-fund-ever/)
+- [AMC previews its new show, ‘The Audacity,’ focused on Silicon Valley](https://techcrunch.com/2026/01/07/amc-previews-its-new-show-the-audacity-focused-on-silicon-valley/)
+- [Discord’s IPO could happen in March](https://techcrunch.com/2026/01/07/discords-ipo-could-happen-in-march/)
 - [Shopify competitor Swap raises $100M six months after raising $40M](https://techcrunch.com/2026/01/07/shopify-competitor-swap-raises-100m-six-months-after-raising-40m/)
 - [&#39;Tron Ares&#39; debuts on streaming today: Here&#39;s how to watch Jared Leto&#39;s sci-fi AI blockbuster](https://www.space.com/entertainment/space-movies-shows/tron-ares-debuts-on-streaming-heres-how-to-watch-jared-letos-sci-fi-ai-blockbuster)
-- [Where VCs think AI startups can win, even with OpenAI in the game](https://techcrunch.com/video/where-vcs-think-ai-startups-can-win-even-with-openai-in-the-game/)
-- [Anthropic reportedly raising $10B at $350B valuation](https://techcrunch.com/2026/01/07/anthropic-reportedly-raising-10b-at-350b-valuation/)
-- [Skylight debuts Calendar 2 to keep your family organized](https://techcrunch.com/2026/01/07/skylight-debuts-calendar-2-to-keep-your-family-organized/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
