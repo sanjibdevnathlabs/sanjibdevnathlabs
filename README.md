@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Quilt solved the heat pump’s biggest challenge](https://techcrunch.com/2026/01/07/how-quilt-solved-the-heat-pumps-biggest-challenge/)
+- [WhatsApp rolls out new group chat features, including member tags](https://techcrunch.com/2026/01/07/whatsapp-rolls-out-new-group-chat-features-member-tags/)
+- [Spotify now lets you share what you’re streaming in real time with friends](https://techcrunch.com/2026/01/07/spotify-now-lets-you-share-what-youre-streaming-in-real-time-with-friends/)
 - [Astrophotographer captures rare footage of the Hubble Telescope crossing the sun &lpar;video&rpar;](https://www.space.com/stargazing/astrophotography/astrophotographer-captures-rare-footage-of-the-hubble-telescope-crossing-the-sun-video)
 - [Warner Bros. Discovery rejects Paramount’s bid again, calls it a ‘leveraged buyout’](https://techcrunch.com/2026/01/07/warner-bros-discovery-rejects-paramounts-bid-again-calls-it-a-leveraged-buyout/)
-- [Spotify lowers monetization threshold for video podcasts](https://techcrunch.com/2026/01/07/spotify-lowers-monetization-threshold-for-video-podcasts/)
-- [I thought I knew the night sky, but what I saw from the Canary Islands left me speechless](https://www.space.com/stargazing/i-thought-i-knew-the-night-sky-but-what-i-saw-from-the-canary-islands-left-me-speechless)
-- [NASA Perseverance rover sees megaripples on Mars | Space photo of the day for Jan. 7, 2026.](https://www.space.com/space-exploration/mars-rovers/nasa-perseverance-rover-sees-megaripples-on-mars-space-photo-of-the-day-for-jan-7-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
