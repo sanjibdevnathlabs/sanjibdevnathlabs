@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Caterpillar taps Nvidia to bring AI to its construction equipment](https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/)
+- [January belongs to Jupiter: See the king of planets in the night sky this month](https://www.space.com/stargazing/january-belongs-to-jupiter-see-the-king-of-planets-in-the-night-sky-this-month)
 - [How Quilt solved the heat pump’s biggest challenge](https://techcrunch.com/2026/01/07/how-quilt-solved-the-heat-pumps-biggest-challenge/)
 - [WhatsApp rolls out new group chat features, including member tags](https://techcrunch.com/2026/01/07/whatsapp-rolls-out-new-group-chat-features-member-tags/)
 - [Spotify now lets you share what you’re streaming in real time with friends](https://techcrunch.com/2026/01/07/spotify-now-lets-you-share-what-youre-streaming-in-real-time-with-friends/)
-- [Astrophotographer captures rare footage of the Hubble Telescope crossing the sun &lpar;video&rpar;](https://www.space.com/stargazing/astrophotography/astrophotographer-captures-rare-footage-of-the-hubble-telescope-crossing-the-sun-video)
-- [Warner Bros. Discovery rejects Paramount’s bid again, calls it a ‘leveraged buyout’](https://techcrunch.com/2026/01/07/warner-bros-discovery-rejects-paramounts-bid-again-calls-it-a-leveraged-buyout/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
