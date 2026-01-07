@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astrophotographer captures rare footage of the Hubble Telescope crossing the sun &lpar;video&rpar;](https://www.space.com/stargazing/astrophotography/astrophotographer-captures-rare-footage-of-the-hubble-telescope-crossing-the-sun-video)
+- [Warner Bros. Discovery rejects Paramount’s bid again, calls it a ‘leveraged buyout’](https://techcrunch.com/2026/01/07/warner-bros-discovery-rejects-paramounts-bid-again-calls-it-a-leveraged-buyout/)
 - [Spotify lowers monetization threshold for video podcasts](https://techcrunch.com/2026/01/07/spotify-lowers-monetization-threshold-for-video-podcasts/)
 - [I thought I knew the night sky, but what I saw from the Canary Islands left me speechless](https://www.space.com/stargazing/i-thought-i-knew-the-night-sky-but-what-i-saw-from-the-canary-islands-left-me-speechless)
 - [NASA Perseverance rover sees megaripples on Mars | Space photo of the day for Jan. 7, 2026.](https://www.space.com/space-exploration/mars-rovers/nasa-perseverance-rover-sees-megaripples-on-mars-space-photo-of-the-day-for-jan-7-2026)
-- [Roblox now requires all users globally to complete age checks to access chat](https://techcrunch.com/2026/01/07/roblox-now-requires-all-users-globally-to-complete-age-checks-to-access-chat/)
-- [Intel spinout Articul8 raises more than half of $70M round at $500M valuation](https://techcrunch.com/2026/01/07/intel-spin-off-articul8-is-halfway-to-70m-ai-funding-round-at-500m-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
