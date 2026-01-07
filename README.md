@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Do Computer Scientists Prefer Tea or Coffee? &lpar;Microphone Sound Check Question 2025&rpar;  - Computerphile](https://www.youtube.com/watch?v=rV2h4Tso46Y)
-- [The Return of Festive Flashing Lights - Computerphile](https://www.youtube.com/watch?v=skmqR_VMECQ)
-- [Add a REAL Desk Phone to the Cloud in 60 Seconds &lpar;FREE&rpar;](https://www.youtube.com/shorts/_3pW7mkKTDk)
-- [Nigeria to UK: How He Became a DevOps Engineer Before His Visa Ran Out](https://www.youtube.com/watch?v=YTIvpuV6I20)
-- [How Passkeys Work - Computerphile](https://www.youtube.com/watch?v=xYfiOnufBSk)
+- [3: Deep Learning for Computer Vision – Building Convolutional Neural Networks from Scratch](https://www.youtube.com/watch?v=8QuyDcMIdRc)
+- [10: Generative AI – Adapting LLMs with Parameter-Efficient Fine-Tuning](https://www.youtube.com/watch?v=d-tngNnaG4U)
+- [8: Deep Learning for Natural Language – Transformers, Self-Supervised Learning](https://www.youtube.com/watch?v=v-lHsawHyaI)
+- [9: Generative AI – Large Language Models &lpar;LLMs&rpar; and Retrieval Augmented Generation &lpar;RAG&rpar;](https://www.youtube.com/watch?v=KGDe1QvfKJ8)
+- [5: Deep Learning for Natural Language – The Basics](https://www.youtube.com/watch?v=duBLxHjaecQ)
 <!-- YOUTUBE:END -->
 
 ---
