@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Governments grapple with the flood of non-consensual nudity on X](https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/)
+- [NASA X-ray spacecraft reveals the shockingly violent history of the Milky Way&#39;s supermassive black hole](https://www.space.com/astronomy/black-holes/nasa-x-ray-spacecraft-reveals-the-shockingly-violent-history-of-the-milky-ways-supermassive-black-hole)
 - [February full moon 2026: When, where and how to see the Snow Moon](https://www.space.com/stargazing/february-full-moon-2026-when-where-and-how-to-see-the-snow-moon)
 - [How does NASA handle astronaut medical issues in space?](https://www.space.com/space-exploration/human-spaceflight/how-does-nasa-handle-astronaut-medical-issues-in-space)
 - [GTMfund has rewritten the distribution playbook for the AI era](https://techcrunch.com/2026/01/08/gtmfund-has-rewritten-the-distribution-playbook-for-the-ai-era/)
-- [Critics pan spyware maker NSO’s transparency claims amid its push to enter US market](https://techcrunch.com/2026/01/08/critics-pan-spyware-maker-nsos-transparency-claims-amid-its-push-to-enter-us-market/)
-- [EverNitro is simplifying the process of crafting silky nitro coffee at CES 2026](https://techcrunch.com/2026/01/08/evernitro-is-simplifying-the-process-of-crafting-silky-nitro-coffee-at-ces-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
