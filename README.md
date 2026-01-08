@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How does NASA handle astronaut medical issues in space?](https://www.space.com/space-exploration/human-spaceflight/how-does-nasa-handle-astronaut-medical-issues-in-space)
+- [GTMfund has rewritten the distribution playbook for the AI era](https://techcrunch.com/2026/01/08/gtmfund-has-rewritten-the-distribution-playbook-for-the-ai-era/)
+- [Critics pan spyware maker NSO’s transparency claims amid its push to enter US market](https://techcrunch.com/2026/01/08/critics-pan-spyware-maker-nsos-transparency-claims-amid-its-push-to-enter-us-market/)
 - [EverNitro is simplifying the process of crafting silky nitro coffee at CES 2026](https://techcrunch.com/2026/01/08/evernitro-is-simplifying-the-process-of-crafting-silky-nitro-coffee-at-ces-2026/)
 - [I watched LG’s new home robot CLOid do laundry but I have questions](https://techcrunch.com/2026/01/08/i-watched-lgs-new-home-robot-cloid-do-laundry-but-i-have-questions/)
-- [Internet collapses in Iran amid protests over economic crisis](https://techcrunch.com/2026/01/08/internet-collapses-in-iran-amid-protests-over-economic-crisis/)
-- [OpenAI to acquire the team behind executive coaching AI tool Convogo](https://techcrunch.com/2026/01/08/openai-to-acquire-the-team-behind-executive-coaching-ai-tool-convogo/)
-- [Anduril’s Palmer Luckey thinks the future of tech is in the past](https://techcrunch.com/2026/01/08/andurils-palmer-luckey-thinks-the-future-of-tech-is-in-the-past/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
