@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JPMorgan Chase becomes the new issuer of the Apple Card](https://techcrunch.com/2026/01/07/jpmorgan-chase-becomes-the-new-issuer-of-the-apple-card/)
 - [Waymo is rebranding its Zeekr robotaxi](https://techcrunch.com/2026/01/07/waymo-is-rebranding-its-zeekr-robotaxi/)
 - [Google and Character.AI negotiate first major settlements in teen chatbot death cases](https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/)
 - [Ford has an AI assistant and new hands-free BlueCruise tech on the way](https://techcrunch.com/2026/01/07/ford-has-an-ai-assistant-and-new-hands-free-bluecruise-tech-on-the-way/)
 - [Discord and Mercor investor Niko Bonatsos departs General Catalyst, plans new VC firm](https://techcrunch.com/2026/01/07/discord-and-mercor-investor-niko-bonatsos-departs-general-catalyst-plans-new-vc-firm/)
-- [Larry Page loosens business ties to CA amid state’s proposed wealth tax, report](https://techcrunch.com/2026/01/07/larry-page-loosens-business-ties-to-ca-amid-states-proposed-wealth-tax-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
