@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Snowflake announces its intent to buy observability platform Observe](https://techcrunch.com/2026/01/08/snowflake-announces-its-intent-to-buy-observability-platform-observe/)
-- [Vera Rubin Observatory discovers fastest spinning asteroid ever and its huge!](https://www.space.com/astronomy/asteroids/vera-rubin-observatory-discovers-the-fastest-spinning-asteroid-ever-and-its-huge)
-- [Northern lights may be visible in 12 states tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-12-states-tonight)
-- [Elon Musk’s lawsuit against OpenAI will face a jury in March](https://techcrunch.com/2026/01/08/elon-musks-lawsuit-against-openai-will-face-a-jury-in-march/)
-- [The final &#39;Greenland 2: Migration&#39; trailer is here, and it&#39;s got the 90s disaster movie vibes we&#39;ve been craving &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-final-greenland-2-migration-trailer-is-here-and-its-got-the-90s-disaster-movie-vibes-weve-been-craving-video)
+- [OpenAI to acquire the team behind executive coaching AI tool Convogo](https://techcrunch.com/2026/01/08/openai-to-acquire-the-team-behind-executive-coaching-ai-tool-convogo/)
+- [Anduril’s Palmer Luckey thinks the future of tech is in the past](https://techcrunch.com/2026/01/08/andurils-palmer-luckey-thinks-the-future-of-tech-is-in-the-past/)
+- [Disney+ is launching short-form videos this year](https://techcrunch.com/2026/01/08/disney-is-launching-short-form-videos-this-year/)
+- [The most bizarre tech announced so far at CES 2026](https://techcrunch.com/2026/01/08/the-most-bizarre-tech-announced-so-far-at-ces-2026/)
+- [Illinois health department exposed over 700,000 residents’ personal data for years](https://techcrunch.com/2026/01/08/illinois-health-department-exposed-over-700000-residents-personal-data-for-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
