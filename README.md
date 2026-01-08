@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EverNitro is simplifying the process of crafting silky nitro coffee at CES 2026](https://techcrunch.com/2026/01/08/evernitro-is-simplifying-the-process-of-crafting-silky-nitro-coffee-at-ces-2026/)
+- [I watched LG’s new home robot CLOid do laundry but I have questions](https://techcrunch.com/2026/01/08/i-watched-lgs-new-home-robot-cloid-do-laundry-but-i-have-questions/)
+- [Internet collapses in Iran amid protests over economic crisis](https://techcrunch.com/2026/01/08/internet-collapses-in-iran-amid-protests-over-economic-crisis/)
 - [OpenAI to acquire the team behind executive coaching AI tool Convogo](https://techcrunch.com/2026/01/08/openai-to-acquire-the-team-behind-executive-coaching-ai-tool-convogo/)
 - [Anduril’s Palmer Luckey thinks the future of tech is in the past](https://techcrunch.com/2026/01/08/andurils-palmer-luckey-thinks-the-future-of-tech-is-in-the-past/)
-- [Disney+ is launching short-form videos this year](https://techcrunch.com/2026/01/08/disney-is-launching-short-form-videos-this-year/)
-- [The most bizarre tech announced so far at CES 2026](https://techcrunch.com/2026/01/08/the-most-bizarre-tech-announced-so-far-at-ces-2026/)
-- [Illinois health department exposed over 700,000 residents’ personal data for years](https://techcrunch.com/2026/01/08/illinois-health-department-exposed-over-700000-residents-personal-data-for-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
