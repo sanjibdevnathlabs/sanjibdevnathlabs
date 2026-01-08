@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford has an AI assistant and new hands-free BlueCruise tech on the way](https://techcrunch.com/2026/01/07/ford-has-an-ai-assistant-and-new-hands-free-bluecruise-tech-on-the-way/)
+- [Discord and Mercor investor Niko Bonatsos departs General Catalyst, plans new VC firm](https://techcrunch.com/2026/01/07/discord-and-mercor-investor-niko-bonatsos-departs-general-catalyst-plans-new-vc-firm/)
+- [Larry Page loosens business ties to CA amid state’s proposed wealth tax, report](https://techcrunch.com/2026/01/07/larry-page-loosens-business-ties-to-ca-amid-states-proposed-wealth-tax-report/)
 - [How to watch &#39;Predator: Badlands&#39; at home digitally ahead of its February 4K Blu-ray release](https://www.space.com/entertainment/space-movies-shows/how-to-watch-predator-badlands-at-home-digitally-ahead-of-its-february-blu-ray-release)
 - [Yes, LinkedIn banned AI agent startup Artisan, but now it’s back](https://techcrunch.com/2026/01/07/yes-linkedin-banned-ai-agent-startup-artisan-but-now-its-back/)
-- [Astronomers discover the earliest, hottest galaxy cluster in the universe, and it breaks all the rules](https://www.space.com/astronomy/galaxies/astronomers-discover-the-earliest-hottest-galaxy-cluster-in-the-universe-and-it-breaks-all-the-rules)
-- [Roku’s $3 streaming service Howdy will be coming to other platforms, CEO says](https://techcrunch.com/2026/01/07/rokus-3-streaming-service-howdy-will-be-coming-to-other-platforms-ceo-says/)
-- [OpenAI unveils ChatGPT Health, says 230 million users ask about health each week](https://techcrunch.com/2026/01/07/openai-unveils-chatgpt-health-says-230-million-users-ask-about-health-each-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
