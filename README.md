@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk’s lawsuit against OpenAI will face a jury in March](https://techcrunch.com/2026/01/08/elon-musks-lawsuit-against-openai-will-face-a-jury-in-march/)
+- [The final &#39;Greenland 2: Migration&#39; trailer is here, and it&#39;s got the 90s disaster movie vibes we&#39;ve been craving &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-final-greenland-2-migration-trailer-is-here-and-its-got-the-90s-disaster-movie-vibes-weve-been-craving-video)
 - [Former CEO of Google spearheads 4 next-gen telescopes — 3 on Earth and 1 in space](https://www.space.com/space-exploration/former-ceo-of-google-spearheads-4-next-gen-telescopes-3-on-earth-and-1-in-space)
 - [Stream Starfleet Academy and all the other top sci-fi shows coming in 2026 while travelling — and save money](https://www.space.com/technology/nord-sci-fi-vpn-deal)
 - [Why this VC thinks 2026 will be ‘the year of the consumer’](https://techcrunch.com/2026/01/08/why-this-vc-thinks-2026-will-be-the-year-of-the-consumer/)
-- [Hands on with a prototype of Clicks’ Communicator, a new BlackBerry-like smartphone](https://techcrunch.com/2026/01/08/hands-on-with-a-prototype-of-clicks-communicator-a-new-blackberry-like-smartphone/)
-- [Comet 24P/Schaumasse makes its closest approach to the sun today: But will you be able to see it?](https://www.space.com/stargazing/comet-24p-schaumasse-makes-its-closest-approach-to-the-sun-today-but-will-you-be-able-to-see-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
