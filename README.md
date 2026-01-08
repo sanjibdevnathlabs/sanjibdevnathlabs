@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former Bolt CEO Maju Kuruvilla’s startup triples to $100M valuation](https://techcrunch.com/2026/01/08/former-bolt-ceo-maju-kuruvillas-startup-triples-to-100m-valuation/)
+- [Space telescopes capture breathtaking galactic hug | Space photo of the day for Jan. 8, 2026](https://www.space.com/astronomy/galaxies/space-telescopes-capture-breathtaking-galactic-hug-space-photo-of-the-day-for-jan-8-2026)
 - [&#39;Super star&#39; being shredded by black hole releases as much energy as 400 billion suns](https://www.space.com/astronomy/black-holes/super-star-being-shredded-by-black-hole-releases-as-much-energy-as-400-billion-suns)
 - [NASA considering bringing astronauts home early from International Space Station due to medical issue](https://www.space.com/space-exploration/international-space-station/nasa-considering-bringing-astronauts-home-early-from-international-space-station-due-to-medical-issue)
 - [JPMorgan Chase becomes the new issuer of the Apple Card](https://techcrunch.com/2026/01/07/jpmorgan-chase-becomes-the-new-issuer-of-the-apple-card/)
-- [Waymo is rebranding its Zeekr robotaxi](https://techcrunch.com/2026/01/07/waymo-is-rebranding-its-zeekr-robotaxi/)
-- [Google and Character.AI negotiate first major settlements in teen chatbot death cases](https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
