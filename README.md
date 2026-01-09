@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How the Sleepbuds maker, Ozlo, is building a platform for sleep data](https://techcrunch.com/2026/01/09/how-the-sleepbuds-maker-ozlo-is-building-a-platform-for-sleep-data/)
 - [The best drone on the market is still at its lowest-ever price, but you&#39;ll have to hurry as stock is starting to run low](https://www.space.com/technology/drones/the-best-drone-on-the-market-is-still-at-its-lowest-ever-price-but-stock-is-starting-running-low)
 - [&#39;I was done. I was burned out&#39;: Gerard Butler on the rigors of making disaster sequel &#39;Greenland 2: Migration&#39; &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/gerard-butler-on-the-rigors-of-making-disaster-sequel-greenland-2-migration-interview)
 - [Meta signs deals with three nuclear companies for 6-plus GW of power](https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/)
 - [Latest news on ISS astronaut medical evacuation: NASA weighs return to Earth options](https://www.space.com/news/live/astronaut-medical-evacuation-on-iss-jan-9-2026)
-- [Jupiter ocean moon Europa likely lacks tectonic activity, reducing its chances for life](https://www.space.com/space-exploration/search-for-life/jupiter-ocean-moon-europa-likely-lacks-tectonic-activity-reducing-its-chances-for-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
