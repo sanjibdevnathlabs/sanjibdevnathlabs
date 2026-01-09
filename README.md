@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ISS astronaut evacuation shouldn&#39;t interfere with upcoming Artemis 2 moon mission, NASA chief says](https://www.space.com/space-exploration/international-space-station/iss-astronaut-evacuation-shouldnt-interfere-with-upcoming-artemis-2-moon-mission-nasa-chief-says)
 - [Aurora chaser catches a fox basking in the glow of Finland&#39;s legendary &#39;fox fires&#39; &lpar;photos&rpar;](https://www.space.com/stargazing/auroras/aurora-chaser-catches-a-fox-basking-in-the-glow-of-finlands-legendary-fox-fires-photos)
 - [Jupiter is at its best and brightest of 2026 tonight! Here&#39;s what to expect as the gas giant reaches opposition](https://www.space.com/stargazing/jupiter-is-at-its-best-and-brightest-of-2026-tonight-heres-what-to-expect-as-the-gas-giant-reaches-opposition)
 - [X restricts Grok’s image generation to paying subscribers only after drawing the world’s ire](https://techcrunch.com/2026/01/09/x-restricts-groks-image-generation-to-paying-subscribers-only-after-drawing-the-worlds-ire/)
 - [The venture firm that ate Silicon Valley just raised another $15 billion](https://techcrunch.com/2026/01/09/the-venture-firm-that-ate-silicon-valley/)
-- [Mars and Venus buzz the Beehive | Space photo of the day for January 9, 2026](https://www.space.com/stargazing/mars-and-venus-buzz-the-beehive-space-photo-of-the-day-for-january-9-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
