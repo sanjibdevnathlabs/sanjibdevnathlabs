@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is dark matter made of mysterious &#39;ghost particles?&#39; Galaxy clusters could hold the answer](https://www.space.com/astronomy/dark-universe/is-dark-matter-made-of-mysterious-ghost-particles-galaxy-clusters-could-hold-the-answer)
 - [Anthropic adds Allianz to growing list of enterprise wins](https://techcrunch.com/2026/01/09/anthropic-adds-allianz-to-growing-list-of-enterprise-wins/)
 - [CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities](https://techcrunch.com/2026/01/08/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/)
 - [Data security startup Cyera hits $9B valuation six months after being valued at $6B](https://techcrunch.com/2026/01/08/data-security-startup-cyera-hits-9b-valuation-six-months-after-being-valued-at-6b/)
 - [NASA says it will return 4 astronauts home early in 1st-ever medical evacuation from the International Space Station](https://www.space.com/space-exploration/international-space-station/nasa-says-it-will-return-4-astronauts-home-early-in-1st-ever-medical-evacuation-from-the-international-space-station)
-- [Governments grapple with the flood of non-consensual nudity on X](https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
