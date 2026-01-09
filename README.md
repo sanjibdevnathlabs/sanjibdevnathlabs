@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;I was done. I was burned out&#39;: Gerard Butler on the rigors of making disaster sequel &#39;Greenland 2: Migration&#39; &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/gerard-butler-on-the-rigors-of-making-disaster-sequel-greenland-2-migration-interview)
+- [Meta signs deals with three nuclear companies for 6-plus GW of power](https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/)
+- [Latest news on ISS astronaut medical evacuation: NASA weighs return to Earth options](https://www.space.com/news/live/astronaut-medical-evacuation-on-iss-jan-9-2026)
 - [Jupiter ocean moon Europa likely lacks tectonic activity, reducing its chances for life](https://www.space.com/space-exploration/search-for-life/jupiter-ocean-moon-europa-likely-lacks-tectonic-activity-reducing-its-chances-for-life)
 - [ISS astronaut evacuation shouldn&#39;t interfere with upcoming Artemis 2 moon mission, NASA chief says](https://www.space.com/space-exploration/international-space-station/iss-astronaut-evacuation-shouldnt-interfere-with-upcoming-artemis-2-moon-mission-nasa-chief-says)
-- [Aurora chaser catches a fox basking in the glow of Finland&#39;s legendary &#39;fox fires&#39; &lpar;photos&rpar;](https://www.space.com/stargazing/auroras/aurora-chaser-catches-a-fox-basking-in-the-glow-of-finlands-legendary-fox-fires-photos)
-- [Jupiter is at its best and brightest of 2026 tonight! Here&#39;s what to expect as the gas giant reaches opposition](https://www.space.com/stargazing/jupiter-is-at-its-best-and-brightest-of-2026-tonight-heres-what-to-expect-as-the-gas-giant-reaches-opposition)
-- [X restricts Grok’s image generation to paying subscribers only after drawing the world’s ire](https://techcrunch.com/2026/01/09/x-restricts-groks-image-generation-to-paying-subscribers-only-after-drawing-the-worlds-ire/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
