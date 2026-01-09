@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [my NEW AI Supercomputer &lpar;3.5x faster!!!&rpar;](https://www.youtube.com/shorts/LDLRxUcdbyc)
 - [ACCESS your home network from ANYWHERE](https://www.youtube.com/shorts/8W92cckXuTg)
 - [3: Deep Learning for Computer Vision – Building Convolutional Neural Networks from Scratch](https://www.youtube.com/watch?v=8QuyDcMIdRc)
 - [10: Generative AI – Adapting LLMs with Parameter-Efficient Fine-Tuning](https://www.youtube.com/watch?v=d-tngNnaG4U)
 - [8: Deep Learning for Natural Language – Transformers, Self-Supervised Learning](https://www.youtube.com/watch?v=v-lHsawHyaI)
-- [9: Generative AI – Large Language Models &lpar;LLMs&rpar; and Retrieval Augmented Generation &lpar;RAG&rpar;](https://www.youtube.com/watch?v=KGDe1QvfKJ8)
 <!-- YOUTUBE:END -->
 
 ---
