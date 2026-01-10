@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moon fever hits DC as Artemis 2 rocket &#39;candle&#39; lights up Washington Monument just 1 month before launch &lpar;photos&rpar;](https://www.space.com/space-exploration/human-spaceflight/moon-fever-hits-dc-with-artemis-2-rocket-candle-lighting-up-washington-monument-1-month-before-launch-photos)
+- [ISS astronaut medical evacuation latest news: SpaceX readies Dragon spacecraft for Crew-11 return to Earth](https://www.space.com/live/astronaut-medical-evacuation-on-iss-jan-10-2026)
 - [Astronaut on ISS captures spectacular orbital video of zodiacal light, auroras and the Pleiades](https://www.space.com/stargazing/astronaut-on-iss-captures-spectacular-orbital-video-of-zodiacal-light-auroras-and-the-pleiades)
 - [SpaceX launches 29 Starlink satellites on its 3rd mission of 2026 &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-falcon-9-launch-group-6-96-jrti)
 - [NASA will evacuate SpaceX Crew-11 astronauts from International Space Station on Jan. 14](https://www.space.com/space-exploration/international-space-station/nasa-will-evacuate-spacex-crew-11-astronauts-from-international-space-station-on-jan-14)
-- [NASA to roll out rocket for Artemis 2 moon mission on Jan. 17](https://www.space.com/space-exploration/artemis/nasa-to-roll-out-rocket-for-artemis-2-moon-mission-on-jan-17)
-- [I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
