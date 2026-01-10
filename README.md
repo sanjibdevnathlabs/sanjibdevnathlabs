@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA will evacuate SpaceX Crew-11 astronauts from International Space Station on Jan. 14](https://www.space.com/space-exploration/international-space-station/nasa-will-evacuate-spacex-crew-11-astronauts-from-international-space-station-on-jan-14)
 - [NASA to roll out rocket for Artemis 2 moon mission on Jan. 17](https://www.space.com/space-exploration/artemis/nasa-to-roll-out-rocket-for-artemis-2-moon-mission-on-jan-17)
 - [I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/)
 - [Google moonshot spinout SandboxAQ claims an ex-exec is attempting ‘extortion’](https://techcrunch.com/2026/01/09/google-moonshot-spinout-sandboxaq-claims-an-ex-exec-is-attempting-extortion/)
 - [CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities](https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/)
-- [Space skeleton crew: Just 3 astronauts will run the ISS after Crew-11&#39;s medical evacuation](https://www.space.com/space-exploration/international-space-station/space-skeleton-crew-just-3-astronauts-will-run-the-iss-after-crew-11s-medical-evacuation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
