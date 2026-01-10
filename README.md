@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 192 — Space, 2026!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-192-space-2026)
 - [Space.com headlines crossword quiz for week of Jan. 5, 2026: The moon met which bright star in the night sky this week?](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-jan-5-2026-the-moon-met-which-bright-star-in-the-night-sky-this-week)
 - [Moon fever hits DC as Artemis 2 rocket &#39;candle&#39; lights up Washington Monument just 1 month before launch &lpar;photos&rpar;](https://www.space.com/space-exploration/human-spaceflight/moon-fever-hits-dc-with-artemis-2-rocket-candle-lighting-up-washington-monument-1-month-before-launch-photos)
 - [ISS astronaut medical evacuation latest news: SpaceX readies Dragon spacecraft for Crew-11 return to Earth](https://www.space.com/live/astronaut-medical-evacuation-on-iss-jan-10-2026)
 - [Astronaut on ISS captures spectacular orbital video of zodiacal light, auroras and the Pleiades](https://www.space.com/stargazing/astronaut-on-iss-captures-spectacular-orbital-video-of-zodiacal-light-auroras-and-the-pleiades)
-- [SpaceX launches 29 Starlink satellites on its 3rd mission of 2026 &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-falcon-9-launch-group-6-96-jrti)
 <!-- BLOG-POST-LIST:END -->
 
 ---
