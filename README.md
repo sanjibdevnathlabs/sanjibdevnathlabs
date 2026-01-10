@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/)
+- [Google moonshot spinout SandboxAQ claims an ex-exec is attempting ‘extortion’](https://techcrunch.com/2026/01/09/google-moonshot-spinout-sandboxaq-claims-an-ex-exec-is-attempting-extortion/)
 - [CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities](https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/)
 - [Space skeleton crew: Just 3 astronauts will run the ISS after Crew-11&#39;s medical evacuation](https://www.space.com/space-exploration/international-space-station/space-skeleton-crew-just-3-astronauts-will-run-the-iss-after-crew-11s-medical-evacuation)
 - [Strange cosmic objects spotted by the James Webb Space Telescope may be baby &#39;platypus&#39; galaxies — or something entirely new](https://www.space.com/astronomy/galaxies/strange-cosmic-objects-spotted-by-the-james-webb-space-telescope-may-be-baby-platypus-galaxies-or-something-entirely-new)
-- [How the Sleepbuds maker, Ozlo, is building a platform for sleep data](https://techcrunch.com/2026/01/09/how-the-sleepbuds-maker-ozlo-is-building-a-platform-for-sleep-data/)
-- [The best drone on the market is still at its lowest-ever price, but you&#39;ll have to hurry as stock is starting to run low](https://www.space.com/technology/drones/the-best-drone-on-the-market-is-still-at-its-lowest-ever-price-but-stock-is-starting-running-low)
 <!-- BLOG-POST-LIST:END -->
 
 ---
