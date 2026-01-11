@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indonesia and Malaysia block Grok over non-consensual, sexualized deepfakes](https://techcrunch.com/2026/01/11/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/)
+- [Wing to expand drone delivery to another 150 Walmart stores](https://techcrunch.com/2026/01/11/wing-to-expand-drone-delivery-to-another-150-walmart-stores/)
+- [Google announces a new protocol to facilitate commerce using AI agents](https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/)
+- [&#39;A completely new manufacturing frontier&#39;: Space Forge fires up 1st commercial semiconductor factory in space](https://www.space.com/space-exploration/a-completely-new-manufacturing-frontier-space-forge-fires-up-1st-commercial-semiconductor-factory-in-space)
 - [&#39;Black Mirror&#39; season 8 announced for Netflix, with creator Charlie Brooker back at the helm](https://www.space.com/entertainment/space-movies-shows/black-mirror-season-8-announced-for-netflix-with-creator-charlie-brooker-back-at-the-helm)
-- [Watch India launch advanced military satellite on rocket&#39;s 1st flight since May 2025 failure](https://www.space.com/space-exploration/launches-spacecraft/india-eos-n1-military-satellite-15-payloads-pslv-launch)
-- [SpaceX gets FCC approval to launch 7,500 more Starlink satellites](https://techcrunch.com/2026/01/10/spacex-gets-fcc-approval-to-launch-7500-more-starlink-satellites/)
-- [OpenAI is reportedly asking contractors to upload real work from past jobs](https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/)
-- [Indonesia blocks Grok over non-consensual, sexualized deepfakes](https://techcrunch.com/2026/01/10/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
