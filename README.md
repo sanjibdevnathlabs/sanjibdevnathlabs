@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nuclear startups are back in vogue with small reactors, and big challenges](https://techcrunch.com/2026/01/11/nuclear-startups-are-back-in-vogue-with-small-reactors-and-big-challenges/)
+- [I visited the largest collection of public telescopes in the US in Oregon&#39;s high desert, and the dark skies blew me away](https://www.space.com/astronomy/i-visited-the-largest-collection-of-public-telescopes-in-the-us-in-oregons-high-desert-and-the-dark-skies-blew-me-away)
+- [ISS astronaut medical evacuation latest news: New commander to take charge soon](https://www.space.com/live/astronaut-medical-evacuation-on-iss-jan-11-2026)
 - [Indonesia and Malaysia block Grok over non-consensual, sexualized deepfakes](https://techcrunch.com/2026/01/11/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/)
 - [Wing to expand drone delivery to another 150 Walmart stores](https://techcrunch.com/2026/01/11/wing-to-expand-drone-delivery-to-another-150-walmart-stores/)
-- [Google announces a new protocol to facilitate commerce using AI agents](https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/)
-- [&#39;A completely new manufacturing frontier&#39;: Space Forge fires up 1st commercial semiconductor factory in space](https://www.space.com/space-exploration/a-completely-new-manufacturing-frontier-space-forge-fires-up-1st-commercial-semiconductor-factory-in-space)
-- [&#39;Black Mirror&#39; season 8 announced for Netflix, with creator Charlie Brooker back at the helm](https://www.space.com/entertainment/space-movies-shows/black-mirror-season-8-announced-for-netflix-with-creator-charlie-brooker-back-at-the-helm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
