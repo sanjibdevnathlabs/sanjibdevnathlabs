@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will budget cuts force NASA to withdraw from Europe&#39;s next Venus mission?](https://www.space.com/astronomy/venus/will-budget-cuts-force-nasa-to-withdraw-from-europes-next-venus-mission)
+- [Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal](https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/)
+- [Pebble founder says his new company is ‘not a startup’](https://techcrunch.com/2026/01/12/pebble-founder-says-his-new-company-is-not-a-startup/)
 - [Anthropic’s new Cowork tool offers Claude Code without the code](https://techcrunch.com/2026/01/12/anthropics-new-cowork-tool-offers-claude-code-without-the-code/)
 - [Trump’s EPA plans to ignore health effects of air pollution](https://techcrunch.com/2026/01/12/trumps-epa-plans-to-ignore-health-effects-of-air-pollution/)
-- [Amazon says 97% of its devices can support Alexa+](https://techcrunch.com/2026/01/12/amazon-says-97-of-its-devices-can-support-alexa/)
-- [How Earth&#39;s orbit might help us find oil reserves within the planet](https://www.space.com/astronomy/earth/how-earths-orbit-might-help-us-find-oil-reserves-within-the-planet)
-- [Fintech firm Betterment confirms data breach after hackers send fake crypto scam notification to users](https://techcrunch.com/2026/01/12/fintech-firm-betterment-confirms-data-breach-after-hackers-send-fake-crypto-scam-notification-to-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
