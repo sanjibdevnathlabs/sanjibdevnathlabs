@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Superheavy-lift rockets like SpaceX&#39;s Starship could transform astronomy by making space telescopes cheaper](https://www.space.com/space-exploration/private-spaceflight/superheavy-lift-rockets-like-spacexs-starship-could-transform-astronomy-by-making-space-telescopes-cheaper)
+- [Meta hires former Trump advisor Dina Powell McCormick as president and vice chair](https://techcrunch.com/2026/01/12/meta-hires-former-trump-advisor-dina-powell-mccormick-as-president-and-vice-chair/)
+- [ISS astronaut medical evacuation latest news: Crew-11 pilot to hand control of station over today](https://www.space.com/news/live/astronaut-medical-evacuation-on-iss-jan-12-2026)
 - [Harmattan AI raises $200M Series B led by Dassault Aviation, becomes defense unicorn](https://techcrunch.com/2026/01/12/harmattan-ai-raises-200m-series-b-led-by-dassault-aviation-becomes-defense-unicorn/)
 - [Satellite sees 40-year-old iceberg melt, turn blue | Space photo of the day for January 12, 2025](https://www.space.com/astronomy/earth/satellite-sees-40-year-old-iceberg-melt-turn-blue-space-photo-of-the-day-for-january-12-2025)
-- [Astronomers discover cosmic hamburger has the potential to grow giant planets](https://www.space.com/astronomy/exoplanets/astronomers-discover-cosmic-hamburger-has-the-potential-to-grow-giant-planets)
-- [Astronomers baffled by &#39;mysterious disruptor&#39; with a mass of 1 million suns and a black hole for a heart](https://www.space.com/astronomy/black-holes/astronomers-baffled-by-mysterious-disruptor-with-a-mass-of-1-million-suns-and-a-black-hole-for-a-heart)
-- [These Gen Zers just raised $11.75M to put Africa’s defense back in the hands of Africans](https://techcrunch.com/2026/01/12/these-gen-zers-just-raised-11-75m-to-put-africas-defense-back-in-the-hands-of-africans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
