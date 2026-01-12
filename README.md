@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s Gemini to power Apple’s AI features like Siri](https://techcrunch.com/2026/01/12/googles-gemini-to-power-apples-ai-features-like-siri/)
+- [Paramount files lawsuit against Warner Bros. amidst controversial Netflix merger](https://techcrunch.com/2026/01/12/paramount-files-lawsuit-against-warner-bros-amidst-controversial-netflix-merger/)
+- [Mystery shockwave around dead star stuns astronomers: &#39;We found something never seen before and entirely unexpected.&#39;](https://www.space.com/astronomy/stars/mystery-shockwave-around-dead-star-stuns-astronomers-we-found-something-never-seen-before-and-entirely-unexpected)
+- [A New Jersey lawsuit shows how hard it is to fight deepfake porn](https://techcrunch.com/2026/01/12/a-new-jersey-lawsuit-shows-how-hard-it-is-to-fight-deepfake-porn/)
 - [Netflix had a huge night at the 2026 Golden Globes with 7 wins](https://techcrunch.com/2026/01/12/netflix-had-a-huge-night-at-the-2026-golden-globes-with-7-wins/)
-- [NASA funds new tech for upcoming &#39;Super Hubble&#39; to search for alien life: &#39;We intend to move with urgency&#39;](https://www.space.com/space-exploration/search-for-life/nasa-funds-new-tech-for-upcoming-super-hubble-to-search-for-alien-life-on-other-planets-we-intend-to-move-with-urgency)
-- [Luminar lines up $22 million bidder for its lidar business](https://techcrunch.com/2026/01/12/luminar-lines-up-22-million-bidder-for-its-lidar-business/)
-- [Superheavy-lift rockets like SpaceX&#39;s Starship could transform astronomy by making space telescopes cheaper](https://www.space.com/space-exploration/private-spaceflight/superheavy-lift-rockets-like-spacexs-starship-could-transform-astronomy-by-making-space-telescopes-cheaper)
-- [Meta hires former Trump advisor Dina Powell McCormick as president and vice chair](https://techcrunch.com/2026/01/12/meta-hires-former-trump-advisor-dina-powell-mccormick-as-president-and-vice-chair/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
