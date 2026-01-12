@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fintech firm Betterment confirms data breach after hackers send fake crypto scam notification to users](https://techcrunch.com/2026/01/12/fintech-firm-betterment-confirms-data-breach-after-hackers-send-fake-crypto-scam-notification-to-users/)
+- [Developers have made $550 billion on Apple’s App Store since 2008](https://techcrunch.com/2026/01/12/developers-have-made-550-billion-on-apples-app-store-since-2008/)
 - [Google’s Gemini to power Apple’s AI features like Siri](https://techcrunch.com/2026/01/12/googles-gemini-to-power-apples-ai-features-like-siri/)
 - [Paramount files lawsuit against Warner Bros. amidst controversial Netflix merger](https://techcrunch.com/2026/01/12/paramount-files-lawsuit-against-warner-bros-amidst-controversial-netflix-merger/)
 - [Mystery shockwave around dead star stuns astronomers: &#39;We found something never seen before and entirely unexpected.&#39;](https://www.space.com/astronomy/stars/mystery-shockwave-around-dead-star-stuns-astronomers-we-found-something-never-seen-before-and-entirely-unexpected)
-- [A New Jersey lawsuit shows how hard it is to fight deepfake porn](https://techcrunch.com/2026/01/12/a-new-jersey-lawsuit-shows-how-hard-it-is-to-fight-deepfake-porn/)
-- [Netflix had a huge night at the 2026 Golden Globes with 7 wins](https://techcrunch.com/2026/01/12/netflix-had-a-huge-night-at-the-2026-golden-globes-with-7-wins/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
