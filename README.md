@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These Gen Zers just raised $11.75M to put Africa’s defense back in the hands of Africans](https://techcrunch.com/2026/01/12/these-gen-zers-just-raised-11-75m-to-put-africas-defense-back-in-the-hands-of-africans/)
 - [inDrive turns to ads and groceries to diversify revenue](https://techcrunch.com/2026/01/11/indrive-turns-to-ads-and-groceries-to-diversify-revenue/)
 - [Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service](https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/)
 - [Google co-founders may be leaving California](https://techcrunch.com/2026/01/11/google-co-founders-may-be-pulling-out-of-california/)
 - [Instagram says there’s been ‘no breach’ despite password reset requests](https://techcrunch.com/2026/01/11/instagram-says-theres-been-no-breach-despite-password-reset-requests/)
-- [Google removes AI Overviews for certain medical queries](https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
