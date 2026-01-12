@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former NASA astronaut Mark Kelly sues Pentagon, Pete Hegseth over censure campaign](https://www.space.com/space-exploration/human-spaceflight/former-nasa-astronaut-mark-kelly-sues-pentagon-pete-hegseth-over-censure-campaign)
 - [Experts push back against cancellation of NASA&#39;s Mars sample return project](https://www.space.com/astronomy/mars/experts-push-back-against-cancellation-of-nasas-mars-sample-return-project)
 - [Why Amazon bought Bee, an AI wearable](https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/)
 - [Mark Zuckerberg says Meta is launching its own AI infrastructure initiative](https://techcrunch.com/2026/01/12/mark-zuckerberg-says-meta-is-launching-its-own-ai-infrastructure-initiative/)
 - [&#39;It is bittersweet&#39;: Crew-11 astronaut hands over control of ISS ahead of 1st-ever medical evacuation](https://www.space.com/space-exploration/international-space-station/it-is-bittersweet-crew-11-astronaut-hands-over-control-of-iss-ahead-of-1st-ever-medical-evacuation)
-- [Will budget cuts force NASA to withdraw from Europe&#39;s next Venus mission?](https://www.space.com/astronomy/venus/will-budget-cuts-force-nasa-to-withdraw-from-europes-next-venus-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
