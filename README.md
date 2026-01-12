@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic’s new Cowork tool offers Claude Code without the code](https://techcrunch.com/2026/01/12/anthropics-new-cowork-tool-offers-claude-code-without-the-code/)
+- [Trump’s EPA plans to ignore health effects of air pollution](https://techcrunch.com/2026/01/12/trumps-epa-plans-to-ignore-health-effects-of-air-pollution/)
+- [Amazon says 97% of its devices can support Alexa+](https://techcrunch.com/2026/01/12/amazon-says-97-of-its-devices-can-support-alexa/)
 - [How Earth&#39;s orbit might help us find oil reserves within the planet](https://www.space.com/astronomy/earth/how-earths-orbit-might-help-us-find-oil-reserves-within-the-planet)
 - [Fintech firm Betterment confirms data breach after hackers send fake crypto scam notification to users](https://techcrunch.com/2026/01/12/fintech-firm-betterment-confirms-data-breach-after-hackers-send-fake-crypto-scam-notification-to-users/)
-- [&#39;Stranger Things&#39; and 5 other places Einstein-Rosen Bridges have wormed their way into sci-fi](https://www.space.com/entertainment/space-movies-shows/stranger-things-and-5-other-places-einstein-rosen-bridges-have-wormed-their-way-into-sci-fi)
-- [Developers have made $550 billion on Apple’s App Store since 2008](https://techcrunch.com/2026/01/12/developers-have-made-550-billion-on-apples-app-store-since-2008/)
-- [Google’s Gemini to power Apple’s AI features like Siri](https://techcrunch.com/2026/01/12/googles-gemini-to-power-apples-ai-features-like-siri/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
