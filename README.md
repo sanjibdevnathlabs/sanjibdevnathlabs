@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek: Starfleet Academy&#39;: Paul Giamatti and Holly Hunter on beaming into the storied sci-fi franchise &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-starfleet-academy-paul-giamatti-and-holly-hunter-on-beaming-into-the-storied-sci-fi-franchise-interview)
 - [Microsoft announces glut of new data centers but says it won’t let your electricity bill go up](https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/)
 - [&#39;Death by a thousand cuts&#39;: James Webb Space Telescope figures out how black hole murdered Pablo&#39;s Galaxy](https://www.space.com/astronomy/black-holes/death-by-a-thousand-cuts-james-webb-space-telescope-figures-out-how-black-hole-murdered-pablos-galaxy)
-- [A consumer watchdog issued a warning about Google’s AI agent shopping protocol —  Google says she’s wrong](https://techcrunch.com/2026/01/13/a-consumer-watchdog-issued-a-warning-about-googles-ai-agent-shopping-protocol-google-says-shes-wrong/)
+- [A consumer watchdog issued a warning about Google’s AI agent shopping protocol — Google says she’s wrong](https://techcrunch.com/2026/01/13/a-consumer-watchdog-issued-a-warning-about-googles-ai-agent-shopping-protocol-google-says-shes-wrong/)
 - [Ammobia says it has reinvented a century-old technology](https://techcrunch.com/2026/01/13/ammobia-says-it-has-reinvented-a-century-old-technology/)
-- [Ring founder details the camera company’s ‘intelligent assistant’ era](https://techcrunch.com/2026/01/13/ring-founder-details-the-camera-companys-intelligent-assistant-era/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
