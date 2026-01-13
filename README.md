@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Neo humanoid maker 1X releases world model to help bots learn what they see](https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/)
+- [Google’s update for Veo 3.1 lets users create vertical videos through reference images](https://techcrunch.com/2026/01/13/googles-update-for-veo-3-1-lets-users-create-vertical-videos-through-reference-images/)
+- [This stunning Orion Nebula photo will make you want to grab a telescope this week](https://www.space.com/stargazing/astrophotography/this-stunning-orion-nebula-photo-will-make-you-want-to-grab-a-telescope-this-week)
+- [India reportedly tells quick-commerce firms to drop 10-minute delivery promise](https://techcrunch.com/2026/01/13/india-reportedly-tells-quick-commerce-firms-to-drop-10-minute-delivery-promise/)
 - [ElevenLabs CEO says the voice AI startup crossed $330 million ARR last year](https://techcrunch.com/2026/01/13/elevenlabs-ceo-says-the-voice-ai-startup-crossed-330-million-arr-last-year/)
-- [&#39;Backward and upward and tilted&#39;: Spaceflight causes astronauts&#39; brains to shift inside their skulls](https://www.space.com/space-exploration/human-spaceflight/backward-and-upward-and-tilted-spaceflight-causes-astronauts-brains-to-shift-inside-their-skulls)
-- [ISS astronaut medical evacuation latest news: Crew-11 astronauts prepare for SpaceX Dragon departure](https://www.space.com/news/live/astronaut-medical-evacuation-on-iss-jan-13-2026)
-- [Blast from the past: A rocket history quiz](https://www.space.com/space-exploration/launches-spacecraft/blast-from-the-past-a-rocket-history-quiz)
-- [Guardians of trivia: How much do you know about the Space Force?](https://www.space.com/space-exploration/guardians-of-trivia-how-much-do-you-know-about-the-space-force)
 <!-- BLOG-POST-LIST:END -->
 
 ---
