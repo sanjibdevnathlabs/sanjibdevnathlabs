@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Superorganism raises $25M to back biodiversity startups](https://techcrunch.com/2026/01/13/superorganism-raises-25m-to-back-biodiversity-startups/)
+- [Brazil orders Meta to suspend policy banning third-party AI chatbots from WhatsApp](https://techcrunch.com/2026/01/13/brazil-orders-meta-to-suspend-policy-banning-third-party-ai-chatbots-from-whatsapp/)
+- [Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz](https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/)
 - [This company is taking $1 million reservations for hotel rooms on the moon](https://www.space.com/astronomy/moon/this-company-is-taking-usd1-million-reservations-for-hotel-rooms-on-the-moon)
 - [Get a huge 25% off these Canon image-stabilized binoculars — one of our  favorites for stargazing under the new moon](https://www.space.com/stargazing/skywatching-kit/get-a-huge-25-percent-off-these-canon-image-stabilized-binoculars-one-of-our-favorites-for-stargazing-under-the-new-moon)
-- [Meta-backed Hupo finds growth after pivot to AI sales coaching from mental wellness](https://techcrunch.com/2026/01/12/meta-backed-hupo-finds-growth-after-pivot-to-ai-sales-coaching-from-mental-wellness/)
-- [More than 100 new tech unicorns were minted in 2025 — here they are](https://techcrunch.com/2026/01/12/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/)
-- [SpaceX launches 29 Starlink satellites into orbit from Florida &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-98-b1085-ccsfs-asog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
