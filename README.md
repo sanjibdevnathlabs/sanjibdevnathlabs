@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers watch 2 supermassive black holes caught in a twisted dance with never-before-seen jet behavior](https://www.space.com/astronomy/black-holes/astronomers-watch-2-supermassive-black-holes-caught-in-a-twisted-dance-with-never-before-seen-jet-behavior)
 - [Neo humanoid maker 1X releases world model to help bots learn what they see](https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/)
 - [Google’s update for Veo 3.1 lets users create vertical videos through reference images](https://techcrunch.com/2026/01/13/googles-update-for-veo-3-1-lets-users-create-vertical-videos-through-reference-images/)
 - [This stunning Orion Nebula photo will make you want to grab a telescope this week](https://www.space.com/stargazing/astrophotography/this-stunning-orion-nebula-photo-will-make-you-want-to-grab-a-telescope-this-week)
 - [India reportedly tells quick-commerce firms to drop 10-minute delivery promise](https://techcrunch.com/2026/01/13/india-reportedly-tells-quick-commerce-firms-to-drop-10-minute-delivery-promise/)
-- [ElevenLabs CEO says the voice AI startup crossed $330 million ARR last year](https://techcrunch.com/2026/01/13/elevenlabs-ceo-says-the-voice-ai-startup-crossed-330-million-arr-last-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
