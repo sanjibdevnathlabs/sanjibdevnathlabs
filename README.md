@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Trying Newcomb&#39;s Problem on AI - Computerphile](https://www.youtube.com/watch?v=bdbhKoypnFI)
+- [3 Git Workflows Every Developer Should Know &lpar;And When to Use Each&rpar;](https://www.youtube.com/watch?v=GQQqf-C2ha4)
+- [LLMs and Newcomb&#39;s Problem - Computerphile](https://www.youtube.com/watch?v=bdbhKoypnFI)
 - [I Just Gave n8n SUPERPOWERS](https://www.youtube.com/shorts/MDIqCQh5B-c)
 - [MIT Economist Jon Gruber responds to YouTube comments](https://www.youtube.com/watch?v=XmTBw0z899U)
 - [my NEW AI Supercomputer &lpar;3.5x faster!!!&rpar;](https://www.youtube.com/shorts/LDLRxUcdbyc)
-- [ACCESS your home network from ANYWHERE](https://www.youtube.com/shorts/8W92cckXuTg)
 <!-- YOUTUBE:END -->
 
 ---
