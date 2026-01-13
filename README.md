@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ring founder details the camera company’s ‘intelligent assistant’ era](https://techcrunch.com/2026/01/13/ring-founder-details-the-camera-companys-intelligent-assistant-era/)
+- [Man to plead guilty to hacking US Supreme Court filing system](https://techcrunch.com/2026/01/13/man-to-plead-guilty-to-hacking-us-supreme-court-filing-system/)
+- [Viruses may be more powerful in the International Space Station&#39;s microgravity environment](https://www.space.com/space-exploration/international-space-station/viruses-may-be-more-powerful-in-the-international-space-stations-microgravity-environment)
+- [Doctors think AI has a place in healthcare – but maybe not as a chatbot](https://techcrunch.com/2026/01/13/doctors-think-ai-has-a-place-in-healthcare-but-maybe-not-as-a-chatbot/)
 - [Astronomers watch 2 supermassive black holes caught in a twisted dance with never-before-seen jet behavior](https://www.space.com/astronomy/black-holes/astronomers-watch-2-supermassive-black-holes-caught-in-a-twisted-dance-with-never-before-seen-jet-behavior)
-- [Neo humanoid maker 1X releases world model to help bots learn what they see](https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/)
-- [Google’s update for Veo 3.1 lets users create vertical videos through reference images](https://techcrunch.com/2026/01/13/googles-update-for-veo-3-1-lets-users-create-vertical-videos-through-reference-images/)
-- [This stunning Orion Nebula photo will make you want to grab a telescope this week](https://www.space.com/stargazing/astrophotography/this-stunning-orion-nebula-photo-will-make-you-want-to-grab-a-telescope-this-week)
-- [India reportedly tells quick-commerce firms to drop 10-minute delivery promise](https://techcrunch.com/2026/01/13/india-reportedly-tells-quick-commerce-firms-to-drop-10-minute-delivery-promise/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
