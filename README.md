@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ISS astronaut medical evacuation latest news: Crew-11 astronauts prepare for SpaceX Dragon departure](https://www.space.com/news/live/astronaut-medical-evacuation-on-iss-jan-13-2026)
+- [Blast from the past: A rocket history quiz](https://www.space.com/space-exploration/launches-spacecraft/blast-from-the-past-a-rocket-history-quiz)
+- [Guardians of trivia: How much do you know about the Space Force?](https://www.space.com/space-exploration/guardians-of-trivia-how-much-do-you-know-about-the-space-force)
+- [Apple launches ‘Creator Studio’ bundle of apps for $12.99 per month](https://techcrunch.com/2026/01/13/apple-launches-creator-studio-bundle-of-apps-for-12-99-per-month/)
 - [ISS astronauts spy airglow and dwarf galaxy | Space photo of the day for Jan. 13, 2026](https://www.space.com/space-exploration/international-space-station/iss-astronauts-spy-airglow-and-dwarf-galaxy-space-photo-of-the-day-for-jan-13-2026)
-- [We may be witnessing the messy death of a star in real time](https://www.space.com/astronomy/stars/we-may-be-witnessing-the-messy-death-of-a-star-in-real-time)
-- [Deepgram raises $130M at $1.3B valuation and buys a YC AI startup](https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/)
-- [Slackbot is an AI agent now](https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/)
-- [Superorganism raises $25M to back biodiversity startups](https://techcrunch.com/2026/01/13/superorganism-raises-25m-to-back-biodiversity-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
