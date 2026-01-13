@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ElevenLabs CEO says the voice AI startup crossed $330 million ARR last year](https://techcrunch.com/2026/01/13/elevenlabs-ceo-says-the-voice-ai-startup-crossed-330-million-arr-last-year/)
+- [&#39;Backward and upward and tilted&#39;: Spaceflight causes astronauts&#39; brains to shift inside their skulls](https://www.space.com/space-exploration/human-spaceflight/backward-and-upward-and-tilted-spaceflight-causes-astronauts-brains-to-shift-inside-their-skulls)
 - [ISS astronaut medical evacuation latest news: Crew-11 astronauts prepare for SpaceX Dragon departure](https://www.space.com/news/live/astronaut-medical-evacuation-on-iss-jan-13-2026)
 - [Blast from the past: A rocket history quiz](https://www.space.com/space-exploration/launches-spacecraft/blast-from-the-past-a-rocket-history-quiz)
 - [Guardians of trivia: How much do you know about the Space Force?](https://www.space.com/space-exploration/guardians-of-trivia-how-much-do-you-know-about-the-space-force)
-- [Apple launches ‘Creator Studio’ bundle of apps for $12.99 per month](https://techcrunch.com/2026/01/13/apple-launches-creator-studio-bundle-of-apps-for-12-99-per-month/)
-- [ISS astronauts spy airglow and dwarf galaxy | Space photo of the day for Jan. 13, 2026](https://www.space.com/space-exploration/international-space-station/iss-astronauts-spy-airglow-and-dwarf-galaxy-space-photo-of-the-day-for-jan-13-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
