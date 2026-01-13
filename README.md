@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft announces glut of new data centers but says it won’t let your electricity bill go up](https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/)
+- [&#39;Death by a thousand cuts&#39;: James Webb Space Telescope figures out how black hole murdered Pablo&#39;s Galaxy](https://www.space.com/astronomy/black-holes/death-by-a-thousand-cuts-james-webb-space-telescope-figures-out-how-black-hole-murdered-pablos-galaxy)
+- [A consumer watchdog issued a warning about Google’s AI agent shopping protocol —  Google says she’s wrong](https://techcrunch.com/2026/01/13/a-consumer-watchdog-issued-a-warning-about-googles-ai-agent-shopping-protocol-google-says-shes-wrong/)
+- [Ammobia says it has reinvented a century-old technology](https://techcrunch.com/2026/01/13/ammobia-says-it-has-reinvented-a-century-old-technology/)
 - [Ring founder details the camera company’s ‘intelligent assistant’ era](https://techcrunch.com/2026/01/13/ring-founder-details-the-camera-companys-intelligent-assistant-era/)
-- [Man to plead guilty to hacking US Supreme Court filing system](https://techcrunch.com/2026/01/13/man-to-plead-guilty-to-hacking-us-supreme-court-filing-system/)
-- [Viruses may be more powerful in the International Space Station&#39;s microgravity environment](https://www.space.com/space-exploration/international-space-station/viruses-may-be-more-powerful-in-the-international-space-stations-microgravity-environment)
-- [Doctors think AI has a place in healthcare – but maybe not as a chatbot](https://techcrunch.com/2026/01/13/doctors-think-ai-has-a-place-in-healthcare-but-maybe-not-as-a-chatbot/)
-- [Astronomers watch 2 supermassive black holes caught in a twisted dance with never-before-seen jet behavior](https://www.space.com/astronomy/black-holes/astronomers-watch-2-supermassive-black-holes-caught-in-a-twisted-dance-with-never-before-seen-jet-behavior)
 <!-- BLOG-POST-LIST:END -->
 
 ---
