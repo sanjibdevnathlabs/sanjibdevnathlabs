@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta-backed Hupo finds growth after pivot to AI sales coaching from mental wellness](https://techcrunch.com/2026/01/12/meta-backed-hupo-finds-growth-after-pivot-to-ai-sales-coaching-from-mental-wellness/)
 - [More than 100 new tech unicorns were minted in 2025 — here they are](https://techcrunch.com/2026/01/12/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/)
 - [SpaceX launches 29 Starlink satellites into orbit from Florida &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-98-b1085-ccsfs-asog)
 - [OpenAI buys tiny health records startup Torch for, reportedly, $100M](https://techcrunch.com/2026/01/12/openai-buys-tiny-health-records-startup-torch-for-reportedly-100m/)
 - [Hands-on with Bee, Amazon’s latest AI wearable](https://techcrunch.com/2026/01/12/hands-on-with-bee-amazons-latest-ai-wearable/)
-- [Former NASA astronaut Mark Kelly sues Pentagon, Pete Hegseth over censure campaign](https://www.space.com/space-exploration/human-spaceflight/former-nasa-astronaut-mark-kelly-sues-pentagon-pete-hegseth-over-censure-campaign)
 <!-- BLOG-POST-LIST:END -->
 
 ---
