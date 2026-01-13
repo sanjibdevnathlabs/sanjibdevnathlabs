@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ISS astronauts spy airglow and dwarf galaxy | Space photo of the day for Jan. 13, 2026](https://www.space.com/space-exploration/international-space-station/iss-astronauts-spy-airglow-and-dwarf-galaxy-space-photo-of-the-day-for-jan-13-2026)
+- [We may be witnessing the messy death of a star in real time](https://www.space.com/astronomy/stars/we-may-be-witnessing-the-messy-death-of-a-star-in-real-time)
 - [Deepgram raises $130M at $1.3B valuation and buys a YC AI startup](https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/)
 - [Slackbot is an AI agent now](https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/)
 - [Superorganism raises $25M to back biodiversity startups](https://techcrunch.com/2026/01/13/superorganism-raises-25m-to-back-biodiversity-startups/)
-- [Brazil orders Meta to suspend policy banning third-party AI chatbots from WhatsApp](https://techcrunch.com/2026/01/13/brazil-orders-meta-to-suspend-policy-banning-third-party-ai-chatbots-from-whatsapp/)
-- [Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz](https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
