@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope&#39;s mysterious &#39;little red dots&#39; may be black holes in disguise](https://www.space.com/astronomy/black-holes/james-webb-space-telescopes-mysterious-little-red-dots-may-be-black-holes-in-disguise)
 - [Netflix’s first original video podcasts feature Pete Davidson and Michael Irvin](https://techcrunch.com/2026/01/14/netflixs-first-original-video-podcasts-feature-pete-davidson-and-michael-irvin/)
 - [App downloads declined again in 2025, but consumer spending soared to nearly $156B](https://techcrunch.com/2026/01/14/app-downloads-declined-again-in-2025-but-consumer-spending-soared-to-nearly-156b/)
 - [Massive supernova explosion may have created a binary black hole](https://www.space.com/astronomy/black-holes/massive-supernova-explosion-may-have-created-a-binary-black-hole)
 - [AI models are starting to crack high-level math problems](https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/)
-- [Blackstone, General Atlantic-backed Liftoff Mobile files for IPO](https://techcrunch.com/2026/01/14/blackstone-general-atlantic-backed-liftoff-mobile-files-for-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
