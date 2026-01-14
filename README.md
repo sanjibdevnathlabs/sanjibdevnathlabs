@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla will only offer subscriptions for Full Self-Driving &lpar;Supervised&rpar; going forward](https://techcrunch.com/2026/01/14/tesla-will-only-offer-subscriptions-for-full-self-driving-supervised-going-forward/)
-- [ISS astronaut medical evacuation latest news:  Crew-11 astronauts to undock from station](https://www.space.com/news/live/astronaut-medical-evacuation-on-iss-jan-14-2026)
-- [Satellite sees snowy Greenland peaks from space | Space photo of the day for Jan. 14, 2026](https://www.space.com/astronomy/earth/satellite-sees-snowy-greenland-peaks-from-space-space-photo-of-the-day-for-jan-14-2026)
-- [VoiceRun nabs $5.5M to build a voice agent factory](https://techcrunch.com/2026/01/14/voicerun-nabs-5-5m-to-build-voice-agent-factory/)
-- [The universe should be packed with tiny galaxies — so where are they?](https://www.space.com/astronomy/galaxies/the-universe-should-be-packed-with-tiny-galaxies-so-where-are-they)
+- [Robotics software maker Skild AI hits $14B valuation](https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/)
+- [Gemini’s new beta feature provides proactive responses based on your photos, emails, and more](https://techcrunch.com/2026/01/14/geminis-new-beta-feature-provides-proactive-responses-based-on-your-photos-emails-and-more/)
+- [How Mars&#39; ancient lakes grew shields of ice to stay warm as the Red Planet froze](https://www.space.com/astronomy/mars/how-mars-ancient-lakes-grew-shields-of-ice-to-stay-warm-as-the-red-planet-froze)
+- [AI security firm, depthfirst, announces $40 million series A](https://techcrunch.com/2026/01/14/ai-security-firm-depthfirst-announces-40-million-series-a/)
+- [US cargo tech company publicly exposed its shipping systems and customer data to the web](https://techcrunch.com/2026/01/14/us-cargo-tech-company-publicly-exposed-its-shipping-systems-and-customer-data-to-the-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
