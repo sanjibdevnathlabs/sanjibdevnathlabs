@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Crew-11 astronauts undock in 1st-ever medical evacuation from the International Space Station today](https://www.space.com/space-exploration/international-space-station/watch-crew-11-astronauts-undock-in-1st-ever-medical-evacuation-from-the-international-space-station-today)
 - [The US really wants a nuclear reactor on the moon by 2030. &#39;Achieving this future requires harnessing nuclear power,&#39; NASA chief says](https://www.space.com/astronomy/moon/the-us-really-wants-a-nuclear-reactor-on-the-moon-by-2030-achieving-this-future-requires-harnessing-nuclear-power-nasa-chief-says)
 - [New York governor clears path for robotaxis everywhere, with one notable exception](https://techcrunch.com/2026/01/13/new-york-governor-clears-path-for-robotaxis-everywhere-with-one-notable-exception/)
 - [What time is SpaceX Crew-11&#39;s medical evacuation from the ISS on Jan. 14?](https://www.space.com/space-exploration/international-space-station/what-time-is-spacex-crew-11s-medical-evacuation-from-the-iss-on-jan-14)
 - [&#39;Star Trek: Starfleet Academy&#39;: Paul Giamatti and Holly Hunter on beaming into the storied sci-fi franchise &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-starfleet-academy-paul-giamatti-and-holly-hunter-on-beaming-into-the-storied-sci-fi-franchise-interview)
-- [Microsoft announces glut of new data centers but says it won’t let your electricity bill go up](https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
