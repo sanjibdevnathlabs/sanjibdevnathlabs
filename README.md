@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starlink satellites lift off on SpaceX Falcon 9 from Cape Canaveral](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-98-1085-ccsfs-asog)
 - [Bandcamp takes a stand against AI music, banning it from the platform](https://techcrunch.com/2026/01/14/bandcamp-takes-a-stand-against-ai-music-banning-it-from-the-platform/)
 - [NASA X-ray instrument finds black holes act like &#39;cosmic seesaws&#39; shaping the universe](https://www.space.com/astronomy/black-holes/nasa-x-ray-instrument-finds-black-holes-act-like-cosmic-seesaws-shaping-the-universe)
 - [Bill Gates-backed Type One Energy raises $87M ahead of $250M Series B](https://techcrunch.com/2026/01/14/bill-gates-backed-type-one-energy-raises-87m-ahead-of-250m-series-b/)
 - [Robotics software maker Skild AI hits $14B valuation](https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/)
-- [Gemini’s new beta feature provides proactive responses based on your photos, emails, and more](https://techcrunch.com/2026/01/14/geminis-new-beta-feature-provides-proactive-responses-based-on-your-photos-emails-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
