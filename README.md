@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bandcamp takes a stand against AI music, banning it from the platform](https://techcrunch.com/2026/01/14/bandcamp-takes-a-stand-against-ai-music-banning-it-from-the-platform/)
+- [NASA X-ray instrument finds black holes act like &#39;cosmic seesaws&#39; shaping the universe](https://www.space.com/astronomy/black-holes/nasa-x-ray-instrument-finds-black-holes-act-like-cosmic-seesaws-shaping-the-universe)
+- [Bill Gates-backed Type One Energy raises $87M ahead of $250M Series B](https://techcrunch.com/2026/01/14/bill-gates-backed-type-one-energy-raises-87m-ahead-of-250m-series-b/)
 - [Robotics software maker Skild AI hits $14B valuation](https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/)
 - [Gemini’s new beta feature provides proactive responses based on your photos, emails, and more](https://techcrunch.com/2026/01/14/geminis-new-beta-feature-provides-proactive-responses-based-on-your-photos-emails-and-more/)
-- [How Mars&#39; ancient lakes grew shields of ice to stay warm as the Red Planet froze](https://www.space.com/astronomy/mars/how-mars-ancient-lakes-grew-shields-of-ice-to-stay-warm-as-the-red-planet-froze)
-- [AI security firm, depthfirst, announces $40 million series A](https://techcrunch.com/2026/01/14/ai-security-firm-depthfirst-announces-40-million-series-a/)
-- [US cargo tech company publicly exposed its shipping systems and customer data to the web](https://techcrunch.com/2026/01/14/us-cargo-tech-company-publicly-exposed-its-shipping-systems-and-customer-data-to-the-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
