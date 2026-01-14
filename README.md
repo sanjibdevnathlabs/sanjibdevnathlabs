@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [App downloads declined again in 2025, but consumer spending soared to nearly $156B](https://techcrunch.com/2026/01/14/app-downloads-declined-again-in-2025-but-consumer-spending-soared-to-nearly-156b/)
+- [Massive supernova explosion may have created a binary black hole](https://www.space.com/astronomy/black-holes/massive-supernova-explosion-may-have-created-a-binary-black-hole)
 - [AI models are starting to crack high-level math problems](https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/)
 - [Blackstone, General Atlantic-backed Liftoff Mobile files for IPO](https://techcrunch.com/2026/01/14/blackstone-general-atlantic-backed-liftoff-mobile-files-for-ipo/)
 - [Digg launches its new Reddit rival to the public](https://techcrunch.com/2026/01/14/digg-launches-its-new-reddit-rival-to-the-public/)
-- [&#39;Star Trek: Starfleet Academy&#39;: Robert Picardo and Gina Yashere on embracing the legacy of their roles in latest Trek show &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-starfleet-academy-robert-picardo-and-gina-yashere-on-embracing-the-legacy-of-their-roles-in-latest-trek-show-interview)
-- [Google’s Trends Explore page gets new Gemini capabilities](https://techcrunch.com/2026/01/14/googles-trends-explore-page-gets-new-gemini-capabilities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
