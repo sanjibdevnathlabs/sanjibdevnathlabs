@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VoiceRun nabs $5.5M to build voice agent factory](https://techcrunch.com/2026/01/14/voicerun-nabs-5-5m-to-build-voice-agent-factory/)
+- [Satellite sees snowy Greenland peaks from space | Space photo of the day for Jan. 14, 2026](https://www.space.com/astronomy/earth/satellite-sees-snowy-greenland-peaks-from-space-space-photo-of-the-day-for-jan-14-2026)
+- [VoiceRun nabs $5.5M to build a voice agent factory](https://techcrunch.com/2026/01/14/voicerun-nabs-5-5m-to-build-voice-agent-factory/)
 - [The universe should be packed with tiny galaxies — so where are they?](https://www.space.com/astronomy/galaxies/the-universe-should-be-packed-with-tiny-galaxies-so-where-are-they)
 - [Meta to reportedly lay off 10% of Reality Labs staff](https://techcrunch.com/2026/01/14/meta-to-reportedly-lay-off-10-of-reality-labs-staff/)
 - [SkyFi raises $12.7M to turn satellite images into insights](https://techcrunch.com/2026/01/14/skyfi-raises-12-7m-to-turn-satellite-images-into-insights/)
-- [Watch Crew-11 astronauts undock in 1st-ever medical evacuation from the International Space Station today](https://www.space.com/space-exploration/international-space-station/watch-crew-11-astronauts-undock-in-1st-ever-medical-evacuation-from-the-international-space-station-today)
 <!-- BLOG-POST-LIST:END -->
 
 ---
