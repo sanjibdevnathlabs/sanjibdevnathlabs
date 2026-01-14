@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VoiceRun nabs $5.5M to build voice agent factory](https://techcrunch.com/2026/01/14/voicerun-nabs-5-5m-to-build-voice-agent-factory/)
+- [The universe should be packed with tiny galaxies — so where are they?](https://www.space.com/astronomy/galaxies/the-universe-should-be-packed-with-tiny-galaxies-so-where-are-they)
+- [Meta to reportedly lay off 10% of Reality Labs staff](https://techcrunch.com/2026/01/14/meta-to-reportedly-lay-off-10-of-reality-labs-staff/)
 - [SkyFi raises $12.7M to turn satellite images into insights](https://techcrunch.com/2026/01/14/skyfi-raises-12-7m-to-turn-satellite-images-into-insights/)
 - [Watch Crew-11 astronauts undock in 1st-ever medical evacuation from the International Space Station today](https://www.space.com/space-exploration/international-space-station/watch-crew-11-astronauts-undock-in-1st-ever-medical-evacuation-from-the-international-space-station-today)
-- [The US really wants a nuclear reactor on the moon by 2030. &#39;Achieving this future requires harnessing nuclear power,&#39; NASA chief says](https://www.space.com/astronomy/moon/the-us-really-wants-a-nuclear-reactor-on-the-moon-by-2030-achieving-this-future-requires-harnessing-nuclear-power-nasa-chief-says)
-- [New York governor clears path for robotaxis everywhere, with one notable exception](https://techcrunch.com/2026/01/13/new-york-governor-clears-path-for-robotaxis-everywhere-with-one-notable-exception/)
-- [What time is SpaceX Crew-11&#39;s medical evacuation from the ISS on Jan. 14?](https://www.space.com/space-exploration/international-space-station/what-time-is-spacex-crew-11s-medical-evacuation-from-the-iss-on-jan-14)
 <!-- BLOG-POST-LIST:END -->
 
 ---
