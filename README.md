@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are &#39;dark&#39; stars? Scientists think they could explain 3 big mysteries in the universe](https://www.space.com/astronomy/black-holes/what-are-dark-stars-scientists-think-they-could-explain-3-big-mysteries-in-the-universe)
 - [Microsoft taps India’s Varaha for durable carbon removal offtake](https://techcrunch.com/2026/01/15/microsoft-taps-indias-varaha-for-asia-first-durable-carbon-removal-offtake/)
 - [SpaceX Crew-11 astronauts return to Earth after 1st-ever medical evacuation of ISS](https://www.space.com/space-exploration/international-space-station/spacex-crew-11-astronauts-return-to-earth-after-1st-ever-medical-evacuation-of-iss)
 - [Mira Murati’s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI](https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/)
 - [The FTC’s data-sharing order against GM is finally settled](https://techcrunch.com/2026/01/14/the-ftcs-data-sharing-order-against-gm-is-finally-settled/)
-- [India’s Emversity doubles valuation as it scales workers AI can’t replace](https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
