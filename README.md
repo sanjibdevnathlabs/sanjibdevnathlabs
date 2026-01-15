@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The US imposes 25% tariff on Nvidia’s H200 AI chips headed to China](https://techcrunch.com/2026/01/15/the-us-imposes-25-tariff-on-nvidias-h200-ai-chips-headed-to-china/)
+- [OpenAI invests in Sam Altman’s brain computer interface startup Merge Labs](https://techcrunch.com/2026/01/15/openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs/)
 - [How Mars &#39;punches above its weight&#39; to influence Earth&#39;s climate](https://www.space.com/astronomy/mars/how-mars-punches-above-its-weight-to-influence-earths-climate)
 - [Wikimedia Foundation announces new AI partnerships with Amazon, Meta, Microsoft, Perplexity and others](https://techcrunch.com/2026/01/15/wikimedia-foundation-announces-new-ai-partnerships-with-amazon-meta-microsoft-perplexity-and-others/)
 - [How one startup is using prebiotics to try and ease the copper shortage](https://techcrunch.com/2026/01/15/how-one-startup-is-using-prebiotics-to-try-and-ease-the-copper-shortage/)
-- [US senators demand answers from X, Meta, Alphabet and others on sexualized deepfakes](https://techcrunch.com/2026/01/15/us-senators-demand-answers-from-x-meta-alphabet-on-sexualized-deepfakes/)
-- [Satellites spy raging bushfires in Australia | Space photo of the day for Jan. 15, 2026](https://www.space.com/astronomy/earth/satellites-spy-raging-bushfires-in-australia-space-photo-of-the-day-for-jan-15-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
