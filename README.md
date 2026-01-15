@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft taps India’s Varaha for durable carbon removal offtake](https://techcrunch.com/2026/01/15/microsoft-taps-indias-varaha-for-asia-first-durable-carbon-removal-offtake/)
 - [SpaceX Crew-11 astronauts return to Earth after 1st-ever medical evacuation of ISS](https://www.space.com/space-exploration/international-space-station/spacex-crew-11-astronauts-return-to-earth-after-1st-ever-medical-evacuation-of-iss)
 - [Mira Murati’s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI](https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/)
 - [The FTC’s data-sharing order against GM is finally settled](https://techcrunch.com/2026/01/14/the-ftcs-data-sharing-order-against-gm-is-finally-settled/)
 - [India’s Emversity doubles valuation as it scales workers AI can’t replace](https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/)
-- [With Starfleet Academy beaming up to small screens and season four of Strange New Worlds later in the year, 2026 is a big year for Star Trek and you can save 37% on an annual subscription to Paramount Plus](https://www.space.com/entertainment/space-movies-shows/with-starfleet-academy-beaming-up-to-small-screens-save-37-percent-on-an-annual-subscription-to-paramount-plus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
