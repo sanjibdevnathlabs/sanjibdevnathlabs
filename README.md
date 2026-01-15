@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to watch &#39;Star Trek: Starfleet Academy&#39; online and from anywhere](https://www.space.com/entertainment/space-movies-shows/how-to-watch-star-trek-starfleet-academy-online-and-from-anywhere)
 - [&#39;This is NASA at its finest&#39;: Crew-11 astronauts in good shape after smooth medical evacuation and splashdown, agency says](https://www.space.com/space-exploration/human-spaceflight/this-is-nasa-at-its-finest-crew-11-astronauts-in-good-shape-after-smooth-medical-evacuation-and-splashdown-agency-says)
 - [After Italy, WhatsApp excludes Brazil from rival chatbot ban](https://techcrunch.com/2026/01/15/after-italy-whatsapp-excludes-brazil-from-rival-chatbot-ban/)
 - [Indian SpaceX rival EtherealX hits 5x valuation as it readies engine tests](https://techcrunch.com/2026/01/15/etherealx-jumps-5-5x-in-valuation-on-spacex-style-reuse-bet-from-india/)
 - [DJI Neo 2 drone review](https://www.space.com/technology/drones/dji-neo-2-drone-review)
-- [What are &#39;dark&#39; stars? Scientists think they could explain 3 big mysteries in the universe](https://www.space.com/astronomy/black-holes/what-are-dark-stars-scientists-think-they-could-explain-3-big-mysteries-in-the-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
