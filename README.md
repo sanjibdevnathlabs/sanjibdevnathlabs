@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The FTC’s data-sharing order against GM is finally settled](https://techcrunch.com/2026/01/14/the-ftcs-data-sharing-order-against-gm-is-finally-settled/)
+- [India’s Emversity doubles valuation as it scales workers AI can’t replace](https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/)
 - [With Starfleet Academy beaming up to small screens and season four of Strange New Worlds later in the year, 2026 is a big year for Star Trek and you can save 37% on an annual subscription to Paramount Plus](https://www.space.com/entertainment/space-movies-shows/with-starfleet-academy-beaming-up-to-small-screens-save-37-percent-on-an-annual-subscription-to-paramount-plus)
 - [Musk denies awareness of Grok sexual underage images as California AG launches probe](https://techcrunch.com/2026/01/14/musk-denies-awareness-of-grok-sexual-underage-images-as-california-ag-launches-probe/)
 - [OpenAI signs deal, worth $10B, for compute from Cerebras](https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/)
-- [James Webb Space Telescope&#39;s mysterious &#39;little red dots&#39; may be black holes in disguise](https://www.space.com/astronomy/black-holes/james-webb-space-telescopes-mysterious-little-red-dots-may-be-black-holes-in-disguise)
-- [Netflix’s first original video podcasts feature Pete Davidson and Michael Irvin](https://techcrunch.com/2026/01/14/netflixs-first-original-video-podcasts-feature-pete-davidson-and-michael-irvin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
