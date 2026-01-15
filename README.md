@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Every &#39;Avengers: Doomsday&#39; teaser trailer revealed so far](https://www.space.com/entertainment/space-movies-shows/every-avengers-doomsday-teaser-trailer-so-far)
+- [Taiwan to invest $250B in US semiconductor manufacturing](https://techcrunch.com/2026/01/15/taiwan-to-invest-250b-in-us-semiconductor-manufacturing/)
 - [Cyberthieves hit European Space Agency, stealing hundreds of gigabytes of data](https://www.space.com/space-exploration/esa-email-credentials-on-dark-web)
 - [AI video startup, Higgsfield, founded by ex-Snap exec, lands $1.3B valuation](https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/)
 - [Giraffe in space? Eerie dark nebula takes on an uncanny shape &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/giraffe-in-space-eerie-dark-nebula-takes-on-an-uncanny-shape-photo)
-- [Iran’s internet shutdown is now one of its longest ever, as protests continue](https://techcrunch.com/2026/01/15/irans-internet-shutdown-is-now-one-of-its-longest-ever-as-protests-continue/)
-- [The US imposes 25% tariff on Nvidia’s H200 AI chips headed to China](https://techcrunch.com/2026/01/15/the-us-imposes-25-tariff-on-nvidias-h200-ai-chips-headed-to-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
