@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Star Trek: Starfleet Academy&#39; is Hogwarts in space by way of &#39;Dawson&#39;s Creek&#39;, and we don&#39;t love it](https://www.space.com/entertainment/space-movies-shows/star-trek-starfleet-academy-is-hogwarts-in-space-by-way-of-dawsons-creek-and-we-dont-love-it)
-- [How to watch &#39;Star Trek: Starfleet Academy&#39; online and from anywhere](https://www.space.com/entertainment/space-movies-shows/how-to-watch-star-trek-starfleet-academy-online-and-from-anywhere)
-- [&#39;This is NASA at its finest&#39;: Crew-11 astronauts in good shape after smooth medical evacuation and splashdown, agency says](https://www.space.com/space-exploration/human-spaceflight/this-is-nasa-at-its-finest-crew-11-astronauts-in-good-shape-after-smooth-medical-evacuation-and-splashdown-agency-says)
-- [After Italy, WhatsApp excludes Brazil from rival chatbot ban](https://techcrunch.com/2026/01/15/after-italy-whatsapp-excludes-brazil-from-rival-chatbot-ban/)
-- [Indian SpaceX rival EtherealX hits 5x valuation as it readies engine tests](https://techcrunch.com/2026/01/15/etherealx-jumps-5-5x-in-valuation-on-spacex-style-reuse-bet-from-india/)
+- [How one startup is using probiotics to try and ease the copper shortage](https://techcrunch.com/2026/01/15/how-one-startup-is-using-probiotics-to-try-and-ease-the-copper-shortage/)
+- [US senators demand answers from X, Meta, Alphabet on sexualized deepfakes](https://techcrunch.com/2026/01/15/us-senators-demand-answers-from-x-meta-alphabet-on-sexualized-deepfakes/)
+- [Spotify raises its subscription prices in the U.S. again](https://techcrunch.com/2026/01/15/spotify-raises-its-subscription-prices-in-the-u-s-again/)
+- [Parloa triples its valuation in 8 months to $3B with $350M raise](https://techcrunch.com/2026/01/15/parloa-triples-its-valuation-in-8-months-to-3b-with-350m-raise/)
+- [Tiger Global loses India tax case tied to Walmart-Flipkart deal in blow to offshore playbook](https://techcrunch.com/2026/01/15/tiger-global-loses-india-tax-case-tied-to-walmart-flipkart-deal-in-blow-to-offshore-playbook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
