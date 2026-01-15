@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;This is NASA at its finest&#39;: Crew-11 astronauts in good shape after smooth medical evacuation and splashdown, agency says](https://www.space.com/space-exploration/human-spaceflight/this-is-nasa-at-its-finest-crew-11-astronauts-in-good-shape-after-smooth-medical-evacuation-and-splashdown-agency-says)
+- [After Italy, WhatsApp excludes Brazil from rival chatbot ban](https://techcrunch.com/2026/01/15/after-italy-whatsapp-excludes-brazil-from-rival-chatbot-ban/)
+- [Indian SpaceX rival EtherealX hits 5x valuation as it readies engine tests](https://techcrunch.com/2026/01/15/etherealx-jumps-5-5x-in-valuation-on-spacex-style-reuse-bet-from-india/)
+- [DJI Neo 2 drone review](https://www.space.com/technology/drones/dji-neo-2-drone-review)
 - [What are &#39;dark&#39; stars? Scientists think they could explain 3 big mysteries in the universe](https://www.space.com/astronomy/black-holes/what-are-dark-stars-scientists-think-they-could-explain-3-big-mysteries-in-the-universe)
-- [Microsoft taps India’s Varaha for durable carbon removal offtake](https://techcrunch.com/2026/01/15/microsoft-taps-indias-varaha-for-asia-first-durable-carbon-removal-offtake/)
-- [SpaceX Crew-11 astronauts return to Earth after 1st-ever medical evacuation of ISS](https://www.space.com/space-exploration/international-space-station/spacex-crew-11-astronauts-return-to-earth-after-1st-ever-medical-evacuation-of-iss)
-- [Mira Murati’s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI](https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/)
-- [The FTC’s data-sharing order against GM is finally settled](https://techcrunch.com/2026/01/14/the-ftcs-data-sharing-order-against-gm-is-finally-settled/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
