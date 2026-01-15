@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The AI lab revolving door spins ever faster](https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/)
+- [This SETI program is chasing down its final 100 signals. Could one of them be from aliens?](https://www.space.com/space-exploration/search-for-life/this-seti-program-is-chasing-down-its-final-100-signals-could-one-of-them-be-from-aliens)
 - [Every &#39;Avengers: Doomsday&#39; teaser trailer revealed so far](https://www.space.com/entertainment/space-movies-shows/every-avengers-doomsday-teaser-trailer-so-far)
 - [Taiwan to invest $250B in US semiconductor manufacturing](https://techcrunch.com/2026/01/15/taiwan-to-invest-250b-in-us-semiconductor-manufacturing/)
 - [Cyberthieves hit European Space Agency, stealing hundreds of gigabytes of data](https://www.space.com/space-exploration/esa-email-credentials-on-dark-web)
-- [AI video startup, Higgsfield, founded by ex-Snap exec, lands $1.3B valuation](https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/)
-- [Giraffe in space? Eerie dark nebula takes on an uncanny shape &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/giraffe-in-space-eerie-dark-nebula-takes-on-an-uncanny-shape-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
