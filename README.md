@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Giraffe in space? Eerie dark nebula takes on an uncanny shape &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/giraffe-in-space-eerie-dark-nebula-takes-on-an-uncanny-shape-photo)
+- [Iran’s internet shutdown is now one of its longest ever, as protests continue](https://techcrunch.com/2026/01/15/irans-internet-shutdown-is-now-one-of-its-longest-ever-as-protests-continue/)
 - [The US imposes 25% tariff on Nvidia’s H200 AI chips headed to China](https://techcrunch.com/2026/01/15/the-us-imposes-25-tariff-on-nvidias-h200-ai-chips-headed-to-china/)
 - [OpenAI invests in Sam Altman’s brain computer interface startup Merge Labs](https://techcrunch.com/2026/01/15/openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs/)
 - [How Mars &#39;punches above its weight&#39; to influence Earth&#39;s climate](https://www.space.com/astronomy/mars/how-mars-punches-above-its-weight-to-influence-earths-climate)
-- [Wikimedia Foundation announces new AI partnerships with Amazon, Meta, Microsoft, Perplexity, and others](https://techcrunch.com/2026/01/15/wikimedia-foundation-announces-new-ai-partnerships-with-amazon-meta-microsoft-perplexity-and-others/)
-- [How one startup is using prebiotics to try and ease the copper shortage](https://techcrunch.com/2026/01/15/how-one-startup-is-using-prebiotics-to-try-and-ease-the-copper-shortage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
