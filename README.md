@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese EVs inch closer to the US as Canada slashes tariffs](https://techcrunch.com/2026/01/16/chinese-evs-inch-closer-to-the-us-as-canada-slashes-tariffs/)
+- [Bundle up and look up: 5 winter sky wonders every stargazer should look out for](https://www.space.com/stargazing/bundle-up-and-look-up-5-winter-sky-wonders-every-stargazer-should-look-out-for)
+- [YouTube relaxes monetization guidelines for some controversial topics](https://techcrunch.com/2026/01/16/youtube-relaxes-monetization-guidelines-for-some-controversial-topics/)
+- [Bluesky rolls out cashtags and LIVE badges amid a boost in app installs](https://techcrunch.com/2026/01/16/bluesky-rolls-out-cashtags-and-live-badges-amid-a-boost-in-app-installs/)
 - [Italy investigates Activision Blizzard for pushing in-game purchases](https://techcrunch.com/2026/01/16/italy-investigates-activision-blizzard-for-pushing-in-game-purchases/)
-- [Jupiter has more oxygen than the sun, new simulations reveal](https://www.space.com/astronomy/jupiter/jupiter-has-more-oxygen-than-the-sun-new-simulations-reveal)
-- [The rise of ‘micro’ apps: non-developers are writing apps instead of buying them](https://techcrunch.com/2026/01/16/the-rise-of-micro-apps-non-developers-are-writing-apps-instead-of-buying-them/)
-- [Hubble Telescope sees baby stars hard at work | Space photo of the day for Jan. 16, 2025](https://www.space.com/astronomy/stars/hubble-telescope-sees-baby-stars-hard-at-work-space-photo-of-the-day-for-jan-16-2025)
-- [After a month of no answer, NASA will try hailing its silent MAVEN Mars orbiter today](https://www.space.com/astronomy/mars/after-a-month-of-no-answer-nasa-will-try-hailing-its-silent-maven-mars-orbiter-today)
 <!-- BLOG-POST-LIST:END -->
 
 ---
