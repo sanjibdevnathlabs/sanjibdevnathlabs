@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok quietly launches a micro drama app called ‘PineDrama’](https://techcrunch.com/2026/01/16/tiktok-quietly-launches-a-micro-drama-app-called-pinedrama/)
+- [Snowflake, Databricks challenger ClickHouse hits $15B valuation](https://techcrunch.com/2026/01/16/snowflake-databricks-challenger-clickhouse-hits-15b-valuation/)
+- [Congress passes $24.4 billion NASA budget, rejecting Trump&#39;s deep cuts](https://www.space.com/space-exploration/in-rejection-of-trumps-deep-cuts-congress-passes-usd24-4-billion-budget-for-nasa)
+- [TikTok quietly launches a microdrama app called ‘PineDrama’](https://techcrunch.com/2026/01/16/tiktok-quietly-launches-a-micro-drama-app-called-pinedrama/)
 - [Astronomers searching for alien life are sharpening our cosmic clocks. Here&#39;s why](https://www.space.com/space-exploration/search-for-life/astronomers-searching-for-alien-life-are-sharpening-our-cosmic-clocks-heres-why)
 - [EPA rules that xAI’s natural gas generators were illegally used](https://techcrunch.com/2026/01/16/epa-rules-that-xais-natural-gas-generators-were-illegally-used/)
-- [NASA hopes to launch Artemis 2 astronauts to the moon next month, but it&#39;s going to be tight: &#39;This is not a rush&#39;](https://www.space.com/space-exploration/artemis/nasa-hopes-to-launch-artemis-2-astronauts-to-the-moon-next-month-but-its-going-to-be-tight-this-is-not-a-rush)
-- [From OpenAI’s offices to a deal with Eli Lilly — how Chai Discovery became one of the flashiest names in AI drug development](https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
