@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch new batch of US spy satellites tonight](https://www.space.com/space-exploration/launches-spacecraft/spacex-nrol-105-spy-satellite-mission-launch)
+- [The AI healthcare gold rush is here](https://techcrunch.com/video/the-ai-healthcare-gold-rush-is-here/)
 - [Watch SpaceX Crew-11 spacecraft blaze a fiery trail through the sky during medical evacuation from ISS &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/watch-spacex-crew-11-spacecraft-blaze-a-fiery-trail-through-the-sky-during-medical-evacuation-from-iss-video)
 - [How a hacking campaign targeted high-profile Gmail and WhatsApp users across the Middle East](https://techcrunch.com/2026/01/16/how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east/)
 - [Northern lights may be visible in 15 states tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-15-states-tonight-jan-16)
-- [Artemis 2 rocket rollout latest news: NASA ready to move giant moon rocket](https://www.space.com/news/live/artemis-2-nasa-moon-rocket-rollout-jan-16-2026)
-- [X is down for the second time this week](https://techcrunch.com/2026/01/16/x-is-down-for-the-second-time-this-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
