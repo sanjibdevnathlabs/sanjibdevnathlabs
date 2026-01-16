@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok quietly launches a micro drama app called ‘PineDrama’](https://techcrunch.com/2026/01/16/tiktok-quietly-launches-a-micro-drama-app-called-pinedrama/)
+- [Astronomers searching for alien life are sharpening our cosmic clocks. Here&#39;s why](https://www.space.com/space-exploration/search-for-life/astronomers-searching-for-alien-life-are-sharpening-our-cosmic-clocks-heres-why)
+- [EPA rules that xAI’s natural gas generators were illegally used](https://techcrunch.com/2026/01/16/epa-rules-that-xais-natural-gas-generators-were-illegally-used/)
+- [NASA hopes to launch Artemis 2 astronauts to the moon next month, but it&#39;s going to be tight: &#39;This is not a rush&#39;](https://www.space.com/space-exploration/artemis/nasa-hopes-to-launch-artemis-2-astronauts-to-the-moon-next-month-but-its-going-to-be-tight-this-is-not-a-rush)
 - [From OpenAI’s offices to a deal with Eli Lilly — how Chai Discovery became one of the flashiest names in AI drug development](https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/)
-- [Supreme Court hacker posted stolen government data on Instagram](https://techcrunch.com/2026/01/16/supreme-court-hacker-posted-stolen-government-data-on-instagram/)
-- [Meet the trio of intrepid cadets boldly joining Star Trek: Starfleet Academy &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/meet-the-trio-of-intrepid-cadets-boldly-joining-star-trek-starfleet-academy-interview)
-- [ChatGPT users are about to get hit with targeted ads](https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/)
-- [Trump administration wants tech companies to buy $15B of power plants they may not use](https://techcrunch.com/2026/01/16/trump-administration-wants-tech-companies-to-buy-15b-of-power-plants-they-may-not-use/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
