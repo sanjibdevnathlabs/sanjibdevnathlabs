@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How a hacking campaign targeted high-profile Gmail and WhatsApp users across the Middle East](https://techcrunch.com/2026/01/16/how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east/)
+- [Artemis 2 rocket rollout latest news: NASA ready to move giant moon rocket](https://www.space.com/news/live/artemis-2-nasa-moon-rocket-rollout-jan-16-2026)
+- [X is down for the second time this week](https://techcrunch.com/2026/01/16/x-is-down-for-the-second-time-this-week/)
 - [Chinese EVs inch closer to the US as Canada slashes tariffs](https://techcrunch.com/2026/01/16/chinese-evs-inch-closer-to-the-us-as-canada-slashes-tariffs/)
 - [Bundle up and look up: 5 winter sky wonders every stargazer should look out for](https://www.space.com/stargazing/bundle-up-and-look-up-5-winter-sky-wonders-every-stargazer-should-look-out-for)
-- [YouTube relaxes monetization guidelines for some controversial topics](https://techcrunch.com/2026/01/16/youtube-relaxes-monetization-guidelines-for-some-controversial-topics/)
-- [Bluesky rolls out cashtags and LIVE badges amid a boost in app installs](https://techcrunch.com/2026/01/16/bluesky-rolls-out-cashtags-and-live-badges-amid-a-boost-in-app-installs/)
-- [Italy investigates Activision Blizzard for pushing in-game purchases](https://techcrunch.com/2026/01/16/italy-investigates-activision-blizzard-for-pushing-in-game-purchases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
