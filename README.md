@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch SpaceX launch new batch of US spy satellites tonight](https://www.space.com/space-exploration/launches-spacecraft/spacex-nrol-105-spy-satellite-mission-launch)
-- [The AI healthcare gold rush is here](https://techcrunch.com/video/the-ai-healthcare-gold-rush-is-here/)
-- [Watch SpaceX Crew-11 spacecraft blaze a fiery trail through the sky during medical evacuation from ISS &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/watch-spacex-crew-11-spacecraft-blaze-a-fiery-trail-through-the-sky-during-medical-evacuation-from-iss-video)
-- [How a hacking campaign targeted high-profile Gmail and WhatsApp users across the Middle East](https://techcrunch.com/2026/01/16/how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east/)
-- [Northern lights may be visible in 15 states tonight](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-15-states-tonight-jan-16)
+- [From OpenAI’s offices to a deal with Eli Lilly — how Chai Discovery became one of the flashiest names in AI drug development](https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/)
+- [Supreme Court hacker posted stolen government data on Instagram](https://techcrunch.com/2026/01/16/supreme-court-hacker-posted-stolen-government-data-on-instagram/)
+- [Meet the trio of intrepid cadets boldly joining Star Trek: Starfleet Academy &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/meet-the-trio-of-intrepid-cadets-boldly-joining-star-trek-starfleet-academy-interview)
+- [ChatGPT users are about to get hit with targeted ads](https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/)
+- [Trump administration wants tech companies to buy $15B of power plants they may not use](https://techcrunch.com/2026/01/16/trump-administration-wants-tech-companies-to-buy-15b-of-power-plants-they-may-not-use/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
