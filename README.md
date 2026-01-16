@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic taps former Microsoft India MD to lead Bengaluru expansion](https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/)
 - [Silicon Valley’s messiest breakup is definitely headed to court](https://techcrunch.com/2026/01/15/silicon-valleys-messiest-breakout-is-definitely-headed-to-court/)
 - [AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp](https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/)
 - [Beneath the ice: Satellites help map Antarctica&#39;s subglacial surface like never before](https://www.space.com/astronomy/earth/detailed-mapping-of-antarctica-subglacial-topography)
 - [The AI lab revolving door spins ever faster](https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/)
-- [This SETI program is chasing down its final 100 signals. Could one of them be from aliens?](https://www.space.com/space-exploration/search-for-life/this-seti-program-is-chasing-down-its-final-100-signals-could-one-of-them-be-from-aliens)
 <!-- BLOG-POST-LIST:END -->
 
 ---
