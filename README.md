@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch NASA roll huge Artemis 2 moon rocket out to the launch pad on Jan. 17](https://www.space.com/space-exploration/artemis/artemis-2-sls-orion-rocket-rollout-launch-pad-ksc-webcast)
 - [Snowflake, Databricks challenger ClickHouse hits $15B valuation](https://techcrunch.com/2026/01/16/snowflake-databricks-challenger-clickhouse-hits-15b-valuation/)
 - [Congress passes $24.4 billion NASA budget, rejecting Trump&#39;s deep cuts](https://www.space.com/space-exploration/in-rejection-of-trumps-deep-cuts-congress-passes-usd24-4-billion-budget-for-nasa)
 - [TikTok quietly launches a microdrama app called ‘PineDrama’](https://techcrunch.com/2026/01/16/tiktok-quietly-launches-a-micro-drama-app-called-pinedrama/)
 - [Astronomers searching for alien life are sharpening our cosmic clocks. Here&#39;s why](https://www.space.com/space-exploration/search-for-life/astronomers-searching-for-alien-life-are-sharpening-our-cosmic-clocks-heres-why)
-- [EPA rules that xAI’s natural gas generators were illegally used](https://techcrunch.com/2026/01/16/epa-rules-that-xais-natural-gas-generators-were-illegally-used/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
