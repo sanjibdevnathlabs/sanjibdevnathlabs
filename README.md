@@ -146,7 +146,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Say goodbye to Comet 3I/ATLAS! Watch it head for interstellar space in real-time with this free Jan. 16 livestream](https://www.space.com/astronomy/comets/say-goodbye-to-comet-3i-atlas-watch-it-head-for-interstellar-space-in-real-time-with-this-free-jan-16-livestream)
+- [Say goodbye to Comet 3I/ATLAS! Watch it head for interstellar space in real-time with this free livestream today](https://www.space.com/astronomy/comets/say-goodbye-to-comet-3i-atlas-watch-it-head-for-interstellar-space-in-real-time-with-this-free-jan-16-livestream)
 - [Anthropic taps former Microsoft India MD to lead Bengaluru expansion](https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/)
 - [Silicon Valley’s messiest breakup is definitely headed to court](https://techcrunch.com/2026/01/15/silicon-valleys-messiest-breakout-is-definitely-headed-to-court/)
 - [AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp](https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/)
