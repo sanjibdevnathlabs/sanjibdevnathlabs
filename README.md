@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oshen built the first ocean robot to collect data in a Category 5 hurricane](https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/)
 - [Space.com headlines crossword quiz for week of Jan. 12, 2026: What is an Einstein-Rosen bridge more commonly known as?](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-jan-12-2026-what-is-an-einstein-rosen-bridge-more-commonly-known-as)
 - [This Week In Space podcast: Episode 193 — A History of Tomorrow](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-193-a-history-of-tomorrow)
 - [1 month until a &#39;ring of fire&#39; annular solar eclipse puts on a show — mostly for penguins](https://www.space.com/stargazing/solar-eclipses/1-month-until-a-ring-of-fire-annular-solar-eclipse-2026-puts-on-a-show-mostly-for-penguins)
 - [Artemis 2 rocket rollout latest news: NASA begins rollout for giant moon rocket](https://www.space.com/news/live/artemis-2-nasa-moon-rocket-rollout-jan-17-2026)
-- [Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
