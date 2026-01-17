@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/)
 - [Crew-11 astronauts arrive in Houston after 1st-ever medical evacuation from ISS](https://www.space.com/space-exploration/human-spaceflight/nasa-says-its-crew-11-astronauts-have-arrived-in-houston-after-1st-ever-medical-evacuation-from-space-station)
 - [AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post](https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/)
 - [California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes](https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/)
 - [Watch NASA roll huge Artemis 2 moon rocket out to the launch pad on Jan. 17](https://www.space.com/space-exploration/artemis/artemis-2-sls-orion-rocket-rollout-launch-pad-ksc-webcast)
-- [Snowflake, Databricks challenger ClickHouse hits $15B valuation](https://techcrunch.com/2026/01/16/snowflake-databricks-challenger-clickhouse-hits-15b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
