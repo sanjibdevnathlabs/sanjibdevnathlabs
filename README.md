@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Mobility: ‘Physical AI’ enters the hype machine](https://techcrunch.com/2026/01/18/techcrunch-mobility-physical-ai-enters-the-hype-machine/)
+- [Threads edges out X in daily mobile users, new data shows](https://techcrunch.com/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data-shows/)
 - [How YC-backed Bucket Robotics survived its first CES](https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/)
 - [Star Trek: Voyager – Across the Unknown gets a release date, bringing roguelite survival action to the Delta Quadrant](https://www.space.com/entertainment/space-games/star-trek-voyager-across-the-unknown-gets-a-release-date-bringing-roguelite-survival-action-to-the-delta-quadrant)
 - [Moxie Marlinspike has a privacy-conscious alternative to ChatGPT](https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/)
-- [Does antimatter &#39;fall up&#39;?](https://www.space.com/astronomy/dark-universe/does-antimatter-fall-up)
-- [&#39;Starfleet Academy&#39; isn&#39;t the first time that &#39;Star Trek&#39; tried to go back to school](https://www.space.com/entertainment/space-movies-shows/starfleet-academy-isnt-the-first-time-that-star-trek-tried-to-go-back-to-school)
 <!-- BLOG-POST-LIST:END -->
 
 ---
