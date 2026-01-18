@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Does antimatter &#39;fall up&#39;?](https://www.space.com/astronomy/dark-universe/does-antimatter-fall-up)
+- [&#39;Starfleet Academy&#39; isn&#39;t the first time that &#39;Star Trek&#39; tried to go back to school](https://www.space.com/entertainment/space-movies-shows/starfleet-academy-isnt-the-first-time-that-star-trek-tried-to-go-back-to-school)
 - [What is below Earth, since space is present in every direction?](https://www.space.com/astronomy/what-is-below-earth-since-space-is-present-in-every-direction)
 - [New moon of January 2026 brings prime views of Jupiter, Saturn and winter stars tonight](https://www.space.com/stargazing/new-moon-brings-prime-views-of-jupiter-saturn-and-winter-stars)
 - [Hubble Telescope watches star blast out jet of hot gas 32 light-years long](https://www.space.com/astronomy/stars/hubble-telescope-watches-star-blast-out-jet-of-hot-gas-32-light-years-long)
-- [Why Silicon Valley is really talking about fleeing California &lpar;it’s not the 5%&rpar;](https://techcrunch.com/2026/01/17/why-silicon-valley-is-really-talking-about-fleeing-california-its-not-the-5/)
-- [Who gets to inherit the stars? A space ethicist on what we’re not talking about](https://techcrunch.com/2026/01/17/who-gets-to-inherit-the-stars-a-space-ethicist-on-what-were-not-talking-about/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
