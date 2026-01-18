@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How YC-backed Bucket Robotics survived its first CES](https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/)
+- [Star Trek: Voyager – Across the Unknown gets a release date, bringing roguelite survival action to the Delta Quadrant](https://www.space.com/entertainment/space-games/star-trek-voyager-across-the-unknown-gets-a-release-date-bringing-roguelite-survival-action-to-the-delta-quadrant)
+- [Moxie Marlinspike has a privacy-conscious alternative to ChatGPT](https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/)
 - [Does antimatter &#39;fall up&#39;?](https://www.space.com/astronomy/dark-universe/does-antimatter-fall-up)
 - [&#39;Starfleet Academy&#39; isn&#39;t the first time that &#39;Star Trek&#39; tried to go back to school](https://www.space.com/entertainment/space-movies-shows/starfleet-academy-isnt-the-first-time-that-star-trek-tried-to-go-back-to-school)
-- [What is below Earth, since space is present in every direction?](https://www.space.com/astronomy/what-is-below-earth-since-space-is-present-in-every-direction)
-- [New moon of January 2026 brings prime views of Jupiter, Saturn and winter stars tonight](https://www.space.com/stargazing/new-moon-brings-prime-views-of-jupiter-saturn-and-winter-stars)
-- [Hubble Telescope watches star blast out jet of hot gas 32 light-years long](https://www.space.com/astronomy/stars/hubble-telescope-watches-star-blast-out-jet-of-hot-gas-32-light-years-long)
 <!-- BLOG-POST-LIST:END -->
 
 ---
