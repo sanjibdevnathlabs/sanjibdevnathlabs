@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Telescope watches star blast out jet of hot gas 32 light-years long](https://www.space.com/astronomy/stars/hubble-telescope-watches-star-blast-out-jet-of-hot-gas-32-light-years-long)
 - [Why Silicon Valley is really talking about fleeing California &lpar;it’s not the 5%&rpar;](https://techcrunch.com/2026/01/17/why-silicon-valley-is-really-talking-about-fleeing-california-its-not-the-5/)
 - [Who gets to inherit the stars? A space ethicist on what we’re not talking about](https://techcrunch.com/2026/01/17/who-gets-to-inherit-the-stars-a-space-ethicist-on-what-were-not-talking-about/)
 - [Trump administration’s legal setbacks are good news for offshore wind — and the grid](https://techcrunch.com/2026/01/17/trump-administrations-legal-setbacks-are-good-news-for-offshore-wind-and-the-grid/)
 - [NASA rolls Artemis 2 rocket to the pad ahead of historic moon launch](https://www.space.com/space-exploration/artemis/nasa-rolls-artemis-2-rocket-to-the-pad-ahead-of-historic-moon-launch)
-- [Oshen built the first ocean robot to collect data in a Category 5 hurricane](https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
