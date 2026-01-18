@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia to invest in Anthropic, breaking VC taboo on backing rivals: FT](https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/)
 - [TechCrunch Mobility: ‘Physical AI’ enters the hype machine](https://techcrunch.com/2026/01/18/techcrunch-mobility-physical-ai-enters-the-hype-machine/)
 - [Threads edges out X in daily mobile users, new data shows](https://techcrunch.com/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data-shows/)
 - [How YC-backed Bucket Robotics survived its first CES](https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/)
 - [Star Trek: Voyager – Across the Unknown gets a release date, bringing roguelite survival action to the Delta Quadrant](https://www.space.com/entertainment/space-games/star-trek-voyager-across-the-unknown-gets-a-release-date-bringing-roguelite-survival-action-to-the-delta-quadrant)
-- [Moxie Marlinspike has a privacy-conscious alternative to ChatGPT](https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
