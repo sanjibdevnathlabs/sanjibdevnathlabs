@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Can You ACTUALLY Run AI on a Raspberry Pi?](https://www.youtube.com/shorts/gi3h2wr_wwM)
 - [.NET in 100 Seconds](https://www.youtube.com/watch?v=MFsYaRnrcPQ)
 - [NEW Raspberry Pi AI Hat Is a Massive Upgrade](https://www.youtube.com/shorts/tu1amrfflb8)
 - [The unhinged world of tech in 2026...](https://www.youtube.com/watch?v=EKOU3JWDNLI)
 - [S7SE Special Episode: Collaborating with Community Colleges](https://www.youtube.com/watch?v=rlObIk0Wk2g)
-- [2TB of RAM in one AI Supercomputer...](https://www.youtube.com/shorts/0ogfPb6aejo)
 <!-- YOUTUBE:END -->
 
 ---
