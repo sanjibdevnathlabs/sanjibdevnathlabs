@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here are the 55 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/)
+- [How to find 4 legendary spacecraft in January&#39;s night sky](https://www.space.com/stargazing/how-to-find-4-legendary-spacecraft-in-januarys-night-sky)
+- [DJI Mini 5 Pro drone review](https://www.space.com/technology/drones/dji-mini-5-pro-drone-review)
 - [Reborn black hole seen erupting across 1 million light-years of space like a cosmic volcano](https://www.space.com/astronomy/black-holes/reborn-black-hole-seen-erupting-across-1-million-light-years-of-space-like-a-cosmic-volcano)
 - [Well, there goes the metaverse!](https://techcrunch.com/2026/01/19/well-there-goes-the-metaverse/)
-- [Rogue agents and shadow AI: Why VCs are betting big on AI security](https://techcrunch.com/2026/01/19/rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security/)
-- [China previews how powerful its new Xuntian space telescope will be ahead of 2027 launch &lpar;video&rpar;](https://www.space.com/astronomy/china-previews-how-powerful-its-new-xuntian-space-telescope-will-be-ahead-of-2027-launch-video)
-- [Northern lights may be visible in 24 states tonight as massive CME races toward Earth](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-24-states-tonight-as-massive-cme-races-toward-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
