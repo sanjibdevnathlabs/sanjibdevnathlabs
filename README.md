@@ -137,8 +137,8 @@ I'm a software developer passionate about designing and building applications wi
 - [.NET in 100 Seconds](https://www.youtube.com/watch?v=MFsYaRnrcPQ)
 - [NEW Raspberry Pi AI Hat Is a Massive Upgrade](https://www.youtube.com/shorts/tu1amrfflb8)
 - [The unhinged world of tech in 2026...](https://www.youtube.com/watch?v=EKOU3JWDNLI)
+- [S7SE Special Episode: Collaborating with Community Colleges](https://www.youtube.com/watch?v=rlObIk0Wk2g)
 - [2TB of RAM in one AI Supercomputer...](https://www.youtube.com/shorts/0ogfPb6aejo)
-- [LLMs and Newcomb&#39;s Problem - Computerphile](https://www.youtube.com/watch?v=bdbhKoypnFI)
 <!-- YOUTUBE:END -->
 
 ---
