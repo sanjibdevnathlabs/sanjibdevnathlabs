@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How astronomers plan to detect the signatures of alien life in the atmospheres of distant planets](https://www.space.com/astronomy/exoplanets/how-astronomers-plan-to-detect-the-signatures-of-alien-life-in-the-atmospheres-of-distant-planets)
 - [What the first medical evacuation from the International Space Station tells us about healthcare in space](https://www.space.com/space-exploration/human-spaceflight/what-the-first-medical-evacuation-from-the-international-space-station-tells-us-about-healthcare-in-space)
-- [Here are the 55 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/)
+- [Here are the 55 US AI startups that raised $100M or more in 2025](https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/)
 - [How to find 4 legendary spacecraft in January&#39;s night sky](https://www.space.com/stargazing/how-to-find-4-legendary-spacecraft-in-januarys-night-sky)
 - [DJI Mini 5 Pro drone review](https://www.space.com/technology/drones/dji-mini-5-pro-drone-review)
-- [Reborn black hole seen erupting across 1 million light-years of space like a cosmic volcano](https://www.space.com/astronomy/black-holes/reborn-black-hole-seen-erupting-across-1-million-light-years-of-space-like-a-cosmic-volcano)
 <!-- BLOG-POST-LIST:END -->
 
 ---
