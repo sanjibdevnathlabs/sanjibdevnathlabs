@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sun erupts with powerful X-class flare as huge CME races toward Earth, impact possible within 24 hours](https://www.space.com/astronomy/sun/sun-erupts-with-powerful-x-class-flare-as-huge-cme-races-toward-earth-impact-possible-within-24-hours)
+- [Astronomers discover an enormous iron bar in the famous Ring Nebula: &#39;We definitely need to know more&#39;](https://www.space.com/astronomy/stars/astronomers-discover-an-enormous-iron-bar-in-the-famous-ring-nebula-we-definitely-need-to-know-more)
 - [SpaceX Falcon 9 rocket launches 29 Starlink satellites to orbit from Florida](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-100-b1080-ccsfs-asog)
 - [Sequoia to invest in Anthropic, breaking VC taboo on backing rivals: FT](https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/)
 - [TechCrunch Mobility: ‘Physical AI’ enters the hype machine](https://techcrunch.com/2026/01/18/techcrunch-mobility-physical-ai-enters-the-hype-machine/)
-- [Threads edges out X in daily mobile users, new data shows](https://techcrunch.com/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data-shows/)
-- [How YC-backed Bucket Robotics survived its first CES](https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
