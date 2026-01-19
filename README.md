@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Northern lights may be visible in 24 states tonight as massive CME races toward Earth](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-24-states-tonight-as-massive-cme-races-toward-earth)
+- [Looking ahead to 2026: What’s next for Startup Battlefield 200](https://techcrunch.com/2026/01/19/looking-ahead-to-2026-whats-next-for-startup-battlefield-200/)
+- [Biotics AI, Battlefield 2023, gains FDA approval for its AI-powered fetal ultrasound product](https://techcrunch.com/2026/01/19/biotics-ai-battlefield-2023-gains-fda-approval-for-its-ai-powered-fetal-ultrasound-product/)
+- [NASA rolls Artemis 2 moon rocket to launch pad | Space photo of the day for Jan. 19, 2025](https://www.space.com/space-exploration/artemis/nasa-rolls-artemis-2-moon-rocket-to-launch-pad-space-photo-of-the-day-for-jan-19-2025)
 - [Was the Red Planet once blue? New evidence points to an ancient ocean on Mars](https://www.space.com/astronomy/mars/was-the-red-planet-once-blue-new-evidence-points-to-an-ancient-ocean-on-mars)
-- [This is the sharpest view ever seen of a black hole&#39;s dusty disk](https://www.space.com/astronomy/james-webb-space-telescope/this-is-the-sharpest-view-ever-seen-of-a-black-holes-dusty-disk)
-- [Sun erupts with powerful X-class flare as huge CME races toward Earth, impact possible within 24 hours](https://www.space.com/astronomy/sun/sun-erupts-with-powerful-x-class-flare-as-huge-cme-races-toward-earth-impact-possible-within-24-hours)
-- [Astronomers discover an enormous iron bar in the famous Ring Nebula: &#39;We definitely need to know more&#39;](https://www.space.com/astronomy/stars/astronomers-discover-an-enormous-iron-bar-in-the-famous-ring-nebula-we-definitely-need-to-know-more)
-- [SpaceX Falcon 9 rocket launches 29 Starlink satellites to orbit from Florida](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-100-b1080-ccsfs-asog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
