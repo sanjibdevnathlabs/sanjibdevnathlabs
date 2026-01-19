@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Well, there goes the metaverse!](https://techcrunch.com/2026/01/19/well-there-goes-the-metaverse/)
+- [Rogue agents and shadow AI: Why VCs are betting big on AI security](https://techcrunch.com/2026/01/19/rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security/)
+- [China previews how powerful its new Xuntian space telescope will be ahead of 2027 launch &lpar;video&rpar;](https://www.space.com/astronomy/china-previews-how-powerful-its-new-xuntian-space-telescope-will-be-ahead-of-2027-launch-video)
 - [Northern lights may be visible in 24 states tonight as massive CME races toward Earth](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-24-states-tonight-as-massive-cme-races-toward-earth)
 - [Looking ahead to 2026: What’s next for Startup Battlefield 200](https://techcrunch.com/2026/01/19/looking-ahead-to-2026-whats-next-for-startup-battlefield-200/)
-- [Biotics AI, Battlefield 2023, gains FDA approval for its AI-powered fetal ultrasound product](https://techcrunch.com/2026/01/19/biotics-ai-battlefield-2023-gains-fda-approval-for-its-ai-powered-fetal-ultrasound-product/)
-- [NASA rolls Artemis 2 moon rocket to launch pad | Space photo of the day for Jan. 19, 2025](https://www.space.com/space-exploration/artemis/nasa-rolls-artemis-2-moon-rocket-to-launch-pad-space-photo-of-the-day-for-jan-19-2025)
-- [Was the Red Planet once blue? New evidence points to an ancient ocean on Mars](https://www.space.com/astronomy/mars/was-the-red-planet-once-blue-new-evidence-points-to-an-ancient-ocean-on-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
