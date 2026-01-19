@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This is the sharpest view ever seen of a black hole&#39;s dusty disk](https://www.space.com/astronomy/james-webb-space-telescope/this-is-the-sharpest-view-ever-seen-of-a-black-holes-dusty-disk)
 - [Sun erupts with powerful X-class flare as huge CME races toward Earth, impact possible within 24 hours](https://www.space.com/astronomy/sun/sun-erupts-with-powerful-x-class-flare-as-huge-cme-races-toward-earth-impact-possible-within-24-hours)
 - [Astronomers discover an enormous iron bar in the famous Ring Nebula: &#39;We definitely need to know more&#39;](https://www.space.com/astronomy/stars/astronomers-discover-an-enormous-iron-bar-in-the-famous-ring-nebula-we-definitely-need-to-know-more)
 - [SpaceX Falcon 9 rocket launches 29 Starlink satellites to orbit from Florida](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-100-b1080-ccsfs-asog)
 - [Sequoia to invest in Anthropic, breaking VC taboo on backing rivals: FT](https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/)
-- [TechCrunch Mobility: ‘Physical AI’ enters the hype machine](https://techcrunch.com/2026/01/18/techcrunch-mobility-physical-ai-enters-the-hype-machine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
