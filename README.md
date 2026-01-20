@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix is rolling out a live voting feature](https://techcrunch.com/2026/01/20/netflix-is-rolling-out-a-live-voting-feature/)
+- [Universal truths: Astronomy&#39;s deepest theories quiz](https://www.space.com/astronomy/universal-truths-astronomys-deepest-theories-quiz)
 - [Netflix revises offer to pay all cash for Warner Bros to stave off Paramount](https://techcrunch.com/2026/01/20/netflix-revises-offer-to-pay-all-cash-for-warner-bros-to-stave-off-paramount/)
 - [Mars orbiter sees odd etchings in the sand | Space photo of the day for Jan. 20, 2025](https://www.space.com/astronomy/mars/mars-orbiter-sees-odd-etchings-in-the-sand-space-photo-of-the-day-for-jan-20-2025)
-- [Indian vibe-coding startup Emergent raises $70M at $300M valuation from SoftBank, Khosla Ventures](https://techcrunch.com/2026/01/20/indian-vibe-coding-startup-emergent-raises-70m-at-300m-valuation-from-softbank-khosla-ventures/)
-- [James Webb Space Telescope discovers young galaxies age rapidly: &#39;It&#39;s like seeing 2-year-old children act like teenagers&#39;](https://www.space.com/astronomy/galaxies/james-webb-space-telescope-discovers-young-galaxies-age-rapidly-its-like-seeing-2-year-old-children-act-like-teenagers)
-- [Meta’s Oversight Board takes up permanent bans in landmark case](https://techcrunch.com/2026/01/20/metas-oversight-board-is-taking-on-its-first-case-focused-the-companys-ability-to-disable-accounts/)
+- [Indian vibe-coding startup Emergent triples valuation to $300M with $70M fundraise](https://techcrunch.com/2026/01/20/indian-vibe-coding-startup-emergent-raises-70m-at-300m-valuation-from-softbank-khosla-ventures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
