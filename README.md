@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin launching 6 people to suborbital space on Jan. 22](https://www.space.com/space-exploration/private-spaceflight/blue-origin-ns-38-suborbital-space-tourism-mission)
+- [Amazon CEO Andy Jassy says tariffs are starting to drive up product prices](https://techcrunch.com/2026/01/20/amazon-ceo-andy-jassy-says-tariffs-are-starting-to-drive-up-product-prices/)
+- [How to make a super-Earth: The universe&#39;s most common planets are whittled down by stellar radiation](https://www.space.com/astronomy/exoplanets/how-to-make-a-super-earth-the-universes-most-common-planets-are-whittled-down-by-stellar-radiation)
 - [ICE becomes one of the most-blocked accounts on Bluesky after its verification](https://techcrunch.com/2026/01/20/ice-becomes-one-of-the-most-blocked-accounts-on-bluesky-after-its-verification/)
 - [Retail startup Another raises a $2.5M seed to help sell excess inventory](https://techcrunch.com/2026/01/20/retail-startup-another-raises-a-2-5m-seed-to-help-sell-excess-inventory/)
-- [Total solar eclipse 2030: Everything you need to know about totality in southern Africa and southeast Australia](https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-2030-everything-you-need-to-know-about-totality-in-southern-africa-and-southeast-australia)
-- [Northern lights may be visible in 10 states tonight as Earth&#39;s magnetic field &#39;rings like a bell&#39; after CME impact](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-10-states-tonight-as-earths-magnetic-field-rings-like-a-bell-after-cme-impact)
-- [One of the first alternative app stores in the EU is shutting down](https://techcrunch.com/2026/01/20/one-of-the-first-alternative-app-stores-in-the-eu-is-shutting-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
