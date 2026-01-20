@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everstone combines Wingify, AB Tasty for $100M+ digital experience optimization platform](https://techcrunch.com/2026/01/20/everstone-combines-wingify-ab-tasty-for-100m-digital-experience-optimization-platform/)
 - [An armada of 6,500 Elite Dangerous players just embarked on a three-month expedition to explore the Milky Way, and there&#39;s still time to join them](https://www.space.com/entertainment/space-games/an-armada-of-6-500-elite-dangerous-players-just-embarked-on-a-three-month-expedition-to-explore-the-milky-way-and-theres-still-time-to-join-them)
 - [How astronomers plan to detect the signatures of alien life in the atmospheres of distant planets](https://www.space.com/astronomy/exoplanets/how-astronomers-plan-to-detect-the-signatures-of-alien-life-in-the-atmospheres-of-distant-planets)
 - [What the first medical evacuation from the International Space Station tells us about healthcare in space](https://www.space.com/space-exploration/human-spaceflight/what-the-first-medical-evacuation-from-the-international-space-station-tells-us-about-healthcare-in-space)
 - [Here are the 55 US AI startups that raised $100M or more in 2025](https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/)
-- [How to find 4 legendary spacecraft in January&#39;s night sky](https://www.space.com/stargazing/how-to-find-4-legendary-spacecraft-in-januarys-night-sky)
 <!-- BLOG-POST-LIST:END -->
 
 ---
