@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trump administration admits DOGE may have misused Americans’ Social Security data](https://techcrunch.com/2026/01/20/trump-administration-admits-doge-may-have-misused-americans-social-security-data/)
-- [UStrive security lapse exposed personal data of its users, including children](https://techcrunch.com/2026/01/20/ustrive-security-lapse-exposed-personal-data-of-its-users-including-children/)
-- [Ethernovia raises $90M as investors rush to fund ‘physical AI’](https://techcrunch.com/2026/01/20/ethernovia-raises-90m-as-investors-rush-to-fund-physical-ai/)
-- [Blue Origin launching 6 people to suborbital space on Jan. 22](https://www.space.com/space-exploration/private-spaceflight/blue-origin-ns-38-suborbital-space-tourism-mission)
-- [Amazon CEO Andy Jassy says tariffs are starting to drive up product prices](https://techcrunch.com/2026/01/20/amazon-ceo-andy-jassy-says-tariffs-are-starting-to-drive-up-product-prices/)
+- [Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’](https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/)
+- [Mysterious polar weather on Jupiter and Saturn could be key to understanding their insides](https://www.space.com/astronomy/solar-system/mysterious-polar-weather-on-jupiter-and-saturn-could-be-key-to-understanding-their-insides)
+- [X open sources its algorithm while facing a transparency fine and Grok controversies](https://techcrunch.com/2026/01/20/x-open-sources-its-algorithm-while-facing-a-transparency-fine-and-grok-controversies/)
+- [Luminar founder Austin Russell agrees to accept subpoena in bankruptcy case](https://techcrunch.com/2026/01/20/luminar-founder-austin-russell-agrees-to-accept-subpoena-in-bankruptcy-case/)
+- [Why Serve Robotics is acquiring a hospital assistant robot company](https://techcrunch.com/2026/01/20/why-serve-robotics-is-acquiring-a-hospital-assistant-robot-company/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
