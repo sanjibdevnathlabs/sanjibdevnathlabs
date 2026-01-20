@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How I&#39;d Learn DevOps from Scratch in 2026 &lpar;If I Could Start Over&rpar;](https://www.youtube.com/watch?v=Cpy20DnIDTI)
+- [A brief history of programming...](https://www.youtube.com/watch?v=9uW6B9LPntY)
+- [What Is Zero Trust? &lpar;And Why Hackers Hate It&rpar;](https://www.youtube.com/shorts/9okx4cA-wEE)
+- [If I would start DevOps from 0 - How would I start and what would I learn](https://www.youtube.com/watch?v=Cpy20DnIDTI)
 - [Can You ACTUALLY Run AI on a Raspberry Pi?](https://www.youtube.com/shorts/gi3h2wr_wwM)
 - [.NET in 100 Seconds](https://www.youtube.com/watch?v=MFsYaRnrcPQ)
-- [NEW Raspberry Pi AI Hat Is a Massive Upgrade](https://www.youtube.com/shorts/tu1amrfflb8)
-- [The unhinged world of tech in 2026...](https://www.youtube.com/watch?v=EKOU3JWDNLI)
 <!-- YOUTUBE:END -->
 
 ---
