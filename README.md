@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope discovers young galaxies age rapidly: &#39;It&#39;s like seeing 2-year-old children act like teenagers&#39;](https://www.space.com/astronomy/galaxies/james-webb-space-telescope-discovers-young-galaxies-age-rapidly-its-like-seeing-2-year-old-children-act-like-teenagers)
 - [Meta’s Oversight Board takes up permanent bans in landmark case](https://techcrunch.com/2026/01/20/metas-oversight-board-is-taking-on-its-first-case-focused-the-companys-ability-to-disable-accounts/)
 - [Comet Wierzchos buzzes the sun later today: But can you see it?](https://www.space.com/astronomy/comets/comet-wierzchos-buzzes-the-sun-later-today-but-can-you-see-it)
 - [Severe G4 geomagnetic storm sparks jaw-dropping northern lights worldwide &lpar;photos&rpar;](https://www.space.com/stargazing/auroras/severe-g4-geomagnetic-storm-sparks-jaw-dropping-northern-lights-worldwide-photos)
 - [Everstone combines Wingify, AB Tasty for $100M+ digital experience optimization platform](https://techcrunch.com/2026/01/20/everstone-combines-wingify-ab-tasty-for-100m-digital-experience-optimization-platform/)
-- [An armada of 6,500 Elite Dangerous players just embarked on a three-month expedition to explore the Milky Way, and there&#39;s still time to join them](https://www.space.com/entertainment/space-games/an-armada-of-6-500-elite-dangerous-players-just-embarked-on-a-three-month-expedition-to-explore-the-milky-way-and-theres-still-time-to-join-them)
 <!-- BLOG-POST-LIST:END -->
 
 ---
