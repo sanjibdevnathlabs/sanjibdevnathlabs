@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump administration admits DOGE may have misused Americans’ Social Security data](https://techcrunch.com/2026/01/20/trump-administration-admits-doge-may-have-misused-americans-social-security-data/)
+- [UStrive security lapse exposed personal data of its users, including children](https://techcrunch.com/2026/01/20/ustrive-security-lapse-exposed-personal-data-of-its-users-including-children/)
+- [Ethernovia raises $90M as investors rush to fund ‘physical AI’](https://techcrunch.com/2026/01/20/ethernovia-raises-90m-as-investors-rush-to-fund-physical-ai/)
 - [Blue Origin launching 6 people to suborbital space on Jan. 22](https://www.space.com/space-exploration/private-spaceflight/blue-origin-ns-38-suborbital-space-tourism-mission)
 - [Amazon CEO Andy Jassy says tariffs are starting to drive up product prices](https://techcrunch.com/2026/01/20/amazon-ceo-andy-jassy-says-tariffs-are-starting-to-drive-up-product-prices/)
-- [How to make a super-Earth: The universe&#39;s most common planets are whittled down by stellar radiation](https://www.space.com/astronomy/exoplanets/how-to-make-a-super-earth-the-universes-most-common-planets-are-whittled-down-by-stellar-radiation)
-- [ICE becomes one of the most-blocked accounts on Bluesky after its verification](https://techcrunch.com/2026/01/20/ice-becomes-one-of-the-most-blocked-accounts-on-bluesky-after-its-verification/)
-- [Retail startup Another raises a $2.5M seed to help sell excess inventory](https://techcrunch.com/2026/01/20/retail-startup-another-raises-a-2-5m-seed-to-help-sell-excess-inventory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
