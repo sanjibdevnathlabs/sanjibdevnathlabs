@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix revises offer to pay all cash for Warner Bros to stave off Paramount](https://techcrunch.com/2026/01/20/netflix-revises-offer-to-pay-all-cash-for-warner-bros-to-stave-off-paramount/)
+- [Mars orbiter sees odd etchings in the sand | Space photo of the day for Jan. 20, 2025](https://www.space.com/astronomy/mars/mars-orbiter-sees-odd-etchings-in-the-sand-space-photo-of-the-day-for-jan-20-2025)
+- [Indian vibe-coding startup Emergent raises $70M at $300M valuation from SoftBank, Khosla Ventures](https://techcrunch.com/2026/01/20/indian-vibe-coding-startup-emergent-raises-70m-at-300m-valuation-from-softbank-khosla-ventures/)
 - [James Webb Space Telescope discovers young galaxies age rapidly: &#39;It&#39;s like seeing 2-year-old children act like teenagers&#39;](https://www.space.com/astronomy/galaxies/james-webb-space-telescope-discovers-young-galaxies-age-rapidly-its-like-seeing-2-year-old-children-act-like-teenagers)
 - [Meta’s Oversight Board takes up permanent bans in landmark case](https://techcrunch.com/2026/01/20/metas-oversight-board-is-taking-on-its-first-case-focused-the-companys-ability-to-disable-accounts/)
-- [Comet Wierzchos buzzes the sun later today: But can you see it?](https://www.space.com/astronomy/comets/comet-wierzchos-buzzes-the-sun-later-today-but-can-you-see-it)
-- [Severe G4 geomagnetic storm sparks jaw-dropping northern lights worldwide &lpar;photos&rpar;](https://www.space.com/stargazing/auroras/severe-g4-geomagnetic-storm-sparks-jaw-dropping-northern-lights-worldwide-photos)
-- [Everstone combines Wingify, AB Tasty for $100M+ digital experience optimization platform](https://techcrunch.com/2026/01/20/everstone-combines-wingify-ab-tasty-for-100m-digital-experience-optimization-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
