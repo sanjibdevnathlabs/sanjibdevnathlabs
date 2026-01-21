@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI aims to ship its first device in 2026, and it could be earbuds](https://techcrunch.com/2026/01/21/openai-aims-to-ship-its-first-device-in-2026-and-it-could-be-earbuds/)
-- [TechCrunch Disrupt 2026 tickets now on sale: Lowest rates all year](https://techcrunch.com/2026/01/21/techcrunch-disrupt-2026-tickets-now-on-sale-lowest-rates-all-year/)
-- [Hubble sees baby stars in Large Magellanic Cloud | Space photo of the day for Jan. 21, 2026](https://www.space.com/astronomy/hubble-space-telescope/hubble-sees-baby-stars-in-large-magellanic-cloud-space-photo-of-the-day-for-jan-21-2026)
-- [Adobe Acrobat now lets you edit files using prompts, generate podcast summaries](https://techcrunch.com/2026/01/21/adobe-acrobat-now-lets-you-edit-files-using-prompts-generate-podcast-summaries/)
-- [NYT Games’ Scrabble-like game Crossplay is a dream come true](https://techcrunch.com/2026/01/21/nyt-games-scrabble-like-game-crossplay-is-a-dream-come-true/)
+- [YouTube TV’s multiview is getting a huge upgrade, letting viewers mix and match channels](https://techcrunch.com/2026/01/21/youtube-tvs-multiview-is-getting-a-huge-upgrade-letting-viewers-mix-and-match-channels/)
+- [We’re not nostalgic for 2016 — we’re nostalgic for the internet before all the slop](https://techcrunch.com/2026/01/21/were-not-nostalgic-for-2016-were-nostalgic-for-the-internet-before-all-the-slop/)
+- [OpenAI’s former sales leader joins VC firm Acrew: OpenAI taught her where startups can build a ‘moat’](https://techcrunch.com/2026/01/21/openais-former-sales-leader-joins-vc-firm-acrew-openai-taught-her-where-startups-can-build-a-moat/)
+- [Chinese capsule damaged by space-junk strike returns to Earth &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/chinese-capsule-damaged-by-space-junk-strike-returns-to-earth-video)
+- [YouTube will soon let creators make Shorts with their own AI likeness](https://techcrunch.com/2026/01/21/youtube-will-soon-let-creators-make-shorts-with-their-own-ai-likeness/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
