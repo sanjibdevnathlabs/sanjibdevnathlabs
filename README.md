@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple plans to make Siri an AI chatbot, report says](https://techcrunch.com/2026/01/21/apple-plans-to-make-siri-an-ai-chatbot-report-says/)
+- [Anthropic revises Claude’s ‘Constitution,’ and hints at chatbot consciousness](https://techcrunch.com/2026/01/21/anthropic-revises-claudes-constitution-and-hints-at-chatbot-consciousness/)
+- [&#39;Eye of God&#39; nebula looks like a cosmic lava lamp in new James Webb Space Telescope image](https://www.space.com/astronomy/galaxies/eye-of-god-nebula-looks-like-a-cosmic-lava-lamp-in-new-james-webb-space-telescope-image)
 - [&#39;Legends of Tomorrow&#39; at 10: Celebrating DC&#39;s scrappy version of &#39;Back to the Future&#39;](https://www.space.com/entertainment/space-movies-shows/legends-of-tomorrow-at-10-celebrating-dcs-scrappy-version-of-back-to-the-future)
 - [Apps for boycotting American products surge to the top of the Danish App Store](https://techcrunch.com/2026/01/21/apps-for-boycotting-american-products-surge-to-the-top-of-the-danish-app-store/)
-- [Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference](https://techcrunch.com/2026/01/21/irony-alert-hallucinated-citations-found-in-papers-from-neurips-the-prestigious-ai-conference/)
-- [Record-setting astronaut Suni Williams retires from NASA after 27 years](https://www.space.com/space-exploration/human-spaceflight/record-setting-astronaut-suni-williams-retires-from-nasa-after-27-years)
-- [Jeff Bezos&#39; Blue Origin plans to build 5,400-satellite megaconstellation](https://www.space.com/space-exploration/satellites/jeff-bezos-blue-origin-plans-to-build-5-400-satellite-megaconstellation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
