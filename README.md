@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lemonade launches an insurance product for Tesla Full Self-Driving customers](https://techcrunch.com/2026/01/21/lemonade-launches-an-insurance-product-for-tesla-full-self-driving-customers/)
+- [Eternal CEO Deepinder Goyal hands over reins to Blinkit chief as quick commerce takes off](https://techcrunch.com/2026/01/21/eternal-ceo-deepinder-goyal-hands-over-reins-to-blinkit-chief-as-quick-commerce-takes-off/)
+- [Zanskar thinks 1 TW of geothermal power is being overlooked](https://techcrunch.com/2026/01/21/zanskar-thinks-1-tw-of-geothermal-power-is-being-overlooked/)
+- [Medically evacuated Crew-11 astronauts to discuss their shortened ISS mission today: Watch it live](https://www.space.com/space-exploration/human-spaceflight/medically-evacuated-crew-11-astronauts-to-discuss-their-shortened-iss-mission-today-watch-it-live)
 - [Language learning marketplace Preply’s unicorn status embodies Ukrainian resilience](https://techcrunch.com/2026/01/21/language-learning-marketplace-preplys-unicorn-status-embodies-ukrainian-resilience/)
-- [India’s app downloads rebounded to 25.5 billion in 2025, fueled by AI assistants and microdrama boom](https://techcrunch.com/2026/01/21/indias-app-downloads-rebounded-to-25-5-billion-in-2025-fueled-by-ai-assistants-and-microdrama-boom/)
-- [Consumers spent more on mobile apps than games in 2025, driven by AI app adoption](https://techcrunch.com/2026/01/21/consumers-spent-more-on-mobile-apps-than-games-in-2025-driven-by-ai-app-adoption/)
-- [Watch private German rocket attempt history-making launch from Sweden today](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-orbital-launch-attempt-andoya-spaceport)
-- [Snap reaches settlement in social media addiction lawsuit](https://techcrunch.com/2026/01/20/snap-reaches-settlement-in-social-media-addiction-lawsuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
