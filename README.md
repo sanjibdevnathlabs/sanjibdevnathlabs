@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zipline charts drone delivery expansion with $600M in new funding](https://techcrunch.com/2026/01/21/zipline-charts-drone-delivery-expansion-with-600m-in-new-funding/)
+- [OpenEvidence hits $12B valuation, with new round led by Thrive, DST](https://techcrunch.com/2026/01/21/openevidence-hits-12b-valuation-with-new-round-led-by-thrive-dst/)
+- [Sci-fi extraction shooter &#39;Marathon&#39; is coming March 5, with new trailer showcasing all-star voice cast, collector&#39;s edition &amp; more &lpar;video&rpar;](https://www.space.com/entertainment/space-games/sci-fi-extraction-shooter-marathon-is-coming-march-5-with-new-trailer-showcasing-all-star-voice-cast-collectors-edition-and-more)
 - [Save 33% and watch Disney+ for just £3.99 a month. Don&#39;t miss out, this offer ends in January!](https://www.space.com/entertainment/space-movies-shows/save-33-percent-and-watch-disney-for-just-gbp3-99-a-month-dont-miss-out-this-offer-ends-in-january)
 - [&#39;The most incredible display of aurora I&#39;ve ever seen in my 20 years of flying&#39;. Pilot captures historic northern lights show from 37,000 feet &lpar;photos&rpar;](https://www.space.com/stargazing/auroras/the-most-incredible-display-of-aurora-ive-ever-seen-in-my-20-years-of-flying-pilot-captures-historic-northern-lights-show-from-37-000-feet-photos)
-- [Threads rolls out ads to all users worldwide](https://techcrunch.com/2026/01/21/threads-rolls-out-ads-to-all-users-worldwide/)
-- [YouTube TV’s multiview is getting a huge upgrade, letting viewers mix and match channels](https://techcrunch.com/2026/01/21/youtube-tvs-multiview-is-getting-a-huge-upgrade-letting-viewers-mix-and-match-channels/)
-- [We’re not nostalgic for 2016 — we’re nostalgic for the internet before all the slop](https://techcrunch.com/2026/01/21/were-not-nostalgic-for-2016-were-nostalgic-for-the-internet-before-all-the-slop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
