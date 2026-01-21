@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe Acrobat now lets you edit files using prompts, generate podcast summaries](https://techcrunch.com/2026/01/21/adobe-acrobat-now-lets-you-edit-files-using-prompts-generate-podcast-summaries/)
+- [NYT Games’ Scrabble-like game Crossplay is a dream come true](https://techcrunch.com/2026/01/21/nyt-games-scrabble-like-game-crossplay-is-a-dream-come-true/)
+- [PraxisPro raises $6M seed from AlleyCorp to coach medical sales reps](https://techcrunch.com/2026/01/21/praxispro-raises-6m-seed-from-alleycorp-to-coach-medical-sales-reps/)
+- [US Space Force awards 1st-of-its-kind $52 million contract to deorbit its satellites](https://www.space.com/space-exploration/launches-spacecraft/us-space-force-awards-1st-of-its-kind-usd52-million-contract-to-deorbit-its-satellites)
 - [Lemonade launches an insurance product for Tesla Full Self-Driving customers](https://techcrunch.com/2026/01/21/lemonade-launches-an-insurance-product-for-tesla-full-self-driving-customers/)
-- [Eternal CEO Deepinder Goyal hands over reins to Blinkit chief as quick commerce takes off](https://techcrunch.com/2026/01/21/eternal-ceo-deepinder-goyal-hands-over-reins-to-blinkit-chief-as-quick-commerce-takes-off/)
-- [Zanskar thinks 1 TW of geothermal power is being overlooked](https://techcrunch.com/2026/01/21/zanskar-thinks-1-tw-of-geothermal-power-is-being-overlooked/)
-- [Medically evacuated Crew-11 astronauts to discuss their shortened ISS mission today: Watch it live](https://www.space.com/space-exploration/human-spaceflight/medically-evacuated-crew-11-astronauts-to-discuss-their-shortened-iss-mission-today-watch-it-live)
-- [Language learning marketplace Preply’s unicorn status embodies Ukrainian resilience](https://techcrunch.com/2026/01/21/language-learning-marketplace-preplys-unicorn-status-embodies-ukrainian-resilience/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
