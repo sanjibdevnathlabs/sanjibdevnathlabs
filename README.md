@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI aims to ship its first device in 2026, and it could be earbuds](https://techcrunch.com/2026/01/21/openai-aims-to-ship-its-first-device-in-2026-and-it-could-be-earbuds/)
+- [TechCrunch Disrupt 2026 tickets now on sale: Lowest rates all year](https://techcrunch.com/2026/01/21/techcrunch-disrupt-2026-tickets-now-on-sale-lowest-rates-all-year/)
+- [Hubble sees baby stars in Large Magellanic Cloud | Space photo of the day for Jan. 21, 2026](https://www.space.com/astronomy/hubble-space-telescope/hubble-sees-baby-stars-in-large-magellanic-cloud-space-photo-of-the-day-for-jan-21-2026)
 - [Adobe Acrobat now lets you edit files using prompts, generate podcast summaries](https://techcrunch.com/2026/01/21/adobe-acrobat-now-lets-you-edit-files-using-prompts-generate-podcast-summaries/)
 - [NYT Games’ Scrabble-like game Crossplay is a dream come true](https://techcrunch.com/2026/01/21/nyt-games-scrabble-like-game-crossplay-is-a-dream-come-true/)
-- [PraxisPro raises $6M seed from AlleyCorp to coach medical sales reps](https://techcrunch.com/2026/01/21/praxispro-raises-6m-seed-from-alleycorp-to-coach-medical-sales-reps/)
-- [US Space Force awards 1st-of-its-kind $52 million contract to deorbit its satellites](https://www.space.com/space-exploration/launches-spacecraft/us-space-force-awards-1st-of-its-kind-usd52-million-contract-to-deorbit-its-satellites)
-- [Lemonade launches an insurance product for Tesla Full Self-Driving customers](https://techcrunch.com/2026/01/21/lemonade-launches-an-insurance-product-for-tesla-full-self-driving-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
