@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amagi slides in India debut, as cloud TV software firm tests investor appetite](https://techcrunch.com/2026/01/20/amagi-slides-in-india-debut-as-cloud-tv-software-firm-tests-investor-appetite/)
 - [Bolna nabs $6.3M from General Catalyst for its India-focused voice orchestration platform](https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/)
 - [Anthropic’s CEO stuns Davos with Nvidia criticism](https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/)
 - [Netflix to redesign its app as it competes with social platforms for daily engagement](https://techcrunch.com/2026/01/20/netflix-to-redesign-its-app-as-it-competes-with-social-platforms-for-daily-engagement/)
 - [One-time hot insurance tech Ethos poised to be first tech IPO of the year](https://techcrunch.com/2026/01/20/one-time-hot-insurance-tech-ethos-poised-to-be-first-tech-ipo-of-the-year/)
-- [In an effort to protect young users, ChatGPT will now predict how old you are](https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
