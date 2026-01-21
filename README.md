@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Legends of Tomorrow&#39; at 10: Celebrating DC&#39;s scrappy version of &#39;Back to the Future&#39;](https://www.space.com/entertainment/space-movies-shows/legends-of-tomorrow-at-10-celebrating-dcs-scrappy-version-of-back-to-the-future)
+- [Apps for boycotting American products surge to the top of the Danish App Store](https://techcrunch.com/2026/01/21/apps-for-boycotting-american-products-surge-to-the-top-of-the-danish-app-store/)
+- [Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference](https://techcrunch.com/2026/01/21/irony-alert-hallucinated-citations-found-in-papers-from-neurips-the-prestigious-ai-conference/)
 - [Record-setting astronaut Suni Williams retires from NASA after 27 years](https://www.space.com/space-exploration/human-spaceflight/record-setting-astronaut-suni-williams-retires-from-nasa-after-27-years)
 - [Jeff Bezos&#39; Blue Origin plans to build 5,400-satellite megaconstellation](https://www.space.com/space-exploration/satellites/jeff-bezos-blue-origin-plans-to-build-5-400-satellite-megaconstellation)
-- [You&#39;re getting warmer! Hot dark matter could refine cosmic game of hide and seek](https://www.space.com/astronomy/dark-universe/youre-getting-warmer-hot-dark-matter-could-refine-cosmic-game-of-hide-and-seek)
-- [Blue Origin’s satellite internet network TeraWave will move data at 6Tbps](https://techcrunch.com/2026/01/21/blue-origins-satellite-internet-network-terawave-will-move-data-at-6tbps/)
-- [Zipline charts drone delivery expansion with $600M in new funding](https://techcrunch.com/2026/01/21/zipline-charts-drone-delivery-expansion-with-600m-in-new-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
