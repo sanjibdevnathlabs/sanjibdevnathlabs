@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Record-setting astronaut Suni Williams retires from NASA after 27 years](https://www.space.com/space-exploration/human-spaceflight/record-setting-astronaut-suni-williams-retires-from-nasa-after-27-years)
+- [Jeff Bezos&#39; Blue Origin plans to build 5,400-satellite megaconstellation](https://www.space.com/space-exploration/satellites/jeff-bezos-blue-origin-plans-to-build-5-400-satellite-megaconstellation)
 - [You&#39;re getting warmer! Hot dark matter could refine cosmic game of hide and seek](https://www.space.com/astronomy/dark-universe/youre-getting-warmer-hot-dark-matter-could-refine-cosmic-game-of-hide-and-seek)
 - [Blue Origin’s satellite internet network TeraWave will move data at 6Tbps](https://techcrunch.com/2026/01/21/blue-origins-satellite-internet-network-terawave-will-move-data-at-6tbps/)
 - [Zipline charts drone delivery expansion with $600M in new funding](https://techcrunch.com/2026/01/21/zipline-charts-drone-delivery-expansion-with-600m-in-new-funding/)
-- [OpenEvidence hits $12B valuation, with new round led by Thrive, DST](https://techcrunch.com/2026/01/21/openevidence-hits-12b-valuation-with-new-round-led-by-thrive-dst/)
-- [Sci-fi extraction shooter &#39;Marathon&#39; is coming March 5, with new trailer showcasing all-star voice cast, collector&#39;s edition &amp; more &lpar;video&rpar;](https://www.space.com/entertainment/space-games/sci-fi-extraction-shooter-marathon-is-coming-march-5-with-new-trailer-showcasing-all-star-voice-cast-collectors-edition-and-more)
 <!-- BLOG-POST-LIST:END -->
 
 ---
