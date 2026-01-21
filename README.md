@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You&#39;re getting warmer! Hot dark matter could refine cosmic game of hide and seek](https://www.space.com/astronomy/dark-universe/youre-getting-warmer-hot-dark-matter-could-refine-cosmic-game-of-hide-and-seek)
+- [Blue Origin’s satellite internet network TeraWave will move data at 6Tbps](https://techcrunch.com/2026/01/21/blue-origins-satellite-internet-network-terawave-will-move-data-at-6tbps/)
 - [Zipline charts drone delivery expansion with $600M in new funding](https://techcrunch.com/2026/01/21/zipline-charts-drone-delivery-expansion-with-600m-in-new-funding/)
 - [OpenEvidence hits $12B valuation, with new round led by Thrive, DST](https://techcrunch.com/2026/01/21/openevidence-hits-12b-valuation-with-new-round-led-by-thrive-dst/)
 - [Sci-fi extraction shooter &#39;Marathon&#39; is coming March 5, with new trailer showcasing all-star voice cast, collector&#39;s edition &amp; more &lpar;video&rpar;](https://www.space.com/entertainment/space-games/sci-fi-extraction-shooter-marathon-is-coming-march-5-with-new-trailer-showcasing-all-star-voice-cast-collectors-edition-and-more)
-- [Save 33% and watch Disney+ for just £3.99 a month. Don&#39;t miss out, this offer ends in January!](https://www.space.com/entertainment/space-movies-shows/save-33-percent-and-watch-disney-for-just-gbp3-99-a-month-dont-miss-out-this-offer-ends-in-january)
-- [&#39;The most incredible display of aurora I&#39;ve ever seen in my 20 years of flying&#39;. Pilot captures historic northern lights show from 37,000 feet &lpar;photos&rpar;](https://www.space.com/stargazing/auroras/the-most-incredible-display-of-aurora-ive-ever-seen-in-my-20-years-of-flying-pilot-captures-historic-northern-lights-show-from-37-000-feet-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
