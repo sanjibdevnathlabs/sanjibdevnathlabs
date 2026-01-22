@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Former CEO of celeb fav gym Dogpound launches $5M fund to back wellness companies](https://techcrunch.com/2026/01/22/former-ceo-of-celeb-fav-gym-dogpound-launches-5m-fund-to-back-wellness-companies/)
-- [Vaonis Hestia smartphone-powered telescope review](https://www.space.com/stargazing/skywatching-kit/vaonis-hestia-smartphone-powered-telescope-review)
-- [Struggling fusion power company General Fusion to go public via $1B reverse merger](https://techcrunch.com/2026/01/22/struggling-fusion-power-company-general-fusion-to-go-public-via-1b-reverse-merger/)
-- [Waymo continues robotaxi ramp up with Miami service now open to public](https://techcrunch.com/2026/01/22/waymo-continues-robotaxi-ramp-up-with-miami-service-now-open-to-public/)
-- [Ireland proposes new law allowing police to use spyware](https://techcrunch.com/2026/01/22/ireland-proposes-new-law-allowing-police-to-use-spyware/)
+- [Cult sci-fi series &#39;Blake&#39;s 7&#39; reboot in the works, helmed by &#39;The Last of Us&#39; director Peter Hoar](https://www.space.com/entertainment/space-movies-shows/cult-sci-fi-series-blakes-7-reboot-in-the-works-helmed-by-the-last-of-us-director-peter-hoar)
+- [Substack launches a TV app](https://techcrunch.com/2026/01/22/substack-launches-a-tv-app/)
+- [Tesla launches robotaxi rides in Austin with no human safety driver](https://techcrunch.com/2026/01/22/tesla-launches-robotaxi-rides-in-austin-with-no-human-safety-driver/)
+- [Meta seeks to limit evidence in child safety case](https://techcrunch.com/2026/01/22/meta-seeks-to-limit-evidence-in-child-safety-case/)
+- [Google now offers free SAT practice exams, powered by Gemini](https://techcrunch.com/2026/01/22/google-now-offers-free-sat-practice-exams-powered-by-gemini/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
