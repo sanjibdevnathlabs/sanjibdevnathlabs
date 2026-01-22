@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former CEO of celeb fav gym Dogpound launches $5M fund to back wellness companies](https://techcrunch.com/2026/01/22/former-ceo-of-celeb-fav-gym-dogpound-launches-5m-fund-to-back-wellness-companies/)
+- [Vaonis Hestia smartphone-powered telescope review](https://www.space.com/stargazing/skywatching-kit/vaonis-hestia-smartphone-powered-telescope-review)
 - [Struggling fusion power company General Fusion to go public via $1B reverse merger](https://techcrunch.com/2026/01/22/struggling-fusion-power-company-general-fusion-to-go-public-via-1b-reverse-merger/)
 - [Waymo continues robotaxi ramp up with Miami service now open to public](https://techcrunch.com/2026/01/22/waymo-continues-robotaxi-ramp-up-with-miami-service-now-open-to-public/)
 - [Ireland proposes new law allowing police to use spyware](https://techcrunch.com/2026/01/22/ireland-proposes-new-law-allowing-police-to-use-spyware/)
-- [Blue Origin launches 6 space tourists to the final frontier after last-minute crew swap &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/blue-origin-ns-38-space-tourist-launch)
-- [SpaceX launches 25 Starlink satellites into orbit from California &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-vandenberg-group-17-30)
 <!-- BLOG-POST-LIST:END -->
 
 ---
