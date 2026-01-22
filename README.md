@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google reportedly snags up team behind AI voice startup Hume AI](https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/)
-- [From invisibility cloaks to AI chips: Neurophos raises $110M to build tiny optical processors for inferencing](https://techcrunch.com/2026/01/22/from-invisibility-cloaks-to-ai-chips-neurophos-raises-110m-to-build-tiny-optical-processors-for-inferencing/)
-- [ISS astronaut spots Artemis 2 moon rocket on the launch pad from space &lpar;photo&rpar;](https://www.space.com/space-exploration/human-spaceflight/iss-astronaut-spots-artemis-2-moon-rocket-on-the-launch-pad-from-space-photo)
-- [Anthropic has to keep revising its technical interview test so you can’t cheat on it with Claude](https://techcrunch.com/2026/01/22/anthropic-has-to-keep-revising-its-technical-interview-test-so-you-cant-cheat-on-it-with-claude/)
-- [Blue Origin schedules third New Glenn launch for late February, but not to the moon](https://techcrunch.com/2026/01/22/blue-origin-schedules-third-new-glenn-launch-for-late-february-but-not-to-the-moon/)
+- [SpaceX launches 25 Starlink satellites into orbit from California &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-vandenberg-group-17-30)
+- [Google’s AI Mode can now tap into your Gmail and Photos to provide tailored responses](https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/)
+- [James Webb Space Telescope discovers what remains after two stars collide and explode as a red nova](https://www.space.com/astronomy/stars/james-webb-space-telescope-discovers-what-remains-after-two-stars-collide-and-explode-as-a-red-nova)
+- [Rocket Lab launches its 1st mission of 2026, sending 2 satellites to orbit](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-first-launch-2026-open-cosmos-satellites)
+- [Here’s what you should know about the US TikTok deal](https://techcrunch.com/2026/01/22/heres-whats-you-should-know-about-the-us-tiktok-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
