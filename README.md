@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [iOptron 80mm White Light Solar Scope review](https://www.space.com/stargazing/skywatching-kit/ioptron-80mm-white-light-solar-scope-review)
+- [Former Google trio is building an interactive AI-powered learning app for kids](https://techcrunch.com/2026/01/22/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/)
+- [Wobbling exoplanet hints at a hidden exomoon so massive it could redefine the word &#39;moon&#39; altogether](https://www.space.com/astronomy/exoplanets/wobbling-exoplanet-hints-at-a-hidden-exomoon-so-massive-it-could-redefine-the-word-moon-altogether)
 - [Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable](https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/)
 - [Sources: Project SGLang spins out as RadixArk with $400M valuation as inference market explodes](https://techcrunch.com/2026/01/21/sources-project-sglang-spins-out-as-radixark-with-400m-valuation-as-inference-market-explodes/)
-- [&#39;We can handle any kind of difficult situation&#39;: Crew-11 astronauts say 1st medical evacuation from ISS had a silver lining](https://www.space.com/space-exploration/human-spaceflight/we-can-handle-any-kind-of-difficult-situation-crew-11-astronauts-say-1st-medical-evacuation-from-iss-had-a-silver-lining)
-- [A timeline of the US semiconductor market in 2025](https://techcrunch.com/2026/01/21/a-timeline-of-the-u-s-semiconductor-market-in-2025/)
-- [X copies Bluesky with a ‘Starterpacks’ feature that helps you find who to follow](https://techcrunch.com/2026/01/21/x-copies-bluesky-with-a-starterpacks-feature-that-helps-you-find-who-to-follow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
