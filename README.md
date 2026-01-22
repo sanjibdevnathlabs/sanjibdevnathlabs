@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable](https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/)
+- [Sources: Project SGLang spins out as RadixArk with $400M valuation as inference market explodes](https://techcrunch.com/2026/01/21/sources-project-sglang-spins-out-as-radixark-with-400m-valuation-as-inference-market-explodes/)
 - [&#39;We can handle any kind of difficult situation&#39;: Crew-11 astronauts say 1st medical evacuation from ISS had a silver lining](https://www.space.com/space-exploration/human-spaceflight/we-can-handle-any-kind-of-difficult-situation-crew-11-astronauts-say-1st-medical-evacuation-from-iss-had-a-silver-lining)
 - [A timeline of the US semiconductor market in 2025](https://techcrunch.com/2026/01/21/a-timeline-of-the-u-s-semiconductor-market-in-2025/)
 - [X copies Bluesky with a ‘Starterpacks’ feature that helps you find who to follow](https://techcrunch.com/2026/01/21/x-copies-bluesky-with-a-starterpacks-feature-that-helps-you-find-who-to-follow/)
-- [Todoist’s app now lets you add tasks to your to-do list by speaking to its AI](https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/)
-- [Apple plans to make Siri an AI chatbot, report says](https://techcrunch.com/2026/01/21/apple-plans-to-make-siri-an-ai-chatbot-report-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
