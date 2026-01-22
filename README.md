@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Voice AI engine and OpenAI partner LiveKit hits $1B valuation](https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/)
+- [Inference startup Inferact lands $150M to commercialize vLLM](https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/)
 - [A black hole &#39;feeding frenzy&#39; could help explain a cosmic mystery uncovered by the James Webb Space Telescope](https://www.space.com/astronomy/black-holes/a-black-hole-feeding-frenzy-could-help-explain-a-cosmic-mystery-uncovered-by-the-james-webb-space-telescope)
 - [Are AI agents ready for the workplace? A new benchmark raises doubts.](https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/)
 - [Microsoft 365 hit by outage, preventing access to emails and files](https://techcrunch.com/2026/01/22/microsoft-365-hit-by-outage-preventing-access-to-emails-and-files/)
-- [&#39;Vitus Reflux&#39; may be the lowest stakes episode of &#39;Star Trek&#39; ever. Luckily, it&#39;s also a lot of fun](https://www.space.com/entertainment/space-movies-shows/vitus-reflux-may-be-the-lowest-stakes-episode-of-star-trek-ever-luckily-its-also-a-lot-of-fun)
-- [Ring is adding a new content verification feature to videos](https://techcrunch.com/2026/01/22/ring-is-adding-a-new-content-verification-feature-to-videos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
