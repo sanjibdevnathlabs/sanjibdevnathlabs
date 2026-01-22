@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A black hole &#39;feeding frenzy&#39; could help explain a cosmic mystery uncovered by the James Webb Space Telescope](https://www.space.com/astronomy/black-holes/a-black-hole-feeding-frenzy-could-help-explain-a-cosmic-mystery-uncovered-by-the-james-webb-space-telescope)
+- [Are AI agents ready for the workplace? A new benchmark raises doubts.](https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/)
+- [Microsoft 365 hit by outage, preventing access to emails and files](https://techcrunch.com/2026/01/22/microsoft-365-hit-by-outage-preventing-access-to-emails-and-files/)
 - [&#39;Vitus Reflux&#39; may be the lowest stakes episode of &#39;Star Trek&#39; ever. Luckily, it&#39;s also a lot of fun](https://www.space.com/entertainment/space-movies-shows/vitus-reflux-may-be-the-lowest-stakes-episode-of-star-trek-ever-luckily-its-also-a-lot-of-fun)
 - [Ring is adding a new content verification feature to videos](https://techcrunch.com/2026/01/22/ring-is-adding-a-new-content-verification-feature-to-videos/)
-- [Google DeepMind CEO is ‘surprised’ OpenAI is rushing forward with ads in ChatGPT](https://techcrunch.com/2026/01/22/google-deepmind-ceo-is-surprised-openai-is-rushing-forward-with-ads-in-chatgpt/)
-- [Humans&amp; thinks coordination is the next frontier for AI, and they’re building a model to prove it](https://techcrunch.com/2026/01/22/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/)
-- [Cult sci-fi series &#39;Blake&#39;s 7&#39; reboot in the works, helmed by &#39;The Last of Us&#39; director Peter Hoar](https://www.space.com/entertainment/space-movies-shows/cult-sci-fi-series-blakes-7-reboot-in-the-works-helmed-by-the-last-of-us-director-peter-hoar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
