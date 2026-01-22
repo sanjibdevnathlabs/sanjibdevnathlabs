@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Vitus Reflux&#39; may be the lowest stakes episode of &#39;Star Trek&#39; ever. Luckily, it&#39;s also a lot of fun](https://www.space.com/entertainment/space-movies-shows/vitus-reflux-may-be-the-lowest-stakes-episode-of-star-trek-ever-luckily-its-also-a-lot-of-fun)
+- [Ring is adding a new content verification feature to videos](https://techcrunch.com/2026/01/22/ring-is-adding-a-new-content-verification-feature-to-videos/)
+- [Google DeepMind CEO is ‘surprised’ OpenAI is rushing forward with ads in ChatGPT](https://techcrunch.com/2026/01/22/google-deepmind-ceo-is-surprised-openai-is-rushing-forward-with-ads-in-chatgpt/)
+- [Humans&amp; thinks coordination is the next frontier for AI, and they’re building a model to prove it](https://techcrunch.com/2026/01/22/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/)
 - [Cult sci-fi series &#39;Blake&#39;s 7&#39; reboot in the works, helmed by &#39;The Last of Us&#39; director Peter Hoar](https://www.space.com/entertainment/space-movies-shows/cult-sci-fi-series-blakes-7-reboot-in-the-works-helmed-by-the-last-of-us-director-peter-hoar)
-- [Substack launches a TV app](https://techcrunch.com/2026/01/22/substack-launches-a-tv-app/)
-- [Tesla launches robotaxi rides in Austin with no human safety driver](https://techcrunch.com/2026/01/22/tesla-launches-robotaxi-rides-in-austin-with-no-human-safety-driver/)
-- [Meta seeks to limit evidence in child safety case](https://techcrunch.com/2026/01/22/meta-seeks-to-limit-evidence-in-child-safety-case/)
-- [Google now offers free SAT practice exams, powered by Gemini](https://techcrunch.com/2026/01/22/google-now-offers-free-sat-practice-exams-powered-by-gemini/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
