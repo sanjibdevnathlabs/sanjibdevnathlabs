@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See a slender crescent moon shine with Saturn in the western sky tonight](https://www.space.com/stargazing/see-a-slender-crescent-moon-shine-with-saturn-in-the-western-sky-tonight-jan-22-2025)
 - [Snapchat gives parents new insights into teens’ screen time and friends](https://techcrunch.com/2026/01/22/snapchat-gives-parents-new-insights-into-teens-screen-time-and-friends/)
 - [Quadric rides the shift from cloud AI to on-device inference — and it’s paying off](https://techcrunch.com/2026/01/22/quadric-rides-the-shift-from-cloud-ai-to-on-device-inference-and-its-paying-off/)
 - [Tiger Global, Microsoft to fully exit Walmart-backed PhonePe via its IPO](https://techcrunch.com/2026/01/22/tiger-global-microsoft-to-fully-exit-walmart-backed-phonepe-via-its-ipo/)
 - [iOptron 80mm White Light Solar Scope review](https://www.space.com/stargazing/skywatching-kit/ioptron-80mm-white-light-solar-scope-review)
-- [Former Google trio is building an interactive AI-powered learning app for kids](https://techcrunch.com/2026/01/22/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
