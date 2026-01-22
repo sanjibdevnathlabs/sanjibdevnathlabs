@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify brings AI-powered Prompted Playlists to the U.S. and Canada](https://techcrunch.com/2026/01/22/spotify-brings-ai-powered-prompted-playlists-to-the-u-s-and-canada/)
-- [See a slender crescent moon shine with Saturn in the western sky tonight](https://www.space.com/stargazing/see-a-slender-crescent-moon-shine-with-saturn-in-the-western-sky-tonight-jan-22-2025)
-- [Snapchat gives parents new insights into teens’ screen time and friends](https://techcrunch.com/2026/01/22/snapchat-gives-parents-new-insights-into-teens-screen-time-and-friends/)
-- [Quadric rides the shift from cloud AI to on-device inference — and it’s paying off](https://techcrunch.com/2026/01/22/quadric-rides-the-shift-from-cloud-ai-to-on-device-inference-and-its-paying-off/)
-- [Tiger Global, Microsoft to fully exit Walmart-backed PhonePe via its IPO](https://techcrunch.com/2026/01/22/tiger-global-microsoft-to-fully-exit-walmart-backed-phonepe-via-its-ipo/)
+- [Google reportedly snags up team behind AI voice startup Hume AI](https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/)
+- [From invisibility cloaks to AI chips: Neurophos raises $110M to build tiny optical processors for inferencing](https://techcrunch.com/2026/01/22/from-invisibility-cloaks-to-ai-chips-neurophos-raises-110m-to-build-tiny-optical-processors-for-inferencing/)
+- [ISS astronaut spots Artemis 2 moon rocket on the launch pad from space &lpar;photo&rpar;](https://www.space.com/space-exploration/human-spaceflight/iss-astronaut-spots-artemis-2-moon-rocket-on-the-launch-pad-from-space-photo)
+- [Anthropic has to keep revising its technical interview test so you can’t cheat on it with Claude](https://techcrunch.com/2026/01/22/anthropic-has-to-keep-revising-its-technical-interview-test-so-you-cant-cheat-on-it-with-claude/)
+- [Blue Origin schedules third New Glenn launch for late February, but not to the moon](https://techcrunch.com/2026/01/22/blue-origin-schedules-third-new-glenn-launch-for-late-february-but-not-to-the-moon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
