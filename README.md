@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Struggling fusion power company General Fusion to go public via $1B reverse merger](https://techcrunch.com/2026/01/22/struggling-fusion-power-company-general-fusion-to-go-public-via-1b-reverse-merger/)
+- [Waymo continues robotaxi ramp up with Miami service now open to public](https://techcrunch.com/2026/01/22/waymo-continues-robotaxi-ramp-up-with-miami-service-now-open-to-public/)
+- [Ireland proposes new law allowing police to use spyware](https://techcrunch.com/2026/01/22/ireland-proposes-new-law-allowing-police-to-use-spyware/)
+- [Blue Origin launches 6 space tourists to the final frontier after last-minute crew swap &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/blue-origin-ns-38-space-tourist-launch)
 - [SpaceX launches 25 Starlink satellites into orbit from California &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-vandenberg-group-17-30)
-- [Google’s AI Mode can now tap into your Gmail and Photos to provide tailored responses](https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/)
-- [James Webb Space Telescope discovers what remains after two stars collide and explode as a red nova](https://www.space.com/astronomy/stars/james-webb-space-telescope-discovers-what-remains-after-two-stars-collide-and-explode-as-a-red-nova)
-- [Rocket Lab launches its 1st mission of 2026, sending 2 satellites to orbit](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-first-launch-2026-open-cosmos-satellites)
-- [Here’s what you should know about the US TikTok deal](https://techcrunch.com/2026/01/22/heres-whats-you-should-know-about-the-us-tiktok-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
