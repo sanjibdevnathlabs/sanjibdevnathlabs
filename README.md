@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rippling/Deel corporate spying scandal may have taken another wild turn](https://techcrunch.com/2026/01/23/the-rippling-deel-corporate-spying-scandal-may-have-taken-another-wild-turn/)
+- [NASA&#39;s Artemis 2 moon rocket is on the launch pad. What&#39;s next?](https://www.space.com/space-exploration/human-spaceflight/nasas-artemis-2-moon-rocket-is-on-the-launch-pad-whats-next)
+- [What to know about Netflix’s landmark acquisition of Warner Bros.](https://techcrunch.com/2026/01/23/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/)
 - [Researchers say Russian government hackers were behind attempted Poland power outage](https://techcrunch.com/2026/01/23/researchers-say-russian-government-hackers-were-behind-attempted-poland-power-outage/)
 - [How did Davos turn into a tech conference?](https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/)
-- [Jeff Bezos&#39; Blue Origin will refly booster on next launch of powerful New Glenn rocket](https://www.space.com/space-exploration/launches-spacecraft/jeff-bezos-blue-origin-will-refly-booster-on-next-launch-of-powerful-new-glenn-rocket)
-- [Two cosmic dogs rule the winter sky — here&#39;s how to spot them this week](https://www.space.com/stargazing/two-cosmic-dogs-rule-the-winter-sky-heres-how-to-spot-them-this-week)
-- [By the power of nostalgia! The live-action &#39;Masters of the Universe&#39; trailer is finally here, and it actually looks good &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/by-the-power-of-nostalgia-the-live-action-masters-of-the-universe-trailer-is-finally-here-and-it-actually-looks-good-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
