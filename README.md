@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Only 1 week left &lpar;or until the first 500 passes are gone&rpar;: The first TechCrunch Disrupt 2026 ticket discount is ending](https://techcrunch.com/2026/01/23/only-1-week-left-or-until-the-first-500-passes-are-gone-the-first-disrupt-2026-ticket-discount-is-ending/)
-- [Why binoculars are best for beginner astronomers to stargaze](https://www.space.com/stargazing/skywatching-kit/why-binoculars-are-best-for-beginner-astronomers-to-stargaze)
-- [Houston Texans celebrate upcoming Artemis 2 mission | Space photo of the day for Jan. 23, 2025](https://www.space.com/space-exploration/artemis/houston-texans-celebrate-upcoming-artemis-2-mission-space-photo-of-the-day-for-jan-23-2025)
-- [&#39;For All Mankind&#39; Season 5 shows off Martian motorbiking in Apple TV&#39;s 1st teaser trailer &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/for-all-mankind-season-5-shows-off-martian-motorbiking-in-apple-tvs-1st-teaser-trailer-video)
-- [Rocket Lab&#39;s new Neutron rocket suffers fuel tank rupture during test](https://www.space.com/space-exploration/rocket-labs-new-neutron-rocket-suffers-fuel-tank-rupture-during-test)
+- [Here’s what you should know about the US TikTok deal](https://techcrunch.com/2026/01/23/heres-whats-you-should-know-about-the-us-tiktok-deal/)
+- [This startup will send 1,000 people’s ashes to space — affordably — in 2027](https://techcrunch.com/2026/01/23/this-startup-will-send-1000-peoples-ashes-to-space-affordably-in-2027/)
+- [&#39;Star Trek: Starfleet Academy&#39; showrunners Alex Kurtzman and Noga Landau explain why this is the perfect series for Trek&#39;s 60th anniversary &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-starfleet-academy-showrunners-alex-kurtzman-and-noga-landau-explain-why-this-is-the-perfect-series-for-treks-60th-anniversary-interview)
+- [Microsoft gave FBI a set of BitLocker encryption keys to unlock suspects’ laptops: reports](https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/)
+- [TikTok-like microdramas are going to make billions this year, even though they kind of suck](https://techcrunch.com/2026/01/23/tiktok-like-microdramas-are-going-to-make-billions-this-year-even-though-they-kind-of-suck/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
