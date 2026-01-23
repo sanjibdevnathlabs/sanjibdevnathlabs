@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Photos’ latest feature lets you meme yourself](https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/)
+- [Meta pauses teen access to AI characters as it develops a specially tailored version](https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-as-it-develops-a-specially-tailored-version/)
+- [A colossal asteroid may have warped the moon from the inside out](https://www.space.com/astronomy/moon/a-colossal-asteroid-may-have-warped-the-moon-from-the-inside-out)
 - [Here’s what you should know about the US TikTok deal](https://techcrunch.com/2026/01/23/heres-whats-you-should-know-about-the-us-tiktok-deal/)
 - [This startup will send 1,000 people’s ashes to space — affordably — in 2027](https://techcrunch.com/2026/01/23/this-startup-will-send-1000-peoples-ashes-to-space-affordably-in-2027/)
-- [&#39;Star Trek: Starfleet Academy&#39; showrunners Alex Kurtzman and Noga Landau explain why this is the perfect series for Trek&#39;s 60th anniversary &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-starfleet-academy-showrunners-alex-kurtzman-and-noga-landau-explain-why-this-is-the-perfect-series-for-treks-60th-anniversary-interview)
-- [Microsoft gave FBI a set of BitLocker encryption keys to unlock suspects’ laptops: reports](https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/)
-- [TikTok-like microdramas are going to make billions this year, even though they kind of suck](https://techcrunch.com/2026/01/23/tiktok-like-microdramas-are-going-to-make-billions-this-year-even-though-they-kind-of-suck/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
