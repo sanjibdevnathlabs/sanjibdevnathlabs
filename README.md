@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI is coming for those sweet enterprise dollars in 2026](https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/)
+- [Vimeo starts layoffs after acquisition by Bending Spoons](https://techcrunch.com/2026/01/22/vimeo-starts-layoffs-after-acquisition-by-bending-spoons/)
+- [GM to end Chevy Bolt EV production next year, move China-made Buick to US factory](https://techcrunch.com/2026/01/22/gm-to-end-chevy-bolt-ev-production-next-year-move-china-made-buick-to-u-s-factory/)
+- [Capital One acquires Brex for steep discount to its peak valuation, but early believers are laughing all the way to the bank](https://techcrunch.com/2026/01/22/capital-one-acquires-brex-for-steep-discount-to-its-peak-valuation-but-early-believers-are-laughing-all-the-way-to-the-bank/)
 - [Voice AI engine and OpenAI partner LiveKit hits $1B valuation](https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/)
-- [Inference startup Inferact lands $150M to commercialize vLLM](https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/)
-- [A black hole &#39;feeding frenzy&#39; could help explain a cosmic mystery uncovered by the James Webb Space Telescope](https://www.space.com/astronomy/black-holes/a-black-hole-feeding-frenzy-could-help-explain-a-cosmic-mystery-uncovered-by-the-james-webb-space-telescope)
-- [Are AI agents ready for the workplace? A new benchmark raises doubts.](https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/)
-- [Microsoft 365 hit by outage, preventing access to emails and files](https://techcrunch.com/2026/01/22/microsoft-365-hit-by-outage-preventing-access-to-emails-and-files/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
