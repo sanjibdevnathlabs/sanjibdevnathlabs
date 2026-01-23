@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [By the power of nostalgia! The live-action &#39;Masters of the Universe&#39; trailer is finally here, and it actually looks good &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/by-the-power-of-nostalgia-the-live-action-masters-of-the-universe-trailer-is-finally-here-and-it-actually-looks-good-video)
 - [Google Photos’ latest feature lets you meme yourself](https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/)
-- [Meta pauses teen access to AI characters as it develops a specially tailored version](https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-as-it-develops-a-specially-tailored-version/)
+- [Meta pauses teen access to AI characters ahead of new version](https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-ahead-of-new-version/)
 - [A colossal asteroid may have warped the moon from the inside out](https://www.space.com/astronomy/moon/a-colossal-asteroid-may-have-warped-the-moon-from-the-inside-out)
 - [Here’s what you should know about the US TikTok deal](https://techcrunch.com/2026/01/23/heres-whats-you-should-know-about-the-us-tiktok-deal/)
-- [This startup will send 1,000 people’s ashes to space — affordably — in 2027](https://techcrunch.com/2026/01/23/this-startup-will-send-1000-peoples-ashes-to-space-affordably-in-2027/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
