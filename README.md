@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;For All Mankind&#39; Season 5 shows off Martian motorbiking in Apple TV&#39;s 1st teaser trailer &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/for-all-mankind-season-5-shows-off-martian-motorbiking-in-apple-tvs-1st-teaser-trailer-video)
 - [Rocket Lab&#39;s new Neutron rocket suffers fuel tank rupture during test](https://www.space.com/space-exploration/rocket-labs-new-neutron-rocket-suffers-fuel-tank-rupture-during-test)
 - [Tesla discontinues Autopilot in bid to boost adoption of its Full Self-Driving software](https://techcrunch.com/2026/01/23/tesla-discontinues-autopilot-in-bid-to-boost-adoption-of-its-full-self-driving-software/)
 - [Sinking ice on Jupiter&#39;s moon Europa may be slowly feeding its ocean the ingredients for life](https://www.space.com/astronomy/jupiter/sinking-ice-on-jupiters-moon-europa-may-be-slowly-feeding-its-ocean-the-ingredients-for-life)
 - [Former Sequoia partner’s new startup uses AI to negotiate your calendar for you](https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/)
-- [Palmer Luckey says the coolest thing about Anduril expanding to Long Beach is the fighter jets](https://techcrunch.com/2026/01/22/palmer-luckey-says-the-coolest-thing-about-anduril-expanding-to-long-beach-is-the-fighter-jets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
