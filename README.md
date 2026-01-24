@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former Googlers seek to captivate kids with an AI-powered learning app](https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/)
 - [SEC drops lawsuit against Winklevoss twins’ Gemini crypto exchange](https://techcrunch.com/2026/01/24/sec-drops-lawsuit-against-winklevoss-twins-gemini-crypto-exchange/)
 - [A new test for AI labs: Are you even trying to make money?](https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/)
 - [How PopWheels helped a food cart ditch generators for e-bike batteries](https://techcrunch.com/2026/01/24/how-popwheels-helped-a-food-cart-ditch-generators-for-e-bike-batteries/)
 - [Martha Wells&#39; next &#39;Murderbot Diaries&#39; book is &#39;the family roadtrip from hell on Ringworld&#39; &lpar;interview&rpar;](https://www.space.com/entertainment/space-books/martha-wells-next-murderbot-diaries-book-is-the-family-roadtrip-from-hell-on-ringworld-interview)
-- [Which &#39;Star Trek&#39; Captain am I?](https://www.space.com/entertainment/which-star-trek-captain-am-i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
