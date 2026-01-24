@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How PopWheels helped a food cart ditch generators for e-bike batteries](https://techcrunch.com/2026/01/24/how-popwheels-helped-a-food-cart-ditch-generators-for-e-bike-batteries/)
+- [Martha Wells&#39; next &#39;Murderbot Diaries&#39; book is &#39;the family roadtrip from hell on Ringworld&#39; &lpar;interview&rpar;](https://www.space.com/entertainment/space-books/martha-wells-next-murderbot-diaries-book-is-the-family-roadtrip-from-hell-on-ringworld-interview)
 - [Which &#39;Star Trek&#39; Captain am I?](https://www.space.com/entertainment/which-star-trek-captain-am-i)
 - [Can we use bees as a model of intelligent alien life to develop interstellar communication?](https://www.space.com/space-exploration/search-for-life/can-we-use-bees-as-a-model-of-intelligent-alien-life-to-develop-interstellar-communication)
 - [January&#39;s full Wolf Moon leaps past the Eiffel Tower in stunning photo of Paris skyline](https://www.space.com/stargazing/astrophotography/januarys-full-wolf-moon-leaps-past-the-eiffel-tower-in-stunning-photo-of-paris-skyline)
-- [Earthquake sensors can track space junk that crashes back to Earth](https://www.space.com/space-exploration/satellites/earthquake-sensors-can-track-space-junk-that-crashes-back-to-earth)
-- [Legal AI giant Harvey acquires Hexus as competition heats up in legal tech](https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
