@@ -147,10 +147,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- BLOG-POST-LIST:START -->
 - [Who’s behind AMI Labs, Yann LeCun’s ‘world model’ startup](https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/)
-- [A mystery object is holding this 120 million-mile-wide cloud of vaporized metal together](https://www.space.com/astronomy/stars/a-mystery-object-is-holding-this-120-million-mile-wide-cloud-of-vaporized-metal-together)
 - [Waymo probed by National Transportation Safety Board over illegal school bus behavior](https://techcrunch.com/2026/01/23/waymo-probed-by-national-transportation-safety-board-over-illegal-school-bus-behavior/)
 - [The Rippling/Deel corporate spying scandal may have taken another wild turn](https://techcrunch.com/2026/01/23/the-rippling-deel-corporate-spying-scandal-may-have-taken-another-wild-turn/)
-- [NASA&#39;s Artemis 2 moon rocket is on the launch pad. What&#39;s next?](https://www.space.com/space-exploration/human-spaceflight/nasas-artemis-2-moon-rocket-is-on-the-launch-pad-whats-next)
+- [What to know about Netflix’s landmark acquisition of Warner Bros.](https://techcrunch.com/2026/01/23/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/)
+- [Researchers say Russian government hackers were behind attempted Poland power outage](https://techcrunch.com/2026/01/23/researchers-say-russian-government-hackers-were-behind-attempted-poland-power-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
