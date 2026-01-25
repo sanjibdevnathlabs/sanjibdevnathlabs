@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 stunning lunar craters to explore during the half-lit first quarter moon tonight](https://www.space.com/stargazing/3-stunning-lunar-craters-to-explore-during-the-half-lit-first-quarter-moon-tonight)
 - [Amazon&#39;s internet-beaming satellites are bright enough to disrupt astronomical research, study finds](https://www.space.com/space-exploration/satellites/amazons-internet-beaming-satellites-are-bright-enough-to-disrupt-astronomical-research-study-finds)
 - [Gmail is having issues with spam and misclassification](https://techcrunch.com/2026/01/24/gmail-is-having-issues-with-spam-and-misclassification/)
 - [Tech CEOs boast and bicker about AI at Davos](https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/)
 - [Former Googlers seek to captivate kids with an AI-powered learning app](https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/)
-- [SEC drops lawsuit against Winklevoss twins’ Gemini crypto exchange](https://techcrunch.com/2026/01/24/sec-drops-lawsuit-against-winklevoss-twins-gemini-crypto-exchange/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
