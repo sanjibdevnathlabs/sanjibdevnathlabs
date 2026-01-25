@@ -148,7 +148,7 @@ I'm a software developer passionate about designing and building applications wi
 <!-- BLOG-POST-LIST:START -->
 - [TechCrunch Mobility: RIP, Tesla Autopilot, and the NTSB investigates Waymo](https://techcrunch.com/2026/01/25/techcrunch-mobility-rip-tesla-autopilot-and-the-ntsb-investigates-waymo/)
 - [Apple will reportedly unveil its Gemini-powered Siri assistant in February](https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/)
-- [What is Bending Spoons? Everything to know about Eventbrite’s acquirer](https://techcrunch.com/2026/01/25/what-is-bending-spoons-everything-to-know-about-aols-acquirer/)
+- [What is Bending Spoons? The little-known firm behind Vimeo’s sweeping layoffs](https://techcrunch.com/2026/01/25/what-is-bending-spoons-everything-to-know-about-aols-acquirer/)
 - [Google says it’s fixed Gmail issues with spam and misclassification](https://techcrunch.com/2026/01/25/gmail-is-having-issues-with-spam-and-misclassification/)
 - [Space.com headlines crossword quiz for week of Jan. 19, 2026: What is the name of Blue Origin&#39;s new communications megasatellite?](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-jan-19-2026-what-is-the-name-of-blue-origins-new-communications-megasatellite)
 <!-- BLOG-POST-LIST:END -->
