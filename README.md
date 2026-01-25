@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google says it’s fixed Gmail issues with spam and misclassification](https://techcrunch.com/2026/01/25/gmail-is-having-issues-with-spam-and-misclassification/)
 - [Space.com headlines crossword quiz for week of Jan. 19, 2026: What is the name of Blue Origin&#39;s new communications megasatellite?](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-jan-19-2026-what-is-the-name-of-blue-origins-new-communications-megasatellite)
 - [Rural areas have darker skies but fewer resources for students interested in astronomy – telescopes in schools can help](https://www.space.com/astronomy/rural-areas-have-darker-skies-but-fewer-resources-for-students-interested-in-astronomy-telescopes-in-schools-can-help)
 - [3 stunning lunar craters to explore during the half-lit first quarter moon tonight](https://www.space.com/stargazing/3-stunning-lunar-craters-to-explore-during-the-half-lit-first-quarter-moon-tonight)
 - [Amazon&#39;s internet-beaming satellites are bright enough to disrupt astronomical research, study finds](https://www.space.com/space-exploration/satellites/amazons-internet-beaming-satellites-are-bright-enough-to-disrupt-astronomical-research-study-finds)
-- [Gmail is having issues with spam and misclassification](https://techcrunch.com/2026/01/24/gmail-is-having-issues-with-spam-and-misclassification/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
