@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saudi satirist hacked with Pegasus spyware wins damages in court battle](https://techcrunch.com/2026/01/26/saudi-satirist-hacked-with-pegasus-spyware-wins-damages-in-court-battle/)
+- [James Webb Space Telescope sees comet-seeding crystals flowing far from newborn star &lpar;photo&rpar;](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-sees-comet-seeding-crystals-flowing-far-from-newborn-star-photo)
+- [Tech workers call for CEOs to speak up against ICE after the killing of Alex Pretti](https://techcrunch.com/2026/01/26/tech-workers-call-for-ceos-to-speak-up-against-ice-after-the-killing-of-alex-pretti/)
 - [Microsoft announces powerful new chip for AI inference](https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/)
 - [NASA to fly piece of Wright Brothers&#39; plane on Artemis 2 moon mission](https://www.space.com/space-exploration/human-spaceflight/nasa-to-fly-piece-of-wright-brothers-plane-on-artemis-2-moon-mission)
-- [Nvidia invests $2B to help debt-ridden CoreWeave add 5GW of AI compute](https://techcrunch.com/2026/01/26/nvidia-invests-2b-to-help-debt-ridden-coreweave-add-5gw-of-ai-compute/)
-- [SpaceX eyes mid-March for first test of upgraded Starship rocket](https://techcrunch.com/2026/01/26/spacex-eyes-mid-march-for-first-test-of-upgraded-starship-rocket/)
-- [Only 5 days left: Over half of the first 500 TechCrunch Disrupt 2026 +1 passes at 50% off are already gone](https://techcrunch.com/2026/01/26/only-5-days-left-over-half-of-the-first-500-techcrunch-disrupt-2026-1-passes-at-50-off-are-already-gone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
