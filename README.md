@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Can You Afford NOT to Learn DevOps? Salary Data That Will Change Your Career Plans](https://www.youtube.com/shorts/fQDh9_tuYuI)
 - [I gave my server a phone number....it called me!!](https://www.youtube.com/watch?v=cT22fTzotYc)
 - [Bun in 100 Seconds](https://www.youtube.com/watch?v=M4TufsFlv_o)
 - [Virtual Machines EXPLAINED &lpar;This Is the Magic&rpar;](https://www.youtube.com/shorts/g-Ss2AEEP58)
 - [Implementing Passkeys in Practice - Computerphile](https://www.youtube.com/watch?v=lypcC79k-gg)
-- [4 Mac Studios = 1 AI Supercomputer](https://www.youtube.com/shorts/pSZilybp7mc)
 <!-- YOUTUBE:END -->
 
 ---
