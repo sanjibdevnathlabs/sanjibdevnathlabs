@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here’s the tech powering ICE’s deportation crackdown](https://techcrunch.com/2026/01/26/heres-the-tech-powering-ices-deportation-crackdown/)
+- [Super-Earth exoplanets may have built-in magnetic protection from churning magma — and that&#39;s good news for life](https://www.space.com/astronomy/exoplanets/super-earth-exoplanets-may-have-built-in-magnetic-protection-from-churning-magma-and-thats-good-news-for-life)
 - [Artemis 2 astronauts enter quarantine ahead of historic NASA moon launch](https://www.space.com/space-exploration/human-spaceflight/artemis-2-astronauts-enter-quarantine-ahead-of-historic-nasa-moon-launch)
 - [Social network UpScrolled sees surge in downloads following TikTok’s US takeover](https://techcrunch.com/2026/01/26/social-network-upscrolled-sees-surge-in-downloads-following-tiktoks-us-takeover/)
-- [Rad Power Bikes reaches deal to sell itself for $13.2 million](https://techcrunch.com/2026/01/26/rad-power-bikes-reaches-deal-to-sell-itself-for-13-2-million/)
-- [AI startup CVector raises $5M for its industrial ‘nervous system’](https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m-for-its-industrial-nervous-system/)
-- [Star Wars: Galaxy&#39;s Edge gets an upgrade, as the Disneyland attraction adds classic characters from the original trilogy](https://www.space.com/entertainment/star-wars-galaxys-edge-gets-an-upgrade-as-the-disneyland-attraction-adds-classic-characters-from-the-original-trilogy)
+- [Rad Power Bikes reaches deal to sell itself for $13.2M](https://techcrunch.com/2026/01/26/rad-power-bikes-reaches-deal-to-sell-itself-for-13-2-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
