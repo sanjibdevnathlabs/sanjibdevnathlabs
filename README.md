@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft announces powerful new chip for AI inference](https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/)
+- [NASA to fly piece of Wright Brothers&#39; plane on Artemis 2 moon mission](https://www.space.com/space-exploration/human-spaceflight/nasa-to-fly-piece-of-wright-brothers-plane-on-artemis-2-moon-mission)
+- [Nvidia invests $2B to help debt-ridden CoreWeave add 5GW of AI compute](https://techcrunch.com/2026/01/26/nvidia-invests-2b-to-help-debt-ridden-coreweave-add-5gw-of-ai-compute/)
 - [SpaceX eyes mid-March for first test of upgraded Starship rocket](https://techcrunch.com/2026/01/26/spacex-eyes-mid-march-for-first-test-of-upgraded-starship-rocket/)
 - [Only 5 days left: Over half of the first 500 TechCrunch Disrupt 2026 +1 passes at 50% off are already gone](https://techcrunch.com/2026/01/26/only-5-days-left-over-half-of-the-first-500-techcrunch-disrupt-2026-1-passes-at-50-off-are-already-gone/)
-- [Milky Way shines over Gemini South Observatory | Space photo of the day for Jan. 26, 2025](https://www.space.com/astronomy/milky-way-shines-over-gemini-south-observatory-space-photo-of-the-day-for-jan-26-2025)
-- [Apple’s new AirTag is louder and can be found across longer distances](https://techcrunch.com/2026/01/26/apples-new-airtag-is-louder-and-can-be-found-across-longer-distances/)
-- [Nvidia’s new AI weather models probably saw this storm coming weeks ago](https://techcrunch.com/2026/01/26/nvidias-new-ai-weather-models-probably-saw-this-storm-coming-weeks-ago/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
