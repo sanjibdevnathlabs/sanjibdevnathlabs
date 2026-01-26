@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch advanced GPS satellite for US Space Force tonight](https://www.space.com/space-exploration/launches-spacecraft/spacex-gps-iii-sv09-launch-space-force)
 - [&#39;Leave no one alive&#39;: It&#39;s Guardians vs the Viltrumites as &#39;Invincible&#39; season 4 trailer finally gives us a release date &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/leave-no-one-alive-its-guardians-vs-the-viltrumites-as-invincible-season-4-trailer-finally-gives-us-a-release-date-video)
 - [Scientists just got the clearest picture of the dark universe yet: &#39;Now the dream has come true&#39;](https://www.space.com/astronomy/dark-universe/scientists-just-got-the-clearest-picture-of-the-dark-universe-yet-now-the-dream-has-come-true)
 - [Synthesia hits $4B valuation, lets employees cash out](https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in/)
 - [This founder cracked firefighting — now he’s creating an AI gold mine](https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/)
-- [ChatGPT is pulling answers from Elon Musk’s Grokipedia](https://techcrunch.com/2026/01/25/chatgpt-is-pulling-answers-from-elon-musks-grokipedia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
