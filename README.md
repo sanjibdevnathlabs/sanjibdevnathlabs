@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX eyes mid-March for first test of upgraded Starship rocket](https://techcrunch.com/2026/01/26/spacex-eyes-mid-march-for-first-test-of-upgraded-starship-rocket/)
+- [Only 5 days left: Over half of the first 500 TechCrunch Disrupt 2026 +1 passes at 50% off are already gone](https://techcrunch.com/2026/01/26/only-5-days-left-over-half-of-the-first-500-techcrunch-disrupt-2026-1-passes-at-50-off-are-already-gone/)
+- [Milky Way shines over Gemini South Observatory | Space photo of the day for Jan. 26, 2025](https://www.space.com/astronomy/milky-way-shines-over-gemini-south-observatory-space-photo-of-the-day-for-jan-26-2025)
+- [Apple’s new AirTag is louder and can be found across longer distances](https://techcrunch.com/2026/01/26/apples-new-airtag-is-louder-and-can-be-found-across-longer-distances/)
 - [Nvidia’s new AI weather models probably saw this storm coming weeks ago](https://techcrunch.com/2026/01/26/nvidias-new-ai-weather-models-probably-saw-this-storm-coming-weeks-ago/)
-- [Moon landings could contaminate evidence about life&#39;s beginnings on Earth. Here&#39;s how](https://www.space.com/astronomy/moon/moon-landings-could-contaminate-evidence-about-lifes-beginnings-on-earth-heres-how)
-- [Watch SpaceX launch advanced GPS satellite for US Space Force tonight](https://www.space.com/space-exploration/launches-spacecraft/spacex-gps-iii-sv09-launch-space-force)
-- [&#39;Leave no one alive&#39;: It&#39;s Guardians vs the Viltrumites as &#39;Invincible&#39; season 4 trailer finally gives us a release date &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/leave-no-one-alive-its-guardians-vs-the-viltrumites-as-invincible-season-4-trailer-finally-gives-us-a-release-date-video)
-- [Scientists just got the clearest picture of the dark universe yet: &#39;Now the dream has come true&#39;](https://www.space.com/astronomy/dark-universe/scientists-just-got-the-clearest-picture-of-the-dark-universe-yet-now-the-dream-has-come-true)
 <!-- BLOG-POST-LIST:END -->
 
 ---
