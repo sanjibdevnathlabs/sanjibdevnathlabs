@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI startup CVector raises $5M for its industrial ‘nervous system’](https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m-for-its-industrial-nervous-system/)
+- [Star Wars: Galaxy&#39;s Edge gets an upgrade, as the Disneyland attraction adds classic characters from the original trilogy](https://www.space.com/entertainment/star-wars-galaxys-edge-gets-an-upgrade-as-the-disneyland-attraction-adds-classic-characters-from-the-original-trilogy)
 - [TikTok alternative Skylight soars to 380K+ users after TikTok U.S. deal finalized](https://techcrunch.com/2026/01/26/tiktok-alternative-skylight-soars-to-380k-users-after-tiktok-u-s-deal-finalized/)
 - [Anthropic launches interactive Claude apps, including Slack and other workplace tools](https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/)
 - [Obvious Ventures lands fund five with a 360-degree view of planetary, human, economic health](https://techcrunch.com/2026/01/26/obvious-ventures-lands-fund-five-with-a-360-degree-view-of-planetary-human-economic-health/)
-- [TikTok attributes recent glitches to a power outage at a U.S. data center](https://techcrunch.com/2026/01/26/tiktok-attributes-recent-glitches-to-a-power-outage-at-a-u-s-data-center/)
-- [VC firm 2150 raises €210M fund to solve cities’ climate challenges](https://techcrunch.com/2026/01/26/vc-firm-2150-raises-e210m-fund-to-solve-cities-climate-challenges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
