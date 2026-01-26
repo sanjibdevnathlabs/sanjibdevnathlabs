@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Saudi satirist hacked with Pegasus spyware wins damages in court battle](https://techcrunch.com/2026/01/26/saudi-satirist-hacked-with-pegasus-spyware-wins-damages-in-court-battle/)
-- [James Webb Space Telescope sees comet-seeding crystals flowing far from newborn star &lpar;photo&rpar;](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-sees-comet-seeding-crystals-flowing-far-from-newborn-star-photo)
-- [Tech workers call for CEOs to speak up against ICE after the killing of Alex Pretti](https://techcrunch.com/2026/01/26/tech-workers-call-for-ceos-to-speak-up-against-ice-after-the-killing-of-alex-pretti/)
-- [Microsoft announces powerful new chip for AI inference](https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/)
-- [NASA to fly piece of Wright Brothers&#39; plane on Artemis 2 moon mission](https://www.space.com/space-exploration/human-spaceflight/nasa-to-fly-piece-of-wright-brothers-plane-on-artemis-2-moon-mission)
+- [TikTok alternative Skylight soars to 380K+ users after TikTok U.S. deal finalized](https://techcrunch.com/2026/01/26/tiktok-alternative-skylight-soars-to-380k-users-after-tiktok-u-s-deal-finalized/)
+- [Anthropic launches interactive Claude apps, including Slack and other workplace tools](https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/)
+- [Obvious Ventures lands fund five with a 360-degree view of planetary, human, economic health](https://techcrunch.com/2026/01/26/obvious-ventures-lands-fund-five-with-a-360-degree-view-of-planetary-human-economic-health/)
+- [TikTok attributes recent glitches to a power outage at a U.S. data center](https://techcrunch.com/2026/01/26/tiktok-attributes-recent-glitches-to-a-power-outage-at-a-u-s-data-center/)
+- [VC firm 2150 raises €210M fund to solve cities’ climate challenges](https://techcrunch.com/2026/01/26/vc-firm-2150-raises-e210m-fund-to-solve-cities-climate-challenges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
