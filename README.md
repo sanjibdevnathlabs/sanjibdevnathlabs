@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Among the worst we’ve seen’: report slams xAI’s Grok over child safety failures](https://techcrunch.com/2026/01/27/among-the-worst-weve-seen-report-slams-xais-grok-over-child-safety-failures/)
 - [South Korea’s Edenlux set for U.S. debut of eye-strain wellness device](https://techcrunch.com/2026/01/26/south-koreas-edenlux-set-for-u-s-debut-of-eye-strain-wellness-device/)
 - [Qualcomm backs SpotDraft to scale on-device contract AI with valuation doubling toward $400M](https://techcrunch.com/2026/01/26/qualcomm-backs-spotdraft-to-scale-on-device-contract-ai-with-valuation-doubling-toward-400m/)
 - [Google pays $68M to settle claims its voice assistant spied on users](https://techcrunch.com/2026/01/26/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/)
 - [AI chip startup Ricursive hits $4B valuation two months after launch](https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/)
-- [Meta to test premium subscriptions on Instagram, Facebook, and WhatsApp](https://techcrunch.com/2026/01/26/meta-to-test-premium-subscriptions-on-instagram-facebook-and-whatsapp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
