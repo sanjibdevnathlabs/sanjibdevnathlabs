@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon is closing its physical Amazon Go and Amazon Fresh stores](https://techcrunch.com/2026/01/27/amazon-is-closing-its-physical-amazon-go-and-amazon-fresh-stores/)
-- [Risotto raises $10M seed to use AI to make ticketing systems easier to use](https://techcrunch.com/2026/01/27/risotto-raises-10m-seed-to-use-ai-to-make-ticketing-systems-easier-to-use/)
-- [Samsung’s TriFold phone will cost $2,899 in the US](https://techcrunch.com/2026/01/27/samsungs-trifold-phone-will-cost-2899-in-the-us/)
-- [Phoebe Gates and Sophia Kianni’s Phia raises $35M to ‘make shopping fun again’](https://techcrunch.com/2026/01/27/phoebe-gates-and-sophia-kiannis-phia-raises-35m-to-make-shopping-fun-again/)
-- [Airtable gets into the AI agent game with Superagent](https://techcrunch.com/2026/01/27/airtables-valuation-fell-by-7-million-its-founder-thinks-that-was-just-the-warm-up/)
+- [Help defend Earth from asteroids with your Unistellar telescope](https://www.space.com/stargazing/skywatching-kit/help-defend-earth-from-asteroids-with-your-unistellar-telescope)
+- [Google now lets users jump from AI Overviews into AI Mode conversations](https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/)
+- [Android phones are getting more anti-theft features](https://techcrunch.com/2026/01/27/android-phones-are-getting-more-anti-theft-features/)
+- [See the &#39;Seven Sisters&#39; of the Pleiades swim in the light of a waxing moon at sunset tonight](https://www.space.com/stargazing/see-the-seven-sisters-of-the-pleiades-swim-in-the-light-of-a-waxing-moon-at-sunset-jan-27-2025)
+- [Indian states weigh Australia-style ban on social media for children](https://techcrunch.com/2026/01/27/indian-states-weigh-australia-style-ban-on-social-media-for-children/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
