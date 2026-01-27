@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Luminar receives a larger $33 million bid for its lidar business](https://techcrunch.com/2026/01/27/luminar-receives-a-larger-33-million-bid-for-its-lidar-business/)
-- [China’s Moonshot releases a new open-source model Kimi K2.5 and a coding agent](https://techcrunch.com/2026/01/27/chinas-moonshot-releases-a-new-open-source-model-kimi-k2-5-and-a-coding-agent/)
-- [Node-based design tool Flora raises $42M from Redpoint Ventures](https://techcrunch.com/2026/01/27/node-based-design-tool-flora-raises-42m-from-redpoint-ventures/)
-- [Astronaut sees sunset from space | Space photo of the day for Jan. 27, 2026](https://www.space.com/space-exploration/international-space-station/astronaut-sees-sunset-from-space-space-photo-of-the-day-for-jan-27-2026)
-- [Uber launches an ‘AV Labs’ division to gather driving data for robotaxi partners](https://techcrunch.com/2026/01/27/uber-launches-an-av-labs-division-to-gather-driving-data-for-robotaxi-partners/)
+- [Samsung’s TriFold phone will cost $2,899 in the US](https://techcrunch.com/2026/01/27/samsungs-trifold-phone-will-cost-2899-in-the-us/)
+- [Phoebe Gates and Sophia Kianni’s Phia raises $35M to ‘make shopping fun again’](https://techcrunch.com/2026/01/27/phoebe-gates-and-sophia-kiannis-phia-raises-35m-to-make-shopping-fun-again/)
+- [Airtable gets into the AI agent game with Superagent](https://techcrunch.com/2026/01/27/airtables-valuation-fell-by-7-million-its-founder-thinks-that-was-just-the-warm-up/)
+- [Carson RD 10x50 binocular review](https://www.space.com/stargazing/skywatching-kit/carson-rd-10x50-binocular-review)
+- [Watch NASA&#39;s Artemis 2 moon rocket on the launch pad with this 24-hour livestream](https://www.space.com/space-exploration/human-spaceflight/watch-nasas-artemis-2-moon-rocket-on-the-launch-pad-with-this-24-hour-livestream)
 <!-- BLOG-POST-LIST:END -->
 
 ---
