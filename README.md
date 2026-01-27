@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA gets new F-15 fighter jet to chase its X-59 &#39;quiet&#39; supersonic aircraft](https://www.space.com/technology/aerospace/nasa-gets-new-f-15-fighter-jet-to-chase-its-x-59-quiet-supersonic-aircraft)
+- [TikTok joins Snap to settle social media addiction lawsuit](https://techcrunch.com/2026/01/27/tiktok-joins-snap-to-settle-social-media-addiction-lawsuit/)
 - [Anthropic and OpenAI CEOs condemn ICE violence, praise Trump](https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/)
 - [Google’s more affordable AI Plus plan rolls out to all markets, including the U.S.](https://techcrunch.com/2026/01/27/googles-ai-plus-plan-rolls-out-to-all-markets-including-the-u-s/)
 - [OpenAI launches Prism, a new AI workspace for scientists](https://techcrunch.com/2026/01/27/openai-launches-prism-a-new-ai-workspace-for-scientists/)
-- [The coolest character in all of Star Wars returns with his own Disney+ show in April — check out the gorgeous 1st trailer &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-coolest-character-in-all-of-star-wars-returns-with-his-own-disney-show-in-april-check-out-the-gorgeous-1st-trailer-video)
-- [Amid Trump attacks and weaponized sanctions, Europeans look to rely less on US tech](https://techcrunch.com/2026/01/27/amid-trump-attacks-and-weaponized-sanctions-europeans-look-to-rely-less-on-us-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
