@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google pays $68M to settle claims its voice assistant spied on users](https://techcrunch.com/2026/01/26/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/)
+- [AI chip startup Ricursive hits $4B valuation two months after launch](https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/)
 - [Meta to test premium subscriptions on Instagram, Facebook, and WhatsApp](https://techcrunch.com/2026/01/26/meta-to-test-premium-subscriptions-on-instagram-facebook-and-whatsapp/)
 - [Some international attendees are skipping 2026 GDC due to safety fears and growing ICE presence](https://techcrunch.com/2026/01/26/some-international-attendees-are-skipping-2026-gdc-due-to-safety-fears-and-growing-ice-presence/)
 - [Magnetic avalanches on the sun reveal the hidden engine powering solar flares](https://www.space.com/astronomy/sun/magnetic-avalanches-european-sun-watching-probe-unveils-the-central-engine-of-a-flare)
-- [Vinod Khosla publicly disavows Keith Rabois’ comments on ICE shooting](https://techcrunch.com/2026/01/26/vinod-khosla-publicly-disavows-keith-rabois-comments-on-ice-shooting/)
-- [YouTubers sue Snap for alleged copyright infringement in training its AI models](https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
