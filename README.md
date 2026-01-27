@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon is closing its physical Amazon Go and Amazon Fresh stores](https://techcrunch.com/2026/01/27/amazon-is-closing-its-physical-amazon-go-and-amazon-fresh-stores/)
+- [Risotto raises $10M seed to use AI to make ticketing systems easier to use](https://techcrunch.com/2026/01/27/risotto-raises-10m-seed-to-use-ai-to-make-ticketing-systems-easier-to-use/)
 - [Samsung’s TriFold phone will cost $2,899 in the US](https://techcrunch.com/2026/01/27/samsungs-trifold-phone-will-cost-2899-in-the-us/)
 - [Phoebe Gates and Sophia Kianni’s Phia raises $35M to ‘make shopping fun again’](https://techcrunch.com/2026/01/27/phoebe-gates-and-sophia-kiannis-phia-raises-35m-to-make-shopping-fun-again/)
 - [Airtable gets into the AI agent game with Superagent](https://techcrunch.com/2026/01/27/airtables-valuation-fell-by-7-million-its-founder-thinks-that-was-just-the-warm-up/)
-- [Carson RD 10x50 binocular review](https://www.space.com/stargazing/skywatching-kit/carson-rd-10x50-binocular-review)
-- [Watch NASA&#39;s Artemis 2 moon rocket on the launch pad with this 24-hour livestream](https://www.space.com/space-exploration/human-spaceflight/watch-nasas-artemis-2-moon-rocket-on-the-launch-pad-with-this-24-hour-livestream)
 <!-- BLOG-POST-LIST:END -->
 
 ---
