@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Luminar receives a larger $33 million bid for its lidar business](https://techcrunch.com/2026/01/27/luminar-receives-a-larger-33-million-bid-for-its-lidar-business/)
+- [China’s Moonshot releases a new open-source model Kimi K2.5 and a coding agent](https://techcrunch.com/2026/01/27/chinas-moonshot-releases-a-new-open-source-model-kimi-k2-5-and-a-coding-agent/)
+- [Node-based design tool Flora raises $42M from Redpoint Ventures](https://techcrunch.com/2026/01/27/node-based-design-tool-flora-raises-42m-from-redpoint-ventures/)
+- [Astronaut sees sunset from space | Space photo of the day for Jan. 27, 2026](https://www.space.com/space-exploration/international-space-station/astronaut-sees-sunset-from-space-space-photo-of-the-day-for-jan-27-2026)
 - [Uber launches an ‘AV Labs’ division to gather driving data for robotaxi partners](https://techcrunch.com/2026/01/27/uber-launches-an-av-labs-division-to-gather-driving-data-for-robotaxi-partners/)
-- [Are mysterious &#39;Little Red Dots&#39; discovered by the James Webb Space Telescope actually nurseries for direct-collapse black holes?](https://www.space.com/astronomy/black-holes/are-mysterious-little-red-dots-discovered-by-the-james-webb-space-telescope-actually-nurseries-for-direct-collapse-black-holes)
-- [Venus may get a huge meteor shower this July, thanks to a long-ago asteroid breakup](https://www.space.com/astronomy/venus/venus-may-get-a-huge-meteor-shower-this-july-thanks-to-a-long-ago-asteroid-breakup)
-- [Northwood Space secures a $100M Series B and a $50M Space Force contract](https://techcrunch.com/2026/01/27/northwood-space-secures-a-100m-series-b-and-a-50m-space-force-contract/)
-- [‘Among the worst we’ve seen’: report slams xAI’s Grok over child safety failures](https://techcrunch.com/2026/01/27/among-the-worst-weve-seen-report-slams-xais-grok-over-child-safety-failures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
