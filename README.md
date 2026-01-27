@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA moves critical fueling test for Artemis 2 moon rocket up to Jan. 31](https://www.space.com/space-exploration/artemis/nasa-moves-critical-fueling-test-for-artemis-2-moon-rocket-up-to-jan-31)
+- [Amazon agrees to pay consumers $309M in returns policy settlement](https://techcrunch.com/2026/01/27/amazon-agrees-to-pay-consumers-309m-in-returns-policy-settlement/)
 - [NASA gets new F-15 fighter jet to chase its X-59 &#39;quiet&#39; supersonic aircraft](https://www.space.com/technology/aerospace/nasa-gets-new-f-15-fighter-jet-to-chase-its-x-59-quiet-supersonic-aircraft)
 - [TikTok joins Snap to settle social media addiction lawsuit](https://techcrunch.com/2026/01/27/tiktok-joins-snap-to-settle-social-media-addiction-lawsuit/)
 - [Anthropic and OpenAI CEOs condemn ICE violence, praise Trump](https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/)
-- [Google’s more affordable AI Plus plan rolls out to all markets, including the U.S.](https://techcrunch.com/2026/01/27/googles-ai-plus-plan-rolls-out-to-all-markets-including-the-u-s/)
-- [OpenAI launches Prism, a new AI workspace for scientists](https://techcrunch.com/2026/01/27/openai-launches-prism-a-new-ai-workspace-for-scientists/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
