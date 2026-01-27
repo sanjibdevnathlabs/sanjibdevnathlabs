@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers discover the &#39;growing pains&#39; of teenage exoplanets](https://www.space.com/astronomy/exoplanets/astronomers-discover-the-growing-pains-of-teenage-exoplanets)
+- [Anduril has invented a wild new drone flying contest where jobs are the prize](https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/)
+- [Bluesky teases 2026 roadmap: a better Discover feed, real-time features and more](https://techcrunch.com/2026/01/27/bluesky-teases-2026-roadmap-a-better-discover-feed-real-time-features-and-more/)
+- [Anthropic reportedly upped its latest raise to $20B](https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/)
 - [NASA moves critical fueling test for Artemis 2 moon rocket up to Jan. 31](https://www.space.com/space-exploration/artemis/nasa-moves-critical-fueling-test-for-artemis-2-moon-rocket-up-to-jan-31)
-- [Amazon agrees to pay consumers $309M in returns policy settlement](https://techcrunch.com/2026/01/27/amazon-agrees-to-pay-consumers-309m-in-returns-policy-settlement/)
-- [NASA gets new F-15 fighter jet to chase its X-59 &#39;quiet&#39; supersonic aircraft](https://www.space.com/technology/aerospace/nasa-gets-new-f-15-fighter-jet-to-chase-its-x-59-quiet-supersonic-aircraft)
-- [TikTok joins Snap to settle social media addiction lawsuit](https://techcrunch.com/2026/01/27/tiktok-joins-snap-to-settle-social-media-addiction-lawsuit/)
-- [Anthropic and OpenAI CEOs condemn ICE violence, praise Trump](https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
