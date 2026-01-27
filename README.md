@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Help defend Earth from asteroids with your Unistellar telescope](https://www.space.com/stargazing/skywatching-kit/help-defend-earth-from-asteroids-with-your-unistellar-telescope)
-- [Google now lets users jump from AI Overviews into AI Mode conversations](https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/)
-- [Android phones are getting more anti-theft features](https://techcrunch.com/2026/01/27/android-phones-are-getting-more-anti-theft-features/)
-- [See the &#39;Seven Sisters&#39; of the Pleiades swim in the light of a waxing moon at sunset tonight](https://www.space.com/stargazing/see-the-seven-sisters-of-the-pleiades-swim-in-the-light-of-a-waxing-moon-at-sunset-jan-27-2025)
-- [Indian states weigh Australia-style ban on social media for children](https://techcrunch.com/2026/01/27/indian-states-weigh-australia-style-ban-on-social-media-for-children/)
+- [Anthropic and OpenAI CEOs condemn ICE violence, praise Trump](https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/)
+- [Google’s more affordable AI Plus plan rolls out to all markets, including the U.S.](https://techcrunch.com/2026/01/27/googles-ai-plus-plan-rolls-out-to-all-markets-including-the-u-s/)
+- [OpenAI launches Prism, a new AI workspace for scientists](https://techcrunch.com/2026/01/27/openai-launches-prism-a-new-ai-workspace-for-scientists/)
+- [The coolest character in all of Star Wars returns with his own Disney+ show in April — check out the gorgeous 1st trailer &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-coolest-character-in-all-of-star-wars-returns-with-his-own-disney-show-in-april-check-out-the-gorgeous-1st-trailer-video)
+- [Amid Trump attacks and weaponized sanctions, Europeans look to rely less on US tech](https://techcrunch.com/2026/01/27/amid-trump-attacks-and-weaponized-sanctions-europeans-look-to-rely-less-on-us-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
