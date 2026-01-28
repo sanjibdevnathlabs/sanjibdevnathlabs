@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [40 years after the space shuttle Challenger disaster, spaceflight remains far from routine](https://www.space.com/space-exploration/human-spaceflight/40-years-after-the-space-shuttle-challenger-disaster-spaceflight-remains-far-from-routine)
 - [What you should know about the owners of US TikTok](https://techcrunch.com/2026/01/27/what-you-should-know-about-the-owners-of-us-tiktok/)
 - [Everything you need to know about viral personal AI assistant Clawdbot &lpar;now Moltbot&rpar;](https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/)
 - [Fashion rental app By Rotation and Uber partner to help deliver ski clothing](https://techcrunch.com/2026/01/27/fashion-rental-app-by-rotation-and-uber-partner-to-help-deliver-ski-rentals/)
 - [Astronomers discover the &#39;growing pains&#39; of teenage exoplanets](https://www.space.com/astronomy/exoplanets/astronomers-discover-the-growing-pains-of-teenage-exoplanets)
-- [Anduril has invented a wild new drone-flying contest where jobs are the prize](https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
