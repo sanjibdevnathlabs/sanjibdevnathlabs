@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Wars Outlaws&#39; scores a new prequel novel starring antagonist Jaylen Vrax and his ND-5 assassin droid](https://www.space.com/entertainment/space-books/star-wars-outlaws-scores-a-new-prequel-novel-starring-antagonist-jaylen-vrax-and-his-nd-5-assassin-droid)
+- [Inside Lego&#39;s Artemis 2 range: Which set delivers the best build, detail and value?](https://www.space.com/entertainment/space-toys-lego/inside-legos-artemis-ii-range-which-set-delivers-the-best-build-detail-and-value)
+- [TechCrunch Disrupt 2026: Plus-one passes are almost gone and only 3 days remain](https://techcrunch.com/2026/01/28/techcrunch-disrupt-2026-plus-one-passes-are-almost-gone-and-only-3-days-remain/)
 - [Trump’s acting cybersecurity chief uploaded sensitive government docs to ChatGPT](https://techcrunch.com/2026/01/28/trumps-acting-cybersecurity-chief-uploaded-sensitive-government-docs-to-chatgpt/)
 - [The AI infrastructure boom shows no sign of slowing down](https://techcrunch.com/2026/01/28/the-ai-infrastructure-boom-shows-no-sign-of-slowing-down/)
-- [Disney+ deal ends tonight: Watch upcoming Star Wars: Maul – Shadow Lord on Disney+ for just £3.99 a month](https://www.space.com/entertainment/space-movies-shows/disney-deal-ends-tonight-watch-upcoming-star-wars-maul-shadow-lord-on-disney-for-just-3-99-a-month)
-- [Standard Nuclear raises $140M as nuclear power enters its gold rush era](https://techcrunch.com/2026/01/28/standard-nuclear-raises-140m-as-nuclear-power-enters-its-gold-rush-era/)
-- [LinkedIn will let you show off your vibe coding chops with a certificate](https://techcrunch.com/2026/01/28/linkedin-will-let-you-show-off-your-vibe-coding-chops-with-a-certificate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
