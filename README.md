@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything you need to know about viral personal AI assistant Clawdbot &lpar;now Moltbot&rpar;](https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/)
+- [Fashion rental app By Rotation and Uber partner to help deliver ski clothing](https://techcrunch.com/2026/01/27/fashion-rental-app-by-rotation-and-uber-partner-to-help-deliver-ski-rentals/)
 - [Astronomers discover the &#39;growing pains&#39; of teenage exoplanets](https://www.space.com/astronomy/exoplanets/astronomers-discover-the-growing-pains-of-teenage-exoplanets)
-- [Anduril has invented a wild new drone flying contest where jobs are the prize](https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/)
-- [Bluesky teases 2026 roadmap: a better Discover feed, real-time features and more](https://techcrunch.com/2026/01/27/bluesky-teases-2026-roadmap-a-better-discover-feed-real-time-features-and-more/)
-- [Anthropic reportedly upped its latest raise to $20B](https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/)
-- [NASA moves critical fueling test for Artemis 2 moon rocket up to Jan. 31](https://www.space.com/space-exploration/artemis/nasa-moves-critical-fueling-test-for-artemis-2-moon-rocket-up-to-jan-31)
+- [Anduril has invented a wild new drone-flying contest where jobs are the prize](https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/)
+- [Bluesky teases 2026 roadmap: A better Discover feed, real-time features, and more](https://techcrunch.com/2026/01/27/bluesky-teases-2026-roadmap-a-better-discover-feed-real-time-features-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
