@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA exoplanet probe tracks interstellar comet 3I/ATLAS to gauge its spin](https://www.space.com/astronomy/comets/nasa-exoplanet-probe-tracks-interstellar-comet-3i-atlas-to-gauge-its-spin)
-- [Tesla invested $2B in Elon Musk’s xAI](https://techcrunch.com/2026/01/28/tesla-invested-2b-in-elon-musks-xai/)
-- [Elon Musk teases a new image-labeling system for X… we think?](https://techcrunch.com/2026/01/28/elon-musk-teases-a-new-image-labeling-system-for-xwe-think/)
-- [SpaceX is coming to the public markets, and secondaries are already on fire](https://techcrunch.com/video/spacex-is-coming-to-the-public-markets-and-secondaries-are-already-on-fire/)
-- [AI security startup Outtake raises $40M from Iconiq, Satya Nadella, Bill Ackman, and other big names](https://techcrunch.com/2026/01/28/ai-security-startup-outtake-raises-40m-from-iconiq-satya-nadella-bill-ackman-and-other-big-names/)
+- [Zuckerberg teases agentic commerce tools and major AI rollout in 2026](https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/)
+- [NASA and SpaceX move up launch of Crew-12 astronauts to Feb. 11 as relief crew after ISS medical evacuation](https://www.space.com/space-exploration/human-spaceflight/nasa-and-spacex-move-up-launch-of-crew-12-astronauts-to-feb-11-as-relief-crew-after-iss-medical-evacuation)
+- [Trump energy department loosens rules on nuclear safety](https://techcrunch.com/2026/01/28/trump-energy-department-loosens-rules-on-nuclear-safety/)
+- [Microsoft gained $7.6B from OpenAI last quarter](https://techcrunch.com/2026/01/28/microsoft-earnings-7-6-billion-openai/)
+- [Tesla is killing off the Model S and Model X](https://techcrunch.com/2026/01/28/tesla-is-killing-off-the-model-s-and-model-x/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
