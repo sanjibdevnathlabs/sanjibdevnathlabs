@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI security startup Outtake raises $40M from Iconiq, Satya Nadella, Bill Ackman and other big names](https://techcrunch.com/2026/01/28/ai-security-startup-outtake-raises-40m-from-iconiq-satya-nadella-bill-ackman-and-other-big-names/)
-- [Tesla profit tanked 46% in 2025](https://techcrunch.com/2026/01/28/tesla-earnings-profit-q4-2025/)
-- [ServiceNow inks another AI partnership, this time with Anthropic](https://techcrunch.com/2026/01/28/servicenow-inks-another-ai-partnership-this-time-with-anthropic/)
-- [How Earth&#39;s atmosphere and climate come together to create a polar vortex](https://www.space.com/astronomy/earth/how-earths-atmosphere-and-climate-come-together-to-create-a-polar-vortex)
-- [Luminar sale approved despite last-minute mystery bid](https://techcrunch.com/2026/01/28/luminar-sale-approved-despite-last-minute-mystery-bid/)
+- [NASA exoplanet probe tracks interstellar comet 3I/ATLAS to gauge its spin](https://www.space.com/astronomy/comets/nasa-exoplanet-probe-tracks-interstellar-comet-3i-atlas-to-gauge-its-spin)
+- [Tesla invested $2B in Elon Musk’s xAI](https://techcrunch.com/2026/01/28/tesla-invested-2b-in-elon-musks-xai/)
+- [Elon Musk teases a new image-labeling system for X… we think?](https://techcrunch.com/2026/01/28/elon-musk-teases-a-new-image-labeling-system-for-xwe-think/)
+- [SpaceX is coming to the public markets, and secondaries are already on fire](https://techcrunch.com/video/spacex-is-coming-to-the-public-markets-and-secondaries-are-already-on-fire/)
+- [AI security startup Outtake raises $40M from Iconiq, Satya Nadella, Bill Ackman, and other big names](https://techcrunch.com/2026/01/28/ai-security-startup-outtake-raises-40m-from-iconiq-satya-nadella-bill-ackman-and-other-big-names/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
