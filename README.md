@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon says it is laying off 16,000 employees](https://techcrunch.com/2026/01/28/amazon-says-it-is-laying-off-16000-employees/)
-- [Snap gets serious about Specs, spins AR glasses into standalone company](https://techcrunch.com/2026/01/28/snap-gets-serious-about-specs-spins-ar-glasses-into-standalone-company/)
-- [Redwood attracts Google for its $425M Series E as AI power needs rise](https://techcrunch.com/2026/01/28/redwood-attracts-google-for-its-425m-series-e-as-ai-power-needs-rise/)
-- [America&#39;s 250th lights up Washington Monument | Space photo of the day for Jan. 28, 2026](https://www.space.com/astronomy/earth/americas-250th-lights-up-washington-monument-space-photo-of-the-day-for-jan-28-2026)
-- [NASA research jet makes fiery &#39;wheels-up landing&#39; after experiencing mechanical issue &lpar;video&rpar;](https://www.space.com/technology/aerospace/nasa-research-jet-makes-fiery-wheels-up-landing-after-experiencing-mechanical-issue-video)
+- [Trump’s acting cybersecurity chief uploaded sensitive government docs to ChatGPT](https://techcrunch.com/2026/01/28/trumps-acting-cybersecurity-chief-uploaded-sensitive-government-docs-to-chatgpt/)
+- [The AI infrastructure boom shows no sign of slowing down](https://techcrunch.com/2026/01/28/the-ai-infrastructure-boom-shows-no-sign-of-slowing-down/)
+- [Disney+ deal ends tonight: Watch upcoming Star Wars: Maul – Shadow Lord on Disney+ for just £3.99 a month](https://www.space.com/entertainment/space-movies-shows/disney-deal-ends-tonight-watch-upcoming-star-wars-maul-shadow-lord-on-disney-for-just-3-99-a-month)
+- [Standard Nuclear raises $140M as nuclear power enters its gold rush era](https://techcrunch.com/2026/01/28/standard-nuclear-raises-140m-as-nuclear-power-enters-its-gold-rush-era/)
+- [LinkedIn will let you show off your vibe coding chops with a certificate](https://techcrunch.com/2026/01/28/linkedin-will-let-you-show-off-your-vibe-coding-chops-with-a-certificate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
