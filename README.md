@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon says it is laying off 16,000 employees](https://techcrunch.com/2026/01/28/amazon-says-it-is-laying-off-16000-employees/)
+- [Snap gets serious about Specs, spins AR glasses into standalone company](https://techcrunch.com/2026/01/28/snap-gets-serious-about-specs-spins-ar-glasses-into-standalone-company/)
+- [Redwood attracts Google for its $425M Series E as AI power needs rise](https://techcrunch.com/2026/01/28/redwood-attracts-google-for-its-425m-series-e-as-ai-power-needs-rise/)
+- [America&#39;s 250th lights up Washington Monument | Space photo of the day for Jan. 28, 2026](https://www.space.com/astronomy/earth/americas-250th-lights-up-washington-monument-space-photo-of-the-day-for-jan-28-2026)
 - [NASA research jet makes fiery &#39;wheels-up landing&#39; after experiencing mechanical issue &lpar;video&rpar;](https://www.space.com/technology/aerospace/nasa-research-jet-makes-fiery-wheels-up-landing-after-experiencing-mechanical-issue-video)
-- [Waabi raises $1B and expands into robotaxis with Uber](https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/)
-- [Google pitches Gemini to students studying for India’s most competitive college entrance exam](https://techcrunch.com/2026/01/28/google-turns-gemini-toward-indias-most-competitive-entrance-exam/)
-- [Google Photos brings its prompt-based editing feature to India, Australia and Japan](https://techcrunch.com/2026/01/27/google-photos-brings-its-prompt-based-editing-feature-to-india-australia-and-japan/)
-- [India’s Shadowfax slips on listing, as client concentration spooks investors](https://techcrunch.com/2026/01/27/indias-shadowfax-slips-on-listing-as-client-concentration-spooks-investors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
