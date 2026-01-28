@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waabi raises $1B and expands into robotaxis with Uber](https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/)
+- [Google pitches Gemini to students studying for India’s most competitive college entrance exam](https://techcrunch.com/2026/01/28/google-turns-gemini-toward-indias-most-competitive-entrance-exam/)
 - [Google Photos brings its prompt-based editing feature to India, Australia and Japan](https://techcrunch.com/2026/01/27/google-photos-brings-its-prompt-based-editing-feature-to-india-australia-and-japan/)
 - [India’s Shadowfax slips on listing, as client concentration spooks investors](https://techcrunch.com/2026/01/27/indias-shadowfax-slips-on-listing-as-client-concentration-spooks-investors/)
 - [40 years after the space shuttle Challenger disaster, spaceflight remains far from routine](https://www.space.com/space-exploration/human-spaceflight/40-years-after-the-space-shuttle-challenger-disaster-spaceflight-remains-far-from-routine)
-- [What you should know about the owners of US TikTok](https://techcrunch.com/2026/01/27/what-you-should-know-about-the-owners-of-us-tiktok/)
-- [Everything you need to know about viral personal AI assistant Clawdbot &lpar;now Moltbot&rpar;](https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
