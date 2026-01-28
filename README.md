@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See the Milky Way glow with the stars of the Summer Triangle above Egypt&#39;s Black Desert](https://www.space.com/stargazing/astrophotography/see-the-milky-way-glow-with-the-stars-of-the-summer-triangle-above-egypts-black-desert)
-- [WhatsApp will now charge AI chatbots to operate in Italy](https://techcrunch.com/2026/01/28/whatsapp-will-now-charge-ai-chatbots-to-operate-in-italy/)
-- [Jennifer Garner’s Once Upon a Farm resumes IPO plans](https://techcrunch.com/2026/01/28/jennifer-garners-once-upon-a-farm-resumes-ipo-plans/)
-- [AI data labeler Handshake buys  Cleanlab, an acquisition target of multiple others](https://techcrunch.com/2026/01/28/ai-data-labeler-handshake-buys-cleanlab-an-acquisition-target-of-multiple-others/)
-- [SpaceX targeting mid-March for 1st flight of bigger, more powerful Starship &#39;Version 3,&#39; Elon Musk says](https://www.space.com/space-exploration/launches-spacecraft/spacex-targeting-mid-march-for-1st-flight-of-bigger-more-powerful-starship-version-3-elon-musk-says)
+- [AI security startup Outtake raises $40M from Iconiq, Satya Nadella, Bill Ackman and other big names](https://techcrunch.com/2026/01/28/ai-security-startup-outtake-raises-40m-from-iconiq-satya-nadella-bill-ackman-and-other-big-names/)
+- [Tesla profit tanked 46% in 2025](https://techcrunch.com/2026/01/28/tesla-earnings-profit-q4-2025/)
+- [ServiceNow inks another AI partnership, this time with Anthropic](https://techcrunch.com/2026/01/28/servicenow-inks-another-ai-partnership-this-time-with-anthropic/)
+- [How Earth&#39;s atmosphere and climate come together to create a polar vortex](https://www.space.com/astronomy/earth/how-earths-atmosphere-and-climate-come-together-to-create-a-polar-vortex)
+- [Luminar sale approved despite last-minute mystery bid](https://techcrunch.com/2026/01/28/luminar-sale-approved-despite-last-minute-mystery-bid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
