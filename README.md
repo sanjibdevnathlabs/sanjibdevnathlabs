@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Star Wars Outlaws&#39; scores a new prequel novel starring antagonist Jaylen Vrax and his ND-5 assassin droid](https://www.space.com/entertainment/space-books/star-wars-outlaws-scores-a-new-prequel-novel-starring-antagonist-jaylen-vrax-and-his-nd-5-assassin-droid)
-- [Inside Lego&#39;s Artemis 2 range: Which set delivers the best build, detail and value?](https://www.space.com/entertainment/space-toys-lego/inside-legos-artemis-ii-range-which-set-delivers-the-best-build-detail-and-value)
-- [TechCrunch Disrupt 2026: Plus-one passes are almost gone and only 3 days remain](https://techcrunch.com/2026/01/28/techcrunch-disrupt-2026-plus-one-passes-are-almost-gone-and-only-3-days-remain/)
-- [Trump’s acting cybersecurity chief uploaded sensitive government docs to ChatGPT](https://techcrunch.com/2026/01/28/trumps-acting-cybersecurity-chief-uploaded-sensitive-government-docs-to-chatgpt/)
-- [The AI infrastructure boom shows no sign of slowing down](https://techcrunch.com/2026/01/28/the-ai-infrastructure-boom-shows-no-sign-of-slowing-down/)
+- [Elon Musk reportedly wants a June SpaceX IPO to align with his birthday, the planets](https://techcrunch.com/2026/01/28/elon-musk-reportedly-wants-a-june-spacex-ipo-to-align-with-his-birthday-the-planets/)
+- [With Apple’s new Creator Studio Pro, AI is a tool to aid creation, not replace it](https://techcrunch.com/2026/01/28/with-apples-new-creator-studio-pro-ai-is-a-tool-to-aid-creation-not-replace-it/)
+- [San Francisco Police Department investigating Zoox collision with a parked car](https://techcrunch.com/2026/01/28/san-francisco-police-department-investigating-zoox-collision-with-a-parked-car/)
+- [Rocket Lab&#39;s &#39;Hungry Hippo&#39; Neutron fairing arrives at spaceport in Virginia](https://www.space.com/space-exploration/launches-spacecraft/rocket-labs-hungry-hippo-neutron-fairing-arrives-at-spaceport-in-virginia)
+- [Allbirds is closing its last brick-and-mortar store in San Francisco](https://techcrunch.com/2026/01/28/allbirds-closing-last-store-san-francisco/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
