@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Proteins before planets: How space ice may have created the 1st building blocks of life](https://www.space.com/space-exploration/search-for-life/proteins-before-planets-how-space-ice-may-have-created-the-1st-building-blocks-of-life)
+- [Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks](https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/)
+- [Apple tells Patreon to move creators to in-app purchase for subscriptions by November](https://techcrunch.com/2026/01/28/apple-tells-patreon-to-move-creators-to-in-app-purchase-for-subscriptions-by-november/)
+- [Tiny startup Arcee AI built a 400B open source LLM from scratch to best Meta’s Llama](https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/)
 - [Elon Musk reportedly wants a June SpaceX IPO to align with his birthday, the planets](https://techcrunch.com/2026/01/28/elon-musk-reportedly-wants-a-june-spacex-ipo-to-align-with-his-birthday-the-planets/)
-- [With Apple’s new Creator Studio Pro, AI is a tool to aid creation, not replace it](https://techcrunch.com/2026/01/28/with-apples-new-creator-studio-pro-ai-is-a-tool-to-aid-creation-not-replace-it/)
-- [San Francisco Police Department investigating Zoox collision with a parked car](https://techcrunch.com/2026/01/28/san-francisco-police-department-investigating-zoox-collision-with-a-parked-car/)
-- [Rocket Lab&#39;s &#39;Hungry Hippo&#39; Neutron fairing arrives at spaceport in Virginia](https://www.space.com/space-exploration/launches-spacecraft/rocket-labs-hungry-hippo-neutron-fairing-arrives-at-spaceport-in-virginia)
-- [Allbirds is closing its last brick-and-mortar store in San Francisco](https://techcrunch.com/2026/01/28/allbirds-closing-last-store-san-francisco/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
