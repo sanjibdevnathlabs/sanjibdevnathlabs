@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp will now charge AI chatbots to operate in Italy](https://techcrunch.com/2026/01/28/whatsapp-will-now-charge-ai-chatbots-to-operate-in-italy/)
+- [Jennifer Garner’s Once Upon a Farm resumes IPO plans](https://techcrunch.com/2026/01/28/jennifer-garners-once-upon-a-farm-resumes-ipo-plans/)
+- [AI data labeler Handshake buys  Cleanlab, an acquisition target of multiple others](https://techcrunch.com/2026/01/28/ai-data-labeler-handshake-buys-cleanlab-an-acquisition-target-of-multiple-others/)
+- [SpaceX targeting mid-March for 1st flight of bigger, more powerful Starship &#39;Version 3,&#39; Elon Musk says](https://www.space.com/space-exploration/launches-spacecraft/spacex-targeting-mid-march-for-1st-flight-of-bigger-more-powerful-starship-version-3-elon-musk-says)
 - [Proteins before planets: How space ice may have created the 1st building blocks of life](https://www.space.com/space-exploration/search-for-life/proteins-before-planets-how-space-ice-may-have-created-the-1st-building-blocks-of-life)
-- [Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks](https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/)
-- [Apple tells Patreon to move creators to in-app purchase for subscriptions by November](https://techcrunch.com/2026/01/28/apple-tells-patreon-to-move-creators-to-in-app-purchase-for-subscriptions-by-november/)
-- [Tiny startup Arcee AI built a 400B open source LLM from scratch to best Meta’s Llama](https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/)
-- [Elon Musk reportedly wants a June SpaceX IPO to align with his birthday, the planets](https://techcrunch.com/2026/01/28/elon-musk-reportedly-wants-a-june-spacex-ipo-to-align-with-his-birthday-the-planets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
