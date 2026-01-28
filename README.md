@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the Milky Way glow with the stars of the Summer Triangle above Egypt&#39;s Black Desert](https://www.space.com/stargazing/astrophotography/see-the-milky-way-glow-with-the-stars-of-the-summer-triangle-above-egypts-black-desert)
 - [WhatsApp will now charge AI chatbots to operate in Italy](https://techcrunch.com/2026/01/28/whatsapp-will-now-charge-ai-chatbots-to-operate-in-italy/)
 - [Jennifer Garner’s Once Upon a Farm resumes IPO plans](https://techcrunch.com/2026/01/28/jennifer-garners-once-upon-a-farm-resumes-ipo-plans/)
 - [AI data labeler Handshake buys  Cleanlab, an acquisition target of multiple others](https://techcrunch.com/2026/01/28/ai-data-labeler-handshake-buys-cleanlab-an-acquisition-target-of-multiple-others/)
 - [SpaceX targeting mid-March for 1st flight of bigger, more powerful Starship &#39;Version 3,&#39; Elon Musk says](https://www.space.com/space-exploration/launches-spacecraft/spacex-targeting-mid-march-for-1st-flight-of-bigger-more-powerful-starship-version-3-elon-musk-says)
-- [Proteins before planets: How space ice may have created the 1st building blocks of life](https://www.space.com/space-exploration/search-for-life/proteins-before-planets-how-space-ice-may-have-created-the-1st-building-blocks-of-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
