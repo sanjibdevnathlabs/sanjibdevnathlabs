@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Satya Nadella insists people are using Microsoft’s Copilot AI a lot](https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/)
+- [New &#39;Starfleet Academy&#39; episode &#39;Vox in Excelso&#39; shows that Klingons are the most versatile species in &#39;Star Trek&#39;](https://www.space.com/entertainment/space-movies-shows/new-starfleet-academy-episode-vox-in-excelso-shows-that-klingons-are-the-most-versatile-species-in-star-trek)
+- [US government declassifies Cold War-era &#39;JUMPSEAT&#39; spy satellites](https://www.space.com/space-exploration/launches-spacecraft/nro-declassifies-cold-war-era-jumpseat-spy-satellite)
+- [Elon Musk’s SpaceX and xAI in talks to merge, report says](https://techcrunch.com/2026/01/29/elon-musk-spacex-xai-merger-talks-ipo-reuters/)
 - [NASA&#39;s Juno spacecraft spots the largest volcanic eruption ever seen on Jupiter&#39;s moon Io](https://www.space.com/astronomy/jupiter/nasas-juno-spacecraft-spots-the-largest-volcanic-eruption-ever-seen-on-jupiters-moon-io)
-- [Apple buys Israeli startup Q.ai as the AI race heats up](https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/)
-- [NASA&#39;s Artemis 2 crewed mission to the moon shows how US space strategy has changed since Apollo – and contrasts with China&#39;s closed program](https://www.space.com/space-exploration/artemis/nasas-artemis-2-crewed-mission-to-the-moon-shows-how-us-space-strategy-has-changed-since-apollo-and-contrasts-with-chinas-closed-program)
-- [Waymo robotaxis are now giving rides to and from San Francisco International Airport](https://techcrunch.com/2026/01/29/waymo-sfo-airport-robotaxis/)
-- [I built marshmallow castles in Google’s new AI-world generator](https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
