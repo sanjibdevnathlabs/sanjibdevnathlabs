@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deezer makes it easier for rival platforms to take a stance against AI-generated music](https://techcrunch.com/2026/01/29/deezer-makes-it-easier-for-rival-platforms-to-take-a-stance-against-ai-generated-music/)
 - [Meta burned $19 billion on VR last year, and 2026 won’t be any better](https://techcrunch.com/2026/01/28/meta-burned-19-billion-on-vr-last-year-and-2026-wont-be-any-better/)
 - [Zuckerberg teases agentic commerce tools and major AI rollout in 2026](https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/)
 - [NASA and SpaceX move up launch of Crew-12 astronauts to Feb. 11 as relief crew after ISS medical evacuation](https://www.space.com/space-exploration/human-spaceflight/nasa-and-spacex-move-up-launch-of-crew-12-astronauts-to-feb-11-as-relief-crew-after-iss-medical-evacuation)
 - [Trump energy department loosens rules on nuclear safety](https://techcrunch.com/2026/01/28/trump-energy-department-loosens-rules-on-nuclear-safety/)
-- [Microsoft gained $7.6B from OpenAI last quarter](https://techcrunch.com/2026/01/28/microsoft-earnings-7-6-billion-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
