@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Goodbye Goldilocks: Scientists may have to look beyond habitable zones to find alien life](https://www.space.com/space-exploration/search-for-life/goodbye-goldilocks-scientists-may-have-to-look-beyond-habitable-zones-to-find-alien-life)
+- [Waymo robotaxi hits a child near an elementary school in Santa Monica](https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/)
 - [Upwind raises $250M at $1.5B valuation to continue building ‘runtime’ cloud security](https://techcrunch.com/2026/01/29/upwind-raises-250m-at-1-5b-valuation-to-continue-building-runtime-cloud-security/)
 - [Apple hires iPhone camera app Halide’s co-founder for its design team](https://techcrunch.com/2026/01/29/apple-hires-iphone-camera-app-halides-co-founder-for-its-design-team/)
 - [James Webb Space Telescope reveals new origin story for the universe&#39;s 1st supermassive black holes](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-data-backs-new-origin-story-for-the-universes-1st-supermassive-black-holes)
-- [Deezer makes it easier for rival platforms to take a stance against AI-generated music](https://techcrunch.com/2026/01/29/deezer-makes-it-easier-for-rival-platforms-to-take-a-stance-against-ai-generated-music/)
-- [Meta burned $19 billion on VR last year, and 2026 won’t be any better](https://techcrunch.com/2026/01/28/meta-burned-19-billion-on-vr-last-year-and-2026-wont-be-any-better/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
