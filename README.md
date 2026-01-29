@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2 SLS wet dress rehearsal latest news: NASA preps for critical test ahead of astronaut launch to the moon](https://www.space.com/news/live/artemis-2-moon-rocket-nasa-fueling-test-jan-29-2026)
+- [Watch Rocket Lab launch Korean disaster-monitoring satellite tonight after long delay](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-korean-disaster-monitoring-satellite-after-delay)
+- [Fintech firm Marquis blames hack at firewall provider SonicWall for its data breach](https://techcrunch.com/2026/01/29/fintech-firm-marquis-blames-hack-at-firewall-provider-sonicwall-for-its-data-breach/)
 - [Satya Nadella insists people are using Microsoft’s Copilot AI a lot](https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/)
 - [New &#39;Starfleet Academy&#39; episode &#39;Vox in Excelso&#39; shows that Klingons are the most versatile species in &#39;Star Trek&#39;](https://www.space.com/entertainment/space-movies-shows/new-starfleet-academy-episode-vox-in-excelso-shows-that-klingons-are-the-most-versatile-species-in-star-trek)
-- [US government declassifies Cold War-era &#39;JUMPSEAT&#39; spy satellites](https://www.space.com/space-exploration/launches-spacecraft/nro-declassifies-cold-war-era-jumpseat-spy-satellite)
-- [Elon Musk’s SpaceX and xAI in talks to merge, report says](https://techcrunch.com/2026/01/29/elon-musk-spacex-xai-merger-talks-ipo-reuters/)
-- [NASA&#39;s Juno spacecraft spots the largest volcanic eruption ever seen on Jupiter&#39;s moon Io](https://www.space.com/astronomy/jupiter/nasas-juno-spacecraft-spots-the-largest-volcanic-eruption-ever-seen-on-jupiters-moon-io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
