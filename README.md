@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Generating 3D Models with Diffusion - Computerphile](https://www.youtube.com/watch?v=C1E500opYHA)
 - [25 Years of Tech Wisdom in 50 Minutes | Kelsey Hightower](https://www.youtube.com/watch?v=tCehFMwjWqM)
 - [I flew to Romania to find hackers who fight hackers](https://www.youtube.com/shorts/gM5O0zCqriM)
 - [Can You Afford NOT to Learn DevOps? Salary Data That Will Change Your Career Plans](https://www.youtube.com/shorts/fQDh9_tuYuI)
 - [FREE Phone Calls with Claude Code](https://www.youtube.com/watch?v=cT22fTzotYc)
-- [Bun in 100 Seconds](https://www.youtube.com/watch?v=M4TufsFlv_o)
 <!-- YOUTUBE:END -->
 
 ---
