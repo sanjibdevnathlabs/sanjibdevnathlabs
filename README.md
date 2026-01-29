@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Maps now lets you access Gemini while walking and cycling](https://techcrunch.com/2026/01/29/google-maps-now-lets-you-access-gemini-while-walking-and-cycling/)
-- [Satellite sees river flow across the globe | Space photo of the day for Jan. 29, 2025](https://www.space.com/astronomy/earth/satellite-sees-river-flow-across-the-globe-space-photo-of-the-day-for-jan-29-2025)
-- [Goodbye Goldilocks: Scientists may have to look beyond habitable zones to find alien life](https://www.space.com/space-exploration/search-for-life/goodbye-goldilocks-scientists-may-have-to-look-beyond-habitable-zones-to-find-alien-life)
-- [Waymo robotaxi hits a child near an elementary school in Santa Monica](https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/)
-- [Upwind raises $250M at $1.5B valuation to continue building ‘runtime’ cloud security](https://techcrunch.com/2026/01/29/upwind-raises-250m-at-1-5b-valuation-to-continue-building-runtime-cloud-security/)
+- [Flapping Airplanes and the promise of research-driven AI](https://techcrunch.com/2026/01/29/flapping-airplanes-and-the-promise-of-research-driven-ai/)
+- [Best Lego NASA sets 2026: Build NASA&#39;s finest from the Apollo 11 Rover to Artemis 2](https://www.space.com/entertainment/space-toys-lego/best-lego-nasa-sets-2026-build-nasas-finest-from-the-apollo-11-rover-to-artemis-2)
+- [The 10 best sci-fi TV Shows of the 1990s](https://www.space.com/entertainment/space-movies-shows/the-10-best-sci-fi-tv-shows-of-the-1990s)
+- [Tesla’s energy storage business is growing faster than any other part of the company](https://techcrunch.com/2026/01/29/teslas-energy-storage-business-is-growing-faster-than-any-other-part-of-the-company/)
+- [Spotify rolls out group chats](https://techcrunch.com/2026/01/29/spotify-rolls-out-group-chats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
