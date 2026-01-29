@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I built marshmallow castles in Google’s new AI world generator](https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/)
+- [This trio of &#39;Star Trek: Starfleet Academy&#39; cadets weren&#39;t Trekkies before the show, but they are now &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/this-trio-of-star-trek-starfleet-academy-cadets-werent-trekkies-before-the-show-but-they-are-now-interview)
+- [OpenAI’s Sora app is struggling after its stellar launch](https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/)
 - [Music publishers sue Anthropic for $3B over ‘flagrant piracy’ of 20,000 works](https://techcrunch.com/2026/01/29/music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works/)
 - [Jupiter&#39;s moon Europa has an ice shell about 18 miles thick — and that could be bad news for alien life](https://www.space.com/astronomy/jupiter/jupiters-moon-europa-has-an-ice-shell-about-18-miles-thick-and-that-could-be-bad-news-for-alien-life)
-- [India is teaching Google how AI in education can scale](https://techcrunch.com/2026/01/29/india-is-teaching-google-how-ai-in-education-can-scale/)
-- [Flapping Airplanes and the promise of research-driven AI](https://techcrunch.com/2026/01/29/flapping-airplanes-and-the-promise-of-research-driven-ai/)
-- [Best Lego NASA sets 2026: Build NASA&#39;s finest from the Apollo 11 Rover to Artemis 2](https://www.space.com/entertainment/space-toys-lego/best-lego-nasa-sets-2026-build-nasas-finest-from-the-apollo-11-rover-to-artemis-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
