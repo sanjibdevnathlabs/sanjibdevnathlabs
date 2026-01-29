@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon is reportedly in talks to invest $50 billion in OpenAI](https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/)
+- [Astronomers watch 1st black hole ever imaged launch a 3,000‑light‑year‑long cosmic jet from its glowing &#39;shadow&#39;](https://www.space.com/astronomy/black-holes/astronomers-watch-1st-black-hole-ever-imaged-launch-a-3-000-light-year-long-cosmic-jet-from-its-glowing-shadow)
+- [Medium gives employees Friday off to participate in national strike protesting ICE](https://techcrunch.com/2026/01/29/medium-gives-employees-friday-off-to-participate-in-national-strike-protesting-ice/)
+- [Microsoft won’t stop buying AI chips from Nvidia, AMD, even after launching its own, Nadella says](https://techcrunch.com/2026/01/29/microsoft-wont-stop-buying-ai-chips-from-nvidia-amd-even-after-launching-its-own-nadella-says/)
 - [Artemis 2 SLS wet dress rehearsal latest news: NASA preps for critical test ahead of astronaut launch to the moon](https://www.space.com/news/live/artemis-2-moon-rocket-nasa-fueling-test-jan-29-2026)
-- [Watch Rocket Lab launch Korean disaster-monitoring satellite tonight after long delay](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-korean-disaster-monitoring-satellite-after-delay)
-- [Fintech firm Marquis blames hack at firewall provider SonicWall for its data breach](https://techcrunch.com/2026/01/29/fintech-firm-marquis-blames-hack-at-firewall-provider-sonicwall-for-its-data-breach/)
-- [Satya Nadella insists people are using Microsoft’s Copilot AI a lot](https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/)
-- [New &#39;Starfleet Academy&#39; episode &#39;Vox in Excelso&#39; shows that Klingons are the most versatile species in &#39;Star Trek&#39;](https://www.space.com/entertainment/space-movies-shows/new-starfleet-academy-episode-vox-in-excelso-shows-that-klingons-are-the-most-versatile-species-in-star-trek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
