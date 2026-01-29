@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 2 crewed mission to the moon shows how US space strategy has changed since Apollo – and contrasts with China&#39;s closed program](https://www.space.com/space-exploration/artemis/nasas-artemis-2-crewed-mission-to-the-moon-shows-how-us-space-strategy-has-changed-since-apollo-and-contrasts-with-chinas-closed-program)
+- [Waymo robotaxis are now giving rides to and from San Francisco International Airport](https://techcrunch.com/2026/01/29/waymo-sfo-airport-robotaxis/)
 - [I built marshmallow castles in Google’s new AI world generator](https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/)
 - [This trio of &#39;Star Trek: Starfleet Academy&#39; cadets weren&#39;t Trekkies before the show, but they are now &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/this-trio-of-star-trek-starfleet-academy-cadets-werent-trekkies-before-the-show-but-they-are-now-interview)
 - [OpenAI’s Sora app is struggling after its stellar launch](https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/)
-- [Music publishers sue Anthropic for $3B over ‘flagrant piracy’ of 20,000 works](https://techcrunch.com/2026/01/29/music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works/)
-- [Jupiter&#39;s moon Europa has an ice shell about 18 miles thick — and that could be bad news for alien life](https://www.space.com/astronomy/jupiter/jupiters-moon-europa-has-an-ice-shell-about-18-miles-thick-and-that-could-be-bad-news-for-alien-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
