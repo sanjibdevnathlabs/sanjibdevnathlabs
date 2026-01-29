@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Music publishers sue Anthropic for $3B over ‘flagrant piracy’ of 20,000 works](https://techcrunch.com/2026/01/29/music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works/)
+- [Jupiter&#39;s moon Europa has an ice shell about 18 miles thick — and that could be bad news for alien life](https://www.space.com/astronomy/jupiter/jupiters-moon-europa-has-an-ice-shell-about-18-miles-thick-and-that-could-be-bad-news-for-alien-life)
+- [India is teaching Google how AI in education can scale](https://techcrunch.com/2026/01/29/india-is-teaching-google-how-ai-in-education-can-scale/)
 - [Flapping Airplanes and the promise of research-driven AI](https://techcrunch.com/2026/01/29/flapping-airplanes-and-the-promise-of-research-driven-ai/)
 - [Best Lego NASA sets 2026: Build NASA&#39;s finest from the Apollo 11 Rover to Artemis 2](https://www.space.com/entertainment/space-toys-lego/best-lego-nasa-sets-2026-build-nasas-finest-from-the-apollo-11-rover-to-artemis-2)
-- [The 10 best sci-fi TV Shows of the 1990s](https://www.space.com/entertainment/space-movies-shows/the-10-best-sci-fi-tv-shows-of-the-1990s)
-- [Tesla’s energy storage business is growing faster than any other part of the company](https://techcrunch.com/2026/01/29/teslas-energy-storage-business-is-growing-faster-than-any-other-part-of-the-company/)
-- [Spotify rolls out group chats](https://techcrunch.com/2026/01/29/spotify-rolls-out-group-chats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
