@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic brings agentic plugins to Cowork](https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/)
+- [Uber is literally in the driver’s seat when it comes to AV bets](https://techcrunch.com/video/uber-is-literally-in-the-drivers-seat-when-it-comes-to-av-bets/)
+- [Anthropic brings agentic plug-ins to Cowork](https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/)
 - [1.1 million mph cosmic winds race through &#39;magnetic superhighway&#39; in colliding galaxies](https://www.space.com/astronomy/galaxies/1-1-million-mph-cosmic-winds-race-through-magnetic-superhighway-in-colliding-galaxies)
 - [Artemis 2 SLS wet dress rehearsal latest news: Moon rocket fueling test now set for Feb. 2](https://www.space.com/news/live/artemis-2-moon-rocket-nasa-fueling-test-jan-30-2026)
 - [Bluesky issues its first transparency report, noting rise in user reports and legal demands](https://techcrunch.com/2026/01/30/bluesky-issues-its-first-transparency-report-noting-rise-in-user-reports-and-legal-demands/)
-- [Living spaceships, plague planets, and a quote from Josef Mengele: &#39;The Sixth Nik&#39; is NYT bestselling author Daniel Kraus&#39; 1st sci-fi novel, and it&#39;s really weird](https://www.space.com/entertainment/space-books/living-spaceships-plague-planets-and-a-quote-from-josef-mengele-the-sixth-nik-is-nyt-bestselling-author-daniel-kraus-1st-sci-fi-novel-and-its-really-weird)
 <!-- BLOG-POST-LIST:END -->
 
 ---
