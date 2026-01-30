@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA delays critical Artemis 2 rocket fueling test due to below-freezing temperatures, launch no earlier than Feb. 8](https://www.space.com/space-exploration/artemis/nasa-delays-critical-artemis-2-rocket-fueling-test-due-to-below-freezing-temperatures-launch-no-earlier-than-feb-8)
 - [Last 24 hours to grab your +1 pass at 50% off to TechCrunch Disrupt 2026](https://techcrunch.com/2026/01/30/last-24-hours-to-grab-your-1-pass-at-50-off-to-techcrunch-disrupt-2026/)
 - [Is a MacBook or Windows laptop better for astrophotography?](https://www.space.com/stargazing/skywatching-kit/is-a-macbook-or-windows-laptop-better-for-astrophotography)
 - [See the moon glow next to mighty Jupiter in the winter sky tonight](https://www.space.com/stargazing/see-the-moon-glow-next-to-mighty-jupiter-in-the-winter-sky-jan-30-2026)
 - [Artemis 2 moon suits ready to make history | Space photo of the day for Jan. 30, 2026](https://www.space.com/space-exploration/artemis/artemis-2-moon-suits-ready-to-make-history-space-photo-of-the-day-for-jan-30-2026)
-- [Comet C/2025 K1 &lpar;ATLAS&rpar; crumbles apart in stunning new telescope images](https://www.space.com/astronomy/comets/comet-c-2025-k1-atlas-crumbles-apart-in-stunning-new-telescope-images)
 <!-- BLOG-POST-LIST:END -->
 
 ---
