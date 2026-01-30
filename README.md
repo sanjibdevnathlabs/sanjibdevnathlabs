@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Sequoia-backed Ethos reached the public market while rivals fell short](https://techcrunch.com/2026/01/29/how-sequoia-backed-ethos-reached-the-public-market-while-rivals-fell-short/)
 - [The iPhone just had its best quarter ever](https://techcrunch.com/2026/01/29/the-iphone-just-had-its-best-quarter-ever/)
 - [Guys, I don’t think Tim Cook knows how to monetize AI](https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/)
 - [Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports](https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/)
 - [Amazon is reportedly in talks to invest $50B in OpenAI](https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/)
-- [Astronomers watch 1st black hole ever imaged launch a 3,000‑light‑year‑long cosmic jet from its glowing &#39;shadow&#39;](https://www.space.com/astronomy/black-holes/astronomers-watch-1st-black-hole-ever-imaged-launch-a-3-000-light-year-long-cosmic-jet-from-its-glowing-shadow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
