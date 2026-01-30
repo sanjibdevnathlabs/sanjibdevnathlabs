@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Last 24 hours to grab your +1 pass at 50% off to TechCrunch Disrupt 2026](https://techcrunch.com/2026/01/30/last-24-hours-to-grab-your-1-pass-at-50-off-to-techcrunch-disrupt-2026/)
+- [Is a MacBook or Windows laptop better for astrophotography?](https://www.space.com/stargazing/skywatching-kit/is-a-macbook-or-windows-laptop-better-for-astrophotography)
+- [See the moon glow next to mighty Jupiter in the winter sky tonight](https://www.space.com/stargazing/see-the-moon-glow-next-to-mighty-jupiter-in-the-winter-sky-jan-30-2026)
 - [Artemis 2 moon suits ready to make history | Space photo of the day for Jan. 30, 2026](https://www.space.com/space-exploration/artemis/artemis-2-moon-suits-ready-to-make-history-space-photo-of-the-day-for-jan-30-2026)
 - [Comet C/2025 K1 &lpar;ATLAS&rpar; crumbles apart in stunning new telescope images](https://www.space.com/astronomy/comets/comet-c-2025-k1-atlas-crumbles-apart-in-stunning-new-telescope-images)
-- [From space to the seabed, critical infrastructure is becoming more vulnerable, experts warn: &#39;People don&#39;t realize how dependent we are&#39;](https://www.space.com/space-exploration/satellites/from-space-to-the-seabed-critical-infrastructure-is-becoming-more-vulnerable-experts-warn-people-dont-realize-how-dependent-we-are)
-- [SpaceX launches Starlink satellites from two coasts in two days](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-b1082-group-17-19-ocisly-b1095-group-6-101-jrti)
-- [How Sequoia-backed Ethos reached the public market while rivals fell short](https://techcrunch.com/2026/01/29/how-sequoia-backed-ethos-reached-the-public-market-while-rivals-fell-short/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
