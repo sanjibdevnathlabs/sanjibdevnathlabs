@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic brings agentic plugins to Cowork](https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/)
+- [1.1 million mph cosmic winds race through &#39;magnetic superhighway&#39; in colliding galaxies](https://www.space.com/astronomy/galaxies/1-1-million-mph-cosmic-winds-race-through-magnetic-superhighway-in-colliding-galaxies)
+- [Artemis 2 SLS wet dress rehearsal latest news: Moon rocket fueling test now set for Feb. 2](https://www.space.com/news/live/artemis-2-moon-rocket-nasa-fueling-test-jan-30-2026)
 - [Bluesky issues its first transparency report, noting rise in user reports and legal demands](https://techcrunch.com/2026/01/30/bluesky-issues-its-first-transparency-report-noting-rise-in-user-reports-and-legal-demands/)
 - [Living spaceships, plague planets, and a quote from Josef Mengele: &#39;The Sixth Nik&#39; is NYT bestselling author Daniel Kraus&#39; 1st sci-fi novel, and it&#39;s really weird](https://www.space.com/entertainment/space-books/living-spaceships-plague-planets-and-a-quote-from-josef-mengele-the-sixth-nik-is-nyt-bestselling-author-daniel-kraus-1st-sci-fi-novel-and-its-really-weird)
-- [Reid Hoffman urges Silicon Valley leaders to stop bending the knee to President Trump](https://techcrunch.com/2026/01/30/reid-hoffman-urges-silicon-valley-leaders-to-stop-bending-the-knee-to-president-trump/)
-- [Russian hackers breached Polish power grid thanks to bad security, report says](https://techcrunch.com/2026/01/30/russian-hackers-breached-polish-power-grid-thanks-to-bad-security-report-says/)
-- [NASA delays critical Artemis 2 rocket fueling test due to below-freezing temperatures, launch no earlier than Feb. 8](https://www.space.com/space-exploration/artemis/nasa-delays-critical-artemis-2-rocket-fueling-test-due-to-below-freezing-temperatures-launch-no-earlier-than-feb-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
