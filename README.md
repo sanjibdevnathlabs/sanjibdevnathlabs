@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram might soon let you remove yourself from someone’s Close Friends list](https://techcrunch.com/2026/01/30/instagram-might-soon-let-you-remove-yourself-from-someones-close-friends-list/)
+- [Blue Origin pauses space tourism flights to focus on the moon](https://techcrunch.com/2026/01/30/blue-origin-pauses-space-tourism-flights-to-focus-on-the-moon/)
+- [Russian &#39;inspector&#39; satellite appears to break apart in orbit, raising debris concerns](https://www.space.com/space-exploration/launches-spacecraft/russian-inspector-satellite-appears-to-break-apart-in-orbit-raising-debris-concerns)
 - [Large Hadron Collider reveals &#39;primordial soup&#39; of the early universe was surprisingly soupy](https://www.space.com/science/particle-physics/large-hadron-collider-reveals-primordial-soup-of-the-early-universe-was-surprisingly-soupy)
 - [SpaceX’s IPO could open the floodgates — and secondaries are booming in the meantime](https://techcrunch.com/2026/01/30/spacexs-ipo-could-open-the-floodgates-and-secondaries-are-booming-in-the-meantime/)
-- [Uber is literally in the driver’s seat when it comes to AV bets](https://techcrunch.com/video/uber-is-literally-in-the-drivers-seat-when-it-comes-to-av-bets/)
-- [Anthropic brings agentic plug-ins to Cowork](https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/)
-- [1.1 million mph cosmic winds race through &#39;magnetic superhighway&#39; in colliding galaxies](https://www.space.com/astronomy/galaxies/1-1-million-mph-cosmic-winds-race-through-magnetic-superhighway-in-colliding-galaxies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
