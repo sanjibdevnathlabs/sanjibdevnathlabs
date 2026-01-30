@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I gave Claude Code a phone number #claudecode](https://www.youtube.com/shorts/mQQgB6VK_m4)
 - [The wild rise of OpenClaw...](https://www.youtube.com/watch?v=ssYt09bCgUY)
 - [Claude Code on your phone in 10 minutes](https://www.youtube.com/watch?v=FEDiAHzS0zw)
 - [Generating 3D Models with Diffusion - Computerphile](https://www.youtube.com/watch?v=C1E500opYHA)
 - [25 Years of Tech Wisdom in 50 Minutes | Kelsey Hightower](https://www.youtube.com/watch?v=tCehFMwjWqM)
-- [I flew to Romania to find hackers who fight hackers](https://www.youtube.com/shorts/gM5O0zCqriM)
 <!-- YOUTUBE:END -->
 
 ---
