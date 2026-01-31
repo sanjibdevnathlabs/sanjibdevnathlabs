@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HomeBoost’s app will show you where to save on your utility bills](https://techcrunch.com/2026/01/31/homeboosts-app-will-show-you-where-to-save-on-your-utility-bills/)
+- [Chinese space tourism startup eyes 2028 for 1st crewed mission, signs celebrity for future flight](https://www.space.com/space-exploration/human-spaceflight/chinese-space-tourism-startup-eyes-2028-for-1st-crewed-mission-signs-celebrity-for-future-flight)
+- [This Week In Space podcast: Episode 195 — Remembering Apollo 1, Challenger, and Columbia](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-195-remembering-apollo-1-challenger-and-columbia)
 - [Space.com headlines crossword quiz for week of Jan. 26, 2026: Which planet may have a July meteor shower?](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-jan-26-2026-which-planet-may-have-a-july-meteor-shower)
 - [From a new flagship space telescope to lunar exploration, global cooperation – and competition – will make 2026 an exciting year for space](https://www.space.com/space-exploration/from-a-new-flagship-space-telescope-to-lunar-exploration-global-cooperation-and-competition-will-make-2026-an-exciting-year-for-space)
-- [From &#39;Asteroids&#39; to &#39;Star Citizen&#39;: A brief history of space dogfighting games](https://www.space.com/entertainment/space-games/from-asteroids-to-star-citizen-a-brief-history-of-space-dogfighting-games)
-- [Peak Design 25L Outdoor Backpack review](https://www.space.com/stargazing/skywatching-kit/peak-design-25l-outdoor-backpack-review)
-- [What actually happens to a spacecraft during its fiery last moments? Here&#39;s why ESA wants to find out](https://www.space.com/space-exploration/satellites/what-actually-happens-to-a-spacecraft-during-its-fiery-last-moments-heres-why-esa-wants-to-find-out)
 <!-- BLOG-POST-LIST:END -->
 
 ---
