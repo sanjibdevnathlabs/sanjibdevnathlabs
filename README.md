@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [a16z partner Kofi Ampadu to leave firm after TxO program pause](https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/)
 - [Physical Intelligence, Stripe veteran Lachy Groom’s latest bet, is building Silicon Valley’s buzziest robot brains](https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/)
 - [OnlyFans considering selling majority stake to Architect Capital](https://techcrunch.com/2026/01/30/onlyfans-considering-selling-majority-stake-to-architect-capital/)
 - [OpenClaw’s AI assistants are now building their own social network](https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/)
 - [NASA&#39;s Artemis 2 mission to the moon puts Crew-12 SpaceX launch in delicate dance](https://www.space.com/space-exploration/human-spaceflight/nasas-artemis-2-mission-to-the-moon-puts-crew-12-spacex-launch-in-delicate-dance)
-- [Informant told FBI that Jeffrey Epstein had a ‘personal hacker’](https://techcrunch.com/2026/01/30/informant-told-fbi-that-jeffrey-epstein-had-a-personal-hacker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
