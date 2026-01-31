@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space.com headlines crossword quiz for week of Jan. 26, 2026: Which planet may have a July meteor shower?](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-jan-26-2026-which-planet-may-have-a-july-meteor-shower)
 - [From a new flagship space telescope to lunar exploration, global cooperation – and competition – will make 2026 an exciting year for space](https://www.space.com/space-exploration/from-a-new-flagship-space-telescope-to-lunar-exploration-global-cooperation-and-competition-will-make-2026-an-exciting-year-for-space)
 - [From &#39;Asteroids&#39; to &#39;Star Citizen&#39;: A brief history of space dogfighting games](https://www.space.com/entertainment/space-games/from-asteroids-to-star-citizen-a-brief-history-of-space-dogfighting-games)
 - [Peak Design 25L Outdoor Backpack review](https://www.space.com/stargazing/skywatching-kit/peak-design-25l-outdoor-backpack-review)
 - [What actually happens to a spacecraft during its fiery last moments? Here&#39;s why ESA wants to find out](https://www.space.com/space-exploration/satellites/what-actually-happens-to-a-spacecraft-during-its-fiery-last-moments-heres-why-esa-wants-to-find-out)
-- [a16z partner Kofi Ampadu to leave firm after TxO program pause](https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
