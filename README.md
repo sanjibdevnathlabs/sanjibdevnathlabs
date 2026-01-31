@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Physical Intelligence, Stripe veteran Lachy Groom’s latest bet, is building Silicon Valley’s buzziest robot brains](https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/)
+- [OnlyFans considering selling majority stake to Architect Capital](https://techcrunch.com/2026/01/30/onlyfans-considering-selling-majority-stake-to-architect-capital/)
+- [OpenClaw’s AI assistants are now building their own social network](https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/)
+- [NASA&#39;s Artemis 2 mission to the moon puts Crew-12 SpaceX launch in delicate dance](https://www.space.com/space-exploration/human-spaceflight/nasas-artemis-2-mission-to-the-moon-puts-crew-12-spacex-launch-in-delicate-dance)
 - [Informant told FBI that Jeffrey Epstein had a ‘personal hacker’](https://techcrunch.com/2026/01/30/informant-told-fbi-that-jeffrey-epstein-had-a-personal-hacker/)
-- [Blue Origin pausing space tourism flights for at least 2 years to focus on moon plans](https://www.space.com/space-exploration/private-spaceflight/blue-origin-pausing-space-tourism-flights-for-at-least-2-years-to-focus-on-moon-plans)
-- [Instagram might soon let you remove yourself from someone’s Close Friends list](https://techcrunch.com/2026/01/30/instagram-might-soon-let-you-remove-yourself-from-someones-close-friends-list/)
-- [Blue Origin pauses space tourism flights to focus on the moon](https://techcrunch.com/2026/01/30/blue-origin-pauses-space-tourism-flights-to-focus-on-the-moon/)
-- [Russian &#39;inspector&#39; satellite appears to break apart in orbit, raising debris concerns](https://www.space.com/space-exploration/launches-spacecraft/russian-inspector-satellite-appears-to-break-apart-in-orbit-raising-debris-concerns)
 <!-- BLOG-POST-LIST:END -->
 
 ---
