@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From &#39;Asteroids&#39; to &#39;Star Citizen&#39;: A brief history of space dogfighting games](https://www.space.com/entertainment/space-games/from-asteroids-to-star-citizen-a-brief-history-of-space-dogfighting-games)
 - [Peak Design 25L Outdoor Backpack review](https://www.space.com/stargazing/skywatching-kit/peak-design-25l-outdoor-backpack-review)
 - [What actually happens to a spacecraft during its fiery last moments? Here&#39;s why ESA wants to find out](https://www.space.com/space-exploration/satellites/what-actually-happens-to-a-spacecraft-during-its-fiery-last-moments-heres-why-esa-wants-to-find-out)
 - [a16z partner Kofi Ampadu to leave firm after TxO program pause](https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/)
 - [A peek inside Physical Intelligence, the startup building Silicon Valley’s buzziest robot brains](https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/)
-- [OnlyFans considering selling majority stake to Architect Capital](https://techcrunch.com/2026/01/30/onlyfans-considering-selling-majority-stake-to-architect-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
