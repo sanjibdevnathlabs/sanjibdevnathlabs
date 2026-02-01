@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis 2 SLS wet dress rehearsal latest news: NASA set to take stations for moon rocket fueling test](https://www.space.com/news/live/artemis-2-moon-rocket-nasa-fueling-test-jan-31-2026)
-- [Chinese space tourism startup eyes 2028 for 1st crewed mission, signs celebrity for future flight](https://www.space.com/space-exploration/human-spaceflight/chinese-space-tourism-startup-eyes-2028-for-1st-crewed-mission-signs-celebrity-for-future-flight)
-- [This Week In Space podcast: Episode 195 — Remembering Apollo 1, Challenger, and Columbia](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-195-remembering-apollo-1-challenger-and-columbia)
-- [Space.com headlines crossword quiz for week of Jan. 26, 2026: Which planet may have a July meteor shower?](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-jan-26-2026-which-planet-may-have-a-july-meteor-shower)
-- [From a new flagship space telescope to lunar exploration, global cooperation – and competition – will make 2026 an exciting year for space](https://www.space.com/space-exploration/from-a-new-flagship-space-telescope-to-lunar-exploration-global-cooperation-and-competition-will-make-2026-an-exciting-year-for-space)
+- [See the full &#39;Snow Moon&#39; chill in the eastern sky at sunset tonight](https://www.space.com/stargazing/see-the-full-snow-moon-chill-in-the-eastern-sky-at-sunset-tonight)
+- [Meet the new European unicorns of 2026](https://techcrunch.com/2026/01/31/meet-the-new-european-unicorns-of-2026/)
+- [Waymo reportedly raising a $16B funding round](https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/)
+- [SpaceX seeks federal approval to launch 1 million solar-powered satellite data centers](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/)
+- [Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled](https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
