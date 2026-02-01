@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon’s ‘Melania’ documentary makes $7M on opening weekend](https://techcrunch.com/2026/02/01/amazons-melania-documentary-makes-7m-on-opening-weekend/)
 - [Indonesia ‘conditionally’ lifts ban on Grok](https://techcrunch.com/2026/02/01/indonesia-conditionally-lifts-ban-on-grok/)
 - [TechCrunch Mobility: The great Tesla rebranding](https://techcrunch.com/2026/02/01/techcrunch-mobility-the-great-tesla-rebranding/)
 - [India offers zero taxes through 2047 to lure global AI workloads](https://techcrunch.com/2026/02/01/india-offers-zero-taxes-through-2047-to-lure-global-ai-workloads/)
 - [&#39;Back to the Moon&#39;: Time magazine salutes Artemis 2 astronauts in special commemorative cover issue](https://www.space.com/entertainment/back-to-the-moon-time-magazine-salutes-artemis-2-astronauts-in-special-commemorative-cover-issue)
-- [Bye-bye corporate conglomerates. Hello personal conglomerates.](https://techcrunch.com/2026/02/01/bye-bye-corporate-conglomerates-hello-personal-conglomerates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
