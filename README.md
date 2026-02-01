@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A &#39;cosmic clock&#39; in tiny crystals has revealed the rise and fall of Australia&#39;s ancient landscapes](https://www.space.com/astronomy/a-cosmic-clock-in-tiny-crystals-has-revealed-the-rise-and-fall-of-australias-ancient-landscapes)
 - [Artemis 2 SLS wet dress rehearsal latest news: NASA begins countdown for critical fueling test](https://www.space.com/news/live/artemis-2-moon-rocket-nasa-fueling-test-feb-1-2026)
 - [The Pelican Nebula shines near the Las Vegas Strip in gorgeous deep space photo](https://www.space.com/stargazing/astrophotography/the-pelican-nebula-shines-near-the-las-vegas-strip-in-gorgeous-deep-space-photo)
 - [Gladys West, GPS pioneer and one of NASA&#39;s famed &#39;Hidden Figures,&#39; dies at 95](https://www.space.com/space-exploration/gladys-west-gps-pioneer-and-one-of-nasas-famed-hidden-figures-dies-at-95)
 - [See the full &#39;Snow Moon&#39; chill in the eastern sky at sunset tonight](https://www.space.com/stargazing/see-the-full-snow-moon-chill-in-the-eastern-sky-at-sunset-tonight)
-- [Meet the new European unicorns of 2026](https://techcrunch.com/2026/01/31/meet-the-new-european-unicorns-of-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
