@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gladys West, GPS pioneer and one of NASA&#39;s famed &#39;Hidden Figures,&#39; dies at 95](https://www.space.com/space-exploration/gladys-west-gps-pioneer-and-one-of-nasas-famed-hidden-figures-dies-at-95)
 - [See the full &#39;Snow Moon&#39; chill in the eastern sky at sunset tonight](https://www.space.com/stargazing/see-the-full-snow-moon-chill-in-the-eastern-sky-at-sunset-tonight)
 - [Meet the new European unicorns of 2026](https://techcrunch.com/2026/01/31/meet-the-new-european-unicorns-of-2026/)
 - [Waymo reportedly raising a $16B funding round](https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/)
 - [SpaceX seeks federal approval to launch 1 million solar-powered satellite data centers](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/)
-- [Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled](https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
