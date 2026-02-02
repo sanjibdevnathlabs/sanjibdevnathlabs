@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the moon eclipse one of the brightest stars in the sky during rare alignment tonight](https://www.space.com/stargazing/see-the-moon-eclipse-one-of-the-brightest-stars-in-the-sky-during-rare-alignment-feb-2-2026)
+- [Ring brings its ‘Search Party’ feature for finding lost dogs to non-Ring camera owners](https://techcrunch.com/2026/02/02/ring-brings-its-search-party-feature-for-finding-lost-dogs-to-non-ring-camera-owners/)
 - [Carbon Robotics built an AI model that detects and identifies plants](https://techcrunch.com/2026/02/02/carbon-robotics-built-an-ai-model-that-detects-and-identifies-plants/)
 - [Coalition demands federal Grok ban over nonconsensual sexual content](https://techcrunch.com/2026/02/02/coalition-demands-federal-grok-ban-over-nonconsensual-sexual-content/)
-- [Comet visits stargazers on Kitt Peak | Space photo of the day for Feb. 2, 2026](https://www.space.com/stargazing/comet-visits-stargazers-on-kitt-peak-space-photo-of-the-day-for-feb-2-2026)
 - [Lego Star Wars BB-8 review](https://www.space.com/entertainment/space-toys-lego/lego-star-wars-bb-8-review)
-- [UpScrolled’s founder says the social network has zoomed past 2.5M users](https://techcrunch.com/2026/02/02/upscrolleds-founder-says-the-social-network-has-zoomed-past-2-5m-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
