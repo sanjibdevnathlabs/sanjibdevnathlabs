@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Grubhub waives delivery and service fees on restaurant orders over $50](https://techcrunch.com/2026/02/02/grubhub-waives-delivery-service-fees-orders-over-50/)
-- [OpenAI launches new MacOS app for agentic coding](https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/)
-- [Notepad++ says Chinese government hackers hijacked its software updates for months](https://techcrunch.com/2026/02/02/notepad-says-chinese-government-hackers-hijacked-its-software-updates-for-months/)
-- [From Jupiter to Mercury: the brightest planets of February 2026](https://www.space.com/stargazing/brightest-planets-february-2026-night-sky)
-- [Groundhog Day launch sends SpaceX Starlink satellites into Earth orbit from California &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-launch-group-17-32-vsfb-ocisly)
+- [Waymo raises $16B to scale robotaxi fleet internationally](https://techcrunch.com/2026/02/02/waymo-raises-16-billion-round-to-scale-robotaxi-fleet-london-tokyo/)
+- [Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space](https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/)
+- [Bleached Martian rocks offer fresh evidence of a wetter and warmer Mars: &#39;But where did they come from?](https://www.space.com/astronomy/mars/bleached-martian-rocks-offer-fresh-evidence-of-a-wetter-and-warmer-mars-but-where-did-they-come-from)
+- [China is leading the fight against hidden car door handles](https://techcrunch.com/2026/02/02/china-is-leading-the-fight-against-hidden-car-door-handles/)
+- [Adobe Animate is shutting down as company focuses on AI](https://techcrunch.com/2026/02/02/adobe-animate-is-shutting-down-as-company-focuses-on-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
