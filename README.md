@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UpScrolled’s founder says the social network has zoomed past 2.5M users](https://techcrunch.com/2026/02/02/upscrolleds-founder-says-the-social-network-has-zoomed-past-2-5m-users/)
+- [Linq raises $20M to enable AI assistants to live within messaging apps](https://techcrunch.com/2026/02/02/linq-raises-20m-to-enable-ai-assistants-to-live-within-messaging-apps/)
+- [Groundhog Day isn&#39;t the halfway point of winter — the real one arrives tomorrow](https://www.space.com/stargazing/groundhog-day-isnt-the-halfway-point-of-winter-the-real-one-arrives-feb-3-2026)
 - [Artemis 2 SLS wet dress rehearsal latest news: NASA prepares to load propellant in critical fueling test](https://www.space.com/news/live/artemis-2-moon-rocket-nasa-fueling-test-feb-2-2026)
 - [Sun unleashes extraordinary solar flare barrage as new volatile sunspot turns toward Earth](https://www.space.com/astronomy/sun/sun-unleashes-extraordinary-solar-flare-barrage-as-new-volatile-sunspot-turns-toward-earth)
-- [February&#39;s full moon dazzles skywatchers worldwide with a glistening &#39;Snow Moon&#39;](https://www.space.com/stargazing/astrophotography/februarys-full-moon-dazzles-skywatchers-worldwide-with-a-glistening-snow-moon)
-- [James Webb Space Telescope watches distant galaxies form farthest cluster ever seen in the ancient universe &lpar;image&rpar;](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-watches-distant-galaxies-form-farthest-cluster-ever-seen-in-the-ancient-universe-image)
-- [Watch NASA fuel up its Artemis 2 moon rocket today in critical prelaunch test](https://www.space.com/space-exploration/human-spaceflight/watch-nasa-fuel-up-its-artemis-2-moon-rocket-today-in-critical-prelaunch-test)
 <!-- BLOG-POST-LIST:END -->
 
 ---
