@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From Jupiter to Mercury: the brightest planets of February 2026](https://www.space.com/stargazing/brightest-planets-february-2026-night-sky)
+- [Groundhog Day launch sends SpaceX Starlink satellites into Earth orbit from California &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-launch-group-17-32-vsfb-ocisly)
 - [See the moon eclipse one of the brightest stars in the sky during rare alignment tonight](https://www.space.com/stargazing/see-the-moon-eclipse-one-of-the-brightest-stars-in-the-sky-during-rare-alignment-feb-2-2026)
 - [Ring brings its ‘Search Party’ feature for finding lost dogs to non-Ring camera owners](https://techcrunch.com/2026/02/02/ring-brings-its-search-party-feature-for-finding-lost-dogs-to-non-ring-camera-owners/)
 - [Carbon Robotics built an AI model that detects and identifies plants](https://techcrunch.com/2026/02/02/carbon-robotics-built-an-ai-model-that-detects-and-identifies-plants/)
-- [Coalition demands federal Grok ban over nonconsensual sexual content](https://techcrunch.com/2026/02/02/coalition-demands-federal-grok-ban-over-nonconsensual-sexual-content/)
-- [Lego Star Wars BB-8 review](https://www.space.com/entertainment/space-toys-lego/lego-star-wars-bb-8-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
