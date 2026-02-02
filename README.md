@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch NASA fuel up its Artemis 2 moon rocket today in critical prelaunch test](https://www.space.com/space-exploration/human-spaceflight/watch-nasa-fuel-up-its-artemis-2-moon-rocket-today-in-critical-prelaunch-test)
 - [These AI notetaking devices can help you record and transcribe your meetings](https://techcrunch.com/2026/02/02/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/)
 - [TikTok says its services are restored after the outage](https://techcrunch.com/2026/02/01/tiktok-says-its-services-are-restored-after-the-outage/)
 - [AI layoffs or ‘AI-washing’?](https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/)
 - [Why Tether’s CEO is everywhere right now](https://techcrunch.com/2026/02/01/why-tethers-ceo-is-everywhere-right-now/)
-- [Amazon’s ‘Melania’ documentary makes $7M on opening weekend](https://techcrunch.com/2026/02/01/amazons-melania-documentary-makes-7m-on-opening-weekend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
