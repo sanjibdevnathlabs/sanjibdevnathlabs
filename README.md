@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Carbon Robotics built an AI model that detects and identifies plants](https://techcrunch.com/2026/02/02/carbon-robotics-built-an-ai-model-that-detects-and-identifies-plants/)
+- [Coalition demands federal Grok ban over nonconsensual sexual content](https://techcrunch.com/2026/02/02/coalition-demands-federal-grok-ban-over-nonconsensual-sexual-content/)
+- [Comet visits stargazers on Kitt Peak | Space photo of the day for Feb. 2, 2026](https://www.space.com/stargazing/comet-visits-stargazers-on-kitt-peak-space-photo-of-the-day-for-feb-2-2026)
+- [Lego Star Wars BB-8 review](https://www.space.com/entertainment/space-toys-lego/lego-star-wars-bb-8-review)
 - [UpScrolled’s founder says the social network has zoomed past 2.5M users](https://techcrunch.com/2026/02/02/upscrolleds-founder-says-the-social-network-has-zoomed-past-2-5m-users/)
-- [Linq raises $20M to enable AI assistants to live within messaging apps](https://techcrunch.com/2026/02/02/linq-raises-20m-to-enable-ai-assistants-to-live-within-messaging-apps/)
-- [Groundhog Day isn&#39;t the halfway point of winter — the real one arrives tomorrow](https://www.space.com/stargazing/groundhog-day-isnt-the-halfway-point-of-winter-the-real-one-arrives-feb-3-2026)
-- [Artemis 2 SLS wet dress rehearsal latest news: NASA prepares to load propellant in critical fueling test](https://www.space.com/news/live/artemis-2-moon-rocket-nasa-fueling-test-feb-2-2026)
-- [Sun unleashes extraordinary solar flare barrage as new volatile sunspot turns toward Earth](https://www.space.com/astronomy/sun/sun-unleashes-extraordinary-solar-flare-barrage-as-new-volatile-sunspot-turns-toward-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
