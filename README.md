@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2 SLS wet dress rehearsal latest news: NASA prepares to load propellant in critical fueling test](https://www.space.com/news/live/artemis-2-moon-rocket-nasa-fueling-test-feb-2-2026)
+- [Sun unleashes extraordinary solar flare barrage as new volatile sunspot turns toward Earth](https://www.space.com/astronomy/sun/sun-unleashes-extraordinary-solar-flare-barrage-as-new-volatile-sunspot-turns-toward-earth)
+- [February&#39;s full moon dazzles skywatchers worldwide with a glistening &#39;Snow Moon&#39;](https://www.space.com/stargazing/astrophotography/februarys-full-moon-dazzles-skywatchers-worldwide-with-a-glistening-snow-moon)
 - [James Webb Space Telescope watches distant galaxies form farthest cluster ever seen in the ancient universe &lpar;image&rpar;](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-watches-distant-galaxies-form-farthest-cluster-ever-seen-in-the-ancient-universe-image)
 - [Watch NASA fuel up its Artemis 2 moon rocket today in critical prelaunch test](https://www.space.com/space-exploration/human-spaceflight/watch-nasa-fuel-up-its-artemis-2-moon-rocket-today-in-critical-prelaunch-test)
-- [These AI notetaking devices can help you record and transcribe your meetings](https://techcrunch.com/2026/02/02/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/)
-- [TikTok says its services are restored after the outage](https://techcrunch.com/2026/02/01/tiktok-says-its-services-are-restored-after-the-outage/)
-- [AI layoffs or ‘AI-washing’?](https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
