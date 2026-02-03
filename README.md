@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Club is producing short video dramas and building a social network around them](https://techcrunch.com/2026/02/03/watch-club-microdrama-video-social-network/)
+- [Lotus Health nabs $35M for AI doctor that sees patients for free](https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/)
+- [February&#39;s &#39;rare planetary alignment&#39; is coming — here&#39;s what to expect from the planet parade](https://www.space.com/stargazing/februarys-rare-planetary-alignment-is-coming-heres-what-to-expect-from-the-planet-parade)
+- [French police search X office in Paris, summon Elon Musk for questioning](https://techcrunch.com/2026/02/03/french-police-search-x-office-in-paris-summon-elon-musk-for-questioning/)
 - [What tech CEOs and executives have said about ICE’s actions in Minnesota](https://techcrunch.com/2026/02/03/what-tech-ceos-and-executives-have-said-about-ice-in-minnesota/)
-- [Skywatching word search: Can you find these stargazing events?](https://www.space.com/stargazing/skywatching-word-search-can-you-find-these-stargazing-events)
-- [TikTok recovers from dip in usage that benefited rival apps following U.S. ownership change](https://techcrunch.com/2026/02/03/tiktok-recovers-from-dip-in-usage-that-benefited-rival-apps-following-u-s-ownership-change/)
-- [Fitbit founders launch AI platform to help families monitor their health](https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/)
-- [See the March Lunar eclipse in more detail for under $50! These binoculars are now even cheaper than on Black Friday](https://www.space.com/stargazing/skywatching-kit/celestron-cometron-7x50)
 <!-- BLOG-POST-LIST:END -->
 
 ---
