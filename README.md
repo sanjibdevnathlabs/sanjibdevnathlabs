@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Yes Bueno!&#39;: The new Kinder Bueno Super Bowl LX ad is sweet sci-fi goodness &lpar;video&rpar;](https://www.space.com/entertainment/yes-bueno-the-new-kinder-bueno-super-bowl-lx-ad-is-sweet-sci-fi-goodness-video)
+- [2026 plans: What’s next for Startup Battlefield 200](https://techcrunch.com/2026/02/03/looking-ahead-to-2026-whats-next-for-startup-battlefield-200/)
 - [Homeland Security is trying to force tech companies to hand over data about Trump critics](https://techcrunch.com/2026/02/03/homeland-security-is-trying-to-force-tech-companies-to-hand-over-data-about-trump-critics/)
 - [Skyryse lands another $300M to make flying, even helicopters, simple and safe](https://techcrunch.com/2026/02/03/skyryse-lands-another-300m-to-make-flying-even-helicopters-simple-and-safe/)
 - [Agentic coding comes to Apple’s Xcode with agents from Anthropic and OpenAI](https://techcrunch.com/2026/02/03/agentic-coding-comes-to-apples-xcode-26-3-with-agents-from-anthropic-and-openai/)
-- [March full moon 2025: When, where and how to see the Worm Moon](https://www.space.com/stargazing/march-full-moon-2025-when-where-and-how-to-see-the-worm-moon)
-- [Gradient’s heat pumps get new smarts to enable old building retrofits](https://techcrunch.com/2026/02/03/gradients-heat-pumps-get-new-smarts-to-enable-old-building-retrofits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
