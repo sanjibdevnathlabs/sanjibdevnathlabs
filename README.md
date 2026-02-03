@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch Club is producing short video dramas and building a social network around them](https://techcrunch.com/2026/02/03/watch-club-microdrama-video-social-network/)
-- [Lotus Health nabs $35M for AI doctor that sees patients for free](https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/)
-- [February&#39;s &#39;rare planetary alignment&#39; is coming — here&#39;s what to expect from the planet parade](https://www.space.com/stargazing/februarys-rare-planetary-alignment-is-coming-heres-what-to-expect-from-the-planet-parade)
-- [French police search X office in Paris, summon Elon Musk for questioning](https://techcrunch.com/2026/02/03/french-police-search-x-office-in-paris-summon-elon-musk-for-questioning/)
-- [What tech CEOs and executives have said about ICE’s actions in Minnesota](https://techcrunch.com/2026/02/03/what-tech-ceos-and-executives-have-said-about-ice-in-minnesota/)
+- [Homeland Security is trying to force tech companies to hand over data about Trump critics](https://techcrunch.com/2026/02/03/homeland-security-is-trying-to-force-tech-companies-to-hand-over-data-about-trump-critics/)
+- [Skyryse lands another $300M to make flying, even helicopters, simple and safe](https://techcrunch.com/2026/02/03/skyryse-lands-another-300m-to-make-flying-even-helicopters-simple-and-safe/)
+- [Agentic coding comes to Apple’s Xcode with agents from Anthropic and OpenAI](https://techcrunch.com/2026/02/03/agentic-coding-comes-to-apples-xcode-26-3-with-agents-from-anthropic-and-openai/)
+- [March full moon 2025: When, where and how to see the Worm Moon](https://www.space.com/stargazing/march-full-moon-2025-when-where-and-how-to-see-the-worm-moon)
+- [Gradient’s heat pumps get new smarts to enable old building retrofits](https://techcrunch.com/2026/02/03/gradients-heat-pumps-get-new-smarts-to-enable-old-building-retrofits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
