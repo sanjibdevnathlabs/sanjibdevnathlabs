@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What tech CEOs and executives have said about ICE’s actions in Minnesota](https://techcrunch.com/2026/02/03/what-tech-ceos-and-executives-have-said-about-ice-in-minnesota/)
+- [Skywatching word search: Can you find these stargazing events?](https://www.space.com/stargazing/skywatching-word-search-can-you-find-these-stargazing-events)
+- [TikTok recovers from dip in usage that benefited rival apps following U.S. ownership change](https://techcrunch.com/2026/02/03/tiktok-recovers-from-dip-in-usage-that-benefited-rival-apps-following-u-s-ownership-change/)
+- [Fitbit founders launch AI platform to help families monitor their health](https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/)
 - [See the March Lunar eclipse in more detail for under $50! These binoculars are now even cheaper than on Black Friday](https://www.space.com/stargazing/skywatching-kit/celestron-cometron-7x50)
-- [How to use the moon on Feb. 4 to plan your view of March&#39;s total lunar eclipse](https://www.space.com/stargazing/lunar-eclipses/how-to-use-the-moon-on-feb-4-to-plan-your-view-of-marchs-total-lunar-eclipse)
-- [PayPal hires HP’s Enrique Lores as its new CEO](https://techcrunch.com/2026/02/03/paypal-hires-hps-enrique-lores-as-its-new-ceo/)
-- [Peak XV says internal disagreement led to partner exits as it doubles down on AI](https://techcrunch.com/2026/02/03/peak-xv-says-internal-disagreement-led-to-partner-exits-as-it-doubles-down-on-ai/)
-- [Neutron star photobombs baby star | Space photo of the day for Feb. 3, 2026](https://www.space.com/astronomy/stars/neutron-star-photobombs-baby-star-space-photo-of-the-day-for-feb-3-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
