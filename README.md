@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fintech CEO and Forbes 30 Under 30 alum has been charged for alleged fraud](https://techcrunch.com/2026/02/02/fintech-ceo-and-forbes-30-under-30-alum-has-been-charged-for-alleged-fraud/)
+- [NASA fuels up giant Artemis 2 moon rocket. Yes, it&#39;s a little leaky. So is it ready to fly?](https://www.space.com/space-exploration/artemis/nasa-fuels-up-giant-artemis-2-moon-rocket-yes-its-a-little-leaky-so-is-it-ready-to-fly)
 - [Waymo raises $16B to scale robotaxi fleet internationally](https://techcrunch.com/2026/02/02/waymo-raises-16-billion-round-to-scale-robotaxi-fleet-london-tokyo/)
 - [Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space](https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/)
 - [Bleached Martian rocks offer fresh evidence of a wetter and warmer Mars: &#39;But where did they come from?](https://www.space.com/astronomy/mars/bleached-martian-rocks-offer-fresh-evidence-of-a-wetter-and-warmer-mars-but-where-did-they-come-from)
-- [China is leading the fight against hidden car door handles](https://techcrunch.com/2026/02/02/china-is-leading-the-fight-against-hidden-car-door-handles/)
-- [Adobe Animate is shutting down as company focuses on AI](https://techcrunch.com/2026/02/02/adobe-animate-is-shutting-down-as-company-focuses-on-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
