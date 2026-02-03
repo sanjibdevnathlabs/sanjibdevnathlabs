@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Avalanche thinks the fusion power industry should think smaller](https://techcrunch.com/2026/02/03/avalanche-thinks-the-fusion-power-industry-should-think-smaller/)
 - [NASA delays Artemis 2 moon launch to March after encountering issues during fueling test](https://www.space.com/space-exploration/artemis/nasa-delays-artemis-2-moon-launch-to-march-after-encountering-issues-during-fueling-test)
 - [Fintech CEO and Forbes 30 Under 30 alum has been charged for alleged fraud](https://techcrunch.com/2026/02/02/fintech-ceo-and-forbes-30-under-30-alum-has-been-charged-for-alleged-fraud/)
 - [NASA fuels up giant Artemis 2 moon rocket. Yes, it&#39;s a little leaky. So is it ready to fly?](https://www.space.com/space-exploration/artemis/nasa-fuels-up-giant-artemis-2-moon-rocket-yes-its-a-little-leaky-so-is-it-ready-to-fly)
 - [Waymo raises $16B to scale robotaxi fleet internationally](https://techcrunch.com/2026/02/02/waymo-raises-16-billion-round-to-scale-robotaxi-fleet-london-tokyo/)
-- [Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space](https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
