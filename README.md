@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A blood moon is coming: 1 month until a total lunar eclipse takes to the skies over North America](https://www.space.com/stargazing/lunar-eclipses/a-blood-moon-is-coming-1-month-until-a-total-lunar-eclipse-takes-to-the-skies-over-north-america)
 - [India’s Supreme Court to WhatsApp: ‘You cannot play with the right to privacy’](https://techcrunch.com/2026/02/03/indias-supreme-court-to-whatsapp-you-cannot-play-with-the-right-to-privacy/)
 - [Vema predicts cheap hydrogen could change where data centers are built](https://techcrunch.com/2026/02/03/vema-predicts-cheap-hydrogen-could-change-where-data-centers-are-built/)
 - [Avalanche thinks the fusion power industry should think smaller](https://techcrunch.com/2026/02/03/avalanche-thinks-the-fusion-power-industry-should-think-smaller/)
 - [NASA delays Artemis 2 moon launch to March after encountering issues during fueling test](https://www.space.com/space-exploration/artemis/nasa-delays-artemis-2-moon-launch-to-march-after-encountering-issues-during-fueling-test)
-- [Fintech CEO and Forbes 30 Under 30 alum has been charged for alleged fraud](https://techcrunch.com/2026/02/02/fintech-ceo-and-forbes-30-under-30-alum-has-been-charged-for-alleged-fraud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
