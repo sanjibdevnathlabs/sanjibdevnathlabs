@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Minneapolis tech community holds strong during ‘tense and difficult time’](https://techcrunch.com/2026/02/03/minnesota-tech-community-founders-investors-ice-response/)
+- [NASA&#39;s Perseverance Mars rover completes its 1st drive planned by AI](https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-completes-its-1st-drive-planned-by-ai)
 - [Intel will start making GPUs, a market dominated by Nvidia](https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/)
 - [SpaceX grounds its Falcon 9 rocket after a problem with its upper stage. Will the Crew-12 astronaut mission be affected?](https://www.space.com/space-exploration/launches-spacecraft/spacex-grounds-its-falcon-9-rocket-after-a-problem-with-its-upper-stage-will-the-crew-12-astronaut-mission-be-affected)
 - [&#39;It&#39;s insightful, it&#39;s informative.&#39; Neil deGrasse Tyson on his 5-hour backyard audio chat with William Shatner &lpar;interview&rpar;](https://www.space.com/entertainment/its-insightful-its-informative-neil-degrasse-tyson-on-his-5-hour-backyard-audio-chat-with-william-shatner-interview)
-- [YC startups can now receive investment in stablecoin](https://techcrunch.com/2026/02/03/yc-startups-can-now-recieve-investment-in-stablecoin/)
-- [&#39;Yes Bueno!&#39;: The new Kinder Bueno Super Bowl LX ad is sweet sci-fi goodness &lpar;video&rpar;](https://www.space.com/entertainment/yes-bueno-the-new-kinder-bueno-super-bowl-lx-ad-is-sweet-sci-fi-goodness-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
