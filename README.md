@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Accel doubles down on Fibr AI as agents turn static websites into one-to-one experiences](https://techcrunch.com/2026/02/04/accel-doubles-down-on-fibr-ai-as-agents-turn-static-websites-into-one-to-one-experiences/)
+- [Spotify upgrades its lyrics feature with offline access, more translations](https://techcrunch.com/2026/02/04/spotify-upgrades-its-lyrics-feature-with-offline-access-more-translations/)
+- [Is Jupiter on a diet? New measurements say it&#39;s smaller than we thought](https://www.space.com/astronomy/jupiter/is-jupiter-on-a-diet-new-measurements-say-its-smaller-than-we-thought)
 - [A &#39;cold Earth&#39; exoplanet just 146 light-years away might be in its star&#39;s habitable zone  —  if it exists](https://www.space.com/astronomy/exoplanets/a-cold-earth-exoplanet-just-146-light-years-away-might-be-in-its-stars-habitable-zone-if-it-exists)
 - [With the Mandalorian and Grogu movie arriving in our galaxy soon, start building the excitement with this fantastic Lego set](https://www.space.com/entertainment/space-movies-shows/with-the-mandalorian-and-grogu-movie-arriving-in-our-galaxy-soon-start-building-the-excitement-with-this-fantastic-lego-set)
-- [Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips](https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/)
-- [Epstein-linked longevity guru Peter Attia leaves David Protein, and his own startup ‘won’t comment’](https://techcrunch.com/2026/02/03/epstein-linked-longevity-guru-peter-attia-leaves-david-protein-and-his-own-startup-wont-comment/)
-- [NASA had 3 years to fix fuel leaks on its Artemis moon rocket. Why are they still happening?](https://www.space.com/space-exploration/artemis/nasa-had-3-years-to-fix-fuel-leaks-on-its-artemis-moon-rocket-why-are-they-still-happening)
 <!-- BLOG-POST-LIST:END -->
 
 ---
