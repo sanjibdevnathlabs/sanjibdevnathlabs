@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout](https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/)
+- [Photographer captures rare aurora over Brazil during intense geomagnetic storm &lpar;photo&rpar;](https://www.space.com/stargazing/auroras/photographer-captures-rare-aurora-over-brazil-during-intense-geomagnetic-storm-photo)
+- [Lunar Energy raises $232M to deploy home batteries that prop up the grid](https://techcrunch.com/2026/02/04/lunar-energy-raises-232m-to-deploy-home-batteries-that-prop-up-the-grid/)
+- [Hackers publish personal information stolen during Harvard, UPenn data breaches](https://techcrunch.com/2026/02/04/hackers-publish-personal-information-stolen-during-harvard-upenn-data-breaches/)
 - [Roblox’s 4D creation feature is now available in open beta](https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/)
-- [Astronomers relieved as industrial plant threatening Earth&#39;s darkest sky gets cancelled](https://www.space.com/astronomy/astronomers-relieved-as-industrial-plant-threatening-earths-darkest-sky-gets-cancelled)
-- [A monstrous sunspot 15 Earth&#39;s wide is currently facing Earth: Here&#39;s how to see it for yourself](https://www.space.com/stargazing/a-monstrous-sunspot-15-earths-wide-is-currently-facing-earth-heres-how-to-see-it-for-yourself)
-- [Sun unleashes colossal X4.2 solar flare, knocking out radio signals across Africa and Europe &lpar;video&rpar;](https://www.space.com/astronomy/sun/sun-unleashes-colossal-x4-2-solar-flare-knocking-out-radio-signals-across-africa-and-europe-video)
-- [ElevenLabs raises $500M from Sequoia at an $11 billion valuation](https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
