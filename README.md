@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A16z just raised $1.7B for AI infrastructure. Here’s where it’s going.](https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/)
-- [Watch dead neutron stars smash together in new NASA supercomputer simulation](https://www.space.com/astronomy/stars/watch-dead-neutron-stars-smash-together-in-new-nasa-supercomputer-simulation)
-- [Star Trek needs to go back to 20+ episode seasons — and there&#39;s never been a better time](https://www.space.com/entertainment/space-movies-shows/star-trek-needs-to-go-back-to-20-episode-seasons-and-theres-never-been-a-better-time)
-- [Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout](https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/)
-- [Photographer captures rare aurora over Brazil during intense geomagnetic storm &lpar;photo&rpar;](https://www.space.com/stargazing/auroras/photographer-captures-rare-aurora-over-brazil-during-intense-geomagnetic-storm-photo)
+- [It&#39;s time to think about human reproduction in space, scientists urge](https://www.space.com/space-exploration/human-spaceflight/its-time-to-think-about-human-reproduction-in-space-scientists-urge)
+- [Elon Musk’s SpaceX company town is getting a police department](https://techcrunch.com/2026/02/04/elon-musks-spacex-company-town-is-getting-a-police-department/)
+- [Meet Gizmo: a TikTok for interactive, vibe-coded mini apps](https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/)
+- [AI SRE Resolve AI confirms $125M raise, unicorn valuation](https://techcrunch.com/2026/02/04/ai-sre-resolve-ai-confirms-125m-raise-unicorn-valuation/)
+- [Amazon to begin testing AI tools for film and TV production next month](https://techcrunch.com/2026/02/04/amazon-to-begin-testing-ai-tools-for-film-and-tv-production-next-month/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
