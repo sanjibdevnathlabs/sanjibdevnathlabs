@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [this NEW setting Locks Down WhatsApp](https://www.youtube.com/shorts/NfG_yQ4RpyI)
-- [The Dark Web isn&#39;t what you think](https://www.youtube.com/shorts/9lWDK_6FTjo)
-- [I gave Claude Code a phone number #claudecode](https://www.youtube.com/shorts/mQQgB6VK_m4)
-- [The wild rise of OpenClaw...](https://www.youtube.com/watch?v=ssYt09bCgUY)
-- [Claude Code on your phone in 10 minutes](https://www.youtube.com/watch?v=FEDiAHzS0zw)
+- [Lecture 08: Local Public Goods and Fiscal Federalism](https://www.youtube.com/watch?v=DIgqgbsg2dw)
+- [Lecture 04: Externalities in Practice II](https://www.youtube.com/watch?v=v9-U8AoDsOY)
+- [Lecture 15: Health Care III, Redistribution](https://www.youtube.com/watch?v=dL7bXIUKzyg)
+- [Lecture 14: Health Care II](https://www.youtube.com/watch?v=Jp8JNHPP7MA)
+- [Lecture 11: Social Security](https://www.youtube.com/watch?v=tRxe4Pi8prU)
 <!-- YOUTUBE:END -->
 
 ---
