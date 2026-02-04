@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips](https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/)
 - [Epstein-linked longevity guru Peter Attia leaves David Protein, and his own startup ‘won’t comment’](https://techcrunch.com/2026/02/03/epstein-linked-longevity-guru-peter-attia-leaves-david-protein-and-his-own-startup-wont-comment/)
 - [NASA had 3 years to fix fuel leaks on its Artemis moon rocket. Why are they still happening?](https://www.space.com/space-exploration/artemis/nasa-had-3-years-to-fix-fuel-leaks-on-its-artemis-moon-rocket-why-are-they-still-happening)
 - [India’s Varaha bags $20M to scale carbon removal from the Global South](https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/)
 - [The Minneapolis tech community holds strong during ‘tense and difficult time’](https://techcrunch.com/2026/02/03/minnesota-tech-community-founders-investors-ice-response/)
-- [NASA&#39;s Perseverance Mars rover completes its 1st drive planned by AI](https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-completes-its-1st-drive-planned-by-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
