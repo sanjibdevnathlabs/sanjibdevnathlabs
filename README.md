@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Accel doubles down on Fibr AI as agents turn static websites into one-to-one experiences](https://techcrunch.com/2026/02/04/accel-doubles-down-on-fibr-ai-as-agents-turn-static-websites-into-one-to-one-experiences/)
-- [Spotify upgrades its lyrics feature with offline access, more translations](https://techcrunch.com/2026/02/04/spotify-upgrades-its-lyrics-feature-with-offline-access-more-translations/)
-- [Is Jupiter on a diet? New measurements say it&#39;s smaller than we thought](https://www.space.com/astronomy/jupiter/is-jupiter-on-a-diet-new-measurements-say-its-smaller-than-we-thought)
-- [A &#39;cold Earth&#39; exoplanet just 146 light-years away might be in its star&#39;s habitable zone  —  if it exists](https://www.space.com/astronomy/exoplanets/a-cold-earth-exoplanet-just-146-light-years-away-might-be-in-its-stars-habitable-zone-if-it-exists)
-- [With the Mandalorian and Grogu movie arriving in our galaxy soon, start building the excitement with this fantastic Lego set](https://www.space.com/entertainment/space-movies-shows/with-the-mandalorian-and-grogu-movie-arriving-in-our-galaxy-soon-start-building-the-excitement-with-this-fantastic-lego-set)
+- [Uber appoints new CFO as its AV plans accelerate](https://techcrunch.com/2026/02/04/uber-appoints-new-cfo-as-its-av-plans-accelerate/)
+- [SNAK Venture Partners raises $50M fund to back vertical marketplaces](https://techcrunch.com/2026/02/04/snak-venture-partners-raises-50m-fund-to-back-digitizing-marketplaces/)
+- [Alexa+, Amazon’s AI assistant, is now available to everyone in the U.S.](https://techcrunch.com/2026/02/04/alexa-amazons-ai-assistant-is-now-available-to-everyone-in-the-u-s/)
+- [Apeiron Labs gets $29M to flood the oceans with autonomous underwater robots](https://techcrunch.com/2026/02/04/apeiron-labs-gets-29m-to-flood-the-oceans-with-autonomous-underwater-robots/)
+- [NASA satellite watches January&#39;s polar vortex | Space photo of the day for Feb. 4, 2026](https://www.space.com/astronomy/earth/nasa-satellite-watches-januarys-polar-vortex-space-photo-of-the-day-for-feb-4-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
