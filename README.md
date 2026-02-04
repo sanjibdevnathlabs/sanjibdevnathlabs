@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ElevenLabs raises $500M from Sequioia at a $11 billion valuation](https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/)
+- [Unlock a brand-new world of British sci-fi with a VPN](https://www.space.com/technology/unlock-a-brand-new-world-of-british-sci-fi-with-a-vpn)
+- [James Webb Space Telescope finds most distant galaxy ever detected: &#39;It looks nothing like what we predicted&#39;](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-finds-most-distant-galaxy-ever-detected-it-looks-nothing-like-what-we-predicted)
+- [After backlash, Adobe cancels Adobe Animate shutdown and puts app on ‘maintenance mode’](https://techcrunch.com/2026/02/04/after-backlash-adobe-cancels-adobe-animate-shutdown-and-puts-app-on-maintenance-mode/)
 - [Uber appoints new CFO as its AV plans accelerate](https://techcrunch.com/2026/02/04/uber-appoints-new-cfo-as-its-av-plans-accelerate/)
-- [SNAK Venture Partners raises $50M fund to back vertical marketplaces](https://techcrunch.com/2026/02/04/snak-venture-partners-raises-50m-fund-to-back-digitizing-marketplaces/)
-- [Alexa+, Amazon’s AI assistant, is now available to everyone in the U.S.](https://techcrunch.com/2026/02/04/alexa-amazons-ai-assistant-is-now-available-to-everyone-in-the-u-s/)
-- [Apeiron Labs gets $29M to flood the oceans with autonomous underwater robots](https://techcrunch.com/2026/02/04/apeiron-labs-gets-29m-to-flood-the-oceans-with-autonomous-underwater-robots/)
-- [NASA satellite watches January&#39;s polar vortex | Space photo of the day for Feb. 4, 2026](https://www.space.com/astronomy/earth/nasa-satellite-watches-januarys-polar-vortex-space-photo-of-the-day-for-feb-4-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
