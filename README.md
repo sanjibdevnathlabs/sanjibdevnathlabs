@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Roblox’s 4D creation feature is now available in open beta](https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/)
+- [Astronomers relieved as industrial plant threatening Earth&#39;s darkest sky gets cancelled](https://www.space.com/astronomy/astronomers-relieved-as-industrial-plant-threatening-earths-darkest-sky-gets-cancelled)
 - [A monstrous sunspot 15 Earth&#39;s wide is currently facing Earth: Here&#39;s how to see it for yourself](https://www.space.com/stargazing/a-monstrous-sunspot-15-earths-wide-is-currently-facing-earth-heres-how-to-see-it-for-yourself)
 - [Sun unleashes colossal X4.2 solar flare, knocking out radio signals across Africa and Europe &lpar;video&rpar;](https://www.space.com/astronomy/sun/sun-unleashes-colossal-x4-2-solar-flare-knocking-out-radio-signals-across-africa-and-europe-video)
 - [ElevenLabs raises $500M from Sequoia at an $11 billion valuation](https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/)
-- [Unlock a brand-new world of British sci-fi with a VPN](https://www.space.com/technology/unlock-a-brand-new-world-of-british-sci-fi-with-a-vpn)
-- [James Webb Space Telescope finds most distant galaxy ever detected: &#39;It looks nothing like what we predicted&#39;](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-finds-most-distant-galaxy-ever-detected-it-looks-nothing-like-what-we-predicted)
 <!-- BLOG-POST-LIST:END -->
 
 ---
