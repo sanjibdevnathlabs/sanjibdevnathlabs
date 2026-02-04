@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Epstein-linked longevity guru Peter Attia leaves David Protein, and his own startup ‘won’t comment’](https://techcrunch.com/2026/02/03/epstein-linked-longevity-guru-peter-attia-leaves-david-protein-and-his-own-startup-wont-comment/)
+- [NASA had 3 years to fix fuel leaks on its Artemis moon rocket. Why are they still happening?](https://www.space.com/space-exploration/artemis/nasa-had-3-years-to-fix-fuel-leaks-on-its-artemis-moon-rocket-why-are-they-still-happening)
+- [India’s Varaha bags $20M to scale carbon removal from the Global South](https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/)
 - [The Minneapolis tech community holds strong during ‘tense and difficult time’](https://techcrunch.com/2026/02/03/minnesota-tech-community-founders-investors-ice-response/)
 - [NASA&#39;s Perseverance Mars rover completes its 1st drive planned by AI](https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-completes-its-1st-drive-planned-by-ai)
-- [Intel will start making GPUs, a market dominated by Nvidia](https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/)
-- [SpaceX grounds its Falcon 9 rocket after a problem with its upper stage. Will the Crew-12 astronaut mission be affected?](https://www.space.com/space-exploration/launches-spacecraft/spacex-grounds-its-falcon-9-rocket-after-a-problem-with-its-upper-stage-will-the-crew-12-astronaut-mission-be-affected)
-- [&#39;It&#39;s insightful, it&#39;s informative.&#39; Neil deGrasse Tyson on his 5-hour backyard audio chat with William Shatner &lpar;interview&rpar;](https://www.space.com/entertainment/its-insightful-its-informative-neil-degrasse-tyson-on-his-5-hour-backyard-audio-chat-with-william-shatner-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
