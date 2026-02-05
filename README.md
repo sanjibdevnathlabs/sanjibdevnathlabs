@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One of Europe’s largest universities knocked offline for days after cyberattack](https://techcrunch.com/2026/02/05/one-of-europes-largest-universities-knocked-offline-for-days-after-cyberattack/)
+- [China joins race to develop space-based data centers with 5-year plan](https://www.space.com/space-exploration/satellites/china-joins-race-to-develop-space-based-data-centers-with-5-year-plan)
+- [Elon Musk is getting serious about orbital data centers](https://techcrunch.com/2026/02/05/elon-musk-is-getting-serious-about-orbital-data-centers/)
 - [NASA astronauts can now bring their phones with them on their mission to the moon](https://techcrunch.com/2026/02/05/nasa-astronauts-can-now-bring-their-phones-with-them-on-their-mission-to-the-moon/)
 - [OpenAI launches a way for enterprises to build and manage AI agents](https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/)
-- [This week&#39;s &quot;Starfleet Academy&quot; episode, &quot;Series Acclimation Mil&quot;, is a near-perfect &quot;DS9&quot; sequel](https://www.space.com/entertainment/space-movies-shows/starfleet-academy-episode-series-acclimation-mil-is-a-near-perfect-deep-space-nine-sequel)
-- [Anthropic releases Opus 4.6 with new ‘agent teams’](https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/)
-- [Secondary sales shift from founder windfalls to employee-retention tools](https://techcrunch.com/2026/02/05/secondary-sales-shift-from-founder-windfalls-to-employee-retention-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
