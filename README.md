@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope&#39;s view of 800,000 galaxies paints a detailed picture of dark matter](https://www.space.com/astronomy/dark-universe/james-webb-space-telescopes-view-of-800-000-galaxies-paints-a-detailed-picture-of-dark-matter)
-- [Google’s subscriptions rise in Q4 as YouTube pulls $60B in yearly revenue](https://techcrunch.com/2026/02/05/googles-subscriptions-rise-in-q4-as-youtube-pulls-60b-in-yearly-revenue/)
-- [Spotify ventures into physical book sales, adds new audiobook features](https://techcrunch.com/2026/02/05/spotify-ventures-into-physical-book-sales-adds-new-audiobook-features/)
-- [Did astronomers see a black hole explode? An &#39;impossible&#39; particle that hit Earth in 2023 may tell us](https://www.space.com/astronomy/black-holes/did-astronomers-see-a-black-hole-explode-an-impossible-particle-that-hit-earth-in-2023-may-tell-us)
-- [Sam Altman got exceptionally testy over Claude Super Bowl ads](https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/)
+- [Data breach at govtech giant Conduent balloons, affecting millions more Americans](https://techcrunch.com/2026/02/05/data-breach-at-govtech-giant-conduent-balloons-affecting-millions-more-americans/)
+- [Fundamental raises $255 million Series A with a new take on big data analysis](https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/)
+- [NASA chief flies over Artemis 2 moon rocket | Space photo of the day for Feb. 5, 2025](https://www.space.com/space-exploration/artemis/nasa-chief-flies-over-artemis-2-moon-rocket-space-photo-of-the-day-for-feb-5-2025)
+- [Substack confirms data breach affects users’ email addresses and phone numbers](https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/)
+- [Our round-up of the best NASA Artemis 2 gear on planet Earth](https://www.space.com/technology/our-round-up-of-the-best-nasa-artemis-2-gear-on-planet-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
