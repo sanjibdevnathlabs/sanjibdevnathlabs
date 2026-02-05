@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Generating 3D Models with Diffusion - Computerphile](https://www.youtube.com/watch?v=C1E500opYHA)
-- [Implementing Passkeys in Practice - Computerphile](https://www.youtube.com/watch?v=lypcC79k-gg)
-- [LLMs and Newcomb&#39;s Problem - Computerphile](https://www.youtube.com/watch?v=bdbhKoypnFI)
-- [Do Computer Scientists Prefer Tea or Coffee? &lpar;Microphone Sound Check Question 2025&rpar;  - Computerphile](https://www.youtube.com/watch?v=rV2h4Tso46Y)
-- [The Return of Festive Flashing Lights - Computerphile](https://www.youtube.com/watch?v=skmqR_VMECQ)
+- [What Most Engineers Get Wrong About AI and Career | Kelsey Hightower](https://www.youtube.com/watch?v=tCehFMwjWqM)
+- [Can You Afford NOT to Learn DevOps? Salary Data That Will Change Your Career Plans](https://www.youtube.com/shorts/fQDh9_tuYuI)
+- [If I would start DevOps from 0 - How would I start and what would I learn](https://www.youtube.com/watch?v=Cpy20DnIDTI)
+- [3 Git Workflows Every Developer Should Know &lpar;And When to Use Each&rpar;](https://www.youtube.com/watch?v=GQQqf-C2ha4)
+- [Nigeria to UK: How He Became a DevOps Engineer Before His Visa Ran Out](https://www.youtube.com/watch?v=YTIvpuV6I20)
 <!-- YOUTUBE:END -->
 
 ---
