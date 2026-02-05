@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 10 bleakest space movies of all time](https://www.space.com/entertainment/space-movies-shows/bleakest-space-movies-of-all-time)
 - [OpenAI launches new agentic coding model only minutes after Anthropic drops its own](https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/)
 - [Astrophotographer captures the &#39;Flaming Star Nebula&#39; ablaze in deep-space &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/astrophotographer-captures-the-flaming-star-nebula-ablaze-in-deep-space-photo)
 - [One of Europe’s largest universities knocked offline for days after cyberattack](https://techcrunch.com/2026/02/05/one-of-europes-largest-universities-knocked-offline-for-days-after-cyberattack/)
 - [China joins race to develop space-based data centers with 5-year plan](https://www.space.com/space-exploration/satellites/china-joins-race-to-develop-space-based-data-centers-with-5-year-plan)
-- [Elon Musk is getting serious about orbital data centers](https://techcrunch.com/2026/02/05/elon-musk-is-getting-serious-about-orbital-data-centers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
