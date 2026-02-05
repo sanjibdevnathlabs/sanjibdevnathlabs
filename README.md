@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [I DDoS&#39;d myself &lpar;don&#39;t do this&rpar;](https://www.youtube.com/shorts/acSlR6UD6yM)
-- [Lecture 08: Local Public Goods and Fiscal Federalism](https://www.youtube.com/watch?v=DIgqgbsg2dw)
-- [Lecture 04: Externalities in Practice II](https://www.youtube.com/watch?v=v9-U8AoDsOY)
-- [Lecture 15: Health Care III, Redistribution](https://www.youtube.com/watch?v=dL7bXIUKzyg)
-- [Lecture 14: Health Care II](https://www.youtube.com/watch?v=Jp8JNHPP7MA)
+- [Generating 3D Models with Diffusion - Computerphile](https://www.youtube.com/watch?v=C1E500opYHA)
+- [Implementing Passkeys in Practice - Computerphile](https://www.youtube.com/watch?v=lypcC79k-gg)
+- [LLMs and Newcomb&#39;s Problem - Computerphile](https://www.youtube.com/watch?v=bdbhKoypnFI)
+- [Do Computer Scientists Prefer Tea or Coffee? &lpar;Microphone Sound Check Question 2025&rpar;  - Computerphile](https://www.youtube.com/watch?v=rV2h4Tso46Y)
+- [The Return of Festive Flashing Lights - Computerphile](https://www.youtube.com/watch?v=skmqR_VMECQ)
 <!-- YOUTUBE:END -->
 
 ---
