@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Secondary sales shift from founder windfalls to employee-retention tools](https://techcrunch.com/2026/02/05/secondary-sales-shift-from-founder-windfalls-to-employee-retention-tools/)
+- [Meta tests a standalone app for its AI-generated ‘Vibes’ videos](https://techcrunch.com/2026/02/05/meta-tests-a-standalone-app-for-its-ai-generated-vibes-videos/)
+- [Pacific Fusion finds a cheaper way to make its fusion reactor work](https://techcrunch.com/2026/02/05/pacific-fusion-finds-a-cheaper-way-to-make-its-fusion-reactor-work/)
+- [Now&#39;s your best chance to see Mercury all year — Here&#39;s what you need to know](https://www.space.com/stargazing/now-is-your-best-chance-to-see-mercury-2026-heres-what-you-need-to-know)
 - [Could a toxic chemical in Mars dirt help us build a Red Planet base?](https://www.space.com/astronomy/mars/could-a-toxic-chemical-in-mars-dirt-help-us-build-a-red-planet-base)
-- [Trump’s critical mineral reserve is an admission that the future is electric](https://techcrunch.com/2026/02/05/trumps-critical-mineral-reserve-is-an-admission-that-the-future-is-electric/)
-- [Data breach at govtech giant Conduent balloons, affecting millions more Americans](https://techcrunch.com/2026/02/05/data-breach-at-govtech-giant-conduent-balloons-affecting-millions-more-americans/)
-- [Fundamental raises $255 million Series A with a new take on big data analysis](https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/)
-- [NASA chief flies over Artemis 2 moon rocket | Space photo of the day for Feb. 5, 2025](https://www.space.com/space-exploration/artemis/nasa-chief-flies-over-artemis-2-moon-rocket-space-photo-of-the-day-for-feb-5-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
