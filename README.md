@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope&#39;s view of 800,000 galaxies paints a detailed picture of dark matter](https://www.space.com/astronomy/dark-universe/james-webb-space-telescopes-view-of-800-000-galaxies-paints-a-detailed-picture-of-dark-matter)
 - [Google’s subscriptions rise in Q4 as YouTube pulls $60B in yearly revenue](https://techcrunch.com/2026/02/05/googles-subscriptions-rise-in-q4-as-youtube-pulls-60b-in-yearly-revenue/)
 - [Spotify ventures into physical book sales, adds new audiobook features](https://techcrunch.com/2026/02/05/spotify-ventures-into-physical-book-sales-adds-new-audiobook-features/)
 - [Did astronomers see a black hole explode? An &#39;impossible&#39; particle that hit Earth in 2023 may tell us](https://www.space.com/astronomy/black-holes/did-astronomers-see-a-black-hole-explode-an-impossible-particle-that-hit-earth-in-2023-may-tell-us)
 - [Sam Altman got exceptionally testy over Claude Super Bowl ads](https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/)
-- [As it preps Specs for the masses, Snap’s Q4 shows revenue growth but fewer daily users](https://techcrunch.com/2026/02/04/as-it-preps-specs-for-the-masses-snaps-q4-shows-revenue-growth-but-fewer-daily-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
