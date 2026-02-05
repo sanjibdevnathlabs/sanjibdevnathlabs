@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Did astronomers see a black hole explode? An &#39;impossible&#39; particle that hit Earth in 2023 may tell us](https://www.space.com/astronomy/black-holes/did-astronomers-see-a-black-hole-explode-an-impossible-particle-that-hit-earth-in-2023-may-tell-us)
 - [Sam Altman got exceptionally testy over Claude Super Bowl ads](https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/)
 - [As it preps Specs for the masses, Snap’s Q4 shows revenue growth but fewer daily users](https://techcrunch.com/2026/02/04/as-it-preps-specs-for-the-masses-snaps-q4-shows-revenue-growth-but-fewer-daily-users/)
 - [Mundi Ventures closes on €750M for Kembara, its largest deep tech and climate fund](https://techcrunch.com/2026/02/04/mundi-ventures-closes-on-e750m-for-kembara-its-largest-deep-tech-and-climate-fund/)
 - [Stripe alumni raise €30M Series A for Duna, backed by Stripe and Adyen execs](https://techcrunch.com/2026/02/04/stripe-alumni-raise-e30m-series-a-for-duna-backed-by-stripe-and-adyen-execs/)
-- [Alphabet won’t talk about the Google-Apple AI deal, even to investors](https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
