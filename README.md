@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [What Most Engineers Get Wrong About AI and Career | Kelsey Hightower](https://www.youtube.com/watch?v=tCehFMwjWqM)
-- [Can You Afford NOT to Learn DevOps? Salary Data That Will Change Your Career Plans](https://www.youtube.com/shorts/fQDh9_tuYuI)
-- [If I would start DevOps from 0 - How would I start and what would I learn](https://www.youtube.com/watch?v=Cpy20DnIDTI)
-- [3 Git Workflows Every Developer Should Know &lpar;And When to Use Each&rpar;](https://www.youtube.com/watch?v=GQQqf-C2ha4)
-- [Nigeria to UK: How He Became a DevOps Engineer Before His Visa Ran Out](https://www.youtube.com/watch?v=YTIvpuV6I20)
+- [I DDoS&#39;d myself &lpar;don&#39;t do this&rpar;](https://www.youtube.com/shorts/acSlR6UD6yM)
+- [Lecture 08: Local Public Goods and Fiscal Federalism](https://www.youtube.com/watch?v=DIgqgbsg2dw)
+- [Lecture 04: Externalities in Practice II](https://www.youtube.com/watch?v=v9-U8AoDsOY)
+- [Lecture 15: Health Care III, Redistribution](https://www.youtube.com/watch?v=dL7bXIUKzyg)
+- [Lecture 14: Health Care II](https://www.youtube.com/watch?v=Jp8JNHPP7MA)
 <!-- YOUTUBE:END -->
 
 ---
