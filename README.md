@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s Gemini app has surpassed 750M monthly active users](https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/)
-- [The Wayback Machine debuts a new plug-in designed to fix the internet’s broken links problem](https://techcrunch.com/2026/02/04/the-wayback-machine-debuts-a-new-plugin-designed-to-fix-the-internets-broken-links-problem/)
-- [It&#39;s time to think about human reproduction in space, scientists urge](https://www.space.com/space-exploration/human-spaceflight/its-time-to-think-about-human-reproduction-in-space-scientists-urge)
-- [Elon Musk’s SpaceX company town is getting a police department](https://techcrunch.com/2026/02/04/elon-musks-spacex-company-town-is-getting-a-police-department/)
-- [Meet Gizmo: A TikTok for interactive, vibe-coded mini apps](https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/)
+- [Sam Altman got exceptionally testy over Claude Super Bowl ads](https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/)
+- [As it preps Specs for the masses, Snap’s Q4 shows revenue growth but fewer daily users](https://techcrunch.com/2026/02/04/as-it-preps-specs-for-the-masses-snaps-q4-shows-revenue-growth-but-fewer-daily-users/)
+- [Mundi Ventures closes on €750M for Kembara, its largest deep tech and climate fund](https://techcrunch.com/2026/02/04/mundi-ventures-closes-on-e750m-for-kembara-its-largest-deep-tech-and-climate-fund/)
+- [Stripe alumni raise €30M Series A for Duna, backed by Stripe and Adyen execs](https://techcrunch.com/2026/02/04/stripe-alumni-raise-e30m-series-a-for-duna-backed-by-stripe-and-adyen-execs/)
+- [Alphabet won’t talk about the Google-Apple AI deal, even to investors](https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
