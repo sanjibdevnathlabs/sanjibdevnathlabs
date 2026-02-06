@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I Tried running in 3D printed shoes](https://www.youtube.com/watch?v=9LjgqZ2wP0g)
 - [10 open source tools that feel illegal...](https://www.youtube.com/watch?v=Ukt2gVz25PQ)
 - [Network Basics - Transport Layer and User Datagram Protocol Explained - Computerphile](https://www.youtube.com/watch?v=ihvbhwGblQg)
 - [I DDoS&#39;d myself &lpar;don&#39;t do this&rpar;](https://www.youtube.com/shorts/acSlR6UD6yM)
 - [Lecture 08: Local Public Goods and Fiscal Federalism](https://www.youtube.com/watch?v=DIgqgbsg2dw)
-- [Lecture 04: Externalities in Practice II](https://www.youtube.com/watch?v=v9-U8AoDsOY)
 <!-- YOUTUBE:END -->
 
 ---
