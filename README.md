@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prince Andrew advisor pitched Jeffrey Epstein on investing in EV startups like Lucid Motors](https://techcrunch.com/2026/02/06/prince-andrew-advisor-pitched-jeffrey-epstein-on-investing-in-ev-startups-like-lucid-motors/)
+- [Google- and Microsoft-backed Terradot acquires carbon-removal competitor](https://techcrunch.com/2026/02/06/google-and-microsoft-backed-terradot-acquires-carbon-removal-competitor/)
+- [Maybe AI agents can be lawyers after all](https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/)
 - [Halo: Campaign Evolved: Release date rumors, platforms, and everything else we know about the Halo remake](https://www.space.com/entertainment/space-games/halo-campaign-evolved-release-date-rumors-platforms-and-everything-else-we-know-about-the-halo-remake)
 - [NASA space telescope sees interstellar visitor comet 3I/ATLAS flare up while exiting the solar system](https://www.space.com/astronomy/comets/nasa-space-telescope-sees-comet-3i-atlas-dramatically-flare-as-interstellar-visitor-exits-solar-system)
-- [How Elon Musk is rewriting the rules on founder power](https://techcrunch.com/video/how-elon-musk-is-rewriting-the-rules-on-founder-power/)
-- [Reddit says it’s looking for more acquisitions in adtech and elsewhere](https://techcrunch.com/2026/02/06/reddit-says-its-looking-for-more-acquisitions-in-adtech-and-elsewhere/)
-- [Here’s how Roblox’s age checks work](https://techcrunch.com/2026/02/06/heres-how-robloxs-age-checks-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
