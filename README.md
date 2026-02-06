@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Halo: Campaign Evolved: Release date rumors, platforms, and everything else we know about the Halo remake](https://www.space.com/entertainment/space-games/halo-campaign-evolved-release-date-rumors-platforms-and-everything-else-we-know-about-the-halo-remake)
+- [NASA space telescope sees interstellar visitor comet 3I/ATLAS flare up while exiting the solar system](https://www.space.com/astronomy/comets/nasa-space-telescope-sees-comet-3i-atlas-dramatically-flare-as-interstellar-visitor-exits-solar-system)
 - [How Elon Musk is rewriting the rules on founder power](https://techcrunch.com/video/how-elon-musk-is-rewriting-the-rules-on-founder-power/)
 - [Reddit says it’s looking for more acquisitions in adtech and elsewhere](https://techcrunch.com/2026/02/06/reddit-says-its-looking-for-more-acquisitions-in-adtech-and-elsewhere/)
 - [Here’s how Roblox’s age checks work](https://techcrunch.com/2026/02/06/heres-how-robloxs-age-checks-work/)
-- [Senator, who has repeatedly warned about secret US government surveillance, sounds new alarm over ‘CIA activities’](https://techcrunch.com/2026/02/06/senator-who-has-repeatedly-warned-about-secret-u-s-government-surveillance-sounds-new-alarm-over-cia-activities/)
-- [Nimoy-Knight Foundation honors &#39;Girl Spock&#39; and her mission to become the 1st openly autistic woman in space](https://www.space.com/entertainment/nimoy-knight-foundation-honors-girl-spock-and-her-mission-to-become-the-1st-openly-autistic-woman-in-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
