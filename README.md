@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 upper-stage issues in 19 months: When will SpaceX&#39;s Falcon 9 rocket return to flight?](https://www.space.com/space-exploration/launches-spacecraft/4-upper-stage-issues-in-19-months-when-will-spacexs-falcon-9-rocket-return-to-flight)
+- [Spotify’s new feature lets you explore the story behind the song you’re listening to](https://techcrunch.com/2026/02/06/spotifys-new-feature-lets-you-explore-the-story-behind-the-song-youre-listening-to/)
 - [How AI is helping solve the labor issue in treating rare diseases](https://techcrunch.com/2026/02/06/how-ai-is-helping-with-the-labor-issue-in-treating-rare-diseases/)
 - [The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be](https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/)
 - [Spotify changes developer mode API to require premium accounts, limits test users](https://techcrunch.com/2026/02/06/spotify-changes-developer-mode-api-to-require-premium-accounts-limits-test-users/)
-- [Nearby star&#39;s massive eruption could help astronomers unlock secret of superflares](https://www.space.com/astronomy/stars/nearby-stars-massive-eruption-could-help-astronomers-unlock-secret-of-superflares)
-- [SpaceX Dragon arrives for Crew-12 launch | Space photo of the day for Feb. 6, 2026](https://www.space.com/space-exploration/launches-spacecraft/spacex-dragon-arrives-for-crew-12-launch-space-photo-of-the-day-for-feb-6-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
