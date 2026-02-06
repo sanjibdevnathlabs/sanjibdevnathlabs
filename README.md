@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit says it’s looking for more acquisitions in adtech and elsewhere](https://techcrunch.com/2026/02/06/reddit-says-its-looking-for-more-acquisitions-in-adtech-and-elsewhere/)
+- [Here’s how Roblox’s age checks work](https://techcrunch.com/2026/02/06/heres-how-robloxs-age-checks-work/)
+- [Senator, who has repeatedly warned about secret U.S. government surveillance, sounds new alarm over ‘CIA activities’](https://techcrunch.com/2026/02/06/senator-who-has-repeatedly-warned-about-secret-u-s-government-surveillance-sounds-new-alarm-over-cia-activities/)
 - [Nimoy-Knight Foundation honors &#39;Girl Spock&#39; and her mission to become the 1st openly autistic woman in space](https://www.space.com/entertainment/nimoy-knight-foundation-honors-girl-spock-and-her-mission-to-become-the-1st-openly-autistic-woman-in-space)
 - [The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features](https://techcrunch.com/2026/02/06/kindle-scribe-colorsoft-review-e-ink-color-tablet/)
-- [EU says TikTok must disable ‘addictive’ features like infinite scroll, fix its recommendation engine](https://techcrunch.com/2026/02/06/eu-tiktok-disable-addictive-features-infinite-scroll-recommendation-engine/)
-- [UK government proposes 30% budget cut to astronomy and physics research: &#39;It&#39;s pretty disastrous&#39;](https://www.space.com/astronomy/uk-government-proposes-30-percent-budget-cut-to-astronomy-and-physics-research-its-pretty-disastrous)
-- [China’s Salt Typhoon hackers broke into Norwegian companies](https://techcrunch.com/2026/02/06/chinas-salt-typhoon-hackers-broke-into-norwegian-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
