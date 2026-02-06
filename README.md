@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Dragon arrives for Crew-12 launch | Space photo of the day for Feb. 6, 2026](https://www.space.com/space-exploration/launches-spacecraft/spacex-dragon-arrives-for-crew-12-launch-space-photo-of-the-day-for-feb-6-2026)
 - [Does dark matter actually exist? New theory says it could be gravity behaving strangely](https://www.space.com/astronomy/dark-universe/does-dark-matter-actually-exist-new-theory-says-it-could-be-gravity-behaving-strangely)
 - [Sapiom raises $15M to help AI agents buy their own tech tools](https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/)
 - [Reddit looks to AI search as its next big opportunity](https://techcrunch.com/2026/02/05/reddit-looks-to-ai-search-as-its-next-big-opportunity/)
 - [AWS revenue continues to soar as cloud demand remains high](https://techcrunch.com/2026/02/05/aws-revenue-continues-to-soar-as-cloud-demand-remains-high/)
-- [Amazon and Google are winning the AI capex race — but what’s the prize?](https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
