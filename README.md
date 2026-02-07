@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will astronauts aboard the ISS get to watch Super Bowl LX?](https://www.space.com/space-exploration/human-spaceflight/how-will-astronauts-aboard-the-iss-watch-super-bowl-lx)
 - [Peak Design 7L sling bag review](https://www.space.com/stargazing/skywatching-kit/peak-design-7l-sling-bag-review)
 - [Benchmark raises $225M in special funds to double down on Cerebras](https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/)
 - [An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax](https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/)
 - [‘Industry’ season 4 captures tech fraud better than any show on TV right now](https://techcrunch.com/2026/02/06/industry-season-4-captures-tech-fraud-better-than-any-show-on-tv-right-now/)
-- [Apple is working to make CarPlay compatible with AI chatbots like ChatGPT](https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
