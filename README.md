@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space.com headlines crossword quiz for week of Feb. 2, 2026: What type of object is C/2026 A1 &lpar;MAPS&rpar;?](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-feb-2-2026-what-type-of-object-is-c-2026-a1-maps)
 - [The way Earth&#39;s surface moves has a bigger impact on shifting the climate than we knew](https://www.space.com/astronomy/earth/the-way-earths-surface-moves-has-a-bigger-impact-on-shifting-the-climate-than-we-knew)
 - [This Week In Space podcast: Episode 196 — Becoming Martian!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-196-becoming-martian)
 - [Silo vs Fallout: getting under the surface of TV&#39;s bunker-based hits](https://www.space.com/entertainment/space-movies-shows/silo-vs-fallout-getting-under-the-surface-of-tvs-bunker-based-hits)
 - [Will astronauts aboard the ISS get to watch Super Bowl LX?](https://www.space.com/space-exploration/human-spaceflight/how-will-astronauts-aboard-the-iss-watch-super-bowl-lx)
-- [Peak Design 7L sling bag review](https://www.space.com/stargazing/skywatching-kit/peak-design-7l-sling-bag-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
