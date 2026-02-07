@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Benchmark raises $225M in special funds to double down on Cerebras](https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/)
 - [An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax](https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/)
 - [‘Industry’ season 4 captures tech fraud better than any show on TV right now](https://techcrunch.com/2026/02/06/industry-season-4-captures-tech-fraud-better-than-any-show-on-tv-right-now/)
 - [Apple is working to make CarPlay compatible with AI chatbots like ChatGPT](https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/)
 - [SpaceX&#39;s next astronaut launch for NASA is officially on for Feb. 11 as FAA clears Falcon 9 rocket to fly again](https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-astronaut-launch-for-nasa-is-officially-on-for-feb-11-as-faa-clears-falcon-9-rocket-to-fly-again)
-- [From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads](https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
