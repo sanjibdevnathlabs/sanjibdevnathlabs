@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The kids ‘picked last in gym class’ gear up for Super Bowl](https://techcrunch.com/2026/02/07/the-kids-picked-last-in-gym-class-gear-up-for-super-bowl/)
 - [NBA star Giannis Antetokounmpo joins Kalshi as an investor](https://techcrunch.com/2026/02/07/nba-star-giannis-antetokounmpo-joins-kalshi-as-an-investor/)
 - [New York lawmakers propose a three-year pause on new data centers](https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/)
 - [Space.com headlines crossword quiz for week of Feb. 2, 2026: What type of object is C/2026 A1 &lpar;MAPS&rpar;?](https://www.space.com/astronomy/space-com-headlines-crossword-quiz-for-week-of-feb-2-2026-what-type-of-object-is-c-2026-a1-maps)
 - [The way Earth&#39;s surface moves has a bigger impact on shifting the climate than we knew](https://www.space.com/astronomy/earth/the-way-earths-surface-moves-has-a-bigger-impact-on-shifting-the-climate-than-we-knew)
-- [This Week In Space podcast: Episode 196 — Becoming Martian!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-196-becoming-martian)
 <!-- BLOG-POST-LIST:END -->
 
 ---
