@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads](https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/)
+- [The 10 best space and sci-fi Super Bowl commercials of all time](https://www.space.com/entertainment/best-space-and-sci-fi-super-bowl-commercials-of-all-time)
 - [The stars of Orion&#39;s belt are 200,000 times brighter than our sun, and winter is the perfect time to see them](https://www.space.com/stargazing/the-stars-of-orions-belt-are-200-000-times-brighter-than-our-sun-and-winter-is-the-perfect-time-to-see-them)
 - [What Americans lose if their National Center for Atmospheric Research is dismantled](https://www.space.com/astronomy/earth/what-americans-lose-if-their-national-center-for-atmospheric-research-is-dismantled)
 - [&#39;The Black Hole&#39; was Disney&#39;s original response to &#39;Star Wars&#39;. What the hell were they thinking?](https://www.space.com/entertainment/space-movies-shows/the-black-hole-was-disneys-original-response-to-star-wars-what-the-hell-were-they-thinking)
-- [As China and the US vie for the moon, private companies are locked in their own space race](https://www.space.com/space-exploration/as-china-and-the-us-vie-for-the-moon-private-companies-are-locked-in-their-own-space-race)
-- [India has changed its startup rules for deep tech](https://techcrunch.com/2026/02/07/india-has-changed-its-startup-rules-for-deep-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
