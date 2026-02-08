@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Mobility: Is $16B enough to build a profitable robotaxi business?](https://techcrunch.com/2026/02/08/techcrunch-mobility-is-16b-enough-to-build-a-profitable-robotaxi-business/)
+- [San Francisco’s pro-billionaire march draws dozens](https://techcrunch.com/2026/02/08/san-franciscos-pro-billionaire-march-draws-dozens/)
 - [From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads](https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/)
 - [The 10 best space and sci-fi Super Bowl commercials of all time](https://www.space.com/entertainment/best-space-and-sci-fi-super-bowl-commercials-of-all-time)
 - [The stars of Orion&#39;s belt are 200,000 times brighter than our sun, and winter is the perfect time to see them](https://www.space.com/stargazing/the-stars-of-orions-belt-are-200-000-times-brighter-than-our-sun-and-winter-is-the-perfect-time-to-see-them)
-- [What Americans lose if their National Center for Atmospheric Research is dismantled](https://www.space.com/astronomy/earth/what-americans-lose-if-their-national-center-for-atmospheric-research-is-dismantled)
-- [&#39;The Black Hole&#39; was Disney&#39;s original response to &#39;Star Wars&#39;. What the hell were they thinking?](https://www.space.com/entertainment/space-movies-shows/the-black-hole-was-disneys-original-response-to-star-wars-what-the-hell-were-they-thinking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
