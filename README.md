@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As China and the US vie for the moon, private companies are locked in their own space race](https://www.space.com/space-exploration/as-china-and-the-us-vie-for-the-moon-private-companies-are-locked-in-their-own-space-race)
 - [India has changed its startup rules for deep tech](https://techcrunch.com/2026/02/07/india-has-changed-its-startup-rules-for-deep-tech/)
 - [SpaceX resumes Falcon 9 flights with Starlink satellite launch from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-internet-satellite-launch-group-17-33-b1088-vsfb-ocisly)
 - [The kids ‘picked last in gym class’ gear up for Super Bowl](https://techcrunch.com/2026/02/07/the-kids-picked-last-in-gym-class-gear-up-for-super-bowl/)
 - [NBA star Giannis Antetokounmpo joins Kalshi as an investor](https://techcrunch.com/2026/02/07/nba-star-giannis-antetokounmpo-joins-kalshi-as-an-investor/)
-- [New York lawmakers propose a three-year pause on new data centers](https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
