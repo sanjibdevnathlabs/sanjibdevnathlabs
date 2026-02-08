@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon’s ‘Melania’ documentary stumbles in second weekend](https://techcrunch.com/2026/02/08/amazons-melania-documentary-stumbles-in-second-weekend/)
 - [Crypto.com places $70M bet on AI.com domain ahead of Super Bowl](https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl/)
 - [Okay, I’m slightly less mad about that ‘Magnificent Ambersons’ AI project](https://techcrunch.com/2026/02/08/okay-im-slightly-less-mad-about-that-magnificent-ambersons-ai-project/)
 - [TechCrunch Mobility: Is $16B enough to build a profitable robotaxi business?](https://techcrunch.com/2026/02/08/techcrunch-mobility-is-16b-enough-to-build-a-profitable-robotaxi-business/)
 - [San Francisco’s pro-billionaire march draws dozens](https://techcrunch.com/2026/02/08/san-franciscos-pro-billionaire-march-draws-dozens/)
-- [From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads](https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
