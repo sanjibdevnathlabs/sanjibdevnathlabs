@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube TV introduces cheaper bundles, including a $65/month sports package](https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/)
-- [Discord to roll out age verification next month for full access to its platform](https://techcrunch.com/2026/02/09/discord-to-roll-out-age-verification-next-month-for-full-access-to-its-platform/)
-- [Uber to buy delivery arm of Turkey’s Getir](https://techcrunch.com/2026/02/09/uber-to-buy-delivery-arm-of-turkeys-getir/)
-- [Call for speakers: TechCrunch Founder Summit 2026](https://techcrunch.com/2026/02/09/call-for-speakers-techcrunch-founder-summit-2026/)
-- [Can current space law handle the new space age?](https://www.space.com/space-exploration/can-current-space-law-handle-the-new-space-age)
+- [Anthropic closes in on $20B round](https://techcrunch.com/2026/02/09/anthropic-closes-in-on-20b-round/)
+- [Ex-Googlers are building infrastructure to help companies understand their video data](https://techcrunch.com/2026/02/09/ex-googlers-are-building-infrastructure-to-help-companies-understand-their-video-data/)
+- [Snapchat now lets you inform others when you have arrived at your destination](https://techcrunch.com/2026/02/09/snapchat-now-lets-you-inform-others-when-you-have-arrived-at-your-destination/)
+- [Netflix&#39;s &#39;War Machine&#39; looks like &#39;Predator&#39; meets &#39;Metal Gear&#39;, and we&#39;re 100% here for it](https://www.space.com/entertainment/space-movies-shows/netflixs-war-machine-looks-like-predator-meets-metal-gear-and-were-100-percent-here-for-it)
+- [Hacktivist scrapes over 500,000 stalkerware customers’ payment records](https://techcrunch.com/2026/02/09/hacktivist-scrapes-over-500000-stalkerware-customers-payment-records/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
