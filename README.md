@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Gather AI, maker of ‘curious’ warehouse drones, lands $40M led by Keith Block’s firm](https://techcrunch.com/2026/02/09/gather-ai-maker-of-curious-warehouse-drones-lands-40m-led-by-keith-blocks-firm/)
-- [The heart of a giant telescope | Space photo of the day for Feb. 9, 2026](https://www.space.com/astronomy/the-heart-of-a-giant-telescope-space-photo-of-the-day-for-feb-9-2026)
-- [Don&#39;t miss the half-lit moon take to the winter sky tonight](https://www.space.com/stargazing/dont-miss-the-half-lit-moon-take-to-the-winter-sky-feb-9)
-- [Venus may have an underground tunnel carved by volcano eruptions](https://www.space.com/astronomy/venus/venus-may-have-an-underground-tunnel-carved-by-volcano-eruptions)
-- [Annular &#39;ring of fire&#39; solar eclipse February 2026: Live updates](https://www.space.com/news/live/annular-solar-eclipse-february-2026-live-updates-what-to-know)
+- [YouTube TV introduces cheaper bundles, including a $65/month sports package](https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/)
+- [Discord to roll out age verification next month for full access to its platform](https://techcrunch.com/2026/02/09/discord-to-roll-out-age-verification-next-month-for-full-access-to-its-platform/)
+- [Uber to buy delivery arm of Turkey’s Getir](https://techcrunch.com/2026/02/09/uber-to-buy-delivery-arm-of-turkeys-getir/)
+- [Call for speakers: TechCrunch Founder Summit 2026](https://techcrunch.com/2026/02/09/call-for-speakers-techcrunch-founder-summit-2026/)
+- [Can current space law handle the new space age?](https://www.space.com/space-exploration/can-current-space-law-handle-the-new-space-age)
 <!-- BLOG-POST-LIST:END -->
 
 ---
