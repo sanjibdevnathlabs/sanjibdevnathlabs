@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT rolls out ads](https://techcrunch.com/2026/02/09/chatgpt-rolls-out-ads/)
+- [Lidar-maker Ouster buys vision company StereoLabs as sensor consolidation continues](https://techcrunch.com/2026/02/09/lidar-maker-ouster-buys-vision-company-stereolabs-as-sensor-consolidation-continues/)
+- [&#39;Star Trek&#39; legend George Takei talks Nimoy&#39;s directing, the future of exploration, and his sad plastic umbrella &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-legend-george-takei-talks-nimoys-directing-the-future-of-exploration-and-his-sad-plastic-umbrella-interview)
 - [So, what’s going on with Musicboard?](https://techcrunch.com/2026/02/09/so-whats-going-on-with-musicboard/)
 - [Harvey reportedly raising at $11B valuation just months after it hit $8B](https://techcrunch.com/2026/02/09/harvey-reportedly-raising-at-11b-valuation-just-months-after-it-hit-8b/)
-- [Workday CEO Eschenbach departs, with co-founder Aneel Bhusri returning as CEO](https://techcrunch.com/2026/02/09/workday-ceo-eschenbach-departs-with-co-founder-aneel-bhusri-returning-as-ceo/)
-- [Lyft opens its ride-hailing app to teens](https://techcrunch.com/2026/02/09/lyft-opens-its-ride-hailing-app-to-teens/)
-- [Hacked, leaked, exposed: Why you should never use stalkerware apps](https://techcrunch.com/2026/02/09/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
