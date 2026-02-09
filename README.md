@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A city on the moon: Why SpaceX shifted its focus away from Mars](https://www.space.com/astronomy/moon/a-city-on-the-moon-why-spacex-shifted-its-focus-away-from-mars)
 - [MrBeast’s company buys Gen Z-focused fintech app Step](https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/)
-- [Bluesky finally adds Drafts](https://techcrunch.com/2026/02/09/bluesky-finally-adds-drafts/)
+- [Bluesky finally adds drafts](https://techcrunch.com/2026/02/09/bluesky-finally-adds-drafts/)
 - [Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant](https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/)
 - [Anthropic’s India expansion collides with a local company that already had the name](https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/)
-- [How long will the ISS operate with a skeleton crew? SpaceX’s Crew-12 astronaut mission delayed to Feb. 12](https://www.space.com/space-exploration/launches-spacecraft/how-long-will-the-iss-operate-with-a-skeleton-crew-spacexs-crew-12-astronaut-mission-delayed-to-feb-12)
 <!-- BLOG-POST-LIST:END -->
 
 ---
