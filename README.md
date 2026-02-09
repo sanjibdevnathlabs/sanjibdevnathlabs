@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT rolls out ads](https://techcrunch.com/2026/02/09/chatgpt-rolls-out-ads/)
-- [Lidar-maker Ouster buys vision company StereoLabs as sensor consolidation continues](https://techcrunch.com/2026/02/09/lidar-maker-ouster-buys-vision-company-stereolabs-as-sensor-consolidation-continues/)
-- [&#39;Star Trek&#39; legend George Takei talks Nimoy&#39;s directing, the future of exploration, and his sad plastic umbrella &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-legend-george-takei-talks-nimoys-directing-the-future-of-exploration-and-his-sad-plastic-umbrella-interview)
-- [So, what’s going on with Musicboard?](https://techcrunch.com/2026/02/09/so-whats-going-on-with-musicboard/)
-- [Harvey reportedly raising at $11B valuation just months after it hit $8B](https://techcrunch.com/2026/02/09/harvey-reportedly-raising-at-11b-valuation-just-months-after-it-hit-8b/)
+- [MrBeast’s company buys Gen Z-focused fintech app Step](https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/)
+- [Bluesky finally adds Drafts](https://techcrunch.com/2026/02/09/bluesky-finally-adds-drafts/)
+- [Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant](https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/)
+- [Anthropic’s India expansion collides with a local company that already had the name](https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/)
+- [How long will the ISS operate with a skeleton crew? SpaceX’s Crew-12 astronaut mission delayed to Feb. 12](https://www.space.com/space-exploration/launches-spacecraft/how-long-will-the-iss-operate-with-a-skeleton-crew-spacexs-crew-12-astronaut-mission-delayed-to-feb-12)
 <!-- BLOG-POST-LIST:END -->
 
 ---
