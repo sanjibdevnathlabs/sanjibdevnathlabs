@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gather AI, maker of ‘curious’ warehouse drones, lands $40M led by Keith Block’s firm](https://techcrunch.com/2026/02/09/gather-ai-maker-of-curious-warehouse-drones-lands-40m-led-by-keith-blocks-firm/)
+- [The heart of a giant telescope | Space photo of the day for Feb. 9, 2026](https://www.space.com/astronomy/the-heart-of-a-giant-telescope-space-photo-of-the-day-for-feb-9-2026)
+- [Don&#39;t miss the half-lit moon take to the winter sky tonight](https://www.space.com/stargazing/dont-miss-the-half-lit-moon-take-to-the-winter-sky-feb-9)
 - [Venus may have an underground tunnel carved by volcano eruptions](https://www.space.com/astronomy/venus/venus-may-have-an-underground-tunnel-carved-by-volcano-eruptions)
 - [Annular &#39;ring of fire&#39; solar eclipse February 2026: Live updates](https://www.space.com/news/live/annular-solar-eclipse-february-2026-live-updates-what-to-know)
-- [Amazon’s ‘Melania’ documentary stumbles in second weekend](https://techcrunch.com/2026/02/08/amazons-melania-documentary-stumbles-in-second-weekend/)
-- [Crypto.com places $70M bet on AI.com domain ahead of Super Bowl](https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl/)
-- [Okay, I’m slightly less mad about that ‘Magnificent Ambersons’ AI project](https://techcrunch.com/2026/02/08/okay-im-slightly-less-mad-about-that-magnificent-ambersons-ai-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
