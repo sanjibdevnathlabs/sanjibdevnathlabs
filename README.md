@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here’s how Rivian changed the rear door manual release on the R2](https://techcrunch.com/2026/02/10/heres-how-rivian-changed-the-rear-door-manual-release-on-the-r2/)
+- [Facebook adds new AI features, animated profile photos, and backgrounds for text posts](https://techcrunch.com/2026/02/10/facebook-adds-new-ai-features-animated-profile-photos-and-backgrounds-for-text-posts/)
+- [10 best places to see the &#39;blood moon&#39; total lunar eclipse on March 3](https://www.space.com/stargazing/lunar-eclipses/10-best-places-to-see-the-blood-moon-total-lunar-eclipse-on-march-3)
 - [How are gas giant exoplanets born? James Webb Space Telescope provides new clues](https://www.space.com/astronomy/james-webb-space-telescope/how-are-gas-giant-exoplanets-born-james-webb-space-telescope-provides-new-clues)
 - [Former Tesla product manager wants to make luxury goods impossible to fake, starting with a chip](https://techcrunch.com/2026/02/10/former-tesla-product-manager-wants-to-make-luxury-goods-impossible-to-fake-starting-with-a-chip/)
-- [Singapore says China-backed hackers targeted its four largest phone companies](https://techcrunch.com/2026/02/10/singapore-china-backed-hackers-targeted-largest-phone-companies-salt-typhoon/)
-- [Vega raises $120M Series B to rethink how enterprises detect cyber threats](https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/)
-- [&#39;Predator: Badlands&#39; decloaks on Hulu &amp; Disney+ this week: Here’s how to watch](https://www.space.com/entertainment/space-movies-shows/how-to-watch-predator-badlands-online)
 <!-- BLOG-POST-LIST:END -->
 
 ---
