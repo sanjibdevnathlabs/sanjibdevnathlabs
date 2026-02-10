@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An ice dance duo skated to AI music at the Olympics](https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/)
+- [Life on Earth is lucky: A rare chemical fluke may have made our planet habitable](https://www.space.com/space-exploration/search-for-life/life-on-earth-is-lucky-a-rare-chemical-fluke-may-have-made-our-planet-habitable)
 - [Boston Dynamics CEO Robert Playter steps down after 30 years at the company](https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/)
 - [VC Masha Bucher, Epstein associate and Day One founder, explains herself](https://techcrunch.com/2026/02/10/vc-masha-bucher-epstein-associate-and-day-one-founder-explains-herself/)
 - [Google sent personal and financial information of student journalist to ICE](https://techcrunch.com/2026/02/10/google-sent-personal-and-financial-information-of-student-journalist-to-ice/)
-- [Nearly half of xAI’s founding team has now left the company](https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/)
-- [Earth orbit is getting crowded. Can this map of 1 million routes around our planet help prevent satellite collisions?](https://www.space.com/space-exploration/satellites/earth-orbit-is-getting-crowded-can-this-map-of-1-million-routes-around-our-planet-help-prevent-satellite-collisions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
