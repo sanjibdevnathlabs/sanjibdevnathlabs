@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The first signs of burnout are coming from the people who embrace AI the most](https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/)
 - [Tem raises $75M to remake electricity markets using AI](https://techcrunch.com/2026/02/09/tem-raises-75m-to-remake-electricity-markets-using-ai/)
 - [India makes Aadhaar more ubiquitous, but critics say security and privacy concerns remain](https://techcrunch.com/2026/02/09/india-makes-aadhaar-more-ubiquitous-but-critics-say-privacy-concerns-remain/)
 - [Waymo is testing driverless robotaxis in Nashville](https://techcrunch.com/2026/02/09/waymo-is-testing-driverless-robotaxis-in-nashville/)
 - [A city on the moon: Why SpaceX shifted its focus away from Mars](https://www.space.com/astronomy/moon/a-city-on-the-moon-why-spacex-shifted-its-focus-away-from-mars)
-- [MrBeast’s company buys Gen Z-focused fintech app Step](https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
