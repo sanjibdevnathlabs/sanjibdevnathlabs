@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google sent personal and financial information of student journalist to ICE](https://techcrunch.com/2026/02/10/google-sent-personal-and-financial-information-of-student-journalist-to-ice/)
+- [Nearly half of xAI’s founding team has now left the company](https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/)
+- [Earth orbit is getting crowded. Can this map of 1 million routes around our planet help prevent satellite collisions?](https://www.space.com/space-exploration/satellites/earth-orbit-is-getting-crowded-can-this-map-of-1-million-routes-around-our-planet-help-prevent-satellite-collisions)
 - [Here’s how Rivian changed the rear door manual release on the R2](https://techcrunch.com/2026/02/10/heres-how-rivian-changed-the-rear-door-manual-release-on-the-r2/)
 - [Facebook adds new AI features, animated profile photos, and backgrounds for text posts](https://techcrunch.com/2026/02/10/facebook-adds-new-ai-features-animated-profile-photos-and-backgrounds-for-text-posts/)
-- [10 best places to see the &#39;blood moon&#39; total lunar eclipse on March 3](https://www.space.com/stargazing/lunar-eclipses/10-best-places-to-see-the-blood-moon-total-lunar-eclipse-on-march-3)
-- [How are gas giant exoplanets born? James Webb Space Telescope provides new clues](https://www.space.com/astronomy/james-webb-space-telescope/how-are-gas-giant-exoplanets-born-james-webb-space-telescope-provides-new-clues)
-- [Former Tesla product manager wants to make luxury goods impossible to fake, starting with a chip](https://techcrunch.com/2026/02/10/former-tesla-product-manager-wants-to-make-luxury-goods-impossible-to-fake-starting-with-a-chip/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
