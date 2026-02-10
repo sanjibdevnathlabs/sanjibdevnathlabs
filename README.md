@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube rolls out an AI playlist generator for Premium users](https://techcrunch.com/2026/02/10/youtube-rolls-out-an-ai-playlist-generator-for-premium-users/)
-- [1 week until an annular solar eclipse turns the sun into a &#39;ring of fire&#39; over Antarctica](https://www.space.com/stargazing/solar-eclipses/1-week-until-an-annular-solar-eclipse-turns-the-sun-into-a-ring-of-fire-over-antarctica)
-- [The first signs of burnout are coming from the people who embrace AI the most](https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/)
-- [Tem raises $75M to remake electricity markets using AI](https://techcrunch.com/2026/02/09/tem-raises-75m-to-remake-electricity-markets-using-ai/)
-- [India makes Aadhaar more ubiquitous, but critics say security and privacy concerns remain](https://techcrunch.com/2026/02/09/india-makes-aadhaar-more-ubiquitous-but-critics-say-privacy-concerns-remain/)
+- [Spotify hits a record 751M monthly users thanks to Wrapped, new free features](https://techcrunch.com/2026/02/10/spotify-hits-a-record-751m-monthly-users-thanks-to-wrapped-new-free-features/)
+- [Primary Ventures raises healthy $625M Fund V to focus on seed investing](https://techcrunch.com/2026/02/10/primary-ventures-raises-massive-625m-fund-v-to-focus-on-seed-investing/)
+- [Proptech startup Smart Bricks raises $5 million pre-seed led by a16z](https://techcrunch.com/2026/02/10/proptech-startup-smart-bricks-raises-5-million-pre-seed-in-round-led-by-a16z/)
+- [AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models](https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/)
+- [Who are the astronauts of SpaceX&#39;s Crew-12 mission to the ISS?](https://www.space.com/space-exploration/international-space-station/who-are-the-astronauts-of-spacexs-crew-12-mission-to-the-iss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
