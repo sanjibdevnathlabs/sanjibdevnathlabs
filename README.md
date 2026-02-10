@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify hits a record 751M monthly users thanks to Wrapped, new free features](https://techcrunch.com/2026/02/10/spotify-hits-a-record-751m-monthly-users-thanks-to-wrapped-new-free-features/)
-- [Primary Ventures raises healthy $625M Fund V to focus on seed investing](https://techcrunch.com/2026/02/10/primary-ventures-raises-massive-625m-fund-v-to-focus-on-seed-investing/)
-- [Proptech startup Smart Bricks raises $5 million pre-seed led by a16z](https://techcrunch.com/2026/02/10/proptech-startup-smart-bricks-raises-5-million-pre-seed-in-round-led-by-a16z/)
-- [AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models](https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/)
-- [Who are the astronauts of SpaceX&#39;s Crew-12 mission to the ISS?](https://www.space.com/space-exploration/international-space-station/who-are-the-astronauts-of-spacexs-crew-12-mission-to-the-iss)
+- [Vega raises $120M Series B to rethink how enterprises detect cyber threats](https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/)
+- [&#39;Predator: Badlands&#39; decloaks on Hulu &amp; Disney+ this week: Here’s how to watch](https://www.space.com/entertainment/space-movies-shows/how-to-watch-predator-badlands-online)
+- [What to know about Netflix’s landmark acquisition of Warner Bros.](https://techcrunch.com/2026/02/10/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/)
+- [Google expands tools to let users remove sensitive data about themselves from Search](https://techcrunch.com/2026/02/10/google-remove-sensitive-personal-data-from-search/)
+- [Trump EPA reportedly seeks to revoke landmark air pollution rule](https://techcrunch.com/2026/02/10/trump-epa-reportedly-seeks-to-revoke-landmark-air-pollution-rule/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
