@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How are gas giant exoplanets born? James Webb Space Telescope provides new clues](https://www.space.com/astronomy/james-webb-space-telescope/how-are-gas-giant-exoplanets-born-james-webb-space-telescope-provides-new-clues)
+- [Former Tesla product manager wants to make luxury goods impossible to fake, starting with a chip](https://techcrunch.com/2026/02/10/former-tesla-product-manager-wants-to-make-luxury-goods-impossible-to-fake-starting-with-a-chip/)
+- [Singapore says China-backed hackers targeted its four largest phone companies](https://techcrunch.com/2026/02/10/singapore-china-backed-hackers-targeted-largest-phone-companies-salt-typhoon/)
 - [Vega raises $120M Series B to rethink how enterprises detect cyber threats](https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/)
 - [&#39;Predator: Badlands&#39; decloaks on Hulu &amp; Disney+ this week: Here’s how to watch](https://www.space.com/entertainment/space-movies-shows/how-to-watch-predator-badlands-online)
-- [What to know about Netflix’s landmark acquisition of Warner Bros.](https://techcrunch.com/2026/02/10/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/)
-- [Google expands tools to let users remove sensitive data about themselves from Search](https://techcrunch.com/2026/02/10/google-remove-sensitive-personal-data-from-search/)
-- [Trump EPA reportedly seeks to revoke landmark air pollution rule](https://techcrunch.com/2026/02/10/trump-epa-reportedly-seeks-to-revoke-landmark-air-pollution-rule/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
