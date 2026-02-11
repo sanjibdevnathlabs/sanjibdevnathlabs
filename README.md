@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI changes the math for startups, according to a Microsoft VP](https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/)
-- [UpScrolled’s social network is struggling to moderate hate speech after fast growth](https://techcrunch.com/2026/02/11/upscrolleds-social-network-is-struggling-to-moderate-hate-speech-after-fast-growth/)
-- [Are sunrises and sunsets more spectacular in winter?](https://www.space.com/stargazing/are-sunrises-and-sunsets-more-spectacular-in-winter)
-- [Senior engineers, including co-founders, exit xAI amid controversy](https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/)
-- [Twilio co-founder’s fusion power startup raises $450M from Bessemer and Alphabet’s GV](https://techcrunch.com/2026/02/11/twilio-co-founders-fusion-power-startup-raises-450m-from-bessemer-and-alphabets-gv/)
+- [SpaceX Falcon 9 deploys 25 Starlink satellites after California launch](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-34-b1100-vsfb-ocisly)
+- [DOJ says Trenchant boss sold exploits to Russian broker capable of accessing ‘millions of computers and devices’](https://techcrunch.com/2026/02/11/doj-says-trenchant-boss-sold-exploits-to-russian-broker-capable-of-accessing-millions-of-computers-and-devices/)
+- [Why the economics of orbital AI are so brutal](https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal/)
+- [Threads’ new ‘Dear Algo’ AI feature lets you personalize your feed](https://techcrunch.com/2026/02/11/threads-new-dear-algo-ai-feature-lets-you-personalize-your-feed/)
+- [Google releases the first beta of Android 17, adopts a continuous developer release plan](https://techcrunch.com/2026/02/11/google-releases-the-first-beta-of-android-17-adopts-a-continous-developer-release-plan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
