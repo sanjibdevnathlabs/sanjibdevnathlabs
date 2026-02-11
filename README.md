@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Pharmacy to expand same-day delivery to nearly 4,500 US cities](https://techcrunch.com/2026/02/11/amazon-pharmacy-to-expand-same-day-delivery-to-nearly-4500-us-cities/)
-- [Build a pipeline and close deals with an exhibit table at TechCrunch Disrupt 2026](https://techcrunch.com/2026/02/11/build-a-pipeline-and-close-deals-with-an-exhibit-table-at-techcrunch-disrupt-2026/)
-- [Artemis 2 rocket chills with the &#39;Snow Moon&#39; | Space photo of the day for Feb. 11, 2026](https://www.space.com/space-exploration/artemis-2-rocket-chills-with-the-snow-moon-space-photo-of-the-day-for-feb-11-2026)
-- [TikTok launches an opt-in Local Feed in the U.S. leveraging users’ precise location](https://techcrunch.com/2026/02/11/tiktok-launches-an-opt-in-local-feed-in-the-u-s-leveraging-users-precise-location/)
-- [Integrate raises $17M to move defense project management into the 21st century](https://techcrunch.com/2026/02/11/integrate-raises-17m-to-move-defense-project-management-into-the-21st-century/)
+- [Senior engineers, including co-founders, exit xAI amid controversy](https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/)
+- [Twilio co-founder’s fusion power startup raises $450M from Bessemer and Alphabet’s GV](https://techcrunch.com/2026/02/11/twilio-co-founders-fusion-power-startup-raises-450m-from-bessemer-and-alphabets-gv/)
+- [Former Founders Fund VC Sam Blond launches AI sales startup to upend Salesforce](https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/)
+- [Upside Robotics is reducing fertilizer use and waste in corn crops](https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops/)
+- [Why are the launch windows for NASA&#39;s Artemis 2 moon mission so short?](https://www.space.com/space-exploration/artemis/why-are-the-launch-windows-for-nasas-artemis-2-moon-mission-so-short)
 <!-- BLOG-POST-LIST:END -->
 
 ---
