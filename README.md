@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Space Telescope captures the stunning final breaths of a dying star](https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-captures-the-final-breaths-of-a-dying-star)
-- [How to get into a16z’s super-competitive Speedrun startup accelerator program](https://techcrunch.com/2026/02/11/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/)
-- [Cash App adds payment links so you can get paid in a DM](https://techcrunch.com/2026/02/11/cash-app-adds-payment-links-so-you-can-get-paid-in-a-dm/)
-- [Amazon’s new eero Signal keeps you connected to the internet when outages occur](https://techcrunch.com/2026/02/11/amazons-new-eero-signal-keeps-you-connected-to-the-internet-when-outages-occur/)
-- [The search is on: 2026 Joseph C. Belden Innovation Award nominations are open](https://techcrunch.com/2026/02/11/the-search-is-on-2026-joseph-c-belden-innovation-award-nominations-are-open/)
+- [Apple’s Siri revamp reportedly delayed… again](https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/)
+- [Uber Eats launches AI assistant to help with grocery cart creation](https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/)
+- [China aces test of next-gen lunar capsule and rocket in effort to land humans on moon before NASA &lpar;video&rpar;](https://www.space.com/astronomy/moon/chinas-next-gen-capsule-rocket-for-crewed-moon-missions-ace-key-test-video)
+- [Who will own your company’s AI layer? Glean’s CEO explains](https://techcrunch.com/video/who-will-own-your-companys-ai-layer-gleans-ceo-explains/)
+- [Elon Musk suggests spate of xAI exits have been push, not pull](https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
