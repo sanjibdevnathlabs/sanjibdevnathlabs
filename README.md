@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How AI changes the math for startups, according to a Microsoft VP](https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/)
+- [UpScrolled’s social network is struggling to moderate hate speech after fast growth](https://techcrunch.com/2026/02/11/upscrolleds-social-network-is-struggling-to-moderate-hate-speech-after-fast-growth/)
+- [Are sunrises and sunsets more spectacular in winter?](https://www.space.com/stargazing/are-sunrises-and-sunsets-more-spectacular-in-winter)
 - [Senior engineers, including co-founders, exit xAI amid controversy](https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/)
 - [Twilio co-founder’s fusion power startup raises $450M from Bessemer and Alphabet’s GV](https://techcrunch.com/2026/02/11/twilio-co-founders-fusion-power-startup-raises-450m-from-bessemer-and-alphabets-gv/)
-- [Former Founders Fund VC Sam Blond launches AI sales startup to upend Salesforce](https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/)
-- [Upside Robotics is reducing fertilizer use and waste in corn crops](https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops/)
-- [Why are the launch windows for NASA&#39;s Artemis 2 moon mission so short?](https://www.space.com/space-exploration/artemis/why-are-the-launch-windows-for-nasas-artemis-2-moon-mission-so-short)
 <!-- BLOG-POST-LIST:END -->
 
 ---
