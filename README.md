@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Complyance raises $20M to help companies manage risk and compliance](https://techcrunch.com/2026/02/11/complyance-raises-20m-to-help-companies-manage-risk-and-compliance/)
-- [Humanoid robot startup Apptronik has now raised $935M at a $5B+ valuation](https://techcrunch.com/2026/02/11/humanoid-robot-startup-apptronik-has-now-raised-935m-at-a-5b-valuation/)
-- [Meridian raises $17 million to remake the agentic spreadsheet](https://techcrunch.com/2026/02/11/meridian-ai-raises-17-million-to-remake-the-agentic-spreadsheet/)
-- [James Webb Space Telescope uncovers secret supermassive black holes that escape traditional detection](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-uncovers-secret-supermassive-black-holes-that-escape-traditional-detection)
-- [Where will the annular solar eclipse be visible on Feb. 17?](https://www.space.com/stargazing/solar-eclipses/where-will-the-annular-solar-eclipse-be-visible-on-feb-17)
+- [Amazon Pharmacy to expand same-day delivery to nearly 4,500 US cities](https://techcrunch.com/2026/02/11/amazon-pharmacy-to-expand-same-day-delivery-to-nearly-4500-us-cities/)
+- [Build a pipeline and close deals with an exhibit table at TechCrunch Disrupt 2026](https://techcrunch.com/2026/02/11/build-a-pipeline-and-close-deals-with-an-exhibit-table-at-techcrunch-disrupt-2026/)
+- [Artemis 2 rocket chills with the &#39;Snow Moon&#39; | Space photo of the day for Feb. 11, 2026](https://www.space.com/space-exploration/artemis-2-rocket-chills-with-the-snow-moon-space-photo-of-the-day-for-feb-11-2026)
+- [TikTok launches an opt-in Local Feed in the U.S. leveraging users’ precise location](https://techcrunch.com/2026/02/11/tiktok-launches-an-opt-in-local-feed-in-the-u-s-leveraging-users-precise-location/)
+- [Integrate raises $17M to move defense project management into the 21st century](https://techcrunch.com/2026/02/11/integrate-raises-17m-to-move-defense-project-management-into-the-21st-century/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
