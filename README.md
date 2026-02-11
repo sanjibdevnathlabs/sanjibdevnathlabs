@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Could the remains of a &#39;dead&#39; comet still be in the solar system? Astronomers are still searching 6 years later](https://www.space.com/astronomy/comets/could-the-remains-of-a-dead-comet-still-be-in-the-solar-system-astronomers-are-still-searching-6-years-later)
 - [Samsung to hold its Galaxy S26 event on February 25](https://techcrunch.com/2026/02/10/samsung-to-hold-its-galaxy-s26-event-on-february-25/)
 - [With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/)
 - [OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim](https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/)
 - [Okay, now exactly half of xAI’s founding team has left the company](https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/)
-- [Amazon may launch a marketplace where media sites can sell their content to AI companies](https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
