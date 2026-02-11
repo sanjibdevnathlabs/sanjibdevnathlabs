@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Falcon 9 deploys 25 Starlink satellites after California launch](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-34-b1100-vsfb-ocisly)
-- [DOJ says Trenchant boss sold exploits to Russian broker capable of accessing ‘millions of computers and devices’](https://techcrunch.com/2026/02/11/doj-says-trenchant-boss-sold-exploits-to-russian-broker-capable-of-accessing-millions-of-computers-and-devices/)
-- [Why the economics of orbital AI are so brutal](https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal/)
-- [Threads’ new ‘Dear Algo’ AI feature lets you personalize your feed](https://techcrunch.com/2026/02/11/threads-new-dear-algo-ai-feature-lets-you-personalize-your-feed/)
-- [Google releases the first beta of Android 17, adopts a continuous developer release plan](https://techcrunch.com/2026/02/11/google-releases-the-first-beta-of-android-17-adopts-a-continous-developer-release-plan/)
+- [Hubble Space Telescope captures the stunning final breaths of a dying star](https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-captures-the-final-breaths-of-a-dying-star)
+- [How to get into a16z’s super-competitive Speedrun startup accelerator program](https://techcrunch.com/2026/02/11/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/)
+- [Cash App adds payment links so you can get paid in a DM](https://techcrunch.com/2026/02/11/cash-app-adds-payment-links-so-you-can-get-paid-in-a-dm/)
+- [Amazon’s new eero Signal keeps you connected to the internet when outages occur](https://techcrunch.com/2026/02/11/amazons-new-eero-signal-keeps-you-connected-to-the-internet-when-outages-occur/)
+- [The search is on: 2026 Joseph C. Belden Innovation Award nominations are open](https://techcrunch.com/2026/02/11/the-search-is-on-2026-joseph-c-belden-innovation-award-nominations-are-open/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
