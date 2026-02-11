@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Could the remains of a &#39;dead&#39; comet still be in the solar system? Astronomers are still searching 6 years later](https://www.space.com/astronomy/comets/could-the-remains-of-a-dead-comet-still-be-in-the-solar-system-astronomers-are-still-searching-6-years-later)
-- [Samsung to hold its Galaxy S26 event on February 25](https://techcrunch.com/2026/02/10/samsung-to-hold-its-galaxy-s26-event-on-february-25/)
-- [With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/)
-- [OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim](https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/)
-- [Okay, now exactly half of xAI’s founding team has left the company](https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/)
+- [Complyance raises $20M to help companies manage risk and compliance](https://techcrunch.com/2026/02/11/complyance-raises-20m-to-help-companies-manage-risk-and-compliance/)
+- [Humanoid robot startup Apptronik has now raised $935M at a $5B+ valuation](https://techcrunch.com/2026/02/11/humanoid-robot-startup-apptronik-has-now-raised-935m-at-a-5b-valuation/)
+- [Meridian raises $17 million to remake the agentic spreadsheet](https://techcrunch.com/2026/02/11/meridian-ai-raises-17-million-to-remake-the-agentic-spreadsheet/)
+- [James Webb Space Telescope uncovers secret supermassive black holes that escape traditional detection](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-uncovers-secret-supermassive-black-holes-that-escape-traditional-detection)
+- [Where will the annular solar eclipse be visible on Feb. 17?](https://www.space.com/stargazing/solar-eclipses/where-will-the-annular-solar-eclipse-be-visible-on-feb-17)
 <!-- BLOG-POST-LIST:END -->
 
 ---
