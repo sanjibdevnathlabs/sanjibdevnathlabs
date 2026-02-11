@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Vulcan Centaur rocket launch &#39;neighborhood watch&#39; satellites for the US military early on Feb. 12](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-ussf-87-launch-space-surveillance-satellites)
+- [OpenAI disbands mission alignment team, which focused on ‘safe’ and ‘trustworthy’ AI development](https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/)
 - [Apple’s Siri revamp reportedly delayed… again](https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/)
 - [Uber Eats launches AI assistant to help with grocery cart creation](https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/)
 - [China aces test of next-gen lunar capsule and rocket in effort to land humans on moon before NASA &lpar;video&rpar;](https://www.space.com/astronomy/moon/chinas-next-gen-capsule-rocket-for-crewed-moon-missions-ace-key-test-video)
-- [Who will own your company’s AI layer? Glean’s CEO explains](https://techcrunch.com/video/who-will-own-your-companys-ai-layer-gleans-ceo-explains/)
-- [Elon Musk suggests spate of xAI exits have been push, not pull](https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
