@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim](https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/)
 - [Okay, now exactly half of xAI’s founding team has left the company](https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/)
 - [Amazon may launch a marketplace where media sites can sell their content to AI companies](https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/)
 - [An ice dance duo skated to AI music at the Olympics](https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/)
 - [Life on Earth is lucky: A rare chemical fluke may have made our planet habitable](https://www.space.com/space-exploration/search-for-life/life-on-earth-is-lucky-a-rare-chemical-fluke-may-have-made-our-planet-habitable)
-- [Boston Dynamics CEO Robert Playter steps down after 30 years at the company](https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
