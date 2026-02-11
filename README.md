@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Why DevOps Demand Is Exploding in 2026 &lpar;And How To Take Advantage&rpar;](https://www.youtube.com/watch?v=MFjDt6ONWzk)
 - [Digital Signal Processing With Audio Data - Computerphile](https://www.youtube.com/watch?v=zuZBkTNrv0g)
-- [I Tried running in 3D printed shoes](https://www.youtube.com/watch?v=9LjgqZ2wP0g)
 - [10 open source tools that feel illegal...](https://www.youtube.com/watch?v=Ukt2gVz25PQ)
 - [Network Basics - Transport Layer and User Datagram Protocol Explained - Computerphile](https://www.youtube.com/watch?v=ihvbhwGblQg)
+- [The wild rise of OpenClaw...](https://www.youtube.com/watch?v=ssYt09bCgUY)
+- [Generating 3D Models with Diffusion - Computerphile](https://www.youtube.com/watch?v=C1E500opYHA)
 <!-- YOUTUBE:END -->
 
 ---
