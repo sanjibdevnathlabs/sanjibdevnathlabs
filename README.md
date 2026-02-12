@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic raises another $30 billion in series G, with a new value of $380 billion](https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/)
+- [YouTube finally launches a dedicated app for Apple Vision Pro](https://techcrunch.com/2026/02/12/youtube-finally-launches-a-dedicated-app-for-apple-vision-pro/)
+- [Scientists have found a weird &#39;inside out&#39; planetary system. Here&#39;s what it looks like](https://www.space.com/astronomy/exoplanets/scientists-have-found-an-inside-out-planetary-system-heres-what-it-looks-like)
 - [Hacker linked to Epstein removed from Black Hat cyber conference website](https://techcrunch.com/2026/02/12/hacker-linked-to-epstein-removed-from-black-hat-cyber-conference-website/)
 - [Trump administration undermines EPA enforcement of Clean Air Act](https://techcrunch.com/2026/02/12/trump-administration-undermines-epa-enforcement-of-clean-air-act/)
-- [Automattic planned to target 10 competitors with royalty fees, WP Engine claims in new filing](https://techcrunch.com/2026/02/12/automattic-planned-to-target-10-competitors-with-royalty-fees-wp-engine-claims-in-new-filing/)
-- [Astronomers witness vanishing star collapse into a black hole in Andromeda galaxy](https://www.space.com/astronomy/black-holes/astronomers-witness-vanishing-star-collapse-into-a-black-hole-in-andromeda-galaxy)
-- [Spotify says its best developers haven’t written a line of code since December, thanks to AI](https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
