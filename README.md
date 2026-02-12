@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple acquires all rights to Severance, will produce future seasons in-house](https://techcrunch.com/2026/02/12/apple-acquires-all-rights-to-severance-will-produce-future-seasons-in-house/)
+- [&#39;Cloud streets&#39; stream from the Florida coast | Space photo of the day for Feb. 12, 2026](https://www.space.com/science/weather/cloud-streets-stream-from-the-florida-coast-space-photo-of-the-day-for-feb-12-2026)
+- [US FTC airs concerns over allegations that Apple News suppresses right-wing content](https://techcrunch.com/2026/02/12/us-ftc-airs-concerns-over-allegations-that-apple-suppresses-right-wing-content-on-apple-news/)
 - [Eclipse backs all-EV marketplace Ever in $31M funding round](https://techcrunch.com/2026/02/12/eclipse-backs-all-ev-marketplace-ever-in-31m-funding-round/)
 - [&#39;Predator: Badlands&#39; traded horror for a science fantasy &#39;Sword and Sorcery&#39; vibe, and we think it was the right call](https://www.space.com/entertainment/space-movies-shows/predator-badlands-traded-horror-for-a-science-fantasy-sword-and-sorcery-vibe-and-we-think-it-was-the-right-call)
-- [Here&#39;s what will happen during each phase of the Feb. 17 &#39;ring of fire&#39; annular solar eclipse](https://www.space.com/stargazing/solar-eclipses/heres-what-will-happen-during-each-phase-of-the-feb-17-ring-of-fire-annular-solar-eclipse)
-- [Can a nonprofit help protect Earth from dangerous asteroids? How the B612 Foundation has taken on the challenge](https://www.space.com/astronomy/asteroids/can-a-nonprofit-help-protect-earth-from-dangerous-asteroids-how-the-b612-foundation-has-taken-on-the-challenge)
-- [Predator: Badlands streams today. Watch it now with this money-saving deal](https://www.space.com/entertainment/space-movies-shows/predator-badlands-hulu-bundle-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
