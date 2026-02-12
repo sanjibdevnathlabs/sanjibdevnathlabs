@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.](https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/)
+- [Watch SpaceX launch Crew-12 astronaut mission to the International Space Station early on Feb. 13](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-crew-12-astronaut-mission-to-the-international-space-station-early-on-feb-13)
 - [Deja vu: Vulcan Centaur rocket powers through &#39;significant performance anomaly&#39; on satellite launch](https://www.space.com/space-exploration/launches-spacecraft/deja-vu-vulcan-centaur-rocket-powers-through-significant-performance-anomaly-on-satellite-launch)
 - [Didero lands $30M to put manufacturing procurement on ‘agentic’ autopilot](https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/)
 - [Anthropic raises another $30B in Series G, with a new value of $380B](https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/)
-- [YouTube finally launches a dedicated app for Apple Vision Pro](https://techcrunch.com/2026/02/12/youtube-finally-launches-a-dedicated-app-for-apple-vision-pro/)
-- [Scientists have found a weird &#39;inside out&#39; planetary system. Here&#39;s what it looks like](https://www.space.com/astronomy/exoplanets/scientists-have-found-an-inside-out-planetary-system-heres-what-it-looks-like)
 <!-- BLOG-POST-LIST:END -->
 
 ---
