@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacker linked to Epstein removed from Black Hat cyber conference website](https://techcrunch.com/2026/02/12/hacker-linked-to-epstein-removed-from-black-hat-cyber-conference-website/)
+- [Trump administration undermines EPA enforcement of Clean Air Act](https://techcrunch.com/2026/02/12/trump-administration-undermines-epa-enforcement-of-clean-air-act/)
+- [Automattic planned to target 10 competitors with royalty fees, WP Engine claims in new filing](https://techcrunch.com/2026/02/12/automattic-planned-to-target-10-competitors-with-royalty-fees-wp-engine-claims-in-new-filing/)
+- [Astronomers witness vanishing star collapse into a black hole in Andromeda galaxy](https://www.space.com/astronomy/black-holes/astronomers-witness-vanishing-star-collapse-into-a-black-hole-in-andromeda-galaxy)
 - [Spotify says its best developers haven’t written a line of code since December, thanks to AI](https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/)
-- [Watch a bright fireball blaze a 48-mile path over the Midwest US &lpar;video&rpar;](https://www.space.com/stargazing/meteor-showers/watch-a-bright-fireball-blaze-a-48-mile-path-over-the-midwest-us-video)
-- [A new version of OpenAI’s Codex is powered by a new dedicated chip](https://techcrunch.com/2026/02/12/a-new-version-of-openais-codex-is-powered-by-a-new-dedicated-chip/)
-- [Aurora’s driverless trucks can now travel farther distances faster than human drivers](https://techcrunch.com/2026/02/12/auroras-driverless-trucks-can-now-travel-farther-distances-faster-than-human-drivers/)
-- [SpaceX Crew-12 launch latest news: NASA ISS astronaut crew ready to fly](https://www.space.com/news/live/spacex-nasa-crew-12-astronauts-launch-to-iss-feb-12-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
