@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify says its best developers haven’t written a line of code since December, thanks to AI](https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/)
+- [Watch a bright fireball blaze a 48-mile path over the Midwest US &lpar;video&rpar;](https://www.space.com/stargazing/meteor-showers/watch-a-bright-fireball-blaze-a-48-mile-path-over-the-midwest-us-video)
+- [A new version of OpenAI’s Codex is powered by a new dedicated chip](https://techcrunch.com/2026/02/12/a-new-version-of-openais-codex-is-powered-by-a-new-dedicated-chip/)
+- [Aurora’s driverless trucks can now travel farther distances faster than human drivers](https://techcrunch.com/2026/02/12/auroras-driverless-trucks-can-now-travel-farther-distances-faster-than-human-drivers/)
 - [SpaceX Crew-12 launch latest news: NASA ISS astronaut crew ready to fly](https://www.space.com/news/live/spacex-nasa-crew-12-astronauts-launch-to-iss-feb-12-2026)
-- [Europe&#39;s most powerful rocket launches for 1st time, carrying 32 Amazon internet satellites to orbit &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/ariane-64-rocket-debut-launch-amazon-leo-internet-satellites)
-- [February&#39;s full Snow Moon glows behind snowdrops in ethereal winter photo](https://www.space.com/stargazing/astrophotography/februarys-full-snow-moon-glows-behind-snowdrops-in-ethereal-winter-photo)
-- [More US investors sue South Korean government over handling of Coupang data breach](https://techcrunch.com/2026/02/12/more-u-s-investors-sue-south-korean-government-over-handling-of-coupang-data-breach/)
-- [Could the Milky Way galaxy&#39;s supermassive black hole actually be a clump of dark matter?](https://www.space.com/astronomy/dark-universe/could-the-milky-way-galaxys-supermassive-black-hole-actually-be-a-clump-of-dark-matter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
