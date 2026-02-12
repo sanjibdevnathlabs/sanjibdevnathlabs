@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can a nonprofit help protect Earth from dangerous asteroids? How the B612 Foundation has taken on the challenge](https://www.space.com/astronomy/asteroids/can-a-nonprofit-help-protect-earth-from-dangerous-asteroids-how-the-b612-foundation-has-taken-on-the-challenge)
 - [Predator: Badlands streams today. Watch it now with this money-saving deal](https://www.space.com/entertainment/space-movies-shows/predator-badlands-hulu-bundle-deal)
 - [xAI lays out interplanetary ambitions in public all-hands](https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/)
 - [AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say](https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/)
 - [Vulcan Centaur rocket launches &#39;neighborhood watch&#39; satellites for the US military](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-ussf-87-launch-space-surveillance-satellites)
-- [OpenAI disbands mission alignment team](https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
