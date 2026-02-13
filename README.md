@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cohere’s $240M year sets stage for IPO](https://techcrunch.com/2026/02/13/coheres-240m-year-sets-stage-for-ipo/)
+- [Artemis 2 rocket photobombs SpaceX Crew-12 | Space photo of the day for Feb. 13, 2026](https://www.space.com/space-exploration/launches-spacecraft/artemis-2-rocket-photobombs-spacex-crew-12-space-photo-of-the-day-for-feb-13-2026)
+- [Meta plans to add facial recognition to its smart glasses, report claims](https://techcrunch.com/2026/02/13/meta-plans-to-add-facial-recognition-to-its-smart-glasses-report-claims/)
 - [Score, the dating app for people with good credit, is back](https://techcrunch.com/2026/02/13/score-the-dating-app-for-good-to-excellent-credit-returns-for-everyone-to-use/)
 - [If the Winter Olympics went interplanetary, where else could you ski in the solar system?](https://www.space.com/astronomy/solar-system/if-the-winter-olympics-went-interplanetary-where-else-could-you-ski-in-the-solar-system)
-- [Why solar and lunar eclipses come in pairs — and what an eclipse season really is](https://www.space.com/stargazing/eclipses/why-solar-and-lunar-eclipses-come-in-pairs-and-what-an-eclipse-season-really-is)
-- [SpaceX launches Crew-12 astronauts to short-staffed International Space Station. &#39;We have left the Earth, but the Earth has not left us.&#39;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-crew-12-astronauts-to-short-staffed-international-space-station-we-have-left-the-earth-but-the-earth-has-not-left-us)
-- [Satellite megaconstellations continue to grow. Could their debris fall on us?](https://www.space.com/space-exploration/satellites/satellite-megaconstellations-continue-to-grow-could-their-debris-fall-on-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
