@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [For $1M, you can pay Bryan Johnson &lpar;or BryanAI?&rpar; to teach you how to live longer](https://techcrunch.com/2026/02/12/for-1-million-you-can-pay-bryan-johnson-or-bryanai-to-teach-you-how-to-live-longer/)
+- [Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT](https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/)
+- [IBM will hire your entry-level talent in the age of AI](https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/)
 - [Rivian was saved by software in 2025](https://techcrunch.com/2026/02/12/rivian-was-saved-by-software-in-2025/)
-- [Project Hail Mary, Disclosure Day, &amp; The Super Mario Galaxy Movie got new trailers at Super Bowl LX: Watch them all here &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/project-hail-mary-disclosure-day-and-the-super-mario-galaxy-movie-got-new-trailers-at-super-bowl-lx-watch-them-all-here-video)
-- [Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.](https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/)
-- [Watch SpaceX launch Crew-12 astronaut mission to the International Space Station early on Feb. 13](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-crew-12-astronaut-mission-to-the-international-space-station-early-on-feb-13)
-- [Deja vu: Vulcan Centaur rocket powers through &#39;significant performance anomaly&#39; on satellite launch](https://www.space.com/space-exploration/launches-spacecraft/deja-vu-vulcan-centaur-rocket-powers-through-significant-performance-anomaly-on-satellite-launch)
+- [&#39;Project Hail Mary,&#39; &#39;Disclosure Day,&#39; &amp; &#39;The Super Mario Galaxy Movie&#39; got new trailers at Super Bowl LX: Watch them all here &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/project-hail-mary-disclosure-day-and-the-super-mario-galaxy-movie-got-new-trailers-at-super-bowl-lx-watch-them-all-here-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
