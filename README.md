@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India partners with Alibaba.com for export push despite past China tech bans](https://techcrunch.com/2026/02/13/india-partners-with-alibaba-com-for-export-push-despite-past-china-tech-bans/)
+- [Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10](https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/)
+- [Roku to launch streaming bundles as part of its efforts to continue growing its profitability](https://techcrunch.com/2026/02/13/roku-to-launch-streaming-bundles-as-part-of-its-efforts-to-continue-growing-its-profitability/)
 - [A Stanford grad student created an algorithm to help his classmates find love; now, Date Drop is the basis of his new startup](https://techcrunch.com/2026/02/13/a-stanford-grad-student-created-an-algorithm-to-help-his-classmates-find-love-now-date-drop-is-the-basis-of-his-new-startup/)
-- [Elon Musk suggests spate of xAI exits have been push, not pull](https://techcrunch.com/2026/02/13/senior-engineers-including-co-founders-exit-xai-amid-controversy/)
-- [Markiplier&#39;s &#39;Iron Lung&#39; is a welcome return to grindhouse sci-fi films of the &#39;90s](https://www.space.com/entertainment/space-movies-shows/markipliers-iron-lung-is-a-welcome-return-to-grindhouse-sci-fi-films-of-the-90s)
-- [Dutch phone giant Odido says millions of customers affected by data breach](https://techcrunch.com/2026/02/13/dutch-phone-giant-odido-says-millions-of-customers-affected-by-data-breach/)
-- [Amazon’s Ring cancels partnership with Flock, a network of AI cameras used by ICE, feds, and police](https://techcrunch.com/2026/02/13/amazons-ring-cancels-partnership-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/)
+- [Elon Musk suggests spate of xAI exits have been push, not pull](https://techcrunch.com/2026/02/13/elon-musk-suggests-spate-of-xai-exits-have-been-push-not-pull/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
