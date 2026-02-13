@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Score, the dating app for people with good credit, is back](https://techcrunch.com/2026/02/13/score-the-dating-app-for-good-to-excellent-credit-returns-for-everyone-to-use/)
+- [If the Winter Olympics went interplanetary, where else could you ski in the solar system?](https://www.space.com/astronomy/solar-system/if-the-winter-olympics-went-interplanetary-where-else-could-you-ski-in-the-solar-system)
 - [Why solar and lunar eclipses come in pairs — and what an eclipse season really is](https://www.space.com/stargazing/eclipses/why-solar-and-lunar-eclipses-come-in-pairs-and-what-an-eclipse-season-really-is)
 - [SpaceX launches Crew-12 astronauts to short-staffed International Space Station. &#39;We have left the Earth, but the Earth has not left us.&#39;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-crew-12-astronauts-to-short-staffed-international-space-station-we-have-left-the-earth-but-the-earth-has-not-left-us)
 - [Satellite megaconstellations continue to grow. Could their debris fall on us?](https://www.space.com/space-exploration/satellites/satellite-megaconstellations-continue-to-grow-could-their-debris-fall-on-us)
-- [Fusion startup Helion hits blistering temps as it races toward 2028 deadline](https://techcrunch.com/2026/02/13/fusion-startup-helion-hits-blistering-temps-as-it-races-toward-2028-deadline/)
-- [Waymo is asking DoorDash drivers to shut the doors of its self-driving cars](https://techcrunch.com/2026/02/12/waymo-is-asking-doordash-drivers-to-shut-the-doors-of-its-self-driving-cars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
