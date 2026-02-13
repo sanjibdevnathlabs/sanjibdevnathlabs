@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fintech lending giant Figure confirms data breach](https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/)
+- [Why top talent is walking away from OpenAI and xAI](https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/)
+- [A mystery object is dimming a distant star. Could it be a massive exoplanet, or a &#39;failed star&#39;?](https://www.space.com/astronomy/exoplanets/a-mystery-object-is-dimming-a-distant-star-could-it-be-a-massive-exoplanet-or-a-failed-star)
 - [Sex toys maker Tenga says hacker stole customer information](https://techcrunch.com/2026/02/13/sex-toys-maker-tenga-says-hacker-stole-customer-information/)
 - [Has &#39;Star Trek: Starfleet Academy&#39; just unleashed its very own Khan?](https://www.space.com/entertainment/space-movies-shows/has-star-trek-starfleet-academy-just-unleashed-its-very-own-khan)
-- [Excited for The Mandalorian and Grogu later this year? Walmart is offering an Exclusive preorder price for the Lego New Republic X-Wing Starfighter set](https://www.space.com/entertainment/space-toys-lego/mandalorian-and-grogu-movie-lego-star-wars-walmart-exclusive-preorder-price)
-- [OpenAI removes access to sycophancy-prone GPT-4o model](https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/)
-- [The SEC closed its investigation into Fisker](https://techcrunch.com/2026/02/13/the-sec-closed-its-investigation-into-fisker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
