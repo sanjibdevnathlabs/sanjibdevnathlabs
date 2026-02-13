@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cohere’s $240M year sets stage for IPO](https://techcrunch.com/2026/02/13/coheres-240m-year-sets-stage-for-ipo/)
-- [Artemis 2 rocket photobombs SpaceX Crew-12 | Space photo of the day for Feb. 13, 2026](https://www.space.com/space-exploration/launches-spacecraft/artemis-2-rocket-photobombs-spacex-crew-12-space-photo-of-the-day-for-feb-13-2026)
-- [Meta plans to add facial recognition to its smart glasses, report claims](https://techcrunch.com/2026/02/13/meta-plans-to-add-facial-recognition-to-its-smart-glasses-report-claims/)
-- [Score, the dating app for people with good credit, is back](https://techcrunch.com/2026/02/13/score-the-dating-app-for-good-to-excellent-credit-returns-for-everyone-to-use/)
-- [If the Winter Olympics went interplanetary, where else could you ski in the solar system?](https://www.space.com/astronomy/solar-system/if-the-winter-olympics-went-interplanetary-where-else-could-you-ski-in-the-solar-system)
+- [A Stanford grad student created an algorithm to help his classmates find love; now, Date Drop is the basis of his new startup](https://techcrunch.com/2026/02/13/a-stanford-grad-student-created-an-algorithm-to-help-his-classmates-find-love-now-date-drop-is-the-basis-of-his-new-startup/)
+- [Elon Musk suggests spate of xAI exits have been push, not pull](https://techcrunch.com/2026/02/13/senior-engineers-including-co-founders-exit-xai-amid-controversy/)
+- [Markiplier&#39;s &#39;Iron Lung&#39; is a welcome return to grindhouse sci-fi films of the &#39;90s](https://www.space.com/entertainment/space-movies-shows/markipliers-iron-lung-is-a-welcome-return-to-grindhouse-sci-fi-films-of-the-90s)
+- [Dutch phone giant Odido says millions of customers affected by data breach](https://techcrunch.com/2026/02/13/dutch-phone-giant-odido-says-millions-of-customers-affected-by-data-breach/)
+- [Amazon’s Ring cancels partnership with Flock, a network of AI cameras used by ICE, feds, and police](https://techcrunch.com/2026/02/13/amazons-ring-cancels-partnership-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
