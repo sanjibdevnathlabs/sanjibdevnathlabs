@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sex toys maker Tenga says hacker stole customer information](https://techcrunch.com/2026/02/13/sex-toys-maker-tenga-says-hacker-stole-customer-information/)
 - [Has &#39;Star Trek: Starfleet Academy&#39; just unleashed its very own Khan?](https://www.space.com/entertainment/space-movies-shows/has-star-trek-starfleet-academy-just-unleashed-its-very-own-khan)
 - [Excited for The Mandalorian and Grogu later this year? Walmart is offering an Exclusive preorder price for the Lego New Republic X-Wing Starfighter set](https://www.space.com/entertainment/space-toys-lego/mandalorian-and-grogu-movie-lego-star-wars-walmart-exclusive-preorder-price)
 - [OpenAI removes access to sycophancy-prone GPT-4o model](https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/)
 - [The SEC closed its investigation into Fisker](https://techcrunch.com/2026/02/13/the-sec-closed-its-investigation-into-fisker/)
-- [India partners with Alibaba.com for export push despite past China tech bans](https://techcrunch.com/2026/02/13/india-partners-with-alibaba-com-for-export-push-despite-past-china-tech-bans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
