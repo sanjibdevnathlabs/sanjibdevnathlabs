@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian pharmacy chain giant exposed customer data and internal systems](https://techcrunch.com/2026/02/13/indias-major-pharmacy-chain-exposed-customer-data-and-internal-systems/)
+- [Airbnb plans to bake in AI features for search, discovery and support](https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/)
 - [&#39;The beacons were lit!&#39; Scientists name merging supermassive black holes after &#39;Lord of the Rings&#39; locations](https://www.space.com/astronomy/black-holes/the-beacons-were-lit-scientists-name-merging-supermassive-black-holes-after-lord-of-the-rings-locations)
 - [Airbnb says a third of its customer support is now handled by AI in the US and Canada](https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/)
 - [Fintech lending giant Figure confirms data breach](https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/)
-- [Why top talent is walking away from OpenAI and xAI](https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/)
-- [A mystery object is dimming a distant star. Could it be a massive exoplanet, or a &#39;failed star&#39;?](https://www.space.com/astronomy/exoplanets/a-mystery-object-is-dimming-a-distant-star-could-it-be-a-massive-exoplanet-or-a-failed-star)
 <!-- BLOG-POST-LIST:END -->
 
 ---
