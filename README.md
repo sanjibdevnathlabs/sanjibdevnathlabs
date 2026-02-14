@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 197 — Inside UNOOSA](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-197-inside-unoosa)
+- [Single this Valentine&#39;s Day? Don&#39;t worry, the universe has a rose just for you &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/single-this-valentines-day-dont-worry-the-universe-has-a-rose-just-for-you-photo)
 - [A stellar treat for Valentine&#39;s Day: Heart-shaped outburst stuns astronomers](https://www.space.com/astronomy/stars/a-stellar-treat-for-valentines-day-heart-shaped-outburst-stuns-astronomers)
 - [SpaceX Crew-12 astronauts have a Valentine&#39;s Day date with the space station today. Watch the docking live](https://www.space.com/space-exploration/launches-spacecraft/spacex-crew-12-astronaut-mission-dock-iss)
 - [Nothing opens its first retail store in India](https://techcrunch.com/2026/02/13/nothing-opens-its-first-retail-store-in-india/)
-- [Indian pharmacy chain giant exposed customer data and internal systems](https://techcrunch.com/2026/02/13/indias-major-pharmacy-chain-exposed-customer-data-and-internal-systems/)
-- [Airbnb plans to bake in AI features for search, discovery and support](https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
