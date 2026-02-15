@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump&#39;s Greenland grab is part of a new space race – and the stakes are getting higher](https://www.space.com/astronomy/earth/trumps-greenland-grab-is-part-of-a-new-space-race-and-the-stakes-are-getting-higher)
 - [The &#39;Alien&#39; and &#39;Predator&#39; franchises are on the upswing, so where&#39;s the next &#39;Aliens vs. Predator&#39; game?](https://www.space.com/entertainment/space-games/the-alien-and-predator-franchises-are-on-the-upswing-so-wheres-the-next-aliens-vs-predator-game)
 - [NASA launches twin rocket missions from Alaska to study mysterious black auroras](https://www.space.com/stargazing/auroras/nasa-launches-twin-rocket-missions-from-alaska-to-study-mysterious-black-auroras)
 - [Amazon&#39;s new &#39;Stargate&#39; show raises big questions for the beloved sci-fi universe](https://www.space.com/entertainment/space-movies-shows/amazons-new-stargate-show-raises-big-questions-for-the-beloved-sci-fi-universe)
 - [The great computer science exodus &lpar;and where students are going instead&rpar;](https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/)
-- [Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts](https://techcrunch.com/2026/02/14/homeland-security-reportedly-sent-hundreds-of-subpoenas-seeking-to-unmask-anti-ice-accounts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
