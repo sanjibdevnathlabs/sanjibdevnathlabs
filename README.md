@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenClaw creator Peter Steinberger joins OpenAI](https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/)
 - [Longtime NPR host David Greene sues Google over NotebookLM voice](https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/)
 - [Anthropic and the Pentagon are reportedly arguing over Claude usage](https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/)
 - [India has 100M weekly active ChatGPT users, Sam Altman says](https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/)
 - [The enterprise AI land grab is on. Glean is building the layer beneath the interface.](https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/)
-- [TechCrunch Mobility: Rivian’s savior](https://techcrunch.com/2026/02/15/techcrunch-mobility-rivians-savior/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
