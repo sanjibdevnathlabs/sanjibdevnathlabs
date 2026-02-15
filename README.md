@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [10 open source tools that feel illegal...](https://www.youtube.com/watch?v=Ukt2gVz25PQ)
-- [The wild rise of OpenClaw...](https://www.youtube.com/watch?v=ssYt09bCgUY)
-- [Bun in 100 Seconds](https://www.youtube.com/watch?v=M4TufsFlv_o)
-- [A brief history of programming...](https://www.youtube.com/watch?v=9uW6B9LPntY)
-- [.NET in 100 Seconds](https://www.youtube.com/watch?v=MFsYaRnrcPQ)
+- [Lec 05. Architectures: Graphs](https://www.youtube.com/watch?v=0niIwb37nF0)
+- [Lec 09. Hacker&#39;s Guide to Deep Learning](https://www.youtube.com/watch?v=DC2Hw9DiLCg)
+- [Lec 16. Generative Models: Conditional Models](https://www.youtube.com/watch?v=zaMcHuJwe1w)
+- [Lec 15. Generative Models: Representation Learning Meets Generative Modeling](https://www.youtube.com/watch?v=8zzfcYIELdo)
+- [Lec 04. Architectures: Grids](https://www.youtube.com/watch?v=bxVkZ4M-hIE)
 <!-- YOUTUBE:END -->
 
 ---
