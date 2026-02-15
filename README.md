@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA launches twin rocket missions from Alaska to study mysterious black auroras](https://www.space.com/stargazing/auroras/nasa-launches-twin-rocket-missions-from-alaska-to-study-mysterious-black-auroras)
 - [Amazon&#39;s new &#39;Stargate&#39; show raises big questions for the beloved sci-fi universe](https://www.space.com/entertainment/space-movies-shows/amazons-new-stargate-show-raises-big-questions-for-the-beloved-sci-fi-universe)
 - [The great computer science exodus &lpar;and where students are going instead&rpar;](https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/)
 - [Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts](https://techcrunch.com/2026/02/14/homeland-security-reportedly-sent-hundreds-of-subpoenas-seeking-to-unmask-anti-ice-accounts/)
 - [Is safety ‘dead’ at xAI?](https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/)
-- [In a changed VC landscape, this exec is doubling down on overlooked founders](https://techcrunch.com/2026/02/14/stacy-brown-philpot-cherryrock-capital-vc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
