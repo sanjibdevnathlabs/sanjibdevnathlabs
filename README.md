@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trump&#39;s Greenland grab is part of a new space race – and the stakes are getting higher](https://www.space.com/astronomy/earth/trumps-greenland-grab-is-part-of-a-new-space-race-and-the-stakes-are-getting-higher)
-- [The &#39;Alien&#39; and &#39;Predator&#39; franchises are on the upswing, so where&#39;s the next &#39;Aliens vs. Predator&#39; game?](https://www.space.com/entertainment/space-games/the-alien-and-predator-franchises-are-on-the-upswing-so-wheres-the-next-aliens-vs-predator-game)
-- [NASA launches twin rocket missions from Alaska to study mysterious black auroras](https://www.space.com/stargazing/auroras/nasa-launches-twin-rocket-missions-from-alaska-to-study-mysterious-black-auroras)
-- [Amazon&#39;s new &#39;Stargate&#39; show raises big questions for the beloved sci-fi universe](https://www.space.com/entertainment/space-movies-shows/amazons-new-stargate-show-raises-big-questions-for-the-beloved-sci-fi-universe)
-- [The great computer science exodus &lpar;and where students are going instead&rpar;](https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/)
+- [TechCrunch Mobility: Rivian’s savior](https://techcrunch.com/2026/02/15/techcrunch-mobility-rivians-savior/)
+- [What the Epstein files reveal about EV startups and Silicon Valley](https://techcrunch.com/2026/02/15/what-the-epstein-files-reveal-about-ev-startups-and-silicon-valley/)
+- [From Soyuz to the stars: A Roscosmos trivia quiz](https://www.space.com/space-exploration/launches-spacecraft/from-soyuz-to-the-stars-a-roscosmos-trivia-quiz)
+- [How to get into a16z’s super-competitive Speedrun startup accelerator program](https://techcrunch.com/2026/02/15/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/)
+- [Hollywood isn’t happy about the new Seedance 2.0 video generator](https://techcrunch.com/2026/02/15/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
