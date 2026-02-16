@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This giant metal dome will hide a truly colossal telescope mirror | Space photo of the day for Feb. 16, 2026](https://www.space.com/astronomy/this-giant-metal-dome-will-hide-a-truly-colossal-telescope-mirror-space-photo-of-the-day-for-feb-16-2026)
+- [Five new Mandalorian-themed sets are coming soon from Lego](https://www.space.com/entertainment/space-toys-lego/five-new-mandalorian-themed-sets-are-coming-soon-from-lego)
 - [Flapping Airplanes on the future of AI: ‘We want to try really radically different things’](https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/)
+- [Scientists hunt for origins of the mysterious &#39;sun goddess&#39; particle](https://www.space.com/science/particle-physics/scientists-hunt-for-origins-of-the-mysterious-sun-goddess-particle)
 - [After all the hype, some AI experts don’t think OpenClaw is all that exciting](https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/)
-- [&#39;Fully unlocking the orbital economy&#39;: California company will fly astronauts to the space station in 2027](https://www.space.com/space-exploration/human-spaceflight/fully-unlocking-the-orbital-economy-california-company-will-fly-astronauts-to-the-space-station-in-2027)
-- [Fractal Analytics’ muted IPO debut signals persistent AI fears in India](https://techcrunch.com/2026/02/16/fractal-analytics-muted-ipo-debut-signals-persistent-ai-fears-in-india/)
-- [All the important news from the ongoing India AI Impact Summit](https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
