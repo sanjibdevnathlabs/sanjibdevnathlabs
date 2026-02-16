@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why don&#39;t more Tatooine-like exoplanets exist in our Milky Way galaxy? Astronomers might have an answer](https://www.space.com/astronomy/exoplanets/why-dont-more-tatooine-like-exoplanets-exist-in-our-milky-way-galaxy-astronomers-might-have-an-answer)
 - [Astronomers discover chemicals that could seed life in the core of a developing star](https://www.space.com/astronomy/stars/astronomers-discover-chemicals-that-could-seed-life-in-the-core-of-a-developing-star)
 - [Comet C/2024 E1 Wierzchos makes its closest approach to Earth tomorrow: Here&#39;s what you need to know](https://www.space.com/stargazing/comet-c-2024-e1-wierzchos-makes-its-closest-approach-to-earth-tomorrow-heres-what-you-need-to-know)
 - [Have money, will travel: a16z’s hunt for the next European unicorn](https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/)
 - [How Ricursive Intelligence raised $335M at a $4B valuation in 4 months](https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/)
-- [Wormholes may not exist – we&#39;ve found they reveal something deeper about time and the universe](https://www.space.com/astronomy/wormholes-may-not-exist-weve-found-they-reveal-something-deeper-about-time-and-the-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
