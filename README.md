@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Ricursive Intelligence raised $335M at a $4B valuation in 4 months](https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/)
+- [Wormholes may not exist – we&#39;ve found they reveal something deeper about time and the universe](https://www.space.com/astronomy/wormholes-may-not-exist-weve-found-they-reveal-something-deeper-about-time-and-the-universe)
 - [How astronomers are unveiling the &#39;skeleton&#39; of the universe](https://www.space.com/astronomy/dark-universe/how-astronomers-are-unveiling-the-skeleton-of-the-universe)
 - [Double delivery: SpaceX sends Starlink satellites into orbit on launches from California and Florida](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-13-b1081-vsfb-ocisly-6-103-b1090-ccsfs-asfog)
 - [This giant metal dome will hide a truly colossal telescope mirror | Space photo of the day for Feb. 16, 2026](https://www.space.com/astronomy/this-giant-metal-dome-will-hide-a-truly-colossal-telescope-mirror-space-photo-of-the-day-for-feb-16-2026)
-- [Five new Mandalorian-themed sets are coming soon from Lego](https://www.space.com/entertainment/space-toys-lego/five-new-mandalorian-themed-sets-are-coming-soon-from-lego)
-- [Flapping Airplanes on the future of AI: ‘We want to try really radically different things’](https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
