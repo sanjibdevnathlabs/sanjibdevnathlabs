@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [All the important news from the ongoing India AI Impact Summit](https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/)
+- [What time is the annular solar eclipse on Feb. 17?](https://www.space.com/stargazing/solar-eclipses/what-time-is-the-annular-solar-eclipse-on-feb-17)
 - [African defensetech Terra Industries, founded by two Gen Zers, raises additional $22M in a month](https://techcrunch.com/2026/02/16/terra-industries-raises-22-million/)
 - [As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck](https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/)
 - [Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure](https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/)
-- [OpenClaw creator Peter Steinberger joins OpenAI](https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/)
-- [Longtime NPR host David Greene sues Google over NotebookLM voice](https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
