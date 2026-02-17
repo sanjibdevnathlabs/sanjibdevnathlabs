@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Artemis 1 moon mission had a heat shield issue. Here’s why NASA doesn’t think it will happen again on Artemis 2](https://www.space.com/space-exploration/artemis/the-artemis-1-moon-mission-had-a-heat-shield-issue-heres-why-nasa-doesnt-think-it-will-happen-again-on-artemis-2)
-- [Cohere launches a family of open multilingual models](https://techcrunch.com/2026/02/17/cohere-launches-a-family-of-open-multilingual-models/)
-- [Annular solar eclipse turns the sun into a dramatic &#39;ring of fire&#39; today! Here&#39;s what you need to know](https://www.space.com/stargazing/solar-eclipses/annular-solar-eclipse-turns-the-sun-into-a-dramatic-ring-of-fire-today-heres-what-you-need-to-know)
-- [Why don&#39;t more Tatooine-like exoplanets exist in our Milky Way galaxy? Astronomers might have an answer](https://www.space.com/astronomy/exoplanets/why-dont-more-tatooine-like-exoplanets-exist-in-our-milky-way-galaxy-astronomers-might-have-an-answer)
-- [Astronomers discover chemicals that could seed life in the core of a developing star](https://www.space.com/astronomy/stars/astronomers-discover-chemicals-that-could-seed-life-in-the-core-of-a-developing-star)
+- [SpendRule raises $2M, emerges from stealth to help hospitals track spending](https://techcrunch.com/2026/02/17/spendrule-raises-2-million-emerges-from-stealth-to-help-hospitals-track-spending/)
+- [Just 8 months in, India’s vibe-coding startup Emergent claims ARR of over $100M](https://techcrunch.com/2026/02/17/emergent-hits-100m-arr-eight-months-after-launch-rolls-out-mobile-app/)
+- [From Ariane to ExoMars: The ultimate ESA trivia challenge](https://www.space.com/space-exploration/launches-spacecraft/from-ariane-to-exomars-the-ultimate-esa-trivia-challenge)
+- [Adani pledges $100B to build AI data centers as India seeks bigger role in the global AI race](https://techcrunch.com/2026/02/17/adani-pledges-100b-for-ai-data-centers-as-india-seeks-bigger-role-in-global-ai/)
+- [Airbnb expands its “Reserve Now, Pay Later” globally](https://techcrunch.com/2026/02/17/airbnb-expands-its-reserve-now-pay-later-globally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
