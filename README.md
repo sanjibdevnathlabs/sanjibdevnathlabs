@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [Digital Signal Processing With Audio Data - Computerphile](https://www.youtube.com/watch?v=zuZBkTNrv0g)
-- [I Tried running in 3D printed shoes](https://www.youtube.com/watch?v=9LjgqZ2wP0g)
-- [10 open source tools that feel illegal...](https://www.youtube.com/watch?v=Ukt2gVz25PQ)
 - [Network Basics - Transport Layer and User Datagram Protocol Explained - Computerphile](https://www.youtube.com/watch?v=ihvbhwGblQg)
-- [I DDoS&#39;d myself &lpar;don&#39;t do this&rpar;](https://www.youtube.com/shorts/acSlR6UD6yM)
+- [Generating 3D Models with Diffusion - Computerphile](https://www.youtube.com/watch?v=C1E500opYHA)
+- [Implementing Passkeys in Practice - Computerphile](https://www.youtube.com/watch?v=lypcC79k-gg)
+- [LLMs and Newcomb&#39;s Problem - Computerphile](https://www.youtube.com/watch?v=bdbhKoypnFI)
 <!-- YOUTUBE:END -->
 
 ---
