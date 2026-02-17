@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [7 AI updates breaking the SaaS business model...](https://www.youtube.com/watch?v=cxcb55zr2Q8)
 - [Generative AI and Science Photography](https://www.youtube.com/watch?v=0I8S6diyDjw)
 - [How a Software Developer Becomes DevOps in 6 Months](https://www.youtube.com/shorts/nGMpNxEqsGE)
 - [Lec 05. Architectures: Graphs](https://www.youtube.com/watch?v=0niIwb37nF0)
 - [Lec 09. Hacker&#39;s Guide to Deep Learning](https://www.youtube.com/watch?v=DC2Hw9DiLCg)
-- [Lec 16. Generative Models: Conditional Models](https://www.youtube.com/watch?v=zaMcHuJwe1w)
 <!-- YOUTUBE:END -->
 
 ---
