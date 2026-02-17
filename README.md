@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpendRule raises $2M, emerges from stealth to help hospitals track spending](https://techcrunch.com/2026/02/17/spendrule-raises-2-million-emerges-from-stealth-to-help-hospitals-track-spending/)
-- [Just 8 months in, India’s vibe-coding startup Emergent claims ARR of over $100M](https://techcrunch.com/2026/02/17/emergent-hits-100m-arr-eight-months-after-launch-rolls-out-mobile-app/)
-- [From Ariane to ExoMars: The ultimate ESA trivia challenge](https://www.space.com/space-exploration/launches-spacecraft/from-ariane-to-exomars-the-ultimate-esa-trivia-challenge)
-- [Adani pledges $100B to build AI data centers as India seeks bigger role in the global AI race](https://techcrunch.com/2026/02/17/adani-pledges-100b-for-ai-data-centers-as-india-seeks-bigger-role-in-global-ai/)
-- [Airbnb expands its “Reserve Now, Pay Later” globally](https://techcrunch.com/2026/02/17/airbnb-expands-its-reserve-now-pay-later-globally/)
+- [Chinese astronauts filmmusic video in space to celebrate Lunar New Year 2026](https://www.space.com/astronomy/moon/chinese-astronauts-celebrate-lunar-new-year-2026-by-filming-music-video-on-tiangong-space-station)
+- [Apple Podcasts is getting an enhanced video experience this spring](https://techcrunch.com/2026/02/17/apple-podcasts-is-getting-an-enhanced-video-experience-this-spring/)
+- [Lasers beam &#39;artificial stars&#39; above Chile | Space photo of the day for Feb. 17, 2026](https://www.space.com/astronomy/lasers-beam-artificial-stars-above-chile-space-photo-of-the-day-for-feb-17-2026)
+- [Here are the 17 US-based AI companies that have raised $100m or more in 2026](https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/)
+- [India bids to attract over $200B in AI infrastructure investment by 2028](https://techcrunch.com/2026/02/17/india-bids-to-attract-over-200b-in-ai-infrastructure-investment-by-2028/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
