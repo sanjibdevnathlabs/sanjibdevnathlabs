@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Did a titanic moon crash create Saturn&#39;s iconic rings?](https://www.space.com/astronomy/saturn/did-a-titanic-moon-crash-create-saturns-iconic-rings)
 - [1st trailer for &#39;The Mandalorian and Grogu&#39; teases &#39;Clone Wars&#39; bounty hunter Embo and a whole lot of Hutts](https://www.space.com/entertainment/space-movies-shows/1st-trailer-for-the-mandalorian-and-grogu-teases-of-clone-wars-bounty-hunter-embo-and-a-whole-lot-of-hutts)
 - [Meta’s own research found parental supervision doesn’t really help curb teens’ compulsive social media use](https://techcrunch.com/2026/02/17/metas-own-research-found-parental-supervision-doesnt-really-help-curb-teens-compulsive-social-media-use/)
 - [Apple is reportedly cooking up a trio of AI wearables](https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/)
 - [Thrive raises $10B for new fund, its largest yet](https://techcrunch.com/2026/02/17/thrive-raises-10b-for-new-fund-its-largest-yet/)
-- [Planets, constellations and more: Here&#39;s what to look out for around the new moon on Feb. 17](https://www.space.com/stargazing/planets-constellations-and-more-heres-what-to-look-out-for-around-the-new-moon-on-feb-17)
 <!-- BLOG-POST-LIST:END -->
 
 ---
