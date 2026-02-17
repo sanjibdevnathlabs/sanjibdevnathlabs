@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Artemis 1 moon mission had a heat shield issue. Here’s why NASA doesn’t think it will happen again on Artemis 2](https://www.space.com/space-exploration/artemis/the-artemis-1-moon-mission-had-a-heat-shield-issue-heres-why-nasa-doesnt-think-it-will-happen-again-on-artemis-2)
 - [Cohere launches a family of open multilingual models](https://techcrunch.com/2026/02/17/cohere-launches-a-family-of-open-multilingual-models/)
 - [Annular solar eclipse turns the sun into a dramatic &#39;ring of fire&#39; today! Here&#39;s what you need to know](https://www.space.com/stargazing/solar-eclipses/annular-solar-eclipse-turns-the-sun-into-a-dramatic-ring-of-fire-today-heres-what-you-need-to-know)
 - [Why don&#39;t more Tatooine-like exoplanets exist in our Milky Way galaxy? Astronomers might have an answer](https://www.space.com/astronomy/exoplanets/why-dont-more-tatooine-like-exoplanets-exist-in-our-milky-way-galaxy-astronomers-might-have-an-answer)
 - [Astronomers discover chemicals that could seed life in the core of a developing star](https://www.space.com/astronomy/stars/astronomers-discover-chemicals-that-could-seed-life-in-the-core-of-a-developing-star)
-- [Comet C/2024 E1 Wierzchos makes its closest approach to Earth tomorrow: Here&#39;s what you need to know](https://www.space.com/stargazing/comet-c-2024-e1-wierzchos-makes-its-closest-approach-to-earth-tomorrow-heres-what-you-need-to-know)
 <!-- BLOG-POST-LIST:END -->
 
 ---
