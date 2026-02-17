@@ -134,7 +134,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [7 AI updates breaking the SaaS business model...](https://www.youtube.com/watch?v=cxcb55zr2Q8)
+- [How AI is breaking the SaaS business model...](https://www.youtube.com/watch?v=cxcb55zr2Q8)
 - [Generative AI and Science Photography](https://www.youtube.com/watch?v=0I8S6diyDjw)
 - [How a Software Developer Becomes DevOps in 6 Months](https://www.youtube.com/shorts/nGMpNxEqsGE)
 - [Lec 05. Architectures: Graphs](https://www.youtube.com/watch?v=0niIwb37nF0)
