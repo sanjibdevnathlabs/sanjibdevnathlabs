@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Chinese astronauts filmmusic video in space to celebrate Lunar New Year 2026](https://www.space.com/astronomy/moon/chinese-astronauts-celebrate-lunar-new-year-2026-by-filming-music-video-on-tiangong-space-station)
-- [Apple Podcasts is getting an enhanced video experience this spring](https://techcrunch.com/2026/02/17/apple-podcasts-is-getting-an-enhanced-video-experience-this-spring/)
-- [Lasers beam &#39;artificial stars&#39; above Chile | Space photo of the day for Feb. 17, 2026](https://www.space.com/astronomy/lasers-beam-artificial-stars-above-chile-space-photo-of-the-day-for-feb-17-2026)
-- [Here are the 17 US-based AI companies that have raised $100m or more in 2026](https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/)
-- [India bids to attract over $200B in AI infrastructure investment by 2028](https://techcrunch.com/2026/02/17/india-bids-to-attract-over-200b-in-ai-infrastructure-investment-by-2028/)
+- [Running AI models is turning into a memory game](https://techcrunch.com/2026/02/17/running-ai-models-is-turning-into-a-memory-game/)
+- [European Parliament blocks AI on lawmakers’ devices, citing security risks](https://techcrunch.com/2026/02/17/european-parliament-blocks-ai-on-lawmakers-devices-citing-security-risks/)
+- [WordPress.com adds an AI Assistant that can edit, adjust styles, create images, and more](https://techcrunch.com/2026/02/17/wordpress-com-adds-an-ai-assistant-that-can-edit-adjust-styles-create-images-and-more/)
+- [These are the countries moving to ban social media for children](https://techcrunch.com/2026/02/17/social-media-ban-children-countries-list/)
+- [Amazon Fire TV’s new interface is now rolling out in the US](https://techcrunch.com/2026/02/17/amazon-fire-tvs-new-interface-is-now-rolling-out-in-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
