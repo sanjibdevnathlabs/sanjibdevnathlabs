@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic releases Sonnet 4.6](https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/)
+- [&#39;Predator: Badlands&#39; director Dan Trachtenberg talks hidden Easter eggs, deleted scenes, and if he&#39;s sticking around for more sequels &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/predator-badlands-director-dan-trachtenberg-talks-hidden-easter-eggs-deleted-scenes-and-if-hes-sticking-around-for-more-sequels-interview)
 - [Mistral AI buys Koyeb in first acquisition to back its cloud ambitions](https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/)
 - [NASA will fuel up its Artemis 2 moon rocket for the 2nd time on Feb. 19. Will it leak again?](https://www.space.com/space-exploration/artemis/nasa-will-fuel-up-its-artemis-2-moon-rocket-for-the-2nd-time-on-feb-19-will-it-leak-again)
 - [SpaceX vets raise $50M Series A for data center links](https://techcrunch.com/2026/02/17/spacex-vets-raise-50m-series-a-for-data-center-links/)
-- [Running AI models is turning into a memory game](https://techcrunch.com/2026/02/17/running-ai-models-is-turning-into-a-memory-game/)
-- [European Parliament blocks AI on lawmakers’ devices, citing security risks](https://techcrunch.com/2026/02/17/european-parliament-blocks-ai-on-lawmakers-devices-citing-security-risks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
