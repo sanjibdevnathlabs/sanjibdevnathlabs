@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacking conference Def Con bans three people linked to Epstein](https://techcrunch.com/2026/02/18/hacking-conference-def-con-bans-three-people-linked-to-epstein/)
+- [James Webb Space Telescope spots a stunning &#39;cosmic jellyfish&#39; solve the mysteries of galactic evolution &lpar;photo&rpar;](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-spots-a-stunning-cosmic-jellyfish-solve-the-mysteries-of-galactic-evolution-photo)
 - [Is your startup’s check engine light on? Google Cloud’s VP explains what to do](https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/)
 - [&#39;Good Luck, Have Fun, Don&#39;t Die&#39; feels like &#39;12 Monkeys&#39; meets &#39;Shaun of the Dead&#39; and a whole lot of AI dread &lpar;review&rpar;](https://www.space.com/entertainment/space-movies-shows/good-luck-have-fun-dont-die-feels-like-12-monkeys-meets-shaun-of-the-dead-and-a-whole-lot-of-ai-dread)
 - [A startup called Germ becomes the first private messenger that launches directly from Bluesky’s app](https://techcrunch.com/2026/02/18/a-startup-called-germ-becomes-the-first-private-messenger-that-launches-directly-from-blueskys-app/)
-- [See the moon&#39;s shadow darken Antarctica in epic satellite imagery of the Feb. 17 solar eclipse &lpar;video&rpar;](https://www.space.com/stargazing/solar-eclipses/see-the-moons-shadow-darken-antarctica-in-epic-satellite-imagery-of-the-feb-17-solar-eclipse-video)
-- [SeatGeek and Spotify team up to offer concert ticket sales inside the music platform](https://techcrunch.com/2026/02/18/seatgeek-and-spotify-team-up-to-offer-concert-ticket-sales-inside-the-music-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
