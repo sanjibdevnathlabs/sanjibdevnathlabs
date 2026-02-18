@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the moon&#39;s shadow darken Antarctica in epic satellite imagery of the Feb. 17 solar eclipse &lpar;video&rpar;](https://www.space.com/stargazing/solar-eclipses/see-the-moons-shadow-darken-antarctica-in-epic-satellite-imagery-of-the-feb-17-solar-eclipse-video)
+- [SeatGeek and Spotify team up to offer concert ticket sales inside the music platform](https://techcrunch.com/2026/02/18/seatgeek-and-spotify-team-up-to-offer-concert-ticket-sales-inside-the-music-platform/)
+- [SpaceX will resume landing rockets in The Bahamas after raining debris on the country last year](https://www.space.com/space-exploration/launches-spacecraft/spacex-resume-rocket-landings-bahamas-after-starship-mishap-debris)
 - [Amazon halts Blue Jay robotics project after less than six months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/)
 - [Mastodon, a decentralized alternative to X, plans to target creators with new features](https://techcrunch.com/2026/02/18/mastodon-a-decentralized-alternative-to-x-plans-to-target-creators-with-new-features/)
-- [Data breach at fintech giant Figure affects close to a million customers](https://techcrunch.com/2026/02/18/data-breach-at-fintech-giant-figure-affects-close-to-a-million-customers/)
-- [World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows](https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/)
-- [New fear unlocked: runaway black holes](https://www.space.com/astronomy/black-holes/new-fear-unlocked-runaway-black-holes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
