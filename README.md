@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google debuts $499 Pixel 10a](https://techcrunch.com/2026/02/18/google-debuts-499-pixel-10a/)
-- [Audible’s new ‘Read &amp; Listen’ feature syncs your Kindle ebooks with audiobooks](https://techcrunch.com/2026/02/18/audibles-new-read-listen-feature-syncs-your-kindle-ebooks-with-audiobooks/)
-- [X continues to bet on vertical video with its latest update](https://techcrunch.com/2026/02/18/x-continues-to-bet-on-vertical-video-with-its-latest-update/)
-- [Snapchat+ tops 25M subscribers, driving company’s direct revenue ARR to $1B](https://techcrunch.com/2026/02/18/snapchat-tops-25m-subscribers-driving-companys-direct-revenue-arr-to-1b/)
-- [Google adds music-generation capabilities to the Gemini app](https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/)
+- [Amazon halts Blue Jay robotics project after less than six months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/)
+- [Mastodon, a decentralized alternative to X, plans to target creators with new features](https://techcrunch.com/2026/02/18/mastodon-a-decentralized-alternative-to-x-plans-to-target-creators-with-new-features/)
+- [Data breach at fintech giant Figure affects close to a million customers](https://techcrunch.com/2026/02/18/data-breach-at-fintech-giant-figure-affects-close-to-a-million-customers/)
+- [World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows](https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/)
+- [New fear unlocked: runaway black holes](https://www.space.com/astronomy/black-holes/new-fear-unlocked-runaway-black-holes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
