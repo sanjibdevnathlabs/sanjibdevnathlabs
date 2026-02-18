@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DG Matrix raises $60M to make data center power smarter](https://techcrunch.com/2026/02/18/dg-matrix-raises-60m-to-make-data-center-power-smarter/)
 - [Elon Musk wants to put a satellite catapult on the moon. It&#39;s not a new idea](https://www.space.com/astronomy/moon/elon-musk-wants-to-put-a-satellite-catapult-on-the-moon-its-not-a-new-idea)
 - [These are the best third-party camera lenses we recommend for astrophotography in 2026](https://www.space.com/stargazing/skywatching-kit/these-are-the-best-third-party-lenses-wed-recommend-for-astrophotography)
 - [U.S. court bars OpenAI from using ‘Cameo’](https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/)
 - [Tesla dodges 30-day suspension in California after removing ‘Autopilot’](https://techcrunch.com/2026/02/17/tesla-dodges-30-day-suspension-in-california-after-removing-autopilot/)
-- [Intellexa’s Predator spyware used to hack iPhone of journalist in Angola, research says](https://techcrunch.com/2026/02/17/intellexas-predator-spyware-used-to-hack-iphone-of-journalist-in-angola-research-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
