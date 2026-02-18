@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google debuts $499 Pixel 10a](https://techcrunch.com/2026/02/18/google-debuts-499-pixel-10a/)
 - [Audible’s new ‘Read &amp; Listen’ feature syncs your Kindle ebooks with audiobooks](https://techcrunch.com/2026/02/18/audibles-new-read-listen-feature-syncs-your-kindle-ebooks-with-audiobooks/)
 - [X continues to bet on vertical video with its latest update](https://techcrunch.com/2026/02/18/x-continues-to-bet-on-vertical-video-with-its-latest-update/)
 - [Snapchat+ tops 25M subscribers, driving company’s direct revenue ARR to $1B](https://techcrunch.com/2026/02/18/snapchat-tops-25m-subscribers-driving-companys-direct-revenue-arr-to-1b/)
 - [Google adds music-generation capabilities to the Gemini app](https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/)
-- [Kana emerges from stealth with $15M to build flexible AI agents for marketers](https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
