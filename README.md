@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Canva gets to $4B in revenue as LLM referral traffic rises](https://techcrunch.com/2026/02/18/canva-gets-to-4b-in-revenue-as-llm-referral-traffic-rises/)
-- [World Labs lands $200M from Autodesk to bring world models into 3D workflows](https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/)
-- [India’s Sarvam wants to bring its AI models to feature phones, cars and smart glasses](https://techcrunch.com/2026/02/18/indias-sarvam-wants-to-bring-its-ai-models-to-feature-phones-cars-and-smart-glasses/)
-- [Heron Power raises $140M to ramp production of grid-altering tech](https://techcrunch.com/2026/02/18/heron-power-raises-140m-to-ramp-production-of-grid-altering-tech/)
-- [Scientists may have found a &#39;missing-link&#39; black hole ripping up and devouring a star](https://www.space.com/astronomy/black-holes/scientists-may-have-found-a-missing-link-black-hole-ripping-up-and-devouring-a-star)
+- [Kana emerges from stealth with $15M to build flexible AI agents for marketers](https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/)
+- [This former Microsoft PM thinks she can unseat CyberArk in 18 months](https://techcrunch.com/2026/02/18/the-former-microsoft-pm-who-thinks-she-can-unseat-cyberark-in-18-months/)
+- [SpaceX Falcon 9 rocket plume blossoms over Florida | Space photo of the day for Feb. 18, 2026](https://www.space.com/space-exploration/spacex-falcon-9-rocket-plume-blossoms-over-florida-space-photo-of-the-day-for-feb-18-2026)
+- [Best premium skywatching gear you should consider in 2026](https://www.space.com/stargazing/skywatching-kit/best-premium-skywatching-gear-you-should-consider)
+- [Microsoft says Office bug exposed customers’ confidential emails to Copilot AI](https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
