@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [I Tried running in 3D printed shoes](https://www.youtube.com/watch?v=9LjgqZ2wP0g)
-- [I DDoS&#39;d myself &lpar;don&#39;t do this&rpar;](https://www.youtube.com/shorts/acSlR6UD6yM)
-- [this NEW setting Locks Down WhatsApp](https://www.youtube.com/shorts/NfG_yQ4RpyI)
-- [The Dark Web isn&#39;t what you think](https://www.youtube.com/shorts/9lWDK_6FTjo)
-- [I gave Claude Code a phone number #claudecode](https://www.youtube.com/shorts/mQQgB6VK_m4)
+- [Generative AI and Science Photography](https://www.youtube.com/watch?v=0I8S6diyDjw)
+- [Lec 05. Architectures: Graphs](https://www.youtube.com/watch?v=0niIwb37nF0)
+- [Lec 09. Hacker&#39;s Guide to Deep Learning](https://www.youtube.com/watch?v=DC2Hw9DiLCg)
+- [Lec 16. Generative Models: Conditional Models](https://www.youtube.com/watch?v=zaMcHuJwe1w)
+- [Lec 15. Generative Models: Representation Learning Meets Generative Modeling](https://www.youtube.com/watch?v=8zzfcYIELdo)
 <!-- YOUTUBE:END -->
 
 ---
