@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best cheap drone for beginners is now at its lowest-ever price on Amazon: Save 34% on the Potensic Atom SE](https://www.space.com/technology/drones/the-best-cheap-drone-for-beginners-is-now-at-its-lowest-ever-price-on-amazon-save-34-percent)
+- [Meta is shutting down Messenger’s standalone website](https://techcrunch.com/2026/02/19/meta-is-shutting-down-messengers-standalone-website/)
+- [AI helps find new clues in the 60-year search for Luna 9, the 1st successful moon lander](https://www.space.com/astronomy/moon/ai-helps-find-new-clues-in-the-60-year-search-for-luna-9-the-1st-successful-moon-lander)
+- [New York hits the brakes on robotaxi expansion plan](https://techcrunch.com/2026/02/19/new-york-hits-the-brakes-on-robotaxi-expansion-plan/)
 - [Zuckerberg grilled in court over social media harms on teens](https://techcrunch.com/2026/02/19/zuckerberg-grilled-in-court-over-social-media-harms-on-teens/)
-- [SoftBank to spend an eye-popping $33B to build huge U.S. gas power plant](https://techcrunch.com/2026/02/19/softbank-to-spend-an-eye-popping-33b-to-build-huge-u-s-gas-power-plant/)
-- [Watch SpaceX land a rocket in The Bahamas for the 2nd time ever today](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-land-a-rocket-in-the-bahamas-for-the-2nd-time-ever-today)
-- [OpenAI reportedly finalizing $100B deal at more than $850B valuation](https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/)
-- [Current is a new RSS reader that’s more like a river than an inbox](https://techcrunch.com/2026/02/19/current-is-a-new-rss-reader-thats-more-like-a-river-than-an-inbox/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
