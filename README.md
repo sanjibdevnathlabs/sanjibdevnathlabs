@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The James Webb Space Telescope just mapped auroras on Uranus in 3D for the 1st time, and scientists are thrilled](https://www.space.com/astronomy/james-webb-space-telescope/the-james-webb-space-telescope-just-mapped-auroras-on-uranus-in-3d-for-the-1st-time-and-scientists-are-thrilled)
+- [FBI says ATM ‘jackpotting’ attacks are on the rise, and netting hackers millions in stolen cash](https://techcrunch.com/2026/02/19/fbi-says-atm-jackpotting-attacks-are-on-the-rise-and-netting-hackers-millions-in-stolen-cash/)
+- [At a critical moment, Snap loses a top Specs exec](https://techcrunch.com/2026/02/19/at-a-critical-moment-snap-loses-a-top-specs-exec/)
 - [Second and last chance for innovators to win scaling perks: Belden extends nomination window](https://techcrunch.com/2026/02/19/second-and-last-chance-for-innovators-to-win-scaling-perks-belden-extends-nomination-window/)
 - [&#39;We almost did have a really terrible day.&#39; NASA now says Boeing&#39;s 1st Starliner astronaut flight was a &#39;Type A mishap&#39;](https://www.space.com/space-exploration/human-spaceflight/we-almost-did-have-a-really-terrible-day-nasa-now-says-boeings-1st-starliner-astronaut-flight-was-a-type-a-mishap)
-- [Cellebrite cut off Serbia citing abuse of its phone unlocking tools. Why not others?](https://techcrunch.com/2026/02/19/cellebrite-cut-off-serbia-citing-abuse-of-its-phone-unlocking-tools-why-not-others/)
-- [Scientists measure air pollution from reentering SpaceX rocket in real-time: &#39;It&#39;s never been done before&#39;](https://www.space.com/space-exploration/launches-spacecraft/scientists-measure-air-pollution-from-reentering-spacex-rocket-in-real-time-its-never-been-done-before)
-- [Google says its AI systems helped deter Play Store malware in 2025](https://techcrunch.com/2026/02/19/google-says-its-ai-systems-helped-deter-play-store-malware-in-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
