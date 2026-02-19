@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble telescope discovers rare galaxy that is 99% dark matter](https://www.space.com/astronomy/dark-universe/hubble-telescope-discovers-rare-galaxy-that-is-99-percent-dark-matter)
-- [The boys’ club no one was supposed to write about](https://techcrunch.com/2026/02/19/the-boys-club-no-one-was-supposed-to-write-about/)
-- [SpaceX’s Starbase city is getting its own court](https://techcrunch.com/2026/02/19/spacexs-starbase-city-is-getting-its-own-court/)
-- [See a razor-thin crescent moon shine with Saturn after sunset on Feb. 19](https://www.space.com/stargazing/see-a-razor-thin-crescent-moon-shine-with-saturn-after-sunset-on-feb-19)
-- [As browser wars heat up, Chrome adds new productivity features](https://techcrunch.com/2026/02/19/as-browser-wars-heat-up-chrome-adds-new-productivity-features/)
+- [An AI data center boom is fueling Redwood’s energy storage business](https://techcrunch.com/2026/02/19/an-ai-data-center-boom-is-fueling-redwoods-energy-storage-business/)
+- [Jason Momoa will be serving out cups of Liber-Tea as he joins the Helldivers movie](https://www.space.com/entertainment/space-movies-shows/jason-momoa-will-be-serving-out-cups-of-liber-tea-as-he-joins-the-helldivers-movie)
+- [Why these startup CEOs don’t think AI will replace human roles](https://techcrunch.com/2026/02/19/web-summit-qatar-read-ai-lucidya-notetakers-customer-support/)
+- [YouTube’s latest experiment brings its conversational AI tool to TVs](https://techcrunch.com/2026/02/19/youtubes-latest-experiment-brings-its-conversational-ai-tool-to-tvs/)
+- [Toyota hires seven Agility humanoid robots for Canadian factory](https://techcrunch.com/2026/02/19/toyota-hires-seven-agility-humanoid-robots-for-canadian-factory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
