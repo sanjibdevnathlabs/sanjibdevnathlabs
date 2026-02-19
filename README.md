@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This VC’s best advice for building a founding team](https://techcrunch.com/2026/02/19/this-vcs-best-advice-for-building-a-founding-team/)
+- [Reliance unveils $110B AI investment plan as India ramps up tech ambitions](https://techcrunch.com/2026/02/19/reliance-unveils-110b-ai-investment-plan-as-india-ramps-up-tech-ambitions/)
 - [NASA hopes to avoid more hydrogen leaks during 2nd Artemis 2 rocket fueling test today: Watch live](https://www.space.com/space-exploration/artemis/nasa-hopes-to-avoid-more-hydrogen-leaks-during-2nd-artemis-2-rocket-fueling-test-today-watch-live)
 - [OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW](https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/)
 - [OpenAI deepens India push with Pine Labs fintech partnership](https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/)
-- [Etsy sells secondhand clothing marketplace Depop to eBay for $1.2B](https://techcrunch.com/2026/02/18/etsy-sells-secondhand-clothing-marketplace-depop-to-ebay-for-1-2b/)
-- [Hacking conference Def Con bans three people linked to Epstein](https://techcrunch.com/2026/02/18/hacking-conference-def-con-bans-three-people-linked-to-epstein/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
