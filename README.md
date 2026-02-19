@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See a razor-thin crescent moon shine with Saturn after sunset on Feb. 19](https://www.space.com/stargazing/see-a-razor-thin-crescent-moon-shine-with-saturn-after-sunset-on-feb-19)
 - [As browser wars heat up, Chrome adds new productivity features](https://techcrunch.com/2026/02/19/as-browser-wars-heat-up-chrome-adds-new-productivity-features/)
 - [Reddit is testing a new AI search feature for shopping](https://techcrunch.com/2026/02/19/reddit-is-testing-a-new-ai-search-feature-for-shopping/)
 - [The best cheap drone for beginners is now at its lowest-ever price on Amazon: Save 34% on the Potensic Atom SE](https://www.space.com/technology/drones/the-best-cheap-drone-for-beginners-is-now-at-its-lowest-ever-price-on-amazon-save-34-percent)
 - [Meta is shutting down Messenger’s standalone website](https://techcrunch.com/2026/02/19/meta-is-shutting-down-messengers-standalone-website/)
-- [AI helps find new clues in the 60-year search for Luna 9, the 1st successful moon lander](https://www.space.com/astronomy/moon/ai-helps-find-new-clues-in-the-60-year-search-for-luna-9-the-1st-successful-moon-lander)
 <!-- BLOG-POST-LIST:END -->
 
 ---
