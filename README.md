@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This former Big Tech engineers are using AI to navigate Trump’s trade chaos](https://techcrunch.com/2026/02/19/this-former-big-tech-engineers-are-using-ai-to-navigate-trumps-trade-chaos/)
-- [For open-source programs, AI coding tools are a mixed blessing](https://techcrunch.com/2026/02/19/for-open-source-programs-ai-coding-tools-are-a-mixed-blessing/)
-- [Hubble and Chandra space telescopes hunt for rogue black holes wandering through dwarf galaxies](https://www.space.com/astronomy/black-holes/hubble-and-chandra-space-telescopes-hunt-for-rogue-black-holes-wandering-through-dwarf-galaxies)
-- [Altman and Amodei share a moment of awkwardness at India’s big AI summit](https://techcrunch.com/2026/02/19/altman-and-amodei-share-a-moment-of-awkwardness-at-indias-big-ai-summit/)
-- [Freeform raises $67M Series B to scale up laser AI manufacturing](https://techcrunch.com/2026/02/19/freeform-raises-67m-series-b-to-scale-up-laser-ai-manufacturing/)
+- [OpenAI reportedly finalizing $100B deal at more than $850B valuation](https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/)
+- [Current is a new RSS reader that’s more like a river than an inbox](https://techcrunch.com/2026/02/19/current-is-a-new-rss-reader-thats-more-like-a-river-than-an-inbox/)
+- [Sex toys maker Tenga says hacker stole customer information](https://techcrunch.com/2026/02/19/sex-toys-maker-tenga-says-hacker-stole-customer-information/)
+- [Bug in student admissions website exposed children’s personal information](https://techcrunch.com/2026/02/19/bug-in-student-admissions-website-exposed-childrens-personal-information/)
+- [Reload wants to give your AI agents a shared memory](https://techcrunch.com/2026/02/19/reload-an-ai-employee-agent-management-platform-raises-2-275m-and-launches-an-ai-employee/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
