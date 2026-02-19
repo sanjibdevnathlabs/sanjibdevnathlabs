@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This VC’s best advice for building a founding team](https://techcrunch.com/2026/02/19/this-vcs-best-advice-for-building-a-founding-team/)
-- [Reliance unveils $110B AI investment plan as India ramps up tech ambitions](https://techcrunch.com/2026/02/19/reliance-unveils-110b-ai-investment-plan-as-india-ramps-up-tech-ambitions/)
-- [NASA hopes to avoid more hydrogen leaks during 2nd Artemis 2 rocket fueling test today: Watch live](https://www.space.com/space-exploration/artemis/nasa-hopes-to-avoid-more-hydrogen-leaks-during-2nd-artemis-2-rocket-fueling-test-today-watch-live)
-- [OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW](https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/)
-- [OpenAI deepens India push with Pine Labs fintech partnership](https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/)
+- [This former Big Tech engineers are using AI to navigate Trump’s trade chaos](https://techcrunch.com/2026/02/19/this-former-big-tech-engineers-are-using-ai-to-navigate-trumps-trade-chaos/)
+- [For open-source programs, AI coding tools are a mixed blessing](https://techcrunch.com/2026/02/19/for-open-source-programs-ai-coding-tools-are-a-mixed-blessing/)
+- [Hubble and Chandra space telescopes hunt for rogue black holes wandering through dwarf galaxies](https://www.space.com/astronomy/black-holes/hubble-and-chandra-space-telescopes-hunt-for-rogue-black-holes-wandering-through-dwarf-galaxies)
+- [Altman and Amodei share a moment of awkwardness at India’s big AI summit](https://techcrunch.com/2026/02/19/altman-and-amodei-share-a-moment-of-awkwardness-at-indias-big-ai-summit/)
+- [Freeform raises $67M Series B to scale up laser AI manufacturing](https://techcrunch.com/2026/02/19/freeform-raises-67m-series-b-to-scale-up-laser-ai-manufacturing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
