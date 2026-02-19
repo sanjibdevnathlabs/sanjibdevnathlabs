@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zuckerberg grilled in court over social media harms on teens](https://techcrunch.com/2026/02/19/zuckerberg-grilled-in-court-over-social-media-harms-on-teens/)
+- [SoftBank to spend an eye-popping $33B to build huge U.S. gas power plant](https://techcrunch.com/2026/02/19/softbank-to-spend-an-eye-popping-33b-to-build-huge-u-s-gas-power-plant/)
+- [Watch SpaceX land a rocket in The Bahamas for the 2nd time ever today](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-land-a-rocket-in-the-bahamas-for-the-2nd-time-ever-today)
 - [OpenAI reportedly finalizing $100B deal at more than $850B valuation](https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/)
 - [Current is a new RSS reader that’s more like a river than an inbox](https://techcrunch.com/2026/02/19/current-is-a-new-rss-reader-thats-more-like-a-river-than-an-inbox/)
-- [Sex toys maker Tenga says hacker stole customer information](https://techcrunch.com/2026/02/19/sex-toys-maker-tenga-says-hacker-stole-customer-information/)
-- [Bug in student admissions website exposed children’s personal information](https://techcrunch.com/2026/02/19/bug-in-student-admissions-website-exposed-childrens-personal-information/)
-- [Reload wants to give your AI agents a shared memory](https://techcrunch.com/2026/02/19/reload-an-ai-employee-agent-management-platform-raises-2-275m-and-launches-an-ai-employee/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
