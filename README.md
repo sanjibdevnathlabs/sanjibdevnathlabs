@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [An AI data center boom is fueling Redwood’s energy storage business](https://techcrunch.com/2026/02/19/an-ai-data-center-boom-is-fueling-redwoods-energy-storage-business/)
-- [Jason Momoa will be serving out cups of Liber-Tea as he joins the Helldivers movie](https://www.space.com/entertainment/space-movies-shows/jason-momoa-will-be-serving-out-cups-of-liber-tea-as-he-joins-the-helldivers-movie)
-- [Why these startup CEOs don’t think AI will replace human roles](https://techcrunch.com/2026/02/19/web-summit-qatar-read-ai-lucidya-notetakers-customer-support/)
-- [YouTube’s latest experiment brings its conversational AI tool to TVs](https://techcrunch.com/2026/02/19/youtubes-latest-experiment-brings-its-conversational-ai-tool-to-tvs/)
-- [Toyota hires seven Agility humanoid robots for Canadian factory](https://techcrunch.com/2026/02/19/toyota-hires-seven-agility-humanoid-robots-for-canadian-factory/)
+- [Second and last chance for innovators to win scaling perks: Belden extends nomination window](https://techcrunch.com/2026/02/19/second-and-last-chance-for-innovators-to-win-scaling-perks-belden-extends-nomination-window/)
+- [&#39;We almost did have a really terrible day.&#39; NASA now says Boeing&#39;s 1st Starliner astronaut flight was a &#39;Type A mishap&#39;](https://www.space.com/space-exploration/human-spaceflight/we-almost-did-have-a-really-terrible-day-nasa-now-says-boeings-1st-starliner-astronaut-flight-was-a-type-a-mishap)
+- [Cellebrite cut off Serbia citing abuse of its phone unlocking tools. Why not others?](https://techcrunch.com/2026/02/19/cellebrite-cut-off-serbia-citing-abuse-of-its-phone-unlocking-tools-why-not-others/)
+- [Scientists measure air pollution from reentering SpaceX rocket in real-time: &#39;It&#39;s never been done before&#39;](https://www.space.com/space-exploration/launches-spacecraft/scientists-measure-air-pollution-from-reentering-spacex-rocket-in-real-time-its-never-been-done-before)
+- [Google says its AI systems helped deter Play Store malware in 2025](https://techcrunch.com/2026/02/19/google-says-its-ai-systems-helped-deter-play-store-malware-in-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
