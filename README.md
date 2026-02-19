@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA hopes to avoid more hydrogen leaks during 2nd Artemis 2 rocket fueling test today: Watch live](https://www.space.com/space-exploration/artemis/nasa-hopes-to-avoid-more-hydrogen-leaks-during-2nd-artemis-2-rocket-fueling-test-today-watch-live)
 - [OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW](https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/)
 - [OpenAI deepens India push with Pine Labs fintech partnership](https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/)
 - [Etsy sells secondhand clothing marketplace Depop to eBay for $1.2B](https://techcrunch.com/2026/02/18/etsy-sells-secondhand-clothing-marketplace-depop-to-ebay-for-1-2b/)
 - [Hacking conference Def Con bans three people linked to Epstein](https://techcrunch.com/2026/02/18/hacking-conference-def-con-bans-three-people-linked-to-epstein/)
-- [James Webb Space Telescope spots a stunning &#39;cosmic jellyfish&#39; solve the mysteries of galactic evolution &lpar;photo&rpar;](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-spots-a-stunning-cosmic-jellyfish-solve-the-mysteries-of-galactic-evolution-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
