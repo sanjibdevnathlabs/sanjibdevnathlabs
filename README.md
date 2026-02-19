@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [How AI is breaking the SaaS business model...](https://www.youtube.com/watch?v=cxcb55zr2Q8)
-- [I Tried running in 3D printed shoes](https://www.youtube.com/watch?v=9LjgqZ2wP0g)
-- [10 open source tools that feel illegal...](https://www.youtube.com/watch?v=Ukt2gVz25PQ)
-- [I DDoS&#39;d myself &lpar;don&#39;t do this&rpar;](https://www.youtube.com/shorts/acSlR6UD6yM)
-- [this NEW setting Locks Down WhatsApp](https://www.youtube.com/shorts/NfG_yQ4RpyI)
+- [Generative AI and Science Photography](https://www.youtube.com/watch?v=0I8S6diyDjw)
+- [How a Software Developer Becomes DevOps in 6 Months](https://www.youtube.com/shorts/nGMpNxEqsGE)
+- [Lec 05. Architectures: Graphs](https://www.youtube.com/watch?v=0niIwb37nF0)
+- [Lec 09. Hacker&#39;s Guide to Deep Learning](https://www.youtube.com/watch?v=DC2Hw9DiLCg)
 <!-- YOUTUBE:END -->
 
 ---
