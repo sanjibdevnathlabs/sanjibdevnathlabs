@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Toy Story 5 takes aim at creepy AI toys: ‘I’m always listening’](https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/)
+- [Meta’s metaverse leaves virtual reality](https://techcrunch.com/2026/02/20/meta-metaverse-leaves-vr-horizon-worlds-mobile/)
+- [Firefly Aerospace prepares Alpha rocket for 1st launch since explosive mishaps last year](https://www.space.com/space-exploration/launches-spacecraft/firefly-aerospace-prepares-alpha-rocket-for-1st-launch-since-explosive-mishaps-last-year)
+- [Lucid Motors slashes 12% of its workforce as it seeks profitability](https://techcrunch.com/2026/02/20/lucid-motors-slashes-12-of-its-workforce-as-it-seeks-profitability/)
 - [AI’s promise to indie filmmakers: faster, cheaper, lonelier](https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/)
-- [Prepare for pitch battle: Startup Battlefield 200 nominations are open](https://techcrunch.com/2026/02/20/prepare-for-pitch-battle-startup-battlefield-200-nominations-are-open/)
-- [Peak XV raises $1.3B, doubles down on AI as global VC rivalry in India heats up](https://techcrunch.com/2026/02/20/peak-xv-raises-1-3b-doubles-down-on-ai-as-global-vc-rivalry-in-india-heats-up/)
-- [Blazing ring of fire&#39; eclipse seen from space | Space photo of the day for Feb. 20, 2026](https://www.space.com/stargazing/solar-eclipses/blazing-ring-of-fire-eclipse-seen-from-space-space-photo-of-the-day-for-feb-20-2026)
-- [TechCrunch Disrupt 2026 Super Early Bird rates end in 1 week](https://techcrunch.com/2026/02/20/techcrunch-disrupt-2026-super-early-bird-rates-end-in-1-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
