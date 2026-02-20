@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads posts can now be shared directly to your Instagram Story without leaving the app](https://techcrunch.com/2026/02/20/threads-posts-can-now-be-shared-directly-to-your-instagram-story-without-leaving-the-app/)
 - [Toy Story 5 takes aim at creepy AI toys: ‘I’m always listening’](https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/)
 - [Meta’s metaverse leaves virtual reality](https://techcrunch.com/2026/02/20/meta-metaverse-leaves-vr-horizon-worlds-mobile/)
 - [Firefly Aerospace prepares Alpha rocket for 1st launch since explosive mishaps last year](https://www.space.com/space-exploration/launches-spacecraft/firefly-aerospace-prepares-alpha-rocket-for-1st-launch-since-explosive-mishaps-last-year)
 - [Lucid Motors slashes 12% of its workforce as it seeks profitability](https://techcrunch.com/2026/02/20/lucid-motors-slashes-12-of-its-workforce-as-it-seeks-profitability/)
-- [AI’s promise to indie filmmakers: faster, cheaper, lonelier](https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
