@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Threads posts can now be shared directly to your Instagram Story without leaving the app](https://techcrunch.com/2026/02/20/threads-posts-can-now-be-shared-directly-to-your-instagram-story-without-leaving-the-app/)
-- [Toy Story 5 takes aim at creepy AI toys: ‘I’m always listening’](https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/)
-- [Meta’s metaverse leaves virtual reality](https://techcrunch.com/2026/02/20/meta-metaverse-leaves-vr-horizon-worlds-mobile/)
-- [Firefly Aerospace prepares Alpha rocket for 1st launch since explosive mishaps last year](https://www.space.com/space-exploration/launches-spacecraft/firefly-aerospace-prepares-alpha-rocket-for-1st-launch-since-explosive-mishaps-last-year)
-- [Lucid Motors slashes 12% of its workforce as it seeks profitability](https://techcrunch.com/2026/02/20/lucid-motors-slashes-12-of-its-workforce-as-it-seeks-profitability/)
+- [Great news for xAI: Grok is now pretty good at answering questions about Baldur’s Gate](https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/)
+- [&#39;This is really getting real.&#39; NASA&#39;s Artemis 2 moon rocket fueling test went so well, astronauts could launch March 6](https://www.space.com/space-exploration/artemis/this-is-really-getting-real-nasas-artemis-2-moon-rocket-fueling-test-went-so-well-astronauts-could-launch-march-6)
+- [Scientists successfully mine meteorites on International Space Station — using microbes](https://www.space.com/space-exploration/international-space-station/scientists-successfully-mine-meteorites-on-international-space-station-using-microbes)
+- [Ukrainian man jailed for identity theft  that helped North Koreans get jobs at US companies](https://techcrunch.com/2026/02/20/ukrainian-man-jailed-for-identity-theft-that-helped-north-koreans-get-jobs-at-us-companies/)
+- [Tesla loses bid to overturn $243M Autopilot verdict](https://techcrunch.com/2026/02/20/tesla-loses-bid-to-overturn-243m-autopilot-verdict/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
