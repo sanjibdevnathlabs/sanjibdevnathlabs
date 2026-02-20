@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Could one of Europe&#39;s most important wetlands really vanish? Satellites show it may happen in our lifetime](https://www.space.com/astronomy/earth/could-one-of-europes-most-important-wetlands-really-vanish-satellites-show-it-may-happen-in-our-lifetime)
+- [The OpenAI mafia: 18 startups founded by alumni](https://techcrunch.com/2026/02/20/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/)
 - [UAE’s G42 teams up with Cerebras to deploy 8 exaflops of compute in India](https://techcrunch.com/2026/02/20/uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-compute-in-india/)
 - [Supermassive serial killers: Astronomers discover how black holes &#39;kill off&#39; neighboring galaxies](https://www.space.com/astronomy/black-holes/supermassive-serial-killers-astronomers-discover-how-black-holes-kill-off-neighboring-galaxies)
 - [General Catalyst commits $5B to India over five years](https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/)
-- [Ali Partovi’s Neo looks to upend the accelerator model with low-dilution terms](https://techcrunch.com/2026/02/19/ali-partovis-neo-looks-to-upend-the-accelerator-model-with-low-dilution-terms/)
-- [Google’s new Gemini Pro model has record benchmark scores — again](https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
