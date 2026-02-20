@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why investors are going gaga over solid-state transformers](https://techcrunch.com/2026/02/20/why-investors-are-going-gaga-over-solid-state-transformers/)
-- [Fujifilm X-M5 review — impressive astro in a small package](https://www.space.com/stargazing/astrophotography/fujifilm-x-m5-review)
-- [A mini &#39;planetary parade&#39; is visible tonight. Can you spot them all?](https://www.space.com/stargazing/a-mini-planetary-parade-is-visible-tonight-can-you-spot-them-all-feb-20-2026)
-- [OpenAI says 18 to 24-year-olds account for nearly 50% of ChatGPT usage in India](https://techcrunch.com/2026/02/20/openai-says-18-to-24-year-olds-account-for-nearly-50-of-chatgpt-usage-in-india/)
-- [Could one of Europe&#39;s most important wetlands really vanish? Satellites show it may happen in our lifetime](https://www.space.com/astronomy/earth/could-one-of-europes-most-important-wetlands-really-vanish-satellites-show-it-may-happen-in-our-lifetime)
+- [AI’s promise to indie filmmakers: faster, cheaper, lonelier](https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/)
+- [Prepare for pitch battle: Startup Battlefield 200 nominations are open](https://techcrunch.com/2026/02/20/prepare-for-pitch-battle-startup-battlefield-200-nominations-are-open/)
+- [Peak XV raises $1.3B, doubles down on AI as global VC rivalry in India heats up](https://techcrunch.com/2026/02/20/peak-xv-raises-1-3b-doubles-down-on-ai-as-global-vc-rivalry-in-india-heats-up/)
+- [Blazing ring of fire&#39; eclipse seen from space | Space photo of the day for Feb. 20, 2026](https://www.space.com/stargazing/solar-eclipses/blazing-ring-of-fire-eclipse-seen-from-space-space-photo-of-the-day-for-feb-20-2026)
+- [TechCrunch Disrupt 2026 Super Early Bird rates end in 1 week](https://techcrunch.com/2026/02/20/techcrunch-disrupt-2026-super-early-bird-rates-end-in-1-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
