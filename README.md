@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [TanStack Start in 100 Seconds](https://www.youtube.com/watch?v=1fUBWAETmkk)
 - [become an AI HACKER &lpar;it&#39;s easier than you think&rpar;](https://www.youtube.com/watch?v=_yfiUQSbdPY)
 - [Seven Questions About Tariffs That Everyone Should Know](https://www.youtube.com/watch?v=N2zN4x5aEos)
 - [Bad Bot Problem - Computerphile](https://www.youtube.com/watch?v=AjQNDCYL5Rg)
 - [How AI is breaking the SaaS business model...](https://www.youtube.com/watch?v=cxcb55zr2Q8)
-- [Generative AI and Science Photography](https://www.youtube.com/watch?v=0I8S6diyDjw)
 <!-- YOUTUBE:END -->
 
 ---
