@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA X-ray spacecraft stares into the &#39;eye of the storm&#39; swirling around supermassive black holes](https://www.space.com/astronomy/black-holes/nasa-x-ray-spacecraft-stares-into-the-eye-of-the-storm-swirling-around-supermassive-black-holes)
+- [Apple’s iOS 26.4 arrives in public beta with AI music playlists, video podcasts, and more](https://techcrunch.com/2026/02/20/apples-ios-26-4-arrives-in-public-beta-with-ai-music-playlists-video-podcasts-and-more/)
 - [InScope nabs $14.5M to solve the pain of financial reporting](https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/)
 - [Trump says US government will declassify its UFO files. Will we actually learn anything this time, or is this a distraction?](https://www.space.com/space-exploration/search-for-life/trump-says-us-government-will-declassify-its-ufo-files-will-we-actually-learn-anything-this-time-or-is-this-a-distraction)
 - [Great news for xAI: Grok is now pretty good at answering questions about Baldur’s Gate](https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/)
-- [&#39;This is really getting real.&#39; NASA&#39;s Artemis 2 moon rocket fueling test went so well, astronauts could launch March 6](https://www.space.com/space-exploration/artemis/this-is-really-getting-real-nasas-artemis-2-moon-rocket-fueling-test-went-so-well-astronauts-could-launch-march-6)
-- [Scientists successfully mine meteorites on International Space Station — using microbes](https://www.space.com/space-exploration/international-space-station/scientists-successfully-mine-meteorites-on-international-space-station-using-microbes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
