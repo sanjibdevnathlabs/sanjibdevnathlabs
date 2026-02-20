@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s new Gemini Pro model has record benchmark scores—again](https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/)
+- [Nvidia deepens early-stage push into India’s AI startup ecosystem](https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/)
 - [The James Webb Space Telescope just mapped auroras on Uranus in 3D for the 1st time, and scientists are thrilled](https://www.space.com/astronomy/james-webb-space-telescope/the-james-webb-space-telescope-just-mapped-auroras-on-uranus-in-3d-for-the-1st-time-and-scientists-are-thrilled)
 - [FBI says ATM ‘jackpotting’ attacks are on the rise, and netting hackers millions in stolen cash](https://techcrunch.com/2026/02/19/fbi-says-atm-jackpotting-attacks-are-on-the-rise-and-netting-hackers-millions-in-stolen-cash/)
 - [At a critical moment, Snap loses a top Specs exec](https://techcrunch.com/2026/02/19/at-a-critical-moment-snap-loses-a-top-specs-exec/)
-- [Second and last chance for innovators to win scaling perks: Belden extends nomination window](https://techcrunch.com/2026/02/19/second-and-last-chance-for-innovators-to-win-scaling-perks-belden-extends-nomination-window/)
-- [&#39;We almost did have a really terrible day.&#39; NASA now says Boeing&#39;s 1st Starliner astronaut flight was a &#39;Type A mishap&#39;](https://www.space.com/space-exploration/human-spaceflight/we-almost-did-have-a-really-terrible-day-nasa-now-says-boeings-1st-starliner-astronaut-flight-was-a-type-a-mishap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
