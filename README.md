@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [InScope nabs $14.5M to solve the pain of financial reporting](https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/)
+- [Trump says US government will declassify its UFO files. Will we actually learn anything this time, or is this a distraction?](https://www.space.com/space-exploration/search-for-life/trump-says-us-government-will-declassify-its-ufo-files-will-we-actually-learn-anything-this-time-or-is-this-a-distraction)
 - [Great news for xAI: Grok is now pretty good at answering questions about Baldur’s Gate](https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/)
 - [&#39;This is really getting real.&#39; NASA&#39;s Artemis 2 moon rocket fueling test went so well, astronauts could launch March 6](https://www.space.com/space-exploration/artemis/this-is-really-getting-real-nasas-artemis-2-moon-rocket-fueling-test-went-so-well-astronauts-could-launch-march-6)
 - [Scientists successfully mine meteorites on International Space Station — using microbes](https://www.space.com/space-exploration/international-space-station/scientists-successfully-mine-meteorites-on-international-space-station-using-microbes)
-- [Ukrainian man jailed for identity theft  that helped North Koreans get jobs at US companies](https://techcrunch.com/2026/02/20/ukrainian-man-jailed-for-identity-theft-that-helped-north-koreans-get-jobs-at-us-companies/)
-- [Tesla loses bid to overturn $243M Autopilot verdict](https://techcrunch.com/2026/02/20/tesla-loses-bid-to-overturn-243m-autopilot-verdict/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
