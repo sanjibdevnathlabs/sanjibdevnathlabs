@@ -136,9 +136,9 @@ I'm a software developer passionate about designing and building applications wi
 <!-- YOUTUBE:START -->
 - [Bad Bot Problem - Computerphile](https://www.youtube.com/watch?v=AjQNDCYL5Rg)
 - [How AI is breaking the SaaS business model...](https://www.youtube.com/watch?v=cxcb55zr2Q8)
-- [Generative AI and Science Photography](https://www.youtube.com/watch?v=0I8S6diyDjw)
-- [How a Software Developer Becomes DevOps in 6 Months](https://www.youtube.com/shorts/nGMpNxEqsGE)
-- [Lec 05. Architectures: Graphs](https://www.youtube.com/watch?v=0niIwb37nF0)
+- [Digital Signal Processing With Audio Data - Computerphile](https://www.youtube.com/watch?v=zuZBkTNrv0g)
+- [10 open source tools that feel illegal...](https://www.youtube.com/watch?v=Ukt2gVz25PQ)
+- [Network Basics - Transport Layer and User Datagram Protocol Explained - Computerphile](https://www.youtube.com/watch?v=ihvbhwGblQg)
 <!-- YOUTUBE:END -->
 
 ---
