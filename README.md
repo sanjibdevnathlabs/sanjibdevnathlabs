@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why investors are going gaga over solid-state transformers](https://techcrunch.com/2026/02/20/why-investors-are-going-gaga-over-solid-state-transformers/)
+- [Fujifilm X-M5 review — impressive astro in a small package](https://www.space.com/stargazing/astrophotography/fujifilm-x-m5-review)
+- [A mini &#39;planetary parade&#39; is visible tonight. Can you spot them all?](https://www.space.com/stargazing/a-mini-planetary-parade-is-visible-tonight-can-you-spot-them-all-feb-20-2026)
+- [OpenAI says 18 to 24-year-olds account for nearly 50% of ChatGPT usage in India](https://techcrunch.com/2026/02/20/openai-says-18-to-24-year-olds-account-for-nearly-50-of-chatgpt-usage-in-india/)
 - [Could one of Europe&#39;s most important wetlands really vanish? Satellites show it may happen in our lifetime](https://www.space.com/astronomy/earth/could-one-of-europes-most-important-wetlands-really-vanish-satellites-show-it-may-happen-in-our-lifetime)
-- [The OpenAI mafia: 18 startups founded by alumni](https://techcrunch.com/2026/02/20/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/)
-- [UAE’s G42 teams up with Cerebras to deploy 8 exaflops of compute in India](https://techcrunch.com/2026/02/20/uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-compute-in-india/)
-- [Supermassive serial killers: Astronomers discover how black holes &#39;kill off&#39; neighboring galaxies](https://www.space.com/astronomy/black-holes/supermassive-serial-killers-astronomers-discover-how-black-holes-kill-off-neighboring-galaxies)
-- [General Catalyst commits $5B to India over five years](https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
