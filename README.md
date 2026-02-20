@@ -146,7 +146,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s new Gemini Pro model has record benchmark scores—again](https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/)
+- [Google’s new Gemini Pro model has record benchmark scores — again](https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/)
 - [Nvidia deepens early-stage push into India’s AI startup ecosystem](https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/)
 - [The James Webb Space Telescope just mapped auroras on Uranus in 3D for the 1st time, and scientists are thrilled](https://www.space.com/astronomy/james-webb-space-telescope/the-james-webb-space-telescope-just-mapped-auroras-on-uranus-in-3d-for-the-1st-time-and-scientists-are-thrilled)
 - [FBI says ATM ‘jackpotting’ attacks are on the rise, and netting hackers millions in stolen cash](https://techcrunch.com/2026/02/19/fbi-says-atm-jackpotting-attacks-are-on-the-rise-and-netting-hackers-millions-in-stolen-cash/)
