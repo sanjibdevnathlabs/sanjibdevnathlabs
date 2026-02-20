@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Supermassive serial killers: Astronomers discover how black holes &#39;kill off&#39; neighboring galaxies](https://www.space.com/astronomy/black-holes/supermassive-serial-killers-astronomers-discover-how-black-holes-kill-off-neighboring-galaxies)
 - [General Catalyst commits $5B to India over five years](https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/)
 - [Ali Partovi’s Neo looks to upend the accelerator model with low-dilution terms](https://techcrunch.com/2026/02/19/ali-partovis-neo-looks-to-upend-the-accelerator-model-with-low-dilution-terms/)
 - [Google’s new Gemini Pro model has record benchmark scores — again](https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/)
 - [Nvidia deepens early-stage push into India’s AI startup ecosystem](https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/)
-- [The James Webb Space Telescope just mapped auroras on Uranus in 3D for the 1st time, and scientists are thrilled](https://www.space.com/astronomy/james-webb-space-telescope/the-james-webb-space-telescope-just-mapped-auroras-on-uranus-in-3d-for-the-1st-time-and-scientists-are-thrilled)
 <!-- BLOG-POST-LIST:END -->
 
 ---
