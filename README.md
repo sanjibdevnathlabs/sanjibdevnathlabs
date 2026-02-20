@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These 70 dusty galaxies at the edge of our universe could rewrite our understanding of the cosmos](https://www.space.com/astronomy/james-webb-space-telescope/these-70-dusty-galaxies-at-the-edge-of-our-universe-could-rewrite-our-understanding-of-the-cosmos)
 - [Remember HQ? ‘Quiz Daddy’ Scott Rogowsky is back with TextSavvy, a daily mobile game show](https://techcrunch.com/2026/02/20/remember-hq-quiz-daddy-scott-rogowsky-is-back-with-textsavvy-a-daily-mobile-game-show/)
-- [Toys face off with technology in the nostalgia-filled 1st trailer for &#39;Toy Story 5&#39;](https://www.space.com/entertainment/space-movies-shows/toys-face-off-with-technology-in-the-nostalgia-filled-1st-trailer-for-toy-story-5)
+- [It&#39;s toys vs technology in the 1st &#39;Toy Story 5&#39; trailer, and the toys have an army of Buzz Lightyears](https://www.space.com/entertainment/space-movies-shows/toys-face-off-with-technology-in-the-nostalgia-filled-1st-trailer-for-toy-story-5)
 - [Anthropic-funded group backs candidate attacked by rival AI super PAC](https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/)
 - [NASA X-ray spacecraft stares into the &#39;eye of the storm&#39; swirling around supermassive black holes](https://www.space.com/astronomy/black-holes/nasa-x-ray-spacecraft-stares-into-the-eye-of-the-storm-swirling-around-supermassive-black-holes)
-- [Apple’s iOS 26.4 arrives in public beta with AI music playlists, video podcasts, and more](https://techcrunch.com/2026/02/20/apples-ios-26-4-arrives-in-public-beta-with-ai-music-playlists-video-podcasts-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
