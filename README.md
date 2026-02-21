@@ -147,7 +147,7 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- BLOG-POST-LIST:START -->
 - [Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’](https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/)
-- [Problem pops up with Artemis 2 moon rocket: &#39;This will almost assuredly impact the March launch window&#39;](https://www.space.com/space-exploration/artemis/problem-pops-up-with-artemis-2-moon-rocket-this-will-almost-assuredly-impact-the-march-launch-window)
+- [NASA&#39;s Artemis 2 moon rocket has a new problem. &#39;This will almost assuredly impact the March launch window.&#39;](https://www.space.com/space-exploration/artemis/problem-pops-up-with-artemis-2-moon-rocket-this-will-almost-assuredly-impact-the-march-launch-window)
 - [Google VP warns that two types of AI startups may not survive](https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/)
 - [OpenAI debated calling police about suspected Canadian shooter’s chats](https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/)
 - [This Week In Space podcast: Episode 198 — A Dragonfly on Titan](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-198-a-dragonfly-on-titan)
