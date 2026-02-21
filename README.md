@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 198 — A Dragonfly on Titan](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-198-a-dragonfly-on-titan)
+- [7 days until ticket prices rise for TechCrunch Disrupt 2026](https://techcrunch.com/2026/02/21/7-days-until-ticket-prices-rise-for-techcrunch-disrupt-2026/)
+- [Canon PowerShot V1 review](https://www.space.com/stargazing/skywatching-kit/canon-powershot-v1-review)
 - [What&#39;s the point of a space station around the moon?](https://www.space.com/astronomy/moon/whats-the-point-of-a-space-station-around-the-moon)
 - [Can you really survive on Mars? What science fiction gets wrong about off-world living](https://www.space.com/entertainment/space-movies-shows/can-you-really-survive-on-mars-what-science-fiction-gets-wrong-about-off-world-living)
-- [The Milky Way may be hiding a big secret at its heart: an extremely magnetic dead star](https://www.space.com/astronomy/stars/the-milky-way-may-be-hiding-a-big-secret-at-its-heart-an-extremely-magnetic-dead-star)
-- [India’s Sarvam launches Indus AI chat app as competition heats up](https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/)
-- [The creator economy’s ad revenue problem and India’s AI ambitions](https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
