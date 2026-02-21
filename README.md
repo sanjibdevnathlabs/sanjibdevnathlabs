@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google VP warns that two types of AI startups may not survive](https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/)
+- [OpenAI debated calling police about suspected Canadian shooter’s chats](https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/)
 - [This Week In Space podcast: Episode 198 — A Dragonfly on Titan](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-198-a-dragonfly-on-titan)
 - [7 days until ticket prices rise for TechCrunch Disrupt 2026](https://techcrunch.com/2026/02/21/7-days-until-ticket-prices-rise-for-techcrunch-disrupt-2026/)
 - [Canon PowerShot V1 review](https://www.space.com/stargazing/skywatching-kit/canon-powershot-v1-review)
-- [What&#39;s the point of a space station around the moon?](https://www.space.com/astronomy/moon/whats-the-point-of-a-space-station-around-the-moon)
-- [Can you really survive on Mars? What science fiction gets wrong about off-world living](https://www.space.com/entertainment/space-movies-shows/can-you-really-survive-on-mars-what-science-fiction-gets-wrong-about-off-world-living)
 <!-- BLOG-POST-LIST:END -->
 
 ---
