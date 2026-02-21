@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can you really survive on Mars? What science fiction gets wrong about off-world living](https://www.space.com/entertainment/space-movies-shows/can-you-really-survive-on-mars-what-science-fiction-gets-wrong-about-off-world-living)
 - [The Milky Way may be hiding a big secret at its heart: an extremely magnetic dead star](https://www.space.com/astronomy/stars/the-milky-way-may-be-hiding-a-big-secret-at-its-heart-an-extremely-magnetic-dead-star)
 - [India’s Sarvam launches Indus AI chat app as competition heats up](https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/)
 - [The creator economy’s ad revenue problem and India’s AI ambitions](https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/)
 - [These 70 dusty galaxies at the edge of our universe could rewrite our understanding of the cosmos](https://www.space.com/astronomy/james-webb-space-telescope/these-70-dusty-galaxies-at-the-edge-of-our-universe-could-rewrite-our-understanding-of-the-cosmos)
-- [Remember HQ? ‘Quiz Daddy’ Scott Rogowsky is back with TextSavvy, a daily mobile game show](https://techcrunch.com/2026/02/20/remember-hq-quiz-daddy-scott-rogowsky-is-back-with-textsavvy-a-daily-mobile-game-show/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
