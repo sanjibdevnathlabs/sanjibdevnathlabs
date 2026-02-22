@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can the creator economy stay afloat in a flood of AI slop?](https://techcrunch.com/2026/02/22/can-the-creator-economy-stay-afloat-in-a-flood-of-ai-slop/)
 - [Bill Gurley says that right now, the worst thing you can do for your career is play it safe](https://techcrunch.com/2026/02/22/bill-gurley-says-that-right-now-the-worst-thing-you-can-do-for-your-career-is-play-it-safe/)
 - [Quantonation’s double-sized second fund shows quantum still has believers](https://techcrunch.com/2026/02/22/quantonations-double-sized-second-fund-shows-quantum-still-has-believers/)
 - [Trump says Netflix will face ‘consequences’ if it doesn’t fire board member Susan Rice](https://techcrunch.com/2026/02/22/trump-says-netflix-will-face-consequences-if-it-doesnt-fire-board-member-susan-rice/)
 - [TechCrunch Mobility: Waymo makes its defense](https://techcrunch.com/2026/02/22/techcrunch-mobility-waymo-makes-its-defense/)
-- [China’s brain-computer interface industry is racing ahead](https://techcrunch.com/2026/02/22/chinas-brain-computer-interface-industry-is-racing-ahead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
