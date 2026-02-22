@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quantonation’s double-sized second fund shows quantum still has believers](https://techcrunch.com/2026/02/22/quantonations-double-sized-second-fund-shows-quantum-still-has-believers/)
+- [Trump says Netflix will face ‘consequences’ if it doesn’t fire board member Susan Rice](https://techcrunch.com/2026/02/22/trump-says-netflix-will-face-consequences-if-it-doesnt-fire-board-member-susan-rice/)
 - [TechCrunch Mobility: Waymo makes its defense](https://techcrunch.com/2026/02/22/techcrunch-mobility-waymo-makes-its-defense/)
 - [China’s brain-computer interface industry is racing ahead](https://techcrunch.com/2026/02/22/chinas-brain-computer-interface-industry-is-racing-ahead/)
 - [6 days left to lock in the lowest TechCrunch Disrupt 2026 rates](https://techcrunch.com/2026/02/22/6-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-rates/)
-- [Is time a fundamental part of reality? A quiet revolution in physics suggests not](https://www.space.com/science/particle-physics/is-time-a-fundamental-part-of-reality-a-quiet-revolution-in-physics-suggests-not)
-- [NASA&#39;s Perseverance rover now has its own &#39;GPS&#39; on Mars: &#39;We&#39;ve given the rover a new ability&#39;](https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-rover-now-has-its-own-gps-on-mars-weve-given-the-rover-a-new-ability)
 <!-- BLOG-POST-LIST:END -->
 
 ---
