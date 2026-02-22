@@ -137,8 +137,8 @@ I'm a software developer passionate about designing and building applications wi
 - [TanStack Start in 100 Seconds](https://www.youtube.com/watch?v=1fUBWAETmkk)
 - [Bad Bot Problem - Computerphile](https://www.youtube.com/watch?v=AjQNDCYL5Rg)
 - [How AI is breaking the SaaS business model...](https://www.youtube.com/watch?v=cxcb55zr2Q8)
-- [How a Software Developer Becomes DevOps in 6 Months](https://www.youtube.com/shorts/nGMpNxEqsGE)
-- [Why DevOps Demand Is Exploding &lpar;5 Critical Factors&rpar;](https://www.youtube.com/watch?v=MFjDt6ONWzk)
+- [Digital Signal Processing With Audio Data - Computerphile](https://www.youtube.com/watch?v=zuZBkTNrv0g)
+- [10 open source tools that feel illegal...](https://www.youtube.com/watch?v=Ukt2gVz25PQ)
 <!-- YOUTUBE:END -->
 
 ---
