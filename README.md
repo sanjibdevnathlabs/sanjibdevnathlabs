@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Falcon 9 rocket sets new reuse record on SpaceX&#39;s 2nd Starlink launch of the day](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-25-b1063-vsfb-ocisly-6-104-b1067-ccsfs-asog)
 - [Sam Altman would like remind you that humans use a lot of energy, too](https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/)
 - [Wikipedia blacklists Archive.today after alleged DDoS attack](https://techcrunch.com/2026/02/21/wikipedia-blacklists-archive-today-after-alleged-ddos-attack/)
 - [Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’](https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/)
 - [NASA&#39;s Artemis 2 moon rocket has a new problem. &#39;This will almost assuredly impact the March launch window.&#39;](https://www.space.com/space-exploration/artemis/problem-pops-up-with-artemis-2-moon-rocket-this-will-almost-assuredly-impact-the-march-launch-window)
-- [Google VP warns that two types of AI startups may not survive](https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
