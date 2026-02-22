@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Perseverance rover now has its own &#39;GPS&#39; on Mars: &#39;We&#39;ve given the rover a new ability&#39;](https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-rover-now-has-its-own-gps-on-mars-weve-given-the-rover-a-new-ability)
 - [Why do some places on Earth get far more solar eclipses than others?](https://www.space.com/stargazing/solar-eclipses/why-do-some-places-on-earth-get-far-more-solar-eclipses-than-others)
 - [A risky maneuver could send a spacecraft to interstellar comet 3I/ATLAS. Here&#39;s the plan](https://www.space.com/astronomy/comets/a-risky-maneuver-could-send-a-spacecraft-to-interstellar-comet-3i-atlas-heres-the-plan)
 - [The 9,000-pound monster I don’t want to give back](https://techcrunch.com/2026/02/22/the-9000-pound-monster-i-dont-want-to-give-back/)
 - [Move over, Apple: Meet the alternative app stores available in the EU and elsewhere](https://techcrunch.com/2026/02/22/move-over-apple-meet-the-alternative-app-stores-available-in-the-eu-and-elsewhere/)
-- [Falcon 9 rocket sets new reuse record on SpaceX&#39;s 2nd Starlink launch of the day](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-25-b1063-vsfb-ocisly-6-104-b1067-ccsfs-asog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
