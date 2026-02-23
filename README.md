@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Guide Labs debuts a new kind of interpretable LLM](https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/)
+- [12 different ways to watch &#39;Project Hail Mary&#39; in theaters? Outrageous, and we love it &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/12-different-ways-to-watch-project-hail-mary-in-theaters-outrageous-and-we-love-it-video)
+- [Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to](https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/)
+- [Spotify rolls out AI-powered  Prompted Playlists to the U.K. and other markets](https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/)
 - [Finnish quantum unicorn IQM set to go public](https://techcrunch.com/2026/02/23/finnish-quantum-unicorn-iqm-set-to-go-public/)
-- [Best space games: 15 out-of-this-world adventures for space fans](https://www.space.com/best-space-games)
-- [Total lunar eclipse March 2026: Live updates](https://www.space.com/news/live/total-lunar-eclipse-blood-moon-march-2026-live-updates)
-- [VPN flaws allowed Chinese hackers to compromise dozens of Ivanti customers, says report](https://techcrunch.com/2026/02/23/vpn-flaws-allowed-chinese-hackers-to-compromise-dozens-of-ivanti-customers-says-report/)
-- [5 days left to lock in the lowest TechCrunch Disrupt 2026 ticket rates](https://techcrunch.com/2026/02/23/5-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-ticket-rates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
