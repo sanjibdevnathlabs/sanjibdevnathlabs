@@ -149,8 +149,8 @@ I'm a software developer passionate about designing and building applications wi
 - [With AI, investor loyalty is &lpar;almost&rpar; dead: at least a dozen OpenAI VCs now also back Anthropic](https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/)
 - [Ex-Apple team launches Acme Weather, a new take on weather forecasting](https://techcrunch.com/2026/02/23/ex-apple-team-launches-acme-weather-a-new-take-on-weather-forecasting/)
 - [Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports](https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/)
-- [Uber’s new autonomous vehicle division is about survival and opportunity](https://techcrunch.com/2026/02/23/uber-autonomous-solutions-av-robotaxi/)
-- [Google’s Cloud AI lead on the three frontiers of model capability](https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/)
+- [Uber wants to be a Swiss Army Knife for robotaxis](https://techcrunch.com/2026/02/23/uber-autonomous-solutions-av-robotaxi-delivery-robots/)
+- [Google’s Cloud AI leads on the three frontiers of model capability](https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
