@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Satellite spies northern lights over Iceland and Canada | Space photo of the day for Feb. 23, 2026](https://www.space.com/stargazing/auroras/satellite-spies-northern-lights-over-iceland-and-canada-space-photo-of-the-day-for-feb-23-2026)
-- [See the moon dance with the stunning &#39;Seven Sisters&#39; of the Pleiades tonight — here&#39;s where to look](https://www.space.com/stargazing/see-the-moon-dance-with-the-stunning-seven-sisters-of-the-pleiades-tonight-heres-where-to-look-feb-23-2026)
-- [1 week until a breathtaking blood moon rises over the US during total lunar eclipse 2026](https://www.space.com/stargazing/solar-eclipses/1-week-until-a-breathtaking-blood-moon-rises-over-the-us-during-total-lunar-eclipse-2026)
-- [Wispr Flow launches an Android app for AI-powered dictation](https://techcrunch.com/2026/02/23/wispr-flow-launches-an-android-app-for-ai-powered-dictation/)
-- [Apple might take a new approach to announcing its next products](https://techcrunch.com/2026/02/22/apple-might-take-a-new-approach-to-announcing-its-next-products/)
+- [5 days left to lock in the lowest TechCrunch Disrupt 2026 ticket rates](https://techcrunch.com/2026/02/23/5-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-ticket-rates/)
+- [Best cheap drones under $500, hand-picked by our drone pilot](https://www.space.com/technology/drones/best-cheap-drones-under-500)
+- [We ate space mushrooms and survived to tell the tale](https://www.space.com/space-exploration/international-space-station/we-ate-space-mushrooms-and-survived-to-tell-the-tale)
+- [How AI agents could destroy the economy](https://techcrunch.com/2026/02/23/how-ai-agents-could-destroy-the-economy/)
+- [Defense Secretary summons Anthropic’s Amodei over military use of Claude](https://techcrunch.com/2026/02/23/defense-secretary-summons-anthropics-amodei-over-military-use-of-claude/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
