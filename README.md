@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber’s new autonomous vehicle division is about survival and opportunity](https://techcrunch.com/2026/02/23/uber-autonomous-solutions-av-robotaxi/)
+- [Google’s Cloud AI lead on the three frontiers of model capability](https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/)
+- [China&#39;s mysterious Shenlong space plane recently launched on its 4th mission. What is it doing up there?](https://www.space.com/space-exploration/launches-spacecraft/chinas-mysterious-shenlong-space-plane-recently-launched-on-its-4th-mission-what-is-it-doing-up-there)
 - [Americans are destroying Flock surveillance cameras](https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/)
 - [Satellites watch as bomb cyclone hits northeast U.S. with snow and lightning](https://www.space.com/space-exploration/satellites/satellites-watch-as-bomb-cyclone-hits-northeast-u-s-with-snow-and-lightning)
-- [OpenAI calls in the consultants for its enterprise push](https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/)
-- [Guide Labs debuts a new kind of interpretable LLM](https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/)
-- [12 different ways to watch &#39;Project Hail Mary&#39; in theaters? Outrageous, and we love it &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/12-different-ways-to-watch-project-hail-mary-in-theaters-outrageous-and-we-love-it-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
