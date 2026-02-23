@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ex-Apple team launches Acme Weather, a new take on weather forecasting](https://techcrunch.com/2026/02/23/ex-apple-team-launches-acme-weather-a-new-take-on-weather-forecasting/)
+- [Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports](https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/)
 - [Uber’s new autonomous vehicle division is about survival and opportunity](https://techcrunch.com/2026/02/23/uber-autonomous-solutions-av-robotaxi/)
 - [Google’s Cloud AI lead on the three frontiers of model capability](https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/)
 - [China&#39;s mysterious Shenlong space plane recently launched on its 4th mission. What is it doing up there?](https://www.space.com/space-exploration/launches-spacecraft/chinas-mysterious-shenlong-space-plane-recently-launched-on-its-4th-mission-what-is-it-doing-up-there)
-- [Americans are destroying Flock surveillance cameras](https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/)
-- [Satellites watch as bomb cyclone hits northeast U.S. with snow and lightning](https://www.space.com/space-exploration/satellites/satellites-watch-as-bomb-cyclone-hits-northeast-u-s-with-snow-and-lightning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
