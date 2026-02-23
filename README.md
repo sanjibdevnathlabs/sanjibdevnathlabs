@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Americans are destroying Flock surveillance cameras](https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/)
+- [Satellites watch as bomb cyclone hits northeast U.S. with snow and lightning](https://www.space.com/space-exploration/satellites/satellites-watch-as-bomb-cyclone-hits-northeast-u-s-with-snow-and-lightning)
+- [OpenAI calls in the consultants for its enterprise push](https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/)
 - [Guide Labs debuts a new kind of interpretable LLM](https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/)
 - [12 different ways to watch &#39;Project Hail Mary&#39; in theaters? Outrageous, and we love it &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/12-different-ways-to-watch-project-hail-mary-in-theaters-outrageous-and-we-love-it-video)
-- [Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to](https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/)
-- [Spotify rolls out AI-powered  Prompted Playlists to the U.K. and other markets](https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/)
-- [Finnish quantum unicorn IQM set to go public](https://techcrunch.com/2026/02/23/finnish-quantum-unicorn-iqm-set-to-go-public/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
