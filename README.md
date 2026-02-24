@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’](https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/)
+- [Stripe’s valuation soars 74% to $159 billion](https://techcrunch.com/2026/02/24/stripes-valuation-soars-74-to-159-billion/)
+- [YouTube beefs up its $7.99/month Lite subscription with offline downloads and background play](https://techcrunch.com/2026/02/24/youtube-beefs-up-its-7-99-month-lite-subscription-with-downloads-and-background-play/)
 - [Music generator ProducerAI joins Google Labs](https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/)
 - [Marquis sues firewall provider SonicWall, alleges security failings with its firewall backup led to ransomware attack](https://techcrunch.com/2026/02/24/marquis-sonicwall-lawsuit-ransomware-firewall-breach/)
-- [See the half-lit first quarter moon tonight: Look for the shadows of mountains on the lunar surface](https://www.space.com/stargazing/see-the-half-lit-first-quarter-moon-tonight-look-for-the-shadows-of-mountains-on-the-lunar-surface)
-- [Ukraine’s startups keep building](https://techcrunch.com/2026/02/24/ukraines-startups-keep-building/)
-- [Meta strikes up to $100B AMD chip deal as it chases ‘personal superintelligence’](https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
