@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Where to see the total lunar eclipse in the early hours of March 3](https://www.space.com/stargazing/lunar-eclipses/where-to-see-the-total-lunar-eclipse-in-the-early-hours-of-march-3)
-- [Canva acquires startups working on animation and marketing](https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/)
-- [Stripe, PayPal Ventures bet on India’s Xflow to fix cross-border B2B payments](https://techcrunch.com/2026/02/23/stripe-paypal-ventures-bet-on-indias-xflow-to-fix-cross-border-b2b-payments/)
-- [A Meta AI security researcher said an OpenClaw agent ran amok on her inbox](https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/)
-- [Tesla’s battle with the California Department of Motor Vehicles isn’t over after all](https://techcrunch.com/2026/02/23/teslas-battle-with-the-california-department-of-motor-vehicles-isnt-over-after-all/)
+- [Mogul says it has tracked $1.5B in music royalties, raised $5M in funding](https://techcrunch.com/2026/02/24/mogul-tracked-1-5-billion-music-royalties-raised-5m-funding/)
+- [It’s time to pull the plug on plug-in hybrids](https://techcrunch.com/2026/02/24/its-time-to-pull-the-plug-on-plug-in-hybrids/)
+- [New Relic launches new AI agent platform and OpenTelemetry tools](https://techcrunch.com/2026/02/24/new-relic-launches-new-ai-agent-platform-and-opentelemetry-tools/)
+- [Waymo robotaxis are now operating in 10 US cities](https://techcrunch.com/2026/02/24/waymo-robotaxis-are-now-operating-in-10-us-cities/)
+- [Nimble raises $47M to give AI agents access to real-time web data](https://techcrunch.com/2026/02/24/nimble-way-raises-47m-to-give-ai-agents-better-cleaner-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
