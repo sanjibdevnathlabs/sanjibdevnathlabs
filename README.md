@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch NASA roll Artemis 2 moon rocket off launch pad on Feb. 25 to deal with glitch](https://www.space.com/space-exploration/artemis/nasa-artemis-2-sls-rocket-roll-back-vab-glitch)
+- [Former L3Harris Trenchant boss jailed for selling hacking tools to Russian broker](https://techcrunch.com/2026/02/24/former-l3harris-trenchant-boss-jailed-for-selling-hacking-tools-to-russian-broker/)
+- [Google’s new 1.9GW clean energy deal includes massive 100-hour battery](https://techcrunch.com/2026/02/24/googles-new-1-9gw-clean-energy-deal-includes-massive-100-hour-battery/)
+- [CarGurus data breach affects 12.5 million accounts](https://techcrunch.com/2026/02/24/cargurus-data-breach-affects-12-5-million-accounts/)
 - [Anthropic won’t budge as Pentagon escalates AI dispute](https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/)
-- [Discord delays global rollout of age verification after backlash](https://techcrunch.com/2026/02/24/discord-delays-global-rollout-of-age-verification-after-backlash/)
-- [Instagram head pressed on lengthy delay to launch teen safety features, like a nudity filter, court filing reveals](https://techcrunch.com/2026/02/24/instagram-head-pressed-on-lengthy-delay-to-launch-teen-safety-features-like-a-nudity-filter-court-filing-reveals/)
-- [The Expanse: Osiris Reborn: Release date rumors, gameplay, &amp; everything else we know about this sci-fi RPG](https://www.space.com/entertainment/space-games/the-expanse-osiris-reborn-release-date-rumors-gameplay-and-everything-else-we-know-about-this-sci-fi-rpg)
-- [More startups are hitting $10M ARR in 3 months than ever before](https://techcrunch.com/2026/02/24/more-startups-are-hitting-10m-arr-in-3-months-than-ever-before/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
