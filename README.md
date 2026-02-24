@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic won’t budge as Pentagon escalates AI dispute](https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/)
+- [Discord delays global rollout of age verification after backlash](https://techcrunch.com/2026/02/24/discord-delays-global-rollout-of-age-verification-after-backlash/)
+- [Instagram head pressed on lengthy delay to launch teen safety features, like a nudity filter, court filing reveals](https://techcrunch.com/2026/02/24/instagram-head-pressed-on-lengthy-delay-to-launch-teen-safety-features-like-a-nudity-filter-court-filing-reveals/)
 - [The Expanse: Osiris Reborn: Release date rumors, gameplay, &amp; everything else we know about this sci-fi RPG](https://www.space.com/entertainment/space-games/the-expanse-osiris-reborn-release-date-rumors-gameplay-and-everything-else-we-know-about-this-sci-fi-rpg)
 - [More startups are hitting $10M ARR in 3 months than ever before](https://techcrunch.com/2026/02/24/more-startups-are-hitting-10m-arr-in-3-months-than-ever-before/)
-- [Instagram’s TV app is launching on Google TV devices](https://techcrunch.com/2026/02/24/instagrams-tv-app-is-launching-on-google-tv-devices/)
-- [Treasury sanctions Russian zero-day broker accused of buying exploits stolen from U.S. defense contractor](https://techcrunch.com/2026/02/24/treasury-sanctions-russian-zero-day-broker-accused-of-buying-exploits-stolen-from-u-s-defense-contractor/)
-- [Google adds a way to create automated workflows to Opal](https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
