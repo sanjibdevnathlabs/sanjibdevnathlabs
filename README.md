@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mogul says it has tracked $1.5B in music royalties, raised $5M in funding](https://techcrunch.com/2026/02/24/mogul-tracked-1-5-billion-music-royalties-raised-5m-funding/)
-- [It’s time to pull the plug on plug-in hybrids](https://techcrunch.com/2026/02/24/its-time-to-pull-the-plug-on-plug-in-hybrids/)
-- [New Relic launches new AI agent platform and OpenTelemetry tools](https://techcrunch.com/2026/02/24/new-relic-launches-new-ai-agent-platform-and-opentelemetry-tools/)
-- [Waymo robotaxis are now operating in 10 US cities](https://techcrunch.com/2026/02/24/waymo-robotaxis-are-now-operating-in-10-us-cities/)
-- [Nimble raises $47M to give AI agents access to real-time web data](https://techcrunch.com/2026/02/24/nimble-way-raises-47m-to-give-ai-agents-better-cleaner-data/)
+- [Ukraine’s startups keep building](https://techcrunch.com/2026/02/24/ukraines-startups-keep-building/)
+- [Meta strikes up to $100B AMD chip deal as it chases ‘personal superintelligence’](https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/)
+- [Oura launches a proprietary AI model focused on women’s health](https://techcrunch.com/2026/02/24/oura-launches-a-proprietary-ai-model-focused-on-womens-health/)
+- [Final 4 days to save up to $680 on your TechCrunch Disrupt 2026 pass](https://techcrunch.com/2026/02/24/final-4-days-to-save-up-to-680-on-your-techcrunch-disrupt-2026-pass/)
+- [I have built hundreds of Lego sets, and I think the mid-sized Star Wars ships are the perfect gift for adults](https://www.space.com/entertainment/space-toys-lego/i-have-built-hundreds-of-lego-sets-and-i-think-the-mid-sized-star-wars-ships-are-the-perfect-gift-for-adults)
 <!-- BLOG-POST-LIST:END -->
 
 ---
