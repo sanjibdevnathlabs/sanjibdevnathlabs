@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Expanse: Osiris Reborn: Release date rumors, gameplay, &amp; everything else we know about this sci-fi RPG](https://www.space.com/entertainment/space-games/the-expanse-osiris-reborn-release-date-rumors-gameplay-and-everything-else-we-know-about-this-sci-fi-rpg)
+- [More startups are hitting $10M ARR in 3 months than ever before](https://techcrunch.com/2026/02/24/more-startups-are-hitting-10m-arr-in-3-months-than-ever-before/)
+- [Instagram’s TV app is launching on Google TV devices](https://techcrunch.com/2026/02/24/instagrams-tv-app-is-launching-on-google-tv-devices/)
 - [Treasury sanctions Russian zero-day broker accused of buying exploits stolen from U.S. defense contractor](https://techcrunch.com/2026/02/24/treasury-sanctions-russian-zero-day-broker-accused-of-buying-exploits-stolen-from-u-s-defense-contractor/)
 - [Google adds a way to create automated workflows to Opal](https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal/)
-- [Spotify and Liquid Death release a limited-edition speaker shaped like… an urn?](https://techcrunch.com/2026/02/24/spotify-and-liquid-death-release-a-limited-edition-speaker-shaped-like-an-urn/)
-- [Twitch is overhauling its suspensions policy](https://techcrunch.com/2026/02/24/twitch-is-overhauling-its-suspensions-policy/)
-- [Enjoy Season 5 of &#39;For All Mankind&#39; anywhere with these VPN deals — save 74% off and a bonus free $50 Amazon voucher](https://www.space.com/technology/enjoy-season-5-of-for-all-mankind-anywhere-with-these-vpn-deals-save-74-percent-off-and-a-bonus-free-50-dollar-amazon-voucher)
 <!-- BLOG-POST-LIST:END -->
 
 ---
