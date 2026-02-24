@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple rolls out age verification tools worldwide to comply with growing web of child safety laws](https://techcrunch.com/2026/02/24/apple-rolls-out-age-verification-tools-worldwide-to-comply-with-growing-web-of-child-safety-laws/)
+- [Uber engineers built an AI version of their boss](https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/)
+- [Stripe is reportedly eyeing deal to buy some or all of PayPal](https://techcrunch.com/2026/02/24/stripe-is-reportedly-eyeing-deal-to-buy-some-or-all-of-paypal/)
 - [Watch NASA roll Artemis 2 moon rocket off launch pad on Feb. 25 to deal with glitch](https://www.space.com/space-exploration/artemis/nasa-artemis-2-sls-rocket-roll-back-vab-glitch)
 - [Former L3Harris Trenchant boss jailed for selling hacking tools to Russian broker](https://techcrunch.com/2026/02/24/former-l3harris-trenchant-boss-jailed-for-selling-hacking-tools-to-russian-broker/)
-- [Google’s new 1.9GW clean energy deal includes massive 100-hour battery](https://techcrunch.com/2026/02/24/googles-new-1-9gw-clean-energy-deal-includes-massive-100-hour-battery/)
-- [CarGurus data breach affects 12.5 million accounts](https://techcrunch.com/2026/02/24/cargurus-data-breach-affects-12-5-million-accounts/)
-- [Anthropic won’t budge as Pentagon escalates AI dispute](https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
