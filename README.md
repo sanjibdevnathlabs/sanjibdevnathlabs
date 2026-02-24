@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Music generator ProducerAI joins Google Labs](https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/)
+- [Marquis sues firewall provider SonicWall, alleges security failings with its firewall backup led to ransomware attack](https://techcrunch.com/2026/02/24/marquis-sonicwall-lawsuit-ransomware-firewall-breach/)
+- [See the half-lit first quarter moon tonight: Look for the shadows of mountains on the lunar surface](https://www.space.com/stargazing/see-the-half-lit-first-quarter-moon-tonight-look-for-the-shadows-of-mountains-on-the-lunar-surface)
 - [Ukraine’s startups keep building](https://techcrunch.com/2026/02/24/ukraines-startups-keep-building/)
 - [Meta strikes up to $100B AMD chip deal as it chases ‘personal superintelligence’](https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/)
-- [Oura launches a proprietary AI model focused on women’s health](https://techcrunch.com/2026/02/24/oura-launches-a-proprietary-ai-model-focused-on-womens-health/)
-- [Final 4 days to save up to $680 on your TechCrunch Disrupt 2026 pass](https://techcrunch.com/2026/02/24/final-4-days-to-save-up-to-680-on-your-techcrunch-disrupt-2026-pass/)
-- [I have built hundreds of Lego sets, and I think the mid-sized Star Wars ships are the perfect gift for adults](https://www.space.com/entertainment/space-toys-lego/i-have-built-hundreds-of-lego-sets-and-i-think-the-mid-sized-star-wars-ships-are-the-perfect-gift-for-adults)
 <!-- BLOG-POST-LIST:END -->
 
 ---
