@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’](https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/)
-- [Stripe’s valuation soars 74% to $159 billion](https://techcrunch.com/2026/02/24/stripes-valuation-soars-74-to-159-billion/)
-- [YouTube beefs up its $7.99/month Lite subscription with offline downloads and background play](https://techcrunch.com/2026/02/24/youtube-beefs-up-its-7-99-month-lite-subscription-with-downloads-and-background-play/)
-- [Music generator ProducerAI joins Google Labs](https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/)
-- [Marquis sues firewall provider SonicWall, alleges security failings with its firewall backup led to ransomware attack](https://techcrunch.com/2026/02/24/marquis-sonicwall-lawsuit-ransomware-firewall-breach/)
+- [Treasury sanctions Russian zero-day broker accused of buying exploits stolen from U.S. defense contractor](https://techcrunch.com/2026/02/24/treasury-sanctions-russian-zero-day-broker-accused-of-buying-exploits-stolen-from-u-s-defense-contractor/)
+- [Google adds a way to create automated workflows to Opal](https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal/)
+- [Spotify and Liquid Death release a limited-edition speaker shaped like… an urn?](https://techcrunch.com/2026/02/24/spotify-and-liquid-death-release-a-limited-edition-speaker-shaped-like-an-urn/)
+- [Twitch is overhauling its suspensions policy](https://techcrunch.com/2026/02/24/twitch-is-overhauling-its-suspensions-policy/)
+- [Enjoy Season 5 of &#39;For All Mankind&#39; anywhere with these VPN deals — save 74% off and a bonus free $50 Amazon voucher](https://www.space.com/technology/enjoy-season-5-of-for-all-mankind-anywhere-with-these-vpn-deals-save-74-percent-off-and-a-bonus-free-50-dollar-amazon-voucher)
 <!-- BLOG-POST-LIST:END -->
 
 ---
