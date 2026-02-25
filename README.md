@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple rolls out age verification tools worldwide to comply with growing web of child safety laws](https://techcrunch.com/2026/02/24/apple-rolls-out-age-verification-tools-worldwide-to-comply-with-growing-web-of-child-safety-laws/)
+- [Nvidia challenger AI chip startup MatX raised $500M](https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/)
+- [Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers](https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/)
+- [Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model](https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/)
+- [Apple rolls out age-verification tools worldwide to comply with growing web of child safety laws](https://techcrunch.com/2026/02/24/apple-rolls-out-age-verification-tools-worldwide-to-comply-with-growing-web-of-child-safety-laws/)
 - [Uber engineers built an AI version of their boss](https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/)
-- [Stripe is reportedly eyeing deal to buy some or all of PayPal](https://techcrunch.com/2026/02/24/stripe-is-reportedly-eyeing-deal-to-buy-some-or-all-of-paypal/)
-- [Watch NASA roll Artemis 2 moon rocket off launch pad on Feb. 25 to deal with glitch](https://www.space.com/space-exploration/artemis/nasa-artemis-2-sls-rocket-roll-back-vab-glitch)
-- [Former L3Harris Trenchant boss jailed for selling hacking tools to Russian broker](https://techcrunch.com/2026/02/24/former-l3harris-trenchant-boss-jailed-for-selling-hacking-tools-to-russian-broker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
