@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenClaw creator’s advice to AI builders is to be more playful and allow yourself time to improve](https://techcrunch.com/2026/02/25/openclaw-creators-advice-to-ai-builders-is-to-be-more-playful-and-allow-yourself-time-to-improve/)
+- [Which camera brand is best for astrophotography? A breakdown of each major system](https://www.space.com/astronomy/which-camera-brand-is-best-for-astrophotography-a-breakdown-of-each-major-system)
+- [Have hard-won scaling lessons to share? Take the stage at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/02/25/have-hard-won-scaling-lessons-to-share-take-the-stage-at-techcrunch-founder-summit/)
+- [Watch Rocket Lab launch hypersonic scramjet vehicle for the US military today](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-haste-hypersonic-launch-dart-ae-scramjet-us-military)
 - [About 12% of U.S. teens turn to AI for emotional support or advice](https://techcrunch.com/2026/02/25/about-12-of-u-s-teens-turn-to-ai-for-emotional-support-or-advice/)
-- [Americans now listen to podcasts more often than talk radio, study shows](https://techcrunch.com/2026/02/25/americans-now-listen-to-podcasts-more-often-than-talk-radio-study-shows/)
-- [3 days left: Save up to $680 on your TechCrunch Disrupt 2026 ticket](https://techcrunch.com/2026/02/25/3-days-left-save-up-to-680-on-your-techcrunch-disrupt-2026-ticket/)
-- [Spacecraft, stars and city lights | Space photo of the day Feb. 25, 2026](https://www.space.com/space-exploration/international-space-station/spacecraft-stars-and-city-lights-space-photo-of-the-day-feb-25-2026)
-- [US tells diplomats to lobby against foreign data sovereignty laws](https://techcrunch.com/2026/02/25/us-tells-diplomats-to-lobby-against-foreign-data-sovereignty-laws/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
