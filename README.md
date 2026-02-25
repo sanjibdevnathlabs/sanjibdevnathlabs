@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [An accountant won a big jackpot on Kalshi by betting against DOGE](https://techcrunch.com/2026/02/25/an-accountant-won-a-big-jackpot-on-kalshi-by-betting-against-doge/)
-- [Inside the story of the US defense contractor who leaked hacking tools to Russia](https://techcrunch.com/2026/02/25/inside-the-story-of-the-us-defense-contractor-who-leaked-hacking-tools-to-russia/)
-- [Samsung shows off new display tech that adds a privacy screen to apps and notifications](https://techcrunch.com/2026/02/25/samsung-shows-off-new-display-tech-that-adds-a-privacy-screen-to-apps-and-notifications/)
-- [Wearable startup CUDIS launches a new health ring line with an AI-fueled ‘coach’](https://techcrunch.com/2026/02/25/wearable-startup-cudis-launches-a-new-health-ring-line-with-an-ai-fueled-coach/)
-- [Kalshi fined a MrBeast editor for insider trading on markets related to the YouTube star](https://techcrunch.com/2026/02/25/kalshi-fined-a-mrbeast-editor-for-insider-trading-on-markets-related-to-the-youtube-star/)
+- [US cybersecurity agency CISA reportedly in dire shape amid Trump cuts and layoffs](https://techcrunch.com/2026/02/25/us-cybersecurity-agency-cisa-reportedly-in-dire-shape-amid-trump-cuts-and-layoffs/)
+- [Welcome to the post-hype crypto market](https://techcrunch.com/video/welcome-to-the-post-hype-crypto-market/)
+- [Alphabet-owned robotics software company Intrinsic joins Google](https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/)
+- [&#39;Invincible&#39; Season 4: Release date, plot, and everything we know](https://www.space.com/entertainment/space-movies-shows/invincible-season-4-release-date-plot-and-everything-we-know)
+- [Snapchat announces ‘The Snappys,’ its first-ever creator awards show](https://techcrunch.com/2026/02/25/snapchat-announces-the-snappys-its-first-ever-creator-awards-show/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
