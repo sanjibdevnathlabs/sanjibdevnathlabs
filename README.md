@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Harbinger acquires autonomous driving company Phantom AI](https://techcrunch.com/2026/02/25/harbinger-acquires-autonomous-driving-company-phantom-ai/)
-- [Jira’s latest update allows AI agents and humans to work side by side](https://techcrunch.com/2026/02/25/jiras-latest-update-allows-ai-agents-and-humans-to-work-side-by-side/)
-- [Y Combinator grad and AI insurance brokerage Harper raises $47M](https://techcrunch.com/2026/02/25/ai-insurance-brokerage-harper-raises-45m-series-a-and-seed/)
-- [Amazon’s AI-powered Alexa+ gets new personality options](https://techcrunch.com/2026/02/25/amazons-ai-powered-alexa-gets-new-personality-options/)
-- [Adobe Firefly’s video editor can now automatically create a first draft from footage](https://techcrunch.com/2026/02/25/adobe-fireflys-video-editor-can-now-automatically-create-a-first-draft-from-footage/)
+- [About 12% of U.S. teens turn to AI for emotional support or advice](https://techcrunch.com/2026/02/25/about-12-of-u-s-teens-turn-to-ai-for-emotional-support-or-advice/)
+- [Americans now listen to podcasts more often than talk radio, study shows](https://techcrunch.com/2026/02/25/americans-now-listen-to-podcasts-more-often-than-talk-radio-study-shows/)
+- [3 days left: Save up to $680 on your TechCrunch Disrupt 2026 ticket](https://techcrunch.com/2026/02/25/3-days-left-save-up-to-680-on-your-techcrunch-disrupt-2026-ticket/)
+- [Spacecraft, stars and city lights | Space photo of the day Feb. 25, 2026](https://www.space.com/space-exploration/international-space-station/spacecraft-stars-and-city-lights-space-photo-of-the-day-feb-25-2026)
+- [US tells diplomats to lobby against foreign data sovereignty laws](https://techcrunch.com/2026/02/25/us-tells-diplomats-to-lobby-against-foreign-data-sovereignty-laws/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
