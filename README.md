@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw creator’s advice to AI builders is to be more playful and allow yourself time to improve](https://techcrunch.com/2026/02/25/openclaw-creators-advice-to-ai-builders-is-to-be-more-playful-and-allow-yourself-time-to-improve/)
-- [Which camera brand is best for astrophotography? A breakdown of each major system](https://www.space.com/astronomy/which-camera-brand-is-best-for-astrophotography-a-breakdown-of-each-major-system)
-- [Have hard-won scaling lessons to share? Take the stage at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/02/25/have-hard-won-scaling-lessons-to-share-take-the-stage-at-techcrunch-founder-summit/)
-- [Watch Rocket Lab launch hypersonic scramjet vehicle for the US military today](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-haste-hypersonic-launch-dart-ae-scramjet-us-military)
-- [About 12% of U.S. teens turn to AI for emotional support or advice](https://techcrunch.com/2026/02/25/about-12-of-u-s-teens-turn-to-ai-for-emotional-support-or-advice/)
+- [Waymo to begin testing in Chicago and Charlotte](https://techcrunch.com/2026/02/25/waymo-to-begin-testing-in-chicago-and-charlotte/)
+- [NASA reveals the astronaut who required 1st medical evacuation from the International Space Station](https://www.space.com/space-exploration/human-spaceflight/nasa-reveals-the-astronaut-who-required-1st-medical-evacuation-from-the-international-space-station)
+- [Gemini can now automate some multi-step tasks on Android](https://techcrunch.com/2026/02/25/gemini-can-now-automate-some-multi-step-tasks-on-android/)
+- [What to expect during each phase of the &#39;blood moon&#39; total lunar eclipse on March 3](https://www.space.com/stargazing/lunar-eclipses/what-to-expect-during-each-phase-of-the-blood-moon-total-lunar-eclipse-on-march-3)
+- [OpenAI COO says ads will be ‘an iterative process’](https://techcrunch.com/2026/02/25/openai-coo-says-ads-will-be-an-iterative-process/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
