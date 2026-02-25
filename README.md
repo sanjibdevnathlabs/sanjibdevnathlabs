@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Waymo to begin testing in Chicago and Charlotte](https://techcrunch.com/2026/02/25/waymo-to-begin-testing-in-chicago-and-charlotte/)
-- [NASA reveals the astronaut who required 1st medical evacuation from the International Space Station](https://www.space.com/space-exploration/human-spaceflight/nasa-reveals-the-astronaut-who-required-1st-medical-evacuation-from-the-international-space-station)
-- [Gemini can now automate some multi-step tasks on Android](https://techcrunch.com/2026/02/25/gemini-can-now-automate-some-multi-step-tasks-on-android/)
-- [What to expect during each phase of the &#39;blood moon&#39; total lunar eclipse on March 3](https://www.space.com/stargazing/lunar-eclipses/what-to-expect-during-each-phase-of-the-blood-moon-total-lunar-eclipse-on-march-3)
-- [OpenAI COO says ads will be ‘an iterative process’](https://techcrunch.com/2026/02/25/openai-coo-says-ads-will-be-an-iterative-process/)
+- [An accountant won a big jackpot on Kalshi by betting against DOGE](https://techcrunch.com/2026/02/25/an-accountant-won-a-big-jackpot-on-kalshi-by-betting-against-doge/)
+- [Inside the story of the US defense contractor who leaked hacking tools to Russia](https://techcrunch.com/2026/02/25/inside-the-story-of-the-us-defense-contractor-who-leaked-hacking-tools-to-russia/)
+- [Samsung shows off new display tech that adds a privacy screen to apps and notifications](https://techcrunch.com/2026/02/25/samsung-shows-off-new-display-tech-that-adds-a-privacy-screen-to-apps-and-notifications/)
+- [Wearable startup CUDIS launches a new health ring line with an AI-fueled ‘coach’](https://techcrunch.com/2026/02/25/wearable-startup-cudis-launches-a-new-health-ring-line-with-an-ai-fueled-coach/)
+- [Kalshi fined a MrBeast editor for insider trading on markets related to the YouTube star](https://techcrunch.com/2026/02/25/kalshi-fined-a-mrbeast-editor-for-insider-trading-on-markets-related-to-the-youtube-star/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
