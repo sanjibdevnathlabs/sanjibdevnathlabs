@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [So, we’re getting Prada Meta AI glasses, right?](https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/)
+- [Sophia Space raises $10M seed to demo novel space computers](https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/)
+- [Memory shortage could cause the biggest dip in smartphone shipments in over a decade](https://techcrunch.com/2026/02/26/memory-shortage-could-cause-the-biggest-smartphone-shipments-dip-in-over-a-decade/)
 - [NASA shakes up leadership of human spaceflight program in wake of critical Starliner report](https://www.space.com/space-exploration/human-spaceflight/nasa-shakes-up-leadership-of-human-spaceflight-program-in-wake-of-critical-starliner-report)
 - [Mistral AI inks a deal with global consulting giant Accenture](https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/)
-- [Mars and Earth look set for war in the 1st full &#39;For All Mankind&#39; season 5 trailer &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/mars-and-earth-look-set-for-war-in-the-1st-full-for-all-mankind-season-5-trailer-video)
-- [Lego Star Wars Venator-Class Attack Cruiser review](https://www.space.com/entertainment/space-toys-lego/lego-star-wars-venator-class-attack-cruiser-review)
-- [Threads is testing a shortcut to quickly start DM conversations](https://techcrunch.com/2026/02/26/threads-is-testing-a-shortcut-to-quickly-start-dm-conversations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
