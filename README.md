@@ -146,10 +146,10 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google paid startup Form Energy $1B for its massive 100-hour battery](https://techcrunch.com/2026/02/26/google-paid-startup-form-energy-1b-for-its-massive-100-hour-battery/)
 - [So, we’re getting Prada Meta AI glasses, right?](https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/)
 - [Sophia Space raises $10M seed to demo novel space computers](https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/)
 - [Memory shortage could cause the biggest dip in smartphone shipments in over a decade](https://techcrunch.com/2026/02/26/memory-shortage-could-cause-the-biggest-smartphone-shipments-dip-in-over-a-decade/)
-- [NASA shakes up leadership of human spaceflight program in wake of critical Starliner report](https://www.space.com/space-exploration/human-spaceflight/nasa-shakes-up-leadership-of-human-spaceflight-program-in-wake-of-critical-starliner-report)
 - [Mistral AI inks a deal with global consulting giant Accenture](https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/)
 <!-- BLOG-POST-LIST:END -->
 
