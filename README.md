@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [PayPal might not be looking to sell itself, report](https://techcrunch.com/2026/02/26/paypal-might-not-be-looking-to-sell-itself-report/)
+- [Anthropic CEO stands firm as Pentagon deadline looms](https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/)
+- [PayPal might not be looking to sell itself: Report](https://techcrunch.com/2026/02/26/paypal-might-not-be-looking-to-sell-itself-report/)
 - [Astronomers just watched a star 1,540 times the size of our sun transform into a hypergiant. Will it go supernova?](https://www.space.com/astronomy/stars/astronomers-just-watched-a-star-1-540-times-the-size-of-our-sun-transform-into-a-hypergiant-will-it-go-supernova)
 - [Google paid startup Form Energy $1B for its massive 100-hour battery](https://techcrunch.com/2026/02/26/google-paid-startup-form-energy-1b-for-its-massive-100-hour-battery/)
 - [US Space Force pauses national security launches on ULA Vulcan rocket due to booster glitch](https://www.space.com/space-exploration/launches-spacecraft/us-space-force-pauses-national-security-launches-on-ula-vulcan-rocket-due-to-booster-glitch)
-- [So, we’re getting Prada Meta AI glasses, right?](https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
