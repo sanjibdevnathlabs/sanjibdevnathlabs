@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Read AI launches a email based ‘digital twin’ to help you with schedules and answers](https://techcrunch.com/2026/02/26/read-ai-launches-a-email-based-digital-twin-to-help-you-with-schedules-and-answers/)
+- [Lego Star Wars Venator-Class Attack Cruiser review](https://www.space.com/entertainment/space-toys-lego/lego-star-wars-venator-class-attack-cruiser-review)
+- [Threads is testing a shortcut to quickly start DM conversations](https://techcrunch.com/2026/02/26/threads-is-testing-a-shortcut-to-quickly-start-dm-conversations/)
+- [Read AI launches an email-based ‘digital twin’ to help you with schedules and answers](https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/)
 - [February&#39;s &#39;rare planetary alignment&#39; peaks this week — here&#39;s what to look for in the planet parade](https://www.space.com/stargazing/februarys-rare-planetary-alignment-peaks-this-week-heres-what-to-look-for-in-the-planet-parade)
 - [Bumble adds AI-powered photo feedback and profile guidance tools](https://techcrunch.com/2026/02/26/bumble-adds-ai-powered-photo-feedback-and-profile-guidance-tools/)
-- [Walmart agrees to $100M settlement over deceptive pay practices in Spark Driver program](https://techcrunch.com/2026/02/26/walmart-agrees-to-100m-settlement-over-deceptive-pay-practices-in-spark-driver-program/)
-- [Self-driving truck startup Einride raises $113M PIPE ahead of public debut](https://techcrunch.com/2026/02/26/self-driving-truck-startup-einride-raises-113m-pipe-ahead-of-public-debut/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
