@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 2 moon rocket returns to hangar for repairs. When could it fly?](https://www.space.com/space-exploration/artemis/nasas-artemis-2-moon-rocket-returns-to-hangar-for-repairs-when-could-it-fly)
+- [Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse](https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/)
 - [Gushwork bets on AI search for customer leads — and early results are emerging](https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/)
 - [Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders](https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/)
 - [Nvidia has another record quarter amid record capex spends](https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/)
-- [Antigravity A1 drone review](https://www.space.com/technology/antigravity-a1-drone-review)
-- [Black holes! Supernovas! Merging galaxies! Oh my! Largest radio survey of the cosmos ever reveals 13.7 million powerful cosmic objects and events](https://www.space.com/astronomy/black-holes/black-holes-supernovas-merging-galaxies-oh-my-largest-radio-survey-of-the-cosmos-ever-reveals-13-7-million-powerful-cosmic-objects-and-events)
 <!-- BLOG-POST-LIST:END -->
 
 ---
