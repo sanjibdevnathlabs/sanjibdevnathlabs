@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA shakes up leadership of human spaceflight program in wake of critical Starliner report](https://www.space.com/space-exploration/human-spaceflight/nasa-shakes-up-leadership-of-human-spaceflight-program-in-wake-of-critical-starliner-report)
+- [Mistral AI inks a deal with global consulting giant Accenture](https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/)
+- [Mars and Earth look set for war in the 1st full &#39;For All Mankind&#39; season 5 trailer &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/mars-and-earth-look-set-for-war-in-the-1st-full-for-all-mankind-season-5-trailer-video)
 - [Lego Star Wars Venator-Class Attack Cruiser review](https://www.space.com/entertainment/space-toys-lego/lego-star-wars-venator-class-attack-cruiser-review)
 - [Threads is testing a shortcut to quickly start DM conversations](https://techcrunch.com/2026/02/26/threads-is-testing-a-shortcut-to-quickly-start-dm-conversations/)
-- [Read AI launches an email-based ‘digital twin’ to help you with schedules and answers](https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/)
-- [February&#39;s &#39;rare planetary alignment&#39; peaks this week — here&#39;s what to look for in the planet parade](https://www.space.com/stargazing/februarys-rare-planetary-alignment-peaks-this-week-heres-what-to-look-for-in-the-planet-parade)
-- [Bumble adds AI-powered photo feedback and profile guidance tools](https://techcrunch.com/2026/02/26/bumble-adds-ai-powered-photo-feedback-and-profile-guidance-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
