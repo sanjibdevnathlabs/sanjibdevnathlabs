@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram now alerts parents if their teen searches for suicide or self-harm content](https://techcrunch.com/2026/02/26/instagram-now-alerts-parents-if-their-teen-searches-for-suicide-or-self-harm-content/)
-- [Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse](https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/)
-- [Gushwork bets on AI search for customer leads — and early results are emerging](https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/)
-- [Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders](https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/)
-- [Nvidia has another record quarter amid record capex spends](https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/)
+- [Jest, a marketplace for messaging games, is challenging the app store status quo](https://techcrunch.com/2026/02/26/jest-a-marketplace-for-messaging-games-is-challenging-the-app-store-status-quo/)
+- [Exhibit in Boston’s startup ecosystem at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/02/26/exhibit-in-bostons-startup-ecosystem-at-techcrunch-founder-summit-2026/)
+- [Figma partners with OpenAI to bake in support for Codex](https://techcrunch.com/2026/02/26/figma-partners-with-openai-to-bake-in-support-for-codex/)
+- [Trace raises $3M to solve the AI agent adoption problem in enterprise](https://techcrunch.com/2026/02/26/trace-raises-3-million-to-solve-the-agent-adoption-problem/)
+- [7 easy tips for photographing the &#39;blood moon&#39; total lunar eclipse on March 3](https://www.space.com/stargazing/lunar-eclipses/7-easy-tips-for-photographing-the-blood-moon-total-lunar-eclipse-on-march-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
