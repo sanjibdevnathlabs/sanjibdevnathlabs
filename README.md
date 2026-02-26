@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [Cyclic Redundancy Check &lpar;CRC&rpar; - Computerphile](https://www.youtube.com/watch?v=_x0vbnUKYSU)
-- [TanStack Start in 100 Seconds](https://www.youtube.com/watch?v=1fUBWAETmkk)
-- [become an AI HACKER &lpar;it&#39;s easier than you think&rpar;](https://www.youtube.com/watch?v=_yfiUQSbdPY)
+- [Linux Commands in 30 Mins &lpar;Real-World Example&rpar;](https://www.youtube.com/watch?v=fwP2JW_VnZI)
 - [Bad Bot Problem - Computerphile](https://www.youtube.com/watch?v=AjQNDCYL5Rg)
-- [How AI is breaking the SaaS business model...](https://www.youtube.com/watch?v=cxcb55zr2Q8)
+- [How a Software Developer Becomes DevOps in 6 Months](https://www.youtube.com/shorts/nGMpNxEqsGE)
+- [Why DevOps Demand Is Exploding &lpar;5 Critical Factors&rpar;](https://www.youtube.com/watch?v=MFjDt6ONWzk)
 <!-- YOUTUBE:END -->
 
 ---
