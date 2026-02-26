@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jest, a marketplace for messaging games, is challenging the app store status quo](https://techcrunch.com/2026/02/26/jest-a-marketplace-for-messaging-games-is-challenging-the-app-store-status-quo/)
-- [Exhibit in Boston’s startup ecosystem at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/02/26/exhibit-in-bostons-startup-ecosystem-at-techcrunch-founder-summit-2026/)
-- [Figma partners with OpenAI to bake in support for Codex](https://techcrunch.com/2026/02/26/figma-partners-with-openai-to-bake-in-support-for-codex/)
-- [Trace raises $3M to solve the AI agent adoption problem in enterprise](https://techcrunch.com/2026/02/26/trace-raises-3-million-to-solve-the-agent-adoption-problem/)
-- [7 easy tips for photographing the &#39;blood moon&#39; total lunar eclipse on March 3](https://www.space.com/stargazing/lunar-eclipses/7-easy-tips-for-photographing-the-blood-moon-total-lunar-eclipse-on-march-3)
+- [Spyware maker sentenced to prison in Greece for wiretapping politicians and journalists](https://techcrunch.com/2026/02/26/spyware-maker-sentenced-to-prison-in-greece-for-wiretapping-politicians-and-journalists/)
+- [X tries wooing advertisers by letting them reuse creative assets from other platforms](https://techcrunch.com/2026/02/26/x-tries-wooing-advertisers-by-letting-them-reuse-creative-assets-from-other-platforms/)
+- [eBay to lay off 800 staff](https://techcrunch.com/2026/02/26/ebay-to-lay-off-800-staff/)
+- [2 days left: Lock in the best discounts for TechCrunch Disrupt 2026](https://techcrunch.com/2026/02/26/2-days-left-lock-in-the-best-discounts-for-techcrunch-disrupt-2026/)
+- [One Fire star projector review: A great projector for kids](https://www.space.com/technology/one-fire-star-projector-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
