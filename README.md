@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why are there so many &#39;space snowmen&#39; in our solar system? New study offers clues](https://www.space.com/astronomy/solar-system/why-are-there-so-many-space-snowmen-in-our-solar-system-new-study-offers-clues)
-- [Watch SpaceX Dragon cargo capsule head for home today after historic ISS-boosting mission](https://www.space.com/space-exploration/international-space-station/spacex-crs-33-cargo-capsule-undock-after-iss-boosting-mission)
-- [NASA&#39;s Artemis 2 moon rocket returns to hangar for repairs. When could it fly?](https://www.space.com/space-exploration/artemis/nasas-artemis-2-moon-rocket-returns-to-hangar-for-repairs-when-could-it-fly)
+- [Instagram now alerts parents if their teen searches for suicide or self-harm content](https://techcrunch.com/2026/02/26/instagram-now-alerts-parents-if-their-teen-searches-for-suicide-or-self-harm-content/)
 - [Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse](https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/)
 - [Gushwork bets on AI search for customer leads — and early results are emerging](https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/)
+- [Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders](https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/)
+- [Nvidia has another record quarter amid record capex spends](https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
