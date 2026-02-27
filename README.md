@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Plaid valued at $8B in employee share sale](https://techcrunch.com/2026/02/26/plaid-valued-at-8b-in-employee-share-sale/)
 - [Netflix backs out of bid for Warner Bros. Discovery, giving studios, HBO, and CNN to Ellison-owned Paramount](https://techcrunch.com/2026/02/26/netflix-warner-bros-discovery-paramount-wbd-bid-studios-hbo-cnn-ellison/)
 - [Jack Dorsey just halved the size of Block’s employee base — and he says your company is next](https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/)
 - [Anthropic CEO stands firm as Pentagon deadline looms](https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/)
 - [PayPal might not be looking to sell itself: Report](https://techcrunch.com/2026/02/26/paypal-might-not-be-looking-to-sell-itself-report/)
-- [Astronomers just watched a star 1,540 times the size of our sun transform into a hypergiant. Will it go supernova?](https://www.space.com/astronomy/stars/astronomers-just-watched-a-star-1-540-times-the-size-of-our-sun-transform-into-a-hypergiant-will-it-go-supernova)
 <!-- BLOG-POST-LIST:END -->
 
 ---
