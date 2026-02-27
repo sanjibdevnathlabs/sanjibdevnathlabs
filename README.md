@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ultrahuman bets on redesigned smart ring to win back U.S. market after Oura dispute](https://techcrunch.com/2026/02/27/ultrahuman-unveils-new-smart-ring-as-it-awaits-u-s-clearance-after-oura-dispute/)
+- [Artemis 2 moon mission shouldn&#39;t launch until late 2026, new analysis of solar superflares suggests](https://www.space.com/space-exploration/artemis/artemis-2-moon-mission-shouldnt-launch-until-late-2026-new-analysis-of-solar-superflares-suggests)
 - [Best optics that you will use long after the total lunar eclipse](https://www.space.com/stargazing/skywatching-kit/best-optics-that-you-will-use-long-after-the-total-lunar-eclipse)
 - [Plaid valued at $8B in employee share sale](https://techcrunch.com/2026/02/26/plaid-valued-at-8b-in-employee-share-sale/)
 - [Netflix backs out of bid for Warner Bros. Discovery, giving studios, HBO, and CNN to Ellison-owned Paramount](https://techcrunch.com/2026/02/26/netflix-warner-bros-discovery-paramount-wbd-bid-studios-hbo-cnn-ellison/)
-- [Jack Dorsey just halved the size of Block’s employee base — and he says your company is next](https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/)
-- [Anthropic CEO stands firm as Pentagon deadline looms](https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
