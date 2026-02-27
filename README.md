@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT reaches 900M weekly active users](https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/)
 - [AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue](https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/)
 - [Apple and Netflix team up to air Formula 1 Canadian Grand Prix](https://techcrunch.com/2026/02/27/apple-and-netflix-team-up-to-air-formula-1-canadian-grand-prix/)
 - [Perplexity’s new Computer is another bet that users need many AI models](https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/)
 - [Lego Star Wars AT-AT 75440 review](https://www.space.com/entertainment/space-toys-lego/lego-star-wars-at-at-review)
-- [The total lunar eclipse on March 3 will be the last until New Year&#39;s Eve 2028](https://www.space.com/stargazing/lunar-eclipses/the-total-lunar-eclipse-on-march-3-will-be-the-last-until-new-years-eve-2028)
 <!-- BLOG-POST-LIST:END -->
 
 ---
