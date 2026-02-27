@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The US Air Force&#39;s latest X-plane looks like a missile  —  that shoots other missiles](https://www.space.com/technology/aerospace/the-us-air-forces-latest-x-plane-looks-like-a-missile-that-shoots-other-missiles)
+- [Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’](https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/)
 - [Anthropic vs. the Pentagon: What’s actually at stake?](https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/)
 - [If Godzilla attacked, could we survive? We asked the experts](https://www.space.com/entertainment/space-movies-shows/if-godzilla-attacked-could-we-survive-we-asked-the-experts)
 - [NASA cancels Artemis 3 astronaut moon landing. &#39;This is just not the right pathway forward.&#39;](https://www.space.com/space-exploration/artemis/nasa-cancels-artemis-3-astronaut-moon-landing-this-is-just-not-the-right-pathway-forward)
-- [ChatGPT reaches 900M weekly active users](https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/)
-- [AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue](https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
