@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI raises $110B in one of the largest private funding rounds in history](https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/)
+- [Memory shortage could cause the biggest dip in smartphone shipments in over a decade](https://techcrunch.com/2026/02/27/memory-shortage-could-cause-the-biggest-smartphone-shipments-dip-in-over-a-decade/)
+- [Curiosity rover finds clues to Mars&#39; watery past in rocky &#39;spiderwebs&#39;](https://www.space.com/space-exploration/mars-rovers/curiosity-rover-finds-clues-to-mars-watery-past-in-rocky-spiderwebs)
 - [South Korea opens the door to let Google Maps operate fully](https://techcrunch.com/2026/02/27/south-korea-opens-the-door-to-let-google-maps-operate-fully/)
 - [Astrophotographer captures rare 6-planet parade spanning nearly 180 degrees of sky](https://www.space.com/stargazing/astrophotography/astrophotographer-captures-rare-6-planet-parade-spanning-nearly-180-degrees-of-sky)
-- [Ultrahuman bets on redesigned smart ring to win back U.S. market after Oura dispute](https://techcrunch.com/2026/02/27/ultrahuman-unveils-new-smart-ring-as-it-awaits-u-s-clearance-after-oura-dispute/)
-- [Artemis 2 moon mission shouldn&#39;t launch until late 2026, new analysis of solar superflares suggests](https://www.space.com/space-exploration/artemis/artemis-2-moon-mission-shouldnt-launch-until-late-2026-new-analysis-of-solar-superflares-suggests)
-- [Best optics that you will use long after the total lunar eclipse](https://www.space.com/stargazing/skywatching-kit/best-optics-that-you-will-use-long-after-the-total-lunar-eclipse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
