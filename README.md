@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI raises $110B in one of the largest private funding rounds in history](https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/)
-- [Memory shortage could cause the biggest dip in smartphone shipments in over a decade](https://techcrunch.com/2026/02/27/memory-shortage-could-cause-the-biggest-smartphone-shipments-dip-in-over-a-decade/)
-- [Curiosity rover finds clues to Mars&#39; watery past in rocky &#39;spiderwebs&#39;](https://www.space.com/space-exploration/mars-rovers/curiosity-rover-finds-clues-to-mars-watery-past-in-rocky-spiderwebs)
-- [South Korea opens the door to let Google Maps operate fully](https://techcrunch.com/2026/02/27/south-korea-opens-the-door-to-let-google-maps-operate-fully/)
-- [Astrophotographer captures rare 6-planet parade spanning nearly 180 degrees of sky](https://www.space.com/stargazing/astrophotography/astrophotographer-captures-rare-6-planet-parade-spanning-nearly-180-degrees-of-sky)
+- [Spotify is rolling out Audiobook Charts](https://techcrunch.com/2026/02/27/spotify-is-rolling-out-audiobook-charts/)
+- [Last 24 hours to get TechCrunch Disrupt 2026 tickets at the lowest rates of the year](https://techcrunch.com/2026/02/27/last-24-hours-to-get-techcrunch-disrupt-2026-tickets-at-the-lowest-rates-of-the-year/)
+- [Herhoter Galaxy star projector review](https://www.space.com/technology/herhoter-galaxy-star-projector-review)
+- [Artemis 2 moon rocket rolls back to the shop | Space photo of the day Feb. 27, 2026](https://www.space.com/space-exploration/artemis/artemis-2-moon-rocket-rolls-back-to-the-shop-space-photo-of-the-day-feb-27-2026)
+- [After Zomato, Deepinder Goyal returns with a $54M brain-monitoring bet](https://techcrunch.com/2026/02/27/after-zomato-deepinder-goyal-returns-with-a-54m-brain-monitoring-bet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
