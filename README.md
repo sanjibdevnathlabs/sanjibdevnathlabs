@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic vs. the Pentagon: What’s actually at stake?](https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/)
+- [If Godzilla attacked, could we survive? We asked the experts](https://www.space.com/entertainment/space-movies-shows/if-godzilla-attacked-could-we-survive-we-asked-the-experts)
+- [NASA cancels Artemis 3 astronaut moon landing. &#39;This is just not the right pathway forward.&#39;](https://www.space.com/space-exploration/artemis/nasa-cancels-artemis-3-astronaut-moon-landing-this-is-just-not-the-right-pathway-forward)
 - [ChatGPT reaches 900M weekly active users](https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/)
 - [AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue](https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/)
-- [Apple and Netflix team up to air Formula 1 Canadian Grand Prix](https://techcrunch.com/2026/02/27/apple-and-netflix-team-up-to-air-formula-1-canadian-grand-prix/)
-- [Perplexity’s new Computer is another bet that users need many AI models](https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/)
-- [Lego Star Wars AT-AT 75440 review](https://www.space.com/entertainment/space-toys-lego/lego-star-wars-at-at-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
