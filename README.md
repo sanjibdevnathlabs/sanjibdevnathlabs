@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter](https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/)
+- [CISA replaces acting director after a bumbling year on the job](https://techcrunch.com/2026/02/27/cisa-replaces-acting-director-gottumukkala-after-a-bumbling-year-on-the-job/)
 - [Spotify is rolling out Audiobook Charts](https://techcrunch.com/2026/02/27/spotify-is-rolling-out-audiobook-charts/)
 - [Last 24 hours to get TechCrunch Disrupt 2026 tickets at the lowest rates of the year](https://techcrunch.com/2026/02/27/last-24-hours-to-get-techcrunch-disrupt-2026-tickets-at-the-lowest-rates-of-the-year/)
 - [Herhoter Galaxy star projector review](https://www.space.com/technology/herhoter-galaxy-star-projector-review)
-- [Artemis 2 moon rocket rolls back to the shop | Space photo of the day Feb. 27, 2026](https://www.space.com/space-exploration/artemis/artemis-2-moon-rocket-rolls-back-to-the-shop-space-photo-of-the-day-feb-27-2026)
-- [After Zomato, Deepinder Goyal returns with a $54M brain-monitoring bet](https://techcrunch.com/2026/02/27/after-zomato-deepinder-goyal-returns-with-a-54m-brain-monitoring-bet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
