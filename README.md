@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’](https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/)
 - [Xiaomi launches 17 Ultra smartphone, an AirTag clone, and an ultra slim powerbank](https://techcrunch.com/2026/02/28/xiaomi-launches-17-ultra-smartphone-an-airtag-clone-and-an-ultra-slim-powerbank/)
 - [Why China’s humanoid robot industry is winning the early market](https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/)
 - [This Week In Space podcast: Episode 199 — The Obsolete Astronaut?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-199-the-obsolete-astronaut)
 - [Is it legal to own, buy, or sell Apollo mission moon rocks and lunar samples?](https://www.space.com/space-exploration/human-spaceflight/is-it-legal-to-own-buy-or-sell-apollo-mission-moon-rocks-and-lunar-samples)
-- [&#39;Star Trek: Starfleet Academy&#39; is making Trek horny again, and it&#39;s about time!](https://www.space.com/entertainment/space-movies-shows/star-trek-starfleet-academy-is-making-trek-horny-again-and-its-about-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
