@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Pushing this competition&#39;: SpaceX&#39;s Starship might not fly on NASA&#39;s newly revamped Artemis 3 mission](https://www.space.com/space-exploration/artemis/pushing-this-competition-spacexs-starship-might-not-fly-on-nasas-newly-revamped-artemis-3-mission)
 - [India disrupts access to popular developer platform Supabase with blocking order](https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/)
 - [February finale: SpaceX wraps up month with three Starlink launches this week](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-110-b1902-ccsfs-17-26-b1093-vsfb-6-108-b1069-ccsfs)
 - [OpenAI fires employee for using confidential info on prediction markets](https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/)
 - [Apollo moon rocks may have finally solved an old lunar mystery](https://www.space.com/astronomy/moon/apollo-moon-rocks-may-have-finally-solved-an-old-lunar-mystery)
-- [Pentagon moves to designate Anthropic as a supply-chain risk](https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
