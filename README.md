@@ -147,10 +147,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- BLOG-POST-LIST:START -->
 - [India disrupts access to popular developer platform Supabase with blocking order](https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/)
+- [February finale: SpaceX wraps up month with three Starlink launches this week](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-110-b1902-ccsfs-17-26-b1093-vsfb-6-108-b1069-ccsfs)
 - [OpenAI fires employee for using confidential info on prediction markets](https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/)
+- [Apollo moon rocks may have finally solved an old lunar mystery](https://www.space.com/astronomy/moon/apollo-moon-rocks-may-have-finally-solved-an-old-lunar-mystery)
 - [Pentagon moves to designate Anthropic as a supply-chain risk](https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/)
-- [Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’](https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/)
-- [Anthropic vs. the Pentagon: What’s actually at stake?](https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
