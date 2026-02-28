@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [When open-sourcing your code goes wrong...](https://www.youtube.com/watch?v=wzzh7Not8XE)
-- [Claude Code on your Phone is OFFICIAL &lpar;it changes  everything&rpar;](https://www.youtube.com/watch?v=ocQ7ZKhHU5Q)
 - [Cyclic Redundancy Check &lpar;CRC&rpar; - Computerphile](https://www.youtube.com/watch?v=_x0vbnUKYSU)
 - [TanStack Start in 100 Seconds](https://www.youtube.com/watch?v=1fUBWAETmkk)
-- [become an AI HACKER &lpar;it&#39;s easier than you think&rpar;](https://www.youtube.com/watch?v=_yfiUQSbdPY)
+- [Bad Bot Problem - Computerphile](https://www.youtube.com/watch?v=AjQNDCYL5Rg)
+- [How AI is breaking the SaaS business model...](https://www.youtube.com/watch?v=cxcb55zr2Q8)
 <!-- YOUTUBE:END -->
 
 ---
