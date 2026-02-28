@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 199 — The Obsolete Astronaut?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-199-the-obsolete-astronaut)
+- [Is it legal to own, buy, or sell Apollo mission moon rocks and lunar samples?](https://www.space.com/space-exploration/human-spaceflight/is-it-legal-to-own-buy-or-sell-apollo-mission-moon-rocks-and-lunar-samples)
 - [&#39;Star Trek: Starfleet Academy&#39; is making Trek horny again, and it&#39;s about time!](https://www.space.com/entertainment/space-movies-shows/star-trek-starfleet-academy-is-making-trek-horny-again-and-its-about-time)
 - [See the &#39;impossible&#39; as sunrise and a total lunar eclipse appear at the same time on March 3](https://www.space.com/stargazing/lunar-eclipses/see-the-impossible-as-sunrise-and-a-total-lunar-eclipse-appear-at-the-same-time-on-march-3)
 - [&#39;Pushing this competition&#39;: SpaceX&#39;s Starship might not fly on NASA&#39;s newly revamped Artemis 3 mission](https://www.space.com/space-exploration/artemis/pushing-this-competition-spacexs-starship-might-not-fly-on-nasas-newly-revamped-artemis-3-mission)
-- [India disrupts access to popular developer platform Supabase with blocking order](https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/)
-- [February finale: SpaceX wraps up month with three Starlink launches this week](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-110-b1902-ccsfs-17-26-b1093-vsfb-6-108-b1069-ccsfs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
