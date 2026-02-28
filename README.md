@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [February finale: SpaceX wraps up month with three Starlink launches this week](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-110-b1902-ccsfs-17-26-b1093-vsfb-6-108-b1069-ccsfs)
 - [OpenAI fires employee for using confidential info on prediction markets](https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/)
 - [Apollo moon rocks may have finally solved an old lunar mystery](https://www.space.com/astronomy/moon/apollo-moon-rocks-may-have-finally-solved-an-old-lunar-mystery)
-- [Pentagon moves to designate Anthropic as a supply-chain risk](https://techcrunch.com/2026/02/27/president-trump-orders-federal-agencies-to-stop-using-anthropic-after-pentagon-dispute/)
+- [Pentagon moves to designate Anthropic as a supply-chain risk](https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/)
 - [Nostrovia! We finally got our 1st look at Apple TV&#39;s &#39;Star City,&#39; the Soviet &#39;For All Mankind&#39; spinoff](https://www.space.com/entertainment/space-movies-shows/nostrovia-we-finally-got-our-1st-look-at-apple-tvs-star-city-the-soviet-for-all-mankind-spinoff)
-- [The US Air Force&#39;s latest X-plane looks like a missile  —  that shoots other missiles](https://www.space.com/technology/aerospace/the-us-air-forces-latest-x-plane-looks-like-a-missile-that-shoots-other-missiles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
