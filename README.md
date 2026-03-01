@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The trap Anthropic built for itself](https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/)
 - [Why did Netflix back down from its deal to acquire Warner Bros.?](https://techcrunch.com/2026/02/28/why-did-netflix-back-down-from-its-deal-to-acquire-warner-bros/)
 - [What to know about the landmark Warner Bros. Discovery sale](https://techcrunch.com/2026/02/28/warner-bros-netflix-paramount-acquisition-timeline-wbd/)
 - [Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute](https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/)
 - [The billion-dollar infrastructure deals powering the AI boom](https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/)
-- [OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’](https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
