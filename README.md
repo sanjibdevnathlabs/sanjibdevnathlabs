@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse](https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/)
+- [What time is the blood moon total lunar eclipse on March 3?](https://www.space.com/stargazing/lunar-eclipses/what-time-is-the-blood-moon-total-lunar-eclipse-on-march-3)
 - [Best AI games… as in games about AI, not slop made by AI](https://www.space.com/entertainment/space-games/best-ai-games-as-in-games-about-ai-not-slop-made-by-ai)
 - [Watch the &#39;blood moon&#39; total lunar eclipse on March 3 with these free livestreams](https://www.space.com/stargazing/lunar-eclipses/watch-the-blood-moon-total-lunar-eclipse-on-march-3-with-these-free-livestreams)
 - [The trap Anthropic built for itself](https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/)
-- [Why did Netflix back down from its deal to acquire Warner Bros.?](https://techcrunch.com/2026/02/28/why-did-netflix-back-down-from-its-deal-to-acquire-warner-bros/)
-- [What to know about the landmark Warner Bros. Discovery sale](https://techcrunch.com/2026/02/28/warner-bros-netflix-paramount-acquisition-timeline-wbd/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
