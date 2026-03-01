@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Honor launches its new slim foldable Magic V6 with a 6,600 mAh battery](https://techcrunch.com/2026/03/01/honor-launches-its-new-slim-foldable-magic-v6-with-a-6600-mah-battery/)
+- [Moons of the solar system: A space-themed word search](https://www.space.com/astronomy/solar-system/moons-of-the-solar-system-a-space-themed-word-search)
+- [Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute](https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/)
 - [SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse](https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/)
 - [What time is the blood moon total lunar eclipse on March 3?](https://www.space.com/stargazing/lunar-eclipses/what-time-is-the-blood-moon-total-lunar-eclipse-on-march-3)
-- [Best AI games… as in games about AI, not slop made by AI](https://www.space.com/entertainment/space-games/best-ai-games-as-in-games-about-ai-not-slop-made-by-ai)
-- [Watch the &#39;blood moon&#39; total lunar eclipse on March 3 with these free livestreams](https://www.space.com/stargazing/lunar-eclipses/watch-the-blood-moon-total-lunar-eclipse-on-march-3-with-these-free-livestreams)
-- [The trap Anthropic built for itself](https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
