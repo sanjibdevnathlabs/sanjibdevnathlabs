@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Investors spill what they aren’t looking for anymore in AI SaaS companies](https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/)
+- [OpenAI reveals more details about its agreement with the Pentagon](https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/)
 - [Snowball Earth&#39;s liquid seas dipped way below freezing](https://www.space.com/astronomy/earth/snowball-earths-liquid-seas-dipped-way-below-freezing)
 - [Honor says its ‘Robot phone’ with moving camera can dance to music](https://techcrunch.com/2026/03/01/honor-says-its-robot-phone-with-moving-camera-can-dance-to-music/)
 - [Honor launches its new slim foldable Magic V6 with a 6,600 mAh battery](https://techcrunch.com/2026/03/01/honor-launches-its-new-slim-foldable-magic-v6-with-a-6600-mah-battery/)
-- [Moons of the solar system: A space-themed word search](https://www.space.com/astronomy/solar-system/moons-of-the-solar-system-a-space-themed-word-search)
-- [Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute](https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
