@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Firefly Aerospace&#39;s Alpha rocket return to flight today after 10-month grounding](https://www.space.com/space-exploration/launches-spacecraft/firefly-aerospace-alpha-rocket-return-to-flight-preview)
+- [Google looks to tackle longstanding RCS spam in India — but not alone](https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/)
 - [Investors spill what they aren’t looking for anymore in AI SaaS companies](https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/)
 - [OpenAI reveals more details about its agreement with the Pentagon](https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/)
 - [Snowball Earth&#39;s liquid seas dipped way below freezing](https://www.space.com/astronomy/earth/snowball-earths-liquid-seas-dipped-way-below-freezing)
-- [Honor says its ‘Robot phone’ with moving camera can dance to music](https://techcrunch.com/2026/03/01/honor-says-its-robot-phone-with-moving-camera-can-dance-to-music/)
-- [Honor launches its new slim foldable Magic V6 with a 6,600 mAh battery](https://techcrunch.com/2026/03/01/honor-launches-its-new-slim-foldable-magic-v6-with-a-6600-mah-battery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
