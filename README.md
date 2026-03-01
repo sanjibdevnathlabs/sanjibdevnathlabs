@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snowball Earth&#39;s liquid seas dipped way below freezing](https://www.space.com/astronomy/earth/snowball-earths-liquid-seas-dipped-way-below-freezing)
+- [Honor says its ‘Robot phone’ with moving camera can dance to music](https://techcrunch.com/2026/03/01/honor-says-its-robot-phone-with-moving-camera-can-dance-to-music/)
 - [Honor launches its new slim foldable Magic V6 with a 6,600 mAh battery](https://techcrunch.com/2026/03/01/honor-launches-its-new-slim-foldable-magic-v6-with-a-6600-mah-battery/)
 - [Moons of the solar system: A space-themed word search](https://www.space.com/astronomy/solar-system/moons-of-the-solar-system-a-space-themed-word-search)
 - [Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute](https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/)
-- [SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse](https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/)
-- [What time is the blood moon total lunar eclipse on March 3?](https://www.space.com/stargazing/lunar-eclipses/what-time-is-the-blood-moon-total-lunar-eclipse-on-march-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
