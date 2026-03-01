@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [Claude Code on your Phone is OFFICIAL &lpar;it changes  everything&rpar;](https://www.youtube.com/watch?v=ocQ7ZKhHU5Q)
-- [Linux Commands in 30 Mins &lpar;Real-World Example&rpar;](https://www.youtube.com/watch?v=fwP2JW_VnZI)
 - [become an AI HACKER &lpar;it&#39;s easier than you think&rpar;](https://www.youtube.com/watch?v=_yfiUQSbdPY)
-- [How a Software Developer Becomes DevOps in 6 Months](https://www.youtube.com/shorts/nGMpNxEqsGE)
-- [Why DevOps Demand Is Exploding &lpar;5 Critical Factors&rpar;](https://www.youtube.com/watch?v=MFjDt6ONWzk)
+- [I Tried running in 3D printed shoes](https://www.youtube.com/watch?v=9LjgqZ2wP0g)
+- [I DDoS&#39;d myself &lpar;don&#39;t do this&rpar;](https://www.youtube.com/shorts/acSlR6UD6yM)
+- [this NEW setting Locks Down WhatsApp](https://www.youtube.com/shorts/NfG_yQ4RpyI)
 <!-- YOUTUBE:END -->
 
 ---
