@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From Hyrule to the heavens: Here&#39;s what &#39;The Legend of Zelda&#39; gets right &lpar;and wrong&rpar; about the Blood Moon](https://www.space.com/entertainment/space-games/from-hyrule-to-the-heavens-heres-what-the-legend-of-zelda-gets-right-and-wrong-about-the-blood-moon)
+- [Users are ditching ChatGPT for Claude. Here’s how to make the switch](https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/)
 - [Paramount+ and HBO Max to merge into one streaming service after WBD deal closes](https://techcrunch.com/2026/03/02/paramount-and-hbo-max-to-merge-into-one-streaming-service-after-wbd-deal-closes/)
 - [Total lunar eclipse weather forecast: Will US skies be clear for the blood moon?](https://www.space.com/stargazing/lunar-eclipses/total-lunar-eclipse-weather-forecast-will-us-skies-be-clear-for-the-blood-moon)
 - [Tech workers urge DOD, Congress to withdraw Anthropic label as a supply chain risk](https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/)
-- [4 bright planets light up March evenings — here&#39;s where and when to look](https://www.space.com/stargazing/4-bright-planets-light-up-march-evenings-heres-where-and-when-to-look)
-- [SpaceX deploys two more Starlink groups into orbit on March 1 bicoastal launches](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-41-b1078-ccsfs-jrti-17-23-b1082-vsfb-ocisly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
