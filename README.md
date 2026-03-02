@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers and internet outages hit Iran amid U.S. air strikes](https://techcrunch.com/2026/03/02/hackers-and-internet-outages-hit-iran-amid-u-s-air-strikes/)
+- [MyFitnessPal has acquired Cal AI, the viral calorie app built by teens](https://techcrunch.com/2026/03/02/myfitnesspal-has-acquired-cal-ai-the-viral-calorie-app-built-by-teens/)
+- [Parade’s Cami Tellez announces new creator economy marketing platform, $4M in funding](https://techcrunch.com/2026/03/02/parades-cami-tellez-announces-new-creator-economy-marketing-platform-4m-in-funding/)
+- [Real NASA space telescope data creates soundtracks for Jupiter, Saturn and Uranus](https://www.space.com/astronomy/solar-system/real-nasa-space-telescope-data-creates-soundtracks-for-jupiter-saturn-and-uranus)
 - [Anthropic’s Claude reports widespread outage](https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/)
-- [Could these weird stars just be overgrown planets?](https://www.space.com/astronomy/stars/could-these-weird-stars-just-be-overgrown-planets)
-- [What equipment do you need to observe the total lunar eclipse tomorrow, March 3?](https://www.space.com/stargazing/skywatching-kit/what-equipment-do-you-need-to-observe-the-total-lunar-eclipse-march-2026)
-- [A total lunar eclipse will turn the full moon blood red for over 3 billion people tonight](https://www.space.com/stargazing/lunar-eclipses/a-total-lunar-eclipse-will-turn-the-full-moon-blood-red-for-over-3-billion-people-tonight)
-- [Polymarket saw $529M traded on bets tied to bombing of Iran](https://techcrunch.com/2026/03/01/polymarket-saw-529m-traded-on-bets-tied-to-bombing-of-iran/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
