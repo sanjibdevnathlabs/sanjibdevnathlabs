@@ -150,7 +150,7 @@ I'm a software developer passionate about designing and building applications wi
 - [Users are ditching ChatGPT for Claude. Here’s how to make the switch](https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/)
 - [Paramount+ and HBO Max to merge into one streaming service after WBD deal closes](https://techcrunch.com/2026/03/02/paramount-and-hbo-max-to-merge-into-one-streaming-service-after-wbd-deal-closes/)
 - [Total lunar eclipse weather forecast: Will US skies be clear for the blood moon?](https://www.space.com/stargazing/lunar-eclipses/total-lunar-eclipse-weather-forecast-will-us-skies-be-clear-for-the-blood-moon)
-- [Tech workers urge DOD, Congress to withdraw Anthropic label as a supply chain risk](https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/)
+- [Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk](https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
