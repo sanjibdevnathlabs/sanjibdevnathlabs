@@ -148,7 +148,7 @@ I'm a software developer passionate about designing and building applications wi
 <!-- BLOG-POST-LIST:START -->
 - [Polymarket saw $529M traded on bets tied to bombing of Iran](https://techcrunch.com/2026/03/01/polymarket-saw-529m-traded-on-bets-tied-to-bombing-of-iran/)
 - [Let’s explore the best alternatives to Discord](https://techcrunch.com/2026/03/01/best-discord-alternatives-age-verification-identity-privacy/)
-- [Watch Firefly Aerospace&#39;s Alpha rocket return to flight today after 10-month grounding](https://www.space.com/space-exploration/launches-spacecraft/firefly-aerospace-alpha-rocket-return-to-flight-preview)
+- [Firefly Aerospace scrubs Alpha rocket&#39;s return to flight due to high winds](https://www.space.com/space-exploration/launches-spacecraft/firefly-aerospace-alpha-rocket-return-to-flight-preview)
 - [Google looks to tackle longstanding RCS spam in India — but not alone](https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/)
 - [Investors spill what they aren’t looking for anymore in AI SaaS companies](https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/)
 <!-- BLOG-POST-LIST:END -->
