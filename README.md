@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X ads ‘Paid Partnership’ labels for creators so they can ditch the hashtags](https://techcrunch.com/2026/03/02/x-ads-paid-partnership-labels-for-creators-so-they-can-ditch-the-hashtags/)
+- [Hacktivists claim to have hacked Homeland Security to release ICE contract data](https://techcrunch.com/2026/03/02/hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data/)
 - [A married founder duo’s company, 14.ai, is replacing customer support teams at startups](https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/)
 - [Apple speeds up the iPad Air with an M4 upgrade, starting at $599](https://techcrunch.com/2026/03/02/apple-speeds-up-the-ipad-air-with-an-m4-upgrade-starting-at-599/)
 - [Interstellar comet 3I/ATLAS shines in new image | Space photo of the day for March 2, 2026](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-shines-in-new-image-space-photo-of-the-day-for-march-2-2026)
-- [Apple bakes in AI smarts into its new $599 iPhone 17e](https://techcrunch.com/2026/03/02/apples-bakes-in-ai-smarts-into-its-new-599-iphone-17e/)
-- [Hackers and internet outages hit Iran amid U.S. air strikes](https://techcrunch.com/2026/03/02/hackers-and-internet-outages-hit-iran-amid-u-s-air-strikes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
