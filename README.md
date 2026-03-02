@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Paramount+ and HBO Max to merge into one streaming service after WBD deal closes](https://techcrunch.com/2026/03/02/paramount-and-hbo-max-to-merge-into-one-streaming-service-after-wbd-deal-closes/)
+- [Total lunar eclipse weather forecast: Will US skies be clear for the blood moon?](https://www.space.com/stargazing/lunar-eclipses/total-lunar-eclipse-weather-forecast-will-us-skies-be-clear-for-the-blood-moon)
 - [Tech workers urge DOD, Congress to withdraw Anthropic label as a supply chain risk](https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/)
 - [4 bright planets light up March evenings — here&#39;s where and when to look](https://www.space.com/stargazing/4-bright-planets-light-up-march-evenings-heres-where-and-when-to-look)
 - [SpaceX deploys two more Starlink groups into orbit on March 1 bicoastal launches](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-41-b1078-ccsfs-jrti-17-23-b1082-vsfb-ocisly)
-- [X ads ‘Paid Partnership’ labels for creators so they can ditch the hashtags](https://techcrunch.com/2026/03/02/x-ads-paid-partnership-labels-for-creators-so-they-can-ditch-the-hashtags/)
-- [Hacktivists claim to have hacked Homeland Security to release ICE contract data](https://techcrunch.com/2026/03/02/hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
