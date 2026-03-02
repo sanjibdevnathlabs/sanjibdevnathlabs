@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [From Hyrule to the heavens: Here&#39;s what &#39;The Legend of Zelda&#39; gets right &lpar;and wrong&rpar; about the Blood Moon](https://www.space.com/entertainment/space-games/from-hyrule-to-the-heavens-heres-what-the-legend-of-zelda-gets-right-and-wrong-about-the-blood-moon)
-- [Users are ditching ChatGPT for Claude. Here’s how to make the switch](https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/)
+- [How fast is the universe actually expanding? Ripples in spacetime could finally solve &#39;Hubble tension&#39;](https://www.space.com/astronomy/how-fast-is-the-universe-actually-expanding-ripples-in-spacetime-could-finally-solve-hubble-tension)
+- [From Hyrule to the heavens: Here&#39;s what &#39;The Legend of Zelda&#39; gets right &lpar;and wrong&rpar; about the blood moon](https://www.space.com/entertainment/space-games/from-hyrule-to-the-heavens-heres-what-the-legend-of-zelda-gets-right-and-wrong-about-the-blood-moon)
+- [Users are ditching ChatGPT for Claude — here’s how to make the switch](https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/)
 - [Paramount+ and HBO Max to merge into one streaming service after WBD deal closes](https://techcrunch.com/2026/03/02/paramount-and-hbo-max-to-merge-into-one-streaming-service-after-wbd-deal-closes/)
 - [Total lunar eclipse weather forecast: Will US skies be clear for the blood moon?](https://www.space.com/stargazing/lunar-eclipses/total-lunar-eclipse-weather-forecast-will-us-skies-be-clear-for-the-blood-moon)
-- [Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk](https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
