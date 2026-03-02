@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [For MIT OpenCourseWare&#39;s 25th anniversary, we want to hear your voice.](https://www.youtube.com/watch?v=9kmiynkyeKA)
 - [Claude Code on your Phone is OFFICIAL &lpar;it changes  everything&rpar;](https://www.youtube.com/watch?v=ocQ7ZKhHU5Q)
 - [Cyclic Redundancy Check &lpar;CRC&rpar; - Computerphile](https://www.youtube.com/watch?v=_x0vbnUKYSU)
 - [become an AI HACKER &lpar;it&#39;s easier than you think&rpar;](https://www.youtube.com/watch?v=_yfiUQSbdPY)
-- [Bad Bot Problem - Computerphile](https://www.youtube.com/watch?v=AjQNDCYL5Rg)
-- [Digital Signal Processing With Audio Data - Computerphile](https://www.youtube.com/watch?v=zuZBkTNrv0g)
+- [Seven Questions About Tariffs That Everyone Should Know](https://www.youtube.com/watch?v=N2zN4x5aEos)
 <!-- YOUTUBE:END -->
 
 ---
