@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A married founder duo’s company, 14.ai, is replacing customer support teams at startups](https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/)
+- [Apple speeds up the iPad Air with an M4 upgrade, starting at $599](https://techcrunch.com/2026/03/02/apple-speeds-up-the-ipad-air-with-an-m4-upgrade-starting-at-599/)
+- [Interstellar comet 3I/ATLAS shines in new image | Space photo of the day for March 2, 2026](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-shines-in-new-image-space-photo-of-the-day-for-march-2-2026)
+- [Apple bakes in AI smarts into its new $599 iPhone 17e](https://techcrunch.com/2026/03/02/apples-bakes-in-ai-smarts-into-its-new-599-iphone-17e/)
 - [Hackers and internet outages hit Iran amid U.S. air strikes](https://techcrunch.com/2026/03/02/hackers-and-internet-outages-hit-iran-amid-u-s-air-strikes/)
-- [MyFitnessPal has acquired Cal AI, the viral calorie app built by teens](https://techcrunch.com/2026/03/02/myfitnesspal-has-acquired-cal-ai-the-viral-calorie-app-built-by-teens/)
-- [Parade’s Cami Tellez announces new creator economy marketing platform, $4M in funding](https://techcrunch.com/2026/03/02/parades-cami-tellez-announces-new-creator-economy-marketing-platform-4m-in-funding/)
-- [Real NASA space telescope data creates soundtracks for Jupiter, Saturn and Uranus](https://www.space.com/astronomy/solar-system/real-nasa-space-telescope-data-creates-soundtracks-for-jupiter-saturn-and-uranus)
-- [Anthropic’s Claude reports widespread outage](https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
