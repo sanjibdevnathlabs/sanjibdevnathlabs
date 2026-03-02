@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech workers urge DOD, Congress to withdraw Anthropic label as a supply chain risk](https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/)
+- [4 bright planets light up March evenings — here&#39;s where and when to look](https://www.space.com/stargazing/4-bright-planets-light-up-march-evenings-heres-where-and-when-to-look)
+- [SpaceX deploys two more Starlink groups into orbit on March 1 bicoastal launches](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-41-b1078-ccsfs-jrti-17-23-b1082-vsfb-ocisly)
 - [X ads ‘Paid Partnership’ labels for creators so they can ditch the hashtags](https://techcrunch.com/2026/03/02/x-ads-paid-partnership-labels-for-creators-so-they-can-ditch-the-hashtags/)
 - [Hacktivists claim to have hacked Homeland Security to release ICE contract data](https://techcrunch.com/2026/03/02/hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data/)
-- [A married founder duo’s company, 14.ai, is replacing customer support teams at startups](https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/)
-- [Apple speeds up the iPad Air with an M4 upgrade, starting at $599](https://techcrunch.com/2026/03/02/apple-speeds-up-the-ipad-air-with-an-m4-upgrade-starting-at-599/)
-- [Interstellar comet 3I/ATLAS shines in new image | Space photo of the day for March 2, 2026](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-shines-in-new-image-space-photo-of-the-day-for-march-2-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
