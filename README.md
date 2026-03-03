@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [your browser is holding your AI back](https://www.youtube.com/shorts/86MHiDGHUgo)
 - [they stole Claude’s brain 16 million times](https://www.youtube.com/shorts/lO961HRQn5Q)
 - [Cloudflare just slop forked Next.js…](https://www.youtube.com/watch?v=abbeIUOCzmw)
 - [For MIT OpenCourseWare&#39;s 25th anniversary, we want to hear your voice.](https://www.youtube.com/watch?v=9kmiynkyeKA)
 - [When open-sourcing your code goes wrong...](https://www.youtube.com/watch?v=wzzh7Not8XE)
-- [Claude Code on your Phone is OFFICIAL &lpar;it changes  everything&rpar;](https://www.youtube.com/watch?v=ocQ7ZKhHU5Q)
 <!-- YOUTUBE:END -->
 
 ---
