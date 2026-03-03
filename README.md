@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s Pronto formalizes house help as its valuation jumps 8× in under a year](https://techcrunch.com/2026/03/02/indias-pronto-formalizes-house-help-as-its-valuation-jumps-8x-in-under-a-year/)
+- [ChatGPT uninstalls surged by 295% after DoD deal](https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/)
 - [Stripe wants to turn your AI costs into a profit center](https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/)
 - [Geopolitical drama reportedly stalls IPO of SoftBank-backed PayPay](https://techcrunch.com/2026/03/02/geopolitical-drama-reportedly-stalls-ipo-of-softbank-backed-paypay/)
 - [No one has a good plan for how AI companies should work with the government](https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/)
-- [A new app alerts you if someone nearby is wearing smart glasses](https://techcrunch.com/2026/03/02/nearby-glasses-new-app-alerts-you-wearing-smart-glasses-surveillance-meta-snap-bluetooth/)
-- [Instagram tracked growing usage while targeting teens, lawyers argue](https://techcrunch.com/2026/03/02/instagram-tracked-growing-usage-while-targeting-teens-lawyers-argue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
