@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The &#39;Helldivers 2&#39; annual report is in, and you have a lot of friendly fire to explain](https://www.space.com/entertainment/space-games/the-helldivers-2-annual-report-is-in-and-you-have-a-lot-of-friendly-fire-to-explain)
-- [X begins testing standalone X Chat app on iOS](https://techcrunch.com/2026/03/03/x-begins-testing-standalone-x-chat-app-on-ios/)
-- [Apple unveils new MacBook Air and MacBook Pro with M5](https://techcrunch.com/2026/03/03/apple-unveils-new-macbook-air-and-macbook-pro-with-m5/)
-- [The world&#39;s 1st private space telescope just spotted its 1st star. Here&#39;s what it saw.](https://www.space.com/astronomy/exoplanets/the-worlds-1st-private-space-telescope-just-spotted-its-1st-star-heres-what-it-saw)
-- [Apple’s new Studio displays come with Thunderbolt 5](https://techcrunch.com/2026/03/03/apples-new-studio-displays-come-with-thunderbolt-5/)
+- [Activist investor Elliot takes a $1B stake in Pinterest, betting on AI-driven growth](https://techcrunch.com/2026/03/03/activist-investor-elliot-takes-a-1b-stake-in-pinterest-betting-on-ai-driven-growth/)
+- [Spiral galaxy is a stunning cosmic wheel in head-turning image | Space photo of the day for March 3, 2026](https://www.space.com/astronomy/galaxies/spiral-galaxy-is-a-stunning-cosmic-wheel-in-head-turning-image-space-photo-of-the-day-for-march-3-2026)
+- [Apple’s rumored MacBook Neo, a lower-cost, colorful laptop, could launch this week](https://techcrunch.com/2026/03/03/apple-macbook-neo-a-low-cost-colorful-laptop-could-launch-this-week/)
+- [This record-breaking quadruple star system is so jam-packed it could fit between Jupiter and our sun](https://www.space.com/astronomy/stars/this-record-breaking-quadruple-star-system-is-so-jam-packed-it-could-fit-between-jupiter-and-our-sun)
+- [Amid new competition, Chrome speeds up its release schedule](https://techcrunch.com/2026/03/03/amid-new-competition-chrome-speeds-up-its-release-schedule/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
