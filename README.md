@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lessons from &#39;The Martian&#39;: How astronaut poop could help us settle the Red Planet](https://www.space.com/astronomy/mars/lessons-from-the-martian-how-astronaut-poop-could-help-us-settle-the-red-planet)
+- [AI companies are spending millions to thwart this former tech exec’s congressional bid](https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid/)
 - [Mission Hayabusa: Test your JAXA IQ](https://www.space.com/space-exploration/launches-spacecraft/mission-hayabusa-test-your-jaxa-iq)
 - [&#39;Masters of the Universe&#39;: Release date, plot, cast, and everything we know about He-Man&#39;s big screen return](https://www.space.com/entertainment/space-movies-shows/masters-of-the-universe-release-date-plot-cast-and-everything-we-know-about-he-mans-big-screen-return)
 - [ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down](https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/)
-- [Anduril aims at $60 billion valuation in new funding round](https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/)
-- [Claude Code rolls out a voice mode capability](https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
