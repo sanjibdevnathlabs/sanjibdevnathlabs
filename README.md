@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Activist investor Elliot takes a $1B stake in Pinterest, betting on AI-driven growth](https://techcrunch.com/2026/03/03/activist-investor-elliot-takes-a-1b-stake-in-pinterest-betting-on-ai-driven-growth/)
-- [Spiral galaxy is a stunning cosmic wheel in head-turning image | Space photo of the day for March 3, 2026](https://www.space.com/astronomy/galaxies/spiral-galaxy-is-a-stunning-cosmic-wheel-in-head-turning-image-space-photo-of-the-day-for-march-3-2026)
-- [Apple’s rumored MacBook Neo, a lower-cost, colorful laptop, could launch this week](https://techcrunch.com/2026/03/03/apple-macbook-neo-a-low-cost-colorful-laptop-could-launch-this-week/)
-- [This record-breaking quadruple star system is so jam-packed it could fit between Jupiter and our sun](https://www.space.com/astronomy/stars/this-record-breaking-quadruple-star-system-is-so-jam-packed-it-could-fit-between-jupiter-and-our-sun)
-- [Amid new competition, Chrome speeds up its release schedule](https://techcrunch.com/2026/03/03/amid-new-competition-chrome-speeds-up-its-release-schedule/)
+- [X says it will suspend creators from revenue-sharing program for unlabeled AI posts of ‘armed conflict’](https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/)
+- [3rd time’s the charm? Watch private Japanese rocket try to reach orbit today](https://www.space.com/space-exploration/private-spaceflight/japan-startup-space-one-kairos-third-launch)
+- [The new MacBook Pro laptops are up to $400 more expensive than their predecessors, thanks to the RAM shortage](https://techcrunch.com/2026/03/03/the-new-macbook-pro-laptops-are-up-to-400-more-expensive-than-their-predecessors-thanks-to-the-ram-shortage/)
+- [Hacked traffic cams and hijacked TVs: How cyber operations supported the war against Iran](https://techcrunch.com/2026/03/03/hacked-traffic-cams-and-hijacked-tvs-how-cyber-operations-supported-the-war-against-iran/)
+- [Activist investor Elliott takes a $1B stake in Pinterest, betting on AI-driven growth](https://techcrunch.com/2026/03/03/activist-investor-elliot-takes-a-1b-stake-in-pinterest-betting-on-ai-driven-growth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
