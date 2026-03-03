@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mission Hayabusa: Test your JAXA IQ](https://www.space.com/space-exploration/launches-spacecraft/mission-hayabusa-test-your-jaxa-iq)
+- [&#39;Masters of the Universe&#39;: Release date, plot, cast, and everything we know about He-Man&#39;s big screen return](https://www.space.com/entertainment/space-movies-shows/masters-of-the-universe-release-date-plot-cast-and-everything-we-know-about-he-mans-big-screen-return)
 - [ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down](https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/)
 - [Anduril aims at $60 billion valuation in new funding round](https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/)
 - [Claude Code rolls out a voice mode capability](https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/)
-- [Android users can now share tracker tag info with airlines to help locate lost luggage](https://techcrunch.com/2026/03/03/android-users-can-now-share-tracker-tag-info-with-airlines-to-help-locate-lost-luggage/)
-- [X says it will suspend creators from revenue-sharing program for unlabeled AI posts of ‘armed conflict’](https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
