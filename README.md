@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down](https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/)
+- [Anduril aims at $60 billion valuation in new funding round](https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/)
+- [Claude Code rolls out a voice mode capability](https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/)
 - [Android users can now share tracker tag info with airlines to help locate lost luggage](https://techcrunch.com/2026/03/03/android-users-can-now-share-tracker-tag-info-with-airlines-to-help-locate-lost-luggage/)
 - [X says it will suspend creators from revenue-sharing program for unlabeled AI posts of ‘armed conflict’](https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/)
-- [3rd time’s the charm? Watch private Japanese rocket try to reach orbit today](https://www.space.com/space-exploration/private-spaceflight/japan-startup-space-one-kairos-third-launch)
-- [The new MacBook Pro laptops are as much as $400 more expensive than their predecessors. Thank the RAM shortage.](https://techcrunch.com/2026/03/03/apple-new-macbook-pro-laptop-price-more-expensive-than-previous-models-ram-memory-shortage/)
-- [Hacked traffic cams and hijacked TVs: How cyber operations supported the war against Iran](https://techcrunch.com/2026/03/03/hacked-traffic-cams-and-hijacked-tvs-how-cyber-operations-supported-the-war-against-iran/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
