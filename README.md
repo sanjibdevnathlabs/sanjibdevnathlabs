@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The &#39;Helldivers 2&#39; annual report is in, and you have a lot of friendly fire to explain](https://www.space.com/entertainment/space-games/the-helldivers-2-annual-report-is-in-and-you-have-a-lot-of-friendly-fire-to-explain)
+- [X begins testing standalone X Chat app on iOS](https://techcrunch.com/2026/03/03/x-begins-testing-standalone-x-chat-app-on-ios/)
+- [Apple unveils new MacBook Air and MacBook Pro with M5](https://techcrunch.com/2026/03/03/apple-unveils-new-macbook-air-and-macbook-pro-with-m5/)
 - [The world&#39;s 1st private space telescope just spotted its 1st star. Here&#39;s what it saw.](https://www.space.com/astronomy/exoplanets/the-worlds-1st-private-space-telescope-just-spotted-its-1st-star-heres-what-it-saw)
 - [Apple’s new Studio displays come with Thunderbolt 5](https://techcrunch.com/2026/03/03/apples-new-studio-displays-come-with-thunderbolt-5/)
-- [Apple unveils M5 Pro and M5 Max chips with new ‘Fusion Architecture’](https://techcrunch.com/2026/03/03/apple-unveils-m5-pro-and-m5-max-chips-with-new-fusion-architecture/)
-- [Fig Security emerges from stealth with $38M to help security teams deal with change](https://techcrunch.com/2026/03/03/fig-security-emerges-from-stealth-with-38m-to-help-security-teams-deal-with-change/)
-- [Rare glass from 6-million-year-old meteorite strike found in Brazil — but the crater is still missing](https://www.space.com/astronomy/earth/rare-glass-from-6-million-year-old-meteorite-strike-found-in-brazil-but-the-crater-is-still-missing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
