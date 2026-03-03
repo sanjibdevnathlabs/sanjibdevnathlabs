@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The world&#39;s 1st private space telescope just spotted its 1st star. Here&#39;s what it saw.](https://www.space.com/astronomy/exoplanets/the-worlds-1st-private-space-telescope-just-spotted-its-1st-star-heres-what-it-saw)
+- [Apple’s new Studio displays come with Thunderbolt 5](https://techcrunch.com/2026/03/03/apples-new-studio-displays-come-with-thunderbolt-5/)
+- [Apple unveils M5 Pro and M5 Max chips with new ‘Fusion Architecture’](https://techcrunch.com/2026/03/03/apple-unveils-m5-pro-and-m5-max-chips-with-new-fusion-architecture/)
+- [Fig Security emerges from stealth with $38M to help security teams deal with change](https://techcrunch.com/2026/03/03/fig-security-emerges-from-stealth-with-38m-to-help-security-teams-deal-with-change/)
 - [Rare glass from 6-million-year-old meteorite strike found in Brazil — but the crater is still missing](https://www.space.com/astronomy/earth/rare-glass-from-6-million-year-old-meteorite-strike-found-in-brazil-but-the-crater-is-still-missing)
-- [The candidate that Silicon Valley built is now the one they want to tear down](https://techcrunch.com/2026/03/03/the-candidate-that-silicon-valley-built-is-now-the-one-they-want-to-tear-down/)
-- [Totality is over — Feast your eyes on the 1st photos of the blood moon total lunar eclipse 2026](https://www.space.com/stargazing/lunar-eclipses/totality-is-over-feast-your-eyes-on-the-1st-photos-of-the-blood-moon-total-lunar-eclipse-2026)
-- [Cursor has reportedly surpassed $2B in annualized revenue](https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/)
-- [India’s Pronto formalizes house help as its valuation jumps 8x in under a year](https://techcrunch.com/2026/03/02/indias-pronto-formalizes-house-help-as-its-valuation-jumps-8x-in-under-a-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
