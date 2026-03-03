@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Android users can now share tracker tag info with airlines to help locate lost luggage](https://techcrunch.com/2026/03/03/android-users-can-now-share-tracker-tag-info-with-airlines-to-help-locate-lost-luggage/)
 - [X says it will suspend creators from revenue-sharing program for unlabeled AI posts of ‘armed conflict’](https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/)
 - [3rd time’s the charm? Watch private Japanese rocket try to reach orbit today](https://www.space.com/space-exploration/private-spaceflight/japan-startup-space-one-kairos-third-launch)
-- [The new MacBook Pro laptops are up to $400 more expensive than their predecessors, thanks to the RAM shortage](https://techcrunch.com/2026/03/03/the-new-macbook-pro-laptops-are-up-to-400-more-expensive-than-their-predecessors-thanks-to-the-ram-shortage/)
+- [The new MacBook Pro laptops are as much as $400 more expensive than their predecessors. Thank the RAM shortage.](https://techcrunch.com/2026/03/03/apple-new-macbook-pro-laptop-price-more-expensive-than-previous-models-ram-memory-shortage/)
 - [Hacked traffic cams and hijacked TVs: How cyber operations supported the war against Iran](https://techcrunch.com/2026/03/03/hacked-traffic-cams-and-hijacked-tvs-how-cyber-operations-supported-the-war-against-iran/)
-- [Activist investor Elliott takes a $1B stake in Pinterest, betting on AI-driven growth](https://techcrunch.com/2026/03/03/activist-investor-elliot-takes-a-1b-stake-in-pinterest-betting-on-ai-driven-growth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
