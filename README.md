@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US and EU police shut down LeakBase, a site accused of sharing stolen passwords and hacking tools](https://techcrunch.com/2026/03/04/u-s-and-eu-police-shut-down-leakbase-a-site-accused-of-sharing-stolen-passwords-and-hacking-tools/)
+- [MacBook Neo, iPhone 17e, and everything else Apple announced this week](https://techcrunch.com/2026/03/04/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/)
+- [Auroras on Jupiter&#39;s giant moon Ganymede look like Earth&#39;s northern lights, NASA spacecraft reveals](https://www.space.com/astronomy/jupiter/auroras-on-jupiters-giant-moon-ganymede-look-like-earths-northern-lights-nasa-spacecraft-reveals)
+- [Google’s Gemini rolls out Canvas in AI Mode to all US users](https://techcrunch.com/2026/03/04/googles-gemini-rolls-out-canvas-in-ai-mode-to-all-us-users/)
 - [Decagon completes first tender offer at $4.5B valuation](https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/)
-- [SpaceX Starlink launch creates gorgeous &#39;jellyfish&#39; in predawn Florida skies &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-40-b1080-ccsfs-asog)
-- [The US military is still using Claude — but defense-tech clients are fleeing](https://techcrunch.com/2026/03/04/the-us-military-is-still-using-claude-but-defense-tech-clients-are-fleeing/)
-- [Antarctica has lost 5,000 square miles of &#39;grounded ice&#39; in the last 30 years, satellite images reveal](https://www.space.com/science/climate-change/antarctica-has-lost-5-000-square-miles-of-grounded-ice-in-the-last-30-years-satellite-images-reveal)
-- [X taps William Shatner to give out invites to its payments service, X Money](https://techcrunch.com/2026/03/04/x-taps-william-shatner-to-give-out-invites-to-its-payments-service-x-money/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
