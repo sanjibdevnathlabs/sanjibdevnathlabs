@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Decagon completes first tender offer at $4.5B valuation](https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/)
+- [SpaceX Starlink launch creates gorgeous &#39;jellyfish&#39; in predawn Florida skies &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-40-b1080-ccsfs-asog)
 - [The US military is still using Claude — but defense-tech clients are fleeing](https://techcrunch.com/2026/03/04/the-us-military-is-still-using-claude-but-defense-tech-clients-are-fleeing/)
 - [Antarctica has lost 5,000 square miles of &#39;grounded ice&#39; in the last 30 years, satellite images reveal](https://www.space.com/science/climate-change/antarctica-has-lost-5-000-square-miles-of-grounded-ice-in-the-last-30-years-satellite-images-reveal)
 - [X taps William Shatner to give out invites to its payments service, X Money](https://techcrunch.com/2026/03/04/x-taps-william-shatner-to-give-out-invites-to-its-payments-service-x-money/)
-- [Host a Side Event during TechCrunch Founder Summit Week in Boston](https://techcrunch.com/2026/03/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/)
-- [TikTok won’t add end-to-end encryption to direct messages, report says](https://techcrunch.com/2026/03/04/tiktok-wont-add-end-to-end-encryption-to-direct-messages-report-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
