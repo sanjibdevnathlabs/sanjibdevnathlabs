@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Russia fixes launch pad damaged by Thanksgiving astronaut launch to the International Space Station](https://www.space.com/space-exploration/international-space-station/russia-fixes-launch-pad-damaged-by-thanksgiving-astronaut-launch-to-the-international-space-station)
-- [Spectacular spiral galaxy revealed by James Webb Space Telescope | Space photo of the day for March 4, 2026](https://www.space.com/astronomy/james-webb-space-telescope/spectacular-spiral-galaxy-revealed-by-james-webb-space-telescope-space-photo-of-the-day-for-march-4-2026)
-- [Did these spruce trees really &#39;predict&#39; a solar eclipse? Scientists are split](https://www.space.com/stargazing/solar-eclipses/did-these-spruce-trees-really-predict-a-solar-eclipse-scientists-are-split)
-- [The best image stabilized binoculars 2026: Our guide to models from Canon, Nikon and Fujifilm.](https://www.space.com/stargazing/skywatching-kit/the-best-image-stabilized-binoculars-models-from-canon-nikon-and-fujifilm)
-- [NASA is overhauling its Artemis program. What does that mean for humanity&#39;s return to the moon?](https://www.space.com/space-exploration/artemis/nasa-is-overhauling-its-artemis-program-what-does-that-mean-for-humanitys-return-to-the-moon)
+- [The US military is still using Claude — but defense-tech clients are fleeing](https://techcrunch.com/2026/03/04/the-us-military-is-still-using-claude-but-defense-tech-clients-are-fleeing/)
+- [Antarctica has lost 5,000 square miles of &#39;grounded ice&#39; in the last 30 years, satellite images reveal](https://www.space.com/science/climate-change/antarctica-has-lost-5-000-square-miles-of-grounded-ice-in-the-last-30-years-satellite-images-reveal)
+- [X taps William Shatner to give out invites to its payments service, X Money](https://techcrunch.com/2026/03/04/x-taps-william-shatner-to-give-out-invites-to-its-payments-service-x-money/)
+- [Host a Side Event during TechCrunch Founder Summit Week in Boston](https://techcrunch.com/2026/03/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/)
+- [TikTok won’t add end-to-end encryption to direct messages, report says](https://techcrunch.com/2026/03/04/tiktok-wont-add-end-to-end-encryption-to-direct-messages-report-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
