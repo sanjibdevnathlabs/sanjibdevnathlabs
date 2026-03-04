@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best image stabilized binoculars 2026: Our guide to models from Canon, Nikon and Fujifilm.](https://www.space.com/stargazing/skywatching-kit/the-best-image-stabilized-binoculars-models-from-canon-nikon-and-fujifilm)
+- [NASA is overhauling its Artemis program. What does that mean for humanity&#39;s return to the moon?](https://www.space.com/space-exploration/artemis/nasa-is-overhauling-its-artemis-program-what-does-that-mean-for-humanitys-return-to-the-moon)
 - [Who needs data centers in space when they can float offshore?](https://techcrunch.com/2026/03/04/who-needs-data-centers-in-space-when-they-can-float-offshore/)
 - [The total lunar eclipse 2026 dazzles in incredible photos from around the world](https://www.space.com/stargazing/lunar-eclipses/the-total-lunar-eclipse-2026-dazzles-in-incredible-photos-from-around-the-world)
 - [Eight Sleep raises $50M at $1.5B valuation](https://techcrunch.com/2026/03/04/eight-sleep-raises-50m-at-1-5b-valuation/)
-- [Why AI startups are selling the same equity at two different prices](https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/)
-- [A suite of government hacking tools targeting iPhones is now being used by cybercriminals](https://techcrunch.com/2026/03/03/a-suite-of-government-hacking-tools-targeting-iphones-is-now-being-used-by-cybercriminals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
