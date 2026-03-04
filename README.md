@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Music to add Transparency Tags to distinguish AI music, says report](https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/)
 - [&#39;War of the Worlds&#39; in reverse? Mars dirt could help fight off a microbial invasion from Earth](https://www.space.com/space-exploration/search-for-life/war-of-the-worlds-in-reverse-mars-dirt-could-help-fight-off-a-microbial-invasion-from-earth)
 - [Google settles with Epic Games, drops its Play Store commissions to 20%](https://techcrunch.com/2026/03/04/google-settles-with-epic-games-drops-its-play-store-commissions-to-20/)
 - [His house burned down. He used the insurance money to build PopSockets.](https://techcrunch.com/video/his-house-burned-down-he-used-the-insurance-money-to-build-popsockets/)
 - [US and EU police shut down LeakBase, a site accused of sharing stolen passwords and hacking tools](https://techcrunch.com/2026/03/04/u-s-and-eu-police-shut-down-leakbase-a-site-accused-of-sharing-stolen-passwords-and-hacking-tools/)
-- [MacBook Neo, iPhone 17e, and everything else Apple announced this week](https://techcrunch.com/2026/03/04/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
