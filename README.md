@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One startup’s pitch to provide more reliable AI answers: crowdsource the chatbots](https://techcrunch.com/2026/03/04/one-startups-pitch-to-provide-more-reliable-ai-answers-crowdsource-the-chatbots/)
+- [Did these spruce trees really &#39;predict&#39; a solar eclipse? Scientists are split](https://www.space.com/stargazing/solar-eclipses/did-these-spruce-trees-really-predict-a-solar-eclipse-scientists-are-split)
 - [The best image stabilized binoculars 2026: Our guide to models from Canon, Nikon and Fujifilm.](https://www.space.com/stargazing/skywatching-kit/the-best-image-stabilized-binoculars-models-from-canon-nikon-and-fujifilm)
 - [NASA is overhauling its Artemis program. What does that mean for humanity&#39;s return to the moon?](https://www.space.com/space-exploration/artemis/nasa-is-overhauling-its-artemis-program-what-does-that-mean-for-humanitys-return-to-the-moon)
 - [Who needs data centers in space when they can float offshore?](https://techcrunch.com/2026/03/04/who-needs-data-centers-in-space-when-they-can-float-offshore/)
-- [The total lunar eclipse 2026 dazzles in incredible photos from around the world](https://www.space.com/stargazing/lunar-eclipses/the-total-lunar-eclipse-2026-dazzles-in-incredible-photos-from-around-the-world)
-- [Eight Sleep raises $50M at $1.5B valuation](https://techcrunch.com/2026/03/04/eight-sleep-raises-50m-at-1-5b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
