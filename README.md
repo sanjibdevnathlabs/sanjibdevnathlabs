@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why AI startups are selling the same equity at two different prices](https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/)
+- [A suite of government hacking tools targeting iPhones is now being used by cybercriminals](https://techcrunch.com/2026/03/03/a-suite-of-government-hacking-tools-targeting-iphones-is-now-being-used-by-cybercriminals/)
+- [NASA repairs Artemis 2 rocket, continues eyeing April moon launch](https://www.space.com/space-exploration/artemis/nasa-repairs-artemis-2-rocket-continues-eyeing-april-moon-launch)
 - [Alibaba’s Qwen tech lead steps down after major AI push](https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/)
 - [Just three companies dominated the $189B in VC investments last month](https://techcrunch.com/2026/03/03/openai-anthropic-waymo-dominated-189-billion-vc-investments-february-crunchbase-report/)
-- [TikTok down for some in US, thanks to second Oracle outage since sale](https://techcrunch.com/2026/03/03/tiktok-down-for-some-in-u-s-thanks-to-second-oracle-outage-since-sale/)
-- [Lessons from &#39;The Martian&#39;: How astronaut poop could help us settle the Red Planet](https://www.space.com/astronomy/mars/lessons-from-the-martian-how-astronaut-poop-could-help-us-settle-the-red-planet)
-- [AI companies are spending millions to thwart this former tech exec’s congressional bid](https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
