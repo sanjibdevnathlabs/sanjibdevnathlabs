@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The total lunar eclipse 2026 dazzles in incredible photos from around the world](https://www.space.com/stargazing/lunar-eclipses/the-total-lunar-eclipse-2026-dazzles-in-incredible-photos-from-around-the-world)
+- [Eight Sleep raises $50M at $1.5B valuation](https://techcrunch.com/2026/03/04/eight-sleep-raises-50m-at-1-5b-valuation/)
 - [Why AI startups are selling the same equity at two different prices](https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/)
 - [A suite of government hacking tools targeting iPhones is now being used by cybercriminals](https://techcrunch.com/2026/03/03/a-suite-of-government-hacking-tools-targeting-iphones-is-now-being-used-by-cybercriminals/)
 - [NASA repairs Artemis 2 rocket, continues eyeing April moon launch](https://www.space.com/space-exploration/artemis/nasa-repairs-artemis-2-rocket-continues-eyeing-april-moon-launch)
-- [Alibaba’s Qwen tech lead steps down after major AI push](https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/)
-- [Just three companies dominated the $189B in VC investments last month](https://techcrunch.com/2026/03/03/openai-anthropic-waymo-dominated-189-billion-vc-investments-february-crunchbase-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
