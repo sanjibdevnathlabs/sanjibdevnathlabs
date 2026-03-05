@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [US reportedly considering sweeping new chip export controls](https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/)
+- [Is Nus Braka&#39;s weapon in the latest &quot;Starfleet Academy&quot; a &quot;Galaxy Quest&quot; in-joke?](https://www.space.com/entertainment/space-movies-shows/is-nus-brakas-weapon-in-the-latest-starfleet-academy-a-galaxy-quest-in-joke)
+- [AWS launches a new AI agent platform specifically for healthcare](https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/)
+- [FBI investigating hack on its wiretap and surveillance systems: Report](https://techcrunch.com/2026/03/05/fbi-investigating-hack-on-its-wiretap-and-surveillance-systems-report/)
+- [US reportedly considering sweeping new chip export controls](https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/)
 - [Amazon is rolling out a redesigned Fire TV app](https://techcrunch.com/2026/03/05/amazon-is-rolling-out-a-redesigned-fire-tv-app/)
-- [BYD rolls out EV batteries with 5-minute ‘flash charging.’ But there’s a catch.](https://techcrunch.com/2026/03/05/byd-rolls-out-ev-batteries-with-5-minute-flash-charging-but-theres-a-catch/)
-- [Italian prosecutors confirm journalist was hacked with Paragon spyware](https://techcrunch.com/2026/03/05/italian-prosecutors-confirm-journalist-was-hacked-with-paragon-spyware/)
-- [Watch Rocket Lab launch mystery mission for confidential customer today](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-confidential-commercial-customer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
