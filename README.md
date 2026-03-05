@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [hackers now steal your data in 72 minutes](https://www.youtube.com/shorts/8DUV6axCC3M)
 - [From Bold Idea to Global Legacy: 25 Years of MIT OpenCourseWare  Live Webcast](https://www.youtube.com/watch?v=BwTAavpUeW0)
 - [Misinformation, AI, &amp; Science Photography](https://www.youtube.com/watch?v=GqvBDc8wiu0)
-- [your browser is holding your AI back](https://www.youtube.com/shorts/86MHiDGHUgo)
-- [they stole Claude’s brain 16 million times](https://www.youtube.com/shorts/lO961HRQn5Q)
+- [Cloudflare just slop forked Next.js…](https://www.youtube.com/watch?v=abbeIUOCzmw)
+- [For MIT OpenCourseWare&#39;s 25th anniversary, we want to hear your voice.](https://www.youtube.com/watch?v=9kmiynkyeKA)
+- [When open-sourcing your code goes wrong...](https://www.youtube.com/watch?v=wzzh7Not8XE)
 <!-- YOUTUBE:END -->
 
 ---
