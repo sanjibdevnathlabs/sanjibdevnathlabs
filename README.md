@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Match Group COO out, as dating apps struggle to connect with Gen Z](https://techcrunch.com/2026/03/05/match-group-coo-out-as-dating-apps-struggle-to-connect-with-gen-z/)
+- [Astronomers unveil largest 3D map yet of hydrogen light in the early universe, illuminating &#39;hidden&#39; cosmic structures](https://www.space.com/astronomy/astronomers-unveil-largest-3d-map-yet-of-hydrogen-light-in-the-early-universe-illuminating-hidden-cosmic-structures)
+- [Zeno raises $25M to speed up production of its battery-swap motorbikes](https://techcrunch.com/2026/03/05/zeno-raises-25m-to-speed-up-production-of-its-battery-swap-motorbikes/)
 - [Meta will allow rival AI chatbots on WhatsApp in Europe, but for a fee](https://techcrunch.com/2026/03/05/meta-will-allow-rival-ai-chatbots-on-whatsapp-in-europe-but-for-a-fee/)
 - [Science Corp raises $230M as it races to bring its brain implant to market](https://techcrunch.com/2026/03/05/science-corp-closes-230m-round-as-it-pushes-to-get-its-brain-implant-to-patients/)
-- [The best accessories for your new astrophotography camera](https://www.space.com/stargazing/skywatching-kit/the-best-accessories-for-your-new-astrophotography-camera)
-- [Enormous solar power array seen from orbit | Space photo of the day for March 5, 2026](https://www.space.com/space-exploration/satellites/enormous-solar-power-array-seen-from-orbit-space-photo-of-the-day-for-march-5-2026)
-- [How 1,000+ customer calls shaped a breakout enterprise AI startup](https://techcrunch.com/2026/03/05/how-1000-customer-calls-shaped-a-breakout-enterprise-ai-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
