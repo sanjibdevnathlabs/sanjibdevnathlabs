@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Match Group COO out, as dating apps struggle to connect with Gen Z](https://techcrunch.com/2026/03/05/match-group-coo-out-as-dating-apps-struggle-to-connect-with-gen-z/)
-- [Astronomers unveil largest 3D map yet of hydrogen light in the early universe, illuminating &#39;hidden&#39; cosmic structures](https://www.space.com/astronomy/astronomers-unveil-largest-3d-map-yet-of-hydrogen-light-in-the-early-universe-illuminating-hidden-cosmic-structures)
-- [Zeno raises $25M to speed up production of its battery-swap motorbikes](https://techcrunch.com/2026/03/05/zeno-raises-25m-to-speed-up-production-of-its-battery-swap-motorbikes/)
-- [Meta will allow rival AI chatbots on WhatsApp in Europe, but for a fee](https://techcrunch.com/2026/03/05/meta-will-allow-rival-ai-chatbots-on-whatsapp-in-europe-but-for-a-fee/)
-- [Science Corp raises $230M as it races to bring its brain implant to market](https://techcrunch.com/2026/03/05/science-corp-closes-230m-round-as-it-pushes-to-get-its-brain-implant-to-patients/)
+- [Making hummus on the moon? Scientists just grew chickpeas in simulated lunar dirt](https://www.space.com/astronomy/moon/making-hummus-on-the-moon-scientists-just-grew-chickpeas-in-simulated-lunar-dirt)
+- [Cursor is rolling out a new kind of agentic coding tool](https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/)
+- [Meta sued over AI smart glasses’ privacy concerns, after workers reviewed nudity, sex, and other footage](https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/)
+- [Anthropic CEO Dario Amodei could still be trying to make a deal with Pentagon](https://techcrunch.com/2026/03/05/anthropic-ceo-dario-amodei-could-still-be-trying-to-make-a-deal-with-pentagon/)
+- [Oura acquires Doublepoint, a startup that specializes in gesture recognition technology](https://techcrunch.com/2026/03/05/oura-acquires-doublepoint-a-startup-that-specializes-in-gesture-recognition-technology/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
