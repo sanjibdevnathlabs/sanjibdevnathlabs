@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US reportedly considering sweeping new chip export controls](https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/)
+- [Amazon is rolling out a redesigned Fire TV app](https://techcrunch.com/2026/03/05/amazon-is-rolling-out-a-redesigned-fire-tv-app/)
+- [BYD rolls out EV batteries with 5-minute ‘flash charging.’ But there’s a catch.](https://techcrunch.com/2026/03/05/byd-rolls-out-ev-batteries-with-5-minute-flash-charging-but-theres-a-catch/)
+- [Italian prosecutors confirm journalist was hacked with Paragon spyware](https://techcrunch.com/2026/03/05/italian-prosecutors-confirm-journalist-was-hacked-with-paragon-spyware/)
 - [Watch Rocket Lab launch mystery mission for confidential customer today](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-confidential-commercial-customer)
-- [It’s official: The Pentagon has labeled Anthropic a supply chain risk](https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/)
-- [X revamps Creator Subscriptions with new features, like exclusive threads and shareable cards](https://techcrunch.com/2026/03/05/x-revamps-creator-subscriptions-with-new-features-like-exclusive-threads-and-shareable-cards/)
-- [Good news for the moon: Famous asteroid 2024 YR4 won&#39;t smash into it in 2032](https://www.space.com/astronomy/asteroids/good-news-for-the-moon-infamous-asteroid-2024-yr4-wont-smash-into-it-in-2032)
-- [March is a great time to spot the odd glow of zodiacal light. Here&#39;s how to see it](https://www.space.com/stargazing/march-is-a-great-time-to-spot-the-odd-glow-of-zodiacal-light-heres-how-to-see-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
