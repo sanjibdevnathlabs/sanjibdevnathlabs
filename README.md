@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta will allow rival AI chatbots on WhatsApp in Europe, but for a fee](https://techcrunch.com/2026/03/05/meta-will-allow-rival-ai-chatbots-on-whatsapp-in-europe-but-for-a-fee/)
+- [Science Corp raises $230M as it races to bring its brain implant to market](https://techcrunch.com/2026/03/05/science-corp-closes-230m-round-as-it-pushes-to-get-its-brain-implant-to-patients/)
+- [The best accessories for your new astrophotography camera](https://www.space.com/stargazing/skywatching-kit/the-best-accessories-for-your-new-astrophotography-camera)
+- [Enormous solar power array seen from orbit | Space photo of the day for March 5, 2026](https://www.space.com/space-exploration/satellites/enormous-solar-power-array-seen-from-orbit-space-photo-of-the-day-for-march-5-2026)
 - [How 1,000+ customer calls shaped a breakout enterprise AI startup](https://techcrunch.com/2026/03/05/how-1000-customer-calls-shaped-a-breakout-enterprise-ai-startup/)
-- [Vast raises $500 million to keep developing &#39;Haven&#39; private space stations](https://www.space.com/space-exploration/human-spaceflight/vast-500-million-dollars-funding-haven-private-space-stations)
-- [Rivian is betting its future on one of the fastest EV launches in US history](https://techcrunch.com/2026/03/05/rivian-is-betting-its-future-one-of-the-fastest-ev-launches-in-us-history/)
-- [Lio raises $30M from Andreessen Horowitz and others to automate enterprise procurement](https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/)
-- [The Rubin Observatory will change the game for astronomy — if satellite companies don&#39;t get in the way](https://www.space.com/space-exploration/satellites/the-rubin-observatory-will-change-the-game-for-astronomy-if-satellite-companies-dont-get-in-the-way)
 <!-- BLOG-POST-LIST:END -->
 
 ---
