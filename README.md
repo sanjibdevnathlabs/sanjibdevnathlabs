@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rubin Observatory will change the game for astronomy — if satellite companies don&#39;t get in the way](https://www.space.com/space-exploration/satellites/the-rubin-observatory-will-change-the-game-for-astronomy-if-satellite-companies-dont-get-in-the-way)
 - [Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers](https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/)
 - [60 years of &#39;Star Trek&#39;: The colorful origins of the rainbow warp effect](https://www.space.com/entertainment/space-movies-shows/60-years-of-star-trek-the-colorful-origins-of-the-rainbow-warp-effect)
 - [Anthropic CEO Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies,’ report says](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/)
 - [Apple Music to add Transparency Tags to distinguish AI music, says report](https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/)
-- [&#39;War of the Worlds&#39; in reverse? Mars dirt could help fight off a microbial invasion from Earth](https://www.space.com/space-exploration/search-for-life/war-of-the-worlds-in-reverse-mars-dirt-could-help-fight-off-a-microbial-invasion-from-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
