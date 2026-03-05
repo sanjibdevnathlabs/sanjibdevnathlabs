@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Rocket Lab launch mystery mission for confidential customer today](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-confidential-commercial-customer)
+- [It’s official: The Pentagon has labeled Anthropic a supply chain risk](https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/)
+- [X revamps Creator Subscriptions with new features, like exclusive threads and shareable cards](https://techcrunch.com/2026/03/05/x-revamps-creator-subscriptions-with-new-features-like-exclusive-threads-and-shareable-cards/)
+- [Good news for the moon: Famous asteroid 2024 YR4 won&#39;t smash into it in 2032](https://www.space.com/astronomy/asteroids/good-news-for-the-moon-infamous-asteroid-2024-yr4-wont-smash-into-it-in-2032)
 - [March is a great time to spot the odd glow of zodiacal light. Here&#39;s how to see it](https://www.space.com/stargazing/march-is-a-great-time-to-spot-the-odd-glow-of-zodiacal-light-heres-how-to-see-it)
-- [Hardware testing startup Nominal hits $1B valuation, raises $155M in 10 months](https://techcrunch.com/2026/03/05/hardware-testing-startup-nominal-hits-1b-valuation-raises-155m-in-10-months/)
-- [Roblox launches real-time AI chat rephrasing to filter out banned language](https://techcrunch.com/2026/03/05/roblox-launches-real-time-ai-chat-rephrasing-to-filter-out-banned-language/)
-- [FYI: Impersonators are &lpar;still&rpar; targeting companies with fake TechCrunch outreach](https://techcrunch.com/2026/03/05/impersonators-scammers-targeting-companies-with-fake-techcrunch-outreach/)
-- [EXCLUSIVE: Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models](https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
