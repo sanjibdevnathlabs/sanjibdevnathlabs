@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Making hummus on the moon? Scientists just grew chickpeas in simulated lunar dirt](https://www.space.com/astronomy/moon/making-hummus-on-the-moon-scientists-just-grew-chickpeas-in-simulated-lunar-dirt)
-- [Cursor is rolling out a new kind of agentic coding tool](https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/)
-- [Meta sued over AI smart glasses’ privacy concerns, after workers reviewed nudity, sex, and other footage](https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/)
-- [Anthropic CEO Dario Amodei could still be trying to make a deal with Pentagon](https://techcrunch.com/2026/03/05/anthropic-ceo-dario-amodei-could-still-be-trying-to-make-a-deal-with-pentagon/)
-- [Oura acquires Doublepoint, a startup that specializes in gesture recognition technology](https://techcrunch.com/2026/03/05/oura-acquires-doublepoint-a-startup-that-specializes-in-gesture-recognition-technology/)
+- [March is a great time to spot the odd glow of zodiacal light. Here&#39;s how to see it](https://www.space.com/stargazing/march-is-a-great-time-to-spot-the-odd-glow-of-zodiacal-light-heres-how-to-see-it)
+- [Hardware testing startup Nominal hits $1B valuation, raises $155M in 10 months](https://techcrunch.com/2026/03/05/hardware-testing-startup-nominal-hits-1b-valuation-raises-155m-in-10-months/)
+- [Roblox launches real-time AI chat rephrasing to filter out banned language](https://techcrunch.com/2026/03/05/roblox-launches-real-time-ai-chat-rephrasing-to-filter-out-banned-language/)
+- [FYI: Impersonators are &lpar;still&rpar; targeting companies with fake TechCrunch outreach](https://techcrunch.com/2026/03/05/impersonators-scammers-targeting-companies-with-fake-techcrunch-outreach/)
+- [EXCLUSIVE: Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models](https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
