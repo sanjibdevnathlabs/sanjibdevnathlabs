@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum scale-up Pasqal plans $2B SPAC listing, promises to ‘remain French’](https://techcrunch.com/2026/03/06/quantum-scale-up-pasqal-plans-2b-spac-listing-promises-to-remain-french/)
-- [India’s Karnataka signals intent to ban social media for under-16s](https://techcrunch.com/2026/03/06/indias-karnataka-signals-intent-to-ban-social-media-for-under-16s/)
-- [After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil](https://techcrunch.com/2026/03/06/after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil/)
-- [Stunning Mars image highlights one of Red Planet&#39;s oldest cratered regions](https://www.space.com/astronomy/mars/stunning-mars-image-highlights-one-of-red-planets-oldest-cratered-regions)
-- [Enjoy &#39;For All Mankind&#39; spinoff series &#39;Star City&#39; anywhere with these VPN deals — save 74% off and a bonus free $50 Amazon voucher](https://www.space.com/technology/enjoy-for-all-mankind-spinoff-series-star-city-anywhere-with-these-vpn-deals-save-74-percent-off-and-a-bonus-free-usd50-amazon-voucher)
+- [TriZetto confirms 3.4M people’s health and personal data was stolen during breach](https://techcrunch.com/2026/03/06/trizetto-confirms-3-4m-peoples-health-and-personal-data-was-stolen-during-breach/)
+- [Indonesia outlines plan to limit under-16s’ access to social media](https://techcrunch.com/2026/03/06/indonesia-outlines-plan-to-limit-under-16s-access-to-social-media/)
+- [City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A](https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/)
+- [Nightfox Whisker night vision binoculars review](https://www.space.com/stargazing/skywatching-kit/nightfox-whisker-night-vision-binoculars-review)
+- [Crush the Rebels for less with money off this menacing, mid-sized Lego Star Wars AT-AT](https://www.space.com/entertainment/space-toys-lego/crush-the-rebels-for-less-with-money-off-this-menacing-mid-sized-lego-star-wars-at-at)
 <!-- BLOG-POST-LIST:END -->
 
 ---
