@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Celestron StarSense Explorer LT 70AZ beginner telescope review](https://www.space.com/stargazing/skywatching-kit/celestron-starsense-explorer-lt-70az-telescope-review)
+- [These are the countries moving to ban social media for children](https://techcrunch.com/2026/03/06/social-media-ban-children-countries-list/)
+- [The Marathon Collector’s Edition nails the assignment as Bungie&#39;s sci-fi shooter finally launches](https://www.space.com/entertainment/space-games/the-marathon-collectors-edition-nails-the-assignment-as-bungies-sci-fi-shooter-finally-launches)
+- [Cosmic Hawk spreads its wings| Space photo of the day for March 6, 2026](https://www.space.com/astronomy/galaxies/cosmic-hawk-spreads-its-wings-space-photo-of-the-day-for-march-6-2026)
 - [Did Earth life actually begin on Mars? Asteroid impacts could let microbes planet-hop, study suggests](https://www.space.com/space-exploration/search-for-life/did-earth-life-actually-begin-on-mars-asteroid-impacts-could-let-microbes-planet-hop-study-suggests)
-- [TriZetto confirms 3.4M people’s health and personal data was stolen during breach](https://techcrunch.com/2026/03/06/trizetto-confirms-3-4m-peoples-health-and-personal-data-was-stolen-during-breach/)
-- [Indonesia outlines plan to limit under-16s’ access to social media](https://techcrunch.com/2026/03/06/indonesia-outlines-plan-to-limit-under-16s-access-to-social-media/)
-- [City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A](https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/)
+- [Celestron StarSense Explorer LT 70AZ beginner telescope review](https://www.space.com/stargazing/skywatching-kit/celestron-starsense-explorer-lt-70az-telescope-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
