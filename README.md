@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quantum scale-up Pasqal plans $2B SPAC listing, promises to ‘remain French’](https://techcrunch.com/2026/03/06/quantum-scale-up-pasqal-plans-2b-spac-listing-promises-to-remain-french/)
+- [India’s Karnataka signals intent to ban social media for under-16s](https://techcrunch.com/2026/03/06/indias-karnataka-signals-intent-to-ban-social-media-for-under-16s/)
+- [After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil](https://techcrunch.com/2026/03/06/after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil/)
+- [Stunning Mars image highlights one of Red Planet&#39;s oldest cratered regions](https://www.space.com/astronomy/mars/stunning-mars-image-highlights-one-of-red-planets-oldest-cratered-regions)
 - [Enjoy &#39;For All Mankind&#39; spinoff series &#39;Star City&#39; anywhere with these VPN deals — save 74% off and a bonus free $50 Amazon voucher](https://www.space.com/technology/enjoy-for-all-mankind-spinoff-series-star-city-anywhere-with-these-vpn-deals-save-74-percent-off-and-a-bonus-free-usd50-amazon-voucher)
-- [Watch Japan&#39;s 1st HTV-X cargo craft leave the International Space Station today](https://www.space.com/space-exploration/international-space-station/japan-htv-x-depart-international-space-station-first-mission)
-- [Anthropic to challenge DOD’s supply-chain label in court](https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/)
-- [DiligenceSquared uses AI, voice agents to make M&amp;A research affordable](https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/)
-- [Cluely CEO Roy Lee admits to publicly lying about revenue numbers last year](https://techcrunch.com/2026/03/05/cluely-ceo-roy-lee-admits-to-publicly-lying-about-revenue-numbers-last-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
