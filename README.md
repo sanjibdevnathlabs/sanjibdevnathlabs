@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft: Anthropic Claude remains available to customers except the Defense Department](https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/)
+- [OSHA probing fatality at Rivian warehouse](https://techcrunch.com/2026/03/06/osha-probing-fatality-at-rivian-warehouse/)
+- [Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers](https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/)
+- [Bill Gates’ TerraPower gets approval to build new nuclear reactor](https://techcrunch.com/2026/03/06/bill-gates-terrapower-gets-approval-to-build-new-nuclear-reactor/)
 - [Mars orbiters witness solar superstorm striking the Red Planet: &#39;The timing was extremely lucky&#39;](https://www.space.com/astronomy/mars/mars-orbiters-witness-solar-superstorm-striking-the-red-planet-the-timing-was-extremely-lucky)
 - [Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks](https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/)
-- [Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts](https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/)
-- [20% off at Amazon, this super-cool Lego Marvel Iron Spider-Man Bust has never been cheaper](https://www.space.com/entertainment/space-toys-lego/20-percent-off-lego-marvel-iron-spider-man-bust-has-never-been-cheaper)
 <!-- BLOG-POST-LIST:END -->
 
 ---
