@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts](https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/)
+- [20% off at Amazon, this super-cool Lego Marvel Iron Spider-Man Bust has never been cheaper](https://www.space.com/entertainment/space-toys-lego/20-percent-off-lego-marvel-iron-spider-man-bust-has-never-been-cheaper)
+- [Claude’s consumer growth surge continues after Pentagon deal debacle](https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/)
+- [India PC shipments surpass pandemic peak as first-time users upgrade](https://techcrunch.com/2026/03/06/india-pc-shipments-surpass-pandemic-peak-as-first-time-users-upgrade/)
 - [NASA wants to accelerate its Artemis missions to the moon. It will need to drop some big hardware to do it.](https://www.space.com/space-exploration/artemis/nasa-wants-to-accelerate-its-artemis-missions-to-the-moon-it-will-need-to-drop-some-big-hardware-to-do-it)
-- [These are the countries moving to ban social media for children](https://techcrunch.com/2026/03/06/social-media-ban-children-countries-list/)
-- [The Marathon Collector’s Edition nails the assignment as Bungie&#39;s sci-fi shooter finally launches](https://www.space.com/entertainment/space-games/the-marathon-collectors-edition-nails-the-assignment-as-bungies-sci-fi-shooter-finally-launches)
-- [Cosmic Hawk spreads its wings| Space photo of the day for March 6, 2026](https://www.space.com/astronomy/galaxies/cosmic-hawk-spreads-its-wings-space-photo-of-the-day-for-march-6-2026)
-- [Celestron StarSense Explorer LT 70AZ beginner telescope review](https://www.space.com/stargazing/skywatching-kit/celestron-starsense-explorer-lt-70az-telescope-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
