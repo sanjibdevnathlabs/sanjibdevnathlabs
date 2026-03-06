@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: Anthropic Claude remains available to customers except the Defense Department](https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/)
+- [Mars orbiters witness solar superstorm striking the Red Planet: &#39;The timing was extremely lucky&#39;](https://www.space.com/astronomy/mars/mars-orbiters-witness-solar-superstorm-striking-the-red-planet-the-timing-was-extremely-lucky)
+- [Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks](https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/)
 - [Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts](https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/)
 - [20% off at Amazon, this super-cool Lego Marvel Iron Spider-Man Bust has never been cheaper](https://www.space.com/entertainment/space-toys-lego/20-percent-off-lego-marvel-iron-spider-man-bust-has-never-been-cheaper)
-- [Claude’s consumer growth surge continues after Pentagon deal debacle](https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/)
-- [India PC shipments surpass pandemic peak as first-time users upgrade](https://techcrunch.com/2026/03/06/india-pc-shipments-surpass-pandemic-peak-as-first-time-users-upgrade/)
-- [NASA wants to accelerate its Artemis missions to the moon. It will need to drop some big hardware to do it.](https://www.space.com/space-exploration/artemis/nasa-wants-to-accelerate-its-artemis-missions-to-the-moon-it-will-need-to-drop-some-big-hardware-to-do-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
