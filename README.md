@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will Proba-3 phone home? European solar-eclipse satellite goes dark](https://www.space.com/space-exploration/missions/will-proba-3-phone-home-european-solar-eclipse-satellite-goes-dark)
+- [Life EV officially owns Rad Power Bikes now](https://techcrunch.com/2026/03/06/life-ev-officially-owns-rad-power-bikes-now/)
 - [The universe is humming with ripples in spacetime: Scientists just doubled our catalog of black hole and neutron star collisions](https://www.space.com/astronomy/black-holes/the-universe-is-humming-with-ripples-in-spacetime-scientists-just-doubled-our-catalog-of-black-hole-and-neutron-star-collisions)
 - [OSHA probing fatality at Rivian warehouse](https://techcrunch.com/2026/03/06/osha-probing-fatality-at-rivian-warehouse/)
 - [Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers](https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/)
-- [Bill Gates’ TerraPower gets approval to build new nuclear reactor](https://techcrunch.com/2026/03/06/bill-gates-terrapower-gets-approval-to-build-new-nuclear-reactor/)
-- [Mars orbiters witness solar superstorm striking the Red Planet: &#39;The timing was extremely lucky&#39;](https://www.space.com/astronomy/mars/mars-orbiters-witness-solar-superstorm-striking-the-red-planet-the-timing-was-extremely-lucky)
 <!-- BLOG-POST-LIST:END -->
 
 ---
