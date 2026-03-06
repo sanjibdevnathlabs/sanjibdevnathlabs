@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic to challenge DOD’s supply chain label in court](https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/)
 - [DiligenceSquared uses AI, voice agents to make M&amp;A research affordable](https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/)
 - [Cluely CEO Roy Lee admits to publicly lying about revenue numbers last year](https://techcrunch.com/2026/03/05/cluely-ceo-roy-lee-admits-to-publicly-lying-about-revenue-numbers-last-year/)
 - [Is Nus Braka&#39;s weapon in the latest &quot;Starfleet Academy&quot; a &quot;Galaxy Quest&quot; in-joke?](https://www.space.com/entertainment/space-movies-shows/is-nus-brakas-weapon-in-the-latest-starfleet-academy-a-galaxy-quest-in-joke)
 - [AWS launches a new AI agent platform specifically for healthcare](https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/)
-- [FBI investigating hack on its wiretap and surveillance systems: Report](https://techcrunch.com/2026/03/05/fbi-investigating-hack-on-its-wiretap-and-surveillance-systems-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
