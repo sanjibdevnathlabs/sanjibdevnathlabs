@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Enjoy &#39;For All Mankind&#39; spinoff series &#39;Star City&#39; anywhere with these VPN deals — save 74% off and a bonus free $50 Amazon voucher](https://www.space.com/technology/enjoy-for-all-mankind-spinoff-series-star-city-anywhere-with-these-vpn-deals-save-74-percent-off-and-a-bonus-free-usd50-amazon-voucher)
 - [Watch Japan&#39;s 1st HTV-X cargo craft leave the International Space Station today](https://www.space.com/space-exploration/international-space-station/japan-htv-x-depart-international-space-station-first-mission)
 - [Anthropic to challenge DOD’s supply-chain label in court](https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/)
 - [DiligenceSquared uses AI, voice agents to make M&amp;A research affordable](https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/)
 - [Cluely CEO Roy Lee admits to publicly lying about revenue numbers last year](https://techcrunch.com/2026/03/05/cluely-ceo-roy-lee-admits-to-publicly-lying-about-revenue-numbers-last-year/)
-- [Is Nus Braka&#39;s weapon in the latest &quot;Starfleet Academy&quot; a &quot;Galaxy Quest&quot; in-joke?](https://www.space.com/entertainment/space-movies-shows/is-nus-brakas-weapon-in-the-latest-starfleet-academy-a-galaxy-quest-in-joke)
 <!-- BLOG-POST-LIST:END -->
 
 ---
