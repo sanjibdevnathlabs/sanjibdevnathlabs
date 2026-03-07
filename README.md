@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Grammarly’s ‘expert review’ is just missing the actual experts](https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/)
 - [OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal](https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/)
 - [PopSockets founder David Barnett talks about building a viral business](https://techcrunch.com/2026/03/07/popsockets-founder-david-barnett-talks-about-building-a-viral-business/)
 - [OpenAI delays ChatGPT’s ‘adult mode’ again](https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/)
 - [A jellyfish or a brain? Tell us what you see in this gorgeous deep-space nebula photo](https://www.space.com/stargazing/astrophotography/a-jellyfish-or-a-brain-tell-us-what-you-see-in-this-gorgeous-deep-space-nebula-photo)
-- [This Week In Space podcast: Episode 200 — Our 200th Episode Listener Special!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-200-our-200th-episode-listener-special)
 <!-- BLOG-POST-LIST:END -->
 
 ---
