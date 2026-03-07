@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Living in space can change where your brain sits in your skull – new research](https://www.space.com/space-exploration/human-spaceflight/living-in-space-can-change-where-your-brain-sits-in-your-skull-new-research)
 - [Fujifilm X-H2 camera review](https://www.space.com/stargazing/astrophotography/fujifilm-x-h2-camera-review)
 - [Robinhood’s startup fund stumbles in NYSE debut](https://techcrunch.com/2026/03/06/robinhoods-startup-fund-stumbles-in-nyse-debut/)
 - [X is testing a new ad format that connects posts with products](https://techcrunch.com/2026/03/06/x-is-testing-a-new-ad-format-that-connects-posts-with-products/)
 - [Nintendo sues the US government for a refund on tariffs](https://techcrunch.com/2026/03/06/nintendo-sues-the-u-s-government-for-a-refund-on-tariffs/)
-- [Will Proba-3 phone home? European solar-eclipse satellite goes dark](https://www.space.com/space-exploration/missions/will-proba-3-phone-home-european-solar-eclipse-satellite-goes-dark)
 <!-- BLOG-POST-LIST:END -->
 
 ---
