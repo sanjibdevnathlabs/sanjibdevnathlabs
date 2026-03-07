@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [the prompting trick nobody teaches you](https://www.youtube.com/shorts/X-3aaDeP9Rw)
-- [She Quit Her Stable Job to Become a DevOps Engineer &lpar;And is Now a Golden Kubestronaut&rpar;](https://www.youtube.com/watch?v=q6x8J7QIakI)
-- [Coding a Guitar Sound in C - Computerphile](https://www.youtube.com/watch?v=Ly1v1BRVpz4)
 - [hackers now steal your data in 72 minutes](https://www.youtube.com/shorts/8DUV6axCC3M)
-- [From Bold Idea to Global Legacy: 25 Years of MIT OpenCourseWare  Live Webcast](https://www.youtube.com/watch?v=BwTAavpUeW0)
+- [your browser is holding your AI back](https://www.youtube.com/shorts/86MHiDGHUgo)
+- [they stole Claude’s brain 16 million times](https://www.youtube.com/shorts/lO961HRQn5Q)
+- [Cloudflare just slop forked Next.js…](https://www.youtube.com/watch?v=abbeIUOCzmw)
 <!-- YOUTUBE:END -->
 
 ---
