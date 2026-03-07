@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [the prompting trick nobody teaches you](https://www.youtube.com/shorts/X-3aaDeP9Rw)
+- [She Quit Her Stable Job to Become a DevOps Engineer &lpar;And is Now a Golden Kubestronaut&rpar;](https://www.youtube.com/watch?v=q6x8J7QIakI)
 - [Coding a Guitar Sound in C - Computerphile](https://www.youtube.com/watch?v=Ly1v1BRVpz4)
-- [Cloudflare just slop forked Next.js…](https://www.youtube.com/watch?v=abbeIUOCzmw)
-- [When open-sourcing your code goes wrong...](https://www.youtube.com/watch?v=wzzh7Not8XE)
-- [Cyclic Redundancy Check &lpar;CRC&rpar; - Computerphile](https://www.youtube.com/watch?v=_x0vbnUKYSU)
-- [TanStack Start in 100 Seconds](https://www.youtube.com/watch?v=1fUBWAETmkk)
+- [hackers now steal your data in 72 minutes](https://www.youtube.com/shorts/8DUV6axCC3M)
+- [From Bold Idea to Global Legacy: 25 Years of MIT OpenCourseWare  Live Webcast](https://www.youtube.com/watch?v=BwTAavpUeW0)
 <!-- YOUTUBE:END -->
 
 ---
