@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bungie explains Marathon&#39;s &#39;graphic retro futurism&#39; aesthetic and the &#39;live narrative&#39; lessons it learned from &#39;Destiny&#39; &lpar;Interview&rpar;](https://www.space.com/entertainment/space-games/bungie-explains-marathons-graphic-retro-futurism-aesthetic-and-the-live-narrative-lessons-it-learned-from-destiny-interview)
 - [Sigweis night vision binoculars review](https://www.space.com/stargazing/skywatching-kit/sigweis-night-vision-binoculars-review)
 - [Living in space can change where your brain sits in your skull – new research](https://www.space.com/space-exploration/human-spaceflight/living-in-space-can-change-where-your-brain-sits-in-your-skull-new-research)
 - [Fujifilm X-H2 camera review](https://www.space.com/stargazing/astrophotography/fujifilm-x-h2-camera-review)
 - [Robinhood’s startup fund stumbles in NYSE debut](https://techcrunch.com/2026/03/06/robinhoods-startup-fund-stumbles-in-nyse-debut/)
-- [X is testing a new ad format that connects posts with products](https://techcrunch.com/2026/03/06/x-is-testing-a-new-ad-format-that-connects-posts-with-products/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
