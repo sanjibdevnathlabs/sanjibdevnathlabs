@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Mobility: Rivian’s R2 gambit](https://techcrunch.com/2026/03/08/techcrunch-mobility-rivians-r2-gambit/)
 - [I spoke to the writers behind the trippy new sci-fi novel &#39;Detour&#39;: &#39;Things don&#39;t need to be 100% correct, but they do have to be believable&#39;](https://www.space.com/entertainment/space-books/i-spoke-to-the-writers-behind-the-trippy-new-sci-fi-novel-detour-things-dont-need-to-be-100-percent-correct-but-they-do-have-to-be-believable)
 - [A Plan B for space? On the risks of concentrating national space power in private hands](https://www.space.com/space-exploration/a-plan-b-for-space-on-the-risks-of-concentrating-national-space-power-in-private-hands)
 - [Where are all the aliens? Maybe space weather is scrambling their transmissions](https://www.space.com/space-exploration/search-for-life/where-are-all-the-aliens-maybe-space-weather-is-scrambling-their-transmissions)
 - [A roadmap for AI, if anyone will listen](https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/)
-- [Push for $40 smartphones builds momentum, but still faces cost hurdles](https://techcrunch.com/2026/03/07/push-for-40-smartphones-builds-momentum-but-still-faces-cost-hurdles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
