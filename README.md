@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Palmer Luckey’s retro gaming startup ModRetro reportedly seeks funding at $1B valuation](https://techcrunch.com/2026/03/08/palmer-luckeys-retro-gaming-startup-modretro-reportedly-seeks-funding-at-1b-valuation/)
+- [SpaceX springs forward with another Starlink launch from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-18-b1097-vsfb-ocisl)
 - [Will the Pentagon’s Anthropic controversy scare startups away from defense work?](https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/)
 - [Owner of ICE detention facility sees big opportunity in AI man camps](https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/)
 - [TechCrunch Mobility: Rivian’s R2 gambit](https://techcrunch.com/2026/03/08/techcrunch-mobility-rivians-r2-gambit/)
-- [I spoke to the writers behind the trippy new sci-fi novel &#39;Detour&#39;: &#39;Things don&#39;t need to be 100% correct, but they do have to be believable&#39;](https://www.space.com/entertainment/space-books/i-spoke-to-the-writers-behind-the-trippy-new-sci-fi-novel-detour-things-dont-need-to-be-100-percent-correct-but-they-do-have-to-be-believable)
-- [A Plan B for space? On the risks of concentrating national space power in private hands](https://www.space.com/space-exploration/a-plan-b-for-space-on-the-risks-of-concentrating-national-space-power-in-private-hands)
 <!-- BLOG-POST-LIST:END -->
 
 ---
