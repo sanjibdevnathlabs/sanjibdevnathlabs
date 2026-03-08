@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google just gave Sundar Pichai a $692M pay package](https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/)
 - [Grammarly’s ‘expert review’ is just missing the actual experts](https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/)
 - [OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal](https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/)
 - [PopSockets founder David Barnett talks about building a viral business](https://techcrunch.com/2026/03/07/popsockets-founder-david-barnett-talks-about-building-a-viral-business/)
 - [OpenAI delays ChatGPT’s ‘adult mode’ again](https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/)
-- [A jellyfish or a brain? Tell us what you see in this gorgeous deep-space nebula photo](https://www.space.com/stargazing/astrophotography/a-jellyfish-or-a-brain-tell-us-what-you-see-in-this-gorgeous-deep-space-nebula-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
