@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The 2027 Chevy Bolt is the McRib of the automotive world](https://techcrunch.com/2026/03/09/the-2027-chevy-bolt-is-the-mcrib-of-the-automotive-world/)
-- [Future spacecraft could fix their own damage using &#39;self-healing&#39; materials](https://www.space.com/technology/future-spacecraft-could-fix-their-own-damage-using-self-healing-materials)
-- [&#39;Project Hail Mary&#39;&#39;s final teaser trailer is &#39;Amaze! Amaze! Amaze!&#39;](https://www.space.com/entertainment/space-movies-shows/project-hail-marys-final-teaser-trailer-is-amaze-amaze-amaze)
-- [Flipkart moves its headquarters back to India ahead of IPO](https://techcrunch.com/2026/03/09/flipkart-moves-its-headquarters-back-to-india-ahead-of-ipo/)
-- [Congress wants the International Space Station to keep flying until 2032. Here&#39;s why](https://www.space.com/space-exploration/human-spaceflight/congress-wants-the-international-space-station-to-keep-flying-until-2032-heres-why)
+- [Salt Typhoon is hacking the world’s phone and internet giants. Here’s everywhere that’s been hit.](https://techcrunch.com/2026/03/09/salt-typhoon-china-who-has-been-hacked-global-telecom-giants/)
+- [Anthropic sues Defense Department over supply chain risk designation](https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/)
+- [Sandberg, Clegg join Nscale board as this ‘Stargate Norway’ startup hits $14.6B  valuation](https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/)
+- [Spectacular fireball over Europe sends meteorite crashing through roof of German home](https://www.space.com/stargazing/meteor-showers/spectacular-fireball-over-europe-sends-meteorite-crashing-through-roof-of-german-home)
+- [Zoox starts mapping Dallas and Phoenix for its robotaxis](https://techcrunch.com/2026/03/09/zoox-starts-mapping-dallas-and-phoenix-for-its-robotaxis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
