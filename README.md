@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Congress wants the International Space Station to keep flying until 2032. Here&#39;s why](https://www.space.com/space-exploration/human-spaceflight/congress-wants-the-international-space-station-to-keep-flying-until-2032-heres-why)
 - [Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help](https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/)
 - [Palmer Luckey’s retro gaming startup ModRetro reportedly seeks funding at $1B valuation](https://techcrunch.com/2026/03/08/palmer-luckeys-retro-gaming-startup-modretro-reportedly-seeks-funding-at-1b-valuation/)
 - [SpaceX springs forward with another Starlink launch from California &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-18-b1097-vsfb-ocisl)
 - [Will the Pentagon’s Anthropic controversy scare startups away from defense work?](https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/)
-- [Owner of ICE detention facility sees big opportunity in AI man camps](https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
