@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Salt Typhoon is hacking the world’s phone and internet giants. Here’s everywhere that’s been hit.](https://techcrunch.com/2026/03/09/salt-typhoon-china-who-has-been-hacked-global-telecom-giants/)
-- [Anthropic sues Defense Department over supply chain risk designation](https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/)
-- [Sandberg, Clegg join Nscale board as this ‘Stargate Norway’ startup hits $14.6B  valuation](https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/)
-- [Spectacular fireball over Europe sends meteorite crashing through roof of German home](https://www.space.com/stargazing/meteor-showers/spectacular-fireball-over-europe-sends-meteorite-crashing-through-roof-of-german-home)
-- [Zoox starts mapping Dallas and Phoenix for its robotaxis](https://techcrunch.com/2026/03/09/zoox-starts-mapping-dallas-and-phoenix-for-its-robotaxis/)
+- [Slate Auto changes CEO months ahead of affordable EV launch](https://techcrunch.com/2026/03/09/slate-auto-changes-ceo-months-ahead-of-affordable-ev-launch/)
+- [China&#39;s 1st moon astronauts could land in Rimae Bode, a &#39;geological museum&#39; on the lunar near side](https://www.space.com/astronomy/moon/china-first-astronaut-moon-landing-mission-rimae-bode)
+- [Xprize founder Peter Diamandis launches new contest to manifest a new Star Trek](https://techcrunch.com/2026/03/09/xprize-founder-peter-diamandis-launches-new-contest-to-manifest-a-new-star-trek/)
+- [Qualcomm’s partnership with Neura Robotics is just the beginning](https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/)
+- [Russian government hackers targeting Signal and WhatsApp users, Dutch spies warn](https://techcrunch.com/2026/03/09/russian-government-hackers-targeting-signal-and-whatsapp-users-dutch-spies-warn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
