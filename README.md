@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Periwinkle is making self-hosted social media on Bluesky’s AT Protocol even easier](https://techcrunch.com/2026/03/09/periwinkle-at-protocol-bluesky-self-hosted-social-media/)
+- [The 1st trailer for HBO&#39;s &#39;Lanterns&#39; drops with no green, no aliens, and a boatload of f-bombs](https://www.space.com/entertainment/space-movies-shows/the-1st-trailer-for-hbos-lanterns-drops-with-no-green-no-aliens-and-a-boatload-of-f-bombs)
+- [OpenAI acquires Promptfoo to secure its AI agents](https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/)
 - [GM figured out how to navigate EV uncertainty with the Chevy Bolt](https://techcrunch.com/2026/03/09/gm-figured-out-how-to-navigate-ev-uncertainty-with-the-chevy-bolt/)
 - [Anthropic sues Defense Department over supply chain risk designation](https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/)
-- [Slate Auto changes CEO months ahead of affordable EV launch](https://techcrunch.com/2026/03/09/slate-auto-changes-ceo-months-ahead-of-affordable-ev-launch/)
-- [China&#39;s 1st moon astronauts could land in Rimae Bode, a &#39;geological museum&#39; on the lunar near side](https://www.space.com/astronomy/moon/china-first-astronaut-moon-landing-mission-rimae-bode)
-- [Xprize founder Peter Diamandis launches new contest to manifest a new Star Trek](https://techcrunch.com/2026/03/09/xprize-founder-peter-diamandis-launches-new-contest-to-manifest-a-new-star-trek/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
