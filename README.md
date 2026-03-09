@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit](https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/)
 - [Jupiter appears to change direction in the evening sky on March 10: Here&#39;s why](https://www.space.com/stargazing/jupiter-appears-to-change-direction-in-the-evening-sky-on-march-10-heres-why)
 - [Anthropic launches code review tool to check flood of AI-generated code](https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/)
 - [Bluesky CEO Jay Graber steps down](https://techcrunch.com/2026/03/09/bluesky-ceo-jay-graber-steps-down/)
 - [It looks like the DOJ isn’t going to break up Live Nation and Ticketmaster](https://techcrunch.com/2026/03/09/it-looks-like-the-doj-isnt-going-to-break-up-live-nation-and-ticketmaster/)
-- [Periwinkle is making self-hosted social media on Bluesky’s AT Protocol even easier](https://techcrunch.com/2026/03/09/periwinkle-at-protocol-bluesky-self-hosted-social-media/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
