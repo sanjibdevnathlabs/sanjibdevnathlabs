@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Electric air taxis are about to take flight in 26 states](https://techcrunch.com/2026/03/09/electric-air-taxis-are-about-to-take-flight-in-26-states/)
 - [Incoming! 1,300-pound NASA satellite will crash to Earth on March 10](https://www.space.com/space-exploration/satellites/incoming-1-300-pound-nasa-satellite-will-crash-to-earth-on-march-10)
 - [OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit](https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/)
 - [Jupiter appears to change direction in the evening sky on March 10: Here&#39;s why](https://www.space.com/stargazing/jupiter-appears-to-change-direction-in-the-evening-sky-on-march-10-heres-why)
 - [Anthropic launches code review tool to check flood of AI-generated code](https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/)
-- [Bluesky CEO Jay Graber steps down](https://techcrunch.com/2026/03/09/bluesky-ceo-jay-graber-steps-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
