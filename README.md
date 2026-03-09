@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [YouTube BROKE but the ads kept working...](https://www.youtube.com/shorts/RHQmwsw5Aeo)
 - [Why Are Companies Still Desperate for DevOps Engineers?](https://www.youtube.com/shorts/y-oHoNdoxcU)
 - [the prompting trick nobody teaches you](https://www.youtube.com/shorts/X-3aaDeP9Rw)
 - [She Quit Her Stable Job to Become a DevOps Engineer &lpar;And is Now a Golden Kubestronaut&rpar;](https://www.youtube.com/watch?v=q6x8J7QIakI)
 - [Coding a Guitar Sound in C - Computerphile](https://www.youtube.com/watch?v=Ly1v1BRVpz4)
-- [hackers now steal your data in 72 minutes](https://www.youtube.com/shorts/8DUV6axCC3M)
 <!-- YOUTUBE:END -->
 
 ---
