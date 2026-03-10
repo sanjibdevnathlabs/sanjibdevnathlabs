@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon launches its healthcare AI assistant on its website and app](https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/)
+- [DOGE employee stole Social Security data and put it on a thumb drive, report says](https://techcrunch.com/2026/03/10/doge-employee-stole-social-security-data-and-put-it-on-a-thumb-drive-report-says/)
+- [&#39;War Machine&#39;s&#39; Alan Ritchson and director Patrick Hughes on why they filmed the action flick &#39;like a horror movie&#39; &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/war-machines-alan-ritchson-and-director-patrick-hughes-on-why-they-filmed-the-action-flick-like-a-horror-movie-interview)
+- [‘Pokémon Pokopia’ is a game about rehabilitating a broken world — and I love it](https://techcrunch.com/2026/03/10/pokemon-pokopia-review-animal-crossing-ditto-nintendo-switch/)
 - [YouTube surpasses Disney, Paramount, WBD in 2025 ad revenue](https://techcrunch.com/2026/03/10/youtube-surpasses-disney-paramount-wbd-in-2025-ad-revenue/)
-- [The moon hits its third quarter phase tomorrow! Here&#39;s what you need to know](https://www.space.com/stargazing/the-moon-hits-its-third-quarter-phase-tomorrow-heres-what-you-need-to-know)
-- [AI-powered apps can make money, but struggle with long-term retention, new data shows](https://techcrunch.com/2026/03/10/ai-powered-apps-can-make-money-but-struggle-with-long-term-retention-new-data-shows/)
-- [Mandiant’s founder just raised $190M for his autonomous AI agent security startup](https://techcrunch.com/2026/03/10/mandiants-founder-just-raised-190m-for-his-autonomous-ai-agent-security-startup/)
-- [&#39;Easter comet&#39; could be visible in daytime skies this April — if it survives a fiery dive past the sun](https://www.space.com/astronomy/comets/easter-comet-could-be-visible-in-daytime-skies-this-april-if-it-survives-a-fiery-dive-past-the-sun)
 <!-- BLOG-POST-LIST:END -->
 
 ---
