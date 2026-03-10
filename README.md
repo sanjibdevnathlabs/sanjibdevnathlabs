@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Pokémon Pokopia’ is even better than ‘Animal Crossing: New Horizons’](https://techcrunch.com/2026/03/10/pokemon-pokopia-is-even-better-than-animal-crossing-new-horizons/)
+- [AgentMail raises $6M to build an email service for AI agents](https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/)
+- [NASA just picked a new upper stage for its SLS moon rocket amid Artemis shakeup](https://www.space.com/space-exploration/artemis/nasa-selects-new-upper-stage-for-sls-moon-rocket-amid-artemis-shakeup)
 - [Thinking Machines Lab inks massive compute deal with Nvidia](https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/)
 - [Google gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature](https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/)
-- [Legora reaches $5.55 billion valuation as AI legal tech boom endures](https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/)
-- [Meta acquired Moltbook, the AI agent social network that went viral because of fake posts](https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/)
-- [A star dies in the Cat&#39;s Eye | Space photo of the day for March 10, 2026](https://www.space.com/astronomy/galaxies/a-star-dies-in-the-cats-eye-space-photo-of-the-day-for-march-10-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
