@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mandiant’s founder just raised $190M for his autonomous AI agent security startup](https://techcrunch.com/2026/03/10/mandiants-founder-just-raised-190m-for-his-autonomous-ai-agent-security-startup/)
+- [&#39;Easter comet&#39; could be visible in daytime skies this April — if it survives a fiery dive past the sun](https://www.space.com/astronomy/comets/easter-comet-could-be-visible-in-daytime-skies-this-april-if-it-survives-a-fiery-dive-past-the-sun)
+- [ChatGPT can now create interactive visuals to help you understand math and science concepts](https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/)
+- [U.S. military contractor likely built iPhone hacking tools used by Russian spies in Ukraine](https://techcrunch.com/2026/03/10/us-military-contractor-likely-built-iphone-hacking-tools-used-by-russian-spies-in-ukraine/)
 - [‘Pokémon Pokopia’ is even better than ‘Animal Crossing: New Horizons’](https://techcrunch.com/2026/03/10/pokemon-pokopia-is-even-better-than-animal-crossing-new-horizons/)
-- [AgentMail raises $6M to build an email service for AI agents](https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/)
-- [NASA just picked a new upper stage for its SLS moon rocket amid Artemis shakeup](https://www.space.com/space-exploration/artemis/nasa-selects-new-upper-stage-for-sls-moon-rocket-amid-artemis-shakeup)
-- [Thinking Machines Lab inks massive compute deal with Nvidia](https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/)
-- [Google gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature](https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
