@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Yann LeCun’s AMI Labs raises $1.03 billion to build world models](https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/)
 - [An iPhone-hacking toolkit used by Russian spies likely came from U.S military contractor](https://techcrunch.com/2026/03/09/an-iphone-hacking-toolkit-used-by-russian-spies-likely-came-from-u-s-military-contractor/)
 - [Electric air taxi maker Archer hits back at Joby in countersuit alleging concealed Chinese ties](https://techcrunch.com/2026/03/09/electric-air-taxi-maker-archer-hits-back-at-joby-in-countersuit-alleging-concealed-chinese-ties/)
 - [Founders Fund nears $6B close for latest growth fund, sources say](https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/)
 - [Electric air taxis are about to take flight in 26 states](https://techcrunch.com/2026/03/09/electric-air-taxis-are-about-to-take-flight-in-26-states/)
-- [Incoming! 1,300-pound NASA satellite will crash to Earth on March 10](https://www.space.com/space-exploration/satellites/incoming-1-300-pound-nasa-satellite-will-crash-to-earth-on-march-10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
