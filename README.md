@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The greatest unsolved problem in computer science...](https://www.youtube.com/watch?v=x36UmiSiEzc)
-- [YouTube BROKE but the ads kept working...](https://www.youtube.com/shorts/RHQmwsw5Aeo)
-- [Why Are Companies Still Desperate for DevOps Engineers?](https://www.youtube.com/shorts/y-oHoNdoxcU)
-- [the prompting trick nobody teaches you](https://www.youtube.com/shorts/X-3aaDeP9Rw)
-- [She Quit Her Stable Job to Become a DevOps Engineer &lpar;And is Now a Golden Kubestronaut&rpar;](https://www.youtube.com/watch?v=q6x8J7QIakI)
+- [Coding a Guitar Sound in C - Computerphile](https://www.youtube.com/watch?v=Ly1v1BRVpz4)
+- [Cyclic Redundancy Check &lpar;CRC&rpar; - Computerphile](https://www.youtube.com/watch?v=_x0vbnUKYSU)
+- [Bad Bot Problem - Computerphile](https://www.youtube.com/watch?v=AjQNDCYL5Rg)
+- [Digital Signal Processing With Audio Data - Computerphile](https://www.youtube.com/watch?v=zuZBkTNrv0g)
+- [Network Basics - Transport Layer and User Datagram Protocol Explained - Computerphile](https://www.youtube.com/watch?v=ihvbhwGblQg)
 <!-- YOUTUBE:END -->
 
 ---
