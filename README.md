@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Whoop launches a new blood test focused on women’s health](https://techcrunch.com/2026/03/10/whoop-launches-a-new-blood-test-focused-on-womens-health/)
+- [NASA&#39;s asteroid-smashing spacecraft managed to alter target space rocks&#39; orbit around the sun](https://www.space.com/space-exploration/asteroid-comet-missions/nasas-asteroid-smashing-spacecraft-managed-to-alter-target-space-rocks-orbit-around-the-sun)
 - [Uzbekistan’s Uzum valuation leaps over 50% in seven months to $2.3B](https://techcrunch.com/2026/03/10/uzbekistans-uzum-valuation-rises-1-5x-in-seven-months-to-2-3b/)
 - [Apple now makes one in four iPhones in India: report](https://techcrunch.com/2026/03/09/apple-now-makes-one-in-four-iphones-in-india-report/)
 - [SpaceX launches 15,000-pound TV satellite to orbit on its 30th mission of the year &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-15-000-pound-tv-satellite-to-orbit-on-its-30th-mission-of-the-year-photos)
-- [Yann LeCun’s AMI Labs raises $1.03 billion to build world models](https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/)
-- [An iPhone-hacking toolkit used by Russian spies likely came from U.S military contractor](https://techcrunch.com/2026/03/09/an-iphone-hacking-toolkit-used-by-russian-spies-likely-came-from-u-s-military-contractor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
