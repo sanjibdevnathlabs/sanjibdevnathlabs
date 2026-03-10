@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube surpasses Disney, Paramount, WBD in 2025 ad revenue](https://techcrunch.com/2026/03/10/youtube-surpasses-disney-paramount-wbd-in-2025-ad-revenue/)
+- [The moon hits its third quarter phase tomorrow! Here&#39;s what you need to know](https://www.space.com/stargazing/the-moon-hits-its-third-quarter-phase-tomorrow-heres-what-you-need-to-know)
+- [AI-powered apps can make money, but struggle with long-term retention, new data shows](https://techcrunch.com/2026/03/10/ai-powered-apps-can-make-money-but-struggle-with-long-term-retention-new-data-shows/)
 - [Mandiant’s founder just raised $190M for his autonomous AI agent security startup](https://techcrunch.com/2026/03/10/mandiants-founder-just-raised-190m-for-his-autonomous-ai-agent-security-startup/)
 - [&#39;Easter comet&#39; could be visible in daytime skies this April — if it survives a fiery dive past the sun](https://www.space.com/astronomy/comets/easter-comet-could-be-visible-in-daytime-skies-this-april-if-it-survives-a-fiery-dive-past-the-sun)
-- [ChatGPT can now create interactive visuals to help you understand math and science concepts](https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/)
-- [U.S. military contractor likely built iPhone hacking tools used by Russian spies in Ukraine](https://techcrunch.com/2026/03/10/us-military-contractor-likely-built-iphone-hacking-tools-used-by-russian-spies-in-ukraine/)
-- [‘Pokémon Pokopia’ is even better than ‘Animal Crossing: New Horizons’](https://techcrunch.com/2026/03/10/pokemon-pokopia-is-even-better-than-animal-crossing-new-horizons/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
