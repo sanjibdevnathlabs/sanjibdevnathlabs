@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sandbar secures $23M Series A for its AI note-taking ring](https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/)
+- [AI network startup Eridu emerges from stealth with hefty $200M Series A](https://techcrunch.com/2026/03/10/ai-network-startup-eridu-emerges-from-stealth-with-hefty-200m-series-a/)
+- [SpaceX is &#39;about 4 weeks&#39; away from launching its most powerful Starship yet, Elon Musk says](https://www.space.com/space-exploration/launches-spacecraft/spacex-is-about-4-weeks-away-from-launching-its-most-powerful-starship-yet-elon-musk-says)
 - [Whoop launches a new blood test focused on women’s health](https://techcrunch.com/2026/03/10/whoop-launches-a-new-blood-test-focused-on-womens-health/)
 - [NASA&#39;s asteroid-smashing spacecraft managed to alter target space rocks&#39; orbit around the sun](https://www.space.com/space-exploration/asteroid-comet-missions/nasas-asteroid-smashing-spacecraft-managed-to-alter-target-space-rocks-orbit-around-the-sun)
-- [Uzbekistan’s Uzum valuation leaps over 50% in seven months to $2.3B](https://techcrunch.com/2026/03/10/uzbekistans-uzum-valuation-rises-1-5x-in-seven-months-to-2-3b/)
-- [Apple now makes one in four iPhones in India: report](https://techcrunch.com/2026/03/09/apple-now-makes-one-in-four-iphones-in-india-report/)
-- [SpaceX launches 15,000-pound TV satellite to orbit on its 30th mission of the year &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-15-000-pound-tv-satellite-to-orbit-on-its-30th-mission-of-the-year-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
