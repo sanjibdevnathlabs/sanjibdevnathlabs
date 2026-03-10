@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Adobe is debuting an AI assistant for Photoshop](https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/)
-- [Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month](https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/)
-- [Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive](https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/)
-- [Hyperscale Power is the latest startup to challenge 140-year-old transformer tech](https://techcrunch.com/2026/03/10/hyperscale-power-is-the-latest-startup-to-challenge-140-year-old-transformer-tech/)
-- [This SpaceX veteran says the next big thing in space is satellites that return to Earth](https://techcrunch.com/2026/03/10/lux-aeterna-raises-10-million-for-reusable-satellite-mission/)
+- [Legora reaches $5.55 billion valuation as AI legaltech boom endures](https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/)
+- [Meta acquired Moltbook, the AI agent social network that went viral because of fake posts](https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/)
+- [A star dies in the Cat&#39;s Eye | Space photo of the day for March 10, 2026](https://www.space.com/astronomy/galaxies/a-star-dies-in-the-cats-eye-space-photo-of-the-day-for-march-10-2026)
+- [YouTube expands AI deepfake detection for politicians, government officials, and journalists](https://techcrunch.com/2026/03/10/youtube-ai-deepfake-detection-politicians-government-officials-journalists/)
+- [Shoot the stars: The best gear for night sky photography](https://www.space.com/stargazing/skywatching-kit/shoot-the-stars-the-best-gear-for-night-sky-photography)
 <!-- BLOG-POST-LIST:END -->
 
 ---
