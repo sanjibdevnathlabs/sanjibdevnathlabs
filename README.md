@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sandbar secures $23M Series A for its AI note-taking ring](https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/)
-- [AI network startup Eridu emerges from stealth with hefty $200M Series A](https://techcrunch.com/2026/03/10/ai-network-startup-eridu-emerges-from-stealth-with-hefty-200m-series-a/)
-- [SpaceX is &#39;about 4 weeks&#39; away from launching its most powerful Starship yet, Elon Musk says](https://www.space.com/space-exploration/launches-spacecraft/spacex-is-about-4-weeks-away-from-launching-its-most-powerful-starship-yet-elon-musk-says)
-- [Whoop launches a new blood test focused on women’s health](https://techcrunch.com/2026/03/10/whoop-launches-a-new-blood-test-focused-on-womens-health/)
-- [NASA&#39;s asteroid-smashing spacecraft managed to alter target space rocks&#39; orbit around the sun](https://www.space.com/space-exploration/asteroid-comet-missions/nasas-asteroid-smashing-spacecraft-managed-to-alter-target-space-rocks-orbit-around-the-sun)
+- [Adobe is debuting an AI assistant for Photoshop](https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/)
+- [Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month](https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/)
+- [Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive](https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/)
+- [Hyperscale Power is the latest startup to challenge 140-year-old transformer tech](https://techcrunch.com/2026/03/10/hyperscale-power-is-the-latest-startup-to-challenge-140-year-old-transformer-tech/)
+- [This SpaceX veteran says the next big thing in space is satellites that return to Earth](https://techcrunch.com/2026/03/10/lux-aeterna-raises-10-million-for-reusable-satellite-mission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
