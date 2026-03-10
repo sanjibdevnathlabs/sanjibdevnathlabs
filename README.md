@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Legora reaches $5.55 billion valuation as AI legaltech boom endures](https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/)
+- [Thinking Machines Lab inks massive compute deal with Nvidia](https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/)
+- [Google gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature](https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/)
+- [Legora reaches $5.55 billion valuation as AI legal tech boom endures](https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/)
 - [Meta acquired Moltbook, the AI agent social network that went viral because of fake posts](https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/)
 - [A star dies in the Cat&#39;s Eye | Space photo of the day for March 10, 2026](https://www.space.com/astronomy/galaxies/a-star-dies-in-the-cats-eye-space-photo-of-the-day-for-march-10-2026)
-- [YouTube expands AI deepfake detection for politicians, government officials, and journalists](https://techcrunch.com/2026/03/10/youtube-ai-deepfake-detection-politicians-government-officials-journalists/)
-- [Shoot the stars: The best gear for night sky photography](https://www.space.com/stargazing/skywatching-kit/shoot-the-stars-the-best-gear-for-night-sky-photography)
 <!-- BLOG-POST-LIST:END -->
 
 ---
