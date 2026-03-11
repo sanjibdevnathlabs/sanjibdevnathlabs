@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zoox plans to put its robotaxis on the Uber app in Vegas this year](https://techcrunch.com/2026/03/11/zoox-plans-to-put-its-robotaxis-on-the-uber-app-in-vegas-this-year/)
+- [NASA&#39;s DART planetary defense mission reveals asteroids hurling &#39;cosmic snowballs&#39; at each other](https://www.space.com/space-exploration/asteroid-comet-missions/nasas-dart-planetary-defense-mission-reveals-asteroids-hurling-cosmic-snowballs-at-each-other)
 - [NASA Artemis 2 gifts we love: Top picks for aspiring astronauts](https://www.space.com/technology/nasa-artemis-2-gifts-we-love-top-picks-for-aspiring-astronauts)
 - [Health insurance startup Alan reaches €5B valuation](https://techcrunch.com/2026/03/11/health-insurance-startup-alan-reaches-e5b-valuation/)
 - [Interstellar comet 3I/ATLAS is &#39;bursting with methanol,&#39; new study finds](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-is-bursting-with-methanol-new-study-finds)
-- [Anduril snaps up space surveillance firm ExoAnalytic Solutions](https://techcrunch.com/2026/03/11/anduril-snaps-up-space-surveillance-firm-exoanalytic-solutions/)
-- [Google brings Gemini in Chrome to India](https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
