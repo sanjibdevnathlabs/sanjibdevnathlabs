@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [I kind of hate AI](https://www.youtube.com/watch?v=dbMXi9q78Tk)
+- [The Power of Free Knowledge](https://www.youtube.com/watch?v=CoZA-JF8fkA)
+- [I almost quit YouTube....](https://www.youtube.com/watch?v=dbMXi9q78Tk)
 - [Vector Search with LLMs- Computerphile](https://www.youtube.com/watch?v=YDdKiQNw80c)
 - [The greatest unsolved problem in computer science...](https://www.youtube.com/watch?v=x36UmiSiEzc)
 - [YouTube BROKE but the ads kept working...](https://www.youtube.com/shorts/RHQmwsw5Aeo)
-- [Why Are Companies Still Desperate for DevOps Engineers?](https://www.youtube.com/shorts/y-oHoNdoxcU)
 <!-- YOUTUBE:END -->
 
 ---
