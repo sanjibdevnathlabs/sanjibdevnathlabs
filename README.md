@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India neobank Fi winds down banking services on its platform](https://techcrunch.com/2026/03/11/india-neobank-fi-winds-down-banking-services-on-its-platform/)
-- [Netflix may have paid $600 million for Ben Affleck’s AI startup](https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/)
-- [Lovable says it added $100M in revenue last month alone, with just 146 employees](https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/)
-- [Black hole and neutron star mergers push the laws of physics with their odd orbits](https://www.space.com/astronomy/black-holes/black-hole-and-neutron-star-mergers-push-the-laws-of-physics-with-their-odd-orbits)
-- [Quince hits $10B valuation with giant $500M round led by Iconiq](https://techcrunch.com/2026/03/11/quince-series-e-10b-valuation-with-500m-round-led-by-iconiq/)
+- [Nuro is testing its autonomous vehicle tech on Tokyo’s streets](https://techcrunch.com/2026/03/11/nuro-is-testing-its-autonomous-vehicle-tech-on-tokyos-streets/)
+- [Google Play is adding new paid and PC games, game trials, community posts, and more](https://techcrunch.com/2026/03/11/google-play-is-adding-new-paid-and-pc-games-game-trials-community-posts-and-more/)
+- [Ford’s new AI assistant will help fleet owners know if seatbelts are being used](https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/)
+- [Ride-hailing inDrive acquires Pakistan’s Krave Mart to bolster grocery delivery](https://techcrunch.com/2026/03/11/ride-hailing-indrive-acquires-pakistans-kravemart-to-bolster-grocery-delivery/)
+- [Zendesk acquires agentic customer service startup Forethought](https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
