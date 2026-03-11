@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoox plans to put its robotaxis on the Uber app in Vegas this year](https://techcrunch.com/2026/03/11/zoox-plans-to-put-its-robotaxis-on-the-uber-app-in-vegas-this-year/)
-- [NASA&#39;s DART planetary defense mission reveals asteroids hurling &#39;cosmic snowballs&#39; at each other](https://www.space.com/space-exploration/asteroid-comet-missions/nasas-dart-planetary-defense-mission-reveals-asteroids-hurling-cosmic-snowballs-at-each-other)
-- [NASA Artemis 2 gifts we love: Top picks for aspiring astronauts](https://www.space.com/technology/nasa-artemis-2-gifts-we-love-top-picks-for-aspiring-astronauts)
-- [Health insurance startup Alan reaches €5B valuation](https://techcrunch.com/2026/03/11/health-insurance-startup-alan-reaches-e5b-valuation/)
-- [Interstellar comet 3I/ATLAS is &#39;bursting with methanol,&#39; new study finds](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-is-bursting-with-methanol-new-study-finds)
+- [Former Apple engineer raises $5M for a note-taking pendant that only records your voice](https://techcrunch.com/2026/03/11/former-apple-engineer-raises-5m-for-a-note-taking-pendant-that-only-records-your-voice/)
+- [Canopii looks to succeed where past indoor farms have not](https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/)
+- [TikTok now lets Apple Music subscribers play full songs without leaving the app](https://techcrunch.com/2026/03/11/tiktok-now-lets-apple-music-subscribers-play-full-songs-without-leaving-the-app/)
+- [&#39;War Machine&#39; succeeds where &#39;Transformers&#39; fails, by making its giant robot feel real](https://www.space.com/entertainment/space-movies-shows/war-machine-succeeds-where-transformers-fails-by-making-its-giant-robot-feel-real)
+- [Google wraps up $32B acquisition of cloud cybersecurity startup Wiz](https://techcrunch.com/2026/03/11/google-completes-32b-acquisition-of-wiz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
