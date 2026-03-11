@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacker broke into FBI and compromised Epstein files, report says](https://techcrunch.com/2026/03/11/hacker-broke-into-fbi-and-compromised-epstein-files-report-says/)
+- [WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net](https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/)
 - [Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots](https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/)
 - [&#39;In the old days, we were staring at a f ***ing green screen with tape marks on it&#39;: We talk to &#39;Star Trek&#39; legend Jonathan Frakes about directing &#39;Starfleet Academy&#39; season 1&#39;s penultimate episode](https://www.space.com/entertainment/space-movies-shows/in-the-old-days-we-were-staring-at-a-f-ing-green-screen-with-tape-marks-on-it-we-talk-to-star-trek-legend-jonathan-frakes-about-directing-starfleet-academy-season-1s-penultimate-episode)
 - [EV startup Harbinger reveals a smaller work truck with electric and hybrid variants](https://techcrunch.com/2026/03/11/ev-startup-harbinger-reveals-a-smaller-work-truck-with-electric-and-hybrid-variants/)
-- [Meta didn’t buy Moltbook for bots — it bought into the agentic web](https://techcrunch.com/2026/03/11/meta-didnt-buy-moltbook-for-bots-it-bought-into-the-agentic-web/)
-- [WhatsApp is launching parent-linked accounts for pre-teens](https://techcrunch.com/2026/03/11/whatsapp-is-launching-parent-linked-accounts-for-pre-teens/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
