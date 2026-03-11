@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacker broke into FBI and compromised Epstein files, report says](https://techcrunch.com/2026/03/11/hacker-broke-into-fbi-and-compromised-epstein-files-report-says/)
-- [WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net](https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/)
-- [Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots](https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/)
-- [&#39;In the old days, we were staring at a f ***ing green screen with tape marks on it&#39;: We talk to &#39;Star Trek&#39; legend Jonathan Frakes about directing &#39;Starfleet Academy&#39; season 1&#39;s penultimate episode](https://www.space.com/entertainment/space-movies-shows/in-the-old-days-we-were-staring-at-a-f-ing-green-screen-with-tape-marks-on-it-we-talk-to-star-trek-legend-jonathan-frakes-about-directing-starfleet-academy-season-1s-penultimate-episode)
-- [EV startup Harbinger reveals a smaller work truck with electric and hybrid variants](https://techcrunch.com/2026/03/11/ev-startup-harbinger-reveals-a-smaller-work-truck-with-electric-and-hybrid-variants/)
+- [Pro-Iran hacktivist group says it is behind attack on medical tech giant Stryker](https://techcrunch.com/2026/03/11/stryker-hack-pro-iran-hacktivist-group-handala-says-it-is-behind-attack/)
+- [Breakout Ventures raises $114M fund to back AI science startups](https://techcrunch.com/2026/03/11/breakout-ventures-raises-114m-fund-to-back-ai-science-startups/)
+- [Almost 40 new unicorns have been minted so far this year — here they are](https://techcrunch.com/2026/03/11/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/)
+- [Could NASA use expandable habitats for its Artemis moon bases? These two companies are betting millions](https://www.space.com/technology/could-nasa-use-expandable-habitats-for-its-artemis-moon-bases-these-two-companies-are-betting-millions)
+- [VC mega-funds are back with General Catalyst, Spark rumored to be raising billions](https://techcrunch.com/2026/03/11/vc-mega-funds-are-back-with-general-catalyst-spark-rumored-to-be-raising-billions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
