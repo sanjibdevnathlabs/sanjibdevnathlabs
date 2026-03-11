@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google brings Gemini in Chrome to India](https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/)
 - [In a vote of confidence for Meta’s Threads, Kalshi adds sharing feature](https://techcrunch.com/2026/03/10/in-a-vote-of-confidence-for-metas-threads-kalshi-adds-sharing-feature/)
 - [Jupiter&#39;s moons leave cold &#39;footprints&#39; in the planet&#39;s auroras, James Webb Space Telescope finds](https://www.space.com/astronomy/jupiter/jupiters-moons-leave-cold-footprints-in-the-planets-auroras-james-webb-space-telescope-finds)
 - [Google and Tesla think we’re managing the electrical grid all wrong](https://techcrunch.com/2026/03/10/google-and-tesla-think-were-managing-the-electrical-grid-all-wrong/)
 - [Amazon launches its healthcare AI assistant on its website and app](https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/)
-- [DOGE employee stole Social Security data and put it on a thumb drive, report says](https://techcrunch.com/2026/03/10/doge-employee-stole-social-security-data-and-put-it-on-a-thumb-drive-report-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
