@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Black hole and neutron star mergers push the laws of physics with their odd orbits](https://www.space.com/astronomy/black-holes/black-hole-and-neutron-star-mergers-push-the-laws-of-physics-with-their-odd-orbits)
+- [Quince hits $10B valuation with giant $500M round led by Iconiq](https://techcrunch.com/2026/03/11/quince-series-e-10b-valuation-with-500m-round-led-by-iconiq/)
+- [Alternative app store AltStore PAL joins the fediverse](https://techcrunch.com/2026/03/11/alternative-app-store-altstore-pal-joins-the-fediverse/)
 - [Drivers in fatal Ford BlueCruise crashes were likely distracted before impact](https://techcrunch.com/2026/03/11/drivers-in-fatal-ford-bluecruise-crashes-were-likely-distracted-before-impact/)
 - [Watch Northrop Grumman&#39;s 1st &#39;Cygnus XL&#39; cargo spacecraft leave the space station on March 12](https://www.space.com/space-exploration/international-space-station/northrop-grumman-first-cygnus-xl-cargo-spacecraft-leave-iss)
-- [Replit snags $9B valuation 6 months after hitting $3B](https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/)
-- [Pro-Iran hacktivist group says it is behind attack on medical tech giant Stryker](https://techcrunch.com/2026/03/11/stryker-hack-pro-iran-hacktivist-group-handala-says-it-is-behind-attack/)
-- [Breakout Ventures raises $114M fund to back AI science startups](https://techcrunch.com/2026/03/11/breakout-ventures-raises-114m-fund-to-back-ai-science-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
