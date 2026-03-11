@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Former Apple engineer raises $5M for a note-taking pendant that only records your voice](https://techcrunch.com/2026/03/11/former-apple-engineer-raises-5m-for-a-note-taking-pendant-that-only-records-your-voice/)
-- [Canopii looks to succeed where past indoor farms have not](https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/)
-- [TikTok now lets Apple Music subscribers play full songs without leaving the app](https://techcrunch.com/2026/03/11/tiktok-now-lets-apple-music-subscribers-play-full-songs-without-leaving-the-app/)
-- [&#39;War Machine&#39; succeeds where &#39;Transformers&#39; fails, by making its giant robot feel real](https://www.space.com/entertainment/space-movies-shows/war-machine-succeeds-where-transformers-fails-by-making-its-giant-robot-feel-real)
-- [Google wraps up $32B acquisition of cloud cybersecurity startup Wiz](https://techcrunch.com/2026/03/11/google-completes-32b-acquisition-of-wiz/)
+- [EV startup Harbinger reveals a smaller work truck with electric and hybrid variants](https://techcrunch.com/2026/03/11/ev-startup-harbinger-reveals-a-smaller-work-truck-with-electric-and-hybrid-variants/)
+- [Meta didn’t buy Moltbook for bots — it bought into the agentic web](https://techcrunch.com/2026/03/11/meta-didnt-buy-moltbook-for-bots-it-bought-into-the-agentic-web/)
+- [WhatsApp is launching parent-linked accounts for pre-teens](https://techcrunch.com/2026/03/11/whatsapp-is-launching-parent-linked-accounts-for-pre-teens/)
+- [Your cosmic catch: A home guide to identifying and observing meteorite features](https://www.space.com/stargazing/meteor-showers/your-cosmic-catch-a-home-guide-to-identifying-and-observing-meteorite-features)
+- [Amazon expands a program that lets customers shop from other retailers’ sites](https://techcrunch.com/2026/03/11/amazon-expands-a-program-that-lets-customers-shop-from-other-retailers-sites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
