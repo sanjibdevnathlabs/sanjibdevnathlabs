@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Drivers in fatal Ford BlueCruise crashes were likely distracted before impact](https://techcrunch.com/2026/03/11/drivers-in-fatal-ford-bluecruise-crashes-were-likely-distracted-before-impact/)
+- [Watch Northrop Grumman&#39;s 1st &#39;Cygnus XL&#39; cargo spacecraft leave the space station on March 12](https://www.space.com/space-exploration/international-space-station/northrop-grumman-first-cygnus-xl-cargo-spacecraft-leave-iss)
+- [Replit snags $9B valuation 6 months after hitting $3B](https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/)
 - [Pro-Iran hacktivist group says it is behind attack on medical tech giant Stryker](https://techcrunch.com/2026/03/11/stryker-hack-pro-iran-hacktivist-group-handala-says-it-is-behind-attack/)
 - [Breakout Ventures raises $114M fund to back AI science startups](https://techcrunch.com/2026/03/11/breakout-ventures-raises-114m-fund-to-back-ai-science-startups/)
-- [Almost 40 new unicorns have been minted so far this year — here they are](https://techcrunch.com/2026/03/11/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/)
-- [Could NASA use expandable habitats for its Artemis moon bases? These two companies are betting millions](https://www.space.com/technology/could-nasa-use-expandable-habitats-for-its-artemis-moon-bases-these-two-companies-are-betting-millions)
-- [VC mega-funds are back with General Catalyst, Spark rumored to be raising billions](https://techcrunch.com/2026/03/11/vc-mega-funds-are-back-with-general-catalyst-spark-rumored-to-be-raising-billions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
