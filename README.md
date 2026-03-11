@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [The greatest unsolved problem in computer science...](https://www.youtube.com/watch?v=x36UmiSiEzc)
-- [YouTube BROKE but the ads kept working...](https://www.youtube.com/shorts/RHQmwsw5Aeo)
-- [Why Are Companies Still Desperate for DevOps Engineers?](https://www.youtube.com/shorts/y-oHoNdoxcU)
-- [the prompting trick nobody teaches you](https://www.youtube.com/shorts/X-3aaDeP9Rw)
-- [She Quit Her Stable Job to Become a DevOps Engineer &lpar;And is Now a Golden Kubestronaut&rpar;](https://www.youtube.com/watch?v=q6x8J7QIakI)
+- [Coding a Guitar Sound in C - Computerphile](https://www.youtube.com/watch?v=Ly1v1BRVpz4)
+- [From Bold Idea to Global Legacy: 25 Years of MIT OpenCourseWare  Live Webcast](https://www.youtube.com/watch?v=BwTAavpUeW0)
+- [Misinformation, AI, &amp; Science Photography](https://www.youtube.com/watch?v=GqvBDc8wiu0)
+- [Cloudflare just slop forked Next.js…](https://www.youtube.com/watch?v=abbeIUOCzmw)
 <!-- YOUTUBE:END -->
 
 ---
