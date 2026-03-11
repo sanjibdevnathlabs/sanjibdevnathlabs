@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India neobank Fi winds down banking services on its platform](https://techcrunch.com/2026/03/11/india-neobank-fi-winds-down-banking-services-on-its-platform/)
+- [Netflix may have paid $600 million for Ben Affleck’s AI startup](https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/)
+- [Lovable says it added $100M in revenue last month alone, with just 146 employees](https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/)
 - [Black hole and neutron star mergers push the laws of physics with their odd orbits](https://www.space.com/astronomy/black-holes/black-hole-and-neutron-star-mergers-push-the-laws-of-physics-with-their-odd-orbits)
 - [Quince hits $10B valuation with giant $500M round led by Iconiq](https://techcrunch.com/2026/03/11/quince-series-e-10b-valuation-with-500m-round-led-by-iconiq/)
-- [Alternative app store AltStore PAL joins the fediverse](https://techcrunch.com/2026/03/11/alternative-app-store-altstore-pal-joins-the-fediverse/)
-- [Drivers in fatal Ford BlueCruise crashes were likely distracted before impact](https://techcrunch.com/2026/03/11/drivers-in-fatal-ford-bluecruise-crashes-were-likely-distracted-before-impact/)
-- [Watch Northrop Grumman&#39;s 1st &#39;Cygnus XL&#39; cargo spacecraft leave the space station on March 12](https://www.space.com/space-exploration/international-space-station/northrop-grumman-first-cygnus-xl-cargo-spacecraft-leave-iss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
