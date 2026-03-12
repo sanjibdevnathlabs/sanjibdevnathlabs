@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google is using old news reports and AI to predict flash floods](https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/)
+- [Will Artemis 2 launch toward the moon next month? Watch NASA&#39;s mission update today](https://www.space.com/space-exploration/artemis/will-artemis-2-launch-toward-the-moon-next-month-watch-nasas-mission-update-today)
 - [A mass stellar migration billions of years ago may have helped life get started on Earth](https://www.space.com/astronomy/stars/a-mass-stellar-migration-billions-of-years-ago-may-have-helped-life-get-started-on-earth)
 - [Chinese brain interface startup Gestala raises $21M just two months after launch](https://techcrunch.com/2026/03/11/bci-startup-gestala-raises-21-million-for-non-invasive-ultrasound-brain-tech/)
 - [Firefly Aerospace&#39;s Alpha rocket reaches orbit on 1st launch since explosive accidents last year &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/firefly-aerospaces-alpha-rocket-reaches-orbit-on-1st-mission-since-explosive-accidents-last-year-video)
-- [AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard](https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/)
-- [Nuro is testing its autonomous vehicle tech on Tokyo’s streets](https://techcrunch.com/2026/03/11/nuro-is-testing-its-autonomous-vehicle-tech-on-tokyos-streets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
