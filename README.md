@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google is using old news reports and AI to predict flash floods](https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/)
-- [Will Artemis 2 launch toward the moon next month? Watch NASA&#39;s mission update today](https://www.space.com/space-exploration/artemis/will-artemis-2-launch-toward-the-moon-next-month-watch-nasas-mission-update-today)
-- [A mass stellar migration billions of years ago may have helped life get started on Earth](https://www.space.com/astronomy/stars/a-mass-stellar-migration-billions-of-years-ago-may-have-helped-life-get-started-on-earth)
-- [Chinese brain interface startup Gestala raises $21M just two months after launch](https://techcrunch.com/2026/03/11/bci-startup-gestala-raises-21-million-for-non-invasive-ultrasound-brain-tech/)
-- [Firefly Aerospace&#39;s Alpha rocket reaches orbit on 1st launch since explosive accidents last year &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/firefly-aerospaces-alpha-rocket-reaches-orbit-on-1st-mission-since-explosive-accidents-last-year-video)
+- [Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation](https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/)
+- [Group14 opens factory to produce battery materials for flash charging EVs](https://techcrunch.com/2026/03/12/group14-opens-factory-to-produce-battery-materials-for-flash-charging-evs/)
+- [Astronomers witness colossal supernova explosion create one of the most magnetic stars in the universe for the first time](https://www.space.com/astronomy/stars/astronomers-witness-colossal-supernova-explosion-create-one-of-the-most-magnetic-stars-in-the-universe-for-the-first-time)
+- [When startups become a family business](https://techcrunch.com/2026/03/12/when-startups-become-a-family-business/)
+- [Get the best sub-250g drone, the DJI Mini 5 Pro and save $500](https://www.space.com/technology/drones/fly-longer-for-less-with-500-off-this-dji-mini-5-pro-fly-more-combo-bundle-best-sub-250g-drone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
