@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder](https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/)
-- [Alexa+ gets a new ‘adults only’ personality option that curses but won’t get into NSFW content](https://techcrunch.com/2026/03/12/alexa-gets-a-new-adults-only-personality-option-that-curses-but-wont-get-into-nsfw-content/)
-- [Wonderful raises $150M Series B at $2B valuation](https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/)
-- [Rivian R2 launch: Here’s what $57,990 gets you](https://techcrunch.com/2026/03/12/rivian-r2-launch-heres-what-57990-gets-you/)
-- [How to clean your camera&#39;s image sensor safely at home](https://www.space.com/stargazing/skywatching-kit/how-to-clean-your-cameras-image-sensor-safely-at-home)
+- [Bumble to launch an AI dating assistant, ‘Bee’](https://techcrunch.com/2026/03/12/bumble-to-launch-an-ai-dating-assistant-bee/)
+- [Law enforcement shuts down botnet made of tens of thousands of hacked routers](https://techcrunch.com/2026/03/12/law-enforcement-shuts-down-botnet-made-of-tens-of-thousands-of-hacked-routers/)
+- [A writer is suing Grammarly for turning her and other authors into ‘AI editors’ without consent](https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/)
+- [Tesla becomes a utility in the UK, setting up showdown with Octopus Energy](https://techcrunch.com/2026/03/12/tesla-becomes-a-utility-in-the-uk-setting-up-showdown-with-octopus-energy/)
+- [NASA project leader blames next-generation X-ray telescope cancellation on agency mismanagement](https://www.space.com/space-exploration/missions/nasa-project-leader-blames-next-generation-x-ray-telescope-cancellation-on-agency-mismanagement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
