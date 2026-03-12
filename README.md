@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bus-sized asteroid will fly past Earth tonight mere days after being discovered. Here&#39;s what to expect](https://www.space.com/stargazing/bus-sized-asteroid-will-fly-past-earth-tonight-mere-days-after-being-discovered-heres-what-to-expect-march-12-2026)
+- [Google is using old news reports and AI to predict flash floods](https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/)
+- [US lawmakers call for a permanent moon base. Will it ever happen?](https://www.space.com/astronomy/moon/us-lawmakers-call-for-a-permanent-moon-base-will-it-ever-happen)
 - [Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation](https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/)
 - [Group14 opens factory to produce battery materials for flash charging EVs](https://techcrunch.com/2026/03/12/group14-opens-factory-to-produce-battery-materials-for-flash-charging-evs/)
-- [Astronomers witness colossal supernova explosion create one of the most magnetic stars in the universe for the first time](https://www.space.com/astronomy/stars/astronomers-witness-colossal-supernova-explosion-create-one-of-the-most-magnetic-stars-in-the-universe-for-the-first-time)
-- [When startups become a family business](https://techcrunch.com/2026/03/12/when-startups-become-a-family-business/)
-- [Get the best sub-250g drone, the DJI Mini 5 Pro and save $500](https://www.space.com/technology/drones/fly-longer-for-less-with-500-off-this-dji-mini-5-pro-fly-more-combo-bundle-best-sub-250g-drone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
