@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Disney+ is rolling out its TikTok-like ‘Verts’ short-form video feed](https://techcrunch.com/2026/03/12/disney-is-rolling-out-its-tiktok-like-verts-short-form-video-feed/)
-- [Honda scraps 3 EVs planned for the US, blaming tariffs and Chinese competition](https://techcrunch.com/2026/03/12/honda-scraps-3-evs-planned-for-the-us-blaming-tariffs-and-chinese-competition/)
-- [Bus-sized asteroid will fly past Earth tonight mere days after being discovered. Here&#39;s what to expect](https://www.space.com/stargazing/bus-sized-asteroid-will-fly-past-earth-tonight-mere-days-after-being-discovered-heres-what-to-expect-march-12-2026)
-- [Google is using old news reports and AI to predict flash floods](https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/)
-- [US lawmakers call for a permanent moon base. Will it ever happen?](https://www.space.com/astronomy/moon/us-lawmakers-call-for-a-permanent-moon-base-will-it-ever-happen)
+- [Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder](https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/)
+- [Alexa+ gets a new ‘adults only’ personality option that curses but won’t get into NSFW content](https://techcrunch.com/2026/03/12/alexa-gets-a-new-adults-only-personality-option-that-curses-but-wont-get-into-nsfw-content/)
+- [Wonderful raises $150M Series B at $2B valuation](https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/)
+- [Rivian R2 launch: Here’s what $57,990 gets you](https://techcrunch.com/2026/03/12/rivian-r2-launch-heres-what-57990-gets-you/)
+- [How to clean your camera&#39;s image sensor safely at home](https://www.space.com/stargazing/skywatching-kit/how-to-clean-your-cameras-image-sensor-safely-at-home)
 <!-- BLOG-POST-LIST:END -->
 
 ---
