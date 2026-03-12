@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Rivian is holding the $45,000 base model R2 until ‘late 2027’](https://techcrunch.com/2026/03/12/why-rivian-is-holding-the-45000-base-model-r2-until-late-2027/)
 - [Why Holly Hunter&#39;s Nahla Ake already deserves a place at Star Trek&#39;s ultimate top table](https://www.space.com/entertainment/space-movies-shows/why-holly-hunters-nahla-ake-already-deserves-a-place-at-star-treks-ultimate-top-table)
 - [Substack launches a built-in recording studio](https://techcrunch.com/2026/03/12/substack-launches-a-built-in-recording-studio/)
 - [Facebook Marketplace now lets Meta AI respond to buyers’ messages](https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/)
 - [Tinder tries to lure people back to online dating with IRL events, virtual speed dating](https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/)
-- [Atlassian follows Block’s footsteps and cuts staff in the name of AI](https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
