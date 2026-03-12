@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [7 new OSS projects to whip your agents into shape…](https://www.youtube.com/watch?v=Xn-gtHDsaPY)
 - [The Power of Free Knowledge](https://www.youtube.com/watch?v=CoZA-JF8fkA)
 - [MIT 24-Hour Challenge 2026](https://www.youtube.com/watch?v=7iTmL1hfGI4)
 - [I almost quit YouTube....](https://www.youtube.com/watch?v=dbMXi9q78Tk)
 - [Vector Search with LLMs - Computerphile](https://www.youtube.com/watch?v=YDdKiQNw80c)
-- [The greatest unsolved problem in computer science...](https://www.youtube.com/watch?v=x36UmiSiEzc)
 <!-- YOUTUBE:END -->
 
 ---
