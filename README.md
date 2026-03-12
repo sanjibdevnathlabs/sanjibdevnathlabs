@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Substack launches a built-in recording studio](https://techcrunch.com/2026/03/12/substack-launches-a-built-in-recording-studio/)
+- [Facebook Marketplace now lets Meta AI respond to buyers’ messages](https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/)
+- [Tinder tries to lure people back to online dating with IRL events, virtual speed dating](https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/)
 - [Atlassian follows Block’s footsteps and cuts staff in the name of AI](https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/)
 - [Lucid Motors shows off robotaxi concept called ‘Lunar’](https://techcrunch.com/2026/03/12/lucid-motors-shows-off-robotaxi-concept-called-lunar/)
-- [Humanoid robotics maker Sunday reaches $1.15B valuation to build household robots](https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/)
-- [Webflow buys AI content-generation platform Vidoso to bolster its marketing suite](https://techcrunch.com/2026/03/12/webflow-buys-ai-content-generation-platform-vidoso-to-bolster-its-marketing-suite/)
-- [ISS astronauts take out the space trash | Space photo of the day for March 11, 2026](https://www.space.com/space-exploration/launches-spacecraft/iss-astronauts-take-out-the-space-trash-space-photo-of-the-day-for-march-11-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
