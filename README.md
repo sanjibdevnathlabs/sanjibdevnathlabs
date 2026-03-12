@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefly Aerospace&#39;s Alpha rocket reaches orbit on 1st launch since explosive accidents last year &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/firefly-aerospaces-alpha-rocket-reaches-orbit-on-1st-mission-since-explosive-accidents-last-year-video)
+- [AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard](https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/)
 - [Nuro is testing its autonomous vehicle tech on Tokyo’s streets](https://techcrunch.com/2026/03/11/nuro-is-testing-its-autonomous-vehicle-tech-on-tokyos-streets/)
 - [Google Play is adding new paid and PC games, game trials, community posts, and more](https://techcrunch.com/2026/03/11/google-play-is-adding-new-paid-and-pc-games-game-trials-community-posts-and-more/)
 - [Ford’s new AI assistant will help fleet owners know if seatbelts are being used](https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/)
-- [Ride-hailing inDrive acquires Pakistan’s Krave Mart to bolster grocery delivery](https://techcrunch.com/2026/03/11/ride-hailing-indrive-acquires-pakistans-kravemart-to-bolster-grocery-delivery/)
-- [Zendesk acquires agentic customer service startup Forethought](https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
