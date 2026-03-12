@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bumble to launch an AI dating assistant, ‘Bee’](https://techcrunch.com/2026/03/12/bumble-to-launch-an-ai-dating-assistant-bee/)
-- [Law enforcement shuts down botnet made of tens of thousands of hacked routers](https://techcrunch.com/2026/03/12/law-enforcement-shuts-down-botnet-made-of-tens-of-thousands-of-hacked-routers/)
-- [A writer is suing Grammarly for turning her and other authors into ‘AI editors’ without consent](https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/)
-- [Tesla becomes a utility in the UK, setting up showdown with Octopus Energy](https://techcrunch.com/2026/03/12/tesla-becomes-a-utility-in-the-uk-setting-up-showdown-with-octopus-energy/)
-- [NASA project leader blames next-generation X-ray telescope cancellation on agency mismanagement](https://www.space.com/space-exploration/missions/nasa-project-leader-blames-next-generation-x-ray-telescope-cancellation-on-agency-mismanagement)
+- [Atlassian follows Block’s footsteps and cuts staff in the name of AI](https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/)
+- [Lucid Motors shows off robotaxi concept called ‘Lunar’](https://techcrunch.com/2026/03/12/lucid-motors-shows-off-robotaxi-concept-called-lunar/)
+- [Humanoid robotics maker Sunday reaches $1.15B valuation to build household robots](https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/)
+- [Webflow buys AI content-generation platform Vidoso to bolster its marketing suite](https://techcrunch.com/2026/03/12/webflow-buys-ai-content-generation-platform-vidoso-to-bolster-its-marketing-suite/)
+- [ISS astronauts take out the space trash | Space photo of the day for March 11, 2026](https://www.space.com/space-exploration/launches-spacecraft/iss-astronauts-take-out-the-space-trash-space-photo-of-the-day-for-march-11-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
