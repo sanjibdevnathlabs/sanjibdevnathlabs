@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA says its Artemis 2 moon rocket is all fixed up. It could launch astronauts to the moon on April 1](https://www.space.com/space-exploration/artemis/nasa-says-its-artemis-2-moon-rocket-is-all-fixed-up-it-could-launch-astronauts-to-the-moon-on-april-1)
+- [The biggest and most expensive Lego Star Wars set ever made is over £130 off in Amazon&#39;s UK big spring sale](https://www.space.com/entertainment/space-toys-lego/lego-star-wars-ucs-death-star-amazon-spring-deal-days-uk-135-off)
+- [&#39;Completely bonkers&#39;: Astronomers find evidence of a cataclysmic collision between exoplanets](https://www.space.com/astronomy/exoplanets/completely-bonkers-astronomers-find-evidence-of-a-cataclysmic-collision-between-planets)
+- [Channel Surfer lets you watch YouTube like it’s old-school cable TV](https://techcrunch.com/2026/03/12/channel-surfer-watch-youtube-retro-cable-tv-guide/)
 - [Why Rivian is holding the $45,000 base model R2 until ‘late 2027’](https://techcrunch.com/2026/03/12/why-rivian-is-holding-the-45000-base-model-r2-until-late-2027/)
-- [Why Holly Hunter&#39;s Nahla Ake already deserves a place at Star Trek&#39;s ultimate top table](https://www.space.com/entertainment/space-movies-shows/why-holly-hunters-nahla-ake-already-deserves-a-place-at-star-treks-ultimate-top-table)
-- [Substack launches a built-in recording studio](https://techcrunch.com/2026/03/12/substack-launches-a-built-in-recording-studio/)
-- [Facebook Marketplace now lets Meta AI respond to buyers’ messages](https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/)
-- [Tinder tries to lure people back to online dating with IRL events, virtual speed dating](https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
