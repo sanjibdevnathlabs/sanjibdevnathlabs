@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble and NASA space telescopes track &#39;game-changing&#39; gamma-ray burst back to neutron star collision in &#39;forbidden&#39; region of the universe](https://www.space.com/astronomy/stars/hubble-and-nasa-space-telescopes-track-game-changing-gamma-ray-burst-back-to-neutron-star-collision-in-forbidden-region-of-the-universe)
+- [Facebook makes it easier for creators to report impersonators](https://techcrunch.com/2026/03/13/facebook-makes-it-easier-for-creators-to-report-impersonators/)
 - [Sci-fi shooter &#39;Marathon&#39; comes to life in hilarious marketing prank &lpar;video&rpar;](https://www.space.com/entertainment/space-games/sci-fi-shooter-marathon-comes-to-life-in-hilarious-marketing-prank-video)
 - [Steven Spielberg says he’s ‘never used AI’ in any of his films](https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/)
 - [The biggest AI stories of the year &lpar;so far&rpar;](https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/)
-- [Travis Kalanick launches a new company called Atoms focused on robotics](https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics/)
-- [Russia aims to reclaim Soviet space glory with 2036 launch of ambitious Venus mission](https://www.space.com/astronomy/venus/russia-aims-to-reclaim-soviet-space-glory-with-2036-launch-of-ambitious-venus-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
