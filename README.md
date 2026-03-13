@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple drops commission rates in China without a fuss](https://techcrunch.com/2026/03/13/apple-drops-commission-rates-in-china-25-percent/)
+- [Best model rocket sets for beginners](https://www.space.com/entertainment/space-toys-lego/best-model-rocket-sets-for-beginners)
+- [The FBI is investigating malware hidden inside games hosted on Steam](https://techcrunch.com/2026/03/13/valve-steam-malware-games-fbi/)
 - [Can&#39;t wait for Artemis 2 to make history? Get up to 20% off these awesome Lego NASA Artemis rocket sets](https://www.space.com/entertainment/space-toys-lego/get-up-to-20-percent-off-these-awesome-lego-nasa-artemis-rocket-sets-amazon-uk-big-spring-deal-days)
 - [Peacock expands into AI-driven video, mobile-first live sports, and gaming](https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/)
-- [Satellite spies an erupting volcano | Space photo of the day for March 13, 2026](https://www.space.com/astronomy/earth/satellite-spies-an-erupting-volcano-space-photo-of-the-day-for-march-13-2026)
-- [Motional robotaxis join the Uber app in Vegas two years after major reset](https://techcrunch.com/2026/03/13/motional-robotaxis-join-the-uber-app-in-vegas-two-years-after-major-reset/)
-- [NASA begins building nuclear-powered Dragonfly drone for 2028 launch to Saturn moon Titan](https://www.space.com/space-exploration/missions/nasa-begins-building-nuclear-powered-dragonfly-drone-for-2028-launch-to-saturn-moon-titan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
