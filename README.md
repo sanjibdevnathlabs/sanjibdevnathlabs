@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia aims to reclaim Soviet space glory with 2036 launch of ambitious Venus mission](https://www.space.com/astronomy/venus/russia-aims-to-reclaim-soviet-space-glory-with-2036-launch-of-ambitious-venus-mission)
+- [Travis Kalanick reportedly starting a new self-driving company backed by Uber](https://techcrunch.com/2026/03/13/travis-kalanick-reportedly-starting-a-new-self-driving-company-backed-by-uber/)
 - [&#39;Disclosure Day&#39;: Release date, plot, cast, &amp; everything else we know about Spielberg&#39;s sci-fi return](https://www.space.com/entertainment/space-movies-shows/disclosure-day-release-date-plot-cast-and-everything-else-we-know-about-spielbergs-sci-fi-return)
 - [The wild six weeks for NanoClaw’s creator that led to a deal with Docker](https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/)
 - [Spotify will let you edit your Taste Profile to control your recommendations](https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/)
-- [The $32B acquisition that one VC is calling the ‘Deal of the Decade’](https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/)
-- [The March full moon glows red through Saharan dust in eerie composite view](https://www.space.com/stargazing/the-march-full-moon-glows-red-through-saharan-dust-in-eerie-composite-view)
 <!-- BLOG-POST-LIST:END -->
 
 ---
