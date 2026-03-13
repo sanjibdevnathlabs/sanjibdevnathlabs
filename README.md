@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Before quantum computing arrives, this startup wants enterprises already running on it](https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/)
+- [Truecaller now lets you hang up on scammers — on behalf of your family](https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/)
 - [How to watch Jensen Huang’s Nvidia GTC 2026 keynote](https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/)
 - [Sales automation startup Rox AI hits $1.2B valuation, sources say](https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/)
 - [&#39;Rick and Morty&#39; season 9 promises &#39;No AI slop! Just Grade A organic slop&#39; when it drops on Adult Swim later this year](https://www.space.com/entertainment/space-movies-shows/rick-and-morty-season-9-promises-no-ai-slop-just-grade-a-organic-slop-when-it-drops-on-adult-swim-later-this-year)
-- [NASA says its Artemis 2 moon rocket is all fixed up. It could launch astronauts to the moon on April 1](https://www.space.com/space-exploration/artemis/nasa-says-its-artemis-2-moon-rocket-is-all-fixed-up-it-could-launch-astronauts-to-the-moon-on-april-1)
-- [The biggest and most expensive Lego Star Wars set ever made is over £130 off in Amazon&#39;s UK big spring sale](https://www.space.com/entertainment/space-toys-lego/lego-star-wars-ucs-death-star-amazon-spring-deal-days-uk-135-off)
 <!-- BLOG-POST-LIST:END -->
 
 ---
