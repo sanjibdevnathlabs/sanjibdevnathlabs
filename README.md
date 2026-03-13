@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Northern lights may be visible in 9 states tonight as fast solar wind sweeps past Earth](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-9-states-tonight-as-fast-solar-wind-sweeps-past-earth-march-13-14)
+- [How risky is the Artemis 2 astronaut launch to the moon? NASA would rather not say](https://www.space.com/space-exploration/artemis/how-risky-is-the-artemis-2-astronaut-launch-to-the-moon-nasa-would-rather-not-say)
 - [SpaceX plan for 1 million orbiting AI data centers could ruin astronomy, scientists say](https://www.space.com/space-exploration/satellites/spacexs-1-million-orbiting-ai-data-centers-could-ruin-astronomy-scientists-say)
 - [Before quantum computing arrives, this startup wants enterprises already running on it](https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/)
 - [Truecaller now lets you hang up on scammers — on behalf of your family](https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/)
-- [How to watch Jensen Huang’s Nvidia GTC 2026 keynote](https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/)
-- [Sales automation startup Rox AI hits $1.2B valuation, sources say](https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
