@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The $32B acquisition that one VC is calling the ‘Deal of the Decade’](https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/)
+- [The March full moon glows red through Saharan dust in eerie composite view](https://www.space.com/stargazing/the-march-full-moon-glows-red-through-saharan-dust-in-eerie-composite-view)
 - [Apple drops commission rates in China without a fuss](https://techcrunch.com/2026/03/13/apple-drops-commission-rates-in-china-25-percent/)
 - [Best model rocket sets for beginners](https://www.space.com/entertainment/space-toys-lego/best-model-rocket-sets-for-beginners)
 - [The FBI is investigating malware hidden inside games hosted on Steam](https://techcrunch.com/2026/03/13/valve-steam-malware-games-fbi/)
-- [Can&#39;t wait for Artemis 2 to make history? Get up to 20% off these awesome Lego NASA Artemis rocket sets](https://www.space.com/entertainment/space-toys-lego/get-up-to-20-percent-off-these-awesome-lego-nasa-artemis-rocket-sets-amazon-uk-big-spring-deal-days)
-- [Peacock expands into AI-driven video, mobile-first live sports, and gaming](https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
