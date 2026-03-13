@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can&#39;t wait for Artemis 2 to make history? Get up to 20% off these awesome Lego NASA Artemis rocket sets](https://www.space.com/entertainment/space-toys-lego/get-up-to-20-percent-off-these-awesome-lego-nasa-artemis-rocket-sets-amazon-uk-big-spring-deal-days)
+- [Peacock expands into AI-driven video, mobile-first live sports, and gaming](https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/)
+- [Satellite spies an erupting volcano | Space photo of the day for March 13, 2026](https://www.space.com/astronomy/earth/satellite-spies-an-erupting-volcano-space-photo-of-the-day-for-march-13-2026)
 - [Motional robotaxis join the Uber app in Vegas two years after major reset](https://techcrunch.com/2026/03/13/motional-robotaxis-join-the-uber-app-in-vegas-two-years-after-major-reset/)
 - [NASA begins building nuclear-powered Dragonfly drone for 2028 launch to Saturn moon Titan](https://www.space.com/space-exploration/missions/nasa-begins-building-nuclear-powered-dragonfly-drone-for-2028-launch-to-saturn-moon-titan)
-- [Northern lights may be visible in 9 US states tonight](https://www.space.com/stargazing/auroras/northern-lights-visible-9-states-tonight-march-13)
-- [How risky is the Artemis 2 astronaut launch to the moon? NASA would rather not say](https://www.space.com/space-exploration/artemis/how-risky-is-the-artemis-2-astronaut-launch-to-the-moon-nasa-would-rather-not-say)
-- [SpaceX plan for 1 million orbiting AI data centers could ruin astronomy, scientists say](https://www.space.com/space-exploration/satellites/spacexs-1-million-orbiting-ai-data-centers-could-ruin-astronomy-scientists-say)
 <!-- BLOG-POST-LIST:END -->
 
 ---
