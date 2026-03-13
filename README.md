@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX plan for 1 million orbiting AI data centers could ruin astronomy, scientists say](https://www.space.com/space-exploration/satellites/spacexs-1-million-orbiting-ai-data-centers-could-ruin-astronomy-scientists-say)
 - [Before quantum computing arrives, this startup wants enterprises already running on it](https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/)
 - [Truecaller now lets you hang up on scammers — on behalf of your family](https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/)
 - [How to watch Jensen Huang’s Nvidia GTC 2026 keynote](https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/)
 - [Sales automation startup Rox AI hits $1.2B valuation, sources say](https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/)
-- [&#39;Rick and Morty&#39; season 9 promises &#39;No AI slop! Just Grade A organic slop&#39; when it drops on Adult Swim later this year](https://www.space.com/entertainment/space-movies-shows/rick-and-morty-season-9-promises-no-ai-slop-just-grade-a-organic-slop-when-it-drops-on-adult-swim-later-this-year)
 <!-- BLOG-POST-LIST:END -->
 
 ---
