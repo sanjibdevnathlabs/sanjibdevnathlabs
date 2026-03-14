@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Galaxy season: Spring brings deep space wonder to the northern hemisphere night sky](https://www.space.com/stargazing/galaxy-season-spring-brings-deep-space-wonder-to-the-northern-hemisphere-night-sky)
 - [Arizona&#39;s Meteor Crater is still revealing new secrets 50,000 years later](https://www.space.com/stargazing/meteor-showers/arizonas-meteor-crater-is-still-revealing-new-secrets-50-000-years-later)
 - [‘Not built right the first time’ — Musk’s xAI is starting over again, again](https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/)
 - [Lawyer behind AI psychosis cases warns of mass casualty risks](https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/)
 - [Digg lays off staff and shuts down app as company retools](https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/)
-- [Nyne, founded by a father-son duo, gives AI agents the human context they’re missing](https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
