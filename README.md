@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Not built right the first time’ — Musk’s xAI is starting over again, again](https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/)
+- [Lawyer behind AI psychosis cases warns of mass casualty risks](https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/)
 - [Digg lays off staff and shuts down app as company retools](https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/)
 - [Nyne, founded by a father-son duo, gives AI agents the human context they’re missing](https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/)
 - [Hubble and NASA space telescopes track &#39;game-changing&#39; gamma-ray burst back to neutron star collision in &#39;forbidden&#39; region of the universe](https://www.space.com/astronomy/stars/hubble-and-nasa-space-telescopes-track-game-changing-gamma-ray-burst-back-to-neutron-star-collision-in-forbidden-region-of-the-universe)
-- [Facebook makes it easier for creators to report impersonators](https://techcrunch.com/2026/03/13/facebook-makes-it-easier-for-creators-to-report-impersonators/)
-- [Sci-fi shooter &#39;Marathon&#39; comes to life in hilarious marketing prank &lpar;video&rpar;](https://www.space.com/entertainment/space-games/sci-fi-shooter-marathon-comes-to-life-in-hilarious-marketing-prank-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
