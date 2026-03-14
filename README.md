@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [7 new open source AI tools you need right now…](https://www.youtube.com/watch?v=Xn-gtHDsaPY)
-- [The Power of Free Knowledge](https://www.youtube.com/watch?v=CoZA-JF8fkA)
-- [MIT 24-Hour Challenge 2026](https://www.youtube.com/watch?v=7iTmL1hfGI4)
-- [I almost quit YouTube....](https://www.youtube.com/watch?v=dbMXi9q78Tk)
 - [Vector Search with LLMs - Computerphile](https://www.youtube.com/watch?v=YDdKiQNw80c)
+- [Coding a Guitar Sound in C - Computerphile](https://www.youtube.com/watch?v=Ly1v1BRVpz4)
+- [Cyclic Redundancy Check &lpar;CRC&rpar; - Computerphile](https://www.youtube.com/watch?v=_x0vbnUKYSU)
+- [Bad Bot Problem - Computerphile](https://www.youtube.com/watch?v=AjQNDCYL5Rg)
+- [Digital Signal Processing With Audio Data - Computerphile](https://www.youtube.com/watch?v=zuZBkTNrv0g)
 <!-- YOUTUBE:END -->
 
 ---
