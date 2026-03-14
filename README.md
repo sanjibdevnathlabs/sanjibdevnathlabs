@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 201 — Born to Explore](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-201-born-to-explore)
+- [As people look for ways to make new friends, here are the apps promising to help](https://techcrunch.com/2026/03/14/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/)
 - [Get cleaner photos of the night sky by using these tips to clean your camera lens without scratching it](https://www.space.com/stargazing/skywatching-kit/how-to-clean-your-camera-lens-without-scratching-it)
 - [Boys from the Dwarf: Looking back at &#39;Red Dwarf&#39;, the sci-fi show that had a huge impact on my childhood](https://www.space.com/entertainment/space-movies-shows/boys-from-the-dwarf-looking-back-at-red-dwarf-the-sci-fi-show-that-had-a-huge-impact-on-my-childhood)
 - [How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others](https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/)
-- [Why are some stars always visible while others come and go with the seasons?](https://www.space.com/astronomy/stars/why-are-some-stars-always-visible-while-others-come-and-go-with-the-seasons)
-- [Galaxy season: Spring brings deep space wonder to the northern hemisphere night sky](https://www.space.com/stargazing/galaxy-season-spring-brings-deep-space-wonder-to-the-northern-hemisphere-night-sky)
 <!-- BLOG-POST-LIST:END -->
 
 ---
