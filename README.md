@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep underground, a telescope may soon detect ghosts of stars that died before Earth existed](https://www.space.com/astronomy/stars/deep-underground-a-telescope-may-soon-detect-ghosts-of-stars-that-died-before-earth-existed)
 - [Astrophotographer spends nearly 70 hours capturing a delicate blue nebula in Orion &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotographer-spends-nearly-70-hours-capturing-a-delicate-blue-nebula-in-orion-photo)
 - [A state of matter last seen just after the Big Bang may exist inside neutron stars — and scientists think they can prove it](https://www.space.com/astronomy/stars/a-state-of-matter-last-seen-just-after-the-big-bang-may-exist-inside-neutron-stars-and-scientists-think-they-can-prove-it)
 - [The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit](https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/)
 - [US Army announces contract with Anduril worth up to $20B](https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/)
-- [Honda is killing its EVs — and any chance of competing in the future](https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
