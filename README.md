@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Mobility: Travis Kalanick’s return proves it really is 2016 again](https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/)
+- [Wiz investor unpacks Google’s $32B acquisition](https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/)
 - [Rivian’s RJ Scaringe thinks we’re doing robots all wrong](https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/)
 - [Deep underground, a telescope may soon detect ghosts of stars that died before Earth existed](https://www.space.com/astronomy/stars/deep-underground-a-telescope-may-soon-detect-ghosts-of-stars-that-died-before-earth-existed)
 - [Astrophotographer spends nearly 70 hours capturing a delicate blue nebula in Orion &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotographer-spends-nearly-70-hours-capturing-a-delicate-blue-nebula-in-orion-photo)
-- [A state of matter last seen just after the Big Bang may exist inside neutron stars — and scientists think they can prove it](https://www.space.com/astronomy/stars/a-state-of-matter-last-seen-just-after-the-big-bang-may-exist-inside-neutron-stars-and-scientists-think-they-can-prove-it)
-- [The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit](https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
