@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Villains are the heroes of their own movie&#39;: We chat to &#39;Star Trek: Starfleet Academy&#39; showrunners about building an iconic Trek villain](https://www.space.com/entertainment/space-movies-shows/we-chat-to-star-trek-starfleet-academy-showrunners-about-building-an-iconic-trek-villain)
 - [Antonio Gracias says he’s longing for ‘proentropic’ startups — those that are built to survive chaos](https://techcrunch.com/2026/03/16/antonio-gracias-says-hes-loomg-for-proentropic-startups-those-that-are-built-to-survive-chaos/)
 - [Shopify is preparing for AI shopping agents to change everything, exec says](https://techcrunch.com/2026/03/16/shopify-is-preparing-for-ai-shopping-agents-to-change-everything-exec-says/)
 - [How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect](https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/)
 - [Timboy Chaco in the Mars borderlands | Space photo of the day for March 16, 2026](https://www.space.com/space-exploration/mars-rovers/timboy-chaco-in-the-mars-borderlands-space-photo-of-the-day-for-march-16-2026)
-- [Apple quietly launches AirPods Max 2](https://techcrunch.com/2026/03/16/apple-quietly-launches-airpods-max-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
