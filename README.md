@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Memories.ai is building the visual memory layer for wearables and robotics](https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/)
+- [How fast is the universe expanding? Astronomers may be one step closer to resolving &#39;Hubble trouble&#39;](https://www.space.com/astronomy/how-fast-is-the-universe-expanding-astronomers-may-be-one-step-closer-to-resolving-hubble-trouble)
+- [Warren presses Pentagon over decision to grant xAI access to classified networks](https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/)
+- [Memories AI is building the visual memory layer for wearables and robotics](https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/)
 - [Samsung bets this island startup can tame the grid with software and batteries](https://techcrunch.com/2026/03/16/samsung-bets-this-island-startup-can-tame-the-grid-with-software-and-batteries/)
 - [Apple acquires video editing software company MotionVFX](https://techcrunch.com/2026/03/16/apple-acquires-video-editing-software-company-motionvfx/)
-- [Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed](https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/)
-- [Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming](https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
