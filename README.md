@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No sun, no problem? How life could thrive on moons of starless &#39;rogue&#39; planets](https://www.space.com/space-exploration/search-for-life/no-sun-no-problem-how-life-could-thrive-on-moons-of-starless-rogue-planets)
 - [2 seconds that changed the world: Robert Goddard launched the 1st liquid-fueled rocket 100 years ago today](https://www.space.com/space-exploration/2-seconds-that-changed-the-world-the-1st-liquid-fueled-rocket-launched-100-years-ago-today)
 - [The billionaires made a promise — now some want out](https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/)
 - [Netflix’s ‘Frankenstein’ wins three Oscars, ‘KPop Demon Hunters’ wins two](https://techcrunch.com/2026/03/15/netflixs-frankenstein-wins-three-oscars-kpop-demon-hunters-wins-two/)
 - [Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’](https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/)
-- [ByteDance reportedly pauses global launch of its Seedance 2.0 video generator](https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
