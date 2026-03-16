@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple acquires video editing software company MotionVFX](https://techcrunch.com/2026/03/16/apple-acquires-video-editing-software-company-motionvfx/)
+- [Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed](https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/)
+- [Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming](https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/)
+- [100 years after Robert Goddard&#39;s 1st liquid-fueled rocket launch, NASA is using the technology to send astronauts back to the moon](https://www.space.com/space-exploration/100-years-after-robert-goddards-1st-liquid-fueled-rocket-launch-nasa-is-using-the-technology-to-send-astronauts-back-to-the-moon)
 - [The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit](https://techcrunch.com/2026/03/16/macbook-neo-ifixit-most-repairable-macbook-in-years-battery-replacement/)
-- [Astronomers discover a new type of planet that probably smells like rotten eggs](https://www.space.com/astronomy/exoplanets/astronomers-discover-a-new-type-of-planet-that-probably-smells-like-rotten-eggs)
-- [How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect](https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/)
-- [Another deep tech chip startup becomes a unicorn: Frore hits $1.64B](https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/)
-- [Fuse raises $25M  to disrupt aging loan origination systems used by US credit unions](https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
