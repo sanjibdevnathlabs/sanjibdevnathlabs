@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Memories.ai is building the visual memory layer for wearables and robotics](https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/)
+- [Samsung bets this island startup can tame the grid with software and batteries](https://techcrunch.com/2026/03/16/samsung-bets-this-island-startup-can-tame-the-grid-with-software-and-batteries/)
 - [Apple acquires video editing software company MotionVFX](https://techcrunch.com/2026/03/16/apple-acquires-video-editing-software-company-motionvfx/)
 - [Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed](https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/)
 - [Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming](https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/)
-- [100 years after Robert Goddard&#39;s 1st liquid-fueled rocket launch, NASA is using the technology to send astronauts back to the moon](https://www.space.com/space-exploration/100-years-after-robert-goddards-1st-liquid-fueled-rocket-launch-nasa-is-using-the-technology-to-send-astronauts-back-to-the-moon)
-- [The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit](https://techcrunch.com/2026/03/16/macbook-neo-ifixit-most-repairable-macbook-in-years-battery-replacement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
