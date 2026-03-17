@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon adds 1-hour and 3-hour delivery options in the US](https://techcrunch.com/2026/03/17/amazon-adds-1-hour-and-3-hour-delivery-options-in-the-us/)
 - [Gecko Robotics lands the largest U.S. Navy robotics deal yet](https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/)
 - [Jeff Bezos&#39; Blue Origin wants to defend Earth against dangerous asteroids. Here&#39;s how](https://www.space.com/space-exploration/launches-spacecraft/jeff-bezos-blue-origin-wants-to-defend-earth-against-dangerous-asteroids-heres-how)
 - [Picsart now allows creators to ‘hire’ AI assistants through agent marketplace](https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/)
 - [SEC eyes shift to twice-yearly earnings reports](https://techcrunch.com/2026/03/16/sec-eyes-shift-to-twice-yearly-earnings-reports/)
-- [Nvidia’s version of OpenClaw could solve its biggest problem: security](https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
