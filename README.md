@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Stryker says it’s restoring systems after pro-Iran hackers wiped thousands of employee devices](https://techcrunch.com/2026/03/17/stryker-says-its-restoring-systems-after-pro-iran-hackers-wiped-thousands-of-employee-devices/)
-- [OpenAI expands government footprint with AWS deal, report says](https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/)
-- [AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby](https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/)
-- [Oura enters India’s smart ring market with the Ring 4](https://techcrunch.com/2026/03/17/oura-enters-indias-smart-ring-market-with-the-ring-4/)
-- [World launches tool to verify humans behind AI shopping agents](https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/)
+- [Google’s data center power playbook comes into focus](https://techcrunch.com/2026/03/17/googles-data-center-power-playbook-comes-into-focus/)
+- [SpaceX launches 10,000th active Starlink satellite into low Earth orbit](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-10-000th-active-starlink-satellite-into-low-earth-orbit)
+- [Rare daytime fireball spotted from orbit as residents report powerful sonic boom](https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-spotted-from-orbit-as-residents-report-powerful-sonic-boom)
+- [Meet Vurt, the mobile-first streaming platform for indie filmmakers embracing vertical video](https://techcrunch.com/2026/03/17/vurt-mobile-first-vertical-video-streaming-platform-indie-filmmakers/)
+- [Google’s Personal Intelligence feature is expanding to all US users](https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
