@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA will roll Artemis 2 moon rocket back to the launch pad on March 20](https://www.space.com/space-exploration/artemis/nasa-will-roll-artemis-2-moon-rocket-back-to-the-launch-pad-on-march-20)
-- [&#39;Star Wars: Maul – Shadow Lord&#39; cuts into Disney+ with a brutal 2nd trailer full of Inquisitors &lpar;video&rpar;](https://www.space.com/entertainment/space-games/star-wars-maul-shadow-lord-cuts-into-disney-with-a-brutal-2nd-trailer-full-of-inquisitors-video)
-- [MacBook Neo, AirPods Max 2, iPhone 17e, and everything else Apple announced this month](https://techcrunch.com/2026/03/17/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/)
-- [Niv-AI exits stealth to wring more power performance out of GPUs](https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/)
-- [H&amp;M wants to make clothing from CO2 using this startup’s tech](https://techcrunch.com/2026/03/17/hm-wants-to-make-clothing-from-co2-using-this-startups-tech/)
+- [Stryker says it’s restoring systems after pro-Iran hackers wiped thousands of employee devices](https://techcrunch.com/2026/03/17/stryker-says-its-restoring-systems-after-pro-iran-hackers-wiped-thousands-of-employee-devices/)
+- [OpenAI expands government footprint with AWS deal, report says](https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/)
+- [AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby](https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/)
+- [Oura enters India’s smart ring market with the Ring 4](https://techcrunch.com/2026/03/17/oura-enters-indias-smart-ring-market-with-the-ring-4/)
+- [World launches tool to verify humans behind AI shopping agents](https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
