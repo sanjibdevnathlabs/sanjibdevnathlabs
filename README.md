@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise](https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/)
+- [X-ray spacecraft watches monster black hole wake up and fire cosmic bullets at starburst galaxy](https://www.space.com/astronomy/black-holes/x-ray-spacecraft-watches-monster-black-hole-wake-up-and-fire-cosmic-bullets-at-starburst-galaxy)
+- [Why Garry Tan’s Claude Code setup has gotten so much love, and hate](https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/)
 - [Apple rolls out first ‘background security’ update for iPhones, iPads, and Macs to fix Safari bug](https://techcrunch.com/2026/03/17/apple-rolls-out-first-background-security-update-for-iphones-ipads-and-macs-to-fix-safari-bug/)
 - [Kagi brings its ‘small web’ of a human-only internet to mobile devices](https://techcrunch.com/2026/03/17/kagi-small-web-human-authored-indie-internet-mobile-ios-android-devices/)
-- [Dune: Part Three teaser: Five talking points from Denis Villeneuve&#39;s return to Arrakis](https://www.space.com/entertainment/space-movies-shows/dune-part-three-teaser-five-talking-points-from-denis-villeneuves-return-to-arrakis)
-- [Where are all the aliens? Maybe they just don&#39;t want to talk to us](https://www.space.com/space-exploration/search-for-life/where-are-all-the-aliens-maybe-they-just-dont-want-to-talk-to-us)
-- [The Pentagon is developing alternatives to Anthropic, report says](https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
