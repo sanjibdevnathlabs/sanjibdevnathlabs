@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Where are all the aliens? Maybe they just don&#39;t want to talk to us](https://www.space.com/space-exploration/search-for-life/where-are-all-the-aliens-maybe-they-just-dont-want-to-talk-to-us)
 - [The Pentagon is developing alternatives to Anthropic, report says](https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/)
 - [Ryugu asteroid sample contains all five key components of DNA, scientists find](https://www.space.com/astronomy/asteroids/ryugu-asteroid-sample-contains-all-five-key-components-of-dna-scientists-find)
 - [ExpressVPN is at its lowest ever price, get 82% off, and enjoy Season 5 of &#39;For All Mankind&#39; and spinoff series &#39;Star City&#39; with uninterrupted viewing from anywhere](https://www.space.com/technology/expressvpn-is-at-its-lowest-ever-price-get-82-percent-off-and-enjoy-season-5-of-for-all-mankind-and-spinoff-series-star-city-with-uninterrupted-viewing-from-anywhere)
 - [BuzzFeed debuts AI slop apps in bid for new revenue](https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/)
-- [Google’s data center power playbook comes into focus](https://techcrunch.com/2026/03/17/googles-data-center-power-playbook-comes-into-focus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
