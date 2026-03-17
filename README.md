@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [16 time-travel methods from sci-fi to help you traverse the space-time continuum](https://www.space.com/entertainment/space-movies-shows/16-time-travel-methods-from-sci-fi-to-help-you-traverse-the-space-time-continuum)
-- [Amazon adds 1-hour and 3-hour delivery options in the US](https://techcrunch.com/2026/03/17/amazon-adds-1-hour-and-3-hour-delivery-options-in-the-us/)
-- [Gecko Robotics lands the largest U.S. Navy robotics deal yet](https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/)
-- [Jeff Bezos&#39; Blue Origin wants to defend Earth against dangerous asteroids. Here&#39;s how](https://www.space.com/space-exploration/launches-spacecraft/jeff-bezos-blue-origin-wants-to-defend-earth-against-dangerous-asteroids-heres-how)
-- [Picsart now allows creators to ‘hire’ AI assistants through agent marketplace](https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/)
+- [NASA will roll Artemis 2 moon rocket back to the launch pad on March 20](https://www.space.com/space-exploration/artemis/nasa-will-roll-artemis-2-moon-rocket-back-to-the-launch-pad-on-march-20)
+- [&#39;Star Wars: Maul – Shadow Lord&#39; cuts into Disney+ with a brutal 2nd trailer full of Inquisitors &lpar;video&rpar;](https://www.space.com/entertainment/space-games/star-wars-maul-shadow-lord-cuts-into-disney-with-a-brutal-2nd-trailer-full-of-inquisitors-video)
+- [MacBook Neo, AirPods Max 2, iPhone 17e, and everything else Apple announced this month](https://techcrunch.com/2026/03/17/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/)
+- [Niv-AI exits stealth to wring more power performance out of GPUs](https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/)
+- [H&amp;M wants to make clothing from CO2 using this startup’s tech](https://techcrunch.com/2026/03/17/hm-wants-to-make-clothing-from-co2-using-this-startups-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
