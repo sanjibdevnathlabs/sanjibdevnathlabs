@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gecko Robotics lands the largest U.S. Navy robotics deal yet](https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/)
+- [Jeff Bezos&#39; Blue Origin wants to defend Earth against dangerous asteroids. Here&#39;s how](https://www.space.com/space-exploration/launches-spacecraft/jeff-bezos-blue-origin-wants-to-defend-earth-against-dangerous-asteroids-heres-how)
 - [Picsart now allows creators to ‘hire’ AI assistants through agent marketplace](https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/)
 - [SEC eyes shift to twice-yearly earnings reports](https://techcrunch.com/2026/03/16/sec-eyes-shift-to-twice-yearly-earnings-reports/)
 - [Nvidia’s version of OpenClaw could solve its biggest problem: security](https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/)
-- [Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere](https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/)
-- [How fast is the universe expanding? Astronomers may be one step closer to resolving &#39;Hubble trouble&#39;](https://www.space.com/astronomy/how-fast-is-the-universe-expanding-astronomers-may-be-one-step-closer-to-resolving-hubble-trouble)
 <!-- BLOG-POST-LIST:END -->
 
 ---
