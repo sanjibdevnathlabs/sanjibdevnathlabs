@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [X-59 gets ready for 2nd test flight | Space photo of the day for March 18, 2026](https://www.space.com/technology/aerospace/x-59-gets-ready-for-2nd-test-flight-space-photo-of-the-day-for-march-18-2026)
-- [DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’](https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/)
-- [New moon of March 2026 brings stunning views of Jupiter, Venus, zodiacal light and more](https://www.space.com/stargazing/new-moon-of-march-2026-brings-stunning-views-of-jupiter-venus-zodiacal-light-and-more)
-- [Mave Health aims to improve attention and mood with its brain-stimulating headset](https://techcrunch.com/2026/03/18/mave-health-aims-to-improve-attention-and-mood-with-its-brain-stimulating-headset/)
-- [Rainfall, rivers and seas: How Earth can prepare us to explore Saturn&#39;s moon Titan](https://www.space.com/space-exploration/rainfall-rivers-and-seas-how-earth-can-prepare-us-to-explore-saturns-moon-titan)
+- [This startup wants to make enterprise software look more like a prompt](https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/)
+- [Facebook launches a new monetization program to attract popular creators from TikTok, YouTube](https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/)
+- [One of the youngest visible moons of the year appears alongside Venus on March 19](https://www.space.com/stargazing/one-of-the-youngest-visible-moons-of-the-year-appears-alongside-venus-on-march-19)
+- [Sequen snags $16M to bring TikTok-style personalization tech to any consumer company](https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/)
+- [Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove](https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
