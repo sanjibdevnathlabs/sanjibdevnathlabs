@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A Critical Lens on Science Images](https://www.youtube.com/watch?v=Rosn4Rp4DjU)
+- [A Critical Lens on Science Images](https://www.youtube.com/shorts/YyUOD5LZDMs)
 - [7 new open source AI tools you need right now…](https://www.youtube.com/watch?v=Xn-gtHDsaPY)
-- [Vector Search with LLMs - Computerphile](https://www.youtube.com/watch?v=YDdKiQNw80c)
-- [The greatest unsolved problem in computer science...](https://www.youtube.com/watch?v=x36UmiSiEzc)
-- [Coding a Guitar Sound in C - Computerphile](https://www.youtube.com/watch?v=Ly1v1BRVpz4)
-- [Cloudflare just slop forked Next.js…](https://www.youtube.com/watch?v=abbeIUOCzmw)
+- [The Power of Free Knowledge](https://www.youtube.com/watch?v=CoZA-JF8fkA)
+- [MIT 24-Hour Challenge 2026](https://www.youtube.com/watch?v=7iTmL1hfGI4)
 <!-- YOUTUBE:END -->
 
 ---
