@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;At the edge of what we thought possible&#39;: Astronomers find extremely rare star from ancient universe](https://www.space.com/astronomy/stars/at-the-edge-of-what-we-thought-possible-astronomers-find-extremely-rare-star-from-ancient-universe)
+- [Astronauts complete prep for new ISS solar array on 1st NASA spacewalk in 10 months](https://www.space.com/space-exploration/international-space-station/astronauts-complete-prep-for-new-iss-solar-array-on-1st-nasa-spacewalk-in-10-months)
+- [Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place](https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/)
 - [Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business](https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/)
 - [How to watch &#39;Invincible&#39; Season 4 online and from anywhere](https://www.space.com/entertainment/how-to-watch-invincible-season-4-online-and-from-anywhere)
-- [SpaceX fires up next-gen &#39;V3&#39; Starship for 1st time ahead of April launch &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-next-gen-v3-starship-for-1st-time-ahead-of-april-launch-photos)
-- [&#39;Starfield&#39; is finally coming to PS5, alongside DLC that adds new quests and the ability to fly between planets](https://www.space.com/entertainment/space-games/starfield-is-finally-coming-to-ps5-alongside-dlc-that-adds-new-quests-and-the-ability-to-fly-between-planets)
-- [FBI is buying location data to track US citizens, director confirms](https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
