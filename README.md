@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X-59 gets ready for 2nd test flight | Space photo of the day for March 18, 2026](https://www.space.com/technology/aerospace/x-59-gets-ready-for-2nd-test-flight-space-photo-of-the-day-for-march-18-2026)
+- [DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’](https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/)
+- [New moon of March 2026 brings stunning views of Jupiter, Venus, zodiacal light and more](https://www.space.com/stargazing/new-moon-of-march-2026-brings-stunning-views-of-jupiter-venus-zodiacal-light-and-more)
 - [Mave Health aims to improve attention and mood with its brain-stimulating headset](https://techcrunch.com/2026/03/18/mave-health-aims-to-improve-attention-and-mood-with-its-brain-stimulating-headset/)
 - [Rainfall, rivers and seas: How Earth can prepare us to explore Saturn&#39;s moon Titan](https://www.space.com/space-exploration/rainfall-rivers-and-seas-how-earth-can-prepare-us-to-explore-saturns-moon-titan)
-- [Missed Star Trek: Starfleet Academy or just want to binge-watch again? Get this Ferengi-approved Paramount Plus streaming deal, 79% cheaper for two months](https://www.space.com/entertainment/space-movies-shows/watch-star-trek-starfleet-academy-for-79-percent-cheaper-on-paramount-plus-streaming-deal)
-- [Beyond Artemis 2: NASA pursuing a &#39;more achievable&#39; path back to the moon](https://www.space.com/space-exploration/artemis/beyond-artemis-2-nasa-pursuing-a-more-achievable-path-back-to-the-moon)
-- [Watch live today: NASA astronauts conducting spacewalk delayed by ISS medical evacuation](https://www.space.com/space-exploration/international-space-station/watch-live-today-nasa-astronauts-conducting-spacewalk-delayed-by-iss-medical-evacuation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
