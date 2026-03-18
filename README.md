@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This startup wants to make enterprise software look more like a prompt](https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/)
-- [Facebook launches a new monetization program to attract popular creators from TikTok, YouTube](https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/)
-- [One of the youngest visible moons of the year appears alongside Venus on March 19](https://www.space.com/stargazing/one-of-the-youngest-visible-moons-of-the-year-appears-alongside-venus-on-march-19)
-- [Sequen snags $16M to bring TikTok-style personalization tech to any consumer company](https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/)
-- [Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove](https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/)
+- [Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid](https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/)
+- [Rebel Audio is a new AI podcasting tool aimed at first-time creators](https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/)
+- [&#39;Firefly&#39; is getting an animated series featuring the original cast, and we&#39;re all shiny with anticipation](https://www.space.com/entertainment/space-movies-shows/firefly-is-getting-an-animated-series-featuring-the-original-cast-and-were-all-shiny-with-anticipation)
+- [The Gemini-powered features in Google Workspace that are worth using](https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/)
+- [Apps to distract you from the endless cycle of doomscrolling](https://techcrunch.com/2026/03/18/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
