@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mave Health aims to improve attention and mood with its brain-stimulating headset](https://techcrunch.com/2026/03/18/mave-health-aims-to-improve-attention-and-mood-with-its-brain-stimulating-headset/)
+- [Rainfall, rivers and seas: How Earth can prepare us to explore Saturn&#39;s moon Titan](https://www.space.com/space-exploration/rainfall-rivers-and-seas-how-earth-can-prepare-us-to-explore-saturns-moon-titan)
+- [Missed Star Trek: Starfleet Academy or just want to binge-watch again? Get this Ferengi-approved Paramount Plus streaming deal, 79% cheaper for two months](https://www.space.com/entertainment/space-movies-shows/watch-star-trek-starfleet-academy-for-79-percent-cheaper-on-paramount-plus-streaming-deal)
 - [Beyond Artemis 2: NASA pursuing a &#39;more achievable&#39; path back to the moon](https://www.space.com/space-exploration/artemis/beyond-artemis-2-nasa-pursuing-a-more-achievable-path-back-to-the-moon)
 - [Watch live today: NASA astronauts conducting spacewalk delayed by ISS medical evacuation](https://www.space.com/space-exploration/international-space-station/watch-live-today-nasa-astronauts-conducting-spacewalk-delayed-by-iss-medical-evacuation)
-- [Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’](https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/)
-- [Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise](https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/)
-- [X-ray spacecraft watches monster black hole wake up and fire cosmic bullets at starburst galaxy](https://www.space.com/astronomy/black-holes/x-ray-spacecraft-watches-monster-black-hole-wake-up-and-fire-cosmic-bullets-at-starburst-galaxy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
