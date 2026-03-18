@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FBI is buying location data to track US citizens, director confirms](https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/)
+- [Chinese astronaut conducts record-tying 6th spacewalk outside Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/chinese-astronaut-conducts-record-tying-6th-spacewalk-outside-tiangong-space-station-video)
+- [Pardoned Nikola founder Trevor Milton is trying to raise $1B for AI-powered planes](https://techcrunch.com/2026/03/18/pardoned-nikola-founder-trevor-milton-is-trying-to-raise-1b-for-ai-powered-planes/)
 - [Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid](https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/)
 - [Rebel Audio is a new AI podcasting tool aimed at first-time creators](https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/)
-- [&#39;Firefly&#39; is getting an animated series featuring the original cast, and we&#39;re all shiny with anticipation](https://www.space.com/entertainment/space-movies-shows/firefly-is-getting-an-animated-series-featuring-the-original-cast-and-were-all-shiny-with-anticipation)
-- [The Gemini-powered features in Google Workspace that are worth using](https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/)
-- [Apps to distract you from the endless cycle of doomscrolling](https://techcrunch.com/2026/03/18/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
