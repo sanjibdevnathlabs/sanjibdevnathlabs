@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business](https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/)
+- [How to watch &#39;Invincible&#39; Season 4 online and from anywhere](https://www.space.com/entertainment/how-to-watch-invincible-season-4-online-and-from-anywhere)
 - [SpaceX fires up next-gen &#39;V3&#39; Starship for 1st time ahead of April launch &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-next-gen-v3-starship-for-1st-time-ahead-of-april-launch-photos)
 - [&#39;Starfield&#39; is finally coming to PS5, alongside DLC that adds new quests and the ability to fly between planets](https://www.space.com/entertainment/space-games/starfield-is-finally-coming-to-ps5-alongside-dlc-that-adds-new-quests-and-the-ability-to-fly-between-planets)
 - [FBI is buying location data to track US citizens, director confirms](https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/)
-- [Chinese astronaut conducts record-tying 6th spacewalk outside Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/chinese-astronaut-conducts-record-tying-6th-spacewalk-outside-tiangong-space-station-video)
-- [Pardoned Nikola founder Trevor Milton is trying to raise $1B for AI-powered planes](https://techcrunch.com/2026/03/18/pardoned-nikola-founder-trevor-milton-is-trying-to-raise-1b-for-ai-powered-planes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
