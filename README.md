@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Artemis 2: NASA pursuing a &#39;more achievable&#39; path back to the moon](https://www.space.com/space-exploration/artemis/beyond-artemis-2-nasa-pursuing-a-more-achievable-path-back-to-the-moon)
 - [Watch live today: NASA astronauts conducting spacewalk delayed by ISS medical evacuation](https://www.space.com/space-exploration/international-space-station/watch-live-today-nasa-astronauts-conducting-spacewalk-delayed-by-iss-medical-evacuation)
 - [Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’](https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/)
 - [Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise](https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/)
 - [X-ray spacecraft watches monster black hole wake up and fire cosmic bullets at starburst galaxy](https://www.space.com/astronomy/black-holes/x-ray-spacecraft-watches-monster-black-hole-wake-up-and-fire-cosmic-bullets-at-starburst-galaxy)
-- [Why Garry Tan’s Claude Code setup has gotten so much love, and hate](https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
