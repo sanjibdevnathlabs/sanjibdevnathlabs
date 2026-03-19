@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant](https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/)
+- [These cotton candy exoplanets hide behind a haze even the James Webb Space Telescope can&#39;t penetrate](https://www.space.com/astronomy/exoplanets/these-cotton-candy-exoplanets-hide-behind-a-haze-even-the-james-webb-space-telescope-cant-penetrate)
 - [&#39;A great relief!&#39; Europe&#39;s Proba-3 solar-eclipse satellite phones home after a month of silence](https://www.space.com/space-exploration/missions/a-great-relief-europes-proba-3-solar-eclipse-satellite-phones-home-after-a-month-of-silence)
 - [Polymarket continues its partnership spree with a Major League Baseball deal](https://techcrunch.com/2026/03/19/polymarket-continues-its-partnership-spree-with-a-major-league-baseball-deal/)
 - [Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says](https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/)
-- [Bluesky announces $100M Series B after CEO transition](https://techcrunch.com/2026/03/19/bluesky-announces-100m-series-b-after-ceo-transition/)
-- [Earthshine will reveal the moon&#39;s hidden face this week — here&#39;s how to see it](https://www.space.com/stargazing/earthshine-will-reveal-the-moons-hidden-face-this-week-heres-how-to-see-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
