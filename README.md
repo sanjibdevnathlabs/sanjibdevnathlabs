@@ -135,7 +135,7 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [Temporal Networks, Where Page Rank meets Lord of the Rings - Computerphile](https://www.youtube.com/watch?v=ZP6Bh3iWklQ)
-- [The rise and fall of famo.us...](https://www.youtube.com/watch?v=ReAnFFqvCeA)
+- [How to burn $30m on a JavaScript framework...](https://www.youtube.com/watch?v=ReAnFFqvCeA)
 - [A Critical Lens on Science Images](https://www.youtube.com/watch?v=Rosn4Rp4DjU)
 - [A Critical Lens on Science Images](https://www.youtube.com/shorts/YyUOD5LZDMs)
 - [7 new open source AI tools you need right now…](https://www.youtube.com/watch?v=Xn-gtHDsaPY)
