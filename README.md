@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI](https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/)
+- [I talked to Andy Weir about the astrobiology behind &#39;Project Hail Mary&#39;](https://www.space.com/entertainment/space-movies-shows/i-talked-to-andy-weir-about-the-astrobiology-behind-project-hail-mary)
 - [Meta decides not to shut down Horizon Worlds on VR after all](https://techcrunch.com/2026/03/19/meta-decides-not-to-shut-down-horizon-worlds-on-vr-after-all/)
 - [FBI seizes pro-Iranian hacking group’s websites after destructive Stryker hack](https://techcrunch.com/2026/03/19/fbi-seizes-pro-iranian-hacking-groups-websites-after-destructive-stryker-hack/)
 - [CISA urges companies to secure Microsoft Intune systems after hackers mass-wipe Stryker devices](https://techcrunch.com/2026/03/19/cisa-urges-companies-to-secure-microsoft-intune-systems-after-hackers-mass-wipe-stryker-devices/)
-- [TechCrunch Startup Battlefield 200 nominations are still open](https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/)
-- [NASA peers inside an asteroid | Space photo of the day for March 19, 2026](https://www.space.com/astronomy/asteroids/nasa-peers-inside-an-asteroid-space-photo-of-the-day-for-march-19-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
