@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says](https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/)
+- [Bluesky announces $100M Series B after CEO transition](https://techcrunch.com/2026/03/19/bluesky-announces-100m-series-b-after-ceo-transition/)
+- [Earthshine will reveal the moon&#39;s hidden face this week — here&#39;s how to see it](https://www.space.com/stargazing/earthshine-will-reveal-the-moons-hidden-face-this-week-heres-how-to-see-it)
 - [Geothermal startup Fervo catapults itself over the ‘valley of death’](https://techcrunch.com/2026/03/19/geothermal-startup-fervo-catapults-itself-over-the-valley-of-death/)
 - [Private South Korean rocket exploded last December due to hardware failure, investigation finds](https://www.space.com/space-exploration/private-spaceflight/private-south-korean-rocket-exploded-last-december-due-to-hardware-failure-investigation-finds)
-- [Lego&#39;s first-ever Tintin set is coming next month and it&#39;s a space-themed Lego Tintin Moon rocket](https://www.space.com/entertainment/space-toys-lego/legos-first-ever-tintin-set-is-coming-lego-tintin-moon-rocket)
-- [Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors](https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/)
-- [Google introduces a new way for users to sideload Android apps that still protects against scams](https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
