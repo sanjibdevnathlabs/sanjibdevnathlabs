@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [K2 to launch its first high-powered satellite for space compute](https://techcrunch.com/2026/03/19/k2-to-launch-its-first-high-powered-satellite-for-space-compute/)
-- [Tools for founders to navigate and move past conflict](https://techcrunch.com/2026/03/19/tools-for-founders-to-navigate-and-move-past-conflict/)
-- [Anori, Alphabet’s new X spinout, is tackling one of the world’s most expensive bureaucratic nightmares](https://techcrunch.com/2026/03/19/alphabets-x-has-a-new-spinout-and-its-going-after-one-of-the-worlds-most-expensive-bureaucratic-nightmares/)
-- [Explosive daytime fireball may have dropped meteorites on Ohio — here&#39;s where to look and what to do if you find one](https://www.space.com/stargazing/meteor-showers/explosive-daytime-fireball-may-have-dropped-meteorites-on-ohio-heres-where-to-look-and-what-to-do-if-you-find-one)
-- [Consumer-focused privacy company Cloaked raises $375M as it expands to enterprise](https://techcrunch.com/2026/03/19/consumer-focused-privacy-company-cloaked-raises-375m-as-it-expands-to-enterprise/)
+- [Meta decides not to shut down Horizon Worlds on VR after all](https://techcrunch.com/2026/03/19/meta-decides-not-to-shut-down-horizon-worlds-on-vr-after-all/)
+- [FBI seizes pro-Iranian hacking group’s websites after destructive Stryker hack](https://techcrunch.com/2026/03/19/fbi-seizes-pro-iranian-hacking-groups-websites-after-destructive-stryker-hack/)
+- [CISA urges companies to secure Microsoft Intune systems after hackers mass-wipe Stryker devices](https://techcrunch.com/2026/03/19/cisa-urges-companies-to-secure-microsoft-intune-systems-after-hackers-mass-wipe-stryker-devices/)
+- [TechCrunch Startup Battlefield 200 nominations are still open](https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/)
+- [NASA peers inside an asteroid | Space photo of the day for March 19, 2026](https://www.space.com/astronomy/asteroids/nasa-peers-inside-an-asteroid-space-photo-of-the-day-for-march-19-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
