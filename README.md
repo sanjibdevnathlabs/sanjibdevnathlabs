@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Feds intensify investigation into Tesla’s Full Self-Driving &lpar;Supervised&rpar; software](https://techcrunch.com/2026/03/19/feds-intensify-investigation-into-teslas-full-self-driving-supervised-software/)
+- [Amazon brings Alexa+ to the UK](https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/)
+- [Uber taps Rivian to build robotaxis in deal worth up to $1.25B](https://techcrunch.com/2026/03/19/uber-taps-rivian-to-build-robotaxis-in-deal-worth-up-to-1-25b/)
+- [Watch Rocket Lab launch private Japanese &#39;Strix&#39; satellite to orbit today](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-synspective-eight-days-a-week)
 - [You can stream the two &#39;missing&#39; Doctor Who episodes when travelling, save 73% and claim a free $50 voucher when you sign up for two years of NordVPN](https://www.space.com/technology/stream-two-missing-doctor-who-episodes-save-74-percent-claim-free-50-dollar-amazon-voucher-nordvpn-deal)
-- [Inside a $1.1B deal to reshore critical minerals refining](https://techcrunch.com/2026/03/19/inside-a-1-1b-deal-to-reshore-critical-minerals-refining/)
-- [Watch NASA roll out Artemis 2 moon rocket tonight ahead of April 1 launch](https://www.space.com/space-exploration/artemis/watch-nasa-roll-out-artemis-2-moon-rocket-tonight-ahead-of-april-1-launch)
-- [Multiverse Computing pushes its compressed AI models into the mainstream](https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/)
-- [Two Palantir veterans just came out of stealth with $30 million and a Sequoia stamp of approval](https://techcrunch.com/2026/03/18/two-palantir-veterans-just-came-out-of-stealth-with-30-million-and-a-sequoia-stamp-of-approval/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
