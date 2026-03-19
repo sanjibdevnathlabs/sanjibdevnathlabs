@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch NASA roll out Artemis 2 moon rocket tonight ahead of April 1 launch](https://www.space.com/space-exploration/artemis/watch-nasa-roll-out-artemis-2-moon-rocket-tonight-ahead-of-april-1-launch)
 - [Multiverse Computing pushes its compressed AI models into the mainstream](https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/)
 - [Two Palantir veterans just came out of stealth with $30 million and a Sequoia stamp of approval](https://techcrunch.com/2026/03/18/two-palantir-veterans-just-came-out-of-stealth-with-30-million-and-a-sequoia-stamp-of-approval/)
 - [Meta is having trouble with rogue AI agents](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/)
 - [Sam Altman’s thank-you to coders draws the memes](https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/)
-- [&#39;At the edge of what we thought possible&#39;: Astronomers find extremely rare star from ancient universe](https://www.space.com/astronomy/stars/at-the-edge-of-what-we-thought-possible-astronomers-find-extremely-rare-star-from-ancient-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
