@@ -134,7 +134,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Did Google just make me a designer? Let&#39;s run it…](https://www.youtube.com/watch?v=qaB5HF4ax9M)
+- [Google just changed the future of UI/UX design...](https://www.youtube.com/watch?v=qaB5HF4ax9M)
 - [Temporal Networks, Where Page Rank meets Lord of the Rings - Computerphile](https://www.youtube.com/watch?v=ZP6Bh3iWklQ)
 - [How to burn $30m on a JavaScript framework...](https://www.youtube.com/watch?v=ReAnFFqvCeA)
 - [A Critical Lens on Science Images](https://www.youtube.com/watch?v=Rosn4Rp4DjU)
