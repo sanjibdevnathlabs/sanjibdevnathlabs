@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You can stream the two &#39;missing&#39; Doctor Who episodes when travelling, save 73% and claim a free $50 voucher when you sign up for two years of NordVPN](https://www.space.com/technology/stream-two-missing-doctor-who-episodes-save-74-percent-claim-free-50-dollar-amazon-voucher-nordvpn-deal)
+- [Inside a $1.1B deal to reshore critical minerals refining](https://techcrunch.com/2026/03/19/inside-a-1-1b-deal-to-reshore-critical-minerals-refining/)
 - [Watch NASA roll out Artemis 2 moon rocket tonight ahead of April 1 launch](https://www.space.com/space-exploration/artemis/watch-nasa-roll-out-artemis-2-moon-rocket-tonight-ahead-of-april-1-launch)
 - [Multiverse Computing pushes its compressed AI models into the mainstream](https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/)
 - [Two Palantir veterans just came out of stealth with $30 million and a Sequoia stamp of approval](https://techcrunch.com/2026/03/18/two-palantir-veterans-just-came-out-of-stealth-with-30-million-and-a-sequoia-stamp-of-approval/)
-- [Meta is having trouble with rogue AI agents](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/)
-- [Sam Altman’s thank-you to coders draws the memes](https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
