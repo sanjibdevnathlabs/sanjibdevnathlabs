@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta is having trouble with rogue AI agents](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/)
 - [Sam Altman’s thank-you to coders draws the memes](https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/)
 - [&#39;At the edge of what we thought possible&#39;: Astronomers find extremely rare star from ancient universe](https://www.space.com/astronomy/stars/at-the-edge-of-what-we-thought-possible-astronomers-find-extremely-rare-star-from-ancient-universe)
 - [Astronauts complete prep for new ISS solar array on 1st NASA spacewalk in 10 months](https://www.space.com/space-exploration/international-space-station/astronauts-complete-prep-for-new-iss-solar-array-on-1st-nasa-spacewalk-in-10-months)
 - [Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place](https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/)
-- [Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business](https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
