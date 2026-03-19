@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Feds intensify investigation into Tesla’s Full Self-Driving &lpar;Supervised&rpar; software](https://techcrunch.com/2026/03/19/feds-intensify-investigation-into-teslas-full-self-driving-supervised-software/)
-- [Amazon brings Alexa+ to the UK](https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/)
-- [Uber taps Rivian to build robotaxis in deal worth up to $1.25B](https://techcrunch.com/2026/03/19/uber-taps-rivian-to-build-robotaxis-in-deal-worth-up-to-1-25b/)
-- [Watch Rocket Lab launch private Japanese &#39;Strix&#39; satellite to orbit today](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-synspective-eight-days-a-week)
-- [You can stream the two &#39;missing&#39; Doctor Who episodes when travelling, save 73% and claim a free $50 voucher when you sign up for two years of NordVPN](https://www.space.com/technology/stream-two-missing-doctor-who-episodes-save-74-percent-claim-free-50-dollar-amazon-voucher-nordvpn-deal)
+- [K2 to launch its first high-powered satellite for space compute](https://techcrunch.com/2026/03/19/k2-to-launch-its-first-high-powered-satellite-for-space-compute/)
+- [Tools for founders to navigate and move past conflict](https://techcrunch.com/2026/03/19/tools-for-founders-to-navigate-and-move-past-conflict/)
+- [Anori, Alphabet’s new X spinout, is tackling one of the world’s most expensive bureaucratic nightmares](https://techcrunch.com/2026/03/19/alphabets-x-has-a-new-spinout-and-its-going-after-one-of-the-worlds-most-expensive-bureaucratic-nightmares/)
+- [Explosive daytime fireball may have dropped meteorites on Ohio — here&#39;s where to look and what to do if you find one](https://www.space.com/stargazing/meteor-showers/explosive-daytime-fireball-may-have-dropped-meteorites-on-ohio-heres-where-to-look-and-what-to-do-if-you-find-one)
+- [Consumer-focused privacy company Cloaked raises $375M as it expands to enterprise](https://techcrunch.com/2026/03/19/consumer-focused-privacy-company-cloaked-raises-375m-as-it-expands-to-enterprise/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
