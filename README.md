@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lego&#39;s first-ever Tintin set is coming next month and it&#39;s a space-themed Lego Tintin Moon rocket](https://www.space.com/entertainment/space-toys-lego/legos-first-ever-tintin-set-is-coming-lego-tintin-moon-rocket)
+- [Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors](https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/)
+- [Google introduces a new way for users to sideload Android apps that still protects against scams](https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/)
 - [DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI](https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/)
 - [I talked to Andy Weir about the astrobiology behind &#39;Project Hail Mary&#39;](https://www.space.com/entertainment/space-movies-shows/i-talked-to-andy-weir-about-the-astrobiology-behind-project-hail-mary)
-- [Meta decides not to shut down Horizon Worlds on VR after all](https://techcrunch.com/2026/03/19/meta-decides-not-to-shut-down-horizon-worlds-on-vr-after-all/)
-- [FBI seizes pro-Iranian hacking group’s websites after destructive Stryker hack](https://techcrunch.com/2026/03/19/fbi-seizes-pro-iranian-hacking-groups-websites-after-destructive-stryker-hack/)
-- [CISA urges companies to secure Microsoft Intune systems after hackers mass-wipe Stryker devices](https://techcrunch.com/2026/03/19/cisa-urges-companies-to-secure-microsoft-intune-systems-after-hackers-mass-wipe-stryker-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
