@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cyberattack on vehicle breathalyzer company leaves drivers stranded across the US](https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/)
+- [Amazon working on new smartphone with Alexa at its core, report says](https://techcrunch.com/2026/03/20/amazon-working-on-new-smartphone-with-alexa-at-its-core-report-says/)
 - [NASA&#39;s Artemis 2 moon rocket arrives back at the launch pad](https://www.space.com/space-exploration/artemis/nasas-artemis-2-moon-rocket-arrives-back-at-the-launch-pad)
-- [Spring equinox could supercharge northern lights this weekend — here&#39;s why](https://www.space.com/stargazing/auroras/spring-equinox-could-supercharge-northern-lights-march-20-21-heres-why)
+- [Northern lights could get a boost from the spring equinox this weekend — here&#39;s why](https://www.space.com/stargazing/auroras/northern-lights-could-get-a-boost-from-the-spring-equinox-this-weekend-heres-why)
 - [NASA won&#39;t give up hope on silent MAVEN Mars probe: &#39;We&#39;re still looking for it&#39;](https://www.space.com/space-exploration/launches-spacecraft/nasa-wont-give-up-hope-on-silent-maven-mars-probe-were-still-looking-for-it)
-- [The best AI investment might be in energy tech](https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/)
-- [Astronomers missed a space explosion as powerful as a billion suns — until they spotted its echo](https://www.space.com/astronomy/astronomers-missed-a-space-explosion-as-powerful-as-a-billion-suns-until-they-spotted-its-echo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
