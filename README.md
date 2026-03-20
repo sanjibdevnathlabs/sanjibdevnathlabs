@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 2 moon rocket arrives back at the launch pad](https://www.space.com/space-exploration/artemis/nasas-artemis-2-moon-rocket-arrives-back-at-the-launch-pad)
+- [Spring equinox could supercharge northern lights this weekend — here&#39;s why](https://www.space.com/stargazing/auroras/spring-equinox-could-supercharge-northern-lights-march-20-21-heres-why)
 - [NASA won&#39;t give up hope on silent MAVEN Mars probe: &#39;We&#39;re still looking for it&#39;](https://www.space.com/space-exploration/launches-spacecraft/nasa-wont-give-up-hope-on-silent-maven-mars-probe-were-still-looking-for-it)
 - [The best AI investment might be in energy tech](https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/)
 - [Astronomers missed a space explosion as powerful as a billion suns — until they spotted its echo](https://www.space.com/astronomy/astronomers-missed-a-space-explosion-as-powerful-as-a-billion-suns-until-they-spotted-its-echo)
-- [These AI notetaking devices can help you record and transcribe your meetings](https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/)
-- [A not-so-equal equinox: Why day beats night on the 1st day of spring](https://www.space.com/stargazing/a-not-so-equal-equinox-why-day-beats-night-on-the-1st-day-of-spring)
 <!-- BLOG-POST-LIST:END -->
 
 ---
