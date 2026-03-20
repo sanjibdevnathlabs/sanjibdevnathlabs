@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet](https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/)
+- [US Space Force moves GPS launch to SpaceX Falcon 9 due to Vulcan rocket glitch](https://www.space.com/space-exploration/launches-spacecraft/us-space-force-moves-gps-launch-to-spacex-falcon-9-due-to-vulcan-rocket-glitch)
 - [Love Project Hail Mary? Here are the Andy Weir books you need to read](https://www.space.com/entertainment/space-books/love-project-hail-mary-here-are-the-andy-weir-books-you-need-to-read)
 - [Amidst legal turmoil, Kalshi is temporarily banned in Nevada](https://techcrunch.com/2026/03/20/amidst-legal-turmoil-kalshi-is-temporarily-banned-in-nevada/)
 - [Pinterest CEO calls on governments to ban social media for users under 16](https://techcrunch.com/2026/03/20/pinterest-ceo-calls-on-governments-to-ban-social-media-for-users-under-16/)
-- [&#39;Project Hail Mary&#39; is an optimistic look towards the stars, and we need that right now &lpar;review&rpar;](https://www.space.com/entertainment/space-movies-shows/project-hail-mary-is-an-optimistic-look-towards-the-stars-and-we-need-that-right-now-review)
-- [Hubble Space Telescope accidentally witnesses comet C/2025 K1 &lpar;ATLAS&rpar; breaking apart](https://www.space.com/astronomy/comets/hubble-space-telescope-accidentally-witnesses-comet-c-2025-k1-atlas-breaking-apart)
 <!-- BLOG-POST-LIST:END -->
 
 ---
