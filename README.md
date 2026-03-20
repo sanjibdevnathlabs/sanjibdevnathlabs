@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best AI investment might be in energy tech](https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/)
+- [Astronomers missed a space explosion as powerful as a billion suns — until they spotted its echo](https://www.space.com/astronomy/astronomers-missed-a-space-explosion-as-powerful-as-a-billion-suns-until-they-spotted-its-echo)
+- [These AI notetaking devices can help you record and transcribe your meetings](https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/)
 - [A not-so-equal equinox: Why day beats night on the 1st day of spring](https://www.space.com/stargazing/a-not-so-equal-equinox-why-day-beats-night-on-the-1st-day-of-spring)
 - [Amazon acquires Rivr, maker of a stair-climbing delivery robot](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/)
-- [Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI](https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/)
-- [Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant](https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/)
-- [These cotton candy exoplanets hide behind a haze even the James Webb Space Telescope can&#39;t penetrate](https://www.space.com/astronomy/exoplanets/these-cotton-candy-exoplanets-hide-behind-a-haze-even-the-james-webb-space-telescope-cant-penetrate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
