@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Love Project Hail Mary? Here are the Andy Weir books you need to read](https://www.space.com/entertainment/space-books/love-project-hail-mary-here-are-the-andy-weir-books-you-need-to-read)
+- [Amidst legal turmoil, Kalshi is temporarily banned in Nevada](https://techcrunch.com/2026/03/20/amidst-legal-turmoil-kalshi-is-temporarily-banned-in-nevada/)
+- [Pinterest CEO calls on governments to ban social media for users under 16](https://techcrunch.com/2026/03/20/pinterest-ceo-calls-on-governments-to-ban-social-media-for-users-under-16/)
+- [&#39;Project Hail Mary&#39; is an optimistic look towards the stars, and we need that right now &lpar;review&rpar;](https://www.space.com/entertainment/space-movies-shows/project-hail-mary-is-an-optimistic-look-towards-the-stars-and-we-need-that-right-now-review)
 - [Hubble Space Telescope accidentally witnesses comet C/2025 K1 &lpar;ATLAS&rpar; breaking apart](https://www.space.com/astronomy/comets/hubble-space-telescope-accidentally-witnesses-comet-c-2025-k1-atlas-breaking-apart)
-- [Why scientists can’t get a laugh](https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/)
-- [A French Navy officer accidentally leaked the location of an aircraft carrier by logging his run on Strava](https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/)
-- [Northern lights may be visible in 18 states tonight and over the weekend](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-18-states-tonight-and-over-the-weekend-march-20-22)
-- [WordPress.com now lets AI agents write and publish posts, and more](https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
