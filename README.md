@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Space Telescope accidentally witnesses comet C/2025 K1 &lpar;ATLAS&rpar; breaking apart](https://www.space.com/astronomy/comets/hubble-space-telescope-accidentally-witnesses-comet-c-2025-k1-atlas-breaking-apart)
+- [Why scientists can’t get a laugh](https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/)
 - [A French Navy officer accidentally leaked the location of an aircraft carrier by logging his run on Strava](https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/)
 - [Northern lights may be visible in 18 states tonight and over the weekend](https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-18-states-tonight-and-over-the-weekend-march-20-22)
 - [WordPress.com now lets AI agents write and publish posts, and more](https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/)
-- [Jeff Bezos’ Blue Origin enters the space data center game](https://techcrunch.com/2026/03/20/jeff-bezos-blue-origin-enters-the-space-data-center-game/)
-- [US accuses Iran’s government of operating hacktivist group that hacked Stryker](https://techcrunch.com/2026/03/20/u-s-accuses-irans-government-of-operating-hacktivist-group-that-hacked-stryker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
