@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cyberattack on vehicle breathalyzer company leaves drivers stranded across the US](https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/)
-- [Amazon working on new smartphone with Alexa at its core, report says](https://techcrunch.com/2026/03/20/amazon-working-on-new-smartphone-with-alexa-at-its-core-report-says/)
-- [NASA&#39;s Artemis 2 moon rocket arrives back at the launch pad](https://www.space.com/space-exploration/artemis/nasas-artemis-2-moon-rocket-arrives-back-at-the-launch-pad)
-- [Northern lights could get a boost from the spring equinox this weekend — here&#39;s why](https://www.space.com/stargazing/auroras/northern-lights-could-get-a-boost-from-the-spring-equinox-this-weekend-heres-why)
-- [NASA won&#39;t give up hope on silent MAVEN Mars probe: &#39;We&#39;re still looking for it&#39;](https://www.space.com/space-exploration/launches-spacecraft/nasa-wont-give-up-hope-on-silent-maven-mars-probe-were-still-looking-for-it)
+- [Jeff Bezos’ Blue Origin enters the space data center game](https://techcrunch.com/2026/03/20/jeff-bezos-blue-origin-enters-the-space-data-center-game/)
+- [U.S. accuses Iran’s government of operating hacktivist group that hacked Stryker](https://techcrunch.com/2026/03/20/u-s-accuses-irans-government-of-operating-hacktivist-group-that-hacked-stryker/)
+- [Trump’s AI framework targets state laws, shifts child safety burden to parents](https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/)
+- [Rocket Lab scores $190 million launch deal to test hypersonic tech for US military](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-scores-usd190-million-launch-deal-to-test-hypersonic-tech-for-us-military)
+- [AI startups are eating the venture industry and the returns, so far, are good](https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
