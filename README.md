@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput](https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/)
 - [Elon Musk misled Twitter investors while trying to get out of acquisition, jury says](https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/)
 - [Astronomers keep finding new moons of Jupiter and Saturn](https://www.space.com/astronomy/saturn/astronomers-keep-finding-new-moons-of-jupiter-and-saturn)
 - [Microsoft rolls back some of its Copilot AI bloat on Windows](https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/)
 - [What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet](https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/)
-- [US Space Force moves GPS launch to SpaceX Falcon 9 due to Vulcan rocket glitch](https://www.space.com/space-exploration/launches-spacecraft/us-space-force-moves-gps-launch-to-spacex-falcon-9-due-to-vulcan-rocket-glitch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
