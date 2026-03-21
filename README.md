@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How fusion power works and the startups pursuing it](https://techcrunch.com/2026/03/21/how-fusion-power-works-and-the-startups-pursuing-it/)
+- [We chat to legendary space shuttle commander Eileen Collins about her new documentary, &#39;Spacewoman&#39; &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/we-chat-to-legendary-space-shuttle-commander-eileen-collins-about-her-new-documentary-spacewoman-interview)
 - [This Week In Space podcast: Episode 202 — Artemis Imminent](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-202-artemis-imminent)
 - [Artemis Accords nations grapple with how to handle emergencies and &#39;harmful interference&#39; on the moon](https://www.space.com/space-exploration/artemis/artemis-accords-nations-grapple-with-how-to-handle-emergencies-and-harmful-interference-on-the-moon)
 - [The loneliest places in the universe might actually be some of the best places for life](https://www.space.com/astronomy/exoplanets/the-loneliest-places-in-the-universe-might-actually-be-some-of-the-best-places-for-life)
-- [Would you like to know more about &#39;Starship Troopers: Ultimate Bug War!&#39;? Developer Auroch Digital has the answers &lpar;interview&rpar;](https://www.space.com/entertainment/space-games/would-you-like-to-know-more-about-starship-troopers-ultimate-bug-war-developer-auroch-digital-has-the-answers-interview)
-- [New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput](https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
