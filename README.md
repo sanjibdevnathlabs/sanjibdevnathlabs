@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Publisher pulls horror novel ‘Shy Girl’ over AI concerns](https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/)
 - [Delve accused of misleading customers with ‘fake compliance’](https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/)
 - [Why Wall Street wasn’t won over by Nvidia’s big conference](https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/)
 - [How fusion power works and the startups pursuing it](https://techcrunch.com/2026/03/21/how-fusion-power-works-and-the-startups-pursuing-it/)
 - [We chat to legendary space shuttle commander Eileen Collins about her new documentary, &#39;Spacewoman&#39; &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/we-chat-to-legendary-space-shuttle-commander-eileen-collins-about-her-new-documentary-spacewoman-interview)
-- [This Week In Space podcast: Episode 202 — Artemis Imminent](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-202-artemis-imminent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
