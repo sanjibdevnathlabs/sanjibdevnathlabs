@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cursor admits its new coding model was built on top of Moonshot AI’s Kimi](https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/)
 - [Elon Musk unveils chip manufacturing plans for SpaceX and Tesla](https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/)
 - [TechCrunch Mobility: Uber everywhere, all at once](https://techcrunch.com/2026/03/22/techcrunch-mobility-uber-everywhere-all-at-once/)
 - [Delve accused of misleading customers with ‘fake compliance’](https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/)
 - [See the delicate crescent moon dance with the &#39;Seven Sisters&#39; of the Pleiades tonight](https://www.space.com/stargazing/see-the-delicate-crescent-moon-dance-with-the-seven-sisters-of-the-pleiades-tonight)
-- [An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple](https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
