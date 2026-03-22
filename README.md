@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The SEC drops its four-year-old investigation into EV startup Faraday Future](https://techcrunch.com/2026/03/22/the-sec-drops-its-four-year-old-investigation-into-ev-startup-faraday-future/)
+- [Do you want to build a robot snowman?](https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/)
+- [10 iconic William Shatner &#39;Star Trek&#39; moments to celebrate his 95th birthday](https://www.space.com/entertainment/space-movies-shows/10-iconic-william-shatner-star-trek-moments-to-celebrate-his-95th-birthday)
 - [Cursor admits its new coding model was built on top of Moonshot AI’s Kimi](https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/)
 - [Elon Musk unveils chip manufacturing plans for SpaceX and Tesla](https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/)
-- [TechCrunch Mobility: Uber everywhere, all at once](https://techcrunch.com/2026/03/22/techcrunch-mobility-uber-everywhere-all-at-once/)
-- [Delve accused of misleading customers with ‘fake compliance’](https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/)
-- [See the delicate crescent moon dance with the &#39;Seven Sisters&#39; of the Pleiades tonight](https://www.space.com/stargazing/see-the-delicate-crescent-moon-dance-with-the-seven-sisters-of-the-pleiades-tonight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
