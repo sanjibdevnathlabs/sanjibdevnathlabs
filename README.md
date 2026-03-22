@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This new Linux distro is breaking the law, by design…](https://www.youtube.com/watch?v=nkY_s9HpL9M)
+- [Google just changed the future of UI/UX design...](https://www.youtube.com/watch?v=qaB5HF4ax9M)
 - [Temporal Networks, Where Page Rank meets Lord of the Rings - Computerphile](https://www.youtube.com/watch?v=ZP6Bh3iWklQ)
-- [Vector Search with LLMs - Computerphile](https://www.youtube.com/watch?v=YDdKiQNw80c)
-- [Coding a Guitar Sound in C - Computerphile](https://www.youtube.com/watch?v=Ly1v1BRVpz4)
-- [Cyclic Redundancy Check &lpar;CRC&rpar; - Computerphile](https://www.youtube.com/watch?v=_x0vbnUKYSU)
-- [Bad Bot Problem - Computerphile](https://www.youtube.com/watch?v=AjQNDCYL5Rg)
+- [How to burn $30m on a JavaScript framework...](https://www.youtube.com/watch?v=ReAnFFqvCeA)
+- [A Critical Lens on Science Images](https://www.youtube.com/watch?v=Rosn4Rp4DjU)
 <!-- YOUTUBE:END -->
 
 ---
