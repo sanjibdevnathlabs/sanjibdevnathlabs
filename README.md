@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Delve accused of misleading customers with ‘fake compliance’](https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/)
 - [See the delicate crescent moon dance with the &#39;Seven Sisters&#39; of the Pleiades tonight](https://www.space.com/stargazing/see-the-delicate-crescent-moon-dance-with-the-seven-sisters-of-the-pleiades-tonight)
 - [An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple](https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/)
 - [What if the next great astronomer isn&#39;t human? How AI is revolutionizing our study of the cosmos](https://www.space.com/astronomy/what-if-the-next-great-astronomer-isnt-human-how-ai-is-revolutionizing-our-study-of-the-cosmos)
 - [&#39;This is really intolerable&#39;: Astronomers protest giant orbiting mirror project and SpaceX&#39;s million AI satellites](https://www.space.com/space-exploration/satellites/this-is-really-intolerable-astronomers-protest-giant-orbiting-mirror-project-and-spacexs-million-ai-satellites)
-- [Are AI tokens the new signing bonus or just a cost of doing business?](https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
