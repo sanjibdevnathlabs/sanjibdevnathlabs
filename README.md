@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Triangulum Galaxy dazzles in psychedelic color | Space photo of the day for March 23, 2026](https://www.space.com/astronomy/galaxies/triangulum-galaxy-dazzles-in-psychedelic-color-space-photo-of-the-day-for-march-23-2026)
-- [Northern lights dazzle worldwide as strong G3 geomagnetic storm sparks stunning show &lpar;photos&rpar;](https://www.space.com/stargazing/auroras/northern-lights-dazzle-worldwide-as-strong-g3-geomagnetic-storm-sparks-stunning-show-photos)
-- [Are mysterious &#39;Little Red Dots&#39; discovered by the James Webb Space Telescope actually baby galaxies under construction?](https://www.space.com/astronomy/galaxies/are-mysterious-little-red-dots-discovered-by-the-james-webb-space-telescope-actually-baby-galaxies-under-construction)
-- [Could our universe exist because black holes ate up all the antimatter?](https://www.space.com/astronomy/black-holes/could-our-universe-exist-because-black-holes-ate-up-all-the-antimatter)
-- [The SEC drops its four-year-old investigation into EV startup Faraday Future](https://techcrunch.com/2026/03/22/the-sec-drops-its-four-year-old-investigation-into-ev-startup-faraday-future/)
+- [Grab to buy Foodpanda Taiwan from Delivery Hero for $600 million](https://techcrunch.com/2026/03/23/grab-to-buy-foodpanda-taiwan-from-delivery-hero-for-600-million/)
+- [Elizabeth Warren calls Pentagon’s decision to bar Anthropic ‘retaliation’](https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/)
+- [FBI says Iranian hackers are using Telegram to steal data in malware attacks](https://techcrunch.com/2026/03/23/fbi-says-iranian-hackers-are-using-telegram-to-steal-data-in-malware-attacks/)
+- [Sam Altman-backed fusion startup Helion in talks with OpenAI](https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/)
+- [Federal immigration agents filmed making airport arrests as Trump calls in ICE to ease security line delays](https://techcrunch.com/2026/03/23/federal-immigration-agents-filmed-making-airport-arrests-as-trump-calls-in-ice-to-ease-security-line-delays/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
