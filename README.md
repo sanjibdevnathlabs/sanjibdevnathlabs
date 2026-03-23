@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Leonid Radvinsky, the owner of  OnlyFans, has passed away](https://techcrunch.com/2026/03/23/leonid-radvinsky-the-owner-of-onlyfans-has-passed-away/)
+- [Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way](https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/)
+- [Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen](https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/)
+- [Astrophotographer spies Thor&#39;s Helmet shining 15,000 light-years away in spectacular photo](https://www.space.com/stargazing/astrophotography/astrophotographer-spies-thors-helmet-shining-15-000-light-years-away-in-spectacular-photo)
 - [Grab to buy Foodpanda Taiwan from Delivery Hero for $600 million](https://techcrunch.com/2026/03/23/grab-to-buy-foodpanda-taiwan-from-delivery-hero-for-600-million/)
-- [Elizabeth Warren calls Pentagon’s decision to bar Anthropic ‘retaliation’](https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/)
-- [FBI says Iranian hackers are using Telegram to steal data in malware attacks](https://techcrunch.com/2026/03/23/fbi-says-iranian-hackers-are-using-telegram-to-steal-data-in-malware-attacks/)
-- [Sam Altman-backed fusion startup Helion in talks with OpenAI](https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/)
-- [Federal immigration agents filmed making airport arrests as Trump calls in ICE to ease security line delays](https://techcrunch.com/2026/03/23/federal-immigration-agents-filmed-making-airport-arrests-as-trump-calls-in-ice-to-ease-security-line-delays/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
