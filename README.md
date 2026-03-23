@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists find 2 &#39;failed stars&#39; that may have a second chance to shine bright — by getting together](https://www.space.com/astronomy/stars/scientists-find-2-failed-stars-that-may-have-a-second-chance-to-shine-bright-by-getting-together)
+- [10 major differences between the &#39;Project Hail Mary&#39; book and movie](https://www.space.com/entertainment/space-movies-shows/10-major-differences-between-the-project-hail-mary-book-and-movie)
+- [Someone has publicly leaked an exploit kit that can hack millions of iPhones](https://techcrunch.com/2026/03/23/someone-has-publicly-leaked-an-exploit-kit-that-can-hack-millions-of-iphones/)
+- [Zipline snaps up another $200M to fuel its drone delivery expansion](https://techcrunch.com/2026/03/23/zipline-snaps-up-another-200m-to-fuel-its-drone-delivery-expansion/)
 - [Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great](https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/)
-- [Russian authorities block paywall removal site Archive.today](https://techcrunch.com/2026/03/23/russian-authorities-block-paywall-removal-site-archive-today/)
-- [Bipartisan bill seeks to ban sports betting on Kalshi and Polymarket](https://techcrunch.com/2026/03/23/bipartisan-bill-seeks-to-ban-sports-betting-on-kalshi-and-polymarket/)
-- [Vibe-coding startup Lovable is on the hunt for acquisitions](https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/)
-- [Apple sets June date for WWDC 2026, teasing ‘AI advancements’](https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
