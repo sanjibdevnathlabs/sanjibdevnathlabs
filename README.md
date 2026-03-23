@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2nd-ever test flight of NASA&#39;s &#39;quiet&#39; X-59 supersonic jet cut short by glitch](https://www.space.com/technology/aerospace/2nd-ever-test-flight-of-nasas-quiet-x-59-supersonic-jet-cut-short-by-glitch)
+- [Rare daytime fireball may have dropped meteorites on Texas: Here&#39;s where to find them](https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-may-have-dropped-meteorites-on-texas-heres-where-to-find-them)
 - [Leonid Radvinsky, the owner of  OnlyFans, has passed away](https://techcrunch.com/2026/03/23/leonid-radvinsky-the-owner-of-onlyfans-has-passed-away/)
 - [Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way](https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/)
 - [Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen](https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/)
-- [Astrophotographer spies Thor&#39;s Helmet shining 15,000 light-years away in spectacular photo](https://www.space.com/stargazing/astrophotography/astrophotographer-spies-thors-helmet-shining-15-000-light-years-away-in-spectacular-photo)
-- [Grab to buy Foodpanda Taiwan from Delivery Hero for $600 million](https://techcrunch.com/2026/03/23/grab-to-buy-foodpanda-taiwan-from-delivery-hero-for-600-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
