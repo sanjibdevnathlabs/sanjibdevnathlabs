@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russian authorities block paywall removal site Archive.today](https://techcrunch.com/2026/03/23/russian-authorities-block-paywall-removal-site-archive-today/)
 - [Bipartisan bill seeks to ban sports betting on Kalshi and Polymarket](https://techcrunch.com/2026/03/23/bipartisan-bill-seeks-to-ban-sports-betting-on-kalshi-and-polymarket/)
 - [Vibe-coding startup Lovable is on the hunt for acquisitions](https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/)
-- [Apple sets June date for WWDC 2026, teasing “AI advancements”](https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/)
+- [Apple sets June date for WWDC 2026, teasing ‘AI advancements’](https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/)
 - [DoorDash introduces relief payments for drivers as the Iran-US war drives up gas prices](https://techcrunch.com/2026/03/23/doordash-introduces-relief-payments-for-drivers-as-the-iran-us-war-drives-up-gas-prices/)
-- [2nd-ever test flight of NASA&#39;s &#39;quiet&#39; X-59 supersonic jet cut short by glitch](https://www.space.com/technology/aerospace/2nd-ever-test-flight-of-nasas-quiet-x-59-supersonic-jet-cut-short-by-glitch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
