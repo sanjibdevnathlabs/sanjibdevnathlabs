@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Triangulum Galaxy dazzles in psychedelic color | Space photo of the day for March 23, 2026](https://www.space.com/astronomy/galaxies/triangulum-galaxy-dazzles-in-psychedelic-color-space-photo-of-the-day-for-march-23-2026)
+- [Northern lights dazzle worldwide as strong G3 geomagnetic storm sparks stunning show &lpar;photos&rpar;](https://www.space.com/stargazing/auroras/northern-lights-dazzle-worldwide-as-strong-g3-geomagnetic-storm-sparks-stunning-show-photos)
 - [Are mysterious &#39;Little Red Dots&#39; discovered by the James Webb Space Telescope actually baby galaxies under construction?](https://www.space.com/astronomy/galaxies/are-mysterious-little-red-dots-discovered-by-the-james-webb-space-telescope-actually-baby-galaxies-under-construction)
 - [Could our universe exist because black holes ate up all the antimatter?](https://www.space.com/astronomy/black-holes/could-our-universe-exist-because-black-holes-ate-up-all-the-antimatter)
 - [The SEC drops its four-year-old investigation into EV startup Faraday Future](https://techcrunch.com/2026/03/22/the-sec-drops-its-four-year-old-investigation-into-ev-startup-faraday-future/)
-- [Do you want to build a robot snowman?](https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/)
-- [10 iconic William Shatner &#39;Star Trek&#39; moments to celebrate his 95th birthday](https://www.space.com/entertainment/space-movies-shows/10-iconic-william-shatner-star-trek-moments-to-celebrate-his-95th-birthday)
 <!-- BLOG-POST-LIST:END -->
 
 ---
