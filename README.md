@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bipartisan bill seeks to ban sports betting on Kalshi and Polymarket](https://techcrunch.com/2026/03/23/bipartisan-bill-seeks-to-ban-sports-betting-on-kalshi-and-polymarket/)
+- [Vibe-coding startup Lovable is on the hunt for acquisitions](https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/)
+- [Apple sets June date for WWDC 2026, teasing “AI advancements”](https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/)
+- [DoorDash introduces relief payments for drivers as the Iran-US war drives up gas prices](https://techcrunch.com/2026/03/23/doordash-introduces-relief-payments-for-drivers-as-the-iran-us-war-drives-up-gas-prices/)
 - [2nd-ever test flight of NASA&#39;s &#39;quiet&#39; X-59 supersonic jet cut short by glitch](https://www.space.com/technology/aerospace/2nd-ever-test-flight-of-nasas-quiet-x-59-supersonic-jet-cut-short-by-glitch)
-- [Rare daytime fireball may have dropped meteorites on Texas: Here&#39;s where to find them](https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-may-have-dropped-meteorites-on-texas-heres-where-to-find-them)
-- [Leonid Radvinsky, the owner of  OnlyFans, has passed away](https://techcrunch.com/2026/03/23/leonid-radvinsky-the-owner-of-onlyfans-has-passed-away/)
-- [Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way](https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/)
-- [Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen](https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
