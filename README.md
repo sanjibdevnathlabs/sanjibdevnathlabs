@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The best Amazon Big Spring Sale deals for 2026: Sizeable savings on drones, Lego, streaming, star projectors and much more](https://www.space.com/technology/best-amazon-big-spring-sale-deals-star-projectors-drones-streaming-lego-2026)
-- [Agile Robots becomes the latest robotics company to partner with Google DeepMind](https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/)
-- [Get one last look at the Pleiades before it disappears from the spring sky](https://www.space.com/stargazing/get-one-last-look-at-the-pleiades-before-it-disappears-from-the-spring-sky)
-- [Early spring deals for observing the cosmos: Our top picks for stargazers](https://www.space.com/stargazing/skywatching-kit/early-spring-deals-in-skywatching)
-- [Ultrahuman ramps up U.S. push with Ring Pro as Oura tightens its grip](https://techcrunch.com/2026/03/24/ultrahuman-ramps-up-u-s-push-with-ring-pro-as-oura-tightens-grip/)
+- [TikTok ads are about to get a tad more disruptive](https://techcrunch.com/2026/03/24/tiktok-ads-are-about-to-get-a-tad-more-disruptive/)
+- [Mirage raises $75M to continue building models for its AI video editing app Captions](https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/)
+- [Spotify’s new SongDNA feature maps how your favorite songs are connected](https://techcrunch.com/2026/03/24/spotifys-songdna-feature-lets-you-explore-the-connections-behind-your-favorite-songs/)
+- [Snapchat’s new ‘AI Clips’ Lens format turns photos into five-second videos](https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photos-into-five-second-videos/)
+- [Zoox brings its robotaxis to Austin and Miami](https://techcrunch.com/2026/03/24/zoox-brings-its-robotaxis-to-austin-and-miami/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
