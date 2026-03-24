@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kentucky woman rejects $26 million offer to turn her farm into a data center](https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/)
+- [Finished Starfleet Academy? Boldly binge-watch the superb Star Trek: Strange New Worlds, just $2.99 a month thanks to this Paramount+ deal](https://www.space.com/entertainment/space-movies-shows/finished-starfleet-academy-boldly-binge-watch-the-superb-star-trek-strange-new-worlds-cheaper-paramount-plus-streaming-deal)
+- [Kentucky woman rejects $26M offer to turn her farm into a data center](https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/)
 - [Anthropic hands Claude Code more control, but keeps it on a leash](https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/)
 - [Amazon Spring Sale deals for stargazing 2026: Huge savings on telescopes, binoculars and cameras](https://www.space.com/technology/amazon-spring-sale-deals-for-stargazing-2026-huge-savings-on-telescopes-binoculars-and-cameras)
 - [Scientists discover mirror of our solar system in 2 exoplanets forming around a star](https://www.space.com/astronomy/exoplanets/scientists-discover-mirror-of-our-solar-system-in-2-exoplanets-forming-around-a-star)
-- [Spotify tests new tool to stop AI slop from being attributed to real artists](https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
