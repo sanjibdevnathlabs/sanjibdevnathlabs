@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Early spring deals for observing the cosmos: Our top picks for stargazers](https://www.space.com/stargazing/skywatching-kit/early-spring-deals-in-skywatching)
 - [Ultrahuman ramps up U.S. push with Ring Pro as Oura tightens its grip](https://techcrunch.com/2026/03/24/ultrahuman-ramps-up-u-s-push-with-ring-pro-as-oura-tightens-grip/)
 - [NASA announcing update to Artemis moon plans today: Watch it live](https://www.space.com/space-exploration/artemis/nasa-announcing-update-to-artemis-moon-plans-today-watch-it-live)
 - [Delve halts demos, Insight Partners scrubs investment post amid ‘fake compliance’ allegations](https://techcrunch.com/2026/03/23/delve-halts-demos-insight-partners-scrubs-investment-post-amid-fake-compliance-allegations/)
 - [Emil Michael, now a senior Pentagon official, says he’ll never forgive Uber investors who ousted him and Kalanick](https://techcrunch.com/2026/03/23/emil-michael-now-a-senior-pentagon-official-says-hell-never-forgive-uber-investors-who-ousted-him-and-kalanick/)
-- [Bengaluru food delivery startup Swish raises $38M, its third round in 18 months](https://techcrunch.com/2026/03/23/bengaluru-food-startup-swish-raises-38m-in-its-third-round-in-18-months/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
