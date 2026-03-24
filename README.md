@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tech bros optimized war… and it’s working](https://www.youtube.com/watch?v=nxwkn9Dt9-I)
 - [Session 4, Part 1: Presenting Your Venture](https://www.youtube.com/watch?v=-Op1GLwFuV4)
 - [Session 3, Part 1: Legal Issues](https://www.youtube.com/watch?v=OAEGRRcwt9M)
 - [Session 4, Part 2: Negotiation Skills](https://www.youtube.com/watch?v=41xcHr9jkV8)
 - [Session 3, Part 2: Organizational and People Issues](https://www.youtube.com/watch?v=ZcH04FusUbU)
-- [Session 1, Part 1: Introduction: Most Startups Fail; How to Improve Your Odds](https://www.youtube.com/watch?v=5gtR7IjtcFE)
 <!-- YOUTUBE:END -->
 
 ---
