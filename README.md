@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Music partners with Ticketmaster to power its concert discovery feature](https://techcrunch.com/2026/03/24/apple-music-partners-with-ticketmaster-to-power-its-concert-discovery-feature/)
-- [Meet the former Apple designer building a new AI interface at Hark](https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/)
-- [Future Artemis missions could use fiber-optic cables to monitor moonquakes](https://www.space.com/astronomy/moon/future-artemis-missions-could-use-fiber-optic-cables-to-monitor-moonquakes)
-- [Watch all your favorite sci-fi content like &#39;For All Mankind&#39; and &#39;Star City&#39; anywhere with this exclusive deal and get a free $50 Amazon Gift Card and 77% off NordVPN](https://www.space.com/technology/watch-all-your-favorite-sci-fi-content-like-for-all-mankind-anywhere-with-this-exclusive-deal-and-get-a-free-50-dollar-amazon-gift-card-and-77-percent-off-nordvpn)
-- [Epic Games cuts 1,000 jobs, says Fortnite engagement is down](https://techcrunch.com/2026/03/24/epic-games-cuts-1000-jobs-says-fortnite-engagement-is-down/)
+- [OpenAI adds open source tools to help developers build for teen safety](https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/)
+- [Talat’s AI meeting notes stay on your machine, not in the cloud](https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/)
+- [A car-sized asteroid is heading toward Earth for a flyby later tonight: Here&#39;s what you need to know](https://www.space.com/astronomy/asteroids/a-car-sized-asteroid-is-heading-toward-earth-for-a-flyby-later-tonight-heres-what-you-need-to-know)
+- [BKR Capital raises $14.5M &lpar;so far&rpar; to  invest in Black founders](https://techcrunch.com/2026/03/24/bkr-capital-raises-14-5m-so-far-to-invest-in-black-founders/)
+- [Crunchyroll confirms data breach after hacker claims unauthorized access](https://techcrunch.com/2026/03/24/crunchyroll-confirms-data-breach-after-hacker-claims-unauthorized-access/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
