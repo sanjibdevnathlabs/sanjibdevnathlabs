@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok ads are about to get a tad more disruptive](https://techcrunch.com/2026/03/24/tiktok-ads-are-about-to-get-a-tad-more-disruptive/)
-- [Mirage raises $75M to continue building models for its AI video editing app Captions](https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/)
-- [Spotify’s new SongDNA feature maps how your favorite songs are connected](https://techcrunch.com/2026/03/24/spotifys-songdna-feature-lets-you-explore-the-connections-behind-your-favorite-songs/)
-- [Snapchat’s new ‘AI Clips’ Lens format turns photos into five-second videos](https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photos-into-five-second-videos/)
-- [Zoox brings its robotaxis to Austin and Miami](https://techcrunch.com/2026/03/24/zoox-brings-its-robotaxis-to-austin-and-miami/)
+- [Watch all your favorite sci-fi content like &#39;For All Mankind&#39; and &#39;Star City&#39; anywhere with this exclusive deal and get a free $50 Amazon Gift Card and 77% off NordVPN](https://www.space.com/technology/watch-all-your-favorite-sci-fi-content-like-for-all-mankind-anywhere-with-this-exclusive-deal-and-get-a-free-50-dollar-amazon-gift-card-and-77-percent-off-nordvpn)
+- [Epic Games cuts 1,000 jobs, says Fortnite engagement is down](https://techcrunch.com/2026/03/24/epic-games-cuts-1000-jobs-says-fortnite-engagement-is-down/)
+- [Flighty’s new update gives you real-time alerts about airport disturbances](https://techcrunch.com/2026/03/24/flightys-new-update-gives-you-real-time-alerts-about-airport-disturbances/)
+- [Ads are coming to Apple Maps, as Apple expands its business offerings](https://techcrunch.com/2026/03/24/apple-maps-ads-apple-business/)
+- [Hubble revisits the Crab Nebula after 25 years | Space photo of the day for March 24, 2026](https://www.space.com/astronomy/hubble-revisits-a-cosmic-crab-after-25-years-space-photo-of-the-day-for-march-23-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
