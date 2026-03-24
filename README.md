@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best Amazon Big Spring Sale deals for 2026: Sizeable savings on drones, Lego, streaming, star projectors and much more](https://www.space.com/technology/best-amazon-big-spring-sale-deals-star-projectors-drones-streaming-lego-2026)
+- [Agile Robots becomes the latest robotics company to partner with Google DeepMind](https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/)
+- [Get one last look at the Pleiades before it disappears from the spring sky](https://www.space.com/stargazing/get-one-last-look-at-the-pleiades-before-it-disappears-from-the-spring-sky)
 - [Early spring deals for observing the cosmos: Our top picks for stargazers](https://www.space.com/stargazing/skywatching-kit/early-spring-deals-in-skywatching)
 - [Ultrahuman ramps up U.S. push with Ring Pro as Oura tightens its grip](https://techcrunch.com/2026/03/24/ultrahuman-ramps-up-u-s-push-with-ring-pro-as-oura-tightens-grip/)
-- [NASA announcing update to Artemis moon plans today: Watch it live](https://www.space.com/space-exploration/artemis/nasa-announcing-update-to-artemis-moon-plans-today-watch-it-live)
-- [Delve halts demos, Insight Partners scrubs investment post amid ‘fake compliance’ allegations](https://techcrunch.com/2026/03/23/delve-halts-demos-insight-partners-scrubs-investment-post-amid-fake-compliance-allegations/)
-- [Emil Michael, now a senior Pentagon official, says he’ll never forgive Uber investors who ousted him and Kalanick](https://techcrunch.com/2026/03/23/emil-michael-now-a-senior-pentagon-official-says-hell-never-forgive-uber-investors-who-ousted-him-and-kalanick/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
