@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [This new Linux distro is breaking the law, by design…](https://www.youtube.com/watch?v=nkY_s9HpL9M)
-- [Google just changed the future of UI/UX design...](https://www.youtube.com/watch?v=qaB5HF4ax9M)
-- [Temporal Networks, Where Page Rank meets Lord of the Rings - Computerphile](https://www.youtube.com/watch?v=ZP6Bh3iWklQ)
-- [How to burn $30m on a JavaScript framework...](https://www.youtube.com/watch?v=ReAnFFqvCeA)
-- [7 new open source AI tools you need right now…](https://www.youtube.com/watch?v=Xn-gtHDsaPY)
+- [Session 4, Part 1: Presenting Your Venture](https://www.youtube.com/watch?v=-Op1GLwFuV4)
+- [Session 3, Part 1: Legal Issues](https://www.youtube.com/watch?v=OAEGRRcwt9M)
+- [Session 4, Part 2: Negotiation Skills](https://www.youtube.com/watch?v=41xcHr9jkV8)
+- [Session 3, Part 2: Organizational and People Issues](https://www.youtube.com/watch?v=ZcH04FusUbU)
+- [Session 1, Part 1: Introduction: Most Startups Fail; How to Improve Your Odds](https://www.youtube.com/watch?v=5gtR7IjtcFE)
 <!-- YOUTUBE:END -->
 
 ---
