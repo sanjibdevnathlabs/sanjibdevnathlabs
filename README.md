@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Arm is releasing its first in-house chip in its 35-year history](https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/)
+- [Watch Rocket Lab launch Europe&#39;s 1st 2 &#39;Celeste&#39; navigation satellites early March 25](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-european-space-agency-celeste-navigation-satellites)
+- [Arm is releasing the first in-house chip in its 35-year history](https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/)
 - [OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well](https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/)
 - [Google TV’s new Gemini features keep fans updated on sports teams and more](https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/)
 - [NASA&#39;s lunar Gateway space station is out. Moon bases are in](https://www.space.com/space-exploration/artemis/nasas-lunar-gateway-space-station-is-out-moon-bases-are-in)
-- [OpenAI adds open source tools to help developers build for teen safety](https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
