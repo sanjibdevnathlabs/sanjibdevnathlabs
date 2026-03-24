@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Music partners with Ticketmaster to power its concert discovery feature](https://techcrunch.com/2026/03/24/apple-music-partners-with-ticketmaster-to-power-its-concert-discovery-feature/)
+- [Meet the former Apple designer building a new AI interface at Hark](https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/)
+- [Future Artemis missions could use fiber-optic cables to monitor moonquakes](https://www.space.com/astronomy/moon/future-artemis-missions-could-use-fiber-optic-cables-to-monitor-moonquakes)
 - [Watch all your favorite sci-fi content like &#39;For All Mankind&#39; and &#39;Star City&#39; anywhere with this exclusive deal and get a free $50 Amazon Gift Card and 77% off NordVPN](https://www.space.com/technology/watch-all-your-favorite-sci-fi-content-like-for-all-mankind-anywhere-with-this-exclusive-deal-and-get-a-free-50-dollar-amazon-gift-card-and-77-percent-off-nordvpn)
 - [Epic Games cuts 1,000 jobs, says Fortnite engagement is down](https://techcrunch.com/2026/03/24/epic-games-cuts-1000-jobs-says-fortnite-engagement-is-down/)
-- [Flighty’s new update gives you real-time alerts about airport disturbances](https://techcrunch.com/2026/03/24/flightys-new-update-gives-you-real-time-alerts-about-airport-disturbances/)
-- [Ads are coming to Apple Maps, as Apple expands its business offerings](https://techcrunch.com/2026/03/24/apple-maps-ads-apple-business/)
-- [Hubble revisits the Crab Nebula after 25 years | Space photo of the day for March 24, 2026](https://www.space.com/astronomy/hubble-revisits-a-cosmic-crab-after-25-years-space-photo-of-the-day-for-march-23-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
