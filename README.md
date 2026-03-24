@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arm is releasing its first in-house chip in its 35-year history](https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/)
+- [OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well](https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/)
+- [Google TV’s new Gemini features keep fans updated on sports teams and more](https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/)
+- [NASA&#39;s lunar Gateway space station is out. Moon bases are in](https://www.space.com/space-exploration/artemis/nasas-lunar-gateway-space-station-is-out-moon-bases-are-in)
 - [OpenAI adds open source tools to help developers build for teen safety](https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/)
-- [Talat’s AI meeting notes stay on your machine, not in the cloud](https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/)
-- [A car-sized asteroid is heading toward Earth for a flyby later tonight: Here&#39;s what you need to know](https://www.space.com/astronomy/asteroids/a-car-sized-asteroid-is-heading-toward-earth-for-a-flyby-later-tonight-heres-what-you-need-to-know)
-- [BKR Capital raises $14.5M &lpar;so far&rpar; to  invest in Black founders](https://techcrunch.com/2026/03/24/bkr-capital-raises-14-5m-so-far-to-invest-in-black-founders/)
-- [Crunchyroll confirms data breach after hacker claims unauthorized access](https://techcrunch.com/2026/03/24/crunchyroll-confirms-data-breach-after-hacker-claims-unauthorized-access/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
