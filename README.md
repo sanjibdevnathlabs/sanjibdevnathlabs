@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Emil Michael, now a senior Pentagon official, says he’ll never forgive Uber investors who ousted him and Kalanick](https://techcrunch.com/2026/03/23/emil-michael-now-a-senior-pentagon-official-says-hell-never-forgive-uber-investors-who-ousted-him-and-kalanick/)
+- [Bengaluru food delivery startup Swish raises $38M, its third round in 18 months](https://techcrunch.com/2026/03/23/bengaluru-food-startup-swish-raises-38m-in-its-third-round-in-18-months/)
 - [Despite bitter rivalry, Kalshi, Polymarket CEOs back $35M predictions markets VC fund](https://techcrunch.com/2026/03/23/despite-bitter-rivalry-kalshi-polymarket-ceos-back-35m-predictions-markets-vc-fund/)
 - [Air Street becomes one of the largest solo VCs in Europe with $232M fund](https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/)
 - [Apple Maps may be about to get ads](https://techcrunch.com/2026/03/23/apple-maps-may-be-about-to-get-ads/)
-- [Scientists find 2 &#39;failed stars&#39; that may have a second chance to shine bright — by getting together](https://www.space.com/astronomy/stars/scientists-find-2-failed-stars-that-may-have-a-second-chance-to-shine-bright-by-getting-together)
-- [10 major differences between the &#39;Project Hail Mary&#39; book and movie](https://www.space.com/entertainment/space-movies-shows/10-major-differences-between-the-project-hail-mary-book-and-movie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
