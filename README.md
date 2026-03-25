@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists finally solve century-old mystery of star with unexpected X-ray emissions](https://www.space.com/astronomy/stars/scientists-finally-solve-century-old-mystery-of-star-with-unexpected-x-ray-emissions)
-- [Lucid Bots raises $20M to keep up with demand for its window-washing drones](https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/)
-- [1 week away! NASA gearing up to launch Artemis 2 astronauts around the moon on April 1](https://www.space.com/space-exploration/artemis/1-week-away-nasa-gearing-up-to-launch-artemis-2-astronauts-around-the-moon-on-april-1)
-- [A former Thiel fellow’s startup just launched a drone it says can replace police helicopters](https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/)
-- [Amazon just bought a startup making kid-size humanoid robots](https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/)
+- [Sony and Honda give up on their joint EV project](https://techcrunch.com/2026/03/25/sony-honda-mobility-afeela-ev-project/)
+- [Like &#39;accelerating from stationary to supersonic flight&#39;: Europe&#39;s Hera probe boosts speed, stays on course for November asteroid rendezvous](https://www.space.com/astronomy/asteroids/like-accelerating-from-stationary-to-supersonic-flight-europes-hera-probe-boosts-speed-stays-on-course-for-november-asteroid-rendezvous)
+- [Elon Musk pauses changes to X’s creator revenue-sharing program after backlash](https://techcrunch.com/2026/03/25/elon-musk-pauses-changes-to-xs-creator-revenue-sharing-program-after-backlash/)
+- [After pivoting, Y Combinator grad Glimpse raises $35M led by a16z](https://techcrunch.com/2026/03/25/a16z-backed-glimpse-raises-new-funds-accelerates-dispute-tracking-automation-for-cpg-brands/)
+- [Harbinger’s next product will be hybrid emergency vehicles](https://techcrunch.com/2026/03/25/harbingers-next-product-will-be-hybrid-emergency-vehicles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
