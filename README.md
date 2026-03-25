@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;It was an incredible moment&#39;: One photographer&#39;s journey to capture the March 3 total lunar eclipse over Malaysia](https://www.space.com/stargazing/astrophotography/it-was-an-incredible-moment-one-photographers-journey-to-capture-the-march-3-total-lunar-eclipse-over-malaysia)
-- [How soap opera-TikTok hybrids became a billion-dollar business](https://techcrunch.com/video/how-soap-opera-tiktok-hybrids-became-a-billion-dollar-business/)
-- [Harvey confirms $11B valuation: Sequoia triples down](https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/)
-- [Rocket shines under the northern lights | Space photo of the day for March 25, 2026](https://www.space.com/space-exploration/launches-spacecraft/rocket-shines-under-the-northern-lights-space-photo-of-the-day-for-march-25-2026)
-- [Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app](https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/)
+- [Jury finds Meta and YouTube negligent in landmark social media addiction trial](https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/)
+- [Meta is cutting several hundred jobs](https://techcrunch.com/2026/03/25/meta-is-cutting-several-hundred-jobs/)
+- [Get $28 off this Lego Star Wars Dark Falcon set or suffer at the hands of Darth Jar Jar](https://www.space.com/entertainment/space-toys-lego/get-28-dollars-off-this-lego-star-wars-dark-falcon-set-or-suffer-at-the-hands-of-darth-jar-jar)
+- [Apple overhauls its app developer platform with 100 new metrics, more tools](https://techcrunch.com/2026/03/25/apple-overhauls-its-app-developer-platform-with-100-new-metrics-more-tools/)
+- [Bernie Sanders and AOC propose a ban on data center construction](https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
