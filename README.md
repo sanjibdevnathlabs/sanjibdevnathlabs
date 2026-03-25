@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sony and Honda give up on their joint EV project](https://techcrunch.com/2026/03/25/sony-honda-mobility-afeela-ev-project/)
-- [Like &#39;accelerating from stationary to supersonic flight&#39;: Europe&#39;s Hera probe boosts speed, stays on course for November asteroid rendezvous](https://www.space.com/astronomy/asteroids/like-accelerating-from-stationary-to-supersonic-flight-europes-hera-probe-boosts-speed-stays-on-course-for-november-asteroid-rendezvous)
-- [Elon Musk pauses changes to X’s creator revenue-sharing program after backlash](https://techcrunch.com/2026/03/25/elon-musk-pauses-changes-to-xs-creator-revenue-sharing-program-after-backlash/)
-- [After pivoting, Y Combinator grad Glimpse raises $35M led by a16z](https://techcrunch.com/2026/03/25/a16z-backed-glimpse-raises-new-funds-accelerates-dispute-tracking-automation-for-cpg-brands/)
-- [Harbinger’s next product will be hybrid emergency vehicles](https://techcrunch.com/2026/03/25/harbingers-next-product-will-be-hybrid-emergency-vehicles/)
+- [&#39;It was an incredible moment&#39;: One photographer&#39;s journey to capture the March 3 total lunar eclipse over Malaysia](https://www.space.com/stargazing/astrophotography/it-was-an-incredible-moment-one-photographers-journey-to-capture-the-march-3-total-lunar-eclipse-over-malaysia)
+- [How soap opera-TikTok hybrids became a billion-dollar business](https://techcrunch.com/video/how-soap-opera-tiktok-hybrids-became-a-billion-dollar-business/)
+- [Harvey confirms $11B valuation: Sequoia triples down](https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/)
+- [Rocket shines under the northern lights | Space photo of the day for March 25, 2026](https://www.space.com/space-exploration/launches-spacecraft/rocket-shines-under-the-northern-lights-space-photo-of-the-day-for-march-25-2026)
+- [Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app](https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
