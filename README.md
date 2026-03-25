@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lucid Bots raises $20M to keep up with demand for its window-washing drones](https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/)
 - [1 week away! NASA gearing up to launch Artemis 2 astronauts around the moon on April 1](https://www.space.com/space-exploration/artemis/1-week-away-nasa-gearing-up-to-launch-artemis-2-astronauts-around-the-moon-on-april-1)
 - [A former Thiel fellow’s startup just launched a drone it says can replace police helicopters](https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/)
 - [Amazon just bought a startup making kid-size humanoid robots](https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/)
 - [With $3.5B in fresh capital, Kleiner Perkins is going all in on AI](https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/)
-- [New Mexico just handed Meta its first courtroom defeat over child safety, and the rest of the country is watching](https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
