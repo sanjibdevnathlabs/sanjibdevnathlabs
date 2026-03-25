@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Finished Starfleet Academy? Boldly binge-watch the superb Star Trek: Strange New Worlds, just $2.99 a month thanks to this Paramount+ deal](https://www.space.com/entertainment/space-movies-shows/finished-starfleet-academy-boldly-binge-watch-the-superb-star-trek-strange-new-worlds-cheaper-paramount-plus-streaming-deal)
-- [Kentucky woman rejects $26M offer to turn her farm into a data center](https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/)
-- [Anthropic hands Claude Code more control, but keeps it on a leash](https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/)
-- [Amazon Spring Sale deals for stargazing 2026: Huge savings on telescopes, binoculars and cameras](https://www.space.com/technology/amazon-spring-sale-deals-for-stargazing-2026-huge-savings-on-telescopes-binoculars-and-cameras)
-- [Scientists discover mirror of our solar system in 2 exoplanets forming around a star](https://www.space.com/astronomy/exoplanets/scientists-discover-mirror-of-our-solar-system-in-2-exoplanets-forming-around-a-star)
+- [Amazon just bought a startup making kid-size humanoid robots](https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/)
+- [With $3.5B in fresh capital, Kleiner Perkins is going all in on AI](https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/)
+- [New Mexico just handed Meta its first courtroom defeat over child safety, and the rest of the country is watching](https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/)
+- [Lululemon bets Epoch Biodesign can eat its shorts, literally](https://techcrunch.com/2026/03/24/lululemon-bets-epoch-biodesign-can-eat-its-shorts-literally/)
+- [OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down](https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
