@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jupiter and the moon take a sunset stroll on March 26. Here&#39;s how to see it](https://www.space.com/stargazing/jupiter-and-the-moon-take-a-sunset-stroll-tomorrow-heres-how-to-see-it-march-26-2026)
+- [Melania Trump wants a robot to homeschool your child](https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/)
 - [Riding the GLP-1 boom, VITL lands $7.5M to overhaul cash-pay clinic prescribing](https://techcrunch.com/2026/03/25/riding-the-glp-1-boom-vitl-lands-7-5m-to-overhaul-cash-pay-clinic-prescribing/)
 - [Canada cancels its 1st moon rover: &#39;It&#39;s hopefully not a lost cause&#39;](https://www.space.com/space-exploration/artemis/canada-cancels-its-1st-moon-rover-its-hopefully-not-a-lost-cause)
 - [Jury finds Meta and Google negligent in landmark social media addiction trial](https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/)
-- [Meta is cutting several hundred jobs](https://techcrunch.com/2026/03/25/meta-is-cutting-several-hundred-jobs/)
-- [Get $28 off this Lego Star Wars Dark Falcon set or suffer at the hands of Darth Jar Jar](https://www.space.com/entertainment/space-toys-lego/get-28-dollars-off-this-lego-star-wars-dark-falcon-set-or-suffer-at-the-hands-of-darth-jar-jar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
