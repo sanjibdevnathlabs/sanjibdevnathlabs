@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses](https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/)
+- [These 45 exoplanets may be the best places to search for alien life](https://www.space.com/astronomy/exoplanets/these-45-exoplanets-may-be-the-best-places-to-search-for-alien-life)
 - [Mistral releases a new open-source model for speech generation](https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/)
 - [Aim for the stars for under $15 with this Estes 2441 Mini Arcas Model Rocket Kit at Walmart, now 17% cheaper in the spring sales](https://www.space.com/entertainment/space-toys-lego/aim-for-the-stars-for-under-15-dollars-spring-sale-estes-model-rocket-march-2026)
 - [Lightning on Jupiter could be up to 1 million times stronger than on Earth](https://www.space.com/astronomy/jupiter/lightning-on-jupiter-could-be-up-to-1-million-times-stronger-than-on-earth)
-- [A little-known Croatian startup is coming for the robotaxi market with help from Uber](https://techcrunch.com/2026/03/26/a-little-known-croatian-startup-is-coming-for-the-robotaxi-market-with-help-from-uber/)
-- [The least surprising chapter of the Manus story is what’s happening right now](https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
