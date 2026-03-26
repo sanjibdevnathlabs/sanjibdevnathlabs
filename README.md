@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI abandons yet another side quest: ChatGPT’s erotic mode](https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/)
+- [Data centers get ready — the Senate wants to see your power bills](https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/)
+- [Defense startup Shield AI lands $12.7B valuation, up 140%, after US Air Force deal](https://techcrunch.com/2026/03/26/defense-startup-shield-ai-lands-12-7b-valuation-up-140-after-u-s-air-force-deal/)
 - [Apple made strides with iOS 26 security, but leaked hacking tools still leave millions exposed to spyware attacks](https://techcrunch.com/2026/03/26/apple-made-strides-with-ios-26-security-but-leaked-hacking-tools-still-leave-millions-exposed-to-spyware-attacks/)
 - [Don&#39;t miss the waxing moon swing by the Beehive star cluster March 27](https://www.space.com/stargazing/dont-miss-the-waxing-moon-swing-by-the-beehive-star-cluster-march-27-2026)
-- [Google is launching Search Live globally](https://techcrunch.com/2026/03/26/google-is-launching-search-live-globally/)
-- [Artemis 2 moon mission latest news: NASA prepares for April 1 launch for lunar astronauts](https://www.space.com/news/live/artemis-2-nasa-moon-mission-launch-updates-march-26-2026)
-- [Silicon Valley’s two biggest dramas have intersected: LiteLLM and Delve](https://techcrunch.com/2026/03/26/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
