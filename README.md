@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mercor competitor Deccan AI raises $25M, sources experts from India](https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/)
+- [Delve did the security compliance on LiteLLM, an AI project hit by malware](https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/)
 - [Inside Artemis 2: NASA&#39;s historic astronaut moon mission explained &lpar;video series&rpar;](https://www.space.com/space-exploration/artemis/inside-artemis-2-nasas-historic-astronaut-moon-mission-explained-video-series)
 - [100 new alien worlds: Scientists find hidden haul in data from NASA exoplanet-hunting spacecraft](https://www.space.com/astronomy/exoplanets/100-new-alien-worlds-scientists-find-hidden-haul-in-data-from-nasa-exoplanet-hunting-spacecraft)
 - [The AI skills gap is here, says AI company, and power users are pulling ahead](https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/)
-- [Convicted spyware chief hints that Greece’s government was behind dozens of phone hacks](https://techcrunch.com/2026/03/25/convicted-spyware-chief-hints-that-greeces-government-was-behind-dozens-of-phone-hacks/)
-- [Who’s driving Waymo’s self-driving cars? Sometimes, the police.](https://techcrunch.com/2026/03/25/waymo-robotaxi-roadside-assistance-emergency-first-responders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
