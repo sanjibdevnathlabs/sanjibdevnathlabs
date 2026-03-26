@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A major hacking tool has leaked online, putting millions of iPhones at risk. Here’s what you need to know](https://techcrunch.com/2026/03/26/a-major-hacking-tool-has-leaked-online-putting-millions-of-iphones-at-risk-heres-what-you-need-to-know/)
+- [ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut](https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/)
+- [Rattling the Roman Space Telescope | Space photo of the day for March 26, 2026](https://www.space.com/astronomy/rattling-the-roman-space-telescope-space-photo-of-the-day-for-march-26-2026)
+- [Why hiring the weirdos works](https://techcrunch.com/2026/03/26/why-hiring-the-weirdos-works/)
+- [A major hacking tool has leaked online, putting millions of iPhones at risk. Here’s what you need to know.](https://techcrunch.com/2026/03/26/a-major-hacking-tool-has-leaked-online-putting-millions-of-iphones-at-risk-heres-what-you-need-to-know/)
 - [Incredible new NASA images reveal Saturn in a new light — and it&#39;s all thanks to a telescope team-up from Webb and Hubble](https://www.space.com/astronomy/saturn/incredible-new-nasa-images-reveal-saturn-in-a-new-light-and-its-all-thanks-to-a-telescope-team-up-from-webb-and-hubble)
-- [Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems](https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/)
-- [Cohere launches an open-source voice model specifically for transcription](https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/)
-- [WhatsApp can now draft AI-generated responses based on your conversations](https://techcrunch.com/2026/03/26/whatsapp-can-now-draft-ai-generated-responses-based-on-your-conversations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
