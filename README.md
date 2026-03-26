@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut](https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/)
-- [Rattling the Roman Space Telescope | Space photo of the day for March 26, 2026](https://www.space.com/astronomy/rattling-the-roman-space-telescope-space-photo-of-the-day-for-march-26-2026)
-- [Why hiring the weirdos works](https://techcrunch.com/2026/03/26/why-hiring-the-weirdos-works/)
-- [A major hacking tool has leaked online, putting millions of iPhones at risk. Here’s what you need to know.](https://techcrunch.com/2026/03/26/a-major-hacking-tool-has-leaked-online-putting-millions-of-iphones-at-risk-heres-what-you-need-to-know/)
-- [Incredible new NASA images reveal Saturn in a new light — and it&#39;s all thanks to a telescope team-up from Webb and Hubble](https://www.space.com/astronomy/saturn/incredible-new-nasa-images-reveal-saturn-in-a-new-light-and-its-all-thanks-to-a-telescope-team-up-from-webb-and-hubble)
+- [Apple made strides with iOS 26 security, but leaked hacking tools still leave millions exposed to spyware attacks](https://techcrunch.com/2026/03/26/apple-made-strides-with-ios-26-security-but-leaked-hacking-tools-still-leave-millions-exposed-to-spyware-attacks/)
+- [Don&#39;t miss the waxing moon swing by the Beehive star cluster March 27](https://www.space.com/stargazing/dont-miss-the-waxing-moon-swing-by-the-beehive-star-cluster-march-27-2026)
+- [Google is launching Search Live globally](https://techcrunch.com/2026/03/26/google-is-launching-search-live-globally/)
+- [Artemis 2 moon mission latest news: NASA prepares for April 1 launch for lunar astronauts](https://www.space.com/news/live/artemis-2-nasa-moon-mission-launch-updates-march-26-2026)
+- [Silicon Valley’s two biggest dramas have intersected: LiteLLM and Delve](https://techcrunch.com/2026/03/26/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
