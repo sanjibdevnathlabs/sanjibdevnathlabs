@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mistral releases a new open-source model for speech generation](https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/)
+- [Aim for the stars for under $15 with this Estes 2441 Mini Arcas Model Rocket Kit at Walmart, now 17% cheaper in the spring sales](https://www.space.com/entertainment/space-toys-lego/aim-for-the-stars-for-under-15-dollars-spring-sale-estes-model-rocket-march-2026)
+- [Lightning on Jupiter could be up to 1 million times stronger than on Earth](https://www.space.com/astronomy/jupiter/lightning-on-jupiter-could-be-up-to-1-million-times-stronger-than-on-earth)
 - [A little-known Croatian startup is coming for the robotaxi market with help from Uber](https://techcrunch.com/2026/03/26/a-little-known-croatian-startup-is-coming-for-the-robotaxi-market-with-help-from-uber/)
 - [The least surprising chapter of the Manus story is what’s happening right now](https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/)
-- [Mercor competitor Deccan AI raises $25M, sources experts from India](https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/)
-- [Delve did the security compliance on LiteLLM, an AI project hit by malware](https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/)
-- [Inside Artemis 2: NASA&#39;s historic astronaut moon mission explained &lpar;video series&rpar;](https://www.space.com/space-exploration/artemis/inside-artemis-2-nasas-historic-astronaut-moon-mission-explained-video-series)
 <!-- BLOG-POST-LIST:END -->
 
 ---
