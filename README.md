@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Iranian hackers claim breach of FBI director Kash Patel’s personal email account](https://techcrunch.com/2026/03/27/iranian-hackers-claim-breach-of-fbi-director-kash-patels-personal-email-account/)
+- [Artemis 2 moon mission latest news: Astronauts arriving in Florida ahead of launch](https://www.space.com/news/live/artemis-2-nasa-moon-rocket-rollout-march-27-2026)
+- [&#39;For All Mankind&#39; season 5: Release date &amp; how to watch Apple TV&#39;s alt-history space show](https://www.space.com/entertainment/space-movies-shows/for-all-mankind-season-5-release-date-and-how-to-watch-apple-tvs-alt-history-space-show)
+- [Apple says no one using Lockdown Mode has been hacked with spyware](https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/)
 - [New portrait of the oldest-known supernova | Space photo of the day for March 27, 2026](https://www.space.com/astronomy/new-portrait-of-the-oldest-known-supernova-space-photo-of-the-day-for-march-27-2026)
-- [NASA&#39;s ambitious &#39;decade of Venus&#39; exploration may bank on 1 probe: &#39;Not everything can move forward&#39;](https://www.space.com/space-exploration/missions/nasas-ambitious-decade-of-venus-exploration-may-bank-on-1-probe-not-everything-can-move-forward)
-- [What time is NASA&#39;s Artemis 2 moon launch on April 1?](https://www.space.com/space-exploration/artemis/how-to-watch-nasas-artemis-2-send-humans-to-the-moon-for-the-1st-time-in-over-50-years)
-- [NASA is developing the &#39;1st nuclear powered interplanetary spacecraft.&#39; What about the Voyager probes?](https://www.space.com/space-exploration/nasa-is-developing-the-1st-nuclear-powered-interplanetary-spacecraft-what-about-the-voyager-probes)
-- [Watch the BBC&#39;s Dr Who spin-off &#39;The War Between the Land and the Sea&#39; and every episode of the classic Dr Who series on your travels with our exclusive NordVPN deal](https://www.space.com/technology/watch-the-bbcs-dr-who-spin-off-the-war-between-the-land-and-the-sea-and-every-episode-of-the-classic-dr-who-series-on-your-travels-with-our-exclusive-nordvpn-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
