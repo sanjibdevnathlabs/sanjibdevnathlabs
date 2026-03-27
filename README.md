@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New portrait of the oldest-known supernova | Space photo of the day for March 27, 2026](https://www.space.com/astronomy/new-portrait-of-the-oldest-known-supernova-space-photo-of-the-day-for-march-27-2026)
+- [NASA&#39;s ambitious &#39;decade of Venus&#39; exploration may bank on 1 probe: &#39;Not everything can move forward&#39;](https://www.space.com/space-exploration/missions/nasas-ambitious-decade-of-venus-exploration-may-bank-on-1-probe-not-everything-can-move-forward)
 - [What time is NASA&#39;s Artemis 2 moon launch on April 1?](https://www.space.com/space-exploration/artemis/how-to-watch-nasas-artemis-2-send-humans-to-the-moon-for-the-1st-time-in-over-50-years)
 - [NASA is developing the &#39;1st nuclear powered interplanetary spacecraft.&#39; What about the Voyager probes?](https://www.space.com/space-exploration/nasa-is-developing-the-1st-nuclear-powered-interplanetary-spacecraft-what-about-the-voyager-probes)
 - [Watch the BBC&#39;s Dr Who spin-off &#39;The War Between the Land and the Sea&#39; and every episode of the classic Dr Who series on your travels with our exclusive NordVPN deal](https://www.space.com/technology/watch-the-bbcs-dr-who-spin-off-the-war-between-the-land-and-the-sea-and-every-episode-of-the-classic-dr-who-series-on-your-travels-with-our-exclusive-nordvpn-deal)
-- [David Sacks is done as AI czar — here’s what he’s doing instead](https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/)
-- [Anthropic wins injunction against Trump administration over Defense Department saga](https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
