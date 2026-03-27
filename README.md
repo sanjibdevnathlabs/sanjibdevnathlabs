@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA is developing the &#39;1st nuclear powered interplanetary spacecraft.&#39; What about the Voyager probes?](https://www.space.com/space-exploration/nasa-is-developing-the-1st-nuclear-powered-interplanetary-spacecraft-what-about-the-voyager-probes)
 - [Watch the BBC&#39;s Dr Who spin-off &#39;The War Between the Land and the Sea&#39; and every episode of the classic Dr Who series on your travels with our exclusive NordVPN deal](https://www.space.com/technology/watch-the-bbcs-dr-who-spin-off-the-war-between-the-land-and-the-sea-and-every-episode-of-the-classic-dr-who-series-on-your-travels-with-our-exclusive-nordvpn-deal)
 - [David Sacks is done as AI czar — here’s what he’s doing instead](https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/)
 - [Anthropic wins injunction against Trump administration over Defense Department saga](https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/)
 - [You can now transfer your chats and personal information from other chatbots directly into Gemini](https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/)
-- [Hitting the brakes: Hubble Space Telescope watches doomed comet reverse its spin](https://www.space.com/astronomy/comets/hitting-the-brakes-hubble-space-telescope-watches-doomed-comet-reverse-its-spin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
