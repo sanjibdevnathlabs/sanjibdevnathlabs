@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are Saturn&#39;s rings made of a lost, shattered moon? New evidence arises for the case](https://www.space.com/astronomy/saturn/are-saturns-rings-made-of-a-lost-shattered-moon-new-evidence-arises-for-the-case)
+- [Rivian gets another $1B from Volkswagen](https://techcrunch.com/2026/03/27/rivian-gets-another-1b-from-volkswagen/)
 - [Iranian hackers claim breach of FBI director Kash Patel’s personal email account](https://techcrunch.com/2026/03/27/iranian-hackers-claim-breach-of-fbi-director-kash-patels-personal-email-account/)
-- [Artemis 2 moon mission latest news: Astronauts arriving in Florida ahead of launch](https://www.space.com/news/live/artemis-2-nasa-moon-rocket-rollout-march-27-2026)
 - [&#39;For All Mankind&#39; season 5: Release date &amp; how to watch Apple TV&#39;s alt-history space show](https://www.space.com/entertainment/space-movies-shows/for-all-mankind-season-5-release-date-and-how-to-watch-apple-tvs-alt-history-space-show)
 - [Apple says no one using Lockdown Mode has been hacked with spyware](https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/)
-- [New portrait of the oldest-known supernova | Space photo of the day for March 27, 2026](https://www.space.com/astronomy/new-portrait-of-the-oldest-known-supernova-space-photo-of-the-day-for-march-27-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
