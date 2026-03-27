@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2 astronauts arrive at Kennedy Space Center ahead of NASA&#39;s historic launch around the moon](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-arrive-at-kennedy-space-center-ahead-of-nasas-historic-launch-around-the-moon)
+- [What time is NASA&#39;s Artemis 2 moon launch on April 1?](https://www.space.com/space-exploration/artemis/nasa-artemis-2-moon-launch-what-time)
 - [Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO](https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/)
 - [Waymo’s skyrocketing ridership in one chart](https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/)
 - [Still waiting for Ahsoka Season 2? Make the wait easier with 20% off this Lego Star Wars Ahsoka Tano Jedi Interceptor](https://www.space.com/entertainment/space-toys-lego/still-waiting-for-ahsoka-season-2-make-the-wait-easier-with-20-percent-off-this-lego-star-wars-ahsoka-tano-jedi-interceptor)
-- [Can humans have babies in space? It may be harder than expected](https://www.space.com/space-exploration/human-spaceflight/having-babies-in-space-may-be-harder-than-expected)
-- [European Commission confirms cyberattack after hackers claim data breach](https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
