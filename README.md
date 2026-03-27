@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [European Commission confirms cyberattack after hackers claim data breach](https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/)
 - [Aetherflux reportedly raising Series B at $2 billion valuation](https://techcrunch.com/2026/03/27/aetherflux-reportedly-raising-series-b-at-2-billion-valuation/)
 - [Fireball sightings are surging across the US — here&#39;s what&#39;s really going on](https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on)
 - [Are Saturn&#39;s rings made of a lost, shattered moon? New evidence arises for the case](https://www.space.com/astronomy/saturn/are-saturns-rings-made-of-a-lost-shattered-moon-new-evidence-arises-for-the-case)
 - [Rivian gets another $1B from Volkswagen](https://techcrunch.com/2026/03/27/rivian-gets-another-1b-from-volkswagen/)
-- [Iranian hackers claim breach of FBI director Kash Patel’s personal email account](https://techcrunch.com/2026/03/27/iranian-hackers-claim-breach-of-fbi-director-kash-patels-personal-email-account/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
