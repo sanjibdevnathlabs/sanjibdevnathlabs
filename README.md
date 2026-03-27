@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [David Sacks is done as AI czar — here’s what he’s doing instead](https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/)
+- [Anthropic wins injunction against Trump administration over Defense Department saga](https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/)
+- [You can now transfer your chats and personal information from other chatbots directly into Gemini](https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/)
 - [Hitting the brakes: Hubble Space Telescope watches doomed comet reverse its spin](https://www.space.com/astronomy/comets/hitting-the-brakes-hubble-space-telescope-watches-doomed-comet-reverse-its-spin)
 - [Wikipedia cracks down on the use of AI in article writing](https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/)
-- [Mastodon is making its decentralized social network easier to use with its latest revamp](https://techcrunch.com/2026/03/26/mastodon-is-making-its-decentralized-social-network-easier-to-use-with-its-latest-revamp/)
-- [Netflix confirms it’s raising prices again](https://techcrunch.com/2026/03/26/netflix-confirms-its-raising-prices-again/)
-- [Sun storms are powered by a magnetic engine 16 Earths deep, study finds](https://www.space.com/astronomy/sun/sun-storms-are-powered-by-a-magnetic-engine-16-earths-deep-study-finds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
