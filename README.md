@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO](https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/)
+- [Waymo’s skyrocketing ridership in one chart](https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/)
+- [Still waiting for Ahsoka Season 2? Make the wait easier with 20% off this Lego Star Wars Ahsoka Tano Jedi Interceptor](https://www.space.com/entertainment/space-toys-lego/still-waiting-for-ahsoka-season-2-make-the-wait-easier-with-20-percent-off-this-lego-star-wars-ahsoka-tano-jedi-interceptor)
+- [Can humans have babies in space? It may be harder than expected](https://www.space.com/space-exploration/human-spaceflight/having-babies-in-space-may-be-harder-than-expected)
 - [European Commission confirms cyberattack after hackers claim data breach](https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/)
-- [Aetherflux reportedly raising Series B at $2 billion valuation](https://techcrunch.com/2026/03/27/aetherflux-reportedly-raising-series-b-at-2-billion-valuation/)
-- [Fireball sightings are surging across the US — here&#39;s what&#39;s really going on](https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on)
-- [Are Saturn&#39;s rings made of a lost, shattered moon? New evidence arises for the case](https://www.space.com/astronomy/saturn/are-saturns-rings-made-of-a-lost-shattered-moon-new-evidence-arises-for-the-case)
-- [Rivian gets another $1B from Volkswagen](https://techcrunch.com/2026/03/27/rivian-gets-another-1b-from-volkswagen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
