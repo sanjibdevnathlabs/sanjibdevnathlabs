@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk’s last co-founder reportedly leaves xAI](https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/)
+- [These iPad apps will make you wish you had more free time](https://techcrunch.com/2026/03/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/)
+- [Where should we send a real &#39;Hail Mary&#39; spacecraft? A new study has the answers](https://www.space.com/entertainment/space-movies-shows/where-could-we-send-a-real-hail-mary-spacecraft-a-new-study-has-the-answers)
 - [Anthropic’s Claude popularity with paying consumers is skyrocketing](https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/)
 - [What will power the grid in 2035? The race is wide open](https://techcrunch.com/2026/03/28/what-will-power-the-grid-in-2035-the-race-is-wide-open/)
-- [Let’s take a look at the retro tech making a comeback](https://techcrunch.com/2026/03/28/lets-take-a-look-at-the-retro-tech-making-a-comeback/)
-- [Astrophotographer captures spectacular photo of Antennae Galaxies dueling in deep space](https://www.space.com/stargazing/astrophotography/astrophotographer-captures-spectacular-photo-of-antennae-galaxies-dueling-in-deep-space)
-- [This Week In Space podcast: Episode 203 — China Rising](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-203-china-rising)
 <!-- BLOG-POST-LIST:END -->
 
 ---
