@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2 astronauts are launching to the moon on April 1: Watch it live](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-are-launching-to-the-moon-on-april-1-watch-it-live)
 - [Whoop has LeBron – now it wants your mom](https://techcrunch.com/2026/03/27/whoop-has-lebron-now-it-wants-your-mom/)
 - [Physical Intelligence is reportedly in talks to raise $1 billion, again](https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/)
 - [Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO](https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/)
 - [Artemis 2 astronauts arrive at Kennedy Space Center ahead of NASA&#39;s historic launch around the moon](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-arrive-at-kennedy-space-center-ahead-of-nasas-historic-launch-around-the-moon)
-- [What time is NASA&#39;s Artemis 2 moon launch on April 1?](https://www.space.com/space-exploration/artemis/nasa-artemis-2-moon-launch-what-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
