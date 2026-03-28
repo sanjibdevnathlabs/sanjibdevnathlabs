@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What will power the grid in 2035? The race is wide open](https://techcrunch.com/2026/03/28/what-will-power-the-grid-in-2035-the-race-is-wide-open/)
+- [Let’s take a look at the retro tech making a comeback](https://techcrunch.com/2026/03/28/lets-take-a-look-at-the-retro-tech-making-a-comeback/)
+- [Astrophotographer captures spectacular photo of Antennae Galaxies dueling in deep space](https://www.space.com/stargazing/astrophotography/astrophotographer-captures-spectacular-photo-of-antennae-galaxies-dueling-in-deep-space)
 - [This Week In Space podcast: Episode 203 — China Rising](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-203-china-rising)
 - [From Moon hotels to cattle herding: 8 startups investors chased at YC Demo Day](https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/)
-- [&#39;Project Hail Mary&#39; author Andy Weir reveals his favorite scenes in the movie, praises Ryan Gosling&#39;s amazing performance, &amp; more &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/project-hail-mary-author-andy-weir-reveals-his-favorite-scenes-in-the-movie-praises-ryan-goslings-amazing-performance-and-more-interview)
-- [This Celestron Firstscope is my go-to for moonwatching and it&#39;s 15% off in Amazon&#39;s Spring Sale](https://www.space.com/stargazing/skywatching-kit/this-celestron-firstscope-is-my-go-to-for-moonwatching-and-its-15-percent-off-in-amazons-spring-sale)
-- [How to watch NASA&#39;s Artemis 2 astronauts launch to the moon on April 1](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-are-launching-to-the-moon-on-april-1-watch-it-live)
 <!-- BLOG-POST-LIST:END -->
 
 ---
