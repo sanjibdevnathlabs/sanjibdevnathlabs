@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic’s Claude popularity with paying consumers is skyrocketing](https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/)
 - [What will power the grid in 2035? The race is wide open](https://techcrunch.com/2026/03/28/what-will-power-the-grid-in-2035-the-race-is-wide-open/)
 - [Let’s take a look at the retro tech making a comeback](https://techcrunch.com/2026/03/28/lets-take-a-look-at-the-retro-tech-making-a-comeback/)
 - [Astrophotographer captures spectacular photo of Antennae Galaxies dueling in deep space](https://www.space.com/stargazing/astrophotography/astrophotographer-captures-spectacular-photo-of-antennae-galaxies-dueling-in-deep-space)
 - [This Week In Space podcast: Episode 203 — China Rising](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-203-china-rising)
-- [From Moon hotels to cattle herding: 8 startups investors chased at YC Demo Day](https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
