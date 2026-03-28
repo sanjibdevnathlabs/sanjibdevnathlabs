@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluesky leans into AI with Attie, an app for building custom feeds](https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/)
 - [Mark Zuckerberg texted Elon Musk to offer help with DOGE](https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/)
 - [Stanford study outlines dangers of asking AI chatbots for personal advice](https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/)
 - [Elon Musk’s last co-founder reportedly leaves xAI](https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/)
 - [These iPad apps will make you wish you had more free time](https://techcrunch.com/2026/03/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/)
-- [Where should we send a real &#39;Hail Mary&#39; spacecraft? A new study has the answers](https://www.space.com/entertainment/space-movies-shows/where-could-we-send-a-real-hail-mary-spacecraft-a-new-study-has-the-answers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
