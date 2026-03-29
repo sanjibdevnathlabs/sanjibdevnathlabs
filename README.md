@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch 119 payloads to orbit from California early on March 30](https://www.space.com/space-exploration/launches-spacecraft/spacex-transporter-16-rideshare-mission-launch)
+- [The Pixel 10a doesn’t have a camera bump, and it’s great](https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/)
 - [YouTube CEO says the best YouTubers will ‘never leave their home’](https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/)
 - [&#39;We are ready&#39;: NASA still on track to launch Artemis 2 astronauts to the moon April 1](https://www.space.com/space-exploration/missions/we-are-ready-nasa-still-on-track-to-launch-artemis-2-astronauts-to-the-moon-april-1)
 - [‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit](https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/)
-- [Sora’s shutdown could be a reality check moment for AI video](https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/)
-- [TechCrunch Mobility: When a robotaxi has to call 911](https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
