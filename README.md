@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Anthropic just released the real Claude Bot...](https://www.youtube.com/watch?v=wfeiCZK0mNs)
 - [Haptic Rendering - Computerphile](https://www.youtube.com/watch?v=0jmJdvI6f-A)
-- [Tech bros optimized war… and it’s working](https://www.youtube.com/watch?v=nxwkn9Dt9-I)
-- [Session 4, Part 1: Presenting Your Venture](https://www.youtube.com/watch?v=-Op1GLwFuV4)
-- [Session 3, Part 1: Legal Issues](https://www.youtube.com/watch?v=OAEGRRcwt9M)
+- [Temporal Networks, Where Page Rank meets Lord of the Rings - Computerphile](https://www.youtube.com/watch?v=ZP6Bh3iWklQ)
+- [I almost quit YouTube....](https://www.youtube.com/watch?v=dbMXi9q78Tk)
+- [Vector Search with LLMs - Computerphile](https://www.youtube.com/watch?v=YDdKiQNw80c)
+- [YouTube BROKE but the ads kept working...](https://www.youtube.com/shorts/RHQmwsw5Aeo)
 <!-- YOUTUBE:END -->
 
 ---
