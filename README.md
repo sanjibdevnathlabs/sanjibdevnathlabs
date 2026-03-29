@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Mobility: When a robotaxi has to call 911](https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/)
+- [&#39;Warhammer 40,000: Dawn of War 4&#39;: Release date, plot, factions, &amp; everything else we know about the upcoming 40K strategy game](https://www.space.com/entertainment/space-games/warhammer-40-000-dawn-of-war-4-release-date-plot-factions-and-everything-else-we-know-about-the-upcoming-40k-strategy-game)
 - [SXSW rebounds as a top networking, ideas festival for founders and VCs](https://techcrunch.com/2026/03/29/sxsw-rebounds-as-a-top-networking-ideas-festival-for-founders-and-vcs/)
-- [Bluesky leans into AI with Attie, an app for building custom feeds](https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/)
-- [Mark Zuckerberg texted Elon Musk to offer help with DOGE](https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/)
-- [Stanford study outlines dangers of asking AI chatbots for personal advice](https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/)
-- [Elon Musk’s last co-founder reportedly leaves xAI](https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/)
+- [Kristen Stewart will play Sally Ride, the 1st American woman in space, as Amazon finally greenlights mini-series &#39;The Challenger&#39;](https://www.space.com/entertainment/space-movies-shows/kristen-stewart-will-play-sally-ride-the-1st-american-woman-in-space-as-amazon-finally-greenlights-mini-series-the-challenger)
+- [NASA&#39;s Artemis 2 moon astronauts are &#39;fortunate&#39; to have a private space toilet — Apollo crews pooped in plastic bags](https://www.space.com/space-exploration/artemis/nasas-artemis-2-moon-astronauts-are-fortunate-to-have-a-private-space-toilet-apollo-crews-pooped-in-plastic-bags)
 <!-- BLOG-POST-LIST:END -->
 
 ---
