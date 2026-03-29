@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;We&#39;re all on this journey together:&#39; Who are the Artemis 2 astronauts launching to the moon?](https://www.space.com/space-exploration/artemis/were-all-on-this-journey-together-who-are-the-artemis-2-astronauts-launching-to-the-moon)
-- [Making Canadian history: Artemis 2 astronaut Jeremy Hansen is ready for his epic moon mission](https://www.space.com/space-exploration/artemis/making-canadian-history-artemis-2-astronaut-jeremy-hansen-is-ready-for-his-epic-moon-mission)
-- [&#39;It&#39;s all I think about&#39;: Artemis 2 commander Reid Wiseman is zeroed in on historic moon mission](https://www.space.com/space-exploration/artemis/its-all-i-think-about-artemis-2-commander-reid-wiseman-is-zeroed-in-on-historic-moon-mission)
+- [NASA&#39;s Artemis 2 moon astronauts are &#39;fortunate&#39; to have a private space toilet — Apollo crews pooped in plastic bags](https://www.space.com/space-exploration/artemis/nasas-artemis-2-moon-astronauts-are-fortunate-to-have-a-private-space-toilet-apollo-crews-pooped-in-plastic-bags)
 - [&#39;We work for them, too&#39;: Artemis 2 moon mission is for everyone, NASA astronaut Victor Glover says &lpar;video&rpar;](https://www.space.com/space-exploration/artemis/we-work-for-them-too-artemis-2-moon-mission-is-for-everyone-nasa-astronaut-victor-glover-says-video)
-- [&#39;An incredible privilege and responsibility&#39;: Artemis 2&#39;s Christina Koch is ready to become the 1st woman to fly around the moon](https://www.space.com/space-exploration/artemis/an-incredible-privilege-and-responsibility-artemis-2s-christina-koch-is-ready-to-become-the-1st-woman-to-fly-around-the-moon)
+- [&#39;We&#39;re all on this journey together:&#39; Who are the Artemis 2 astronauts launching to the moon?](https://www.space.com/space-exploration/artemis/were-all-on-this-journey-together-who-are-the-artemis-2-astronauts-launching-to-the-moon)
+- [&#39;It&#39;s all I think about&#39;: Artemis 2 commander Reid Wiseman is zeroed in on historic moon mission](https://www.space.com/space-exploration/artemis/its-all-i-think-about-artemis-2-commander-reid-wiseman-is-zeroed-in-on-historic-moon-mission)
+- [Making Canadian history: Artemis 2 astronaut Jeremy Hansen is ready for his epic moon mission](https://www.space.com/space-exploration/artemis/making-canadian-history-artemis-2-astronaut-jeremy-hansen-is-ready-for-his-epic-moon-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
