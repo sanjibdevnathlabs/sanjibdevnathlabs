@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bluesky leans into AI with Attie, an app for building custom feeds](https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/)
-- [Mark Zuckerberg texted Elon Musk to offer help with DOGE](https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/)
-- [Stanford study outlines dangers of asking AI chatbots for personal advice](https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/)
-- [Elon Musk’s last co-founder reportedly leaves xAI](https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/)
-- [These iPad apps will make you wish you had more free time](https://techcrunch.com/2026/03/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/)
+- [&#39;We&#39;re all on this journey together:&#39; Who are the Artemis 2 astronauts launching to the moon?](https://www.space.com/space-exploration/artemis/were-all-on-this-journey-together-who-are-the-artemis-2-astronauts-launching-to-the-moon)
+- [Making Canadian history: Artemis 2 astronaut Jeremy Hansen is ready for his epic moon mission](https://www.space.com/space-exploration/artemis/making-canadian-history-artemis-2-astronaut-jeremy-hansen-is-ready-for-his-epic-moon-mission)
+- [&#39;It&#39;s all I think about&#39;: Artemis 2 commander Reid Wiseman is zeroed in on historic moon mission](https://www.space.com/space-exploration/artemis/its-all-i-think-about-artemis-2-commander-reid-wiseman-is-zeroed-in-on-historic-moon-mission)
+- [&#39;We work for them, too&#39;: Artemis 2 moon mission is for everyone, NASA astronaut Victor Glover says &lpar;video&rpar;](https://www.space.com/space-exploration/artemis/we-work-for-them-too-artemis-2-moon-mission-is-for-everyone-nasa-astronaut-victor-glover-says-video)
+- [&#39;An incredible privilege and responsibility&#39;: Artemis 2&#39;s Christina Koch is ready to become the 1st woman to fly around the moon](https://www.space.com/space-exploration/artemis/an-incredible-privilege-and-responsibility-artemis-2s-christina-koch-is-ready-to-become-the-1st-woman-to-fly-around-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
