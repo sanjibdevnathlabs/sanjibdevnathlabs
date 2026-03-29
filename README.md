@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SXSW rebounds as a top networking, ideas festival for founders and VCs](https://techcrunch.com/2026/03/29/sxsw-rebounds-as-a-top-networking-ideas-festival-for-founders-and-vcs/)
 - [Kristen Stewart will play Sally Ride, the 1st American woman in space, as Amazon finally greenlights mini-series &#39;The Challenger&#39;](https://www.space.com/entertainment/space-movies-shows/kristen-stewart-will-play-sally-ride-the-1st-american-woman-in-space-as-amazon-finally-greenlights-mini-series-the-challenger)
 - [NASA&#39;s Artemis 2 moon astronauts are &#39;fortunate&#39; to have a private space toilet — Apollo crews pooped in plastic bags](https://www.space.com/space-exploration/artemis/nasas-artemis-2-moon-astronauts-are-fortunate-to-have-a-private-space-toilet-apollo-crews-pooped-in-plastic-bags)
 - [&#39;We work for them, too&#39;: Artemis 2 moon mission is for everyone, NASA astronaut Victor Glover says &lpar;video&rpar;](https://www.space.com/space-exploration/artemis/we-work-for-them-too-artemis-2-moon-mission-is-for-everyone-nasa-astronaut-victor-glover-says-video)
 - [&#39;It&#39;s all I think about&#39;: Artemis 2 commander Reid Wiseman is zeroed in on historic moon mission](https://www.space.com/space-exploration/artemis/its-all-i-think-about-artemis-2-commander-reid-wiseman-is-zeroed-in-on-historic-moon-mission)
-- [Making Canadian history: Artemis 2 astronaut Jeremy Hansen is ready for his epic moon mission](https://www.space.com/space-exploration/artemis/making-canadian-history-artemis-2-astronaut-jeremy-hansen-is-ready-for-his-epic-moon-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
