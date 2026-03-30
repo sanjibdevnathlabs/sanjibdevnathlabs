@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Anthropic just released the real Claude Bot...](https://www.youtube.com/watch?v=wfeiCZK0mNs)
-- [Haptic Rendering - Computerphile](https://www.youtube.com/watch?v=0jmJdvI6f-A)
-- [Tech bros optimized war… and it’s working](https://www.youtube.com/watch?v=nxwkn9Dt9-I)
-- [Session 4, Part 1: Presenting Your Venture](https://www.youtube.com/watch?v=-Op1GLwFuV4)
-- [Session 3, Part 1: Legal Issues](https://www.youtube.com/watch?v=OAEGRRcwt9M)
+- [13: Color Perception &lpar;cont&#39;d&rpar;, Motion Perception](https://www.youtube.com/watch?v=Aave3OyCGPc)
+- [17: The Generic Viewpoint Assumption; Object Recognition](https://www.youtube.com/watch?v=7cEAX5gqd7o)
+- [21: Attention &lpar;cont&#39;d&rpar;](https://www.youtube.com/watch?v=sdYDZeXzE5Q)
+- [1: Introduction to Perception](https://www.youtube.com/watch?v=IPJC8loEmd4)
+- [23: Olfaction and Gustation](https://www.youtube.com/watch?v=Mre84EsXY_Y)
 <!-- YOUTUBE:END -->
 
 ---
