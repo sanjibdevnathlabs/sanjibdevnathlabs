@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starcloud raises $170 million Series Ato build data centers in space](https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/)
 - [How will Artemis 2 be different from NASA&#39;s Apollo moon missions?](https://www.space.com/space-exploration/artemis/how-will-artemis-2-be-different-from-nasas-apollo-moon-missions)
 - [Finished Starfleet Academy? Explore the animated antics of Star Trek: Lower Decks for just $2.99 a month](https://www.space.com/entertainment/space-movies-shows/finished-starfleet-academy-explore-the-animated-antics-of-star-trek-lower-decks-for-just-2-99-a-month)
 - [Why OpenAI really shut down Sora](https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/)
 - [Watch SpaceX launch 119 payloads to orbit from California early on March 30](https://www.space.com/space-exploration/launches-spacecraft/spacex-transporter-16-rideshare-mission-launch)
-- [The Pixel 10a doesn’t have a camera bump, and it’s great](https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
