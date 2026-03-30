@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Delve whistleblower strikes again, with alleged receipts about ‘fake compliance’](https://techcrunch.com/2026/03/30/delve-whistleblower-strikes-again-with-alleged-receipts-about-fake-compliance/)
+- [Meta starts testing a premium subscription on Instagram](https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/)
+- [Bluesky’s new AI tool Attie is already the most blocked account other than J.D. Vance](https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/)
+- [Heading to Florida for NASA&#39;s Artemis 2 moon launch? Here&#39;s what to know before you go](https://www.space.com/space-exploration/artemis/how-many-people-will-flock-to-florida-for-the-artemis-2-moonshot-since-this-is-such-a-historic-milestone-launch-its-difficult-to-predict-visitation-numbers)
 - [Best moon movies: 12 lunar adventures to watch ahead of NASA&#39;s Artemis 2 launch](https://www.space.com/entertainment/space-movies-shows/best-moon-movies)
-- [Moon menu: Here&#39;s what the Artemis 2 astronauts will eat during their historic mission &lpar;video&rpar;](https://www.space.com/space-exploration/artemis/moon-menu-heres-what-the-artemis-2-astronauts-will-eat-during-their-historic-mission-video)
-- [Apple will hide your email address from apps and websites, but not cops](https://techcrunch.com/2026/03/30/apple-will-hide-your-email-address-from-apps-and-websites-but-not-cops/)
-- [Uber is buying Berlin startup Blacklane to bolster its ‘Elite’ offering](https://techcrunch.com/2026/03/30/uber-is-buying-berlin-startup-blacklane-to-bolster-its-elite-offering/)
-- [Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem](https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
