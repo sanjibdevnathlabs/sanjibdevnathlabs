@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Popular AI gateway startup LiteLLM ditches controversial startup Delve](https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/)
 - [Record-breaking &#39;space laser&#39; erupts from merging galaxies 8 billion light-years away](https://www.space.com/astronomy/galaxies/record-breaking-space-laser-erupts-from-merging-galaxies-8-billion-light-years-away)
 - [Former Coatue partner raises huge $65M seed for enterprise AI agent startup](https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/)
 - [15% of Americans say they’d be willing to work for an AI boss](https://techcrunch.com/2026/03/30/ai-boss-supervisor-us-quinnipiac-poll/)
 - [25 years ago, &#39;Invader Zim&#39; arrived, but it was too far ahead of its time](https://www.space.com/entertainment/space-movies-shows/25-years-ago-invader-zim-arrived-but-it-was-too-far-ahead-of-its-time)
-- [As more Americans adopt AI tools, fewer say they can trust the results](https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
