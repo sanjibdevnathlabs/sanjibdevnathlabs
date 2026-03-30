@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moon menu: Here&#39;s what the Artemis 2 astronauts will eat during their historic mission &lpar;video&rpar;](https://www.space.com/space-exploration/artemis/moon-menu-heres-what-the-artemis-2-astronauts-will-eat-during-their-historic-mission-video)
+- [Apple will hide your email address from apps and websites, but not cops](https://techcrunch.com/2026/03/30/apple-will-hide-your-email-address-from-apps-and-websites-but-not-cops/)
 - [Uber is buying Berlin startup Blacklane to bolster its ‘Elite’ offering](https://techcrunch.com/2026/03/30/uber-is-buying-berlin-startup-blacklane-to-bolster-its-elite-offering/)
 - [Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem](https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/)
 - [Sun rises on Artemis 2 launch pad | Space photo of the day for March 30, 2026](https://www.space.com/space-exploration/artemis/sun-rises-on-artemis-2-launch-pad-space-photo-of-the-day-for-march-30-2026)
-- [ScaleOps raises $130M to improve computing efficiency amid AI demand](https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/)
-- [AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round](https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
