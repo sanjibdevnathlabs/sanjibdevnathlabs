@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Record-breaking &#39;space laser&#39; erupts from merging galaxies 8 billion light-years away](https://www.space.com/astronomy/galaxies/record-breaking-space-laser-erupts-from-merging-galaxies-8-billion-light-years-away)
+- [Former Coatue partner raises huge $65M seed for enterprise AI agent startup](https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/)
+- [15% of Americans say they’d be willing to work for an AI boss](https://techcrunch.com/2026/03/30/ai-boss-supervisor-us-quinnipiac-poll/)
 - [25 years ago, &#39;Invader Zim&#39; arrived, but it was too far ahead of its time](https://www.space.com/entertainment/space-movies-shows/25-years-ago-invader-zim-arrived-but-it-was-too-far-ahead-of-its-time)
 - [As more Americans adopt AI tools, fewer say they can trust the results](https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/)
-- [Interstellar comet 3I/ATLAS may be nearly 12 billion years old — so ancient its star system may no longer exist](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-may-be-nearly-12-billion-years-old-so-ancient-its-star-system-may-no-longer-exist)
-- [Darth Maul was originally going to be the villain of the &#39;Star Wars&#39; sequels; here&#39;s why that would have been a bad idea](https://www.space.com/entertainment/space-movies-shows/darth-maul-was-originally-going-to-be-the-villain-of-the-star-wars-sequels-heres-why-that-would-have-been-a-bad-idea)
-- [What we’re looking for in Startup Battlefield 2026 and how to put your best application forward](https://techcrunch.com/2026/03/30/what-were-looking-for-in-startup-battlefield-2026-and-how-to-put-your-best-application-forward/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
