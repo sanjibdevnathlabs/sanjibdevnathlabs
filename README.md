@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Starcloud raises $170 million Series Ato build data centers in space](https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/)
-- [How will Artemis 2 be different from NASA&#39;s Apollo moon missions?](https://www.space.com/space-exploration/artemis/how-will-artemis-2-be-different-from-nasas-apollo-moon-missions)
-- [Finished Starfleet Academy? Explore the animated antics of Star Trek: Lower Decks for just $2.99 a month](https://www.space.com/entertainment/space-movies-shows/finished-starfleet-academy-explore-the-animated-antics-of-star-trek-lower-decks-for-just-2-99-a-month)
-- [Why OpenAI really shut down Sora](https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/)
-- [Watch SpaceX launch 119 payloads to orbit from California early on March 30](https://www.space.com/space-exploration/launches-spacecraft/spacex-transporter-16-rideshare-mission-launch)
+- [AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round](https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/)
+- [&#39;The sasquatch is honesty&#39;: Inside Canadian astronaut Jeremy Hansen&#39;s Artemis 2 mission patch](https://www.space.com/space-exploration/artemis/the-sasquatch-is-honesty-inside-canadian-astronaut-jeremy-hansens-artemis-2-mission-patch)
+- [Mistral AI raises $830M in debt to set up a data center near Paris](https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/)
+- [Qodo raises $70M for code verification as AI coding scales](https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/)
+- [Powerful X-class solar flare triggers radio blackout ahead of Artemis 2 launch](https://www.space.com/astronomy/sun/powerful-x-class-solar-flare-triggers-radio-blackout-ahead-of-artemis-2-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
