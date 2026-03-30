@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Darth Maul was originally going to be the villain of the &#39;Star Wars&#39; sequels; here&#39;s why that would have been a bad idea](https://www.space.com/entertainment/space-movies-shows/darth-maul-was-originally-going-to-be-the-villain-of-the-star-wars-sequels-heres-why-that-would-have-been-a-bad-idea)
+- [What we’re looking for in Startup Battlefield 2026 and how to put your best application forward](https://techcrunch.com/2026/03/30/what-were-looking-for-in-startup-battlefield-2026-and-how-to-put-your-best-application-forward/)
 - [Delve whistleblower strikes again, with alleged receipts about ‘fake compliance’](https://techcrunch.com/2026/03/30/delve-whistleblower-strikes-again-with-alleged-receipts-about-fake-compliance/)
 - [Meta starts testing a premium subscription on Instagram](https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/)
 - [Bluesky’s new AI tool Attie is already the most blocked account other than J.D. Vance](https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/)
-- [Heading to Florida for NASA&#39;s Artemis 2 moon launch? Here&#39;s what to know before you go](https://www.space.com/space-exploration/artemis/how-many-people-will-flock-to-florida-for-the-artemis-2-moonshot-since-this-is-such-a-historic-milestone-launch-its-difficult-to-predict-visitation-numbers)
-- [Best moon movies: 12 lunar adventures to watch ahead of NASA&#39;s Artemis 2 launch](https://www.space.com/entertainment/space-movies-shows/best-moon-movies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
