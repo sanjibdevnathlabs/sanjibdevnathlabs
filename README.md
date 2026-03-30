@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [Anthropic just released the real Claude Bot...](https://www.youtube.com/watch?v=wfeiCZK0mNs)
-- [Haptic Rendering - Computerphile](https://www.youtube.com/watch?v=0jmJdvI6f-A)
 - [Tech bros optimized war… and it’s working](https://www.youtube.com/watch?v=nxwkn9Dt9-I)
-- [Session 4, Part 1: Presenting Your Venture](https://www.youtube.com/watch?v=-Op1GLwFuV4)
-- [Session 3, Part 1: Legal Issues](https://www.youtube.com/watch?v=OAEGRRcwt9M)
+- [This new Linux distro is breaking the law, by design…](https://www.youtube.com/watch?v=nkY_s9HpL9M)
+- [Google just changed the future of UI/UX design...](https://www.youtube.com/watch?v=qaB5HF4ax9M)
+- [How to burn $30m on a JavaScript framework...](https://www.youtube.com/watch?v=ReAnFFqvCeA)
 <!-- YOUTUBE:END -->
 
 ---
