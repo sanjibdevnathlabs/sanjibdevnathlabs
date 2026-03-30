@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How will Artemis 2 be different from NASA&#39;s Apollo moon missions?](https://www.space.com/space-exploration/artemis/how-will-artemis-2-be-different-from-nasas-apollo-moon-missions)
+- [Finished Starfleet Academy? Explore the animated antics of Star Trek: Lower Decks for just $2.99 a month](https://www.space.com/entertainment/space-movies-shows/finished-starfleet-academy-explore-the-animated-antics-of-star-trek-lower-decks-for-just-2-99-a-month)
 - [Why OpenAI really shut down Sora](https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/)
 - [Watch SpaceX launch 119 payloads to orbit from California early on March 30](https://www.space.com/space-exploration/launches-spacecraft/spacex-transporter-16-rideshare-mission-launch)
 - [The Pixel 10a doesn’t have a camera bump, and it’s great](https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/)
-- [YouTube CEO says the best YouTubers will ‘never leave their home’](https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/)
-- [&#39;We are ready&#39;: NASA still on track to launch Artemis 2 astronauts to the moon April 1](https://www.space.com/space-exploration/missions/we-are-ready-nasa-still-on-track-to-launch-artemis-2-astronauts-to-the-moon-april-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
