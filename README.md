@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [OpenClaw......RIGHT NOW??? &lpar;it&#39;s not what you think&rpar;](https://www.youtube.com/watch?v=T-HZHO_PQPY)
-- [I almost quit YouTube....](https://www.youtube.com/watch?v=dbMXi9q78Tk)
-- [YouTube BROKE but the ads kept working...](https://www.youtube.com/shorts/RHQmwsw5Aeo)
-- [the prompting trick nobody teaches you](https://www.youtube.com/shorts/X-3aaDeP9Rw)
-- [hackers now steal your data in 72 minutes](https://www.youtube.com/shorts/8DUV6axCC3M)
+- [13: Color Perception &lpar;cont&#39;d&rpar;, Motion Perception](https://www.youtube.com/watch?v=Aave3OyCGPc)
+- [17: The Generic Viewpoint Assumption; Object Recognition](https://www.youtube.com/watch?v=7cEAX5gqd7o)
+- [21: Attention &lpar;cont&#39;d&rpar;](https://www.youtube.com/watch?v=sdYDZeXzE5Q)
+- [1: Introduction to Perception](https://www.youtube.com/watch?v=IPJC8loEmd4)
+- [23: Olfaction and Gustation](https://www.youtube.com/watch?v=Mre84EsXY_Y)
 <!-- YOUTUBE:END -->
 
 ---
