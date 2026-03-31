@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise](https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/)
+- [It’s not your imagination: AI seed startups are commanding higher valuations](https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/)
+- [This star-forming galaxy is blowing out powerful winds topping 2 million mph](https://www.space.com/astronomy/galaxies/this-star-forming-galaxy-is-blowing-out-powerful-winds-topping-2-million-mph)
 - [Yes, NASA&#39;s launching Artemis 2 astronauts to the moon on April Fools&#39; Day. It&#39;s not a joke.](https://www.space.com/space-exploration/artemis/yes-nasas-launching-artemis-2-astronauts-to-the-moon-on-april-fools-day-its-not-a-joke)
-- [Yupp.ai shuts down after raising $33M from a16z crypto’s Chris Dixon](https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/)
-- [Meta was finally held accountable for harming teens. Now what?](https://techcrunch.com/2026/03/31/meta-was-finally-held-accountable-for-harming-teens-now-what/)
-- [Comet MAPS faces a make-or-break moment as it dives toward the sun on April 4 — could it shine in the daytime sky?](https://www.space.com/space-exploration/asteroid-comet-missions/comet-maps-faces-a-make-or-break-moment-as-it-dives-toward-the-sun-on-april-4-could-it-shine-in-the-daytime-sky)
-- [Go play this secret game in your TikTok DMs](https://techcrunch.com/2026/03/31/go-play-this-secret-game-in-your-tiktok-dms/)
+- [Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon](https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
