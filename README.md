@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alexa+ gets new food ordering experiences with Uber Eats and Grubhub](https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/)
-- [&#39;Forbidden Planet&#39; at 70: Why the original sci-fi blockbuster is still out of this world](https://www.space.com/entertainment/space-movies-shows/forbidden-planet-at-70-why-the-original-sci-fi-blockbuster-is-still-out-of-this-world)
-- [Whoop’s valuation just tripled to $10 billion](https://techcrunch.com/2026/03/31/whoop-valuation-10b-series-g-fundraise/)
-- [Uber increases stake in WeRide as robotaxi partnership ramps up in Dubai](https://techcrunch.com/2026/03/31/uber-increases-stake-in-weride-as-robotaxi-partnership-ramps-up-in-dubai/)
-- [North Korean hackers blamed for hijacking popular Axios open-source project to spread malware](https://techcrunch.com/2026/03/31/hacker-hijacks-axios-open-source-project-used-by-millions-to-push-malware/)
+- [Go play this secret game in your TikTok DMs](https://techcrunch.com/2026/03/31/go-play-this-secret-game-in-your-tiktok-dms/)
+- [Caller ID app Truecaller hits 500 million monthly users](https://techcrunch.com/2026/03/31/caller-id-app-truecaller-hits-500-million-monthly-users/)
+- [Social gaming platform Rec Room, once valued at $3.5B, is shutting down](https://techcrunch.com/2026/03/31/social-gaming-platform-rec-room-once-valued-at-3-5b-is-shutting-down/)
+- [How to use your Unistellar smart telescope to track the Artemis 2 rocket light curve in the name of science](https://www.space.com/stargazing/skywatching-kit/unistellar-citizen-science-artemis-2-mission)
+- [What will happen if Artemis 2 astronauts get hit by a solar storm during NASA&#39;s ambitious moon mission?](https://www.space.com/space-exploration/artemis/how-the-artemis-2-astronauts-could-weather-a-solar-storm-during-their-moon-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
