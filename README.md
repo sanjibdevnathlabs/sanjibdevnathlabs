@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With its new app store, Ring bets on AI to go beyond home security](https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/)
+- [Google is now letting users in the US change their Gmail address](https://techcrunch.com/2026/03/31/google-is-now-letting-users-in-the-us-change-their-gmail-address/)
+- [NASA&#39;s Artemis 2 pilot Victor Glover listens to &#39;Whitey on the Moon&#39; every Monday. This is why.](https://www.space.com/space-exploration/artemis-2-pilot-victor-glover-whitey-on-the-moon-)
 - [Why won&#39;t NASA&#39;s Artemis 2 astronauts land on the moon when they get there?](https://www.space.com/space-exploration/artemis/why-wont-nasas-artemis-2-astronauts-land-on-the-moon-when-they-get-there)
 - [Northern lights could be visible in 16 states tonight March 31 as a speedy CME barrels toward Earth](https://www.space.com/stargazing/auroras/northern-lights-could-be-visible-in-16-states-tonight-march-31-as-a-speedy-coronal-mass-ejection-heads-for-earth)
-- [Airbnb is introducing a private car pick-up service](https://techcrunch.com/2026/03/31/airbnb-private-car-pick-up-service-welcome-pickups/)
-- [The Silicon Valley congressional race is getting ugly](https://techcrunch.com/2026/03/31/the-silicon-valley-congressional-race-is-getting-ugly/)
-- [Allbirds is selling for $39 million. It raised nearly 10 times that amount in its IPO.](https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
