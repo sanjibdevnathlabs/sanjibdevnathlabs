@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Salesforce announces an AI-heavy makeover for Slack, with 30 new features](https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/)
 - [Robotaxi companies refuse to say how often their AVs need remote help](https://techcrunch.com/2026/03/31/robotaxi-companies-refuse-to-say-how-often-their-avs-need-remote-help/)
 - [OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise](https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/)
 - [It’s not your imagination: AI seed startups are commanding higher valuations](https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/)
 - [This star-forming galaxy is blowing out powerful winds topping 2 million mph](https://www.space.com/astronomy/galaxies/this-star-forming-galaxy-is-blowing-out-powerful-winds-topping-2-million-mph)
-- [Yes, NASA&#39;s launching Artemis 2 astronauts to the moon on April Fools&#39; Day. It&#39;s not a joke.](https://www.space.com/space-exploration/artemis/yes-nasas-launching-artemis-2-astronauts-to-the-moon-on-april-fools-day-its-not-a-joke)
 <!-- BLOG-POST-LIST:END -->
 
 ---
