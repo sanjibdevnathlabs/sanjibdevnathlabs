@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Airbnb is introducing a private car pick-up service](https://techcrunch.com/2026/03/31/airbnb-private-car-pick-up-service-welcome-pickups/)
 - [The Silicon Valley congressional race is getting ugly](https://techcrunch.com/2026/03/31/the-silicon-valley-congressional-race-is-getting-ugly/)
 - [Allbirds is selling for $39 million. It raised nearly 10 times that amount in its IPO.](https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/)
 - [15% of Americans say they’d be willing to work for an AI boss, according to new poll](https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/)
 - [Huge solar flare no threat to Artemis 2 astronaut launch to the moon, NASA says](https://www.space.com/space-exploration/artemis/huge-solar-flare-no-threat-to-artemis-2-astronaut-launch-to-the-moon-nasa-says)
-- [Popular AI gateway startup LiteLLM ditches controversial startup Delve](https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
