@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacker hijacks Axios open-source project, used by millions, to push malware](https://techcrunch.com/2026/03/31/hacker-hijacks-axios-open-source-project-used-by-millions-to-push-malware/)
-- [FedEx chooses partnerships over proprietary tech for its automation strategy](https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/)
-- [Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles](https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/)
-- [Health data giant CareCloud says hackers accessed patients’ medical records](https://techcrunch.com/2026/03/31/carecloud-breach-hackers-accessed-patients-medical-records-ehr/)
-- [Rivian spinoff Also will build autonomous delivery vehicles for DoorDash](https://techcrunch.com/2026/03/31/rivian-spinoff-also-will-build-autonomous-delivery-vehicles-for-doordash/)
+- [Alexa+ gets new food ordering experiences with Uber Eats and Grubhub](https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/)
+- [&#39;Forbidden Planet&#39; at 70: Why the original sci-fi blockbuster is still out of this world](https://www.space.com/entertainment/space-movies-shows/forbidden-planet-at-70-why-the-original-sci-fi-blockbuster-is-still-out-of-this-world)
+- [Whoop’s valuation just tripled to $10 billion](https://techcrunch.com/2026/03/31/whoop-valuation-10b-series-g-fundraise/)
+- [Uber increases stake in WeRide as robotaxi partnership ramps up in Dubai](https://techcrunch.com/2026/03/31/uber-increases-stake-in-weride-as-robotaxi-partnership-ramps-up-in-dubai/)
+- [North Korean hackers blamed for hijacking popular Axios open-source project to spread malware](https://techcrunch.com/2026/03/31/hacker-hijacks-axios-open-source-project-used-by-millions-to-push-malware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
