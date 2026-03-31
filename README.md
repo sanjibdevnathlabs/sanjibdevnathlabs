@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [With its new app store, Ring bets on AI to go beyond home security](https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/)
-- [Google is now letting users in the US change their Gmail address](https://techcrunch.com/2026/03/31/google-is-now-letting-users-in-the-us-change-their-gmail-address/)
-- [NASA&#39;s Artemis 2 pilot Victor Glover listens to &#39;Whitey on the Moon&#39; every Monday. This is why.](https://www.space.com/space-exploration/artemis-2-pilot-victor-glover-whitey-on-the-moon-)
-- [Why won&#39;t NASA&#39;s Artemis 2 astronauts land on the moon when they get there?](https://www.space.com/space-exploration/artemis/why-wont-nasas-artemis-2-astronauts-land-on-the-moon-when-they-get-there)
-- [Northern lights could be visible in 16 states tonight March 31 as a speedy CME barrels toward Earth](https://www.space.com/stargazing/auroras/northern-lights-could-be-visible-in-16-states-tonight-march-31-as-a-speedy-coronal-mass-ejection-heads-for-earth)
+- [Health data giant CareCloud says hackers accessed patients’ medical records](https://techcrunch.com/2026/03/31/carecloud-breach-hackers-accessed-patients-medical-records-ehr/)
+- [Rivian spinoff Also will build autonomous delivery vehicles for DoorDash](https://techcrunch.com/2026/03/31/rivian-spinoff-also-will-build-autonomous-delivery-vehicles-for-doordash/)
+- [Roku launches a standalone app for Howdy, its $2.99 streaming service](https://techcrunch.com/2026/03/31/roku-launches-a-standalone-app-for-howdy-its-2-99-streaming-service/)
+- [Meta launches two new Ray-Ban glasses designed for prescription wearers](https://techcrunch.com/2026/03/31/meta-launches-two-new-ray-ban-glasses-designed-for-prescription-wearers/)
+- [The company behind ClassPass and Mindbody just got a lot bigger with a $7.5B merger](https://techcrunch.com/2026/03/31/the-company-behind-classpass-and-mindbody-just-got-a-lot-bigger-with-a-7-5b-merger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
