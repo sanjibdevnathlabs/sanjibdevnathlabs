@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacker hijacks Axios open-source project, used by millions, to push malware](https://techcrunch.com/2026/03/31/hacker-hijacks-axios-open-source-project-used-by-millions-to-push-malware/)
+- [FedEx chooses partnerships over proprietary tech for its automation strategy](https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/)
+- [Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles](https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/)
 - [Health data giant CareCloud says hackers accessed patients’ medical records](https://techcrunch.com/2026/03/31/carecloud-breach-hackers-accessed-patients-medical-records-ehr/)
 - [Rivian spinoff Also will build autonomous delivery vehicles for DoorDash](https://techcrunch.com/2026/03/31/rivian-spinoff-also-will-build-autonomous-delivery-vehicles-for-doordash/)
-- [Roku launches a standalone app for Howdy, its $2.99 streaming service](https://techcrunch.com/2026/03/31/roku-launches-a-standalone-app-for-howdy-its-2-99-streaming-service/)
-- [Meta launches two new Ray-Ban glasses designed for prescription wearers](https://techcrunch.com/2026/03/31/meta-launches-two-new-ray-ban-glasses-designed-for-prescription-wearers/)
-- [The company behind ClassPass and Mindbody just got a lot bigger with a $7.5B merger](https://techcrunch.com/2026/03/31/the-company-behind-classpass-and-mindbody-just-got-a-lot-bigger-with-a-7-5b-merger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
