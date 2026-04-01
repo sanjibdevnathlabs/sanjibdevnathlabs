@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cameo partners with TikTok to boost popularity](https://techcrunch.com/2026/04/01/cameo-partners-with-tiktok-to-boost-popularity/)
+- [What do scientists hope to learn from NASA&#39;s historic Artemis 2 moon flyby?](https://www.space.com/space-exploration/missions/what-do-scientists-hope-to-learn-from-nasas-historic-artemis-2-moon-flyby)
+- [WhatsApp notifies hundreds of users who installed a fake app made by government spyware maker](https://techcrunch.com/2026/04/01/whatsapp-notifies-hundreds-of-users-who-installed-a-fake-app-that-was-actually-government-spyware/)
 - [Cognichip wants AI to design the chips that power AI, and just raised $60M to try](https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/)
 - [NASA&#39;s Artemis 2 moon launch may be visible from Florida and southern Georgia today. Here&#39;s when to look](https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-2-moon-launch-may-be-visible-from-florida-and-southern-georgia-today-heres-when-to-look)
-- [SpaceX files confidentially for IPO in mega listing potentially valued at $1.75 trillion, report says](https://techcrunch.com/2026/04/01/spacex-files-confidentially-for-ipo-in-mega-listing-potentially-valued-at-1-75-trillion-report-says/)
-- [Watch Artemis 2 fly through space in real time with this telescope livestream](https://www.space.com/space-exploration/artemis/watch-artemis-2-fly-through-space-in-real-time-with-this-telescope-livestream)
-- [Hasbro says it was hacked, and may take ‘several weeks’ to recover](https://techcrunch.com/2026/04/01/hasbro-hacked-may-take-several-weeks-to-recover/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
