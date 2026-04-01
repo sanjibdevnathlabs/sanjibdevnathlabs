@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The reputation of troubled YC startup Delve has gotten even worse](https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/)
+- [‘System failure’ paralyzes Baidu robotaxis in China](https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/)
+- [A new dating app, Sonder, has a deliberately annoying sign-up process &lpar;and it’s working&rpar;](https://techcrunch.com/2026/04/01/a-new-dating-app-sonder-has-a-deliberately-annoying-sign-up-process-and-its-working/)
 - [Startup funding shatters all records in Q1](https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/)
 - [&#39;Project Hail Mary&#39; end credits showcase stunning nebula photos captured over 400 hours by a single astrophotographer — here&#39;s the inside story](https://www.space.com/stargazing/astrophotography/project-hail-mary-end-credits-showcase-stunning-nebula-photos-captured-over-400-hours-by-a-single-astrophotographer-heres-the-inside-story)
-- [Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks](https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/)
-- [2 bright planets light up April evenings — here&#39;s where and when to look](https://www.space.com/stargazing/2-bright-planets-light-up-april-evenings-heres-where-and-when-to-look)
-- [Meta’s natural gas binge could power South Dakota](https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
