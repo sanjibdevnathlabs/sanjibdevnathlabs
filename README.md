@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [April&#39;s full &#39;Pink Moon&#39; rises tonight — just as NASA readies its Artemis 2 moon mission](https://www.space.com/stargazing/aprils-full-pink-moon-rises-tonight-just-as-nasa-readies-its-artemis-2-moon-mission-april-1-2026)
+- [Nothing’s AI devices plan reportedly contains smart glasses and earbuds](https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/)
+- [Satellite spies SpaceX Starlink before it breaks apart | Space photo of the day for April 1, 2026](https://www.space.com/space-exploration/satellites/spacex-starlink-spacecraft-breaks-apart-space-photo-of-the-day-for-april-1-2026)
+- [Saturn&#39;s magnetic field is curiously warped, and one of its moons may be to blame](https://www.space.com/astronomy/saturn/saturns-magnetic-field-is-curiously-warped-and-one-of-its-moons-may-be-to-blame)
 - [NASA set to launch Artemis 2 moon mission today, the 1st crewed lunar flight since 1972](https://www.space.com/space-exploration/artemis/nasa-set-to-launch-artemis-2-moon-mission-today-the-1st-crewed-lunar-flight-since-1972)
-- [Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/)
-- [Toyota’s Woven Capital appoints new CIO and COO in push for finding the ‘future of mobility’](https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/)
-- [Anthropic is having a month](https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/)
-- [Salesforce announces an AI-heavy makeover for Slack, with 30 new features](https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
