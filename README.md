@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hasbro says it was hacked, and may take ‘several weeks’ to recover](https://techcrunch.com/2026/04/01/hasbro-hacked-may-take-several-weeks-to-recover/)
+- [Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together](https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/)
+- [Lucid Motors recalls over 4,000 Gravity SUVs citing improperly welded seat belts](https://techcrunch.com/2026/04/01/lucid-motors-recalls-over-4000-gravity-suvs-citing-improperly-welded-seat-belts/)
 - [April&#39;s full &#39;Pink Moon&#39; rises tonight — just as NASA readies its Artemis 2 moon mission](https://www.space.com/stargazing/aprils-full-pink-moon-rises-tonight-just-as-nasa-readies-its-artemis-2-moon-mission-april-1-2026)
 - [Nothing’s AI devices plan reportedly contains smart glasses and earbuds](https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/)
-- [Satellite spies SpaceX Starlink before it breaks apart | Space photo of the day for April 1, 2026](https://www.space.com/space-exploration/satellites/spacex-starlink-spacecraft-breaks-apart-space-photo-of-the-day-for-april-1-2026)
-- [Saturn&#39;s magnetic field is curiously warped, and one of its moons may be to blame](https://www.space.com/astronomy/saturn/saturns-magnetic-field-is-curiously-warped-and-one-of-its-moons-may-be-to-blame)
-- [NASA set to launch Artemis 2 moon mission today, the 1st crewed lunar flight since 1972](https://www.space.com/space-exploration/artemis/nasa-set-to-launch-artemis-2-moon-mission-today-the-1st-crewed-lunar-flight-since-1972)
 <!-- BLOG-POST-LIST:END -->
 
 ---
