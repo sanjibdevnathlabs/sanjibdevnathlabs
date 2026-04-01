@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/)
+- [Toyota’s Woven Capital appoints new CIO and COO in push for finding the ‘future of mobility’](https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/)
+- [Anthropic is having a month](https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/)
 - [Salesforce announces an AI-heavy makeover for Slack, with 30 new features](https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/)
 - [Robotaxi companies refuse to say how often their AVs need remote help](https://techcrunch.com/2026/03/31/robotaxi-companies-refuse-to-say-how-often-their-avs-need-remote-help/)
-- [OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise](https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/)
-- [It’s not your imagination: AI seed startups are commanding higher valuations](https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/)
-- [This star-forming galaxy is blowing out powerful winds topping 2 million mph](https://www.space.com/astronomy/galaxies/this-star-forming-galaxy-is-blowing-out-powerful-winds-topping-2-million-mph)
 <!-- BLOG-POST-LIST:END -->
 
 ---
