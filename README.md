@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident](https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/)
 - [The reputation of troubled YC startup Delve has gotten even worse](https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/)
 - [‘System failure’ paralyzes Baidu robotaxis in China](https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/)
 - [A new dating app, Sonder, has a deliberately annoying sign-up process &lpar;and it’s working&rpar;](https://techcrunch.com/2026/04/01/a-new-dating-app-sonder-has-a-deliberately-annoying-sign-up-process-and-its-working/)
 - [Startup funding shatters all records in Q1](https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/)
-- [&#39;Project Hail Mary&#39; end credits showcase stunning nebula photos captured over 400 hours by a single astrophotographer — here&#39;s the inside story](https://www.space.com/stargazing/astrophotography/project-hail-mary-end-credits-showcase-stunning-nebula-photos-captured-over-400-hours-by-a-single-astrophotographer-heres-the-inside-story)
 <!-- BLOG-POST-LIST:END -->
 
 ---
