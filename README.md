@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is the Artemis 2 rocket launch different from all other rocket launches?](https://www.space.com/space-exploration/artemis/why-is-the-artemis-2-rocket-launch-different-from-all-other-rocket-launches)
 - [NASA launches 4 astronauts to the moon on historic Artemis 2 voyage, a lunar leap for the 21st century](https://www.space.com/space-exploration/artemis/nasa-launches-4-astronauts-to-the-moon-on-historic-artemis-2-voyage-a-lunar-leap-for-the-21st-century)
 - [De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack](https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/)
 - [Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident](https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/)
 - [The reputation of troubled YC startup Delve has gotten even worse](https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/)
-- [‘System failure’ paralyzes Baidu robotaxis in China](https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
