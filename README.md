@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [He just crawled through hell to fix the browser…](https://www.youtube.com/watch?v=vd14EElCRvs)
 - [Post Quantum Cryptography - Computerphile](https://www.youtube.com/watch?v=_MoRcYLN-7U)
 - [Tragic mistake... Anthropic leaks Claude’s source code](https://www.youtube.com/watch?v=mBHRPeg8zPU)
 - [Millions of JS devs just got penetrated by a RAT…](https://www.youtube.com/watch?v=o7NYXvYohYk)
 - [the WORST hack of 2026](https://www.youtube.com/watch?v=eGSsoSEppNU)
-- [13: Color Perception &lpar;cont&#39;d&rpar;, Motion Perception](https://www.youtube.com/watch?v=Aave3OyCGPc)
 <!-- YOUTUBE:END -->
 
 ---
