@@ -137,8 +137,8 @@ I'm a software developer passionate about designing and building applications wi
 - [Tragic mistake... Anthropic leaks Claude’s source code](https://www.youtube.com/watch?v=mBHRPeg8zPU)
 - [Millions of JS devs just got penetrated by a RAT…](https://www.youtube.com/watch?v=o7NYXvYohYk)
 - [the WORST hack of 2026](https://www.youtube.com/watch?v=eGSsoSEppNU)
-- [OpenClaw......RIGHT NOW??? &lpar;it&#39;s not what you think&rpar;](https://www.youtube.com/watch?v=T-HZHO_PQPY)
-- [Anthropic just released the real Claude Bot...](https://www.youtube.com/watch?v=wfeiCZK0mNs)
+- [13: Color Perception &lpar;cont&#39;d&rpar;, Motion Perception](https://www.youtube.com/watch?v=Aave3OyCGPc)
+- [17: The Generic Viewpoint Assumption; Object Recognition](https://www.youtube.com/watch?v=7cEAX5gqd7o)
 <!-- YOUTUBE:END -->
 
 ---
