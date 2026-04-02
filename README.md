@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Relive NASA&#39;s historic Artemis 2 launch to the moon in these stunning photos](https://www.space.com/space-exploration/relive-nasas-historic-artemis-2-launch-to-the-moon-in-these-stunning-photos)
-- [Exclusive: Beehiiv expands into podcasting, taking aim at Patreon](https://techcrunch.com/2026/04/02/beehiiv-expands-into-podcasts-taking-aim-at-patreon-substack-newsletters/)
-- [Cash App launches ‘pay later’ feature for P2P pay transfers](https://techcrunch.com/2026/04/02/cash-app-launches-buy-now-pay-later-feature-for-p2p-pay-transfers/)
-- [April&#39;s full Pink Moon dazzles as the first spring full moon of 2026 &lpar;photos&rpar;](https://www.space.com/stargazing/aprils-full-pink-moon-dazzles-as-the-first-spring-full-moon-of-2026-photos)
-- [NASA just launched Artemis 2. What happens today could make or break the moon mission](https://www.space.com/space-exploration/artemis/nasa-just-launched-artemis-2-what-happens-today-could-make-or-break-the-moon-mission)
+- [Tesla’s cheaper vehicles aren’t helping its declining sales](https://techcrunch.com/2026/04/02/tesla-deliveries-cheaper-vehicles-model-y-3-sales/)
+- [Commonwealth Fusion Systems leans on magnets for near-term revenue](https://techcrunch.com/2026/04/02/commonwealth-fusion-systems-leans-on-magnets-for-near-term-revenue/)
+- [NASA&#39;s Artemis 2 moon launch seen from space | Space photo of the day for April 2, 2026](https://www.space.com/space-exploration/artemis/artemis-2-launch-spotted-from-space-space-photo-of-the-day-for-april-2-2026)
+- [Diverse teams start with diverse VCs](https://techcrunch.com/2026/04/02/diverse-teams-start-with-diverse-vcs/)
+- [How to track the Artemis 2 astronauts on their journey around the moon](https://www.space.com/space-exploration/artemis/how-to-track-the-artemis-2-astronauts-on-their-journey-around-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
