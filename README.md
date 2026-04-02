@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis II is NASA’s last Moon mission without Silicon Valley](https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/)
+- [Telehealth giant Hims &amp; Hers says its customer support system was hacked](https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/)
+- [Artemis II is NASA’s last moon mission without Silicon Valley](https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/)
 - [In honor of &quot;Project Hail Mary&quot;&#39;s Rocky, we celebrate 17 sci-fi aliens who look nothing like humans](https://www.space.com/entertainment/space-movies-shows/in-honor-of-project-hail-marys-rocky-we-celebrate-17-sci-fi-aliens-who-look-nothing-like-humans)
 - [Gateway Capital announces first close of $25M Fund II](https://techcrunch.com/2026/04/02/gateway-capital-dana-guthrie-milwaukee-first-close-fund-ii/)
 - [OpenAI acquires TBPN, the buzzy founder-led business talk show](https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/)
-- [Flipboard’s new ‘social websites’ help publishers and creators tap into the open social web](https://techcrunch.com/2026/04/02/flipboard-surf-social-websites-help-publishers-and-creators-tap-into-the-open-social-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
