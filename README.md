@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ICE says it bought Paragon’s spyware to use in drug trafficking cases](https://techcrunch.com/2026/04/02/ice-says-it-bought-paragons-spyware-to-use-in-drug-trafficking-cases/)
+- [Stunning new James Webb Space Telescope images reveal &#39;hidden&#39; stars being born](https://www.space.com/astronomy/james-webb-space-telescope/stunning-new-james-webb-space-telescope-images-reveal-hidden-stars-being-born)
+- [United’s mobile app now shows TSA wait times at select airports](https://techcrunch.com/2026/04/02/uniteds-mobile-app-now-shows-tsa-wait-times-at-select-airports/)
 - [Tesla’s cheaper vehicles aren’t helping its declining sales](https://techcrunch.com/2026/04/02/tesla-deliveries-cheaper-vehicles-model-y-3-sales/)
 - [Commonwealth Fusion Systems leans on magnets for near-term revenue](https://techcrunch.com/2026/04/02/commonwealth-fusion-systems-leans-on-magnets-for-near-term-revenue/)
-- [NASA&#39;s Artemis 2 moon launch seen from space | Space photo of the day for April 2, 2026](https://www.space.com/space-exploration/artemis/artemis-2-launch-spotted-from-space-space-photo-of-the-day-for-april-2-2026)
-- [Diverse teams start with diverse VCs](https://techcrunch.com/2026/04/02/diverse-teams-start-with-diverse-vcs/)
-- [How to track the Artemis 2 astronauts on their journey around the moon](https://www.space.com/space-exploration/artemis/how-to-track-the-artemis-2-astronauts-on-their-journey-around-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
