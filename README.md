@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft takes on AI rivals with three new foundational models](https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/)
+- [Money transfer app Duc exposed thousands of driver’s licenses and passports to the open web](https://techcrunch.com/2026/04/02/canadian-money-transfer-app-duc-expose-drivers-licenses-passports-amazon-server/)
+- [Google now lets you direct avatars through prompts in its Vids app](https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/)
+- [&#39;Supergirl&#39; goes full John Wick to save her dog Krypto in new trailer](https://www.space.com/entertainment/space-movies-shows/supergirl-goes-full-john-wick-to-save-her-dog-krypto-in-new-trailer)
 - [ICE says it bought Paragon’s spyware to use in drug trafficking cases](https://techcrunch.com/2026/04/02/ice-says-it-bought-paragons-spyware-to-use-in-drug-trafficking-cases/)
-- [Stunning new James Webb Space Telescope images reveal &#39;hidden&#39; stars being born](https://www.space.com/astronomy/james-webb-space-telescope/stunning-new-james-webb-space-telescope-images-reveal-hidden-stars-being-born)
-- [United’s mobile app now shows TSA wait times at select airports](https://techcrunch.com/2026/04/02/uniteds-mobile-app-now-shows-tsa-wait-times-at-select-airports/)
-- [Tesla’s cheaper vehicles aren’t helping its declining sales](https://techcrunch.com/2026/04/02/tesla-deliveries-cheaper-vehicles-model-y-3-sales/)
-- [Commonwealth Fusion Systems leans on magnets for near-term revenue](https://techcrunch.com/2026/04/02/commonwealth-fusion-systems-leans-on-magnets-for-near-term-revenue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
