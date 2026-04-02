@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;The universe shall quake in my shadow&#39; — &#39;Masters of the Universe&#39; looks like the summer&#39;s most metal movie](https://www.space.com/entertainment/space-movies-shows/the-universe-shall-quake-in-my-shadow-masters-of-the-universe-looks-like-the-summers-most-metal-movie)
 - [Microsoft takes on AI rivals with three new foundational models](https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/)
 - [Money transfer app Duc exposed thousands of driver’s licenses and passports to the open web](https://techcrunch.com/2026/04/02/canadian-money-transfer-app-duc-expose-drivers-licenses-passports-amazon-server/)
 - [Google now lets you direct avatars through prompts in its Vids app](https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/)
 - [&#39;Supergirl&#39; goes full John Wick to save her dog Krypto in new trailer](https://www.space.com/entertainment/space-movies-shows/supergirl-goes-full-john-wick-to-save-her-dog-krypto-in-new-trailer)
-- [ICE says it bought Paragon’s spyware to use in drug trafficking cases](https://techcrunch.com/2026/04/02/ice-says-it-bought-paragons-spyware-to-use-in-drug-trafficking-cases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
