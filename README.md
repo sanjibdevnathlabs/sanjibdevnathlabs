@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI acquires TBPN, the buzzy founder-led business talk show](https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/)
+- [Flipboard’s new ‘social websites’ help publishers and creators tap into the open social web](https://techcrunch.com/2026/04/02/flipboard-surf-social-websites-help-publishers-and-creators-tap-into-the-open-social-web/)
+- [ElevenLabs releases a new AI-powered music-generation app](https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/)
 - [NASA astronauts prove that sending an email really is rocket science](https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/)
 - [Watch comet C/2026 A1 plunge toward the sun online this week](https://www.space.com/stargazing/watch-comet-c-2026-a1-plunge-toward-the-sun-online-this-week)
-- [&#39;The universe shall quake in my shadow&#39; — &#39;Masters of the Universe&#39; looks like the summer&#39;s most metal movie](https://www.space.com/entertainment/space-movies-shows/the-universe-shall-quake-in-my-shadow-masters-of-the-universe-looks-like-the-summers-most-metal-movie)
-- [Microsoft takes on AI rivals with three new foundational models](https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/)
-- [Money transfer app Duc exposed thousands of driver’s licenses and passports to the open web](https://techcrunch.com/2026/04/02/canadian-money-transfer-app-duc-expose-drivers-licenses-passports-amazon-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
