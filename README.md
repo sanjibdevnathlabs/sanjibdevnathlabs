@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA is sending astronauts back to the moon. Can you see the Artemis 4 landing sites from Earth?](https://www.space.com/stargazing/nasa-is-sending-astronauts-back-to-the-moon-can-you-see-the-artemis-4-landing-sites-from-earth)
+- [How to watch the new &#39;lost&#39; Doctor Who episodes from anywhere in the world](https://www.space.com/entertainment/space-movies-shows/how-to-watch-the-new-lost-doctor-who-episodes-from-anywhere-in-the-world)
 - [Pulsars to the extreme: Spinning dead stars found blasting radio signals from the &#39;edge of their magnetic reach&#39;](https://www.space.com/astronomy/stars/pulsars-to-the-extreme-spinning-dead-stars-found-blasting-radio-signals-from-the-edge-of-their-magnetic-reach)
 - [NASA&#39;s Artemis 2 astronauts are cruising to the moon. So why are they doing CPR tests today?](https://www.space.com/space-exploration/artemis/nasas-artemis-2-astronauts-are-cruising-to-the-moon-so-why-are-they-doing-cpr-tests-today)
 - [DJI Avata 360 drone review](https://www.space.com/technology/dji-avata-360-drone-review)
-- [Artemis 2 astronauts head for the moon after make-or-break engine burn &lpar;video&rpar;](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-head-for-moon-translunar-injection-burn)
-- [Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets](https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
