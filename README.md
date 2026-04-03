@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla’s Texas factory workforce reportedly shrunk 22% in 2025](https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/)
+- [OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’](https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/)
+- [Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports](https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/)
+- [Anthropic ramps up its political activities with a new PAC](https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/)
 - [Venus shines at its best in spring and summer 2026 — here&#39;s what to look for](https://www.space.com/stargazing/venus-shines-at-its-best-in-spring-and-summer-2026-heres-what-to-look-for)
-- [1st results from Blue Ghost lunar lander reveal how much we still don&#39;t know about the moon](https://www.space.com/space-exploration/launches-spacecraft/blue-ghost-lunar-lander-reveals-how-much-we-still-dont-know-about-the-moon)
-- [Watch Atlas V rocket launch its heaviest-ever payload early on April 4](https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-amazon-leo-5-internet-satellite-launch)
-- [Artemis 2 astronauts see Earth in the rear-view mirror | Space photo of the day for April 3, 2026](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-see-earth-in-the-rear-view-mirror-space-photo-of-the-day-for-april-3-2026)
-- [NASA is sending astronauts back to the moon. Can you see the Artemis 4 landing sites from Earth?](https://www.space.com/stargazing/nasa-is-sending-astronauts-back-to-the-moon-can-you-see-the-artemis-4-landing-sites-from-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
