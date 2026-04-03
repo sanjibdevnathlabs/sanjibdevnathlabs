@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [People would rather have an Amazon warehouse in their backyard than a data center](https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/)
 - [1st results from Blue Ghost lunar lander reveal how much we still don&#39;t know about the moon](https://www.space.com/space-exploration/launches-spacecraft/blue-ghost-lunar-lander-reveals-how-much-we-still-dont-know-about-the-moon)
 - [The final days of the Tesla Model X and S are here. All bets are on the Cybercab.](https://techcrunch.com/2026/04/03/the-final-days-of-the-tesla-model-x-and-s-are-here-all-bets-are-on-the-cybercab/)
 - [Watch Atlas V rocket launch its heaviest-ever payload early on April 4](https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-amazon-leo-5-internet-satellite-launch)
 - [Europe’s cyber agency blames hacking gangs for massive data breach and leak](https://techcrunch.com/2026/04/03/europes-cyber-agency-blames-hacking-gangs-for-massive-data-breach-and-leak/)
-- [Artemis 2 astronauts see Earth in the rear-view mirror | Space photo of the day for April 3, 2026](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-see-earth-in-the-rear-view-mirror-space-photo-of-the-day-for-april-3-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
