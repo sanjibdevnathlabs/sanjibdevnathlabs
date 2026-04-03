@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Atlas V rocket launch its heaviest-ever payload early on April 4](https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-amazon-leo-5-internet-satellite-launch)
+- [Europe’s cyber agency blames hacking gangs for massive data breach and leak](https://techcrunch.com/2026/04/03/europes-cyber-agency-blames-hacking-gangs-for-massive-data-breach-and-leak/)
 - [Artemis 2 astronauts see Earth in the rear-view mirror | Space photo of the day for April 3, 2026](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-see-earth-in-the-rear-view-mirror-space-photo-of-the-day-for-april-3-2026)
 - [The Facebook insider building content moderation for the AI era](https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/)
 - [NASA is sending astronauts back to the moon. Can you see the Artemis 4 landing sites from Earth?](https://www.space.com/stargazing/nasa-is-sending-astronauts-back-to-the-moon-can-you-see-the-artemis-4-landing-sites-from-earth)
-- [How to watch the new &#39;lost&#39; Doctor Who episodes from anywhere in the world](https://www.space.com/entertainment/space-movies-shows/how-to-watch-the-new-lost-doctor-who-episodes-from-anywhere-in-the-world)
-- [Pulsars to the extreme: Spinning dead stars found blasting radio signals from the &#39;edge of their magnetic reach&#39;](https://www.space.com/astronomy/stars/pulsars-to-the-extreme-spinning-dead-stars-found-blasting-radio-signals-from-the-edge-of-their-magnetic-reach)
 <!-- BLOG-POST-LIST:END -->
 
 ---
