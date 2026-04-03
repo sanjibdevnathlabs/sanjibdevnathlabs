@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2 astronauts head for the moon after make-or-break engine burn &lpar;video&rpar;](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-head-for-moon-translunar-injection-burn)
 - [Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets](https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/)
 - [Lucky airplane passengers capture NASA&#39;s Artemis 2 moon launch from the sky](https://www.space.com/space-exploration/missions/lucky-airplane-passengers-capture-nasas-artemis-2-moon-launch-from-the-sky)
 - [Telehealth giant Hims &amp; Hers says its customer support system was hacked](https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/)
 - [Artemis II is NASA’s last moon mission without Silicon Valley](https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/)
-- [In honor of &quot;Project Hail Mary&quot;&#39;s Rocky, we celebrate 17 sci-fi aliens who look nothing like humans](https://www.space.com/entertainment/space-movies-shows/in-honor-of-project-hail-marys-rocky-we-celebrate-17-sci-fi-aliens-who-look-nothing-like-humans)
 <!-- BLOG-POST-LIST:END -->
 
 ---
