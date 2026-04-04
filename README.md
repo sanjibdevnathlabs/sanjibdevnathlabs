@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 204 — A New NASA](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-204-a-new-nasa)
+- [&#39;Avatar: Fire and Ash&#39; is finally available to buy digitally, and we&#39;ve got an exclusive behind-the-scenes clip](https://www.space.com/entertainment/space-movies-shows/avatar-fire-and-ash-is-finally-available-to-buy-digitally-and-weve-got-an-exclusive-behind-the-scenes-clip)
 - [Disclosure day: If ET made contact, how would we handle the news?](https://www.space.com/space-exploration/search-for-life/disclosure-day-if-et-made-contact-how-would-we-handle-the-news)
 - [After fighting malware for decades, this cybersecurity veteran is now hacking drones](https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/)
 - [Defender at 45: How an icon of space gaming is in danger of being lost to history](https://www.space.com/entertainment/space-games/defender-at-45-how-an-icon-of-space-gaming-is-in-danger-of-being-lost-to-history)
-- [An Artemis 2 astronaut took a &#39;bath&#39; on camera on the way to the moon. Mission Control&#39;s reaction was priceless &lpar;video&rpar;](https://www.space.com/space-exploration/artemis/an-artemis-2-astronaut-took-a-bath-on-camera-on-the-way-to-the-moon-mission-controls-reaction-was-priceless-video)
-- [Artemis 2 astronauts are now headed to the moon. Why has it taken humanity so long to go back?](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-are-now-headed-for-the-moon-why-has-it-taken-humanity-so-long-to-go-back)
 <!-- BLOG-POST-LIST:END -->
 
 ---
