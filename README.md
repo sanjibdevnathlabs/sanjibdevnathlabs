@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2 astronauts — now halfway to the moon — report &#39;burning smell&#39; from toilet, but everything&#39;s fine](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-now-halfway-to-the-moon-report-burning-smell-from-toilet-but-everythings-fine)
 - [Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage](https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/)
 - [This Week In Space podcast: Episode 204 — A New NASA](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-204-a-new-nasa)
 - [&#39;Avatar: Fire and Ash&#39; is finally available to buy digitally, and we&#39;ve got an exclusive behind-the-scenes clip](https://www.space.com/entertainment/space-movies-shows/avatar-fire-and-ash-is-finally-available-to-buy-digitally-and-weve-got-an-exclusive-behind-the-scenes-clip)
 - [Disclosure day: If ET made contact, how would we handle the news?](https://www.space.com/space-exploration/search-for-life/disclosure-day-if-et-made-contact-how-would-we-handle-the-news)
-- [After fighting malware for decades, this cybersecurity veteran is now hacking drones](https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
