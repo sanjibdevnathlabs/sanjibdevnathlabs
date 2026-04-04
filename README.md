@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2 astronauts are now headed to the moon. Why has it taken humanity so long to go back?](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-are-now-headed-for-the-moon-why-has-it-taken-humanity-so-long-to-go-back)
 - [Anthropic is having a moment in the private markets; SpaceX could spoil the party](https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/)
 - [Lucid blames dip in Q1 sales on seat supplier issue](https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/)
 - [It&#39;s official: NASA&#39;s Artemis 2 moon mission will break humanity&#39;s all-time distance record](https://www.space.com/space-exploration/artemis/its-official-nasas-artemis-2-moon-mission-will-break-humanitys-all-time-distance-record)
 - [The anonymous social app that thinks it can work in Saudi Arabia](https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/)
-- [Astronauts on the ISS watched NASA&#39;s historic Artemis 2 launch from space](https://www.space.com/space-exploration/missions/astronauts-on-the-iss-watched-nasas-historic-artemis-2-launch-from-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
