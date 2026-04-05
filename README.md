@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2 astronaut Victor Glover delivers inspiring Easter message on the way to the moon &lpar;video&rpar;](https://www.space.com/space-exploration/artemis/artemis-2-astronaut-victor-glover-delivers-inspiring-easter-message-on-the-way-to-the-moon-video)
 - [Dozens of hidden star streams found in the outskirts of our Milky Way galaxy](https://www.space.com/astronomy/stars/dozens-of-hidden-star-streams-found-in-the-outskirts-of-our-milky-way-galaxy)
 - [Lego&#39;s educational space sets are a stellar way to teach kids about the basic physics of collisions and impacts](https://www.space.com/entertainment/space-toys-lego/legos-educational-space-sets-are-a-stellar-way-to-teach-kids-about-the-basic-physics-of-collisions-and-impacts)
 - [Peter Thiel’s big bet on solar-powered cow collars](https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/)
 - [Embattled startup Delve has ‘parted ways’ with Y Combinator](https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/)
-- [Artemis 2 astronauts — now halfway to the moon — report &#39;burning smell&#39; from toilet, but everything&#39;s fine](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-now-halfway-to-the-moon-report-burning-smell-from-toilet-but-everythings-fine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
