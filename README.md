@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Mobility: ‘A stunning lack of transparency’](https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/)
+- [Can orbital data centers help justify a massive valuation for SpaceX?](https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/)
 - [In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)
 - [The powerful new Rubin Observatory just found 11,000 new asteroids and measured &#39;tens of thousands more&#39;](https://www.space.com/astronomy/asteroids/the-powerful-new-rubin-observatory-just-found-11-000-new-asteroids-and-measured-tens-of-thousands-more)
 - [Artemis 2 moon astronauts will try to recreate Apollo 8&#39;s historic &#39;Earthrise&#39; photo during April 6 flyby](https://www.space.com/space-exploration/artemis/artemis-2-moon-astronauts-will-try-to-recreate-apollo-8s-historic-earthrise-photo-during-april-6-flyby)
-- [Artemis 2 astronaut Victor Glover delivers inspiring Easter message on the way to the moon &lpar;video&rpar;](https://www.space.com/space-exploration/artemis/artemis-2-astronaut-victor-glover-delivers-inspiring-easter-message-on-the-way-to-the-moon-video)
-- [Dozens of hidden star streams found in the outskirts of our Milky Way galaxy](https://www.space.com/astronomy/stars/dozens-of-hidden-star-streams-found-in-the-outskirts-of-our-milky-way-galaxy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
