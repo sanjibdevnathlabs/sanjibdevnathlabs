@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Gemma 4 on the iPhone &lpar;local AI, no internet required&rpar;](https://www.youtube.com/shorts/d0gTthacB5c)
 - [Anthropic says NO MORE OpenClaw!!](https://www.youtube.com/shorts/GE1c4Tb3Zsw)
 - [He just crawled through hell to fix the browser…](https://www.youtube.com/watch?v=vd14EElCRvs)
 - [Post Quantum Cryptography - Computerphile](https://www.youtube.com/watch?v=_MoRcYLN-7U)
 - [Tragic mistake... Anthropic leaks Claude’s source code](https://www.youtube.com/watch?v=mBHRPeg8zPU)
-- [Millions of JS devs just got penetrated by a RAT…](https://www.youtube.com/watch?v=o7NYXvYohYk)
 <!-- YOUTUBE:END -->
 
 ---
