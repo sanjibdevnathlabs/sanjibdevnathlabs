@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2 astronauts are about to see one of the rarest skywatching sights of all — a solar eclipse from beyond the moon](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-are-about-to-see-one-of-the-rarest-skywatching-sights-of-all-a-solar-eclipse-from-beyond-the-moon)
+- [Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use](https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/)
 - [As people look for ways to make new friends, here are the apps promising to help](https://techcrunch.com/2026/04/05/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/)
-- [The breakout star of NASA&#39;s Artemis 2 mission to the moon isn&#39;t an astronaut — it&#39;s the space toilet](https://www.space.com/space-exploration/artemis/the-breakout-star-of-nasas-artemis-2-mission-to-the-moon-isnt-an-astronaut-its-the-space-toilet)
+- [The breakout star of NASA&#39;s Artemis 2 moon mission isn&#39;t an astronaut — it&#39;s the space toilet](https://www.space.com/space-exploration/artemis/the-breakout-star-of-nasas-artemis-2-mission-to-the-moon-isnt-an-astronaut-its-the-space-toilet)
 - [TechCrunch Mobility: ‘A stunning lack of transparency’](https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/)
-- [Can orbital data centers help justify a massive valuation for SpaceX?](https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/)
-- [In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
