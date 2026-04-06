@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Netflix launches a standalone app for kids’ games](https://techcrunch.com/2026/04/06/netflix-launches-a-standalone-app-for-kids-games/)
+- [Google quietly launched an AI dictation app that works offline](https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/)
+- [Netflix is expanding into kids’ games with a new standalone app](https://techcrunch.com/2026/04/06/netflix-launches-a-standalone-app-for-kids-games/)
 - [Why safety regulators closed their investigation into Tesla’s remote parking feature](https://techcrunch.com/2026/04/06/tesla-actually-smart-summon-nhtsa-investigation-smart-parking/)
 - [Iran threatens ‘Stargate’ AI data centers](https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/)
 - [Artemis 2 breaks humanity&#39;s all-time distance record during historic loop around the moon &lpar;video&rpar;](https://www.space.com/space-exploration/artemis/artemis-2-breaks-humanitys-all-time-distance-record-during-historic-loop-around-the-moon)
-- [Apple plans Supreme Court appeal in Epic Games App Store battle — again](https://techcrunch.com/2026/04/06/apple-epic-games-lawsuit-supreme-court-appeal-app-store-commission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
