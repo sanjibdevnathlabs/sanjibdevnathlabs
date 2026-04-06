@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA Artemis 2 astronauts to make historic moon flyby today. Here&#39;s what to expect hour by hour &lpar;timeline&rpar;](https://www.space.com/space-exploration/artemis/nasa-artemis-2-astronauts-to-make-historic-moon-flyby-today-heres-what-to-expect-hour-by-hour-timeline)
 - [The Xiaomi 17 Ultra has some impressive add-ons that make snapping photos really fun](https://techcrunch.com/2026/04/06/xiaomi-17-ultra-review-camera-leica-specs-photography-kit-pro/)
 - [Humanity is back at the moon! Artemis 2 astronauts arrive in lunar space](https://www.space.com/space-exploration/artemis/humanity-is-back-at-the-moon-artemis-2-astronauts-arrive-in-lunar-space)
 - [When the moon hits your eye from your Orion ship up high, that&#39;s a &#39;mare&#39; for Artemis 2](https://www.space.com/space-exploration/artemis/when-the-moon-hits-your-eye-from-your-orion-ship-up-high-thats-a-mare)
 - [Polymarket took down wagers tied to rescue of downed Air Force officer](https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/)
-- [Artemis 2 astronauts are about to see one of the rarest skywatching sights of all — a solar eclipse from beyond the moon](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-are-about-to-see-one-of-the-rarest-skywatching-sights-of-all-a-solar-eclipse-from-beyond-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
