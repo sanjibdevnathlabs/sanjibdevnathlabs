@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week](https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/)
 - [Deja vu: Trump proposes cutting NASA science funding by 47% again](https://www.space.com/astronomy/deja-vu-trump-proposes-cutting-nasa-science-funding-by-47-percent-again)
-- [Startup Battlefield 200 applications open: A chance for VC access, TechCrunch coverage, and $100K](https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/)
+- [Startup Battlefield 200 applications open: a chance for VC access, TechCrunch coverage, and $100K](https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/)
 - [How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others](https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/)
 - [Ticket savings of up to $500 this week for TechCrunch Disrupt 2026](https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026/)
-- [Convicted spyware maker Bryan Fleming avoids jail at sentencing](https://techcrunch.com/2026/04/06/convicted-spyware-maker-bryan-fleming-avoids-jail-at-sentencing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
