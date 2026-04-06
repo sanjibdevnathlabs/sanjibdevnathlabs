@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deja vu: Trump proposes cutting NASA science funding by 47% again](https://www.space.com/astronomy/deja-vu-trump-proposes-cutting-nasa-science-funding-by-47-percent-again)
+- [Startup Battlefield 200 applications open: A chance for VC access, TechCrunch coverage, and $100K](https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/)
+- [How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others](https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/)
 - [Ticket savings of up to $500 this week for TechCrunch Disrupt 2026](https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026/)
 - [Convicted spyware maker Bryan Fleming avoids jail at sentencing](https://techcrunch.com/2026/04/06/convicted-spyware-maker-bryan-fleming-avoids-jail-at-sentencing/)
-- [Spain’s Xoople raises $130 million Series B to map the Earth for AI](https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/)
-- [Astronaut Victor Glover is the latest in a long line of Black American explorers − including York, the enslaved man who played a key role in the Lewis and Clark expedition](https://www.space.com/space-exploration/human-spaceflight/astronaut-victor-glover-is-the-latest-in-a-long-line-of-black-american-explorers-including-york-the-enslaved-man-who-played-a-key-role-in-the-lewis-and-clark-expedition)
-- [NASA Artemis 2 astronauts to make historic moon flyby today. Here&#39;s what to expect hour by hour &lpar;timeline&rpar;](https://www.space.com/space-exploration/artemis/nasa-artemis-2-astronauts-to-make-historic-moon-flyby-today-heres-what-to-expect-hour-by-hour-timeline)
 <!-- BLOG-POST-LIST:END -->
 
 ---
