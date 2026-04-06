@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week](https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/)
-- [Deja vu: Trump proposes cutting NASA science funding by 47% again](https://www.space.com/astronomy/deja-vu-trump-proposes-cutting-nasa-science-funding-by-47-percent-again)
-- [Startup Battlefield 200 applications open: a chance for VC access, TechCrunch coverage, and $100K](https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/)
-- [How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others](https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/)
-- [Ticket savings of up to $500 this week for TechCrunch Disrupt 2026](https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026/)
+- [Apple plans Supreme Court appeal in Epic Games App Store battle — again](https://techcrunch.com/2026/04/06/apple-epic-games-lawsuit-supreme-court-appeal-app-store-commission/)
+- [Watch this video of how a job interviewer exposes a North Korean fake IT worker](https://techcrunch.com/2026/04/06/watch-this-video-of-how-a-job-interviewer-exposes-a-north-korean-fake-it-worker/)
+- [&#39;Star Wars: Maul – Shadow Lord&#39; is Lucasfilm&#39;s darkest and most focused animated show yet &lpar;review&rpar;](https://www.space.com/entertainment/space-movies-shows/star-wars-maul-shadow-lord-is-lucasfilms-darkest-and-most-focused-animated-show-yet-review)
+- [The moon up close: How the Artemis 2 astronauts are photographing their historic lunar flyby](https://www.space.com/space-exploration/artemis/the-moon-up-close-how-the-artemis-2-astronauts-are-photographing-their-historic-lunar-flyby)
+- [North Korea’s hijack of one of the web’s most used open source projects was likely weeks in the making](https://techcrunch.com/2026/04/06/north-koreas-hijack-of-one-of-the-webs-most-used-open-source-projects-was-likely-weeks-in-the-making/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
