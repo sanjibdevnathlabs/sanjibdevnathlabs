@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ticket savings of up to $500 this week for TechCrunch Disrupt 2026](https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026/)
+- [Convicted spyware maker Bryan Fleming avoids jail at sentencing](https://techcrunch.com/2026/04/06/convicted-spyware-maker-bryan-fleming-avoids-jail-at-sentencing/)
+- [Spain’s Xoople raises $130 million Series B to map the Earth for AI](https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/)
+- [Astronaut Victor Glover is the latest in a long line of Black American explorers − including York, the enslaved man who played a key role in the Lewis and Clark expedition](https://www.space.com/space-exploration/human-spaceflight/astronaut-victor-glover-is-the-latest-in-a-long-line-of-black-american-explorers-including-york-the-enslaved-man-who-played-a-key-role-in-the-lewis-and-clark-expedition)
 - [NASA Artemis 2 astronauts to make historic moon flyby today. Here&#39;s what to expect hour by hour &lpar;timeline&rpar;](https://www.space.com/space-exploration/artemis/nasa-artemis-2-astronauts-to-make-historic-moon-flyby-today-heres-what-to-expect-hour-by-hour-timeline)
-- [The Xiaomi 17 Ultra has some impressive add-ons that make snapping photos really fun](https://techcrunch.com/2026/04/06/xiaomi-17-ultra-review-camera-leica-specs-photography-kit-pro/)
-- [Humanity is back at the moon! Artemis 2 astronauts arrive in lunar space](https://www.space.com/space-exploration/artemis/humanity-is-back-at-the-moon-artemis-2-astronauts-arrive-in-lunar-space)
-- [When the moon hits your eye from your Orion ship up high, that&#39;s a &#39;mare&#39; for Artemis 2](https://www.space.com/space-exploration/artemis/when-the-moon-hits-your-eye-from-your-orion-ship-up-high-thats-a-mare)
-- [Polymarket took down wagers tied to rescue of downed Air Force officer](https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
