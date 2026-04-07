@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [STOP Learning Kubernetes &lpar;Do This First&rpar;](https://www.youtube.com/shorts/keZN3i23qXs)
+- [Milla Jovovich made an AI memory tool…..it’s pretty good](https://www.youtube.com/shorts/kerRwLePW7I)
 - [Cursor ditches VS Code, but not everyone is happy...](https://www.youtube.com/watch?v=JSuS-zXMVwE)
 - [Gemma 4 on the iPhone &lpar;local AI, no internet required&rpar;](https://www.youtube.com/shorts/d0gTthacB5c)
 - [Anthropic says NO MORE OpenClaw!!](https://www.youtube.com/shorts/GE1c4Tb3Zsw)
-- [He just crawled through hell to fix the browser…](https://www.youtube.com/watch?v=vd14EElCRvs)
-- [Post Quantum Cryptography - Computerphile](https://www.youtube.com/watch?v=_MoRcYLN-7U)
 <!-- YOUTUBE:END -->
 
 ---
