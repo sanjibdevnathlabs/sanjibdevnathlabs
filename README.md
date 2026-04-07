@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s foldable iPhone is on track to launch in September, report says](https://techcrunch.com/2026/04/07/apples-foldable-iphone-is-on-track-to-launch-in-september-report-says/)
-- [Russian government hackers broke into thousands of home routers to steal passwords](https://techcrunch.com/2026/04/07/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords/)
-- [Chrome is finally getting vertical tabs](https://techcrunch.com/2026/04/07/chrome-is-finally-getting-vertical-tabs/)
-- [A satellite just captured images of a tsunami being born. Here&#39;s why that&#39;s a big deal](https://www.space.com/space-exploration/satellites/a-satellite-just-captured-images-of-a-tsunami-being-born-heres-why-thats-a-big-deal)
-- [Binge is a movie tracking app that warns you of jump scares in real time](https://techcrunch.com/2026/04/07/binge-is-a-movie-tracking-app-that-warns-you-of-jump-scares-in-real-time/)
+- [Firmus, the ‘Southgate’ AI datacenter builder backed by Nvidia, hits $5.5B valuation](https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/)
+- [Intel signs on to Elon Musk’s Terafab chips project](https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/)
+- [Relive Artemis 2&#39;s epic moon flyby with these amazing photos](https://www.space.com/space-exploration/artemis/relive-artemis-2s-epic-moon-flyby-with-these-amazing-photos)
+- [Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative](https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/)
+- [&#39;Maul – Shadow Lord&#39; stars Sam Witwer and Gideon Adlon talk Maul&#39;s surprising honesty, becoming a Jedi, and George Lucas&#39; original vision for the character](https://www.space.com/entertainment/space-movies-shows/maul-shadow-lord-stars-sam-witwer-and-gideon-adlon-talk-mauls-surprising-honesty-becoming-a-jedi-and-george-lucas-original-vision-for-the-character)
 <!-- BLOG-POST-LIST:END -->
 
 ---
