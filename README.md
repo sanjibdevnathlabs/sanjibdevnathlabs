@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost](https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/)
 - [AI design platform Picsart launches a creator monetization program](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/)
 - [Artemis 2 astronauts fly around the moon in record-breaking lunar loop by NASA](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-head-toward-earth-record-breaking-moon-flyby)
 - [OpenAI alums have been quietly investing from a new, potentially $100M fund](https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/)
 - [Moon music: Here&#39;s a Spotify playlist of the Artemis 2 crew&#39;s wakeup songs](https://www.space.com/space-exploration/artemis/moon-music-heres-a-spotify-playlist-of-the-artemis-2-crews-wakeup-songs)
-- [Gas prices aren’t the only factor fueling used EV sales](https://techcrunch.com/2026/04/06/gas-prices-arent-the-only-factor-fueling-used-ev-sales/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
