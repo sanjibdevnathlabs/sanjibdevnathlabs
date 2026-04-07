@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Uber is the latest to be won over by Amazon’s AI chips](https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/)
-- [Artemis 2 captures historic &#39;Earthset&#39; photo | Space photo of the day for April 7, 2026](https://www.space.com/space-exploration/human-spaceflight/artemis-2-captures-historic-earthset-photo-space-photo-of-the-day-for-april-7-2026)
-- [Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand](https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/)
-- [Watch Comet MAPS get destroyed by cataclysmic fragmentation near the sun](https://www.space.com/astronomy/comets/watch-comet-maps-destroyed-in-cataclysmic-fragmentation-near-the-sun)
-- [Google Maps can now write captions for your photos using AI](https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/)
+- [Apple’s foldable iPhone is on track to launch in September, report says](https://techcrunch.com/2026/04/07/apples-foldable-iphone-is-on-track-to-launch-in-september-report-says/)
+- [Russian government hackers broke into thousands of home routers to steal passwords](https://techcrunch.com/2026/04/07/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords/)
+- [Chrome is finally getting vertical tabs](https://techcrunch.com/2026/04/07/chrome-is-finally-getting-vertical-tabs/)
+- [A satellite just captured images of a tsunami being born. Here&#39;s why that&#39;s a big deal](https://www.space.com/space-exploration/satellites/a-satellite-just-captured-images-of-a-tsunami-being-born-heres-why-thats-a-big-deal)
+- [Binge is a movie tracking app that warns you of jump scares in real time](https://techcrunch.com/2026/04/07/binge-is-a-movie-tracking-app-that-warns-you-of-jump-scares-in-real-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
