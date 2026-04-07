@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A teenage Minecraft YouTuber raised $1,234,567 for a meme prediction market called Giggles. It broke me.](https://techcrunch.com/2026/04/07/a-teenage-minecraft-youtuber-raised-1234567-for-a-meme-prediction-market-called-giggles-it-broke-me/)
-- [4 days left to save close to $500 on TechCrunch Disrupt 2026 passes](https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/)
-- [&#39;Unreal&#39; solar eclipse: Artemis 2 crew just saw one of the rarest sights in spaceflight history](https://www.space.com/space-exploration/artemis/unreal-solar-eclipse-artemis-2-crew-just-saw-one-of-the-rarest-sights-in-spaceflight-history)
-- [Trump administration plans to cut cybersecurity agency’s budget by $700 million](https://techcrunch.com/2026/04/07/cisa-budget-cuts-700-million-cybersecurity-agency-trump/)
-- [Why a former AirPods engineer is now building heat pumps](https://techcrunch.com/2026/04/07/why-a-former-airpods-engineer-is-now-building-heat-pumps/)
+- [Uber is the latest to be won over by Amazon’s AI chips](https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/)
+- [Artemis 2 captures historic &#39;Earthset&#39; photo | Space photo of the day for April 7, 2026](https://www.space.com/space-exploration/human-spaceflight/artemis-2-captures-historic-earthset-photo-space-photo-of-the-day-for-april-7-2026)
+- [Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand](https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/)
+- [Watch Comet MAPS get destroyed by cataclysmic fragmentation near the sun](https://www.space.com/astronomy/comets/watch-comet-maps-destroyed-in-cataclysmic-fragmentation-near-the-sun)
+- [Google Maps can now write captions for your photos using AI](https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
