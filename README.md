@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A teenage Minecraft YouTuber raised $1,234,567 for a meme prediction market called Giggles. It broke me.](https://techcrunch.com/2026/04/07/a-teenage-minecraft-youtuber-raised-1234567-for-a-meme-prediction-market-called-giggles-it-broke-me/)
+- [4 days left to save close to $500 on TechCrunch Disrupt 2026 passes](https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/)
+- [&#39;Unreal&#39; solar eclipse: Artemis 2 crew just saw one of the rarest sights in spaceflight history](https://www.space.com/space-exploration/artemis/unreal-solar-eclipse-artemis-2-crew-just-saw-one-of-the-rarest-sights-in-spaceflight-history)
+- [Trump administration plans to cut cybersecurity agency’s budget by $700 million](https://techcrunch.com/2026/04/07/cisa-budget-cuts-700-million-cybersecurity-agency-trump/)
 - [Why a former AirPods engineer is now building heat pumps](https://techcrunch.com/2026/04/07/why-a-former-airpods-engineer-is-now-building-heat-pumps/)
-- [The AI gold rush is pulling private wealth into riskier, earlier bets](https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/)
-- [Adobe launches Acrobat Spaces, a free AI-powered study tool for students](https://techcrunch.com/2026/04/07/adobe-launches-acrobat-spaces-a-free-ai-powered-study-tool-for-students/)
-- [Waymo opens robotaxi service in Nashville, partners with Lyft](https://techcrunch.com/2026/04/07/waymo-opens-robotaxi-service-in-nashville-partners-with-lyft/)
-- [Hermeus raises $350M to build autonomous hypersonic fighters](https://techcrunch.com/2026/04/07/hermeus-raises-350m-to-build-autonomous-hypersonic-fighters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
