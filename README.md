@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moon milestones: A rundown of Artemis 2&#39;s many spaceflight firsts](https://www.space.com/space-exploration/artemis/moon-milestones-a-rundown-of-artemis-2s-many-spaceflight-firsts)
 - [&#39;This is really big stuff.&#39; Trump hails NASA Artemis 2 astronauts after historic moon flyby feat](https://www.space.com/space-exploration/artemis/this-is-really-big-stuff-trump-hails-nasa-artemis-2-astronauts-after-historic-moon-flyby-feat)
 - [AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost](https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/)
 - [AI design platform Picsart launches a creator monetization program](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/)
 - [Artemis 2 astronauts fly around the moon in record-breaking lunar loop by NASA](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-head-toward-earth-record-breaking-moon-flyby)
-- [OpenAI alums have been quietly investing from a new, potentially $100M fund](https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
