@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Project Hail Mary&#39; sound designers used surprising animal sounds to create Rocky&#39;s musical alien voice &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/project-hail-mary-sound-designers-used-surprising-animal-sounds-to-create-rockys-musical-alien-voice-interview)
+- [Iranian hackers are targeting American critical infrastructure, US agencies warn](https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/)
 - [Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation](https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/)
 - [Intel signs on to Elon Musk’s Terafab chips project](https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/)
 - [Relive Artemis 2&#39;s epic moon flyby with these amazing photos](https://www.space.com/space-exploration/artemis/relive-artemis-2s-epic-moon-flyby-with-these-amazing-photos)
-- [Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative](https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/)
-- [&#39;Maul – Shadow Lord&#39; stars Sam Witwer and Gideon Adlon talk Maul&#39;s surprising honesty, becoming a Jedi, and George Lucas&#39; original vision for the character](https://www.space.com/entertainment/space-movies-shows/maul-shadow-lord-stars-sam-witwer-and-gideon-adlon-talk-mauls-surprising-honesty-becoming-a-jedi-and-george-lucas-original-vision-for-the-character)
 <!-- BLOG-POST-LIST:END -->
 
 ---
