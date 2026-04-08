@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Google just casually disrupted the open-source AI narrative…](https://www.youtube.com/watch?v=-01ZCTt-CJw)
 - [Lecture 21: Early Modern? The Ming in the 16th Century](https://www.youtube.com/watch?v=mzqKSewPmCM)
 - [Lecture 1: Introduction to China&#39;s History](https://www.youtube.com/watch?v=3dT8Wm5oI_o)
 - [Lecture 3: The Western Zhou](https://www.youtube.com/watch?v=QkHh6Y2vrHg)
 - [Lecture 23: The Qing through Qianlong](https://www.youtube.com/watch?v=0pu1DjsDsLU)
-- [STOP Learning Kubernetes &lpar;Do This First&rpar;](https://www.youtube.com/shorts/keZN3i23qXs)
 <!-- YOUTUBE:END -->
 
 ---
