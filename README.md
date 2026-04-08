@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’](https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/)
-- [As YouTube grows on TV, it eyes more interactive video across formats](https://techcrunch.com/2026/04/08/as-youtube-grows-on-tv-it-eyes-more-interactive-video-across-formats/)
-- [Final 3 days to save up to $500 on your TechCrunch Disrupt 2026 pass](https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/)
-- [Artemis 2 astronauts spy the Milky Way | Space photo of the day for April 8, 2026](https://www.space.com/stargazing/astrophotography/artemis-2-astronauts-spy-the-milky-way-space-photo-of-the-day-for-april-8-2026)
-- [Atlassian launches visual AI tools and third-party agents in Confluence](https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/)
+- [These are the countries moving to ban social media for children](https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/)
+- [British cryptographer Adam Back denies NYT report that he is Bitcoin creator Satoshi Nakamoto](https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/)
+- [Astropad’s Workbench reimagines remote desktop for AI agents, not IT support](https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/)
+- [&#39;Audible screams of delight&#39; from NASA scientists over micrometeorite impacts on the moon witnessed by Artemis 2 astronauts](https://www.space.com/space-exploration/artemis/audible-screams-of-delight-from-nasa-scientists-over-micrometeorite-impacts-on-the-moon-witnessed-by-artemis-2-astronauts)
+- [Hackers steal and leak sensitive LAPD police documents](https://techcrunch.com/2026/04/08/hackers-steal-and-leak-sensitive-lapd-police-documents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
