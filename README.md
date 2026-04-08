@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A self-driving car in Austin killed a mother duck, sparking neighborhood outrage](https://techcrunch.com/2026/04/08/a-self-driving-car-in-austin-killed-a-mother-duck-sparking-neighborhood-outrage/)
+- [A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage](https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/)
+- [Poke makes AI agents as easy as sending a text](https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/)
+- [Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions](https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/)
 - [AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict](https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/)
 - [Amazon to end support for older Kindle devices](https://techcrunch.com/2026/04/08/amazon-to-end-support-for-older-kindle-devices-2012/)
-- [Large Hadron Collider gives scientists their best look yet at conditions right after the Big Bang](https://www.space.com/science/particle-physics/large-hadron-collider-gives-scientists-their-best-look-yet-at-conditions-right-after-the-big-bang)
-- [Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI](https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
