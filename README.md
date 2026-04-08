@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Large Hadron Collider gives scientists their best look yet at conditions right after the Big Bang](https://www.space.com/science/particle-physics/large-hadron-collider-gives-scientists-their-best-look-yet-at-conditions-right-after-the-big-bang)
+- [Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI](https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/)
+- [Hack-for-hire group caught targeting Android devices and iCloud backups](https://techcrunch.com/2026/04/08/hack-for-hire-group-caught-targeting-android-devices-and-icloud-backups/)
+- [Tubi is the first streamer to launch a native app within ChatGPT](https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/)
 - [&#39;The Expanse: Osiris Reborn&#39; has lots of &#39;Mass Effect&#39; DNA, but its developers are teasing a far more grounded sci-fi RPG](https://www.space.com/entertainment/space-games/the-expanse-osiris-reborn-has-lots-of-mass-effect-dna-but-its-developers-are-teasing-a-far-more-grounded-sci-fi-rpg)
-- [Volkswagen begins testing its self-driving microbuses in Los Angeles ahead of launch with Uber](https://techcrunch.com/2026/04/08/volkswagen-moia-uber-los-angeles-testing-self-driving-microbuses-id-buzz/)
-- [These are the countries moving to ban social media for children](https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/)
-- [British cryptographer Adam Back denies NYT report that he is Bitcoin creator Satoshi Nakamoto](https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/)
-- [Astropad’s Workbench reimagines remote desktop for AI agents, not IT support](https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
