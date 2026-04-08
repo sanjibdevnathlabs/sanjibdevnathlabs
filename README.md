@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Lecture 21: Early Modern? The Ming in the 16th Century](https://www.youtube.com/watch?v=mzqKSewPmCM)
-- [Lecture 1: Introduction to China&#39;s History](https://www.youtube.com/watch?v=3dT8Wm5oI_o)
-- [Lecture 3: The Western Zhou](https://www.youtube.com/watch?v=QkHh6Y2vrHg)
-- [Lecture 23: The Qing through Qianlong](https://www.youtube.com/watch?v=0pu1DjsDsLU)
-- [STOP Learning Kubernetes &lpar;Do This First&rpar;](https://www.youtube.com/shorts/keZN3i23qXs)
+- [Milla Jovovich made an AI memory tool…..it’s pretty good](https://www.youtube.com/shorts/kerRwLePW7I)
+- [Cursor ditches VS Code, but not everyone is happy...](https://www.youtube.com/watch?v=JSuS-zXMVwE)
+- [Gemma 4 on the iPhone &lpar;local AI, no internet required&rpar;](https://www.youtube.com/shorts/d0gTthacB5c)
+- [Anthropic says NO MORE OpenClaw!!](https://www.youtube.com/shorts/GE1c4Tb3Zsw)
+- [He just crawled through hell to fix the browser…](https://www.youtube.com/watch?v=vd14EElCRvs)
 <!-- YOUTUBE:END -->
 
 ---
