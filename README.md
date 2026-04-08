@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Atlassian launches visual AI tools and third-party agents in Confluence](https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/)
+- [Artemis 2 moon astronauts capture space history — on their iPhones](https://www.space.com/space-exploration/artemis/artemis-2-moon-astronauts-capture-space-history-on-their-iphones)
+- [X is rolling out automatic translation and photo editing powered by Grok](https://techcrunch.com/2026/04/08/x-is-rolling-out-automatic-translation-and-photo-editing-powered-by-grok/)
+- [Galaxy starves its supermassive black hole, loses 95% of its brightness](https://www.space.com/astronomy/black-holes/galaxy-starves-its-supermassive-black-hole-loses-95-percent-of-its-brightness)
 - [How nuclear batteries could speed the race to fusion power](https://techcrunch.com/2026/04/08/how-nuclear-batteries-could-speed-the-race-to-fusion-power/)
-- [&#39;It just made it even more special&#39;: Being so far from Earth makes you appreciate our planet even more, Artemis 2 astronaut says](https://www.space.com/space-exploration/artemis/it-just-made-it-even-more-special-being-so-far-from-earth-makes-you-appreciate-our-planet-even-more-artemis-2-astronaut-says)
-- [Google quietly launched an AI dictation app that works offline](https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/)
-- [The Artemis 2 space toilet is actually working fine. But there is another problem](https://www.space.com/space-exploration/artemis/the-artemis-2-space-toilet-is-actually-working-fine-but-there-is-another-problem)
-- [I can’t help rooting for tiny open source AI model maker Arcee](https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
