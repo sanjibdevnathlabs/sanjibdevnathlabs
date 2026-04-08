@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A self-driving car in Austin killed a mother duck, sparking neighborhood outrage](https://techcrunch.com/2026/04/08/a-self-driving-car-in-austin-killed-a-mother-duck-sparking-neighborhood-outrage/)
+- [AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict](https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/)
+- [Amazon to end support for older Kindle devices](https://techcrunch.com/2026/04/08/amazon-to-end-support-for-older-kindle-devices-2012/)
 - [Large Hadron Collider gives scientists their best look yet at conditions right after the Big Bang](https://www.space.com/science/particle-physics/large-hadron-collider-gives-scientists-their-best-look-yet-at-conditions-right-after-the-big-bang)
 - [Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI](https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/)
-- [Hack-for-hire group caught targeting Android devices and iCloud backups](https://techcrunch.com/2026/04/08/hack-for-hire-group-caught-targeting-android-devices-and-icloud-backups/)
-- [Tubi is the first streamer to launch a native app within ChatGPT](https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/)
-- [&#39;The Expanse: Osiris Reborn&#39; has lots of &#39;Mass Effect&#39; DNA, but its developers are teasing a far more grounded sci-fi RPG](https://www.space.com/entertainment/space-games/the-expanse-osiris-reborn-has-lots-of-mass-effect-dna-but-its-developers-are-teasing-a-far-more-grounded-sci-fi-rpg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
