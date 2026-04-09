@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This founder helped build SpaceX’s most powerful rocket engine. Now he’s building a ‘fighter jet for orbit’](https://techcrunch.com/2026/04/09/portal-raises-50-million-to-build-a-new-kind-of-high-power-rocket-engine/)
-- [Collide Capital raises $95M fund to back fintech, future-of-work startups](https://techcrunch.com/2026/04/09/collide-capital-raises-95m-fund-to-back-fintech-future-of-work-startups/)
-- [Radify’s sci-fi plasma reactors could break China’s dominance of rare earth elements](https://techcrunch.com/2026/04/09/radifys-sci-fi-plasma-reactors-could-break-chinas-dominance-of-rare-earth-elements/)
-- [Waymo robotaxis are tracking potholes and sharing that data with Waze users](https://techcrunch.com/2026/04/09/waymo-robotaxis-are-tracking-potholes-and-sharing-that-data-with-waze-users/)
-- [&#39;We all pretty much broke down right there&#39;: Inside the Artemis 2 astronauts&#39; emotional moment near the moon](https://www.space.com/space-exploration/artemis/we-all-pretty-much-broke-down-right-there-inside-the-artemis-2-astronauts-emotional-moment-near-the-moon)
+- [Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter](https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/)
+- [Artemis 2 astronaut poses for epic selfie | Space photo of the day for April 9, 2026](https://www.space.com/space-exploration/human-spaceflight/artemis-2-astronaut-poses-for-epic-selfie-space-photo-of-the-day-for-april-9-2026)
+- [Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket](https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/)
+- [Spotify now lets everyone turn off videos in its app](https://techcrunch.com/2026/04/09/spotify-now-lets-everyone-turn-off-all-videos-in-its-app/)
+- [Instagram expands its movie inspired content restrictions for teens internationally](https://techcrunch.com/2026/04/09/instagram-expands-its-movie-inspired-content-restriction-for-teens-internationally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
