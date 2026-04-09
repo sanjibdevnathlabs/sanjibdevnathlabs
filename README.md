@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You can now edit your Instagram comments](https://techcrunch.com/2026/04/09/you-can-now-edit-your-instagram-comments/)
+- [&#39;It probably will start a precedent&#39;: Why satellite company&#39;s withholding of Iran imagery has this expert worried](https://www.space.com/space-exploration/satellites/it-probably-will-start-a-precedent-why-satellite-companys-withholding-of-iran-imagery-has-this-expert-worried)
+- [Sierra’s Bret Taylor says the era of clicking buttons is over](https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/)
+- [A house-size asteroid is heading toward Earth tonight: Here&#39;s what you need to know](https://www.space.com/astronomy/asteroids/a-house-size-asteroid-is-heading-toward-earth-tonight-heres-what-you-need-to-know)
 - [Watch Artemis 2 race back to Earth in this telescope livestream tonight](https://www.space.com/space-exploration/artemis/watch-artemis-2-race-back-to-earth-in-this-telescope-livestream-tonight)
-- [1 week until the Lyrid meteor shower lights up April skies: Here&#39;s what you need to know](https://www.space.com/stargazing/meteor-showers/1-week-until-the-lyrid-meteor-shower-lights-up-april-skies-heres-what-you-need-to-know)
-- [Avec’s Tinder-styled email app allows you to swipe through your inbox](https://techcrunch.com/2026/04/09/avecs-tinder-styled-email-app-allows-you-to-swipe-through-your-inbox/)
-- [X brings back Voice Notes to X Chat](https://techcrunch.com/2026/04/09/x-brings-back-voice-notes-to-x-chat/)
-- [Hacker stole £700,000 from U.K. energy company by redirecting payment](https://techcrunch.com/2026/04/09/hacker-stole-700000-from-u-k-energy-company-by-redirecting-payment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
