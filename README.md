@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis 2 mission sends &#39;Kerbal Space Program&#39; player numbers soaring to the Mun](https://www.space.com/entertainment/space-games/artemis-2-mission-sends-kerbal-space-program-player-numbers-soaring)
-- [All eyes on Orion’s heat shield: Artemis 2 astronauts will hit Earth&#39;s atmosphere at nearly 24,000 mph on April 10](https://www.space.com/space-exploration/artemis/all-eyes-on-orions-heat-shield-artemis-2-astronauts-will-hit-earths-atmosphere-at-a-record-breaking-25-000-mph-on-april-10)
-- [May full moon 2026: When, where and how to see the Flower Moon](https://www.space.com/stargazing/may-full-moon-2026-when-where-and-how-to-see-the-flower-moon)
-- [WireGuard VPN developer can’t ship software updates after Microsoft locks account](https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/)
-- [A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage](https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/)
+- [This founder helped build SpaceX’s most powerful rocket engine. Now he’s building a ‘fighter jet for orbit’](https://techcrunch.com/2026/04/09/portal-raises-50-million-to-build-a-new-kind-of-high-power-rocket-engine/)
+- [Collide Capital raises $95M fund to back fintech, future-of-work startups](https://techcrunch.com/2026/04/09/collide-capital-raises-95m-fund-to-back-fintech-future-of-work-startups/)
+- [Radify’s sci-fi plasma reactors could break China’s dominance of rare earth elements](https://techcrunch.com/2026/04/09/radifys-sci-fi-plasma-reactors-could-break-chinas-dominance-of-rare-earth-elements/)
+- [Waymo robotaxis are tracking potholes and sharing that data with Waze users](https://techcrunch.com/2026/04/09/waymo-robotaxis-are-tracking-potholes-and-sharing-that-data-with-waze-users/)
+- [&#39;We all pretty much broke down right there&#39;: Inside the Artemis 2 astronauts&#39; emotional moment near the moon](https://www.space.com/space-exploration/artemis/we-all-pretty-much-broke-down-right-there-inside-the-artemis-2-astronauts-emotional-moment-near-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
