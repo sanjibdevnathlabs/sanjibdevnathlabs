@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [You can now edit your Instagram comments](https://techcrunch.com/2026/04/09/you-can-now-edit-your-instagram-comments/)
-- [&#39;It probably will start a precedent&#39;: Why satellite company&#39;s withholding of Iran imagery has this expert worried](https://www.space.com/space-exploration/satellites/it-probably-will-start-a-precedent-why-satellite-companys-withholding-of-iran-imagery-has-this-expert-worried)
-- [Sierra’s Bret Taylor says the era of clicking buttons is over](https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/)
-- [A house-size asteroid is heading toward Earth tonight: Here&#39;s what you need to know](https://www.space.com/astronomy/asteroids/a-house-size-asteroid-is-heading-toward-earth-tonight-heres-what-you-need-to-know)
-- [Watch Artemis 2 race back to Earth in this telescope livestream tonight](https://www.space.com/space-exploration/artemis/watch-artemis-2-race-back-to-earth-in-this-telescope-livestream-tonight)
+- [After data breach, $10B valued startup Mercor is having a month](https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/)
+- [Meta AI app climbs to No. 5 on the App Store after Muse Spark launch](https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/)
+- [Crew of tiny worms readies for April 11 launch to International Space Station](https://www.space.com/space-exploration/launches-spacecraft/crew-of-tiny-worms-readies-for-april-10-launch-to-international-space-station)
+- [Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?](https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/)
+- [Google and Intel deepen AI infrastructure partnership](https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
