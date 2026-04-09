@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [From Bold Idea to Global Legacy: 25 Years of MIT OpenCourseWare  Live Webcast](https://www.youtube.com/watch?v=BwTAavpUeW0)
-- [From Bold Idea to Global Legacy: 25 Years of MIT OpenCourseWare  Live Webcast](https://www.youtube.com/watch?v=eeklnz2czj0)
-- [Google just casually disrupted the open-source AI narrative…](https://www.youtube.com/watch?v=-01ZCTt-CJw)
-- [Lecture 21: Early Modern? The Ming in the 16th Century](https://www.youtube.com/watch?v=mzqKSewPmCM)
-- [Lecture 1: Introduction to China&#39;s History](https://www.youtube.com/watch?v=3dT8Wm5oI_o)
+- [Milla Jovovich made an AI memory tool…..it’s pretty good](https://www.youtube.com/shorts/kerRwLePW7I)
+- [Gemma 4 on the iPhone &lpar;local AI, no internet required&rpar;](https://www.youtube.com/shorts/d0gTthacB5c)
+- [Anthropic says NO MORE OpenClaw!!](https://www.youtube.com/shorts/GE1c4Tb3Zsw)
+- [the WORST hack of 2026](https://www.youtube.com/watch?v=eGSsoSEppNU)
+- [OpenClaw......RIGHT NOW??? &lpar;it&#39;s not what you think&rpar;](https://www.youtube.com/watch?v=T-HZHO_PQPY)
 <!-- YOUTUBE:END -->
 
 ---
