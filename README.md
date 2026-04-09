@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [May full moon 2026: When, where and how to see the Flower Moon](https://www.space.com/stargazing/may-full-moon-2026-when-where-and-how-to-see-the-flower-moon)
 - [WireGuard VPN developer can’t ship software updates after Microsoft locks account](https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/)
 - [A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage](https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/)
 - [Poke makes using AI agents as easy as sending a text](https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/)
 - [Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions](https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/)
-- [AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict](https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
