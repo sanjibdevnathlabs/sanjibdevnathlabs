@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter](https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/)
-- [Artemis 2 astronaut poses for epic selfie | Space photo of the day for April 9, 2026](https://www.space.com/space-exploration/human-spaceflight/artemis-2-astronaut-poses-for-epic-selfie-space-photo-of-the-day-for-april-9-2026)
-- [Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket](https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/)
-- [Spotify now lets everyone turn off videos in its app](https://techcrunch.com/2026/04/09/spotify-now-lets-everyone-turn-off-all-videos-in-its-app/)
-- [Instagram expands its movie inspired content restrictions for teens internationally](https://techcrunch.com/2026/04/09/instagram-expands-its-movie-inspired-content-restriction-for-teens-internationally/)
+- [Watch Artemis 2 race back to Earth in this telescope livestream tonight](https://www.space.com/space-exploration/artemis/watch-artemis-2-race-back-to-earth-in-this-telescope-livestream-tonight)
+- [1 week until the Lyrid meteor shower lights up April skies: Here&#39;s what you need to know](https://www.space.com/stargazing/meteor-showers/1-week-until-the-lyrid-meteor-shower-lights-up-april-skies-heres-what-you-need-to-know)
+- [Avec’s Tinder-styled email app allows you to swipe through your inbox](https://techcrunch.com/2026/04/09/avecs-tinder-styled-email-app-allows-you-to-swipe-through-your-inbox/)
+- [X brings back Voice Notes to X Chat](https://techcrunch.com/2026/04/09/x-brings-back-voice-notes-to-x-chat/)
+- [Hacker stole £700,000 from U.K. energy company by redirecting payment](https://techcrunch.com/2026/04/09/hacker-stole-700000-from-u-k-energy-company-by-redirecting-payment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
