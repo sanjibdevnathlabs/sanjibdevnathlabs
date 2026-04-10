@@ -138,7 +138,7 @@ I'm a software developer passionate about designing and building applications wi
 - [i didn&#39;t want to like this....](https://www.youtube.com/watch?v=G3jvn7n-68Y)
 - [From Bold Idea to Global Legacy: 25 Years of MIT OpenCourseWare  Live Webcast](https://www.youtube.com/watch?v=BwTAavpUeW0)
 - [From Bold Idea to Global Legacy: 25 Years of MIT OpenCourseWare  Live Webcast](https://www.youtube.com/watch?v=eeklnz2czj0)
-- [Lecture 21: Early Modern? The Ming in the 16th Century](https://www.youtube.com/watch?v=mzqKSewPmCM)
+- [Google just casually disrupted the open-source AI narrative…](https://www.youtube.com/watch?v=-01ZCTt-CJw)
 <!-- YOUTUBE:END -->
 
 ---
