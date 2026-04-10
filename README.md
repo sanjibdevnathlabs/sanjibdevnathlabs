@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to watch NASA’s Artemis II splash back down to Earth](https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/)
 - [Anthropic temporarily banned OpenClaw’s creator from accessing Claude](https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/)
 - [Battery recycler Ascend Elements files for bankruptcy](https://techcrunch.com/2026/04/10/battery-recycler-ascend-elements-files-for-bankruptcy/)
 - [NEAF 2026 returns to New York this weekend with all-star astronaut lineup and &#39;world&#39;s largest&#39; space expo](https://www.space.com/astronomy/neaf-2026-returns-to-new-york-this-weekend-with-all-star-astronaut-lineup-and-worlds-largest-space-expo)
 - [The Artemis 2 astronauts saw a rare solar eclipse from beyond the moon. Here&#39;s what it looked like](https://www.space.com/space-exploration/artemis/the-artemis-2-astronauts-saw-a-rare-solar-eclipse-from-beyond-the-moon-heres-what-it-looked-like)
-- [Why I&#39;m hunting for Comet Pan-STARRS right now — before it&#39;s too late](https://www.space.com/astronomy/comets/why-im-hunting-for-comet-pan-starrs-right-now-before-its-too-late)
 <!-- BLOG-POST-LIST:END -->
 
 ---
