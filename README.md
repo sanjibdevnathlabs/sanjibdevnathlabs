@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings](https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/)
+- [TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it](https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/)
 - [&#39;They’re not shipping cows up to Mars&#39;: &#39;For All Mankind&#39; creators talk scientific accuracy and colonial inspirations behind season 5 &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/theyre-not-shipping-cows-up-to-mars-for-all-mankind-creators-talk-scientific-accuracy-and-colonial-inspirations-behind-season-5-interview)
 - [NASA took this camera gear to space aboard Artemis 2, and you can own it, too!](https://www.space.com/stargazing/skywatching-kit/nasa-took-this-camera-gear-to-space-aboard-artemis-2-and-you-can-own-it-too)
 - [France to ditch Windows for Linux to reduce reliance on US tech](https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/)
-- [YouTube Premium and YouTube Music are getting more expensive](https://techcrunch.com/2026/04/10/youtube-premium-youtube-music-subscription-price-increase/)
-- [Artemis 2 spies a crescent Earth above the moon&#39;s horizon | Space photo of the day for April 10, 2026](https://www.space.com/space-exploration/human-spaceflight/artemis-2-spies-a-crescent-earth-above-the-moons-horizon-space-photo-of-the-day-for-april-10-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
