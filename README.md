@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Snap gets closer to releasing new AI glasses after years-long hiatus](https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/)
-- [Watch NASA&#39;s Artemis 2 astronauts return to Earth live online today &lpar;April 10&rpar;](https://www.space.com/space-exploration/artemis/watch-nasa-artemis-2-astronauts-return-to-earth-live-online-today-april-10)
-- [Where will NASA&#39;s Artemis 2 moon mission land today?](https://www.space.com/space-exploration/artemis/nasas-artemis-2-moon-mission-is-coming-home-today-where-will-it-land)
-- [What time is NASA&#39;s Artemis 2 moon mission landing today? Full schedule](https://www.space.com/space-exploration/artemis/nasa-artemis-2-moon-mission-landing-what-time)
-- [Artemis 2 moon astronauts splash down today — What to expect at each stage of reentry &amp; landing &lpar;timeline&rpar;](https://www.space.com/space-exploration/artemis/artemis-2-moon-astronauts-splashdown-what-to-expect-reentry-landing-timeline)
+- [Artemis 2 spies a crescent Earth above the moon&#39;s horizon | Space photo of the day for April 10, 2026](https://www.space.com/space-exploration/human-spaceflight/artemis-2-spies-a-crescent-earth-above-the-moons-horizon-space-photo-of-the-day-for-april-10-2026)
+- [Every fusion startup that has raised over $100M](https://techcrunch.com/2026/04/10/every-fusion-startup-that-has-raised-over-100m/)
+- [Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass](https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/)
+- [PSA: If you use the Meta AI app, your friends will find out and it will be embarrassing](https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/)
+- [Ripples in spacetime may have revealed 1st evidence of tiny black holes born in the Big Bang](https://www.space.com/astronomy/black-holes/ripples-in-spacetime-may-have-revealed-1st-evidence-of-tiny-black-holes-born-in-the-big-bang)
 <!-- BLOG-POST-LIST:END -->
 
 ---
