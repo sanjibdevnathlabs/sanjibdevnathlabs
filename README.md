@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch NASA&#39;s Artemis 2 astronauts return to Earth live online today &lpar;April 10&rpar;](https://www.space.com/space-exploration/artemis/watch-nasa-artemis-2-astronauts-return-to-earth-live-online-today-april-10)
+- [Where will NASA&#39;s Artemis 2 moon mission land today?](https://www.space.com/space-exploration/artemis/nasas-artemis-2-moon-mission-is-coming-home-today-where-will-it-land)
+- [What time is NASA&#39;s Artemis 2 moon mission landing today? Full schedule](https://www.space.com/space-exploration/artemis/nasa-artemis-2-moon-mission-landing-what-time)
 - [Artemis 2 moon astronauts splash down today — What to expect at each stage of reentry &amp; landing &lpar;timeline&rpar;](https://www.space.com/space-exploration/artemis/artemis-2-moon-astronauts-splashdown-what-to-expect-reentry-landing-timeline)
 - [Florida AG to probe OpenAI, alleging possible connection to FSU shooting](https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/)
-- [ChatGPT finally offers $100/month Pro plan](https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/)
-- [EFF is the latest organization to leave X](https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/)
-- [What founders can learn from Anjuna’s layoffs and recovery](https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
