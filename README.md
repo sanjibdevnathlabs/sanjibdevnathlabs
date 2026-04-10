@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;They’re not shipping cows up to Mars&#39;: &#39;For All Mankind&#39; creators talk scientific accuracy and colonial inspirations behind season 5 &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/theyre-not-shipping-cows-up-to-mars-for-all-mankind-creators-talk-scientific-accuracy-and-colonial-inspirations-behind-season-5-interview)
+- [NASA took this camera gear to space aboard Artemis 2, and you can own it, too!](https://www.space.com/stargazing/skywatching-kit/nasa-took-this-camera-gear-to-space-aboard-artemis-2-and-you-can-own-it-too)
+- [France to ditch Windows for Linux to reduce reliance on US tech](https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/)
+- [YouTube Premium and YouTube Music are getting more expensive](https://techcrunch.com/2026/04/10/youtube-premium-youtube-music-subscription-price-increase/)
 - [Artemis 2 spies a crescent Earth above the moon&#39;s horizon | Space photo of the day for April 10, 2026](https://www.space.com/space-exploration/human-spaceflight/artemis-2-spies-a-crescent-earth-above-the-moons-horizon-space-photo-of-the-day-for-april-10-2026)
-- [Every fusion startup that has raised over $100M](https://techcrunch.com/2026/04/10/every-fusion-startup-that-has-raised-over-100m/)
-- [Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass](https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/)
-- [PSA: If you use the Meta AI app, your friends will find out and it will be embarrassing](https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/)
-- [Ripples in spacetime may have revealed 1st evidence of tiny black holes born in the Big Bang](https://www.space.com/astronomy/black-holes/ripples-in-spacetime-may-have-revealed-1st-evidence-of-tiny-black-holes-born-in-the-big-bang)
 <!-- BLOG-POST-LIST:END -->
 
 ---
