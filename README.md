@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kalshi wins temporary pause in Arizona criminal case](https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/)
+- [AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok](https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/)
 - [Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home](https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/)
 - [Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips](https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/)
 - [This Week In Space podcast: Episode 205 — All About Artemis](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-205-all-about-artemis)
-- [SpaceX launches huge &#39;Cygnus XL&#39; cargo ship carrying over 5 tons of supplies to ISS astronauts &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/northrop-grumman-second-cygnus-xl-cargo-launch-spacex-iss)
-- [Artemis 3 and beyond: What&#39;s next for NASA after Artemis 2 moon success](https://www.space.com/space-exploration/artemis/artemis-3-and-beyond-whats-next-for-nasa-after-artemis-2-moon-success)
 <!-- BLOG-POST-LIST:END -->
 
 ---
