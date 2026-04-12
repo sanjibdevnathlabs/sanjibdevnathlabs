@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump officials may be encouraging banks to test Anthropic’s Mythos model](https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/)
 - [Apple reportedly testing four designs for upcoming smart glasses](https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/)
 - [X says it’s reducing payments to clickbait accounts](https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/)
 - [TechCrunch Mobility: Who is poaching all the self-driving vehicle talent?](https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/)
 - [From LLMs to hallucinations, here’s a simple guide to common AI terms](https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
-- [At the HumanX conference, everyone was talking about Claude](https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
