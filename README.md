@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From LLMs to hallucinations, here’s a simple guide to common AI terms](https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
+- [At the HumanX conference, everyone was talking about Claude](https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/)
 - [Slate Auto: Everything you need to know about the Bezos-backed EV startup](https://techcrunch.com/2026/04/12/slate-auto-everything-you-need-to-know-about-the-bezos-backed-ev-startup/)
 - [From spa to boat party: 10 epic events for the Aug. 12, 2026, total solar eclipse in Spain and Iceland](https://www.space.com/stargazing/solar-eclipses/from-spa-to-boat-party-10-epic-events-for-the-aug-12-2026-total-solar-eclipse-in-spain-and-iceland)
 - [&#39;The most special thing that will ever happen in my life&#39;: Artemis 2 astronauts describe their epic moon mission](https://www.space.com/space-exploration/artemis/the-most-special-thing-that-will-ever-happen-in-my-life-artemis-2-astronauts-describe-their-epic-moon-mission)
-- [Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups](https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/)
-- [Kalshi wins temporary pause in Arizona criminal case](https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
