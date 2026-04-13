@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM pays $17M fine to end DOJ suit over DEI programs](https://techcrunch.com/2026/04/13/ibm-pays-17m-fine-to-end-doj-suit-over-dei-programs/)
+- [Microsoft is working on yet another OpenClaw-like agent](https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/)
+- [Stanford report highlights growing disconnect between AI insiders and everyone else](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
+- [FBI announces takedown of phishing operation that targeted thousands of victims](https://techcrunch.com/2026/04/13/fbi-announces-takedown-of-phishing-operation-that-targeted-thousands-of-victims/)
 - [Huge Northrop Grumman Cygnus XL cargo ship arrives at space station](https://www.space.com/space-exploration/international-space-station/northrop-grumman-cygnus-cargo-craft-arrives-at-space-station)
-- [Artemis 2 commander Reid Wiseman broke NASA protocol to save the mission&#39;s moon mascot: &#39;It&#39;s hard not to love this little guy. I can&#39;t let Rise out of my sight&#39;](https://www.space.com/space-exploration/artemis/artemis-2-commander-reid-wiseman-broke-nasa-protocol-to-save-the-missions-moon-mascot-its-hard-not-to-love-this-little-guy-i-cant-let-rise-out-of-my-sight)
-- [Booking.com confirms hackers accessed customers’ data](https://techcrunch.com/2026/04/13/booking-com-confirms-hackers-accessed-customers-data/)
-- [Artemis 2 astronauts celebrate successful return to Earth | Space photo of the day for April 13, 2026](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-celebrate-successful-return-to-earth-space-photo-of-the-day-for-april-13-2026)
-- [Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge](https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
