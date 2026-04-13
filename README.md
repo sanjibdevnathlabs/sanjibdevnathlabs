@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hack at Anodot leaves over a dozen breached companies facing extortion](https://techcrunch.com/2026/04/13/hack-at-anodot-leaves-over-a-dozen-breached-companies-facing-extortion/)
+- [Artemis 2: Our favorite photos from NASA&#39;s historic moon mission](https://www.space.com/space-exploration/artemis/artemis-2-our-favorite-photos-from-nasas-historic-moon-mission)
+- [Slate Auto raises $650M to fund its affordable EV truck plans](https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/)
 - [Roblox introduces ‘Kids’ and ‘Select’ accounts for age-appropriate access to games and chat](https://techcrunch.com/2026/04/13/roblox-introduces-kids-and-select-accounts-for-age-appropriate-access-to-games-and-chat/)
 - [&#39;God of Chaos&#39; asteroid Apophis will blaze across the sky on April 13, 2029 — here&#39;s why this once-in-a-lifetime event is worth traveling for](https://www.space.com/astronomy/asteroids/god-of-chaos-asteroid-apophis-will-blaze-across-the-sky-on-april-13-2029-heres-why-this-once-in-a-lifetime-event-is-worth-traveling-for)
-- [A worst-case solar storm could knock out satellites, GPS and power grids, report warns](https://www.space.com/science/a-worst-case-solar-storm-could-knock-out-satellites-gps-and-power-grids-report-warns)
-- [The largest orbital compute cluster is open for business](https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/)
-- [Trump officials may be encouraging banks to test Anthropic’s Mythos model](https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
