@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2 astronauts celebrate successful return to Earth | Space photo of the day for April 13, 2026](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-celebrate-successful-return-to-earth-space-photo-of-the-day-for-april-13-2026)
+- [Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge](https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/)
 - [Hack at Anodot leaves over a dozen breached companies facing extortion](https://techcrunch.com/2026/04/13/hack-at-anodot-leaves-over-a-dozen-breached-companies-facing-extortion/)
 - [Artemis 2: Our favorite photos from NASA&#39;s historic moon mission](https://www.space.com/space-exploration/artemis/artemis-2-our-favorite-photos-from-nasas-historic-moon-mission)
 - [Slate Auto raises $650M to fund its affordable EV truck plans](https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/)
-- [Roblox introduces ‘Kids’ and ‘Select’ accounts for age-appropriate access to games and chat](https://techcrunch.com/2026/04/13/roblox-introduces-kids-and-select-accounts-for-age-appropriate-access-to-games-and-chat/)
-- [&#39;God of Chaos&#39; asteroid Apophis will blaze across the sky on April 13, 2029 — here&#39;s why this once-in-a-lifetime event is worth traveling for](https://www.space.com/astronomy/asteroids/god-of-chaos-asteroid-apophis-will-blaze-across-the-sky-on-april-13-2029-heres-why-this-once-in-a-lifetime-event-is-worth-traveling-for)
 <!-- BLOG-POST-LIST:END -->
 
 ---
