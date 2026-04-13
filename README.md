@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber and Nuro begin testing premium robotaxi service in San Francisco](https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/)
+- [Microsoft is officially killing its Outlook Lite app next month](https://techcrunch.com/2026/04/13/microsoft-is-officially-killing-its-outlook-lite-app-next-month/)
 - [Thousands of rare concert recordings are landing on the Internet Archive — listen now](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/)
 - [NASA science faces &#39;very serious threat&#39; from new White House budget, experts say](https://www.space.com/astronomy/nasa-science-faces-very-serious-threat-from-new-white-house-budget-scientists-say)
 - [IBM pays $17M fine to end DOJ suit over DEI programs](https://techcrunch.com/2026/04/13/ibm-pays-17m-fine-to-end-doj-suit-over-dei-programs/)
-- [Microsoft is working on yet another OpenClaw-like agent](https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/)
-- [Stanford report highlights growing disconnect between AI insiders and everyone else](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
