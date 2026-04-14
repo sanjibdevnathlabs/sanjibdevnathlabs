@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How the rewards app Freecash scammed its way to the top of the app stores](https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/)
+- [Financial risk management platform Pillar raises $20M seed in round led by a16z](https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z/)
+- [In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together](https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/)
 - [Scientists use rare &#39;Einstein Cross&#39; to learn about young galaxy with surprisingly old stars](https://www.space.com/astronomy/galaxies/scientists-use-rare-einstein-cross-to-learn-about-young-galaxy-with-surprisingly-old-stars)
 - [Google brings its Gemini Personal Intelligence feature to India](https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/)
-- [Adobe fixes PDF zero-day security bug that hackers have exploited for months](https://techcrunch.com/2026/04/14/adobe-fixes-pdf-zero-day-security-bug-that-hackers-have-exploited-for-months/)
-- [Tesla adds ‘streaks,’ other stats to track how often drivers use Full Self-Driving software](https://techcrunch.com/2026/04/14/tesla-adds-streaks-and-other-stats-to-track-how-often-drivers-use-full-self-driving-software/)
-- [Instacart acquires Instaleap to expand its enterprise platform internationally](https://techcrunch.com/2026/04/14/instacart-acquires-instaleap-to-expand-its-enterprise-platform-internationally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
