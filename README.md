@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Lyrids are coming! How I watch meteor showers from the middle of a city](https://www.space.com/stargazing/meteor-showers/the-lyrids-are-coming-how-i-watch-meteor-showers-from-the-middle-of-a-city)
+- [Lucid Motors names new CEO, lands more money from Uber and Saudis](https://techcrunch.com/2026/04/14/lucid-motors-names-new-ceo-lands-more-money-from-uber-and-saudis/)
+- [Talk about long distance! Watch the farthest-ever crew call in space between Artemis 2 and the ISS](https://www.space.com/space-exploration/artemis/watch-the-farthest-ever-crew-call-in-space-between-artemis-2-and-the-iss)
 - [The moon&#39;s oldest and darkest craters could be hiding the most water ice. That&#39;s good news for future astronauts](https://www.space.com/astronomy/moon/the-moons-oldest-and-darkest-craters-could-be-hiding-the-most-water-ice-thats-good-news-for-future-astronauts)
 - [Inertia moves to commercialize one of the world’s most elaborate science experiments](https://techcrunch.com/2026/04/14/inertia-moves-to-commercialize-one-of-the-worlds-most-elaborate-science-experiments/)
-- [An Amazon warehouse worker died on the job at Oregon facility](https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/)
-- [OpenAI has bought AI personal finance startup Hiro](https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/)
-- [Sci-fi stories never really end anymore, and that&#39;s a problem](https://www.space.com/entertainment/space-movies-shows/sci-fi-stories-never-really-end-anymore-and-thats-a-problem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
