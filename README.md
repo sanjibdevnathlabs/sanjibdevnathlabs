@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Lyrids are coming! How I watch meteor showers from the middle of a city](https://www.space.com/stargazing/meteor-showers/the-lyrids-are-coming-how-i-watch-meteor-showers-from-the-middle-of-a-city)
-- [Lucid Motors names new CEO, lands more money from Uber and Saudis](https://techcrunch.com/2026/04/14/lucid-motors-names-new-ceo-lands-more-money-from-uber-and-saudis/)
-- [Talk about long distance! Watch the farthest-ever crew call in space between Artemis 2 and the ISS](https://www.space.com/space-exploration/artemis/watch-the-farthest-ever-crew-call-in-space-between-artemis-2-and-the-iss)
-- [The moon&#39;s oldest and darkest craters could be hiding the most water ice. That&#39;s good news for future astronauts](https://www.space.com/astronomy/moon/the-moons-oldest-and-darkest-craters-could-be-hiding-the-most-water-ice-thats-good-news-for-future-astronauts)
-- [Inertia moves to commercialize one of the world’s most elaborate science experiments](https://techcrunch.com/2026/04/14/inertia-moves-to-commercialize-one-of-the-worlds-most-elaborate-science-experiments/)
+- [Scientists use rare &#39;Einstein Cross&#39; to learn about young galaxy with surprisingly old stars](https://www.space.com/astronomy/galaxies/scientists-use-rare-einstein-cross-to-learn-about-young-galaxy-with-surprisingly-old-stars)
+- [Google brings its Gemini Personal Intelligence feature to India](https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/)
+- [Adobe fixes PDF zero-day security bug that hackers have exploited for months](https://techcrunch.com/2026/04/14/adobe-fixes-pdf-zero-day-security-bug-that-hackers-have-exploited-for-months/)
+- [Tesla adds ‘streaks,’ other stats to track how often drivers use Full Self-Driving software](https://techcrunch.com/2026/04/14/tesla-adds-streaks-and-other-stats-to-track-how-often-drivers-use-full-self-driving-software/)
+- [Instacart acquires Instaleap to expand its enterprise platform internationally](https://techcrunch.com/2026/04/14/instacart-acquires-instaleap-to-expand-its-enterprise-platform-internationally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
