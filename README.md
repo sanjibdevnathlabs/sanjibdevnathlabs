@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify launches the ability to purchase physical books in the US and UK](https://techcrunch.com/2026/04/15/spotify-launches-the-ability-to-purchase-physical-books-in-the-us-and-uk/)
-- [A worst-case solar storm could trigger panic buying and public unrest, report warns](https://www.space.com/science/a-worst-case-solar-storm-could-trigger-panic-buying-and-public-unrest-report-warns)
-- [SpaceX launches two Starlink satellite groups 19 hours apart](https://www.space.com/space-exploration/satellites/spacex-starlink-10-24-b1080-ccsfs-jrti-17-27-b1082-vsfb-ocisly)
-- [Anthropic’s rise is giving some OpenAI investors second thoughts](https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/)
-- [NASA&#39;s Artemis 2 moonshot was just the &#39;opening act&#39; for America&#39;s return to the moon, space agency chief says](https://www.space.com/space-exploration/artemis/nasas-artemis-2-moonshot-was-just-the-opening-act-for-americas-return-to-the-moon-space-agency-chief-says)
+- [Reid Hoffman weighs in on the ‘tokenmaxxing’ debate](https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/)
+- [Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks](https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/)
+- [This energy startup’s bet on 100-year-old grid tech is paying off](https://techcrunch.com/2026/04/15/this-energy-startups-bet-on-100-year-old-grid-tech-is-paying-off/)
+- [Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million](https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/)
+- [This startup is betting tokenmaxxing will create the next compute giant](https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
