@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Go behind the scenes of NASA&#39;s Artemis 2 moon mission with NOVA&#39;s &#39;Return to the Moon&#39; documentary tonight &lpar;interview&rpar;](https://www.space.com/entertainment/go-behind-the-scenes-of-nasas-artemis-2-moon-mission-with-novas-return-to-the-moon-documentary-wednesday-night-interview)
-- [After sale of its shoe business, Allbirds pivots to AI](https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/)
-- [Sweden blames Russian hackers for attempting ‘destructive’ cyberattack on thermal plant](https://techcrunch.com/2026/04/15/sweden-blames-russian-hackers-for-attempting-destructive-cyberattack-on-thermal-plant/)
-- [Snap is cutting 1,000 jobs, 16% of its workforce](https://techcrunch.com/2026/04/15/snap-is-cutting-1000-jobs-16-of-its-workforce/)
-- [Reid Hoffman weighs in on the ‘tokenmaxxing’ debate](https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/)
+- [A dark energy tool just created the most comprehensive 3D map of our universe ever: &#39;This is a major paradigm shift&#39;](https://www.space.com/astronomy/dark-universe/a-dark-energy-tool-just-created-the-most-comprehensive-3d-map-of-our-universe-ever-this-is-a-major-paradigm-shift)
+- [Anthropic shrugs off VC funding offers valuing it at $800B+, for now](https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/)
+- [Motorola sues social platforms and creators over posts, raising speech concerns in India](https://techcrunch.com/2026/04/15/motorola-sues-social-platforms-and-creators-over-posts-raising-speech-concerns-in-india/)
+- [Airwallex is about to take on Stripe and the rest of the payments industry — in the physical world](https://techcrunch.com/2026/04/15/airwallex-is-about-to-take-on-stripe-and-the-rest-of-the-payments-industry-in-the-physical-world/)
+- [Interstellar invader 3I/ATLAS is spraying tons of water into space every second. Jupiter-bound spacecraft JUICE discovers](https://www.space.com/astronomy/comets/interstellar-invader-3i-atlas-is-spraying-tons-of-water-into-space-every-second-jupiter-bound-spacecraft-juice-discovers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
