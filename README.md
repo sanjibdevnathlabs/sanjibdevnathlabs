@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Go behind the scenes of NASA&#39;s Artemis 2 moon mission with NOVA&#39;s &#39;Return to the Moon&#39; documentary tonight &lpar;interview&rpar;](https://www.space.com/entertainment/go-behind-the-scenes-of-nasas-artemis-2-moon-mission-with-novas-return-to-the-moon-documentary-wednesday-night-interview)
+- [After sale of its shoe business, Allbirds pivots to AI](https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/)
+- [Sweden blames Russian hackers for attempting ‘destructive’ cyberattack on thermal plant](https://techcrunch.com/2026/04/15/sweden-blames-russian-hackers-for-attempting-destructive-cyberattack-on-thermal-plant/)
+- [Snap is cutting 1,000 jobs, 16% of its workforce](https://techcrunch.com/2026/04/15/snap-is-cutting-1000-jobs-16-of-its-workforce/)
 - [Reid Hoffman weighs in on the ‘tokenmaxxing’ debate](https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/)
-- [Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks](https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/)
-- [This energy startup’s bet on 100-year-old grid tech is paying off](https://techcrunch.com/2026/04/15/this-energy-startups-bet-on-100-year-old-grid-tech-is-paying-off/)
-- [Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million](https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/)
-- [This startup is betting tokenmaxxing will create the next compute giant](https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
