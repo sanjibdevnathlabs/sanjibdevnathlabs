@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches two Starlink satellite groups 19 hours apart](https://www.space.com/space-exploration/satellites/spacex-starlink-10-24-b1080-ccsfs-jrti-17-27-b1082-vsfb-ocisly)
 - [Anthropic’s rise is giving some OpenAI investors second thoughts](https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/)
 - [NASA&#39;s Artemis 2 moonshot was just the &#39;opening act&#39; for America&#39;s return to the moon, space agency chief says](https://www.space.com/space-exploration/artemis/nasas-artemis-2-moonshot-was-just-the-opening-act-for-americas-return-to-the-moon-space-agency-chief-says)
 - [AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report](https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/)
 - [The 10 best Stargate SG-1 episodes, ranked](https://www.space.com/entertainment/space-movies-shows/the-10-best-stargate-sg-1-episodes-ranked)
-- [Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites](https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
