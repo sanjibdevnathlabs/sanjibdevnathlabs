@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Documentary: “The Courage to Be Open: MIT OpenCourseWare and the Democratization of Knowledge”](https://www.youtube.com/watch?v=RkhSkE89KJ0)
+- [Do This in Your First 30 Days as a DevOps Engineer](https://www.youtube.com/watch?v=2oBYYZ5nWK0)
+- [I built a network with gachapon machines](https://www.youtube.com/shorts/3XkBH83P93s)
+- [Claude Mythos is too dangerous for public consumption...](https://www.youtube.com/watch?v=d3Qq-rkp_to)
 - [Oversampling Data &lpar;Explained with Audio&rpar; - Computerphile](https://www.youtube.com/watch?v=x_pwyoLsvkw)
-- [Post Quantum Cryptography - Computerphile](https://www.youtube.com/watch?v=_MoRcYLN-7U)
-- [Haptic Rendering - Computerphile](https://www.youtube.com/watch?v=0jmJdvI6f-A)
-- [Temporal Networks, Where Page Rank meets Lord of the Rings - Computerphile](https://www.youtube.com/watch?v=ZP6Bh3iWklQ)
-- [Vector Search with LLMs - Computerphile](https://www.youtube.com/watch?v=YDdKiQNw80c)
 <!-- YOUTUBE:END -->
 
 ---
