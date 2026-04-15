@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A dark energy tool just created the most comprehensive 3D map of our universe ever: &#39;This is a major paradigm shift&#39;](https://www.space.com/astronomy/dark-universe/a-dark-energy-tool-just-created-the-most-comprehensive-3d-map-of-our-universe-ever-this-is-a-major-paradigm-shift)
-- [Anthropic shrugs off VC funding offers valuing it at $800B+, for now](https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/)
-- [Motorola sues social platforms and creators over posts, raising speech concerns in India](https://techcrunch.com/2026/04/15/motorola-sues-social-platforms-and-creators-over-posts-raising-speech-concerns-in-india/)
-- [Airwallex is about to take on Stripe and the rest of the payments industry — in the physical world](https://techcrunch.com/2026/04/15/airwallex-is-about-to-take-on-stripe-and-the-rest-of-the-payments-industry-in-the-physical-world/)
-- [Interstellar invader 3I/ATLAS is spraying tons of water into space every second. Jupiter-bound spacecraft JUICE discovers](https://www.space.com/astronomy/comets/interstellar-invader-3i-atlas-is-spraying-tons-of-water-into-space-every-second-jupiter-bound-spacecraft-juice-discovers)
+- [This Khosla-backed autonomous pod startup just raised $170M — now it’s aiming for more](https://techcrunch.com/2026/04/15/this-khosla-backed-autonomous-pod-startup-just-raised-170m-now-its-aiming-for-more/)
+- [Accel raises $5B to back late-stage bets](https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets/)
+- [India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space](https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/)
+- [NASA astronauts joke around with an optical illusion on the ISS | Space photo of the day for April 15, 2026](https://www.space.com/space-exploration/human-spaceflight/nasa-astronauts-joke-around-with-an-optical-illusion-on-the-iss-space-photo-of-the-day-for-april-15-2026)
+- [Fly higher and longer for less with $120 off this sub-9-ounce Potensic Atom 2 drone](https://www.space.com/stargazing/skywatching-kit/fly-higher-and-longer-for-less-with-usd120-off-this-sub-250g-potensic-atom-2-drone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
