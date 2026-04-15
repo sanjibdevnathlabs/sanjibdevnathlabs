@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do supergiant exoplanets form? James Webb Space Telescope finds a clue](https://www.space.com/astronomy/exoplanets/how-do-supergiant-exoplanets-form-james-webb-space-telescope-finds-a-clue)
 - [OpenAI updates its Agents SDK to help enterprises build safer, more capable agents](https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/)
 - [Space combat was &#39;critical to mission success&#39; in US war in Iran, Space Force chief says](https://www.space.com/space-exploration/satellites/space-combat-was-critical-to-mission-success-in-us-war-in-iran-space-force-chief-says)
 - [Hightouch reaches $100M ARR fueled by marketing tools powered by AI](https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/)
 - [LinkedIn data shows AI isn’t to blame for hiring decline… yet](https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/)
-- [Feds will require data centers to show their power bills](https://techcrunch.com/2026/04/15/feds-will-require-data-centers-to-show-their-power-bills/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
