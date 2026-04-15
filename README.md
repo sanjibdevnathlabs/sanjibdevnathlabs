@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Claude Mythos is too dangerous for public consumption...](https://www.youtube.com/watch?v=d3Qq-rkp_to)
-- [Google just casually disrupted the open-source AI narrative…](https://www.youtube.com/watch?v=-01ZCTt-CJw)
-- [Cursor ditches VS Code, but not everyone is happy...](https://www.youtube.com/watch?v=JSuS-zXMVwE)
-- [He just crawled through hell to fix the browser…](https://www.youtube.com/watch?v=vd14EElCRvs)
-- [Tragic mistake... Anthropic leaks Claude’s source code](https://www.youtube.com/watch?v=mBHRPeg8zPU)
+- [Oversampling Data &lpar;Explained with Audio&rpar; - Computerphile](https://www.youtube.com/watch?v=x_pwyoLsvkw)
+- [Post Quantum Cryptography - Computerphile](https://www.youtube.com/watch?v=_MoRcYLN-7U)
+- [Haptic Rendering - Computerphile](https://www.youtube.com/watch?v=0jmJdvI6f-A)
+- [Temporal Networks, Where Page Rank meets Lord of the Rings - Computerphile](https://www.youtube.com/watch?v=ZP6Bh3iWklQ)
+- [Vector Search with LLMs - Computerphile](https://www.youtube.com/watch?v=YDdKiQNw80c)
 <!-- YOUTUBE:END -->
 
 ---
