@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wait, could they still actually break up Live Nation?](https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/)
+- [Monarch Tractor’s collapse ends with an acquisition by Caterpillar](https://techcrunch.com/2026/04/15/monarch-tractors-collapse-ends-in-with-an-acquisition-by-caterpillar/)
+- [SpaceX fires up next-gen &#39;Version 3&#39; Starship ahead of landmark May test flight &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-next-gen-version-3-starship-ahead-of-landmark-may-test-flight-photos)
 - [How do supergiant exoplanets form? James Webb Space Telescope finds a clue](https://www.space.com/astronomy/exoplanets/how-do-supergiant-exoplanets-form-james-webb-space-telescope-finds-a-clue)
 - [OpenAI updates its Agents SDK to help enterprises build safer, more capable agents](https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/)
-- [Space combat was &#39;critical to mission success&#39; in US war in Iran, Space Force chief says](https://www.space.com/space-exploration/satellites/space-combat-was-critical-to-mission-success-in-us-war-in-iran-space-force-chief-says)
-- [Hightouch reaches $100M ARR fueled by marketing tools powered by AI](https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/)
-- [LinkedIn data shows AI isn’t to blame for hiring decline… yet](https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
