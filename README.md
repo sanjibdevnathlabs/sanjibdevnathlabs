@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This Khosla-backed autonomous pod startup just raised $170M — now it’s aiming for more](https://techcrunch.com/2026/04/15/this-khosla-backed-autonomous-pod-startup-just-raised-170m-now-its-aiming-for-more/)
-- [Accel raises $5B to back late-stage bets](https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets/)
-- [India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space](https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/)
-- [NASA astronauts joke around with an optical illusion on the ISS | Space photo of the day for April 15, 2026](https://www.space.com/space-exploration/human-spaceflight/nasa-astronauts-joke-around-with-an-optical-illusion-on-the-iss-space-photo-of-the-day-for-april-15-2026)
-- [Fly higher and longer for less with $120 off this sub-9-ounce Potensic Atom 2 drone](https://www.space.com/stargazing/skywatching-kit/fly-higher-and-longer-for-less-with-usd120-off-this-sub-250g-potensic-atom-2-drone)
+- [OpenAI updates its Agents SDK to help enterprises build safer, more capable agents](https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/)
+- [Space combat was &#39;critical to mission success&#39; in US war in Iran, Space Force chief says](https://www.space.com/space-exploration/satellites/space-combat-was-critical-to-mission-success-in-us-war-in-iran-space-force-chief-says)
+- [Hightouch reaches $100M ARR fueled by marketing tools powered by AI](https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/)
+- [LinkedIn data shows AI isn’t to blame for hiring decline… yet](https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/)
+- [Feds will require data centers to show their power bills](https://techcrunch.com/2026/04/15/feds-will-require-data-centers-to-show-their-power-bills/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
