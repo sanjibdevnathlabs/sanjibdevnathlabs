@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix co-founder and chair Reed Hastings to leave board](https://techcrunch.com/2026/04/16/netflix-co-founder-and-chair-reed-hastings-to-leave-board/)
+- [&#39;That was a wonderful toilet&#39;: Artemis 2 commander defends mission&#39;s lunar loo](https://www.space.com/space-exploration/artemis/that-was-a-wonderful-toilet-artemis-2-commander-defends-missions-lunar-loo)
+- [Upscale AI in talks to raise at $2B valuation, says report](https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/)
 - [Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught](https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/)
 - [From the Startup Battlefield stage to the International Space Station: geCKo Materials built a sticky product](https://techcrunch.com/2026/04/16/from-the-startup-battlefield-stage-to-the-international-space-station-gecko-materials-built-a-sticky-product/)
-- [Slash, a Ramp competitor founded by teenagers, raises $100M at $1.4B valuation](https://techcrunch.com/2026/04/16/slash-a-ramp-competitor-founded-by-teenagers-raises-100m-at-1-4b-valuation/)
-- [OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop](https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/)
-- [Fantasy RPG &quot;Crimson Desert&quot; lets you stab your way up to space, showcasing a remarkably detailed cosmos](https://www.space.com/entertainment/space-games/fantasy-rpg-crimson-desert-lets-you-stab-your-way-up-to-space-showcasing-a-remarkably-detailed-cosmos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
