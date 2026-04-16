@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught](https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/)
+- [From the Startup Battlefield stage to the International Space Station: geCKo Materials built a sticky product](https://techcrunch.com/2026/04/16/from-the-startup-battlefield-stage-to-the-international-space-station-gecko-materials-built-a-sticky-product/)
+- [Slash, a Ramp competitor founded by teenagers, raises $100M at $1.4B valuation](https://techcrunch.com/2026/04/16/slash-a-ramp-competitor-founded-by-teenagers-raises-100m-at-1-4b-valuation/)
+- [OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop](https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/)
 - [Fantasy RPG &quot;Crimson Desert&quot; lets you stab your way up to space, showcasing a remarkably detailed cosmos](https://www.space.com/entertainment/space-games/fantasy-rpg-crimson-desert-lets-you-stab-your-way-up-to-space-showcasing-a-remarkably-detailed-cosmos)
-- [European police email 75,000 people asking them to stop DDoS attacks](https://techcrunch.com/2026/04/16/european-police-email-75000-people-asking-them-to-stop-ddos-attacks/)
-- [Anthropic CPO leaves Figma’s board after reports he will offer a competing product](https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/)
-- [Blue Origin fires up used New Glenn rocket ahead of landmark reflight &lpar;photo&rpar;](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-fires-up-used-new-glenn-rocket-ahead-of-landmark-reflight-photo)
-- [It’s not just you — Bluesky is &lpar;sorta&rpar; down](https://techcrunch.com/2026/04/16/its-not-just-you-bluesky-is-sorta-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
