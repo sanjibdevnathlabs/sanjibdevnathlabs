@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything we like is a psyop](https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/)
-- [Google now lets you explore the web side-by-side with AI Mode](https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/)
-- [The Lyrid meteor shower 2026 has begun! Here&#39;s what to expect](https://www.space.com/stargazing/meteor-showers/the-lyrid-meteor-shower-2026-has-begun-heres-what-to-expect)
-- [Two Americans sentenced for helping North Korea steal $5 million in fake IT worker scheme](https://techcrunch.com/2026/04/16/two-americans-sentenced-for-helping-north-korea-steal-5-million-in-fake-it-worker-scheme/)
-- [InsightFinder raises $15M to help companies figure out where AI agents go wrong](https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/)
+- [Fantasy RPG &quot;Crimson Desert&quot; lets you stab your way up to space, showcasing a remarkably detailed cosmos](https://www.space.com/entertainment/space-games/fantasy-rpg-crimson-desert-lets-you-stab-your-way-up-to-space-showcasing-a-remarkably-detailed-cosmos)
+- [European police email 75,000 people asking them to stop DDoS attacks](https://techcrunch.com/2026/04/16/european-police-email-75000-people-asking-them-to-stop-ddos-attacks/)
+- [Anthropic CPO leaves Figma’s board after reports he will offer a competing product](https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/)
+- [Blue Origin fires up used New Glenn rocket ahead of landmark reflight &lpar;photo&rpar;](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-fires-up-used-new-glenn-rocket-ahead-of-landmark-reflight-photo)
+- [It’s not just you — Bluesky is &lpar;sorta&rpar; down](https://techcrunch.com/2026/04/16/its-not-just-you-bluesky-is-sorta-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
