@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Canva’s AI assistant can now call various tools to make designs for you](https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/)
-- [How to see once-in-a-lifetime Comet PanSTARRS tonight before it disappears for good](https://www.space.com/stargazing/how-to-see-once-in-a-lifetime-comet-panstarrs-tonight-before-it-disappears-for-good)
-- [Fashion retailer Express left customers’ personal data and order details exposed to the internet](https://techcrunch.com/2026/04/16/fashion-retailer-express-left-customers-personal-data-and-order-details-exposed-to-the-internet/)
-- [This simulation startup wants to be the Cursor for physical AI](https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/)
-- [Max Space unveils new expandable space habitat for the moon and beyond: &#39;We need real estate that is scalable&#39;](https://www.space.com/technology/max-space-unveils-new-expandable-space-habitat-for-the-moon-and-beyond-we-need-real-estate-that-is-scalable)
+- [Google is now targeting bad ads over bad actors](https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/)
+- [Private Japanese spacecraft will inspect 2 dead satellites in 2027](https://www.space.com/space-exploration/satellites/private-japanese-spacecraft-will-inspect-2-dead-satellites-in-2027)
+- [You’ve heard of hybrid cars. Now meet a hybrid cement plant.](https://techcrunch.com/2026/04/16/youve-heard-of-hybrid-cars-now-meet-a-hybrid-cement-plant/)
+- [Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster](https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/)
+- [3D dark energy map is mind-blowing | Space photo of the day for April 16, 2026](https://www.space.com/science/3d-dark-energy-map-is-mind-blowing-space-photo-of-the-day-for-april-16-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
