@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A new Earthrise: An Apollo historian experiences Artemis 2](https://www.space.com/space-exploration/artemis/a-new-earthrise-an-apollo-historian-experiences-artemis-2)
-- [DeepL, known for text translation, now wants to translate your voice](https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/)
-- [Amazon-backed X-energy files to raise up to $800M in IPO](https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/)
-- [Ford EV and tech chief leaving automaker](https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/)
-- [Wait, could they still actually break up Live Nation?](https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/)
+- [Canva’s AI assistant can now call various tools to make designs for you](https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/)
+- [How to see once-in-a-lifetime Comet PanSTARRS tonight before it disappears for good](https://www.space.com/stargazing/how-to-see-once-in-a-lifetime-comet-panstarrs-tonight-before-it-disappears-for-good)
+- [Fashion retailer Express left customers’ personal data and order details exposed to the internet](https://techcrunch.com/2026/04/16/fashion-retailer-express-left-customers-personal-data-and-order-details-exposed-to-the-internet/)
+- [This simulation startup wants to be the Cursor for physical AI](https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/)
+- [Max Space unveils new expandable space habitat for the moon and beyond: &#39;We need real estate that is scalable&#39;](https://www.space.com/technology/max-space-unveils-new-expandable-space-habitat-for-the-moon-and-beyond-we-need-real-estate-that-is-scalable)
 <!-- BLOG-POST-LIST:END -->
 
 ---
