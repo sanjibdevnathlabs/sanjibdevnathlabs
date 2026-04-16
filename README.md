@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google is now targeting bad ads over bad actors](https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/)
-- [Private Japanese spacecraft will inspect 2 dead satellites in 2027](https://www.space.com/space-exploration/satellites/private-japanese-spacecraft-will-inspect-2-dead-satellites-in-2027)
-- [You’ve heard of hybrid cars. Now meet a hybrid cement plant.](https://techcrunch.com/2026/04/16/youve-heard-of-hybrid-cars-now-meet-a-hybrid-cement-plant/)
-- [Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster](https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/)
-- [3D dark energy map is mind-blowing | Space photo of the day for April 16, 2026](https://www.space.com/science/3d-dark-energy-map-is-mind-blowing-space-photo-of-the-day-for-april-16-2026)
+- [Everything we like is a psyop](https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/)
+- [Google now lets you explore the web side-by-side with AI Mode](https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/)
+- [The Lyrid meteor shower 2026 has begun! Here&#39;s what to expect](https://www.space.com/stargazing/meteor-showers/the-lyrid-meteor-shower-2026-has-begun-heres-what-to-expect)
+- [Two Americans sentenced for helping North Korea steal $5 million in fake IT worker scheme](https://techcrunch.com/2026/04/16/two-americans-sentenced-for-helping-north-korea-steal-5-million-in-fake-it-worker-scheme/)
+- [InsightFinder raises $15M to help companies figure out where AI agents go wrong](https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
