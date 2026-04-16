@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Documentary: “The Courage to Be Open: MIT OpenCourseWare and the Democratization of Knowledge”](https://www.youtube.com/watch?v=RkhSkE89KJ0)
+- [I built a network with gachapon machines](https://www.youtube.com/shorts/3XkBH83P93s)
 - [Claude Mythos is too dangerous for public consumption...](https://www.youtube.com/watch?v=d3Qq-rkp_to)
 - [Oversampling Data &lpar;Explained with Audio&rpar; - Computerphile](https://www.youtube.com/watch?v=x_pwyoLsvkw)
-- [Google just casually disrupted the open-source AI narrative…](https://www.youtube.com/watch?v=-01ZCTt-CJw)
-- [Cursor ditches VS Code, but not everyone is happy...](https://www.youtube.com/watch?v=JSuS-zXMVwE)
-- [He just crawled through hell to fix the browser…](https://www.youtube.com/watch?v=vd14EElCRvs)
+- [i didn&#39;t want to like this....](https://www.youtube.com/watch?v=G3jvn7n-68Y)
 <!-- YOUTUBE:END -->
 
 ---
