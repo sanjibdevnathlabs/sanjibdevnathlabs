@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.](https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/)
 - [How the &#39;Project Hail Mary&#39; book walks the line between hard and speculative science fiction… and why the film did not](https://www.space.com/entertainment/space-movies-shows/how-the-project-hail-mary-book-walks-the-line-between-hard-and-speculative-science-fiction-and-why-the-film-did-not)
 - [New moon of April 2026 brings incredible views of the constellation Hydra, Jupiter, Venus and more this week](https://www.space.com/stargazing/new-moon-of-april-2026-brings-incredible-views-of-the-constellation-hydra-jupiter-venus-and-more-this-week)
 - [Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’](https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/)
 - [Man who hacked US Supreme Court filing system sentenced to probation](https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/)
-- [Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges](https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
