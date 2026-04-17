@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SaySo is a new short-form video app that aims to restore users’ trust in news](https://techcrunch.com/2026/04/17/sayso-is-a-new-short-form-video-app-that-aims-to-restore-users-trust-in-news/)
+- [Loop raises $95M to build supply chain AI that predicts disruptions](https://techcrunch.com/2026/04/17/loop-raises-95m-to-build-supply-chain-ai-that-predicts-disruptions/)
+- [Artemis 2&#39;s heat shield seems to have aced its trial by fire](https://www.space.com/space-exploration/artemis/artemis-2s-heat-shield-seems-to-have-aced-its-trial-by-fire)
+- [Interstellar invader comet 3I/ATLAS made a startling transformation as it passed the sun](https://www.space.com/astronomy/comets/interstellar-invader-comet-3i-atlas-made-a-startling-transformation-as-it-passed-the-sun)
 - [This giant telescope could discover habitable exoplanets and secrets of our universe — if it gets its funding](https://www.space.com/astronomy/this-giant-telescope-could-discover-habitable-exoplanets-and-secrets-of-our-universe-if-it-gets-its-funding)
-- [New leaders, new fund: Sequoia has raised $7B to expand its AI bets](https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/)
-- [Factory hits $1.5B valuation to build AI coding for enterprises](https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/)
-- [Luma launches AI-powered production studio with faith-focused Wonder Project](https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/)
-- [Landing astronauts on the moon &#39;is absolutely doable, and it&#39;s doable soon,&#39; NASA&#39;s Artemis 2 commander says](https://www.space.com/space-exploration/artemis/landing-astronauts-on-the-moon-is-absolutely-doable-and-its-doable-soon-nasas-artemis-2-commander-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
