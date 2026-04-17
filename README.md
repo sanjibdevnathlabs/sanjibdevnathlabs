@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chef Robotics escaped the robot cooking graveyard and says it’s thriving — here’s why](https://techcrunch.com/2026/04/17/chef-robotics-escaped-the-robot-cooking-graveyard-and-says-its-thriving-heres-why/)
+- [&#39;For All Mankind&#39; alternative timeline vs reality: How Apple TV&#39;s sci-fi show diverges from history](https://www.space.com/entertainment/space-movies-shows/for-all-mankind-alternative-timeline-vs-reality-how-apple-tvs-sci-fi-show-diverges-from-history)
 - [Uber will now pick up your returns from your doorstep](https://techcrunch.com/2026/04/17/uber-will-now-pick-up-your-returns-from-your-doorstep/)
 - [Anthropic launches Claude Design, a new product for creating quick visuals](https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/)
 - [With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance](https://techcrunch.com/2026/04/17/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/)
-- [Google’s AI Mode can now help you find products in stock nearby](https://techcrunch.com/2026/04/17/googles-ai-mode-can-now-help-you-find-products-in-stock-nearby/)
-- [Hubble Space Telescope spots a mesmerizing spiral galaxy | Space photo of the day for April 17, 2026](https://www.space.com/astronomy/galaxies/hubble-space-telescope-spots-a-mesmerizing-spiral-galaxy-space-photo-of-the-day-for-april-17-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
