@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SaySo is a new short-form video app that aims to restore users’ trust in news](https://techcrunch.com/2026/04/17/sayso-is-a-new-short-form-video-app-that-aims-to-restore-users-trust-in-news/)
-- [Loop raises $95M to build supply chain AI that predicts disruptions](https://techcrunch.com/2026/04/17/loop-raises-95m-to-build-supply-chain-ai-that-predicts-disruptions/)
-- [Artemis 2&#39;s heat shield seems to have aced its trial by fire](https://www.space.com/space-exploration/artemis/artemis-2s-heat-shield-seems-to-have-aced-its-trial-by-fire)
-- [Interstellar invader comet 3I/ATLAS made a startling transformation as it passed the sun](https://www.space.com/astronomy/comets/interstellar-invader-comet-3i-atlas-made-a-startling-transformation-as-it-passed-the-sun)
-- [This giant telescope could discover habitable exoplanets and secrets of our universe — if it gets its funding](https://www.space.com/astronomy/this-giant-telescope-could-discover-habitable-exoplanets-and-secrets-of-our-universe-if-it-gets-its-funding)
+- [With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance](https://techcrunch.com/2026/04/17/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/)
+- [Google’s AI Mode can now help you find products in stock nearby](https://techcrunch.com/2026/04/17/googles-ai-mode-can-now-help-you-find-products-in-stock-nearby/)
+- [Hubble Space Telescope spots a mesmerizing spiral galaxy | Space photo of the day for April 17, 2026](https://www.space.com/astronomy/galaxies/hubble-space-telescope-spots-a-mesmerizing-spiral-galaxy-space-photo-of-the-day-for-april-17-2026)
+- [Northern lights could be visible as far south as Illinois and Oregon tonight](https://www.space.com/stargazing/auroras/northern-lights-could-be-visible-as-far-south-as-illinois-and-oregon-tonight-april-17-18)
+- [Bluesky confirms DDoS attack is cause of continued app outages](https://techcrunch.com/2026/04/17/its-not-just-you-bluesky-is-sorta-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
