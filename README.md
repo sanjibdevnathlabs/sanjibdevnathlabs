@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“Tokenmaxxing” is making developers less productive than they think](https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/)
+- [&#39;Tall waves moving in slow motion&#39;: Here&#39;s how oily oceans on Saturn&#39;s giant moon Titan may behave](https://www.space.com/astronomy/saturn/tall-waves-moving-in-slow-motion-heres-how-oily-oceans-on-saturns-giant-moon-titan-may-behave)
+- [Hackers are abusing unpatched Windows security flaws to hack into organizations](https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations/)
 - [Zoom teams up with World to verify humans in meetings](https://techcrunch.com/2026/04/17/zoom-teams-up-with-world-to-verify-humans-in-meeting/)
 - [Gigs turns your concert history into a personal live music archive](https://techcrunch.com/2026/04/17/gigs-turns-your-concert-history-into-a-personal-live-music-archive/)
-- [Chef Robotics escaped the robot cooking graveyard and says it’s thriving — here’s why](https://techcrunch.com/2026/04/17/chef-robotics-escaped-the-robot-cooking-graveyard-and-says-its-thriving-heres-why/)
-- [&#39;For All Mankind&#39; alternative timeline vs reality: How Apple TV&#39;s sci-fi show diverges from history](https://www.space.com/entertainment/space-movies-shows/for-all-mankind-alternative-timeline-vs-reality-how-apple-tvs-sci-fi-show-diverges-from-history)
-- [Uber will now pick up your returns from your doorstep](https://techcrunch.com/2026/04/17/uber-will-now-pick-up-your-returns-from-your-doorstep/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
