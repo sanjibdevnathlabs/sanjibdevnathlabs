@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Millions of WordPress sites just got hacked... again](https://www.youtube.com/watch?v=piah4fV_o2Q)
 - [I built a network with gachapon machines](https://www.youtube.com/shorts/3XkBH83P93s)
-- [Claude Mythos is too dangerous for public consumption...](https://www.youtube.com/watch?v=d3Qq-rkp_to)
 - [i didn&#39;t want to like this....](https://www.youtube.com/watch?v=G3jvn7n-68Y)
-- [Google just casually disrupted the open-source AI narrative…](https://www.youtube.com/watch?v=-01ZCTt-CJw)
+- [Milla Jovovich made an AI memory tool…..it’s pretty good](https://www.youtube.com/shorts/kerRwLePW7I)
+- [Gemma 4 on the iPhone &lpar;local AI, no internet required&rpar;](https://www.youtube.com/shorts/d0gTthacB5c)
+- [Anthropic says NO MORE OpenClaw!!](https://www.youtube.com/shorts/GE1c4Tb3Zsw)
 <!-- YOUTUBE:END -->
 
 ---
