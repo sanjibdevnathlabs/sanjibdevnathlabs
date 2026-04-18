@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 206 — I Want to Believe](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-206-i-want-to-believe)
+- [The App Store is booming again, and AI may be why](https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/)
+- [Don&#39;t miss the moon, Venus and the Pleiades align after sunset on April 19](https://www.space.com/stargazing/dont-miss-the-moon-venus-and-the-pleiades-align-after-sunset-on-april-19)
 - [This life-hunting rover may be SpaceX&#39;s 1st-ever Mars launch](https://www.space.com/astronomy/mars/this-life-hunting-rover-may-be-spacexs-1st-ever-mars-launch)
 - [Watch live: Blue Origin reusing New Glenn rocket stage for 1st time on April 19 launch](https://www.space.com/space-exploration/launches-spacecraft/watch-live-blue-origin-reusing-new-glenn-rocket-stage-for-1st-time-on-april-19-launch)
-- [Once close enough for an acquisition, Stripe and Airwallex are now going after each other](https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/)
-- [Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.](https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/)
-- [How the &#39;Project Hail Mary&#39; book walks the line between hard and speculative science fiction… and why the film did not](https://www.space.com/entertainment/space-movies-shows/how-the-project-hail-mary-book-walks-the-line-between-hard-and-speculative-science-fiction-and-why-the-film-did-not)
 <!-- BLOG-POST-LIST:END -->
 
 ---
