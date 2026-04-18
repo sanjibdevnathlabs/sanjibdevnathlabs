@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to see the Lyrid meteor shower 2026: Where to look in the night sky](https://www.space.com/stargazing/meteor-showers/how-to-see-the-lyrid-meteor-shower-2026-where-to-look-in-the-night-sky)
 - [Anthropic’s relationship with the Trump administration seems to be thawing](https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/)
 - [Artemis 2 and Tiangong space station astronauts set record for farthest distance between humans](https://www.space.com/space-exploration/artemis/artemis-2-and-tiangong-space-station-astronauts-set-record-for-farthest-distance-between-humans)
 - [This Week In Space podcast: Episode 206 — I Want to Believe](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-206-i-want-to-believe)
 - [The App Store is booming again, and AI may be why](https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/)
-- [Don&#39;t miss the moon, Venus and the Pleiades align after sunset on April 19](https://www.space.com/stargazing/dont-miss-the-moon-venus-and-the-pleiades-align-after-sunset-on-april-19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
