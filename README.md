@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Synthetic universe allows you to &#39;see and hear&#39; galaxies evolving from the dawn of time &lpar;video&rpar;](https://www.space.com/astronomy/galaxies/synthetic-universe-allows-you-to-see-and-hear-galaxies-evolving-from-the-dawn-of-time-video)
 - [Tesla brings its robotaxi service to Dallas and Houston](https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/)
 - [VC Ron Conway says he has a ‘rare form of cancer’](https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/)
 - [AI chip startup Cerebras files for IPO](https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/)
 - [Pragmata&#39;s tale of AI slop, humanity, &amp; lunar conquest makes it the timeliest sci-fi game of the year](https://www.space.com/entertainment/space-games/pragmatas-tale-of-ai-slop-humanity-and-lunar-conquest-makes-it-the-timeliest-sci-fi-game-of-the-year)
-- [How to see the Lyrid meteor shower 2026: Where to look in the night sky](https://www.space.com/stargazing/meteor-showers/how-to-see-the-lyrid-meteor-shower-2026-where-to-look-in-the-night-sky)
 <!-- BLOG-POST-LIST:END -->
 
 ---
