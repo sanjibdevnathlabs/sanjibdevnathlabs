@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures](https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/)
+- [TechCrunch Mobility: Uber enters its assetmaxxing era](https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/)
+- [Watch SpaceX launch advanced GPS satellite for US Space Force early on April 20](https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-gps-iii-sv-10-satellite-us-space-force)
 - [Blue Origin just launched the giant Bluebird 7 mobile phone satellite into space — but it&#39;s in the wrong orbit](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-just-launched-the-giant-bluebird-7-mobile-phone-satellite-into-space-but-its-in-the-wrong-orbit)
 - [&#39;Sunshine&#39; was 2007&#39;s answer to &#39;Project Hail Mary&#39;, and it told a much darker tale of solar catastrophe](https://www.space.com/entertainment/space-movies-shows/sunshine-was-2007s-answer-to-project-hail-mary-and-it-told-a-much-darker-tale-of-solar-catastrophe)
-- [The Lyrid meteor shower returns with ideal viewing conditions! Here&#39;s what to look out for this week](https://www.space.com/stargazing/meteor-showers/the-lyrid-meteor-shower-returns-with-ideal-viewing-conditions-heres-what-to-look-out-for-this-week)
-- [Cracks are starting to form on fusion energy’s funding boom](https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/)
-- [Telescope livestream: Watch the moon pass in front of the Pleiades on April 19](https://www.space.com/stargazing/telescope-livestream-watch-the-moon-pass-in-front-of-the-pleiades-on-april-19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
