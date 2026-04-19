@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Lyrid meteor shower returns with ideal viewing conditions! Here&#39;s what to look out for this week](https://www.space.com/stargazing/meteor-showers/the-lyrid-meteor-shower-returns-with-ideal-viewing-conditions-heres-what-to-look-out-for-this-week)
+- [Cracks are starting to form on fusion energy’s funding boom](https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/)
 - [Telescope livestream: Watch the moon pass in front of the Pleiades on April 19](https://www.space.com/stargazing/telescope-livestream-watch-the-moon-pass-in-front-of-the-pleiades-on-april-19)
 - [Blue Origin successfully re-uses a New Glenn rocket for the first time ever](https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/)
 - [Synthetic universe allows you to &#39;see and hear&#39; galaxies evolving from the dawn of time &lpar;video&rpar;](https://www.space.com/astronomy/galaxies/synthetic-universe-allows-you-to-see-and-hear-galaxies-evolving-from-the-dawn-of-time-video)
-- [Tesla brings its robotaxi service to Dallas and Houston](https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/)
-- [VC Ron Conway says he has a ‘rare form of cancer’](https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
