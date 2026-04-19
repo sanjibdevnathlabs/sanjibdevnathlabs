@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Telescope livestream: Watch the moon pass in front of the Pleiades on April 19](https://www.space.com/stargazing/telescope-livestream-watch-the-moon-pass-in-front-of-the-pleiades-on-april-19)
+- [Blue Origin successfully re-uses a New Glenn rocket for the first time ever](https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/)
 - [Synthetic universe allows you to &#39;see and hear&#39; galaxies evolving from the dawn of time &lpar;video&rpar;](https://www.space.com/astronomy/galaxies/synthetic-universe-allows-you-to-see-and-hear-galaxies-evolving-from-the-dawn-of-time-video)
 - [Tesla brings its robotaxi service to Dallas and Houston](https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/)
 - [VC Ron Conway says he has a ‘rare form of cancer’](https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/)
-- [AI chip startup Cerebras files for IPO](https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/)
-- [Pragmata&#39;s tale of AI slop, humanity, &amp; lunar conquest makes it the timeliest sci-fi game of the year](https://www.space.com/entertainment/space-games/pragmatas-tale-of-ai-slop-humanity-and-lunar-conquest-makes-it-the-timeliest-sci-fi-game-of-the-year)
 <!-- BLOG-POST-LIST:END -->
 
 ---
