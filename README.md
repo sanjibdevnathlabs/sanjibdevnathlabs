@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;80s sci-fi cult classic &#39;The Last Starfighter&#39; finally scores a sequel, but it&#39;s a comic book! &lpar;exclusive&rpar;](https://www.space.com/entertainment/80s-sci-fi-cult-classic-the-last-starfighter-finally-scores-a-sequel-but-its-a-comic-book-exclusive)
+- [What&#39;s the best time to see Lyrid meteors in 2026?](https://www.space.com/stargazing/meteor-showers/whats-the-best-time-to-see-lyrid-meteors-in-2026)
 - [&#39;Dark subhaloes&#39; may explain why galaxies seem to form pre-determined shapes](https://www.space.com/astronomy/galaxies/dark-subhaloes-may-explain-why-galaxies-seem-to-form-pre-determined-shapes)
 - [Only 12 people on Earth saw this &#39;ring-of-fire&#39; eclipse. Here&#39;s how one improvised to capture a once-in-a-lifetime photo from Antarctica](https://www.space.com/stargazing/solar-eclipses/only-12-people-on-earth-saw-this-ring-of-fire-eclipse-heres-how-one-improvised-to-capture-a-once-in-a-lifetime-photo-from-antarctica)
 - [OpenAI’s existential questions](https://techcrunch.com/2026/04/19/openais-existential-questions/)
-- [The 12-month window](https://techcrunch.com/2026/04/19/the-12-month-window/)
-- [Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch](https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
