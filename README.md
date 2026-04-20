@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA shuts down Voyager 1 instrument to keep probe exploring interstellar space](https://www.space.com/space-exploration/nasa-shuts-down-voyager-1-instrument-to-keep-probe-exploring-interstellar-space)
+- [Tim Cook stepping down as Apple CEO, John Ternus taking over](https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/)
 - [Google Photos adds new touch-up tools for ‘quick’ fixes](https://techcrunch.com/2026/04/20/google-photos-adds-new-touch-up-tools-for-quick-fixes/)
 - [It’s not just one thing — it’s another thing](https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/)
 - [600 rocket landings! SpaceX notches another milestone during Sunday Starlink launch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-22-b1097-vsfb-ofisly-600th-falcon-landing)
-- [Scientists found a &#39;bathtub ring&#39; on Mars. Could it be evidence of an ancient Red Planet ocean?](https://www.space.com/astronomy/mars/scientists-found-a-bathtub-ring-on-mars-could-it-be-evidence-of-an-ancient-red-planet-ocean)
-- [North Korea hackers blamed for $290M crypto theft](https://techcrunch.com/2026/04/20/north-korea-hackers-blamed-for-290m-crypto-theft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
