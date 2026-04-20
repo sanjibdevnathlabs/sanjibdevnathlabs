@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch the Lyrid meteor shower 2026 online with these free livestreams](https://www.space.com/stargazing/meteor-showers/watch-the-lyrid-meteor-shower-2026-online-with-these-free-livestreams)
-- [Deezer says 44% of songs uploaded to its platform daily are AI-generated](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
-- [App host Vercel says it was hacked and customer data stolen](https://techcrunch.com/2026/04/20/app-host-vercel-confirms-security-incident-says-customer-data-was-stolen-via-breach-at-context-ai/)
-- [A peek at the far side of the moon | Space photo of the day for April 20, 2026](https://www.space.com/astronomy/moon/a-peek-at-the-far-side-of-the-moon-space-photo-of-the-day-for-april-20-2026)
-- [Rivian’s factory hit by tornado ahead of R2 launch](https://techcrunch.com/2026/04/20/rivians-factory-hit-by-tornado-ahead-of-r2-launch/)
+- [FAA orders investigation into Blue Origin’s New Glenn mishap](https://techcrunch.com/2026/04/20/faa-orders-investigation-into-blue-origins-new-glenn-mishap/)
+- [NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud](https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/)
+- [WhatsApp is testing a premium subscription, but it is mainly cosmetic](https://techcrunch.com/2026/04/20/whatsapp-is-testing-a-premium-subscription-put-it-is-mainly-cosmetic/)
+- [CEO and CFO suddenly depart AI nuclear power upstart Fermi](https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/)
+- [Watch the Lyrid meteor shower 2026 online this week with these free livestreams](https://www.space.com/stargazing/meteor-showers/watch-the-lyrid-meteor-shower-2026-online-with-these-free-livestreams)
 <!-- BLOG-POST-LIST:END -->
 
 ---
