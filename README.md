@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Only 12 people on Earth saw this &#39;ring-of-fire&#39; eclipse. Here&#39;s how one improvised to capture a once-in-a-lifetime photo from Antarctica](https://www.space.com/stargazing/solar-eclipses/only-12-people-on-earth-saw-this-ring-of-fire-eclipse-heres-how-one-improvised-to-capture-a-once-in-a-lifetime-photo-from-antarctica)
 - [OpenAI’s existential questions](https://techcrunch.com/2026/04/19/openais-existential-questions/)
 - [The 12-month window](https://techcrunch.com/2026/04/19/the-12-month-window/)
 - [Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch](https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/)
 - [Robots beat human records at Beijing half-marathon](https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/)
-- [Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures](https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
