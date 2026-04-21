@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tim Cook is stepping down as CEO of Apple. Here’s a look at his 15-year legacy, from new products and services to China expansion.](https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/)
 - [Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield](https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/)
 - [AI research lab NeoCognition lands $40M seed to build agents that learn like humans](https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/)
 - [Apple’s Cal AI crackdown signals it’s still policing the App Store](https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/)
 - [SusHi Tech Tokyo isn’t a conference — it’s a deal room with 60,000 people](https://techcrunch.com/2026/04/21/sushi-tech-tokyo-isnt-a-conference-its-a-deal-room-with-60000-people/)
-- [ChatGPT’s new Images 2.0 model is surprisingly good at generating text](https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
