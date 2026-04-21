@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube expands its AI likeness detection technology to celebrities](https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/)
-- [NASA rolls out Artemis 3 SLS rocket&#39;s huge core stage to gear up for 2027 launch &lpar;photo&rpar;](https://www.space.com/space-exploration/artemis/nasa-rolls-out-artemis-3-sls-rockets-huge-core-stage-to-gear-up-for-2027-launch-photo)
-- [Amazon taps Sweden’s Einride for its electric big rigs](https://techcrunch.com/2026/04/21/amazon-taps-swedens-einride-for-its-electric-big-rigs/)
-- [Astronauts photograph Lyrid meteor shower from ISS | Space photo of the day for April 21, 2026](https://www.space.com/space-exploration/human-spaceflight/astronauts-photograph-lyrid-meteor-shower-from-iss-space-photo-of-the-day-for-april-21-2026)
-- [Revolut eyes valuation of up to $200B in eventual IPO](https://techcrunch.com/2026/04/21/revolut-eyes-valuation-of-up-to-200b-in-eventual-ipo/)
+- [Former Pinterest team redesigns email with Extra — and it’s actually good](https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/)
+- [AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs](https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/)
+- [The moon and Jupiter steal the show after sunset on April 22](https://www.space.com/stargazing/the-moon-and-jupiter-steal-the-show-after-sunset-on-april-22)
+- [Ransomware negotiator pleads guilty to helping ransomware gang](https://techcrunch.com/2026/04/21/ransomware-negotiator-pleads-guilty-to-helping-ransomware-gang/)
+- [Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit](https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
