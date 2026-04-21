@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blue Energy raises $380M to build grid-scale nuclear reactors in shipyards](https://techcrunch.com/2026/04/21/blue-energy-raises-380m-to-build-grid-scale-nuclear-reactors-in-shipyards/)
-- [NASA&#39;s Curiosity rover finds building blocks of life on Mars. Scientists aren&#39;t sure how they got there](https://www.space.com/astronomy/mars/nasas-curiosity-rover-finds-building-blocks-of-life-on-mars-scientists-arent-sure-how-they-got-there)
-- [Who is John Ternus, the incoming Apple CEO?](https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/)
-- [Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return](https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/)
-- [Google rolls out Gemini in Chrome in 7 new countries](https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/)
+- [With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance](https://techcrunch.com/2026/04/21/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/)
+- [What’s the key to better vegan cheese? Microbreweries, one startup says](https://techcrunch.com/2026/04/21/whats-the-key-to-better-vegan-cheese-microbreweries-one-startup-says/)
+- [Cash App is targeting a new kind of customer: 6-12 year olds](https://techcrunch.com/2026/04/21/cash-app-is-targeting-a-new-kind-of-customer-6-12-year-olds/)
+- [GRAI believes AI can make music more social, not replace artists](https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/)
+- [NASA reveals its Roman Space Telescope today: How to watch live, and what&#39;s next for the next-generation observatory](https://www.space.com/astronomy/nasa-reveals-its-roman-space-telescope-today-how-to-watch-live-and-whats-next-for-the-next-generation-observatory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
