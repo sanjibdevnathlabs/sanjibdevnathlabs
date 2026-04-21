@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A look at Tim Cook’s 15-year legacy as CEO of Apple](https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-timeline/)
+- [Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says](https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/)
 - [Former Pinterest team redesigns email with Extra — and it’s actually good](https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/)
 - [AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs](https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/)
 - [The moon and Jupiter steal the show after sunset on April 22](https://www.space.com/stargazing/the-moon-and-jupiter-steal-the-show-after-sunset-on-april-22)
-- [Ransomware negotiator pleads guilty to helping ransomware gang](https://techcrunch.com/2026/04/21/ransomware-negotiator-pleads-guilty-to-helping-ransomware-gang/)
-- [Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit](https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
