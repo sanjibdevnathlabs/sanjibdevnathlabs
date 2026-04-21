@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Curiosity rover finds building blocks of life on Mars. Scientists aren&#39;t sure how they got there](https://www.space.com/astronomy/mars/nasas-curiosity-rover-finds-building-blocks-of-life-on-mars-scientists-arent-sure-how-they-got-there)
 - [Who is John Ternus, the incoming Apple CEO?](https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/)
 - [Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return](https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/)
 - [Google rolls out Gemini in Chrome in 7 new countries](https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/)
 - [NASA shuts down Voyager 1 instrument to keep probe exploring interstellar space](https://www.space.com/space-exploration/nasa-shuts-down-voyager-1-instrument-to-keep-probe-exploring-interstellar-space)
-- [Tim Cook stepping down as Apple CEO, John Ternus taking over](https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
