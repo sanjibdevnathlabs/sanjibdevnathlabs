@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A look at Tim Cook’s 15-year legacy as CEO of Apple](https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-timeline/)
-- [Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says](https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/)
-- [Former Pinterest team redesigns email with Extra — and it’s actually good](https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/)
-- [AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs](https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/)
-- [The moon and Jupiter steal the show after sunset on April 22](https://www.space.com/stargazing/the-moon-and-jupiter-steal-the-show-after-sunset-on-april-22)
+- [SusHi Tech Tokyo isn’t a conference — it’s a deal room with 60,000 people](https://techcrunch.com/2026/04/21/sushi-tech-tokyo-isnt-a-conference-its-a-deal-room-with-60000-people/)
+- [ChatGPT’s new Images 2.0 model is surprisingly good at generating text](https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/)
+- [You&#39;ve heard of the Space Force. Now there&#39;s a &#39;NASA Force&#39; — but it&#39;s not about making space war](https://www.space.com/space-exploration/youve-heard-of-the-space-force-now-theres-a-nasa-force-but-its-not-about-making-space-war)
+- [Bring nebulas and galaxies into focus with nearly $700 off this smart telescope](https://www.space.com/stargazing/skywatching-kit/bring-nebulas-and-galaxies-into-focus-with-nearly-usd700-off-this-smart-telescope)
+- [Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’](https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
