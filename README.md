@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Original Hello World in &quot;B&quot; Programming Language - Computerphile](https://www.youtube.com/watch?v=cYS57xJuRP8)
+- [Millions of WordPress sites just got hacked... again](https://www.youtube.com/watch?v=piah4fV_o2Q)
 - [Documentary: “The Courage to Be Open: MIT OpenCourseWare and the Democratization of Knowledge”](https://www.youtube.com/watch?v=RkhSkE89KJ0)
-- [From Bold Idea to Global Legacy: 25 Years of MIT OpenCourseWare  Live Webcast](https://www.youtube.com/watch?v=BwTAavpUeW0)
-- [From Bold Idea to Global Legacy: 25 Years of MIT OpenCourseWare  Live Webcast](https://www.youtube.com/watch?v=eeklnz2czj0)
-- [Lecture 21: Early Modern? The Ming in the 16th Century](https://www.youtube.com/watch?v=mzqKSewPmCM)
-- [Lecture 1: Introduction to China&#39;s History](https://www.youtube.com/watch?v=3dT8Wm5oI_o)
+- [New DevOps Job? Do This to Exceed Expectations](https://www.youtube.com/watch?v=2oBYYZ5nWK0)
+- [I built a network with gachapon machines](https://www.youtube.com/shorts/3XkBH83P93s)
 <!-- YOUTUBE:END -->
 
 ---
