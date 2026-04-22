@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.](https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/)
-- [Snap Map’s new ‘Place Loyalty’ badges will show the spots you visit most often](https://techcrunch.com/2026/04/22/snap-maps-new-place-loyalty-badges-will-show-the-spots-you-visit-most-often/)
-- [Celebrate Earth Day with this Artemis 2 shot | Space photo of the day for April 22, 2026](https://www.space.com/astronomy/earth/celebrate-earth-day-with-this-artemis-2-shot-space-photo-of-the-day-for-april-22-2026)
-- [The most interesting startups showcased at Google Cloud Next 2026](https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/)
-- [Duolingo is now giving free users access to advanced learning content](https://techcrunch.com/2026/04/22/duolingo-is-now-giving-free-users-access-to-advanced-learning-content-that-was-previously-reserved-for-paid-subs/)
+- [Cathie Woods’ ARK makes its first lead investment in startup Lucra — and it isn’t AI](https://techcrunch.com/2026/04/22/cathie-woods-ark-makes-its-first-lead-investment-in-startup-lucra-and-it-isnt-ai/)
+- [Meet the US Navy divers who welcomed the Artemis 2 astronauts home from the moon](https://www.space.com/space-exploration/artemis/meet-the-us-navy-divers-who-welcomed-the-artemis-2-astronauts-home-from-the-moon)
+- [OpenAI teams up with Infosys to bring AI tools to more businesses](https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/)
+- [UK government says 100 countries have spyware that can hack people’s phones](https://techcrunch.com/2026/04/22/uk-government-says-100-countries-have-spyware-that-can-hack-peoples-phones/)
+- [Blue Origin&#39;s huge New Glenn rocket grounded after launch mishap](https://www.space.com/space-exploration/launches-spacecraft/blue-origins-huge-new-glenn-rocket-grounded-after-launch-mishap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
