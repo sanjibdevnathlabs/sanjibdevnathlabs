@@ -150,7 +150,7 @@ I'm a software developer passionate about designing and building applications wi
 - [Meta will record employees’ keystrokes and use it to train its AI models](https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/)
 - [The Nancy Grace Roman Space Telescope, NASA&#39;s next great observatory, is finally complete](https://www.space.com/space-exploration/the-nancy-grace-roman-space-telescope-nasas-next-great-observatory-is-finally-complete)
 - [Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims](https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/)
-- [SpaceX is working with Cursor and has an option to buy the startup for $60 billion](https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/)
+- [SpaceX is working with Cursor and has an option to buy the startup for $60B](https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
