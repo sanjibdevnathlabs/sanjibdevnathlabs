@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cathie Woods’ ARK makes its first lead investment in startup Lucra — and it isn’t AI](https://techcrunch.com/2026/04/22/cathie-woods-ark-makes-its-first-lead-investment-in-startup-lucra-and-it-isnt-ai/)
-- [Meet the US Navy divers who welcomed the Artemis 2 astronauts home from the moon](https://www.space.com/space-exploration/artemis/meet-the-us-navy-divers-who-welcomed-the-artemis-2-astronauts-home-from-the-moon)
-- [OpenAI teams up with Infosys to bring AI tools to more businesses](https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/)
-- [UK government says 100 countries have spyware that can hack people’s phones](https://techcrunch.com/2026/04/22/uk-government-says-100-countries-have-spyware-that-can-hack-peoples-phones/)
-- [Blue Origin&#39;s huge New Glenn rocket grounded after launch mishap](https://www.space.com/space-exploration/launches-spacecraft/blue-origins-huge-new-glenn-rocket-grounded-after-launch-mishap)
+- [AI Overviews are coming to your Gmail at work](https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/)
+- [NASA still confident that Artemis astronauts will land on the moon in 2028 despite spacesuit delays](https://www.space.com/space-exploration/artemis/nasa-still-confident-that-artemis-astronauts-will-land-on-the-moon-in-2028-despite-spacesuit-delays)
+- [Rivian R2 production has started despite tornado damage to factory](https://techcrunch.com/2026/04/22/rivian-r2-production-has-started-despite-tornado-damage-to-factory/)
+- [Cosmetics giant Rituals confirms data breach of customer membership records](https://techcrunch.com/2026/04/22/cosmetics-giant-rituals-confirms-data-breach-of-customer-membership-records/)
+- [Happy Earth Day! Celebrate with these amazing photos of our planet from space, from Apollo 8 to Artemis 2](https://www.space.com/astronomy/earth/happy-earth-day-celebrate-with-these-amazing-photos-of-our-planet-from-space-from-apollo-8-to-artemis-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
