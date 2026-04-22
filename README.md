@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spectacular photos of the 2026 Lyrid meteor shower captured from Earth and space](https://www.space.com/stargazing/meteor-showers/spectacular-photos-of-the-2026-lyrid-meteor-shower-captured-from-earth-and-space)
-- [Mysterious rings around Uranus point to hidden moons orbiting the ice giant](https://www.space.com/astronomy/uranus/mysterious-rings-around-uranus-point-to-hidden-moons-orbiting-the-ice-giant)
-- [Redwood Materials lays off 10% in restructuring to chase energy storage business](https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/)
-- [Meta will record employees’ keystrokes and use it to train its AI models](https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/)
-- [The Nancy Grace Roman Space Telescope, NASA&#39;s next great observatory, is finally complete](https://www.space.com/space-exploration/the-nancy-grace-roman-space-telescope-nasas-next-great-observatory-is-finally-complete)
+- [AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.](https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/)
+- [Snap Map’s new ‘Place Loyalty’ badges will show the spots you visit most often](https://techcrunch.com/2026/04/22/snap-maps-new-place-loyalty-badges-will-show-the-spots-you-visit-most-often/)
+- [Celebrate Earth Day with this Artemis 2 shot | Space photo of the day for April 22, 2026](https://www.space.com/astronomy/earth/celebrate-earth-day-with-this-artemis-2-shot-space-photo-of-the-day-for-april-22-2026)
+- [The most interesting startups showcased at Google Cloud Next 2026](https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/)
+- [Duolingo is now giving free users access to advanced learning content](https://techcrunch.com/2026/04/22/duolingo-is-now-giving-free-users-access-to-advanced-learning-content-that-was-previously-reserved-for-paid-subs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
