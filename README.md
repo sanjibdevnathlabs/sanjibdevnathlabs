@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spectacular photos of the 2026 Lyrid meteor shower captured from Earth and space](https://www.space.com/stargazing/meteor-showers/spectacular-photos-of-the-2026-lyrid-meteor-shower-captured-from-earth-and-space)
 - [Mysterious rings around Uranus point to hidden moons orbiting the ice giant](https://www.space.com/astronomy/uranus/mysterious-rings-around-uranus-point-to-hidden-moons-orbiting-the-ice-giant)
 - [Redwood Materials lays off 10% in restructuring to chase energy storage business](https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/)
 - [Meta will record employees’ keystrokes and use it to train its AI models](https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/)
 - [The Nancy Grace Roman Space Telescope, NASA&#39;s next great observatory, is finally complete](https://www.space.com/space-exploration/the-nancy-grace-roman-space-telescope-nasas-next-great-observatory-is-finally-complete)
-- [Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims](https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
