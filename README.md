@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google turns Chrome into an AI coworker for the workplace](https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/)
+- [Threads is adding Live Chats to boost real-time engagement](https://techcrunch.com/2026/04/22/threads-is-adding-live-chats-to-boost-real-time-engagement/)
+- [Watch Rocket Lab launch Japanese &#39;origami&#39; satellite, 7 other spacecraft to orbit tonight](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-eight-japanese-satellites-kakushin-rising-mission)
+- [Google makes an interesting choice with its new agent building tool for enterprises](https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/)
 - [AI Overviews are coming to your Gmail at work](https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/)
-- [NASA still confident that Artemis astronauts will land on the moon in 2028 despite spacesuit delays](https://www.space.com/space-exploration/artemis/nasa-still-confident-that-artemis-astronauts-will-land-on-the-moon-in-2028-despite-spacesuit-delays)
-- [Rivian R2 production has started despite tornado damage to factory](https://techcrunch.com/2026/04/22/rivian-r2-production-has-started-despite-tornado-damage-to-factory/)
-- [Cosmetics giant Rituals confirms data breach of customer membership records](https://techcrunch.com/2026/04/22/cosmetics-giant-rituals-confirms-data-breach-of-customer-membership-records/)
-- [Happy Earth Day! Celebrate with these amazing photos of our planet from space, from Apollo 8 to Artemis 2](https://www.space.com/astronomy/earth/happy-earth-day-celebrate-with-these-amazing-photos-of-our-planet-from-space-from-apollo-8-to-artemis-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
