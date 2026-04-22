@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [As &#39;Star Fox Zero&#39; turns 10, here&#39;s why the sci-fi rail shooter series deserves a comeback](https://www.space.com/entertainment/space-games/as-star-fox-zero-turns-10-heres-why-the-sci-fi-rail-shooter-series-deserves-a-comeback)
-- [From the stage to the future: Where are Startup Battlefield’s alumni now?](https://techcrunch.com/2026/04/22/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/)
-- [Google Cloud launches two new AI chips to compete with Nvidia](https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/)
-- [Google turns Chrome into an AI co-worker for the workplace](https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/)
-- [Threads is adding Live Chats to boost real-time engagement](https://techcrunch.com/2026/04/22/threads-is-adding-live-chats-to-boost-real-time-engagement/)
+- [NASA’s Artemis II Moon mission shows space-to-Earth laser comms can scale](https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/)
+- [From &#39;Starfield&#39; to Artemis: designing moonbases in games and reality](https://www.space.com/entertainment/space-games/from-starfield-to-artemis-designing-moonbases-in-games-and-reality)
+- [How SpaceX preempted a $2B fundraise with a $60B buyout offer](https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/)
+- [France confirms data breach at government agency that manages citizens’ IDs](https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/)
+- [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
