@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google turns Chrome into an AI coworker for the workplace](https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/)
+- [As &#39;Star Fox Zero&#39; turns 10, here&#39;s why the sci-fi rail shooter series deserves a comeback](https://www.space.com/entertainment/space-games/as-star-fox-zero-turns-10-heres-why-the-sci-fi-rail-shooter-series-deserves-a-comeback)
+- [From the stage to the future: Where are Startup Battlefield’s alumni now?](https://techcrunch.com/2026/04/22/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/)
+- [Google Cloud launches two new AI chips to compete with Nvidia](https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/)
+- [Google turns Chrome into an AI co-worker for the workplace](https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/)
 - [Threads is adding Live Chats to boost real-time engagement](https://techcrunch.com/2026/04/22/threads-is-adding-live-chats-to-boost-real-time-engagement/)
-- [Watch Rocket Lab launch Japanese &#39;origami&#39; satellite, 7 other spacecraft to orbit tonight](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-eight-japanese-satellites-kakushin-rising-mission)
-- [Google makes an interesting choice with its new agent building tool for enterprises](https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/)
-- [AI Overviews are coming to your Gmail at work](https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
