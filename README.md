@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Redwood Materials lays off 10% in restructuring to chase energy storage business](https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/)
+- [Meta will record employees’ keystrokes and use it to train its AI models](https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/)
+- [The Nancy Grace Roman Space Telescope, NASA&#39;s next great observatory, is finally complete](https://www.space.com/space-exploration/the-nancy-grace-roman-space-telescope-nasas-next-great-observatory-is-finally-complete)
 - [Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims](https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/)
 - [SpaceX is working with Cursor and has an option to buy the startup for $60 billion](https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/)
-- [Tim Cook is stepping down as CEO of Apple: Here’s a look at his 15-year legacy, from new products and services to China expansion](https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/)
-- [Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield](https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/)
-- [AI research lab NeoCognition lands $40M seed to build agents that learn like humans](https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
