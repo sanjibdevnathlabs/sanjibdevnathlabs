@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don’t stop hiring humans — stop hiring the wrong humans, Artisan’s founder says](https://techcrunch.com/2026/04/23/dont-stop-hiring-humans-stop-hiring-the-wrong-humans-artisans-founder-says/)
+- [OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘superapp’](https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/)
+- [Meta to cut 10% of jobs, or 8,000 employees, report says](https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/)
+- [Ancient volcanic ash seen blowing across Mars in new spacecraft images](https://www.space.com/astronomy/mars/ancient-volcanic-ash-seen-blowing-across-mars-in-new-spacecraft-images)
 - [James Webb Space Telescope peers into a dying star surrounded by mysterious buckyballs: &#39;The structures we&#39;re seeing now are breathtaking&#39;](https://www.space.com/astronomy/stars/james-webb-space-telescope-peers-into-a-dying-star-surrounded-by-mysterious-buckyballs-the-structures-were-seeing-now-are-breathtaking)
-- [Bluesky now supports better quality photos](https://techcrunch.com/2026/04/23/bluesky-now-supports-better-quality-photos/)
-- [Microsoft offers buyout for up to 7% of U.S. employees](https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/)
-- [Interstellar invader comet 3I/ATLAS formed in a world much colder than the solar system](https://www.space.com/astronomy/comets/interstellar-invader-comet-3i-atlas-formed-in-a-world-much-colder-than-the-solar-system)
-- [Era raises $11M to build a software platform for AI gadgets](https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
