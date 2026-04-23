@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Could &#39;The Mandalorian and Grogu&#39; restore the &#39;Star Wars&#39; spark? Watch the electrifying final trailer and decide if this is the way](https://www.space.com/entertainment/could-the-mandalorian-and-grogu-restore-the-star-wars-spark-watch-the-electrifying-final-trailer-and-decide-if-this-is-the-way)
 - [These are the countries moving to ban social media for children](https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/)
 - [Bret Taylor’s Sierra buys YC-backed AI startup Fragment](https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/)
 - [What will happen when our sun starts dying? These &#39;stellar archaeologists&#39; may have found a clue](https://www.space.com/astronomy/sun/what-will-happen-when-our-sun-starts-dying-these-stellar-archaeologists-may-have-found-a-clue)
 - [Instagram tests a new ‘Instants’ app for sharing disappearing photos](https://techcrunch.com/2026/04/23/instagram-tests-a-new-instants-app-for-sharing-disappearing-photos/)
-- [These &#39;interstellar glaciers&#39; could give water to young star systems. Could they support alien life, too?](https://www.space.com/astronomy/stars/these-interstellar-glaciers-could-give-water-to-young-star-systems-could-they-support-alien-life-too)
 <!-- BLOG-POST-LIST:END -->
 
 ---
