@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI galaxy hunters are adding to the global GPU crunch](https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/)
-- [Japan&#39;s audacious sample-return mission to the Mars moon Phobos has made it to the launch pad](https://www.space.com/astronomy/mars/japans-audacious-sample-return-mission-to-the-mars-moon-phobos-has-made-it-to-the-launch-pad)
-- [Surveillance vendors caught abusing access to telcos to track people’s phone locations, researchers say](https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/)
-- [Beehiiv rolls out new creator tools, including webinars and customizable paywalls](https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/)
-- [Making contact with ET? Aliens may already know we&#39;re here](https://www.space.com/space-exploration/search-for-life/making-contact-with-et-aliens-may-already-know-were-here)
+- [X is shutting down Communities because of low usage and lots of spam](https://techcrunch.com/2026/04/23/x-is-shutting-down-communities-because-of-low-usage-and-lots-of-spam/)
+- [NASA&#39;s TESS spacecraft discovers a weird system of exoplanets unlike anything seen before](https://www.space.com/astronomy/exoplanets/nasas-tess-spacecraft-discovers-a-weird-system-of-exoplanets-unlike-anything-seen-before)
+- [Salmon raises $100M in equity and debt to bring digital credit to underbanked Filipinos](https://techcrunch.com/2026/04/23/salmon-raises-100m-in-equity-and-debt-to-bring-digital-credit-to-underbanked-filipinos/)
+- [Vercel says some of its customers’ data was stolen prior to its recent hack](https://techcrunch.com/2026/04/23/vercel-says-some-of-its-customers-data-was-stolen-prior-to-its-recent-hack/)
+- [Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco](https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
