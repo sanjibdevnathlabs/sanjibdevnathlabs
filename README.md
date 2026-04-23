@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These are the countries moving to ban social media for children](https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/)
+- [Bret Taylor’s Sierra buys YC-backed AI startup Fragment](https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/)
+- [What will happen when our sun starts dying? These &#39;stellar archaeologists&#39; may have found a clue](https://www.space.com/astronomy/sun/what-will-happen-when-our-sun-starts-dying-these-stellar-archaeologists-may-have-found-a-clue)
 - [Instagram tests a new ‘Instants’ app for sharing disappearing photos](https://techcrunch.com/2026/04/23/instagram-tests-a-new-instants-app-for-sharing-disappearing-photos/)
 - [These &#39;interstellar glaciers&#39; could give water to young star systems. Could they support alien life, too?](https://www.space.com/astronomy/stars/these-interstellar-glaciers-could-give-water-to-young-star-systems-could-they-support-alien-life-too)
-- [Meet Noscroll, an AI bot that does your doomscrolling for you](https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/)
-- [Trump’s pick to run US cyber agency CISA asks to drop out](https://techcrunch.com/2026/04/23/trumps-pick-to-run-us-cyber-agency-cisa-asks-to-drop-out/)
-- [Don’t stop hiring humans — stop hiring the wrong humans, Artisan’s founder says](https://techcrunch.com/2026/04/23/dont-stop-hiring-humans-stop-hiring-the-wrong-humans-artisans-founder-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
