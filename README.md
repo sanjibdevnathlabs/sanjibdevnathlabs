@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram tests a new ‘Instants’ app for sharing disappearing photos](https://techcrunch.com/2026/04/23/instagram-tests-a-new-instants-app-for-sharing-disappearing-photos/)
+- [These &#39;interstellar glaciers&#39; could give water to young star systems. Could they support alien life, too?](https://www.space.com/astronomy/stars/these-interstellar-glaciers-could-give-water-to-young-star-systems-could-they-support-alien-life-too)
+- [Meet Noscroll, an AI bot that does your doomscrolling for you](https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/)
+- [Trump’s pick to run US cyber agency CISA asks to drop out](https://techcrunch.com/2026/04/23/trumps-pick-to-run-us-cyber-agency-cisa-asks-to-drop-out/)
 - [Don’t stop hiring humans — stop hiring the wrong humans, Artisan’s founder says](https://techcrunch.com/2026/04/23/dont-stop-hiring-humans-stop-hiring-the-wrong-humans-artisans-founder-says/)
-- [OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘superapp’](https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/)
-- [Meta to cut 10% of jobs, or 8,000 employees, report says](https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/)
-- [Ancient volcanic ash seen blowing across Mars in new spacecraft images](https://www.space.com/astronomy/mars/ancient-volcanic-ash-seen-blowing-across-mars-in-new-spacecraft-images)
-- [James Webb Space Telescope peers into a dying star surrounded by mysterious buckyballs: &#39;The structures we&#39;re seeing now are breathtaking&#39;](https://www.space.com/astronomy/stars/james-webb-space-telescope-peers-into-a-dying-star-surrounded-by-mysterious-buckyballs-the-structures-were-seeing-now-are-breathtaking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
