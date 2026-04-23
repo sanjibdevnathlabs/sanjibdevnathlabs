@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [X is shutting down Communities because of low usage and lots of spam](https://techcrunch.com/2026/04/23/x-is-shutting-down-communities-because-of-low-usage-and-lots-of-spam/)
-- [NASA&#39;s TESS spacecraft discovers a weird system of exoplanets unlike anything seen before](https://www.space.com/astronomy/exoplanets/nasas-tess-spacecraft-discovers-a-weird-system-of-exoplanets-unlike-anything-seen-before)
-- [Salmon raises $100M in equity and debt to bring digital credit to underbanked Filipinos](https://techcrunch.com/2026/04/23/salmon-raises-100m-in-equity-and-debt-to-bring-digital-credit-to-underbanked-filipinos/)
-- [Vercel says some of its customers’ data was stolen prior to its recent hack](https://techcrunch.com/2026/04/23/vercel-says-some-of-its-customers-data-was-stolen-prior-to-its-recent-hack/)
-- [Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco](https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/)
+- [James Webb Space Telescope peers into a dying star surrounded by mysterious buckyballs: &#39;The structures we&#39;re seeing now are breathtaking&#39;](https://www.space.com/astronomy/stars/james-webb-space-telescope-peers-into-a-dying-star-surrounded-by-mysterious-buckyballs-the-structures-were-seeing-now-are-breathtaking)
+- [Bluesky now supports better quality photos](https://techcrunch.com/2026/04/23/bluesky-now-supports-better-quality-photos/)
+- [Microsoft offers buyout for up to 7% of U.S. employees](https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/)
+- [Interstellar invader comet 3I/ATLAS formed in a world much colder than the solar system](https://www.space.com/astronomy/comets/interstellar-invader-comet-3i-atlas-formed-in-a-world-much-colder-than-the-solar-system)
+- [Era raises $11M to build a software platform for AI gadgets](https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
