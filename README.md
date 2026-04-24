@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [New DevOps Job? Do This to Exceed Expectations](https://www.youtube.com/watch?v=2oBYYZ5nWK0)
-- [STOP Learning Kubernetes &lpar;Do This First&rpar;](https://www.youtube.com/shorts/keZN3i23qXs)
-- [How Netflix, Spotify &amp; Uber actually run multi-cloud architectures](https://www.youtube.com/watch?v=IQZPC0sFqMk)
-- [Why Are Companies Still Desperate for DevOps Engineers?](https://www.youtube.com/shorts/y-oHoNdoxcU)
-- [She Quit Her Stable Job to Become a DevOps Engineer &lpar;And is Now a Golden Kubestronaut&rpar;](https://www.youtube.com/watch?v=q6x8J7QIakI)
+- [I built a network with gachapon machines](https://www.youtube.com/shorts/3XkBH83P93s)
+- [i didn&#39;t want to like this....](https://www.youtube.com/watch?v=G3jvn7n-68Y)
+- [Milla Jovovich made an AI memory tool…..it’s pretty good](https://www.youtube.com/shorts/kerRwLePW7I)
+- [Gemma 4 on the iPhone &lpar;local AI, no internet required&rpar;](https://www.youtube.com/shorts/d0gTthacB5c)
+- [Anthropic says NO MORE OpenClaw!!](https://www.youtube.com/shorts/GE1c4Tb3Zsw)
 <!-- YOUTUBE:END -->
 
 ---
