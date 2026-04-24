@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Famous asteroid Ryugu may have been bombarded by a swarm of tiny space rocks 1,000 years ago](https://www.space.com/astronomy/asteroids/famous-asteroid-ryugu-may-have-been-bombarded-by-a-swarm-of-tiny-space-rocks-1-000-years-ago)
 - [Marked-up Mac minis flood eBay amid shortages driven by AI](https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/)
 - [&#39;Guess I&#39;ll be waiting a minute to surf again&#39;: Artemis 2 moon astronaut Christina Koch shares her recovery journey](https://www.space.com/space-exploration/artemis/guess-ill-be-waiting-a-minute-to-surf-again-artemis-2-moon-astronaut-christina-koch-shares-her-recovery-journey)
 - [Nuclear startup X-energy raises $1B in data center-driven IPO](https://techcrunch.com/2026/04/24/nuclear-startup-x-energy-raises-1b-in-data-center-driven-ipo/)
 - [A Lego &#39;Project Hail Mary&#39; set just soared into the stratosphere, breaking the Guinness World Record for highest flight](https://www.space.com/entertainment/a-lego-project-hail-mary-set-just-soared-into-the-stratosphere-breaking-the-guinness-world-record-for-highest-flight)
-- [Another spyware maker caught distributing fake Android snooping apps](https://techcrunch.com/2026/04/24/another-spyware-maker-caught-distributing-fake-android-snooping-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
