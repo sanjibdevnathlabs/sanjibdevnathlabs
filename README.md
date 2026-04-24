@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ted Cruz pushes back on NASA budget cuts: &#39;I don&#39;t want to wake up one day and look up at the moon and realize the Chinese have beat us there&#39;](https://www.space.com/space-exploration/ted-cruz-pushes-back-on-nasa-budget-cuts-i-dont-want-to-wake-up-one-day-and-look-up-at-the-moon-and-realize-the-chinese-have-beat-us-there)
 - [Porsche is adding an all-electric Cayenne coupe to its lineup](https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/)
 - [Bob Iger rejoins Thrive Capital as advisor after Disney exit](https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/)
 - [Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation](https://techcrunch.com/2026/04/23/authorities-arrest-special-forces-soldier-who-allegedly-made-400k-on-polymarket-bet-involving-maduro-operation/)
 - [Redwood Materials loses COO amid layoffs, restructuring](https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/)
-- [Could &#39;The Mandalorian and Grogu&#39; restore the &#39;Star Wars&#39; spark? Watch the electrifying final trailer and decide if this is the way](https://www.space.com/entertainment/could-the-mandalorian-and-grogu-restore-the-star-wars-spark-watch-the-electrifying-final-trailer-and-decide-if-this-is-the-way)
 <!-- BLOG-POST-LIST:END -->
 
 ---
