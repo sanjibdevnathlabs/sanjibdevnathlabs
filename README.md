@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A bright star will disappear for up to an hour on April 25 — here&#39;s what&#39;s happening](https://www.space.com/stargazing/a-bright-star-will-disappear-for-up-to-an-hour-on-april-25-heres-why)
-- [In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs](https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/)
-- [Hubble Telescope celebrates 36th anniversary with gorgeous new image of famous Trifid Nebula](https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-celebrates-36th-anniversary-with-gorgeous-new-image-of-famous-trifid-nebula)
-- [Sun unleashes 2 colossal X-flares within 7 hours of each other, knocking out radio signals on Earth](https://www.space.com/astronomy/sun/sun-unleashes-2-colossal-x-flares-within-7-hours-of-each-other-knocking-out-radio-signals-on-earth)
-- [Ted Cruz pushes back on NASA budget cuts: &#39;I don&#39;t want to wake up one day and look up at the moon and realize the Chinese have beat us there&#39;](https://www.space.com/space-exploration/ted-cruz-pushes-back-on-nasa-budget-cuts-i-dont-want-to-wake-up-one-day-and-look-up-at-the-moon-and-realize-the-chinese-have-beat-us-there)
+- [A Lego &#39;Project Hail Mary&#39; set just soared into the stratosphere, breaking the Guinness World Record for highest flight](https://www.space.com/entertainment/a-lego-project-hail-mary-set-just-soared-into-the-stratosphere-breaking-the-guinness-world-record-for-highest-flight)
+- [Another spyware maker caught distributing fake Android snooping apps](https://techcrunch.com/2026/04/24/another-spyware-maker-caught-distributing-fake-android-snooping-apps/)
+- [Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event](https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/)
+- [Ice melts in the springtime on Mars | Space photo of the day for April 24, 2026](https://www.space.com/astronomy/mars/ice-melts-in-the-springtime-on-mars-space-photo-of-the-day-for-april-24-2026)
+- [Nothing introduces an AI-powered dictation tool](https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
