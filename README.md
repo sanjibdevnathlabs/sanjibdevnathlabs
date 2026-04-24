@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X-energy stock pops 27% on first day of trading following upsized IPO](https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/)
+- [ComfyUI hits $500M valuation as creators seek more control over AI-generated media](https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/)
+- [X launches stand-alone XChat app on iOS](https://techcrunch.com/2026/04/24/x-launches-xchat-app-ios-messaging-iphone/)
 - [Viltrox AF 50mm f/1.4 Pro FE lens review](https://www.space.com/stargazing/skywatching-kit/viltrox-af-50mm-f-1-4-pro-fe-lens-review)
 - [How did the USSR win the space race to beat the US to the moon in Apple TV&#39;s new &#39;Star City&#39;?](https://www.space.com/entertainment/how-did-the-ussr-win-the-space-race-to-beat-the-us-to-the-moon-in-apple-tvs-new-star-city)
-- [Google to invest up to $40B in Anthropic in cash and compute](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/)
-- [Comet PanSTARRS approaches Earth on April 26. Here&#39;s how to catch it in satellite imagery this weekend](https://www.space.com/stargazing/comet-panstarrs-approaches-earth-on-april-26-heres-how-to-catch-it-in-satellite-imagery-this-weekend)
-- [Famous asteroid Ryugu may have been bombarded by a swarm of tiny space rocks 1,000 years ago](https://www.space.com/astronomy/asteroids/famous-asteroid-ryugu-may-have-been-bombarded-by-a-swarm-of-tiny-space-rocks-1-000-years-ago)
 <!-- BLOG-POST-LIST:END -->
 
 ---
