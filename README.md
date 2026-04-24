@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google to invest up to $40B in Anthropic in cash and compute](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/)
+- [Comet PanSTARRS approaches Earth on April 26. Here&#39;s how to catch it in satellite imagery this weekend](https://www.space.com/stargazing/comet-panstarrs-approaches-earth-on-april-26-heres-how-to-catch-it-in-satellite-imagery-this-weekend)
 - [Famous asteroid Ryugu may have been bombarded by a swarm of tiny space rocks 1,000 years ago](https://www.space.com/astronomy/asteroids/famous-asteroid-ryugu-may-have-been-bombarded-by-a-swarm-of-tiny-space-rocks-1-000-years-ago)
 - [Marked-up Mac minis flood eBay amid shortages driven by AI](https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/)
 - [&#39;Guess I&#39;ll be waiting a minute to surf again&#39;: Artemis 2 moon astronaut Christina Koch shares her recovery journey](https://www.space.com/space-exploration/artemis/guess-ill-be-waiting-a-minute-to-surf-again-artemis-2-moon-astronaut-christina-koch-shares-her-recovery-journey)
-- [Nuclear startup X-energy raises $1B in data center-driven IPO](https://techcrunch.com/2026/04/24/nuclear-startup-x-energy-raises-1b-in-data-center-driven-ipo/)
-- [A Lego &#39;Project Hail Mary&#39; set just soared into the stratosphere, breaking the Guinness World Record for highest flight](https://www.space.com/entertainment/a-lego-project-hail-mary-set-just-soared-into-the-stratosphere-breaking-the-guinness-world-record-for-highest-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
