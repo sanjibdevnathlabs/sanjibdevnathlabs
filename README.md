@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A bright star will disappear for up to an hour on April 25 — here&#39;s what&#39;s happening](https://www.space.com/stargazing/a-bright-star-will-disappear-for-up-to-an-hour-on-april-25-heres-why)
+- [In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs](https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/)
+- [Hubble Telescope celebrates 36th anniversary with gorgeous new image of famous Trifid Nebula](https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-celebrates-36th-anniversary-with-gorgeous-new-image-of-famous-trifid-nebula)
+- [Sun unleashes 2 colossal X-flares within 7 hours of each other, knocking out radio signals on Earth](https://www.space.com/astronomy/sun/sun-unleashes-2-colossal-x-flares-within-7-hours-of-each-other-knocking-out-radio-signals-on-earth)
 - [Ted Cruz pushes back on NASA budget cuts: &#39;I don&#39;t want to wake up one day and look up at the moon and realize the Chinese have beat us there&#39;](https://www.space.com/space-exploration/ted-cruz-pushes-back-on-nasa-budget-cuts-i-dont-want-to-wake-up-one-day-and-look-up-at-the-moon-and-realize-the-chinese-have-beat-us-there)
-- [Porsche is adding an all-electric Cayenne coupe to its lineup](https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/)
-- [Bob Iger rejoins Thrive Capital as advisor after Disney exit](https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/)
-- [Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation](https://techcrunch.com/2026/04/23/authorities-arrest-special-forces-soldier-who-allegedly-made-400k-on-polymarket-bet-involving-maduro-operation/)
-- [Redwood Materials loses COO amid layoffs, restructuring](https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
