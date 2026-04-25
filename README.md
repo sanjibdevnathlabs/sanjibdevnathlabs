@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Satellite snaps amazing 36th birthday pic of Hubble Space Telescope &lpar;photo&rpar;](https://www.space.com/astronomy/hubble-space-telescope/satellite-snaps-amazing-36th-birthday-pic-of-hubble-space-telescope-photo)
 - [From Apollo to alien worlds: 4 &#39;firsts&#39; you can spot in the night sky tonight](https://www.space.com/stargazing/from-apollo-to-alien-worlds-4-firsts-you-can-spot-in-the-night-sky-tonight)
 - [Why do some starburst galaxies mysteriously shut down? New study provides clues](https://www.space.com/astronomy/stars/why-do-some-starburst-galaxies-mysteriously-shut-down-new-study-provides-clues)
 - [Watch Russia launch 3 tons of cargo to the International Space Station today](https://www.space.com/space-exploration/launches-spacecraft/progress-95-cargo-ship-launch-soyuz-international-space-station)
 - [Lachy Groom to back India startup Pronto at a $200M valuation, sources say](https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/)
-- [Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’](https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
