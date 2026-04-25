@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Satellite snaps amazing 36th birthday pic of Hubble Space Telescope &lpar;photo&rpar;](https://www.space.com/astronomy/hubble-space-telescope/satellite-snaps-amazing-36th-birthday-pic-of-hubble-space-telescope-photo)
-- [From Apollo to alien worlds: 4 &#39;firsts&#39; you can spot in the night sky tonight](https://www.space.com/stargazing/from-apollo-to-alien-worlds-4-firsts-you-can-spot-in-the-night-sky-tonight)
-- [Why do some starburst galaxies mysteriously shut down? New study provides clues](https://www.space.com/astronomy/stars/why-do-some-starburst-galaxies-mysteriously-shut-down-new-study-provides-clues)
-- [Watch Russia launch 3 tons of cargo to the International Space Station today](https://www.space.com/space-exploration/launches-spacecraft/progress-95-cargo-ship-launch-soyuz-international-space-station)
-- [Lachy Groom to back India startup Pronto at a $200M valuation, sources say](https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/)
+- [Why Tokyo is the most important tech destination of 2026](https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/)
+- [Apps to distract you from the endless cycle of doomscrolling](https://techcrunch.com/2026/04/25/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/)
+- [Apple under Ternus: what comes next for the tech giant’s hardware strategy](https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/)
+- [Best space prison movies](https://www.space.com/entertainment/space-movies-shows/best-space-prison-movies)
+- [India’s Snabbit seeks fresh funding at a $400M valuation, sources say](https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
