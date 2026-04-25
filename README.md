@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Russia launch 3 tons of cargo to the International Space Station today](https://www.space.com/space-exploration/launches-spacecraft/progress-95-cargo-ship-launch-soyuz-international-space-station)
 - [Lachy Groom to back India startup Pronto at a $200M valuation, sources say](https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/)
 - [Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’](https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/)
 - [How did humanity end up underground in &#39;Silo&#39;? Apple TV digs deep in new Season 3 teaser &lpar;video&rpar;](https://www.space.com/entertainment/how-did-humanity-end-up-underground-in-silo-apple-tv-digs-deep-in-new-season-3-teaser-video)
 - [Palantir is reportedly helping the IRS investigate financial crimes](https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/)
-- [Cohere acquires, merges with Germany-based startup to create a ‘transatlantic AI powerhouse’](https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
