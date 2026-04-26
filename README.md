@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The moon as you rarely see it: How a photographer captured night and day on the first quarter moon](https://www.space.com/stargazing/astrophotography/the-moon-as-you-rarely-see-it-how-a-photographer-captured-night-and-day-on-the-first-quarter-moon)
 - [15 expert-checked places to see the 2026 total solar eclipse in Spain, Iceland and Greenland](https://www.space.com/stargazing/solar-eclipses/15-expert-checked-places-to-see-the-2026-total-solar-eclipse-in-spain-iceland-and-greenland)
 - [Anthropic created a test marketplace for agent-on-agent commerce](https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/)
 - [Maine’s governor vetoes data center moratorium](https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/)
 - [OpenAI CEO apologizes to Tumbler Ridge community](https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/)
-- [The climate tech IPO window could finally be cracking open](https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
