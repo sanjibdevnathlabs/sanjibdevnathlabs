@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Tim Cook built](https://techcrunch.com/2026/04/26/what-tim-cook-built/)
 - [TechCrunch Mobility: Elon’s admission](https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/)
 - [SpaceX launching powerful Falcon Heavy rocket for 1st time in 18 months on April 27: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-heavy-rocket-viasat-3-f3-launch)
 - [To buy this Bay Area home, you’ll need Anthropic equity](https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/)
 - [SpeakOn’s dictation device is a good idea marred by platform limitations](https://techcrunch.com/2026/04/26/speakons-dictation-device-is-a-good-idea-marred-by-platform-limitations/)
-- [The &#39;Oscars of Science&#39;: Breakthrough Prize 2026 awards over $18 million for discoveries across space, physics and more](https://www.space.com/technology/the-oscars-of-science-breakthrough-prize-2026-awards-over-usd18-million-for-discoveries-across-space-physics-and-more)
 <!-- BLOG-POST-LIST:END -->
 
 ---
