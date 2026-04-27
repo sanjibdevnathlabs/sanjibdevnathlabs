@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify’s next frontier: fitness content](https://techcrunch.com/2026/04/27/spotifys-next-frontier-fitness-content/)
-- [AI sped up James Webb Space Telescope data analysis from years to days. What can it do for the groundbreaking Rubin Observatory?](https://www.space.com/technology/ai-sped-up-james-webb-space-telescope-data-analysis-from-years-to-days-what-can-it-do-for-the-groundbreaking-rubin-observatory)
-- [Meta inks deal for solar power at night, beamed from space](https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/)
-- [NASA wants to use a fleet of MoonFall drones to scout the lunar south pole: &#39;We believe we can do it&#39;](https://www.space.com/astronomy/moon/nasa-wants-to-use-a-fleet-of-moonfall-drones-to-scout-the-lunar-south-pole-we-believe-we-can-do-it)
-- [Truecaller faces mounting pressures as its growth matures](https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/)
+- [What’s behind Europe’s efforts to ditch US software in favor of sovereign tech](https://techcrunch.com/2026/04/27/whats-behind-europes-efforts-to-ditch-u-s-software-in-favor-of-sovereign-tech/)
+- [Backyard snapshot delivers stunning galaxy image | Space photo of the day for April 27, 2026](https://www.space.com/astronomy/galaxies/backyard-snapshot-delivers-stunning-galaxy-image-space-photo-of-the-day-for-april-27-2026)
+- [China blocks Meta’s $2B Manus deal after months-long probe](https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/)
+- [OpenAI could be making a phone with AI agents replacing apps](https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/)
+- [Critical infrastructure giant Itron says it was hacked](https://techcrunch.com/2026/04/27/critical-infrastructure-giant-itron-says-it-was-hacked/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
