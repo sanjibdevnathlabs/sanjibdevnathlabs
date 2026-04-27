@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify’s next frontier: fitness content](https://techcrunch.com/2026/04/27/spotifys-next-frontier-fitness-content/)
+- [AI sped up James Webb Space Telescope data analysis from years to days. What can it do for the groundbreaking Rubin Observatory?](https://www.space.com/technology/ai-sped-up-james-webb-space-telescope-data-analysis-from-years-to-days-what-can-it-do-for-the-groundbreaking-rubin-observatory)
 - [Meta inks deal for solar power at night, beamed from space](https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/)
 - [NASA wants to use a fleet of MoonFall drones to scout the lunar south pole: &#39;We believe we can do it&#39;](https://www.space.com/astronomy/moon/nasa-wants-to-use-a-fleet-of-moonfall-drones-to-scout-the-lunar-south-pole-we-believe-we-can-do-it)
 - [Truecaller faces mounting pressures as its growth matures](https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/)
-- [The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder](https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/)
-- [Amazon’s new podcast strategy: Monetize everything](https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
