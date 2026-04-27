@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Did decaying dark matter help create the universe&#39;s first supermassive black holes?](https://www.space.com/astronomy/black-holes/did-decaying-dark-matter-help-create-the-universes-first-supermassive-black-holes)
 - [Letterboxd, the social platform for film buffs, reportedly looking for new owner](https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/)
 - [The 1st &#39;Alien: Isolation 2&#39; teaser is here, and the setting looks eerily familiar](https://www.space.com/entertainment/space-games/the-1st-alien-isolation-2-teaser-is-here-and-the-setting-looks-eerily-familiar)
-- [Consumers lost $2.1 billion to social media scams in 2025, FTC reports](https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/)
+- [Consumers lost $2.1B to social media scams in 2025, FTC reports](https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/)
 - [All 4 original Alien movie special editions are now on HBO Max; here&#39;s how they differ from the theatrical cuts](https://www.space.com/entertainment/space-movies-shows/all-4-original-alien-movie-special-editions-are-now-on-hbo-max-heres-how-they-differ-from-the-theatrical-cuts)
-- [Watch comet PANSTARRS &#39;switch on&#39; its second tail as it makes closest approach to Earth](https://www.space.com/stargazing/watch-comet-panstarrs-switch-on-its-second-tail-as-it-makes-closest-approach-to-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
