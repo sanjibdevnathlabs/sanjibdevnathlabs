@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s behind Europe’s efforts to ditch US software in favor of sovereign tech](https://techcrunch.com/2026/04/27/whats-behind-europes-efforts-to-ditch-u-s-software-in-favor-of-sovereign-tech/)
-- [Backyard snapshot delivers stunning galaxy image | Space photo of the day for April 27, 2026](https://www.space.com/astronomy/galaxies/backyard-snapshot-delivers-stunning-galaxy-image-space-photo-of-the-day-for-april-27-2026)
-- [China blocks Meta’s $2B Manus deal after months-long probe](https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/)
-- [OpenAI could be making a phone with AI agents replacing apps](https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/)
-- [Critical infrastructure giant Itron says it was hacked](https://techcrunch.com/2026/04/27/critical-infrastructure-giant-itron-says-it-was-hacked/)
+- [Hacker who allegedly carried out cyberattacks for China is extradited to U.S.](https://techcrunch.com/2026/04/27/hacker-who-allegedly-carried-out-cyberattacks-for-china-is-extradited-to-u-s/)
+- [Want to know my secret for learning the night sky? Welcome to sidewalk stargazing](https://www.space.com/stargazing/want-to-know-my-secret-for-learning-the-night-sky-welcome-to-sidewalk-stargazing)
+- [Investors back Skye’s AI home screen app for iPhone ahead of launch](https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/)
+- [Data center demand drives 66% surge in natural gas power plant costs](https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/)
+- [Watch Atlas V rocket launch 29 Amazon internet satellites to orbit today](https://www.space.com/space-exploration/launches-spacecraft/atlas-v-rocket-launch-amazon-la-06-satellite-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
