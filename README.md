@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacker who allegedly carried out cyberattacks for China is extradited to U.S.](https://techcrunch.com/2026/04/27/hacker-who-allegedly-carried-out-cyberattacks-for-china-is-extradited-to-u-s/)
-- [Want to know my secret for learning the night sky? Welcome to sidewalk stargazing](https://www.space.com/stargazing/want-to-know-my-secret-for-learning-the-night-sky-welcome-to-sidewalk-stargazing)
-- [Investors back Skye’s AI home screen app for iPhone ahead of launch](https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/)
-- [Data center demand drives 66% surge in natural gas power plant costs](https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/)
-- [Watch Atlas V rocket launch 29 Amazon internet satellites to orbit today](https://www.space.com/space-exploration/launches-spacecraft/atlas-v-rocket-launch-amazon-la-06-satellite-mission)
+- [All 4 original Alien movie special editions are now on HBO Max; here&#39;s how they differ from the theatrical cuts](https://www.space.com/entertainment/space-movies-shows/all-4-original-alien-movie-special-editions-are-now-on-hbo-max-heres-how-they-differ-from-the-theatrical-cuts)
+- [Watch comet PANSTARRS &#39;switch on&#39; its second tail as it makes closest approach to Earth](https://www.space.com/stargazing/watch-comet-panstarrs-switch-on-its-second-tail-as-it-makes-closest-approach-to-earth)
+- [SpaceX launches its 50th mission of the year, sends 25 Starlink satellites to orbit &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-17-14-50th-mission-2026)
+- [We went hands-on with &#39;The Expanse: Osiris Reborn&#39;, and it&#39;s a hard sci-fi &#39;Mass Effect&#39; successor with show-stealing zero-G sections](https://www.space.com/entertainment/space-games/we-went-hands-on-with-the-expanse-osiris-reborn-and-its-a-hard-sci-fi-mass-effect-successor-with-show-stealing-zero-g-sections)
+- [OpenAI ends Microsoft legal peril over its $50B Amazon deal](https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
