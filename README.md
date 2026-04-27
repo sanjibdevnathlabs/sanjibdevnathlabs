@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Truecaller faces mounting pressures as its growth matures](https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/)
 - [The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder](https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/)
 - [Amazon’s new podcast strategy: Monetize everything](https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/)
 - [What Tim Cook built](https://techcrunch.com/2026/04/26/what-tim-cook-built/)
 - [TechCrunch Mobility: Elon’s admission](https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/)
-- [SpaceX launching powerful Falcon Heavy rocket for 1st time in 18 months on April 27: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-heavy-rocket-viasat-3-f3-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
