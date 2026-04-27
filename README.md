@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Letterboxd, the social platform for film buffs, reportedly looking for new owner](https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/)
+- [The 1st &#39;Alien: Isolation 2&#39; teaser is here, and the setting looks eerily familiar](https://www.space.com/entertainment/space-games/the-1st-alien-isolation-2-teaser-is-here-and-the-setting-looks-eerily-familiar)
+- [Consumers lost $2.1 billion to social media scams in 2025, FTC reports](https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/)
 - [All 4 original Alien movie special editions are now on HBO Max; here&#39;s how they differ from the theatrical cuts](https://www.space.com/entertainment/space-movies-shows/all-4-original-alien-movie-special-editions-are-now-on-hbo-max-heres-how-they-differ-from-the-theatrical-cuts)
 - [Watch comet PANSTARRS &#39;switch on&#39; its second tail as it makes closest approach to Earth](https://www.space.com/stargazing/watch-comet-panstarrs-switch-on-its-second-tail-as-it-makes-closest-approach-to-earth)
-- [SpaceX launches its 50th mission of the year, sends 25 Starlink satellites to orbit &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-17-14-50th-mission-2026)
-- [We went hands-on with &#39;The Expanse: Osiris Reborn&#39;, and it&#39;s a hard sci-fi &#39;Mass Effect&#39; successor with show-stealing zero-G sections](https://www.space.com/entertainment/space-games/we-went-hands-on-with-the-expanse-osiris-reborn-and-its-a-hard-sci-fi-mass-effect-successor-with-show-stealing-zero-g-sections)
-- [OpenAI ends Microsoft legal peril over its $50B Amazon deal](https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
