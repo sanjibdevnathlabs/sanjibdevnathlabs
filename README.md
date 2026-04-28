@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Otter’s new feature lets users search across their enterprise tools](https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/)
+- [Scientists learn how much baby stars in Orion weigh — by watching their dance moves](https://www.space.com/astronomy/stars/scientists-learn-how-much-baby-stars-in-orion-weigh-by-watching-their-dance-moves)
 - [Could the moon ever be blockaded? Experts predict cislunar space could be the next Strait of Hormuz](https://www.space.com/astronomy/moon/could-the-moon-be-the-next-strait-of-hormuz)
 - [Drizzle on top: a new high-end dog food brand is coming for the 1%](https://techcrunch.com/2026/04/27/drizzle-on-top-a-new-high-end-dog-food-brand-is-coming-for-the-1/)
 - [India’s Snabbit closes $56M round as investor interest in on-demand home services heats up](https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/)
-- [Did decaying dark matter help create the universe&#39;s first supermassive black holes?](https://www.space.com/astronomy/black-holes/did-decaying-dark-matter-help-create-the-universes-first-supermassive-black-holes)
-- [Letterboxd, the social platform for film buffs, reportedly looking for new owner](https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
