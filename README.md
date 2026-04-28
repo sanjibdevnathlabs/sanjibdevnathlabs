@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon is already offering new OpenAI products on AWS](https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/)
 - [NASA chief Jared Isaacman says he&#39;s fighting for Pluto: &#39;I am very much in the camp of &#39;make Pluto a planet again&#39;](https://www.space.com/astronomy/pluto/nasa-chief-jared-isaacman-says-hes-fighting-for-pluto-i-am-very-much-in-the-camp-of-make-pluto-a-planet-again)
 - [These astronauts are trying to uphold the US Constitution: &#39;We need to make sure that people are using facts and evidence&#39;](https://www.space.com/space-exploration/human-spaceflight/these-astronauts-are-trying-to-uphold-the-us-constitution-we-need-to-make-sure-that-people-are-using-facts-and-evidence)
 - [Amazon launches an AI-powered audio Q&amp;A experience on product pages](https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/)
 - [Match Group invests $100M in Sniffies, a cruising app for gay men](https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/)
-- [Google expands Pentagon’s access to its AI after Anthropic’s refusal](https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
