@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean up Rebel scum in the upcoming Star Wars DLC for PowerWash Simulator 2](https://www.space.com/entertainment/space-games/clean-up-rebel-scum-in-the-upcoming-star-wars-dlc-for-powerwash-simulator-2)
-- [Canadian astronaut Josh Kutryk finally flying to ISS after Boeing Starliner mishap: &#39;I&#39;m committed to making the most of this unique opportunity&#39;](https://www.space.com/space-exploration/missions/canadian-astronaut-josh-kutryk-finally-flying-to-iss-after-boeing-starliner-mishap-im-committed-to-making-the-most-of-this-unique-opportunity)
-- [US Supreme Court appears split over controversial use of ‘geofence’ search warrants](https://techcrunch.com/2026/04/28/scotus-chatrie-geofence-search-warrant-ruling-arguments/)
-- [Australia forces Big Tech firms to pay for news or face a 2.25% tax](https://techcrunch.com/2026/04/28/australia-forces-big-tech-firms-to-pay-for-news-or-face-a-2-25-tax/)
-- [Lovable launches its vibe-coding app on iOS and Android](https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/)
+- [NASA chief Jared Isaacman says he&#39;s fighting for Pluto: &#39;I am very much in the camp of &#39;make Pluto a planet again&#39;](https://www.space.com/astronomy/pluto/nasa-chief-jared-isaacman-says-hes-fighting-for-pluto-i-am-very-much-in-the-camp-of-make-pluto-a-planet-again)
+- [These astronauts are trying to uphold the US Constitution: &#39;We need to make sure that people are using facts and evidence&#39;](https://www.space.com/space-exploration/human-spaceflight/these-astronauts-are-trying-to-uphold-the-us-constitution-we-need-to-make-sure-that-people-are-using-facts-and-evidence)
+- [Amazon launches an AI-powered audio Q&amp;A experience on product pages](https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/)
+- [Match Group invests $100M in Sniffies, a cruising app for gay men](https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/)
+- [Google expands Pentagon’s access to its AI after Anthropic’s refusal](https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
