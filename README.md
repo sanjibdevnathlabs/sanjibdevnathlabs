@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Otter’s new feature lets users search across their enterprise tools](https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/)
-- [Scientists learn how much baby stars in Orion weigh — by watching their dance moves](https://www.space.com/astronomy/stars/scientists-learn-how-much-baby-stars-in-orion-weigh-by-watching-their-dance-moves)
-- [Could the moon ever be blockaded? Experts predict cislunar space could be the next Strait of Hormuz](https://www.space.com/astronomy/moon/could-the-moon-be-the-next-strait-of-hormuz)
-- [Drizzle on top: a new high-end dog food brand is coming for the 1%](https://techcrunch.com/2026/04/27/drizzle-on-top-a-new-high-end-dog-food-brand-is-coming-for-the-1/)
-- [India’s Snabbit closes $56M round as investor interest in on-demand home services heats up](https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/)
+- [Clean up Rebel scum in the upcoming Star Wars DLC for PowerWash Simulator 2](https://www.space.com/entertainment/space-games/clean-up-rebel-scum-in-the-upcoming-star-wars-dlc-for-powerwash-simulator-2)
+- [Canadian astronaut Josh Kutryk finally flying to ISS after Boeing Starliner mishap: &#39;I&#39;m committed to making the most of this unique opportunity&#39;](https://www.space.com/space-exploration/missions/canadian-astronaut-josh-kutryk-finally-flying-to-iss-after-boeing-starliner-mishap-im-committed-to-making-the-most-of-this-unique-opportunity)
+- [US Supreme Court appears split over controversial use of ‘geofence’ search warrants](https://techcrunch.com/2026/04/28/scotus-chatrie-geofence-search-warrant-ruling-arguments/)
+- [Australia forces Big Tech firms to pay for news or face a 2.25% tax](https://techcrunch.com/2026/04/28/australia-forces-big-tech-firms-to-pay-for-news-or-face-a-2-25-tax/)
+- [Lovable launches its vibe-coding app on iOS and Android](https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
