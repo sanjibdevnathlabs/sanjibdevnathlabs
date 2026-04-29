@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Ben Mauro&#39;s &#39;Huxley&#39; graphic novel universe the next big thing in sci-fi? &lpar;interview&rpar;](https://www.space.com/entertainment/space-books/is-ben-mauros-huxley-graphic-novel-universe-the-next-big-thing-in-sci-fi-interview)
+- [Parallel Web Systems hits $2B valuation five months after its last big raise](https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/)
+- [James Webb Space Telescope&#39;s strange little red dots may really be &#39;black hole stars&#39;, X-ray data suggests](https://www.space.com/astronomy/black-holes/james-webb-space-telescopes-strange-little-red-dots-may-really-be-black-hole-stars-x-ray-data-suggests)
 - [Europe&#39;s powerful Ariane 6 rocket launching 32 Amazon internet satellites early April 30: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/europe-ariane-6-rocket-launch-32-amazon-leo-satellites-va267)
 - [Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality](https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/)
-- [More Gemini features are coming to Google TV](https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/)
-- [Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government](https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/)
-- [&#39;Star Trek: Strange New Worlds&#39; season 4 gets release date and trailer packed with space cowboys, black holes, and a T-rex](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-4-gets-release-date-and-trailer-packed-with-space-cowboys-black-holes-and-a-t-rex)
 <!-- BLOG-POST-LIST:END -->
 
 ---
