@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jack Dorsey-backed Vine reboot Divine launches to the public](https://techcrunch.com/2026/04/29/jack-dorsey-backed-vine-reboot-divine-launches-to-public/)
+- [What is quantum gravity? Scientists think it could explain the beginning of our universe](https://www.space.com/astronomy/what-is-quantum-gravity-scientists-think-it-could-explain-the-beginning-of-our-universe)
 - [Is Tatooine the norm? Planets may prefer living with two suns instead of one](https://www.space.com/astronomy/exoplanets/is-tatooine-the-norm-planets-may-prefer-living-with-two-suns-instead-of-one)
-- [Coby Adcock’s Scout AI raises $100 million to train its models for war. We visited its bootcamp.](https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/)
+- [Coby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp](https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/)
 - [How one venture firm is investing in an increasingly fragmented world](https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/)
-- [At his OpenAI trial, Musk relitigates an old friendship](https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/)
-- [Starbirth shuts down 40,000 light-years from the Milky Way&#39;s core — and astronomers don&#39;t know why](https://www.space.com/astronomy/stars/starbirth-shuts-down-40-000-light-years-from-the-milky-ways-core-and-astronomers-dont-know-why)
 <!-- BLOG-POST-LIST:END -->
 
 ---
