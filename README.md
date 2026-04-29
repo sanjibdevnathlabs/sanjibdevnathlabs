@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Cloud surpasses $20B but says growth was capacity-constrained](https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/)
+- [Microsoft says it has over 20M paid Copilot users, and they really are using it](https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/)
+- [Google Cloud surpasses $20B, but says growth was capacity-constrained](https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/)
 - [Google gains 25M subscriptions in Q1, driven by YouTube and Google One](https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/)
 - [Fusion power startup Zap Energy pulls a partial pivot, adding nuclear fission to the mix](https://techcrunch.com/2026/04/29/fusion-power-startup-zap-energy-pulls-a-partial-pivot-adding-nuclear-fission-to-the-mix/)
 - [Trump invited the Artemis 2 moon astronauts to the Oval Office. Here&#39;s what happened](https://www.space.com/space-exploration/artemis/trump-invited-the-artemis-2-moon-astronauts-to-the-oval-office-heres-what-happened)
-- [Is Ben Mauro&#39;s &#39;Huxley&#39; graphic novel universe the next big thing in sci-fi? &lpar;interview&rpar;](https://www.space.com/entertainment/space-books/is-ben-mauros-huxley-graphic-novel-universe-the-next-big-thing-in-sci-fi-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
