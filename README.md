@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Networking Concepts Every DevOps Engineer Must Know](https://www.youtube.com/watch?v=w0SQGCt-6Ro)
 - [Finding Hardware Bugs - Computerphile](https://www.youtube.com/watch?v=G1VgXqKZMZE)
 - [Learn networking with REAL labs 👉 Join the Summer of CCNA](https://www.youtube.com/shorts/mTpvUlng5ls)
 - [Most AI coding tools don’t sandbox on Windows &lpar;except one&rpar;](https://www.youtube.com/shorts/s1O09zc3xVY)
 - [I finally found a use case for OpenClaw…](https://www.youtube.com/watch?v=FM5-R4VPArw)
-- [Claude just got another superpower...](https://www.youtube.com/watch?v=jeA-KBv0b68)
 <!-- YOUTUBE:END -->
 
 ---
