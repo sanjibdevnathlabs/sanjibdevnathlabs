@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jack Dorsey-backed Vine reboot Divine launches to the public](https://techcrunch.com/2026/04/29/jack-dorsey-backed-vine-reboot-divine-launches-to-public/)
-- [What is quantum gravity? Scientists think it could explain the beginning of our universe](https://www.space.com/astronomy/what-is-quantum-gravity-scientists-think-it-could-explain-the-beginning-of-our-universe)
-- [Is Tatooine the norm? Planets may prefer living with two suns instead of one](https://www.space.com/astronomy/exoplanets/is-tatooine-the-norm-planets-may-prefer-living-with-two-suns-instead-of-one)
-- [Coby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp](https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/)
-- [How one venture firm is investing in an increasingly fragmented world](https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/)
+- [Apple loses bid to pause App Store fee changes as case heads to Supreme Court](https://techcrunch.com/2026/04/29/apple-epic-games-app-store-fees-pause-changes-supreme-court/)
+- [Earth AI is vertically integrating the search for critical minerals](https://techcrunch.com/2026/04/29/earth-ai-is-vertically-integrating-the-search-for-critical-minerals/)
+- [The cosmos wears a galactic sombrero | Space photo of the day for April 29, 2026](https://www.space.com/astronomy/galaxies/the-cosmos-wears-a-galactic-sombrero-space-photo-of-the-day-for-april-29-2026)
+- [Sri Lanka discloses another missing payment, days after hackers stole $2.5M from its finance ministry](https://techcrunch.com/2026/04/29/sri-lanka-discloses-another-missing-payment-days-after-hackers-stole-2-5m-from-its-finance-ministry/)
+- [Firestorm Labs raises $82M to take drone factories into the field](https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
