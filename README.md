@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Tatooine the norm? Planets may prefer living with two suns instead of one](https://www.space.com/astronomy/exoplanets/is-tatooine-the-norm-planets-may-prefer-living-with-two-suns-instead-of-one)
+- [Coby Adcock’s Scout AI raises $100 million to train its models for war. We visited its bootcamp.](https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/)
 - [How one venture firm is investing in an increasingly fragmented world](https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/)
 - [At his OpenAI trial, Musk relitigates an old friendship](https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/)
 - [Starbirth shuts down 40,000 light-years from the Milky Way&#39;s core — and astronomers don&#39;t know why](https://www.space.com/astronomy/stars/starbirth-shuts-down-40-000-light-years-from-the-milky-ways-core-and-astronomers-dont-know-why)
-- [Amazon is already offering new OpenAI products on AWS](https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/)
-- [NASA chief Jared Isaacman says he&#39;s fighting for Pluto: &#39;I am very much in the camp of &#39;make Pluto a planet again&#39;](https://www.space.com/astronomy/pluto/nasa-chief-jared-isaacman-says-hes-fighting-for-pluto-i-am-very-much-in-the-camp-of-make-pluto-a-planet-again)
 <!-- BLOG-POST-LIST:END -->
 
 ---
