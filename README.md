@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple loses bid to pause App Store fee changes as case heads to Supreme Court](https://techcrunch.com/2026/04/29/apple-epic-games-app-store-fees-pause-changes-supreme-court/)
-- [Earth AI is vertically integrating the search for critical minerals](https://techcrunch.com/2026/04/29/earth-ai-is-vertically-integrating-the-search-for-critical-minerals/)
-- [The cosmos wears a galactic sombrero | Space photo of the day for April 29, 2026](https://www.space.com/astronomy/galaxies/the-cosmos-wears-a-galactic-sombrero-space-photo-of-the-day-for-april-29-2026)
-- [Sri Lanka discloses another missing payment, days after hackers stole $2.5M from its finance ministry](https://techcrunch.com/2026/04/29/sri-lanka-discloses-another-missing-payment-days-after-hackers-stole-2-5m-from-its-finance-ministry/)
-- [Firestorm Labs raises $82M to take drone factories into the field](https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/)
+- [Europe&#39;s powerful Ariane 6 rocket launching 32 Amazon internet satellites early April 30: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/europe-ariane-6-rocket-launch-32-amazon-leo-satellites-va267)
+- [Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality](https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/)
+- [More Gemini features are coming to Google TV](https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/)
+- [Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government](https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/)
+- [&#39;Star Trek: Strange New Worlds&#39; season 4 gets release date and trailer packed with space cowboys, black holes, and a T-rex](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-4-gets-release-date-and-trailer-packed-with-space-cowboys-black-holes-and-a-t-rex)
 <!-- BLOG-POST-LIST:END -->
 
 ---
