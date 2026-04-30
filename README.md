@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;The Martian&#39; becomes real life: Meet &#39;Spudnik,&#39; the space potato](https://www.space.com/space-exploration/the-martian-becomes-real-life-meet-spudnik-the-space-potato)
 - [SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO](https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/)
 - [Amazon, Meta join fight to end Google Pay, PhonePe dominance in India](https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/)
 - [Amazon’s cloud business is surging — and so is its capital spending](https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/)
 - [Sources: Anthropic could raise a new $50B round at a valuation of $900B](https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/)
-- [On the stand, Elon Musk can’t escape his own tweets](https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
