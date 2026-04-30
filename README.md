@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An Amazon rainforest river from space | Space photo of the day for April 30, 2026](https://www.space.com/astronomy/earth/an-amazon-rainforest-river-from-space-space-photo-of-the-day-for-april-30-2026)
+- [&#39;This is the Way&#39;: Lego goes big with 9 new sets for this year&#39;s May the 4th Star Wars drop, including the first Star Wars UCS set of 2026](https://www.space.com/entertainment/space-toys-lego/this-is-the-way-lego-goes-big-with-9-new-sets-for-this-years-may-the-4th-star-wars-drop-including-the-first-star-wars-ucs-set-of-2026)
+- [Spotify introduces verified artist badges to help distinguish humans from AI](https://techcrunch.com/2026/04/30/spotify-introduces-verified-artist-badges-to-help-distinguish-humans-from-ai/)
+- [Netflix wants you to watch ‘Clips,’ its TikTok-like vertical video feed](https://techcrunch.com/2026/04/30/netflix-wants-you-to-watch-clips-its-tiktok-like-vertical-video-feed/)
 - [Meta says its business AI now facilitates 10 million conversations a week](https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/)
-- [Instagram cracks down on content aggregators](https://techcrunch.com/2026/04/30/instagram-restricts-reach-of-content-aggregators-in-new-crackdown/)
-- [&#39;This is going to be what makes the Earth secure.&#39; How one California company plans to protect us from dangerous asteroids](https://www.space.com/space-exploration/asteroid-comet-missions/this-is-going-to-be-what-makes-the-earth-secure-how-one-california-company-plans-to-protect-us-from-dangerous-asteroids)
-- [We love this star projector&#39;s incredible displays and at $25 it&#39;s never been cheaper](https://www.space.com/stargazing/skywatching-kit/we-love-this-star-projectors-incredible-displays-and-at-usd25-its-never-been-cheaper)
-- [&#39;The Martian&#39; becomes real life: Meet &#39;Spudnik,&#39; the space potato](https://www.space.com/space-exploration/the-martian-becomes-real-life-meet-spudnik-the-space-potato)
 <!-- BLOG-POST-LIST:END -->
 
 ---
