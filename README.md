@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple was surprised by AI-driven demand for Macs](https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/)
+- [Russia&#39;s new homegrown Soyuz 5 rocket aces debut launch](https://www.space.com/space-exploration/launches-spacecraft/russias-new-homegrown-soyuz-5-rocket-aces-debut-launch)
 - [Artemis 3 has been pushed to late 2027. Can NASA still land astronauts on the moon in 2028?](https://www.space.com/space-exploration/artemis/artemis-3-has-been-pushed-to-late-2027-can-nasa-still-land-astronauts-on-the-moon-in-2028)
 - [Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter](https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/)
 - [Rivian downsizes DOE loan to $4.5B, while boosting capacity of Georgia factory](https://techcrunch.com/2026/04/30/rivian-downsizes-doe-loan-to-4-5b-while-boosting-capacity-of-georgia-factory/)
-- [US Space Force wants space-based missile interceptors for Golden Dome ready by 2028](https://www.space.com/space-exploration/satellites/us-space-force-wants-space-based-missile-interceptors-for-golden-dome-ready-by-2028)
-- [Hackers are actively exploiting a bug in cPanel, used by millions of websites](https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
