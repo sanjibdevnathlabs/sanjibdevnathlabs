@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta says its business AI now facilitates 10 million conversations a week](https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/)
+- [Instagram cracks down on content aggregators](https://techcrunch.com/2026/04/30/instagram-restricts-reach-of-content-aggregators-in-new-crackdown/)
+- [&#39;This is going to be what makes the Earth secure.&#39; How one California company plans to protect us from dangerous asteroids](https://www.space.com/space-exploration/asteroid-comet-missions/this-is-going-to-be-what-makes-the-earth-secure-how-one-california-company-plans-to-protect-us-from-dangerous-asteroids)
+- [We love this star projector&#39;s incredible displays and at $25 it&#39;s never been cheaper](https://www.space.com/stargazing/skywatching-kit/we-love-this-star-projectors-incredible-displays-and-at-usd25-its-never-been-cheaper)
 - [&#39;The Martian&#39; becomes real life: Meet &#39;Spudnik,&#39; the space potato](https://www.space.com/space-exploration/the-martian-becomes-real-life-meet-spudnik-the-space-potato)
-- [SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO](https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/)
-- [Amazon, Meta join fight to end Google Pay, PhonePe dominance in India](https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/)
-- [Amazon’s cloud business is surging — and so is its capital spending](https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/)
-- [Sources: Anthropic could raise a new $50B round at a valuation of $900B](https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
