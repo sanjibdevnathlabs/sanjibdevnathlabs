@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [An Amazon rainforest river from space | Space photo of the day for April 30, 2026](https://www.space.com/astronomy/earth/an-amazon-rainforest-river-from-space-space-photo-of-the-day-for-april-30-2026)
-- [&#39;This is the Way&#39;: Lego goes big with 9 new sets for this year&#39;s May the 4th Star Wars drop, including the first Star Wars UCS set of 2026](https://www.space.com/entertainment/space-toys-lego/this-is-the-way-lego-goes-big-with-9-new-sets-for-this-years-may-the-4th-star-wars-drop-including-the-first-star-wars-ucs-set-of-2026)
-- [Spotify introduces verified artist badges to help distinguish humans from AI](https://techcrunch.com/2026/04/30/spotify-introduces-verified-artist-badges-to-help-distinguish-humans-from-ai/)
-- [Netflix wants you to watch ‘Clips,’ its TikTok-like vertical video feed](https://techcrunch.com/2026/04/30/netflix-wants-you-to-watch-clips-its-tiktok-like-vertical-video-feed/)
-- [Meta says its business AI now facilitates 10 million conversations a week](https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/)
+- [Astrophotographer captures Pleiades &#39;Seven Sisters&#39; glowing through ghostly blue veil](https://www.space.com/stargazing/astrophotography/astrophotographer-captures-pleiades-seven-sisters-glowing-through-ghostly-blue-veil)
+- [Salesforce is crowdsourcing its AI roadmap — with customers](https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/)
+- [SpaceX Falcon Heavy launch seen from space &lpar;satellite photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-heavy-launch-seen-from-space-satellite-photos)
+- [Uber taps Hertz to clean, charge, and fix its Lucid Motors robotaxis](https://techcrunch.com/2026/04/30/uber-taps-hertz-to-clean-charge-and-fix-its-lucid-motors-robotaxis/)
+- [SpaceX backer 137 Ventures raises $700M for two growth-stage funds](https://techcrunch.com/2026/04/30/spacex-backer-137-ventures-raises-700m-for-two-growth-stage-funds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
