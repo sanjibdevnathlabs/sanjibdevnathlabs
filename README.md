@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astrophotographer captures Pleiades &#39;Seven Sisters&#39; glowing through ghostly blue veil](https://www.space.com/stargazing/astrophotography/astrophotographer-captures-pleiades-seven-sisters-glowing-through-ghostly-blue-veil)
-- [Salesforce is crowdsourcing its AI roadmap — with customers](https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/)
-- [SpaceX Falcon Heavy launch seen from space &lpar;satellite photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-heavy-launch-seen-from-space-satellite-photos)
-- [Uber taps Hertz to clean, charge, and fix its Lucid Motors robotaxis](https://techcrunch.com/2026/04/30/uber-taps-hertz-to-clean-charge-and-fix-its-lucid-motors-robotaxis/)
-- [SpaceX backer 137 Ventures raises $700M for two growth-stage funds](https://techcrunch.com/2026/04/30/spacex-backer-137-ventures-raises-700m-for-two-growth-stage-funds/)
+- [Is Venus volcanically active? Big Hawaiian eruption in 2022 could help scientists find out](https://www.space.com/astronomy/venus/is-venus-volcanically-active-big-hawaiian-eruption-in-2022-could-help-scientists-find-out)
+- [EV startup Faraday Future paid $7.5M to company tied to founder Jia Yueting](https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/)
+- [OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico](https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/)
+- [Elon Musk testifies that xAI trained Grok on OpenAI models](https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/)
+- [Meet the legendary heroes and villains of &#39;Masters of the Universe&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/meet-the-legendary-heroes-and-villains-of-masters-of-the-universe-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
