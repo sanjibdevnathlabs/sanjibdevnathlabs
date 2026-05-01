@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell](https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/)
 - [Musely secures $360M from General Catalyst without giving up equity](https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/)
-- [Meta buys robotic startup to bolster its humanoid AI ambitions](https://techcrunch.com/2026/05/01/meta-buys-robotic-startup-to-bolster-its-humanoid-ai-ambitions/)
+- [Meta buys robotics startup to bolster its humanoid AI ambitions](https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/)
 - [Artemis 2 astronauts get the star treatment after historic moon trip](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-get-the-star-treatment-after-historic-moon-trip)
 - [Drone radar could help spacecraft pinpoint where to drill for water on Mars, scientists say](https://www.space.com/astronomy/mars/drone-radar-could-help-spacecraft-pinpoint-where-to-drill-for-water-on-mars-scientists-say)
-- [&#39;Slither&#39; at 20: The alien worm comedy-horror that heralded James Gunn&#39;s arrival](https://www.space.com/entertainment/space-movies-shows/slither-at-20-the-alien-worm-comedy-horror-that-heralded-james-gunns-arrival)
 <!-- BLOG-POST-LIST:END -->
 
 ---
