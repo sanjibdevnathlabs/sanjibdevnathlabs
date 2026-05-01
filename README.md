@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Slither&#39; at 20: The alien worm comedy-horror that heralded James Gunn&#39;s arrival](https://www.space.com/entertainment/space-movies-shows/slither-at-20-the-alien-worm-comedy-horror-that-heralded-james-gunns-arrival)
+- [Coatue has a plan to buy up land for data centers, possibly for Anthropic](https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/)
 - [How &#39;For All Mankind&#39; evolved from &#39;The Right Stuff&#39; into &#39;The Expanse&#39;](https://www.space.com/entertainment/space-movies-shows/how-for-all-mankind-evolved-from-the-right-stuff-into-the-expanse)
 - [£115 off for Star Wars Day, I think this Lego Star Wars UCS set is the most mind-blowing Lego starship you&#39;ll ever own](https://www.space.com/stargazing/skywatching-kit/gbp115-off-for-star-wars-day-i-think-this-lego-star-wars-ucs-set-is-the-most-mind-blowing-lego-starship-youll-ever-own)
 - [Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks](https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/)
-- [Thinner than a hair and stretchy like rubber: New material could shield against radiation in next-gen space tech](https://www.space.com/technology/thinner-than-a-hair-and-stretchy-like-rubber-new-material-could-shield-against-radiation-in-next-gen-space-tech)
-- [Ubuntu services hit by outages after DDoS attack](https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
