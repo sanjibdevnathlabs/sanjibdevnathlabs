@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is it cake? No, it&#39;s a parachute! | Space photo of the day for May 1, 2026](https://www.space.com/astronomy/mars/is-it-cake-no-its-a-parachute-space-photo-of-the-day-for-may-1-2026)
+- [The Claypool Lennon Delirium&#39;s cosmic new album is not just an AI warning, but a reflection on a global loss of empathy](https://www.space.com/entertainment/the-claypool-lennon-deliriums-cosmic-new-album-is-not-just-an-ai-warning-but-a-reflection-on-a-global-loss-of-empathy)
 - [June full moon 2026: When, where and how to see the Strawberry Moon](https://www.space.com/stargazing/june-full-moon-2026-when-where-and-how-to-see-the-strawberry-moon)
 - [People are finally using Reddit’s search](https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/)
 - [NASA&#39;s Curiosity and Perseverance rovers capture sweeping Mars panoramas &lpar;video&rpar;](https://www.space.com/astronomy/mars/nasas-curiosity-and-perseverance-rovers-capture-sweeping-mars-panoramas-video)
-- [May&#39;s full &#39;Flower Moon&#39; rises tonight: Here&#39;s what to expect from the &#39;micromoon&#39;](https://www.space.com/stargazing/mays-full-flower-moon-rises-tonight-heres-what-to-expect-from-the-micromoon)
-- [ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet](https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
