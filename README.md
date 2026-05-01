@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [June full moon 2026: When, where and how to see the Strawberry Moon](https://www.space.com/stargazing/june-full-moon-2026-when-where-and-how-to-see-the-strawberry-moon)
+- [People are finally using Reddit’s search](https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/)
+- [NASA&#39;s Curiosity and Perseverance rovers capture sweeping Mars panoramas &lpar;video&rpar;](https://www.space.com/astronomy/mars/nasas-curiosity-and-perseverance-rovers-capture-sweeping-mars-panoramas-video)
 - [May&#39;s full &#39;Flower Moon&#39; rises tonight: Here&#39;s what to expect from the &#39;micromoon&#39;](https://www.space.com/stargazing/mays-full-flower-moon-rises-tonight-heres-what-to-expect-from-the-micromoon)
 - [ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet](https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/)
-- [As Tim Cook steps down, Apple hit record sales — but a chip shortage looms](https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/)
-- [Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says](https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/)
-- [Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks](https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
