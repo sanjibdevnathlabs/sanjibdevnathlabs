@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [GitHub is having some major issues right now…](https://www.youtube.com/watch?v=d53Zk28esmU)
-- [Networking Concepts Every DevOps Engineer Must Know](https://www.youtube.com/watch?v=w0SQGCt-6Ro)
-- [Finding Hardware Bugs - Computerphile](https://www.youtube.com/watch?v=G1VgXqKZMZE)
 - [Learn networking with REAL labs 👉 Join the Summer of CCNA](https://www.youtube.com/shorts/mTpvUlng5ls)
 - [Most AI coding tools don’t sandbox on Windows &lpar;except one&rpar;](https://www.youtube.com/shorts/s1O09zc3xVY)
+- [I built a network with gachapon machines](https://www.youtube.com/shorts/3XkBH83P93s)
+- [i didn&#39;t want to like this....](https://www.youtube.com/watch?v=G3jvn7n-68Y)
+- [Milla Jovovich made an AI memory tool…..it’s pretty good](https://www.youtube.com/shorts/kerRwLePW7I)
 <!-- YOUTUBE:END -->
 
 ---
