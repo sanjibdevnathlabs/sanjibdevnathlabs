@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See May&#39;s full &#39;Flower Moon&#39; bloom in gorgeous photos from around the world](https://www.space.com/stargazing/see-mays-full-flower-moon-bloom-in-gorgeous-photos-from-around-the-world)
+- [3 planets will put on a sky show in May — when and how to see them](https://www.space.com/stargazing/3-planets-will-put-on-a-sky-show-in-may-when-and-how-to-see-them)
+- [The Eta Aquarid meteor shower peaks next week: Here&#39;s what you need to know](https://www.space.com/stargazing/meteor-showers/the-eta-aquarid-meteor-shower-peaks-next-week-heres-what-you-need-to-know)
 - [Uber wants to turn its millions of drivers into a sensor grid for self-driving companies](https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/)
 - [Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell](https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/)
-- [Musely secures $360M from General Catalyst without giving up equity](https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/)
-- [Meta buys robotics startup to bolster its humanoid AI ambitions](https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/)
-- [Artemis 2 astronauts get the star treatment after historic moon trip](https://www.space.com/space-exploration/artemis/artemis-2-astronauts-get-the-star-treatment-after-historic-moon-trip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
