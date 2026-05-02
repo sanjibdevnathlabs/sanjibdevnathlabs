@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best AI dictation apps, tested and ranked](https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/)
+- [SpaceX launching 45 satellites to orbit early May 3: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-cas500-2-mission-45-satellites)
+- [New for Star Wars Day, grab this Lego Star Wars model of The Mandalorian&#39;s coolest ship and get the Darksaber for free](https://www.space.com/stargazing/skywatching-kit/new-for-star-wars-day-grab-this-lego-star-wars-model-of-the-mandalorians-coolest-ship-and-get-the-darksaber-for-free)
+- [This Week In Space podcast: Episode 208 — Lander, Lander, Who&#39;s Got a Lander](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-208-lander-lander-whos-got-a-lander)
 - [Beyond Lovable and Mistral: 21 European startups to watch](https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/)
-- [Best sci-fi thriller movies of all time, ranked](https://www.space.com/entertainment/space-movies-shows/best-sci-fi-thriller-movies-of-all-time-ranked)
-- [From new releases to classic models, feel the force this Star Wars Day with the best Lego sets from the saga](https://www.space.com/entertainment/space-toys-lego/from-new-releases-to-classic-models-feel-the-force-this-star-wars-day-with-the-best-lego-sets-from-the-saga)
-- [Galaxies, Artemis 2, space telescopes and stormtroopers: Here are the best photos from our staff](https://www.space.com/stargazing/astrophotography/galaxies-artemis-2-space-telescopes-and-stormtroopers-here-are-the-best-photos-from-our-staff)
-- [See May&#39;s full &#39;Flower Moon&#39; bloom in gorgeous photos from around the world](https://www.space.com/stargazing/see-mays-full-flower-moon-bloom-in-gorgeous-photos-from-around-the-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
