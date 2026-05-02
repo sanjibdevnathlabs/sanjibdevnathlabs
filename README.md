@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Lovable and Mistral: 21 European startups to watch](https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/)
+- [Best sci-fi thriller movies of all time, ranked](https://www.space.com/entertainment/space-movies-shows/best-sci-fi-thriller-movies-of-all-time-ranked)
+- [From new releases to classic models, feel the force this Star Wars Day with the best Lego sets from the saga](https://www.space.com/entertainment/space-toys-lego/from-new-releases-to-classic-models-feel-the-force-this-star-wars-day-with-the-best-lego-sets-from-the-saga)
+- [Galaxies, Artemis 2, space telescopes and stormtroopers: Here are the best photos from our staff](https://www.space.com/stargazing/astrophotography/galaxies-artemis-2-space-telescopes-and-stormtroopers-here-are-the-best-photos-from-our-staff)
 - [See May&#39;s full &#39;Flower Moon&#39; bloom in gorgeous photos from around the world](https://www.space.com/stargazing/see-mays-full-flower-moon-bloom-in-gorgeous-photos-from-around-the-world)
-- [3 planets will put on a sky show in May — when and how to see them](https://www.space.com/stargazing/3-planets-will-put-on-a-sky-show-in-may-when-and-how-to-see-them)
-- [The Eta Aquarid meteor shower peaks next week: Here&#39;s what you need to know](https://www.space.com/stargazing/meteor-showers/the-eta-aquarid-meteor-shower-peaks-next-week-heres-what-you-need-to-know)
-- [Uber wants to turn its millions of drivers into a sensor grid for self-driving companies](https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/)
-- [Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell](https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
