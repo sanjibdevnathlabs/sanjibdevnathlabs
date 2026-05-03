@@ -146,10 +146,10 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘This is fine’ creator says AI startup stole his art](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/)
 - [In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/)
 - [TechCrunch Mobility: How do you issue a ticket to a robotaxi?](https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/)
 - [&#39;It was quite a light show!&#39; NASA astronaut spies dramatic fireball from the International Space Station &lpar;photos&rpar;](https://www.space.com/space-exploration/international-space-station/it-was-quite-a-light-show-nasa-astronaut-spies-dramatic-fireball-from-the-international-space-station-photos)
-- [Spaceflight is hard on the heart, yet artificial ones grow better in space than on Earth](https://www.space.com/space-exploration/human-spaceflight/spaceflight-is-hard-on-the-heart-yet-artificial-ones-grow-better-in-space-than-on-earth)
 - [New this month, this Lego Star Wars Yoda bust would terrify Darth Vader and I have to have it](https://www.space.com/stargazing/skywatching-kit/new-this-month-this-lego-star-wars-yoda-bust-would-terrify-darth-vader-and-i-have-to-have-it)
 <!-- BLOG-POST-LIST:END -->
 
