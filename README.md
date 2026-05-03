@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7 things nobody tells you about stargazing &lpar;that make a huge difference&rpar;](https://www.space.com/stargazing/7-things-nobody-tells-you-about-stargazing-that-make-a-huge-difference)
 - [Why do some stars become &#39;supernova impostors&#39;? Astronomers still don&#39;t quite know](https://www.space.com/astronomy/stars/why-do-some-stars-become-supernova-impostors-astronomers-still-dont-quite-know)
 - [AI-generated actors and scripts are now ineligible for Oscars](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/)
 - [Farewell, Jeeves: Ask.com shuts down](https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/)
 - [Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027](https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/)
-- [The best AI dictation apps, tested and ranked](https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
