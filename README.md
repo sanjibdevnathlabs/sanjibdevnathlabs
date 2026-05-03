@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Mobility: How do you issue a ticket to a robotaxi?](https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/)
+- [&#39;It was quite a light show!&#39; NASA astronaut spies dramatic fireball from the International Space Station &lpar;photos&rpar;](https://www.space.com/space-exploration/international-space-station/it-was-quite-a-light-show-nasa-astronaut-spies-dramatic-fireball-from-the-international-space-station-photos)
 - [New this month, this Lego Star Wars Yoda bust would terrify Darth Vader and I have to have it](https://www.space.com/stargazing/skywatching-kit/new-this-month-this-lego-star-wars-yoda-bust-would-terrify-darth-vader-and-i-have-to-have-it)
 - [Spaceflight is hard on the heart, yet artificial ones grow better in space than on Earth](https://www.space.com/space-exploration/human-spaceflight/spaceflight-is-hard-on-the-heart-yet-artificial-ones-grow-better-in-space-than-on-earth)
 - [This tiny, magnetic e-reader could stop you from doomscrolling](https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/)
-- [7 things nobody tells you about stargazing &lpar;that make a huge difference&rpar;](https://www.space.com/stargazing/7-things-nobody-tells-you-about-stargazing-that-make-a-huge-difference)
-- [Why do some stars become &#39;supernova impostors&#39;? Astronomers still don&#39;t quite know](https://www.space.com/astronomy/stars/why-do-some-stars-become-supernova-impostors-astronomers-still-dont-quite-know)
 <!-- BLOG-POST-LIST:END -->
 
 ---
