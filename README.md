@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Are streamers losing faith in legacy sci-fi franchises?](https://www.space.com/entertainment/space-movies-shows/are-streamers-losing-faith-in-legacy-sci-fi-franchises)
-- [Elon Musk’s only expert witness at the OpenAI trial fears an AGI arms race](https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/)
-- [Sierra raises $950M as the race to own enterprise AI gets serious](https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/)
-- [Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims](https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/)
-- [Will the moon ruin the Eta Aquarid meteor shower this week? Here&#39;s what to know](https://www.space.com/stargazing/meteor-showers/will-the-moon-ruin-the-eta-aquarid-meteor-shower-this-week-heres-what-to-know)
+- [Image AI models now drive app growth, beating chatbot upgrades](https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/)
+- [Katie Haun raises $1 billion for new venture funds](https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/)
+- [James Webb Space Telescope directly studies an exoplanet&#39;s surface for the 1st time: &#39;We see a dark, hot, barren rock&#39;](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-directly-studies-an-exoplanets-surface-for-the-1st-time-we-see-a-dark-hot-barren-rock)
+- [Hackers are still exploiting the cPanel bug to gain control of thousands of websites](https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/)
+- [Watch the Eta Aquarid meteor shower online with these free livestreams](https://www.space.com/stargazing/meteor-showers/watch-the-eta-aquarid-meteor-shower-online-with-these-free-livestreams)
 <!-- BLOG-POST-LIST:END -->
 
 ---
