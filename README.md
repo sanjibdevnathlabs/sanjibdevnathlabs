@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ouster’s new color lidar is coming to replace cameras](https://techcrunch.com/2026/05/04/ousters-new-color-lidar-is-coming-to-replace-cameras/)
+- [Why were galaxies so active in the early universe? We may be getting close to the answer](https://www.space.com/astronomy/galaxies/why-were-galaxies-so-active-in-the-early-universe-we-may-be-getting-close-to-the-answer)
 - [Nicolas Sauvage is betting on the boring parts of AI](https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/)
 - [We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse](https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/)
 - [‘This is fine’ creator says AI startup stole his art](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/)
-- [In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/)
-- [TechCrunch Mobility: How do you issue a ticket to a robotaxi?](https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
