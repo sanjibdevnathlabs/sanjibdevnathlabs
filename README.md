@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Our Milky Way&#39;s &#39;Zone of Avoidance&#39; holds a galaxy supercluster with 30,000 trillion times the sun&#39;s mass](https://www.space.com/astronomy/galaxies/our-milky-ways-zone-of-avoidance-holds-a-galaxy-supercluster-with-30-000-trillion-times-the-suns-mass)
-- [US healthcare marketplaces shared citizenship and race data with ad tech giants](https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/)
-- [Lasers take aim at a galaxy far, far away | Space photo of the day for May 4, 2026](https://www.space.com/astronomy/lasers-take-aim-at-a-galaxy-far-far-away-space-photo-of-the-day-for-may-4-2026)
-- [Amazon opens up its global logistics network to all businesses](https://techcrunch.com/2026/05/04/amazon-opens-up-its-global-logistics-network-to-all-businesses/)
-- [5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass](https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/)
+- [Are streamers losing faith in legacy sci-fi franchises?](https://www.space.com/entertainment/space-movies-shows/are-streamers-losing-faith-in-legacy-sci-fi-franchises)
+- [Elon Musk’s only expert witness at the OpenAI trial fears an AGI arms race](https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/)
+- [Sierra raises $950M as the race to own enterprise AI gets serious](https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/)
+- [Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims](https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/)
+- [Will the moon ruin the Eta Aquarid meteor shower this week? Here&#39;s what to know](https://www.space.com/stargazing/meteor-showers/will-the-moon-ruin-the-eta-aquarid-meteor-shower-this-week-heres-what-to-know)
 <!-- BLOG-POST-LIST:END -->
 
 ---
