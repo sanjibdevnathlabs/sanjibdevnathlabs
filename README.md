@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A YouTuber just recreated the original Star Wars with cardboard, and it&#39;s awesome &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/a-youtuber-just-recreated-the-original-star-wars-with-cardboard-and-its-awesome-video)
+- [13 International &#39;Star Wars&#39; Posters You&#39;ve Likely Never Seen](https://www.space.com/entertainment/space-movies-shows/13-international-star-wars-posters-youve-likely-never-seen)
 - [Ouster’s new color lidar is coming to replace cameras](https://techcrunch.com/2026/05/04/ousters-new-color-lidar-is-coming-to-replace-cameras/)
 - [Why were galaxies so active in the early universe? We may be getting close to the answer](https://www.space.com/astronomy/galaxies/why-were-galaxies-so-active-in-the-early-universe-we-may-be-getting-close-to-the-answer)
 - [Nicolas Sauvage is betting on the boring parts of AI](https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/)
-- [We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse](https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/)
-- [‘This is fine’ creator says AI startup stole his art](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
