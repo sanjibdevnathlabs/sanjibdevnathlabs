@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US government warns of severe CopyFail bug affecting major versions of Linux](https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/)
+- [OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO](https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/)
+- [Trump&#39;s proposed NASA budget is a &#39;horrible threat to our future&#39; in space, Planetary Society CEO says](https://www.space.com/space-exploration/trumps-proposed-nasa-budget-is-a-horrible-threat-to-our-future-in-space-planetary-society-ceo-says)
 - [Image AI models now drive app growth, beating chatbot upgrades](https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/)
 - [Katie Haun raises $1B for new venture funds](https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/)
-- [James Webb Space Telescope directly studies an exoplanet&#39;s surface for the 1st time: &#39;We see a dark, hot, barren rock&#39;](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-directly-studies-an-exoplanets-surface-for-the-1st-time-we-see-a-dark-hot-barren-rock)
-- [Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites](https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/)
-- [Watch the Eta Aquarid meteor shower online with these free livestreams](https://www.space.com/stargazing/meteor-showers/watch-the-eta-aquarid-meteor-shower-online-with-these-free-livestreams)
 <!-- BLOG-POST-LIST:END -->
 
 ---
