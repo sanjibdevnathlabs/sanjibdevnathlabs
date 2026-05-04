@@ -147,9 +147,9 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- BLOG-POST-LIST:START -->
 - [Image AI models now drive app growth, beating chatbot upgrades](https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/)
-- [Katie Haun raises $1 billion for new venture funds](https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/)
+- [Katie Haun raises $1B for new venture funds](https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/)
 - [James Webb Space Telescope directly studies an exoplanet&#39;s surface for the 1st time: &#39;We see a dark, hot, barren rock&#39;](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-directly-studies-an-exoplanets-surface-for-the-1st-time-we-see-a-dark-hot-barren-rock)
-- [Hackers are still exploiting the cPanel bug to gain control of thousands of websites](https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/)
+- [Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites](https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/)
 - [Watch the Eta Aquarid meteor shower online with these free livestreams](https://www.space.com/stargazing/meteor-showers/watch-the-eta-aquarid-meteor-shower-online-with-these-free-livestreams)
 <!-- BLOG-POST-LIST:END -->
 
