@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As crypto cools, a16z crypto raises a $2.2B fund](https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/)
+- [Mexico City is sinking up to 14 inches per year, satellite images show](https://www.space.com/astronomy/earth/mexico-city-is-sinking-up-to-14-inches-per-year-satellite-images-show)
+- [Apple plans to make iOS 27 a Choose Your Own Adventure of AI models](https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/)
 - [NASA just released 12,000 photos from Artemis 2. Here are our top picks](https://www.space.com/space-exploration/artemis/nasa-just-released-12-000-photos-from-artemis-2-here-are-our-top-picks)
 - [ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us](https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/)
-- [Watch SpaceX Starlink train circle Earth in amazing satellite video](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-starlink-train-circle-earth-in-amazing-satellite-video)
-- [Volkswagen becomes Rivian’s top shareholder, displacing Amazon](https://techcrunch.com/2026/05/05/volkswagen-becomes-rivians-top-shareholder-displacing-amazon/)
-- [Threads finally brings messaging to the web](https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
