@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA just released 12,000 photos from Artemis 2. Here are our top picks](https://www.space.com/space-exploration/artemis/nasa-just-released-12-000-photos-from-artemis-2-here-are-our-top-picks)
+- [ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us](https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/)
+- [Watch SpaceX Starlink train circle Earth in amazing satellite video](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-starlink-train-circle-earth-in-amazing-satellite-video)
+- [Volkswagen becomes Rivian’s top shareholder, displacing Amazon](https://techcrunch.com/2026/05/05/volkswagen-becomes-rivians-top-shareholder-displacing-amazon/)
 - [Threads finally brings messaging to the web](https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web/)
-- [Airbnb co-founder taps Peter Arnell as first US chief brand architect](https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/)
-- [A tiny world at the edge of our solar system grew a mysterious atmosphere, and we don&#39;t know how](https://www.space.com/astronomy/solar-system/scientists-find-tiny-object-in-our-solar-system-with-a-mysterious-atmosphere-that-shouldnt-exist)
-- [Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor](https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/)
-- [Moon lander preps for the lunar surface | Space photo of the day for May 6, 2026](https://www.space.com/space-exploration/private-spaceflight/moon-lander-preps-for-the-lunar-surface-space-photo-of-the-day-for-may-6-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
