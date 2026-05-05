@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [Summer of CCNA LIVE Launch Party](https://www.youtube.com/watch?v=-abob21omcM)
-- [732 bytes of Python just borked every Linux machine on earth…](https://www.youtube.com/watch?v=lkifbWtxxlk)
-- [GitHub is having some major issues right now…](https://www.youtube.com/watch?v=d53Zk28esmU)
 - [Networking Concepts Every DevOps Engineer Must Know](https://www.youtube.com/watch?v=w0SQGCt-6Ro)
 - [Finding Hardware Bugs - Computerphile](https://www.youtube.com/watch?v=G1VgXqKZMZE)
+- [Learn networking with REAL labs 👉 Join the Summer of CCNA](https://www.youtube.com/shorts/mTpvUlng5ls)
+- [Most AI coding tools don’t sandbox on Windows &lpar;except one&rpar;](https://www.youtube.com/shorts/s1O09zc3xVY)
 <!-- YOUTUBE:END -->
 
 ---
