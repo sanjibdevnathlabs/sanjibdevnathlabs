@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads finally brings messaging to the web](https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web/)
+- [Airbnb co-founder taps Peter Arnell as first US chief brand architect](https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/)
+- [A tiny world at the edge of our solar system grew a mysterious atmosphere, and we don&#39;t know how](https://www.space.com/astronomy/solar-system/scientists-find-tiny-object-in-our-solar-system-with-a-mysterious-atmosphere-that-shouldnt-exist)
+- [Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor](https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/)
 - [Moon lander preps for the lunar surface | Space photo of the day for May 6, 2026](https://www.space.com/space-exploration/private-spaceflight/moon-lander-preps-for-the-lunar-surface-space-photo-of-the-day-for-may-6-2026)
-- [OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT](https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/)
-- [&#39;SOL Shogunate&#39; is a samurai space opera set on the moon, but with an aerospace engineer making sure it&#39;s &#39;getting the science right&#39;](https://www.space.com/entertainment/space-games/sol-shogunate-is-a-samurai-space-opera-set-on-the-moon-but-with-an-aerospace-engineer-making-sure-its-getting-the-science-right)
-- [These 2 companies want to start removing space junk from orbit in 2027](https://www.space.com/space-exploration/satellites/these-2-companies-want-to-start-removing-space-junk-from-orbit-in-2027)
-- [PayPal says it’s ‘becoming a technology company again.’ That means AI.](https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
