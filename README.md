@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Etsy launches its app within ChatGPT as it continues its AI push](https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/)
-- [Kaspersky suspects Chinese hackers planted a backdoor into Daemon Tools in ‘widespread’ attack](https://techcrunch.com/2026/05/05/kaspersky-suspects-chinese-hackers-planted-a-backdoor-into-daemon-tools-in-widespread-attack/)
-- [Forget the AT-ST, at 20% off this Lego Star Wars AT-TE is the king of Star Wars walkers](https://www.space.com/entertainment/space-toys-lego/forget-the-at-st-at-20-percent-off-this-lego-star-wars-at-te-is-the-king-of-star-wars-walkers)
-- [Hackers steal students’ data during breach at education tech giant Instructure](https://techcrunch.com/2026/05/05/hackers-steal-students-data-during-breach-at-education-tech-giant-instructure/)
-- [Meta will use AI to analyze height and bone structure to identify if users are underage](https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/)
+- [Moon lander preps for the lunar surface | Space photo of the day for May 6, 2026](https://www.space.com/space-exploration/private-spaceflight/moon-lander-preps-for-the-lunar-surface-space-photo-of-the-day-for-may-6-2026)
+- [OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT](https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/)
+- [&#39;SOL Shogunate&#39; is a samurai space opera set on the moon, but with an aerospace engineer making sure it&#39;s &#39;getting the science right&#39;](https://www.space.com/entertainment/space-games/sol-shogunate-is-a-samurai-space-opera-set-on-the-moon-but-with-an-aerospace-engineer-making-sure-its-getting-the-science-right)
+- [These 2 companies want to start removing space junk from orbit in 2027](https://www.space.com/space-exploration/satellites/these-2-companies-want-to-start-removing-space-junk-from-orbit-in-2027)
+- [PayPal says it’s ‘becoming a technology company again.’ That means AI.](https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
