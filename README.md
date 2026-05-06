@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [reMarkable’s new Paper Pure tablet goes back to basics with a monochrome screen](https://techcrunch.com/2026/05/06/remarkables-new-paper-pure-tablet-goes-back-to-basics-with-a-monochrome-screen/)
+- [Scientists created one of the largest simulations of our universe ever — about the size of 500,000 HD movies](https://www.space.com/astronomy/scientists-created-one-of-the-largest-simulations-of-our-universe-ever-about-the-size-of-500-000-hd-movies)
+- [Get more for your credits with the best leftover Lego Star Wars Day deals](https://www.space.com/entertainment/space-toys-lego/get-more-for-your-credits-with-the-best-leftover-lego-star-wars-day-deals)
 - [Solar activity makes space junk crash to Earth faster](https://www.space.com/space-exploration/satellites/solar-activity-space-junk-crash-earth-faster)
 - [Peter Sarlin’s QuTwo reaches $380M valuation in angel round](https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/)
-- [Marc Lore says that AI will soon enable anyone open a restaurant](https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/)
-- [Nuro receives driverless testing permit ahead of Uber robotaxi service launch](https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/)
-- [SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw](https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
