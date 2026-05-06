@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Hacking on the PDP1 Raspberry Pi Emulator - Computerphile](https://www.youtube.com/watch?v=7WEewUVQabU)
-- [Will AI negate the need for science photography?](https://www.youtube.com/watch?v=bI8HHKDrHAY)
-- [Summer of CCNA LIVE Launch Party](https://www.youtube.com/watch?v=-abob21omcM)
-- [732 bytes of Python just borked every Linux machine on earth…](https://www.youtube.com/watch?v=lkifbWtxxlk)
-- [GitHub is having some major issues right now…](https://www.youtube.com/watch?v=d53Zk28esmU)
+- [Compliance can be frustrating. But....CALMpliance........that&#39;s a whole different thing.](https://www.youtube.com/shorts/OL9cQI5hIVE)
+- [From Bold Idea to Global Legacy: 25 Years of MIT OpenCourseWare](https://www.youtube.com/watch?v=jeffHBoG-Gg)
+- [OCW @ 25: A Story in Motion](https://www.youtube.com/watch?v=UyV5WOYeXpY)
+- [Learning Without Limits: How OCW Opens Opportunity for Curious Minds Worldwide](https://www.youtube.com/watch?v=OSfYRk4VNeA)
+- [Knowledge Without Walls: MIT’s Ethos of Open](https://www.youtube.com/watch?v=evzqMUjDwU4)
 <!-- YOUTUBE:END -->
 
 ---
