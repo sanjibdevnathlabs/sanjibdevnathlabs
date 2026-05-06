@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple to pay $250M to settle lawsuit over Siri’s delayed AI features](https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/)
-- [Ethos raises $22.75M from a16z for its expert network with voice onboarding](https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/)
-- [Sci-fi RPG &#39;Exodus&#39;&#39;s combat looks and feels like &#39;Mass Effect&#39;, but the dialogue system could be a big upgrade &lpar;video&rpar;](https://www.space.com/entertainment/space-games/sci-fi-rpg-exoduss-combat-looks-and-feels-like-mass-effect-but-the-dialogue-system-could-be-a-big-upgrade-video)
-- [Aurora lands McLane deal to run driverless truck routes in Texas](https://techcrunch.com/2026/05/06/aurora-lands-mclane-deal-to-run-driverless-truck-routes-in-texas/)
-- [At TechCrunch Disrupt 2026, all your M&amp;A questions will be answered](https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/)
+- [SpaceX may spend up to $119 billion on ‘Terafab’ chip factory in Texas](https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/)
+- [DeepSeek could hit $45B valuation from its first investment round](https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/)
+- [3 puzzles of our universe could be solved with this new dark matter theory](https://www.space.com/astronomy/dark-universe/3-puzzles-of-our-universe-could-be-solved-with-this-new-dark-matter-theory)
+- [&#39;Thor&#39; hammered down 15 years ago, and it&#39;s still the only Marvel movie to do the God of Thunder justice](https://www.space.com/entertainment/space-movies-shows/thor-hammered-down-15-years-ago-and-its-still-the-only-marvel-movie-to-do-the-god-of-thunder-justice)
+- [Chrome on Android now supports approximate instead of precise location sharing](https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
