@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom](https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/)
+- [Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.](https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/)
+- [Snap says its $400M deal with Perplexity ‘amicably ended’](https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/)
+- [Is xAI a neocloud now?](https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/)
 - [How an exoplanet odd couple survived by traveling in from the cold together](https://www.space.com/astronomy/exoplanets/how-an-exoplanet-odd-couple-survived-by-traveling-in-from-the-cold-together)
-- [Insurance startup Corgi hits $1.3B valuation 4 months after its Series A](https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/)
-- [Microsoft’s AI data center push is colliding with its clean power goals](https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/)
-- [Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says](https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/)
-- [Europe&#39;s 1st reusable spacecraft &#39;Space Rider&#39; clears key hurdles on the road to launch](https://www.space.com/space-exploration/launches-spacecraft/europes-1st-reusable-spacecraft-space-rider-clears-key-hurdles-on-the-road-to-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
