@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [reMarkable’s new Paper Pure tablet goes back to basics with a monochrome screen](https://techcrunch.com/2026/05/06/remarkables-new-paper-pure-tablet-goes-back-to-basics-with-a-monochrome-screen/)
-- [Scientists created one of the largest simulations of our universe ever — about the size of 500,000 HD movies](https://www.space.com/astronomy/scientists-created-one-of-the-largest-simulations-of-our-universe-ever-about-the-size-of-500-000-hd-movies)
-- [Get more for your credits with the best leftover Lego Star Wars Day deals](https://www.space.com/entertainment/space-toys-lego/get-more-for-your-credits-with-the-best-leftover-lego-star-wars-day-deals)
-- [Solar activity makes space junk crash to Earth faster](https://www.space.com/space-exploration/satellites/solar-activity-space-junk-crash-earth-faster)
-- [Peter Sarlin’s QuTwo reaches $380M valuation in angel round](https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/)
+- [Apple to pay $250M to settle lawsuit over Siri’s delayed AI features](https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/)
+- [Ethos raises $22.75M from a16z for its expert network with voice onboarding](https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/)
+- [Sci-fi RPG &#39;Exodus&#39;&#39;s combat looks and feels like &#39;Mass Effect&#39;, but the dialogue system could be a big upgrade &lpar;video&rpar;](https://www.space.com/entertainment/space-games/sci-fi-rpg-exoduss-combat-looks-and-feels-like-mass-effect-but-the-dialogue-system-could-be-a-big-upgrade-video)
+- [Aurora lands McLane deal to run driverless truck routes in Texas](https://techcrunch.com/2026/05/06/aurora-lands-mclane-deal-to-run-driverless-truck-routes-in-texas/)
+- [At TechCrunch Disrupt 2026, all your M&amp;A questions will be answered](https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
