@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Perplexity’s Personal Computer is now available everyone on Mac](https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/)
-- [Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope](https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/)
-- [Bumble is getting rid of the swipe, CEO says](https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/)
-- [&#39;Saros&#39; nails the cosmic horror and bullet-hell action assignments, but it falls short as a roguelite](https://www.space.com/entertainment/space-games/saros-nails-the-cosmic-horror-and-bullet-hell-action-assignments-but-it-falls-short-as-a-roguelite)
-- [Tome, another Goodreads book-tracker rival, shuts down](https://techcrunch.com/2026/05/07/tome-another-goodreads-booktracker-rival-shuts-down/)
+- [Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%](https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/)
+- [Disney looking to make a unified ‘super app,’ report says](https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/)
+- [Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm](https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/)
+- [A 29-pound Mars rock held NASA&#39;s Curiosity rover hostage for 6 days](https://www.space.com/space-exploration/mars-rovers/a-29-pound-mars-rock-held-nasas-curiosity-rover-hostage-for-6-days)
+- [Hackers deface school login pages after claiming another Instructure hack](https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
