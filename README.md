@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Should Saturn&#39;s huge moon Titan be humanity&#39;s next destination, after the moon and Mars?](https://www.space.com/astronomy/saturn/should-saturns-huge-moon-titan-be-humanitys-next-destination-after-the-moon-and-mars)
-- [Five architects of the AI economy explain where the wheels are coming off](https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/)
-- [A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom](https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/)
-- [Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.](https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/)
-- [Snap says its $400M deal with Perplexity ‘amicably ended’](https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/)
+- [China’s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets](https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/)
+- [Spotify wants to become the home for AI-generated personal audio](https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/)
+- [How do the biggest black holes in the universe form? Ripples in spacetime provide a clue](https://www.space.com/astronomy/black-holes/how-do-the-biggest-black-holes-in-the-universe-form-ripples-in-spacetime-provide-a-clue)
+- [Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese](https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/)
+- [Artemis 2 moon launch brought nearly 350,000 people to Florida&#39;s Space Coast](https://www.space.com/space-exploration/artemis/artemis-2-moon-launch-brought-nearly-350-000-people-to-floridas-space-coast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
