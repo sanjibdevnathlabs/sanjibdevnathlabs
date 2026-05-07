@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kalshi doubles valuation in 5 months, hitting $22 billion](https://techcrunch.com/2026/05/07/kalshi-doubles-valuation-in-5-months-hitting-22-billion/)
+- [Where does Earth&#39;s mysterious &#39;ring current&#39; come from? NASA and the US Space Force are launching a mission to find out](https://www.space.com/space-exploration/launches-spacecraft/where-does-earths-mysterious-ring-current-come-from-nasa-and-the-us-space-force-are-launching-a-mission-to-find-out)
+- [Jeff Bezos rep leaves Slate Auto’s board](https://techcrunch.com/2026/05/07/jeff-bezos-rep-leaves-slate-autos-board/)
+- [How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity](https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/)
 - [&#39;Star Wars: Galactic Racer&#39;: Release date, trailers, gameplay &amp; everything we know about the return of podracing](https://www.space.com/entertainment/space-games/star-wars-galactic-racer-release-date-trailers-gameplay-and-everything-we-know-about-the-return-of-podracing)
-- [Google’s $9.99-per-month AI health coach launches May 19](https://techcrunch.com/2026/05/07/googles-9-99-per-month-ai-health-coach-launches-may-19/)
-- [Google unveils Whoop-like screenless Fitbit Air](https://techcrunch.com/2026/05/07/google-unveils-whoop-like-screenless-fitbit-air/)
-- [Moon joy at Jupiter | Space photo of the day for May 7, 2026](https://www.space.com/astronomy/jupiter/moon-joy-at-jupiter-space-photo-of-the-day-for-may-7-2026)
-- [Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K](https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
