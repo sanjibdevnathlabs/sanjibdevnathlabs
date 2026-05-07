@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China’s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets](https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/)
-- [Spotify wants to become the home for AI-generated personal audio](https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/)
-- [How do the biggest black holes in the universe form? Ripples in spacetime provide a clue](https://www.space.com/astronomy/black-holes/how-do-the-biggest-black-holes-in-the-universe-form-ripples-in-spacetime-provide-a-clue)
-- [Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese](https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/)
-- [Artemis 2 moon launch brought nearly 350,000 people to Florida&#39;s Space Coast](https://www.space.com/space-exploration/artemis/artemis-2-moon-launch-brought-nearly-350-000-people-to-floridas-space-coast)
+- [&#39;Star Wars: Galactic Racer&#39;: Release date, trailers, gameplay &amp; everything we know about the return of podracing](https://www.space.com/entertainment/space-games/star-wars-galactic-racer-release-date-trailers-gameplay-and-everything-we-know-about-the-return-of-podracing)
+- [Google’s $9.99-per-month AI health coach launches May 19](https://techcrunch.com/2026/05/07/googles-9-99-per-month-ai-health-coach-launches-may-19/)
+- [Google unveils Whoop-like screenless Fitbit Air](https://techcrunch.com/2026/05/07/google-unveils-whoop-like-screenless-fitbit-air/)
+- [Moon joy at Jupiter | Space photo of the day for May 7, 2026](https://www.space.com/astronomy/jupiter/moon-joy-at-jupiter-space-photo-of-the-day-for-may-7-2026)
+- [Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K](https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
