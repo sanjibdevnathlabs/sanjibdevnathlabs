@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kalshi doubles valuation in 5 months, hitting $22 billion](https://techcrunch.com/2026/05/07/kalshi-doubles-valuation-in-5-months-hitting-22-billion/)
-- [Where does Earth&#39;s mysterious &#39;ring current&#39; come from? NASA and the US Space Force are launching a mission to find out](https://www.space.com/space-exploration/launches-spacecraft/where-does-earths-mysterious-ring-current-come-from-nasa-and-the-us-space-force-are-launching-a-mission-to-find-out)
-- [Jeff Bezos rep leaves Slate Auto’s board](https://techcrunch.com/2026/05/07/jeff-bezos-rep-leaves-slate-autos-board/)
-- [How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity](https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/)
-- [&#39;Star Wars: Galactic Racer&#39;: Release date, trailers, gameplay &amp; everything we know about the return of podracing](https://www.space.com/entertainment/space-games/star-wars-galactic-racer-release-date-trailers-gameplay-and-everything-we-know-about-the-return-of-podracing)
+- [Perplexity’s Personal Computer is now available everyone on Mac](https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/)
+- [Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope](https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/)
+- [Bumble is getting rid of the swipe, CEO says](https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/)
+- [&#39;Saros&#39; nails the cosmic horror and bullet-hell action assignments, but it falls short as a roguelite](https://www.space.com/entertainment/space-games/saros-nails-the-cosmic-horror-and-bullet-hell-action-assignments-but-it-falls-short-as-a-roguelite)
+- [Tome, another Goodreads book-tracker rival, shuts down](https://techcrunch.com/2026/05/07/tome-another-goodreads-booktracker-rival-shuts-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
