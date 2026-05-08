@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The charred hull of Artemis 2&#39;s Orion | Space photo of the day for May 8, 2026](https://www.space.com/space-exploration/human-spaceflight/the-charred-hull-of-artemis-2s-orion-space-photo-of-the-day-for-may-8-2026)
-- [Truecaller slashes 70 jobs amid declining ad sales](https://techcrunch.com/2026/05/08/truecaller-slashes-70-jobs-amid-declining-ad-sales/)
-- [Live only at TechCrunch Disrupt 2026: Why most founders are already behind on raising a Series A in 2027](https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/)
-- [Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026](https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/)
-- [Learn the night sky without an app: May&#39;s easiest star-hops for beginners](https://www.space.com/stargazing/learn-the-night-sky-without-an-app-mays-easiest-star-hops-for-beginners)
+- [This is your best chance to spot the Milky Way&#39;s core in May](https://www.space.com/stargazing/this-is-your-best-chance-to-spot-the-milky-ways-core-in-may)
+- [US defense contractor who sold hacking tools to Russian broker ordered to pay $10M to former employers](https://techcrunch.com/2026/05/08/u-s-defense-contractor-who-sold-hacking-tools-to-russian-broker-ordered-to-pay-10-million-to-former-employers/)
+- [Blue Origin tests 1st moon lander ahead of lunar launch later this year &lpar;photo&rpar;](https://www.space.com/space-exploration/artemis/blue-origin-tests-1st-moon-lander-ahead-of-lunar-launch-later-this-year-photo)
+- [Pentagon releases UFO files on new website](https://techcrunch.com/2026/05/08/pentagon-releases-ufo-files-on-new-website/)
+- [&#39;Star Fox&#39; is returning this summer with a shiny &#39;Star Fox 64&#39; remake for Nintendo Switch 2 full of unique features](https://www.space.com/entertainment/space-games/star-fox-is-returning-this-summer-with-a-shiny-star-fox-64-remake-for-nintendo-switch-2-full-of-unique-features)
 <!-- BLOG-POST-LIST:END -->
 
 ---
