@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 2 astronauts saw flashes on the far side of the moon that cameras struggle to capture. Here&#39;s why scientists are excited](https://www.space.com/space-exploration/artemis/nasas-artemis-2-astronauts-saw-flashes-on-the-far-side-of-the-moon-that-cameras-struggle-to-capture-heres-why-scientists-are-excited)
 - [Why you can never get your doctor to call you back](https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/)
 - [Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B](https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/)
 - [OpenAI launches new voice intelligence features in its API](https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/)
 - [A bizarre &#39;decapitated&#39; asteroid likely made the moon&#39;s largest impact crater. NASA&#39;s Artemis astronauts may land near the proof](https://www.space.com/astronomy/moon/a-bizarre-decapitated-asteroid-likely-made-the-moons-largest-impact-crater-nasas-artemis-astronauts-may-land-near-the-proof)
-- [Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%](https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
