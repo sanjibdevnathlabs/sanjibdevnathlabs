@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app](https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/)
+- [Intel’s comeback story is even wilder than it seems](https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/)
 - [Monopoly sucks, but this new &#39;Star Wars&#39; video game spinoff might add some galactic sizzle](https://www.space.com/entertainment/space-games/monopoly-sucks-but-this-new-star-wars-video-game-spinoff-might-add-some-galactic-sizzle)
 - [Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high](https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/)
 - [Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul](https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/)
-- [How you&#39;d really die in space: What sci-fi gets right &lpar;and wrong&rpar; about extra-terrestrial expirations](https://www.space.com/entertainment/space-movies-shows/how-youd-really-die-in-space-what-sci-fi-gets-right-and-wrong-about-extra-terrestrial-expirations)
-- [Mother Ventures is looking at moms as the ‘economic engine’](https://techcrunch.com/2026/05/08/mother-ventures-is-looking-at-moms-as-the-economic-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
