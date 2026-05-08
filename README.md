@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This is your best chance to spot the Milky Way&#39;s core in May](https://www.space.com/stargazing/this-is-your-best-chance-to-spot-the-milky-ways-core-in-may)
-- [US defense contractor who sold hacking tools to Russian broker ordered to pay $10M to former employers](https://techcrunch.com/2026/05/08/u-s-defense-contractor-who-sold-hacking-tools-to-russian-broker-ordered-to-pay-10-million-to-former-employers/)
-- [Blue Origin tests 1st moon lander ahead of lunar launch later this year &lpar;photo&rpar;](https://www.space.com/space-exploration/artemis/blue-origin-tests-1st-moon-lander-ahead-of-lunar-launch-later-this-year-photo)
-- [Pentagon releases UFO files on new website](https://techcrunch.com/2026/05/08/pentagon-releases-ufo-files-on-new-website/)
-- [&#39;Star Fox&#39; is returning this summer with a shiny &#39;Star Fox 64&#39; remake for Nintendo Switch 2 full of unique features](https://www.space.com/entertainment/space-games/star-fox-is-returning-this-summer-with-a-shiny-star-fox-64-remake-for-nintendo-switch-2-full-of-unique-features)
+- [Monopoly sucks, but this new &#39;Star Wars&#39; video game spinoff might add some galactic sizzle](https://www.space.com/entertainment/space-games/monopoly-sucks-but-this-new-star-wars-video-game-spinoff-might-add-some-galactic-sizzle)
+- [Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high](https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/)
+- [Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul](https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/)
+- [How you&#39;d really die in space: What sci-fi gets right &lpar;and wrong&rpar; about extra-terrestrial expirations](https://www.space.com/entertainment/space-movies-shows/how-youd-really-die-in-space-what-sci-fi-gets-right-and-wrong-about-extra-terrestrial-expirations)
+- [Mother Ventures is looking at moms as the ‘economic engine’](https://techcrunch.com/2026/05/08/mother-ventures-is-looking-at-moms-as-the-economic-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
