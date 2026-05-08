@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Black holes slamming into scorching stars may be causing mysterious blue flashes in the cosmos](https://www.space.com/astronomy/black-holes/black-holes-slamming-into-scorching-stars-may-be-causing-mysterious-blue-flashes-in-the-cosmos)
 - [Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app](https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/)
 - [Intel’s comeback story is even wilder than it seems](https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/)
 - [Monopoly sucks, but this new &#39;Star Wars&#39; video game spinoff might add some galactic sizzle](https://www.space.com/entertainment/space-games/monopoly-sucks-but-this-new-star-wars-video-game-spinoff-might-add-some-galactic-sizzle)
 - [Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high](https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/)
-- [Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul](https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
