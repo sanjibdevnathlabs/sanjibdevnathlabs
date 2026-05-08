@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The biggest U.S. power grid is under strain from AI — and no one is happy](https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/)
-- [Scientists found 10,000 possible exoplanets hiding in NASA data](https://www.space.com/science/astrophysics/scientists-found-10-000-possible-exoplanets-hiding-in-nasa-data)
-- [Airbnb says AI now writes 60% of its new code](https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/)
-- [SpaceX just fired up its 33-engine Starship &#39;V3&#39; Super Heavy rocket booster. When could it fly? &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-just-fired-up-its-33-engine-starship-v3-super-heavy-rocket-booster-when-could-it-fly)
-- [NASA&#39;s Artemis 2 astronauts saw flashes on the far side of the moon that cameras struggle to capture. Here&#39;s why scientists are excited](https://www.space.com/space-exploration/artemis/nasas-artemis-2-astronauts-saw-flashes-on-the-far-side-of-the-moon-that-cameras-struggle-to-capture-heres-why-scientists-are-excited)
+- [The charred hull of Artemis 2&#39;s Orion | Space photo of the day for May 8, 2026](https://www.space.com/space-exploration/human-spaceflight/the-charred-hull-of-artemis-2s-orion-space-photo-of-the-day-for-may-8-2026)
+- [Truecaller slashes 70 jobs amid declining ad sales](https://techcrunch.com/2026/05/08/truecaller-slashes-70-jobs-amid-declining-ad-sales/)
+- [Live only at TechCrunch Disrupt 2026: Why most founders are already behind on raising a Series A in 2027](https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/)
+- [Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026](https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/)
+- [Learn the night sky without an app: May&#39;s easiest star-hops for beginners](https://www.space.com/stargazing/learn-the-night-sky-without-an-app-mays-easiest-star-hops-for-beginners)
 <!-- BLOG-POST-LIST:END -->
 
 ---
