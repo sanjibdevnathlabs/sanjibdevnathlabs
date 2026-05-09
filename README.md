@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 epic myths hiding in the May sky — and how to find them](https://www.space.com/stargazing/constellations/4-epic-myths-hiding-in-the-may-sky-and-how-to-find-them)
+- [This Week In Space podcast: Episode 209 — Astronauts for America](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-209-astronauts-for-america)
+- [Nvidia has already committed $40B to equity AI deals this year](https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/)
 - [NASA&#39;s twin Voyager spacecraft are very low on power after nearly 50 years. How long can they keep going?](https://www.space.com/space-exploration/how-long-can-the-voyager-probes-keep-exploring-interstellar-space-nasa-gearing-up-for-big-bang-maneuver-to-boost-dwindling-power-levels)
 - [NASA&#39;s Artemis 2 commander and astrophotographer team up to capture breathtaking, never-before-seen shots of the moon&#39;s far side](https://www.space.com/space-exploration/artemis/nasas-artemis-2-commander-and-astrophotographer-team-up-to-capture-breathtaking-never-before-seen-shots-of-the-moons-far-side)
-- [Laid-off Oracle workers tried to negotiate better severance. Oracle said no.](https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/)
-- [San Francisco’s housing market has lost its mind](https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/)
-- [Pentagon unveils trove of declassfied &#39;UFO&#39; videos. How to see them all, from &#39;a football-shaped body&#39; to &#39;a misshapen and uneven ball of white light&#39;](https://www.space.com/space-exploration/search-for-life/pentagon-unveils-trove-of-declassfied-ufo-videos-how-to-see-them-all-from-a-football-shaped-body-to-a-misshapen-and-uneven-ball-of-white-light)
 <!-- BLOG-POST-LIST:END -->
 
 ---
