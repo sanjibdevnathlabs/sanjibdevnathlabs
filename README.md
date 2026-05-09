@@ -136,9 +136,9 @@ I'm a software developer passionate about designing and building applications wi
 <!-- YOUTUBE:START -->
 - [Every operating system concept in one video…](https://www.youtube.com/watch?v=MtxP2pyCvYA)
 - [Compliance can be frustrating. But....CALMpliance........that&#39;s a whole different thing.](https://www.youtube.com/shorts/OL9cQI5hIVE)
-- [From Bold Idea to Global Legacy: 25 Years of MIT OpenCourseWare](https://www.youtube.com/watch?v=jeffHBoG-Gg)
-- [OCW @ 25: A Story in Motion](https://www.youtube.com/watch?v=UyV5WOYeXpY)
-- [Learning Without Limits: How OCW Opens Opportunity for Curious Minds Worldwide](https://www.youtube.com/watch?v=OSfYRk4VNeA)
+- [Summer of CCNA LIVE Launch Party](https://www.youtube.com/watch?v=-abob21omcM)
+- [732 bytes of Python just borked every Linux machine on earth…](https://www.youtube.com/watch?v=lkifbWtxxlk)
+- [GitHub is having some major issues right now…](https://www.youtube.com/watch?v=d53Zk28esmU)
 <!-- YOUTUBE:END -->
 
 ---
