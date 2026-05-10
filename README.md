@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Pragmata&#39; director Yonghee Cho on creating Capcom’s resonant sci-fi lunar adventure &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/pragmata-director-yonghee-cho-on-creating-capcoms-resonant-sci-fi-lunar-adventure-interview)
+- [We’re feeling cynical about xAI’s big deal with Anthropic](https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/)
 - [The hottest place for startups to strike a deal? The F1 paddock](https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/)
+- [&#39;Pragmata&#39; director Yonghee Cho on creating Capcom’s resonant sci-fi lunar adventure &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/pragmata-director-yonghee-cho-on-creating-capcoms-resonant-sci-fi-lunar-adventure-interview)
 - [Total solar eclipse 2026 vs 2027 — Which one should you choose?](https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-2026-vs-2027-which-one-should-you-choose)
 - [Voice AI in India is hard. Wispr Flow is betting on it anyway.](https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/)
-- [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
