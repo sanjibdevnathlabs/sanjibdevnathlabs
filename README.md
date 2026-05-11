@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Does Dante&#39;s Inferno from the 14th century depict an asteroid impact?](https://www.space.com/astronomy/asteroids/does-dantes-inferno-from-the-14th-century-depict-an-asteroid-impact)
 - [Get ready for the whisper-filled office of the future](https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/)
 - [Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts](https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/)
 - [Uber has always wanted to be more than a ride; now it has reason to hurry](https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/)
 - [TechCrunch Mobility: Lime’s IPO gamble](https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/)
-- [We’re feeling cynical about xAI’s big deal with Anthropic](https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
