@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Does Dante&#39;s Inferno from the 14th century depict an asteroid impact?](https://www.space.com/astronomy/asteroids/does-dantes-inferno-from-the-14th-century-depict-an-asteroid-impact)
-- [Get ready for the whisper-filled office of the future](https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/)
-- [Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts](https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/)
-- [Uber has always wanted to be more than a ride; now it has reason to hurry](https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/)
-- [TechCrunch Mobility: Lime’s IPO gamble](https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/)
+- [Sun unleashes colossal solar flare and coronal mass ejection, raising the chances of northern lights this week](https://www.space.com/stargazing/auroras/sun-unleashes-colossal-solar-flare-and-coronal-mass-ejection-raising-the-chances-of-northern-lights-this-week)
+- [See Artemis 2&#39;s amazing views of Earth in timelapse video taken from 12,000-photo drop](https://www.space.com/space-exploration/artemis/see-artemis-2s-amazing-views-of-earth-in-timelapse-video-taken-from-12-000-photo-drop)
+- [There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.](https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/)
+- [Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost](https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/)
+- [New James Webb Space Telescope images reveal how massive star clusters can reshape galaxies](https://www.space.com/astronomy/james-webb-space-telescope/new-james-webb-space-telescope-images-reveal-how-massive-star-clusters-can-reshape-galaxies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
