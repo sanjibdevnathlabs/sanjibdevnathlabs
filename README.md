@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals](https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/)
-- [Amazon launches 30-minute delivery across the U.S.](https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/)
-- [SpaceX fuels up Starship V3 megarocket for 1st time ahead of crucial test flight &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-fuels-up-starship-v3-megarocket-for-1st-time-ahead-of-crucial-test-flight-photos)
-- [Thinking Machines wants to build an AI that actually listens while it talks](https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/)
-- [Riding an AI rally, Robinhood preps second retail venture IPO](https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/)
+- [Mesmerizing vortexes swirl near an Antarctic volcano | Space photo of the day for May 12, 2026](https://www.space.com/astronomy/earth/mesmerizing-vortexes-swirl-near-an-antarctic-volcano-space-photo-of-the-day-for-may-12-2026)
+- [Instructure strikes deal with hackers who breached it twice](https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/)
+- [Dessn raises $6M for its production focused design tool](https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/)
+- [TikTok now wants to be the place you book the trip you just saw on TikTok](https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/)
+- [AI is turning connected cars into pothole-finding machines](https://techcrunch.com/2026/05/12/ai-is-turning-connected-cars-into-pothole-finding-machines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
