@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uranus and Neptune could be full of rocks, new study suggests](https://www.space.com/science/uranus-and-neptune-could-be-full-of-rocks-new-study-suggests)
 - [Cowboy Space raises $275 million to launch AI data centers on brand-new rocket](https://www.space.com/technology/cowboy-space-raises-usd275-million-to-launch-ai-data-centers-on-brand-new-rocket)
 - [Kevin Hartz’s A* just closed its third fund with $450 million](https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/)
 - [Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup](https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/)
 - [Musk mulled handing OpenAI to his children, Altman testifies](https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/)
-- [&#39;Cannibal stars,&#39; AI and the Rubin Observatory could shed light on the mystery of dark energy. Here&#39;s how](https://www.space.com/astronomy/dark-universe/cannibal-stars-ai-and-the-rubin-observatory-could-shed-light-on-the-mystery-of-dark-energy-heres-how)
 <!-- BLOG-POST-LIST:END -->
 
 ---
