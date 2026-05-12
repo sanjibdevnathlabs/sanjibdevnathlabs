@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mesmerizing vortexes swirl near an Antarctic volcano | Space photo of the day for May 12, 2026](https://www.space.com/astronomy/earth/mesmerizing-vortexes-swirl-near-an-antarctic-volcano-space-photo-of-the-day-for-may-12-2026)
-- [Instructure strikes deal with hackers who breached it twice](https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/)
-- [Dessn raises $6M for its production focused design tool](https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/)
-- [TikTok now wants to be the place you book the trip you just saw on TikTok](https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/)
-- [AI is turning connected cars into pothole-finding machines](https://techcrunch.com/2026/05/12/ai-is-turning-connected-cars-into-pothole-finding-machines/)
+- [Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets](https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/)
+- [The AI legal services industry is heating up. Anthropic is getting in on the action.](https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/)
+- [Android adds a feature to stop you from doomscrolling](https://techcrunch.com/2026/05/12/android-adds-a-feature-to-stop-you-from-doomscrolling/)
+- [Google unveils Googlebooks, a new line of AI-native laptops](https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/)
+- [Google’s ‘Create My Widget’ feature will let you vibe code your own widgets](https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
