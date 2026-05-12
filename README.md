@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Riding an AI rally, Robinhood preps second retail venture IPO](https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/)
+- [GM just laid off hundreds of IT workers to hire those with stronger AI skills](https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/)
 - [Finally, texts between Android and iPhone users can be end-to-end encrypted](https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/)
 - [NASA&#39;s Artemis 3 rocket is taking shape for 2027 launch to test lunar landers &lpar;photo&rpar;](https://www.space.com/space-exploration/artemis/nasas-artemis-3-rocket-is-taking-shape-for-2027-launch-to-test-lunar-landers-photo)
 - [&#39;Nothing short of magical&#39;: Astrophotographer captures Lyrid meteors beside the Milky Way](https://www.space.com/stargazing/astrophotography/nothing-short-of-magical-astrophotographer-captures-lyrid-meteors-beside-the-milky-way)
-- [Satellite spies one of Russia&#39;s most active volcanoes melting snow from the inside out](https://www.space.com/astronomy/earth/satellites-spy-one-of-russias-most-active-volcanoes-melting-snow-from-the-inside-out)
-- [Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation](https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
