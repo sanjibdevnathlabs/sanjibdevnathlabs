@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals](https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/)
+- [Amazon launches 30-minute delivery across the U.S.](https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/)
+- [SpaceX fuels up Starship V3 megarocket for 1st time ahead of crucial test flight &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-fuels-up-starship-v3-megarocket-for-1st-time-ahead-of-crucial-test-flight-photos)
 - [Thinking Machines wants to build an AI that actually listens while it talks](https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/)
 - [Riding an AI rally, Robinhood preps second retail venture IPO](https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/)
-- [GM just laid off hundreds of IT workers to hire those with stronger AI skills](https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/)
-- [Finally, texts between Android and iPhone users can be end-to-end encrypted](https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/)
-- [NASA&#39;s Artemis 3 rocket is taking shape for 2027 launch to test lunar landers &lpar;photo&rpar;](https://www.space.com/space-exploration/artemis/nasas-artemis-3-rocket-is-taking-shape-for-2027-launch-to-test-lunar-landers-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
