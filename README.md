@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [One Real Consequence Beats 100 Motivational Videos](https://www.youtube.com/shorts/6SbGspIiQkE)
 - [I reviewed 50 promotion cases. Junior devs who got promoted had ONE thing in common.](https://www.youtube.com/shorts/kAPEEFaURgc)
 - [Auctions and the free market](https://www.youtube.com/watch?v=M-8kLw3iNHw)
 - [Every operating system concept in one video…](https://www.youtube.com/watch?v=MtxP2pyCvYA)
 - [Compliance can be frustrating. But....CALMpliance........that&#39;s a whole different thing.](https://www.youtube.com/shorts/OL9cQI5hIVE)
-- [From Bold Idea to Global Legacy: 25 Years of MIT OpenCourseWare](https://www.youtube.com/watch?v=jeffHBoG-Gg)
 <!-- YOUTUBE:END -->
 
 ---
