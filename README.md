@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Medicare’s new payment model is built for AI, and most of the tech world has no idea](https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/)
 - [SpaceX&#39;s Starship V3 megarocket finally has a debut launch date. Here&#39;s when it will fly](https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-v3-megarocket-finally-has-a-debut-launch-date-heres-when-it-will-fly)
 - [Uranus and Neptune could be full of rocks, new study suggests](https://www.space.com/science/uranus-and-neptune-could-be-full-of-rocks-new-study-suggests)
 - [Cowboy Space raises $275 million to launch AI data centers on brand-new rocket](https://www.space.com/technology/cowboy-space-raises-usd275-million-to-launch-ai-data-centers-on-brand-new-rocket)
-- [Kevin Hartz’s A* just closed its third fund with $450 million](https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/)
-- [Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup](https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/)
+- [Kevin Hartz’s A* just closed its third fund with $450M](https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
