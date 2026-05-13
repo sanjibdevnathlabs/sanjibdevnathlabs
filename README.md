@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cost estimate for &#39;Golden Dome&#39; missile defense system balloons to $1.2 trillion](https://www.space.com/space-exploration/satellites/cost-estimate-for-golden-dome-missile-defense-system-balloons-to-usd1-2-trillion)
-- [Medicare’s new payment model is built for AI, and most of the tech world has no idea](https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/)
-- [SpaceX&#39;s Starship V3 megarocket finally has a debut launch date. Here&#39;s when it will fly](https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-v3-megarocket-finally-has-a-debut-launch-date-heres-when-it-will-fly)
-- [Uranus and Neptune could be full of rocks, new study suggests](https://www.space.com/science/uranus-and-neptune-could-be-full-of-rocks-new-study-suggests)
-- [Cowboy Space raises $275 million to launch AI data centers on brand-new rocket](https://www.space.com/technology/cowboy-space-raises-usd275-million-to-launch-ai-data-centers-on-brand-new-rocket)
+- [US lawmakers demand answers from Instructure after Canvas data breaches](https://techcrunch.com/2026/05/13/us-lawmakers-demand-answers-from-instructure-after-canvas-data-breaches/)
+- [Anthropic now has more business customers than OpenAI, according to Ramp data](https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/)
+- [Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market](https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/)
+- [WhatsApp adds an incognito mode in Meta AI chats](https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/)
+- [The Whirlpool Galaxy comes alive | Space photo of the day for May 13, 2026](https://www.space.com/science/astrophysics/the-whirlpool-galaxy-comes-alive-in-new-image-space-photo-of-the-day-for-may-13-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
