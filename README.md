@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [US lawmakers demand answers from Instructure after Canvas data breaches](https://techcrunch.com/2026/05/13/us-lawmakers-demand-answers-from-instructure-after-canvas-data-breaches/)
-- [Anthropic now has more business customers than OpenAI, according to Ramp data](https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/)
-- [Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market](https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/)
-- [WhatsApp adds an incognito mode in Meta AI chats](https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/)
-- [The Whirlpool Galaxy comes alive | Space photo of the day for May 13, 2026](https://www.space.com/science/astrophysics/the-whirlpool-galaxy-comes-alive-in-new-image-space-photo-of-the-day-for-may-13-2026)
+- [Blue Origin&#39;s lunar lander mockup is ready for NASA Artemis astronaut training](https://www.space.com/space-exploration/artemis/blue-origins-lunar-lander-mockup-is-ready-for-nasa-artemis-astronaut-training)
+- [Instagram’s new ‘Instants’ feature combines elements from Snapchat and BeReal](https://techcrunch.com/2026/05/13/instagrams-new-instants-feature-combines-elements-from-snapchat-and-bereal/)
+- [Rivian spinoff Mind Robotics raises another $400M](https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/)
+- [Who trusts Sam Altman?](https://techcrunch.com/2026/05/13/who-trusts-sam-altman/)
+- [Origin Lab raises $8M to help video game companies sell data to world-model builders](https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
