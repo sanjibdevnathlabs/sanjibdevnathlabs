@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I reviewed 50 promotion cases. Junior devs who got promoted had ONE thing in common.](https://www.youtube.com/shorts/kAPEEFaURgc)
+- [Auctions and the free market](https://www.youtube.com/watch?v=M-8kLw3iNHw)
 - [Every operating system concept in one video…](https://www.youtube.com/watch?v=MtxP2pyCvYA)
-- [732 bytes of Python just borked every Linux machine on earth…](https://www.youtube.com/watch?v=lkifbWtxxlk)
-- [GitHub is having some major issues right now…](https://www.youtube.com/watch?v=d53Zk28esmU)
-- [I finally found a use case for OpenClaw…](https://www.youtube.com/watch?v=FM5-R4VPArw)
-- [Claude just got another superpower...](https://www.youtube.com/watch?v=jeA-KBv0b68)
+- [Compliance can be frustrating. But....CALMpliance........that&#39;s a whole different thing.](https://www.youtube.com/shorts/OL9cQI5hIVE)
+- [From Bold Idea to Global Legacy: 25 Years of MIT OpenCourseWare](https://www.youtube.com/watch?v=jeffHBoG-Gg)
 <!-- YOUTUBE:END -->
 
 ---
