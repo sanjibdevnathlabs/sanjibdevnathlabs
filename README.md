@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Remember &#39;Choose Your Own Adventure&#39; books? Now there&#39;s a gorgeous graphic novel version heading to &#39;Space and Beyond&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-books/remember-choose-your-own-adventure-books-now-theres-a-gorgeous-graphic-novel-version-heading-to-space-and-beyond-exclusive)
+- [Will Starship launch from foreign shores? SpaceX &#39;constantly exploring&#39; options for megarocket liftoff sites](https://www.space.com/space-exploration/launches-spacecraft/will-starship-launch-from-foreign-shores-spacex-constantly-exploring-options-for-megarocket-liftoff-sites)
+- [Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center](https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/)
 - [Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are](https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/)
 - [What flings mysteriously powerful particles called &#39;cosmic rays&#39; at Earth?](https://www.space.com/science/particle-physics/what-flings-mysteriously-powerful-particles-called-cosmic-rays-at-earth)
-- [This is what some the world’s largest banks of malware look like stacked as hard drives](https://techcrunch.com/2026/05/13/this-is-what-some-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/)
-- [Astrophotographer captures remarkable view of galactic &#39;Eyes&#39; with backyard telescope](https://www.space.com/stargazing/astrophotography/astrophotographer-captures-remarkable-view-of-galactic-eyes-with-backyard-telescope)
-- [Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand](https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
