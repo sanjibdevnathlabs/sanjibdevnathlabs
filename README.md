@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blue Origin&#39;s lunar lander mockup is ready for NASA Artemis astronaut training](https://www.space.com/space-exploration/artemis/blue-origins-lunar-lander-mockup-is-ready-for-nasa-artemis-astronaut-training)
-- [Instagram’s new ‘Instants’ feature combines elements from Snapchat and BeReal](https://techcrunch.com/2026/05/13/instagrams-new-instants-feature-combines-elements-from-snapchat-and-bereal/)
-- [Rivian spinoff Mind Robotics raises another $400M](https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/)
-- [Who trusts Sam Altman?](https://techcrunch.com/2026/05/13/who-trusts-sam-altman/)
-- [Origin Lab raises $8M to help video game companies sell data to world-model builders](https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/)
+- [Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are](https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/)
+- [What flings mysteriously powerful particles called &#39;cosmic rays&#39; at Earth?](https://www.space.com/science/particle-physics/what-flings-mysteriously-powerful-particles-called-cosmic-rays-at-earth)
+- [This is what some the world’s largest banks of malware look like stacked as hard drives](https://techcrunch.com/2026/05/13/this-is-what-some-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/)
+- [Astrophotographer captures remarkable view of galactic &#39;Eyes&#39; with backyard telescope](https://www.space.com/stargazing/astrophotography/astrophotographer-captures-remarkable-view-of-galactic-eyes-with-backyard-telescope)
+- [Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand](https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
