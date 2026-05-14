@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to turn off Instagram’s new Instants feature and retract photos you accidentally shared](https://techcrunch.com/2026/05/14/how-to-turn-of-instagrams-new-instants-feature-and-retract-photos-you-accidentally-shared/)
-- [What should you do if you meet an alien? Neil deGrasse Tyson offers a scientific perspective in &#39;Take Me To Your Leader&#39; &lpar;interview&rpar;](https://www.space.com/entertainment/what-should-you-do-if-you-meet-an-alien-neil-degrasse-tyson-offers-a-scientific-perspective-in-take-me-to-your-leader-interview)
-- [A spyware investigator exposed Russian government hackers trying to hijack Signal accounts](https://techcrunch.com/2026/05/14/a-spyware-investigator-exposed-russian-government-hackers-trying-to-hijack-signal-accounts/)
-- [Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’](https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/)
-- [Wirestock raises $23M to supply creative multi-modal data to AI labs](https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/)
+- [SpaceX&#39;s Starship V3 megarocket will do something completely new on Flight 12 — take a good look at itself](https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-v3-megarocket-will-do-something-completely-new-on-flight-12-take-a-good-look-at-itself)
+- [Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026](https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/)
+- [OpenAI says hackers stole some data after latest code security issue](https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/)
+- [Geomagnetic storm could spark northern lights as far south as New York and Idaho tonight](https://www.space.com/stargazing/auroras/geomagnetic-storm-could-spark-northern-lights-as-far-south-as-new-york-and-idaho-tonight-may-14)
+- [Spotify to adopt Apple’s new video podcast tech, offering creators easier cross-platform distribution](https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
