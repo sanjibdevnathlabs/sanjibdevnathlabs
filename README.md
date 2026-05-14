@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [One Real Consequence Beats 100 Motivational Videos](https://www.youtube.com/shorts/6SbGspIiQkE)
+- [I reviewed 50 promotion cases. Junior devs who got promoted had ONE thing in common.](https://www.youtube.com/shorts/kAPEEFaURgc)
+- [Auctions and the free market](https://www.youtube.com/watch?v=M-8kLw3iNHw)
 - [Every operating system concept in one video…](https://www.youtube.com/watch?v=MtxP2pyCvYA)
-- [Hacking on the PDP1 Raspberry Pi Emulator - Computerphile](https://www.youtube.com/watch?v=7WEewUVQabU)
-- [732 bytes of Python just borked every Linux machine on earth…](https://www.youtube.com/watch?v=lkifbWtxxlk)
-- [GitHub is having some major issues right now…](https://www.youtube.com/watch?v=d53Zk28esmU)
-- [Finding Hardware Bugs - Computerphile](https://www.youtube.com/watch?v=G1VgXqKZMZE)
+- [Compliance can be frustrating. But....CALMpliance........that&#39;s a whole different thing.](https://www.youtube.com/shorts/OL9cQI5hIVE)
 <!-- YOUTUBE:END -->
 
 ---
