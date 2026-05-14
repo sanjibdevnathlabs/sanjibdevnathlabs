@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned](https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/)
-- [Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard](https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/)
-- [&#39;Directive 8020&#39; is an introspective look at sci-fi horror and our fear of the unknown](https://www.space.com/entertainment/space-games/directive-8020-is-an-introspective-look-at-sci-fi-horror-and-our-fear-of-the-unknown)
-- [YouTube viewers watch 2 billion hours of Shorts on TVs each month](https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/)
-- [NASA&#39;s Perseverance rover is positively glowing in its new selfie on Mars](https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-rover-is-positively-glowing-in-its-new-selfie-on-mars)
+- [OpenAI says Codex is coming to your phone](https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/)
+- [Lovable just backed a company that’s looking to bring vibe coding to hardware](https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/)
+- [Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting](https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/)
+- [No, this isn&#39;t a solar eclipse. It&#39;s an image of Mars, captured by NASA&#39;s asteroid-bound Psyche probe](https://www.space.com/astronomy/mars/no-this-isnt-a-solar-eclipse-its-an-image-of-mars-captured-by-nasas-asteroid-bound-psyche-probe)
+- [What happens when AI starts building itself?](https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
