@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA reveals new details about Artemis 3 astronaut mission](https://www.space.com/space-exploration/artemis/nasa-reveals-new-details-about-artemis-3-astronaut-mission)
-- [Scientists propose new way to find aliens — and we may already have a spacecraft that can help](https://www.space.com/space-exploration/search-for-life/scientists-propose-new-way-to-find-aliens-and-we-may-already-have-a-spacecraft-that-can-help)
-- [Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts](https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/)
-- [Clio’s $500M milestone arrives just as Anthropic ups the ante](https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/)
-- [Notion just turned its workspace into a hub for AI agents](https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/)
+- [How to turn off Instagram’s new Instants feature and retract photos you accidentally shared](https://techcrunch.com/2026/05/14/how-to-turn-of-instagrams-new-instants-feature-and-retract-photos-you-accidentally-shared/)
+- [What should you do if you meet an alien? Neil deGrasse Tyson offers a scientific perspective in &#39;Take Me To Your Leader&#39; &lpar;interview&rpar;](https://www.space.com/entertainment/what-should-you-do-if-you-meet-an-alien-neil-degrasse-tyson-offers-a-scientific-perspective-in-take-me-to-your-leader-interview)
+- [A spyware investigator exposed Russian government hackers trying to hijack Signal accounts](https://techcrunch.com/2026/05/14/a-spyware-investigator-exposed-russian-government-hackers-trying-to-hijack-signal-accounts/)
+- [Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’](https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/)
+- [Wirestock raises $23M to supply creative multi-modal data to AI labs](https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
