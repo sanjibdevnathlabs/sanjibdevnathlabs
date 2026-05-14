@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX&#39;s Starship V3 megarocket will do something completely new on Flight 12 — take a good look at itself](https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-v3-megarocket-will-do-something-completely-new-on-flight-12-take-a-good-look-at-itself)
-- [Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026](https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/)
-- [OpenAI says hackers stole some data after latest code security issue](https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/)
-- [Geomagnetic storm could spark northern lights as far south as New York and Idaho tonight](https://www.space.com/stargazing/auroras/geomagnetic-storm-could-spark-northern-lights-as-far-south-as-new-york-and-idaho-tonight-may-14)
-- [Spotify to adopt Apple’s new video podcast tech, offering creators easier cross-platform distribution](https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/)
+- [OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned](https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/)
+- [Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard](https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/)
+- [&#39;Directive 8020&#39; is an introspective look at sci-fi horror and our fear of the unknown](https://www.space.com/entertainment/space-games/directive-8020-is-an-introspective-look-at-sci-fi-horror-and-our-fear-of-the-unknown)
+- [YouTube viewers watch 2 billion hours of Shorts on TVs each month](https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/)
+- [NASA&#39;s Perseverance rover is positively glowing in its new selfie on Mars](https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-rover-is-positively-glowing-in-its-new-selfie-on-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
