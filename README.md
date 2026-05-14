@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A single PR just hijacked the NPM registry...](https://www.youtube.com/watch?v=gwTQLZSIlsU)
 - [8 Biggest DevOps Mistakes That Cost Me Years &lpar;And How to Avoid Them&rpar;](https://www.youtube.com/watch?v=9FKqsCVOD_Y)
 - [One Real Consequence Beats 100 Motivational Videos](https://www.youtube.com/shorts/6SbGspIiQkE)
 - [I reviewed 50 promotion cases. Junior devs who got promoted had ONE thing in common.](https://www.youtube.com/shorts/kAPEEFaURgc)
 - [Auctions and the free market](https://www.youtube.com/watch?v=M-8kLw3iNHw)
-- [Every operating system concept in one video…](https://www.youtube.com/watch?v=MtxP2pyCvYA)
 <!-- YOUTUBE:END -->
 
 ---
