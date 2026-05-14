@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA reveals new details about Artemis 3 astronaut mission](https://www.space.com/space-exploration/artemis/nasa-reveals-new-details-about-artemis-3-astronaut-mission)
 - [Scientists propose new way to find aliens — and we may already have a spacecraft that can help](https://www.space.com/space-exploration/search-for-life/scientists-propose-new-way-to-find-aliens-and-we-may-already-have-a-spacecraft-that-can-help)
 - [Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts](https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/)
 - [Clio’s $500M milestone arrives just as Anthropic ups the ante](https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/)
 - [Notion just turned its workspace into a hub for AI agents](https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/)
-- [Remember &#39;Choose Your Own Adventure&#39; books? Now there&#39;s a gorgeous graphic novel version heading to &#39;Space and Beyond&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-books/remember-choose-your-own-adventure-books-now-theres-a-gorgeous-graphic-novel-version-heading-to-space-and-beyond-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
