@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [RJ Scaringe has raised more than $12 billion across three startups and investors still want more](https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/)
+- [General Catalyst posted VC rage bait and it worked, especially on a16z](https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/)
 - [&#39;Battlestar Galactica: Scattered Hopes&#39; is a relentlessly oppressive roguelite inspired by FTL](https://www.space.com/entertainment/space-games/battlestar-galactica-scattered-hopes-is-a-relentlessly-oppressive-roguelite-inspired-by-ftl)
 - [A hotel check-in system left a million passports and driver’s licenses open for anyone to see](https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/)
 - [Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up](https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/)
-- [The Canon EOS R5 Mark II is our choice as the best-resolution Canon camera – it&#39;s perfect for astrophotography and is $501 off in this Walmart deal](https://www.space.com/technology/the-canon-eos-r5-mark-ii-is-our-choice-as-the-best-resolution-canon-camera-its-perfect-for-astrophotography-and-is-usd501-off-in-this-walmart-deal)
-- [Tesla reveals two Robotaxi crashes involving teleoperators](https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
