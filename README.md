@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian Uber rival Rapido raises $240M at $3B valuation](https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/)
+- [We still can&#39;t see dark matter. But what if we can hear it?](https://www.space.com/astronomy/dark-universe/we-still-cant-see-dark-matter-but-what-if-we-can-hear-it)
 - [What the jury will actually decide in the case of Elon Musk vs. Sam Altman](https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/)
 - [The &#39;Doctor Who&#39; TV movie at 30: Too British for America, too American for the UK](https://www.space.com/entertainment/space-movies-shows/the-doctor-who-tv-movie-at-30-too-british-for-america-too-american-for-the-uk)
 - [Elon Musk’s SpaceXAI has been bleeding staff since its merger](https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/)
-- [OpenAI says Codex is coming to your phone](https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/)
-- [Lovable just backed a company that’s looking to bring vibe coding to hardware](https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
