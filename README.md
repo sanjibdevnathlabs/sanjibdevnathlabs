@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Even GoPro is pivoting to defense](https://techcrunch.com/2026/05/15/even-gopro-is-pivoting-to-defense/)
-- [Meridian Ventures launched $35M fund to back MBA-deferred founders](https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/)
-- [James Webb Space Telescope maps our universe&#39;s largest structure in unprecedented detail](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-maps-our-universes-largest-structure-in-unprecedented-detail)
-- [Osaurus brings both local and cloud AI models to your Mac](https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/)
-- [4 bright stars form a giant &#39;diamond&#39; in the May night sky: Here&#39;s how to find it](https://www.space.com/stargazing/4-bright-stars-form-a-giant-diamond-in-the-may-night-sky-heres-how-to-find-it)
+- [Power prices are up 76% on America’s biggest grid, and a watchdog is pointing fingers](https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers/)
+- [US orders travelers on Air Force One to throw away gifts, pins, and burner phones after China trip](https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/)
+- [I thought my backyard had too much light pollution for astrophotography. This telescope proved me wrong](https://www.space.com/stargazing/astrophotography/i-thought-my-backyard-had-too-much-light-pollution-for-astrophotography-this-telescope-proved-me-wrong)
+- [Runway started by helping filmmakers. Now it wants to beat Google at AI.](https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/)
+- [Auroras over Australia look like sci-fi from space | Space photo of the day for May 15, 2026](https://www.space.com/astronomy/auroras-over-australia-look-like-sci-fi-from-space-space-photo-of-the-day-for-may-15-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
