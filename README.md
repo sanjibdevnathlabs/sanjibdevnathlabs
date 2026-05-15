@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Indian Uber rival Rapido raises $240M at $3B valuation](https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/)
-- [We still can&#39;t see dark matter. But what if we can hear it?](https://www.space.com/astronomy/dark-universe/we-still-cant-see-dark-matter-but-what-if-we-can-hear-it)
-- [What the jury will actually decide in the case of Elon Musk vs. Sam Altman](https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/)
-- [The &#39;Doctor Who&#39; TV movie at 30: Too British for America, too American for the UK](https://www.space.com/entertainment/space-movies-shows/the-doctor-who-tv-movie-at-30-too-british-for-america-too-american-for-the-uk)
-- [Elon Musk’s SpaceXAI has been bleeding staff since its merger](https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/)
+- [Even GoPro is pivoting to defense](https://techcrunch.com/2026/05/15/even-gopro-is-pivoting-to-defense/)
+- [Meridian Ventures launched $35M fund to back MBA-deferred founders](https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/)
+- [James Webb Space Telescope maps our universe&#39;s largest structure in unprecedented detail](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-maps-our-universes-largest-structure-in-unprecedented-detail)
+- [Osaurus brings both local and cloud AI models to your Mac](https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/)
+- [4 bright stars form a giant &#39;diamond&#39; in the May night sky: Here&#39;s how to find it](https://www.space.com/stargazing/4-bright-stars-form-a-giant-diamond-in-the-may-night-sky-heres-how-to-find-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
