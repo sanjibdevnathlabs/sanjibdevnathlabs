@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 210 — ESCAPADES at Mars](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-210-escapades-at-mars)
+- [Users turn to jailbreaking their older Kindles as Amazon ends support](https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/)
 - [New moon of May 2026 brings stunning views of the Milky Way, Venus and Mars](https://www.space.com/stargazing/new-moon-of-may-2026-brings-stunning-views-of-the-milky-way-venus-and-mars)
 - [NASA&#39;s Psyche spacecraft is flying to a metal asteroid. So, why did it just visit Mars?](https://www.space.com/space-exploration/asteroid-comet-missions/nasas-psyche-spacecraft-is-flying-to-a-metal-asteroid-so-why-did-it-just-visit-mars)
 - [Astronomers find interstellar comet 3I/ATLAS hiding in images taken before its official discovery](https://www.space.com/astronomy/comets/astronomers-find-interstellar-comet-3i-atlas-hiding-in-images-taken-before-its-official-discovery)
-- [The devil may wear Prada on Earth, but NASA Artemis astronauts will on the moon. Here&#39;s why.](https://www.space.com/entertainment/the-devil-may-wear-prada-on-earth-but-nasa-artemis-astronauts-will-on-the-moon-heres-why)
-- [RJ Scaringe has raised more than $12B across three startups and investors still want more](https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
