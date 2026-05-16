@@ -136,7 +136,7 @@ I'm a software developer passionate about designing and building applications wi
 <!-- YOUTUBE:START -->
 - [I can’t believe this trial is real...](https://www.youtube.com/watch?v=3tbB2dffx0s)
 - [A single PR just hijacked the NPM registry...](https://www.youtube.com/watch?v=gwTQLZSIlsU)
-- [8 Biggest DevOps Mistakes That Cost Me Years &lpar;And How to Avoid Them&rpar;](https://www.youtube.com/watch?v=9FKqsCVOD_Y)
+- [I Wasted 2 Years Learning DevOps Wrong. Here&#39;s What I&#39;d Do Instead.](https://www.youtube.com/watch?v=9FKqsCVOD_Y)
 - [One Real Consequence Beats 100 Motivational Videos](https://www.youtube.com/shorts/6SbGspIiQkE)
 - [I reviewed 50 promotion cases. Junior devs who got promoted had ONE thing in common.](https://www.youtube.com/shorts/kAPEEFaURgc)
 <!-- YOUTUBE:END -->
