@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The offline desk gadget that actually got me to sit up straight](https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/)
 - [OpenAI co-founder Greg Brockman reportedly takes charge of product strategy](https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/)
 - [$60B AI chip darling Cerebras almost died early on, burning $8M a month](https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/)
 - [This Week In Space podcast: Episode 210 — ESCAPADES at Mars](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-210-escapades-at-mars)
 - [Users turn to jailbreaking their older Kindles as Amazon ends support](https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/)
-- [New moon of May 2026 brings stunning views of the Milky Way, Venus and Mars](https://www.space.com/stargazing/new-moon-of-may-2026-brings-stunning-views-of-the-milky-way-venus-and-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
