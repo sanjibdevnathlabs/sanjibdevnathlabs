@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers find interstellar comet 3I/ATLAS hiding in images taken before its official discovery](https://www.space.com/astronomy/comets/astronomers-find-interstellar-comet-3i-atlas-hiding-in-images-taken-before-its-official-discovery)
 - [The devil may wear Prada on Earth, but NASA Artemis astronauts will on the moon. Here&#39;s why.](https://www.space.com/entertainment/the-devil-may-wear-prada-on-earth-but-nasa-artemis-astronauts-will-on-the-moon-heres-why)
 - [RJ Scaringe has raised more than $12B across three startups and investors still want more](https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/)
 - [General Catalyst posted VC rage bait and it worked, especially on a16z](https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/)
 - [&#39;Battlestar Galactica: Scattered Hopes&#39; is a relentlessly oppressive roguelite inspired by FTL](https://www.space.com/entertainment/space-games/battlestar-galactica-scattered-hopes-is-a-relentlessly-oppressive-roguelite-inspired-by-ftl)
-- [A hotel check-in system left a million passports and driver’s licenses open for anyone to see](https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
