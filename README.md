@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why trust is a big question at the Elon Musk-OpenAI trial](https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/)
 - [If you’re giving a commencement speech in 2026, maybe don’t mention AI](https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/)
 - [TechCrunch Mobility: The AI skills arms race is coming for automotive](https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/)
 - [For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis](https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/)
 - [Watch NASA&#39;s new Mars helicopter rotor break the speed of sound &lpar;video&rpar;](https://www.space.com/astronomy/mars/watch-nasas-new-mars-helicopter-rotor-break-the-speed-of-sound-video)
-- [Venus and a slender crescent moon steal the show after sunset on May 18](https://www.space.com/stargazing/venus-and-a-slender-crescent-moon-steal-the-show-after-sunset-on-may-18-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
