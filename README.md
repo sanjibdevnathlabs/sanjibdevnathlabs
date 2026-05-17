@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch an asteroid the size of a blue whale hurtle towards Earth live online May 18](https://www.space.com/astronomy/asteroids/watch-an-asteroid-the-size-of-a-blue-whale-hurtle-towards-earth-live-online-may-18)
+- [Giant radio telescope sees Artemis 2 astronauts on Orion flying around the moon. &#39;There are 4 people in those pixels.&#39;](https://www.space.com/space-exploration/artemis/giant-radio-telescope-sees-artemis-2-astronauts-on-orion-flying-around-the-moon-there-are-4-people-in-those-pixels)
 - [The haves and have nots of the AI gold rush](https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/)
 - [Marketing operating system Nectar Social raises $30M Series A led by Menlo](https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/)
 - [Research repository ArXiv will ban authors for a year if they let AI do all the work](https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/)
-- [Get $341 off the limited X edition of the Vaonis Vespera II at Walmart](https://www.space.com/stargazing/skywatching-kit/get-usd341-off-the-limited-x-edition-of-the-vaonis-vespera-ii-at-walmart)
-- [With the Vespera III and Vespera Pro 2, telescope-maker Vaonis unveils its sharpest optics yet](https://www.space.com/stargazing/skywatching-kit/with-the-vespera-iii-and-vespera-pro-2-telescope-maker-vaonis-unveils-its-sharpest-optics-yet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
