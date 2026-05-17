@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [I can’t believe this trial is real...](https://www.youtube.com/watch?v=3tbB2dffx0s)
-- [A single PR just hijacked the NPM registry...](https://www.youtube.com/watch?v=gwTQLZSIlsU)
-- [I Wasted 2 Years Learning DevOps Wrong. Here&#39;s What I&#39;d Do Instead.](https://www.youtube.com/watch?v=9FKqsCVOD_Y)
-- [One Real Consequence Beats 100 Motivational Videos](https://www.youtube.com/shorts/6SbGspIiQkE)
-- [I reviewed 50 promotion cases. Junior devs who got promoted had ONE thing in common.](https://www.youtube.com/shorts/kAPEEFaURgc)
+- [Hacking on the PDP1 Raspberry Pi Emulator - Computerphile](https://www.youtube.com/watch?v=7WEewUVQabU)
+- [Finding Hardware Bugs - Computerphile](https://www.youtube.com/watch?v=G1VgXqKZMZE)
+- [Original Hello World in &quot;B&quot; Programming Language - Computerphile](https://www.youtube.com/watch?v=cYS57xJuRP8)
+- [Oversampling Data &lpar;Explained with Audio&rpar; - Computerphile](https://www.youtube.com/watch?v=x_pwyoLsvkw)
+- [Post Quantum Cryptography - Computerphile](https://www.youtube.com/watch?v=_MoRcYLN-7U)
 <!-- YOUTUBE:END -->
 
 ---
