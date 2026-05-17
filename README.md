@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis](https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/)
+- [Watch NASA&#39;s new Mars helicopter rotor break the speed of sound &lpar;video&rpar;](https://www.space.com/astronomy/mars/watch-nasas-new-mars-helicopter-rotor-break-the-speed-of-sound-video)
 - [Venus and a slender crescent moon steal the show after sunset on May 18](https://www.space.com/stargazing/venus-and-a-slender-crescent-moon-steal-the-show-after-sunset-on-may-18-2026)
 - [SpaceX Dragon capsule delivers science and supplies to space station](https://www.space.com/space-exploration/international-space-station/spacex-dragon-capsule-delivers-science-and-supplies-to-space-station)
 - [Watch an asteroid the size of a blue whale hurtle towards Earth live online May 18](https://www.space.com/astronomy/asteroids/watch-an-asteroid-the-size-of-a-blue-whale-hurtle-towards-earth-live-online-may-18)
-- [Giant radio telescope sees Artemis 2 astronauts on Orion flying around the moon. &#39;There are 4 people in those pixels.&#39;](https://www.space.com/space-exploration/artemis/giant-radio-telescope-sees-artemis-2-astronauts-on-orion-flying-around-the-moon-there-are-4-people-in-those-pixels)
-- [The haves and have nots of the AI gold rush](https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
