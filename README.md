@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Compliance can be frustrating. But....CALMpliance........that&#39;s a whole different thing.](https://www.youtube.com/shorts/OL9cQI5hIVE)
-- [Hacking on the PDP1 Raspberry Pi Emulator - Computerphile](https://www.youtube.com/watch?v=7WEewUVQabU)
-- [Summer of CCNA LIVE Launch Party](https://www.youtube.com/watch?v=-abob21omcM)
-- [Finding Hardware Bugs - Computerphile](https://www.youtube.com/watch?v=G1VgXqKZMZE)
-- [Learn networking with REAL labs 👉 Join the Summer of CCNA](https://www.youtube.com/shorts/mTpvUlng5ls)
+- [I can’t believe this trial is real...](https://www.youtube.com/watch?v=3tbB2dffx0s)
+- [A single PR just hijacked the NPM registry...](https://www.youtube.com/watch?v=gwTQLZSIlsU)
+- [I Wasted 2 Years Learning DevOps Wrong. Here&#39;s What I&#39;d Do Instead.](https://www.youtube.com/watch?v=9FKqsCVOD_Y)
+- [One Real Consequence Beats 100 Motivational Videos](https://www.youtube.com/shorts/6SbGspIiQkE)
+- [I reviewed 50 promotion cases. Junior devs who got promoted had ONE thing in common.](https://www.youtube.com/shorts/kAPEEFaURgc)
 <!-- YOUTUBE:END -->
 
 ---
