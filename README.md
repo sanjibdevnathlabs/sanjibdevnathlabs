@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [I can’t believe this trial is real...](https://www.youtube.com/watch?v=3tbB2dffx0s)
-- [A single PR just hijacked the NPM registry...](https://www.youtube.com/watch?v=gwTQLZSIlsU)
-- [I Wasted 2 Years Learning DevOps Wrong. Here&#39;s What I&#39;d Do Instead.](https://www.youtube.com/watch?v=9FKqsCVOD_Y)
-- [One Real Consequence Beats 100 Motivational Videos](https://www.youtube.com/shorts/6SbGspIiQkE)
-- [I reviewed 50 promotion cases. Junior devs who got promoted had ONE thing in common.](https://www.youtube.com/shorts/kAPEEFaURgc)
+- [Lecture 4: Rationalizability](https://www.youtube.com/watch?v=ZdwIokL0P_U)
+- [Lecture 3: Dominance](https://www.youtube.com/watch?v=b7BAHSV1EBo)
+- [Lecture 19: Revenue Equivalence](https://www.youtube.com/watch?v=mu0X3GpDAy8)
+- [Lecture 14: Folk Theorem](https://www.youtube.com/watch?v=3ws34WgJKzk)
+- [Lecture 12: Finitely Repeated Games](https://www.youtube.com/watch?v=_XM0CRvaWq0)
 <!-- YOUTUBE:END -->
 
 ---
