@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists found stardust trapped in Antarctic ice. What could it tell us about our solar system?](https://www.space.com/science/scientists-found-stardust-trapped-in-antarctic-ice-what-could-it-tell-us-about-our-solar-system)
 - [Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare](https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/)
 - [Why bringing back &#39;The Mandalorian and Grogu&#39; isn&#39;t the way](https://www.space.com/entertainment/space-movies-shows/why-bringing-back-the-mandalorian-and-grogu-isnt-the-way)
 - [&#39;Voidverse&#39; is a seriously weird space fantasy novel from &#39;The OA&#39;s&#39; Damien Ober &lpar;interview&rpar;](https://www.space.com/entertainment/space-books/voidverse-is-a-seriously-weird-space-fantasy-novel-from-the-oas-damien-ober-interview)
 - [What time is SpaceX&#39;s Starship V3 launch on May 20? &lpar;Starship Flight 12 timeline&rpar;](https://www.space.com/space-exploration/launches-spacecraft/what-time-is-spacex-starship-v3-launch-starship-flight-12-timeline)
-- [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
