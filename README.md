@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon’s new Alexa+ powered feature can generate podcast episodes](https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/)
-- [Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom](https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/)
-- [South Korea’s LetinAR is building optics behind AI glasses](https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/)
-- [Apple’s Siri revamp could include auto-deleting chats](https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/)
-- [Why trust is a big question at the Elon Musk-OpenAI trial](https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/)
+- [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/)
+- [Watch Vega C rocket launch European-Chinese space weather satellite to orbit tonight](https://www.space.com/space-exploration/launches-spacecraft/european-chinese-space-weather-mission-smile-launch)
+- [NYC Health and Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people](https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/)
+- [Kin Health raises $9M to build an AI notetaker for patients](https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/)
+- [This amazing NASA video shows the exact moment the Artemis 2 Orion capsule broke free of its service module, and we can&#39;t stop watching it](https://www.space.com/space-exploration/artemis/this-amazing-nasa-video-shows-the-exact-moment-the-artemis-2-orion-capsule-broke-free-of-its-service-module-and-we-cant-stop-watching-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
