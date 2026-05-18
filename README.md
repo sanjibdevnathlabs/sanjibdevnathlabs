@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare](https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/)
+- [Why bringing back &#39;The Mandalorian and Grogu&#39; isn&#39;t the way](https://www.space.com/entertainment/space-movies-shows/why-bringing-back-the-mandalorian-and-grogu-isnt-the-way)
+- [&#39;Voidverse&#39; is a seriously weird space fantasy novel from &#39;The OA&#39;s&#39; Damien Ober &lpar;interview&rpar;](https://www.space.com/entertainment/space-books/voidverse-is-a-seriously-weird-space-fantasy-novel-from-the-oas-damien-ober-interview)
+- [What time is SpaceX&#39;s Starship V3 launch on May 20? &lpar;Starship Flight 12 timeline&rpar;](https://www.space.com/space-exploration/launches-spacecraft/what-time-is-spacex-starship-v3-launch-starship-flight-12-timeline)
 - [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/)
-- [Watch Vega C rocket launch European-Chinese space weather satellite to orbit tonight](https://www.space.com/space-exploration/launches-spacecraft/european-chinese-space-weather-mission-smile-launch)
-- [NYC Health and Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people](https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/)
-- [Kin Health raises $9M to build an AI notetaker for patients](https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/)
-- [This amazing NASA video shows the exact moment the Artemis 2 Orion capsule broke free of its service module, and we can&#39;t stop watching it](https://www.space.com/space-exploration/artemis/this-amazing-nasa-video-shows-the-exact-moment-the-artemis-2-orion-capsule-broke-free-of-its-service-module-and-we-cant-stop-watching-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
