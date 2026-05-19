@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See Jupiter glow beside the waxing moon after sunset on May 20](https://www.space.com/stargazing/see-jupiter-glow-beside-the-waxing-moon-after-sunset-on-may-20)
-- [NASA satellite will test orbital &#39;gas station&#39; tech to help astronauts reach the moon and Mars](https://www.space.com/space-exploration/nasa-satellite-will-test-cryogenic-technologies-for-orbital-gas-stations-to-help-astronauts-reach-the-moon-and-mars)
-- [OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team](https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/)
-- [The minimalist Light Phone teams up with Andrew Yang’s Noble Mobile, which pays you to stop doomscrolling](https://techcrunch.com/2026/05/19/the-minimalist-light-phone-teams-up-with-andrew-yangs-noble-mobile-which-pays-you-to-stop-doomscrolling/)
-- [Hackers have compromised dozens of popular open source packages in an ongoing supply chain attack](https://techcrunch.com/2026/05/19/hackers-have-compromised-dozens-of-popular-open-source-packages-in-an-ongoing-supply-chain-attack/)
+- [Google takes a page out of Meta’s book, announces new audio-powered smart glasses](https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/)
+- [&#39;The Mandalorian and Grogu&#39; clip reveals how Mando gets his Razor Crest spaceship back &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-mandalorian-and-grogu-clip-reveals-how-mando-gets-his-razor-crest-spaceship-back-video)
+- [Vast, builder of private space stations, launches line of high-power satellites](https://www.space.com/space-exploration/human-spaceflight/vast-space-stations-announces-satellite-line)
+- [Google’s Genie world model can now simulate real streets with Street View](https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/)
+- [With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots](https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
