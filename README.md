@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple announces Apple Intelligence powered accessibility feature updates](https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/)
-- [‘Survivor’ stars Kyle Fraser and Kamilla Karthigesu introduce  a goal-tracking app, Paprclip](https://techcrunch.com/2026/05/19/survivor-stars-kyle-fraser-and-kamilla-karthigesu-introduce-a-goal-tracking-app-paprclip/)
-- [Forget the feed: Status AI raises $17M to turn social media into interactive entertainment](https://techcrunch.com/2026/05/19/gamified-social-media-network-status-announces-17m-funding-to-help-usher-in-new-era-of-social-networking/)
-- [Galactic starlight will take your breath away | Space photo of the day for May 19, 2026](https://www.space.com/astronomy/galactic-starlight-will-take-your-breath-away-space-photo-of-the-day-for-may-19-2026)
-- [As &#39;The Mandalorian and Grogu&quot; prepare for their close-up, can &#39;Star Wars&#39; ever feel like a big-screen event again?](https://www.space.com/entertainment/space-movies-shows/as-the-mandalorian-and-grogu-prepare-for-their-close-up-can-star-wars-ever-feel-like-a-big-screen-event-again)
+- [See Jupiter glow beside the waxing moon after sunset on May 20](https://www.space.com/stargazing/see-jupiter-glow-beside-the-waxing-moon-after-sunset-on-may-20)
+- [NASA satellite will test orbital &#39;gas station&#39; tech to help astronauts reach the moon and Mars](https://www.space.com/space-exploration/nasa-satellite-will-test-cryogenic-technologies-for-orbital-gas-stations-to-help-astronauts-reach-the-moon-and-mars)
+- [OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team](https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/)
+- [The minimalist Light Phone teams up with Andrew Yang’s Noble Mobile, which pays you to stop doomscrolling](https://techcrunch.com/2026/05/19/the-minimalist-light-phone-teams-up-with-andrew-yangs-noble-mobile-which-pays-you-to-stop-doomscrolling/)
+- [Hackers have compromised dozens of popular open source packages in an ongoing supply chain attack](https://techcrunch.com/2026/05/19/hackers-have-compromised-dozens-of-popular-open-source-packages-in-an-ongoing-supply-chain-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
