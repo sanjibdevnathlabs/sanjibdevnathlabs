@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google takes a page out of Meta’s book, announces new audio-powered smart glasses](https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/)
-- [&#39;The Mandalorian and Grogu&#39; clip reveals how Mando gets his Razor Crest spaceship back &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/the-mandalorian-and-grogu-clip-reveals-how-mando-gets-his-razor-crest-spaceship-back-video)
-- [Vast, builder of private space stations, launches line of high-power satellites](https://www.space.com/space-exploration/human-spaceflight/vast-space-stations-announces-satellite-line)
-- [Google’s Genie world model can now simulate real streets with Street View](https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/)
-- [With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots](https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/)
+- [Mach Industries just spent $50M to solve a major defense tech problem](https://techcrunch.com/2026/05/19/mach-industries-just-spent-50m-to-solve-a-major-defense-tech-problem/)
+- [From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing](https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/)
+- [Lasers in moon craters could create a lunar GPS system](https://www.space.com/astronomy/moon/lasers-in-moon-craters-could-create-a-lunar-gps-system)
+- [Elon Musk said Sam Altman “stole” a non-profit — but the trial showed he had similar aims](https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/)
+- [Worker dies at SpaceX&#39;s Starbase in leadup to Starship V3 megarocket launch](https://www.space.com/space-exploration/launches-spacecraft/worker-dies-at-spacexs-starbase-in-leadup-to-starship-v3-megarocket-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
