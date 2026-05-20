@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to watch SpaceX launch its 1st Starship V3 megarocket on May 21](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-new-v3-starship-megarocket-for-1st-time-on-may-20-watch-live)
-- [‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts](https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/)
-- [SpaceX launches 24 Starlink satellites on Falcon 9 launch from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-42-b1103-vsfb-ocisly)
-- [Google just declared itself a contender in AI design at IO 2026](https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/)
-- [You can now talk to your Gmail inbox, as seen at Google IO 2026](https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/)
+- [NanoClaw creator turns down $20M buyout offer, raises $12M seed instead](https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/)
+- [Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27](https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/)
+- [An astronaut&#39;s view of Argentina&#39;s snow-capped mountains | Space photo of the day for May 20, 2026](https://www.space.com/astronomy/earth/an-astronauts-view-of-argentinas-blue-lakes-and-snow-capped-mountains-space-photo-of-the-day-for-may-20-2026)
+- [GitHub says hackers stole data from thousands of internal repositories](https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/)
+- [Figma adds an AI assistant to its collaborative canvas](https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
