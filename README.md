@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I&#39;m switching to Hermes &lpar;goodbye OpenClaw!!&rpar;](https://www.youtube.com/watch?v=QQEgIo4Juxg)
 - [Lecture 4: Rationalizability](https://www.youtube.com/watch?v=ZdwIokL0P_U)
 - [Lecture 3: Dominance](https://www.youtube.com/watch?v=b7BAHSV1EBo)
 - [Lecture 19: Revenue Equivalence](https://www.youtube.com/watch?v=mu0X3GpDAy8)
 - [Lecture 14: Folk Theorem](https://www.youtube.com/watch?v=3ws34WgJKzk)
-- [Lecture 12: Finitely Repeated Games](https://www.youtube.com/watch?v=_XM0CRvaWq0)
 <!-- YOUTUBE:END -->
 
 ---
