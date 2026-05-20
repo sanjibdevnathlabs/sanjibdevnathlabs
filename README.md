@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Global EV market goes K-shaped as the U.S. gets left behind](https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/)
-- [OpenAI barrels towards IPO that may happen in September](https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/)
-- [Jeff Bezos, you were so close to making a good point](https://techcrunch.com/2026/05/20/jeff-bezos-you-were-so-close-to-making-a-good-point/)
-- [Venus and the crescent moon dazzle in a spectacular post-sunset show &lpar;photos&rpar;](https://www.space.com/stargazing/astrophotography/venus-and-the-crescent-moon-dazzle-in-a-spectacular-post-sunset-show-photos)
-- [Is Earth getting brighter at night? It&#39;s complicated, new NASA &#39;Black Marble project&#39; images reveal](https://www.space.com/astronomy/earth/is-earth-getting-brighter-at-night-its-complicated-new-nasa-black-marble-project-images-reveal)
+- [Scientists find a hidden route to the moon that saves fuel](https://www.space.com/astronomy/moon/scientists-find-a-hidden-route-to-the-moon-that-saves-fuel)
+- [IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed](https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/)
+- [SpaceX stacks Starship V3 rocket, completes major fueling test ahead of debut launch](https://www.space.com/space-exploration/launches-spacecraft/spacex-stacks-starship-v3-rocket-completes-major-fueling-test-ahead-of-debut-launch)
+- [US military test-launches nuclear-capable ICBM from California &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/us-military-test-launches-nuclear-capable-icbm-from-california-photos)
+- [Tesla’s Full Self-Driving software is creeping into Europe](https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
