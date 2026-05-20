@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NanoClaw creator turns down $20M buyout offer, raises $12M seed instead](https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/)
-- [Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27](https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/)
-- [An astronaut&#39;s view of Argentina&#39;s snow-capped mountains | Space photo of the day for May 20, 2026](https://www.space.com/astronomy/earth/an-astronauts-view-of-argentinas-blue-lakes-and-snow-capped-mountains-space-photo-of-the-day-for-may-20-2026)
-- [GitHub says hackers stole data from thousands of internal repositories](https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/)
-- [Figma adds an AI assistant to its collaborative canvas](https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/)
+- [Global EV market goes K-shaped as the U.S. gets left behind](https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/)
+- [OpenAI barrels towards IPO that may happen in September](https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/)
+- [Jeff Bezos, you were so close to making a good point](https://techcrunch.com/2026/05/20/jeff-bezos-you-were-so-close-to-making-a-good-point/)
+- [Venus and the crescent moon dazzle in a spectacular post-sunset show &lpar;photos&rpar;](https://www.space.com/stargazing/astrophotography/venus-and-the-crescent-moon-dazzle-in-a-spectacular-post-sunset-show-photos)
+- [Is Earth getting brighter at night? It&#39;s complicated, new NASA &#39;Black Marble project&#39; images reveal](https://www.space.com/astronomy/earth/is-earth-getting-brighter-at-night-its-complicated-new-nasa-black-marble-project-images-reveal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
