@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle](https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/)
+- [Waymo halts freeway rides after robotaxis struggle in construction zones](https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/)
+- [NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers](https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/)
 - [Watch Rocket Lab launch private Japanese Earth-observing satellite early on May 22](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-private-japanese-earth-observing-satellite-early-on-may-22)
 - [Spotify and Universal Music strike deal allowing fan-made AI covers and remixes](https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/)
-- [Forget ‘TechnoKing’: Elon Musk will really be king at SpaceX](https://techcrunch.com/2026/05/21/forget-technoking-elon-musk-will-really-be-king-at-spacex/)
-- [Law enforcement shuts down VPN service used by two dozen ransomware gangs](https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/)
-- [Six search engines worth trying now that Google isn’t really Google anymore](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
