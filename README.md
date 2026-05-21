@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA exoplanet-hunting spacecraft TESS reveals its most complete look at the night sky yet](https://www.space.com/astronomy/exoplanets/nasa-exoplanet-hunting-spacecraft-tess-reveals-its-most-complete-look-at-the-night-sky-yet)
-- [Scammers are abusing an internal Microsoft account to send spam links](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/)
-- [Beauty booking startup Fresha hits $1 billion valuation with KKR backing](https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/)
-- [SpaceX will launch its 1st-ever Starship V3 megarocket today. The stakes couldn&#39;t be higher](https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-its-1st-ever-starship-v3-megarocket-today-the-stakes-couldnt-be-higher)
-- [Truecaller gets into the eSIM business to diversify its revenue streams](https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/)
+- [This young startup is taking on a fragrance industry that hasn’t changed in a almost half century](https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/)
+- [Who is Embo, the enigmatic villain in &#39;The Mandalorian &amp; Grogu&#39;?](https://www.space.com/entertainment/space-movies-shows/who-is-embo-the-enigmatic-villain-in-the-mandalorian-and-grogu)
+- [Spotify takes on Google’s NotebookLM with its new app](https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/)
+- [Spotify adds AI-powered Q&amp;A and briefing generation features to podcasts](https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/)
+- [Spotify launches an ElevenLabs-powered audiobook creation tool](https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
