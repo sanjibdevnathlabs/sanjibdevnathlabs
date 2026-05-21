@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking for epic &#39;Star Wars: The Mandalorian and Grogu&#39; merch? &#39;This is the way&#39; to Grogu Crocs, Lego &amp; more](https://www.space.com/entertainment/unmissable-mandalorian-and-grogu-gifts-ahead-of-the-movie-release)
-- [This exoplanet weather forecast by the James Webb Space Telescope calls for sandy skies and a clear &lpar;alien&rpar; sunset](https://www.space.com/astronomy/james-webb-space-telescope/this-exoplanet-weather-forecast-by-the-james-webb-space-telescope-calls-for-sandy-skies-and-a-clear-alien-sunset)
-- [Convective Capital raises an $85 million fund to build disaster resilience](https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/)
-- [Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’](https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/)
-- [&#39;Stop lying!&#39; Conspiracy theorist confronts Artemis 2 astronauts, accuses them of faking their moon mission](https://www.space.com/space-exploration/artemis/stop-lying-conspiracy-theorist-confronts-artemis-2-astronauts-accuses-them-of-faking-their-moon-mission)
+- [Watch Rocket Lab launch private Japanese Earth-observing satellite early on May 22](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-private-japanese-earth-observing-satellite-early-on-may-22)
+- [Spotify and Universal Music strike deal allowing fan-made AI covers and remixes](https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/)
+- [Forget ‘TechnoKing’: Elon Musk will really be king at SpaceX](https://techcrunch.com/2026/05/21/forget-technoking-elon-musk-will-really-be-king-at-spacex/)
+- [Law enforcement shuts down VPN service used by two dozen ransomware gangs](https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/)
+- [Six search engines worth trying now that Google isn’t really Google anymore](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
