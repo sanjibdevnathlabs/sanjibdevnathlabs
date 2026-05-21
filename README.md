@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Imperagen raises £5 million to use quantum physics, AI on enzyme engineering](https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/)
+- [Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia](https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/)
+- [Anthropic says it’s about to have its first profitable quarter](https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/)
 - [The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center](https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/)
 - [Clouted wants to take the guesswork out of making short videos go viral](https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/)
-- [xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over](https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/)
-- [Space debris is forcing satellites to dodge more often — costing us vital science. &#39;Things will get worse before they get better&#39;](https://www.space.com/space-exploration/satellites/space-debris-is-forcing-satellites-to-dodge-more-often-costing-us-vital-science-things-will-get-worse-before-they-get-better)
-- [Nvidia posts another record quarter, reveals $43B of holdings in startups](https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
