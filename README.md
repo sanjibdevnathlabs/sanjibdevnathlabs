@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [I&#39;m switching to Hermes &lpar;goodbye OpenClaw!!&rpar;](https://www.youtube.com/watch?v=QQEgIo4Juxg)
-- [Why Multi-Threaded Code Can Sometimes Misbehave &lpar;Weak Memory Concurrency&rpar; - Computerphile](https://www.youtube.com/watch?v=E3hvLz717zM)
-- [I can’t believe this trial is real...](https://www.youtube.com/watch?v=3tbB2dffx0s)
-- [A single PR just hijacked the NPM registry...](https://www.youtube.com/watch?v=gwTQLZSIlsU)
-- [Every operating system concept in one video…](https://www.youtube.com/watch?v=MtxP2pyCvYA)
+- [Lecture 4: Rationalizability](https://www.youtube.com/watch?v=ZdwIokL0P_U)
+- [Lecture 3: Dominance](https://www.youtube.com/watch?v=b7BAHSV1EBo)
+- [Lecture 19: Revenue Equivalence](https://www.youtube.com/watch?v=mu0X3GpDAy8)
+- [Lecture 14: Folk Theorem](https://www.youtube.com/watch?v=3ws34WgJKzk)
 <!-- YOUTUBE:END -->
 
 ---
