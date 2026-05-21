@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This young startup is taking on a fragrance industry that hasn’t changed in a almost half century](https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/)
-- [Who is Embo, the enigmatic villain in &#39;The Mandalorian &amp; Grogu&#39;?](https://www.space.com/entertainment/space-movies-shows/who-is-embo-the-enigmatic-villain-in-the-mandalorian-and-grogu)
-- [Spotify takes on Google’s NotebookLM with its new app](https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/)
-- [Spotify adds AI-powered Q&amp;A and briefing generation features to podcasts](https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/)
-- [Spotify launches an ElevenLabs-powered audiobook creation tool](https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/)
+- [Looking for epic &#39;Star Wars: The Mandalorian and Grogu&#39; merch? &#39;This is the way&#39; to Grogu Crocs, Lego &amp; more](https://www.space.com/entertainment/unmissable-mandalorian-and-grogu-gifts-ahead-of-the-movie-release)
+- [This exoplanet weather forecast by the James Webb Space Telescope calls for sandy skies and a clear &lpar;alien&rpar; sunset](https://www.space.com/astronomy/james-webb-space-telescope/this-exoplanet-weather-forecast-by-the-james-webb-space-telescope-calls-for-sandy-skies-and-a-clear-alien-sunset)
+- [Convective Capital raises an $85 million fund to build disaster resilience](https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/)
+- [Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’](https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/)
+- [&#39;Stop lying!&#39; Conspiracy theorist confronts Artemis 2 astronauts, accuses them of faking their moon mission](https://www.space.com/space-exploration/artemis/stop-lying-conspiracy-theorist-confronts-artemis-2-astronauts-accuses-them-of-faking-their-moon-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
