@@ -135,7 +135,7 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [Summer of CCNA - 90 Minute - Session 2](https://www.youtube.com/watch?v=GVlq6lATZ2M)
-- [I&#39;m switching to Hermes &lpar;goodbye OpenClaw!!&rpar;](https://www.youtube.com/watch?v=QQEgIo4Juxg)
+- [you need to use Hermes RIGHT NOW!! &lpar;goodbye OpenClaw!!&rpar;](https://www.youtube.com/watch?v=QQEgIo4Juxg)
 - [Lecture 4: Rationalizability](https://www.youtube.com/watch?v=ZdwIokL0P_U)
 - [Lecture 3: Dominance](https://www.youtube.com/watch?v=b7BAHSV1EBo)
 - [Lecture 19: Revenue Equivalence](https://www.youtube.com/watch?v=mu0X3GpDAy8)
