@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s 1st Starship V3 megarocket launch scrubbed at last minute. Sorry, Nicki Minaj](https://www.space.com/space-exploration/launches-spacecraft/spacexs-1st-starship-v3-megarocket-launch-scrubbed-at-last-minute-sorry-nicki-minaj)
+- [Waymo expands pause to four cities as robotaxis keep driving into floods](https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/)
+- [SpaceX scrubs first Starship V3 launch just before liftoff](https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/)
 - [Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle](https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/)
 - [Waymo halts freeway rides after robotaxis struggle in construction zones](https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/)
-- [NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers](https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/)
-- [Watch Rocket Lab launch private Japanese Earth-observing satellite early on May 22](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-private-japanese-earth-observing-satellite-early-on-may-22)
-- [Spotify and Universal Music strike deal allowing fan-made AI covers and remixes](https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
