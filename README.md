@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA is updating its Artemis moon base plan. You can find out how on May 26.](https://www.space.com/astronomy/moon/watch-live-nasa-updating-its-moon-base-plans-on-may-26)
-- [The moon will &#39;swallow&#39; a star on May 23. But will you be able to see it?](https://www.space.com/stargazing/the-moon-will-swallow-a-star-on-may-23-but-will-you-be-able-to-see-it)
-- [Scientists thought Jupiter&#39;s moon Europa was ejecting water. Now they&#39;re not so sure](https://www.space.com/astronomy/solar-system/hubble-telescope-watched-jupiters-moon-europa-for-14-years-and-now-scientists-arent-sure-if-its-ejecting-water-after-all)
-- [This cryptocurrency billionaire will fly SpaceX&#39;s 1st private Starship to Mars, but when?](https://www.space.com/space-exploration/private-spaceflight/this-cryptocurrency-billionaire-will-fly-spacexs-1st-private-starship-to-mars-but-when)
-- [Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market](https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/)
+- [Spotify’s AI bet: more of everything, less of what you want](https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/)
+- [You can no longer Google the word ‘disregard’](https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/)
+- [An ancient solar storm left clues in tree rings and a famous poet&#39;s diary: &#39;Red lights in the northern sky&#39;](https://www.space.com/stargazing/auroras/an-ancient-solar-storm-left-clues-in-tree-rings-and-a-famous-poets-diary-red-lights-in-the-northern-sky)
+- [We tried Google’s AI glasses and they’re almost there](https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/)
+- [Trump Mobile confirms it exposed customers’ personal data, including phone numbers and home addresses](https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
