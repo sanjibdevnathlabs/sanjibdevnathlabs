@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify’s AI bet: more of everything, less of what you want](https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/)
-- [You can no longer Google the word ‘disregard’](https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/)
-- [An ancient solar storm left clues in tree rings and a famous poet&#39;s diary: &#39;Red lights in the northern sky&#39;](https://www.space.com/stargazing/auroras/an-ancient-solar-storm-left-clues-in-tree-rings-and-a-famous-poets-diary-red-lights-in-the-northern-sky)
-- [We tried Google’s AI glasses and they’re almost there](https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/)
-- [Trump Mobile confirms it exposed customers’ personal data, including phone numbers and home addresses](https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/)
+- [Starship V3 from space: Satellite snaps amazing photo of SpaceX megarocket on the pad](https://www.space.com/space-exploration/launches-spacecraft/starship-v3-from-space-satellite-snaps-amazing-photo-of-spacex-megarocket-on-the-pad)
+- [Don&#39;t wait for the full moon: Here&#39;s when the moon looks best through a telescope](https://www.space.com/stargazing/dont-wait-for-the-full-moon-heres-when-the-moon-looks-best-through-a-telescope)
+- [Shakeup at JPL? Control over iconic NASA center could change for 1st time in nearly 100 years](https://www.space.com/space-exploration/shakeup-at-jpl-control-over-iconic-nasa-center-could-change-for-1st-time-in-nearly-100-years)
+- [&#39;The Mandalorian and Grogu&#39; is better viewed as a &#39;Star Wars&#39; origin story for Rotta the Hutt](https://www.space.com/entertainment/space-movies-shows/the-mandalorian-and-grogu-is-better-viewed-as-a-star-wars-origin-story-for-rotta-the-hutt)
+- [Kash Patel’s clothing brand website shut down after reports it was hacked](https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
