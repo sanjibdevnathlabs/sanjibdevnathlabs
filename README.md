@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA is updating its Artemis moon base plan. You can find out how on May 26.](https://www.space.com/astronomy/moon/watch-live-nasa-updating-its-moon-base-plans-on-may-26)
+- [The moon will &#39;swallow&#39; a star on May 23. But will you be able to see it?](https://www.space.com/stargazing/the-moon-will-swallow-a-star-on-may-23-but-will-you-be-able-to-see-it)
+- [Scientists thought Jupiter&#39;s moon Europa was ejecting water. Now they&#39;re not so sure](https://www.space.com/astronomy/solar-system/hubble-telescope-watched-jupiters-moon-europa-for-14-years-and-now-scientists-arent-sure-if-its-ejecting-water-after-all)
 - [This cryptocurrency billionaire will fly SpaceX&#39;s 1st private Starship to Mars, but when?](https://www.space.com/space-exploration/private-spaceflight/this-cryptocurrency-billionaire-will-fly-spacexs-1st-private-starship-to-mars-but-when)
 - [Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market](https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/)
-- [SpaceX&#39;s 1st Starship V3 megarocket launch scrubbed at last minute. Sorry, Nicki Minaj](https://www.space.com/space-exploration/launches-spacecraft/spacexs-1st-starship-v3-megarocket-launch-scrubbed-at-last-minute-sorry-nicki-minaj)
-- [Waymo expands pause to four cities as robotaxis keep driving into floods](https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/)
-- [SpaceX scrubs first Starship V3 launch just before liftoff](https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
