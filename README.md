@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin cleared to fly New Glenn mega-rocket after April mishap](https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/)
+- [Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’](https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/)
+- [How VCs and founders use inflated ‘ARR’ to crown AI startups](https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/)
 - [&#39;Once you try these, you won’t want anything else&#39;— Our binoculars expert rated these  as the best small binoculars they&#39;d ever tested. Now at their best price of the year](https://www.space.com/technology/once-you-try-these-you-wont-want-anything-else-our-binoculars-expert-rated-these-as-the-best-small-binoculars-theyd-ever-tested-now-at-their-best-price-of-the-year)
 - [&#39;For All Mankind&#39;s&#39; Ruby Cruz and Ines Asserson on wearing those &#39;clunky&#39; cool spacesuits and training with a Green Beret &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/for-all-mankinds-ruby-cruz-and-ines-asserson-on-wearing-those-clunky-cool-spacesuits-and-training-with-a-green-beret-interview)
-- [Starship V3 from space: Satellite snaps amazing photo of SpaceX megarocket on the pad](https://www.space.com/space-exploration/launches-spacecraft/starship-v3-from-space-satellite-snaps-amazing-photo-of-spacex-megarocket-on-the-pad)
-- [Don&#39;t wait for the full moon: Here&#39;s when the moon looks best through a telescope](https://www.space.com/stargazing/dont-wait-for-the-full-moon-heres-when-the-moon-looks-best-through-a-telescope)
-- [Shakeup at JPL? Control over iconic NASA center could change for 1st time in nearly 100 years](https://www.space.com/space-exploration/shakeup-at-jpl-control-over-iconic-nasa-center-could-change-for-1st-time-in-nearly-100-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
