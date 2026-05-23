@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 211 — Oysters in Space](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-211-oysters-in-space)
+- [Ferrari is using IBM’s AI to create F1 superfans](https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/)
 - [Nuclear startup Deep Fission says it’s going public, again, and I have questions](https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/)
 - [SpaceX Starship Flight 12: Don&#39;t miss these stunning photos from the launch of the most powerful Starship yet](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-12-dont-miss-these-stunning-photos-from-the-launch-of-the-most-powerful-starship-yet)
 - [Elon Musk has given up on solar power &lpar;on Earth&rpar;](https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/)
-- [&#39;For All Mankind&#39;s&#39; Costa Ronin on ruling Mars, honoring cosmonaut history, and learning to tie his tie &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/for-all-mankinds-costa-ronin-on-ruling-mars-honoring-cosmonaut-history-and-learning-to-tie-his-tie-interview)
-- [Massive &#39;X&#39; and &#39;V&#39; shapes will appear on the moon tonight — here&#39;s how to see them](https://www.space.com/stargazing/massive-x-and-v-shapes-will-appear-on-the-moon-tonight-heres-how-to-see-them)
 <!-- BLOG-POST-LIST:END -->
 
 ---
