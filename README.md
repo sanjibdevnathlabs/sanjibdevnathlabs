@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Rick and Morty&#39; Season 9: Release date &amp; how to watch Adult Swim’s zany sci-fi satire](https://www.space.com/entertainment/space-movies-shows/rick-and-morty-season-9-release-date-and-how-to-watch-adult-swims-zany-sci-fi-satire)
+- [SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest](https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/)
 - [These special phone and app features can help protect you from spyware](https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/)
 - [This Week In Space podcast: Episode 211 — Oysters in Space](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-211-oysters-in-space)
 - [Ferrari is using IBM’s AI to create F1 superfans](https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/)
-- [Nuclear startup Deep Fission says it’s going public, again, and I have questions](https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/)
-- [SpaceX Starship Flight 12: Don&#39;t miss these stunning photos from the launch of the most powerful Starship yet](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-12-dont-miss-these-stunning-photos-from-the-launch-of-the-most-powerful-starship-yet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
