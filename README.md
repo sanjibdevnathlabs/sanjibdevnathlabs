@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [Google’s AI endgame is here… everything you missed at I/O 2026](https://www.youtube.com/watch?v=9OQ5vaYbGV0)
-- [I can’t believe this trial is real...](https://www.youtube.com/watch?v=3tbB2dffx0s)
-- [A single PR just hijacked the NPM registry...](https://www.youtube.com/watch?v=gwTQLZSIlsU)
-- [Every operating system concept in one video…](https://www.youtube.com/watch?v=MtxP2pyCvYA)
-- [732 bytes of Python just borked every Linux machine on earth…](https://www.youtube.com/watch?v=lkifbWtxxlk)
+- [Summer of CCNA - 90 Minute - Session 2](https://www.youtube.com/watch?v=GVlq6lATZ2M)
+- [you need to use Hermes RIGHT NOW!! &lpar;goodbye OpenClaw!!&rpar;](https://www.youtube.com/watch?v=QQEgIo4Juxg)
+- [Lecture 4: Rationalizability](https://www.youtube.com/watch?v=ZdwIokL0P_U)
+- [Lecture 3: Dominance](https://www.youtube.com/watch?v=b7BAHSV1EBo)
 <!-- YOUTUBE:END -->
 
 ---
