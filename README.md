@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk has given up on solar power &lpar;on Earth&rpar;](https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/)
+- [&#39;For All Mankind&#39;s&#39; Costa Ronin on ruling Mars, honoring cosmonaut history, and learning to tie his tie &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/for-all-mankinds-costa-ronin-on-ruling-mars-honoring-cosmonaut-history-and-learning-to-tie-his-tie-interview)
+- [Massive &#39;X&#39; and &#39;V&#39; shapes will appear on the moon tonight — here&#39;s how to see them](https://www.space.com/stargazing/massive-x-and-v-shapes-will-appear-on-the-moon-tonight-heres-how-to-see-them)
+- [China set to launch Shenzhou 23 astronauts to Tiangong space station this weekend](https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-23-astronaut-launch-tiangong-space-station)
 - [Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say](https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/)
-- [SpaceX just launched Starship V3 — its most powerful megarocket yet — into space for the 1st time in spectacular Flight 12 test &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight)
-- [AI is being used to resurrect the voices of dead pilots](https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/)
-- [SpaceX launches Starship V3 for the first time, but loses booster on return](https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/)
-- [Blue Origin cleared to fly New Glenn mega-rocket after April mishap](https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
