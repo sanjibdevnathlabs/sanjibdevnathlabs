@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [15 sci-fi books to read before you die: Put these science fiction gems on your bucket list](https://www.space.com/entertainment/space-books/15-sci-fi-books-to-read-before-you-die-put-these-science-fiction-gems-on-your-bucket-list)
+- [Grab the Estes Blue Origin model rocket ahead of Memorial Day with it&#39;s lowest price since January!](https://www.space.com/stargazing/skywatching-kit/grab-the-estes-blue-origin-model-rocket-ahead-of-memorial-day-with-its-lowest-price-since-january)
 - [The Dreamie alarm clock got me to stop using my phone in bed](https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/)
 - [Lunar Strike offers a pessimistic, and worryingly realistic look at the future of space travel](https://www.space.com/entertainment/space-games/lunar-strike-offers-a-pessimistic-and-worryingly-realistic-look-at-the-future-of-space-travel)
 - [The most common type of planet in the galaxy may not look anything like Earth on the inside](https://www.space.com/astronomy/exoplanets/the-most-common-type-of-planet-in-the-galaxy-may-not-look-anything-like-earth-on-the-inside)
-- [China reveals 3-person Shenzhou 23 crew, including Hong Kong&#39;s 1st astronaut](https://www.space.com/space-exploration/human-spaceflight/china-reveals-3-person-shenzhou-23-crew-including-hong-kongs-1st-astronaut)
-- [&#39;Rick and Morty&#39; Season 9: Release date &amp; how to watch Adult Swim’s zany sci-fi satire](https://www.space.com/entertainment/space-movies-shows/rick-and-morty-season-9-release-date-and-how-to-watch-adult-swims-zany-sci-fi-satire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
