@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Google’s AI endgame is here… everything you missed at I/O 2026](https://www.youtube.com/watch?v=9OQ5vaYbGV0)
 - [Summer of CCNA - 90 Minute - Session 2](https://www.youtube.com/watch?v=GVlq6lATZ2M)
 - [you need to use Hermes RIGHT NOW!! &lpar;goodbye OpenClaw!!&rpar;](https://www.youtube.com/watch?v=QQEgIo4Juxg)
-- [Lecture 4: Rationalizability](https://www.youtube.com/watch?v=ZdwIokL0P_U)
-- [Lecture 3: Dominance](https://www.youtube.com/watch?v=b7BAHSV1EBo)
+- [Why Multi-Threaded Code Can Sometimes Misbehave &lpar;Weak Memory Concurrency&rpar; - Computerphile](https://www.youtube.com/watch?v=E3hvLz717zM)
+- [I Wasted 2 Years Learning DevOps Wrong. Here&#39;s What I&#39;d Do Instead.](https://www.youtube.com/watch?v=9FKqsCVOD_Y)
+- [One Real Consequence Beats 100 Motivational Videos](https://www.youtube.com/shorts/6SbGspIiQkE)
 <!-- YOUTUBE:END -->
 
 ---
