@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [6 kitchen gadgets that make adulting feel easier](https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/)
+- [TechCrunch Mobility: Robotaxi reality check](https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/)
 - [I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out](https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/)
 - [The original &lpar;and best&rpar; &#39;Transformers&#39; movie is rolling back out into theaters for its 40th anniversary](https://www.space.com/entertainment/space-movies-shows/the-original-and-best-transformers-movie-is-rolling-back-out-into-theaters-for-its-40th-anniversary)
 - [15 sci-fi books to read before you die: Put these science fiction gems on your bucket list](https://www.space.com/entertainment/space-books/15-sci-fi-books-to-read-before-you-die-put-these-science-fiction-gems-on-your-bucket-list)
-- [Grab the Estes Blue Origin model rocket ahead of Memorial Day with it&#39;s lowest price since January!](https://www.space.com/stargazing/skywatching-kit/grab-the-estes-blue-origin-model-rocket-ahead-of-memorial-day-with-its-lowest-price-since-january)
-- [The Dreamie alarm clock got me to stop using my phone in bed](https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
