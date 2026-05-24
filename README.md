@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Dreamie alarm clock got me to stop using my phone in bed](https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/)
+- [Lunar Strike offers a pessimistic, and worryingly realistic look at the future of space travel](https://www.space.com/entertainment/space-games/lunar-strike-offers-a-pessimistic-and-worryingly-realistic-look-at-the-future-of-space-travel)
 - [The most common type of planet in the galaxy may not look anything like Earth on the inside](https://www.space.com/astronomy/exoplanets/the-most-common-type-of-planet-in-the-galaxy-may-not-look-anything-like-earth-on-the-inside)
 - [China reveals 3-person Shenzhou 23 crew, including Hong Kong&#39;s 1st astronaut](https://www.space.com/space-exploration/human-spaceflight/china-reveals-3-person-shenzhou-23-crew-including-hong-kongs-1st-astronaut)
 - [&#39;Rick and Morty&#39; Season 9: Release date &amp; how to watch Adult Swim’s zany sci-fi satire](https://www.space.com/entertainment/space-movies-shows/rick-and-morty-season-9-release-date-and-how-to-watch-adult-swims-zany-sci-fi-satire)
-- [SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest](https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/)
-- [These special phone and app features can help protect you from spyware](https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
