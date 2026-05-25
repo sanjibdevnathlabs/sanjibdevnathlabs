@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startup Battlefield 200 applications close in days: Apply before May 27](https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/)
+- [5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase](https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/)
+- [Nothing beats a beautiful sunset &lpar;from space&rpar; | Space photo of the day for May 26, 2026](https://www.space.com/astronomy/earth/nothing-beats-a-beautiful-sunset-from-space-space-photo-of-the-day-for-may-26-2026)
+- [Scientists just found a supercharged supernova — powered up by a magnetic star corpse](https://www.space.com/astronomy/stars/scientists-just-found-a-supercharged-supernova-powered-up-by-a-magnetic-star-corpse)
 - [Scientists want to send a roly-poly robot filled with &#39;dandelion drones&#39; to investigate hidden tunnels on Mars](https://www.space.com/astronomy/mars/scientists-want-to-send-a-roly-poly-robot-filled-with-dandelion-drones-to-investigate-hidden-tunnels-on-mars)
-- [Everyone is navigating AI security in real time — even Google](https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/)
-- [Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry](https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/)
-- [6 kitchen gadgets that make adulting feel easier](https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/)
-- [TechCrunch Mobility: Robotaxi reality check](https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
