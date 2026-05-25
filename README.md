@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Startup Battlefield 200 applications close in days: Apply before May 27](https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/)
-- [5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase](https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/)
-- [Nothing beats a beautiful sunset &lpar;from space&rpar; | Space photo of the day for May 26, 2026](https://www.space.com/astronomy/earth/nothing-beats-a-beautiful-sunset-from-space-space-photo-of-the-day-for-may-26-2026)
-- [Scientists just found a supercharged supernova — powered up by a magnetic star corpse](https://www.space.com/astronomy/stars/scientists-just-found-a-supercharged-supernova-powered-up-by-a-magnetic-star-corpse)
-- [Scientists want to send a roly-poly robot filled with &#39;dandelion drones&#39; to investigate hidden tunnels on Mars](https://www.space.com/astronomy/mars/scientists-want-to-send-a-roly-poly-robot-filled-with-dandelion-drones-to-investigate-hidden-tunnels-on-mars)
+- [DARPA readies robotic deep-space repair satellite for 2026 launch](https://www.space.com/space-exploration/satellites/darpa-readies-robotic-deep-space-repair-satellite-for-2026-launch)
+- [What ClickUp’s mass layoff tells us about the future of work](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)
+- [&#39;The Mandalorian and Grogu&#39; wastes a potentially brilliant era of &#39;Star Wars&#39;](https://www.space.com/entertainment/space-movies-shows/the-mandalorian-and-grogu-wastes-a-potentially-brilliant-era-of-star-wars)
+- [The pope’s AI encyclical isn’t really about AI](https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/)
+- [The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI](https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
