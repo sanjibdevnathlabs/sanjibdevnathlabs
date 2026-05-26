@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DARPA readies robotic deep-space repair satellite for 2026 launch](https://www.space.com/space-exploration/satellites/darpa-readies-robotic-deep-space-repair-satellite-for-2026-launch)
-- [What ClickUp’s mass layoff tells us about the future of work](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)
-- [&#39;The Mandalorian and Grogu&#39; wastes a potentially brilliant era of &#39;Star Wars&#39;](https://www.space.com/entertainment/space-movies-shows/the-mandalorian-and-grogu-wastes-a-potentially-brilliant-era-of-star-wars)
-- [The pope’s AI encyclical isn’t really about AI](https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/)
-- [The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI](https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/)
+- [Ghost hackers: the cybersecurity mystery that nobody has solved](https://techcrunch.com/2026/05/26/ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved/)
+- [Iranian hackers blamed for breach of Los Angeles transit system that took weeks to recover](https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/)
+- [Ferrari’s first EV is not for you](https://techcrunch.com/2026/05/26/ferraris-first-ev-is-not-for-you/)
+- [&#39;Redshift&#39; blends James Webb Space Telescope, Artemis 2 and Pink Floyd into a cosmic journey through light and sound &lpar;video, photos&rpar;](https://www.space.com/entertainment/redshift-blends-james-webb-space-telescope-artemis-2-and-pink-floyd-into-a-cosmic-journey-through-light-and-sound-video-photos)
+- [Universal Music Group and TikTok renew agreement to combat unauthorized AI music](https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
