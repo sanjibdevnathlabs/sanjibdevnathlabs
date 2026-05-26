@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Masters of the Universe&#39; gets a final trailer, and it&#39;s a perfect blend of nostalgia, sci-fi battles, and muscles &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/masters-of-the-universe-gets-a-final-trailer-and-its-a-perfect-blend-of-nostalgia-sci-fi-battles-and-muscles-video)
+- [SpaceX’s Starlink nabs American Airlines contract, another win for its IPO](https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/)
+- [OpenRouter more than doubles valuation to $1.3B in a year](https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/)
 - [Satellites imaged an underwater volcano erupting — but scientists have no idea what&#39;s actually happening on the seafloor](https://www.space.com/astronomy/earth/satellites-imaged-an-underwater-volcano-erupting-but-scientists-have-no-idea-whats-actually-happening-on-the-seafloor)
 - [This startup is betting India’s gig economy can train the world’s robots](https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/)
-- [Dutch government blocks US company from acquisition, citing ‘risk to public interest’](https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/)
-- [Ghost hackers: the cybersecurity mystery that nobody has solved](https://techcrunch.com/2026/05/26/ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved/)
-- [Iranian hackers blamed for breach of Los Angeles transit system that took weeks to recover](https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
