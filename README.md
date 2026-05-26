@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [10 weird OSS projects you need to know about...](https://www.youtube.com/watch?v=qPuzWFvRajk)
 - [The &quot;Trick&quot; that Compilers Use for Long Division - Computerphile](https://www.youtube.com/watch?v=-14t6_yu-7w)
 - [Google’s AI endgame is here… everything you missed at I/O 2026](https://www.youtube.com/watch?v=9OQ5vaYbGV0)
 - [Summer of CCNA - 90 Minute - Session 2](https://www.youtube.com/watch?v=GVlq6lATZ2M)
 - [you need to use Hermes RIGHT NOW!! &lpar;goodbye OpenClaw!!&rpar;](https://www.youtube.com/watch?v=QQEgIo4Juxg)
-- [Lecture 4: Rationalizability](https://www.youtube.com/watch?v=ZdwIokL0P_U)
 <!-- YOUTUBE:END -->
 
 ---
