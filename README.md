@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Google’s AI endgame is here… everything you missed at I/O 2026](https://www.youtube.com/watch?v=9OQ5vaYbGV0)
 - [Summer of CCNA - 90 Minute - Session 2](https://www.youtube.com/watch?v=GVlq6lATZ2M)
 - [you need to use Hermes RIGHT NOW!! &lpar;goodbye OpenClaw!!&rpar;](https://www.youtube.com/watch?v=QQEgIo4Juxg)
-- [Lecture 4: Rationalizability](https://www.youtube.com/watch?v=ZdwIokL0P_U)
-- [Lecture 3: Dominance](https://www.youtube.com/watch?v=b7BAHSV1EBo)
+- [Compliance can be frustrating. But....CALMpliance........that&#39;s a whole different thing.](https://www.youtube.com/shorts/OL9cQI5hIVE)
+- [Summer of CCNA LIVE Launch Party](https://www.youtube.com/watch?v=-abob21omcM)
+- [Learn networking with REAL labs 👉 Join the Summer of CCNA](https://www.youtube.com/shorts/mTpvUlng5ls)
 <!-- YOUTUBE:END -->
 
 ---
