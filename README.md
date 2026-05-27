@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;One of the great unresolved embarrassments of physics&#39;: It&#39;s been 340 years since Newton and scientists still haven&#39;t solved the secret of gravity](https://www.space.com/science/one-of-the-great-unresolved-embarrassments-of-physics-its-been-340-years-since-newton-and-scientists-still-havent-solved-the-secret-of-gravity)
-- [The Milky Way may have devoured another galaxy named Loki, and astronomers think they&#39;ve found its remains](https://www.space.com/astronomy/galaxies/the-milky-way-may-have-devoured-another-galaxy-named-loki-and-astronomers-think-theyve-found-its-remains)
-- [Airbnb-backed WeRoad raises $58M to take its group travel platform to the US](https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/)
-- [Watch 2 Russian cosmonauts take 5-hour spacewalk outside the ISS today](https://www.space.com/space-exploration/international-space-station/watch-2-russian-cosmonauts-take-5-hour-spacewalk-outside-the-iss-today)
-- [UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak](https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/)
+- [AI coding startup Cognition raises $1B at $25B pre-money valuation](https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/)
+- [What is Star City, the secret Cold War cosmonaut training town in Apple TV&#39;s new &#39;For All Mankind&#39; spinoff?](https://www.space.com/space-exploration/human-spaceflight/what-is-star-city-the-secret-cold-war-cosmonaut-training-town-in-apple-tvs-new-for-all-mankind-spinoff)
+- [FAA orders SpaceX to investigate Starship V3 booster failure](https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/)
+- [3 planets will line up in the night sky tonight: Here&#39;s where to look for the mini planetary parade](https://www.space.com/stargazing/3-planets-will-line-up-in-the-night-sky-tonight-heres-where-to-look-for-the-mini-planetary-parade)
+- [Every Lego Star Wars set released in 2026 that I wish I had](https://www.space.com/entertainment/space-toys-lego/every-lego-star-wars-set-released-in-2026-that-i-wish-i-had)
 <!-- BLOG-POST-LIST:END -->
 
 ---
