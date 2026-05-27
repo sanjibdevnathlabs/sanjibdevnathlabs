@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI coding startup Cognition raises $1B at $25B pre-money valuation](https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/)
-- [What is Star City, the secret Cold War cosmonaut training town in Apple TV&#39;s new &#39;For All Mankind&#39; spinoff?](https://www.space.com/space-exploration/human-spaceflight/what-is-star-city-the-secret-cold-war-cosmonaut-training-town-in-apple-tvs-new-for-all-mankind-spinoff)
-- [FAA orders SpaceX to investigate Starship V3 booster failure](https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/)
-- [3 planets will line up in the night sky tonight: Here&#39;s where to look for the mini planetary parade](https://www.space.com/stargazing/3-planets-will-line-up-in-the-night-sky-tonight-heres-where-to-look-for-the-mini-planetary-parade)
-- [Every Lego Star Wars set released in 2026 that I wish I had](https://www.space.com/entertainment/space-toys-lego/every-lego-star-wars-set-released-in-2026-that-i-wish-i-had)
+- [UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us](https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/)
+- [Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/)
+- [China shakes up its space programs to land astronauts on the moon by 2030: &#39;We will spare no effort&#39;](https://www.space.com/space-exploration/china-shakes-up-its-space-programs-to-land-astronauts-on-the-moon-by-2030-we-will-spare-no-effort)
+- [With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup](https://techcrunch.com/2026/05/27/with-a-new-100m-raise-princetons-thea-energy-is-now-a-top-funded-fusion-startup/)
+- [FAA grounds SpaceX&#39;s Starship V3 megarocket after Flight 12 &#39;mishap&#39;](https://www.space.com/space-exploration/launches-spacecraft/faa-grounds-spacexs-starship-v3-megarocket-after-flight-12-mishap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
