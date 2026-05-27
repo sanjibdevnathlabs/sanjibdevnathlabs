@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;One of the great unresolved embarrassments of physics&#39;: It&#39;s been 340 years since Newton and scientists still haven&#39;t solved the secret of gravity](https://www.space.com/science/one-of-the-great-unresolved-embarrassments-of-physics-its-been-340-years-since-newton-and-scientists-still-havent-solved-the-secret-of-gravity)
+- [The Milky Way may have devoured another galaxy named Loki, and astronomers think they&#39;ve found its remains](https://www.space.com/astronomy/galaxies/the-milky-way-may-have-devoured-another-galaxy-named-loki-and-astronomers-think-theyve-found-its-remains)
 - [Airbnb-backed WeRoad raises $58M to take its group travel platform to the US](https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/)
 - [Watch 2 Russian cosmonauts take 5-hour spacewalk outside the ISS today](https://www.space.com/space-exploration/international-space-station/watch-2-russian-cosmonauts-take-5-hour-spacewalk-outside-the-iss-today)
 - [UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak](https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/)
-- [What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline](https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/)
-- [Trump administration permits Volvo to keep selling connected cars in the US](https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
