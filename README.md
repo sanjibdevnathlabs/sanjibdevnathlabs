@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Where did Mercury get its water ice? Maybe from a slow asteroid impact in a single Mercurian day](https://www.space.com/astronomy/mercury/where-did-mercury-get-its-water-ice-maybe-from-a-single-slow-asteroid-impact-in-one-mercurian-day)
-- [Vertu wants CEOs to run companies from an AI foldable starting at $6,880](https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/)
-- [Google engineer charged with insider trading after making $1.2M on Polymarket](https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/)
-- [Why Google’s AI can’t spell Google &lpar;or anything else&rpar;](https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/)
-- [Rivian will deliver the first R2 SUVs on June 9](https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/)
+- [RSI is the new AGI — and it’s just as hard to pin down](https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/)
+- [At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals](https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/)
+- [YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’](https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/)
+- [Startup Battlefield 200 application deadline extended to June 8 after overwhelming demand](https://techcrunch.com/2026/05/28/startup-battlefield-200-application-deadline-extended-to-june-8-after-overwhelming-demand/)
+- [2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026](https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
