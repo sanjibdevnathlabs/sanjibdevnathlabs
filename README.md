@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I&#39;ll Explain 10 Years of Infrastructure Evolution in 25 Minutes &lpar;Console → CLI → IaC → GitOps → AI&rpar;](https://www.youtube.com/watch?v=iTrxsotFNHA)
 - [Lecture 4: Sedimentary Structures Produced by Sediment Transport](https://www.youtube.com/watch?v=t0AhR9UmvhE)
 - [Lecture 1: Fluid Dynamics](https://www.youtube.com/watch?v=XHeoQ0F6hYc)
 - [Lecture 2: Mechanics of Sediment Transport](https://www.youtube.com/watch?v=b5qgqpbt9rI)
 - [Lecture 3: Bed Forms](https://www.youtube.com/watch?v=BeasOm8Jx-A)
-- [10 weird OSS projects you need right now...](https://www.youtube.com/watch?v=qPuzWFvRajk)
 <!-- YOUTUBE:END -->
 
 ---
