@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Asana acquires no-code agent-builder Stack AI](https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/)
-- [NASA is hatching a &#39;fast-paced plan&#39; to boost this space telescope. But first, they&#39;ll have to find it](https://www.space.com/space-exploration/missions/nasa-is-hatching-a-fast-paced-plan-to-boost-this-space-telescope-but-first-theyll-have-to-find-it)
-- [Bluesky embraces long-form content to counter X Articles](https://techcrunch.com/2026/05/28/bluesky-embraces-long-form-content-to-counter-x-articles/)
-- [Hackers are trying to steal Signal users’ backups in new wave of phishing attacks](https://techcrunch.com/2026/05/28/hackers-are-trying-to-steal-signal-users-backups-in-new-wave-of-phishing-attacks/)
-- [Anthropic raises $65 Billion, nears $1T valuation ahead of IPO](https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/)
+- [Companies like SpaceX want electromagnetic catapults on the moon. Could they be used as weapons?](https://www.space.com/space-exploration/satellites/companies-like-spacex-want-electromagnetic-catapults-on-the-moon-could-they-be-used-as-weapons)
+- [The internet is being rebuilt for machines](https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/)
+- [Andy Weir&#39;s &#39;The Martian&#39; just got a deluxe edition to celebrate the book&#39;s 15-year anniversary, and it&#39;s a stunner](https://www.space.com/entertainment/space-books/andy-weirs-the-martian-just-got-a-deluxe-edition-to-celebrate-the-books-15-year-anniversary-and-its-a-stunner)
+- [Slate Auto will announce pricing and take preorders for its EV on June 24](https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/)
+- [Asana acquires no-code agent-builder StackAI](https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
