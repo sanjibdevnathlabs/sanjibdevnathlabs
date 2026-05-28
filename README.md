@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Paris may be the most important AI city outside Silicon Valley](https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/)
-- [In just 3 weeks, StrictlyVC is coming to Los Angeles](https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/)
-- [Startup Battlefield 200 application deadline extended to June 8 after overwhelming demand](https://techcrunch.com/2026/05/28/startup-battlefield-200-application-deadline-extended-to-june-8-after-overwhelming-demand/)
-- [Corgi announces $106M raise at $2.6B valuation — double what it was worth three weeks ago](https://techcrunch.com/2026/05/28/corgi-announces-106m-raise-at-2-6b-valuation-three-weeks-after-160m-series-b/)
-- [Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool](https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/)
+- [Asana acquires no-code agent-builder Stack AI](https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/)
+- [NASA is hatching a &#39;fast-paced plan&#39; to boost this space telescope. But first, they&#39;ll have to find it](https://www.space.com/space-exploration/missions/nasa-is-hatching-a-fast-paced-plan-to-boost-this-space-telescope-but-first-theyll-have-to-find-it)
+- [Bluesky embraces long-form content to counter X Articles](https://techcrunch.com/2026/05/28/bluesky-embraces-long-form-content-to-counter-x-articles/)
+- [Hackers are trying to steal Signal users’ backups in new wave of phishing attacks](https://techcrunch.com/2026/05/28/hackers-are-trying-to-steal-signal-users-backups-in-new-wave-of-phishing-attacks/)
+- [Anthropic raises $65 Billion, nears $1T valuation ahead of IPO](https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
