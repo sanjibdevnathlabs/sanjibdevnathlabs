@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Where did Mercury get its water ice? Maybe from a slow asteroid impact in a single Mercurian day](https://www.space.com/astronomy/mercury/where-did-mercury-get-its-water-ice-maybe-from-a-single-slow-asteroid-impact-in-one-mercurian-day)
+- [Vertu wants CEOs to run companies from an AI foldable starting at $6,880](https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/)
 - [Google engineer charged with insider trading after making $1.2M on Polymarket](https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/)
 - [Why Google’s AI can’t spell Google &lpar;or anything else&rpar;](https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/)
 - [Rivian will deliver the first R2 SUVs on June 9](https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/)
-- [Triomics nabs $22M to bring oncology-specific AI to cancer centers](https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/)
-- [Russian cosmonauts install sun-watching telescope on ISS during 6-hour spacewalk](https://www.space.com/space-exploration/international-space-station/russian-cosmonauts-install-sun-watching-telescope-on-iss-during-6-hour-spacewalk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
