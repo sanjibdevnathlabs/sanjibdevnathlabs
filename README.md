@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Lecture 4: Sedimentary Structures Produced by Sediment Transport](https://www.youtube.com/watch?v=t0AhR9UmvhE)
-- [Lecture 1: Fluid Dynamics](https://www.youtube.com/watch?v=XHeoQ0F6hYc)
-- [Lecture 2: Mechanics of Sediment Transport](https://www.youtube.com/watch?v=b5qgqpbt9rI)
-- [Lecture 3: Bed Forms](https://www.youtube.com/watch?v=BeasOm8Jx-A)
 - [10 weird OSS projects you need right now...](https://www.youtube.com/watch?v=qPuzWFvRajk)
+- [Google’s AI endgame is here… everything you missed at I/O 2026](https://www.youtube.com/watch?v=9OQ5vaYbGV0)
+- [I can’t believe this trial is real...](https://www.youtube.com/watch?v=3tbB2dffx0s)
+- [A single PR just hijacked the NPM registry...](https://www.youtube.com/watch?v=gwTQLZSIlsU)
+- [Every operating system concept in one video…](https://www.youtube.com/watch?v=MtxP2pyCvYA)
 <!-- YOUTUBE:END -->
 
 ---
