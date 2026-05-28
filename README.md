@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [RSI is the new AGI — and it’s just as hard to pin down](https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/)
-- [At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals](https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/)
-- [YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’](https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/)
+- [Why Paris may be the most important AI city outside Silicon Valley](https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/)
+- [In just 3 weeks, StrictlyVC is coming to Los Angeles](https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/)
 - [Startup Battlefield 200 application deadline extended to June 8 after overwhelming demand](https://techcrunch.com/2026/05/28/startup-battlefield-200-application-deadline-extended-to-june-8-after-overwhelming-demand/)
-- [2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026](https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/)
+- [Corgi announces $106M raise at $2.6B valuation — double what it was worth three weeks ago](https://techcrunch.com/2026/05/28/corgi-announces-106m-raise-at-2-6b-valuation-three-weeks-after-160m-series-b/)
+- [Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool](https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
