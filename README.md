@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory](https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/)
+- [Red dwarf stars are cosmic killers that eat their own planets](https://www.space.com/astronomy/stars/red-dwarf-stars-are-cosmic-killers-that-eat-their-own-planets)
+- [A &#39;lost planet&#39; may have given Jupiter and Uranus their moons](https://www.space.com/astronomy/solar-system/a-lost-planet-may-have-given-jupiter-and-uranus-their-moons)
 - [Blue Origin&#39;s New Glenn rocket explodes in massive fireball during prelaunch test](https://www.space.com/space-exploration/launches-spacecraft/blue-origins-new-glenn-rocket-explodes-in-massive-fireball-during-prelaunch-test)
 - [Blue Origin’s New Glenn rocket explodes during testing in Florida](https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/)
-- [Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point](https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/)
-- [Waymo dominates autonomous vehicle registrations as Tesla trails behind](https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/)
-- [How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline](https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
