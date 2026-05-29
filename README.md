@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX awarded $6.45B in Space Force contracts ahead of IPO](https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/)
+- [Coders are refusing to work without AI — and that could come back to bite them](https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/)
 - [&#39;Star City&#39;: Release date &amp; how to watch Apple TV&#39;s superb Soviet space series](https://www.space.com/entertainment/space-movies-shows/star-city-release-date-and-how-to-watch-apple-tvs-superb-soviet-set-space-series)
 - [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
 - [China&#39;s Shenzhou 21 astronauts return to Earth after being briefly &#39;stranded&#39;, wrapping up record-breaking mission &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/chinas-shenzhou-21-astronauts-return-to-earth-in-borrowed-spacecraft-video)
-- [Rare Blue Moon hides the red light of an ancient star on May 31: Will you be able to see it?](https://www.space.com/stargazing/rare-blue-moon-hides-the-red-light-of-an-ancient-star-on-may-31-will-you-be-able-to-see-it)
-- [What happens when companies become too AI-pilled?](https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
