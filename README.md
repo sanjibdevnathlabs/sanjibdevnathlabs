@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory](https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/)
-- [Red dwarf stars are cosmic killers that eat their own planets](https://www.space.com/astronomy/stars/red-dwarf-stars-are-cosmic-killers-that-eat-their-own-planets)
-- [A &#39;lost planet&#39; may have given Jupiter and Uranus their moons](https://www.space.com/astronomy/solar-system/a-lost-planet-may-have-given-jupiter-and-uranus-their-moons)
-- [Blue Origin&#39;s New Glenn rocket explodes in massive fireball during prelaunch test](https://www.space.com/space-exploration/launches-spacecraft/blue-origins-new-glenn-rocket-explodes-in-massive-fireball-during-prelaunch-test)
-- [Blue Origin’s New Glenn rocket explodes during testing in Florida](https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/)
+- [Cognition’s Scott Wu says AI coding agents shouldn’t replace humans](https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/)
+- [Watch an Atlas V rocket launch 29 Amazon Leo internet satellites to orbit tonight](https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-7-internet-satellites)
+- [Incredible videos show Blue Origin rocket explosion could be seen from hundreds of miles away](https://www.space.com/space-exploration/launches-spacecraft/incredible-videos-show-blue-origin-rocket-explosion-could-be-seen-from-hundreds-of-miles-away)
+- [SpaceX launches 29 Starlink satellites from Florida just hours after Blue Origin rocket explosion &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-53-1085-ccsfs-asog)
+- [Today is the last day to apply to speak at TechCrunch Disrupt 2026](https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
