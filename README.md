@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline](https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/)
 - [Companies like SpaceX want electromagnetic catapults on the moon. Could they be used as weapons?](https://www.space.com/space-exploration/satellites/companies-like-spacex-want-electromagnetic-catapults-on-the-moon-could-they-be-used-as-weapons)
 - [The internet is being rebuilt for machines](https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/)
 - [Andy Weir&#39;s &#39;The Martian&#39; just got a deluxe edition to celebrate the book&#39;s 15-year anniversary, and it&#39;s a stunner](https://www.space.com/entertainment/space-books/andy-weirs-the-martian-just-got-a-deluxe-edition-to-celebrate-the-books-15-year-anniversary-and-its-a-stunner)
 - [Slate Auto will announce pricing and take preorders for its EV on June 24](https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/)
-- [Asana acquires no-code agent-builder StackAI](https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
