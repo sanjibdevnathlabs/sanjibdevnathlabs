@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [Hermes wasn’t built to compete. It was built to WORK.](https://www.youtube.com/shorts/DlEr86sNnFo)
-- [10 weird OSS projects you need right now...](https://www.youtube.com/watch?v=qPuzWFvRajk)
-- [The &quot;Trick&quot; that Compilers Use for Long Division - Computerphile](https://www.youtube.com/watch?v=-14t6_yu-7w)
-- [Google’s AI endgame is here… everything you missed at I/O 2026](https://www.youtube.com/watch?v=9OQ5vaYbGV0)
-- [Summer of CCNA - 90 Minute - Session 2](https://www.youtube.com/watch?v=GVlq6lATZ2M)
+- [I&#39;ll Explain 10 Years of Infrastructure Evolution in 25 Minutes &lpar;Console → CLI → IaC → GitOps → AI&rpar;](https://www.youtube.com/watch?v=iTrxsotFNHA)
+- [Lecture 4: Sedimentary Structures Produced by Sediment Transport](https://www.youtube.com/watch?v=t0AhR9UmvhE)
+- [Lecture 1: Fluid Dynamics](https://www.youtube.com/watch?v=XHeoQ0F6hYc)
+- [Lecture 2: Mechanics of Sediment Transport](https://www.youtube.com/watch?v=b5qgqpbt9rI)
 <!-- YOUTUBE:END -->
 
 ---
