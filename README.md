@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Blue Moon rises tonight: Where and when to see the second full moon of May](https://www.space.com/stargazing/the-blue-moon-rises-tonight-where-and-when-to-see-the-second-full-moon-of-may)
-- [Founders seize on Indian court ruling to revive criticism of Google’s ad business](https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/)
-- [I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides](https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/)
-- [SpaceX awarded $6.45B in Space Force contracts ahead of IPO](https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/)
-- [Coders are refusing to work without AI — and that could come back to bite them](https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/)
+- [As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026](https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/)
+- [This $300 pizza oven can easily help elevate your summer pizza nights](https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/)
+- [TikTok’s road to becoming a super app](https://techcrunch.com/2026/05/30/tiktoks-road-to-becoming-a-super-app/)
+- [Watch the smallest full moon of 2026 tonight in this rare &#39;Blue Moon&#39; livestream](https://www.space.com/stargazing/watch-the-smallest-full-moon-of-2026-tonight-in-this-rare-blue-moon-livestream)
+- [From &#39;Tetris&#39; to &#39;StarCraft 2&#39; — 5 times astronauts took video games into space](https://www.space.com/entertainment/space-games/from-tetris-to-starcraft-2-5-times-astronauts-took-video-games-into-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
