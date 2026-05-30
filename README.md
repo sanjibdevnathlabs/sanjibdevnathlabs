@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The groupthink boom: what three top VCs really think about the AI frenzy](https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/)
+- [&#39;I was literally becoming Teela&#39;: We chat to Camilla Mendes about kicking ass in &#39;Masters of the Universe&#39;](https://www.space.com/entertainment/space-movies-shows/i-was-literally-becoming-teela-we-chat-to-camilla-mendes-about-kicking-ass-in-masters-of-the-universe)
 - [As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026](https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/)
 - [This $300 pizza oven can easily help elevate your summer pizza nights](https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/)
 - [TikTok’s road to becoming a super app](https://techcrunch.com/2026/05/30/tiktoks-road-to-becoming-a-super-app/)
-- [Watch the smallest full moon of 2026 tonight in this rare &#39;Blue Moon&#39; livestream](https://www.space.com/stargazing/watch-the-smallest-full-moon-of-2026-tonight-in-this-rare-blue-moon-livestream)
-- [From &#39;Tetris&#39; to &#39;StarCraft 2&#39; — 5 times astronauts took video games into space](https://www.space.com/entertainment/space-games/from-tetris-to-starcraft-2-5-times-astronauts-took-video-games-into-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
