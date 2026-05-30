@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Blue Moon rises tonight: Where and when to see the second full moon of May](https://www.space.com/stargazing/the-blue-moon-rises-tonight-where-and-when-to-see-the-second-full-moon-of-may)
 - [Founders seize on Indian court ruling to revive criticism of Google’s ad business](https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/)
 - [I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides](https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/)
 - [SpaceX awarded $6.45B in Space Force contracts ahead of IPO](https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/)
 - [Coders are refusing to work without AI — and that could come back to bite them](https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/)
-- [&#39;Star City&#39;: Release date &amp; how to watch Apple TV&#39;s superb Soviet space series](https://www.space.com/entertainment/space-movies-shows/star-city-release-date-and-how-to-watch-apple-tvs-superb-soviet-set-space-series)
 <!-- BLOG-POST-LIST:END -->
 
 ---
