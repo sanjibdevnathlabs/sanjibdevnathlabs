@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The groupthink boom: what three top VCs really think about the AI frenzy](https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/)
-- [&#39;I was literally becoming Teela&#39;: We chat to Camilla Mendes about kicking ass in &#39;Masters of the Universe&#39;](https://www.space.com/entertainment/space-movies-shows/i-was-literally-becoming-teela-we-chat-to-camilla-mendes-about-kicking-ass-in-masters-of-the-universe)
-- [As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026](https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/)
-- [This $300 pizza oven can easily help elevate your summer pizza nights](https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/)
-- [TikTok’s road to becoming a super app](https://techcrunch.com/2026/05/30/tiktoks-road-to-becoming-a-super-app/)
+- [‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/)
+- [Meta is reportedly developing an AI pendant](https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/)
+- [I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful](https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/)
+- [This Week In Space podcast: Episode 212 — Kabooms, Starship, and a Moon Base](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-212-kabooms-starship-and-a-moon-base)
+- [Why is the idea of a Blue Moon so enchanting? Over 100 years of pop culture fascination](https://www.space.com/stargazing/why-is-the-idea-of-a-blue-moon-so-enchanting-over-100-years-of-pop-culture-fascination)
 <!-- BLOG-POST-LIST:END -->
 
 ---
