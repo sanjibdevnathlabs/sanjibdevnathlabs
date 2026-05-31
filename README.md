@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce](https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/)
+- [&#39;The Arrival&#39; at 30: Charlie Sheen’s criminally underrated alien invasion thriller feels much scarier today](https://www.space.com/entertainment/space-movies-shows/the-arrival-at-30-charlie-sheens-criminally-underrated-alien-invasion-thriller-feels-even-scarier-today)
 - [Making sense of the debate over AI psychosis](https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/)
 - [Black founders raise highest amount of quarterly funding since 2022, but there’s a catch](https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/)
 - [Watch this bio-inspired Mars rover concept &#39;swim&#39; through sand on curved wheels &lpar;video&rpar;](https://www.space.com/technology/watch-this-bio-inspired-mars-rover-concept-swim-through-sand-on-curved-wheels-video)
-- [What happens in Vega$: steroids, swimmers, and a billion-dollar hustle](https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/)
-- [The 11 best cozy sci-fi games for those chill cosmic vibes](https://www.space.com/entertainment/space-games/the-11-best-cozy-sci-fi-games-for-those-chill-cosmic-vibes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
