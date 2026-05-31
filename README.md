@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can solar sails really send humans out into interstellar space?](https://www.space.com/astronomy/can-solar-sails-really-send-humans-out-into-interstellar-space)
 - [SoftBank says it will invest up to €75 billion to build French data centers](https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/)
 - [This weekend’s two biggest movies were both directed by YouTubers](https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/)
 - [&#39;For All Mankind&#39; star Wrenn Schmidt on her character&#39;s journey from NASA&#39;s mission control to the slammer &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/for-all-mankind-star-wrenn-schmidt-on-her-characters-journey-from-nasas-mission-control-to-the-slammer-interview)
 - [Snap alums unveil Ghost Angels fund](https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/)
-- [‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
