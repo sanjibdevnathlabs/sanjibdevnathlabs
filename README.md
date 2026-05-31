@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This weekend’s two biggest movies were both directed by YouTubers](https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/)
+- [‘This is fine’ artist KC Green reaches agreement with AI startup Artisan](https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/)
 - [TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce](https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/)
 - [&#39;The Arrival&#39; at 30: Charlie Sheen’s criminally underrated alien invasion thriller feels much scarier today](https://www.space.com/entertainment/space-movies-shows/the-arrival-at-30-charlie-sheens-criminally-underrated-alien-invasion-thriller-feels-even-scarier-today)
 - [Making sense of the debate over AI psychosis](https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/)
-- [Black founders raise highest amount of quarterly funding since 2022, but there’s a catch](https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/)
-- [Watch this bio-inspired Mars rover concept &#39;swim&#39; through sand on curved wheels &lpar;video&rpar;](https://www.space.com/technology/watch-this-bio-inspired-mars-rover-concept-swim-through-sand-on-curved-wheels-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
