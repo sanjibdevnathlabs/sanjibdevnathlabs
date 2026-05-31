@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Making sense of the debate over AI psychosis](https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/)
+- [Black founders raise highest amount of quarterly funding since 2022, but there’s a catch](https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/)
 - [Watch this bio-inspired Mars rover concept &#39;swim&#39; through sand on curved wheels &lpar;video&rpar;](https://www.space.com/technology/watch-this-bio-inspired-mars-rover-concept-swim-through-sand-on-curved-wheels-video)
 - [What happens in Vega$: steroids, swimmers, and a billion-dollar hustle](https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/)
 - [The 11 best cozy sci-fi games for those chill cosmic vibes](https://www.space.com/entertainment/space-games/the-11-best-cozy-sci-fi-games-for-those-chill-cosmic-vibes)
-- [Can solar sails really send humans out into interstellar space?](https://www.space.com/astronomy/can-solar-sails-really-send-humans-out-into-interstellar-space)
-- [SoftBank says it will invest up to €75 billion to build French data centers](https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
