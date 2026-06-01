@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Grand Theft Auto V cheat service gets hacked, exposing thousands of gamers](https://techcrunch.com/2026/06/01/grand-theft-auto-v-cheat-service-gets-hacked-exposing-thousands-of-gamers/)
-- [It had the power! The weird origins of He-Man, Skeletor, and the &#39;Masters of the Universe&#39;](https://www.space.com/entertainment/it-had-the-power-the-weird-origins-of-he-man-skeletor-and-the-masters-of-the-universe)
-- [Zigging when most are zagging, ex-Meta CTO raises $250M climate fund](https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/)
-- [Anthropic files to go public](https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/)
-- [SpaceX says it may issue ‘significant’ equity in ‘future transactions’](https://techcrunch.com/2026/06/01/spacex-says-it-may-issue-significant-equity-in-future-transactions/)
+- [How do you study an invisible exoplanet? Astronomers discover planetary &#39;fingerprints&#39; in the rings around stars](https://www.space.com/astronomy/exoplanets/how-do-you-study-an-invisible-exoplanet-astronomers-discover-planetary-fingerprints-in-the-rings-around-stars)
+- [From the stage to the future: Where are Startup Battlefield’s alumni now?](https://techcrunch.com/2026/06/01/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/)
+- [Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents](https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/)
+- [Shockwaves from dying stars may sculpt &#39;cosmic wagon wheel&#39; stellar nurseries, simulations reveal](https://www.space.com/astronomy/stars/shockwaves-from-dying-stars-may-sculpt-cosmic-wagon-wheel-stellar-nurseries-simulations-reveal)
+- [&#39;The Lone Gunmen&#39; at 25: the underrated &#39;X-Files&#39; spin-off that aspired to be &#39;Mission: Impossible&#39; with geeks](https://www.space.com/entertainment/space-movies-shows/the-lone-gunmen-at-25-the-underrated-x-files-spin-off-that-aspired-to-be-mission-impossible-with-geeks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
