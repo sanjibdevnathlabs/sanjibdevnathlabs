@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Unastella, a South Korean rocket startup that launched from home, raises $24M](https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/)
-- [&#39;A pretty significant setback&#39;: How Blue Origin&#39;s rocket explosion affects NASA&#39;s moon plans](https://www.space.com/space-exploration/launches-spacecraft/a-pretty-significant-setback-how-blue-origins-rocket-explosion-affects-nasas-moon-plans)
-- [Erin Brockovich takes aim at data center secrecy](https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/)
-- [This weekend’s two biggest movies were both directed by YouTubers](https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/)
-- [‘This is fine’ artist KC Green reaches agreement with AI startup Artisan](https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/)
+- [Grand Theft Auto V cheat service gets hacked, exposing thousands of gamers](https://techcrunch.com/2026/06/01/grand-theft-auto-v-cheat-service-gets-hacked-exposing-thousands-of-gamers/)
+- [It had the power! The weird origins of He-Man, Skeletor, and the &#39;Masters of the Universe&#39;](https://www.space.com/entertainment/it-had-the-power-the-weird-origins-of-he-man-skeletor-and-the-masters-of-the-universe)
+- [Zigging when most are zagging, ex-Meta CTO raises $250M climate fund](https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/)
+- [Anthropic files to go public](https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/)
+- [SpaceX says it may issue ‘significant’ equity in ‘future transactions’](https://techcrunch.com/2026/06/01/spacex-says-it-may-issue-significant-equity-in-future-transactions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
