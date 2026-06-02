@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trump signs narrower executive order on AI oversight after industry objections](https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/)
-- [OpenAI launches new Codex tools for white-collar work](https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/)
-- [&#39;Hot Jupiter&#39; winds blasting at over 15,000 mph reveal 1st evidence of exoplanets with magnetic fields](https://www.space.com/astronomy/exoplanets/hot-jupiter-winds-blasting-at-over-15-000-mph-reveal-1st-evidence-of-exoplanets-with-magnetic-fields)
-- [Board, the new game startup from Mirror founder Brynn Putnam, raises $20M, has already sold thousands](https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/)
-- [Password manager Dashlane says hackers stole some customers’ password vaults](https://techcrunch.com/2026/06/02/password-manager-dashlane-says-hackers-stole-some-customers-password-vaults/)
+- [Uber caps employee AI spending after blowing through budget in four months](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/)
+- [New Microsoft tool lets devs spin up AI behavior tests using text descriptions](https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/)
+- [Casio&#39;s &#39;The Mandalorian and Grogu&#39; watches will show you the time, as well as the way](https://www.space.com/entertainment/casios-the-mandalorian-and-grogu-watches-will-show-you-the-time-as-well-as-the-way)
+- [A startup, Everand, is now bundling e-books, audiobooks, and book clubs in challenge to Amazon](https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon/)
+- [Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI](https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
