@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Codex Lives In PowerShell Now](https://www.youtube.com/shorts/xlG3DvMAQm0)
 - [I&#39;m Moderating My First Panel… Come see me at Cisco Live](https://www.youtube.com/shorts/m1fxirQn9AA)
 - [The Blues-Print for Innovation](https://www.youtube.com/watch?v=pi5oIXcMVK4)
 - [Switching back to Windows?!?](https://www.youtube.com/watch?v=cGXAmnUabEY)
 - [MIT Photographer explains one thing AI can never do](https://www.youtube.com/watch?v=_eiT4CEBlX8)
-- [Who actually owns the AI in your company?](https://www.youtube.com/shorts/d17gJs4n45Y)
 <!-- YOUTUBE:END -->
 
 ---
