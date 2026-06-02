@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Uber caps employee AI spending after blowing through budget in four months](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/)
-- [New Microsoft tool lets devs spin up AI behavior tests using text descriptions](https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/)
-- [Casio&#39;s &#39;The Mandalorian and Grogu&#39; watches will show you the time, as well as the way](https://www.space.com/entertainment/casios-the-mandalorian-and-grogu-watches-will-show-you-the-time-as-well-as-the-way)
-- [A startup, Everand, is now bundling e-books, audiobooks, and book clubs in challenge to Amazon](https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon/)
-- [Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI](https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/)
+- [Cyera eyes $12B valuation at 80x ARR multiple despite operating losses](https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/)
+- [&#39;The movie has tremendous heart&#39;: We sat down with the director of &#39;Masters of the Universe&#39; to learn how he found &#39;the power&#39; for the new He-Man](https://www.space.com/entertainment/space-movies-shows/the-movie-has-tremendous-heart-we-sat-down-with-the-director-of-masters-of-the-universe-to-learn-how-he-found-the-power-for-the-new-he-man)
+- [Scientists locate source of mysterious radio signals after 20 year search: A vampire star and its victim](https://www.space.com/astronomy/stars/scientists-locate-source-of-mysterious-radio-signals-after-20-year-search-a-vampire-star-and-its-victim)
+- [Cyberdecks are having a moment, rejecting big tech surveillance with style and substance](https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/)
+- [China launches debut mission of Falcon 9-like rocket with no advance notice &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-launches-debut-mission-of-falcon-9-like-rocket-with-no-advance-notice-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
