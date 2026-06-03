@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram is alerting users who were targeted by hackers during AI chatbot attacks](https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/)
-- [Blue Origin says New Glenn rocket will launch again &#39;before the end of the year&#39; after explosion](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-says-new-glenn-rocket-will-launch-again-before-the-end-of-the-year-after-explosion)
-- [Amazon will show AI product images when you search for some reason](https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/)
-- [Sun erupts with 3 colossal solar flares in less than 24 hours, boosting chances for northern lights](https://www.space.com/stargazing/auroras/sun-erupts-with-3-colossal-solar-flares-in-less-than-24-hours-boosting-chances-for-northern-lights)
-- [NASA&#39;s MAVEN Mars orbiter is officially dead after months of radio silence](https://www.space.com/space-exploration/launches-spacecraft/nasas-maven-mars-orbiter-is-officially-dead-after-months-of-radio-silence)
+- [Uber to put 500 data-collection vehicles on the road this year](https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/)
+- [Forget &#39;Masters of the Universe&#39;, the best live-action He-Man and Skeletor encounter was in an insurance commercial](https://www.space.com/entertainment/space-movies-shows/forget-masters-of-the-universe-the-best-live-action-he-man-and-skeletor-encounter-was-in-an-insurance-commercial)
+- [Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal](https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/)
+- [Meta mercifully spun out VR fitness game Supernatural instead of just killing it](https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/)
+- [Substack’s new ‘Reply Rules’ feature lets creators control how people respond](https://techcrunch.com/2026/06/03/substacks-new-reply-rules-feature-lets-creators-control-how-people-respond/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
