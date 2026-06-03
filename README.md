@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The world’s largest privately owned laser just turned on](https://techcrunch.com/2026/06/03/the-worlds-largest-privately-owned-laser-just-turned-on/)
-- [This star system creates a rare triple eclipse. Here&#39;s what that would look like](https://www.space.com/astronomy/stars/this-star-system-creates-a-rare-triple-eclipse-heres-what-that-would-look-like)
-- [Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis](https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/)
-- [Cyera eyes $12B valuation at 80x ARR multiple despite operating losses](https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/)
-- [&#39;The movie has tremendous heart&#39;: We sat down with the director of &#39;Masters of the Universe&#39; to learn how he found &#39;the power&#39; for the new He-Man](https://www.space.com/entertainment/space-movies-shows/the-movie-has-tremendous-heart-we-sat-down-with-the-director-of-masters-of-the-universe-to-learn-how-he-found-the-power-for-the-new-he-man)
+- [Instagram is alerting users who were targeted by hackers during AI chatbot attacks](https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/)
+- [Blue Origin says New Glenn rocket will launch again &#39;before the end of the year&#39; after explosion](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-says-new-glenn-rocket-will-launch-again-before-the-end-of-the-year-after-explosion)
+- [Amazon will show AI product images when you search for some reason](https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/)
+- [Sun erupts with 3 colossal solar flares in less than 24 hours, boosting chances for northern lights](https://www.space.com/stargazing/auroras/sun-erupts-with-3-colossal-solar-flares-in-less-than-24-hours-boosting-chances-for-northern-lights)
+- [NASA&#39;s MAVEN Mars orbiter is officially dead after months of radio silence](https://www.space.com/space-exploration/launches-spacecraft/nasas-maven-mars-orbiter-is-officially-dead-after-months-of-radio-silence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
