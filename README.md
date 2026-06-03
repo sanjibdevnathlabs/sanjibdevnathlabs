@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis](https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/)
 - [Cyera eyes $12B valuation at 80x ARR multiple despite operating losses](https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/)
 - [&#39;The movie has tremendous heart&#39;: We sat down with the director of &#39;Masters of the Universe&#39; to learn how he found &#39;the power&#39; for the new He-Man](https://www.space.com/entertainment/space-movies-shows/the-movie-has-tremendous-heart-we-sat-down-with-the-director-of-masters-of-the-universe-to-learn-how-he-found-the-power-for-the-new-he-man)
 - [Scientists locate source of mysterious radio signals after 20 year search: A vampire star and its victim](https://www.space.com/astronomy/stars/scientists-locate-source-of-mysterious-radio-signals-after-20-year-search-a-vampire-star-and-its-victim)
 - [Cyberdecks are having a moment, rejecting big tech surveillance with style and substance](https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/)
-- [China launches debut mission of Falcon 9-like rocket with no advance notice &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-launches-debut-mission-of-falcon-9-like-rocket-with-no-advance-notice-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
