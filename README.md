@@ -137,8 +137,8 @@ I'm a software developer passionate about designing and building applications wi
 - [FREE coffee at Cisco Live &lpar;I&#39;m giving it away&rpar;](https://www.youtube.com/shorts/tMFtT7xBhp8)
 - [Codex Lives In PowerShell Now](https://www.youtube.com/shorts/xlG3DvMAQm0)
 - [I&#39;m Moderating My First Panel… Come see me at Cisco Live](https://www.youtube.com/shorts/m1fxirQn9AA)
-- [The Blues-Print for Innovation](https://www.youtube.com/watch?v=pi5oIXcMVK4)
 - [Switching back to Windows?!?](https://www.youtube.com/watch?v=cGXAmnUabEY)
+- [Who actually owns the AI in your company?](https://www.youtube.com/shorts/d17gJs4n45Y)
 <!-- YOUTUBE:END -->
 
 ---
