@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Silo&#39; season 3 trailer teases showing us how the world ended &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/silo-season-3-trailer-teases-showing-us-how-the-world-ended-video)
-- [Interstellar comet 3I/ATLAS is not an alien spacecraft: SETI hunt for &#39;technosignatures&#39; comes up empty](https://www.space.com/space-exploration/search-for-life/not-an-alien-spacecraft-hunt-for-technosignatures-around-interstellar-comet-3i-atlas-comes-up-empty)
-- [Oura Ring 5 review: Thinner, lighter, better](https://techcrunch.com/2026/06/04/oura-ring-5-review-thinner-lighter-better/)
-- [Meteorite found in Sahara desert may be 1st evidence of lost solar system world](https://www.space.com/astronomy/solar-system/meteorite-found-in-sahara-desert-may-be-1st-evidence-of-lost-solar-system-world)
-- [Aurora alert! 4 Earth-bound CMEs could spark northern lights as far south as Illinois and Oregon tonight](https://www.space.com/stargazing/auroras/aurora-alert-4-earth-bound-cmes-could-spark-northern-lights-as-far-south-as-illinois-and-oregon-tonight-june-4-5)
+- [Meta’s Oversight Board says account bans lack due process, transparency](https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/)
+- [Meta rolls out a new AI creator assistant on Facebook](https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/)
+- [What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates](https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/)
+- [A burglar used a Waymo to steal yoga clothes in San Francisco — and got away with it](https://techcrunch.com/2026/06/04/a-burglar-used-a-waymo-to-steal-yoga-clothes-in-sf-and-got-away-with-it/)
+- [Cash App launches a wand for tap-and-pay](https://techcrunch.com/2026/06/04/cash-app-launches-a-wand-for-tap-and-pay/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
