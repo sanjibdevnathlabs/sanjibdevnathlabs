@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [August 2026 lunar eclipse: Everything you need to know about the 96% &#39;blood moon&#39;](https://www.space.com/stargazing/lunar-eclipses/august-2026-lunar-eclipse-everything-you-need-to-know-about-the-96-percent-blood-moon)
+- [Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft](https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/)
+- [SpaceX launches back-to-back Starlink missions from both coasts 19 hours apart &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-47-b1108-vsfb-ocisly-10-43-b1090-ccsfs-asog)
+- [12 of the weirdest &#39;Masters of the Universe&#39; characters](https://www.space.com/entertainment/space-movies-shows/12-of-the-weirdest-masters-of-the-universe-characters)
 - [Meta’s Oversight Board says account bans lack due process, transparency](https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/)
-- [Meta rolls out a new AI creator assistant on Facebook](https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/)
-- [What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates](https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/)
-- [A burglar used a Waymo to steal yoga clothes in San Francisco — and got away with it](https://techcrunch.com/2026/06/04/a-burglar-used-a-waymo-to-steal-yoga-clothes-in-sf-and-got-away-with-it/)
-- [Cash App launches a wand for tap-and-pay](https://techcrunch.com/2026/06/04/cash-app-launches-a-wand-for-tap-and-pay/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
