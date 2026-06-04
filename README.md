@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Glittering star cluster image reveals missing patch of stars: &#39;We were not looking for the gap, but we found it&#39;](https://www.space.com/astronomy/stars/glittering-star-cluster-image-reveals-missing-patch-of-stars-we-were-not-looking-for-the-gap-but-we-found-it)
+- [Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney](https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/)
+- [Meta steals a tactic from Tesla and builds data centers in tents](https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/)
+- [Apple approves Poke as the first AI agent on its Messages for Business platform](https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/)
 - [August 2026 lunar eclipse: Everything you need to know about the 96% &#39;blood moon&#39;](https://www.space.com/stargazing/lunar-eclipses/august-2026-lunar-eclipse-everything-you-need-to-know-about-the-96-percent-blood-moon)
-- [Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft](https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/)
-- [SpaceX launches back-to-back Starlink missions from both coasts 19 hours apart &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-47-b1108-vsfb-ocisly-10-43-b1090-ccsfs-asog)
-- [12 of the weirdest &#39;Masters of the Universe&#39; characters](https://www.space.com/entertainment/space-movies-shows/12-of-the-weirdest-masters-of-the-universe-characters)
-- [Meta’s Oversight Board says account bans lack due process, transparency](https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
