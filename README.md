@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Benchmark raises its first-ever growth fund as part of $2B capital raise](https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/)
 - [Quick commerce FirstClub doubles valuation to $255M in nine months](https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/)
 - [Lovable signs multiyear deal with Google Cloud to up usage 5x, source says](https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/)
 - [Can black holes turn into white holes? It&#39;s not such a crazy idea, scientists say](https://www.space.com/astronomy/black-holes/can-black-holes-turn-into-white-holes-its-not-such-a-crazy-idea-scientists-say)
 - [Defense tech is flooded with money, but who’s built to last?](https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/)
-- [Uber to put 500 data-collection vehicles on the road this year](https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
