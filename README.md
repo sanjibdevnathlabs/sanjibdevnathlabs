@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Certification Questions | LIVE AMA | Summer of CCNA](https://www.youtube.com/watch?v=W-uDWefB-6c)
 - [Fuzzing Programs to Find Bugs - Computerphile](https://www.youtube.com/watch?v=kaD54VXxGrI)
 - [Hermes has a Home Assistant skill and it&#39;s unreal!](https://www.youtube.com/shorts/8aArJSRLpJw)
 - [FREE coffee at Cisco Live &lpar;I&#39;m giving it away&rpar;](https://www.youtube.com/shorts/tMFtT7xBhp8)
 - [Codex Lives In PowerShell Now](https://www.youtube.com/shorts/xlG3DvMAQm0)
-- [I&#39;m Moderating My First Panel… Come see me at Cisco Live](https://www.youtube.com/shorts/m1fxirQn9AA)
 <!-- YOUTUBE:END -->
 
 ---
