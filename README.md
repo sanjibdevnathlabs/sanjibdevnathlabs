@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus](https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/)
+- [Going supersonic! NASA&#39;s X-59 jet breaks sound barrier for the 1st time](https://www.space.com/technology/aerospace/going-supersonic-nasas-x-59-jet-breaks-sound-barrier-for-the-1st-time)
+- [DC Studios lights the fuse on a sensational final &#39;Supergirl&#39; trailer and it&#39;s totally peak &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/dc-studios-lights-the-fuse-on-a-sensational-final-supergirl-trailer-and-its-totally-peak-video)
+- [Founders share VC horror stories, and some are naming names](https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/)
 - [Inside the cruel confines of Apple TV&#39;s &#39;Star City&#39; with star Rhys Ifans and series creators &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/inside-the-cruel-confines-of-apple-tvs-star-city-with-star-rhys-ifans-and-series-creators-interview)
-- [Former cyber executive turned whistleblower accuses IBM of covering up several data breaches](https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/)
-- [Startup Battlefield 200 applications officially close in 3 days](https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/)
-- [Scientists find wind blowing from our Milky Way&#39;s black hole after half-century search: &#39;There it is&#39;](https://www.space.com/astronomy/black-holes/scientists-find-wind-blowing-from-our-milky-ways-black-hole-after-half-century-search-there-it-is)
-- [Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
