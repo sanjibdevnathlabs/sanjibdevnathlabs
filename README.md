@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside the cruel confines of Apple TV&#39;s &#39;Star City&#39; with star Rhys Ifans and series creators &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/inside-the-cruel-confines-of-apple-tvs-star-city-with-star-rhys-ifans-and-series-creators-interview)
+- [Former cyber executive turned whistleblower accuses IBM of covering up several data breaches](https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/)
+- [Startup Battlefield 200 applications officially close in 3 days](https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/)
+- [Scientists find wind blowing from our Milky Way&#39;s black hole after half-century search: &#39;There it is&#39;](https://www.space.com/astronomy/black-holes/scientists-find-wind-blowing-from-our-milky-ways-black-hole-after-half-century-search-there-it-is)
 - [Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)
-- [&#39;Masters of the Universe&#39; is spacier than we expected &lpar;and it&#39;s awesome&rpar;](https://www.space.com/entertainment/space-movies-shows/masters-of-the-universe-is-spacier-than-we-expected-and-its-awesome)
-- [GM’s electric future depends on a new battery — and this facility](https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/)
-- [As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew](https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/)
-- [The most interesting startups right now want to get you off your phone](https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
