@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NSA said to be readying Anthropic’s Mythos for use in cyber operations](https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/)
-- [Meteor streaks across the sky above big observatory | Space photo of the day for June 5, 2026](https://www.space.com/stargazing/meteor-showers/meteor-streaks-across-the-sky-above-big-observatory-space-photo-of-the-day-for-june-5-2026)
-- [AirTrunk commits $30B to build 5GW of AI data centers in India](https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/)
-- [$1.77 trillion! SpaceX is about to become the 7th-most valuable American company](https://www.space.com/space-exploration/usd1-77-trillion-spacex-is-about-to-become-the-7th-most-valuable-american-company)
-- [One of the sky&#39;s rarest phenomena is back: How to see rare night-shining clouds this summer](https://www.space.com/stargazing/one-of-the-skys-rarest-phenomena-is-back-how-to-see-rare-night-shining-clouds-this-summer)
+- [Supabase doubles valuation to $10B in 8 months](https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/)
+- [Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person](https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/)
+- [Astrophotographer captures colossal &#39;Godzilla&#39; plasma cloud stalking the edge of the sun &lpar;video&rpar;](https://www.space.com/stargazing/astrophotographer-captures-colossal-godzilla-plasma-cloud-stalking-the-edge-of-the-sun-video)
+- [Astronauts on International Space Station take shelter in SpaceX Dragon as cosmonauts try to fix air leak](https://www.space.com/space-exploration/international-space-station/astronauts-on-international-space-station-take-shelter-in-spacex-dragon-as-cosmonauts-try-to-fix-air-leak)
+- [Venus, Jupiter and Mercury headline a stunning planet parade through June. Here&#39;s when to see it](https://www.space.com/stargazing/venus-jupiter-and-mercury-headline-a-stunning-planet-parade-through-june-heres-when-to-see-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
