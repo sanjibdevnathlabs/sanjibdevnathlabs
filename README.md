@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Supabase doubles valuation to $10B in 8 months](https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/)
-- [Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person](https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/)
-- [Astrophotographer captures colossal &#39;Godzilla&#39; plasma cloud stalking the edge of the sun &lpar;video&rpar;](https://www.space.com/stargazing/astrophotographer-captures-colossal-godzilla-plasma-cloud-stalking-the-edge-of-the-sun-video)
-- [Astronauts on International Space Station take shelter in SpaceX Dragon as cosmonauts try to fix air leak](https://www.space.com/space-exploration/international-space-station/astronauts-on-international-space-station-take-shelter-in-spacex-dragon-as-cosmonauts-try-to-fix-air-leak)
-- [Venus, Jupiter and Mercury headline a stunning planet parade through June. Here&#39;s when to see it](https://www.space.com/stargazing/venus-jupiter-and-mercury-headline-a-stunning-planet-parade-through-june-heres-when-to-see-it)
+- [Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)
+- [&#39;Masters of the Universe&#39; is spacier than we expected &lpar;and it&#39;s awesome&rpar;](https://www.space.com/entertainment/space-movies-shows/masters-of-the-universe-is-spacier-than-we-expected-and-its-awesome)
+- [GM’s electric future depends on a new battery — and this facility](https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/)
+- [As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew](https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/)
+- [The most interesting startups right now want to get you off your phone](https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
