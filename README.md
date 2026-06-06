@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/)
+- [Sriram Krishnan is leaving his role as White House AI advisor](https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/)
 - [The Trump administration might take an equity stake in OpenAI](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/)
 - [Beyond Instagram: Introducing the next generation of social apps](https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/)
 - [How &#39;Spider-Noir&#39; captured the multiverse in True-Hue Full Color and Authentic Black &amp; White &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/how-spider-noir-captured-the-multiverse-in-true-hue-full-color-and-authentic-black-and-white-interview)
-- [Who is Lobo, the cigar-smoking alien bounty hunter in &#39;Supergirl&#39;?](https://www.space.com/entertainment/who-is-lobo-the-cigar-smoking-alien-bounty-hunter-in-supergirl)
-- [This Week In Space podcast: Episode 213 — Live From ISDC With Gerry Griffin](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-213-live-from-isdc-with-gerry-griffin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
