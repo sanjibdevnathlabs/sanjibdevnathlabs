@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Instagram: Introducing the next generation of social apps](https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/)
+- [How &#39;Spider-Noir&#39; captured the multiverse in True-Hue Full Color and Authentic Black &amp; White &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/how-spider-noir-captured-the-multiverse-in-true-hue-full-color-and-authentic-black-and-white-interview)
+- [Who is Lobo, the cigar-smoking alien bounty hunter in &#39;Supergirl&#39;?](https://www.space.com/entertainment/who-is-lobo-the-cigar-smoking-alien-bounty-hunter-in-supergirl)
+- [This Week In Space podcast: Episode 213 — Live From ISDC With Gerry Griffin](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-213-live-from-isdc-with-gerry-griffin)
 - [Neil deGrasse Tyson narrates new trailer for upcoming Broadway musical, &#39;Galileo&#39;](https://www.space.com/entertainment/neil-degrasse-tyson-narrates-new-trailer-for-upcoming-broadway-musical-galileo)
-- [I resisted smart telescopes for years — then one changed my life](https://www.space.com/stargazing/i-resisted-smart-telescopes-for-years-then-one-changed-my-life)
-- [Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus](https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/)
-- [Going supersonic! NASA&#39;s X-59 jet breaks sound barrier for the 1st time](https://www.space.com/technology/aerospace/going-supersonic-nasas-x-59-jet-breaks-sound-barrier-for-the-1st-time)
-- [DC Studios lights the fuse on a sensational final &#39;Supergirl&#39; trailer and it&#39;s totally peak &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/dc-studios-lights-the-fuse-on-a-sensational-final-supergirl-trailer-and-its-totally-peak-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
