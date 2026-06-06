@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Neil deGrasse Tyson narrates new trailer for upcoming Broadway musical, &#39;Galileo&#39;](https://www.space.com/entertainment/neil-degrasse-tyson-narrates-new-trailer-for-upcoming-broadway-musical-galileo)
 - [I resisted smart telescopes for years — then one changed my life](https://www.space.com/stargazing/i-resisted-smart-telescopes-for-years-then-one-changed-my-life)
 - [Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus](https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/)
 - [Going supersonic! NASA&#39;s X-59 jet breaks sound barrier for the 1st time](https://www.space.com/technology/aerospace/going-supersonic-nasas-x-59-jet-breaks-sound-barrier-for-the-1st-time)
 - [DC Studios lights the fuse on a sensational final &#39;Supergirl&#39; trailer and it&#39;s totally peak &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/dc-studios-lights-the-fuse-on-a-sensational-final-supergirl-trailer-and-its-totally-peak-video)
-- [Founders share VC horror stories, and some are naming names](https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
