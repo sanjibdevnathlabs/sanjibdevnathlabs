@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I resisted smart telescopes for years — then one changed my life](https://www.space.com/stargazing/i-resisted-smart-telescopes-for-years-then-one-changed-my-life)
 - [Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus](https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/)
 - [Going supersonic! NASA&#39;s X-59 jet breaks sound barrier for the 1st time](https://www.space.com/technology/aerospace/going-supersonic-nasas-x-59-jet-breaks-sound-barrier-for-the-1st-time)
 - [DC Studios lights the fuse on a sensational final &#39;Supergirl&#39; trailer and it&#39;s totally peak &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/dc-studios-lights-the-fuse-on-a-sensational-final-supergirl-trailer-and-its-totally-peak-video)
 - [Founders share VC horror stories, and some are naming names](https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/)
-- [Inside the cruel confines of Apple TV&#39;s &#39;Star City&#39; with star Rhys Ifans and series creators &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/inside-the-cruel-confines-of-apple-tvs-star-city-with-star-rhys-ifans-and-series-creators-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
