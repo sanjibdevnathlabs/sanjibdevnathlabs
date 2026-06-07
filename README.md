@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacked, leaked, and held for ransom: the worst breaches of 2026 so far](https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/)
+- [Trouble near the Milky Way: The Large Magellanic Cloud is ripping its smaller neighbor galaxy apart](https://www.space.com/astronomy/galaxies/trouble-near-the-milky-way-the-large-magellanic-cloud-is-ripping-its-smaller-neighbor-galaxy-apart)
 - [10 best Spanish beaches to see the total solar eclipse 2026](https://www.space.com/stargazing/solar-eclipses/10-best-spanish-beaches-to-see-the-total-solar-eclipse-2026)
 - [&#39;Rick and Morty&#39; creators on their inspirations as season 9 tackles the multiverse, evolution, and a kung-fu fight in a Trader Joe&#39;s parking lot &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/rick-and-morty-creators-on-their-inspirations-as-season-9-tackles-the-multiverse-evolution-and-a-kung-fu-fight-in-a-trader-joes-parking-lot-interview)
 - [Could meteor storms harm NASA&#39;s future moon missions?](https://www.space.com/space-exploration/human-spaceflight/could-meteor-storms-harm-nasas-future-moon-missions)
-- [OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/)
-- [What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
