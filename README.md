@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 best Spanish beaches to see the total solar eclipse 2026](https://www.space.com/stargazing/solar-eclipses/10-best-spanish-beaches-to-see-the-total-solar-eclipse-2026)
+- [&#39;Rick and Morty&#39; creators on their inspirations as season 9 tackles the multiverse, evolution, and a kung-fu fight in a Trader Joe&#39;s parking lot &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/rick-and-morty-creators-on-their-inspirations-as-season-9-tackles-the-multiverse-evolution-and-a-kung-fu-fight-in-a-trader-joes-parking-lot-interview)
 - [Could meteor storms harm NASA&#39;s future moon missions?](https://www.space.com/space-exploration/human-spaceflight/could-meteor-storms-harm-nasas-future-moon-missions)
 - [OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/)
 - [What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/)
-- [Sriram Krishnan is leaving his role as White House AI advisor](https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/)
-- [The Trump administration might take an equity stake in OpenAI](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
