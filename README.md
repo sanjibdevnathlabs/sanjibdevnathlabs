@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronaut spots Mount Vesuvius from space | Space photo of the day for June 8, 2026](https://www.space.com/astronomy/earth/astronaut-spots-mount-vesuvius-from-space-space-photo-of-the-day-for-june-8-2026)
-- [Eventbrite and Vimeo owner Bending Spoons files to go public](https://techcrunch.com/2026/06/08/eventbrite-and-vimeo-owner-bending-spoons-files-to-go-public/)
-- [Massachusetts votes to pass new privacy rights bill that bans sale of precise location data](https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/)
-- [Incoming CME could spark impressive northern lights over the northern US tonight](https://www.space.com/stargazing/auroras/incoming-cme-could-spark-impressive-northern-lights-over-the-northern-us-june-8)
-- [&#39;It&#39;s very aesthetically pleasing.&#39; Prada and Axiom just revealed the stylish cooling suit Artemis astronauts will wear under their spacesuits on the moon](https://www.space.com/space-exploration/human-spaceflight/its-very-aesthetically-pleasing-prada-and-axiom-just-revealed-the-stylish-cooling-suit-artemis-astronuats-will-wear-under-their-spacesuit-on-the-moon)
+- [WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more](https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/)
+- [Apple is tweaking its controversial Liquid Glass design](https://techcrunch.com/2026/06/08/apple-is-tweaking-its-controversial-liquid-glass-design/)
+- [This former Paralympic athlete could become the 1st person with a physical disability to live in orbit](https://www.space.com/space-exploration/human-spaceflight/this-former-paralympic-athlete-could-become-the-1st-person-with-a-physical-disability-to-live-in-orbit)
+- [Watch SpaceX set new rocket reuse record with 35th launch — and landing —  of a Falcon 9 booster &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-35-b1067-ccsfs-asog)
+- [How to apply to Startup Battlefield 2026, what you need ahead of today’s June 8 deadline](https://techcrunch.com/2026/06/08/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-todays-june-8-deadline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
