@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is this the next Artemis crew? A look at the astronauts on NASA&#39;s shortlist](https://www.space.com/space-exploration/artemis/is-this-the-next-artemis-crew-a-look-at-the-astronauts-on-nasas-shortlist)
-- [Is this the dawn of the Tokenpocalypse?](https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/)
-- [Notion restores access to Anthropic after service disruption](https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/)
-- [OpenAI is still working on that ‘super app’](https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/)
-- [TechCrunch Mobility: Inside GM’s $900M EV battery gamble](https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/)
+- [Astronaut spots Mount Vesuvius from space | Space photo of the day for June 8, 2026](https://www.space.com/astronomy/earth/astronaut-spots-mount-vesuvius-from-space-space-photo-of-the-day-for-june-8-2026)
+- [Eventbrite and Vimeo owner Bending Spoons files to go public](https://techcrunch.com/2026/06/08/eventbrite-and-vimeo-owner-bending-spoons-files-to-go-public/)
+- [Massachusetts votes to pass new privacy rights bill that bans sale of precise location data](https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/)
+- [Incoming CME could spark impressive northern lights over the northern US tonight](https://www.space.com/stargazing/auroras/incoming-cme-could-spark-impressive-northern-lights-over-the-northern-us-june-8)
+- [&#39;It&#39;s very aesthetically pleasing.&#39; Prada and Axiom just revealed the stylish cooling suit Artemis astronauts will wear under their spacesuits on the moon](https://www.space.com/space-exploration/human-spaceflight/its-very-aesthetically-pleasing-prada-and-axiom-just-revealed-the-stylish-cooling-suit-artemis-astronuats-will-wear-under-their-spacesuit-on-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
