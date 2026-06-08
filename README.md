@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft’s open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
+- [James Webb Space Telescope weighs &#39;sleeping giant&#39; black hole from 10 billion light-years away — and it&#39;s 6 billion times our sun&#39;s mass](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-weighs-sleeping-giant-black-hole-from-10-billion-light-years-away-and-its-6-billion-times-our-suns-mass)
 - [WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more](https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/)
-- [Apple is tweaking its controversial Liquid Glass design](https://techcrunch.com/2026/06/08/apple-is-tweaking-its-controversial-liquid-glass-design/)
-- [This former Paralympic athlete could become the 1st person with a physical disability to live in orbit](https://www.space.com/space-exploration/human-spaceflight/this-former-paralympic-athlete-could-become-the-1st-person-with-a-physical-disability-to-live-in-orbit)
-- [Watch SpaceX set new rocket reuse record with 35th launch — and landing —  of a Falcon 9 booster &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-35-b1067-ccsfs-asog)
-- [How to apply to Startup Battlefield 2026, what you need ahead of today’s June 8 deadline](https://techcrunch.com/2026/06/08/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-todays-june-8-deadline/)
+- [Why do Venus and Jupiter meet up in the sky so often? It&#39;s a symptom of a solar system that supports life on Earth](https://www.space.com/stargazing/why-do-venus-and-jupiter-meet-up-in-the-sky-so-often-its-a-symptom-of-a-solar-system-that-supports-life-on-earth)
+- [Pentagon says Alibaba, Baidu, BYD and Unitree support China’s military](https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
