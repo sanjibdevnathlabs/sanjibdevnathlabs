@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft’s open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
-- [James Webb Space Telescope weighs &#39;sleeping giant&#39; black hole from 10 billion light-years away — and it&#39;s 6 billion times our sun&#39;s mass](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-weighs-sleeping-giant-black-hole-from-10-billion-light-years-away-and-its-6-billion-times-our-suns-mass)
-- [WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more](https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/)
-- [Why do Venus and Jupiter meet up in the sky so often? It&#39;s a symptom of a solar system that supports life on Earth](https://www.space.com/stargazing/why-do-venus-and-jupiter-meet-up-in-the-sky-so-often-its-a-symptom-of-a-solar-system-that-supports-life-on-earth)
-- [Pentagon says Alibaba, Baidu, BYD and Unitree support China’s military](https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/)
+- [Following Anthropic, OpenAI files confidentially for IPO](https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/)
+- [Apple plays catch-up at WWDC](https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/)
+- [Scientists propose spraying chemicals into Earth&#39;s magnetic field to protect us from powerful solar storms](https://www.space.com/astronomy/earth/scientists-propose-spraying-chemicals-into-earths-magnetic-field-to-protect-us-from-powerful-solar-storms)
+- [Apple bets cheaper AI will woo small developers](https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/)
+- [Waymo bought Apple’s self-driving car proving ground for $220M](https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
