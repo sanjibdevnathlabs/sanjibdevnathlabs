@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Steven Spielberg&#39;s &#39;Disclosure Day&#39; feels like the most exciting sci-fi release of the year](https://www.space.com/entertainment/space-movies-shows/why-steven-spielbergs-disclosure-day-feels-like-the-most-exciting-sci-fi-release-of-the-year)
-- [Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week](https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/)
-- [How should we handle alien detection in a world of AI, deepfakes and social media? This committee is writing the rulebook](https://www.space.com/space-exploration/search-for-life/how-should-we-handle-alien-detection-in-a-world-of-ai-deepfakes-and-social-media-this-committee-is-writing-the-rulebook)
-- [How an e-scooter founder raised $5 million to build space data centers](https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/)
-- [Watch the Jupiter-Venus conjunction unfold live online today](https://www.space.com/stargazing/watch-the-jupiter-venus-conjunction-unfold-live-online-june-9)
+- [Apple’s foldable iPhone could be just around the corner](https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/)
+- [It’s not FAANG anymore. It’s MANGOS.](https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/)
+- [Apple says it may remove some apps from the App Store if they don’t attract users](https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/)
+- [iOS 27 features we didn’t see onstage](https://techcrunch.com/2026/06/09/ios-27-features-we-didnt-see-on-stage/)
+- [&#39;This is actually taking a page out of the Communist Party playbook&#39;: New White House proposal could deny scientists funding based on their political opinions](https://www.space.com/space-exploration/this-is-actually-taking-a-page-out-of-the-communist-party-playbook-new-white-house-proposal-could-deny-scientists-funding-based-on-their-political-opinions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
