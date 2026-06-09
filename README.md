@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The forgotten developer who saved JavaScript...](https://www.youtube.com/watch?v=JfPWbttemYE)
-- [10 weird OSS projects you need right now...](https://www.youtube.com/watch?v=qPuzWFvRajk)
-- [Google’s AI endgame is here… everything you missed at I/O 2026](https://www.youtube.com/watch?v=9OQ5vaYbGV0)
-- [I can’t believe this trial is real...](https://www.youtube.com/watch?v=3tbB2dffx0s)
-- [A single PR just hijacked the NPM registry...](https://www.youtube.com/watch?v=gwTQLZSIlsU)
+- [Certification Questions | LIVE AMA | Summer of CCNA](https://www.youtube.com/watch?v=W-uDWefB-6c)
+- [Fuzzing Programs to Find Bugs - Computerphile](https://www.youtube.com/watch?v=kaD54VXxGrI)
+- [Hermes has a Home Assistant skill and it&#39;s unreal!](https://www.youtube.com/shorts/8aArJSRLpJw)
+- [FREE coffee at Cisco Live &lpar;I&#39;m giving it away&rpar;](https://www.youtube.com/shorts/tMFtT7xBhp8)
+- [Codex Lives In PowerShell Now](https://www.youtube.com/shorts/xlG3DvMAQm0)
 <!-- YOUTUBE:END -->
 
 ---
