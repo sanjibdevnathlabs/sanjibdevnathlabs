@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Can tech companies learn to love cheaper AI models?](https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/)
-- [WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more](https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/)
-- [Do galaxies have a &#39;kill switch&#39; that makes them stop growing?](https://www.space.com/astronomy/galaxies/what-causes-galaxies-to-stop-growing)
-- [CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang](https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/)
-- [NASA reveals Artemis 3 astronaut crew](https://www.space.com/space-exploration/artemis/nasa-reveals-artemis-3-astronaut-crew)
+- [These record-breaking black hole winds could create a category 79 hurricane on Earth](https://www.space.com/astronomy/black-holes/these-record-breaking-black-hole-winds-could-create-a-category-79-hurricane-on-earth)
+- [GM joins race to build batteries for AI data centers and the grid](https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/)
+- [Hey Siri, here’s what I actually want from AI](https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/)
+- [Anthropic’s Fable 5 can make weirdly fun video games with the click of a button](https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/)
+- [Thruster breakthrough? New 2-in-1 propulsion system is about to get an in-space test](https://www.space.com/technology/thruster-breakthrough-new-2-in-1-propulsion-system-is-about-to-get-an-in-space-test)
 <!-- BLOG-POST-LIST:END -->
 
 ---
