@@ -134,7 +134,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The company building God wants a kill switch...](https://www.youtube.com/watch?v=0pgCBV8CTZY)
+- [Anthropic is starting to panic…](https://www.youtube.com/watch?v=0pgCBV8CTZY)
 - [Certification Questions | LIVE AMA | Summer of CCNA](https://www.youtube.com/watch?v=W-uDWefB-6c)
 - [Fuzzing Programs to Find Bugs - Computerphile](https://www.youtube.com/watch?v=kaD54VXxGrI)
 - [Hermes has a Home Assistant skill and it&#39;s unreal!](https://www.youtube.com/shorts/8aArJSRLpJw)
