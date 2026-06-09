@@ -148,7 +148,7 @@ I'm a software developer passionate about designing and building applications wi
 <!-- BLOG-POST-LIST:START -->
 - [These record-breaking black hole winds could create a category 79 hurricane on Earth](https://www.space.com/astronomy/black-holes/these-record-breaking-black-hole-winds-could-create-a-category-79-hurricane-on-earth)
 - [GM joins race to build batteries for AI data centers and the grid](https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/)
-- [Hey Siri, here’s what I actually want from AI](https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/)
+- [Hey, Siri, here’s what I actually want from AI](https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/)
 - [Anthropic’s Fable 5 can make weirdly fun video games with the click of a button](https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/)
 - [Thruster breakthrough? New 2-in-1 propulsion system is about to get an in-space test](https://www.space.com/technology/thruster-breakthrough-new-2-in-1-propulsion-system-is-about-to-get-an-in-space-test)
 <!-- BLOG-POST-LIST:END -->
