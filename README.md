@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s foldable iPhone could be just around the corner](https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/)
-- [It’s not FAANG anymore. It’s MANGOS.](https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/)
-- [Apple says it may remove some apps from the App Store if they don’t attract users](https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/)
-- [iOS 27 features we didn’t see onstage](https://techcrunch.com/2026/06/09/ios-27-features-we-didnt-see-on-stage/)
-- [&#39;This is actually taking a page out of the Communist Party playbook&#39;: New White House proposal could deny scientists funding based on their political opinions](https://www.space.com/space-exploration/this-is-actually-taking-a-page-out-of-the-communist-party-playbook-new-white-house-proposal-could-deny-scientists-funding-based-on-their-political-opinions)
+- [Can tech companies learn to love cheaper AI models?](https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/)
+- [WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more](https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/)
+- [Do galaxies have a &#39;kill switch&#39; that makes them stop growing?](https://www.space.com/astronomy/galaxies/what-causes-galaxies-to-stop-growing)
+- [CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang](https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/)
+- [NASA reveals Artemis 3 astronaut crew](https://www.space.com/space-exploration/artemis/nasa-reveals-artemis-3-astronaut-crew)
 <!-- BLOG-POST-LIST:END -->
 
 ---
