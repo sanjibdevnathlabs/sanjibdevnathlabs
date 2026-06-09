@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet](https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/)
 - [Why Apple’s slow-and-steady AI bet is starting to look pretty smart](https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/)
 - [Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks](https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/)
 - [As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says](https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/)
 - [Apple’s WWDC AI demos looked more real after $250M false ad settlement](https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/)
-- [OpenAI files confidentially for IPO, following Anthropic](https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
