@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Evotrex raises $30M to build the RV that doesn’t need a charging station](https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/)
-- [Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet](https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/)
-- [Why Apple’s slow-and-steady AI bet is starting to look pretty smart](https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/)
-- [Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks](https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/)
-- [As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says](https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/)
+- [Why Steven Spielberg&#39;s &#39;Disclosure Day&#39; feels like the most exciting sci-fi release of the year](https://www.space.com/entertainment/space-movies-shows/why-steven-spielbergs-disclosure-day-feels-like-the-most-exciting-sci-fi-release-of-the-year)
+- [Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week](https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/)
+- [How should we handle alien detection in a world of AI, deepfakes and social media? This committee is writing the rulebook](https://www.space.com/space-exploration/search-for-life/how-should-we-handle-alien-detection-in-a-world-of-ai-deepfakes-and-social-media-this-committee-is-writing-the-rulebook)
+- [How an e-scooter founder raised $5 million to build space data centers](https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/)
+- [Watch the Jupiter-Venus conjunction unfold live online today](https://www.space.com/stargazing/watch-the-jupiter-venus-conjunction-unfold-live-online-june-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
