@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Strange &#39;spacetime crystals&#39; could give birth to tiny black holes](https://www.space.com/astronomy/black-holes/strange-spacetime-crystals-could-give-birth-to-tiny-black-holes)
-- [Waymo says it built a better benchmark for comparing robotaxis to humans](https://techcrunch.com/2026/06/10/waymo-says-it-built-a-better-benchmark-for-comparing-robotaxis-to-humans/)
-- [Meta signs first AI data center deal in India with Reliance](https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/)
-- [Top Lucid Motors executive departs amid new CEO’s leadership shakeup](https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/)
-- [Google just fired a warning shot in the AI subscription price wars](https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/)
+- [Why enterprise AI will be a major focus at VivaTech 2026](https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/)
+- [Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in](https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/)
+- [Gears of War E-Day developer The Coalition explains why the prequel was &#39;just too good to pass up&#39;](https://www.space.com/entertainment/space-games/gears-of-war-e-day-developer-the-coalition-explains-why-the-prequel-was-just-too-good-to-pass-up)
+- [The three hard-tech moonshots fueling SpaceX’s unbelievable IPO](https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/)
+- [Pinterest bets on creators with Amazon Storefront integration](https://techcrunch.com/2026/06/10/pinterest-bets-on-creators-with-amazon-storefront-integration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
