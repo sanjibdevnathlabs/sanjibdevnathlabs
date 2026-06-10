@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The asteroid that wiped out the dinosaurs may have created a vast underground habitat for life that lasted 8 million years](https://www.space.com/astronomy/asteroids/the-asteroid-that-wiped-out-the-dinosaurs-may-have-created-a-vast-underground-habitat-for-life-that-lasted-8-million-years)
-- [&#39;Doctor Who&#39; Christmas Special is cancelled as Russell T. Davies departs the show: What does this mean for the future of Doctor Who?](https://www.space.com/entertainment/space-movies-shows/doctor-who-christmas-special-is-cancelled-as-russell-t-davies-departs-the-show-what-does-this-mean-for-the-future-of-doctor-who)
-- [Netflix expands revamped mobile app across Asia and doubles down on kids’ gaming](https://techcrunch.com/2026/06/10/netflix-expands-revamped-mobile-app-across-asia-and-doubles-down-on-kids-gaming/)
-- [‘AI-pilled’ firms spend $7,500 per employee each month on AI](https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/)
-- [Jupiter and Venus looked spectacular in this week&#39;s planetary conjunction. Here are our favorite photos](https://www.space.com/stargazing/astrophotography/jupiter-and-venus-looked-spectacular-in-this-weeks-planetary-conjunction-here-are-our-favorite-photos)
+- [James Webb Space Telescope finds evidence the mysterious &#39;little red dots&#39; are black hole stars](https://www.space.com/astronomy/black-holes/james-webb-space-telescope-finds-evidence-the-mysterious-little-red-dots-are-black-hole-stars)
+- [Everyone wants a piece of Tesla’s battery business](https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/)
+- [Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues](https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/)
+- [NASA chief defends all-male Artemis 3 astronaut crew amid backlash: &#39;I don&#39;t think anyone should be reading into this&#39;](https://www.space.com/space-exploration/artemis/nasa-chief-defends-all-male-artemis-3-astronaut-crew-amid-backlash-i-dont-think-anyone-should-be-reading-into-this)
+- [North Koreans behind nearly half of US tech industry hacks, says CrowdStrike](https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
