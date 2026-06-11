@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deezer’s new tool can identify AI music from Spotify, Apple Music, and others](https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/)
-- [These are the countries moving to ban social media for children](https://techcrunch.com/2026/06/11/social-media-ban-children-countries-list/)
-- [Waymo launches a loyalty program with 10% cash back and free cancellations](https://techcrunch.com/2026/06/11/waymo-launches-a-loyalty-program-with-10-cash-back-and-free-cancellations/)
-- [Pool’s new app turns your screenshots into something useful](https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/)
-- [Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal](https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/)
+- [James Webb Space Telescope discovers &#39;galaxy-killing&#39; wind that may explain why some early galaxies lived fast and died young](https://www.space.com/astronomy/galaxies/james-webb-space-telescope-discovers-galaxy-killing-wind-that-may-explain-why-some-early-galaxies-lived-fast-and-died-young)
+- [Don&#39;t miss this beautiful 3-planet parade after sunset on June 12 — it won&#39;t last long](https://www.space.com/stargazing/a-beautiful-3-planet-parade-will-shine-after-sunset-on-june-12-but-youll-have-to-be-quick-to-catch-it)
+- [Meta’s Edits app is getting an AI assistant and a desktop version](https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/)
+- [Coinbase’s new tool can help agents trade and pay for premium research](https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/)
+- [&#39;Star City&#39;&#39;s Agnes O&#39;Casey and Anna Maxwell Martin spill the tea on Soviet severity, fighting for trousers, and furry hats](https://www.space.com/entertainment/space-movies-shows/star-citys-agnes-ocasey-and-anna-maxwell-martin-spill-the-tea-on-soviet-severity-fighting-for-trousers-and-furry-hats)
 <!-- BLOG-POST-LIST:END -->
 
 ---
