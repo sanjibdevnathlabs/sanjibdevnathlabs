@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why do stars appear different colors in the night sky?](https://www.space.com/stargazing/why-do-stars-appear-different-colors-in-the-night-sky)
-- [Anthropic taps TCS to scale its enterprise AI deployments](https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/)
-- [Elon Musk wants to put 1 million AI satellites in space. Here&#39;s how SpaceX could do it](https://www.space.com/space-exploration/satellites/elon-musk-wants-to-put-1-million-ai-satellites-in-space-heres-how-spacex-could-do-it)
-- [Don&#39;t miss out on Star Trek: Strange New Worlds season 4 — stream it from anywhere at warp speed using this Norton VPN deal, now up to 70% off](https://www.space.com/technology/dont-miss-out-on-star-trek-strange-new-worlds-season-4-stream-it-from-anywhere-at-warp-speed-using-this-norton-vpn-deal-now-up-to-64-percent-off)
-- [Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing](https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/)
+- [Deezer’s new tool can identify AI music from Spotify, Apple Music, and others](https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/)
+- [These are the countries moving to ban social media for children](https://techcrunch.com/2026/06/11/social-media-ban-children-countries-list/)
+- [Waymo launches a loyalty program with 10% cash back and free cancellations](https://techcrunch.com/2026/06/11/waymo-launches-a-loyalty-program-with-10-cash-back-and-free-cancellations/)
+- [Pool’s new app turns your screenshots into something useful](https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/)
+- [Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal](https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
