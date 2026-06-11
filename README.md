@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t miss out on Star Trek: Strange New Worlds season 4 — stream it from anywhere at warp speed using this Norton VPN deal, now up to 64% off](https://www.space.com/technology/dont-miss-out-on-star-trek-strange-new-worlds-season-4-stream-it-from-anywhere-at-warp-speed-using-this-norton-vpn-deal-now-up-to-64-percent-off)
+- [Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing](https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/)
+- [Anthropic’s Dario Amodei has just one direct report](https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/)
 - [xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims](https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/)
 - [Why Andrew Yang is building instead of waiting for Washington](https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/)
-- [Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations](https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/)
-- [James Webb Space Telescope finds evidence the mysterious &#39;little red dots&#39; are black hole stars](https://www.space.com/astronomy/black-holes/james-webb-space-telescope-finds-evidence-the-mysterious-little-red-dots-are-black-hole-stars)
-- [Everyone wants a piece of Tesla’s battery business](https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
