@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t miss out on Star Trek: Strange New Worlds season 4 — stream it from anywhere at warp speed using this Norton VPN deal, now up to 64% off](https://www.space.com/technology/dont-miss-out-on-star-trek-strange-new-worlds-season-4-stream-it-from-anywhere-at-warp-speed-using-this-norton-vpn-deal-now-up-to-64-percent-off)
+- [Why do stars appear different colors in the night sky?](https://www.space.com/stargazing/why-do-stars-appear-different-colors-in-the-night-sky)
+- [Anthropic taps TCS to scale its enterprise AI deployments](https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/)
+- [Elon Musk wants to put 1 million AI satellites in space. Here&#39;s how SpaceX could do it](https://www.space.com/space-exploration/satellites/elon-musk-wants-to-put-1-million-ai-satellites-in-space-heres-how-spacex-could-do-it)
+- [Don&#39;t miss out on Star Trek: Strange New Worlds season 4 — stream it from anywhere at warp speed using this Norton VPN deal, now up to 70% off](https://www.space.com/technology/dont-miss-out-on-star-trek-strange-new-worlds-season-4-stream-it-from-anywhere-at-warp-speed-using-this-norton-vpn-deal-now-up-to-64-percent-off)
 - [Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing](https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/)
-- [Anthropic’s Dario Amodei has just one direct report](https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/)
-- [xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims](https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/)
-- [Why Andrew Yang is building instead of waiting for Washington](https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
