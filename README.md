@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Theker just raised $85M to build the factory robot that doesn’t specialize in anything](https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/)
+- [Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world](https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/)
 - [SpaceX officially prices shares at $135 in the largest IPO ever](https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/)
 - [Oracle warns of security bug that hackers abused to breach 100+ companies](https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/)
 - [SpaceX sends 24 Starlink satellites into orbit as market awaits IPO launch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-44-b1071-vsfb-ocisly)
-- [SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift](https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/)
-- [Bluesky launches group chats, as company shifts focus to community features](https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
