@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX IPO: Everything you need to know](https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/)
-- [Satellite-boosting spacecraft inside air-launched rocket | Space photo of the day for June 12, 2026](https://www.space.com/space-exploration/launches-spacecraft/satellite-boosting-spacecraft-inside-air-launched-rocket-space-photo-of-the-day-for-june-12-2026)
-- [The critical robot arm on the ISS isn&#39;t working properly, but NASA has a plan to fix it](https://www.space.com/space-exploration/international-space-station/the-critical-robot-arm-on-the-iss-isnt-working-properly-but-nasa-has-a-plan-to-fix-it)
-- [My quiet obsession with satellites — and how they&#39;re ruining everything](https://www.space.com/stargazing/my-quiet-obsession-with-satellites-and-how-theyre-ruining-everything)
-- [US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies](https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/)
+- [Google sues alleged Chinese cybercrime operation that used AI to send scam texts](https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/)
+- [Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts](https://techcrunch.com/2026/06/12/robinhood-sees-record-breaking-traffic-after-spacex-stock-debuts/)
+- [SpaceX, Anthropic, and OpenAI’s hot IPO summer](https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/)
+- [&#39;Disclosure Day&#39; review: A close encounter with Spielberg&#39;s brilliance that doesn&#39;t quite make contact](https://www.space.com/entertainment/space-movies-shows/disclosure-day-review-a-close-encounter-with-spielbergs-brilliance-that-doesnt-quite-make-contact)
+- [Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO](https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
