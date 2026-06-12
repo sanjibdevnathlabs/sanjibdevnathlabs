@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger](https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/)
+- [Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google](https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/)
+- [SpaceX IPO closes up 19% and delivers the world’s first trillionaire](https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/)
+- [SpaceX&#39;s stock wasn&#39;t the company&#39;s only launch today — It also put 29 Starlink satellites in orbit](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-54-b1080-ccsfs-asog)
 - [SpaceX IPO: Live updates on everything you need to know](https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/)
-- [SpaceX shares soar 30% midday, vaulting it to top six most valuable U.S. companies](https://techcrunch.com/2026/06/12/spacex-shares-soar-30-percent-midday-vaulting-it-to-top-six-most-valuable-us-companies/)
-- [Why is the US Space Force researching &#39;orbital warehouses&#39;?](https://www.space.com/space-exploration/satellites/why-is-the-us-space-force-researching-orbital-warehouses)
-- [Mistral is rumored to be raising €3B at €20B valuation](https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/)
+- [Japan&#39;s H3 rocket bounces back from failure with successful return to flight launch carrying 6 satellites](https://www.space.com/space-exploration/launches-spacecraft/japans-h3-rocket-bounces-back-from-failure-with-successful-return-to-flight-launch-carrying-6-satellites)
 <!-- BLOG-POST-LIST:END -->
 
 ---
