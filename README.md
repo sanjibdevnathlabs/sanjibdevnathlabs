@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google sues alleged Chinese cybercrime operation that used AI to send scam texts](https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/)
-- [Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts](https://techcrunch.com/2026/06/12/robinhood-sees-record-breaking-traffic-after-spacex-stock-debuts/)
-- [SpaceX, Anthropic, and OpenAI’s hot IPO summer](https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/)
-- [&#39;Disclosure Day&#39; review: A close encounter with Spielberg&#39;s brilliance that doesn&#39;t quite make contact](https://www.space.com/entertainment/space-movies-shows/disclosure-day-review-a-close-encounter-with-spielbergs-brilliance-that-doesnt-quite-make-contact)
-- [Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO](https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/)
+- [SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger](https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/)
+- [SpaceX IPO: Live updates on everything you need to know](https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/)
+- [SpaceX shares soar 30% midday, vaulting it to top six most valuable U.S. companies](https://techcrunch.com/2026/06/12/spacex-shares-soar-30-percent-midday-vaulting-it-to-top-six-most-valuable-us-companies/)
+- [Why is the US Space Force researching &#39;orbital warehouses&#39;?](https://www.space.com/space-exploration/satellites/why-is-the-us-space-force-researching-orbital-warehouses)
+- [Mistral is rumored to be raising €3B at €20B valuation](https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
