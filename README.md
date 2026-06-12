@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX to go public with a mind-bogglingly historic IPO today. The space industry may never be the same.](https://www.space.com/space-exploration/private-spaceflight/spacex-to-go-public-with-a-mind-bogglingly-historic-ipo-today-the-space-industry-may-never-be-the-same)
-- [Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale](https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/)
-- [Equal AI raises $30M to screen calls so Indians don’t have to](https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/)
-- [Theker just raised $85M to build the factory robot that doesn’t specialize in anything](https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/)
-- [Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world](https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/)
+- [SpaceX IPO: Everything you need to know](https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/)
+- [Satellite-boosting spacecraft inside air-launched rocket | Space photo of the day for June 12, 2026](https://www.space.com/space-exploration/launches-spacecraft/satellite-boosting-spacecraft-inside-air-launched-rocket-space-photo-of-the-day-for-june-12-2026)
+- [The critical robot arm on the ISS isn&#39;t working properly, but NASA has a plan to fix it](https://www.space.com/space-exploration/international-space-station/the-critical-robot-arm-on-the-iss-isnt-working-properly-but-nasa-has-a-plan-to-fix-it)
+- [My quiet obsession with satellites — and how they&#39;re ruining everything](https://www.space.com/stargazing/my-quiet-obsession-with-satellites-and-how-theyre-ruining-everything)
+- [US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies](https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
