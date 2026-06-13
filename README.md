@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon CEO reportedly raised Anthropic model concerns before government crackdown](https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/)
 - [OpenAI faces investigation from state attorneys general](https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/)
 - [This thin under-pillow speaker helped me fall asleep without earbuds](https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/)
 - [Millions could see a rare sunset during the total solar eclipse on Aug. 12, 2026. Here&#39;s where to look](https://www.space.com/stargazing/solar-eclipses/millions-could-see-a-rare-sunset-during-the-total-solar-eclipse-on-aug-12-2026-heres-where-to-look)
 - [This Week In Space podcast: Episode 214 — Moon Man](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-214-moon-man)
-- [Closer every day: A spectacular 30-day collage of the Venus-Jupiter conjunction &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotography/closer-every-day-a-spectacular-30-day-collage-of-the-venus-jupiter-conjunction-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
