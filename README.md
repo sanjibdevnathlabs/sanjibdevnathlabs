@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The FBI built its own replica small town to simulate real-world cyberattacks](https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/)
+- [How Japanese scientists sent a real-life Transformer to the moon](https://www.space.com/astronomy/moon/how-japanese-scientists-sent-a-real-life-transformer-to-the-moon)
 - [Andrew Yang thinks the next big startup opportunity is lowering the cost of living](https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/)
 - [Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/)
 - [SpaceX IPO: Live updates on everything you need to know](https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/)
-- [Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it](https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/)
-- [Ever have a scary HR meeting on your calendar? That&#39;s how the Artemis 3 crew found out their assignments](https://www.space.com/space-exploration/artemis/ever-have-a-scary-hr-meeting-on-your-calendar-thats-how-the-artemis-3-crew-found-out-their-assignments)
 <!-- BLOG-POST-LIST:END -->
 
 ---
