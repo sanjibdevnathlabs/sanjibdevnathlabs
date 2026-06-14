@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As AI companies race to go public, who else is along for the ride?](https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/)
+- [TechCrunch Mobility: SpaceX rockets past Tesla](https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/)
 - [Catch Mercury shining at its best on June 15 before it slips back into the sun&#39;s glare](https://www.space.com/stargazing/catch-mercury-shining-at-its-best-on-june-15-before-it-slips-back-into-the-suns-glare)
 - [The new Sonos Play has become my go-to desk and kitchen speaker](https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/)
 - [How Jules Verne predicted the Artemis 2 mission to the moon almost 160 years ago](https://www.space.com/entertainment/how-jules-verne-predicted-the-artemis-2-mission-to-the-moon-almost-160-years-ago)
-- [New moon of June 2026 brings stunning views of Mercury, Venus and Jupiter](https://www.space.com/stargazing/new-moon-of-june-2026-brings-stunning-views-of-mercury-venus-and-jupiter)
-- [&#39;We were astonished&#39;: Millions of exoplanets could be born near active supermassive black holes](https://www.space.com/astronomy/exoplanets/we-were-astonished-millions-of-exoplanets-could-be-born-near-active-supermassive-black-holes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
