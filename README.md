@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New moon of June 2026 brings stunning views of Mercury, Venus and Jupiter](https://www.space.com/stargazing/new-moon-of-june-2026-brings-stunning-views-of-mercury-venus-and-jupiter)
 - [&#39;We were astonished&#39;: Millions of exoplanets could be born near active supermassive black holes](https://www.space.com/astronomy/exoplanets/we-were-astonished-millions-of-exoplanets-could-be-born-near-active-supermassive-black-holes)
 - [As Anthropic suspends access to new models, India debates its AI future](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/)
 - [Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/)
 - [KPMG pulls report on AI usage due to apparent hallucinations](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/)
-- [Amazon CEO reportedly raised Anthropic model concerns before government crackdown](https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
