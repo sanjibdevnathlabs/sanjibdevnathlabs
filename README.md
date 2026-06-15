@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [TCP b : Additive Increase Multiplicative Decrease &amp; &#39;Slow Start&#39; - Computerphile](https://www.youtube.com/watch?v=nKVML4YaBqs)
 - [TCP a : Ensuring Your Data Gets There &amp; in the Right Order! - Computerphile](https://www.youtube.com/watch?v=IADOV8UZO34)
 - [Anthropic begged the world to stop AI… then shipped this](https://www.youtube.com/watch?v=1PBRhm5ZnjU)
 - [From Laid-Off Network Engineer to Platform Engineer: Patryk’s DevOps Journey](https://www.youtube.com/watch?v=umXECLiGxEQ)
 - [Anthropic is starting to panic…](https://www.youtube.com/watch?v=0pgCBV8CTZY)
-- [Certification Questions | LIVE AMA | Summer of CCNA](https://www.youtube.com/watch?v=W-uDWefB-6c)
 <!-- YOUTUBE:END -->
 
 ---
