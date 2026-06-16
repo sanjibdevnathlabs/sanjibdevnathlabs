@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX Dragon cargo capsule head home to Earth today](https://www.space.com/space-exploration/international-space-station/spacex-dragon-cargo-capsule-crs-34-return-to-earth)
 - [Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties](https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/)
 - [The US government’s Anthropic models ban was never about an AI jailbreak](https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/)
 - [Astrobotic unveils Griffin-1 lunar lander for NASA Moon Base mission](https://www.space.com/space-exploration/astrobotic-unveils-griffin-1-lunar-lander-for-nasa-moon-base-mission)
 - [SpaceX sends 24 Starlink satellites to orbit on 1st launch as a public company &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-54-b1093-vsfb-ocisly)
-- [These are the 7 best sci-fi games I saw at Summer Game Fest 2026](https://www.space.com/entertainment/space-games/these-are-the-7-best-sci-fi-games-i-saw-at-summer-game-fest-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
