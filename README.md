@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch SpaceX launch 3 huge BlueBird direct-to-cell satellites from Florida early on June 17](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-bluebird-8-to-10-direct-to-cell-launch)
-- [India orders temporary ban on Telegram over exam fraud concerns](https://techcrunch.com/2026/06/16/india-temporarily-blocks-access-to-telegram-over-exam-fraud-concerns/)
-- [This startup’s super metals could soon be in military drones, luxury watches, and chef’s knives](https://techcrunch.com/2026/06/16/this-startups-super-metals-could-soon-be-in-military-drones-luxury-watches-and-chefs-knives/)
-- [SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO](https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/)
-- [Threads adds new personalization and community features as it reaches 500M monthly users](https://techcrunch.com/2026/06/16/threads-adds-new-personalization-and-community-features-as-it-reaches-500m-monthly-users/)
+- [Mobileye’s US robotaxi launch will put it on both sides of the AV business](https://techcrunch.com/2026/06/16/mobileye-us-robotaxi-launch-will-put-it-on-both-sides-of-the-av-business/)
+- [Rivian cuts hundreds of workers after R2 deliveries start](https://techcrunch.com/2026/06/16/rivian-cuts-hundreds-of-workers-after-r2-deliveries-start/)
+- [Snap finally debuts its long-awaited AR glasses, Specs, and, oof, they aren’t cheap](https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/)
+- [Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds](https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/)
+- [The Nikon Z fc is our choice as the best budget camera — this retro-inspired beauty is at its best price of the year in this early Amazon Prime Day deal](https://www.space.com/technology/the-nikon-z-fc-is-our-choice-as-the-best-budget-camera-this-retro-inspired-beauty-is-at-its-best-price-of-the-year-in-this-early-amazon-prime-day-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
