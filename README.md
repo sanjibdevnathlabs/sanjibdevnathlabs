@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mobileye’s US robotaxi launch will put it on both sides of the AV business](https://techcrunch.com/2026/06/16/mobileye-us-robotaxi-launch-will-put-it-on-both-sides-of-the-av-business/)
-- [Rivian cuts hundreds of workers after R2 deliveries start](https://techcrunch.com/2026/06/16/rivian-cuts-hundreds-of-workers-after-r2-deliveries-start/)
-- [Snap finally debuts its long-awaited AR glasses, Specs, and, oof, they aren’t cheap](https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/)
-- [Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds](https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/)
-- [The Nikon Z fc is our choice as the best budget camera — this retro-inspired beauty is at its best price of the year in this early Amazon Prime Day deal](https://www.space.com/technology/the-nikon-z-fc-is-our-choice-as-the-best-budget-camera-this-retro-inspired-beauty-is-at-its-best-price-of-the-year-in-this-early-amazon-prime-day-deal)
+- [SpaceX valuation balloons to $2.6T, briefly passes Amazon](https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/)
+- [Watch European rocket launch record-breaking mission for Amazon on June 17](https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-record-breaking-launch-amazon-leo-le-03)
+- [Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end](https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/)
+- [Bug in FIFA World Cup internal system gave anyone ability to modify TV stream](https://techcrunch.com/2026/06/16/bug-in-fifa-world-cup-internal-system-gave-anyone-ability-to-modify-tv-stream/)
+- [Android 17 launches with new multitasking tools as Google expands Gemini features](https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
