@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Could surveillance pricing work in consumers&#39; favor?](https://www.youtube.com/watch?v=oz1iDMr5INo)
+- [Certification Questions | LIVE AMA | Summer of CCNA | 06/18/2026](https://www.youtube.com/watch?v=EbRLfRZoejM)
 - [Is it Possible to Block Childrens&#39; Access to Social Media? - Computerphile](https://www.youtube.com/watch?v=2jJeSgO_MGo)
 - [One man just liberated Fable... and now it’s illegal](https://www.youtube.com/watch?v=ey_GaPdC9zk)
 - [From QA to DevOps - Your Hidden Advantage](https://www.youtube.com/shorts/aeHOE-s-k8g)
-- [Should you use a VPN in 2026?](https://www.youtube.com/watch?v=axfNxZ1R6C4)
-- [TCP b : Additive Increase Multiplicative Decrease &amp; &#39;Slow Start&#39; - Computerphile](https://www.youtube.com/watch?v=nKVML4YaBqs)
 <!-- YOUTUBE:END -->
 
 ---
