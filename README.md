@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA discussing bold mission to boost Swift space telescope today: Listen live](https://www.space.com/space-exploration/missions/nasa-discussing-bold-mission-to-boost-swift-space-telescope-today-listen-live)
 - [Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests](https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/)
 - [Apple plans to change its Hide My Email privacy feature that could make it less effective](https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/)
 - [NASA X-ray spacecraft catches jet erupting from 1st supermassive black hole imaged by humanity](https://www.space.com/astronomy/black-holes/nasa-x-ray-spacecraft-catches-jet-erupting-from-1st-supermassive-black-hole-imaged-by-humanity)
 - [SpaceX valuation balloons to $2.6T, briefly passes Amazon](https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/)
-- [Watch European rocket launch record-breaking mission for Amazon on June 17](https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-record-breaking-launch-amazon-leo-le-03)
 <!-- BLOG-POST-LIST:END -->
 
 ---
