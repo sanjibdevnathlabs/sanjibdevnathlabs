@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI is hurting Apple in more ways than one: it may force iPhone price increases](https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/)
 - [Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI](https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/)
 - [One of these twin stars has likely been snacking on exoplanets](https://www.space.com/astronomy/stars/one-of-these-twin-stars-has-likely-been-snacking-on-exoplanets)
 - [Roelof Botha joins SpaceX’s board of directors](https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/)
 - [After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive](https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/)
-- [NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI](https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
