@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone](https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/)
-- [You can get my favorite image-stabilized binoculars for their cheapest ever price in this incredible anti-Prime Day deal](https://www.space.com/stargazing/skywatching-kit/fujinon-techno-stabi-1640-binoculars-at-their-cheapest-ever-price-in-this-incredible-anti-prime-day-deal)
-- [Sun-like star may have swallowed an exoplanet with help from a mysterious companion: &#39;You are what you eat, right?&#39;](https://www.space.com/astronomy/stars/sun-like-star-may-have-swallowed-an-exoplanet-with-help-from-a-mysterious-companion-you-are-what-you-eat-right)
-- [Apple opens up App Store to new competition in Brazil](https://techcrunch.com/2026/06/18/apple-opens-up-app-store-to-new-competition-in-brazil/)
-- [MapTap, a daily geography game, is my new Wordle](https://techcrunch.com/2026/06/18/maptap-a-daily-geography-game-is-my-new-wordle/)
+- [Almost half of U.S. singles feel negatively about AI in dating, Match says](https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/)
+- [Amazon hopes to challenge Nvidia more directly by selling its AI chips](https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/)
+- [Rivian owners file lawsuit alleging false promises on self-driving features](https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/)
+- [Mivo’s new app takes a mindful approach to managing screen time](https://techcrunch.com/2026/06/18/mivos-new-app-takes-a-mindful-approach-to-managing-screen-time/)
+- [Jared Leto&#39;s unreal Skeletor transformation for &#39;Masters of the Universe&#39; only took &#39;15 minutes&#39; &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/jared-letos-unreal-skeletor-transformation-for-masters-of-the-universe-only-took-15-minutes-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
