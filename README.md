@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Cisco Just Showed the Future of Networking](https://www.youtube.com/shorts/l1L0OTlI00k)
 - [Certification Questions | LIVE AMA | Summer of CCNA | 06/18/2026](https://www.youtube.com/watch?v=IQX3MIzIBBA)
 - [I read every major CS paper of the last 100 years...](https://www.youtube.com/watch?v=ML3q7Ok4hJg)
 - [Could surveillance pricing work in consumers&#39; favor?](https://www.youtube.com/watch?v=oz1iDMr5INo)
 - [Certification Questions | LIVE AMA | Summer of CCNA | 06/18/2026](https://www.youtube.com/watch?v=EbRLfRZoejM)
-- [Is it Possible to Block Childrens&#39; Access to Social Media? - Computerphile](https://www.youtube.com/watch?v=2jJeSgO_MGo)
 <!-- YOUTUBE:END -->
 
 ---
