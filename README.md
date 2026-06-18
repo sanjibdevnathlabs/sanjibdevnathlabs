@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Adobe adds its AI assistant to Premiere, Illustrator and InDesign](https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/)
-- [&#39;It&#39;s quite a bit more than we expected&#39;: Satellite reveals immense scale of GPS signal tampering](https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering)
-- [Pixi’s new iOS app turns text messages into interactive AR experiences](https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/)
-- [Astronomers solve the mystery of black holes&#39; delayed cosmic &#39;burps&#39;](https://www.space.com/astronomy/black-holes/astronomers-solve-the-mystery-of-black-holes-delayed-cosmic-burps)
-- [Waymo recalls nearly 4,000 robotaxis to stop them driving into highway construction zones](https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/)
+- [‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone](https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/)
+- [You can get my favorite image-stabilized binoculars for their cheapest ever price in this incredible anti-Prime Day deal](https://www.space.com/stargazing/skywatching-kit/fujinon-techno-stabi-1640-binoculars-at-their-cheapest-ever-price-in-this-incredible-anti-prime-day-deal)
+- [Sun-like star may have swallowed an exoplanet with help from a mysterious companion: &#39;You are what you eat, right?&#39;](https://www.space.com/astronomy/stars/sun-like-star-may-have-swallowed-an-exoplanet-with-help-from-a-mysterious-companion-you-are-what-you-eat-right)
+- [Apple opens up App Store to new competition in Brazil](https://techcrunch.com/2026/06/18/apple-opens-up-app-store-to-new-competition-in-brazil/)
+- [MapTap, a daily geography game, is my new Wordle](https://techcrunch.com/2026/06/18/maptap-a-daily-geography-game-is-my-new-wordle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
