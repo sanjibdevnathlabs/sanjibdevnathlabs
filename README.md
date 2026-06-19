@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The CEO of Allbirds’ new AI biz has a plan, but no employees](https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/)
-- [Want to start stargazing? Here&#39;s why June is the perfect time for newcomers](https://www.space.com/stargazing/want-to-start-stargazing-heres-why-june-is-the-perfect-time-for-newcomers)
-- [Juicy new details emerge about an asteroid NASA&#39;s Lucy spacecraft flew by last year](https://www.space.com/astronomy/asteroids/juicy-new-details-emerge-about-an-asteroid-nasas-lucy-spacecraft-flew-by-last-year)
-- [The US says ASML’s top chip tool may be in China. ASML says it isn’t](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/)
-- [Telegram ban in India sparks a rush to VPNs, rival apps](https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/)
+- [Is the US government’s Anthropic ban accidentally helping the brand?](https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/)
+- [&#39;No one thought it was going to be possible.&#39; A space telescope is falling out of space. This is NASA&#39;s daring plan to save it.](https://www.space.com/space-exploration/launches-spacecraft/no-one-thought-it-was-going-to-be-possible-a-space-telescope-is-falling-out-of-space-this-is-nasas-daring-plan-to-save-it)
+- [Billionaire Ambani wants AI in every call, app, and home](https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/)
+- [Menstruation in space will be studied for 1st time with &#39;Operation Period&#39;](https://www.space.com/space-exploration/human-spaceflight/menstruation-in-space-will-be-studied-for-1st-time-with-operation-period)
+- [Annie Easley, a hero of NASA | Space photo of the day for June 19, 2026](https://www.space.com/space-exploration/private-spaceflight/annie-easley-a-hero-of-nasa-space-photo-of-the-day-for-june-19-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
