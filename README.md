@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The most unpredictable meteor shower of the year peaks next week. Here&#39;s what to expect](https://www.space.com/stargazing/meteor-showers/the-most-unpredictable-meteor-shower-of-the-year-peaks-next-week-heres-what-to-expect)
+- [Every fusion startup that has raised over $100M](https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/)
 - [Is the US government’s Anthropic ban accidentally helping the brand?](https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/)
 - [&#39;No one thought it was going to be possible.&#39; A space telescope is falling out of space. This is NASA&#39;s daring plan to save it.](https://www.space.com/space-exploration/launches-spacecraft/no-one-thought-it-was-going-to-be-possible-a-space-telescope-is-falling-out-of-space-this-is-nasas-daring-plan-to-save-it)
 - [Billionaire Ambani wants AI in every call, app, and home](https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/)
-- [Menstruation in space will be studied for 1st time with &#39;Operation Period&#39;](https://www.space.com/space-exploration/human-spaceflight/menstruation-in-space-will-be-studied-for-1st-time-with-operation-period)
-- [Annie Easley, a hero of NASA | Space photo of the day for June 19, 2026](https://www.space.com/space-exploration/private-spaceflight/annie-easley-a-hero-of-nasa-space-photo-of-the-day-for-june-19-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
