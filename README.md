@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The CEO of Allbirds’ new AI biz has a plan, but no employees](https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/)
+- [Want to start stargazing? Here&#39;s why June is the perfect time for newcomers](https://www.space.com/stargazing/want-to-start-stargazing-heres-why-june-is-the-perfect-time-for-newcomers)
+- [Juicy new details emerge about an asteroid NASA&#39;s Lucy spacecraft flew by last year](https://www.space.com/astronomy/asteroids/juicy-new-details-emerge-about-an-asteroid-nasas-lucy-spacecraft-flew-by-last-year)
 - [The US says ASML’s top chip tool may be in China. ASML says it isn’t](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/)
 - [Telegram ban in India sparks a rush to VPNs, rival apps](https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/)
-- [Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M](https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/)
-- [AI inference startup Baseten reportedly raising $1.5B months after its last mega-round](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/)
-- [Scientists trace high-energy ghost particle to the &#39;Shadow Blaster&#39; galaxy](https://www.space.com/science/particle-physics/scientists-trace-high-energy-ghost-particle-to-the-shadow-blaster-galaxy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
