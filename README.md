@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [He made your free video player run smoothly. Now he’s doing that for robots.](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/)
 - [Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/)
 - [Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters](https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/)
 - [Aura’s impressive e-ink photo frame doesn’t even look digital](https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/)
 - [A private company will build and launch NASA&#39;s next Mars orbiter in 2028 — and it&#39;s not SpaceX](https://www.space.com/space-exploration/missions/a-private-company-will-build-and-launch-nasas-next-mars-orbiter-in-2028-and-its-not-spacex)
-- [&#39;This is not like life that we’ve experienced&#39; &#39;Star City&#39; cast on struggling to relate to the brutality of Soviet existence in Apple TV&#39;s For All Mankind&#39; spin-off](https://www.space.com/entertainment/space-movies-shows/this-is-not-like-life-that-weve-experienced-star-city-cast-on-struggling-to-relate-to-the-brutality-of-soviet-existence-in-apple-tvs-for-all-mankind-spin-off)
 <!-- BLOG-POST-LIST:END -->
 
 ---
