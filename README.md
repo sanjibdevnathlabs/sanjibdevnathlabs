@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Founders Fund’s outlier bet on humanely killed fish](https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/)
 - [Nobel laureate John Jumper is leaving DeepMind for rival Anthropic](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/)
 - [This Week In Space podcast: Episode 215 — Disclosure Day](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-215-disclosure-day)
 - [Every new iOS 27 feature that’s worth knowing about](https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/)
 - [Supermassive black holes may be surrounded by dark matter clusters, new &#39;echo map&#39; technique suggests](https://www.space.com/astronomy/dark-universe/supermassive-black-holes-may-be-surrounded-by-dark-matter-clusters-new-echo-map-technique-suggests)
-- [Do we need a lunar building code to build moon bases safely?](https://www.space.com/space-exploration/artemis/do-we-need-a-lunar-building-code-to-build-moon-bases-safely)
 <!-- BLOG-POST-LIST:END -->
 
 ---
