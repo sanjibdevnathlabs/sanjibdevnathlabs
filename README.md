@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A mysterious gamma-ray stream comes from the Milky Way&#39;s center. Could dark matter have something to do with it?](https://www.space.com/astronomy/dark-universe/a-mysterious-gamma-ray-stream-comes-from-the-milky-ways-center-could-dark-matter-have-something-to-do-with-it)
 - [Happy Summer Solstice! Today marks the longest day of the year for the Northern Hemisphere](https://www.space.com/stargazing/happy-summer-solstice-today-marks-the-longest-day-of-the-year-for-the-northern-hemisphere)
 - [Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/)
 - [In the Weights is your new AI-centric vanity search](https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/)
 - [Founders Fund’s outlier bet on humanely killed fish](https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/)
-- [Nobel laureate John Jumper is leaving DeepMind for rival Anthropic](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
