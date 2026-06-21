@@ -148,7 +148,7 @@ I'm a software developer passionate about designing and building applications wi
 <!-- BLOG-POST-LIST:START -->
 - [Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/)
 - [In the Weights is your new AI-centric vanity search](https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/)
-- [Founders Fund’s outlier bet on humanely killed fish](https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/)
+- [This startup built a fish-killing robot and chefs love the results](https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/)
 - [Nobel laureate John Jumper is leaving DeepMind for rival Anthropic](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/)
 - [This Week In Space podcast: Episode 215 — Disclosure Day](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-215-disclosure-day)
 <!-- BLOG-POST-LIST:END -->
