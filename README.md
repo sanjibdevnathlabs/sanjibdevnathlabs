@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Thank you to our awesome YouTube subscribers](https://www.youtube.com/watch?v=-kGY_CAh1NE)
 - [shadow AI is terrifying](https://www.youtube.com/shorts/tgmEHQv7ozQ)
 - [The most trusted code on Earth is being rewritten in Rust](https://www.youtube.com/watch?v=Sntj4HmuykI)
 - [Certification Questions | LIVE AMA | Summer of CCNA | 06/18/2026](https://www.youtube.com/watch?v=IQX3MIzIBBA)
 - [HTTPS Doesn&#39;t Hide This From Your ISP!!](https://www.youtube.com/shorts/9fA2wAWvhJM)
-- [Cisco Just Showed the Future of Networking](https://www.youtube.com/shorts/l1L0OTlI00k)
 <!-- YOUTUBE:END -->
 
 ---
