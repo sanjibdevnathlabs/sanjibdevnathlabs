@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla pushes back on Autopilot narrative after fatal Texas crash](https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/)
+- [Shareholders sue Uber’s board over sexual assaults, other incidents](https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/)
+- [SpaceX launching its 1st &#39;Starfall&#39; reentry capsule early on June 23: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-its-1st-starfall-reentry-capsule-early-on-june-23-watch-it-live)
 - [This ball of stars named Terzan 5 may be one of the Milky Way&#39;s original building blocks](https://www.space.com/astronomy/stars/this-ball-of-stars-named-terzan-5-may-be-one-of-the-milky-ways-original-building-blocks)
 - [The AI world is getting ‘loopy’](https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/)
-- [Microsoft and Chevron plan one of the largest gas-powered data center projects in US](https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/)
-- [AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal](https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/)
-- [Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem](https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
