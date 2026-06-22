@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Project Hail Mary&#39; is streaming now on MGM+, and you can watch for just $0.99 for a limited time](https://www.space.com/entertainment/space-movies-shows/project-hail-mary-is-streaming-now-on-mgm-and-you-can-watch-for-just-usd0-99-for-a-limited-time)
-- [A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak](https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/)
-- [Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal](https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/)
-- [Anthropic says Claude may want to see your ID](https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/)
-- [Dark energy is still accelerating the expansion of the universe, and astronomers are relieved. &#39;Thankfully, we have averted this crisis&#39;](https://www.space.com/astronomy/dark-universe/dark-energy-is-still-accelerating-the-expansion-of-the-universe-and-astronomers-are-relieved-thankfully-we-have-averted-this-crisis)
+- [This ball of stars named Terzan 5 may be one of the Milky Way&#39;s original building blocks](https://www.space.com/astronomy/stars/this-ball-of-stars-named-terzan-5-may-be-one-of-the-milky-ways-original-building-blocks)
+- [The AI world is getting ‘loopy’](https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/)
+- [Microsoft and Chevron plan one of the largest gas-powered data center projects in US](https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/)
+- [AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal](https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/)
+- [Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem](https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
