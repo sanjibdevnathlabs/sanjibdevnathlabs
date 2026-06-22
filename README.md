@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Let&#39;s not fool the public&#39;: Why moon art should be more realistic in the Artemis age](https://www.space.com/astronomy/moon/lets-not-fool-the-public-why-moon-art-should-be-more-realistic-in-the-artemis-age)
-- [Our expert thinks this pocket-friendly drone is brilliant for beginners, and it&#39;s $30 off ahead of Amazon Prime Day](https://www.space.com/stargazing/skywatching-kit/our-expert-thinks-this-pocket-friendly-drone-is-brilliant-for-beginners-and-its-30-dollars-off-ahead-of-amazon-prime-day)
-- [Instagram looks to take on streaming services with longer-form, episodic and live formats for its TV app](https://techcrunch.com/2026/06/22/instagram-looks-to-take-on-streaming-services-with-longer-form-episodic-and-live-formats-for-its-tv-app/)
-- [The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26](https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/)
-- [Our sun is destined to &#39;kick and spit&#39; its way across the solar system when it dies](https://www.space.com/astronomy/stars/the-dying-sun-will-go-out-kicking-before-leaving-behind-a-white-dwarf-dead-star)
+- [&#39;Project Hail Mary&#39; is streaming now on MGM+, and you can watch for just $0.99 for a limited time](https://www.space.com/entertainment/space-movies-shows/project-hail-mary-is-streaming-now-on-mgm-and-you-can-watch-for-just-usd0-99-for-a-limited-time)
+- [A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak](https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/)
+- [Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal](https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/)
+- [Anthropic says Claude may want to see your ID](https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/)
+- [Dark energy is still accelerating the expansion of the universe, and astronomers are relieved. &#39;Thankfully, we have averted this crisis&#39;](https://www.space.com/astronomy/dark-universe/dark-energy-is-still-accelerating-the-expansion-of-the-universe-and-astronomers-are-relieved-thankfully-we-have-averted-this-crisis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
