@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Midjourney&#39;s next product wants to get inside you...](https://www.youtube.com/watch?v=a2i9h2ip-nY)
 - [User-Developed Innovations in the Substance Use Disorder Space](https://www.youtube.com/watch?v=awp3nAyCtNI)
 - [Perspective on What It Takes to Be Successful as an Entrepreneur](https://www.youtube.com/watch?v=YWZr4lr1jR0)
 - [Invistics Case Study: Drug Diversion](https://www.youtube.com/watch?v=f93SJz6yGLY)
 - [Thank you to our awesome YouTube subscribers](https://www.youtube.com/watch?v=-kGY_CAh1NE)
-- [shadow AI is terrifying](https://www.youtube.com/shorts/tgmEHQv7ozQ)
 <!-- YOUTUBE:END -->
 
 ---
