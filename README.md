@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA wants to dump the ISS in the sea. Experts say the plan &#39;raises serious concerns for ocean health&#39;](https://www.space.com/space-exploration/international-space-station/nasa-wants-to-dump-the-iss-in-the-sea-experts-say-the-plan-raises-serious-concerns-for-ocean-health)
-- [The Unistellar Odyssey Pro helped me feel in touch with the universe and it&#39;s now 15% off](https://www.space.com/stargazing/skywatching-kit/the-unistellar-odyssey-pro-helped-me-feel-in-touch-with-the-universe-and-its-now-15-percent-off)
-- [Password manager maker LastPass says hackers stole customer support case data during Klue breach](https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/)
-- [HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment](https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/)
-- [&#39;Rick and Morty&#39; cast talk vocal health, hot viscous liquids, and their favorite season 9 moments &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/rick-and-morty-cast-talk-vocal-health-hot-viscous-liquids-and-their-favorite-season-9-moments-interview)
+- [These anti-Prime deals are giving Amazon a good run for their money](https://www.space.com/stargazing/skywatching-kit/these-anti-prime-deals-are-giving-amazon-a-good-run-for-their-money)
+- [Rocket Lab launches US Space Force mission with less than 17 hours&#39; notice — a new record](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-us-space-force-mission-with-less-than-17-hours-notice-a-new-record)
+- [This might be your last chance to pick up a retired Lego Star Wars set before it flies off forever, and it&#39;s under $100 on Amazon for Prime Day](https://www.space.com/entertainment/space-toys-lego/this-might-be-your-last-chance-to-pick-up-a-retired-lego-star-wars-set-before-it-flies-off-forever-and-its-under-100-dollars-on-amazon-for-prime-day)
+- [Anthropic’s Claude Tag is learning your company, one Slack message at a time](https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/)
+- [A &#39;new&#39; star could finally appear in the night sky this week, thanks to a once-in-a-lifetime explosion](https://www.space.com/stargazing/a-new-star-could-finally-appear-in-the-night-sky-this-week-thanks-to-a-once-in-a-lifetime-explosion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
