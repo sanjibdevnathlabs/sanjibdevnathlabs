@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This &#39;improbable&#39; exoplanet system is so wonky because of a weird object within](https://www.space.com/astronomy/exoplanets/this-improbable-exoplanet-system-is-so-wonky-because-of-a-weird-object-within)
+- [This beginner-friendly travel telescope is the reason I turned into a skywatcher](https://www.space.com/stargazing/skywatching-kit/this-beginner-friendly-travel-telescope-is-the-reason-i-turned-into-a-skywatcher)
 - [The running list: major tech layoffs in 2026 where employers cited AI](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
 - [OpenAI launches new initiative to help find and patch open source bugs](https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/)
 - [Tesla pushes back on Autopilot narrative after fatal Texas crash](https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/)
-- [Shareholders sue Uber’s board over sexual assaults, other incidents](https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/)
-- [SpaceX launching its 1st &#39;Starfall&#39; reentry capsule early on June 23: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-its-1st-starfall-reentry-capsule-early-on-june-23-watch-it-live)
 <!-- BLOG-POST-LIST:END -->
 
 ---
