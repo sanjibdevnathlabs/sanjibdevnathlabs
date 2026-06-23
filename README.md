@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [User-Developed Innovations in the Substance Use Disorder Space](https://www.youtube.com/watch?v=awp3nAyCtNI)
+- [Perspective on What It Takes to Be Successful as an Entrepreneur](https://www.youtube.com/watch?v=YWZr4lr1jR0)
+- [Invistics Case Study: Drug Diversion](https://www.youtube.com/watch?v=f93SJz6yGLY)
 - [Thank you to our awesome YouTube subscribers](https://www.youtube.com/watch?v=-kGY_CAh1NE)
 - [shadow AI is terrifying](https://www.youtube.com/shorts/tgmEHQv7ozQ)
-- [The most trusted code on Earth is being rewritten in Rust](https://www.youtube.com/watch?v=Sntj4HmuykI)
-- [Certification Questions | LIVE AMA | Summer of CCNA | 06/18/2026](https://www.youtube.com/watch?v=IQX3MIzIBBA)
-- [HTTPS Doesn&#39;t Hide This From Your ISP!!](https://www.youtube.com/shorts/9fA2wAWvhJM)
 <!-- YOUTUBE:END -->
 
 ---
