@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates](https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/)
-- [Searching for alien life: New model could help scientists home in on habitable exoplanets](https://www.space.com/space-exploration/search-for-life/searching-for-alien-life-new-model-could-help-scientists-home-in-on-habitable-exoplanets)
-- [This &#39;improbable&#39; exoplanet system is so wonky because of a weird object within](https://www.space.com/astronomy/exoplanets/this-improbable-exoplanet-system-is-so-wonky-because-of-a-weird-object-within)
-- [This beginner-friendly travel telescope is the reason I turned into a skywatcher](https://www.space.com/stargazing/skywatching-kit/this-beginner-friendly-travel-telescope-is-the-reason-i-turned-into-a-skywatcher)
-- [The running list: major tech layoffs in 2026 where employers cited AI](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
+- [NASA wants to dump the ISS in the sea. Experts say the plan &#39;raises serious concerns for ocean health&#39;](https://www.space.com/space-exploration/international-space-station/nasa-wants-to-dump-the-iss-in-the-sea-experts-say-the-plan-raises-serious-concerns-for-ocean-health)
+- [The Unistellar Odyssey Pro helped me feel in touch with the universe and it&#39;s now 15% off](https://www.space.com/stargazing/skywatching-kit/the-unistellar-odyssey-pro-helped-me-feel-in-touch-with-the-universe-and-its-now-15-percent-off)
+- [Password manager maker LastPass says hackers stole customer support case data during Klue breach](https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/)
+- [HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment](https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/)
+- [&#39;Rick and Morty&#39; cast talk vocal health, hot viscous liquids, and their favorite season 9 moments &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/rick-and-morty-cast-talk-vocal-health-hot-viscous-liquids-and-their-favorite-season-9-moments-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
