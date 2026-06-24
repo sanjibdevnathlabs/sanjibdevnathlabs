@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Companies are scrambling to stop employees from maxing out AI budgets with small tasks](https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/)
+- [&#39;50% superhero and 50% noir, but 100% totally new&#39;: &#39;Spider-Noir&#39; composers  on injecting retro style into the superhero multiverse &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/50-percent-superhero-and-50-percent-noir-but-100-percent-totally-new-spider-noir-composers-on-injecting-retro-style-into-the-superhero-multiverse-interview)
+- [Here’s why Slate changed the battery in its cheap EV truck](https://techcrunch.com/2026/06/24/heres-why-slate-changed-the-battery-in-its-cheap-ev-truck/)
 - [Did NASA just find evidence of ancient life on Mars? Perseverance rover spots complex carbon in Red Planet rocks](https://www.space.com/astronomy/mars/did-nasa-just-find-evidence-of-ancient-life-on-mars-perseverance-rover-spots-complex-carbon-in-red-planet-rocks)
 - [Facebook rolls out an AI companion app for creators](https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/)
-- [Deezer says its new feature lets fans remix songs with artist consent](https://techcrunch.com/2026/06/24/deezer-says-its-new-feature-lets-fans-remix-songs-with-artist-consent/)
-- [SpaceX launching 24 Starlink satellites from California tonight: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-17-45-launch-ocisly)
-- [Launch your sci-fi binge with these top streaming deals I found during Prime Day](https://www.space.com/entertainment/launch-your-sci-fi-binge-with-these-top-streaming-deals-i-found-during-prime-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
