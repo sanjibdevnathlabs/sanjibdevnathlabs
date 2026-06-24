@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ESA chief calls for greater European space autonomy as trust in US partnership erodes](https://www.space.com/space-exploration/esa-chief-calls-for-greater-european-space-autonomy-as-trust-in-us-partnership-erodes)
-- [It&#39;s a crime these Lego Star Wars sets are being retired but you can save big before they go](https://www.space.com/entertainment/space-toys-lego/its-a-crime-these-lego-star-wars-sets-are-being-retired-but-you-can-save-big-before-they-go)
-- [Slate Auto’s radically simple electric truck starts at $24,950](https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/)
-- [&#39;Everybody wanted to be the first&#39;: Apollo astronauts were more competitive, Artemis 2 pilot says](https://www.space.com/space-exploration/artemis/everybody-wanted-to-be-the-first-apollo-astronauts-were-more-competitive-artemis-2-pilot-says)
-- [Hubble Space Telescope images galaxy scientists thought was impossible to find](https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-images-galaxy-scientists-thought-was-impossible-to-find)
+- [NASA sent a FIFA World Cup 2026 ball to the ISS so astronauts can test their footwork in zero gravity &lpar;video&rpar;](https://www.space.com/space-exploration/nasa-sent-a-fifa-world-cup-2026-ball-to-the-iss-so-astronauts-can-test-their-footwork-in-zero-gravity-video)
+- [Zoox upgrades its robotaxi as it prepares for commercial service](https://techcrunch.com/2026/06/24/zoox-upgrades-its-robotaxi-as-it-prepares-for-commercial-service/)
+- [This new tracking label could help solve cargo theft](https://techcrunch.com/2026/06/24/this-new-tracking-label-could-help-solve-cargo-theft/)
+- [As &#39;Avatar: Fire &amp; Ash&#39; hits Disney+, we look at 3 of the weirdest alien creatures in the &#39;Avatar&#39; movies](https://www.space.com/entertainment/space-movies-shows/3-of-the-weirdest-alien-creatures-in-the-avatar-movies)
+- [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
