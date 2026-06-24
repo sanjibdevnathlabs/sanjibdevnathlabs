@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ESA chief calls for greater European space autonomy as trust in US partnership erodes](https://www.space.com/space-exploration/esa-chief-calls-for-greater-european-space-autonomy-as-trust-in-us-partnership-erodes)
+- [It&#39;s a crime these Lego Star Wars sets are being retired but you can save big before they go](https://www.space.com/entertainment/space-toys-lego/its-a-crime-these-lego-star-wars-sets-are-being-retired-but-you-can-save-big-before-they-go)
+- [Slate Auto’s radically simple electric truck starts at $24,950](https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/)
+- [&#39;Everybody wanted to be the first&#39;: Apollo astronauts were more competitive, Artemis 2 pilot says](https://www.space.com/space-exploration/artemis/everybody-wanted-to-be-the-first-apollo-astronauts-were-more-competitive-artemis-2-pilot-says)
 - [Hubble Space Telescope images galaxy scientists thought was impossible to find](https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-images-galaxy-scientists-thought-was-impossible-to-find)
-- [How to invest when everything is moving too fast](https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/)
-- [Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India](https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/)
-- [India’s MoEngage bets that the future of marketing is millions of AI agents](https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/)
-- [Superhuman acquires AI detection startup GPTZero](https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
