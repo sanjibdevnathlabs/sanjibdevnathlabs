@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe is pushing back on Washington’s chip war](https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/)
 - [Former Infosys chief has a new startup that wants to challenge the IT services world](https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/)
 - [Elon suffers another day short of trillionaire status](https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/)
 - [Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood](https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/)
 - [NASA&#39;s aging infrastructure can&#39;t handle Artemis launches without $1 billion in upgrades, watchdog warns](https://www.space.com/space-exploration/artemis/nasas-aging-infrastructure-cant-handle-artemis-launches-without-usd1-billion-in-upgrades-watchdog-warns)
-- [AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient](https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
