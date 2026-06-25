@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Pool Testing Video 4 &lpar;No Audio&rpar;](https://www.youtube.com/watch?v=Fo3YAFOmzn4)
-- [Pool Testing Video 1 &lpar;No Audio&rpar;](https://www.youtube.com/watch?v=h_KGSjwfqFc)
-- [Pool Testing Video 5 &lpar;No Audio&rpar;](https://www.youtube.com/watch?v=XK95YfKnV-M)
-- [Pool Testing Video 2 &lpar;No Audio&rpar;](https://www.youtube.com/watch?v=avzdqL0-FsY)
-- [River Testing Video](https://www.youtube.com/watch?v=DaTS_aiyxDs)
+- [shadow AI is terrifying](https://www.youtube.com/shorts/tgmEHQv7ozQ)
+- [Certification Questions | LIVE AMA | Summer of CCNA | 06/18/2026](https://www.youtube.com/watch?v=IQX3MIzIBBA)
+- [HTTPS Doesn&#39;t Hide This From Your ISP!!](https://www.youtube.com/shorts/9fA2wAWvhJM)
+- [Cisco Just Showed the Future of Networking](https://www.youtube.com/shorts/l1L0OTlI00k)
+- [Certification Questions | LIVE AMA | Summer of CCNA | 06/18/2026](https://www.youtube.com/watch?v=EbRLfRZoejM)
 <!-- YOUTUBE:END -->
 
 ---
