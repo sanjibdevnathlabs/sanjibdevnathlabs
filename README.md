@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cellebrite said it cut off Russia, but Russia used is tools anyway](https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/)
+- [We praised this telescope&#39;s &#39;legendary performance,&#39; and the whole range is even cheaper for Prime Day](https://www.space.com/stargazing/skywatching-kit/we-praised-this-telescopes-legendary-performance-and-the-whole-range-is-even-cheaper-for-prime-day)
+- [3 billion years old! This Australian crater is the oldest known asteroid impact site on Earth](https://www.space.com/astronomy/asteroids/3-billion-years-old-this-australian-crater-is-the-oldest-known-asteroid-impact-site-on-earth)
+- [I regret missing Project Hail Mary on the big screen but I&#39;m not skipping this cheapest-ever UK Prime Day Lego deal](https://www.space.com/entertainment/space-toys-lego/i-regret-missing-project-hail-mary-on-the-big-screen-but-im-not-skipping-this-cheapest-ever-uk-prime-day-lego-deal)
 - [My nephew still uses this kids&#39; star projector every night — get it for just $15 at Amazon on Prime Day](https://www.space.com/stargazing/skywatching-kit/my-nephew-still-uses-this-kids-star-projector-every-night-get-it-for-just-15-dollars-at-amazon-on-prime-day)
-- [Europe is pushing back on Washington’s chip war](https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/)
-- [Former Infosys chief has a new startup that wants to challenge the IT services world](https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/)
-- [Elon suffers another day short of trillionaire status](https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/)
-- [Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood](https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
