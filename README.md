@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I got a sneak peek at space shuttle Endeavour&#39;s new home in California, and it&#39;s breathtaking &lpar;photos&rpar;](https://www.space.com/space-exploration/human-spaceflight/i-got-a-sneak-peek-at-space-shuttle-endeavours-new-home-and-its-breathtaking)
-- [General Intuition’s $2.3B bet that video games can train AI agents for the real world](https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/)
-- [Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x](https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/)
-- [Hacked Klue says criminals are deleting stolen customer data, but now other hackers are making threats](https://techcrunch.com/2026/06/25/hacked-klue-says-criminals-are-deleting-stolen-customer-data-but-now-other-hackers-are-making-threats/)
-- [Hosting a solar eclipse viewing party? Get money off solar eclipse multipacks this Prime Day](https://www.space.com/stargazing/skywatching-kit/hosting-a-solar-eclipse-viewing-party-get-money-off-solar-eclipse-multipacks-this-prime-day)
+- [Xbox follows Apple with price increases](https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/)
+- [Notion Mail shuts down amid agent takeover](https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/)
+- [Modern sci-fi movie posters usually suck, but Supergirl shows that it doesn&#39;t have to be that way](https://www.space.com/entertainment/space-movies-shows/modern-sci-fi-movie-posters-usually-suck-but-supergirl-shows-that-it-doesnt-have-to-be-that-way)
+- [This Prime Day, save nearly $700 on &#39;a camera of epic proportions&#39;](https://www.space.com/stargazing/skywatching-kit/this-prime-day-save-nearly-usd700-on-a-camera-of-epic-proportions)
+- [James Webb Space Telescope catches 6 galaxies merging into one of the largest galaxies in the universe](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-catches-6-galaxies-merging-into-one-of-the-largest-galaxies-in-the-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
