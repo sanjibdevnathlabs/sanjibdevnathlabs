@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Robotaxis drives miles just to get cleaned and charged; this new startup wants to fix that](https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/)
-- [Early Bird pricing ends tonight for TechCrunch Founder Summit](https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/)
-- [NASA&#39;s canceled Artemis hardware contracts reached $5.9 billion, audit finds](https://www.space.com/space-exploration/artemis/nasa-spent-usd5-9-billion-on-artemis-program-hardware-it-may-never-use)
-- [NASA is paying $30 million for a 1st-of-its-kind rescue mission to the aging Swift telescope before it falls from space. Is it worth it?](https://www.space.com/space-exploration/launches-spacecraft/nasa-is-paying-usd30-million-for-a-1st-of-its-kind-rescue-mission-to-the-aging-swift-telescope-before-it-falls-from-space-is-it-worth-it)
-- [June&#39;s Strawberry Moon is unlike any other full moon. Here&#39;s why](https://www.space.com/stargazing/junes-strawberry-moon-is-unlike-any-other-full-moon-heres-why)
+- [Watch out for the giant scorpion hiding in the summer sky](https://www.space.com/stargazing/constellations/watch-out-for-the-giant-scorpion-hiding-in-the-summer-sky)
+- [Xprize founder says ‘humans behave better when they’re being watched’](https://techcrunch.com/2026/06/26/xprize-founder-says-humans-behave-better-when-theyre-being-watched/)
+- [Watch a &#39;Potentially hazardous asteroid&#39; the size of a skyscraper close in on Earth live online tonight](https://www.space.com/stargazing/watch-a-potentially-hazardous-asteroid-the-size-of-a-skyscraper-close-in-on-earth-live-online-tonight)
+- [Neon green auroras from space will take your breath away | Space photo of the day for June 26, 2026](https://www.space.com/astronomy/earth/neon-green-auroras-from-space-will-take-your-breath-away-space-photo-of-the-day-for-june-26-2026)
+- [Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that](https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
