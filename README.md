@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product](https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/)
+- [Black hole&#39;s &#39;point of no escape&#39; studied with the loudest gravitational waves ever heard](https://www.space.com/astronomy/black-holes/black-holes-point-of-no-escape-studied-with-the-loudest-gravitational-waves-ever-heard)
 - [&#39;Exodus: The Helium Sea&#39; author Peter F. Hamilton talks universe crafting and finishing the story in this second prequel novel for sci-fi RPG &#39;Exodus&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-books/exodus-the-helium-sea-author-peter-f-hamilton-talks-universe-crafting-and-finishing-the-story-in-this-second-prequel-novel-for-sci-fi-rpg-exodus-exclusive)
 - [Novak Djokovic has a new job —  advisor to private equity firm General Atlantic](https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/)
 - [SpaceX&#39;s next Starship breathes fire for 1st time in prelaunch test &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-starship-breathes-fire-for-1st-time-in-prelaunch-test-video)
-- [OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/)
-- [OpenAI poaches Uber India chief to lead its biggest market outside the US](https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
