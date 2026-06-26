@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch out for the giant scorpion hiding in the summer sky](https://www.space.com/stargazing/constellations/watch-out-for-the-giant-scorpion-hiding-in-the-summer-sky)
-- [Xprize founder says ‘humans behave better when they’re being watched’](https://techcrunch.com/2026/06/26/xprize-founder-says-humans-behave-better-when-theyre-being-watched/)
-- [Watch a &#39;Potentially hazardous asteroid&#39; the size of a skyscraper close in on Earth live online tonight](https://www.space.com/stargazing/watch-a-potentially-hazardous-asteroid-the-size-of-a-skyscraper-close-in-on-earth-live-online-tonight)
-- [Neon green auroras from space will take your breath away | Space photo of the day for June 26, 2026](https://www.space.com/astronomy/earth/neon-green-auroras-from-space-will-take-your-breath-away-space-photo-of-the-day-for-june-26-2026)
-- [Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that](https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/)
+- [OpenAI poaches Uber India chief to lead its biggest market outside the U.S.](https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/)
+- [China plans to double the size of its Tiangong space station while the ISS nears its end](https://www.space.com/space-exploration/launches-spacecraft/china-plans-to-double-the-size-of-its-tiangong-space-station-while-the-iss-nears-its-end)
+- [Only a few hours left! This expert-approved, beginner-friendly drone is $60 off for Prime Day](https://www.space.com/technology/drones/only-a-few-hours-left-this-expert-approved-beginner-friendly-drone-is-usd60-off-for-prime-day)
+- [Why everyone from OpenAI to SpaceX is building their own chips &lpar;and turning up the heat on Nvidia&rpar;](https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/)
+- [Russian hackers were behind $2.5 billion hack of Jaguar Land Rover: Report](https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
