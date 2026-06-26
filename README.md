@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [June&#39;s Strawberry Moon is unlike any other full moon. Here&#39;s why](https://www.space.com/stargazing/junes-strawberry-moon-is-unlike-any-other-full-moon-heres-why)
 - [Watch live: Rocket Lab launching &#39;Ten Owl of Ten&#39; mission for Synspective today](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-ten-owl-of-ten-mission-for-synspective-launch)
 - [Turn your room into a galaxy: The best Prime Day deals on star projectors for aspiring astronomers](https://www.space.com/entertainment/space-toys-lego/turn-your-room-into-a-galaxy-the-best-prime-day-deals-on-star-projectors-for-aspiring-astronomers)
 - [The White House is asking OpenAI to slow roll the release of its new model over safety concerns](https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/)
 - [YouTube Shorts are getting even shorter with an update that lets you double the playback speed](https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/)
-- [Two &#39;super-puff&#39; cotton candy exoplanets are the lightest gas giants ever discovered](https://www.space.com/astronomy/exoplanets/two-super-puff-cotton-candy-exoplanets-are-the-lightest-gas-giants-ever-discovered)
 <!-- BLOG-POST-LIST:END -->
 
 ---
