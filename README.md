@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Robotaxis drives miles just to get cleaned and charged; this new startup wants to fix that](https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/)
+- [Early Bird pricing ends tonight for TechCrunch Founder Summit](https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/)
+- [NASA&#39;s canceled Artemis hardware contracts reached $5.9 billion, audit finds](https://www.space.com/space-exploration/artemis/nasa-spent-usd5-9-billion-on-artemis-program-hardware-it-may-never-use)
+- [NASA is paying $30 million for a 1st-of-its-kind rescue mission to the aging Swift telescope before it falls from space. Is it worth it?](https://www.space.com/space-exploration/launches-spacecraft/nasa-is-paying-usd30-million-for-a-1st-of-its-kind-rescue-mission-to-the-aging-swift-telescope-before-it-falls-from-space-is-it-worth-it)
 - [June&#39;s Strawberry Moon is unlike any other full moon. Here&#39;s why](https://www.space.com/stargazing/junes-strawberry-moon-is-unlike-any-other-full-moon-heres-why)
-- [Watch live: Rocket Lab launching &#39;Ten Owl of Ten&#39; mission for Synspective today](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-ten-owl-of-ten-mission-for-synspective-launch)
-- [Turn your room into a galaxy: The best Prime Day deals on star projectors for aspiring astronomers](https://www.space.com/entertainment/space-toys-lego/turn-your-room-into-a-galaxy-the-best-prime-day-deals-on-star-projectors-for-aspiring-astronomers)
-- [The White House is asking OpenAI to slow roll the release of its new model over safety concerns](https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/)
-- [YouTube Shorts are getting even shorter with an update that lets you double the playback speed](https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
