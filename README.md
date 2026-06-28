@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX sends 24 Starlink satellites into Earth orbit on Falcon 9 launch from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-40-b1088-vsfb-ocisly)
+- [TechCrunch Mobility: All eyes on Tesla FSD](https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/)
 - [Why Wall Street thinks US memory maker Micron is the next Nvidia](https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/)
 - [&#39;Superman Returns&#39; at 20: Is it a sequel? Is it a reboot? Two decades on, we&#39;re still not sure](https://www.space.com/entertainment/space-movies-shows/superman-returns-at-20-is-it-a-sequel-is-it-a-reboot-two-decades-on-were-still-not-sure)
 - [Govee’s smart nugget ice maker makes every iced drink feel like a luxury](https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/)
-- [Japanese probe set for super-close flyby on July 5: &#39;We&#39;re going to discover another beast to put in the zoo of asteroids&#39;](https://www.space.com/astronomy/asteroids/japanese-probe-set-for-super-close-flyby-on-july-5-were-going-to-discover-another-beast-to-put-in-the-zoo-of-asteroids)
-- [Watch China&#39;s Tiangong space station cross the moon in stunning amateur footage](https://www.space.com/stargazing/astrophotography/watch-chinas-tiangong-space-station-cross-the-moon-in-stunning-amateur-footage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
