@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX sends 24 Starlink satellites into Earth orbit on Falcon 9 launch from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-40-b1088-vsfb-ocisly)
+- [Ford rehires ‘gray beard’ engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)
+- [Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization](https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/)
+- [SpaceX sends 24 Starlink satellites into Earth orbit on Falcon 9 launch from California &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-40-b1088-vsfb-ocisly)
 - [TechCrunch Mobility: All eyes on Tesla FSD](https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/)
 - [Why Wall Street thinks US memory maker Micron is the next Nvidia](https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/)
-- [&#39;Superman Returns&#39; at 20: Is it a sequel? Is it a reboot? Two decades on, we&#39;re still not sure](https://www.space.com/entertainment/space-movies-shows/superman-returns-at-20-is-it-a-sequel-is-it-a-reboot-two-decades-on-were-still-not-sure)
-- [Govee’s smart nugget ice maker makes every iced drink feel like a luxury](https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
