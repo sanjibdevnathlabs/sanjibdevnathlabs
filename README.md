@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian payments chief thinks AI will be heavily involved in next era of digital payment growth](https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/)
 - [Instagram is testing more ways to customize ‘Your Algorithm’](https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/)
 - [SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/)
 - [&#39;Logan&#39;s Run&#39; at 50: Remembering this disco-age sci-fi classic on its golden anniversary](https://www.space.com/entertainment/space-movies-shows/logans-run-at-50-remembering-this-disco-age-sci-fi-classic-on-its-golden-anniversary)
 - [Apple Vision Pro exec is reportedly leaving for OpenAI](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/)
-- [This Week In Space podcast: Episode 216 — Dark Matter Intelligence](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-216-dark-matter-intelligence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
