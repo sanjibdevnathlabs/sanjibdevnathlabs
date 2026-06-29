@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini’s personalized AI image generation is now free for US users](https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/)
+- [Watch 2 NASA astronauts fix ISS&#39; huge robotic arm during June 30 spacewalk](https://www.space.com/space-exploration/international-space-station/watch-2-nasa-astronauts-fix-iss-huge-robotic-arm-during-june-30-spacewalk)
+- [Watch out, Amazon: The Kobo eReader now has a Goodreads rival](https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/)
+- [&#39;Starseeker: Astroneer Expeditions&#39; takes space exploration in a different &lpar;and friendlier&rpar; direction, and we chatted with System Era&#39;s creative director about it &lpar;interview&rpar;](https://www.space.com/entertainment/space-games/starseeker-astroneer-expeditions-takes-space-exploration-in-a-different-and-friendlier-direction-and-we-chatted-with-system-eras-creative-director-about-it-interview)
 - [Waymo and Uber quietly part ways in Phoenix](https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/)
-- [Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price](https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/)
-- [South Korean tech giants commit over $550B to ease ‘ RAMageddon’](https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/)
-- [NASA to launch rescue mission June 30 to save Swift space telescope from burning up in Earth&#39;s atmosphere](https://www.space.com/space-exploration/launches-spacecraft/nasa-to-launch-ambitious-mission-to-save-a-space-telescope-from-burning-up-in-earths-atmosphere)
-- [Arena, the AI leaderboard everyone uses, is now a $100M business](https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
