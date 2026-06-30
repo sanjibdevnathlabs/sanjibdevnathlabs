@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Titan is actually a very reasonable destination for humans&#39;: Scientists start mapping out crewed mission to huge Saturn moon](https://www.space.com/astronomy/saturn/titan-is-actually-a-very-reasonable-destination-for-humans-scientists-start-mapping-out-crewed-mission-to-huge-saturn-moon)
-- [NASA will announce moon base news today: Watch it live](https://www.space.com/astronomy/moon/nasa-will-announce-moon-base-news-today-watch-it-live)
-- [June&#39;s Strawberry Moon serves up a low-hanging treat for skywatchers worldwide. Here are our favorite photos](https://www.space.com/stargazing/junes-strawberry-moon-serves-up-a-low-hanging-treat-for-skywatchers-worldwide-here-are-our-favorite-photos)
-- [Crypto exchange OKX wants AI agents to hire and pay each other](https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/)
-- [The AI jobs debate just got messier](https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/)
+- [Blue Origin still doesn’t know why its New Glenn rocket blew up last month](https://techcrunch.com/2026/06/30/blue-origin-still-doesnt-know-why-its-new-glenn-rocket-blew-up-last-month/)
+- [Rubin Observatory begins filming the &#39;greatest cosmic movie ever&#39; beginning a new era of astronomy](https://www.space.com/astronomy/rubin-observatory-begins-filming-the-greatest-cosmic-movie-ever-beginning-a-new-era-of-astronomy)
+- [Tesla starts testing Cybercab without pedals or a steering wheel in Austin](https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/)
+- [X now offers an MCP server to make its platform easier for AI tools to use](https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/)
+- [Arcturus could halve the grid’s electrical losses using its nano-infused copper](https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
