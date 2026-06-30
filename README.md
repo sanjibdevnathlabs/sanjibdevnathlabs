@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenClaw is finally available on Android and iOS](https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/)
+- [&#39;PROMISE&#39; me the moon? NASA wants to send spare nuclear-powered Mars rover to the lunar surface](https://www.space.com/astronomy/moon/promise-me-the-moon-nasa-wants-to-send-spare-nuclear-powered-mars-rover-to-the-lunar-surface)
+- [Watch Rocket Lab launch Japanese Earth-observing radar satellite from New Zealand tonight](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-iqps-radar-satellite-grain-goddess-provides)
+- [Blue Origin starts rebuilding launch pad damaged by New Glenn rocket explosion — and it will look very different when it&#39;s done](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-starts-rebuilding-launch-pad-damaged-by-new-glenn-rocket-explosion-and-it-will-look-very-different-when-its-done)
 - [The DeepMind trio who built a poker AI are now making money for quant hedge funds](https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/)
-- [‘Just in time for Canada Day’: Spacewalking astronauts repair space station’s huge Canadarm2](https://www.space.com/space-exploration/international-space-station/just-in-time-for-canada-day-spacewalking-astronauts-repair-space-stations-huge-canadarm2)
-- [Realta Fusion generates electricity directly from a fusion reaction, an apparent first](https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/)
-- [Google introduces a faster, cheaper image generator with Nano Banana 2 Lite](https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/)
-- [Clicks shows off its BlackBerry-inspired phone in a new hands-on video](https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
