@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The DeepMind trio who built a poker AI are now making money for quant hedge funds](https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/)
+- [‘Just in time for Canada Day’: Spacewalking astronauts repair space station’s huge Canadarm2](https://www.space.com/space-exploration/international-space-station/just-in-time-for-canada-day-spacewalking-astronauts-repair-space-stations-huge-canadarm2)
+- [Realta Fusion generates electricity directly from a fusion reaction, an apparent first](https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/)
+- [Google introduces a faster, cheaper image generator with Nano Banana 2 Lite](https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/)
 - [Clicks shows off its BlackBerry-inspired phone in a new hands-on video](https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/)
-- [Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip](https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/)
-- [Anthropic launches Claude Sonnet 5 as a cheaper way to run agents](https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/)
-- [Mars may have once been filled with seas of magma that made the Red Planet habitable](https://www.space.com/astronomy/mars/mars-may-have-once-been-filled-with-seas-of-magma-that-made-the-red-planet-habitable)
-- [Acti puts AI agents directly into your smartphone keyboard](https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
