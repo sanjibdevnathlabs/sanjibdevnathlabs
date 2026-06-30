@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Why AI is like a &lpar;Clever Hans&rpar; Horse - Computerphile](https://www.youtube.com/watch?v=0GQ2RP-25gM)
-- [The CI/CD Strategy War — Which One Actually Wins?](https://www.youtube.com/watch?v=A3pmg8_zPgg)
-- [Pool Testing Video 4 &lpar;No Audio&rpar;](https://www.youtube.com/watch?v=Fo3YAFOmzn4)
-- [Pool Testing Video 1 &lpar;No Audio&rpar;](https://www.youtube.com/watch?v=h_KGSjwfqFc)
-- [Pool Testing Video 5 &lpar;No Audio&rpar;](https://www.youtube.com/watch?v=XK95YfKnV-M)
+- [Blocked Sensor 2 &lpar;no audio&rpar;](https://www.youtube.com/watch?v=K3c_6Wys9xM)
+- [Disturbance &lpar;no audio&rpar;](https://www.youtube.com/watch?v=I8hQiGPJGuc)
+- [Blocked Sensor 3 &lpar;no audio&rpar;](https://www.youtube.com/watch?v=HPbFq8X9yTQ)
+- [Frictionless Spinning &lpar;no audio&rpar;](https://www.youtube.com/watch?v=cG-LAVKJnUU)
+- [Blocked Sensor 1 &lpar;no audio&rpar;](https://www.youtube.com/watch?v=SRc_zVYA5ok)
 <!-- YOUTUBE:END -->
 
 ---
