@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Titan is actually a very reasonable destination for humans&#39;: Scientists start mapping out crewed mission to huge Saturn moon](https://www.space.com/astronomy/saturn/titan-is-actually-a-very-reasonable-destination-for-humans-scientists-start-mapping-out-crewed-mission-to-huge-saturn-moon)
+- [NASA will announce moon base news today: Watch it live](https://www.space.com/astronomy/moon/nasa-will-announce-moon-base-news-today-watch-it-live)
 - [June&#39;s Strawberry Moon serves up a low-hanging treat for skywatchers worldwide. Here are our favorite photos](https://www.space.com/stargazing/junes-strawberry-moon-serves-up-a-low-hanging-treat-for-skywatchers-worldwide-here-are-our-favorite-photos)
 - [Crypto exchange OKX wants AI agents to hire and pay each other](https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/)
 - [The AI jobs debate just got messier](https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/)
-- [Vibe coding platform Base44 launches own model as AI startups seek defensibility](https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/)
-- [&#39;The start of a new era&#39;: Rocket Lab buying satellite-communications company Iridium for $8 billion](https://www.space.com/space-exploration/launches-spacecraft/the-start-of-a-new-era-rocket-lab-buying-satellite-communications-company-iridium-for-usd8-billion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
