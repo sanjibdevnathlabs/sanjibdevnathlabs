@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [June&#39;s Strawberry Moon serves up a low-hanging treat for skywatchers worldwide. Here are our favorite photos](https://www.space.com/stargazing/junes-strawberry-moon-serves-up-a-low-hanging-treat-for-skywatchers-worldwide-here-are-our-favorite-photos)
+- [Crypto exchange OKX wants AI agents to hire and pay each other](https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/)
 - [The AI jobs debate just got messier](https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/)
 - [Vibe coding platform Base44 launches own model as AI startups seek defensibility](https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/)
 - [&#39;The start of a new era&#39;: Rocket Lab buying satellite-communications company Iridium for $8 billion](https://www.space.com/space-exploration/launches-spacecraft/the-start-of-a-new-era-rocket-lab-buying-satellite-communications-company-iridium-for-usd8-billion)
-- [It&#39;s been 25 years since&#39;A.I. Artificial Intelligence&#39;, and we think this was Spielberg at the top of his sci-fi game](https://www.space.com/entertainment/space-movies-shows/its-been-25-years-since-a-i-artificial-intelligence-and-we-think-this-was-spielberg-at-the-top-of-his-sci-fi-game)
-- [Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role](https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
