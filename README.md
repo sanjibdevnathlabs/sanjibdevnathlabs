@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The weird history of the internet...](https://www.youtube.com/watch?v=7B0ydm64cV8)
-- [Want to 100x your value as a software engineer? 💸👇](https://www.youtube.com/shorts/O-vA52SdtFI)
-- [Blocked Sensor 2 &lpar;no audio&rpar;](https://www.youtube.com/watch?v=K3c_6Wys9xM)
-- [Disturbance &lpar;no audio&rpar;](https://www.youtube.com/watch?v=I8hQiGPJGuc)
-- [Blocked Sensor 3 &lpar;no audio&rpar;](https://www.youtube.com/watch?v=HPbFq8X9yTQ)
+- [Dress Rehearsal Rag - Between the Lines Things were Laid Bare](https://www.youtube.com/watch?v=tBKB1uK1yr4)
+- [Limited Slip - The End](https://www.youtube.com/watch?v=v5DNnRpVTbc)
+- [Rob Morris - Your Hope](https://www.youtube.com/watch?v=egdmzrHlH4w)
+- [Sarah Dupuis - New Song in Calculus](https://www.youtube.com/watch?v=2V5OQ781uFY)
+- [kc quilty - Clothes](https://www.youtube.com/watch?v=JsT5j09XwAs)
 <!-- YOUTUBE:END -->
 
 ---
