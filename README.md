@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [In 1776, the solar system only had 6 planets. Now, it has 8. Does it end there?](https://www.space.com/astronomy/solar-system/in-1776-the-solar-system-only-had-6-planets-now-it-has-8-does-it-end-there)
-- [Powerful X-class solar flare triggers radio blackouts across North America](https://www.space.com/stargazing/powerful-x-class-solar-flare-triggers-radio-blackouts-across-north-america)
-- [NASA audit puts Boeing&#39;s Starliner under an even bigger microscope: When will it fly astronauts again?](https://www.space.com/space-exploration/human-spaceflight/nasa-audit-puts-boeings-starliner-under-an-even-bigger-microscope-when-will-it-fly-astronauts-again)
-- [The ‘Father of the Internet’ is finally retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
-- [Trump drops restrictions on Anthropic’s Mythos and Fable models](https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/)
+- [NASA will send a soccer ball to the moon —if the US wins the World Cup](https://www.space.com/astronomy/moon/nasa-will-send-a-soccer-ball-to-the-moon-if-the-us-wins-the-world-cup)
+- [Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off](https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/)
+- [Gemini Spark, Google’s agentic assistant, is now available on Mac](https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/)
+- [Sony to end physical PlayStation game disc production in 2028](https://techcrunch.com/2026/07/01/sony-to-end-physical-playstation-game-discs-in-2028/)
+- [Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026](https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
