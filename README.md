@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The weird history of the internet...](https://www.youtube.com/watch?v=7B0ydm64cV8)
+- [Want to 100x your value as a software engineer? 💸👇](https://www.youtube.com/shorts/O-vA52SdtFI)
 - [Blocked Sensor 2 &lpar;no audio&rpar;](https://www.youtube.com/watch?v=K3c_6Wys9xM)
 - [Disturbance &lpar;no audio&rpar;](https://www.youtube.com/watch?v=I8hQiGPJGuc)
 - [Blocked Sensor 3 &lpar;no audio&rpar;](https://www.youtube.com/watch?v=HPbFq8X9yTQ)
-- [Frictionless Spinning &lpar;no audio&rpar;](https://www.youtube.com/watch?v=cG-LAVKJnUU)
-- [Blocked Sensor 1 &lpar;no audio&rpar;](https://www.youtube.com/watch?v=SRc_zVYA5ok)
 <!-- YOUTUBE:END -->
 
 ---
