@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA will send a soccer ball to the moon —if the US wins the World Cup](https://www.space.com/astronomy/moon/nasa-will-send-a-soccer-ball-to-the-moon-if-the-us-wins-the-world-cup)
-- [Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off](https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/)
-- [Gemini Spark, Google’s agentic assistant, is now available on Mac](https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/)
-- [Sony to end physical PlayStation game disc production in 2028](https://techcrunch.com/2026/07/01/sony-to-end-physical-playstation-game-discs-in-2028/)
-- [Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026](https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/)
+- [Even Honda is pivoting to data centers](https://techcrunch.com/2026/07/01/even-honda-is-pivoting-to-data-centers/)
+- [The growing number of satellites in orbit could soon make telescopes obsolete. &#39;For astronomy, this would obviously be catastrophic&#39;](https://www.space.com/astronomy/the-growing-number-of-satellites-in-orbit-could-soon-make-telescopes-obsolete-for-astronomy-this-would-obviously-be-catastrophic)
+- [Autonomous vehicle hype is back, and Humble Robotics is bringing it to freight](https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/)
+- [Lime raises $167M in IPO after years of teasing a public debut](https://techcrunch.com/2026/07/01/lime-raises-167m-in-ipo-after-years-of-teasing-a-public-debut/)
+- [July&#39;s planetary lineup is changing — and Venus is the last one standing](https://www.space.com/stargazing/julys-planetary-lineup-is-changing-and-venus-is-the-last-one-standing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
