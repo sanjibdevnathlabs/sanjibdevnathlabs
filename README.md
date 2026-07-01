@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Even Honda is pivoting to data centers](https://techcrunch.com/2026/07/01/even-honda-is-pivoting-to-data-centers/)
-- [The growing number of satellites in orbit could soon make telescopes obsolete. &#39;For astronomy, this would obviously be catastrophic&#39;](https://www.space.com/astronomy/the-growing-number-of-satellites-in-orbit-could-soon-make-telescopes-obsolete-for-astronomy-this-would-obviously-be-catastrophic)
-- [Autonomous vehicle hype is back, and Humble Robotics is bringing it to freight](https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/)
-- [Lime raises $167M in IPO after years of teasing a public debut](https://techcrunch.com/2026/07/01/lime-raises-167m-in-ipo-after-years-of-teasing-a-public-debut/)
-- [July&#39;s planetary lineup is changing — and Venus is the last one standing](https://www.space.com/stargazing/julys-planetary-lineup-is-changing-and-venus-is-the-last-one-standing)
+- [Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims](https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/)
+- [&#39;Rocket&#39;s Red Glare&#39;: How NASA&#39;s Artemis 2 moon mission celebrated America&#39;s 250th birthday](https://www.space.com/space-exploration/artemis/rockets-red-glare-how-nasas-artemis-2-moon-mission-celebrated-americas-250th-birthday)
+- [SpaceX has an AI device prototype, and it sure sounds phone-ish](https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/)
+- [Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller](https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/)
+- [Neocloud Together AI raises $800M, leaps to $8.3B valuation](https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
