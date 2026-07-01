@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In 1776, the solar system only had 6 planets. Now, it has 8. Does it end there?](https://www.space.com/astronomy/solar-system/in-1776-the-solar-system-only-had-6-planets-now-it-has-8-does-it-end-there)
+- [Powerful X-class solar flare triggers radio blackouts across North America](https://www.space.com/stargazing/powerful-x-class-solar-flare-triggers-radio-blackouts-across-north-america)
+- [NASA audit puts Boeing&#39;s Starliner under an even bigger microscope: When will it fly astronauts again?](https://www.space.com/space-exploration/human-spaceflight/nasa-audit-puts-boeings-starliner-under-an-even-bigger-microscope-when-will-it-fly-astronauts-again)
 - [The ‘Father of the Internet’ is finally retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
 - [Trump drops restrictions on Anthropic’s Mythos and Fable models](https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/)
-- [Wayve launches $85M employee tender offer at $8.5B valuation](https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/)
-- [Startup Battlefield Australia application closes in days: Apply before July 6](https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/)
-- [OpenClaw is finally available on Android and iOS](https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
