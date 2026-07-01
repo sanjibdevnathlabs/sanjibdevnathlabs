@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The CI/CD Strategy War — Which One Actually Wins?](https://www.youtube.com/watch?v=A3pmg8_zPgg)
-- [From QA to DevOps - Your Hidden Advantage](https://www.youtube.com/shorts/aeHOE-s-k8g)
-- [From Laid-Off Network Engineer to Platform Engineer: Patryk’s DevOps Journey](https://www.youtube.com/watch?v=umXECLiGxEQ)
-- [I&#39;ll Explain 10 Years of Infrastructure Evolution in 25 Minutes &lpar;Console → CLI → IaC → GitOps → AI&rpar;](https://www.youtube.com/watch?v=iTrxsotFNHA)
-- [I Wasted 2 Years Learning DevOps Wrong. Here&#39;s What I&#39;d Do Instead.](https://www.youtube.com/watch?v=9FKqsCVOD_Y)
+- [Blocked Sensor 2 &lpar;no audio&rpar;](https://www.youtube.com/watch?v=K3c_6Wys9xM)
+- [Disturbance &lpar;no audio&rpar;](https://www.youtube.com/watch?v=I8hQiGPJGuc)
+- [Blocked Sensor 3 &lpar;no audio&rpar;](https://www.youtube.com/watch?v=HPbFq8X9yTQ)
+- [Frictionless Spinning &lpar;no audio&rpar;](https://www.youtube.com/watch?v=cG-LAVKJnUU)
+- [Blocked Sensor 1 &lpar;no audio&rpar;](https://www.youtube.com/watch?v=SRc_zVYA5ok)
 <!-- YOUTUBE:END -->
 
 ---
