@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The weird history of the internet...](https://www.youtube.com/watch?v=7B0ydm64cV8)
-- [Midjourney has a new side quest... death](https://www.youtube.com/watch?v=a2i9h2ip-nY)
-- [The most trusted code on Earth is being rewritten in Rust](https://www.youtube.com/watch?v=Sntj4HmuykI)
-- [I read every major CS paper of the last 100 years...](https://www.youtube.com/watch?v=ML3q7Ok4hJg)
-- [One man just liberated Fable... and now it’s illegal](https://www.youtube.com/watch?v=ey_GaPdC9zk)
+- [Dress Rehearsal Rag - Between the Lines Things were Laid Bare](https://www.youtube.com/watch?v=tBKB1uK1yr4)
+- [Limited Slip - The End](https://www.youtube.com/watch?v=v5DNnRpVTbc)
+- [Rob Morris - Your Hope](https://www.youtube.com/watch?v=egdmzrHlH4w)
+- [Sarah Dupuis - New Song in Calculus](https://www.youtube.com/watch?v=2V5OQ781uFY)
+- [kc quilty - Clothes](https://www.youtube.com/watch?v=JsT5j09XwAs)
 <!-- YOUTUBE:END -->
 
 ---
