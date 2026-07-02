@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX fires up all 6 of Starship&#39;s engines ahead of 13th test flight &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-all-6-of-starships-engines-ahead-of-13th-test-flight-video)
+- [Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections](https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/)
+- [&#39;Silo&#39; season 3: Release date &amp; how to watch Apple TV&#39;s sensational post-apocalyptic saga](https://www.space.com/entertainment/space-movies-shows/silo-season-3-release-date-and-how-to-watch-apple-tvs-sensational-post-apocalyptic-saga)
 - [IQM, Europe’s first public quantum company, admits the future of the tech is uncertain](https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/)
 - [Jersey Mike’s IPO illustrates how bad the AI hype has become](https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/)
-- [Apollo 11 landing site, a cosmic Eagle and a blue-white star: 4 night sky targets to celebrate America 250](https://www.space.com/stargazing/apollo-11-landing-site-a-cosmic-eagle-and-a-blue-white-star-4-night-sky-targets-to-celebrate-america-250)
-- [A warning sign about AI’s real cost, courtesy of Google and Amazon](https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/)
-- [Meta quietly launches vibe-coded gaming app Pocket](https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
