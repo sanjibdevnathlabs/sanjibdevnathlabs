@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to invade planet Earth: An alien&#39;s guide to bringing the human race to its knees](https://www.space.com/entertainment/space-movies-shows/how-to-invade-planet-earth-an-aliens-guide-to-bringing-the-human-race-to-its-knees)
-- [Lucid Motors’ CFO is out as its new CEO continues leadership shakeup](https://techcrunch.com/2026/07/02/lucid-motors-cfo-is-out-as-its-new-ceo-continues-leadership-shakeup/)
-- [US government says it got hacked — again](https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/)
-- [&#39;Flying saucer&#39; arrives at NASA for Artemis 3 moon mission in time for World UFO Day | Space photo of the day for July 2, 2026](https://www.space.com/space-exploration/human-spaceflight/flying-saucer-arrives-at-nasa-for-artemis-3-moon-mission-space-photo-of-the-day-for-july-2-2026)
-- [Microsoft launches its own AI deployment company with $2.5 billion commitment](https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/)
+- [Boeing-owned Wisk Aero accused of firing manager who raised safety concerns](https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/)
+- [Astronomers discover a potentially habitable planet just 25 light-years away. &#39;This one is exciting&#39;](https://www.space.com/astronomy/exoplanets/astronomers-discover-a-potentially-habitable-planet-just-25-light-years-away-this-one-is-exciting)
+- [Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II](https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/)
+- [OpenAI proposed donating 5% of its equity to a US sovereign wealth fund](https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/)
+- [Popular TV-tracking app TV Time is shutting down as company focuses on AI](https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
