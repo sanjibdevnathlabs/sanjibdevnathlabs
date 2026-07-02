@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Extreme Token Use of Agentic AI - Computerphile](https://www.youtube.com/watch?v=-0HRzXk8vlk)
 - [Dress Rehearsal Rag - Between the Lines Things were Laid Bare](https://www.youtube.com/watch?v=tBKB1uK1yr4)
 - [Limited Slip - The End](https://www.youtube.com/watch?v=v5DNnRpVTbc)
 - [Rob Morris - Your Hope](https://www.youtube.com/watch?v=egdmzrHlH4w)
 - [Sarah Dupuis - New Song in Calculus](https://www.youtube.com/watch?v=2V5OQ781uFY)
-- [kc quilty - Clothes](https://www.youtube.com/watch?v=JsT5j09XwAs)
 <!-- YOUTUBE:END -->
 
 ---
