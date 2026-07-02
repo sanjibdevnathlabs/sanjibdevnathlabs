@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IQM, Europe’s first public quantum company, admits the future of the tech is uncertain](https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/)
+- [Jersey Mike’s IPO illustrates how bad the AI hype has become](https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/)
+- [Apollo 11 landing site, a cosmic Eagle and a blue-white star: 4 night sky targets to celebrate America 250](https://www.space.com/stargazing/apollo-11-landing-site-a-cosmic-eagle-and-a-blue-white-star-4-night-sky-targets-to-celebrate-america-250)
+- [A warning sign about AI’s real cost, courtesy of Google and Amazon](https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/)
 - [Meta quietly launches vibe-coded gaming app Pocket](https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/)
-- [Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees](https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/)
-- [Anthropic is discussing a new custom chip with Samsung](https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/)
-- [&#39;Stellar death is not the end&#39;: James Webb Space Telescope glimpses the fate of the solar system in a weird exoplanet orbiting a dead star](https://www.space.com/astronomy/stars/stellar-death-is-not-the-end-james-webb-space-telescope-glimpses-the-fate-of-the-solar-system-in-a-weird-exoplanet-orbiting-a-dead-star)
-- [Boeing-owned Wisk Aero accused of firing manager who raised safety concerns](https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
