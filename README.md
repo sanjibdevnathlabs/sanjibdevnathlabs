@@ -134,7 +134,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [the most powerful AI is back for 7 days &lpar;here&#39;s what to ask it&rpar;](https://www.youtube.com/watch?v=YC77Lb_cN6c)
+- [you only have 6 days....](https://www.youtube.com/watch?v=YC77Lb_cN6c)
 - [Why AI Tokens are so Expensive - Computerphile](https://www.youtube.com/watch?v=-0HRzXk8vlk)
 - [Dress Rehearsal Rag - Between the Lines Things were Laid Bare](https://www.youtube.com/watch?v=tBKB1uK1yr4)
 - [Limited Slip - The End](https://www.youtube.com/watch?v=v5DNnRpVTbc)
