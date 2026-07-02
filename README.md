@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Yep, we’re using OpenClaw to date now](https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/)
-- [July full moon 2026: When, where and how to see the Buck Moon](https://www.space.com/stargazing/july-full-moon-2026-when-where-and-how-to-see-the-buck-moon)
-- [In 1776, the moon was a clock, a calendar and a streetlight — and it was 31 feet closer to Earth](https://www.space.com/astronomy/moon/in-1776-the-moon-was-a-clock-a-calendar-and-a-streetlight-and-it-was-31-feet-closer-to-earth)
-- [Sun fires off 10 solar flares in 24 hours as multiple Earth-bound CMEs raise northern lights hopes for July 4 weekend](https://www.space.com/stargazing/auroras/sun-fires-off-10-solar-flares-in-24-hours-as-multiple-earth-bound-cmes-raise-northern-lights-hopes-for-july-4-weekend)
-- [Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office](https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/)
+- [How to invade planet Earth: An alien&#39;s guide to bringing the human race to its knees](https://www.space.com/entertainment/space-movies-shows/how-to-invade-planet-earth-an-aliens-guide-to-bringing-the-human-race-to-its-knees)
+- [Lucid Motors’ CFO is out as its new CEO continues leadership shakeup](https://techcrunch.com/2026/07/02/lucid-motors-cfo-is-out-as-its-new-ceo-continues-leadership-shakeup/)
+- [US government says it got hacked — again](https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/)
+- [&#39;Flying saucer&#39; arrives at NASA for Artemis 3 moon mission in time for World UFO Day | Space photo of the day for July 2, 2026](https://www.space.com/space-exploration/human-spaceflight/flying-saucer-arrives-at-nasa-for-artemis-3-moon-mission-space-photo-of-the-day-for-july-2-2026)
+- [Microsoft launches its own AI deployment company with $2.5 billion commitment](https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
