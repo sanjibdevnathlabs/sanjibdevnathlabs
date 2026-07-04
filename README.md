@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Human flight was still 7 years away in 1776. Now, we&#39;re headed back to the moon](https://www.space.com/astronomy/moon/human-flight-was-still-7-years-away-in-1776-now-were-headed-back-to-the-moon)
 - [What did the night sky look like on the 1st Independence Day 250 years ago?](https://www.space.com/stargazing/what-did-the-night-sky-look-like-on-the-1st-independence-day-250-years-ago)
 - [30 years on, &quot;Independence Day&quot; still proves the versatility of the original &quot;The War of the Worlds&quot;](https://www.space.com/entertainment/space-movies-shows/30-years-on-independence-day-still-proves-the-versatility-of-the-original-the-war-of-the-worlds)
 - [The only AI glossary you’ll need this year](https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
 - [How to find Uranus this week, the hardest planet I&#39;ve ever tried to see](https://www.space.com/stargazing/how-to-find-uranus-this-week-the-hardest-planet-ive-ever-tried-to-see)
-- [As &#39;Terminator 2: Judgment Day&#39; turns 35, it&#39;s time to accept the truth: Terminator shouldn&#39;t be back](https://www.space.com/entertainment/space-movies-shows/as-terminator-2-judgment-day-turns-35-its-time-to-accept-the-truth-terminator-shouldnt-be-back)
 <!-- BLOG-POST-LIST:END -->
 
 ---
