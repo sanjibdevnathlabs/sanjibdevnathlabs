@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to reserve and change your WhatsApp username](https://techcrunch.com/2026/07/06/how-to-reserve-and-change-your-whatsapp-username/)
-- [Artemis moon astronauts visit Capitol Hill | Space photo of the day for July 6, 2026](https://www.space.com/space-exploration/human-spaceflight/artemis-moon-astronauts-visit-capitol-hill-space-photo-of-the-day-for-july-6-2026)
-- [Station F ramps up as a launchpad for Europe’s hottest AI startups](https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/)
-- [NASA will have to find a way to service its new alien-hunting space telescope](https://www.space.com/space-exploration/nasa-will-have-to-find-a-way-to-service-its-new-alien-hunting-space-telescope)
-- [Astronomers discover radio signals coming from rare &#39;Blue Eye Pulsar&#39; after decades of silence](https://www.space.com/astronomy/stars/astronomers-discover-radio-signals-coming-from-rare-blue-eye-pulsar-after-decades-of-silence)
+- [If you use Google, you’re training its AI. Here’s how to opt out.](https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/)
+- [Unidentified metal spheres found on Australian beach are &#39;debris from a foreign rocket body&#39;, space agency says](https://www.space.com/space-exploration/launches-spacecraft/unidentified-metal-spheres-found-on-australian-beach-are-debris-from-a-foreign-rocket-body-space-agency-says)
+- [Apple brings back card payments for Apple Account purchases in India after a four-year hiatus](https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/)
+- [&#39;Acceleration without fuel:&#39; Revolutionary superconducting thruster harnesses Earth&#39;s magnetic field in 1st orbital test](https://www.space.com/technology/acceleration-without-fuel-revolutionary-superconducting-thruster-harnesses-earths-magnetic-field-in-1st-orbital-test)
+- [Microsoft lays off nearly 5,000 employees across Xbox, commercial sales](https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
