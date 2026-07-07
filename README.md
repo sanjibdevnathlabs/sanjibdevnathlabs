@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix invented binge-watching. Now it may have outgrown it.](https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/)
+- [The ‘first’ AI-run ransomware attack still needed a human](https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/)
+- [US investors will soon get access to SK Hynix, another memory maker riding the AI boom](https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/)
 - [Even astronauts in space saw America 250 fireworks on the Fourth of July. See their ISS view of Los Angeles &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/even-astronauts-in-space-saw-america-250-fireworks-on-the-fourth-of-july-see-their-iss-view-of-los-angeles-video)
 - [Watch SpaceX Falcon 9 rocket launch 81 satellites early on July 7](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-transporter-17-rideshare-launch-81-satellites)
-- [More clues surface about the origins of interstellar comet 3I/ATLAS](https://www.space.com/astronomy/comets/more-clues-surface-about-the-origins-of-interstellar-comet-3i-atlas)
-- [Vercel CEO Guillermo Rauch on the fight to split off models from agents](https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/)
-- [You can now customize Siri’s pace and expressivity in the latest iOS 27 beta](https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
