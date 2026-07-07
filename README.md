@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacktivists call out Trump by hacking and defacing US Army websites](https://techcrunch.com/2026/07/07/hacktivists-call-out-trump-by-hacking-and-defacing-us-army-websites/)
+- [Chinese scientists find the best way to nuke an asteroid on its way to impact Earth](https://www.space.com/space-exploration/asteroid-comet-missions/chinese-scientists-find-the-best-way-to-nuke-an-asteroid-on-its-way-to-impact-earth)
+- [Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom](https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/)
+- [SpaceX just launched the 1st-ever nuclear-powered commercial satellite](https://www.space.com/space-exploration/launches-spacecraft/spacex-just-launched-the-1st-ever-nuclear-powered-commercial-satellite)
 - [The sun&#39;s atmosphere is way hotter than its surface. Scientists may finally know why](https://www.space.com/astronomy/sun/the-suns-atmosphere-is-way-hotter-than-its-surface-scientists-may-finally-know-why)
-- [The first American autonomous ground vehicles are fighting in Ukraine](https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/)
-- [Netflix invented binge-watching. Now it may have outgrown it.](https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/)
-- [The ‘first’ AI-run ransomware attack still needed a human](https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/)
-- [US investors will soon get access to SK Hynix, another memory maker riding the AI boom](https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
