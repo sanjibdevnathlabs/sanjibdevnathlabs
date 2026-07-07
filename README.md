@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China releases 1st photo of Earth&#39;s elusive &#39;quasi-moon&#39; Kamo&#39;oalewa](https://www.space.com/space-exploration/asteroid-comet-missions/china-releases-1st-photo-of-earths-elusive-quasi-moon-kamooalewa)
-- [X adds a video editor to encourage creators to post original content, not stolen reposts](https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/)
-- [Chemistry Ventures is raising $500M for its second fund](https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/)
-- [&#39;That&#39;s going to come back and bite us&#39;: Former NASA chief questions Artemis moon lander plans](https://www.space.com/space-exploration/artemis/thats-going-to-come-back-and-bite-us-former-nasa-chief-questions-artemis-moon-lander-plans)
-- [AI law startup Norm raises $120M, hits unicorn valuation](https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/)
+- [Google’s Pixel event is set for August 12](https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/)
+- [Figma acquires team behind a vibe-coding app](https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/)
+- [Artemis 2&#39;s Jeremy Hansen stepping down from active astronaut duty after epic moon mission](https://www.space.com/space-exploration/artemis/artemis-2s-jeremy-hansen-stepping-down-from-active-astronaut-duty-after-epic-moon-mission)
+- [Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others](https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/)
+- [How public–private partnerships can turn Mars into an economic frontier &lpar;Op-Ed&rpar;](https://www.space.com/space-exploration/how-public-private-partnerships-can-turn-mars-into-an-economic-frontier-op-ed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
