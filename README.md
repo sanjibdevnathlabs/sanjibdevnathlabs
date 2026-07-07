@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktivists call out Trump by hacking and defacing US Army websites](https://techcrunch.com/2026/07/07/hacktivists-call-out-trump-by-hacking-and-defacing-us-army-websites/)
-- [Chinese scientists find the best way to nuke an asteroid on its way to impact Earth](https://www.space.com/space-exploration/asteroid-comet-missions/chinese-scientists-find-the-best-way-to-nuke-an-asteroid-on-its-way-to-impact-earth)
-- [Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom](https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/)
-- [SpaceX just launched the 1st-ever nuclear-powered commercial satellite](https://www.space.com/space-exploration/launches-spacecraft/spacex-just-launched-the-1st-ever-nuclear-powered-commercial-satellite)
-- [The sun&#39;s atmosphere is way hotter than its surface. Scientists may finally know why](https://www.space.com/astronomy/sun/the-suns-atmosphere-is-way-hotter-than-its-surface-scientists-may-finally-know-why)
+- [China releases 1st photo of Earth&#39;s elusive &#39;quasi-moon&#39; Kamo&#39;oalewa](https://www.space.com/space-exploration/asteroid-comet-missions/china-releases-1st-photo-of-earths-elusive-quasi-moon-kamooalewa)
+- [X adds a video editor to encourage creators to post original content, not stolen reposts](https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/)
+- [Chemistry Ventures is raising $500M for its second fund](https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/)
+- [&#39;That&#39;s going to come back and bite us&#39;: Former NASA chief questions Artemis moon lander plans](https://www.space.com/space-exploration/artemis/thats-going-to-come-back-and-bite-us-former-nasa-chief-questions-artemis-moon-lander-plans)
+- [AI law startup Norm raises $120M, hits unicorn valuation](https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
