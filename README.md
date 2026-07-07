@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s Pixel event is set for August 12](https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/)
-- [Figma acquires team behind a vibe-coding app](https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/)
-- [Artemis 2&#39;s Jeremy Hansen stepping down from active astronaut duty after epic moon mission](https://www.space.com/space-exploration/artemis/artemis-2s-jeremy-hansen-stepping-down-from-active-astronaut-duty-after-epic-moon-mission)
-- [Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others](https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/)
-- [How public–private partnerships can turn Mars into an economic frontier &lpar;Op-Ed&rpar;](https://www.space.com/space-exploration/how-public-private-partnerships-can-turn-mars-into-an-economic-frontier-op-ed)
+- [Why the rise of open source AI isn’t hurting Anthropic … yet](https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/)
+- [Our Milky Way galaxy might be larger than we thought](https://www.space.com/science/astrophysics/our-milky-way-galaxy-might-be-larger-than-we-thought)
+- [Microsoft joins AI cost-cutting trend by relying more on its own models](https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/)
+- [Discord admits AI moderation bug wrongfully banned users over harmless images](https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/)
+- [&#39;Project Hail Mary&#39; is finally streaming Amazon Prime Video, and we can&#39;t wait to watch it again](https://www.space.com/entertainment/project-hail-mary-is-finally-streaming-amazon-prime-video-and-we-cant-wait-to-watch-it-again)
 <!-- BLOG-POST-LIST:END -->
 
 ---
