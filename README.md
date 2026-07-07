@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The sun&#39;s atmosphere is way hotter than its surface. Scientists may finally know why](https://www.space.com/astronomy/sun/the-suns-atmosphere-is-way-hotter-than-its-surface-scientists-may-finally-know-why)
+- [The first American autonomous ground vehicles are fighting in Ukraine](https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/)
 - [Netflix invented binge-watching. Now it may have outgrown it.](https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/)
 - [The ‘first’ AI-run ransomware attack still needed a human](https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/)
 - [US investors will soon get access to SK Hynix, another memory maker riding the AI boom](https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/)
-- [Even astronauts in space saw America 250 fireworks on the Fourth of July. See their ISS view of Los Angeles &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/even-astronauts-in-space-saw-america-250-fireworks-on-the-fourth-of-july-see-their-iss-view-of-los-angeles-video)
-- [Watch SpaceX Falcon 9 rocket launch 81 satellites early on July 7](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-transporter-17-rideshare-launch-81-satellites)
 <!-- BLOG-POST-LIST:END -->
 
 ---
