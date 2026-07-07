@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Final extension: Startup Battlefield Australia applications now close July 20](https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/)
+- [Meta rolls out Muse, a new AI image generator](https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/)
 - [James Webb Space Telescope celebrates its 4th birthday with stunning image of a galaxy crash site](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-celebrates-its-4th-birthday-with-stunning-image-of-a-galaxy-crash-site)
 - [Why the rise of open source AI isn’t hurting Anthropic … yet](https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/)
 - [Our Milky Way galaxy might be larger than we thought](https://www.space.com/science/astrophysics/our-milky-way-galaxy-might-be-larger-than-we-thought)
-- [Microsoft joins AI cost-cutting trend by relying more on its own models](https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/)
-- [Discord admits AI moderation bug wrongfully banned users over harmless images](https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
