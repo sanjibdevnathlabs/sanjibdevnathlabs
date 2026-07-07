@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [LIVE AMA | Summer of CCNA | 07/09/2026](https://www.youtube.com/watch?v=7-CouekrkOc)
-- [Fable 5 is back.....run these prompts before July 7](https://www.youtube.com/watch?v=YC77Lb_cN6c)
 - [Why AI Tokens are so Expensive - Computerphile](https://www.youtube.com/watch?v=-0HRzXk8vlk)
-- [Dress Rehearsal Rag - Between the Lines Things were Laid Bare](https://www.youtube.com/watch?v=tBKB1uK1yr4)
-- [Limited Slip - The End](https://www.youtube.com/watch?v=v5DNnRpVTbc)
+- [Why AI is like a &lpar;Clever Hans&rpar; Horse - Computerphile](https://www.youtube.com/watch?v=0GQ2RP-25gM)
+- [Is it Possible to Block Childrens&#39; Access to Social Media? - Computerphile](https://www.youtube.com/watch?v=2jJeSgO_MGo)
+- [TCP b : Additive Increase Multiplicative Decrease &amp; &#39;Slow Start&#39; - Computerphile](https://www.youtube.com/watch?v=nKVML4YaBqs)
+- [TCP a : Ensuring Your Data Gets There &amp; in the Right Order! - Computerphile](https://www.youtube.com/watch?v=IADOV8UZO34)
 <!-- YOUTUBE:END -->
 
 ---
