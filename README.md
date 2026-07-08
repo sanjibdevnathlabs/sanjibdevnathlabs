@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Claude is definitely not conscious…](https://www.youtube.com/watch?v=KGtko3y2RXQ)
 - [AI may replace DevOps, but not for the reason you think](https://www.youtube.com/watch?v=jcrLdUPHQZQ)
 - [LIVE AMA | Summer of CCNA | 07/09/2026](https://www.youtube.com/watch?v=7-CouekrkOc)
-- [Fable 5 is back.....run these prompts before July 7](https://www.youtube.com/watch?v=YC77Lb_cN6c)
+- [Fable 5 is back.....run these prompts before July 12th](https://www.youtube.com/watch?v=YC77Lb_cN6c)
 - [Why AI Tokens are so Expensive - Computerphile](https://www.youtube.com/watch?v=-0HRzXk8vlk)
-- [Dress Rehearsal Rag - Between the Lines Things were Laid Bare](https://www.youtube.com/watch?v=tBKB1uK1yr4)
 <!-- YOUTUBE:END -->
 
 ---
