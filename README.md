@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Japanese company books 1,100 pounds of cargo space on SpaceX Starship mission to the moon](https://www.space.com/space-exploration/launches-spacecraft/japanese-company-books-1-100-pounds-of-cargo-space-on-spacex-starship-mission-to-the-moon)
+- [Feds demand autonomous vehicle companies stop interfering with first responders](https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/)
+- [Dance of death between binary stars leads to an unusual supernova](https://www.space.com/astronomy/stars/dance-of-death-between-binary-stars-leads-to-an-unusual-supernova)
 - [Google’s deepfake detector system used to debunk McConnell hoax pic](https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/)
 - [With EU backing, QuantumDiamonds aims to speed up chip manufacturing](https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/)
-- [Autonomous drone delivery startup Manna plots major US expansion](https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/)
-- [NASA begins funding hardware for &#39;Skyfall&#39; Mars helicopter mission](https://www.space.com/space-exploration/missions/nasa-begins-funding-hardware-for-skyfall-mars-helicopter-mission)
-- [SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’](https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
