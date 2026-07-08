@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trump gifts Artemis astronauts a flag from the US Capitol to plant on the moon](https://www.space.com/space-exploration/artemis/trump-gifts-artemis-astronauts-a-flag-from-the-us-capitol-to-plant-on-the-moon)
-- [Elon Musk says X will send DMs when posts you’ve engaged with are corrected](https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/)
-- [Google Photos adds a new AI ‘Video Remix’ tool](https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/)
-- [Shoebox-sized &#39;detector satellites&#39; could sniff out a nuclear bomb in space](https://www.space.com/space-exploration/satellites/shoebox-sized-detector-satellites-could-sniff-out-a-nuclear-bomb-in-space)
-- [Why this CEO thinks video games make better training data than the internet](https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/)
+- [Google’s deepfake detector system used to debunk McConnell hoax pic](https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/)
+- [With EU backing, QuantumDiamonds aims to speed up chip manufacturing](https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/)
+- [Autonomous drone delivery startup Manna plots major US expansion](https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/)
+- [NASA begins funding hardware for &#39;Skyfall&#39; Mars helicopter mission](https://www.space.com/space-exploration/missions/nasa-begins-funding-hardware-for-skyfall-mars-helicopter-mission)
+- [SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’](https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
