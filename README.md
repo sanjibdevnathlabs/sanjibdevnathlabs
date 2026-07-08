@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Earth may survive the sun&#39;s death after all, new study suggests](https://www.space.com/astronomy/earth/earth-may-survive-the-suns-death-after-all-new-study-suggests)
 - [Hot French startup ZML releases free product to speed inference across lots of AI chips](https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/)
 - [AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round](https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/)
 - [Final extension: Startup Battlefield Australia applications now close July 20](https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/)
 - [Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos](https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/)
-- [James Webb Space Telescope celebrates its 4th birthday with stunning image of a galaxy crash site](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-celebrates-its-4th-birthday-with-stunning-image-of-a-galaxy-crash-site)
 <!-- BLOG-POST-LIST:END -->
 
 ---
