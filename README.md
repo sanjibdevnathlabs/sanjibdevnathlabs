@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Former OpenAI exec Kevin Weil is now on the board of Stoke Space](https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/)
-- [Revolutionary rocket engine company Venus Aerospace raises $91 million to scale design](https://www.space.com/technology/revolutionary-rocket-engine-company-venus-aerospace-raises-usd91-million-to-scale-design)
-- [NASA&#39;s New Horizons probe just woke up from hibernation 6 billion miles away beyond Pluto. What&#39;s it doing out there?](https://www.space.com/space-exploration/launches-spacecraft/nasas-new-horizon-probe-just-woke-up-from-hibernation-6-billion-miles-away-beyond-pluto-whats-it-doing-out-there)
-- [Earth may survive the sun&#39;s death after all, new study suggests](https://www.space.com/astronomy/earth/earth-may-survive-the-suns-death-after-all-new-study-suggests)
-- [Hot French startup ZML releases free product to speed inference across lots of AI chips](https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/)
+- [Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more](https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/)
+- [Apple to produce Made in America wireless chips with Broadcom](https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/)
+- [Venus Aerospace raises $90M Series B to build a new kind of rocket engine](https://techcrunch.com/2026/07/08/venus-aerospace-raises-90m-series-b-to-build-a-new-kind-of-rocket-engine/)
+- [Blue Origin reportedly raising $10B at $130B valuation](https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/)
+- [NASA&#39;s Roman Space Telescope prepares for launch | Space photo of the day for July 8, 2026](https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-prepares-for-launch-space-photo-of-the-day-for-july-8-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
