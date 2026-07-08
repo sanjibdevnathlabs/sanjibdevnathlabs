@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more](https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/)
-- [Apple to produce Made in America wireless chips with Broadcom](https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/)
-- [Venus Aerospace raises $90M Series B to build a new kind of rocket engine](https://techcrunch.com/2026/07/08/venus-aerospace-raises-90m-series-b-to-build-a-new-kind-of-rocket-engine/)
-- [Blue Origin reportedly raising $10B at $130B valuation](https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/)
-- [NASA&#39;s Roman Space Telescope prepares for launch | Space photo of the day for July 8, 2026](https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-prepares-for-launch-space-photo-of-the-day-for-july-8-2026)
+- [Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.](https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/)
+- [Venus takes center stage with 2 easy-to-see sky shows this July. Here&#39;s when and where to look](https://www.space.com/stargazing/venus-takes-center-stage-with-2-easy-to-see-sky-shows-this-july-heres-when-and-where-to-look)
+- [Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups](https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/)
+- [Prime Intellect raises $130M Series A to help enterprises build their own AI agents](https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/)
+- [Another massive data breach exposed millions of driver’s license numbers](https://techcrunch.com/2026/07/08/another-massive-data-breach-exposed-millions-of-drivers-license-numbers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
