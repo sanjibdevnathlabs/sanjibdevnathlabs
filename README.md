@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia is a victim of the compute marketplace it created](https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/)
-- [&#39;Silo&#39; season 3 showrunner Graham Yost explains the time jumps and turning half of the show into a political thriller &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/silo-season-3-showrunner-graham-yost-explains-the-time-jumps-and-turning-half-of-the-show-into-a-political-thriller-interview)
-- [Block reaches $45M settlement with 46 states over Cash App fraud probe](https://techcrunch.com/2026/07/09/block-reaches-45m-settlement-with-46-states-over-cash-app-fraud-probe/)
-- [Could evidence of life on Mars be hiding in clay? Europe wants to send a rover to check](https://www.space.com/space-exploration/search-for-life/could-evidence-of-life-on-mars-be-hiding-in-clay-europe-wants-to-send-a-rover-to-check)
-- [Anthropic’s new Claude feature is quietly selling you on AI](https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/)
+- [Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups](https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/)
+- [New York Times says OpenAI hid evidence in ChatGPT copyright trial](https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/)
+- [Slate Auto teams up with Crayola to color its EV truck](https://techcrunch.com/2026/07/09/slate-auto-teams-up-with-crayola-to-color-its-ev-truck/)
+- [FanDuel sent a video from star athlete Bryce Harper to a customer with a gambling problem](https://techcrunch.com/2026/07/09/fanduel-sent-a-video-from-star-athlete-bryce-harper-to-a-customer-with-a-gambling-problem/)
+- [Mercor is in talks for a $20B valuation](https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
