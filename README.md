@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists have discovered the oldest quasar ever seen, and it shines with the light of a trillion suns](https://www.space.com/astronomy/black-holes/scientists-have-discovered-the-oldest-quasar-ever-seen-and-it-shines-with-the-light-of-a-trillion-suns)
-- [Meta enters the crowded AI coding battle with Muse Spark 1.1](https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/)
-- [SpaceX wants to launch 100,000 Starlink satellites to orbit](https://www.space.com/space-exploration/satellites/spacex-wants-to-launch-100-000-starlink-satellites-to-orbit)
-- [Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups](https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/)
-- [New York Times says OpenAI hid evidence in ChatGPT copyright trial](https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/)
+- [OpenAI launches its new family of models with GPT-5.6](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/)
+- [An AI agent startup just let its agent run its $100 million fundraise](https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/)
+- [OpenAI is shutting down Atlas, but its AI browser ambitions are still growing](https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/)
+- [Wally Funk, trailblazing pilot and astronaut, passes away at 87](https://www.space.com/space-exploration/human-spaceflight/wally-funk-trailblazing-pilot-and-astronaut-passes-away-at-87)
+- [Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic](https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
