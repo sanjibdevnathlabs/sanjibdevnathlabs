@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [Claude is definitely not conscious…](https://www.youtube.com/watch?v=KGtko3y2RXQ)
-- [The weird history of the internet...](https://www.youtube.com/watch?v=7B0ydm64cV8)
-- [Midjourney has a new side quest... death](https://www.youtube.com/watch?v=a2i9h2ip-nY)
-- [The most trusted code on Earth is being rewritten in Rust](https://www.youtube.com/watch?v=Sntj4HmuykI)
-- [I read every major CS paper of the last 100 years...](https://www.youtube.com/watch?v=ML3q7Ok4hJg)
+- [AI may replace DevOps, but not for the reason you think](https://www.youtube.com/watch?v=jcrLdUPHQZQ)
+- [LIVE AMA | Summer of CCNA | 07/09/2026](https://www.youtube.com/watch?v=7-CouekrkOc)
+- [Fable 5 is back.....run these prompts before July 12th](https://www.youtube.com/watch?v=YC77Lb_cN6c)
+- [Why AI Tokens are so Expensive - Computerphile](https://www.youtube.com/watch?v=-0HRzXk8vlk)
 <!-- YOUTUBE:END -->
 
 ---
