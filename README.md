@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Staffing the moon base: How many astronauts should live in NASA&#39;s lunar outpost?](https://www.space.com/astronomy/moon/staffing-the-moon-base-how-many-astronauts-should-live-in-nasas-lunar-outpost)
-- [Truecaller clashes with India’s telecom regulator over anti-spam rules](https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/)
-- [Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement](https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/)
-- [SpaceX Falcon 9 rocket launches for record-breaking 36th time](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-36th-time-new-record)
-- [Lovable reportedly in talks to double its valuation to $13.2B](https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/)
+- [Take a trip to the turquoise waters of the Bahamas &lpar;from space&rpar; | Space photo of the day for July 9, 2026](https://www.space.com/astronomy/earth/take-a-trip-to-the-turquoise-waters-of-the-bahamas-from-space-space-photo-of-the-day-for-july-9-2026)
+- [Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users](https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/)
+- [Character.AI enters the microdrama arena with its own productions, but there’s a twist](https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/)
+- [The US wants to build offshore rocket launch sites. Critics say &#39;our coasts deserve better&#39;](https://www.space.com/space-exploration/launches-spacecraft/the-us-wants-to-build-offshore-rocket-launch-sites-critics-say-our-coasts-deserve-better)
+- [Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund](https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
