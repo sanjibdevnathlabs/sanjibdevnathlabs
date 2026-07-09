@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Staffing the moon base: How many astronauts should live in NASA&#39;s lunar outpost?](https://www.space.com/astronomy/moon/staffing-the-moon-base-how-many-astronauts-should-live-in-nasas-lunar-outpost)
 - [Truecaller clashes with India’s telecom regulator over anti-spam rules](https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/)
 - [Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement](https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/)
-- [Watch a SpaceX Falcon 9 rocket launch for record-breaking 36th time early on July 9](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-36th-time-new-record)
+- [SpaceX Falcon 9 rocket launches for record-breaking 36th time](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-36th-time-new-record)
 - [Lovable reportedly in talks to double its valuation to $13.2B](https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/)
-- [Japanese company books 1,100 pounds of cargo space on SpaceX Starship mission to the moon](https://www.space.com/space-exploration/launches-spacecraft/japanese-company-books-1-100-pounds-of-cargo-space-on-spacex-starship-mission-to-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
