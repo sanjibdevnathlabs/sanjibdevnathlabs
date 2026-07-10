@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The moon, Mars and the Pleiades form a stunning lineup before dawn on July 11. Here&#39;s how to see it](https://www.space.com/stargazing/the-moon-mars-and-the-pleiades-form-a-stunning-lineup-before-dawn-on-july-11-heres-how-to-see-it)
-- [Supreme Court ruling on mail-in ballots ensures astronauts can vote from space  — or anywhere else](https://www.space.com/space-exploration/human-spaceflight/supreme-court-ruling-on-mail-in-ballots-ensures-astronauts-can-vote-from-space-or-anywhere-else)
-- [Astronomers may have heard the 1st &#39;whispers&#39; of ghost particles created by supernova explosions](https://www.space.com/astronomy/stars/cosmic-ghost-neutrinos-may-be-the-whispers-of-stars-that-died-in-supernova-explosions)
-- [Don&#39;t miss out on &#39;The Ark&#39; Season 3 — get a year-long Peacock TV deal for just over $9 a month](https://www.space.com/technology/dont-miss-out-on-the-ark-season-3-get-a-year-long-peacock-tv-deal-for-just-over-9-dollars-a-month)
-- [Making history! China lands rocket during an orbital launch for 1st time ever &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/making-history-china-lands-rocket-during-an-orbital-launch-for-1st-time-ever)
+- [SpaceX ignites all 33 powerful engines on Starship booster test ahead of Flight 13 launch](https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-all-33-powerful-engines-on-starship-booster-test-ahead-of-flight-13-test-launch)
+- [Dumb Co dared me to trade my iPhone for a hacked flip phone](https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/)
+- [These rare glowing &#39;space clouds&#39; are summer&#39;s best-kept skywatching secret](https://www.space.com/stargazing/these-rare-glowing-space-clouds-are-summers-best-kept-skywatching-secret)
+- [Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits](https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/)
+- [Netflix could be planning ‘always-on’ live TV channels](https://techcrunch.com/2026/07/10/netflix-could-be-planning-always-on-live-tv-channels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
