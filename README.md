@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [OpenAI is so back... GPT 5.6 Sol first look](https://www.youtube.com/watch?v=URKml8lgw8Y)
 - [LIVE AMA | Summer of CCNA | 07/09/2026](https://www.youtube.com/watch?v=7-CouekrkOc)
 - [Shor&#39;s Algorithm for Quantum Computing - Computerphile](https://www.youtube.com/watch?v=k_kyepATqB8)
 - [Claude is definitely not conscious…](https://www.youtube.com/watch?v=KGtko3y2RXQ)
 - [AI may replace DevOps, but not for the reason you think](https://www.youtube.com/watch?v=jcrLdUPHQZQ)
-- [Fable 5 is back.....run these prompts before July 12th](https://www.youtube.com/watch?v=YC77Lb_cN6c)
 <!-- YOUTUBE:END -->
 
 ---
