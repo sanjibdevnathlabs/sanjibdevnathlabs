@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers may have heard the 1st &#39;whispers&#39; of ghost particles created by supernova explosions](https://www.space.com/astronomy/stars/cosmic-ghost-neutrinos-may-be-the-whispers-of-stars-that-died-in-supernova-explosions)
+- [Don&#39;t miss out on &#39;The Ark&#39; Season 3 — get a year-long Peacock TV deal for just over $9 a month](https://www.space.com/technology/dont-miss-out-on-the-ark-season-3-get-a-year-long-peacock-tv-deal-for-just-over-9-dollars-a-month)
+- [Making history! China lands rocket during an orbital launch for 1st time ever &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/making-history-china-lands-rocket-during-an-orbital-launch-for-1st-time-ever)
 - [After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV](https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/)
 - [OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter](https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/)
-- [Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him](https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/)
-- [Fidji Simo steps down from OpenAI’s no. 2 role](https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/)
-- [OpenAI launches its new family of models with GPT-5.6](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
