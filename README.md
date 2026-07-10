@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [LIVE AMA | Summer of CCNA | 07/09/2026](https://www.youtube.com/watch?v=7-CouekrkOc)
+- [Shor&#39;s Algorithm for Quantum Computing - Computerphile](https://www.youtube.com/watch?v=k_kyepATqB8)
 - [Claude is definitely not conscious…](https://www.youtube.com/watch?v=KGtko3y2RXQ)
 - [Fable 5 is back.....run these prompts before July 12th](https://www.youtube.com/watch?v=YC77Lb_cN6c)
-- [Dress Rehearsal Rag - Between the Lines Things were Laid Bare](https://www.youtube.com/watch?v=tBKB1uK1yr4)
-- [Limited Slip - The End](https://www.youtube.com/watch?v=v5DNnRpVTbc)
+- [Why AI Tokens are so Expensive - Computerphile](https://www.youtube.com/watch?v=-0HRzXk8vlk)
 <!-- YOUTUBE:END -->
 
 ---
