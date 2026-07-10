@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX ignites all 33 powerful engines on Starship booster test ahead of Flight 13 launch](https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-all-33-powerful-engines-on-starship-booster-test-ahead-of-flight-13-test-launch)
-- [Dumb Co dared me to trade my iPhone for a hacked flip phone](https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/)
-- [These rare glowing &#39;space clouds&#39; are summer&#39;s best-kept skywatching secret](https://www.space.com/stargazing/these-rare-glowing-space-clouds-are-summers-best-kept-skywatching-secret)
-- [Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits](https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/)
-- [Netflix could be planning ‘always-on’ live TV channels](https://techcrunch.com/2026/07/10/netflix-could-be-planning-always-on-live-tv-channels/)
+- [Launching from 2 continents: Germany&#39;s Isar Aerospace leases Canadian pad for $150 million](https://www.space.com/space-exploration/launches-spacecraft/launching-from-2-continents-germanys-isar-aerospace-leases-canadian-pad-for-usd150-million)
+- [Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat](https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/)
+- [SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs](https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/)
+- [A new app, HyperTexting, turns the open web into a scrollable social media-like feed](https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/)
+- [China is catching up to Elon Musk’s reusable rockets](https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
