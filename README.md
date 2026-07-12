@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space medicine breakthrough? Kidney and liver tissue bioprinted off Earth for 1st time ever](https://www.space.com/technology/space-medicine-breakthrough-kidney-and-liver-tissue-bioprinted-off-earth-for-1st-time-ever)
 - [1 month until the total solar eclipse 2026 — Here&#39;s what you need to know](https://www.space.com/stargazing/solar-eclipses/1-month-until-the-total-solar-eclipse-2026-heres-what-you-need-to-know)
 - [Reed Jobs would rather talk about curing cancer than his last name](https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/)
 - [This slushie machine was a lifesaver during NYC’s heat wave](https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/)
 - [Smart glasses without a camera? Even Realities bets productivity beats recording everyone](https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/)
-- [Your lost dog can now call home with the world&#39;s 1st satellite-connected dog collar](https://www.space.com/space-exploration/satellites/your-lost-dog-can-now-call-home-with-the-worlds-1st-satellite-connected-dog-collar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
