@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflect Orbital just got permission to launch its 1st space mirror to orbit. Tens of thousands more could follow](https://www.space.com/space-exploration/satellites/reflect-orbital-just-got-permission-to-launch-its-1st-space-mirror-to-orbit-tens-of-thousands-more-could-follow)
 - [TechCrunch Mobility: A robotaxi ultimatum](https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/)
 - [Why space games still struggle with the scale of the universe](https://www.space.com/entertainment/space-games/why-space-games-still-struggle-with-the-scale-of-the-universe)
 - [149 million views! Artemis II moon mission breaks NASA&#39;s streaming record](https://www.space.com/space-exploration/artemis/149-million-views-artemis-ii-moon-mission-breaks-nasas-streaming-record)
 - [Space medicine breakthrough? Kidney and liver tissue bioprinted off Earth for 1st time ever](https://www.space.com/technology/space-medicine-breakthrough-kidney-and-liver-tissue-bioprinted-off-earth-for-1st-time-ever)
-- [1 month until the total solar eclipse 2026 — Here&#39;s what you need to know](https://www.space.com/stargazing/solar-eclipses/1-month-until-the-total-solar-eclipse-2026-heres-what-you-need-to-know)
 <!-- BLOG-POST-LIST:END -->
 
 ---
