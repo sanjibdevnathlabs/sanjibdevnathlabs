@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hermes agent maker Nous Research in talks for new funding at $1.5B valuation](https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/)
 - [SpaceX Starship Flight 13 launch updates: SpaceX sets target date for next Starship rocket launch](https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-13-2026)
 - [Russia&#39;s launching a NASA astronaut and 2 cosmonauts to the International Space Station on July 14: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/soyuz-ms-29-astronaut-launch-international-space-station-anil-menon)
 - [These mysterious exoplanets may have clouds of vaporized rock and grounds of scorching magma oceans](https://www.space.com/astronomy/exoplanets/these-mysterious-exoplanets-may-have-clouds-of-vaporized-rock-and-grounds-of-scorching-magma-oceans)
 - [Satya Nadella has issued a shocking warning to companies using AI](https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/)
-- [Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI](https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
