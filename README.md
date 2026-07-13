@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflect Orbital just got permission to launch its 1st space mirror to orbit. Tens of thousands more could follow](https://www.space.com/space-exploration/satellites/reflect-orbital-just-got-permission-to-launch-its-1st-space-mirror-to-orbit-tens-of-thousands-more-could-follow)
-- [TechCrunch Mobility: A robotaxi ultimatum](https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/)
-- [Why space games still struggle with the scale of the universe](https://www.space.com/entertainment/space-games/why-space-games-still-struggle-with-the-scale-of-the-universe)
-- [149 million views! Artemis II moon mission breaks NASA&#39;s streaming record](https://www.space.com/space-exploration/artemis/149-million-views-artemis-ii-moon-mission-breaks-nasas-streaming-record)
-- [Space medicine breakthrough? Kidney and liver tissue bioprinted off Earth for 1st time ever](https://www.space.com/technology/space-medicine-breakthrough-kidney-and-liver-tissue-bioprinted-off-earth-for-1st-time-ever)
+- [SpaceX targets July 16 for Starship Flight 13, reveals what went wrong on previous launch](https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-july-16-for-starship-flight-13-reveals-what-went-wrong-on-previous-launch)
+- [As TV-tracking app TV Time shuts down, its founder builds Bingers, a new home for fans](https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/)
+- [Anthropic starts localizing Claude pricing for India, its biggest market after the US](https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/)
+- [&quot;The Ninth Jedi&quot; is a bold new Star Wars anime project hitting Disney+ next month, and it looks sick!](https://www.space.com/entertainment/space-movies-shows/the-ninth-jedi-is-a-bold-new-star-wars-anime-project-hitting-disney-next-month-and-it-looks-sick-trailer)
+- [SpaceX cleared to fly Starship again after booster failure in May](https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
