@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek reportedly in talks to raise $1.5B, then IPO](https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/)
-- [Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer](https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/)
-- [Google Images gets a Pinterest-like redesign focused on discovery](https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/)
-- [This cosmic &#39;lighthouse&#39; is blazing a magnetic trail through the Milky Way](https://www.space.com/astronomy/stars/this-cosmic-lighthouse-is-blazing-a-magnetic-trail-through-the-milky-way)
-- [New York State halts construction of all new data centers](https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/)
+- [&#39;Once Upon a Time in Space&#39;: How to watch PBS&#39;s out-of-this-world astronaut documentary](https://www.space.com/entertainment/space-movies-shows/once-upon-a-time-in-space-how-to-watch-pbss-out-of-this-world-astronaut-documentary)
+- [Lucid Motors denies report it’s considering bankruptcy](https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/)
+- [Google faces another AI training lawsuit from major publishers](https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/)
+- [1st-ever X-rays in space offer hope for possible patients headed to the moon](https://www.space.com/space-exploration/human-spaceflight/1st-ever-x-rays-in-space-offer-hope-for-possible-patients-headed-to-the-moon)
+- [DeepMind CEO calls for an independent standards body to regulate frontier AI](https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
