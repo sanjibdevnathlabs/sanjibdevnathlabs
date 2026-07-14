@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s new flagship model deletes files on its own, people keep warning](https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/)
+- [Scientists spot 4 superdense stellar corpses hiding behind their red dwarf companions](https://www.space.com/astronomy/stars/scientists-spot-4-superdense-stellar-corpses-hiding-behind-their-red-dwarf-companions)
 - [The 1st of 10,000 &#39;missing&#39; black holes in the Omega Centauri star cluster has been found by the Hubble and James Webb space telescopes](https://www.space.com/astronomy/black-holes/the-1st-of-10-000-missing-black-holes-in-the-omega-centauri-star-cluster-has-been-found-by-the-hubble-and-james-webb-space-telescopes)
 - [Apple opens its new Siri AI to everyone with the iOS 27 public beta](https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/)
 - [Anthropic’s newest ad is creeping people out](https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/)
-- [The founder of Hinge raised $18M to build a new AI dating service, Overtone](https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/)
-- [&#39;Once Upon a Time in Space&#39;: How to watch PBS&#39;s out-of-this-world astronaut documentary](https://www.space.com/entertainment/space-movies-shows/once-upon-a-time-in-space-how-to-watch-pbss-out-of-this-world-astronaut-documentary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
