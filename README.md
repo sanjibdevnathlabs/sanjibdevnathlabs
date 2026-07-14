@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek reportedly in talks to raise $1.5B, then IPO](https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/)
+- [Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer](https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/)
+- [Google Images gets a Pinterest-like redesign focused on discovery](https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/)
+- [This cosmic &#39;lighthouse&#39; is blazing a magnetic trail through the Milky Way](https://www.space.com/astronomy/stars/this-cosmic-lighthouse-is-blazing-a-magnetic-trail-through-the-milky-way)
 - [New York State halts construction of all new data centers](https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/)
-- [Iran abused mobile networks’ vulnerabilities to locate U.S. military in the Middle East, report says](https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/)
-- [I’m de-influencing you from buying the RingConn 3 &lpar;even though it’s pretty&rpar;](https://techcrunch.com/2026/07/14/ringconn-3-review/)
-- [Reflection inks $1B compute deal with Nebius](https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/)
-- [The real AI race may no longer be at the frontier](https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
