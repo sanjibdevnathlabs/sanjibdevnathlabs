@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moon landings could destroy evidence of life&#39;s origins](https://www.space.com/astronomy/moon/moon-landings-could-destroy-evidence-of-lifes-origins)
 - [Pinwheel launches a retro-inspired landline phone for kids](https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/)
 - [Already rich, already successful, why the last wave of tech winners is grinding again](https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/)
 - [Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”](https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/)
 - [Video-generation startup PixVerse raises $439M, valuation soars past $2B](https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/)
-- [X just tweaked its algorithm to make it more friendly, less battleground](https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
