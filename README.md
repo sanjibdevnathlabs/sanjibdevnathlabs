@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lorde says AI glasses are “not sexy”](https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/)
 - [OpenAI’s first hardware device is reportedly a screenless speaker that can move](https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/)
 - [OpenAI pushes back on Apple trade secret lawsuit](https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/)
 - [SpaceX launches flight-proven rocket for 600th time, sending Starlink satellites to orbit](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-14-b1093-vsfb-ocisly-10-45-b1080-ccsfs-asog)
 - [OpenAI’s new flagship model deletes files on its own, people keep warning](https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/)
-- [Scientists spot 4 superdense stellar corpses hiding behind their red dwarf companions](https://www.space.com/astronomy/stars/scientists-spot-4-superdense-stellar-corpses-hiding-behind-their-red-dwarf-companions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
