@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The biggest skywatching day of 2026 is coming. Here&#39;s what you&#39;ll see in North America and Europe](https://www.space.com/stargazing/the-biggest-skywatching-day-of-2026-is-coming-heres-what-youll-see-in-north-america-and-europe)
-- [How to watch SpaceX launch Starship Flight 13 on July 16](https://www.space.com/space-exploration/launches-spacecraft/how-to-watch-spacex-launch-starship-flight-13-on-july-16)
-- [Moon landings could destroy evidence of life&#39;s origins](https://www.space.com/astronomy/moon/moon-landings-could-destroy-evidence-of-lifes-origins)
-- [Pinwheel launches a retro-inspired landline phone for kids](https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/)
-- [Already rich, already successful, why the last wave of tech winners is grinding again](https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/)
+- [New York State halts construction of all new data centers](https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/)
+- [Iran abused mobile networks’ vulnerabilities to locate U.S. military in the Middle East, report says](https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/)
+- [I’m de-influencing you from buying the RingConn 3 &lpar;even though it’s pretty&rpar;](https://techcrunch.com/2026/07/14/ringconn-3-review/)
+- [Reflection inks $1B compute deal with Nebius](https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/)
+- [The real AI race may no longer be at the frontier](https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
