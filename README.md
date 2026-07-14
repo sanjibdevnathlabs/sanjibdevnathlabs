@@ -138,7 +138,7 @@ I'm a software developer passionate about designing and building applications wi
 - [LIVE AMA | Summer of CCNA | 07/09/2026](https://www.youtube.com/watch?v=7-CouekrkOc)
 - [Shor&#39;s Algorithm for Quantum Computing - Computerphile](https://www.youtube.com/watch?v=k_kyepATqB8)
 - [Claude is definitely not conscious…](https://www.youtube.com/watch?v=KGtko3y2RXQ)
-- [Fable 5 is back.....run these prompts before July 12th](https://www.youtube.com/watch?v=YC77Lb_cN6c)
+- [AI may replace DevOps, but not for the reason you think](https://www.youtube.com/watch?v=jcrLdUPHQZQ)
 <!-- YOUTUBE:END -->
 
 ---
