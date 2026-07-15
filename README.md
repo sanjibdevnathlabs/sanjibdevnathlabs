@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse](https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/)
-- [A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era](https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/)
-- [What time is SpaceX&#39;s Starship Flight 13 launch on July 16? &lpar;Full mission timeline&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-13-launch-what-time)
-- [OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B](https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/)
-- [Lorde says AI glasses are ‘not sexy’](https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/)
+- [Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models](https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/)
+- [Rime picks up $24M Series A to help enterprises field customer calls](https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/)
+- [Reelful’s AI turns your camera roll into short-form videos for social media](https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/)
+- [&#39;Found you!&#39; Astronomers spot faintest exoplanet ever seen from Earth after a decade of hide-and-seek](https://www.space.com/astronomy/exoplanets/found-you-astronomers-spot-faintest-exoplanet-ever-seen-from-earth-after-a-decade-of-hide-and-seek)
+- [Indian AI coding startup Emergent becomes a unicorn with $130M Series C](https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
