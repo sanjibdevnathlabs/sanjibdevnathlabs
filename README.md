@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft patches bug in video game Age of Empires II](https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/)
-- [Apple quietly reveals how its Maps ads will differ from Google’s](https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/)
-- [SpaceX slips below its $135 IPO price ahead of Starship launch](https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/)
-- [Meteorite that crashed through New Jersey house could hold the clues to life&#39;s origins](https://www.space.com/astronomy/meteorite-that-crashed-through-new-jersey-house-could-hold-the-clues-to-lifes-origins)
-- [Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling](https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/)
+- [Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms](https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/)
+- [Watch Archimedes burn! Rocket Lab fires up engine for its powerful next-gen Neutron launcher &lpar;video&rpar;](https://www.space.com/space-exploration/watch-archimedes-burn-rocket-lab-fires-up-engine-for-its-powerful-next-gen-neutron-launcher-video)
+- [Daniel Ek’s body-scanning startup Neko Health raises another $700M](https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/)
+- [Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex](https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/)
+- [The 10 best British sci-fi shows of all time](https://www.space.com/entertainment/space-movies-shows/the-10-best-british-sci-fi-shows-of-all-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
