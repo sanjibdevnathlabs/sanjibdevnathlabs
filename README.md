@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify expands parent-managed accounts to users on its free tier](https://techcrunch.com/2026/07/15/spotify-expands-parent-managed-accounts-to-users-on-its-free-tier/)
-- [India bets billions on breaking China’s grip on smartphone manufacturing](https://techcrunch.com/2026/07/15/india-bets-billions-on-breaking-chinas-grip-on-smartphone-manufacturing/)
-- [US charges Russian ‘bulletproof’ web hosts over cyberattacks that netted $62M from cybercrime victims](https://techcrunch.com/2026/07/15/us-charges-russian-bulletproof-web-hosts-over-cyberattacks-that-netted-62m-from-cybercrime-victims/)
-- [Glaciers spotted flowing across the Himalayas from space | Space photo of the day for July 15, 2026](https://www.space.com/astronomy/earth/glaciers-spotted-flowing-across-the-himalayas-from-space-space-photo-of-the-day-for-july-15-2026)
-- [Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models](https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/)
+- [Hack suggests AI music generator Suno scraped YouTube for training data](https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/)
+- [Whatnot acquires Shaped to power real-time live shopping recommendations](https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/)
+- [Microsoft patches record number of security vulnerabilities, citing its use of AI](https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/)
+- [The 10 best places in the UK to see the partial solar eclipse on Aug. 12](https://www.space.com/stargazing/solar-eclipses/the-10-best-places-in-the-uk-to-see-the-partial-solar-eclipse-on-aug-12)
+- [Stripe and Advent reportedly offered to buy PayPal for around $53.4B](https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
