@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [The most controversial rewrite in history just shipped...](https://www.youtube.com/watch?v=CXSvKcLovAk)
+- [OCW + YouTube: objetivos y estrategias de participación &lpar;Spanish&rpar;](https://www.youtube.com/watch?v=HoTc_0mBN88)
 - [OpenAI is so back... GPT 5.6 Sol first look](https://www.youtube.com/watch?v=URKml8lgw8Y)
 - [LIVE AMA | Summer of CCNA | 07/09/2026](https://www.youtube.com/watch?v=7-CouekrkOc)
-- [Claude is definitely not conscious…](https://www.youtube.com/watch?v=KGtko3y2RXQ)
-- [Fable 5 is back.....run these prompts before July 12th](https://www.youtube.com/watch?v=YC77Lb_cN6c)
+- [Shor&#39;s Algorithm for Quantum Computing - Computerphile](https://www.youtube.com/watch?v=k_kyepATqB8)
 <!-- YOUTUBE:END -->
 
 ---
