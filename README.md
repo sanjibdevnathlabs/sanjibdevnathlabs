@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’](https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/)
-- [Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8](https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/)
-- [A laser disappears into the Milky Way&#39;s heart | Space photo of the day for July 16, 2026](https://www.space.com/astronomy/a-laser-disappears-into-the-milky-ways-heart-space-photo-of-the-day-for-july-16-2026)
-- [Apple Intelligence approved for launch in China with Alibaba and Baidu](https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/)
-- [Is dark matter &#39;tuned in&#39; to a hidden dimension?](https://www.space.com/astronomy/dark-universe/is-dark-matter-tuned-in-to-a-hidden-dimension)
+- [AI-powered travel agency Fora hits unicorn status, raises $60M](https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/)
+- [Google’s AI Mode now lets you link and interact with select apps](https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/)
+- [Google continues its renaming streak by turning NotebookLM to Gemini Notebook](https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/)
+- [Stephen Hawking&#39;s famous &#39;leaky&#39; black hole theory gets much-needed update](https://www.space.com/astronomy/black-holes/stephen-hawkings-famous-leaky-black-hole-theory-gets-much-needed-update)
+- [Yes, you can now order DoorDash from the command line](https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
