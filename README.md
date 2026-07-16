@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch 21 &#39;data transport&#39; satellites for US military today](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-sda-titl-3-military-satellites)
+- [Is dark matter &#39;tuned in&#39; to a hidden dimension?](https://www.space.com/astronomy/dark-universe/is-dark-matter-tuned-in-to-a-hidden-dimension)
+- [Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you](https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/)
+- [Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot](https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/)
 - [SpaceX will launch Starship, the world&#39;s largest rocket, on critical Flight 13 test today. Here&#39;s what to expect.](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-13-starlink-v3-satellites)
-- [Phone maker OnePlus says it won’t release new phones in the U.S. and Europe](https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/)
-- [Lululemon backs nylon-recycling startup Syntetica in $30M Series A](https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/)
-- [Applied Computing wants to give oil and gas operators an AI model for the entire plant](https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/)
-- [Why Greylock capped its new fund at $1.5B when it says it could have raised more](https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
