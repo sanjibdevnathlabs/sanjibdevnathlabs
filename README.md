@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-powered travel agency Fora hits unicorn status, raises $60M](https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/)
-- [Google’s AI Mode now lets you link and interact with select apps](https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/)
-- [Google continues its renaming streak by turning NotebookLM to Gemini Notebook](https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/)
-- [Stephen Hawking&#39;s famous &#39;leaky&#39; black hole theory gets much-needed update](https://www.space.com/astronomy/black-holes/stephen-hawkings-famous-leaky-black-hole-theory-gets-much-needed-update)
-- [Yes, you can now order DoorDash from the command line](https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/)
+- [Oil giant BP shutters its corporate venture arm after 20 years](https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/)
+- [Uber’s $14.8B Delivery Hero deal would nearly double its global footprint](https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/)
+- [SpaceX stacks massive Starship rocket ahead of today&#39;s Flight 13 test launch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-stacks-massive-starship-rocket-ahead-of-todays-flight-13-test-launch-video)
+- [Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI](https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/)
+- [An animated sci-fi rom-com wasn&#39;t on our wish list, but we&#39;ll be damned if &#39;Not Alone&#39; doesn&#39;t look sweet, stylish, and hilarious](https://www.space.com/entertainment/space-movies-shows/an-animated-sci-fi-rom-com-wasnt-on-our-wish-list-but-well-be-damned-if-not-alone-doesnt-look-sweet-stylish-and-hilarious)
 <!-- BLOG-POST-LIST:END -->
 
 ---
