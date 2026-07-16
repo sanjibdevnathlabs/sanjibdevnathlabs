@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch SpaceX launch 21 &#39;data transport&#39; satellites for US military today](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-sda-titl-3-military-satellites)
+- [Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’](https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/)
+- [Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8](https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/)
+- [A laser disappears into the Milky Way&#39;s heart | Space photo of the day for July 16, 2026](https://www.space.com/astronomy/a-laser-disappears-into-the-milky-ways-heart-space-photo-of-the-day-for-july-16-2026)
+- [Apple Intelligence approved for launch in China with Alibaba and Baidu](https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/)
 - [Is dark matter &#39;tuned in&#39; to a hidden dimension?](https://www.space.com/astronomy/dark-universe/is-dark-matter-tuned-in-to-a-hidden-dimension)
-- [Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you](https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/)
-- [Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot](https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/)
-- [SpaceX will launch Starship, the world&#39;s largest rocket, on critical Flight 13 test today. Here&#39;s what to expect.](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-13-starlink-v3-satellites)
 <!-- BLOG-POST-LIST:END -->
 
 ---
