@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Vids now lets you star in your own AI videos](https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/)
+- [Roblox launches an AI-powered game creation feature in its mobile app](https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/)
+- [Astronomers discover 1st atmosphere around a rocky Earth-like planet in the habitable zone](https://www.space.com/astronomy/exoplanets/astronomers-discover-1st-atmosphere-around-a-rocky-earth-like-planet-in-the-habitable-zone)
 - [Oil giant BP shutters its corporate venture arm after 20 years](https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/)
 - [Uber’s $14.8B Delivery Hero deal would nearly double its global footprint](https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/)
-- [SpaceX stacks massive Starship rocket ahead of today&#39;s Flight 13 test launch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-stacks-massive-starship-rocket-ahead-of-todays-flight-13-test-launch-video)
-- [Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI](https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/)
-- [An animated sci-fi rom-com wasn&#39;t on our wish list, but we&#39;ll be damned if &#39;Not Alone&#39; doesn&#39;t look sweet, stylish, and hilarious](https://www.space.com/entertainment/space-movies-shows/an-animated-sci-fi-rom-com-wasnt-on-our-wish-list-but-well-be-damned-if-not-alone-doesnt-look-sweet-stylish-and-hilarious)
 <!-- BLOG-POST-LIST:END -->
 
 ---
