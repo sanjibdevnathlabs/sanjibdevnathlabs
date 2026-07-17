@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AI&#39;s Impact on Network Engineers | LIVE AMA | Summer of CCNA](https://www.youtube.com/watch?v=O7XOUK4B5pg)
+- [ChatGPT wrote a Python script in 10 seconds. Should you be worried? 😳👇](https://www.youtube.com/shorts/mCZU2N5cExs)
+- [GPS Hidden Messages - Computerphile](https://www.youtube.com/watch?v=2Q6OvYjOJi0)
 - [The most controversial rewrite in history just shipped...](https://www.youtube.com/watch?v=CXSvKcLovAk)
-- [OpenAI is so back... GPT 5.6 Sol first look](https://www.youtube.com/watch?v=URKml8lgw8Y)
-- [Claude is definitely not conscious…](https://www.youtube.com/watch?v=KGtko3y2RXQ)
-- [The weird history of the internet...](https://www.youtube.com/watch?v=7B0ydm64cV8)
-- [Midjourney has a new side quest... death](https://www.youtube.com/watch?v=a2i9h2ip-nY)
+- [OCW + YouTube: objetivos y estrategias de participación &lpar;Spanish&rpar;](https://www.youtube.com/watch?v=HoTc_0mBN88)
 <!-- YOUTUBE:END -->
 
 ---
