@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Perseid meteor shower is here! How to see the best shooting stars this summer](https://www.space.com/stargazing/meteor-showers/the-perseid-meteor-shower-is-here-how-to-see-the-best-shooting-stars-this-summer)
-- [Why the first GPU financiers are turning to inference chips in a $400 million deal](https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/)
-- [Astronauts just launched on a Soyuz rocket with an energy-drink ad on it, continuing a Russian tradition](https://www.space.com/space-exploration/launches-spacecraft/astronauts-just-launched-on-a-soyuz-rocket-with-an-energy-drink-ad-on-it-continuing-a-russian-tradition)
-- [Are we underestimating the threat of solar storms? A &#39;once-in-a-thousand-year&#39; disaster is worth considering, scientists say](https://www.space.com/astronomy/sun/are-we-underestimating-the-threat-of-solar-storms-a-once-in-a-thousand-year-disaster-is-worth-considering-scientists-say)
-- [San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco](https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/)
+- [&#39;The Starry Night&#39; in space: Dark Energy Camera channels a cosmic Van Gogh &lpar;video&rpar;](https://www.space.com/astronomy/stars/the-starry-night-in-space-dark-energy-camera-channels-a-cosmic-van-gogh-video)
+- [Remarkable’s new Paper Pure is good. That’s why I wrote this review on it.](https://techcrunch.com/2026/07/17/remarkables-new-paper-pure-is-good-thats-why-i-wrote-this-review-on-it/)
+- [No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling](https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/)
+- [Zoox issues software recall after a robotaxi got confused by heavy smoke](https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/)
+- [Smoke from devastating Canada wildfires visible from space | Space photo of the day for July 17, 2026](https://www.space.com/astronomy/earth/smoke-from-devastating-canada-wildfires-visible-from-space-space-photo-of-the-day-for-july-17-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
