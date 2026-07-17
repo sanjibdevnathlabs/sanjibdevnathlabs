@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;The Starry Night&#39; in space: Dark Energy Camera channels a cosmic Van Gogh &lpar;video&rpar;](https://www.space.com/astronomy/stars/the-starry-night-in-space-dark-energy-camera-channels-a-cosmic-van-gogh-video)
-- [Remarkable’s new Paper Pure is good. That’s why I wrote this review on it.](https://techcrunch.com/2026/07/17/remarkables-new-paper-pure-is-good-thats-why-i-wrote-this-review-on-it/)
-- [No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling](https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/)
-- [Zoox issues software recall after a robotaxi got confused by heavy smoke](https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/)
-- [Smoke from devastating Canada wildfires visible from space | Space photo of the day for July 17, 2026](https://www.space.com/astronomy/earth/smoke-from-devastating-canada-wildfires-visible-from-space-space-photo-of-the-day-for-july-17-2026)
+- [Earth&#39;s largest particle accelerator opens new window into the early universe just after the Big Bang: &#39;A culmination of a decades-long quest&#39;](https://www.space.com/science/particle-physics/earths-largest-particle-accelerator-opens-new-window-into-the-early-universe-just-after-the-big-bang-a-culmination-of-a-decades-long-quest)
+- [FBI arrests man accused of using Steam games to drain victims’ crypto wallets](https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/)
+- [Parents want safer phones for kids. These companies are answering the call.](https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/)
+- [Making history: Watch Vikram-1, India&#39;s 1st private orbital rocket, launch early on July 18](https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1)
+- [Amazon fixing bug that billed some AWS customers billions of dollars](https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
