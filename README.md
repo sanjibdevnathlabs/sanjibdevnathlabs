@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Perseid meteor shower is here! How to see the best shooting stars this summer](https://www.space.com/stargazing/meteor-showers/the-perseid-meteor-shower-is-here-how-to-see-the-best-shooting-stars-this-summer)
+- [Why the first GPU financiers are turning to inference chips in a $400 million deal](https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/)
+- [Astronauts just launched on a Soyuz rocket with an energy-drink ad on it, continuing a Russian tradition](https://www.space.com/space-exploration/launches-spacecraft/astronauts-just-launched-on-a-soyuz-rocket-with-an-energy-drink-ad-on-it-continuing-a-russian-tradition)
 - [Are we underestimating the threat of solar storms? A &#39;once-in-a-thousand-year&#39; disaster is worth considering, scientists say](https://www.space.com/astronomy/sun/are-we-underestimating-the-threat-of-solar-storms-a-once-in-a-thousand-year-disaster-is-worth-considering-scientists-say)
 - [San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco](https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/)
-- [SpaceX&#39;s Starship Flight 13 test launch aborts at last second &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-flight-13-test-launch-aborts-at-last-second-video)
-- [SpaceX suddenly aborts second Starship V3 launch after ignition](https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/)
-- [Coca-Cola suspended production at its Fairlife dairy after a ransomware attack](https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
