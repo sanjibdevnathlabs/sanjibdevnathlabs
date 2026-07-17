@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield](https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/)
+- [Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs](https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/)
 - [Databricks hits $188B valuation, extending its run as AI’s favorite second act](https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/)
 - [Remembering &#39;Ulysses 31&#39;, the &#39;80s cartoon that transported &#39;The Odyssey&#39; to outer space](https://www.space.com/entertainment/space-movies-shows/remembering-ulysses-31-the-80s-cartoon-that-transported-the-odyssey-to-outer-space)
 - [The Zoom hack that says, ‘Don’t record me’](https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/)
-- [These &#39;metallic&#39; dunes on Mars look like sci-fi. What are they really?](https://www.space.com/astronomy/mars/these-metallic-dunes-on-mars-look-like-sci-fi-what-are-they-really)
-- [Agility Robotics plants its flag in Tesla’s backyard](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
