@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kimi: Threat or menace?](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/)
 - [All the EVs that were discontinued or killed off in the U.S. this year](https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/)
 - [Federal employees can download TikTok on their work phones again](https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/)
 - [A 600-mile road trip &lpar;and data&rpar; proves EV charging doesn’t suck anymore](https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/)
 - [Another reusable rocket? Japan launches, lands RV-X  prototype &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/another-reusable-rocket-coming-japan-launches-lands-rv-x-prototype-video)
-- [This Week In Space podcast: Episode 219 — SpaceX Goes to War!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-219-spacex-goes-to-war)
 <!-- BLOG-POST-LIST:END -->
 
 ---
