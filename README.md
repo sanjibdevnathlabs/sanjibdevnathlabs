@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [All the EVs that were discontinued or killed off in the U.S. this year](https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/)
+- [Federal employees can download TikTok on their work phones again](https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/)
 - [A 600-mile road trip &lpar;and data&rpar; proves EV charging doesn’t suck anymore](https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/)
 - [Another reusable rocket? Japan launches, lands RV-X  prototype &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/another-reusable-rocket-coming-japan-launches-lands-rv-x-prototype-video)
 - [This Week In Space podcast: Episode 219 — SpaceX Goes to War!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-219-spacex-goes-to-war)
-- [&#39;We knew we had a lot to live up to&#39;: As &#39;Aliens&#39; turns 40, we chat to the legendary VFX masters who created the Alien Queen &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/we-knew-we-had-a-lot-to-live-up-to-as-aliens-turns-40-we-chat-to-the-legendary-vfx-masters-who-created-the-alien-queen-interview)
-- [Beyond the Perseids: 6 meteor showers worth watching this summer](https://www.space.com/stargazing/meteor-showers/beyond-the-perseids-6-meteor-showers-worth-watching-this-summer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
