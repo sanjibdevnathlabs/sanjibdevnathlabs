@@ -134,7 +134,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [I got inside FIFA’s Secret World Cup Broadcast Network](https://www.youtube.com/watch?v=LhnH0juUaGw)
+- [FIFA let me into their Network](https://www.youtube.com/watch?v=LhnH0juUaGw)
 - [OpenAI gets sued for stealing, again…](https://www.youtube.com/watch?v=5D4Zqp9GLSc)
 - [AI&#39;s Impact on Network Engineers | LIVE AMA | Summer of CCNA](https://www.youtube.com/watch?v=O7XOUK4B5pg)
 - [ChatGPT wrote a Python script in 10 seconds. Should you be worried? 😳👇](https://www.youtube.com/shorts/mCZU2N5cExs)
