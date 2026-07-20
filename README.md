@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies](https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/)
-- [Artemis II was an incredible reminder of our shared humanity just when we needed it most &lpar;op-ed&rpar;](https://www.space.com/space-exploration/artemis/artemis-ii-was-an-incredible-reminder-of-our-shared-humanity-just-when-we-needed-it-most-op-ed)
-- [Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026](https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/)
-- [Get stabilized views of the cosmos with the Canon 18x50 IS binoculars, now almost 30% off](https://www.space.com/stargazing/skywatching-kit/get-stabilized-views-of-the-cosmos-with-the-canon-18x50-is-binoculars-now-almost-30-percent-off)
-- [Ancient sandstorm leaves behind wreckage on Mars | Space photo of the day for July 20, 2026](https://www.space.com/astronomy/mars/ancient-sandstorm-leaves-behind-wreckage-on-mars-space-photo-of-the-day-for-july-20-2026)
+- [&#39;Stranger Things&#39; at 10: The Netflix streaming icon that made it cool to like science again](https://www.space.com/entertainment/space-movies-shows/stranger-things-at-10-the-netflix-streaming-icon-that-made-it-cool-to-like-science-again)
+- [Twice in a row: SpaceX rocket aborts launch at last second again &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-abort-falcon-9-starlink-satellites-vandenberg)
+- [Four astronauts, 3 spacecraft, 2 weeks in orbit: Artemis III will be NASA&#39;s most complicated mission ever](https://www.space.com/space-exploration/artemis/four-astronauts-3-spacecraft-2-weeks-in-orbit-artemis-iii-will-be-nasas-most-complicated-mission-ever)
+- [Adobe camera app’s new feature will critique your photos using AI](https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/)
+- [Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk](https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
