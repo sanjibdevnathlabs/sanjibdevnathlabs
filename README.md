@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Did Viking 1 find life on Mars 50 years ago? Here&#39;s why the debate continues](https://www.space.com/astronomy/mars/did-viking-1-find-life-on-mars-50-years-ago-heres-why-the-debate-continues)
-- [An artificial &#39;Saturn&#39;s ring&#39; of satellites could soon fill the sky, astronomers warn](https://www.space.com/space-exploration/satellites/an-artificial-saturns-ring-of-satellites-could-soon-fill-the-sky-astronomers-warn)
-- [Netflix paid $587M for Ben Affleck’s AI filmmaking startup](https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/)
-- [What to watch for after Jensen Huang’s Japan visit](https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/)
-- [Can an Apple lawsuit derail OpenAI’s hardware plans?](https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/)
+- [Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies](https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/)
+- [Artemis II was an incredible reminder of our shared humanity just when we needed it most &lpar;op-ed&rpar;](https://www.space.com/space-exploration/artemis/artemis-ii-was-an-incredible-reminder-of-our-shared-humanity-just-when-we-needed-it-most-op-ed)
+- [Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026](https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/)
+- [Get stabilized views of the cosmos with the Canon 18x50 IS binoculars, now almost 30% off](https://www.space.com/stargazing/skywatching-kit/get-stabilized-views-of-the-cosmos-with-the-canon-18x50-is-binoculars-now-almost-30-percent-off)
+- [Ancient sandstorm leaves behind wreckage on Mars | Space photo of the day for July 20, 2026](https://www.space.com/astronomy/mars/ancient-sandstorm-leaves-behind-wreckage-on-mars-space-photo-of-the-day-for-july-20-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
