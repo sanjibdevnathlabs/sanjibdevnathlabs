@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI is scared of open-weight models. Should the US Be?](https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/)
+- [Natural raises $30M to reinvent payments for AI agents — and take on Stripe](https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/)
+- [50 years after Viking 1&#39;s historic Mars landing, NASA is looking to the Red Planet&#39;s skies](https://www.space.com/astronomy/mars/50-years-after-viking-1s-historic-mars-landing-nasa-is-looking-to-the-red-planets-skies)
+- [Judge pauses $110B Paramount-Warner Bros. merger](https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/)
 - [&#39;Stranger Things&#39; at 10: The Netflix streaming icon that made it cool to like science again](https://www.space.com/entertainment/space-movies-shows/stranger-things-at-10-the-netflix-streaming-icon-that-made-it-cool-to-like-science-again)
-- [Twice in a row: SpaceX rocket aborts launch at last second again &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-abort-falcon-9-starlink-satellites-vandenberg)
-- [Four astronauts, 3 spacecraft, 2 weeks in orbit: Artemis III will be NASA&#39;s most complicated mission ever](https://www.space.com/space-exploration/artemis/four-astronauts-3-spacecraft-2-weeks-in-orbit-artemis-iii-will-be-nasas-most-complicated-mission-ever)
-- [Adobe camera app’s new feature will critique your photos using AI](https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/)
-- [Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk](https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
