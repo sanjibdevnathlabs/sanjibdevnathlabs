@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI is scared of open-weight models. Should the US Be?](https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/)
-- [Natural raises $30M to reinvent payments for AI agents — and take on Stripe](https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/)
-- [50 years after Viking 1&#39;s historic Mars landing, NASA is looking to the Red Planet&#39;s skies](https://www.space.com/astronomy/mars/50-years-after-viking-1s-historic-mars-landing-nasa-is-looking-to-the-red-planets-skies)
-- [Judge pauses $110B Paramount-Warner Bros. merger](https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/)
-- [&#39;Stranger Things&#39; at 10: The Netflix streaming icon that made it cool to like science again](https://www.space.com/entertainment/space-movies-shows/stranger-things-at-10-the-netflix-streaming-icon-that-made-it-cool-to-like-science-again)
+- [SpaceX targets July 23 for crucial Starship Flight 13 test launch after abort](https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-july-23-for-crucial-starship-flight-13-test-launch-after-abort)
+- [AI’s most important protocol is getting a little bit easier to use](https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/)
+- [Scientists discover mystery molecule on Pluto and Saturn&#39;s moon Titan: &#39;We cannot say what it is&#39;](https://www.space.com/astronomy/james-webb-space-telescope/scientists-discover-mystery-molecule-on-pluto-and-saturns-moon-titan-we-cannot-say-what-it-is)
+- [X relaunches a rebuilt Android app after year-long effort](https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/)
+- [OpenAI is scared of open-weight models. Should the US be?](https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
