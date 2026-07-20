@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [I got inside FIFA’s Secret World Cup Broadcast Network](https://www.youtube.com/watch?v=LhnH0juUaGw)
-- [OpenAI gets sued for stealing, again…](https://www.youtube.com/watch?v=5D4Zqp9GLSc)
-- [AI&#39;s Impact on Network Engineers | LIVE AMA | Summer of CCNA](https://www.youtube.com/watch?v=O7XOUK4B5pg)
-- [ChatGPT wrote a Python script in 10 seconds. Should you be worried? 😳👇](https://www.youtube.com/shorts/mCZU2N5cExs)
-- [GPS Hidden Messages - Computerphile](https://www.youtube.com/watch?v=2Q6OvYjOJi0)
+- [Lecture 4: The Capital Cost of Nuclear Power](https://www.youtube.com/watch?v=Vrl7jCTJNv8)
+- [Lecture 12: Introduction to Radiation Risk](https://www.youtube.com/watch?v=YAC1reLueKs)
+- [Lecture 19: Why the Public Is Skeptical About Nuclear Power—a Way Forward](https://www.youtube.com/watch?v=2h1K_WYLIr0)
+- [Lecture 6: Nuclear Reactor Cost Around the World and the Potential for Cost Reduction](https://www.youtube.com/watch?v=U2TbMFeHTdM)
+- [Lecture 17: Nuclear Proliferation and the Nuclear Fuel Cycle — Part 2](https://www.youtube.com/watch?v=J6f-_JCEA0o)
 <!-- YOUTUBE:END -->
 
 ---
