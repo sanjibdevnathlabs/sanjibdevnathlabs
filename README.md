@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This $12 billion startup finally shipped something...](https://www.youtube.com/watch?v=M51asSwRLxA)
 - [Lecture 4: The Capital Cost of Nuclear Power](https://www.youtube.com/watch?v=Vrl7jCTJNv8)
 - [Lecture 12: Introduction to Radiation Risk](https://www.youtube.com/watch?v=YAC1reLueKs)
 - [Lecture 19: Why the Public Is Skeptical About Nuclear Power—a Way Forward](https://www.youtube.com/watch?v=2h1K_WYLIr0)
 - [Lecture 6: Nuclear Reactor Cost Around the World and the Potential for Cost Reduction](https://www.youtube.com/watch?v=U2TbMFeHTdM)
-- [Lecture 17: Nuclear Proliferation and the Nuclear Fuel Cycle — Part 2](https://www.youtube.com/watch?v=J6f-_JCEA0o)
 <!-- YOUTUBE:END -->
 
 ---
