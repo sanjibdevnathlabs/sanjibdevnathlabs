@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis III astronauts will beam 4k video from Orion to Earth using SpaceX Starlink lasers](https://www.space.com/space-exploration/artemis/artemis-iii-astronauts-will-beam-4k-video-from-orion-to-earth-using-spacex-starlink-lasers)
-- [Instagram now lets you swap out the music in your old posts](https://techcrunch.com/2026/07/21/instagram-now-lets-you-swap-out-the-music-in-your-old-posts/)
-- [Threads rolls out parental supervision tools](https://techcrunch.com/2026/07/21/threads-rolls-out-parental-supervision-tools/)
-- [The &#39;Avengers Doomsday&#39; trailer is cool, but it&#39;s missing something... where&#39;s all the space stuff?](https://www.space.com/entertainment/space-movies-shows/the-avengers-doomsday-trailer-is-cool-but-its-missing-something-wheres-all-the-space-stuff-at)
-- [US threatens sanctions against Chinese AI models over IP theft](https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/)
+- [Space Force orders 36 more Golden Dome missile-tracking satellites, for $1.75 billion](https://www.space.com/space-exploration/satellites/space-force-orders-36-more-golden-dome-missile-tracking-satellites-for-usd1-75-billion)
+- [Einride bets $38M on EV charging as it scales electric trucking](https://techcrunch.com/2026/07/21/einride-bets-38m-on-ev-charging-as-it-scales-electric-trucking/)
+- [SpaceX Falcon 9 rocket sends Starlink satellites to orbit a day after rare launch abort](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-39-b1082-vsfb-ocisly)
+- [Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs](https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/)
+- [Data centers expected to use 4x more electricity by 2035](https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
