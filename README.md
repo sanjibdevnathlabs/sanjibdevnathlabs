@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic’s landmark $1.5B copyright settlement is approved](https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/)
 - [Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation](https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/)
 - [Trump’s latest AI czar has already resigned](https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/)
 - [Google is working on a new AI chip designed to make Gemini more efficient](https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/)
 - [The 1st &#39;Avengers: Doomsday&#39; trailer is here, and it&#39;s stuffed to bursting with superheroes](https://www.space.com/entertainment/space-movies-shows/the-1st-avengers-doomsday-trailer-is-here-and-its-stuffed-to-bursting-with-superheroes)
-- [SpaceX targets July 23 for crucial Starship Flight 13 test launch after abort](https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-july-23-for-crucial-starship-flight-13-test-launch-after-abort)
 <!-- BLOG-POST-LIST:END -->
 
 ---
