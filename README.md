@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis III astronauts will beam 4k video from Orion to Earth using SpaceX Starlink lasers](https://www.space.com/space-exploration/artemis/artemis-iii-astronauts-will-beam-4k-video-from-orion-to-earth-using-spacex-starlink-lasers)
+- [Instagram now lets you swap out the music in your old posts](https://techcrunch.com/2026/07/21/instagram-now-lets-you-swap-out-the-music-in-your-old-posts/)
+- [Threads rolls out parental supervision tools](https://techcrunch.com/2026/07/21/threads-rolls-out-parental-supervision-tools/)
+- [The &#39;Avengers Doomsday&#39; trailer is cool, but it&#39;s missing something... where&#39;s all the space stuff?](https://www.space.com/entertainment/space-movies-shows/the-avengers-doomsday-trailer-is-cool-but-its-missing-something-wheres-all-the-space-stuff-at)
 - [US threatens sanctions against Chinese AI models over IP theft](https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/)
-- [Scientists may have found the 1st twin star system where both stars exploded](https://www.space.com/astronomy/stars/scientists-may-have-found-the-1st-twin-star-system-where-both-stars-exploded)
-- [Light made a flip phone. It’s colorful and it’s cheap.](https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/)
-- [After TikTok, Snap settles social media addiction case](https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/)
-- [AI music generator Suno breach affects 55M users, per Have I Been Pwned](https://techcrunch.com/2026/07/21/ai-music-generator-suno-breach-affects-55m-users-per-have-i-been-pwned/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
