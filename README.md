@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bluecore Energy raises $10M to build portable nuclear reactors on barges](https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/)
-- [SpaceX will launch a satellite repair drone with robot arms to Earth orbit today: How to watch it live](https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-northrop-grumman-mrv-mep-satellite-servicing-mission)
-- [A massive crater was spotted on Google Earth. It could be a scar from an ancient meteorite impact](https://www.space.com/astronomy/earth/a-massive-crater-was-spotted-on-google-earth-it-could-be-a-scar-from-an-ancient-meteorite-impact)
-- [Gritt exits stealth with $34 million for robots to build solar plants — then, everything else](https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/)
-- [Galaxy cluster&#39;s magnetic field reconstructed for 1st time with record-breaking astronomy map](https://www.space.com/astronomy/galaxies/galaxy-clusters-magnetic-field-reconstructed-for-1st-time-with-record-breaking-astronomy-map)
+- [US threatens sanctions against Chinese AI models over IP theft](https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/)
+- [Scientists may have found the 1st twin star system where both stars exploded](https://www.space.com/astronomy/stars/scientists-may-have-found-the-1st-twin-star-system-where-both-stars-exploded)
+- [Light made a flip phone. It’s colorful and it’s cheap.](https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/)
+- [After TikTok, Snap settles social media addiction case](https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/)
+- [AI music generator Suno breach affects 55M users, per Have I Been Pwned](https://techcrunch.com/2026/07/21/ai-music-generator-suno-breach-affects-55m-users-per-have-i-been-pwned/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
