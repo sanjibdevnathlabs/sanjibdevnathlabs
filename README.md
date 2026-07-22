@@ -134,7 +134,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Kimi K3 just parameter mogged every open-weight model…](https://www.youtube.com/watch?v=YP73B9D20V4)
+- [Open-weight AI just hit 2.8 trillion parameters…](https://www.youtube.com/watch?v=YP73B9D20V4)
 - [Optimizing the Full Stack for Generative Image and Video Models](https://www.youtube.com/watch?v=okgOtuRUCBs)
 - [This $12 billion startup finally shipped something...](https://www.youtube.com/watch?v=M51asSwRLxA)
 - [Lecture 4: The Capital Cost of Nuclear Power](https://www.youtube.com/watch?v=Vrl7jCTJNv8)
