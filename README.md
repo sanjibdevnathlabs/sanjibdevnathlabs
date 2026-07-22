@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era](https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/)
+- [Metal spheres found in Australia show how little we still know about falling space debris, experts say](https://www.space.com/space-exploration/launches-spacecraft/metal-spheres-found-in-australia-show-how-little-we-still-know-about-falling-space-debris-experts-say)
 - [Synthesia’s AI training platform is moving beyond videos into live coaching](https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/)
 - [The Anthropic-Physical Intelligence rumor roiling AI Twitter](https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/)
 - [Dimension Capital’s $800M third fund shows the intersection of science and compute is booming](https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/)
-- [Meta is testing an AI bedtime story app for people with no imagination](https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/)
-- [James Webb Space Telescope discovers the secrets of cosmic &#39;factories&#39; that filled the early universe with stardust](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-discovers-the-secrets-of-cosmic-factories-that-filled-the-early-universe-with-stardust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
