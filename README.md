@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dimension Capital’s $800M third fund shows the intersection of science and compute is booming](https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/)
+- [Meta is testing an AI bedtime story app for people with no imagination](https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/)
 - [James Webb Space Telescope discovers the secrets of cosmic &#39;factories&#39; that filled the early universe with stardust](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-discovers-the-secrets-of-cosmic-factories-that-filled-the-early-universe-with-stardust)
 - [These are the countries moving to ban social media for children](https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/)
-- [OpenAI says Hugging Face was breached by its own pre-release models](https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/)
-- [Alien life likely can&#39;t survive on exoplanets smaller than Mars, scientists say](https://www.space.com/space-exploration/search-for-life/alien-life-likely-cant-survive-on-exoplanets-smaller-than-mars-scientists-say)
-- [Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents](https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/)
+- [OpenAI says Hugging Face was breached by its pre-release models](https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
