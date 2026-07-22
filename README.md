@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google is making it easier to switch from iPhone to Android](https://techcrunch.com/2026/07/22/google-is-making-it-easier-to-switch-from-iphone-to-android/)
-- [If space war erupts, &#39;none of us will be able to avoid the war zone,&#39; warns outgoing Space Force chief in final public speech](https://www.space.com/space-exploration/satellites/if-space-war-erupts-none-of-us-will-be-able-to-avoid-the-war-zone-warns-outgoing-space-force-chief-in-final-public-speech)
-- [Arcee, a US open source AI lab, says Chinese models are not inherently dangerous](https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/)
-- [Substack’s new tool tells you who’s been writing their newsletters with AI](https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/)
-- [OpenAI’s AI spending spree has ballooned to $750B](https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/)
+- [After nearly 30 years, NASA realized this near-Earth asteroid is actually a comet. The discovery may help us defend the planet some day](https://www.space.com/astronomy/comets/after-nearly-30-years-nasa-realized-this-near-earth-asteroid-is-actually-a-comet-the-discovery-may-help-us-defend-the-planet-some-day)
+- [Travis Kalanick’s robotics company raises $1.7B, led by a16z](https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/)
+- [Science Corporation’s vision-restoring chip wins EU approval](https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/)
+- [Yope raises $12.3M to build a private social network without algorithms or ads](https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/)
+- [Menlo Ventures’ Matt Murphy explains why Anthropic is winning &lpar;and it’s not the model&rpar;](https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
