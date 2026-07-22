@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era](https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/)
-- [Metal spheres found in Australia show how little we still know about falling space debris, experts say](https://www.space.com/space-exploration/launches-spacecraft/metal-spheres-found-in-australia-show-how-little-we-still-know-about-falling-space-debris-experts-say)
-- [Synthesia’s AI training platform is moving beyond videos into live coaching](https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/)
-- [The Anthropic-Physical Intelligence rumor roiling AI Twitter](https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/)
-- [Dimension Capital’s $800M third fund shows the intersection of science and compute is booming](https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/)
+- [The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari](https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/)
+- [Passionfroot raises $15M to expand its B2B creator marketplace to the US](https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/)
+- [WhatsApp adds Apple CarPlay and Android Auto upgrades, iPad sign-ups, and more](https://techcrunch.com/2026/07/22/whatsapp-adds-apple-carplay-and-android-auto-upgrades-ipad-sign-ups-and-more/)
+- [&#39;The court has to intervene now&#39;: Indigenous groups and conservationists condemn SpaceX&#39;s South Texas land swap](https://www.space.com/space-exploration/launches-spacecraft/the-court-has-to-intervene-now-indigenous-groups-and-conservationists-condemn-spacexs-south-texas-land-swap)
+- [New timelapse video shows NASA&#39;s Psyche spacecraft zooming by Mars](https://www.space.com/astronomy/mars/new-timelapse-video-shows-nasas-psyche-spacecraft-zooming-by-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
