@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google justifies its massive AI spending with a booming cloud business](https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/)
+- [China&#39;s record-breaking Gravity-1 rocket launches 9 satellites from a ship at sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/chinas-record-breaking-gravity-1-rocket-launches-9-satellites-from-a-ship-at-sea-video)
 - [Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable](https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/)
 - [Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips](https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/)
 - [Social media addiction lawsuit against Meta is dropped](https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/)
-- [5 disturbing things we saw after digging into the recent &#39;Dune: Part 3&#39; trailer](https://www.space.com/entertainment/space-movies-shows/5-disturbing-things-we-saw-after-digging-into-the-recent-dune-part-3-trailer)
-- [SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown](https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
