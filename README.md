@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers may have discovered the 1st moon outside of our solar system — or is it something weirder?](https://www.space.com/astronomy/exoplanets/astronomers-may-have-discovered-the-1st-moon-outside-of-our-solar-system-or-is-it-something-weirder)
+- [Our 1st-ever up-close look at the Martian surface | Space photo of the day for July 22, 2026](https://www.space.com/astronomy/mars/our-1st-ever-up-close-look-at-the-martian-surface-space-photo-of-the-day-for-july-22-2026)
+- [Cascade raises $3.5M to help construction firms find and win projects](https://techcrunch.com/2026/07/22/cascade-raises-3-5m-to-help-construction-firms-find-and-win-projects/)
 - [The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari](https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/)
 - [Passionfroot raises $15M to expand its B2B creator marketplace to the US](https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/)
-- [WhatsApp adds Apple CarPlay and Android Auto upgrades, iPad sign-ups, and more](https://techcrunch.com/2026/07/22/whatsapp-adds-apple-carplay-and-android-auto-upgrades-ipad-sign-ups-and-more/)
-- [&#39;The court has to intervene now&#39;: Indigenous groups and conservationists condemn SpaceX&#39;s South Texas land swap](https://www.space.com/space-exploration/launches-spacecraft/the-court-has-to-intervene-now-indigenous-groups-and-conservationists-condemn-spacexs-south-texas-land-swap)
-- [New timelapse video shows NASA&#39;s Psyche spacecraft zooming by Mars](https://www.space.com/astronomy/mars/new-timelapse-video-shows-nasas-psyche-spacecraft-zooming-by-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
