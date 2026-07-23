@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [the PERFECT Raspberry Pi wall dashboard?](https://www.youtube.com/watch?v=34D1imLordU)
 - [The most interesting &quot;hack&quot; in history...](https://www.youtube.com/watch?v=KOpTWx1Eou4)
 - [CI/CD Explained in 5 Minutes](https://www.youtube.com/watch?v=ddDJxFnv-qs)
 - [Quantum Machine Learning - Computerphile](https://www.youtube.com/watch?v=CnSYsUhlx14)
 - [Open-weight AI just hit 2.8 trillion parameters…](https://www.youtube.com/watch?v=YP73B9D20V4)
-- [Optimizing the Full Stack for Generative Image and Video Models](https://www.youtube.com/watch?v=okgOtuRUCBs)
 <!-- YOUTUBE:END -->
 
 ---
