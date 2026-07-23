@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CI/CD Explained in 5 Minutes](https://www.youtube.com/watch?v=ddDJxFnv-qs)
+- [Quantum Machine Learning - Computerphile](https://www.youtube.com/watch?v=CnSYsUhlx14)
 - [Open-weight AI just hit 2.8 trillion parameters…](https://www.youtube.com/watch?v=YP73B9D20V4)
 - [Optimizing the Full Stack for Generative Image and Video Models](https://www.youtube.com/watch?v=okgOtuRUCBs)
 - [This $12 billion startup finally shipped something...](https://www.youtube.com/watch?v=M51asSwRLxA)
-- [Lecture 4: The Capital Cost of Nuclear Power](https://www.youtube.com/watch?v=Vrl7jCTJNv8)
-- [Lecture 12: Introduction to Radiation Risk](https://www.youtube.com/watch?v=YAC1reLueKs)
 <!-- YOUTUBE:END -->
 
 ---
