@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics](https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/)
 - [Vulcan Centaur swapped out again: NASA goes with SpaceX Falcon Heavy rocket for launch of space weather mission](https://www.space.com/space-exploration/missions/vulcan-centaur-swapped-out-again-nasa-goes-with-spacex-falcon-heavy-rocket-for-launch-of-space-weather-mission)
 - [&#39;Star Trek: Strange New Worlds&#39; Season 4: Release date &amp; how to watch Paramount+’s sensational sci-fi series](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-4-release-date-and-how-to-watch-paramount-s-sensational-sci-fi-series)
 - [AMD takes on Nvidia with its Helios AI rack-scale system](https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/)
 - [Patreon lays off 20% of its workforce](https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/)
-- [Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks](https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
