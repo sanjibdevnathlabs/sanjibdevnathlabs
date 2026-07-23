@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors](https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/)
-- [Edtech platform raises $4.5M to help teach students how to vibe code](https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/)
-- [Nvidia is sending GPUs to the moon](https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/)
-- [Google’s Gemini nears billion-user milestone](https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/)
-- [Amazon is bringing games to Prime Video](https://techcrunch.com/2026/07/23/amazon-is-bringing-games-to-prime-video/)
+- [Runway launches AI model router as generative media gets crowded](https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/)
+- [OpenAI makes ChatGPT Health available to all U.S. users](https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/)
+- [Tesla’s robotaxis are moving in reverse](https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/)
+- [Meta launched a new AI optimism ad set to a song about human extinction](https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/)
+- [Google will now let you sign in to your account with a selfie video](https://techcrunch.com/2026/07/23/google-will-now-let-you-sign-in-to-your-account-with-a-selfie-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
