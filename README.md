@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sam Altman’s biometric startup World raises $52.5 million via crypto sale](https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/)
-- [What lurks beneath the volcanoes of Jupiter&#39;s moon Io? NASA&#39;s Juno probe just took a peek](https://www.space.com/astronomy/jupiter/juno-probe-reveals-whats-happening-beneath-the-surface-of-jupiters-most-volcanic-moon)
-- [As US weighs response to Chinese AI, industry urges against broad open-weight restrictions](https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/)
-- [Rivian sues the US government for ‘full refund’ of Trump tariffs](https://techcrunch.com/2026/07/24/rivian-sues-the-us-government-for-full-refund-of-trump-tariffs/)
-- [Bluesky’s AI assistant Attie expands into an open social research tool](https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/)
+- [Why Cognition bought Poke: AI personality is becoming a competitive advantage](https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/)
+- [We boldly chat to &#39;Star Trek: Strange New Worlds&#39; showrunners about dinosaurs in space and Lovecraftian horrors for season 4 &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/we-boldly-chat-to-star-trek-strange-new-worlds-showrunners-about-dinosaurs-in-space-and-lovecraftian-horrors-for-season-4-interview)
+- [US accuses American of allegedly wiping his phone using a ‘duress’ password during border search](https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/)
+- [Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark](https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/)
+- [Build in public, fail in public: what it’s like to be a founder under 20 right now](https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
