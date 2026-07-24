@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/)
+- [TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between](https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/)
 - [Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same](https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/)
 - [Waymo reportedly mulling a breakup with Uber](https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/)
 - [ZWO Seestar S30 Pro smart telescope review](https://www.space.com/stargazing/skywatching-kit/zwo-seestar-s30-pro-smart-telescope-review)
-- [Volkswagen engineers charged with insider trading tied to Rivian joint venture](https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/)
-- [Why Cognition bought Poke: AI personality is becoming a competitive advantage](https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
