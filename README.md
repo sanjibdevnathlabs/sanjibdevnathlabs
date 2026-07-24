@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In Space LIVE: The Viking Mars landings 50 years later](https://www.space.com/astronomy/mars/this-week-in-space-live-the-viking-mars-landings-50-years-later)
-- [Hubble telescope watches unique nova explosion fire cosmic &#39;bullets&#39; through the Milky Way at 20 million mph](https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-watches-unique-nova-explosion-fire-cosmic-bullets-through-the-milky-way-at-20-million-mph)
-- [How AI guardrails are impeding the work of offensive cybersecurity researchers](https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/)
-- [Meet the judges who will crown Australia’s next breakout startup](https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/)
-- [Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics](https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/)
+- [Planet hunter gets the silent treatment | Space photo of the day for July 24, 2026](https://www.space.com/space-exploration/planet-hunter-gets-the-silent-treatment-space-photo-of-the-day-for-july-24-2026)
+- [OpenAI’s new voice mode makes it to the ChatGPT desktop app](https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/)
+- [The easiest way to learn the summer night sky starts with these 3 stars](https://www.space.com/stargazing/the-easiest-way-to-learn-the-summer-night-sky-starts-with-these-3-stars)
+- [Epic photo captures lightning striking a Chinese rocket during liftoff](https://www.space.com/space-exploration/launches-spacecraft/epic-photo-captures-lightning-striking-a-chinese-rocket-during-liftoff)
+- [Facebook launches a dedicated Marketplace app for sellers, adds a free verification system](https://techcrunch.com/2026/07/24/facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a-free-verification-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
