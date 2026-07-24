@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [AI&#39;s Impact on Network Engineers | LIVE AMA | Summer of CCNA](https://www.youtube.com/watch?v=O7XOUK4B5pg)
-- [the PERFECT Raspberry Pi wall dashboard?](https://www.youtube.com/watch?v=34D1imLordU)
 - [The most interesting &quot;hack&quot; in history...](https://www.youtube.com/watch?v=KOpTWx1Eou4)
-- [CI/CD Explained in 5 Minutes](https://www.youtube.com/watch?v=ddDJxFnv-qs)
 - [Quantum Machine Learning - Computerphile](https://www.youtube.com/watch?v=CnSYsUhlx14)
+- [Open-weight AI just hit 2.8 trillion parameters…](https://www.youtube.com/watch?v=YP73B9D20V4)
+- [This $12 billion startup finally shipped something...](https://www.youtube.com/watch?v=M51asSwRLxA)
+- [OpenAI gets sued for stealing, again…](https://www.youtube.com/watch?v=5D4Zqp9GLSc)
 <!-- YOUTUBE:END -->
 
 ---
