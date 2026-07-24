@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Planet hunter gets the silent treatment | Space photo of the day for July 24, 2026](https://www.space.com/space-exploration/planet-hunter-gets-the-silent-treatment-space-photo-of-the-day-for-july-24-2026)
-- [OpenAI’s new voice mode makes it to the ChatGPT desktop app](https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/)
-- [The easiest way to learn the summer night sky starts with these 3 stars](https://www.space.com/stargazing/the-easiest-way-to-learn-the-summer-night-sky-starts-with-these-3-stars)
-- [Epic photo captures lightning striking a Chinese rocket during liftoff](https://www.space.com/space-exploration/launches-spacecraft/epic-photo-captures-lightning-striking-a-chinese-rocket-during-liftoff)
-- [Facebook launches a dedicated Marketplace app for sellers, adds a free verification system](https://techcrunch.com/2026/07/24/facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a-free-verification-system/)
+- [Sam Altman’s biometric startup World raises $52.5 million via crypto sale](https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/)
+- [What lurks beneath the volcanoes of Jupiter&#39;s moon Io? NASA&#39;s Juno probe just took a peek](https://www.space.com/astronomy/jupiter/juno-probe-reveals-whats-happening-beneath-the-surface-of-jupiters-most-volcanic-moon)
+- [As US weighs response to Chinese AI, industry urges against broad open-weight restrictions](https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/)
+- [Rivian sues the US government for ‘full refund’ of Trump tariffs](https://techcrunch.com/2026/07/24/rivian-sues-the-us-government-for-full-refund-of-trump-tariffs/)
+- [Bluesky’s AI assistant Attie expands into an open social research tool](https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
