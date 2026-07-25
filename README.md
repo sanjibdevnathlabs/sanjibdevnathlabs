@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One fallen power line exposed a growing AI data center problem. Here’s how to fix it.](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/)
+- [An off-the-shelf camera could help us find more black holes smashing together](https://www.space.com/astronomy/black-holes/an-off-the-shelf-camera-could-help-us-find-more-black-holes-smashing-together)
 - [NASA astronaut, 2 cosmonauts returning to Earth on July 26: Watch it live](https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-two-cosmonauts-return-to-earth-soyuz-ms-28)
 - [SpaceX&#39;s Starship megarocket makes the &#39;softest splashdown&#39; ever after launching next-gen Starlink satellites in Flight 13 test &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-makes-the-softest-splashdown-ever-after-launching-next-gen-starlink-satellites-in-flight-13-test-video)
 - [I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/)
-- [SpaceX launches new V3 Starlink satellites but suffers another booster failure](https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/)
-- [Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
