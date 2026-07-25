@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech](https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/)
+- [We talk with astronaut Michael Foale about the 1997 Space Station Mir crisis: &#39;He took all the blame of the collision on his shoulders&#39;](https://www.space.com/entertainment/space-movies-shows/we-talk-with-astronaut-michael-foale-about-the-1997-space-station-mir-crisis-he-took-all-the-blame-of-the-collision-on-his-shoulders)
+- [This Week In Space podcast: Episode 220 — First on Mars](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-220-first-on-mars)
 - [One fallen power line exposed a growing AI data center problem. Here’s how to fix it.](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/)
 - [An off-the-shelf camera could help us find more black holes smashing together](https://www.space.com/astronomy/black-holes/an-off-the-shelf-camera-could-help-us-find-more-black-holes-smashing-together)
-- [NASA astronaut, 2 cosmonauts returning to Earth on July 26: Watch it live](https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-two-cosmonauts-return-to-earth-soyuz-ms-28)
-- [SpaceX&#39;s Starship megarocket makes the &#39;softest splashdown&#39; ever after launching next-gen Starlink satellites in Flight 13 test &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-makes-the-softest-splashdown-ever-after-launching-next-gen-starlink-satellites-in-flight-13-test-video)
-- [I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
