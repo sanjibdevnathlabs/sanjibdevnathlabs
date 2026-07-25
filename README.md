@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary](https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/)
 - [Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech](https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/)
 - [We talk with astronaut Michael Foale about the 1997 Space Station Mir crisis: &#39;He took all the blame of the collision on his shoulders&#39;](https://www.space.com/entertainment/space-movies-shows/we-talk-with-astronaut-michael-foale-about-the-1997-space-station-mir-crisis-he-took-all-the-blame-of-the-collision-on-his-shoulders)
 - [This Week In Space podcast: Episode 220 — First on Mars](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-220-first-on-mars)
 - [One fallen power line exposed a growing AI data center problem. Here’s how to fix it.](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/)
-- [An off-the-shelf camera could help us find more black holes smashing together](https://www.space.com/astronomy/black-holes/an-off-the-shelf-camera-could-help-us-find-more-black-holes-smashing-together)
 <!-- BLOG-POST-LIST:END -->
 
 ---
