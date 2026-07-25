@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/)
+- [SpaceX&#39;s Starship megarocket makes the &#39;softest splashdown&#39; ever after launching next-gen Starlink satellites in Flight 13 test &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-makes-the-softest-splashdown-ever-after-launching-next-gen-starlink-satellites-in-flight-13-test-video)
+- [I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/)
+- [SpaceX launches new V3 Starlink satellites but suffers another booster failure](https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/)
+- [Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/)
 - [TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between](https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/)
-- [Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same](https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/)
-- [Waymo reportedly mulling a breakup with Uber](https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/)
-- [ZWO Seestar S30 Pro smart telescope review](https://www.space.com/stargazing/skywatching-kit/zwo-seestar-s30-pro-smart-telescope-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
