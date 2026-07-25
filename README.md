@@ -136,7 +136,7 @@ I'm a software developer passionate about designing and building applications wi
 <!-- YOUTUBE:START -->
 - [From Medical Devices to AI DevOps Engineer! 🤯💻](https://www.youtube.com/shorts/1MbL0YUsSl4)
 - [AI&#39;s Impact on Network Engineers | LIVE AMA | Summer of CCNA](https://www.youtube.com/watch?v=O7XOUK4B5pg)
-- [the PERFECT Raspberry Pi wall dashboard?](https://www.youtube.com/watch?v=34D1imLordU)
+- [this Raspberry Pi belongs on your wall](https://www.youtube.com/watch?v=34D1imLordU)
 - [The most interesting &quot;hack&quot; in history...](https://www.youtube.com/watch?v=KOpTWx1Eou4)
 - [CI/CD Explained in 5 Minutes](https://www.youtube.com/watch?v=ddDJxFnv-qs)
 <!-- YOUTUBE:END -->
