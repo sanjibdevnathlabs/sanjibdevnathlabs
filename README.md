@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Apple make smart glasses that aren’t a constant privacy threat?](https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/)
 - [Making sense of the panic over Chinese AI](https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/)
 - [Inside one London founder house rewriting the founder-house rules](https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/)
 - [Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack](https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/)
 - [TechCrunch Mobility: Uber bets on its former CEO](https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/)
-- [What happened to space horror movies?](https://www.space.com/entertainment/space-movies-shows/what-happened-to-space-horror-movies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
