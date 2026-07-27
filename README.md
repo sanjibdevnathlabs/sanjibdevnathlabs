@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe got its own TBPN-style live show, and everyone’s angling for a guest spot](https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/)
+- [A seed that flew around the moon grew into this tree in NYC](https://www.space.com/astronomy/moon/a-seed-that-flew-around-the-moon-grew-into-this-tree-in-nyc)
+- [This is the best lunar eclipse until New Year&#39;s Eve 2028 — Here&#39;s how to spot the &#39;almost blood moon&#39; on Aug. 27](https://www.space.com/stargazing/lunar-eclipses/this-is-the-best-lunar-eclipse-until-new-years-eve-2028-heres-how-to-spot-the-almost-blood-moon-on-aug-27)
 - [Are brain waves the next unlock for physical AI?](https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/)
 - [Can Apple make smart glasses that aren’t a constant privacy threat?](https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/)
-- [Making sense of the panic over Chinese AI](https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/)
-- [Inside one London founder house rewriting the founder-house rules](https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/)
-- [Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack](https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
