@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Are we overlooking signs of alien life that aren&#39;t technological or biological? &#39;Bread would be a signature of intelligence&#39;](https://www.space.com/space-exploration/search-for-life/are-we-overlooking-signs-of-alien-life-that-arent-technological-or-biological-bread-would-be-a-signature-of-intelligence)
-- [Google’s AI search is rapidly becoming the default, new data shows](https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/)
-- [Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026](https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/)
-- [This $9 key physically locks your most addictive apps](https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/)
-- [Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research](https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/)
+- [Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX](https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/)
+- [25 years on, 2001&#39;s &#39;Planet of the Apes&#39; has become a bit of a guilty pleasure](https://www.space.com/entertainment/space-movies-shows/25-years-on-2001s-planet-of-the-apes-has-become-a-bit-of-a-guilty-pleasure)
+- [Antares raises $470M to build nuclear reactors for the US military](https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/)
+- [OpenAI’s Hugging Face breach has reignited the debate over alignment and control](https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/)
+- [On this day in space! July 27, 1962:  The 1st zero-g cosmonaut training flight takes off on a Soviet jetliner](https://www.space.com/space-exploration/on-this-day-in-space-july-27-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
