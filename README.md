@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snapchat now lets you share what you’re listening to in real time](https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/)
+- [Enigma raises $70M to make controlling a robot as easy as adjusting the volume](https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/)
+- [X-ray spacecraft finds supermassive black hole stirring up the &#39;red potato&#39; galaxy: &#39;There may be a cook in this cosmic kitchen&#39;](https://www.space.com/astronomy/black-holes/x-ray-spacecraft-finds-supermassive-black-hole-stirring-up-the-red-potato-galaxy-there-may-be-a-cook-in-this-cosmic-kitchen)
+- [Private companies could ruin the night sky for the entire world, and international law can&#39;t stop them](https://www.space.com/space-exploration/satellites/private-companies-could-ruin-the-night-sky-for-the-entire-world-and-international-law-cant-stop-them)
 - [Europe got its own TBPN-style live show, and everyone’s angling for a guest spot](https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/)
-- [A seed that flew around the moon grew into this tree in NYC](https://www.space.com/astronomy/moon/a-seed-that-flew-around-the-moon-grew-into-this-tree-in-nyc)
-- [This is the best lunar eclipse until New Year&#39;s Eve 2028 — Here&#39;s how to spot the &#39;almost blood moon&#39; on Aug. 27](https://www.space.com/stargazing/lunar-eclipses/this-is-the-best-lunar-eclipse-until-new-years-eve-2028-heres-how-to-spot-the-almost-blood-moon-on-aug-27)
-- [Are brain waves the next unlock for physical AI?](https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/)
-- [Can Apple make smart glasses that aren’t a constant privacy threat?](https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
