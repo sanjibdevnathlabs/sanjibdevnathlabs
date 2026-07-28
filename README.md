@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA fuels its next-gen Roman Space Telescope for August launch](https://www.space.com/astronomy/nasa-fuels-its-next-gen-roman-space-telescope-for-august-launch)
+- [MCP startup Runlayer accuses Rippling of stealing its product idea](https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/)
+- [Sam Altman is ready to decelerate](https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/)
 - [Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy](https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/)
 - [The robot NASA hired to lift a orbital telescope is tumbling out of control](https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/)
-- [Waymo, robotaxi operators face fresh scrutiny over emergency response failures](https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/)
-- [Our Milky Way galaxy appears to have flipped 90 degrees long ago. But why?](https://www.space.com/astronomy/galaxies/our-milky-way-galaxy-appears-to-have-flipped-90-degrees-long-ago-but-why)
-- [eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019](https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
