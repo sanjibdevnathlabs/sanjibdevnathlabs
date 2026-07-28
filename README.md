@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Recursive Superintelligence signs $410 compute deal with Amazon](https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/)
+- [Granola launches an Apple Watch app](https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/)
+- [BALLS on the moon: China set to launch Africa&#39;s 1st lunar science mission in 2029](https://www.space.com/astronomy/moon/balls-on-the-moon-china-set-to-launch-africas-1st-lunar-science-mission-in-2029)
+- [Betelgeuse, Betelgeuse! Astronomers capture clearest image yet of famous star&#39;s elusive companion](https://www.space.com/astronomy/stars/betelgeuse-betelgeuse-astronomers-capture-clearest-image-yet-of-famous-stars-elusive-companion)
 - [&#39;Crazy idea&#39; succeeds: Scientists monitor space junk with radio telescopes](https://www.space.com/astronomy/earth/crazy-idea-succeeds-scientists-monitor-space-junk-with-radio-telescopes)
-- [The unique DJI Lito X1 drone is packed full of functionality and you can&#39;t buy it in the USA](https://www.space.com/technology/dji-lito-x1-drone-review)
-- [Lyft and Baidu enter London’s robotaxi battleground as testing begins](https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/)
-- [Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing](https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/)
-- [Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI](https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
