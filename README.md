@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Saudi prince buys 5% stake in Lucid Motors](https://techcrunch.com/2026/07/28/saudi-prince-buys-5-stake-in-lucid-motors/)
-- [&#39;Silo&#39; season 3&#39;s Ashley Zuckerman and Jessica Henwick share the secret to their on-screen chemistry &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/silo-season-3s-ashley-zuckerman-and-jessica-henwick-share-the-secret-to-their-on-screen-chemistry-interview)
-- [Data centers may face temporary power cuts to prevent blackouts on largest US grid](https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/)
-- [PayPal leaves the door open to a higher takeover offer following earnings beat](https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/)
-- [SpaceX launches 24 Starlink satellites to orbit in wake of Starship test flight &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-51-b1100-vsfb-ocisly)
+- [Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy](https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/)
+- [The robot NASA hired to lift a orbital telescope is tumbling out of control](https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/)
+- [Waymo, robotaxi operators face fresh scrutiny over emergency response failures](https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/)
+- [Our Milky Way galaxy appears to have flipped 90 degrees long ago. But why?](https://www.space.com/astronomy/galaxies/our-milky-way-galaxy-appears-to-have-flipped-90-degrees-long-ago-but-why)
+- [eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019](https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
