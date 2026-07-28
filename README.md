@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PiDP6 &amp; Lisp - Computerphile](https://www.youtube.com/watch?v=dXBmCIfb92k)
 - [Lecture 4: Smart Contracts as a Solution to a Coordination Problem](https://www.youtube.com/watch?v=_8wK75ZhFnk)
 - [Lecture 10: Designs of Financial Infrastructure Utilizing Encryption](https://www.youtube.com/watch?v=dM0I2g8pEfc)
 - [Lecture 7: Stochastic Financial Networks](https://www.youtube.com/watch?v=97Z_uO13pfg)
 - [Lecture 8: Mechanism Design and Incentives vs. Protocols and Notions of Trust](https://www.youtube.com/watch?v=JRyv9G5ef-M)
-- [Lecture 3: Distributed Ledger as a Solution to an Information Problem](https://www.youtube.com/watch?v=wzJbzJVxGIQ)
 <!-- YOUTUBE:END -->
 
 ---
