@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Crazy idea&#39; succeeds: Scientists monitor space junk with radio telescopes](https://www.space.com/astronomy/earth/crazy-idea-succeeds-scientists-monitor-space-junk-with-radio-telescopes)
+- [The unique DJI Lito X1 drone is packed full of functionality and you can&#39;t buy it in the USA](https://www.space.com/technology/dji-lito-x1-drone-review)
 - [Lyft and Baidu enter London’s robotaxi battleground as testing begins](https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/)
 - [Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing](https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/)
 - [Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI](https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/)
-- [Starship in space! See highlights of SpaceX megarocket&#39;s epic Flight 13 test launch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/starship-in-space-see-highlights-of-spacex-megarockets-epic-flight-13-test-launch-video)
-- [Satya Nadella says companies that trust one AI for everything may not survive](https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
