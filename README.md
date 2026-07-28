@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Recursive Superintelligence signs $410 compute deal with Amazon](https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/)
-- [Granola launches an Apple Watch app](https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/)
-- [BALLS on the moon: China set to launch Africa&#39;s 1st lunar science mission in 2029](https://www.space.com/astronomy/moon/balls-on-the-moon-china-set-to-launch-africas-1st-lunar-science-mission-in-2029)
-- [Betelgeuse, Betelgeuse! Astronomers capture clearest image yet of famous star&#39;s elusive companion](https://www.space.com/astronomy/stars/betelgeuse-betelgeuse-astronomers-capture-clearest-image-yet-of-famous-stars-elusive-companion)
-- [&#39;Crazy idea&#39; succeeds: Scientists monitor space junk with radio telescopes](https://www.space.com/astronomy/earth/crazy-idea-succeeds-scientists-monitor-space-junk-with-radio-telescopes)
+- [Data centers may face temporary power cuts to prevent blackouts on largest US grid](https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/)
+- [PayPal leaves the door open to a higher takeover offer following earnings beat](https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/)
+- [SpaceX launches 24 Starlink satellites to orbit in wake of Starship test flight &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-51-b1100-vsfb-ocisly)
+- [Elon Musk’s X Money app is rolling out in the U.S.](https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/)
+- [WhatsApp now lets you make calls using its web app](https://techcrunch.com/2026/07/28/whatsapp-now-lets-you-make-calls-using-its-web-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
