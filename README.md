@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lyft and Baidu enter London’s robotaxi battleground as testing begins](https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/)
 - [Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing](https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/)
 - [Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI](https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/)
 - [Starship in space! See highlights of SpaceX megarocket&#39;s epic Flight 13 test launch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/starship-in-space-see-highlights-of-spacex-megarockets-epic-flight-13-test-launch-video)
 - [Satya Nadella says companies that trust one AI for everything may not survive](https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/)
-- [Thea Energy lands $20M federal grant to build its magnets for fusion reactors](https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
