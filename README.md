@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DoorDash is building its own drone delivery business](https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/)
+- [Spotify adds a running mode to its app](https://techcrunch.com/2026/07/29/spotify-adds-a-running-mode-to-its-app/)
+- [X-ray spacecraft detects the 36-million-degree &#39;breath&#39; of an ancient black hole](https://www.space.com/astronomy/black-holes/x-ray-spacecraft-detects-the-36-million-degree-breath-of-a-cosmic-giant-just-2-billion-years-after-the-big-bang)
+- [Fast Metals is treating waste with more waste to extract critical minerals](https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/)
 - [As AI content floods the internet, Pangram raises $9M to detect it](https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/)
-- [July&#39;s full Buck Moon leads a mini planet parade through the summer sky tonight](https://www.space.com/stargazing/full-buck-moon-leads-a-mini-planet-parade-through-the-summer-sky-july-29-2026)
-- [Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents](https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/)
-- [DJI Lito 1 drone review](https://www.space.com/technology/dji-lito-1-drone-review)
-- [Bot-detection startup Spur nabs $200M from Insight](https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
