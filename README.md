@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DoorDash is building its own drone delivery business](https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/)
-- [Spotify adds a running mode to its app](https://techcrunch.com/2026/07/29/spotify-adds-a-running-mode-to-its-app/)
-- [X-ray spacecraft detects the 36-million-degree &#39;breath&#39; of an ancient black hole](https://www.space.com/astronomy/black-holes/x-ray-spacecraft-detects-the-36-million-degree-breath-of-a-cosmic-giant-just-2-billion-years-after-the-big-bang)
-- [Fast Metals is treating waste with more waste to extract critical minerals](https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/)
-- [As AI content floods the internet, Pangram raises $9M to detect it](https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/)
+- [Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers](https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/)
+- [Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners](https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/)
+- [Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work](https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/)
+- [&#39;The Ark&#39; creator Dean Devlin talks season 3’s enormous mystery box and sci-fi surprises &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/the-ark-creator-dean-devlin-talks-season-3s-enormous-mystery-box-and-sci-fi-surprises-interview)
+- [Encore AI raises $30M to build AI agents that learn from customer calls](https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
