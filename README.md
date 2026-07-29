@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google brings its age-assurance technology to Android developers worldwide](https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/)
-- [SpaceX launching secret US spy satellite early on July 30: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-spy-satellite-launch-nrol-95)
-- [This genuinely pocket-sized smart telescope makes capturing the deep sky and the solar system almost effortless](https://www.space.com/stargazing/skywatching-kit/this-genuinely-pocket-sized-smart-telescope-makes-capturing-the-deep-sky-and-the-solar-system-almost-effortless)
-- [Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers](https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/)
-- [Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners](https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/)
+- [Claude Opus 5 became downright ruthless when tasked with running a vending machine](https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/)
+- [NASA launched this spacecraft to save a satellite. Now, it needs saving too](https://www.space.com/space-exploration/launches-spacecraft/nasa-launched-this-spacecraft-to-save-a-satellite-now-it-needs-saving-too)
+- [Sorry, haters. Ferrari’s first EV is doing just fine](https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/)
+- [Waymo robotaxis are starting to return to freeways](https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/)
+- [US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security](https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
