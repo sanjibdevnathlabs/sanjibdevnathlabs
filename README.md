@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag](https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/)
+- [&#39;It&#39;s going to do things that currently are impossible&#39;: The Roman Space Telescope, NASA&#39;s next great observatory, is ready to launch Aug. 30](https://www.space.com/astronomy/its-going-to-do-things-that-currently-are-impossible-the-roman-space-telescope-nasas-next-great-observatory-is-ready-to-launch-aug-30)
+- [Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents](https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/)
 - [Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026](https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/)
 - [Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI](https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/)
-- [Winamp aims for a comeback with a new music player powered by Deezer](https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/)
-- [Watch this stirring new &#39;Star Trek&#39; 60th anniversary video saluting the iconic sci-fi franchise](https://www.space.com/entertainment/watch-this-stirring-new-star-trek-60th-anniversary-video-saluting-the-iconic-sci-fi-franchise)
-- [The Hugging Face AI break-in, as told through an increasingly committed bear metaphor](https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
