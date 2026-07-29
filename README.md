@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [PiDP6 &amp; Lisp - Computerphile](https://www.youtube.com/watch?v=dXBmCIfb92k)
-- [Lecture 4: Smart Contracts as a Solution to a Coordination Problem](https://www.youtube.com/watch?v=_8wK75ZhFnk)
-- [Lecture 10: Designs of Financial Infrastructure Utilizing Encryption](https://www.youtube.com/watch?v=dM0I2g8pEfc)
-- [Lecture 7: Stochastic Financial Networks](https://www.youtube.com/watch?v=97Z_uO13pfg)
-- [Lecture 8: Mechanism Design and Incentives vs. Protocols and Notions of Trust](https://www.youtube.com/watch?v=JRyv9G5ef-M)
+- [The most interesting &quot;hack&quot; in history...](https://www.youtube.com/watch?v=KOpTWx1Eou4)
+- [Quantum Machine Learning - Computerphile](https://www.youtube.com/watch?v=CnSYsUhlx14)
+- [Open-weight AI just hit 2.8 trillion parameters…](https://www.youtube.com/watch?v=YP73B9D20V4)
+- [This $12 billion startup finally shipped something...](https://www.youtube.com/watch?v=M51asSwRLxA)
 <!-- YOUTUBE:END -->
 
 ---
