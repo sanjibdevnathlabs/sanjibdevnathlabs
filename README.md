@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google brings its age-assurance technology to Android developers worldwide](https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/)
+- [SpaceX launching secret US spy satellite early on July 30: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-spy-satellite-launch-nrol-95)
+- [This genuinely pocket-sized smart telescope makes capturing the deep sky and the solar system almost effortless](https://www.space.com/stargazing/skywatching-kit/this-genuinely-pocket-sized-smart-telescope-makes-capturing-the-deep-sky-and-the-solar-system-almost-effortless)
 - [Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers](https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/)
 - [Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners](https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/)
-- [Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work](https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/)
-- [&#39;The Ark&#39; creator Dean Devlin talks season 3’s enormous mystery box and sci-fi surprises &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/the-ark-creator-dean-devlin-talks-season-3s-enormous-mystery-box-and-sci-fi-surprises-interview)
-- [Encore AI raises $30M to build AI agents that learn from customer calls](https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
