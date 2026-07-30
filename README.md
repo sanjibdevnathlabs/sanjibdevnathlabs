@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Forward-deployed engineers are the AI industry’s latest talent obsession](https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/)
-- [In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable](https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/)
-- [TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come](https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/)
-- [Pink penguin poop on the Danger Islands | Space photo of the day for July 30, 2026](https://www.space.com/astronomy/earth/pink-penguin-poop-on-the-danger-islands-space-photo-of-the-day-for-july-30-2026)
-- [On this day in space! July 30, 1610: Galileo sees Saturn&#39;s rings for the 1st time](https://www.space.com/space-exploration/on-this-day-in-space-july-30-2026)
+- [1st three-headed asteroid found in our solar system — and it has a little moon](https://www.space.com/astronomy/asteroids/1st-three-headed-asteroid-found-in-our-solar-system-and-it-has-a-little-moon)
+- [Okta buys AI security startup Permiso; source says for about $200M](https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/)
+- [Tesla made its 10 millionth EV](https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/)
+- [HBO&#39;s &#39;Lanterns&#39; teases shape-shifting Manhunters: &#39;The most dangerous beings to ever exist in the galaxy&#39; &lpar;video&rpar;](https://www.space.com/entertainment/hbos-lanterns-teases-shape-shifting-manhunters-the-most-dangerous-beings-to-ever-exist-in-the-galaxy-video)
+- [When will fusion power startup Commonwealth Fusion Systems go public?](https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
