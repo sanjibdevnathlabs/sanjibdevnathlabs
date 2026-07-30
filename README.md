@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [July full moon delights skywatchers worldwide. Here are our favorite photos of the majestic Buck Moon](https://www.space.com/stargazing/july-full-moon-delights-skywatchers-worldwide-here-are-our-favorite-photos-of-the-majestic-buck-moon)
-- [A SpaceX rocket will crash into the moon next week, and scientists aren&#39;t sure what to expect](https://www.space.com/astronomy/moon/a-spacex-rocket-will-crash-into-the-moon-next-week-and-scientists-arent-sure-what-to-expect)
-- [Microsoft is openly competing with OpenAI, Anthropic more than ever](https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/)
-- [Mark Zuckerberg predicts that billions of people will have personal AI agents in five years](https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/)
-- [Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag](https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/)
+- [Forward-deployed engineers are the AI industry’s latest talent obsession](https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/)
+- [In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable](https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/)
+- [TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come](https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/)
+- [Pink penguin poop on the Danger Islands | Space photo of the day for July 30, 2026](https://www.space.com/astronomy/earth/pink-penguin-poop-on-the-danger-islands-space-photo-of-the-day-for-july-30-2026)
+- [On this day in space! July 30, 1610: Galileo sees Saturn&#39;s rings for the 1st time](https://www.space.com/space-exploration/on-this-day-in-space-july-30-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
