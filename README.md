@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why DevOps Engineers are ACTUALLY getting hired in 2026 🚨](https://www.youtube.com/shorts/QzE9EFyelws)
 - [OSPF From Zero: Let&#39;s Build the Internet &lpar;Well...Almost&rpar; | Summer of CCNA](https://www.youtube.com/watch?v=HUXUnMbeOyo)
 - [ITS, Eliza &amp; MiT&#39;s AI Lab - Computerphile](https://www.youtube.com/watch?v=tJMqVauWsjk)
 - [Did Anthropic just kill the indie hacker...?](https://www.youtube.com/watch?v=jxGJT1weu4w)
 - [PiDP10 - Computerphile](https://www.youtube.com/watch?v=hISbyatih44)
-- [PiDP6 &amp; Lisp - Computerphile](https://www.youtube.com/watch?v=dXBmCIfb92k)
 <!-- YOUTUBE:END -->
 
 ---
