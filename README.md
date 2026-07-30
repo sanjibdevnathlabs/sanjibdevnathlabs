@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [July full moon delights skywatchers worldwide. Here are our favorite photos of the majestic Buck Moon](https://www.space.com/stargazing/july-full-moon-delights-skywatchers-worldwide-here-are-our-favorite-photos-of-the-majestic-buck-moon)
+- [A SpaceX rocket will crash into the moon next week, and scientists aren&#39;t sure what to expect](https://www.space.com/astronomy/moon/a-spacex-rocket-will-crash-into-the-moon-next-week-and-scientists-arent-sure-what-to-expect)
 - [Microsoft is openly competing with OpenAI, Anthropic more than ever](https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/)
 - [Mark Zuckerberg predicts that billions of people will have personal AI agents in five years](https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/)
 - [Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag](https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/)
-- [&#39;It&#39;s going to do things that currently are impossible&#39;: The Roman Space Telescope, NASA&#39;s next great observatory, is ready to launch Aug. 30](https://www.space.com/astronomy/its-going-to-do-things-that-currently-are-impossible-the-roman-space-telescope-nasas-next-great-observatory-is-ready-to-launch-aug-30)
-- [Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents](https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
