@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [1st three-headed asteroid found in our solar system — and it has a little moon](https://www.space.com/astronomy/asteroids/1st-three-headed-asteroid-found-in-our-solar-system-and-it-has-a-little-moon)
-- [Okta buys AI security startup Permiso; source says for about $200M](https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/)
-- [Tesla made its 10 millionth EV](https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/)
-- [HBO&#39;s &#39;Lanterns&#39; teases shape-shifting Manhunters: &#39;The most dangerous beings to ever exist in the galaxy&#39; &lpar;video&rpar;](https://www.space.com/entertainment/hbos-lanterns-teases-shape-shifting-manhunters-the-most-dangerous-beings-to-ever-exist-in-the-galaxy-video)
-- [When will fusion power startup Commonwealth Fusion Systems go public?](https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/)
+- [Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/)
+- [Florida plans to build air taxi pads using $200M intended for EV chargers](https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/)
+- [LinkedIn adds a button to report AI-generated ‘slop’](https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/)
+- [Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A](https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/)
+- [Spotify launches ‘User notes’ to let users add memories to songs](https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
