@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label](https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/)
+- [The US government wants to bypass environmental laws for commercial launches and spacecraft reentries](https://www.space.com/space-exploration/launches-spacecraft/the-us-government-wants-to-bypass-environmental-laws-for-commercial-launches-and-spacecraft-reentries)
+- [Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label](https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/)
 - [CareCloud begins to notify hundreds of thousands after hackers stole medical records](https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/)
 - [Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag](https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/)
 - [Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/)
-- [Florida plans to build air taxi pads using $200M intended for EV chargers](https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
