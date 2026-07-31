@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla reportedly might sell its China business ahead of a SpaceX merger](https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/)
-- [Watching August&#39;s 2026 solar eclipse from the UK? Stay safe with the best solar eclipse glasses](https://www.space.com/stargazing/skywatching-kit/watching-augusts-solar-eclipse-from-the-uk-stay-safe-with-the-best-solar-eclipse-glasses)
-- [Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers](https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/)
-- [The night sky is changing this August — here&#39;s which planets to watch](https://www.space.com/stargazing/the-night-sky-is-changing-this-august-heres-which-planets-to-watch)
-- [Our favorite space and sci-fi Playmobil sets: From Star Trek playsets to ESA-collaborated models](https://www.space.com/entertainment/space-toys-lego/our-favorite-space-and-sci-fi-playmobil-sets-from-star-trek-playsets-to-esa-collaborated-models)
+- [GM and Ford are talking less and less about EVs](https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/)
+- [Samsung expects memory shortage to worsen through 2027 and last until 2028](https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/)
+- [SpaceX won’t remove all of xAI’s unpermitted turbines for another year](https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/)
+- [Reddit is testing a new way to watch — and listen to — its viral posts](https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/)
+- [Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human](https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
