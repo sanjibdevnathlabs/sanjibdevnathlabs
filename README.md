@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Milky Way has a hidden feature you&#39;ve probably never noticed. Here&#39;s how to find it](https://www.space.com/stargazing/the-milky-way-has-a-hidden-feature-youve-probably-never-noticed-heres-how-to-find-it)
+- [Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation](https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/)
+- [Fresh off its Wiz payout, Index Ventures raises $2B across three funds](https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/)
 - [VC-backed startups commit more fraud, and researchers think they know why](https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/)
 - [Our 1st look at &#39;Blade Runner 2099&#39; shows replicants ruling future Los Angeles: &#39;It&#39;s our time now&#39;](https://www.space.com/entertainment/our-1st-look-at-blade-runner-2099-shows-replicants-ruling-future-los-angeles-its-our-time-now)
-- [Sam Altman isn’t the only one who wants to pump the brakes on AI](https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/)
-- [Snapchat no longer rewards fully AI-generated Spotlight content](https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/)
-- [Siri AI could come with a paywall for power users](https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
