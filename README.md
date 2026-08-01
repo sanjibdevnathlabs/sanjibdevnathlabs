@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Flight of the Navigator&#39; at 40: the Disney space movie that messed with time dilation long before &#39;Interstellar&#39;](https://www.space.com/entertainment/space-movies-shows/flight-of-the-navigator-at-40-the-disney-space-movie-that-messed-with-time-dilation-long-before-interstellar)
-- [SpaceX launches 24 Starlink satellites to orbit from California &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-falcon-9-launch-group-17-52-ocisly-vandenberg)
-- [SpaceX&#39;s Starship seen in space by next-gen Starlink satellite &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-seen-in-space-by-next-gen-starlink-satellite-video)
-- [OpenAI reportedly finds evidence that more of its agents ran amok](https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/)
-- [Rivian spinoff Also to start delivering e-bikes after months of delays](https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/)
+- [This Week In Space podcast: Episode 221 — Starship Can Float?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-221-starship-can-float)
+- [Apps that help you break free from doomscrolling and get active](https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/)
+- [Dinosaur-killing asteroid may have caused firestorms 17 times hotter than the thermal limit lethal to humans](https://www.space.com/astronomy/asteroids/dinosaur-killing-asteroid-may-have-caused-firestorms-17-times-hotter-than-the-thermal-limit-lethal-to-humans)
+- [On this day in space! Aug. 1, 1968: NASA ends production of Saturn V moon rocket](https://www.space.com/space-exploration/on-this-day-in-space-august-1-2026)
+- [What’s the best handheld mini fan?](https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
