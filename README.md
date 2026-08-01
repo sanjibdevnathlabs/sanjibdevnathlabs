@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Recreating ITS - Computerphile](https://www.youtube.com/watch?v=cDKPbMaLTA4)
 - [Why DevOps Engineers are ACTUALLY getting hired in 2026 🚨](https://www.youtube.com/shorts/QzE9EFyelws)
 - [OSPF From Zero: Let&#39;s Build the Internet &lpar;Well...Almost&rpar; | Summer of CCNA](https://www.youtube.com/watch?v=HUXUnMbeOyo)
-- [Lecture 4: Smart Contracts as a Solution to a Coordination Problem](https://www.youtube.com/watch?v=_8wK75ZhFnk)
-- [Lecture 10: Designs of Financial Infrastructure Utilizing Encryption](https://www.youtube.com/watch?v=dM0I2g8pEfc)
-- [Lecture 7: Stochastic Financial Networks](https://www.youtube.com/watch?v=97Z_uO13pfg)
+- [ITS, Eliza &amp; MiT&#39;s AI Lab - Computerphile](https://www.youtube.com/watch?v=tJMqVauWsjk)
+- [Did Anthropic just kill the indie hacker...?](https://www.youtube.com/watch?v=jxGJT1weu4w)
 <!-- YOUTUBE:END -->
 
 ---
