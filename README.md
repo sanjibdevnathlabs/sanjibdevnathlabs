@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches 24 Starlink satellites to orbit from California &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-falcon-9-launch-group-17-52-ocisly-vandenberg)
 - [SpaceX&#39;s Starship seen in space by next-gen Starlink satellite &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-seen-in-space-by-next-gen-starlink-satellite-video)
 - [OpenAI reportedly finds evidence that more of its agents ran amok](https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/)
 - [Rivian spinoff Also to start delivering e-bikes after months of delays](https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/)
 - [Silicon Valley loves young founders. Until it doesn’t.](https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/)
-- [How do supermassive black holes grow? AI finds 7 spacetime-warping &#39;quasars&#39; that could help solve the mystery](https://www.space.com/astronomy/black-holes/how-do-supermassive-black-holes-grow-ai-finds-7-spacetime-warping-quasars-that-could-help-solve-the-mystery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
