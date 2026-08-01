@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it](https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/)
 - [This Week In Space podcast: Episode 221 — Starship Can Float?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-221-starship-can-float)
 - [Apps that help you break free from doomscrolling and get active](https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/)
 - [Dinosaur-killing asteroid may have caused firestorms 17 times hotter than the thermal limit lethal to humans](https://www.space.com/astronomy/asteroids/dinosaur-killing-asteroid-may-have-caused-firestorms-17-times-hotter-than-the-thermal-limit-lethal-to-humans)
 - [On this day in space! Aug. 1, 1968: NASA ends production of Saturn V moon rocket](https://www.space.com/space-exploration/on-this-day-in-space-august-1-2026)
-- [What’s the best handheld mini fan?](https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
