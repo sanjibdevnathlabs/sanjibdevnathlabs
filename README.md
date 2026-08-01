@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Move over He-Man, Mattel&#39;s Major Matt Mason space toys could still be blasting off for Hollywood](https://www.space.com/entertainment/space-movies-shows/move-over-he-man-mattels-major-matt-mason-space-toys-could-still-be-blasting-off-for-hollywood)
+- [This $9 key physically locks your most addictive apps](https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/)
 - [Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it](https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/)
 - [This Week In Space podcast: Episode 221 — Starship Can Float?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-221-starship-can-float)
 - [Apps that help you break free from doomscrolling and get active](https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/)
-- [Dinosaur-killing asteroid may have caused firestorms 17 times hotter than the thermal limit lethal to humans](https://www.space.com/astronomy/asteroids/dinosaur-killing-asteroid-may-have-caused-firestorms-17-times-hotter-than-the-thermal-limit-lethal-to-humans)
-- [On this day in space! Aug. 1, 1968: NASA ends production of Saturn V moon rocket](https://www.space.com/space-exploration/on-this-day-in-space-august-1-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
