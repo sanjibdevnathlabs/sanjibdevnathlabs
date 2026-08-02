@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Double digits! Air-launched &#39;Talon A&#39; hypersonic vehicle notches big flight milestone](https://www.space.com/technology/double-digits-air-launched-talon-a-hypersonic-vehicle-notches-big-flight-milestone)
+- [On this day in space! Aug. 2, 1971: Apollo 15 makes 1st-ever televised liftoff from the moon](https://www.space.com/space-exploration/on-this-day-in-space-august-2-2026)
 - [From Hardspace to Clearspace: How space salvage games compare to real debris removal](https://www.space.com/entertainment/space-games/from-hardspace-to-clearspace-how-space-salvage-games-compare-to-real-debris-removal)
 - [Rocket issue delays 1st orbital rocket launch from the UK](https://www.space.com/space-exploration/launches-spacecraft/rocket-issue-delays-1st-orbital-rocket-launch-from-the-uk)
 - [Celestron Moon Mission 100mm tabletop Dobsonian review](https://www.space.com/stargazing/skywatching-kit/celestron-moon-mission-100mm-tabletop-dobsonian-review)
-- [Inside the London hacker house taking a stand against founder burnout](https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/)
-- [Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps](https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
