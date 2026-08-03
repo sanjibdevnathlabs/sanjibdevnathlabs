@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CNN dives into how Elon Musk and Jeff Bezos are backing NASA&#39;s race to the moon against China &lpar;exclusive clip&rpar;](https://www.space.com/entertainment/cnn-dives-into-how-elon-musk-and-jeff-bezos-are-backing-nasas-race-to-the-moon-against-china-exclusive-clip)
+- [A SpaceX rocket will crash into the moon this week. Why is it on a collision course?](https://www.space.com/astronomy/moon/a-spacex-rocket-will-crash-into-the-moon-this-week-why-is-it-on-a-collision-course)
 - [AWS is helping vibe-coding startup Superblocks, and the implications are big](https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/)
 - [Jack in for a cyberpunk jolt with this energized first trailer for Apple TV&#39;s &#39;Neuromancer&#39;](https://www.space.com/entertainment/jack-in-for-a-cyberpunk-jolt-with-this-energized-first-trailer-for-apple-tvs-neuromancer)
 - [Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated](https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/)
-- [DesignArena creators raise $7.9 million to bring taste to AI models](https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/)
-- [Influencers draw backlash for attending OpenAI’s first luxury trip](https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
