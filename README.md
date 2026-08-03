@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Recreating ITS - Computerphile](https://www.youtube.com/watch?v=cDKPbMaLTA4)
+- [Why DevOps Engineers are ACTUALLY getting hired in 2026 🚨](https://www.youtube.com/shorts/QzE9EFyelws)
 - [OSPF From Zero: Let&#39;s Build the Internet &lpar;Well...Almost&rpar; | Summer of CCNA](https://www.youtube.com/watch?v=HUXUnMbeOyo)
-- [AI&#39;s Impact on Network Engineers | LIVE AMA | Summer of CCNA](https://www.youtube.com/watch?v=O7XOUK4B5pg)
-- [this Raspberry Pi belongs on your wall](https://www.youtube.com/watch?v=34D1imLordU)
-- [I got inside FIFA’s Secret World Cup Broadcast Network](https://www.youtube.com/watch?v=LhnH0juUaGw)
-- [LIVE AMA | Summer of CCNA | 07/09/2026](https://www.youtube.com/watch?v=7-CouekrkOc)
+- [ITS, Eliza &amp; MiT&#39;s AI Lab - Computerphile](https://www.youtube.com/watch?v=tJMqVauWsjk)
+- [Did Anthropic just kill the indie hacker...?](https://www.youtube.com/watch?v=jxGJT1weu4w)
 <!-- YOUTUBE:END -->
 
 ---
