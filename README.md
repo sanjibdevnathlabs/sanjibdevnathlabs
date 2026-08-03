@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Should the Government Support the Lottery?](https://www.youtube.com/watch?v=UySCpCAI-5w)
 - [Recreating ITS - Computerphile](https://www.youtube.com/watch?v=cDKPbMaLTA4)
 - [Why DevOps Engineers are ACTUALLY getting hired in 2026 🚨](https://www.youtube.com/shorts/QzE9EFyelws)
 - [OSPF From Zero: Let&#39;s Build the Internet &lpar;Well...Almost&rpar; | Summer of CCNA](https://www.youtube.com/watch?v=HUXUnMbeOyo)
 - [ITS, Eliza &amp; MiT&#39;s AI Lab - Computerphile](https://www.youtube.com/watch?v=tJMqVauWsjk)
-- [Did Anthropic just kill the indie hacker...?](https://www.youtube.com/watch?v=jxGJT1weu4w)
 <!-- YOUTUBE:END -->
 
 ---
