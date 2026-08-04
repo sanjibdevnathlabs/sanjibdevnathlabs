@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [When a total solar eclipse darkens the sky on Aug. 12, these citizen scientists will be watching](https://www.space.com/stargazing/solar-eclipses/when-a-total-solar-eclipse-darkens-the-sky-on-aug-12-these-citizen-scientists-will-be-watching)
-- [August full moon 2026: When, where and how to see the Sturgeon Moon](https://www.space.com/stargazing/august-full-moon-2026-when-where-and-how-to-see-the-sturgeon-moon)
-- [SpaceX launches Starlink satellites on 90th Falcon 9 flight of the year &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-launch-group-17-53-ocisly)
-- [Waymo opens up robotaxi service in Dallas to everyone](https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/)
-- [Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!](https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/)
+- [SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth](https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/)
+- [Android app developers may be unwittingly sharing their users’ location data with advertisers](https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/)
+- [Open-weight AI models are catching up to the frontier. The safety gap remains.](https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/)
+- [Anthropic signs $10B deal with AI cloud startup Volta](https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/)
+- [Meet Wrinkles, an app that uncovers the hidden stories of the places around you](https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
