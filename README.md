@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Sky-Watcher is an ideal beginner telescope for solar observing](https://www.space.com/stargazing/skywatching-kit/sky-watcher-heliostar-76mm-h-alpha-solar-telescope-review)
 - [After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’](https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/)
 - [Snap CEO sidesteps Specs preorder questions on Q2 earnings call](https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/)
 - [CNN dives into how Elon Musk and Jeff Bezos are backing NASA&#39;s race to the moon against China &lpar;exclusive clip&rpar;](https://www.space.com/entertainment/cnn-dives-into-how-elon-musk-and-jeff-bezos-are-backing-nasas-race-to-the-moon-against-china-exclusive-clip)
 - [A SpaceX rocket will crash into the moon this week. Why is it on a collision course?](https://www.space.com/astronomy/moon/a-spacex-rocket-will-crash-into-the-moon-this-week-why-is-it-on-a-collision-course)
-- [AWS is helping vibe-coding startup Superblocks, and the implications are big](https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
