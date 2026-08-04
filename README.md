@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Host a Side Event during TechCrunch Founder Summit Week in Boston](https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/)
-- [ISS astronaut spies a swirling super storm | Space photo of the day for Aug. 4, 2026](https://www.space.com/astronomy/earth/iss-astronaut-spies-a-swirling-super-storm-space-photo-of-the-day-for-aug-4-2026)
-- [Apple says more ex-employees may have taken confidential data to OpenAI](https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/)
-- [On this day in space! Aug. 4, 2007: NASA launches Phoenix Mars lander to Red Planet](https://www.space.com/space-exploration/on-this-day-in-space-august-4-2026)
-- [Spotify now has over 300M subscribers](https://techcrunch.com/2026/08/04/spotify-now-has-over-300m-subscribers/)
+- [Waymo opens up robotaxi service in Dallas to everyone](https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/)
+- [Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!](https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/)
+- [TV Time co-founder launches Bingers to revive the beloved TV-tracking app](https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/)
+- [&#39;A very busy mission&#39;: SpaceX on track to launch 4 astronauts to the ISS on Sept. 12](https://www.space.com/space-exploration/international-space-station/a-very-busy-mission-spacex-on-track-to-launch-4-astronauts-to-the-iss-on-sept-12)
+- [Hackers steal over $130M by exploiting bug in offline hardware wallets](https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
