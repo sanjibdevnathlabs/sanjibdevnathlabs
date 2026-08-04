@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [EON wants to move the data superhighway from ocean fiber to space lasers](https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/)
-- [Bending Spoons to buy Airtable for $1.28B](https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/)
-- [Are aliens running out of places to hide? It turns out we&#39;ve searched much more of the galaxy than we realized](https://www.space.com/space-exploration/search-for-life/are-aliens-running-out-of-places-to-hide-it-turns-out-weve-searched-much-more-of-the-galaxy-than-we-realized)
-- [I bought a $50 telescope on Facebook Marketplace — here&#39;s what I learned](https://www.space.com/stargazing/skywatching-kit/i-bought-a-50-dollar-telescope-on-facebook-marketplace-heres-what-i-learned)
-- [This Sky-Watcher is an ideal beginner telescope for solar observing](https://www.space.com/stargazing/skywatching-kit/sky-watcher-heliostar-76mm-h-alpha-solar-telescope-review)
+- [Host a Side Event during TechCrunch Founder Summit Week in Boston](https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/)
+- [ISS astronaut spies a swirling super storm | Space photo of the day for Aug. 4, 2026](https://www.space.com/astronomy/earth/iss-astronaut-spies-a-swirling-super-storm-space-photo-of-the-day-for-aug-4-2026)
+- [Apple says more ex-employees may have taken confidential data to OpenAI](https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/)
+- [On this day in space! Aug. 4, 2007: NASA launches Phoenix Mars lander to Red Planet](https://www.space.com/space-exploration/on-this-day-in-space-august-4-2026)
+- [Spotify now has over 300M subscribers](https://techcrunch.com/2026/08/04/spotify-now-has-over-300m-subscribers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
