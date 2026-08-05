@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet the eight startups pitching at Startup Battlefield Australia](https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/)
+- [PSA: Apple’s Private Relay can leak your real IP address](https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/)
+- [Astronomers witness the strange final moments of a massive star&#39;s supernova death &lpar;video&rpar;](https://www.space.com/astronomy/stars/astronomers-witness-the-strange-final-moments-of-a-massive-stars-supernova-death-video)
 - [Shopify says AI search is driving more traffic and sales, not replacing Google](https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/)
 - [Hark previews its browser use agent for completing tasks](https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/)
-- [Zoox to start charging for robotaxi rides in Las Vegas](https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/)
-- [TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals](https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/)
-- [As Gen Z reconsiders dating apps, Tinder’s IRL events expand to dozens more cities](https://techcrunch.com/2026/08/05/as-gen-z-reconsiders-dating-apps-tinders-irl-events-expand-to-dozens-more-cities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
