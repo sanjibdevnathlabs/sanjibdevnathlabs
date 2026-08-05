@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saudi Aramco backs India’s Mitti Labs to make Asia’s rice farming more water-resilient](https://techcrunch.com/2026/08/05/saudi-aramco-backs-indias-mitti-labs-to-make-asias-rice-farming-more-water-resilient/)
+- [AI makes weather prediction better. Can WindBorne make it lucrative?](https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/)
+- [Heading to Europe or the U.K. for the Aug. 12 solar eclipse? Best eclipse glasses to buy before you leave — or after you arrive](https://www.space.com/stargazing/skywatching-kit/heading-to-europe-or-the-u-k-for-the-aug-12-solar-eclipse-best-eclipse-glasses-to-buy-before-you-leave-or-after-you-arrive)
 - [Wispr Flow launches a Granola-styled meeting notetaker](https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/)
 - [Total solar eclipse Aug. 12, 2026 live updates — 1 week to go](https://www.space.com/news/live/total-solar-eclipse-aug-12-2026-live-updates-one-week-to-go)
-- [1 week to go until a dramatic total solar eclipse darkens the skies over Spain, Iceland and Greenland](https://www.space.com/stargazing/solar-eclipses/1-week-to-go-until-a-dramatic-total-solar-eclipse-darkens-the-skies-over-spain-iceland-and-greenland)
-- [SpaceX wants to launch next Starship this month &lpar;and catch it, too&rpar;, Elon Musk says in 1st earnings call since historic IPO](https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-next-starship-this-month-and-catch-it-too-elon-musk-says-in-1st-earnings-call-since-historic-ipo)
-- [Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call](https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
