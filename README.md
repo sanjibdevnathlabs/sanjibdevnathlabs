@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Moove raises $250M to become the backbone of the robotaxi industry](https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/)
-- [How Lightspeed found their newest hire… via Instagram DM](https://techcrunch.com/2026/08/05/how-lightspeed-found-their-newest-hire-via-instagram-dm/)
-- [Why Lightspeed is going all-in on creator-led venture capital](https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/)
-- [Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders](https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/)
-- [Jeff Dean and other top AI researchers are leaving Google to launch their own startup](https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/)
+- [Nikita Bier steps down as X’s head of product](https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/)
+- [Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO](https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/)
+- [Meta launches Muse Code, an AI agent for large code bases](https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/)
+- [Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships](https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/)
+- [&#39;Warhammer 40,000&#39; animated series coming to Prime Video, with Henry Cavill onboard as executive producer](https://www.space.com/entertainment/space-movies-shows/warhammer-40-000-animated-series-coming-to-prime-video-with-henry-cavill-onboard-as-executive-producer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
