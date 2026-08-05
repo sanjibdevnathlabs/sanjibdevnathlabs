@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Total solar eclipse Aug. 12, 2026 live updates — 1 week to go](https://www.space.com/news/live/total-solar-eclipse-aug-12-2026-live-updates-one-week-to-go)
+- [1 week to go until a dramatic total solar eclipse darkens the skies over Spain, Iceland and Greenland](https://www.space.com/stargazing/solar-eclipses/1-week-to-go-until-a-dramatic-total-solar-eclipse-darkens-the-skies-over-spain-iceland-and-greenland)
 - [SpaceX wants to launch next Starship this month &lpar;and catch it, too&rpar;, Elon Musk says in 1st earnings call since historic IPO](https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-next-starship-this-month-and-catch-it-too-elon-musk-says-in-1st-earnings-call-since-historic-ipo)
 - [Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call](https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/)
 - [Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis](https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/)
-- [How to get the best hotel deals for TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/)
-- [Watch SpaceX launch 3 giant BlueBird direct-to-cell satellites early on Aug. 5](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-ast-spacemobile-11-13-direct-to-cell-satellites)
 <!-- BLOG-POST-LIST:END -->
 
 ---
