@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The &#39;Dark Matter&#39; season 2 trailer is here, and it looks like Apple TV has another sci-fi hit on its hands](https://www.space.com/entertainment/space-movies-shows/the-dark-matter-season-2-trailer-is-here-and-it-looks-like-apple-tv-has-another-sci-fi-hit-on-its-hands)
+- [Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools](https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/)
+- [Lucid Motors just delayed its affordable EV. Now what?](https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/)
+- [A SpaceX rocket just crashed into the moon. Now, the race is on to get a look at the impact site](https://www.space.com/astronomy/moon/a-spacex-rocket-just-crashed-into-the-moon-now-the-race-is-on-to-get-a-look-at-the-impact-site)
 - [Meet the eight startups pitching at Startup Battlefield Australia](https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/)
-- [PSA: Apple’s Private Relay can leak your real IP address](https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/)
-- [Astronomers witness the strange final moments of a massive star&#39;s supernova death &lpar;video&rpar;](https://www.space.com/astronomy/stars/astronomers-witness-the-strange-final-moments-of-a-massive-stars-supernova-death-video)
-- [Shopify says AI search is driving more traffic and sales, not replacing Google](https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/)
-- [Hark previews its browser use agent for completing tasks](https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
