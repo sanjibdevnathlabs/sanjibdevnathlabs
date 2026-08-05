@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Saudi Aramco backs India’s Mitti Labs to make Asia’s rice farming more water-resilient](https://techcrunch.com/2026/08/05/saudi-aramco-backs-indias-mitti-labs-to-make-asias-rice-farming-more-water-resilient/)
-- [AI makes weather prediction better. Can WindBorne make it lucrative?](https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/)
-- [Heading to Europe or the U.K. for the Aug. 12 solar eclipse? Best eclipse glasses to buy before you leave — or after you arrive](https://www.space.com/stargazing/skywatching-kit/heading-to-europe-or-the-u-k-for-the-aug-12-solar-eclipse-best-eclipse-glasses-to-buy-before-you-leave-or-after-you-arrive)
-- [Wispr Flow launches a Granola-styled meeting notetaker](https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/)
-- [Total solar eclipse Aug. 12, 2026 live updates — 1 week to go](https://www.space.com/news/live/total-solar-eclipse-aug-12-2026-live-updates-one-week-to-go)
+- [Disney+ looks to TikTok creators to bring fan content to its short-form video feed](https://techcrunch.com/2026/08/05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form-video-feed/)
+- [Mars dust is toxic. How will future astronauts deal with it?](https://www.space.com/astronomy/mars/mars-dust-is-toxic-how-will-future-astronauts-deal-with-it)
+- [MacPaw taps Liquid AI to offer on-device inference to devs building for its app store](https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/)
+- [Robinhood to list a fund that lets anyone back Y Combinator startups](https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/)
+- [&#39;The Ninth Jedi&#39; review: This anime spin-off abandons &#39;Star Wars&#39; canon, and it&#39;s all the stronger for it](https://www.space.com/entertainment/space-movies-shows/the-ninth-jedi-review-this-anime-spin-off-abandons-star-wars-canon-and-its-all-the-stronger-for-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
