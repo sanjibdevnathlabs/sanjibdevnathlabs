@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The &#39;Dark Matter&#39; season 2 trailer is here, and it looks like Apple TV has another sci-fi hit on its hands](https://www.space.com/entertainment/space-movies-shows/the-dark-matter-season-2-trailer-is-here-and-it-looks-like-apple-tv-has-another-sci-fi-hit-on-its-hands)
-- [Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools](https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/)
-- [Lucid Motors just delayed its affordable EV. Now what?](https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/)
-- [A SpaceX rocket just crashed into the moon. Now, the race is on to get a look at the impact site](https://www.space.com/astronomy/moon/a-spacex-rocket-just-crashed-into-the-moon-now-the-race-is-on-to-get-a-look-at-the-impact-site)
-- [Meet the eight startups pitching at Startup Battlefield Australia](https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/)
+- [Moove raises $250M to become the backbone of the robotaxi industry](https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/)
+- [How Lightspeed found their newest hire… via Instagram DM](https://techcrunch.com/2026/08/05/how-lightspeed-found-their-newest-hire-via-instagram-dm/)
+- [Why Lightspeed is going all-in on creator-led venture capital](https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/)
+- [Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders](https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/)
+- [Jeff Dean and other top AI researchers are leaving Google to launch their own startup](https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
