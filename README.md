@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Disney+ looks to TikTok creators to bring fan content to its short-form video feed](https://techcrunch.com/2026/08/05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form-video-feed/)
-- [Mars dust is toxic. How will future astronauts deal with it?](https://www.space.com/astronomy/mars/mars-dust-is-toxic-how-will-future-astronauts-deal-with-it)
-- [MacPaw taps Liquid AI to offer on-device inference to devs building for its app store](https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/)
-- [Robinhood to list a fund that lets anyone back Y Combinator startups](https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/)
-- [&#39;The Ninth Jedi&#39; review: This anime spin-off abandons &#39;Star Wars&#39; canon, and it&#39;s all the stronger for it](https://www.space.com/entertainment/space-movies-shows/the-ninth-jedi-review-this-anime-spin-off-abandons-star-wars-canon-and-its-all-the-stronger-for-it)
+- [Shopify says AI search is driving more traffic and sales, not replacing Google](https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/)
+- [Hark previews its browser use agent for completing tasks](https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/)
+- [Zoox to start charging for robotaxi rides in Las Vegas](https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/)
+- [TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals](https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/)
+- [As Gen Z reconsiders dating apps, Tinder’s IRL events expand to dozens more cities](https://techcrunch.com/2026/08/05/as-gen-z-reconsiders-dating-apps-tinders-irl-events-expand-to-dozens-more-cities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
