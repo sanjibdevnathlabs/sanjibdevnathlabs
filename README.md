@@ -134,7 +134,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The safest way to store Bitcoin just lost $115 million...](https://www.youtube.com/watch?v=2X2V3xv_jik)
+- [The safest way to store Bitcoin was just hacked...](https://www.youtube.com/watch?v=2X2V3xv_jik)
 - [Should the Government Support the Lottery?](https://www.youtube.com/watch?v=UySCpCAI-5w)
 - [Recreating ITS - Computerphile](https://www.youtube.com/watch?v=cDKPbMaLTA4)
 - [Why DevOps Engineers are ACTUALLY getting hired in 2026 🚨](https://www.youtube.com/shorts/QzE9EFyelws)
