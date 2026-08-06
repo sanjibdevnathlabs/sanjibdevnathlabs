@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Plan your perfect 2026 total solar eclipse experience with these smartphone apps](https://www.space.com/stargazing/solar-eclipses/plan-your-perfect-2026-total-solar-eclipse-experience-with-these-smartphone-apps)
-- [Where will the total solar eclipse 2026 be visible from?](https://www.space.com/stargazing/solar-eclipses/where-will-the-total-solar-eclipse-2026-be-visible-from)
-- [Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday](https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/)
-- [Nikita Bier steps down as X’s head of product](https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/)
-- [Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO](https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/)
+- [Amid legal battles, Suno says it will start watermarking songs](https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/)
+- [Ford’s new electric truck, ‘Fathom’, starts at $28,350](https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/)
+- [Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce](https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/)
+- [Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI](https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/)
+- [SpaceX’s Falcon 9 wasn&#39;t the first rocket to crash into the moon. Here&#39;s a rundown](https://www.space.com/astronomy/moon/rocket-peppered-moon-a-brief-history-of-impacts-from-luna-2-to-spacexs-upper-stage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
