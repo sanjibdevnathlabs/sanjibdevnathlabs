@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
+- [The UK is about to witness its most spectacular solar eclipse in 11 years. Here&#39;s what you need to know](https://www.space.com/stargazing/solar-eclipses/the-uk-is-about-to-witness-its-most-spectacular-solar-eclipse-in-11-years-heres-what-you-need-to-know)
+- [New Mexico court orders Meta to pay additional $567M in child safety case](https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/)
 - [Why you don&#39;t need a perfectly clear sky to enjoy the total solar eclipse on Aug. 12](https://www.space.com/stargazing/solar-eclipses/why-you-dont-need-a-perfectly-clear-sky-to-enjoy-the-total-solar-eclipse-on-aug-12)
 - [OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400](https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/)
-- [Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands](https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/)
-- [Vogue just gave another nod of approval to the tech world](https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/)
-- [Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow](https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
