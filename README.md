@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside the mystery of the James Webb Space Telescope&#39;s little red dots — and how they might be evolving](https://www.space.com/astronomy/james-webb-space-telescope/inside-the-mystery-of-the-james-webb-space-telescopes-little-red-dots-and-how-they-might-be-evolving)
 - [How to safely observe eclipses and the solar surface with a smart telescope](https://www.space.com/stargazing/skywatching-kit/how-to-safely-observe-eclipses-and-the-solar-surface-with-a-smart-telescope)
 - [Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/)
 - [Computer maker Framework notifies ‘all customers’ of a data breach](https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/)
 - [NASA&#39;s SkyFall Mars helicopters will wear tiny capes](https://www.space.com/astronomy/mars/nasas-skyfall-mars-helicopters-will-wear-tiny-capes)
-- [Engineers race to save stricken LINK rescue spacecraft before it&#39;s too late](https://www.space.com/space-exploration/launches-spacecraft/engineers-race-to-save-stricken-link-rescue-spacecraft-before-its-too-late)
 <!-- BLOG-POST-LIST:END -->
 
 ---
