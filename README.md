@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Yes, North America gets a solar eclipse on Aug. 12. Here&#39;s where and when to see it](https://www.space.com/stargazing/solar-eclipses/yes-north-america-gets-a-solar-eclipse-on-aug-12-heres-where-and-when-to-see-it)
 - [Sky-Watcher SolarQuest mount head review](https://www.space.com/stargazing/skywatching-kit/sky-watcher-solarquest-mount-head-review)
 - [OpenAI says it slowed Astra model development over security concerns](https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/)
 - [After Rippling blew millions on AI in months, it built an employee ROI tool](https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/)
 - [Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists](https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/)
-- [Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks](https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
