@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t miss the crescent moon shine close to the red light of Mars before dawn on Aug. 9](https://www.space.com/stargazing/dont-miss-the-crescent-moon-shine-close-to-the-red-light-of-mars-before-dawn-aug-9-2026)
+- [On this day in space! Aug. 8, 1977: Soviet Union&#39;s Salyut 5 reconnaissance space station burns up in Earth&#39;s atmosphere](https://www.space.com/space-exploration/on-this-day-in-space-august-8-2026)
 - [Yes, North America gets a solar eclipse on Aug. 12. Here&#39;s where and when to see it](https://www.space.com/stargazing/solar-eclipses/yes-north-america-gets-a-solar-eclipse-on-aug-12-heres-where-and-when-to-see-it)
 - [Sky-Watcher SolarQuest mount head review](https://www.space.com/stargazing/skywatching-kit/sky-watcher-solarquest-mount-head-review)
 - [OpenAI says it slowed Astra model development over security concerns](https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/)
-- [After Rippling blew millions on AI in months, it built an employee ROI tool](https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/)
-- [Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists](https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
