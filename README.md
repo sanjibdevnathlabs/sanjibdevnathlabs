@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have](https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/)
+- [&#39;Transformers: The Movie&#39; at 40: the cartoon spin-off that traumatized a generation of kids](https://www.space.com/entertainment/space-movies-shows/transformers-the-movie-at-40-the-cartoon-spin-off-that-traumatized-a-generation-of-kids)
+- [This Week In Space podcast: Episode 222 — How to Invade Earth in 22 Easy Steps](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-222-how-to-invade-earth-in-22-easy-steps)
 - [Google’s top hacker hunter explains why hacking groups get codenames](https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/)
 - [Don&#39;t miss the crescent moon shine close to the red light of Mars before dawn on Aug. 9](https://www.space.com/stargazing/dont-miss-the-crescent-moon-shine-close-to-the-red-light-of-mars-before-dawn-aug-9-2026)
-- [On this day in space! Aug. 8, 1977: Soviet Union&#39;s Salyut 5 reconnaissance space station burns up in Earth&#39;s atmosphere](https://www.space.com/space-exploration/on-this-day-in-space-august-8-2026)
-- [Yes, North America gets a solar eclipse on Aug. 12. Here&#39;s where and when to see it](https://www.space.com/stargazing/solar-eclipses/yes-north-america-gets-a-solar-eclipse-on-aug-12-heres-where-and-when-to-see-it)
-- [Sky-Watcher SolarQuest mount head review](https://www.space.com/stargazing/skywatching-kit/sky-watcher-solarquest-mount-head-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
