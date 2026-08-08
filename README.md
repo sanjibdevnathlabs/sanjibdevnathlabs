@@ -148,7 +148,7 @@ I'm a software developer passionate about designing and building applications wi
 <!-- BLOG-POST-LIST:START -->
 - [OpenAI says it slowed Astra model development over security concerns](https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/)
 - [After Rippling blew millions on AI in months, it built an employee ROI tool](https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/)
-- [Wacom’s Movinkpad 11 is a fun and mid-priced entry point for digital artists](https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/)
+- [Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists](https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/)
 - [Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks](https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/)
 - [SpaceX serious about building factories on the moon: &#39;It’s going to happen,&#39; Elon Musk says](https://www.space.com/astronomy/moon/spacex-serious-about-building-factories-on-the-moon-its-going-to-happen-elon-musk-says)
 <!-- BLOG-POST-LIST:END -->
