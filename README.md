@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This ‘adversarial’ pattern can prevent surveillance cameras from detecting you](https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/)
+- [Exploring &#39;very low Earth orbit&#39;: The world&#39;s 1st air-breathing satellite thruster could soon get a test run](https://www.space.com/space-exploration/satellites/exploring-very-low-earth-orbit-the-worlds-1st-air-breathing-satellite-thruster-could-soon-get-a-test-run)
+- [On this day in space! Aug. 9, 1976: Soviet Luna 24 sample return probe launches to the moon](https://www.space.com/space-exploration/on-this-day-in-space-august-9-2026)
 - [This former notorious red-light district is now one of the world’s top AI hubs](https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/)
 - [The total solar eclipse on Aug. 12 will reveal something nobody has ever seen before](https://www.space.com/stargazing/solar-eclipses/the-total-solar-eclipse-on-aug-12-will-reveal-something-nobody-has-ever-seen-before)
-- [Here&#39;s what to expect from 5 stages of the total solar eclipse 2026](https://www.space.com/stargazing/solar-eclipses/heres-what-to-expect-from-5-stages-of-the-total-solar-eclipse-2026)
-- [Planned Amazon data center could become the biggest climate polluter in the U.S.](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/)
-- [OpenAI acquires presentation startup NextSlide](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
