@@ -146,10 +146,10 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire](https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/)
 - [Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/)
 - [The AI safety test is becoming a safety risk](https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/)
 - [This ‘adversarial’ pattern can prevent surveillance cameras from detecting you](https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/)
-- [On this day in space! Aug. 9, 1976: Soviet Luna 24 sample return probe launches to the moon](https://www.space.com/space-exploration/on-this-day-in-space-august-9-2026)
 - [Exploring &#39;very low Earth orbit&#39;: The world&#39;s 1st air-breathing satellite thruster could soon get a test run](https://www.space.com/space-exploration/satellites/exploring-very-low-earth-orbit-the-worlds-1st-air-breathing-satellite-thruster-could-soon-get-a-test-run)
 <!-- BLOG-POST-LIST:END -->
 
