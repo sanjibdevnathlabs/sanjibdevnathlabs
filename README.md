@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision](https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/)
+- [Chinese rocket explodes less than 90 seconds after liftoff](https://www.space.com/space-exploration/launches-spacecraft/chinese-rocket-explodes-less-than-90-seconds-after-liftoff)
 - [Sila lands $1.4B Pentagon loan as militaries demand more batteries](https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/)
 - [Archer buys former rival Wisk Aero](https://techcrunch.com/2026/08/10/archer-buys-former-rival-wisk-aero/)
 - [A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond](https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/)
-- [Signed up for Klaviyo? Dozens of advertisers may have seen your password](https://techcrunch.com/2026/08/10/signed-up-for-klaviyo-dozens-of-advertisers-may-have-seen-your-password/)
-- [This ZWO astronomy camera is perfect for solar and lunar imaging](https://www.space.com/stargazing/skywatching-kit/this-zwo-astronomy-camera-is-perfect-for-solar-and-lunar-imaging)
 <!-- BLOG-POST-LIST:END -->
 
 ---
