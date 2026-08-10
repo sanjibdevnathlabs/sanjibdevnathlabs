@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Discovered Materials is playing AI whack-a-mole to hunt cooler chips](https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/)
+- [Google Play adds Venmo as a payment option](https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/)
+- [Pluto&#39;s atmosphere is collapsing as it drifts away from the sun into a deep freeze](https://www.space.com/astronomy/pluto/plutos-atmosphere-is-collapsing-as-it-drifts-away-from-the-sun-into-a-deep-freeze)
 - [Could the northern lights be visible during the total solar eclipse on Aug.12? Maybe.](https://www.space.com/stargazing/auroras/could-the-northern-lights-be-visible-during-the-total-solar-eclipse-on-aug-12-maybe)
 - [What time is the total solar eclipse on Aug. 12, 2026?](https://www.space.com/stargazing/solar-eclipses/what-time-is-the-total-solar-eclipse-on-aug-12-2026)
-- [Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry](https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/)
-- [Anthropic is turning Claude Code’s auto mode on by default](https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/)
-- [TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire](https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
