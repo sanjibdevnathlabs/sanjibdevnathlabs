@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sila lands $1.4B Pentagon loan as militaries demand more batteries](https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/)
+- [Archer buys former rival Wisk Aero](https://techcrunch.com/2026/08/10/archer-buys-former-rival-wisk-aero/)
+- [A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond](https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/)
 - [Signed up for Klaviyo? Dozens of advertisers may have seen your password](https://techcrunch.com/2026/08/10/signed-up-for-klaviyo-dozens-of-advertisers-may-have-seen-your-password/)
 - [This ZWO astronomy camera is perfect for solar and lunar imaging](https://www.space.com/stargazing/skywatching-kit/this-zwo-astronomy-camera-is-perfect-for-solar-and-lunar-imaging)
-- [Sharpest image of the sun ever captured! | Space photo of the day for Aug. 10, 2026](https://www.space.com/astronomy/sun/sharpest-image-of-the-sun-ever-captured-space-photo-of-the-day-for-aug-10-2026)
-- [On this day in space! Aug. 10, 1972: A &#39;Great Daylight Fireball&#39; lights up the sky over North America](https://www.space.com/space-exploration/on-this-day-in-space-august-10-2026)
-- [Watch Japanese H3 rocket launch 10,800-pound navigation satellite to orbit today](https://www.space.com/space-exploration/launches-spacecraft/japan-h3-rocket-launch-navigation-satellite-michibiki-7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
