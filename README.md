@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [From Apprentice to DevOps Engineer: Here&#39;s the Exact Path He Took](https://www.youtube.com/watch?v=TqWRlxDZkjo)
 - [OSPF From Zero: Let&#39;s Build the Internet &lpar;Well...Almost&rpar; | Summer of CCNA](https://www.youtube.com/watch?v=HUXUnMbeOyo)
 - [How ONE Simple DevOps Change Saved Thousands! 💰](https://www.youtube.com/shorts/dLXqdZPk_oc)
 - [The safest way to store Bitcoin was just hacked...](https://www.youtube.com/watch?v=2X2V3xv_jik)
 - [Should the Government Support the Lottery?](https://www.youtube.com/watch?v=UySCpCAI-5w)
-- [Recreating ITS - Computerphile](https://www.youtube.com/watch?v=cDKPbMaLTA4)
 <!-- YOUTUBE:END -->
 
 ---
