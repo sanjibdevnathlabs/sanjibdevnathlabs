@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [On this day in space! Aug. 11, 1960: 1st object successfully recovered from orbit](https://www.space.com/space-exploration/aug-11-1960-1st-object-successfully-recovered-from-orbit)
-- [Behold the majestic mane of the Lion Nebula | Space photo of the day for Aug. 11, 2026](https://www.space.com/astronomy/behold-the-majestic-mane-of-the-lion-nebula-space-photo-of-the-day-for-august-11-2026)
-- [Bumble ditches its rule that kept men from making the first move](https://techcrunch.com/2026/08/11/bumble-ditches-its-rule-that-kept-men-from-making-the-first-move/)
-- [North Korean remote IT staffer worked for US government agency, says FBI](https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/)
-- [Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations](https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/)
+- [Delta investigating after someone set up fake Wi-Fi network mid-flight](https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/)
+- [2025’s most downloaded game, Block Blast!, is going ad-free on Apple Arcade](https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/)
+- [Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he’ll explain why at Disrupt 2026](https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/)
+- [FlightAware sues Kalshi over flight cancellation prediction markets](https://techcrunch.com/2026/08/11/flightaware-sues-kalshi-over-flight-cancellation-prediction-markets/)
+- [Kyoto Fusioneering starts work on key fusion power plant device](https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
