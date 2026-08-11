@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists create largest 2D map of the universe with 5.6 trillion pixels and nearly 4 billion cosmic objects](https://www.space.com/astronomy/scientists-create-largest-2d-map-of-the-universe-with-5-6-trillion-pixels-and-nearly-4-billion-cosmic-objects)
 - [Uber surprised robotics company Serve by selling its entire stake](https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/)
 - [Scientists find 2 million active black holes, exploding stars and more, nearly doubling our view of the high-energy universe](https://www.space.com/astronomy/scientists-find-2-million-active-black-holes-exploding-stars-and-more-nearly-doubling-our-view-of-the-high-energy-universe)
 - [FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures](https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/)
 - [OpenAI launches ChatGPT desktop app for Linux](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/)
-- [&#39;Star Trek: Strange New Worlds&#39; cast on taking &#39;bigger leaps&#39; for season 4&#39;s &#39;outside the box&#39; episodes &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-cast-on-taking-bigger-leaps-for-season-4s-outside-the-box-episodes-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
