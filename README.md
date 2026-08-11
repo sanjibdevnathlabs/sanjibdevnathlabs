@@ -134,7 +134,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Robot demos have a dirty little secret...](https://www.youtube.com/watch?v=aB5LGrHISqY)
+- [I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)
 - [From Apprentice to DevOps Engineer: Here&#39;s the Exact Path He Took](https://www.youtube.com/watch?v=TqWRlxDZkjo)
 - [OSPF From Zero: Let&#39;s Build the Internet &lpar;Well...Almost&rpar; | Summer of CCNA](https://www.youtube.com/watch?v=HUXUnMbeOyo)
 - [How ONE Simple DevOps Change Saved Thousands! 💰](https://www.youtube.com/shorts/dLXqdZPk_oc)
