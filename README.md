@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)
 - [OSPF From Zero: Let&#39;s Build the Internet &lpar;Well...Almost&rpar; | Summer of CCNA](https://www.youtube.com/watch?v=HUXUnMbeOyo)
-- [The safest way to store Bitcoin was just hacked...](https://www.youtube.com/watch?v=2X2V3xv_jik)
-- [Recreating ITS - Computerphile](https://www.youtube.com/watch?v=cDKPbMaLTA4)
-- [ITS, Eliza &amp; MiT&#39;s AI Lab - Computerphile](https://www.youtube.com/watch?v=tJMqVauWsjk)
+- [AI&#39;s Impact on Network Engineers | LIVE AMA | Summer of CCNA](https://www.youtube.com/watch?v=O7XOUK4B5pg)
+- [this Raspberry Pi belongs on your wall](https://www.youtube.com/watch?v=34D1imLordU)
+- [I got inside FIFA’s Secret World Cup Broadcast Network](https://www.youtube.com/watch?v=LhnH0juUaGw)
+- [LIVE AMA | Summer of CCNA | 07/09/2026](https://www.youtube.com/watch?v=7-CouekrkOc)
 <!-- YOUTUBE:END -->
 
 ---
