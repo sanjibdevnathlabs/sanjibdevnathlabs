@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s Quick Share adds a tap-to-share mode](https://techcrunch.com/2026/08/12/googles-quick-share-adds-a-tap-to-share-mode/)
-- [Google’s Pixel 11 lineup offer fewer hardware changes, but much more Gemini](https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/)
-- [Google unveils the Pixel Watch 5 with a smarter Gemini and advanced health monitoring](https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/)
-- [Google takes on AirTag with the new $29 Pixel Tag](https://techcrunch.com/2026/08/12/google-takes-on-airtag-with-the-new-29-pixel-tag/)
-- [Google’s new Pixel 11 Pro Fold offers a stronger build and brighter screens](https://techcrunch.com/2026/08/12/google-launches-the-pixel-11-pro-fold-with-a-stronger-build-and-brighter-screens/)
+- [How a $250 million acquisition collapsed into allegations of fraud and forged signatures](https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/)
+- [After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug](https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/)
+- [Farthest &#39;black hole star&#39; ever found could help solve the James Webb Space Telescope&#39;s little red dot mystery](https://www.space.com/astronomy/james-webb-space-telescope/farthest-black-hole-star-ever-found-could-help-solve-the-james-webb-space-telescopes-little-red-dot-mystery)
+- [Silkroad Innovation Hub’s Road to Battlefield competition continues](https://techcrunch.com/2026/08/12/silkroad-innovation-hubs-road-to-battlefield-competition-continues/)
+- [Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features](https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
