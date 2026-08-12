@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Perseid meteor shower peaks under perfect skies tonight — here&#39;s what to expect](https://www.space.com/stargazing/meteor-showers/perseid-meteor-shower-peaks-under-perfect-skies-tonight-heres-what-to-expect)
-- [SpaceX wraps Starlink double header day with the launch of 24 Starlink satellites from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-group-17-49-b1103-asog)
-- [AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year](https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/)
-- [Reservoir raises $8M to make water heaters that people — and the grid — will actually want](https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/)
-- [A total solar eclipse will darken the sky for millions today! Here&#39;s what you need to know](https://www.space.com/stargazing/solar-eclipses/a-total-solar-eclipse-will-darken-the-sky-for-millions-today-aug-12-2026-heres-what-you-need-to-know)
+- [Google’s Quick Share adds a tap-to-share mode](https://techcrunch.com/2026/08/12/googles-quick-share-adds-a-tap-to-share-mode/)
+- [Google’s Pixel 11 lineup offer fewer hardware changes, but much more Gemini](https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/)
+- [Google unveils the Pixel Watch 5 with a smarter Gemini and advanced health monitoring](https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/)
+- [Google takes on AirTag with the new $29 Pixel Tag](https://techcrunch.com/2026/08/12/google-takes-on-airtag-with-the-new-29-pixel-tag/)
+- [Google’s new Pixel 11 Pro Fold offers a stronger build and brighter screens](https://techcrunch.com/2026/08/12/google-launches-the-pixel-11-pro-fold-with-a-stronger-build-and-brighter-screens/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
