@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perseid meteor shower peaks under perfect skies tonight — here&#39;s what to expect](https://www.space.com/stargazing/meteor-showers/perseid-meteor-shower-peaks-under-perfect-skies-tonight-heres-what-to-expect)
+- [SpaceX wraps Starlink double header day with the launch of 24 Starlink satellites from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-group-17-49-b1103-asog)
 - [AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year](https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/)
 - [Reservoir raises $8M to make water heaters that people — and the grid — will actually want](https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/)
 - [A total solar eclipse will darken the sky for millions today! Here&#39;s what you need to know](https://www.space.com/stargazing/solar-eclipses/a-total-solar-eclipse-will-darken-the-sky-for-millions-today-aug-12-2026-heres-what-you-need-to-know)
-- [India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand](https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/)
-- [SpaceX could make $500 billion in 2028, Elon Musk says &lpar;video&rpar;](https://www.space.com/space-exploration/spacex-could-make-usd500-billion-in-2027-elon-musk-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
