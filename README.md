@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How a $250 million acquisition collapsed into allegations of fraud and forged signatures](https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/)
-- [After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug](https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/)
-- [Farthest &#39;black hole star&#39; ever found could help solve the James Webb Space Telescope&#39;s little red dot mystery](https://www.space.com/astronomy/james-webb-space-telescope/farthest-black-hole-star-ever-found-could-help-solve-the-james-webb-space-telescopes-little-red-dot-mystery)
-- [Silkroad Innovation Hub’s Road to Battlefield competition continues](https://techcrunch.com/2026/08/12/silkroad-innovation-hubs-road-to-battlefield-competition-continues/)
-- [Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features](https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/)
+- [Why Stream ring-maker Sandbar says the future of AI wearables is voice](https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/)
+- [Tesla wants to build a $10B solar factory in Texas](https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/)
+- [Form Energy raises $750M to build more 100-hour batteries for the grid](https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/)
+- [Lovable confirms new $13.3B valuation, raises another $400M](https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/)
+- [Facebook officially rolls out its standalone Creator Studio app with AI tools for creators](https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
