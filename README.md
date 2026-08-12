@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon will train on Twitch streamers’ content by default, unless they opt out](https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/)
 - [Total solar eclipse 2026 thrills millions with a stunning cosmic spectacle &lpar;photos, video&rpar;](https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-2026-thrills-millions-with-a-stunning-cosmic-spectacle-photos-video)
 - [Grubhub’s $24M FTC settlement is finally reaching diners and drivers](https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/)
 - [AI coding startup Cognition reportedly already in talks to raise at $40B valuation](https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/)
 - [Total solar eclipse 2026 has begun. Here are the first views of totality](https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-has-begun-here-are-the-first-views-of-totality-aug-12-2026)
-- [Radiation-shielding vest aced Artemis I lunar test, could protect astronauts on moon and Mars missions](https://www.space.com/space-exploration/artemis/artemis-i-radiation-vest-astrorad-protect-astronauts-moon-mars-missions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
