@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A total solar eclipse will darken the sky for millions today! Here&#39;s what you need to know](https://www.space.com/stargazing/solar-eclipses/a-total-solar-eclipse-will-darken-the-sky-for-millions-today-aug-12-2026-heres-what-you-need-to-know)
 - [India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand](https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/)
 - [SpaceX could make $500 billion in 2028, Elon Musk says](https://www.space.com/space-exploration/spacex-could-make-usd500-billion-in-2027-elon-musk-says)
 - [Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months](https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/)
 - [Accel closes oversubscribed $550M India fund within weeks, 19 months after its last](https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/)
-- [Scientists create largest 2D map of the universe with 5.6 trillion pixels and nearly 4 billion cosmic objects](https://www.space.com/astronomy/scientists-create-largest-2d-map-of-the-universe-with-5-6-trillion-pixels-and-nearly-4-billion-cosmic-objects)
 <!-- BLOG-POST-LIST:END -->
 
 ---
