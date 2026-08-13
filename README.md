@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Writer introduces new AI model and upgraded harness to contain token costs](https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/)
+- [NASA astronaut Mike Fincke retires after 30 years at the space agency](https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-mike-fincke-retires-after-30-years-at-the-space-agency)
 - [Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.](https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/)
 - [Supermassive black hole spews energy 300,000 light years into deep space](https://www.space.com/astronomy/black-holes/supermassive-black-hole-spews-energy-300-000-light-years-into-deep-space)
 - [OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed](https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/)
-- [IBM partners with OpenAI to bolster enterprise AI push](https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/)
-- [NASA&#39;s canceled lunar space station tech will help build the Artemis moon base](https://www.space.com/space-exploration/artemis/nasas-canceled-lunar-space-station-tech-will-help-build-the-artemis-moon-base)
 <!-- BLOG-POST-LIST:END -->
 
 ---
