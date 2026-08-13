@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [In a first, US will allow some private firms to carry out cyberattacks](https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/)
-- [On this day in space! Aug. 13, 2014: Game-changing WorldView-3 Earth-observing satellite launches to orbit](https://www.space.com/space-exploration/on-this-day-in-space-aug-13-2014-game-changing-worldview-3-earth-observing-satellite-launches-to-orbit)
-- [Total solar eclipse stuns skywatchers | Space photo of the day for Aug. 13, 2026](https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-stuns-skywatchers-space-photo-of-the-day-for-aug-13-2026)
-- [Can social media start over? Bluesky’s CEO and COO deliver their case at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026/)
-- [&#39;Strange New Worlds&#39; latest lookalike episode is part of a long line of &#39;Star Trek&#39; doppelganger stories](https://www.space.com/entertainment/space-movies-shows/number-ones-doppelganger-in-strange-new-worlds-latest-episode-is-part-of-a-long-line-of-star-trek-lookalikes)
+- [Instagram introduces a redesigned wordmark](https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/)
+- [Microsoft kills off unsuccessful AI features while merging its separate Copilot apps](https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/)
+- [Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs](https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/)
+- [Who really needs a cocktail robot?](https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/)
+- [Apple in talks to pay publishers to provide Siri with current news: report](https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
