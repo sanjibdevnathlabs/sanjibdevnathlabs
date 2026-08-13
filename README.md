@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford on track to complete $2B factory overhaul for Fathom EV truck](https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/)
+- [Virgin Galactic delays next commercial spaceflight to 2027](https://www.space.com/space-exploration/private-spaceflight/virgin-galactic-delays-next-commercial-spaceflight-to-2027)
+- [X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’](https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/)
 - [Instagram introduces a redesigned wordmark](https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/)
 - [Microsoft kills off unsuccessful AI features while merging its separate Copilot apps](https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/)
-- [Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs](https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/)
-- [Who really needs a cocktail robot?](https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/)
-- [Apple in talks to pay publishers to provide Siri with current news: report](https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
