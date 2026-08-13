@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When is the next solar eclipse? Mark your calendar for an upcoming &#39;ring of fire&#39; and the &#39;eclipse of the century&#39;](https://www.space.com/stargazing/solar-eclipses/when-is-the-next-solar-eclipse-mark-your-calendar-for-an-upcoming-ring-of-fire-and-the-eclipse-of-the-century)
 - [New private &#39;Perceptor&#39; probes will keep an eye on satellites high above Earth](https://www.space.com/space-exploration/satellites/astranis-perceptor-satellites-geostationary-orbit-space-situational-awareness)
 - [Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes](https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/)
 - [AI nuclear power firm Fermi finally has a new CEO](https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/)
 - [This year&#39;s &#39;Masters of the Universe&#39; movie wasn&#39;t Hollywood&#39;s first attempt at capturing the power of He-Man; they tried back in 1987, and failed then too](https://www.space.com/entertainment/space-movies-shows/this-years-masters-of-the-universe-movie-wasnt-hollywoods-first-attempt-at-capturing-the-power-of-he-man-they-tried-back-in-1987-and-failed-then-too)
-- [Northrop’s robot space mechanic is a new way to keep satellites at work longer](https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
