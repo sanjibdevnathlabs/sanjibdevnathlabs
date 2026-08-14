@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Talks to sell PayPal to Stripe and Advent are heating up](https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/)
 - [&#39;Strap yourself in and feel the Gs&#39;: NASA announces &#39;Max Power&#39; aerospace expo](https://www.space.com/space-exploration/strap-yourself-in-and-feel-the-gs-nasa-announces-max-power-aerospace-expo)
 - [Is empty space really empty? This magnetic star may finally solve a 90-year-old mystery](https://www.space.com/astronomy/stars/is-empty-space-really-empty-this-magnetic-star-may-finally-solve-a-90-year-old-mystery)
 - [Self-driving trucks are officially testing on California highways](https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/)
 - [Cards Against Humanity wants to erect a monument to &#39;honor&#39; Elon Musk](https://www.space.com/space-exploration/human-spaceflight/cards-against-humanity-wants-to-erect-a-monument-to-honor-elon-musk)
-- [6 space board games to channel the political drama of &#39;For All Mankind&#39; and &#39;Star City&#39;](https://www.space.com/entertainment/space-games/6-space-board-games-to-channel-the-political-drama-of-for-all-mankind-and-star-city)
 <!-- BLOG-POST-LIST:END -->
 
 ---
