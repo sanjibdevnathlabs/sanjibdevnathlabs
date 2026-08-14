@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Water can survive surprisingly close to the Milky Way&#39;s supermassive black hole, James Webb Space Telescope finds](https://www.space.com/astronomy/james-webb-space-telescope/water-can-survive-surprisingly-close-to-the-milky-ways-supermassive-black-hole-james-webb-space-telescope-finds)
+- [Apple proposes to take a 15% cut of purchases made outside the App Store](https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/)
+- [Kog is going deeper to squeeze more inference out of GPUs](https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/)
 - [Hyperscalers might regret embracing natural gas if new forecast proves correct](https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/)
 - [On this day in space! Aug. 14, 1992: Meteorite shower hits Uganda](https://www.space.com/stargazing/meteor-showers/on-this-day-in-space-aug-14-1992-meteorite-shower-hits-uganda)
-- [The ISS photobombs the sun during the total solar eclipse | Space photo of the day for Aug. 14, 2026](https://www.space.com/stargazing/solar-eclipses/the-iss-photobombs-the-sun-during-the-total-solar-eclipse-space-photo-of-the-day-for-aug-14-2026)
-- [US courts will start publishing how often the government uses spyware](https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/)
-- [India-US space ties deepen as NASA invites ISRO to join moon base program](https://www.space.com/astronomy/moon/india-us-space-ties-deepen-as-nasa-invites-isro-to-join-moon-base-program)
 <!-- BLOG-POST-LIST:END -->
 
 ---
