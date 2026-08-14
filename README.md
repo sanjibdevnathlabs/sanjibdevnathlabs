@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unforgetful is a new reminders app for people who can’t stop hitting snooze](https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/)
+- [Google will now allow users to remove visible watermark from its AI generations](https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/)
+- [Can Venus cast a shadow? Here&#39;s how to see it for yourself](https://www.space.com/stargazing/can-venus-cast-a-shadow-heres-how-to-see-it-for-yourself)
+- [Does Mark Zuckerberg really believe AI is ‘for everyone’?](https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/)
 - [Water can survive surprisingly close to the Milky Way&#39;s supermassive black hole, James Webb Space Telescope finds](https://www.space.com/astronomy/james-webb-space-telescope/water-can-survive-surprisingly-close-to-the-milky-ways-supermassive-black-hole-james-webb-space-telescope-finds)
-- [Apple proposes to take a 15% cut of purchases made outside the App Store](https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/)
-- [Kog is going deeper to squeeze more inference out of GPUs](https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/)
-- [Hyperscalers might regret embracing natural gas if new forecast proves correct](https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/)
-- [On this day in space! Aug. 14, 1992: Meteorite shower hits Uganda](https://www.space.com/stargazing/meteor-showers/on-this-day-in-space-aug-14-1992-meteorite-shower-hits-uganda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
