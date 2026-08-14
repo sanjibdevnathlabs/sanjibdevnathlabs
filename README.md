@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyperscalers might regret embracing natural gas if new forecast proves correct](https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/)
+- [On this day in space! Aug. 14, 1992: Meteorite shower hits Uganda](https://www.space.com/stargazing/meteor-showers/on-this-day-in-space-aug-14-1992-meteorite-shower-hits-uganda)
+- [The ISS photobombs the sun during the total solar eclipse | Space photo of the day for Aug. 14, 2026](https://www.space.com/stargazing/solar-eclipses/the-iss-photobombs-the-sun-during-the-total-solar-eclipse-space-photo-of-the-day-for-aug-14-2026)
+- [US courts will start publishing how often the government uses spyware](https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/)
 - [India-US space ties deepen as NASA invites ISRO to join moon base program](https://www.space.com/astronomy/moon/india-us-space-ties-deepen-as-nasa-invites-isro-to-join-moon-base-program)
-- [Uber and Pony.ai plan to bring 2,000 robotaxis to Europe](https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/)
-- [SpaceX rocket&#39;s moon crash highlights &#39;a tangible operational risk&#39; of lunar settlement](https://www.space.com/astronomy/moon/spacex-rockets-moon-crash-highlights-a-tangible-operational-risk-of-lunar-settlement)
-- [Our expert thinks this portable Celestron telescope will delight beginners and younger stargazers](https://www.space.com/stargazing/skywatching-kit/our-expert-thinks-this-portable-celestron-telescope-will-delight-beginners-and-younger-stargazers)
-- [Investors sue Selena Gomez alleging fraud tied to her mental health startup](https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
