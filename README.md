@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria](https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/)
+- [What we know about the alleged Iranian hacks on U.S. water utilities](https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/)
+- [Read-it-later app Pocket shut down down — here are the best alternatives](https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/)
 - [Will the new moon race turn Earth&#39;s nearest neighbor into a dumping ground?](https://www.space.com/astronomy/moon/will-the-new-moon-race-turn-earths-nearest-neighbor-into-a-dumping-ground)
 - [US Space Force gives Rocket Lab $397 million to build threat-tracking &#39;Flatellites&#39;](https://www.space.com/space-exploration/satellites/us-space-force-gives-rocket-lab-usd397-million-to-build-threat-tracking-flatellites)
-- [Unforgetful is a new reminders app for people who can’t stop hitting snooze](https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/)
-- [Google will now allow users to remove visible watermark from its AI generations](https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/)
-- [Can Venus cast a shadow? Here&#39;s how to see it for yourself](https://www.space.com/stargazing/can-venus-cast-a-shadow-heres-how-to-see-it-for-yourself)
 <!-- BLOG-POST-LIST:END -->
 
 ---
