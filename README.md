@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India-US space ties deepen as NASA invites ISRO to join moon base program](https://www.space.com/astronomy/moon/india-us-space-ties-deepen-as-nasa-invites-isro-to-join-moon-base-program)
 - [Uber and Pony.ai plan to bring 2,000 robotaxis to Europe](https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/)
 - [SpaceX rocket&#39;s moon crash highlights &#39;a tangible operational risk&#39; of lunar settlement](https://www.space.com/astronomy/moon/spacex-rockets-moon-crash-highlights-a-tangible-operational-risk-of-lunar-settlement)
 - [Our expert thinks this portable Celestron telescope will delight beginners and younger stargazers](https://www.space.com/stargazing/skywatching-kit/our-expert-thinks-this-portable-celestron-telescope-will-delight-beginners-and-younger-stargazers)
 - [Investors sue Selena Gomez alleging fraud tied to her mental health startup](https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/)
-- [Flock says its new tool will help identify police abuse, but hasn’t explained how it works](https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
