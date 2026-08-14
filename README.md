@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US Space Force gives Rocket Lab $397 million to build threat-tracking &#39;Flatellites&#39;](https://www.space.com/space-exploration/satellites/us-space-force-gives-rocket-lab-usd397-million-to-build-threat-tracking-flatellites)
 - [Unforgetful is a new reminders app for people who can’t stop hitting snooze](https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/)
 - [Google will now allow users to remove visible watermark from its AI generations](https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/)
 - [Can Venus cast a shadow? Here&#39;s how to see it for yourself](https://www.space.com/stargazing/can-venus-cast-a-shadow-heres-how-to-see-it-for-yourself)
 - [Does Mark Zuckerberg really believe AI is ‘for everyone’?](https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/)
-- [Water can survive surprisingly close to the Milky Way&#39;s supermassive black hole, James Webb Space Telescope finds](https://www.space.com/astronomy/james-webb-space-telescope/water-can-survive-surprisingly-close-to-the-milky-ways-supermassive-black-hole-james-webb-space-telescope-finds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
