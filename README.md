@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX officially closes its Cursor acquisition](https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/)
 - [How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/)
 - [On this day in space! Aug. 15, 1977: Mysterious &#39;Wow!&#39; Signal boosts search for E.T.](https://www.space.com/space-exploration/search-for-life/on-this-day-in-space-aug-15-1977-mysterious-wow-signal-boosts-search-for-e-t)
 - [Every fusion startup that has raised over $100M](https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/)
 - [&#39;Lanterns&#39;: Who&#39;s who in HBO&#39;s Green Lantern show?](https://www.space.com/entertainment/space-movies-shows/lanterns-whos-who-in-hbos-green-lantern-show)
-- [This Week In Space podcast: Episode 223 — The Lunar Domain](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-223-the-lunar-domain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
