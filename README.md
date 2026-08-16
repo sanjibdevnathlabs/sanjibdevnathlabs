@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;This goes beyond showcasing technological soft power&#39;: China&#39;s new moon map signals bold space ambitions &lpar;video&rpar;](https://www.space.com/astronomy/moon/this-goes-beyond-showcasing-technological-soft-power-chinas-new-moon-map-signals-bold-space-ambitions-video)
 - [Stomp Rockets: The perfect start to model rocketry for kids?](https://www.space.com/stargazing/skywatching-kit/stomp-rockets-the-perfect-start-to-model-rocketry-for-kids)
 - [New record! SpaceX launches 2 Falcon 9 rockets just 38 minutes apart](https://www.space.com/space-exploration/launches-spacecraft/spacex-breaks-record-launch-doubleheader-ussf-366-globalstar-2r)
 - [Woman claims her stepfather used Grok to transform childhood photo into explicit imagery](https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/)
 - [Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/)
-- [SpaceX officially closes its Cursor acquisition](https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
