@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/)
+- [Why people aren’t buying Mark Zuckerberg’s AI future](https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/)
 - [Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’](https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/)
 - [TechCrunch Mobility: The shifting flight path of electric air taxis](https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/)
 - [NASA funds spherical &#39;Aerobots&#39; that could explore the caves of Saturn&#39;s moon Titan](https://www.space.com/technology/nasa-funds-spherical-aerobots-that-could-explore-the-caves-of-saturns-moon-titan)
-- [On this day in space! Aug. 16, 1963: Wingless M2-F1 completes 1st glide flight](https://www.space.com/space-exploration/human-spaceflight/on-this-day-in-space-aug-16-1963-wingless-m2-f1-completes-1st-glide-flight)
-- [Artemis II pilot thanks NASA for letting him fly Orion by hand: &#39;I&#39;m still blown away by that trust&#39;](https://www.space.com/space-exploration/artemis/artemis-ii-pilot-thanks-nasa-for-letting-him-fly-orion-by-hand-im-still-blown-away-by-that-trust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
