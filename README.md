@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;This is unprecedented&#39;: Why the Pentagon&#39;s recent UFO file releases are so important](https://www.space.com/space-exploration/search-for-life/this-is-unprecedented-why-the-pentagons-recent-ufo-file-releases-are-so-important)
+- [Blue Origin adding second pad to Cape Canaveral launch complex amid rocket explosion repairs](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-adding-second-pad-to-cape-canaveral-launch-complex-amid-rocket-explosion-repairs)
 - [How to watch &#39;Lanterns&#39; — HBO&#39;s gritty new Green Lantern show](https://www.space.com/entertainment/space-movies-shows/how-to-watch-lanterns-hbos-gritty-new-green-lantern-show)
 - [Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/)
 - [Why people aren’t buying Mark Zuckerberg’s AI future](https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/)
-- [Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’](https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/)
-- [TechCrunch Mobility: The shifting flight path of electric air taxis](https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
