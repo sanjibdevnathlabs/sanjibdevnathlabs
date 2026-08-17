@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [This new startup can query anywhere you&#39;ve been...](https://www.youtube.com/watch?v=E7la7-dtfVM)
-- [your home router STILL SUCKS!! &lpar;use OPNsense instead&rpar;](https://www.youtube.com/watch?v=a3RI4DjFBzw)
-- [How to Get Hired in DevOps WITHOUT a Tech Degree 💼🔥](https://www.youtube.com/shorts/4TXpQnqLvLE)
 - [Meta&#39;s new model wants &quot;deep access&quot; to your personal life...](https://www.youtube.com/watch?v=G55HSGpuh1M)
 - [I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)
+- [The safest way to store Bitcoin was just hacked...](https://www.youtube.com/watch?v=2X2V3xv_jik)
+- [Should the Government Support the Lottery?](https://www.youtube.com/watch?v=UySCpCAI-5w)
 <!-- YOUTUBE:END -->
 
 ---
