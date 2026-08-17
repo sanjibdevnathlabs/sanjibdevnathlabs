@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber adds Zipline drones to its Eats delivery network](https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/)
+- [Wispr raises $280M at $2B valuation as it looks beyond dictation](https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/)
+- [Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts](https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/)
+- [A &#39;river&#39; of cosmic gas 1 trillion miles long sent planets in the Orion constellation into tilted orbits](https://www.space.com/astronomy/exoplanets/a-river-of-cosmic-gas-1-trillion-miles-long-sent-planets-in-the-orion-constellation-into-tilted-orbits)
 - [&#39;This is unprecedented&#39;: Why the Pentagon&#39;s recent UFO file releases are so important](https://www.space.com/space-exploration/search-for-life/this-is-unprecedented-why-the-pentagons-recent-ufo-file-releases-are-so-important)
-- [Blue Origin adding second pad to Cape Canaveral launch complex amid rocket explosion repairs](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-adding-second-pad-to-cape-canaveral-launch-complex-amid-rocket-explosion-repairs)
-- [How to watch &#39;Lanterns&#39; — HBO&#39;s gritty new Green Lantern show](https://www.space.com/entertainment/space-movies-shows/how-to-watch-lanterns-hbos-gritty-new-green-lantern-show)
-- [Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/)
-- [Why people aren’t buying Mark Zuckerberg’s AI future](https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
