@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These eight Lego Star Wars Smart Play sets are out now and Marvel needs to be next.](https://www.space.com/stargazing/skywatching-kit/these-eight-lego-star-wars-smart-play-sets-are-out-now-and-marvel-needs-to-be-next)
+- [Wildfire smoke blankets volcanoes across the Pacific Northwest | Space photo of the day for Aug. 17, 2026](https://www.space.com/astronomy/earth/wildfire-smoke-blankets-volcanoes-across-the-pacific-northwest-space-photo-of-the-day-for-aug-17-2026)
+- [On this day in space! Aug. 17, 1877: Asaph Hall Discovers the Martian moon Phobos](https://www.space.com/astronomy/mars/on-this-day-in-space-aug-17-1877-asaph-hall-discovers-the-martian-moon-phobos)
 - [Uber adds Zipline drones to its Eats delivery network](https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/)
 - [Wispr raises $280M at $2B valuation as it looks beyond dictation](https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/)
-- [Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts](https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/)
-- [A &#39;river&#39; of cosmic gas 1 trillion miles long sent planets in the Orion constellation into tilted orbits](https://www.space.com/astronomy/exoplanets/a-river-of-cosmic-gas-1-trillion-miles-long-sent-planets-in-the-orion-constellation-into-tilted-orbits)
-- [&#39;This is unprecedented&#39;: Why the Pentagon&#39;s recent UFO file releases are so important](https://www.space.com/space-exploration/search-for-life/this-is-unprecedented-why-the-pentagons-recent-ufo-file-releases-are-so-important)
 <!-- BLOG-POST-LIST:END -->
 
 ---
