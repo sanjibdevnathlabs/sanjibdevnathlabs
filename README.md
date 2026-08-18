@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s new macOS update reportedly contains a video of AirPods with a camera](https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/)
+- [Daniel Ek’s body-scanning startup Neko Health opens first US office, in New York](https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/)
+- [It&#39;s harder to poop in space. Scientists may finally know why](https://www.space.com/space-exploration/human-spaceflight/its-harder-to-poop-in-space-scientists-may-finally-know-why)
 - [Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’](https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/)
 - [Fairphone is launching its latest repairable phone in the US too](https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/)
-- [Einride strikes deal to add 500 Tesla Semis to its fleet](https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/)
-- [Detroit startup Grounded raises $5M to customize electric and gas-powered vans](https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/)
-- [See gorgeous views of the Aug. 12 total solar eclipse captured from space](https://www.space.com/stargazing/solar-eclipses/see-gorgeous-views-of-the-aug-12-total-solar-eclipse-captured-from-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
