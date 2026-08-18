@@ -136,9 +136,9 @@ I'm a software developer passionate about designing and building applications wi
 <!-- YOUTUBE:START -->
 - [CCNA from Start to Finish: One MASSIVE Packet Tracer Lab](https://www.youtube.com/watch?v=buiNt9MUIHk)
 - [Quantum Simulation &amp; Nature - Computerphile](https://www.youtube.com/watch?v=pg7fntKLNak)
+- [This new startup can query anywhere you&#39;ve been...](https://www.youtube.com/watch?v=E7la7-dtfVM)
 - [your home router STILL SUCKS!! &lpar;use OPNsense instead&rpar;](https://www.youtube.com/watch?v=a3RI4DjFBzw)
-- [OSPF From Zero: Let&#39;s Build the Internet &lpar;Well...Almost&rpar; | Summer of CCNA](https://www.youtube.com/watch?v=HUXUnMbeOyo)
-- [Recreating ITS - Computerphile](https://www.youtube.com/watch?v=cDKPbMaLTA4)
+- [Meta&#39;s new model wants &quot;deep access&quot; to your personal life...](https://www.youtube.com/watch?v=G55HSGpuh1M)
 <!-- YOUTUBE:END -->
 
 ---
