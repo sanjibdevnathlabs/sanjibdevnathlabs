@@ -147,10 +147,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- BLOG-POST-LIST:START -->
 - [Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’](https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/)
+- [Fairphone is launching its latest repairable phone in the US too](https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/)
 - [Einride strikes deal to add 500 Tesla Semis to its fleet](https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/)
 - [Detroit startup Grounded raises $5M to customize electric and gas-powered vans](https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/)
 - [See gorgeous views of the Aug. 12 total solar eclipse captured from space](https://www.space.com/stargazing/solar-eclipses/see-gorgeous-views-of-the-aug-12-total-solar-eclipse-captured-from-space)
-- [Watch European astronaut make history during spacewalk today](https://www.space.com/space-exploration/international-space-station/watch-european-astronaut-make-history-during-spacewalk-today)
 <!-- BLOG-POST-LIST:END -->
 
 ---
