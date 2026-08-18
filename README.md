@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple overhauls its EU App Store fees, loosens rules for alternative app stores](https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/)
+- [Comcast adds motion sensing to millions of its newer routers, with a privacy catch](https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/)
 - [Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear](https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/)
 - [Watch SpaceX launch its 100th mission of the year tonight](https://www.space.com/space-exploration/launches-spacecraft/spacex-100-launches-2026-starlink-group-17-50-launch)
 - [Bluesky says its recent outage was caused by another DDoS attack](https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/)
-- [Peacock is raising prices across all of its streaming plans](https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/)
-- [Hydrogen-powered &#39;rocket car&#39; tops 400 mph in record-breaking test &lpar;video&rpar;](https://www.space.com/technology/hydrogen-powered-rocket-car-tops-400-mph-in-record-breaking-test-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
