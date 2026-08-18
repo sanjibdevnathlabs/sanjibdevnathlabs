@@ -146,10 +146,10 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hydrogen-powered &#39;rocket car&#39; tops 400 mph in record-breaking test &lpar;video&rpar;](https://www.space.com/technology/hydrogen-powered-rocket-car-tops-400-mph-in-record-breaking-test-video)
 - [Anthro Energy breaks ground on factory that could pave the road to solid-state batteries](https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/)
 - [Warp’s new system is an out-of-the-box software factory for AI development](https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/)
 - [A beginner’s guide to observing the night sky with a manual telescope](https://www.space.com/stargazing/skywatching-kit/a-beginners-guide-to-observing-the-night-sky-with-a-manual-telescope)
-- [On this day in space! Aug. 18, 1868: Total solar eclipse leads to discovery of helium](https://www.space.com/astronomy/on-this-day-in-space-aug-18-1868-total-solar-eclipse-leads-to-discovery-of-helium)
 - [Hubble, James Webb team up to capture the &#39;Black Eye Galaxy&#39; | Space photo of the day for Aug. 18, 2026](https://www.space.com/astronomy/galaxies/hubble-james-webb-team-up-to-capture-the-black-eye-galaxy-space-photo-of-the-day-for-aug-18-2026)
 <!-- BLOG-POST-LIST:END -->
 
