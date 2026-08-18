@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch European astronaut make history during spacewalk today](https://www.space.com/space-exploration/international-space-station/watch-european-astronaut-make-history-during-spacewalk-today)
 - [Anthropic’s annualized revenue surges to $65B](https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/)
 - [AI automation startup Relay shuts down, staff joins Google’s Chrome team](https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/)
 - [How an ancient collision with another galaxy transformed the Milky Way](https://www.space.com/astronomy/galaxies/how-an-ancient-collision-with-another-galaxy-transformed-the-milky-way)
 - [‘Unprecedented’ number of Apple users received recent spyware alert, say investigators](https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/)
-- [China bounces back from Long March rocket explosion with back-to-back launches &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-bounces-back-from-long-march-rocket-explosion-with-back-to-back-launches-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
