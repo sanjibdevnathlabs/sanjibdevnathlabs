@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI seeks to one-up Anthropic with new customer privacy protections](https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/)
+- [Scientists just found the fastest known star in the Milky Way. It zooms around our black hole at 15,500 miles per second](https://www.space.com/astronomy/stars/scientists-just-found-the-fastest-known-star-in-the-milky-way-it-zooms-around-our-black-hole-at-15-500-miles-per-second)
+- [Cognition CEO denies report that SpaceX tried to acquire the startup](https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/)
+- [Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’](https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/)
 - [Private mission to save NASA&#39;s Swift space telescope fails](https://www.space.com/space-exploration/missions/private-mission-to-save-nasas-swift-space-telescope-fails)
-- [Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth](https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/)
-- [Scientists create &#39;laundry gun&#39; for astronauts to clean their clothes by shooting out plasma](https://www.space.com/space-exploration/human-spaceflight/scientists-create-laundry-gun-for-astronauts-to-clean-their-clothes-by-shooting-out-plasma)
-- [Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman](https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/)
-- [Gambling on the Little League World Series? Sports bettors have gone too far](https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
