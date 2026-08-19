@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth](https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/)
+- [Scientists create &#39;laundry gun&#39; for astronauts to clean their clothes by shooting out plasma](https://www.space.com/space-exploration/human-spaceflight/scientists-create-laundry-gun-for-astronauts-to-clean-their-clothes-by-shooting-out-plasma)
+- [Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman](https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/)
+- [Gambling on the Little League World Series? Sports bettors have gone too far](https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/)
 - [AI was supposed to win people over by now — it hasn’t](https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/)
-- [Google packs Search and Gemini with new AI study tools](https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/)
-- [&#39;The Mandalorian and Grogu&#39; finally blasts onto Disney+ next month](https://www.space.com/entertainment/space-movies-shows/the-mandalorian-and-grogu-finally-blasts-onto-disney-next-month)
-- [Researchers say OpenAI revoked their access to limited cyber program](https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/)
-- [Dark matter could magnify the jets of a ravenously feeding supermassive black hole](https://www.space.com/astronomy/black-holes/dark-matter-could-magnify-the-jets-of-a-ravenously-feeding-supermassive-black-hole)
 <!-- BLOG-POST-LIST:END -->
 
 ---
