@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CareCloud confirms 3.7M patients had their medical records stolen in data breach](https://techcrunch.com/2026/08/19/carecloud-confirms-3-7m-patients-had-their-medical-records-stolen-in-data-breach/)
 - [AI isn’t close to curing cancer. This startup says it knows what it will take.](https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/)
 - [You can Venmo your college tuition, for some reason](https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/)
 - [Relativity Networks raises $22 million to bring a faster kind of fiber to data centers](https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/)
 - [Astronomers discover a giant, rocky &#39;mega-Earth&#39; 23 times more massive than our planet](https://www.space.com/astronomy/exoplanets/astronomers-discover-a-giant-rocky-mega-earth-23-times-more-massive-than-our-planet)
-- [Touchdown! Private Chinese rocket aces landing on 2nd-ever flight &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/touchdown-private-chinese-rocket-aces-landing-on-2nd-ever-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
