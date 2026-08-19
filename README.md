@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI was supposed to win people over by now — it hasn’t](https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/)
+- [Google packs Search and Gemini with new AI study tools](https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/)
+- [&#39;The Mandalorian and Grogu&#39; finally blasts onto Disney+ next month](https://www.space.com/entertainment/space-movies-shows/the-mandalorian-and-grogu-finally-blasts-onto-disney-next-month)
+- [Researchers say OpenAI revoked their access to limited cyber program](https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/)
 - [Dark matter could magnify the jets of a ravenously feeding supermassive black hole](https://www.space.com/astronomy/black-holes/dark-matter-could-magnify-the-jets-of-a-ravenously-feeding-supermassive-black-hole)
-- [Meet the startup helping Wall Street put a price on AI compute](https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/)
-- [T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network](https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/)
-- [A SpaceX rocket slammed into the moon this month — and a NASA spacecraft has spotted its lunar grave &lpar;photos&rpar;](https://www.space.com/astronomy/moon/a-spacex-rocket-slammed-into-the-moon-this-month-and-a-nasa-spacecraft-has-spotted-its-lunar-grave-photos)
-- [Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21](https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
