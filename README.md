@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Private mission to save NASA&#39;s Swift space telescope fails](https://www.space.com/space-exploration/missions/private-mission-to-save-nasas-swift-space-telescope-fails)
 - [Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth](https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/)
 - [Scientists create &#39;laundry gun&#39; for astronauts to clean their clothes by shooting out plasma](https://www.space.com/space-exploration/human-spaceflight/scientists-create-laundry-gun-for-astronauts-to-clean-their-clothes-by-shooting-out-plasma)
 - [Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman](https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/)
 - [Gambling on the Little League World Series? Sports bettors have gone too far](https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/)
-- [AI was supposed to win people over by now — it hasn’t](https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
