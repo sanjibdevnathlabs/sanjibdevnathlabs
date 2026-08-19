@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A SpaceX rocket slammed into the moon this month — and a NASA spacecraft has spotted its lunar grave &lpar;photos&rpar;](https://www.space.com/astronomy/moon/a-spacex-rocket-slammed-into-the-moon-this-month-and-a-nasa-spacecraft-has-spotted-its-lunar-grave-photos)
 - [Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21](https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/)
 - [Mysterious Russian &#39;space activity&#39; causes US Air Force flight to Antarctica to turn around: report](https://www.space.com/space-exploration/launches-spacecraft/mysterious-russian-space-activity-causes-us-air-force-flight-to-antarctica-to-turn-around-report)
 - [TerraPower’s nuclear reactor has a secret weapon for powering AI data centers](https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/)
-- [Rivian spinout Also raises another $150 million](https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/)
-- [Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment](https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/)
+- [Rivian spinout Also raises another $150M](https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
