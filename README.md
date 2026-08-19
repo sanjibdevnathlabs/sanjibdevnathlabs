@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment](https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/)
+- [Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required](https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/)
+- [13 sci-fi books that inspired our favorite shows and movies](https://www.space.com/entertainment/read-13-books-that-inspired-our-favorite-sci-fi-shows-and-movies)
+- [Amazon’s Prime Air is taking off in nearly 500 U.S. cities](https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/)
 - [Calendly throws its hat into meeting note-taker circus](https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/)
-- [The founder’s secret weapon: Work at TechCrunch Disrupt 2026 and learn how the pros do it](https://techcrunch.com/2026/08/19/the-founders-secret-weapon-work-at-techcrunch-disrupt-2026-and-learn-how-the-pros-do-it/)
-- [My 5 favorite sights to see in the night sky with binoculars](https://www.space.com/stargazing/skywatching-kit/the-best-things-to-see-in-the-night-sky-with-binoculars)
-- [On this day in space! Aug. 19, 1997: 1st Filipino satellite launches into orbit](https://www.space.com/space-exploration/on-this-day-in-space-aug-19-1997-1st-filipino-satellite-launches-into-orbit)
-- [Perseverance rover watchs alien solar eclipse on Mars | Space photo of the day for Aug. 19, 2026](https://www.space.com/astronomy/mars/perseverance-rover-watchs-alien-solar-eclipse-on-mars-space-photo-of-the-day-for-aug-19-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
