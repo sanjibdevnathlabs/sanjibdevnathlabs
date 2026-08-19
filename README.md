@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Relativity Networks raises $22 million to bring a faster kind of fiber to data centers](https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/)
+- [Astronomers discover a giant, rocky &#39;mega-Earth&#39; 23 times more massive than our planet](https://www.space.com/astronomy/exoplanets/astronomers-discover-a-giant-rocky-mega-earth-23-times-more-massive-than-our-planet)
 - [Touchdown! Private Chinese rocket aces landing on 2nd-ever flight](https://www.space.com/space-exploration/launches-spacecraft/touchdown-private-chinese-rocket-aces-landing-on-2nd-ever-flight)
 - [Cursor capitalizes on GitHub frustration, launches rival hosting platform](https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/)
 - [DOJ’s probe into Andreessen Horowitz over board seats baffles VCs](https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/)
-- [TikTok explores peer-to-peer payments via DMs, report says](https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/)
-- [Forget &#39;Halo&#39; — the latest &#39;Futurama&#39; episode has a ring world covered in super-intelligent rats &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/forget-halo-the-latest-futurama-episode-has-a-ring-world-covered-in-super-intelligent-rats-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
