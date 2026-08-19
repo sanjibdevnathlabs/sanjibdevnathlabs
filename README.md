@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [Sal Khan discusses MIT OpenCourseWare](https://www.youtube.com/watch?v=0oykYip2vus)
-- [This new startup can query anywhere you&#39;ve been...](https://www.youtube.com/watch?v=E7la7-dtfVM)
-- [your home router STILL SUCKS!! &lpar;use OPNsense instead&rpar;](https://www.youtube.com/watch?v=a3RI4DjFBzw)
-- [How to Get Hired in DevOps WITHOUT a Tech Degree 💼🔥](https://www.youtube.com/shorts/4TXpQnqLvLE)
-- [Meta&#39;s new model wants &quot;deep access&quot; to your personal life...](https://www.youtube.com/watch?v=G55HSGpuh1M)
+- [Should the Government Support the Lottery?](https://www.youtube.com/watch?v=UySCpCAI-5w)
+- [Lecture 4: Smart Contracts as a Solution to a Coordination Problem](https://www.youtube.com/watch?v=_8wK75ZhFnk)
+- [Lecture 10: Designs of Financial Infrastructure Utilizing Encryption](https://www.youtube.com/watch?v=dM0I2g8pEfc)
+- [Lecture 7: Stochastic Financial Networks](https://www.youtube.com/watch?v=97Z_uO13pfg)
 <!-- YOUTUBE:END -->
 
 ---
