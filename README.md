@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21](https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/)
+- [Mysterious Russian &#39;space activity&#39; causes US Air Force flight to Antarctica to turn around: report](https://www.space.com/space-exploration/launches-spacecraft/mysterious-russian-space-activity-causes-us-air-force-flight-to-antarctica-to-turn-around-report)
+- [TerraPower’s nuclear reactor has a secret weapon for powering AI data centers](https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/)
+- [Rivian spinout Also raises another $150 million](https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/)
 - [Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment](https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/)
-- [Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required](https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/)
-- [13 sci-fi books that inspired our favorite shows and movies](https://www.space.com/entertainment/read-13-books-that-inspired-our-favorite-sci-fi-shows-and-movies)
-- [Amazon’s Prime Air is taking off in nearly 500 U.S. cities](https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/)
-- [Calendly throws its hat into meeting note-taker circus](https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
