@@ -134,7 +134,7 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [DeepSeek just cooked again... Big AI is big scared](https://www.youtube.com/watch?v=xBByvFrqmWU)
+- [DeepSeek is back... and Silicon Valley is terrified](https://www.youtube.com/watch?v=xBByvFrqmWU)
 - [Cloud Explained in 5 Minutes](https://www.youtube.com/watch?v=-ErtUzkj6tY)
 - [The summer Math fell to the machines...](https://www.youtube.com/watch?v=iuZPTE5qsJY)
 - [Sal Khan discusses MIT OpenCourseWare](https://www.youtube.com/watch?v=0oykYip2vus)
