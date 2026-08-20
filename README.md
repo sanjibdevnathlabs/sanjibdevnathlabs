@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The summer Math fell to the machines...](https://www.youtube.com/watch?v=iuZPTE5qsJY)
+- [Sal Khan discusses MIT OpenCourseWare](https://www.youtube.com/watch?v=0oykYip2vus)
 - [Quantum Simulation &amp; Nature - Computerphile](https://www.youtube.com/watch?v=pg7fntKLNak)
-- [Recreating ITS - Computerphile](https://www.youtube.com/watch?v=cDKPbMaLTA4)
-- [ITS, Eliza &amp; MiT&#39;s AI Lab - Computerphile](https://www.youtube.com/watch?v=tJMqVauWsjk)
-- [PiDP10 - Computerphile](https://www.youtube.com/watch?v=hISbyatih44)
-- [PiDP6 &amp; Lisp - Computerphile](https://www.youtube.com/watch?v=dXBmCIfb92k)
+- [This new startup can query anywhere you&#39;ve been...](https://www.youtube.com/watch?v=E7la7-dtfVM)
+- [your home router STILL SUCKS!! &lpar;use OPNsense instead&rpar;](https://www.youtube.com/watch?v=a3RI4DjFBzw)
 <!-- YOUTUBE:END -->
 
 ---
