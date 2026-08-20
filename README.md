@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI data giant Alation confirms cyberattack](https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/)
+- [For a16z, AI gives foreign founders an advantage](https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/)
+- [US says hackers are targeting vulnerable water systems with the help of AI](https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/)
 - [Meta AI’s new Mac app wants you to talk to your apps](https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/)
 - [James Webb Space Telescope finds &#39;hidden stars&#39; making the universe&#39;s 1st galaxies much bigger than we knew](https://www.space.com/astronomy/galaxies/james-webb-space-telescope-finds-hidden-stars-among-the-universes-most-ancient-galaxies)
-- [Partial lunar eclipse live: Latest news, viewing tips and live updates from Aug. 27-28 eclipse](https://www.space.com/news/live/partial-lunar-eclipse-2026-live-updates-one-week-to-go)
-- [A 96% partial lunar eclipse is just 1 week away: Here&#39;s what you need to know](https://www.space.com/stargazing/lunar-eclipses/a-96-percent-partial-lunar-eclipse-is-just-1-week-away-heres-what-you-need-to-know-aug-27-28)
-- [Binance now lets AI agents trade, but keeping them in check is largely up to users](https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
