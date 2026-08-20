@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Someone targeted security researchers using a fake crypto conference as a lure](https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/)
+- [Microbes from Earth may survive on the moon, scientists find](https://www.space.com/astronomy/moon/microbes-from-earth-may-survive-on-the-moon-scientists-find)
+- [Mark buys a castle](https://techcrunch.com/2026/08/20/mark-buys-a-castle/)
 - [Google gives publishers a new way to fight AI-driven traffic losses](https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/)
-- [Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders.](https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/)
-- [Castelion hits $13B valuation to mass-produce hypersonic missiles](https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/)
-- [&#39;Wet Hot American Summer&#39;: The raunchy 2000s teen movie that was actually about a space station falling to Earth](https://www.space.com/entertainment/space-movies-shows/wet-hot-american-summer-the-raunchy-2000s-teen-movie-that-was-actually-about-a-space-station-falling-to-earth)
-- [Linkdaze’s smart calendar is built to run a household, not just track a schedule](https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/)
+- [Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders](https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
