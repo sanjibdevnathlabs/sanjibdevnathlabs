@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss](https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/)
+- [China&#39;s Chang&#39;e 7 moon probe will launch this weekend on the most ambitious lunar mission in history](https://www.space.com/astronomy/moon/chinas-change-7-moon-probe-will-launch-this-weekend-on-the-most-ambitious-lunar-mission-in-history)
+- [Ok, can we actually cool data centers with our pee?](https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/)
+- [SpaceX will try for 1st Starship tower catch &#39;in a few months,&#39; Elon Musk says](https://www.space.com/space-exploration/launches-spacecraft/spacex-will-try-for-1st-starship-tower-catch-in-a-few-months-elon-musk-says)
 - [Someone targeted security researchers using a fake crypto conference as a lure](https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/)
-- [Microbes from Earth may survive on the moon, scientists find](https://www.space.com/astronomy/moon/microbes-from-earth-may-survive-on-the-moon-scientists-find)
-- [Mark buys a castle](https://techcrunch.com/2026/08/20/mark-buys-a-castle/)
-- [Google gives publishers a new way to fight AI-driven traffic losses](https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/)
-- [Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders](https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
