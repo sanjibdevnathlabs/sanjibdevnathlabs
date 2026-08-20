@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Try not to be hypnotized by the &#39;Eye of Africa&#39; | Space photo of the day for Aug. 20, 2026](https://www.space.com/astronomy/earth/try-not-to-be-hypnotized-by-the-eye-of-africa-space-photo-of-the-day-for-aug-20-2026)
+- [On this day in space! Aug. 20, 1977: Voyager 2 launches to the outer planets](https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-20-1977-voyager-2-launches-to-the-outer-planets)
+- [Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part](https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part/)
 - [AI data giant Alation confirms cyberattack](https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/)
 - [For a16z, AI gives foreign founders an advantage](https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/)
-- [US says hackers are targeting vulnerable water systems with the help of AI](https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/)
-- [Meta AI’s new Mac app wants you to talk to your apps](https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/)
-- [James Webb Space Telescope finds &#39;hidden stars&#39; making the universe&#39;s 1st galaxies much bigger than we knew](https://www.space.com/astronomy/galaxies/james-webb-space-telescope-finds-hidden-stars-among-the-universes-most-ancient-galaxies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
