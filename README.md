@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The summer Math fell to the machines...](https://www.youtube.com/watch?v=iuZPTE5qsJY)
 - [Quantum Simulation &amp; Nature - Computerphile](https://www.youtube.com/watch?v=pg7fntKLNak)
-- [This new startup can query anywhere you&#39;ve been...](https://www.youtube.com/watch?v=E7la7-dtfVM)
-- [Meta&#39;s new model wants &quot;deep access&quot; to your personal life...](https://www.youtube.com/watch?v=G55HSGpuh1M)
-- [I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)
+- [Recreating ITS - Computerphile](https://www.youtube.com/watch?v=cDKPbMaLTA4)
+- [ITS, Eliza &amp; MiT&#39;s AI Lab - Computerphile](https://www.youtube.com/watch?v=tJMqVauWsjk)
+- [PiDP10 - Computerphile](https://www.youtube.com/watch?v=hISbyatih44)
+- [PiDP6 &amp; Lisp - Computerphile](https://www.youtube.com/watch?v=dXBmCIfb92k)
 <!-- YOUTUBE:END -->
 
 ---
