@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Try not to be hypnotized by the &#39;Eye of Africa&#39; | Space photo of the day for Aug. 20, 2026](https://www.space.com/astronomy/earth/try-not-to-be-hypnotized-by-the-eye-of-africa-space-photo-of-the-day-for-aug-20-2026)
-- [On this day in space! Aug. 20, 1977: Voyager 2 launches to the outer planets](https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-20-1977-voyager-2-launches-to-the-outer-planets)
-- [Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part](https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part/)
-- [AI data giant Alation confirms cyberattack](https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/)
-- [For a16z, AI gives foreign founders an advantage](https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/)
+- [Senators demand answers from TikTok over experiment that disabled safeguards](https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/)
+- [Meta brings Pocket, an app that lets you vibe-code and share games, to US users](https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/)
+- [The 2026 Startup Battlefield 200 is here — see who made the cut](https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/)
+- [Patreon launches 30 new creator features, including short-form Clips and revamped discovery](https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/)
+- [Inertia Enterprises finds a way to make its fusion fuel fast](https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
