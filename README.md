@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google gives publishers a new way to fight AI-driven traffic losses](https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/)
+- [Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders.](https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/)
+- [Castelion hits $13B valuation to mass-produce hypersonic missiles](https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/)
+- [&#39;Wet Hot American Summer&#39;: The raunchy 2000s teen movie that was actually about a space station falling to Earth](https://www.space.com/entertainment/space-movies-shows/wet-hot-american-summer-the-raunchy-2000s-teen-movie-that-was-actually-about-a-space-station-falling-to-earth)
 - [Linkdaze’s smart calendar is built to run a household, not just track a schedule](https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/)
-- [A weather satellite 22,000 miles above Earth saved my 2026 total solar eclipse cruise on the Mediterranean Sea](https://www.space.com/stargazing/solar-eclipses/a-weather-satellite-22-000-miles-above-earth-saved-my-2026-total-solar-eclipse-cruise-on-the-mediterranean-sea)
-- [Grok keeps sending gibberish responses to users](https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/)
-- [The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
-- [A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds](https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
