@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Senators demand answers from TikTok over experiment that disabled safeguards](https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/)
-- [Meta brings Pocket, an app that lets you vibe-code and share games, to US users](https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/)
-- [The 2026 Startup Battlefield 200 is here — see who made the cut](https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/)
-- [Patreon launches 30 new creator features, including short-form Clips and revamped discovery](https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/)
-- [Inertia Enterprises finds a way to make its fusion fuel fast](https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/)
+- [A third of webpages published since ChatGPT’s launch show signs of AI authorship, study finds](https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/)
+- [Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner](https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/)
+- [Ludicrous, nonsensical, an affront to canon — &#39;Strange New Worlds&#39;&#39; puppet episode is an instant classic](https://www.space.com/entertainment/space-movies-shows/ludicrous-nonsensical-an-affront-to-canon-strange-new-worlds-puppet-episode-is-an-instant-classic)
+- [Mars Express orbiter captures detailed new video of the crater where Mark Watney was stranded in &#39;The Martian&#39;](https://www.space.com/astronomy/mars/mars-express-orbiter-captures-detailed-new-video-of-the-crater-where-mark-watney-was-stranded-in-the-martian)
+- [Ramp launches its own AI model router, called Router](https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
