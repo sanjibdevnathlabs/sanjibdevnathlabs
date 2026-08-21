@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada](https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/)
+- [AI data startup Micro1 reaches $500M gross run rate amid AI training boom](https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/)
+- [Learn what VCs actually want, from a founder who’s raised $1B](https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/)
 - [OpenAI is gaining on Anthropic with business users, new data indicates](https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/)
 - [ChatGPT can now send texts for you with new Apple Messages plug-in](https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/)
-- [The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss](https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/)
-- [China&#39;s Chang&#39;e 7 moon probe will launch this weekend on the most ambitious lunar mission in history](https://www.space.com/astronomy/moon/chinas-change-7-moon-probe-will-launch-this-weekend-on-the-most-ambitious-lunar-mission-in-history)
-- [OK, can we actually cool data centers with our pee?](https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
