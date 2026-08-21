@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What happens when a galaxy&#39;s supermassive black hole turns off? These dying radio galaxies could show us](https://www.space.com/astronomy/black-holes/what-happens-when-a-galaxys-supermassive-black-hole-turns-off-these-dying-radio-galaxies-could-show-us)
+- [Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams](https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/)
+- [TikTok reaches $400M settlement over children’s privacy lawsuit](https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/)
 - [Trump signs new national space policy to enable 1,000 US rocket launches per year](https://www.space.com/space-exploration/trump-signs-new-national-space-policy-to-enable-1-000-us-rocket-launches-per-year)
 - [&#39;Star Trek: Strange New Worlds&#39; cast talks losing sleep, living up to their character&#39;s legacy, and learning to ride a horse for season 4 &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-cast-talks-losing-sleep-living-up-to-their-characters-legacy-and-learning-to-ride-a-horse-for-season-4-interview)
-- [The $225 Pebble Time 2 is a refreshingly fun smartwatch](https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/)
-- [Nvidia just showed that the harness, not the AI model, is now the real hero](https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/)
-- [Trump to award NASA&#39;s Artemis II astronauts the Congressional Space Medal of Honor](https://www.space.com/space-exploration/artemis/trump-to-award-nasas-artemis-ii-astronauts-the-congressional-space-medal-of-honor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
