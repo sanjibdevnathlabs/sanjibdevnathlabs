@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starcloud raises $250 million for orbital data centers as launch options dry up](https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/)
+- [Ancient stars dazzle in a celestial chandelier | Space photo of the day for Aug. 21, 2026](https://www.space.com/astronomy/ancient-stars-dazzle-in-a-celestial-chandelier-space-photo-of-the-day-for-aug-21-2026)
+- [On this day in space! Aug. 21, 1914: Total solar eclipse expedition crashed by WWI](https://www.space.com/stargazing/solar-eclipses/on-this-day-in-space-aug-21-1914-total-solar-eclipse-expedition-crashed-by-wwi)
+- [Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles](https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/)
 - [Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants](https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/)
-- [Senator asks US government watchdog to review how feds use hacking tools](https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/)
-- [My favorite thing in the night sky appears on Aug. 28 — and it proves Earth is a sphere](https://www.space.com/stargazing/my-favorite-thing-in-the-night-sky-appears-on-aug-28-and-it-proves-earth-is-a-sphere)
-- [Could &#39;dark photons&#39; explain dark matter?](https://www.space.com/astronomy/dark-universe/could-dark-photons-explain-dark-matter)
-- [Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada](https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
