@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today](https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/)
-- [Tesla’s solar roof is dead — here’s what went wrong](https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/)
-- [Japan unveils Mars moon sample-return spacecraft ahead of Oct. 19 launch &lpar;photos&rpar;](https://www.space.com/astronomy/mars/japan-unveils-mars-moon-sample-return-spacecraft-ahead-of-oct-19-launch-photos)
-- [Waymo hands over documents in NHTSA’s child collision probe](https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/)
-- [Why is the DOJ investigating Andreessen Horowitz’s board seats?](https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/)
+- [Trump signs new national space policy to enable 1,000 US rocket launches per year](https://www.space.com/space-exploration/trump-signs-new-national-space-policy-to-enable-1-000-us-rocket-launches-per-year)
+- [&#39;Star Trek: Strange New Worlds&#39; cast talks losing sleep, living up to their character&#39;s legacy, and learning to ride a horse for season 4 &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-cast-talks-losing-sleep-living-up-to-their-characters-legacy-and-learning-to-ride-a-horse-for-season-4-interview)
+- [The $225 Pebble Time 2 is a refreshingly fun smartwatch](https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/)
+- [Nvidia just showed that the harness, not the AI model, is now the real hero](https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/)
+- [Trump to award NASA&#39;s Artemis II astronauts the Congressional Space Medal of Honor](https://www.space.com/space-exploration/artemis/trump-to-award-nasas-artemis-ii-astronauts-the-congressional-space-medal-of-honor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
