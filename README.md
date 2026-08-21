@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [DeepSeek is back... and Silicon Valley is terrified](https://www.youtube.com/watch?v=xBByvFrqmWU)
-- [Cloud Explained in 5 Minutes](https://www.youtube.com/watch?v=-ErtUzkj6tY)
 - [The summer Math fell to the machines...](https://www.youtube.com/watch?v=iuZPTE5qsJY)
-- [Sal Khan discusses MIT OpenCourseWare](https://www.youtube.com/watch?v=0oykYip2vus)
 - [Quantum Simulation &amp; Nature - Computerphile](https://www.youtube.com/watch?v=pg7fntKLNak)
+- [This new startup can query anywhere you&#39;ve been...](https://www.youtube.com/watch?v=E7la7-dtfVM)
+- [Meta&#39;s new model wants &quot;deep access&quot; to your personal life...](https://www.youtube.com/watch?v=G55HSGpuh1M)
 <!-- YOUTUBE:END -->
 
 ---
