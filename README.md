@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX sends 27 Starlink satellites to orbit on 100th Falcon rocket launch of the year &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-15-20)
 - [On this day in space! Aug. 22, 1963: X-15 sets world altitude record](https://www.space.com/space-exploration/human-spaceflight/on-this-day-in-space-aug-22-1963-x-15-sets-world-altitude-record)
 - [Partial lunar eclipse August 2026: Where will it be visible from?](https://www.space.com/stargazing/lunar-eclipses/where-will-the-partial-lunar-eclipse-on-aug-27-2026-be-visible-from)
 - [Michael Polansky is training an AI model on skin that’s still alive](https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/)
 - [Japanese space tech startup Letara expands beyond satellite thrusters with $16M](https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/)
-- [Anthropic’s Opus 4.6 is a smut-machine](https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
