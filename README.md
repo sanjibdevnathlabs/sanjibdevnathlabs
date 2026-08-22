@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI says California should strengthen its AI safety bill](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/)
 - [Frontier AI labs still won’t say how they’d contain a rogue model](https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/)
 - [How will NASA&#39;s astronaut training hub change with commercial space stations?](https://www.space.com/space-exploration/international-space-station/how-will-nasas-astronaut-training-hub-change-with-commercial-space-stations)
 - [US battery startups have found a lifeline in defense](https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/)
 - [Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade](https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/)
-- [&#39;We Want to Believe&#39; book explores the reality of UFOs: &#39;It&#39;s always going to be more likely that someone is wrong about what they saw&#39; &lpar;interview&rpar;](https://www.space.com/entertainment/we-want-to-believe-book-explores-the-reality-of-ufos-its-always-going-to-be-more-likely-that-someone-is-wrong-about-what-they-saw-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
