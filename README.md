@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Project Hail Mary&#39; and &#39;The Martian&#39; author Andy Weir is headed back to outer space, but not how you&#39;d expect](https://www.space.com/entertainment/project-hail-mary-and-the-martian-author-andy-weir-is-headed-back-to-outer-space-but-not-how-youd-expect)
-- [Instinct’s powerful AI assistant is raising privacy and security concerns](https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/)
-- [Goodbye, Falcon 9: SpaceX planning to retire workhorse launcher when Starship is up and running](https://www.space.com/space-exploration/launches-spacecraft/goodbye-falcon-9-spacex-planning-to-retire-workhorse-launcher-when-starship-is-up-and-running)
-- [SpaceX will set rocket-reuse record on 100th Falcon 9 launch of the year early Aug. 25: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-record-37th-booster-flight-100-falcon-9-launches)
-- [Why do we care so much that Pluto isn&#39;t a planet?](https://www.space.com/astronomy/pluto/why-do-we-care-so-much-that-pluto-isnt-a-planet)
+- [Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space](https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/)
+- [&#39;Ghosts of Mars&#39; at 25: Are we any closer to living on the Red Planet? We asked the experts](https://www.space.com/entertainment/space-movies-shows/ghosts-of-mars-at-25-are-we-any-closer-to-living-on-the-red-planet-we-asked-the-experts)
+- [Alabama launches investigation into OpenAI’s hack of Hugging Face](https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/)
+- [Amazon hikes hardware prices by 60 percent, blaming memory shortage](https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/)
+- [Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
