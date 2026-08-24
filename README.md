@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What to expect from each stage of the partial lunar eclipse on Aug. 27-28](https://www.space.com/stargazing/lunar-eclipses/what-to-expect-during-the-almost-blood-moon-lunar-eclipse-on-aug-27-28-2026-key-stages-explained)
 - [It&#39;s been 20 years since Pluto lost planet status. Will it ever get its title back?](https://www.space.com/astronomy/pluto/its-been-20-years-since-pluto-lost-planet-status-will-it-ever-get-its-title-back)
 - [Who’s behind the new ‘stealth model’ Ox Alpha?](https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/)
 - [Uber faces fine of nearly $1B over automated driver suspensions](https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/)
 - [Linkdaze’s smart calendar is built to run a household, not just track a schedule](https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/)
-- [TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions](https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
