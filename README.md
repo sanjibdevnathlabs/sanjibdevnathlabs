@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The earliest galaxy &#39;swallowed&#39; by the cannibal Milky Way left a scar at its heart](https://www.space.com/astronomy/galaxies/the-earliest-galaxy-swallowed-by-the-cannibal-milky-way-left-a-scar-at-its-heart)
-- [Nancy Grace Roman Telescope live updates: NASA readies Roman for launch](https://www.space.com/news/live/nancy-grace-roman-telescope-live-updates-nasa-readies-roman-for-launch-august-24-2026)
-- [What to expect from each stage of the partial lunar eclipse on Aug. 27-28](https://www.space.com/stargazing/lunar-eclipses/what-to-expect-during-the-almost-blood-moon-lunar-eclipse-on-aug-27-28-2026-key-stages-explained)
-- [It&#39;s been 20 years since Pluto lost planet status. Will it ever get its title back?](https://www.space.com/astronomy/pluto/its-been-20-years-since-pluto-lost-planet-status-will-it-ever-get-its-title-back)
-- [Who’s behind the new ‘stealth model’ Ox Alpha?](https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/)
+- [Brake problems in GM EVs draw greater federal scrutiny](https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/)
+- [Satellite sees Greenland&#39;s most significant floating ice loss in over a decade | Space photo of the day for Aug. 24, 2026](https://www.space.com/astronomy/earth/satellite-sees-greenlands-most-significant-floating-ice-loss-in-over-a-decade-space-photo-of-the-day-for-aug-24-2026)
+- [On this day in space! Aug. 24, 2006: Pluto loses its planet status](https://www.space.com/astronomy/pluto/on-this-day-in-space-aug-24-2006-pluto-loses-its-planet-status)
+- [Hugging Face reportedly in talks to be acquired for $13B](https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/)
+- [US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards](https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
