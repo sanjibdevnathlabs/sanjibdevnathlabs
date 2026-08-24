@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX will set rocket-reuse record on 100th Falcon 9 launch of the year early Aug. 25: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-record-37th-booster-flight-100-falcon-9-launches)
 - [Why do we care so much that Pluto isn&#39;t a planet?](https://www.space.com/astronomy/pluto/why-do-we-care-so-much-that-pluto-isnt-a-planet)
 - [Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics](https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/)
 - [OpenAI is building AI agents for everything. Will everyone use them?](https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/)
 - [Is the Perseid meteor shower going to get even more spectacular? Jupiter could send more &#39;shooting stars&#39; towards Earth in 2028](https://www.space.com/stargazing/meteor-showers/is-the-perseid-meteor-shower-going-to-get-even-more-spectacular-jupiter-could-send-more-shooting-stars-towards-earth-in-2028)
-- [At 25% off, this beginner-friendly Celestron telescope will bring the lunar eclipse closer](https://www.space.com/stargazing/skywatching-kit/at-25-percent-off-this-beginner-friendly-celestron-telescope-will-bring-the-lunar-eclipse-closer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
