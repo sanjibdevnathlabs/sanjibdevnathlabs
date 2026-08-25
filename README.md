@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Andy Dunn’s startup Pie becomes less of an events app and more of a social network](https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/)
-- [WhatsApp tightens account security with stronger two-step verification and more](https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/)
-- [Accel-backed Keenable is indexing the web for AI agents](https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/)
-- [Uber launches live video streaming for teen accounts](https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/)
-- [Polish startup Ares Shield hired to protect data center satellites with high-power microwave weapons](https://www.space.com/space-exploration/satellites/satellite-defense-ares-shield-contract-lonestar-data-holdings)
+- [OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show](https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/)
+- [Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6](https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/)
+- [Self-driving truck startup Gatik raises $200M following PepsiCo deal](https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/)
+- [Astronauts make history repairing the ISS | Space photo of the day for Aug. 25, 2026](https://www.space.com/space-exploration/human-spaceflight/astronauts-make-history-repairing-the-iss-space-photo-of-the-day-for-aug-25-2026)
+- [On this day in space! Aug. 25, 1997: NASA launches Advanced Composition Explorer to track solar wind and so much more](https://www.space.com/space-exploration/on-this-day-in-space-august-25-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
