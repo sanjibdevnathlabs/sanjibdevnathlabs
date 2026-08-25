@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [That fake Grand Theft Auto VI demo is actually just malware](https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/)
 - [Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power](https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/)
 - [Gamma acquires Accel-backed design startup Lica](https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/)
 - [Sun fires powerful M6.9 solar flare and CME toward Earth — could it boost northern lights chances this week?](https://www.space.com/stargazing/auroras/sun-fires-powerful-m6-9-solar-flare-and-cme-toward-earth-could-it-boost-northern-lights-chances-this-week)
 - [Apple rescues Hide My Email feature from the privacy scrap heap](https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/)
-- [OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show](https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
