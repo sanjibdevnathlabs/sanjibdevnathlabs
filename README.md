@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fitbit founders launch Luffu Link, an LTE health and safety band](https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/)
-- [‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux](https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/)
-- [NASA satellites ace world&#39;s 1st &#39;lost-in-space&#39; GPS-free navigation experiment](https://www.space.com/space-exploration/satellites/nasa-satellites-ace-worlds-1st-lost-in-space-gps-free-navigation-experiment)
-- [Stream &#39;Star Trek: Strange New Worlds&#39; and &#39;Silo&#39; securely from anywhere with 87% off Surfshark VPN](https://www.space.com/technology/stream-star-trek-strange-new-worlds-and-silo-securely-from-anywhere-with-87-percent-off-surfshark-vpn)
-- [What time is the partial lunar eclipse on Aug. 27-28? Here&#39;s when to see the 96% &#39;blood moon&#39;](https://www.space.com/stargazing/lunar-eclipses/what-time-is-the-partial-lunar-eclipse-on-aug-27-28-heres-when-to-see-the-96-percent-blood-moon)
+- [Andy Dunn’s startup Pie becomes less of an events app and more of a social network](https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/)
+- [WhatsApp tightens account security with stronger two-step verification and more](https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/)
+- [Accel-backed Keenable is indexing the web for AI agents](https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/)
+- [Uber launches live video streaming for teen accounts](https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/)
+- [Polish startup Ares Shield hired to protect data center satellites with high-power microwave weapons](https://www.space.com/space-exploration/satellites/satellite-defense-ares-shield-contract-lonestar-data-holdings)
 <!-- BLOG-POST-LIST:END -->
 
 ---
