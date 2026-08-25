@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why You’re STUCK as a Junior Developer 😳 &lpar;Fix This Fast!&rpar;](https://www.youtube.com/shorts/6970Bdcvc2E)
 - [I had to assemble this laptop. Then I  installed #omarchy on it.](https://www.youtube.com/shorts/5zyujD1gDc4)
 - [You need to switch to Linux RIGHT NOW!!](https://www.youtube.com/watch?v=9SDkU5VDQEQ)
-- [This New Device is 10x Better Than Your Router](https://www.youtube.com/watch?v=a3RI4DjFBzw)
-- [OSPF From Zero: Let&#39;s Build the Internet &lpar;Well...Almost&rpar; | Summer of CCNA](https://www.youtube.com/watch?v=HUXUnMbeOyo)
-- [AI&#39;s Impact on Network Engineers | LIVE AMA | Summer of CCNA](https://www.youtube.com/watch?v=O7XOUK4B5pg)
+- [DeepSeek is back... and Silicon Valley is terrified](https://www.youtube.com/watch?v=xBByvFrqmWU)
+- [Cloud Explained in 5 Minutes](https://www.youtube.com/watch?v=-ErtUzkj6tY)
 <!-- YOUTUBE:END -->
 
 ---
