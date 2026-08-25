@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Roman Space Telescope will reveal the universe in a way the JWST and Hubble cannot](https://www.space.com/astronomy/the-roman-space-telescope-will-reveal-the-universe-in-a-way-the-jwst-and-hubble-cannot)
+- [Life360 expands pet tracking with new $8 scannable tags and zoomie alerts](https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/)
 - [That fake Grand Theft Auto VI demo is actually just malware](https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/)
 - [Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power](https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/)
 - [Gamma acquires Accel-backed design startup Lica](https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/)
-- [Sun fires powerful M6.9 solar flare and CME toward Earth — could it boost northern lights chances this week?](https://www.space.com/stargazing/auroras/sun-fires-powerful-m6-9-solar-flare-and-cme-toward-earth-could-it-boost-northern-lights-chances-this-week)
-- [Apple rescues Hide My Email feature from the privacy scrap heap](https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
