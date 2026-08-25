@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [I had to assemble this laptop. Then I  installed #omarchy on it.](https://www.youtube.com/shorts/5zyujD1gDc4)
-- [You need to switch to Linux RIGHT NOW!!](https://www.youtube.com/watch?v=9SDkU5VDQEQ)
-- [DeepSeek is back... and Silicon Valley is terrified](https://www.youtube.com/watch?v=xBByvFrqmWU)
-- [The summer Math fell to the machines...](https://www.youtube.com/watch?v=iuZPTE5qsJY)
 - [Sal Khan discusses MIT OpenCourseWare](https://www.youtube.com/watch?v=0oykYip2vus)
+- [Should the Government Support the Lottery?](https://www.youtube.com/watch?v=UySCpCAI-5w)
+- [Lecture 4: Smart Contracts as a Solution to a Coordination Problem](https://www.youtube.com/watch?v=_8wK75ZhFnk)
+- [Lecture 10: Designs of Financial Infrastructure Utilizing Encryption](https://www.youtube.com/watch?v=dM0I2g8pEfc)
+- [Lecture 7: Stochastic Financial Networks](https://www.youtube.com/watch?v=97Z_uO13pfg)
 <!-- YOUTUBE:END -->
 
 ---
