@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Roman Space Telescope will reveal the universe in a way the JWST and Hubble cannot](https://www.space.com/astronomy/the-roman-space-telescope-will-reveal-the-universe-in-a-way-the-jwst-and-hubble-cannot)
-- [Life360 expands pet tracking with new $8 scannable tags and zoomie alerts](https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/)
-- [That fake Grand Theft Auto VI demo is actually just malware](https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/)
-- [Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power](https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/)
-- [Gamma acquires Accel-backed design startup Lica](https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/)
+- [SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana](https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/)
+- [Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit](https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/)
+- [Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass](https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/)
+- [The bubbling surface of doomed supergiant star Betelgeuse has been revealed like never before](https://www.space.com/astronomy/stars/the-bubbling-surface-of-doomed-supergiant-star-betelgeuse-has-been-revealed-like-never-before)
+- [Claude Cowork finally remembers what you told the app in chat](https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
