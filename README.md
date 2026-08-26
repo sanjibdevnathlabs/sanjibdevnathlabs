@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [Is Linux the perfect operating system? - Omarchy interview with DHH](https://www.youtube.com/watch?v=_CuibYl_Fh0)
+- [Why You’re STUCK as a Junior Developer 😳 &lpar;Fix This Fast!&rpar;](https://www.youtube.com/shorts/6970Bdcvc2E)
 - [I had to assemble this laptop. Then I  installed #omarchy on it.](https://www.youtube.com/shorts/5zyujD1gDc4)
 - [You need to switch to Linux RIGHT NOW!!](https://www.youtube.com/watch?v=9SDkU5VDQEQ)
 - [DeepSeek is back... and Silicon Valley is terrified](https://www.youtube.com/watch?v=xBByvFrqmWU)
-- [The summer Math fell to the machines...](https://www.youtube.com/watch?v=iuZPTE5qsJY)
 <!-- YOUTUBE:END -->
 
 ---
