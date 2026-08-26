@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Quantum Simulation &amp; Nature - Computerphile](https://www.youtube.com/watch?v=pg7fntKLNak)
-- [Recreating ITS - Computerphile](https://www.youtube.com/watch?v=cDKPbMaLTA4)
-- [ITS, Eliza &amp; MiT&#39;s AI Lab - Computerphile](https://www.youtube.com/watch?v=tJMqVauWsjk)
-- [PiDP10 - Computerphile](https://www.youtube.com/watch?v=hISbyatih44)
-- [PiDP6 &amp; Lisp - Computerphile](https://www.youtube.com/watch?v=dXBmCIfb92k)
+- [Is Linux the perfect operating system? - Omarchy interview with DHH](https://www.youtube.com/watch?v=_CuibYl_Fh0)
+- [I had to assemble this laptop. Then I  installed #omarchy on it.](https://www.youtube.com/shorts/5zyujD1gDc4)
+- [You need to switch to Linux RIGHT NOW!!](https://www.youtube.com/watch?v=9SDkU5VDQEQ)
+- [DeepSeek is back... and Silicon Valley is terrified](https://www.youtube.com/watch?v=xBByvFrqmWU)
+- [The summer Math fell to the machines...](https://www.youtube.com/watch?v=iuZPTE5qsJY)
 <!-- YOUTUBE:END -->
 
 ---
