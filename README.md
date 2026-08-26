@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses](https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/)
-- [SpaceX&#39;s final Falcon 9 Starlink launch from Florida creates gorgeous &#39;jellyfish&#39; over New York City &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacexs-final-falcon-9-starlink-launch-from-florida-creates-gorgeous-jellyfish-over-new-york-city-video)
-- [SpaceX sends Starlink satellites to orbit on predawn launch from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink--15-22-b1082-ocisly)
-- [Runable hits $21M to bet AI agents can go from building businesses to growing them](https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/)
-- [Inside the Nancy Grace Roman Space Telescope, NASA&#39;s next great observatory](https://www.space.com/astronomy/inside-the-nancy-grace-roman-space-telescope-nasas-next-great-observatory)
+- [Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children](https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/)
+- [Robot brain builders are pushing out of their GPT-2 era](https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/)
+- [&#39;Star Wars: Zero Company&#39; review: XCOM-like strategically recaptures the magic of your favorite Star Wars films](https://www.space.com/entertainment/space-games/star-wars-zero-company-review-xcom-like-strategically-recaptures-the-magic-of-your-favorite-star-wars-films)
+- [Bluesky now lets you upload 10-minute long videos](https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/)
+- [QueryStory wants you to believe what AI is telling you](https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
