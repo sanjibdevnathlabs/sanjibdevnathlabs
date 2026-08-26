@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Why You’re STUCK as a Junior Developer 😳 &lpar;Fix This Fast!&rpar;](https://www.youtube.com/shorts/6970Bdcvc2E)
-- [Cloud Explained in 5 Minutes](https://www.youtube.com/watch?v=-ErtUzkj6tY)
-- [How to Get Hired in DevOps WITHOUT a Tech Degree 💼🔥](https://www.youtube.com/shorts/4TXpQnqLvLE)
-- [Doubled Salary, Paid Off in One Month: His DevOps Switch](https://www.youtube.com/watch?v=TqWRlxDZkjo)
-- [How ONE Simple DevOps Change Saved Thousands! 💰](https://www.youtube.com/shorts/dLXqdZPk_oc)
+- [Quantum Simulation &amp; Nature - Computerphile](https://www.youtube.com/watch?v=pg7fntKLNak)
+- [Recreating ITS - Computerphile](https://www.youtube.com/watch?v=cDKPbMaLTA4)
+- [ITS, Eliza &amp; MiT&#39;s AI Lab - Computerphile](https://www.youtube.com/watch?v=tJMqVauWsjk)
+- [PiDP10 - Computerphile](https://www.youtube.com/watch?v=hISbyatih44)
+- [PiDP6 &amp; Lisp - Computerphile](https://www.youtube.com/watch?v=dXBmCIfb92k)
 <!-- YOUTUBE:END -->
 
 ---
