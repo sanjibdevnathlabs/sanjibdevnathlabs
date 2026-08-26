@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CISA confirms hackers targeted over 100 US water systems during July](https://techcrunch.com/2026/08/26/cisa-confirms-hackers-targeted-over-100-us-water-systems-during-july/)
-- [Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model](https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/)
-- [On this day in space! Aug. 26, 1978: Sigmund Jähn becomes 1st German in space](https://www.space.com/space-exploration/on-this-day-in-space-august-26-2026)
-- [Heat shield under fire | Space photo of the day for Aug. 26, 2026](https://www.space.com/technology/heat-shield-under-fire-space-photo-of-the-day-for-aug-26-2026)
-- [Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children](https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/)
+- [Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states](https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/)
+- [What’s driving Sweden’s startup boom, from Lovable to Legora](https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/)
+- [Massive space mirrors could be 40 times brighter than the full moon, astronomers warn. &#39;It will be worse than big cities like London&#39;](https://www.space.com/space-exploration/satellites/massive-space-mirrors-could-be-40-times-brighter-than-the-full-moon-astronomers-warn-it-will-be-worse-than-big-cities-like-london)
+- [Radar makes podcasts searchable — and usable by AI agents](https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/)
+- [Ex-Meta scientists want to bring visual AI to the factory floor](https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
