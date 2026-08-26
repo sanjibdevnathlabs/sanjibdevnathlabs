@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From spy satellite to space telescope: The unlikely origins of NASA&#39;s Roman Space Telescope](https://www.space.com/astronomy/from-spy-satellite-to-space-telescope-the-unlikely-origins-of-nasas-roman-space-telescope)
+- [Google’s Gemini has a branding problem, and so does the rest of AI](https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/)
+- [How do we explain OpenAI’s executive exodus?](https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/)
+- [OpenAI releases its official report on the Hugging Face breach](https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/)
 - [Flipboard acquires Graze, the feed builder working to monetize the open social web](https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/)
-- [Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations](https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/)
-- [Astronomers discover hot watery exoplanet destined to be swallowed by its star](https://www.space.com/astronomy/exoplanets/astronomers-discover-hot-watery-exoplanet-destined-to-be-swallowed-by-its-star)
-- [US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate](https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/)
-- [Capital F closes $17M debut fund with goal to back the future of the ‘female economy’](https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
