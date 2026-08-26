@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses](https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/)
+- [SpaceX&#39;s final Falcon 9 Starlink launch from Florida creates gorgeous &#39;jellyfish&#39; over New York City &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacexs-final-falcon-9-starlink-launch-from-florida-creates-gorgeous-jellyfish-over-new-york-city-video)
 - [SpaceX sends Starlink satellites to orbit on predawn launch from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink--15-22-b1082-ocisly)
 - [Runable hits $21M to bet AI agents can go from building businesses to growing them](https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/)
 - [Inside the Nancy Grace Roman Space Telescope, NASA&#39;s next great observatory](https://www.space.com/astronomy/inside-the-nancy-grace-roman-space-telescope-nasas-next-great-observatory)
-- [Ventures Platform goes bigger — and broader — with its second Africa fund](https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/)
-- [Watch the partial lunar eclipse online Aug. 27-28 with these free livestreams](https://www.space.com/stargazing/lunar-eclipses/how-to-watch-the-aug-27-28-2026-partial-lunar-eclipse-live-online)
 <!-- BLOG-POST-LIST:END -->
 
 ---
