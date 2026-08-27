@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation](https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/)
-- [Amazon just tripled its order of Nvidia chips over ‘surging demand’](https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/)
-- [Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well](https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/)
-- [Anthropic continues compute-gobbling streak in $45B deal with Nscale](https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/)
-- [From spy satellite to space telescope: The unlikely origins of NASA&#39;s Roman Space Telescope](https://www.space.com/astronomy/from-spy-satellite-to-space-telescope-the-unlikely-origins-of-nasas-roman-space-telescope)
+- [Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents](https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/)
+- [&#39;Strange New Worlds&#39; latest episode wastes a lot of time pretending to kill off major &#39;Star Trek&#39; characters](https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-episode-wastes-a-lot-of-time-pretending-to-kill-off-major-star-trek-characters)
+- [Watch powerful Ariane 6 rocket launch European weather satellite to orbit today](https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-launch-mtg-i2-weather-satellite)
+- [OpenAI to start showing ads on ChatGPT’s free and Go tiers in India](https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/)
+- [An impressive partial lunar eclipse will turn the moon an eerie red for millions of people tonight](https://www.space.com/stargazing/lunar-eclipses/an-impressive-partial-lunar-eclipse-will-turn-the-moon-an-eerie-red-for-millions-of-people-tonight-aug-27-28)
 <!-- BLOG-POST-LIST:END -->
 
 ---
