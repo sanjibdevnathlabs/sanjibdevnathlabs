@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents](https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/)
-- [&#39;Strange New Worlds&#39; latest episode wastes a lot of time pretending to kill off major &#39;Star Trek&#39; characters](https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-episode-wastes-a-lot-of-time-pretending-to-kill-off-major-star-trek-characters)
-- [Watch powerful Ariane 6 rocket launch European weather satellite to orbit today](https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-launch-mtg-i2-weather-satellite)
-- [OpenAI to start showing ads on ChatGPT’s free and Go tiers in India](https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/)
-- [An impressive partial lunar eclipse will turn the moon an eerie red for millions of people tonight](https://www.space.com/stargazing/lunar-eclipses/an-impressive-partial-lunar-eclipse-will-turn-the-moon-an-eerie-red-for-millions-of-people-tonight-aug-27-28)
+- [Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/)
+- [James Webb Space Telescope observes 72 stars and finds planet formation is a race against time](https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-observes-72-stars-and-finds-planet-formation-is-a-race-against-time)
+- [Rivian’s CFO is leaving the company](https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/)
+- [Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral](https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/)
+- [Buried in Meta’s $18B settlement is a legal pass on kids’ data](https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
