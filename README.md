@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Chinese automakers are following Tesla’s bet that robots are the next big profit machine](https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/)
-- [Is the best way to watch a movie on a pair of sunglasses?](https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/)
-- [What time will SpaceX launch NASA&#39;s Roman Space Telscope on Aug. 30? &lpar;Full mission timeline&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-roman-space-telescope-falcon-heavy-launch-what-time)
-- [Neocloud Lambda secures $1B in debt to buy more chips](https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/)
-- [Our choice as one of the best budget telescopes now has 17% off — this telescope deal is worth grabbing fast](https://www.space.com/stargazing/skywatching-kit/our-choice-as-one-of-the-best-budget-telescopes-now-has-17-percent-off-this-telescope-deal-is-worth-grabbing-fast)
+- [On this day in space! Aug. 29, 1965: NASA&#39;s Gemini 5 breaks spaceflight duration record after 2 astronauts spent &#39;8 days in a garbage can&#39;](https://www.space.com/space-exploration/on-this-day-in-space-august-29-2026)
+- [The Theragun Sense makes everyday recovery surprisingly easy](https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/)
+- [SpaceX test-fires Starship Super Heavy booster ahead of critical Flight 14 &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-test-fires-starship-super-heavy-booster-ahead-of-key-test-flight)
+- [Nvidia’s AI advantage is moving beyond the GPU](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)
+- [Meeting Nancy Grace Roman: What was the &#39;mother of Hubble&#39; really like?](https://www.space.com/space-exploration/meeting-nancy-grace-roman-what-was-the-mother-of-hubble-really-like)
 <!-- BLOG-POST-LIST:END -->
 
 ---
