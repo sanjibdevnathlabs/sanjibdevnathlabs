@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [On this day in space! Aug. 29, 1965: NASA&#39;s Gemini 5 breaks spaceflight duration record after 2 astronauts spent &#39;8 days in a garbage can&#39;](https://www.space.com/space-exploration/on-this-day-in-space-august-29-2026)
-- [The Theragun Sense makes everyday recovery surprisingly easy](https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/)
-- [SpaceX test-fires Starship Super Heavy booster ahead of critical Flight 14 &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-test-fires-starship-super-heavy-booster-ahead-of-key-test-flight)
-- [Nvidia’s AI advantage is moving beyond the GPU](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)
-- [Meeting Nancy Grace Roman: What was the &#39;mother of Hubble&#39; really like?](https://www.space.com/space-exploration/meeting-nancy-grace-roman-what-was-the-mother-of-hubble-really-like)
+- [At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?](https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/)
+- [“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z](https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/)
+- [Hollywood celebs are getting into microdrama apps](https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/)
+- [This Week In Space podcast: Episode 225 — Get a Grip!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-225-get-a-grip)
+- [When is the next lunar eclipse?](https://www.space.com/stargazing/lunar-eclipses/when-is-the-next-lunar-eclipse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
