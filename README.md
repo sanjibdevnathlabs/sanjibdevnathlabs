@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump calls in to NASA press conference to celebrate launch of Roman Space Telescope, a mission he tried to cancel](https://www.space.com/space-exploration/trump-calls-in-to-nasa-press-conference-to-celebrate-launch-of-roman-space-telescope-a-mission-he-tried-to-cancel)
+- [&#39;What a glorious dawn launch&#39;: Why the Roman Space Telescope&#39;s picture-perfect liftoff beyond Earth is such a big deal](https://www.space.com/astronomy/what-a-glorious-dawn-launch-why-the-roman-space-telescopes-picture-perfect-liftoff-beyond-earth-is-such-a-big-deal)
+- [Liux’s Big microcar bets on sustainability to take on Chinese rivals](https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/)
 - [Musk’s faster path to more gas turbines comes with pollution problem](https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/)
 - [TechCrunch Mobility: The hidden human cost of robotaxis](https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/)
-- [Caterpillar is bringing to AI deployment what it learned from automating mining](https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/)
-- [On this day in space! Aug. 30, 1992: Astronomers discover 1st Kuiper Belt object out beyond Pluto](https://www.space.com/space-exploration/on-this-day-in-space-august-30-2026)
-- [Liftoff! NASA&#39;s Roman Space Telescope soars to the stars on a SpaceX Falcon Heavy rocket in spectacular launch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/nasa-roman-space-telescope-launch-success-on-a-spacex-falcon-heavy-rocket-spectacular-launch-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
