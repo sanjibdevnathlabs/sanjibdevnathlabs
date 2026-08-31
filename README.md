@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Roman telescope leaves its rocket behind | Space photo of the day for Aug. 31, 2026](https://www.space.com/space-exploration/launches-spacecraft/roman-telescope-leaves-its-rocket-behind-space-photo-of-the-day-for-aug-31-2026)
-- [September full moon 2026: When, where and how to see the Harvest Moon](https://www.space.com/stargazing/september-full-moon-2026-when-where-and-how-to-see-the-harvest-moon)
-- [Meeting notetaker Circleback adds a free tier to attract more customers](https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/)
-- [Scientists discover massive &#39;thermal anomaly&#39; beneath the surface of Mars](https://www.space.com/astronomy/mars/scientists-discover-massive-thermal-anomaly-beneath-the-surface-of-mars)
-- [Watch Rocket Lab launch Japanese radar satellite to orbit early on Sept. 1](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-japanese-radar-satellite-to-orbit-early-aug-31)
+- [FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit](https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/)
+- [The Pentagon now has its own version of ChatGPT and Grok](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/)
+- [&#39;No guts, no glory&#39;: How I captured NASA&#39;s Roman Space Telescope cross the sun on a picture-perfect SpaceX Falcon Heavy launch](https://www.space.com/space-exploration/launches-spacecraft/no-guts-no-glory-how-i-captured-nasas-roman-space-telescope-cross-the-sun-on-a-picture-perfect-spacex-falcon-heavy-launch)
+- [Apply now to host a Side Event at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/)
+- [Instagram puts new limits on undisclosed AI profiles](https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
