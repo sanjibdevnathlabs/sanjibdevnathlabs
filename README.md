@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Rocket Lab launch Japanese radar satellite to orbit early on Sept. 1](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-japanese-radar-satellite-to-orbit-early-aug-31)
+- [The U.S. is building barriers around drones and robots, but China has scale to get around them](https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/)
+- [Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off](https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/)
 - [Trump calls in to NASA press conference to celebrate launch of Roman Space Telescope, a mission he tried to cancel](https://www.space.com/space-exploration/trump-calls-in-to-nasa-press-conference-to-celebrate-launch-of-roman-space-telescope-a-mission-he-tried-to-cancel)
 - [&#39;What a glorious dawn launch&#39;: Why the Roman Space Telescope&#39;s picture-perfect liftoff beyond Earth is such a big deal](https://www.space.com/astronomy/what-a-glorious-dawn-launch-why-the-roman-space-telescopes-picture-perfect-liftoff-beyond-earth-is-such-a-big-deal)
-- [Liux’s Big microcar bets on sustainability to take on Chinese rivals](https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/)
-- [Musk’s faster path to more gas turbines comes with pollution problem](https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/)
-- [TechCrunch Mobility: The hidden human cost of robotaxis](https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
