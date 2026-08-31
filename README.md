@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Roman telescope leaves its rocket behind | Space photo of the day for Aug. 31, 2026](https://www.space.com/space-exploration/launches-spacecraft/roman-telescope-leaves-its-rocket-behind-space-photo-of-the-day-for-aug-31-2026)
+- [September full moon 2026: When, where and how to see the Harvest Moon](https://www.space.com/stargazing/september-full-moon-2026-when-where-and-how-to-see-the-harvest-moon)
+- [Meeting notetaker Circleback adds a free tier to attract more customers](https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/)
+- [Scientists discover massive &#39;thermal anomaly&#39; beneath the surface of Mars](https://www.space.com/astronomy/mars/scientists-discover-massive-thermal-anomaly-beneath-the-surface-of-mars)
 - [Watch Rocket Lab launch Japanese radar satellite to orbit early on Sept. 1](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-japanese-radar-satellite-to-orbit-early-aug-31)
-- [The U.S. is building barriers around drones and robots, but China has scale to get around them](https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/)
-- [Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off](https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/)
-- [Trump calls in to NASA press conference to celebrate launch of Roman Space Telescope, a mission he tried to cancel](https://www.space.com/space-exploration/trump-calls-in-to-nasa-press-conference-to-celebrate-launch-of-roman-space-telescope-a-mission-he-tried-to-cancel)
-- [&#39;What a glorious dawn launch&#39;: Why the Roman Space Telescope&#39;s picture-perfect liftoff beyond Earth is such a big deal](https://www.space.com/astronomy/what-a-glorious-dawn-launch-why-the-roman-space-telescopes-picture-perfect-liftoff-beyond-earth-is-such-a-big-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
