@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The 12 best sci-fi movies of the 2000s](https://www.space.com/entertainment/space-movies-shows/the-12-best-sci-fi-movies-of-the-2000s)
-- [Who is John Ternus, the new Apple CEO?](https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/)
-- [Google’s answer to Canva is an AI tool where you prompt instead of design](https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/)
-- [On this day in space! Sept. 1, 1979: NASA&#39;s Pioneer 11 probe becomes 1st spacecraft to visit Saturn](https://www.space.com/space-exploration/on-this-day-in-space-september-1-2026)
-- [ChatGPT Health adds Epic integration for clinicians to import patient data](https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/)
+- [Apple follows Google in adopting Trump’s ‘Lake America’ name](https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/)
+- [AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B](https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/)
+- [Open AI’s Astra model is on the way—and very good at breaking into computer systems](https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/)
+- [Two astronauts replace ISS camera and docking aid on 6th-ever all-female spacewalk &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/two-astronauts-replace-iss-camera-and-docking-aid-on-6th-ever-all-female-spacewalk-video)
+- [Scientists trace 7 stages of a meteorite&#39;s life, from hurtling space rock to Earth&#39;s surface](https://www.space.com/stargazing/meteor-showers/scientists-trace-7-stages-of-a-meteorites-life-from-hurtling-space-rock-to-earths-surface)
 <!-- BLOG-POST-LIST:END -->
 
 ---
