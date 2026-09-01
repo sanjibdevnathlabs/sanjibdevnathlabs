@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The mystery is solved... and the answer is 40x cheaper than Claude](https://www.youtube.com/watch?v=r-tzcMlQISk)
 - [The OCW Update](https://www.youtube.com/watch?v=WCMFdrTGAEY)
 - [⚠️ ANNOUNCING: AI-Era DevOps Live Masterclass](https://www.youtube.com/shorts/HV-7NrW2LmY)
 - [The most expensive software bug in history...](https://www.youtube.com/watch?v=UuqSy1jPSUw)
 - [Why Patryk Left Traditional IT for DevOps! 🚀](https://www.youtube.com/shorts/H1XSbH_hsh0)
-- [Why CPU Time ≠ Wall Clock Time! - Computerphile](https://www.youtube.com/watch?v=xs5iOwkX9fU)
 <!-- YOUTUBE:END -->
 
 ---
