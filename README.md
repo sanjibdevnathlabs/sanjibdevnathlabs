@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [If space data centers feel far-fetched, why not interstellar travel?](https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/)
-- [&#39;Orbitals&#39; is a co-op sci-fi adventure that recaptures the magic of Saturday morning cartoons](https://www.space.com/entertainment/space-games/orbitals-is-a-co-op-sci-fi-adventure-that-recaptures-the-magic-of-saturday-morning-cartoons)
-- [Magna increases bet on battery swapping in India with $35M for Yuma](https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/)
-- [Watch 2 astronauts take 6th-ever all-female spacewalk today](https://www.space.com/space-exploration/international-space-station/watch-2-astronauts-take-6th-ever-all-female-spacewalk-today)
-- [Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year](https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/)
+- [Amazon Alexa can now alert you when something new might tempt you to shop](https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/)
+- [AIR raises $50M to help companies vet the skills and add-ons AI agents use](https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/)
+- [Microsoft 365 outage drags on, but things are improving](https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/)
+- [Fambot introduces an ‘AI chief of staff’ for families](https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/)
+- [Florida and Texas move to block Flock cameras over privacy concerns](https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
