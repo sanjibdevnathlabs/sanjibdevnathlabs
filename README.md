@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The OCW Update](https://www.youtube.com/watch?v=WCMFdrTGAEY)
-- [⚠️ ANNOUNCING: AI-Era DevOps Live Masterclass](https://www.youtube.com/shorts/HV-7NrW2LmY)
-- [Why Patryk Left Traditional IT for DevOps! 🚀](https://www.youtube.com/shorts/H1XSbH_hsh0)
-- [Why CPU Time ≠ Wall Clock Time! - Computerphile](https://www.youtube.com/watch?v=xs5iOwkX9fU)
 - [Is Linux the perfect operating system? - Omarchy interview with DHH](https://www.youtube.com/watch?v=_CuibYl_Fh0)
+- [I had to assemble this laptop. Then I  installed #omarchy on it.](https://www.youtube.com/shorts/5zyujD1gDc4)
+- [You need to switch to Linux RIGHT NOW!!](https://www.youtube.com/watch?v=9SDkU5VDQEQ)
+- [This New Device is 10x Better Than Your Router](https://www.youtube.com/watch?v=a3RI4DjFBzw)
+- [OSPF From Zero: Let&#39;s Build the Internet &lpar;Well...Almost&rpar; | Summer of CCNA](https://www.youtube.com/watch?v=HUXUnMbeOyo)
 <!-- YOUTUBE:END -->
 
 ---
