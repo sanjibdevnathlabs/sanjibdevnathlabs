@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The moon might be hiding a history of ancient supernova explosions](https://www.space.com/astronomy/moon/the-moon-might-be-hiding-a-history-of-ancient-supernova-explosions)
 - [Larry Page’s flying car company Pivotal loses its CEO](https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/)
 - [Reliance’s JioHotstar takes its streaming empire global — without sports](https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/)
 - [Apple follows Google in adopting Trump’s ‘Lake America’ name](https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/)
 - [AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B](https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/)
-- [OpenAI’s Astra model is on the way — and very good at breaking into computer systems](https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
