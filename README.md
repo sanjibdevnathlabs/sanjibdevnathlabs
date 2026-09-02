@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The moon might be hiding a history of ancient supernova explosions](https://www.space.com/astronomy/moon/the-moon-might-be-hiding-a-history-of-ancient-supernova-explosions)
-- [Larry Page’s flying car company Pivotal loses its CEO](https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/)
-- [Reliance’s JioHotstar takes its streaming empire global — without sports](https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/)
-- [Apple follows Google in adopting Trump’s ‘Lake America’ name](https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/)
-- [AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B](https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/)
+- [Falcon Heavy brings the heat | Space photo of the day for Sept. 2, 2026](https://www.space.com/space-exploration/launches-spacecraft/falcon-heavy-brings-the-heat-space-photo-of-the-day-for-sept-2-2026)
+- [Adobe acquires Indian market intelligence startup Rilo](https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/)
+- [On this day in space! Sept. 2, 2016: Rosetta spacecraft finds long-lost Philae lander on Comet 67P after 2-year search](https://www.space.com/space-exploration/on-this-day-in-space-september-2-2026)
+- [Scientists may have detected the 1st direct evidence of dark matter](https://www.space.com/astronomy/dark-universe/scientists-may-have-detected-the-1st-direct-evidence-of-dark-matter)
+- [Norway considers ban on camera-enabled wearable ‘pervert glasses’](https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
