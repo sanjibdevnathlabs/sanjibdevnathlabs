@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Did OpenAI actually build AGI? GPT-6 Astra first look](https://www.youtube.com/watch?v=FluKUJyeYD8)
+- [Linux Doesn’t Have to Be Ugly](https://www.youtube.com/shorts/yQ4prIKen74)
 - [How Watermarks Track AI Generated Content - Computerphile](https://www.youtube.com/watch?v=kVXp6UNVPTo)
 - [DEFCON Is Not What You Think](https://www.youtube.com/watch?v=RYY0ibk4s60)
 - [The most interesting hack in history just got weirder...](https://www.youtube.com/watch?v=0Rp9KJCEIvg)
-- [MCP Explained Simply — What It Is and Why It Exists](https://www.youtube.com/watch?v=oblaHqULUHk)
-- [The mystery is solved... and the answer is 40x cheaper than Claude](https://www.youtube.com/watch?v=r-tzcMlQISk)
 <!-- YOUTUBE:END -->
 
 ---
