@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trekkies honor &#39;Star Trek&#39;s&#39; 60th birthday with fan events, special screenings, and a world record Vulcan salute](https://www.space.com/entertainment/space-movies-shows/trekkies-honor-star-treks-60th-birthday-with-fan-events-special-screenings-and-a-world-record-vulcan-salute)
+- [Venus is becoming a thinner crescent — and that&#39;s when it finally starts making sense](https://www.space.com/stargazing/venus-is-becoming-a-thinner-crescent-and-thats-when-it-finally-starts-making-sense)
 - [Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now](https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/)
 - [What will Apple’s John Ternus era look like?](https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/)
 - [No little kids allowed, and other new info about Tesla’s Cybercab](https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/)
-- [Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge](https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/)
-- [Stars forge and deliver the elements that make up your body — and scientists may finally know how](https://www.space.com/astronomy/stars/stars-forge-and-deliver-the-elements-that-make-up-your-body-and-scientists-may-finally-know-how)
 <!-- BLOG-POST-LIST:END -->
 
 ---
