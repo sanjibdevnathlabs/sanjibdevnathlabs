@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [How Watermarks Track AI Generated Content - Computerphile](https://www.youtube.com/watch?v=kVXp6UNVPTo)
-- [DEFCON Is Not What You Think](https://www.youtube.com/watch?v=RYY0ibk4s60)
-- [The most interesting hack in history just got weirder...](https://www.youtube.com/watch?v=0Rp9KJCEIvg)
-- [MCP Explained Simply — What It Is and Why It Exists](https://www.youtube.com/watch?v=oblaHqULUHk)
-- [The mystery is solved... and the answer is 40x cheaper than Claude](https://www.youtube.com/watch?v=r-tzcMlQISk)
+- [Why CPU Time ≠ Wall Clock Time! - Computerphile](https://www.youtube.com/watch?v=xs5iOwkX9fU)
+- [Quantum Simulation &amp; Nature - Computerphile](https://www.youtube.com/watch?v=pg7fntKLNak)
+- [Recreating ITS - Computerphile](https://www.youtube.com/watch?v=cDKPbMaLTA4)
+- [ITS, Eliza &amp; MiT&#39;s AI Lab - Computerphile](https://www.youtube.com/watch?v=tJMqVauWsjk)
 <!-- YOUTUBE:END -->
 
 ---
