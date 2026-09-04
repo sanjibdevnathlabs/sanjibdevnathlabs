@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The sameness problem behind those unappetizing AI-generated menus](https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/)
+- [Crusoe reportedly raises $3B at a  $30B valuation](https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/)
 - [Oura files to go public](https://techcrunch.com/2026/09/03/oura-files-to-go-public/)
 - [Tesla is asking people if they want to buy and run Cybercab fleets](https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/)
 - [Startup ARR is less secure than ever, new research shows](https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/)
-- [&#39;Alien: Isolation 2&#39;: Facing a ruthless and evolved Xenomorph in our Gamescom hands-on preview](https://www.space.com/entertainment/space-games/alien-isolation-2-facing-a-ruthless-and-evolved-xenomorph-in-our-gamescom-hands-on-preview)
-- [The Cybercab is Tesla’s ‘fork in the road’ moment](https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
