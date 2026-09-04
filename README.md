@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists watch a comet being born 3 billion miles away](https://www.space.com/astronomy/comets/scientists-watch-a-comet-being-born-3-billion-miles-away)
-- [The sameness problem behind those unappetizing AI-generated menus](https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/)
-- [Crusoe reportedly raises $3B at a  $30B valuation](https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/)
-- [Oura files to go public](https://techcrunch.com/2026/09/03/oura-files-to-go-public/)
-- [Tesla is asking people if they want to buy and run Cybercab fleets](https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/)
+- [Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event](https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/)
+- [Hubble Telescope sees spectacular &#39;superbubble&#39; | Space photo of the day for Sept. 4, 2026](https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-spectacular-superbubble-space-photo-of-the-day-for-sept-4-2026)
+- [On this day in space! Sept. 4, 1962: NASA&#39;s Mariner 2 spacecrafts performs the 1st-ever maneuver in deep space so it could reach Venus](https://www.space.com/space-exploration/on-this-day-in-space-sept-4-1962-nasas-mariner-2-spacecrafts-performs-the-1st-ever-maneuver-in-deep-space-so-it-could-reach-venus)
+- [US military disabled ad tracking on troops’ devices following reports of targeted attacks](https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/)
+- [We played &#39;Exodus&#39;, a sci-fi RPG that should please &#39;Mass Effect&#39; fans, even if you can&#39;t romance the talking octopus](https://www.space.com/entertainment/space-games/we-played-exodus-and-this-sci-fi-rpg-should-please-mass-effect-fans-even-if-you-cant-romance-the-talking-octopus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
