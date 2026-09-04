@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists watch a comet being born 3 billion miles away](https://www.space.com/astronomy/comets/scientists-watch-a-comet-being-born-3-billion-miles-away)
 - [The sameness problem behind those unappetizing AI-generated menus](https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/)
 - [Crusoe reportedly raises $3B at a  $30B valuation](https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/)
 - [Oura files to go public](https://techcrunch.com/2026/09/03/oura-files-to-go-public/)
 - [Tesla is asking people if they want to buy and run Cybercab fleets](https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/)
-- [Startup ARR is less secure than ever, new research shows](https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
