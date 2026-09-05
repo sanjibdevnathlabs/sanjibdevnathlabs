@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On this day in space! Sept. 5, 1977: NASA launches Voyager 1 on epic journey across the solar system](https://www.space.com/space-exploration/on-this-day-in-space-sept-5-1977-nasa-launches-voyager-1-on-epic-journey-across-the-solar-system)
+- [This NASA-funded &#39;Slingshot&#39; spacecraft idea could map minerals on planets and moons across our solar system](https://www.space.com/technology/nasa-funds-spacecraft-concept-that-aims-to-map-minerals-on-solar-system-planets-and-moons)
 - [XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation](https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/)
 - [OpenAI’s rogue agents keep escaping, with no formal process to investigate them](https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/)
 - [AI compute provider Nscale is looking for $3.5B in pre-IPO financing](https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/)
-- [Scientists detect signals of hydrogen from billions of years ago. Could this help us map out the universe?](https://www.space.com/astronomy/galaxies/scientists-detect-signals-of-hydrogen-from-billions-of-years-ago-could-this-help-us-map-out-the-universe)
-- [Trekkies honor &#39;Star Trek&#39;s&#39; 60th birthday with fan events, special screenings, and a world record Vulcan salute](https://www.space.com/entertainment/space-movies-shows/trekkies-honor-star-treks-60th-birthday-with-fan-events-special-screenings-and-a-world-record-vulcan-salute)
 <!-- BLOG-POST-LIST:END -->
 
 ---
