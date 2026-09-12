@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic CEO outlines plan to ‘pace the frontier’](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/)
+- [Anthropic CEO outlines plan to slow AI development](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/)
+- [Tesla says it will finally unveil the second generation Roadster on October 1](https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/)
 - [Revolut confirms customer data breach through fake government requests](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/)
 - [Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military &lpar;op-ed&rpar;](https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed)
 - [On this day in space! NASA astronaut Mae Jemison makes history as the 1st Black woman in space](https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026)
-- [This Week In Space podcast: Episode 227 — Trekmania](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-227-trekmania)
 <!-- BLOG-POST-LIST:END -->
 
 ---
