@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic CEO outlines plan to ‘pace the frontier’](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/)
 - [Revolut confirms customer data breach through fake government requests](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/)
 - [Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military &lpar;op-ed&rpar;](https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed)
 - [On this day in space! NASA astronaut Mae Jemison makes history as the 1st Black woman in space](https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026)
 - [This Week In Space podcast: Episode 227 — Trekmania](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-227-trekmania)
-- [The best &#39;Star Trek&#39; spaceships: 14 classic vessels from the Federation and beyond](https://www.space.com/entertainment/space-movies-shows/the-best-star-trek-spaceships-14-classic-vessels-from-the-federation-and-beyond)
 <!-- BLOG-POST-LIST:END -->
 
 ---
