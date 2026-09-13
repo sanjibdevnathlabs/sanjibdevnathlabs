@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches 3 telecom satellites to orbit on 700th Falcon mission of all time &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-3-telecom-satellites-to-orbit-on-700th-falcon-mission-of-all-time-video)
+- [Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic](https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/)
+- [Larry Ellison cancels $7.5 billion sale of Oracle stock](https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/)
+- [The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs](https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/)
 - [What’s behind the AI industry’s latest warnings of doom?](https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/)
-- [On this day in space! Sept. 13, 2007: Japan launches Kaguya spacecraft to the moon to map the lunar surface in HD](https://www.space.com/space-exploration/on-this-day-in-space-september-13-2026)
-- [Obama urges Democrats to have a ‘clear plan’ for AI safeguards](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/)
-- [TechCrunch Mobility: Lyft has entered the robotaxi chat](https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/)
-- [The 10 best underground sci-fi movies to dig into now that &#39;Silo&#39; season 3 has ended](https://www.space.com/entertainment/best-underground-sci-fi-movies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
