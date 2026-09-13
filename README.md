@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s behind the AI industry’s latest warnings of doom?](https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/)
 - [On this day in space! Sept. 13, 2007: Japan launches Kaguya spacecraft to the moon to map the lunar surface in HD](https://www.space.com/space-exploration/on-this-day-in-space-september-13-2026)
 - [Obama urges Democrats to have a ‘clear plan’ for AI safeguards](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/)
 - [TechCrunch Mobility: Lyft has entered the robotaxi chat](https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/)
 - [The 10 best underground sci-fi movies to dig into now that &#39;Silo&#39; season 3 has ended](https://www.space.com/entertainment/best-underground-sci-fi-movies)
-- [NASA astronaut Jessica Meir shares zero-G curly hair tips from the ISS &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/nasa-astronaut-jessica-meir-shares-zero-g-curly-hair-tips-from-the-iss-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
