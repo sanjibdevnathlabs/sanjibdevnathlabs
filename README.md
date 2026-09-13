@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AI-Era DevOps Masterclass &lpar;Live&rpar;](https://www.youtube.com/watch?v=LvcjsESf5QY)
 - [Your App Crashed. Now AI Gets to Work.](https://www.youtube.com/shorts/JP9_clebjDE)
 - [OpenAI&#39;s biggest math breakthrough is getting ugly...](https://www.youtube.com/watch?v=aspmNhKAFMc)
 - [AI Still Needs Network Engineers](https://www.youtube.com/shorts/BzfsGEr8lFg)
 - [Windows Took 90 Minutes. Omarchy Took 1.](https://www.youtube.com/shorts/6HPG3WGd1wQ)
-- [From CDs in India to Building AI Security at PayPal](https://www.youtube.com/watch?v=1dI09ZGoc3I)
 <!-- YOUTUBE:END -->
 
 ---
