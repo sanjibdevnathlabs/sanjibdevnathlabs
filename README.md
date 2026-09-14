@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [With iOS 27, I’m actually using Siri again](https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/)
-- [macOS 27: new Siri takes on AI productivity apps](https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/)
-- [Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll](https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/)
-- [The US government is &#39;sincere in its efforts to understand UAP&#39;, new White House council chair says](https://www.space.com/space-exploration/search-for-life/the-us-government-is-sincere-in-its-efforts-to-understand-uap-new-white-house-council-chair-says)
-- [Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans](https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/)
+- [OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says](https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/)
+- [AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance](https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/)
+- [The warmest summer on record: 2026 hit a scorching new high in the US](https://www.space.com/science/climate-change/the-warmest-summer-on-record-2026-hit-a-scorching-new-high-in-the-us)
+- [Interstellar comet 3I/ATLAS likely formed where its star&#39;s light couldn&#39;t touch it](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-likely-formed-where-its-stars-light-couldnt-touch-it)
+- [Amazon Prime Video takes on TikTok with short-form news clips](https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
