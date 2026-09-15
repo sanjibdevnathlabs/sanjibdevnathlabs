@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jensen Huang took a call from Trump, and showed off something else, too](https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/)
 - [Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’](https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/)
 - [OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says](https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/)
 - [AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance](https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/)
 - [The warmest summer on record: 2026 hit a scorching new high in the US](https://www.space.com/science/climate-change/the-warmest-summer-on-record-2026-hit-a-scorching-new-high-in-the-us)
-- [Interstellar comet 3I/ATLAS likely formed where its star&#39;s light couldn&#39;t touch it](https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-likely-formed-where-its-stars-light-couldnt-touch-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
