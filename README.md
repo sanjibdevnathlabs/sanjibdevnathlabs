@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [Your App Crashed. Now AI Gets to Work.](https://www.youtube.com/shorts/JP9_clebjDE)
+- [OpenAI&#39;s biggest math breakthrough is getting ugly...](https://www.youtube.com/watch?v=aspmNhKAFMc)
 - [AI Still Needs Network Engineers](https://www.youtube.com/shorts/BzfsGEr8lFg)
 - [Windows Took 90 Minutes. Omarchy Took 1.](https://www.youtube.com/shorts/6HPG3WGd1wQ)
-- [You Need to Get Your CCNA Right Now!!](https://www.youtube.com/watch?v=f9IolErKgsw)
-- [Omarchy Can Do WHAT?! 50 Features You’re Missing](https://www.youtube.com/watch?v=2IDjteRQgMQ)
+- [From CDs in India to Building AI Security at PayPal](https://www.youtube.com/watch?v=1dI09ZGoc3I)
 <!-- YOUTUBE:END -->
 
 ---
