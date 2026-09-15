@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;If I wanted to go to space, I would have stayed at NASA&#39;: What&#39;s next for Artemis II astronaut Victor Glover after his mission to the moon](https://www.space.com/space-exploration/artemis/if-i-wanted-to-go-to-space-i-would-have-stayed-at-nasa-whats-next-for-artemis-ii-astronaut-victor-glover-after-his-mission-to-the-moon)
-- [Jensen Huang took a call from Trump, and showed off something else, too](https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/)
-- [Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’](https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/)
-- [OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says](https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/)
-- [AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance](https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/)
+- [Wonder scores a $425 million partnership with DoorDash as it builds its food empire](https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/)
+- [&#39;The violence leaves a mark&#39;: How satellites are helping the world monitor war and atrocities](https://www.space.com/space-exploration/satellites/the-violence-leaves-a-mark-how-satellites-are-helping-the-world-monitor-war-and-atrocities)
+- [Former TikTok execs built an app that uses AI to teach you how to pose for a photo](https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/)
+- [Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/)
+- [India ends free ride for larger transactions on its ubiquitous digital payments network](https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
