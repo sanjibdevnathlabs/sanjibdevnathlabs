@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
-- [SpaceX&#39;s next Starship launch will lift off on Sept. 22 and aim to reach orbit for 1st time](https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-starship-launch-will-lift-off-on-sept-22-and-aim-to-reach-orbit-for-1st-time)
-- [US data centers could consume more natural gas than Germany and Japan combined by 2035](https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/)
-- [SpaceX will try to put Starship in orbit for the first time on September 22](https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/)
-- [Microscopic alien technology may be hidden in moon dust, scientists say](https://www.space.com/space-exploration/search-for-life/microscopic-alien-technology-may-be-hidden-in-moon-dust-scientists-say)
+- [The AI data center boom is colliding with cities scarred by big industry](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/)
+- [22 years of science! NASA&#39;s Roman Space Telescope doubles its lifetime with super-precise engine burn](https://www.space.com/astronomy/22-years-of-science-nasas-roman-space-telescope-doubles-its-lifetime-with-super-precise-engine-burn)
+- [Meta now lets AI agents handle the boring parts of WhatsApp Business setup](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/)
+- [New &#39;StarCraft&#39; game announced, but it&#39;s a grim open-world shooter and it&#39;s not coming until 2030](https://www.space.com/entertainment/space-games/new-starcraft-game-announced-but-its-a-grim-open-world-shooter-and-its-not-coming-until-2030)
+- [US Space Force says it operates weapons in orbit: &#39;Our aim is deterrence&#39;](https://www.space.com/space-exploration/satellites/us-space-force-says-it-operates-weapons-in-orbit-our-aim-is-deterrence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
