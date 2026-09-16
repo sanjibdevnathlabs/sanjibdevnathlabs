@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon launches Alexa+ in India with Hindi support](https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/)
-- [Russia launching 3 tons of cargo to the space station today: Watch it live](https://www.space.com/space-exploration/international-space-station/russia-progress-96-cargo-launch-international-space-station)
-- [We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says](https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/)
-- [The AI data center boom is colliding with cities scarred by big industry](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/)
-- [22 years of science! NASA&#39;s Roman Space Telescope doubles its lifetime with super-precise engine burn](https://www.space.com/astronomy/22-years-of-science-nasas-roman-space-telescope-doubles-its-lifetime-with-super-precise-engine-burn)
+- [Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/)
+- [On this day in space! Sept. 16, 1949: A US launch of a V-2 rocket explodes, killing its monkey passenger Albert III](https://www.space.com/space-exploration/on-this-day-in-space-september-16-2026)
+- [Google says some Pixel phone owners were hacked in zero-day attacks](https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/)
+- [Amazon gives its workers a raise of $1 per hour](https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/)
+- [Threads’ new features let podcasters promote shows and reach listeners](https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
