@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear](https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/)
+- [PrismML hopes its tiny LLM will change how we all use AI](https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/)
+- [The FAA’s plan to fix air traffic? $875M worth of AI](https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/)
 - [The fix for rogue AI agents could be more AI](https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/)
 - [OpenAI caught its models leaving notes to successors to hide bad behavior](https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/)
-- [Is the AI safety debate about safety or control?](https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/)
-- [UN turns to Google to make its global data ready for AI agents](https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/)
-- [Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
