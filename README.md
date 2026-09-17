@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Anthropic researchers are quitting... and now we know why](https://www.youtube.com/watch?v=7r4ikZHm9AI)
 - [Your App Crashed. Now AI Gets to Work.](https://www.youtube.com/shorts/JP9_clebjDE)
-- [OpenAI&#39;s biggest math breakthrough is getting ugly...](https://www.youtube.com/watch?v=aspmNhKAFMc)
 - [AI Still Needs Network Engineers](https://www.youtube.com/shorts/BzfsGEr8lFg)
 - [Windows Took 90 Minutes. Omarchy Took 1.](https://www.youtube.com/shorts/6HPG3WGd1wQ)
+- [You Need to Get Your CCNA Right Now!!](https://www.youtube.com/watch?v=f9IolErKgsw)
+- [Omarchy Can Do WHAT?! 50 Features You’re Missing](https://www.youtube.com/watch?v=2IDjteRQgMQ)
 <!-- YOUTUBE:END -->
 
 ---
