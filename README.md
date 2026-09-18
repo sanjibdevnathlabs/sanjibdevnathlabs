@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops](https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/)
-- [Family offices are clamoring for AI investments](https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/)
-- [FBI, Coast Guard boarded hacked oil tankers heading towards US coast](https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/)
-- [Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/)
-- [Meta’s Muse hits Mac, letting the AI take actions on your computer](https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/)
+- [A new kind of AI model from a ChatGPT inventor is thrilling developers](https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/)
+- [Disney’s first CTO led an AI startup it once accused of copying its characters](https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/)
+- [In India, the new iPhone can arrive faster than a pizza](https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/)
+- [Google’s new ‘CC’ is an AI agent that helps families run their households](https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/)
+- [Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis](https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
