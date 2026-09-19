@@ -147,7 +147,7 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- BLOG-POST-LIST:START -->
 - [Google’s Gemini is the latest AI model to hack other companies](https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/)
-- [Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors](https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/)
+- [The US Navy just told us what’s on its tech wish list for the next several years](https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/)
 - [Petlibro’s new AI-powered feeder is a game changer for multi-cat homes](https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/)
 - [AI safety conversations have gotten unbelievable](https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/)
 - [Prices go up in 7 days. Get your Disrupt ticket now.](https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/)
