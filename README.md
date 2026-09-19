@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic’s first embedded evaluator is … Accenture?](https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/)
-- [Automattic names interim CFO after exec departures](https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/)
-- [Y Combinator insurance tech alum Angle Health hits $2.7B valuation](https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/)
-- [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/)
-- [A new kind of AI model from a ChatGPT inventor is thrilling developers](https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/)
+- [Tilly Norwood’s press tour is going about as well as you’d expect for an AI](https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/)
+- [A startup that builds other startups raised $100M, and is all-in on physical AI](https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/)
+- [Anthropic is operating a lab that conducts biology experiments](https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/)
+- [AI hallucination nearly triggers US military operation](https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/)
+- [Anthropic’s first embedded evaluator is … Accenture?](https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
