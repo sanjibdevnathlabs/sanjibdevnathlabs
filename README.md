@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flock reportedly tries to shrink workforce with employee buyouts](https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/)
+- [Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/)
 - [Google’s Gemini is the latest AI model to hack other companies](https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/)
 - [The US Navy just told us what’s on its tech wish list for the next several years](https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/)
 - [Petlibro’s new AI-powered feeder is a game changer for multi-cat homes](https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/)
-- [AI safety conversations have gotten unbelievable](https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/)
-- [Prices go up in 7 days. Get your Disrupt ticket now.](https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
