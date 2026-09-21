@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [6 days left to save up to $200 to TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/)
-- [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/)
-- [Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio](https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/)
-- [Is the AI industry really ready to slow down?](https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/)
-- [Vocci’s ring adds a new form factor to meeting note-taking](https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/)
+- [Oura’s $2.2B IPO is mostly a payday for existing shareholders](https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/)
+- [With Tabby, a former accountant is using AI to make accountants obsolete](https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/)
+- [Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/)
+- [Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini](https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/)
+- [From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
