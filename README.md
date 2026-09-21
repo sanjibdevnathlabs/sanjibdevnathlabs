@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Wikipedia &amp; MIT Open Learning: A New Strategic Collaboration](https://www.youtube.com/watch?v=fmOSjnnNR3M)
 - [An ex-OpenAI researcher just deleted language from the LLM...](https://www.youtube.com/watch?v=TbkUKCm3CHQ)
 - [Did Google just kickstart the intelligence explosion?](https://www.youtube.com/watch?v=LoLYw--s-5w)
 - [Anthropic researchers are quitting... and now we know why](https://www.youtube.com/watch?v=7r4ikZHm9AI)
 - [Your App Crashed. Now AI Gets to Work.](https://www.youtube.com/shorts/JP9_clebjDE)
-- [OpenAI&#39;s biggest math breakthrough is getting ugly...](https://www.youtube.com/watch?v=aspmNhKAFMc)
 <!-- YOUTUBE:END -->
 
 ---
