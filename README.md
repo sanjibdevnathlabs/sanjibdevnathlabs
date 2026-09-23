@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Apple Says the New Mac Studio Is 4x Faster. I Tested It.](https://www.youtube.com/watch?v=CbWySQdAM60)
+- [Kubernetes Explained in 5 Minutes](https://www.youtube.com/watch?v=Xv9dnKHO8tg)
+- [What the Labs Kept Secret: The German Wiki &amp; RubyGems Hacks - Computerphile](https://www.youtube.com/watch?v=giTmBaNGaHw)
 - [Junior vs Senior Developer: What’s the Real Difference? 💡 &lpar;It’s NOT lines of code&rpar;](https://www.youtube.com/shorts/tPN5w3f8WqE)
 - [Is multitasking a myth?](https://www.youtube.com/watch?v=KCK-LlQoKoI)
-- [Wikipedia &amp; MIT Open Learning: A New Strategic Collaboration](https://www.youtube.com/watch?v=fmOSjnnNR3M)
-- [An ex-OpenAI researcher just deleted language from the LLM...](https://www.youtube.com/watch?v=TbkUKCm3CHQ)
-- [Did Google just kickstart the intelligence explosion?](https://www.youtube.com/watch?v=LoLYw--s-5w)
 <!-- YOUTUBE:END -->
 
 ---
