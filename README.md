@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [If Amazon doesn’t know how to eliminate carbon emissions, then who does?](https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/)
+- [VC firm Bessemer now has another $5.75B to invest in &lpar;what else?&rpar; AI](https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/)
+- [Enveda secures $311M to bring more nature-derived AI drugs into clinical trials](https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/)
+- [Modal Motors is trying to cut China out of electric motors entirely](https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/)
 - [Disney+ and Hulu add to the growing trend of streaming inflation](https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/)
-- [The old cybersecurity model is breaking](https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/)
-- [Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms](https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/)
-- [ChatGPT mobile app gets voice-based agentic features](https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/)
-- [Even Americans who use AI every day are worried about it](https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
