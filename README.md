@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta is trying VR glasses &lpar;again&rpar;, this time with more IMAX](https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/)
+- [Meta introduces camera-free AI glasses](https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/)
+- [Vogue sent robots down the runway at Vogue World, and people were not impressed](https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/)
+- [Anthropic says its biology lab has already found something big](https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/)
 - [If Amazon doesn’t know how to eliminate carbon emissions, then who does?](https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/)
-- [VC firm Bessemer now has another $5.75B to invest in &lpar;what else?&rpar; AI](https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/)
-- [Enveda secures $311M to bring more nature-derived AI drugs into clinical trials](https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/)
-- [Modal Motors is trying to cut China out of electric motors entirely](https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/)
-- [Disney+ and Hulu add to the growing trend of streaming inflation](https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
