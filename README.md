@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [you need to try Paperclip RIGHT NOW!](https://www.youtube.com/watch?v=7RVf25Rg0Mc)
 - [The most expensive 33 hours in WordPress history...](https://www.youtube.com/watch?v=ylO0DQeVEBQ)
 - [i got one....and it&#39;s FAST!!!](https://www.youtube.com/watch?v=CbWySQdAM60)
 - [Kubernetes Explained in 5 Minutes](https://www.youtube.com/watch?v=Xv9dnKHO8tg)
 - [What the Labs Kept Secret: The German Wiki &amp; RubyGems Hacks - Computerphile](https://www.youtube.com/watch?v=giTmBaNGaHw)
-- [Junior vs Senior Developer: What’s the Real Difference? 💡 &lpar;It’s NOT lines of code&rpar;](https://www.youtube.com/shorts/tPN5w3f8WqE)
 <!-- YOUTUBE:END -->
 
 ---
