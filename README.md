@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything new coming to Meta’s AI agent Muse](https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/)
-- [Meta made a Tamagotchi-like wearable for its Muse AI agent](https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/)
-- [Meta is trying VR glasses &lpar;again&rpar;, this time with more IMAX](https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/)
-- [Meta introduces camera-free AI glasses](https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/)
-- [Vogue sent robots down the runway at Vogue World, and people were not impressed](https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/)
+- [Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/)
+- [Lovable’s annualized revenue crosses $600M as vibe coding takes off](https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/)
+- [Ando wants to take on Slack with a team messaging app that lets humans and agents work together](https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/)
+- [TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it](https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/)
+- [2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend](https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
