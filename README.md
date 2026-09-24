@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/)
-- [Lovable’s annualized revenue crosses $600M as vibe coding takes off](https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/)
-- [Ando wants to take on Slack with a team messaging app that lets humans and agents work together](https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/)
-- [TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it](https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/)
-- [2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend](https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/)
+- [Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass](https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/)
+- [PrismML brings its tiny LLMs to Qualcomm-powered smart glasses](https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/)
+- [Meet Feather, the startup building the ‘Android of robotics’ for developers](https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/)
+- [Oracle sends force majeure notice on its New Mexico Stargate data center](https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/)
+- [Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend](https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
