@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Your AI App Works. Can You Sell It?](https://www.youtube.com/shorts/zXeL8KbDmi4)
+- [Your AI App Works. Can You Sell It?](https://www.youtube.com/shorts/d1i1V4StMVI)
 - [you need to try Paperclip RIGHT NOW!](https://www.youtube.com/watch?v=7RVf25Rg0Mc)
 - [The most expensive 33 hours in WordPress history...](https://www.youtube.com/watch?v=ylO0DQeVEBQ)
 - [i got one....and it&#39;s FAST!!!](https://www.youtube.com/watch?v=CbWySQdAM60)
-- [Kubernetes Explained in 5 Minutes](https://www.youtube.com/watch?v=Xv9dnKHO8tg)
-- [What the Labs Kept Secret: The German Wiki &amp; RubyGems Hacks - Computerphile](https://www.youtube.com/watch?v=giTmBaNGaHw)
 <!-- YOUTUBE:END -->
 
 ---
