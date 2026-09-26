@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Insurers claim AI is already increasing healthcare costs](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/)
 - [TikTok agrees to pay at least $100M in Alabama settlement](https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/)
 - [Meta and YouTube say they will run ads for ‘Musk’ documentary after all](https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/)
 - [Levoit’s new air purifier is for the pet odors that have taken over your apartment](https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/)
 - [I created an interactive digital avatar of myself — and you can talk to it](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/)
-- [At Meta Connect, the company’s smart glasses were everywhere](https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
