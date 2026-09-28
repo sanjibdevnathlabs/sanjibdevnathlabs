@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [Meta is pivoting again... everything you missed from Connect 2026](https://www.youtube.com/watch?v=c1rPlzxSZ8E)
+- [Your AI App Works. Can You Sell It?](https://www.youtube.com/shorts/d1i1V4StMVI)
+- [you need to try Paperclip RIGHT NOW!](https://www.youtube.com/watch?v=7RVf25Rg0Mc)
 - [The most expensive 33 hours in WordPress history...](https://www.youtube.com/watch?v=ylO0DQeVEBQ)
-- [An ex-OpenAI researcher just deleted language from the LLM...](https://www.youtube.com/watch?v=TbkUKCm3CHQ)
-- [Did Google just kickstart the intelligence explosion?](https://www.youtube.com/watch?v=LoLYw--s-5w)
-- [Anthropic researchers are quitting... and now we know why](https://www.youtube.com/watch?v=7r4ikZHm9AI)
+- [i got one....and it&#39;s FAST!!!](https://www.youtube.com/watch?v=CbWySQdAM60)
 <!-- YOUTUBE:END -->
 
 ---
