@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix](https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/)
-- [Fireflies adds dictation to its desktop notetaking apps](https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/)
-- [OpenAI apologizes to Australia after its AI agents breached government sites](https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/)
-- [Reco raises $55M as AI agent security startups crowd the market](https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/)
-- [Protego Ventures closes debut $125 million fund for Israeli defense tech](https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/)
+- [More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope](https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/)
+- [Apple Pay set to launch in India with Axis Bank today, sources say](https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/)
+- [Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents](https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/)
+- [OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite](https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/)
+- [Dutch police arrest ShinyHunters hacker accused of planning two murders](https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
