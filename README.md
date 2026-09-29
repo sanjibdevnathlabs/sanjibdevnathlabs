@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity](https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/)
-- [Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort](https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/)
-- [OpenAI reportedly ditches model over safety concerns](https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/)
-- [Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds](https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/)
-- [Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation](https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/)
+- [Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix](https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/)
+- [Fireflies adds dictation to its desktop notetaking apps](https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/)
+- [OpenAI apologizes to Australia after its AI agents breached government sites](https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/)
+- [Reco raises $55M as AI agent security startups crowd the market](https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/)
+- [Protego Ventures closes debut $125 million fund for Israeli defense tech](https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
