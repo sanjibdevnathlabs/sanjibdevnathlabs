@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Implementing Undo - Computerphile](https://www.youtube.com/watch?v=S6PqsZ65Mg4)
 - [openAI is coming for grok and Jev](https://www.youtube.com/watch?v=5pXMOUB_y0c)
 - [openAI is coming for grok and Jev](https://www.youtube.com/watch?v=BeNxDM6XJK4)
 - [DHH has gone completely off the rails...](https://www.youtube.com/watch?v=OuNKBjuV7A4)
 - [Meta is pivoting again... everything you missed from Connect 2026](https://www.youtube.com/watch?v=c1rPlzxSZ8E)
-- [Your AI App Works. Can You Sell It?](https://www.youtube.com/shorts/d1i1V4StMVI)
 <!-- YOUTUBE:END -->
 
 ---
