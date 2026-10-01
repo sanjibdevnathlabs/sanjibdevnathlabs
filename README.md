@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google releases Gemini 4 Argon, called its most powerful model yet](https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/)
+- [The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next](https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/)
 - [Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation](https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/)
-- [Factory CEO just accused his VC board advisor of spying for Cognition](https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/)
+- [Factory CEO just accused his VC board adviser of spying for Cognition](https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/)
 - [Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America](https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/)
-- [Hackers stole millions of US military personnel records during months-long data breach](https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/)
-- [DoorDash’s drone strategy started on the ground](https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
