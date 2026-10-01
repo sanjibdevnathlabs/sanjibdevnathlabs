@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The one OpenAI announcement that can actually make you money...](https://www.youtube.com/watch?v=No-JPdFvYWU)
 - [Did a 50 year old military secret just solve agent prompt injection?](https://www.youtube.com/watch?v=I_KVMFrUtPk)
 - [Implementing Undo - Computerphile](https://www.youtube.com/watch?v=S6PqsZ65Mg4)
 - [openAI is coming for grok and Jev](https://www.youtube.com/watch?v=5pXMOUB_y0c)
 - [openAI is coming for grok and Jev](https://www.youtube.com/watch?v=BeNxDM6XJK4)
-- [DHH has gone completely off the rails...](https://www.youtube.com/watch?v=OuNKBjuV7A4)
 <!-- YOUTUBE:END -->
 
 ---
