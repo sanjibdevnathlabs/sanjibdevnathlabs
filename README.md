@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google releases Gemini 4 Argon, called its most powerful model yet](https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/)
-- [The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next](https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/)
-- [Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation](https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/)
-- [Factory CEO just accused his VC board adviser of spying for Cognition](https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/)
-- [Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America](https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/)
+- [Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.](https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/)
+- [Hearing tech startup Legato launches its AI hearing glasses](https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/)
+- [Audible’s new features let you explore book worlds — and use AI to talk to characters](https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/)
+- [The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader](https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/)
+- [Amazon introduces Kindle Click, a $35 remote for turning pages](https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
