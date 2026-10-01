@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.](https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/)
-- [Hearing tech startup Legato launches its AI hearing glasses](https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/)
-- [Audible’s new features let you explore book worlds — and use AI to talk to characters](https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/)
-- [The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader](https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/)
-- [Amazon introduces Kindle Click, a $35 remote for turning pages](https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/)
+- [ChatGPT can now virtually try on clothes for you](https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/)
+- [Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground](https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/)
+- [World’s first enhanced geothermal power plant completed in just 23 months](https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/)
+- [OpenAI cuts ties with 3 safety researchers, WSJ reports](https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/)
+- [Opus 5.5 loves to tell you ‘this matters’ &lpar;and other AI writing tells&rpar;](https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
