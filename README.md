@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Robotaxi operators will face fines for blocking first responders](https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/)
 - [The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
 - [Lyft is paying $272.5M to settle lawsuit over how it classified drivers](https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/)
 - [Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation](https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/)
 - [Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president](https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/)
-- [ChatGPT can now virtually try on clothes for you](https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
