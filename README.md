@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions](https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/)
+- [Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?](https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/)
 - [TechCrunch Mobility: Reining in robotaxis](https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/)
 - [Trump unveils his new Super Intelligence Force](https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/)
 - [Federal judge calls Flock ‘indiscriminate mass surveillance’](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/)
-- [Amazon responds to data center backlash, says it no longer uses NDAs](https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/)
-- [OpenAI safety employee resigns, claiming the company’s ‘culture is broken’](https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
