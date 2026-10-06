@@ -135,7 +135,7 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [PewDiePie is setting AI free... and OpenAI is furious](https://www.youtube.com/watch?v=_5p1_TNSWqQ)
-- [STOP putting everything on ONE network!!](https://www.youtube.com/watch?v=nuhh_KfCz9M)
+- [your house needs TWO networks &lpar;here&#39;s why&rpar;](https://www.youtube.com/watch?v=nuhh_KfCz9M)
 - [The one OpenAI announcement that can actually make you money...](https://www.youtube.com/watch?v=No-JPdFvYWU)
 - [Did a 50 year old military secret just solve agent prompt injection?](https://www.youtube.com/watch?v=I_KVMFrUtPk)
 - [Implementing Undo - Computerphile](https://www.youtube.com/watch?v=S6PqsZ65Mg4)
