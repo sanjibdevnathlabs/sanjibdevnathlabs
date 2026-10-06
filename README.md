@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lucid Motors’ EV output falls to lowest level in almost 2 years](https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/)
-- [OpenAI will start watermarking ChatGPT’s text in the EU](https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/)
-- [Etched fields funding offers at $40B+ valuation, sources say](https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/)
-- [After Factory’s public spat with Khosla, Menlo proudly invests](https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/)
-- [Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost](https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/)
+- [India’s JioHotstar takes partnership route for Middle East expansion](https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/)
+- [Mirror Particle is building a ‘world model’ of human behavior](https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/)
+- [Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors](https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/)
+- [Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4](https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/)
+- [Anthropic is giving startups a free year of Claude Team and $1,000 in credits](https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
