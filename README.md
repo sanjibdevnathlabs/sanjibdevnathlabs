@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A $6.3 billion open-weight model just got embarrassed by the French...](https://www.youtube.com/watch?v=WrCjAAl9okA)
 - [Wikipedia &amp; MIT Open Learning: A New Strategic Collaboration](https://www.youtube.com/watch?v=1U-x9bdnwx0)
 - [Wikipedia &amp; MIT Open Learning: A New Strategic Collaboration](https://www.youtube.com/watch?v=fmOSjnnNR3M)
 - [You&#39;re Not Lazy. Your Learning Method Is Broken. Here&#39;s How To Fix It...](https://www.youtube.com/watch?v=EcpYM__4c8E)
 - [PewDiePie is setting AI free... and OpenAI is furious](https://www.youtube.com/watch?v=_5p1_TNSWqQ)
-- [your house needs TWO networks &lpar;here&#39;s why&rpar;](https://www.youtube.com/watch?v=nuhh_KfCz9M)
 <!-- YOUTUBE:END -->
 
 ---
