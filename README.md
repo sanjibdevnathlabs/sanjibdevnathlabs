@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [President Trump awards Big Tech donors with nation’s highest science prizes](https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/)
 - [Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website](https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/)
 - [Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/)
 - [Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal](https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/)
 - [Ben Affleck is an AI nerd, and the internet is impressed](https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/)
-- [Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months](https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
