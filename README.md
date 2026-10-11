@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [I turned my house into a VIDEO GAME!](https://www.youtube.com/shorts/CgG3dtH5IMM)
-- [From Uganda to Ukraine: The Global Impact of MIT OpenCourseWare at 25](https://www.youtube.com/watch?v=Bjr62PO1WO4)
 - [Race Conditions on a Human Scale - Computerphile](https://www.youtube.com/watch?v=W0jPTqIo5oE)
-- [A $6.3 billion open-weight model just got embarrassed by the French...](https://www.youtube.com/watch?v=WrCjAAl9okA)
-- [Wikipedia &amp; MIT Open Learning: A New Strategic Collaboration](https://www.youtube.com/watch?v=1U-x9bdnwx0)
+- [Implementing Undo - Computerphile](https://www.youtube.com/watch?v=S6PqsZ65Mg4)
+- [What the Labs Kept Secret: The German Wiki &amp; RubyGems Hacks - Computerphile](https://www.youtube.com/watch?v=giTmBaNGaHw)
+- [The AI Language We Can&#39;t Read: Neuralese ft. Rob Miles - Computerphile](https://www.youtube.com/watch?v=iuHddnIzKRA)
+- [How Watermarks Track AI Generated Content - Computerphile](https://www.youtube.com/watch?v=kVXp6UNVPTo)
 <!-- YOUTUBE:END -->
 
 ---
