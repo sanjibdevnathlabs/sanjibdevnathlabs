@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Efferon wants to eradicate the devastating toll of pediatric sepsis](https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/)
-- [What to know about the landmark Warner Bros. Discovery sale](https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/)
-- [These execs think voice AI hasn’t reached its ChatGPT moment yet](https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/)
-- [Microsoft’s Satya Nadella says AI models need an ‘emergency brake’](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/)
-- [Apple discloses deal to hire team and license tech from personalized podcast startup Huxe](https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/)
+- [48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next](https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/)
+- [The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
+- [Can the AI industry persuade data center opponents by getting rid of NDAs?](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/)
+- [TechCrunch Mobility: A roadblock clears for self-driving trucks](https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/)
+- [Dawn Myers is making it easier to style, detangle, and care for curly hair](https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
