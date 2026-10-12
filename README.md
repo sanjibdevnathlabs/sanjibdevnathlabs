@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
 - [Will the HomeView be Apple’s first smart home success?](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/)
 - [Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start](https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/)
 - [48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next](https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/)
 - [The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
-- [Can the AI industry persuade data center opponents by getting rid of NDAs?](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
