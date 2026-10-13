@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX launches Falcon 9 Starlink mission for 1st time in more than 3 weeks &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-falcon-9-starlink-mission-for-1st-time-in-more-than-3-weeks-photo)
-- [SpaceX launching 6,300 pounds of cargo to the ISS today: Watch it live](https://www.space.com/space-exploration/international-space-station/spacex-crs-35-cargo-launch-international-space-station)
-- [Astronomers witness supermassive black hole gorge on a cosmic meal before &#39;burping&#39; radio jets 300 days later](https://www.space.com/astronomy/black-holes/nasa-spacecraft-sees-supermassive-black-hole-gorge-on-a-cosmic-meal-before-burping-radio-jets-300-days-later)
-- [The moon could turn astronauts into &#39;walking, high voltage capacitors&#39; that accidentally zap spacecraft](https://www.space.com/astronomy/moon/the-moon-could-turn-astronauts-into-walking-high-voltage-capacitors-that-accidentally-zap-spacecraft)
-- [Meta releases its first frontier model, Muse Wonder](https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/)
+- [Pluto Security raises $42M as AI gives enterprise security teams a new headache](https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/)
+- [SpaceX rocket launch creates incredible &#39;space jellyfish&#39; visible throughout US East Coast &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-creates-incredible-space-jellyfish-visible-throughout-us-east-coast-photos)
+- [MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt](https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/)
+- [Google Play now supports private, vibe-coded apps built just for you](https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/)
+- [Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites](https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
