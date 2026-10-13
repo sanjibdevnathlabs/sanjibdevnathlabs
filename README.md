@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Every app on Earth is now open source... whether it likes it or not](https://www.youtube.com/watch?v=wajoP_5Cpw8)
 - [You can monitor EVERYTHING in your homelab with this](https://www.youtube.com/watch?v=Bjifz55TTPI)
 - [I turned my house into a VIDEO GAME!](https://www.youtube.com/shorts/CgG3dtH5IMM)
 - [From Uganda to Ukraine: The Global Impact of MIT OpenCourseWare at 25](https://www.youtube.com/watch?v=Bjr62PO1WO4)
 - [Race Conditions on a Human Scale - Computerphile](https://www.youtube.com/watch?v=W0jPTqIo5oE)
-- [A $6.3 billion open-weight model just got embarrassed by the French...](https://www.youtube.com/watch?v=WrCjAAl9okA)
 <!-- YOUTUBE:END -->
 
 ---
