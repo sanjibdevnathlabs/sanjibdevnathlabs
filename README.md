@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pluto Security raises $42M as AI gives enterprise security teams a new headache](https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/)
-- [SpaceX rocket launch creates incredible &#39;space jellyfish&#39; visible throughout US East Coast &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-creates-incredible-space-jellyfish-visible-throughout-us-east-coast-photos)
-- [MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt](https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/)
-- [Google Play now supports private, vibe-coded apps built just for you](https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/)
-- [Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites](https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/)
+- [Helix Carbon says it can make iron cheaper by recycling blast furnace pollution](https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/)
+- [On this day in space! Oct. 13, 1773: Astronomer Charles Messier discovers the Whirlpool Galaxy before we ever knew it was a galaxy](https://www.space.com/space-exploration/on-this-day-in-space-october-13-2026)
+- [FBI arrests OpenAI employee accused of planting hidden recording device in conference room](https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/)
+- [Judge orders OpenAI to turn over hiring records in Apple trade secrets case](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/)
+- [Cambridge Heavy Industries has been quietly building a desktop fusion device](https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
