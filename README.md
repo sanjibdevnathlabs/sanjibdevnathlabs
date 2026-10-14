@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Four years ago, NASA punched an asteroid. Europe&#39;s Hera probe arrives this month to inspect the wreckage](https://www.space.com/space-exploration/asteroid-comet-missions/four-years-ago-nasa-punched-an-asteroid-europes-hera-probe-arrives-this-month-to-inspect-the-wreckage)
-- [Scimplify raises $25M to challenge China’s grip on critical materials with AI](https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/)
-- [Scientists discover that some of the universe&#39;s biggest explosions may have never happened at all](https://www.space.com/astronomy/stars/scientists-discover-that-some-of-the-universes-biggest-explosions-may-never-have-happened)
-- [Justice Department says North Koreans have infiltrated dozens of U.S. companies](https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/)
-- [Science Corporation implants its vision-restoring chip in its first Stargardt disease patient](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/)
+- [Mosqitter is turning its mosquito traps into an AI-powered surveillance network](https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/)
+- [On this day in space! Oct. 14, 1947: Test pilot Chuck Yeager breaks the sound barrier in the Bell X-1, the first X-plane](https://www.space.com/space-exploration/on-this-day-in-space-october-14-2026)
+- [Prismm helps banks keep inherited money in-house](https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/)
+- [Life after the moon: Artemis II&#39;s Christina Koch steps down from active astronaut duty](https://www.space.com/space-exploration/artemis/life-after-the-moon-artemis-iis-christina-koch-steps-down-from-active-astronaut-duty)
+- [Deezer will soon let you filter out AI-generated music](https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
