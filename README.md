@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [OpenAI’s lead engineer was secretly a spy...](https://www.youtube.com/watch?v=QZVzuq28eFw)
+- [The Laser Pointer Crime 🕵🏻‍♀️](https://www.youtube.com/shorts/CQCF-wyd7-A)
+- [Every app on Earth is now open source... whether it likes it or not](https://www.youtube.com/watch?v=wajoP_5Cpw8)
 - [You can monitor EVERYTHING in your homelab with this](https://www.youtube.com/watch?v=Bjifz55TTPI)
 - [I turned my house into a VIDEO GAME!](https://www.youtube.com/shorts/CgG3dtH5IMM)
-- [Race Conditions on a Human Scale - Computerphile](https://www.youtube.com/watch?v=W0jPTqIo5oE)
-- [You&#39;re Not Lazy. Your Learning Method Is Broken. Here&#39;s How To Fix It...](https://www.youtube.com/watch?v=EcpYM__4c8E)
-- [your house needs TWO networks &lpar;here&#39;s why&rpar;](https://www.youtube.com/watch?v=nuhh_KfCz9M)
 <!-- YOUTUBE:END -->
 
 ---
