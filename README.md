@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Wikipedia &amp; MIT Open Learning: A New Strategic Collaboration](https://www.youtube.com/watch?v=OWxUBRhzMO8)
 - [The runtime wars are over... and Node won](https://www.youtube.com/watch?v=l3L_lETiSzc)
 - [Multiplayer Gaming &amp; Flight Simulation - Computerphile](https://www.youtube.com/watch?v=WqrwAFs-fq0)
 - [OpenAI’s lead engineer was secretly a spy...](https://www.youtube.com/watch?v=QZVzuq28eFw)
 - [The Laser Pointer Crime 🕵🏻‍♀️](https://www.youtube.com/shorts/CQCF-wyd7-A)
-- [Every app on Earth is now open source... whether it likes it or not](https://www.youtube.com/watch?v=wajoP_5Cpw8)
 <!-- YOUTUBE:END -->
 
 ---
