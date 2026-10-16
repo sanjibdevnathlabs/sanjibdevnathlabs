@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;It really does change you&#39;: SpaceX Crew-12 commander wishes we could all see our fragile Earth from space](https://www.space.com/space-exploration/international-space-station/it-really-does-change-you-spacex-crew-12-commander-wishes-we-could-all-see-our-fragile-earth-from-space)
+- [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/)
+- [When not to watch a meteor shower — why I&#39;m not staying up for the Orionids](https://www.space.com/stargazing/when-not-to-watch-a-meteor-shower-why-im-not-staying-up-for-the-orionids)
+- [Porsche’s electric Macan Turbo is an automotive existential crisis](https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/)
 - [How to see the Orionid meteor shower 2026 peak this week — and when to look](https://www.space.com/stargazing/meteor-showers/how-to-see-the-orionid-meteor-shower-2026-peak-this-week-and-when-to-look)
-- [Scientists find &#39;gemstones&#39; in atmosphere of bizarre, scorching-hot &#39;marshmallow&#39; exoplanet](https://www.space.com/astronomy/exoplanets/scientists-find-gemstones-in-atmosphere-of-bizarre-scorching-hot-marshmallow-exoplanet)
-- [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)
-- [SpaceX thrusters just made a Tesla Roadster &#39;fly&#39; &lpar;and Elon Musk&#39;s car is still out there in space&rpar;](https://www.space.com/technology/spacex-thrusters-just-made-a-tesla-roadster-fly-and-elon-musks-car-is-still-out-there-in-space)
-- [On this day in space! Oct. 16, 1975: NASA launches the 1st-ever GOES weather satellite to watch Earth from space](https://www.space.com/space-exploration/on-this-day-in-space-october-16-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
