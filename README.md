@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When it came to Cal AI’s viral success, a small army of influencers paid off](https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/)
+- [And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems](https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/)
 - [Amazon devices chief Panos Panay on the importance of failure and bouncing back from it](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/)
 - [Meta launches an open-weight AI model that runs on Macs](https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/)
 - [Astronomers discover the 1st ever green star, a cosmic zombie just in time for Halloween](https://www.space.com/astronomy/stars/astronomers-discover-the-1st-ever-green-star-a-cosmic-zombie-just-in-time-for-halloween)
-- [Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/)
-- [Bluesky wants to make it easier to buy, sell, and fundraise on the network](https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
