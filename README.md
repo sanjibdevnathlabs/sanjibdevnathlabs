@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Lanterns&#39; shocking finale left us with a lot of unanswered questions for a potential season 2](https://www.space.com/entertainment/space-movies-shows/lanterns-shocking-finale-left-us-with-a-lot-of-unanswered-questions-for-a-potential-season-2)
+- [The Orionid meteor shower peaks next week! Here&#39;s what to expect](https://www.space.com/stargazing/meteor-showers/the-orionid-meteor-shower-peaks-oct-21-22-2026-heres-what-to-expect)
 - [Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept](https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/)
 - [&#39;It really does change you&#39;: SpaceX Crew-12 commander wishes we could all see our fragile Earth from space](https://www.space.com/space-exploration/international-space-station/it-really-does-change-you-spacex-crew-12-commander-wishes-we-could-all-see-our-fragile-earth-from-space)
 - [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/)
-- [When not to watch a meteor shower — why I&#39;m not staying up for the Orionids](https://www.space.com/stargazing/when-not-to-watch-a-meteor-shower-why-im-not-staying-up-for-the-orionids)
-- [Porsche’s electric Macan Turbo is an automotive existential crisis](https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
