@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/)
 - [Ember’s new temperature-controlled mug makes my nightly tea ritual even better](https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/)
 - [On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion](https://www.space.com/space-exploration/on-this-day-in-space-october-17-2026)
 - [This Week In Space podcast: Episode 232 — The Lunar Dump](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-232-the-lunar-dump)
 - [6 scientifically accurate star projectors to turn any room into a home planetarium](https://www.space.com/stargazing/skywatching-kit/six-scientifically-accurate-star-projectors-to-turn-any-room-into-a-home-planetarium)
-- [&#39;Lanterns&#39; shocking finale left us with a lot of unanswered questions for a potential season 2](https://www.space.com/entertainment/space-movies-shows/lanterns-shocking-finale-left-us-with-a-lot-of-unanswered-questions-for-a-potential-season-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
