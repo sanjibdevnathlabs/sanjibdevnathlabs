@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ember’s new temperature-controlled mug makes my nightly tea ritual even better](https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/)
+- [On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion](https://www.space.com/space-exploration/on-this-day-in-space-october-17-2026)
+- [This Week In Space podcast: Episode 232 — The Lunar Dump](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-232-the-lunar-dump)
+- [6 scientifically accurate star projectors to turn any room into a home planetarium](https://www.space.com/stargazing/skywatching-kit/six-scientifically-accurate-star-projectors-to-turn-any-room-into-a-home-planetarium)
 - [&#39;Lanterns&#39; shocking finale left us with a lot of unanswered questions for a potential season 2](https://www.space.com/entertainment/space-movies-shows/lanterns-shocking-finale-left-us-with-a-lot-of-unanswered-questions-for-a-potential-season-2)
-- [The Orionid meteor shower peaks next week! Here&#39;s what to expect](https://www.space.com/stargazing/meteor-showers/the-orionid-meteor-shower-peaks-oct-21-22-2026-heres-what-to-expect)
-- [Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept](https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/)
-- [&#39;It really does change you&#39;: SpaceX Crew-12 commander wishes we could all see our fragile Earth from space](https://www.space.com/space-exploration/international-space-station/it-really-does-change-you-spacex-crew-12-commander-wishes-we-could-all-see-our-fragile-earth-from-space)
-- [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
