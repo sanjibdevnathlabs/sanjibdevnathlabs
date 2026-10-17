@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [Wikipedia &amp; MIT Open Learning: A New Strategic Collaboration](https://www.youtube.com/watch?v=OWxUBRhzMO8)
+- [The runtime wars are over... and Node won](https://www.youtube.com/watch?v=l3L_lETiSzc)
 - [Multiplayer Gaming &amp; Flight Simulation - Computerphile](https://www.youtube.com/watch?v=WqrwAFs-fq0)
+- [OpenAI’s lead engineer was secretly a spy...](https://www.youtube.com/watch?v=QZVzuq28eFw)
 - [The Laser Pointer Crime 🕵🏻‍♀️](https://www.youtube.com/shorts/CQCF-wyd7-A)
-- [You can monitor EVERYTHING in your homelab with this](https://www.youtube.com/watch?v=Bjifz55TTPI)
-- [I turned my house into a VIDEO GAME!](https://www.youtube.com/shorts/CgG3dtH5IMM)
 <!-- YOUTUBE:END -->
 
 ---
