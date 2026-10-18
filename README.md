@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Mobility: Rivian’s next act](https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/)
+- [Computer scientist Margaret Hamilton was a problem-solver for the ages &lpar;op-ed&rpar;](https://www.space.com/space-exploration/apollo/computer-scientist-margaret-hamilton-was-a-problem-solver-for-the-ages-op-ed)
+- [On this day in space! Oct. 18, 1963: France&#39;s Félicette Becomes the 1st Cat in Space! &gt;^..^&lt;](https://www.space.com/space-exploration/on-this-day-in-space-october-18-2026)
 - [Astronomers want your help finding &#39;missing&#39; black holes in the Milky Way](https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way)
 - [10 best places to see the 2027 total solar eclipse in Spain](https://www.space.com/stargazing/solar-eclipses/10-best-places-to-see-the-2027-total-solar-eclipse-in-spain)
-- [&#39;Let&#39;s all choose to make tomorrow better&#39;, Artemis II astronauts honored with Stephen Hawking Medal at Starmus](https://www.space.com/space-exploration/artemis/artemis-ii-astronauts-honored-with-stephen-hawking-medal-at-starmus)
-- [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/)
-- [TikTok permanently bans ‘Musk’ documentary advertising account](https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
