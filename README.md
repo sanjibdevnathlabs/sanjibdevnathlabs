@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’](https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/)
+- [Disney agrees to hire the majority of Character.AI’s workforce](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/)
 - [TechCrunch Mobility: Rivian’s next act](https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/)
 - [Computer scientist Margaret Hamilton was a problem-solver for the ages &lpar;op-ed&rpar;](https://www.space.com/space-exploration/apollo/computer-scientist-margaret-hamilton-was-a-problem-solver-for-the-ages-op-ed)
 - [On this day in space! Oct. 18, 1963: France&#39;s Félicette Becomes the 1st Cat in Space! &gt;^..^&lt;](https://www.space.com/space-exploration/on-this-day-in-space-october-18-2026)
-- [Astronomers want your help finding &#39;missing&#39; black holes in the Milky Way](https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way)
-- [10 best places to see the 2027 total solar eclipse in Spain](https://www.space.com/stargazing/solar-eclipses/10-best-places-to-see-the-2027-total-solar-eclipse-in-spain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
