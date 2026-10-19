@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Japan launching bold sample-return mission to Mars moon Phobos today: Watch it live](https://www.space.com/astronomy/mars/japan-launching-bold-sample-return-mission-to-mars-moon-phobos-today-watch-it-live)
-- [Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics](https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/)
-- [No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market](https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/)
-- [Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/)
-- [Returning the first samples from a Martian moon: Inside the science of Japan&#39;s bold MMX mission to Mars](https://www.space.com/space-exploration/missions/returning-samples-from-a-mars-moon-inside-the-science-of-japans-bold-mmx-mission)
+- [AI assistant startup Town nabs unicorn valuation four months after launch](https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/)
+- [Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs](https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/)
+- [Amazon to fund 12 small nuclear reactors at former Indiana coal plant](https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/)
+- [People are using AI to make their smart TVs dumb again](https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/)
+- [Nvidia launches new open models to run agents in the enterprise and on PCs](https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
