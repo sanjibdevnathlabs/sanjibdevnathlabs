@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Walmart’s Flipkart is quietly building a food delivery challenger in India](https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/)
-- [Mamdani says feds have abdicated on AI, urges New Yorkers to push back](https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/)
-- [Nscale and Anthropic are reportedly in talks for yet another $45B compute deal](https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/)
-- [Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says](https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/)
-- [Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’](https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/)
+- [Spotify launches paid podcast memberships with perks beyond bonus content](https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/)
+- [Oura adds new fitness metrics to show how workouts impact your body](https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/)
+- [Could a $200K bond for satellites paid before launch prevent a space junk disaster in orbit? Here&#39;s why some scientists think so](https://www.space.com/space-exploration/satellites/could-satellite-deorbit-deposits-prevent-a-space-debris-disaster)
+- [SpaceX launches its &#39;Starfall&#39; return capsule for 2nd time ever &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission)
+- [Yelp can now call on your behalf to check wait times at a restaurant](https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
