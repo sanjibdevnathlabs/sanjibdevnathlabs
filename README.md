@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify launches paid podcast memberships with perks beyond bonus content](https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/)
-- [Oura adds new fitness metrics to show how workouts impact your body](https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/)
-- [Could a $200K bond for satellites paid before launch prevent a space junk disaster in orbit? Here&#39;s why some scientists think so](https://www.space.com/space-exploration/satellites/could-satellite-deorbit-deposits-prevent-a-space-debris-disaster)
-- [SpaceX launches its &#39;Starfall&#39; return capsule for 2nd time ever &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission)
-- [Yelp can now call on your behalf to check wait times at a restaurant](https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/)
+- [Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps](https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/)
+- [Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’](https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/)
+- [Streaming guide JustWatch becomes a streamer itself](https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/)
+- [Plants can speak using electricity, so this startup built an AI model to decipher their language](https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/)
+- [TikTok staff raised child safety concerns, but executives reportedly failed to act](https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
