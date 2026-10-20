@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps](https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/)
-- [Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’](https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/)
-- [Streaming guide JustWatch becomes a streamer itself](https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/)
-- [Plants can speak using electricity, so this startup built an AI model to decipher their language](https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/)
-- [TikTok staff raised child safety concerns, but executives reportedly failed to act](https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/)
+- [On this day in space! Oct. 20, 1970: The Soviet Union launches last-ever Zond moon mission](https://www.space.com/space-exploration/on-this-day-in-space-october-20-2026)
+- [SpaceX’s AI business is beating expectations](https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/)
+- [OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business](https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/)
+- [Google is bringing a more personal version of its Gemini AI assistant to your car](https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/)
+- [Can’t make it to the Lucas Museum of Narrative Art for the &#39;Star Wars&#39; display? This is the companion book set you’re looking for!](https://www.space.com/entertainment/space-books/cant-make-it-to-the-lucas-museum-of-narrative-art-for-the-star-wars-display-this-is-the-companion-book-set-youre-looking-for)
 <!-- BLOG-POST-LIST:END -->
 
 ---
