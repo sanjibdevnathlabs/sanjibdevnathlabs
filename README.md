@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Russian satellite plays &#39;cat-and-mouse&#39; with a commercial US spacecraft likely used by Ukraine. But why the risky close encounter?](https://www.space.com/space-exploration/satellites/russian-satellite-plays-cat-and-mouse-with-a-commercial-us-satellite-likely-used-by-ukraine-but-why-the-risky-close-encounter)
-- [Anthropic pitches AI safety bill that may block a model if 50+ people could be killed](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/)
-- [SpaceX and Tesla boards form special committees to review merger](https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/)
-- [SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, a &#39;profound technology milestone,&#39; Elon Musk says](https://www.space.com/space-exploration/launches-spacecraft/spacex-will-attempt-1st-ever-double-starship-rocket-catch-on-next-test-launch-a-profound-technology-milestone-elon-musk-says)
-- [Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate](https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/)
+- [&quot;A great budget lens for astrophotography, the sharpness produced at f/1.8 and f/2.8 is exactly what you want.&quot; Viltrox AF 16mm f/1.8 FE lens review](https://www.space.com/stargazing/astrophotography/a-great-budget-lens-for-astrophotography-the-sharpness-produced-at-f-1-8-and-f-2-8-is-exactly-what-you-want-viltrox-af-16mm-f-1-8-fe-lens-review)
+- [Foursquare co-founder says equity holders saw no returns from the company’s acquisition](https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/)
+- [AI promises productivity, but for managers, it’s mostly a headache for now](https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/)
+- [Space botanist conducts plant experiments in orbit | Space photo of the day for Oct. 21, 2026](https://www.space.com/space-exploration/human-spaceflight/space-botanist-conducts-plant-experiments-in-orbit-space-photo-of-the-day-for-oct-21-2026)
+- [Heat pump tech is 170 years old. Pascal thinks it’s time for an update.](https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
