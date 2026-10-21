@@ -135,7 +135,7 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [Did Google just dethrone OpenAI and Anthropic?](https://www.youtube.com/watch?v=b2tjnxX8IHU)
-- [How Expert Hacker finds predators &lpar;Ryan Montgomery&rpar;](https://www.youtube.com/watch?v=5wZUwZWxMLQ)
+- [0day Hacks NetworkChuck &lpar;OSINT&rpar;](https://www.youtube.com/watch?v=5wZUwZWxMLQ)
 - [Session 4: Predator Prey with Carrying Capacity](https://www.youtube.com/watch?v=sfEhJRqrK7Q)
 - [Session 11: Student Projects &lpar;cont’d&rpar;](https://www.youtube.com/watch?v=cmKxqUwb8Sc)
 - [Session 7: Market Growth with Boom and Bust](https://www.youtube.com/watch?v=sESpvrtk7Ck)
