@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal](https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/)
-- [While Amazon blocks AI agents, Walmart rolls out the welcome mat](https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/)
-- [The internet is having a very bad cybersecurity day](https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/)
-- [Legal AI startup Legora raises $550M Series E at $8.8B valuation](https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/)
-- [GM is giving OnStar an AI makeover](https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/)
+- [Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown](https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/)
+- [Meta wants to pay for its broad AI buildout with a newly created class of stock](https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/)
+- [Airbnb limits chores for guests, sparking backlash from hosts](https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/)
+- [On this day in space! Oct. 21, 2008: India launches its 1st mission to the moon with Chandrayaan-1](https://www.space.com/space-exploration/on-this-day-in-space-october-21-2026)
+- [TechCrunch Founder Summit 2026: Everything you need to know](https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
