@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;A great budget lens for astrophotography, the sharpness produced at f/1.8 and f/2.8 is exactly what you want.&quot; Viltrox AF 16mm f/1.8 FE lens review](https://www.space.com/stargazing/astrophotography/a-great-budget-lens-for-astrophotography-the-sharpness-produced-at-f-1-8-and-f-2-8-is-exactly-what-you-want-viltrox-af-16mm-f-1-8-fe-lens-review)
-- [Foursquare co-founder says equity holders saw no returns from the company’s acquisition](https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/)
-- [AI promises productivity, but for managers, it’s mostly a headache for now](https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/)
-- [Space botanist conducts plant experiments in orbit | Space photo of the day for Oct. 21, 2026](https://www.space.com/space-exploration/human-spaceflight/space-botanist-conducts-plant-experiments-in-orbit-space-photo-of-the-day-for-oct-21-2026)
-- [Heat pump tech is 170 years old. Pascal thinks it’s time for an update.](https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/)
+- [Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal](https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/)
+- [While Amazon blocks AI agents, Walmart rolls out the welcome mat](https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/)
+- [The internet is having a very bad cybersecurity day](https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/)
+- [Legal AI startup Legora raises $550M Series E at $8.8B valuation](https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/)
+- [GM is giving OnStar an AI makeover](https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
