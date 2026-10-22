@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk made a $1 billion investment in Skydance, report says](https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/)
-- [Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise](https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/)
-- [&#39;Cabin leak suspected&#39;: Artemis II astronaut reveals how a warning nearly derailed NASA&#39;s epic moon mission](https://www.space.com/space-exploration/artemis/cabin-leak-suspected-artemis-ii-astronaut-reveals-how-a-warning-nearly-derailed-moon-mission)
-- [TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements](https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/)
-- [Uber puts all 30,000 employees on ChatGPT Work](https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/)
+- [After Starshield interruption, Ukraine wants to build its own satellite communication network with ICEYE and Nokia](https://www.space.com/space-exploration/satellites/after-starshield-interruption-ukraine-wants-to-build-its-own-satellite-communication-network-with-iceye-and-nokia)
+- [The 2027 total solar eclipse will plunge these 10 ancient Egyptian temples and monuments into darkness](https://www.space.com/stargazing/solar-eclipses/the-2027-total-solar-eclipse-will-plunge-these-10-ancient-egyptian-temples-and-monuments-into-darkness)
+- [Arc browser sunsets December 22 as The Browser Company doubles down on Dia](https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/)
+- [The secret to fast startup growth isn’t early sales, top names in tech say](https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/)
+- [1Password launches a way for AI agents to log in on your behalf without seeing your password](https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
