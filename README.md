@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla says it will start selling Cybercabs by end of year](https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/)
 - [Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown](https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/)
 - [Meta wants to pay for its broad AI buildout with a newly created class of stock](https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/)
 - [Airbnb limits chores for guests, sparking backlash from hosts](https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/)
 - [On this day in space! Oct. 21, 2008: India launches its 1st mission to the moon with Chandrayaan-1](https://www.space.com/space-exploration/on-this-day-in-space-october-21-2026)
-- [TechCrunch Founder Summit 2026: Everything you need to know](https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
