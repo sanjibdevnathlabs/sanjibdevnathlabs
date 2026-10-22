@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How Image Watermarking Works - Computerphile](https://www.youtube.com/watch?v=h6j_ixGnpiY)
 - [Did Google just dethrone OpenAI and Anthropic?](https://www.youtube.com/watch?v=b2tjnxX8IHU)
 - [0day Hacks NetworkChuck &lpar;OSINT&rpar;](https://www.youtube.com/watch?v=5wZUwZWxMLQ)
 - [Session 4: Predator Prey with Carrying Capacity](https://www.youtube.com/watch?v=sfEhJRqrK7Q)
 - [Session 11: Student Projects &lpar;cont’d&rpar;](https://www.youtube.com/watch?v=cmKxqUwb8Sc)
-- [Session 7: Market Growth with Boom and Bust](https://www.youtube.com/watch?v=sESpvrtk7Ck)
 <!-- YOUTUBE:END -->
 
 ---
