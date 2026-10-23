@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach](https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/)
+- [Private Griffin moon lander gets put to the test | Space photo of the day for Oct. 23, 2026](https://www.space.com/space-exploration/private-griffin-moon-lander-gets-put-to-the-test-space-photo-of-the-day-for-oct-23-2026)
+- [&#39;Stupendously large black holes&#39; aren&#39;t a major component of dark matter, study finds](https://www.space.com/astronomy/dark-universe/stupendously-large-black-holes-arent-a-major-component-of-dark-matter-study-finds)
+- [Rocket Lab launches 3 &#39;Hawk&#39; satellites to orbit to gather signals intelligence](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence)
 - [Space debris: Are we on track for true sustainability? &lpar;op-ed&rpar;](https://www.space.com/space-exploration/satellites/space-debris-are-we-on-track-for-true-sustainability-op-ed)
-- [Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback](https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/)
-- [Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia](https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/)
-- [Left alone with nothing to do, AI agents started playing](https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/)
-- [Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta](https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
