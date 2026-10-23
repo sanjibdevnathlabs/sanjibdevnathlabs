@@ -138,7 +138,7 @@ I'm a software developer passionate about designing and building applications wi
 - [How Image Watermarking Works - Computerphile](https://www.youtube.com/watch?v=h6j_ixGnpiY)
 - [Did Google just dethrone OpenAI and Anthropic?](https://www.youtube.com/watch?v=b2tjnxX8IHU)
 - [0day Hacks NetworkChuck &lpar;OSINT&rpar;](https://www.youtube.com/watch?v=5wZUwZWxMLQ)
-- [Session 4: Predator Prey with Carrying Capacity](https://www.youtube.com/watch?v=sfEhJRqrK7Q)
+- [10 Years in Telecom, Got a DevOps Role in 12 Months &lpar;Here&#39;s How&rpar;](https://www.youtube.com/watch?v=vnxkaP8clJE)
 <!-- YOUTUBE:END -->
 
 ---
