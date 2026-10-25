@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The #1 Danger Isn&#39;t Roblox](https://www.youtube.com/shorts/ijxeoYzLfRk)
-- [0day Hacks NetworkChuck &lpar;OSINT&rpar;](https://www.youtube.com/watch?v=5wZUwZWxMLQ)
-- [Flushing the toilet kills our network!](https://www.youtube.com/shorts/jdoaBSOTiK4)
-- [You can monitor EVERYTHING in your homelab with this](https://www.youtube.com/watch?v=Bjifz55TTPI)
-- [I turned my house into a VIDEO GAME!](https://www.youtube.com/shorts/CgG3dtH5IMM)
+- [The most vulnerable week in internet history...](https://www.youtube.com/watch?v=SMGg7iisHmc)
+- [The last real programmers are dying out...](https://www.youtube.com/watch?v=zv6B6PQOuHE)
+- [Did Google just dethrone OpenAI and Anthropic?](https://www.youtube.com/watch?v=b2tjnxX8IHU)
+- [The runtime wars are over... and Node won](https://www.youtube.com/watch?v=l3L_lETiSzc)
+- [OpenAI’s lead engineer was secretly a spy...](https://www.youtube.com/watch?v=QZVzuq28eFw)
 <!-- YOUTUBE:END -->
 
 ---
