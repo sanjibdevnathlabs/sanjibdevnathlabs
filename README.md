@@ -135,10 +135,10 @@ I'm a software developer passionate about designing and building applications wi
 
 <!-- YOUTUBE:START -->
 - [The most vulnerable week in internet history...](https://www.youtube.com/watch?v=SMGg7iisHmc)
+- [The #1 Danger Isn&#39;t Roblox](https://www.youtube.com/shorts/ijxeoYzLfRk)
 - [The last real programmers are dying out...](https://www.youtube.com/watch?v=zv6B6PQOuHE)
+- [How Image Watermarking Works - Computerphile](https://www.youtube.com/watch?v=h6j_ixGnpiY)
 - [Did Google just dethrone OpenAI and Anthropic?](https://www.youtube.com/watch?v=b2tjnxX8IHU)
-- [The runtime wars are over... and Node won](https://www.youtube.com/watch?v=l3L_lETiSzc)
-- [OpenAI’s lead engineer was secretly a spy...](https://www.youtube.com/watch?v=QZVzuq28eFw)
 <!-- YOUTUBE:END -->
 
 ---
