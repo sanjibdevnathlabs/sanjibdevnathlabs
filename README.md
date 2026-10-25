@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Grok releases the first seven minutes of its AI-generated ‘Odyssey’](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/)
+- [‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead](https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/)
 - [AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
 - [TechCrunch Mobility: Blue-green is the color of autonomy](https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/)
 - [The hottest AI wearables and gadgets you should know about](https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/)
-- [On this day in space! Oct. 25, 1671: Astronomer Giovanni Cassini discovers Iapetus, Saturn&#39;s &#39;yin-yang&#39; moon](https://www.space.com/space-exploration/on-this-day-in-space-oct-25-1671-astronomer-giovanni-cassini-discovers-iapetus-saturns-yin-yang-moon)
-- [October&#39;s &#39;Hunter&#39;s Moon&#39; stalks into the autumn sky tonight: Here&#39;s what you need to know](https://www.space.com/stargazing/octobers-hunters-moon-stalks-into-the-autumn-sky-tonight-heres-what-you-need-to-know)
 <!-- BLOG-POST-LIST:END -->
 
 ---
