@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic officially files for its public debut](https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/)
-- [Apple unveils new iPad mini with OLED display and faster A20 Pro chip](https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/)
-- [Matiks raises $10M to expand its math and puzzle gaming platform](https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/)
-- [Glowing &#39;cauldron&#39; of new stars | Space photo of the day for Oct. 26, 2026](https://www.space.com/astronomy/glowing-cauldron-of-new-stars-space-photo-of-the-day-for-oct-26-2026)
-- [Tesla turns to Turo to boost adoption of Full Self-Driving &lpar;Supervised&rpar;](https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/)
+- [On this day in space! Oct. 26, 2004: Cassini spacecraft takes 1st-ever closeup photos of Saturn moon Titan](https://www.space.com/space-exploration/on-this-day-in-space-october-26-2026)
+- [Uh oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it](https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/)
+- [Darth Vader wields the Infinity Gauntlet in the first-ever official &#39;Star Wars&#39; &amp; &#39;Marvel&#39; crossover](https://www.space.com/entertainment/space-books/darth-vader-wields-the-infinity-gauntlet-in-the-first-ever-official-star-wars-and-marvel-crossover)
+- [Fusion startups are giving the government shares in exchange for awards. Is it worth it?](https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/)
+- [NASA ends Swift space telescope mission after failed rescue attempt](https://www.space.com/space-exploration/missions/nasa-ends-swift-space-telescope-mission-after-failed-rescue-attempt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
