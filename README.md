@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The best apps for tracking your reading and discovering new books](https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/)
-- [Grok releases the first seven minutes of its AI-generated ‘Odyssey’](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/)
-- [‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead](https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/)
-- [AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
-- [TechCrunch Mobility: Blue-green is the color of autonomy](https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/)
+- [Anthropic officially files for its public debut](https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/)
+- [Apple unveils new iPad mini with OLED display and faster A20 Pro chip](https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/)
+- [Matiks raises $10M to expand its math and puzzle gaming platform](https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/)
+- [Glowing &#39;cauldron&#39; of new stars | Space photo of the day for Oct. 26, 2026](https://www.space.com/astronomy/glowing-cauldron-of-new-stars-space-photo-of-the-day-for-oct-26-2026)
+- [Tesla turns to Turo to boost adoption of Full Self-Driving &lpar;Supervised&rpar;](https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
