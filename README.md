@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why Self-Studying DevOps Fails After 1 Year &lpar;And What to Do Instead&rpar;](https://www.youtube.com/shorts/gU5lK9yeiog)
 - [The most vulnerable week in internet history...](https://www.youtube.com/watch?v=SMGg7iisHmc)
 - [The #1 Danger Isn&#39;t Roblox](https://www.youtube.com/shorts/ijxeoYzLfRk)
 - [The last real programmers are dying out...](https://www.youtube.com/watch?v=zv6B6PQOuHE)
 - [How Image Watermarking Works - Computerphile](https://www.youtube.com/watch?v=h6j_ixGnpiY)
-- [Did Google just dethrone OpenAI and Anthropic?](https://www.youtube.com/watch?v=b2tjnxX8IHU)
 <!-- YOUTUBE:END -->
 
 ---
