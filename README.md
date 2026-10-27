@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?](https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/)
-- [Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering](https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/)
-- [&#39;Dungeon Crawler Carl&#39; is getting a killer new comic book series](https://www.space.com/entertainment/space-books/dungeon-crawler-carl-is-getting-a-killer-new-comic-book-series)
-- [Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace](https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/)
-- [Ford Fathom will be the cheapest American EV capable of powering a house](https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/)
+- [Who’s really in charge at Anthropic after the IPO?](https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/)
+- [Discord is making its public communities more searchable, and people have concerns](https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/)
+- [How &#39;spacewalking&#39; underwater made me feel like I was really in space](https://www.space.com/space-exploration/human-spaceflight/how-spacewalking-underwater-made-me-feel-like-i-was-really-in-space)
+- [Re:Build, which spun out Slate Auto, raises $2.1B](https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/)
+- [Astronomers discover the secrets of &#39;string of pearls&#39; supernova relic and the zombie star at its heart](https://www.space.com/astronomy/stars/astronomers-discover-the-secrets-of-string-of-pearls-supernova-relic-and-the-zombie-star-at-its-heart)
 <!-- BLOG-POST-LIST:END -->
 
 ---
