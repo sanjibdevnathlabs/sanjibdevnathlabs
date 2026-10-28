@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jio shares surge 21% in market debut after blockbuster India IPO](https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/)
+- [VCs will make billions on Anthropic’s IPO, but Amazon is set to make much &lpar;much&rpar; more](https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/)
 - [Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication](https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/)
 - [The data center boom has an upside: innovation for the US grid](https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/)
 - [Guidewire buys Hyperexponential for $1.7B in cash](https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/)
-- [From 8VC to Benchmark, here’s what’s hiding in October SEC filings](https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/)
-- [GM is embracing hybrids now](https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
