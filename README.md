@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [?PHP Problem? - Computerphile](https://www.youtube.com/watch?v=cI8IquVEyVY)
+- [Did the AI bubble just pop?](https://www.youtube.com/watch?v=nEaJMdM1djM)
 - [why EVERYONE is copying this](https://www.youtube.com/watch?v=Ck7wB7pdebQ)
 - [China just dropped a new frontier model... and nobody can explain how](https://www.youtube.com/watch?v=G_em1hHPnXY)
 - [Why Self-Studying DevOps Fails After 1 Year &lpar;And What to Do Instead&rpar;](https://www.youtube.com/shorts/gU5lK9yeiog)
-- [The most vulnerable week in internet history...](https://www.youtube.com/watch?v=SMGg7iisHmc)
-- [The #1 Danger Isn&#39;t Roblox](https://www.youtube.com/shorts/ijxeoYzLfRk)
 <!-- YOUTUBE:END -->
 
 ---
