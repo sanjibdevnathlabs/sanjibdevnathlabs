@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Free Fire returns to India as Garena launches localized version four years after ban](https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/)
-- [Kodiak lands first commercial deal to supply driverless trucks for public highways](https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/)
-- [7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open](https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/)
-- [Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet](https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet)
-- [Virgin Galactic is finally revealing its new Delta-class spaceship this week](https://www.space.com/space-exploration/private-spaceflight/virgin-galactic-is-finally-revealing-its-new-delta-class-spaceship-this-week)
+- [Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’](https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/)
+- [Apple launches its new touchscreen MacBook Pro](https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/)
+- [Xreal Aura is a new wired headset powered by Android XR](https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/)
+- [As AI agents reshape the web, Google opens Gemini and Search to more apps](https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/)
+- [Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms](https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
