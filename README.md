@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’](https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/)
-- [Apple launches its new touchscreen MacBook Pro](https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/)
-- [Xreal Aura is a new wired headset powered by Android XR](https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/)
-- [As AI agents reshape the web, Google opens Gemini and Search to more apps](https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/)
-- [Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms](https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/)
+- [Upwind raises $400M after walking away from Datadog acquisition offer](https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/)
+- [On this day in space! Oct. 28, 1971: Britain launches its 1st satellite Prospero into space on a Black Arrow rocket](https://www.space.com/space-exploration/on-this-day-in-space-october-28-2026)
+- [Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme](https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/)
+- [Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion](https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/)
+- [Google expands AI Search ads globally as core ad growth slows](https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
