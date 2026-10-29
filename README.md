@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. investigated Chinese spy plot aimed at Nvidia CEO](https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/)
-- [Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction](https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/)
-- [SuperMe raises $20M for its network of AI expert profiles](https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/)
-- [Big cats, unexplained lights and a floodlit eclipse — 7 skywatching &#39;horror stories&#39; to keep you entertained this Halloween](https://www.space.com/stargazing/big-cats-unexplained-lights-and-a-floodlit-eclipse-7-skywatching-horror-stories-to-keep-you-entertained-this-halloween)
-- [Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy](https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/)
+- [Elon Musk is ‘truly a genius,’ says Vladimir Putin](https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/)
+- [On this day in space! Oct. 29, 1991: NASA&#39;s Galileo spacecraft flies by asteroid Gaspra and snaps amazing photos while flying at 18,000 mph](https://www.space.com/space-exploration/on-this-day-in-space-october-29-2026)
+- [Amazon reported booming cloud revenue but otherwise missed expectations](https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/)
+- [GM reaches $220M settlement over selling drivers’ private data](https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/)
+- [Artemis II commander Reid Wiseman named deputy director for NASA&#39;s Jet Propulsion Laboratory](https://www.space.com/space-exploration/artemis/artemis-ii-commander-reid-wiseman-named-deputy-director-for-nasas-jet-propulsion-laboratory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
