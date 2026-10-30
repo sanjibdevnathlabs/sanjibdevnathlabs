@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Give me 5 minutes and I&#39;ll show you what really happens when you type a URL and press Enter](https://www.youtube.com/watch?v=_x1GskHtJxo)
-- [?PHP Problem? - Computerphile](https://www.youtube.com/watch?v=cI8IquVEyVY)
-- [Did the AI bubble just pop?](https://www.youtube.com/watch?v=nEaJMdM1djM)
-- [why EVERYONE is copying this](https://www.youtube.com/watch?v=Ck7wB7pdebQ)
-- [China just dropped a new frontier model... and nobody can explain how](https://www.youtube.com/watch?v=G_em1hHPnXY)
+- [Formulating a Research Topic](https://www.youtube.com/watch?v=jEYVyaNAh_Y)
+- [Managing a Research Project](https://www.youtube.com/watch?v=AuPkYT8wv9w)
+- [How to Organize a Research Paper](https://www.youtube.com/watch?v=dch0fZnpjkE)
+- [Graduate School Applications](https://www.youtube.com/watch?v=dkZS834oBs4)
+- [PhD Thesis Proposals](https://www.youtube.com/watch?v=ih_4dRIJmPs)
 <!-- YOUTUBE:END -->
 
 ---
