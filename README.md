@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Waymo taps Toyota to supply robotaxis for Japan and the U.K.](https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/)
-- [You don’t need to believe in a god to get a religious exemption from using AI at work](https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/)
-- [Patrick Stewart, renowned actor and ‘Star Trek’s’ Captain Picard, dies at 86](https://www.space.com/entertainment/patrick-stewart-renowned-actor-and-star-treks-captain-picard-dies-at-86)
-- [Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’](https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/)
-- [AWS will be a $1T business, Jassy says — but first, it will spend big](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/)
+- [Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’](https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/)
+- [The Taurid meteor shower isn&#39;t much to look at. That&#39;s why I love it](https://www.space.com/stargazing/meteor-showers/the-taurid-meteor-shower-isnt-much-to-look-at-thats-why-i-love-it)
+- [&#39;Star Trek&#39;s&#39; William Shatner and George Takei honor the death of Walter Koenig](https://www.space.com/entertainment/star-treks-william-shatner-and-george-takei-honor-the-death-of-walter-koenig)
+- [On this day in space! Oct. 30, 1964: NASA&#39;s weird Lunar Landing Research Vehicle takes 1st test flight to help Apollo astronauts land on the moon](https://www.space.com/space-exploration/on-this-day-in-space-october-30-2026)
+- [North Korean hackers blamed for stealing record $6.3B in Binance breach](https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
