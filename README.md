@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/)
+- [From restaurant guides to payments, here’s how TikTok is building a super app](https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/)
+- [9 nightmarish sci-fi spaceships to crawl aboard for Halloween if you dare](https://www.space.com/entertainment/9-nightmarish-sci-fi-spaceships-to-crawl-aboard-for-halloween-if-you-dare)
 - [I took two iPhones on vacation. The Duo won me over.](https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/)
 - [This Week In Space podcast: Episode 234 — Living in Lunar Caves](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-234-living-in-lunar-caves)
-- [On this day in space! Oct. 31, 2015: Creepy skull-shaped Halloween asteroid flies by Earth, NASA names it the &#39;Great Pumpkin&#39;](https://www.space.com/space-exploration/on-this-day-in-space-october-31-2026)
-- [The moon, Mars, and Jupiter shine in the heart of the Lion overnight on Nov. 1-2](https://www.space.com/stargazing/the-moon-mars-and-jupiter-shine-in-the-heart-of-the-lion-overnight-on-nov-1-2)
-- [Betelgeuse is haunted by a cosmic poltergeist tormenting the doomed star&#39;s atmosphere](https://www.space.com/astronomy/stars/betelgeuse-is-haunted-by-a-cosmic-poltergeist-tormenting-the-doomed-stars-atmosphere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
