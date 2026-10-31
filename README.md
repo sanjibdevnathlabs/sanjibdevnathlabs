@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly)
-- [Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up](https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/)
-- [Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia](https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/)
-- [The world mourns the passing of &#39;Star Trek&#39;s&#39; Patrick Stewart with a galaxy of tearful tributes](https://www.space.com/entertainment/the-world-mourns-the-passing-of-star-treks-patrick-stewart-with-a-galaxy-of-tearful-tributes)
-- [Salesforce’s M&amp;A spree continues with a reported $375M deal for defense tech startup Rune](https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/)
+- [I took two iPhones on vacation. The Duo won me over.](https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/)
+- [This Week In Space podcast: Episode 234 — Living in Lunar Caves](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-234-living-in-lunar-caves)
+- [On this day in space! Oct. 31, 2015: Creepy skull-shaped Halloween asteroid flies by Earth, NASA names it the &#39;Great Pumpkin&#39;](https://www.space.com/space-exploration/on-this-day-in-space-october-31-2026)
+- [The moon, Mars, and Jupiter shine in the heart of the Lion overnight on Nov. 1-2](https://www.space.com/stargazing/the-moon-mars-and-jupiter-shine-in-the-heart-of-the-lion-overnight-on-nov-1-2)
+- [Betelgeuse is haunted by a cosmic poltergeist tormenting the doomed star&#39;s atmosphere](https://www.space.com/astronomy/stars/betelgeuse-is-haunted-by-a-cosmic-poltergeist-tormenting-the-doomed-stars-atmosphere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
