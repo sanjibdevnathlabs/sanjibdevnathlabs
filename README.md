@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [local AI&#39;s biggest problem... they solved it?](https://www.youtube.com/watch?v=cFdoXn6yvE4)
 - [The Private Key Mistake! &lpar;TLS Key set to &quot;4&quot;&rpar; - Computerphile](https://www.youtube.com/watch?v=NDgS__J1U-M)
-- [Formulating a Research Topic](https://www.youtube.com/watch?v=jEYVyaNAh_Y)
-- [Managing a Research Project](https://www.youtube.com/watch?v=AuPkYT8wv9w)
-- [How to Organize a Research Paper](https://www.youtube.com/watch?v=dch0fZnpjkE)
+- [?PHP Problem? - Computerphile](https://www.youtube.com/watch?v=cI8IquVEyVY)
+- [Did the AI bubble just pop?](https://www.youtube.com/watch?v=nEaJMdM1djM)
+- [China just dropped a new frontier model... and nobody can explain how](https://www.youtube.com/watch?v=G_em1hHPnXY)
+- [The most vulnerable week in internet history...](https://www.youtube.com/watch?v=SMGg7iisHmc)
 <!-- YOUTUBE:END -->
 
 ---
