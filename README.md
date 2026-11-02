@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Give me 5 minutes and I&#39;ll show you what really happens when you type a URL and press Enter](https://www.youtube.com/watch?v=_x1GskHtJxo)
-- [Did the AI bubble just pop?](https://www.youtube.com/watch?v=nEaJMdM1djM)
-- [China just dropped a new frontier model... and nobody can explain how](https://www.youtube.com/watch?v=G_em1hHPnXY)
-- [Why Self-Studying DevOps Fails After 1 Year &lpar;And What to Do Instead&rpar;](https://www.youtube.com/shorts/gU5lK9yeiog)
-- [The most vulnerable week in internet history...](https://www.youtube.com/watch?v=SMGg7iisHmc)
+- [The OCW Update - November 2026](https://www.youtube.com/watch?v=HzPj_T6lyhg)
+- [this WiFi GPU is wild.....](https://www.youtube.com/shorts/F92TIKWBGyg)
+- [local AI&#39;s biggest problem... they solved it?](https://www.youtube.com/watch?v=cFdoXn6yvE4)
+- [The Private Key Mistake! &lpar;TLS Key set to &quot;4&quot;&rpar; - Computerphile](https://www.youtube.com/watch?v=NDgS__J1U-M)
+- [Formulating a Research Topic](https://www.youtube.com/watch?v=jEYVyaNAh_Y)
 <!-- YOUTUBE:END -->
 
 ---
