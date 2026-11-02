@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;The Sea God Surveys&#39;: Watch Rocket Lab launch Japanese Earth-observing satellite today](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite)
+- [Borrowed reading: stories from our extended colleagues](https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/)
 - [OpenAI might rebrand its data centers as ‘AI compute campuses’](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/)
 - [AI can make tech CEOs’ lives easier. What about everyone else?](https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/)
 - [TechCrunch Mobility: A new, bigger AV boom is here](https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/)
-- [&#39;Metroid Prime&#39; needs some &#39;Resident Evil&#39;-style remakes to rediscover its sci-fi shooter mojo](https://www.space.com/entertainment/space-games/metroid-prime-needs-some-resident-evil-style-remakes-to-rediscover-its-sci-fi-shooter-mojo)
-- [Binance resumes withdrawals following $6.3 billion breach](https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
