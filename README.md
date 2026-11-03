@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple restricts dating apps and AI companions to users 18 and up](https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/)
-- [On this day in space! Nov. 3, 1957: Laika the dog launches with Sputnik 2](https://www.space.com/space-exploration/on-this-day-in-space-november-3-2026)
-- [Robot cube explores the International Space Station | Space photo of the day for Nov. 3, 2026](https://www.space.com/space-exploration/international-space-station/robot-cube-explores-the-international-space-station-space-photo-of-the-day-for-nov-3-2026)
-- [The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4](https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/)
-- [Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase](https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/)
+- [Hiding inside Palantir’s skyrocketing quarter is a foreboding signal](https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/)
+- [Ancient star collisions could explain mysterious Little Red Dots and &#39;impossible&#39; black holes](https://www.space.com/astronomy/stars/ancient-star-collisions-could-explain-mysterious-little-red-dots-and-impossible-black-holes)
+- [Orbital Matter 3D printed the first rigid beam in the vacuum of space](https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/)
+- [Voting in space: NASA astronauts cast ballots from International Space Station](https://www.space.com/space-exploration/international-space-station/voting-in-space-nasa-astronauts-cast-ballots-from-international-space-station)
+- [&#39;OGame&#39; developers explain how the browser-based sci-fi game has lasted 24 years ahead of the huge Orion update](https://www.space.com/entertainment/space-games/ogame-developers-explain-how-the-browser-based-sci-fi-game-has-lasted-24-years-ahead-of-the-huge-orion-update)
 <!-- BLOG-POST-LIST:END -->
 
 ---
