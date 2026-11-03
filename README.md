@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope uncovers new clues about the origins of &#39;interstellar invader&#39; comet 3I/ATLAS](https://www.space.com/astronomy/asteroids/james-webb-space-telescope-uncovers-new-clues-about-the-origins-of-interstellar-invader-comet-3i-atlas)
-- [SpaceX reportedly wants to buy Boost Mobile to compete with AT&amp;T, T-Mobile, and Verizon](https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/)
-- [42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’](https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/)
-- [Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs](https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/)
-- [Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition](https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/)
+- [Hinge tests a cheaper plan as users become more fed up paying for dating apps](https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/)
+- [Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve](https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/)
+- [Trajectory raises $45M to make AI model training accessible to nontechnical experts](https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/)
+- [Apple’s inventory surges 154% as memory chip costs climb](https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/)
+- [Anthropic warns that it’s very close to RSI capability, aka self-building AI](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
