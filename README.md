@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The OCW Update - November 2026](https://www.youtube.com/watch?v=HzPj_T6lyhg)
 - [this WiFi GPU is wild.....](https://www.youtube.com/shorts/F92TIKWBGyg)
 - [local AI&#39;s biggest problem... they solved it?](https://www.youtube.com/watch?v=cFdoXn6yvE4)
 - [The Private Key Mistake! &lpar;TLS Key set to &quot;4&quot;&rpar; - Computerphile](https://www.youtube.com/watch?v=NDgS__J1U-M)
-- [Formulating a Research Topic](https://www.youtube.com/watch?v=jEYVyaNAh_Y)
+- [?PHP Problem? - Computerphile](https://www.youtube.com/watch?v=cI8IquVEyVY)
+- [why EVERYONE is copying this](https://www.youtube.com/watch?v=Ck7wB7pdebQ)
 <!-- YOUTUBE:END -->
 
 ---
