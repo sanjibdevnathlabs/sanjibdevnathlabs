@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What Starting Your First DevOps Job Actually Feels Like 😅](https://www.youtube.com/shorts/cOwmBEaGP1Y)
 - [The worst week in cybersecurity history... so far](https://www.youtube.com/watch?v=k2ruCf_z75I)
 - [The OCW Update - November 2026](https://www.youtube.com/watch?v=HzPj_T6lyhg)
 - [this WiFi GPU is wild.....](https://www.youtube.com/shorts/F92TIKWBGyg)
 - [local AI&#39;s biggest problem... they solved it?](https://www.youtube.com/watch?v=cFdoXn6yvE4)
-- [The Private Key Mistake! &lpar;TLS Key set to &quot;4&quot;&rpar; - Computerphile](https://www.youtube.com/watch?v=NDgS__J1U-M)
 <!-- YOUTUBE:END -->
 
 ---
