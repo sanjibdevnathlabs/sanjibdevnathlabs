@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market](https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/)
-- [Anthropic is working on a system to prove AI models’ identity](https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/)
-- [Data centers are turning to old jet engines as the wait for power grows](https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/)
-- [NASA asks industry for ideas about saving Hubble Space Telescope](https://www.space.com/astronomy/hubble-space-telescope/nasa-asks-industry-for-ideas-about-saving-hubble-space-telescope)
-- [Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom](https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/)
+- [Google faces backlash for plan that would turn off Search for schools that restrict AI](https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/)
+- [Titan OS raises $46 million to expand its smart TV OS internationally](https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/)
+- [Students gather to explore Hawaii&#39;s glorious night sky | Space photo of the day for Nov. 4, 2026](https://www.space.com/stargazing/students-gather-to-explore-hawaiis-glorious-night-sky-space-photo-of-the-day-for-nov-4-2026)
+- [Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank](https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/)
+- [TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston](https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
