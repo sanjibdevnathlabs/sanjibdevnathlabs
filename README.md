@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google faces backlash for plan that would turn off Search for schools that restrict AI](https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/)
-- [Titan OS raises $46 million to expand its smart TV OS internationally](https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/)
-- [Students gather to explore Hawaii&#39;s glorious night sky | Space photo of the day for Nov. 4, 2026](https://www.space.com/stargazing/students-gather-to-explore-hawaiis-glorious-night-sky-space-photo-of-the-day-for-nov-4-2026)
-- [Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank](https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/)
-- [TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston](https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/)
+- [Nothing CEO says company’s mysterious AI-first device is dropping next month](https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/)
+- [Trump declares &#39;American space superiority for all eternity&#39; in election night proclamation](https://www.space.com/space-exploration/trump-declares-american-space-superiority-for-all-eternity-in-new-white-house-proclamation)
+- [Almost no one uses AI agents to book their Uber, company says](https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/)
+- [Snapchat surpasses 30M paid subscribers](https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/)
+- [OpenAI is already trying to shape the 2028 election](https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
