@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The New York Times reportedly in talks to buy Letterboxd for $330 million](https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/)
-- [Meta, Google, and TikTok sue California AG over teen social media law](https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/)
-- [Airbnb says it’s launching an AI travel agent in the first half of 2027](https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/)
-- [&#39;We got it done!&#39; Spacewalking astronauts finish installing next-gen ISS solar arrays](https://www.space.com/space-exploration/international-space-station/we-got-it-done-spacewalking-astronauts-finish-installing-next-gen-iss-solar-arrays)
-- [Andy Weir says his new sci-fi audio drama &#39;Exoplanet&#39; is a way to &#39;revive the old art of radio plays&#39; &lpar;interview&rpar;](https://www.space.com/entertainment/andy-weir-says-his-sci-fi-audio-drama-exoplanet-is-a-way-to-revive-the-old-art-of-radio-plays-interview)
+- [Realistic star projections at home — this early Black Friday deal takes our favorite star projector to one of its cheapest-ever prices](https://www.space.com/stargazing/skywatching-kit/realistic-star-projections-at-home-this-early-black-friday-deal-takes-our-favorite-star-projector-to-one-of-its-cheapest-ever-prices)
+- [Tesla will stop making the Cybertruck in 2027](https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/)
+- [4-billion-year-old &#39;Rosetta Stone&#39; found in Sahara Desert could unlock the secret history of water on Mars](https://www.space.com/astronomy/mars/4-billion-year-old-rosetta-stone-found-in-sahara-desert-could-unlock-the-secret-history-of-water-on-mars)
+- [At least 10 local governments have moved to drop Flock’s surveillance cameras since summer](https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/)
+- [Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M](https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
