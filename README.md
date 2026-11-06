@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Realistic star projections at home — this early Black Friday deal takes our favorite star projector to one of its cheapest-ever prices](https://www.space.com/stargazing/skywatching-kit/realistic-star-projections-at-home-this-early-black-friday-deal-takes-our-favorite-star-projector-to-one-of-its-cheapest-ever-prices)
-- [Tesla will stop making the Cybertruck in 2027](https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/)
-- [4-billion-year-old &#39;Rosetta Stone&#39; found in Sahara Desert could unlock the secret history of water on Mars](https://www.space.com/astronomy/mars/4-billion-year-old-rosetta-stone-found-in-sahara-desert-could-unlock-the-secret-history-of-water-on-mars)
-- [At least 10 local governments have moved to drop Flock’s surveillance cameras since summer](https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/)
-- [Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M](https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/)
+- [See the space race like you’ve never seen it before in PBS’s new living documentary, ‘We Chose to Go to the Moon’](https://www.space.com/entertainment/space-movies-shows/see-the-space-race-like-youve-never-seen-it-before-in-pbss-new-living-documentary-we-chose-to-go-to-the-moon)
+- [Hundreds of Artex AI hacking tools found publicly exposed to the web](https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/)
+- [Meta introduces Spaces, a new way to collaborate with your Muse agent](https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/)
+- [You can see another galaxy with the naked eye — here&#39;s how to find it](https://www.space.com/stargazing/you-can-see-another-galaxy-with-the-naked-eye-heres-how-to-find-it)
+- [After the midterms, is the AI industry in for a rough two years?](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
