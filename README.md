@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI president Greg Brockman says company could be IPO ready in 2027](https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/)
-- [The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund](https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/)
-- [Claude can now analyze your spending with its new Personal Finance tool](https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/)
-- [Harbinger raises $240M after expanding into defense](https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/)
-- [Food delivery startup Wonder files for IPO as it explores its next big bite](https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/)
+- [The New York Times reportedly in talks to buy Letterboxd for $330 million](https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/)
+- [Meta, Google, and TikTok sue California AG over teen social media law](https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/)
+- [Airbnb says it’s launching an AI travel agent in the first half of 2027](https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/)
+- [&#39;We got it done!&#39; Spacewalking astronauts finish installing next-gen ISS solar arrays](https://www.space.com/space-exploration/international-space-station/we-got-it-done-spacewalking-astronauts-finish-installing-next-gen-iss-solar-arrays)
+- [Andy Weir says his new sci-fi audio drama &#39;Exoplanet&#39; is a way to &#39;revive the old art of radio plays&#39; &lpar;interview&rpar;](https://www.space.com/entertainment/andy-weir-says-his-sci-fi-audio-drama-exoplanet-is-a-way-to-revive-the-old-art-of-radio-plays-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
