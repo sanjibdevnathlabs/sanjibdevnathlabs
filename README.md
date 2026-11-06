@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See the space race like you’ve never seen it before in PBS’s new living documentary, ‘We Chose to Go to the Moon’](https://www.space.com/entertainment/space-movies-shows/see-the-space-race-like-youve-never-seen-it-before-in-pbss-new-living-documentary-we-chose-to-go-to-the-moon)
-- [Hundreds of Artex AI hacking tools found publicly exposed to the web](https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/)
-- [Meta introduces Spaces, a new way to collaborate with your Muse agent](https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/)
-- [You can see another galaxy with the naked eye — here&#39;s how to find it](https://www.space.com/stargazing/you-can-see-another-galaxy-with-the-naked-eye-heres-how-to-find-it)
-- [After the midterms, is the AI industry in for a rough two years?](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/)
+- [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)
+- [On this day in space! Nov. 6, 1572: A German astronomer discovers the Tycho supernova with the naked eye, but everyone thought the cosmic explosion was a &#39;new star&#39;](https://www.space.com/space-exploration/on-this-day-in-space-november-6-2026)
+- [AST SpaceMobile announces new &#39;Blacklift&#39; rocket, targets 2028 launch debut](https://www.space.com/space-exploration/launches-spacecraft/ast-spacemobile-announces-new-blacklift-rocket-targets-2028-launch-debut)
+- [The Duo apps are coming, says Apple](https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/)
+- [What&#39;s that bright &#39;star&#39; in the early morning sky? It&#39;s not a star at all!](https://www.space.com/stargazing/whats-that-bright-star-in-the-early-morning-sky-its-not-a-star-at-all)
 <!-- BLOG-POST-LIST:END -->
 
 ---
