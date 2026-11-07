@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On this day in space! Nov. 7, 1992: NASA launches Mars Global Surveyor, its 1st Mars mission in 20 years at the time, to map the Red Planet like never before](https://www.space.com/space-exploration/on-this-day-in-space-november-7-2026)
+- [Send your name to Saturn&#39;s moon Titan with NASA&#39;s upcoming Dragonfly mission](https://www.space.com/space-exploration/launches-spacecraft/send-your-name-to-saturns-moon-titan-with-nasas-upcoming-dragonfly-mission)
+- [Star Wars is experiencing a golden age of video games](https://www.space.com/entertainment/space-games/star-wars-is-experiencing-a-golden-age-of-video-games)
 - [&#39;I think we will prevail&#39;: NASA chief Jared Isaacman on Artemis, China and the new moon race &lpar;exclusive&rpar;](https://www.space.com/space-exploration/i-think-we-will-prevail-nasa-chief-jared-isaacman-on-artemis-china-and-the-new-moon-race-exclusive)
 - [Sequoia shutting down its Scouts program marks the end of an era](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/)
-- [From the front row to the hot seat — what the midterms mean for Big Tech](https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/)
-- [SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432)
-- [Crusoe sells troubled Wyoming data center project to Google](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
