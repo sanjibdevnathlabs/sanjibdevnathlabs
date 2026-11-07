@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;I think we will prevail&#39;: NASA chief Jared Isaacman on Artemis, China and the new moon race &lpar;exclusive&rpar;](https://www.space.com/space-exploration/i-think-we-will-prevail-nasa-chief-jared-isaacman-on-artemis-china-and-the-new-moon-race-exclusive)
+- [Sequoia shutting down its Scouts program marks the end of an era](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/)
+- [From the front row to the hot seat — what the midterms mean for Big Tech](https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/)
 - [SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432)
 - [Crusoe sells troubled Wyoming data center project to Google](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)
-- [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)
-- [On this day in space! Nov. 6, 1572: A German astronomer discovers the Tycho supernova with the naked eye, but everyone thought the cosmic explosion was a &#39;new star&#39;](https://www.space.com/space-exploration/on-this-day-in-space-november-6-2026)
-- [AST SpaceMobile announces new &#39;Blacklift&#39; rocket, targets 2028 launch debut](https://www.space.com/space-exploration/launches-spacecraft/ast-spacemobile-announces-new-blacklift-rocket-targets-2028-launch-debut)
 <!-- BLOG-POST-LIST:END -->
 
 ---
