@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Who is King Ghidorah? The cosmic connections of Godzilla Minus Zero&#39;s foe](https://www.space.com/entertainment/space-movies-shows/who-is-king-ghidorah-the-cosmic-connections-of-godzilla-minus-zeros-foe)
-- [Scientists simulate an Earth without life to help hunt for aliens and inhabited worlds](https://www.space.com/space-exploration/search-for-life/scientists-simulate-an-earth-without-life-to-help-hunt-for-aliens-and-inhabited-worlds)
-- [After the midterms, things are looking rocky for Elon Musk and data centers](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/)
-- [Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/)
-- [Parents want safer phones for kids. These companies are answering the call.](https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/)
+- [SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’](https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/)
+- [He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.](https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/)
+- [TechCrunch Mobility: The Cybertruck experiment is over](https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/)
+- [Legendary sci-fi magazine &#39;Starlog&#39; returns as a yearly release, just in time for its 50th anniversary](https://www.space.com/entertainment/legendary-sci-fi-magazine-starlog-returns-as-a-yearly-release-just-in-time-for-its-50th-anniversary)
+- [On this day in space! Nov. 8, 2005: Europe launches Venus Express, its first mission to Venus](https://www.space.com/space-exploration/on-this-day-in-space-november-8-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
