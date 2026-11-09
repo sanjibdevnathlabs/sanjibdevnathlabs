@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA chief Jared Isaacman skydives into space agency&#39;s MAX POWER air show — &#39;Going into this job, I I knew we had to do something like this.&#39;](https://www.space.com/space-exploration/nasa-chief-jared-isaacman-skydives-into-space-agencys-max-power-air-show-going-into-this-job-i-i-knew-we-had-to-do-something-like-this)
-- [NASA unveils $10 billion in moon base contracts, new lunar missions and the &#39;PROMISE&#39; of a nuclear-powered rover](https://www.space.com/space-exploration/artemis/nasa-unveils-usd10-billion-in-moon-base-contracts-new-lunar-missions-and-the-promise-of-a-nuclear-powered-rover)
-- [Tesla expands robotaxi service to San Antonio](https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/)
-- [Yes, it runs &#39;Doom&#39;: Satellite plays iconic game in world&#39;s 1st demonstration of orbital voice control](https://www.space.com/space-exploration/satellites/yes-it-runs-doom-satellite-plays-iconic-game-in-worlds-1st-demonstration-of-orbital-voice-control)
-- [Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”](https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/)
+- [Hotel giant Wyndham exposed customer data after app security lapse](https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/)
+- [A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal](https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/)
+- [The race is on to sue Nvidia](https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/)
+- [On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard](https://www.space.com/space-exploration/on-this-day-in-space-november-9-2026)
+- [Jupiter and Mars are set for a breathtaking close approach later this week: Here&#39;s how to see it](https://www.space.com/stargazing/jupiter-and-mars-are-set-for-a-breathtaking-close-approach-later-this-week-heres-how-to-see-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
