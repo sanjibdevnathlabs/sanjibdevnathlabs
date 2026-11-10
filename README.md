@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [OpenAI spent $1.2 million hacking Linux... and it was a bargain](https://www.youtube.com/watch?v=pf5tXJZM1Rw)
 - [Git Tutorial for Beginners: Learn Git in 25 Minutes](https://www.youtube.com/watch?v=8944biinHgE)
 - [you need to use Herdr RIGHT NOW!!](https://www.youtube.com/watch?v=9_FzA-J9S2E)
 - [The one thing holding theoretical CS together just broke... kinda](https://www.youtube.com/watch?v=iw9SZgyahqg)
 - [Mutex Explained - Computerphile](https://www.youtube.com/watch?v=BmBw827GgFA)
-- [What Starting Your First DevOps Job Actually Feels Like 😅](https://www.youtube.com/shorts/cOwmBEaGP1Y)
 <!-- YOUTUBE:END -->
 
 ---
