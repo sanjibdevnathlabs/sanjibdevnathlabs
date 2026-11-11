@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A distant exoplanet mysteriously vanished from sight. Astronomers just discovered why](https://www.space.com/astronomy/exoplanets/a-distant-exoplanet-mysteriously-vanished-from-sight-astronomers-just-discovered-why)
-- [OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/)
-- [Proximal Ventures raises debut fund to back startups bringing AI to drug development](https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/)
-- [X-energy gets green light to build its first small modular nuclear reactors](https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/)
-- [How to watch &#39;We Chose to Go to the Moon&#39; online — stream space race stage show from anywhere](https://www.space.com/entertainment/space-movies-shows/how-to-watch-we-chose-to-go-to-the-moon-online-stream-space-race-stage-show-from-anywhere)
+- [X launches its own clipping feature to spur influencer engagement](https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/)
+- [SpaceX moves Starship Flight 15 booster to launch pad for &#39;squeeze test&#39; ahead of epic double-catch attempt &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos)
+- [Anthony Mackie, Ariana DeBose, and John Leguizamo reveal why they joined Andy Weir&#39;s sci-fi audio drama &#39;Exoplanet&#39; &lpar;interview&rpar;](https://www.space.com/entertainment/anthony-mackie-ariana-debose-and-john-leguizamo-reveal-why-they-joined-andy-weirs-sci-fi-audio-drama-exoplanet-interview)
+- [On this day in space! Nov. 10, 2013: Europe&#39;s GOCE satellite, the &#39;Ferrari of space,&#39; fell out of orbit after mapping Earth&#39;s gravity field](https://www.space.com/space-exploration/on-this-day-in-space-november-10-2026)
+- [OpenAI acquires Odessia, travel startup created by Sonder founder](https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
