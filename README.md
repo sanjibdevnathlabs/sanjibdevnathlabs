@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia’s crisis has corporate governance experts reaching for the popcorn](https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/)
-- [X launches its own clipping feature to spur influencer engagement](https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/)
-- [SpaceX moves Starship Flight 15 booster to launch pad for &#39;squeeze test&#39; ahead of epic double-catch attempt &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos)
-- [Anthony Mackie, Ariana DeBose, and John Leguizamo reveal why they joined Andy Weir&#39;s sci-fi audio drama &#39;Exoplanet&#39; &lpar;interview&rpar;](https://www.space.com/entertainment/anthony-mackie-ariana-debose-and-john-leguizamo-reveal-why-they-joined-andy-weirs-sci-fi-audio-drama-exoplanet-interview)
-- [On this day in space! Nov. 10, 2013: Europe&#39;s GOCE satellite, the &#39;Ferrari of space,&#39; fell out of orbit after mapping Earth&#39;s gravity field](https://www.space.com/space-exploration/on-this-day-in-space-november-10-2026)
+- [Is Jensen Huang’s bad behavior more commonplace than it seems?](https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/)
+- [OpenAI’s quarterly revenue reportedly crosses $10B for the first time](https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/)
+- [&#39;There&#39;s tremendous demand&#39;: Rocket Lab raises price of Neutron launch from $55 million to $70 million](https://www.space.com/space-exploration/launches-spacecraft/theres-tremendous-demand-rocket-lab-raises-price-of-neutron-launch-from-usd55-million-to-usd70-million)
+- [Siri co-founder backs Helix for its voice ID tech](https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/)
+- [Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth](https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
