@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Jensen Huang’s bad behavior more commonplace than it seems?](https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/)
-- [OpenAI’s quarterly revenue reportedly crosses $10B for the first time](https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/)
-- [&#39;There&#39;s tremendous demand&#39;: Rocket Lab raises price of Neutron launch from $55 million to $70 million](https://www.space.com/space-exploration/launches-spacecraft/theres-tremendous-demand-rocket-lab-raises-price-of-neutron-launch-from-usd55-million-to-usd70-million)
-- [Siri co-founder backs Helix for its voice ID tech](https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/)
-- [Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth](https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/)
+- [NASA kick-starts a fresh push to bring Mars samples home](https://www.space.com/astronomy/mars/nasa-kick-starts-a-fresh-push-to-bring-mars-samples-home)
+- [We can&#39;t see Fast Radio Bursts but we can now hear them thanks to a Finnish Cathedral](https://www.space.com/astronomy/we-cant-see-fast-radio-bursts-but-we-can-now-hear-them-thanks-to-a-finnish-cathedral)
+- [On this day in space! Nov. 11, 1966: NASA launches Gemini 12 mission with astronaut icons Buzz Aldrin and Jim Lovell aboard](https://www.space.com/space-exploration/on-this-day-in-space-november-11-2026)
+- [Why the data center you dread might never even be built](https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/)
+- [Meta is losing its longtime head of  infrastructure](https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
