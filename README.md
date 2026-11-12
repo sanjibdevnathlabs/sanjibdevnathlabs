@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Atomic Operations - Computerphile](https://www.youtube.com/watch?v=BHOw09O3ZsI)
 - [i wired my toilet to a Raspberry Pi](https://www.youtube.com/watch?v=m1NtVno-y7Q)
 - [Did Anthropic just save its $1 trillion IPO?](https://www.youtube.com/watch?v=1FurWDiK9A4)
 - [Optical Illusions!](https://www.youtube.com/watch?v=QgF3Ejhfh_k)
 - [OpenAI spent $1.2 million hacking Linux... and it was a bargain](https://www.youtube.com/watch?v=pf5tXJZM1Rw)
-- [Git Explained in 25 Mins | Git and GitHub Tutorial](https://www.youtube.com/watch?v=8944biinHgE)
 <!-- YOUTUBE:END -->
 
 ---
