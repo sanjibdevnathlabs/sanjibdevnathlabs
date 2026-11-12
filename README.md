@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [i wired my toilet to a Raspberry Pi](https://www.youtube.com/watch?v=m1NtVno-y7Q)
-- [Did Anthropic just save its $1 trillion IPO?](https://www.youtube.com/watch?v=1FurWDiK9A4)
-- [Optical Illusions!](https://www.youtube.com/watch?v=QgF3Ejhfh_k)
-- [OpenAI spent $1.2 million hacking Linux... and it was a bargain](https://www.youtube.com/watch?v=pf5tXJZM1Rw)
-- [Git Explained in 25 Mins | Git and GitHub Tutorial](https://www.youtube.com/watch?v=8944biinHgE)
+- [Mutex Explained - Computerphile](https://www.youtube.com/watch?v=BmBw827GgFA)
+- [The Private Key Mistake! &lpar;TLS Key set to &quot;4&quot;&rpar; - Computerphile](https://www.youtube.com/watch?v=NDgS__J1U-M)
+- [?PHP Problem? - Computerphile](https://www.youtube.com/watch?v=cI8IquVEyVY)
+- [How Image Watermarking Works - Computerphile](https://www.youtube.com/watch?v=h6j_ixGnpiY)
+- [Multiplayer Gaming &amp; Flight Simulation - Computerphile](https://www.youtube.com/watch?v=WqrwAFs-fq0)
 <!-- YOUTUBE:END -->
 
 ---
