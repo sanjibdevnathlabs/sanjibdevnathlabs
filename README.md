@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Jensen Huang just pulled out of Nvidia...](https://www.youtube.com/watch?v=SOwUWPtXQ9I)
-- [Atomic Operations - Computerphile](https://www.youtube.com/watch?v=BHOw09O3ZsI)
-- [i wired my toilet to a Raspberry Pi](https://www.youtube.com/watch?v=m1NtVno-y7Q)
-- [Did Anthropic just save its $1 trillion IPO?](https://www.youtube.com/watch?v=1FurWDiK9A4)
-- [Optical Illusions!](https://www.youtube.com/watch?v=QgF3Ejhfh_k)
+- [Lecture 5 on Topic 5: Viscosity of Glass](https://www.youtube.com/watch?v=8hiGWBQ94WU)
+- [Lecture 6 on Topic 6: Glass Shaping](https://www.youtube.com/watch?v=MUn9aT8lOXA)
+- [Lecture 10 on Topic 8: Mechanical Properties](https://www.youtube.com/watch?v=08v3PPgmL0E)
+- [Lecture 2 on Topic 2: Classes of Amorphous Materials](https://www.youtube.com/watch?v=FnNwGxlrt3U)
+- [Lecture 23 on Topic 15: Characterizing the Amorphous State](https://www.youtube.com/watch?v=6q0qeDNrz6g)
 <!-- YOUTUBE:END -->
 
 ---
