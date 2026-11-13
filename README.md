@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Don&#39;t panic&#39;: SpaceX pens familiar message on Starship ahead of historic double-catch test flight](https://www.space.com/space-exploration/launches-spacecraft/dont-panic-spacex-pens-familiar-message-on-starship-ahead-of-historic-double-catch-test-flight)
-- [Watch SpaceX attempt a historic Starship launch and double-catch landing today &lpar;Nov. 13&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live)
-- [Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump](https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/)
-- [Muse can now place calls to US businesses — if you pay](https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/)
-- [&#39;Man of Tomorrow&#39;: Release date, plot, cast &amp; everything we know about the &#39;Superman&#39; sequel](https://www.space.com/entertainment/space-movies-shows/man-of-tomorrow-release-date-plot-cast-and-everything-we-know-about-the-superman-sequel)
+- [&#39;Martian Isolation&#39; is an upcoming sci-fi survival horror game that looks like &#39;The Martian&#39; and &#39;Event Horizon&#39; had a horrific child](https://www.space.com/entertainment/space-games/martian-isolation-is-an-upcoming-sci-fi-survival-horror-game-that-looks-like-the-martian-and-event-horizon-had-a-horrific-child)
+- [Astronomers trace mystery radio signals back to cosmic odd couple of white dwarf and sun-like star](https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star)
+- [ChatGPT’s new Wallet lets AI agents shop and check out for you](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/)
+- [Netflix’s ‘Ray Gunn’ gets 2nd trailer, and we&#39;re hyped for this animated sci-fi noir from ‘Incredibles’ director Brad Bird](https://www.space.com/entertainment/space-movies-shows/netflixs-ray-gunn-gets-2nd-trailer-and-were-hyped-for-this-animated-sci-fi-noir-from-incredibles-director-brad-bird)
+- [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
