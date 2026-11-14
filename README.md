@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/)
+- [Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee](https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/)
 - [Got an iPhone Duo? These 9 settings make it easier to use](https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/)
 - [Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide](https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/)
 - [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
-- [Asian governments react to Nvidia CEO Jensen Huang’s exit](https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/)
-- [This Week In Space podcast: Episode 236 — Alienspotting](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-236-alienspotting)
 <!-- BLOG-POST-LIST:END -->
 
 ---
