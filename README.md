@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX will attempt its 1st-ever &#39;chopsticks&#39; Starship landing catch of a rocket from orbit today &lpar;livestream&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14)
+- [See Jupiter and Mars make a spectacular close approach overnight Nov. 15-16](https://www.space.com/stargazing/see-jupiter-and-mars-make-a-spectacular-close-approach-overnight-nov-15-16)
 - [SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster &#39;chopsticks&#39; catch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship)
 - [Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price](https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/)
 - [Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/)
-- [US government grounds all flights across the United States ‘due to extraordinary circumstances’](https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/)
-- [On this day in space! Nov. 13, 1971: NASA&#39;s Mariner 9 becomes 1st spacecraft to orbit Mars, revealing close looks at the Martian surface](https://www.space.com/space-exploration/on-this-day-in-space-november-13-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
