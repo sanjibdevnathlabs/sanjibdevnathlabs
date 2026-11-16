@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The $7 billion bug hiding inside Microsoft’s network...](https://www.youtube.com/watch?v=ytmawkPTP24)
+- [Optical Illusions!](https://www.youtube.com/shorts/QMt6FEuXz0s)
 - [Lecture 5 on Topic 5: Viscosity of Glass](https://www.youtube.com/watch?v=8hiGWBQ94WU)
 - [Lecture 6 on Topic 6: Glass Shaping](https://www.youtube.com/watch?v=MUn9aT8lOXA)
 - [Lecture 10 on Topic 8: Mechanical Properties](https://www.youtube.com/watch?v=08v3PPgmL0E)
-- [Lecture 2 on Topic 2: Classes of Amorphous Materials](https://www.youtube.com/watch?v=FnNwGxlrt3U)
-- [Lecture 23 on Topic 15: Characterizing the Amorphous State](https://www.youtube.com/watch?v=6q0qeDNrz6g)
 <!-- YOUTUBE:END -->
 
 ---
