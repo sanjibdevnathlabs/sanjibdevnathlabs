@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cybersecurity AI startup Corma reaches $1B valuation in about 3 months](https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/)
-- [Cyber giant Infoblox confirms security incident after hackers access ‘company information’](https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/)
-- [All the questions Nvidia should answer on Tuesday — but probably won’t](https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/)
-- [On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity&#39;s 1st interstellar message](https://www.space.com/space-exploration/on-this-day-in-space-november-16-2026)
-- [Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch](https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch)
+- [Daydream’s new AI agent acts as your personal stylist — and can shop for you, too](https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/)
+- [Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow](https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/)
+- [Meta launches Direct, a stand-alone messaging app for Instagram](https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/)
+- [Voyage Labs raises $12 million for a specialized AI travel assistant](https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/)
+- [Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos](https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
