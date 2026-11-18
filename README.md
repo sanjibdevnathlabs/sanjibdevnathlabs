@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [you need to learn Git RIGHT NOW!!](https://www.youtube.com/watch?v=c5TSRxrDEK8)
+- [Why Framework-Only Developers Get Rejected 🛑](https://www.youtube.com/shorts/dS4AFQkC2I4)
 - [Building Climate and Energy Resilience through Education Live Webcast](https://www.youtube.com/watch?v=uqFwmaLoQcw)
 - [Why Microsoft couldn’t fix its own servers for 36 hours...](https://www.youtube.com/watch?v=ytmawkPTP24)
 - [Optical Illusions!](https://www.youtube.com/shorts/QMt6FEuXz0s)
-- [Lecture 5 on Topic 5: Viscosity of Glass](https://www.youtube.com/watch?v=8hiGWBQ94WU)
-- [Lecture 6 on Topic 6: Glass Shaping](https://www.youtube.com/watch?v=MUn9aT8lOXA)
 <!-- YOUTUBE:END -->
 
 ---
