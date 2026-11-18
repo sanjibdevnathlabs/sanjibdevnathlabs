@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Lego Star Trek bridge diorama set should be your gateway to finally watching the Original Series](https://www.space.com/entertainment/space-toys-lego/the-lego-star-trek-bridge-diorama-set-should-be-your-gateway-to-finally-watching-the-original-series)
-- [India&#39;s SatLeo Labs wants to build a &#39;thermometer for Earth&#39; in space](https://www.space.com/space-exploration/satellites/indias-satleo-labs-wants-to-build-a-thermometer-for-earth-in-space)
-- [1 light-day from Earth! NASA&#39;s Voyager 1 probe hits huge milestone in interstellar space](https://www.space.com/space-exploration/voyager/1-light-day-from-earth-nasas-voyager-1-probe-hits-huge-milestone-in-interstellar-space)
-- [NASA&#39;s Voyager 1 launched second, so how did it beat Voyager 2 to a light-day by nearly a decade?](https://www.space.com/space-exploration/voyager/nasas-voyager-1-launched-second-so-how-did-it-beat-voyager-2-to-a-light-day-by-nearly-a-decade)
-- [Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things up?](https://www.space.com/space-exploration/satellites/space-is-filling-up-with-junk-could-laser-reflecting-mirrors-help-humanity-clean-things-up)
+- [Astronomers witness a star eating its companion in 1st-of-its-kind observation](https://www.space.com/astronomy/stars/astronomers-witness-a-star-eating-its-companion-in-1st-of-its-kind-observation)
+- [On this day in space! Nov. 18, 2013: NASA launches MAVEN spacecraft to Mars to find out how the Red Planet lost its water](https://www.space.com/space-exploration/on-this-day-in-space-november-18-2026)
+- [Earth is missing over a billion years of geological history. Scientists may have discovered why](https://www.space.com/astronomy/earth/earth-is-missing-over-a-billion-years-of-geological-history-scientists-may-have-discovered-why)
+- [ULA traces Vulcan Centaur rocket failure to &#39;inadequate fuel supply&#39; to 1st-stage engines](https://www.space.com/space-exploration/launches-spacecraft/ula-traces-vulcan-centaur-rocket-failure-to-inadequate-fuel-supply-to-1st-stage-engines)
+- [&#39;A shotgun marriage&#39;: Why are NASA&#39;s SkyFall Mars helicopters riding on a nuclear rocket?](https://www.space.com/astronomy/mars/a-shotgun-marriage-why-are-nasas-skyfall-mars-helicopters-riding-on-a-nuclear-rocket)
 <!-- BLOG-POST-LIST:END -->
 
 ---
