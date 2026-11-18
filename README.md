@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Lego Star Trek bridge diorama set should be your gateway to finally watching the Original Series](https://www.space.com/entertainment/space-toys-lego/the-lego-star-trek-bridge-diorama-set-should-be-your-gateway-to-finally-watching-the-original-series)
+- [India&#39;s SatLeo Labs wants to build a &#39;thermometer for Earth&#39; in space](https://www.space.com/space-exploration/satellites/indias-satleo-labs-wants-to-build-a-thermometer-for-earth-in-space)
+- [1 light-day from Earth! NASA&#39;s Voyager 1 probe hits huge milestone in interstellar space](https://www.space.com/space-exploration/voyager/1-light-day-from-earth-nasas-voyager-1-probe-hits-huge-milestone-in-interstellar-space)
 - [NASA&#39;s Voyager 1 launched second, so how did it beat Voyager 2 to a light-day by nearly a decade?](https://www.space.com/space-exploration/voyager/nasas-voyager-1-launched-second-so-how-did-it-beat-voyager-2-to-a-light-day-by-nearly-a-decade)
 - [Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things up?](https://www.space.com/space-exploration/satellites/space-is-filling-up-with-junk-could-laser-reflecting-mirrors-help-humanity-clean-things-up)
-- [&#39;Neuromancer:&#39; Release date, cast &amp; everything we know about Apple TV&#39;s new cyberpunk series](https://www.space.com/entertainment/space-movies-shows/neuromancer-release-date-cast-and-everything-we-know-about-apple-tvs-new-cyberpunk-series)
-- [Astronomers discover rare black holes that formed when stars failed to go supernova](https://www.space.com/astronomy/black-holes/astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supernova)
-- [ULA lost a Vulcan Centaur rocket carrying 40 Amazon satellites 10 minutes after launch — but the failure began just after liftoff](https://www.space.com/space-exploration/launches-spacecraft/ula-lost-a-vulcan-centaur-rocket-carrying-40-amazon-satellites-10-minutes-after-launch-but-the-failure-began-just-after-liftoff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
