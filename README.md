@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s next for NASA interstellar Voyager 1 probe after passing 1 light-day from Earth?](https://www.space.com/space-exploration/voyager/whats-next-for-nasa-interstellar-voyager-1-probe-after-passing-1-light-day-from-earth)
 - [Whether you want Star Trek: Strange New Worlds or the pure nostalgia of The Original Series, this limited-time $2.99 Paramount+ streaming deal gets you both](https://www.space.com/entertainment/space-movies-shows/whether-you-want-star-trek-strange-new-worlds-or-the-pure-nostalgia-of-the-original-series-this-limited-time-usd2-99-paramount-streaming-deal-gets-you-both)
 - [Astronomers witness a star eating its companion in 1st-of-its-kind observation](https://www.space.com/astronomy/stars/astronomers-witness-a-star-eating-its-companion-in-1st-of-its-kind-observation)
 - [On this day in space! Nov. 18, 2013: NASA launches MAVEN spacecraft to Mars to find out how the Red Planet lost its water](https://www.space.com/space-exploration/on-this-day-in-space-november-18-2026)
 - [Earth is missing over a billion years of geological history. Scientists may have discovered why](https://www.space.com/astronomy/earth/earth-is-missing-over-a-billion-years-of-geological-history-scientists-may-have-discovered-why)
-- [ULA traces Vulcan Centaur rocket failure to &#39;inadequate fuel supply&#39; to 1st-stage engines](https://www.space.com/space-exploration/launches-spacecraft/ula-traces-vulcan-centaur-rocket-failure-to-inadequate-fuel-supply-to-1st-stage-engines)
 <!-- BLOG-POST-LIST:END -->
 
 ---
