@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s next for NASA interstellar Voyager 1 probe after passing 1 light-day from Earth?](https://www.space.com/space-exploration/voyager/whats-next-for-nasa-interstellar-voyager-1-probe-after-passing-1-light-day-from-earth)
-- [Whether you want Star Trek: Strange New Worlds or the pure nostalgia of The Original Series, this limited-time $2.99 Paramount+ streaming deal gets you both](https://www.space.com/entertainment/space-movies-shows/whether-you-want-star-trek-strange-new-worlds-or-the-pure-nostalgia-of-the-original-series-this-limited-time-usd2-99-paramount-streaming-deal-gets-you-both)
-- [Astronomers witness a star eating its companion in 1st-of-its-kind observation](https://www.space.com/astronomy/stars/astronomers-witness-a-star-eating-its-companion-in-1st-of-its-kind-observation)
-- [On this day in space! Nov. 18, 2013: NASA launches MAVEN spacecraft to Mars to find out how the Red Planet lost its water](https://www.space.com/space-exploration/on-this-day-in-space-november-18-2026)
-- [Earth is missing over a billion years of geological history. Scientists may have discovered why](https://www.space.com/astronomy/earth/earth-is-missing-over-a-billion-years-of-geological-history-scientists-may-have-discovered-why)
+- [No more asteroid landing: Engine trouble forces Japan&#39;s Hayabusa2 probe to change plans](https://www.space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans)
+- [China rolls out rocket for launch of 1st international astronaut to Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/china-rolls-out-rocket-for-launch-of-1st-international-astronaut-to-tiangong-space-station-video)
+- [Get $400 off the first Vaonis Vespera Pro model ahead of Black Friday — only eight left in stock](https://www.space.com/stargazing/skywatching-kit/get-400-off-the-first-vaonis-vespera-pro-model-ahead-of-black-friday-2026)
+- [Don&#39;t miss Saturn shine close to the moon on Nov. 20](https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20)
+- [Netflix&#39;s &#39;3 Body Problem&#39; season 2 trailer gives us a release date and a chilling warning: &#39;They are coming to exterminate us&#39;](https://www.space.com/entertainment/space-movies-shows/netflixs-3-body-problem-season-2-trailer-gives-us-a-release-date-and-a-chilling-warning-they-are-coming-to-exterminate-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
