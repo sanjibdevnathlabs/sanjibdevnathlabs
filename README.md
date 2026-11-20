@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Voyager 1 team, unbowed by communications glitch, celebrates epic 1-light-day distance milestone](https://www.space.com/space-exploration/voyager/voyager-1-team-unbowed-by-communications-glitch-celebrates-epic-1-light-day-distance-milestone)
+- [On this day in space! Nov. 19, 2005: Japan&#39;s Hayabusa spacecraft makes 1st-ever liftoff from surface of an asteroid](https://www.space.com/space-exploration/on-this-day-in-space-november-19-2005)
+- [The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video](https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video)
 - [No more asteroid landing: Engine trouble forces Japan&#39;s Hayabusa2 probe to change plans](https://www.space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans)
 - [China rolls out rocket for launch of 1st international astronaut to Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/china-rolls-out-rocket-for-launch-of-1st-international-astronaut-to-tiangong-space-station-video)
-- [Get $400 off the first Vaonis Vespera Pro model ahead of Black Friday — only eight left in stock](https://www.space.com/stargazing/skywatching-kit/get-400-off-the-first-vaonis-vespera-pro-model-ahead-of-black-friday-2026)
-- [Don&#39;t miss Saturn shine close to the moon on Nov. 20](https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20)
-- [Netflix&#39;s &#39;3 Body Problem&#39; season 2 trailer gives us a release date and a chilling warning: &#39;They are coming to exterminate us&#39;](https://www.space.com/entertainment/space-movies-shows/netflixs-3-body-problem-season-2-trailer-gives-us-a-release-date-and-a-chilling-warning-they-are-coming-to-exterminate-us)
 <!-- BLOG-POST-LIST:END -->
 
 ---
