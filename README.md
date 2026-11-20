@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Actually Code with AI &lpar;ft. Matt Pocock&rpar;](https://www.youtube.com/watch?v=mU8WKII1gpk)
 - [The only software that didn’t break this week...](https://www.youtube.com/watch?v=Qxor6jpfSiU)
 - [5 reasons you still need to learn Git in 2026](https://www.youtube.com/shorts/gp66d6d46SI)
 - [you need to learn Git RIGHT NOW!!](https://www.youtube.com/watch?v=c5TSRxrDEK8)
 - [Why Framework-Only Developers Get Rejected 🛑](https://www.youtube.com/shorts/dS4AFQkC2I4)
-- [Building Climate and Energy Resilience through Education Live Webcast](https://www.youtube.com/watch?v=uqFwmaLoQcw)
 <!-- YOUTUBE:END -->
 
 ---
