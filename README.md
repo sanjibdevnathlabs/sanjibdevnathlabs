@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Voyager 1 team, unbowed by communications glitch, celebrates epic 1-light-day distance milestone](https://www.space.com/space-exploration/voyager/voyager-1-team-unbowed-by-communications-glitch-celebrates-epic-1-light-day-distance-milestone)
-- [On this day in space! Nov. 19, 2005: Japan&#39;s Hayabusa spacecraft makes 1st-ever liftoff from surface of an asteroid](https://www.space.com/space-exploration/on-this-day-in-space-november-19-2005)
-- [The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video](https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video)
-- [No more asteroid landing: Engine trouble forces Japan&#39;s Hayabusa2 probe to change plans](https://www.space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans)
-- [China rolls out rocket for launch of 1st international astronaut to Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/china-rolls-out-rocket-for-launch-of-1st-international-astronaut-to-tiangong-space-station-video)
+- [Could an ancient solar eclipse rewrite Egyptian history?](https://www.space.com/stargazing/solar-eclipses/could-an-ancient-solar-eclipse-rewrite-egyptian-history)
+- [Russia is developing a nuclear space weapon, US intelligence report finds](https://www.space.com/space-exploration/satellites/russia-is-developing-a-nuclear-space-weapon-us-intelligence-report-finds)
+- [ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20, 2026](https://www.space.com/astronomy/earth/iss-astronauts-look-down-on-the-snow-capped-himalayas-space-photo-of-the-day-for-nov-20-2026)
+- [I got to tour SpaceX&#39;s Starfactory facility in Starbase, Texas, and what I saw blew my mind](https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind)
+- [I handpicked every Star Trek Blu-ray discounted on Amazon for Black Friday 2026 that I think is worth buying right now](https://www.space.com/entertainment/space-movies-shows/i-handpicked-every-star-trek-blu-ray-discounted-on-amazon-for-black-friday-2026-that-i-think-is-worth-buying-right-now)
 <!-- BLOG-POST-LIST:END -->
 
 ---
