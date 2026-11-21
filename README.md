@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX launches classified mission for US Space Force from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317)
-- [On this day in space! Nov. 20, 1998:  Russia launches 1st module of International Space Station as construction begins on the largest human-built structure in orbit](https://www.space.com/space-exploration/on-this-day-in-space-november-20-2026)
-- [Don&#39;t turn the moon into the Wild West, scientists warn](https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn)
-- [GTA hasn&#39;t gone to space &lpar;yet&rpar;, but these sci-fi games can offer you a life of crime among the stars](https://www.space.com/entertainment/space-games/gta-hasnt-gone-to-space-yet-but-these-sci-fi-games-can-offer-you-a-life-of-crime-among-the-stars)
-- [Trouble at Mars: NASA&#39;s Perseverance rover, Odyssey orbiter halt science work due to glitches](https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches)
+- [This Week In Space podcast: Episode 237 — A Fond Farewell](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-237-a-fond-farewell)
+- [&#39;Star Trek: First Contact&#39; at 30: Resistance is futile when it comes to the &#39;Next Generation&#39; crew&#39;s greatest big-screen adventure](https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-resistance-is-futile-when-it-comes-to-the-next-generation-crews-greatest-big-screen-adventure)
+- [SpaceX will retire 1st Starship upper stage ever caught by &#39;chopsticks,&#39; Elon Musk says](https://www.space.com/space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-upper-stage-ever-caught-by-chopsticks-elon-musk-says)
+- [European-Japanese BepiColombo probe arrives in orbit around Mercury today](https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival)
+- [SpaceX launches classified mission for US Space Force from California &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317)
 <!-- BLOG-POST-LIST:END -->
 
 ---
