@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Could an ancient solar eclipse rewrite Egyptian history?](https://www.space.com/stargazing/solar-eclipses/could-an-ancient-solar-eclipse-rewrite-egyptian-history)
-- [Russia is developing a nuclear space weapon, US intelligence report finds](https://www.space.com/space-exploration/satellites/russia-is-developing-a-nuclear-space-weapon-us-intelligence-report-finds)
-- [ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20, 2026](https://www.space.com/astronomy/earth/iss-astronauts-look-down-on-the-snow-capped-himalayas-space-photo-of-the-day-for-nov-20-2026)
-- [I got to tour SpaceX&#39;s Starfactory facility in Starbase, Texas, and what I saw blew my mind](https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind)
-- [I handpicked every Star Trek Blu-ray discounted on Amazon for Black Friday 2026 that I think is worth buying right now](https://www.space.com/entertainment/space-movies-shows/i-handpicked-every-star-trek-blu-ray-discounted-on-amazon-for-black-friday-2026-that-i-think-is-worth-buying-right-now)
+- [On this day in space! Nov. 20, 1998:  Russia launches 1st module of International Space Station as construction begins on the largest human-built structure in orbit](https://www.space.com/space-exploration/on-this-day-in-space-november-20-2026)
+- [Don&#39;t turn the moon into the Wild West, scientists warn](https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn)
+- [GTA hasn&#39;t gone to space &lpar;yet&rpar;, but these sci-fi games can offer you a life of crime among the stars](https://www.space.com/entertainment/space-games/gta-hasnt-gone-to-space-yet-but-these-sci-fi-games-can-offer-you-a-life-of-crime-among-the-stars)
+- [Trouble at Mars: NASA&#39;s Perseverance rover, Odyssey orbiter halt science work due to glitches](https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches)
+- [There&#39;s an impostor hiding in the Hyades star cluster. Can you spot it?](https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
