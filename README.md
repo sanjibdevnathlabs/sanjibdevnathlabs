@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I Built a Streaming Service Inside the Terminal](https://www.youtube.com/shorts/oHLQj750M9U)
 - [If you’ve deployed anything since 2015, I have bad news...](https://www.youtube.com/watch?v=rMaMe32qQkA)
 - [How to Actually Code with AI &lpar;ft. Matt Pocock&rpar;](https://www.youtube.com/watch?v=mU8WKII1gpk)
 - [The only software that didn’t break this week...](https://www.youtube.com/watch?v=Qxor6jpfSiU)
 - [5 reasons you still need to learn Git in 2026](https://www.youtube.com/shorts/gp66d6d46SI)
-- [you need to learn Git RIGHT NOW!!](https://www.youtube.com/watch?v=c5TSRxrDEK8)
 <!-- YOUTUBE:END -->
 
 ---
