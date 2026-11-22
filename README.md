@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter&#39;s moon Io](https://www.space.com/space-exploration/on-this-day-in-space-november-21-2026)
-- [This Week In Space podcast: Episode 237 — A Fond Farewell](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-237-a-fond-farewell)
-- [&#39;Star Trek: First Contact&#39; at 30: Resistance is futile when it comes to the &#39;Next Generation&#39; crew&#39;s greatest big-screen adventure](https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-resistance-is-futile-when-it-comes-to-the-next-generation-crews-greatest-big-screen-adventure)
-- [SpaceX will retire 1st Starship upper stage ever caught by &#39;chopsticks,&#39; Elon Musk says](https://www.space.com/space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-upper-stage-ever-caught-by-chopsticks-elon-musk-says)
-- [European-Japanese BepiColombo probe arrives in orbit around Mercury today](https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival)
+- [SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture)
+- [This viral star projector has been hyped to Mars and back, but we hunted down the best version you can buy](https://www.space.com/stargazing/skywatching-kit/this-viral-star-projector-has-been-hyped-to-mars-and-back-but-we-hunted-down-the-best-version-you-can-buy)
+- [As &#39;Star Trek: First Contact&#39; turns 30, Director Jonathan Frakes reflects on his triumphant time-travel blockbuster &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-director-jonathan-frakes-reflects-on-his-triumphant-time-travel-blockbuster-interview)
+- [On this day in space! Nov.22, 1989: NASA launches space shuttle Discovery on classified STS-33 mission for the US military](https://www.space.com/on-this-day-in-space-november-22-2026)
+- [10 things that worry me about chasing the 2027 total solar eclipse in Egypt](https://www.space.com/stargazing/solar-eclipses/10-things-that-worry-me-about-chasing-the-2027-total-solar-eclipse-in-egypt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
