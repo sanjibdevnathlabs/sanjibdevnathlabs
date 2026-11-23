@@ -146,8 +146,8 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure](https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch)
-- [SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture)
+- [Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure](https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch)
+- [SpaceX launches 2 rockets from same pad 32 hours apart, smashing turnaround record &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture)
 - [This viral star projector has been hyped to Mars and back, but we hunted down the best version you can buy](https://www.space.com/stargazing/skywatching-kit/this-viral-star-projector-has-been-hyped-to-mars-and-back-but-we-hunted-down-the-best-version-you-can-buy)
 - [As &#39;Star Trek: First Contact&#39; turns 30, Director Jonathan Frakes reflects on his triumphant time-travel blockbuster &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-director-jonathan-frakes-reflects-on-his-triumphant-time-travel-blockbuster-interview)
 - [On this day in space! Nov.22, 1989: NASA launches space shuttle Discovery on classified STS-33 mission for the US military](https://www.space.com/on-this-day-in-space-november-22-2026)
