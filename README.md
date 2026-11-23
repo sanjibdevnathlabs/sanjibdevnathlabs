@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure](https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch)
-- [SpaceX launches 2 rockets from same pad 32 hours apart, smashing turnaround record &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture)
-- [This viral star projector has been hyped to Mars and back, but we hunted down the best version you can buy](https://www.space.com/stargazing/skywatching-kit/this-viral-star-projector-has-been-hyped-to-mars-and-back-but-we-hunted-down-the-best-version-you-can-buy)
-- [As &#39;Star Trek: First Contact&#39; turns 30, Director Jonathan Frakes reflects on his triumphant time-travel blockbuster &lpar;interview&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-director-jonathan-frakes-reflects-on-his-triumphant-time-travel-blockbuster-interview)
-- [On this day in space! Nov.22, 1989: NASA launches space shuttle Discovery on classified STS-33 mission for the US military](https://www.space.com/on-this-day-in-space-november-22-2026)
+- [&#39;Avengers: Doomsday&#39; gets final trailer, explaining why Steve Rogers is back and showing an epic battle with the X-Men](https://www.space.com/entertainment/space-movies-shows/avengers-doomsday-gets-final-trailer-explaining-why-steve-rogers-is-back-and-showing-an-epic-battle-with-the-x-men)
+- [The remains of a long-dead volcano on Mars | Space photo of the day for Nov. 23, 2026](https://www.space.com/astronomy/mars/the-remains-of-a-long-dead-volcano-on-mars-space-photo-of-the-day-for-nov-23-2026)
+- [I’m planning my first dark sky trip, and all because this educational star projector showed me what I’m missing](https://www.space.com/stargazing/skywatching-kit/im-planning-my-first-dark-sky-trip-and-all-because-this-educational-star-projector-showed-me-what-i-am-missing)
+- [What did the Soviet Union&#39;s final deep space probe actually see on Mars?](https://www.space.com/astronomy/mars/what-did-the-soviet-unions-final-deep-space-probe-actually-see-on-mars)
+- [Astronomers just discovered a rare triple star system 28 light-years away, and they have ‘no clean explanation for how it got here’](https://www.space.com/astronomy/stars/astronomers-discover-rare-triple-star-system-just-28-light-years-from-earth-and-they-have-no-idea-how-it-has-survived)
 <!-- BLOG-POST-LIST:END -->
 
 ---
