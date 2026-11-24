@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Will astronauts farm on the moon? Scientists successfully grow potatoes in simulated lunar dust](https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust)
-- [Join our free Space.com membership giveaway for a chance to win this Dwarflab mini smart telescope worth $419!](https://www.space.com/stargazing/skywatching-kit/join-our-free-space-com-membership-giveaway-for-a-chance-to-win-this-dwarflab-mini-smart-telescope-worth-usd419)
-- [How sci‑fi imagines sports in microgravity, and how zero‑g sports might actually work](https://www.space.com/entertainment/how-sci-fi-imagines-sports-in-microgravity-and-how-zero-g-sports-might-actually-work)
-- [On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space with its suborbital New Shepard rocket](https://www.space.com/space-exploration/on-this-day-in-space-november-23-2026)
-- [Weird &#39;potato chips&#39; and &#39;ghostly rocks&#39; on Mars spotted by NASA rovers Curiosity and Perseverance](https://www.space.com/astronomy/mars/weird-potato-chips-and-ghostly-rocks-on-mars-spotted-by-nasa-rovers-curiosity-and-perseverance)
+- [China launching 1st international astronaut to Tiangong space station today: Watch it live](https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-24-first-international-astronaut-launch-tiangong-space-station)
+- [Russia launches Progress cargo ship to the International Space Station](https://www.space.com/space-exploration/international-space-station/russia-progress-97-cargo-launch-international-space-station)
+- [Watch November&#39;s full Beaver Moon live online today with supermoon livestream](https://www.space.com/stargazing/watch-novembers-full-beaver-moon-live-online-with-supermoon-livestream-nov-24-2026)
+- [November&#39;s full moon rises tonight! Here&#39;s how to see the Beaver Moon supermoon](https://www.space.com/stargazing/novembers-full-moon-rises-tonight-heres-how-to-see-the-beaver-moon-supermoon-nov-24-2026)
+- [The ten best time travel movies to buy and own on Blu-ray and 4K UHD Blu-ray this Black Friday](https://www.space.com/entertainment/space-movies-shows/the-ten-best-time-travel-movies-to-buy-and-own-on-blu-ray-and-4k-uhd-blu-ray-this-black-friday)
 <!-- BLOG-POST-LIST:END -->
 
 ---
