@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [From Oil and Gas to DevOps: Chioma&#39;s Rapid Rise in Tech](https://www.youtube.com/watch?v=LSgHpOc_Yao)
 - [Opus just lost to the last company you&#39;d expect...](https://www.youtube.com/watch?v=jP9yjEDlc4k)
 - [I Built a Streaming Service Inside the Terminal](https://www.youtube.com/shorts/oHLQj750M9U)
 - [If you’ve deployed anything since 2015, I have bad news...](https://www.youtube.com/watch?v=rMaMe32qQkA)
 - [How to Actually Code with AI &lpar;ft. Matt Pocock&rpar;](https://www.youtube.com/watch?v=mU8WKII1gpk)
-- [The only software that didn’t break this week...](https://www.youtube.com/watch?v=Qxor6jpfSiU)
 <!-- YOUTUBE:END -->
 
 ---
