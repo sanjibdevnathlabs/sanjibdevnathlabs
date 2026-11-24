@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Avengers: Doomsday&#39; gets final trailer, explaining why Steve Rogers is back and showing an epic battle with the X-Men](https://www.space.com/entertainment/space-movies-shows/avengers-doomsday-gets-final-trailer-explaining-why-steve-rogers-is-back-and-showing-an-epic-battle-with-the-x-men)
-- [The remains of a long-dead volcano on Mars | Space photo of the day for Nov. 23, 2026](https://www.space.com/astronomy/mars/the-remains-of-a-long-dead-volcano-on-mars-space-photo-of-the-day-for-nov-23-2026)
-- [I’m planning my first dark sky trip, and all because this educational star projector showed me what I’m missing](https://www.space.com/stargazing/skywatching-kit/im-planning-my-first-dark-sky-trip-and-all-because-this-educational-star-projector-showed-me-what-i-am-missing)
-- [What did the Soviet Union&#39;s final deep space probe actually see on Mars?](https://www.space.com/astronomy/mars/what-did-the-soviet-unions-final-deep-space-probe-actually-see-on-mars)
-- [Astronomers just discovered a rare triple star system 28 light-years away, and they have ‘no clean explanation for how it got here’](https://www.space.com/astronomy/stars/astronomers-discover-rare-triple-star-system-just-28-light-years-from-earth-and-they-have-no-idea-how-it-has-survived)
+- [Will astronauts farm on the moon? Scientists successfully grow potatoes in simulated lunar dust](https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust)
+- [Join our free Space.com membership giveaway for a chance to win this Dwarflab mini smart telescope worth $419!](https://www.space.com/stargazing/skywatching-kit/join-our-free-space-com-membership-giveaway-for-a-chance-to-win-this-dwarflab-mini-smart-telescope-worth-usd419)
+- [How sci‑fi imagines sports in microgravity, and how zero‑g sports might actually work](https://www.space.com/entertainment/how-sci-fi-imagines-sports-in-microgravity-and-how-zero-g-sports-might-actually-work)
+- [On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space with its suborbital New Shepard rocket](https://www.space.com/space-exploration/on-this-day-in-space-november-23-2026)
+- [Weird &#39;potato chips&#39; and &#39;ghostly rocks&#39; on Mars spotted by NASA rovers Curiosity and Perseverance](https://www.space.com/astronomy/mars/weird-potato-chips-and-ghostly-rocks-on-mars-spotted-by-nasa-rovers-curiosity-and-perseverance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
