@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to watch &#39;Blade Runner 2099&#39; online — stream the sci-fi sequel series from anywhere](https://www.space.com/entertainment/space-movies-shows/how-to-watch-blade-runner-2099-online-stream-the-sci-fi-sequel-series-from-anywhere)
 - [SpaceX launches secretive spy satellites from California for US Space Force &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video)
 - [On this day in space! Nov. 24, 1947: The US Navy launches the 1st Aerobee sounding rocket, but it didn&#39;t reach space](https://www.space.com/space-exploration/on-this-day-in-space-november-24-2026)
 - [&#39;Blade Runner 2099&#39; executive producers talk architectural easter eggs and franchise continuity for Prime Video&#39;s new sci-fi series &lpar;interview&rpar;](https://www.space.com/entertainment/blade-runner-2099-executive-producers-talk-architectural-easter-eggs-and-franchise-continuity-for-prime-videos-new-sci-fi-series-interview)
 - [1st-ever detection of a dying star&#39;s &#39;final nuclear heartbeat&#39; challenges what we know about our sun&#39;s eventual death](https://www.space.com/astronomy/stars/1st-ever-detection-of-a-dying-stars-final-nuclear-heartbeat-challenges-what-we-know-about-our-suns-eventual-death)
-- [YunLone Galaxy star projector review — a sub-$30 customizable night light](https://www.space.com/technology/yunlone-galaxy-star-projector-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
