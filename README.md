@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to watch &#39;Blade Runner 2099&#39; online — stream the sci-fi sequel series from anywhere](https://www.space.com/entertainment/space-movies-shows/how-to-watch-blade-runner-2099-online-stream-the-sci-fi-sequel-series-from-anywhere)
-- [SpaceX launches secretive spy satellites from California for US Space Force &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video)
-- [On this day in space! Nov. 24, 1947: The US Navy launches the 1st Aerobee sounding rocket, but it didn&#39;t reach space](https://www.space.com/space-exploration/on-this-day-in-space-november-24-2026)
-- [&#39;Blade Runner 2099&#39; executive producers talk architectural easter eggs and franchise continuity for Prime Video&#39;s new sci-fi series &lpar;interview&rpar;](https://www.space.com/entertainment/blade-runner-2099-executive-producers-talk-architectural-easter-eggs-and-franchise-continuity-for-prime-videos-new-sci-fi-series-interview)
-- [1st-ever detection of a dying star&#39;s &#39;final nuclear heartbeat&#39; challenges what we know about our sun&#39;s eventual death](https://www.space.com/astronomy/stars/1st-ever-detection-of-a-dying-stars-final-nuclear-heartbeat-challenges-what-we-know-about-our-suns-eventual-death)
+- [Hera spacecraft gets 1st up-close look at stadium-sized hole punched in asteroid by NASA DART mission](https://www.space.com/astronomy/asteroids/hera-spacecraft-gets-1st-up-close-look-at-stadium-sized-hole-punched-in-asteroid-by-nasa-dart-mission)
+- [NASA sends planes to monitor US Army&#39;s lead detonation. &#39;Irresponsible&#39; to compare it to Chernobyl, agency chief says](https://www.space.com/technology/aerospace/nasa-sends-planes-to-monitor-us-armys-lead-detonation-irresponsible-to-compare-it-to-chernobyl-agency-chief-says)
+- [Satellites watch volcanic eruptions add new beaches on Iwo Jima | Space photo of the day for Nov. 25, 2026](https://www.space.com/astronomy/earth/satellites-watch-volcanic-eruptions-add-new-beaches-on-iwo-jima-space-photo-of-the-day-for-nov-25-2026)
+- [Watch live: Europe unveils 1st close-up views of asteroid Dimorphos after NASA&#39;s DART impact](https://www.space.com/space-exploration/asteroid-comet-missions/watch-live-europe-unveils-1st-close-up-views-of-asteroid-dimorphos-after-nasas-dart-impact)
+- [Astronomers discover the most distant and ancient supermassive black hole-powered quasar in the universe](https://www.space.com/astronomy/black-holes/dark-universe-detective-telescope-discovers-most-distant-and-ancient-supermassive-black-hole-powered-quasar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
