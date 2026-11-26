@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [No Routers. No Cables. Still Networking.](https://www.youtube.com/shorts/E4787_kbfZw)
 - [17 million lines of AI slop just cracked a 167-year-old math problem...](https://www.youtube.com/watch?v=Jatwf_XOncE)
 - [you need to self-host Google Photos RIGHT NOW!!](https://www.youtube.com/watch?v=Z9q4S0Phq_Q)
 - [Java4Shell Exploit - Computerphile](https://www.youtube.com/watch?v=4nFA4zntF7I)
 - [From Oil and Gas to DevOps: Chioma&#39;s Rapid Rise in Tech](https://www.youtube.com/watch?v=LSgHpOc_Yao)
-- [Opus just lost to the last company you&#39;d expect...](https://www.youtube.com/watch?v=jP9yjEDlc4k)
 <!-- YOUTUBE:END -->
 
 ---
