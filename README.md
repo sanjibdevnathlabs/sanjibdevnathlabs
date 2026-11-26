@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hera spacecraft gets 1st up-close look at stadium-sized hole punched in asteroid by NASA DART mission](https://www.space.com/astronomy/asteroids/hera-spacecraft-gets-1st-up-close-look-at-stadium-sized-hole-punched-in-asteroid-by-nasa-dart-mission)
-- [NASA sends planes to monitor US Army&#39;s lead detonation. &#39;Irresponsible&#39; to compare it to Chernobyl, agency chief says](https://www.space.com/technology/aerospace/nasa-sends-planes-to-monitor-us-armys-lead-detonation-irresponsible-to-compare-it-to-chernobyl-agency-chief-says)
-- [Satellites watch volcanic eruptions add new beaches on Iwo Jima | Space photo of the day for Nov. 25, 2026](https://www.space.com/astronomy/earth/satellites-watch-volcanic-eruptions-add-new-beaches-on-iwo-jima-space-photo-of-the-day-for-nov-25-2026)
-- [Watch live: Europe unveils 1st close-up views of asteroid Dimorphos after NASA&#39;s DART impact](https://www.space.com/space-exploration/asteroid-comet-missions/watch-live-europe-unveils-1st-close-up-views-of-asteroid-dimorphos-after-nasas-dart-impact)
-- [Astronomers discover the most distant and ancient supermassive black hole-powered quasar in the universe](https://www.space.com/astronomy/black-holes/dark-universe-detective-telescope-discovers-most-distant-and-ancient-supermassive-black-hole-powered-quasar)
+- [December full moon 2026: When, where and how to see the Cold Moon](https://www.space.com/stargazing/december-full-moon-2026-when-where-and-how-to-see-the-cold-moon)
+- [On this day in space! Nov. 25, 1970: NASA&#39;s &#39;wingless&#39; M2-F3 &#39;lifting body&#39; aircraft makes its 1st powered flight ahead of supersonic tests](https://www.space.com/space-exploration/on-this-day-in-space-november-25-2026)
+- [SpaceX Starship debris becomes art in Ashley Zelinskie&#39;s &#39;The Weight of Space&#39; &lpar;video, photos&rpar;](https://www.space.com/entertainment/spacex-starship-debris-becomes-art-in-ashley-zelinskies-the-weight-of-space-video-photos)
+- [Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites](https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites)
+- [I think this might be the best smart telescope for nebula photography — I&#39;m amazed it&#39;s $500 off](https://www.space.com/stargazing/skywatching-kit/best-smart-telescope-for-nebula-photography-now-500-off)
 <!-- BLOG-POST-LIST:END -->
 
 ---
