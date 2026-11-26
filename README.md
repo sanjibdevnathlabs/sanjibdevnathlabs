@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Catch up on 60 years of Star Trek this Thanksgiving weekend on Paramount+ — plans now 79% off](https://www.space.com/entertainment/space-movies-shows/catch-up-on-60-years-of-star-trek-this-thanksgiving-weekend-on-paramount-plans-now-79-percent-off)
 - [December full moon 2026: When, where and how to see the Cold Moon](https://www.space.com/stargazing/december-full-moon-2026-when-where-and-how-to-see-the-cold-moon)
 - [On this day in space! Nov. 25, 1970: NASA&#39;s &#39;wingless&#39; M2-F3 &#39;lifting body&#39; aircraft makes its 1st powered flight ahead of supersonic tests](https://www.space.com/space-exploration/on-this-day-in-space-november-25-2026)
 - [SpaceX Starship debris becomes art in Ashley Zelinskie&#39;s &#39;The Weight of Space&#39; &lpar;video, photos&rpar;](https://www.space.com/entertainment/spacex-starship-debris-becomes-art-in-ashley-zelinskies-the-weight-of-space-video-photos)
 - [Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites](https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites)
-- [I think this might be the best smart telescope for nebula photography — I&#39;m amazed it&#39;s $500 off](https://www.space.com/stargazing/skywatching-kit/best-smart-telescope-for-nebula-photography-now-500-off)
 <!-- BLOG-POST-LIST:END -->
 
 ---
