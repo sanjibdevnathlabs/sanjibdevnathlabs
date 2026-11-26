@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Catch up on 60 years of Star Trek this Thanksgiving weekend on Paramount+ — plans now 79% off](https://www.space.com/entertainment/space-movies-shows/catch-up-on-60-years-of-star-trek-this-thanksgiving-weekend-on-paramount-plans-now-79-percent-off)
-- [December full moon 2026: When, where and how to see the Cold Moon](https://www.space.com/stargazing/december-full-moon-2026-when-where-and-how-to-see-the-cold-moon)
-- [On this day in space! Nov. 25, 1970: NASA&#39;s &#39;wingless&#39; M2-F3 &#39;lifting body&#39; aircraft makes its 1st powered flight ahead of supersonic tests](https://www.space.com/space-exploration/on-this-day-in-space-november-25-2026)
-- [SpaceX Starship debris becomes art in Ashley Zelinskie&#39;s &#39;The Weight of Space&#39; &lpar;video, photos&rpar;](https://www.space.com/entertainment/spacex-starship-debris-becomes-art-in-ashley-zelinskies-the-weight-of-space-video-photos)
-- [Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites](https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites)
+- [This pocket-sized smart telescope is small enough to take anywhere, now 19% cheaper for Black Friday — plus a chance to win one for free!](https://www.space.com/stargazing/skywatching-kit/dwarflab-dwarf-mini-smart-telescope-80-dollars-off-black-friday-deal-2026)
+- [&#39;Star Trek IV: The Voyage Home&#39; at 40: &#39;Trek&#39; has never been as joyous or fun as in &#39;the one with the whales&#39;](https://www.space.com/entertainment/space-movies-shows/star-trek-iv-the-voyage-home-at-40-trek-has-never-been-as-joyous-or-fun-as-in-the-one-with-the-whales)
+- [Can&#39;t wait for Dune: Part 3? Catch up on the sandy sci-fi saga with this half-price HBO Max Black Friday deal](https://www.space.com/entertainment/space-movies-shows/cant-wait-for-dune-part-3-catch-up-on-the-sandy-sci-fi-saga-with-this-half-price-hbo-max-black-friday-deal)
+- [Venus shines at its brightest in the predawn sky this week. Here&#39;s where to look](https://www.space.com/stargazing/venus-shines-at-its-brightest-in-the-predawn-sky-this-week-heres-where-to-look-nov-27-2026)
+- [On this day in space! Nov. 26, 2011: NASA&#39;s 2-ton nuclear-powered Curiosity rover launches to Mars](https://www.space.com/space-exploration/on-this-day-in-space-november-26-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
