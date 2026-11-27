@@ -134,11 +134,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [you need to self-host Github RIGHT NOW!!](https://www.youtube.com/watch?v=jHnQycWHW-s)
 - [No Routers. No Cables. Still Networking.](https://www.youtube.com/shorts/E4787_kbfZw)
 - [17 million lines of AI slop just cracked a 167-year-old math problem...](https://www.youtube.com/watch?v=Jatwf_XOncE)
 - [you need to self-host Google Photos RIGHT NOW!!](https://www.youtube.com/watch?v=Z9q4S0Phq_Q)
 - [Java4Shell Exploit - Computerphile](https://www.youtube.com/watch?v=4nFA4zntF7I)
-- [She got promoted 3 times in 2.5 years. I asked her what made the difference](https://www.youtube.com/watch?v=LSgHpOc_Yao)
 <!-- YOUTUBE:END -->
 
 ---
