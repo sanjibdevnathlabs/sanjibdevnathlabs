@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronomers watch a red giant star greedily devour a stellar &#39;Bao bun&#39; before erupting: &#39;We couldn&#39;t quite believe our luck&#39;](https://www.space.com/astronomy/stars/astronomers-watch-a-red-giant-star-greedily-devour-a-stellar-bao-bun-before-erupting-we-couldnt-quite-believe-our-luck)
-- [Every smart telescope we&#39;ve reviewed and highly rate that is cheaper for Black Friday — full list](https://www.space.com/stargazing/skywatching-kit/every-smart-telescope-weve-reviewed-and-highly-rate-that-is-cheaper-for-black-friday-full-list)
-- [This pocket-sized smart telescope is small enough to take anywhere, now 19% cheaper for Black Friday — plus a chance to win one for free!](https://www.space.com/stargazing/skywatching-kit/dwarflab-dwarf-mini-smart-telescope-80-dollars-off-black-friday-deal-2026)
-- [&#39;Star Trek IV: The Voyage Home&#39; at 40: &#39;Trek&#39; has never been as joyous or fun as in &#39;the one with the whales&#39;](https://www.space.com/entertainment/space-movies-shows/star-trek-iv-the-voyage-home-at-40-trek-has-never-been-as-joyous-or-fun-as-in-the-one-with-the-whales)
-- [Can&#39;t wait for Dune: Part 3? Catch up on the sandy sci-fi saga with this half-price HBO Max Black Friday deal](https://www.space.com/entertainment/space-movies-shows/cant-wait-for-dune-part-3-catch-up-on-the-sandy-sci-fi-saga-with-this-half-price-hbo-max-black-friday-deal)
+- [The lowest price ever on the Canon EOS R6 II tops some of the best Black Friday camera deals we&#39;ve seen today](https://www.space.com/stargazing/astrophotography/the-lowest-price-ever-on-the-canon-eos-r6-ii-tops-some-of-the-best-black-friday-camera-deals-weve-seen-today)
+- [Dropping missiles from orbit? 2 European companies sign agreement to study the idea](https://www.space.com/technology/dropping-missiles-from-orbit-2-european-companies-sign-agreement-to-study-the-idea)
+- [I captured images of my first-ever solar eclipse with the Unistellar Equinox 2 — now 20% off for Black Friday](https://www.space.com/stargazing/skywatching-kit/i-captured-images-of-my-first-ever-solar-eclipse-with-the-unistellar-equinox-2-now-20-percent-off-for-black-friday)
+- [Foundation is a must-watch and this Black Friday, you can stream it and other Apple TV sci-fi shows for half-price](https://www.space.com/entertainment/space-movies-shows/foundation-is-a-must-watch-and-this-black-friday-you-can-stream-it-and-other-apple-tv-sci-fi-shows-for-half-price)
+- [Who turned the W upside down? Why Cassiopeia won&#39;t sit still](https://www.space.com/stargazing/who-turned-the-w-upside-down-why-cassiopeia-wont-sit-still)
 <!-- BLOG-POST-LIST:END -->
 
 ---
