@@ -146,11 +146,11 @@ I'm a software developer passionate about designing and building applications wi
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your last chance ever to buy one of the best DSLRs? The Nikon D850 is $600 off this Black Friday](https://www.space.com/stargazing/skywatching-kit/your-last-chance-ever-to-buy-one-of-the-best-dslrs-the-nikon-d850-is-600-dollars-off-this-black-friday)
+- [12 grains of dust found high in Earth&#39;s atmosphere reveal secrets of water at the edge of the solar system](https://www.space.com/astronomy/solar-system/12-grains-of-dust-found-high-in-earths-atmosphere-reveal-secrets-of-water-at-the-edge-of-the-solar-system)
 - [Love Star Wars, Andy Weir or Ryan Gosling? These Lego Star Wars and Project Hail Mary sets are my favorites](https://www.space.com/entertainment/space-toys-lego/love-star-wars-andy-weir-or-ryan-gosling-these-lego-star-wars-and-project-hail-mary-sets-are-my-favorites)
 - [The lowest price ever on the Canon EOS R6 II tops some of the best Black Friday camera deals we&#39;ve seen today](https://www.space.com/stargazing/astrophotography/the-lowest-price-ever-on-the-canon-eos-r6-ii-tops-some-of-the-best-black-friday-camera-deals-weve-seen-today)
 - [Dropping missiles from orbit? 2 European companies sign agreement to study the idea](https://www.space.com/technology/dropping-missiles-from-orbit-2-european-companies-sign-agreement-to-study-the-idea)
-- [I captured images of my first-ever solar eclipse with the Unistellar Equinox 2 — now 20% off for Black Friday](https://www.space.com/stargazing/skywatching-kit/i-captured-images-of-my-first-ever-solar-eclipse-with-the-unistellar-equinox-2-now-20-percent-off-for-black-friday)
-- [Foundation is a must-watch and this Black Friday, you can stream it and other Apple TV sci-fi shows for half-price](https://www.space.com/entertainment/space-movies-shows/foundation-is-a-must-watch-and-this-black-friday-you-can-stream-it-and-other-apple-tv-sci-fi-shows-for-half-price)
 <!-- BLOG-POST-LIST:END -->
 
 ---
